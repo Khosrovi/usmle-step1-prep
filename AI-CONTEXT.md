@@ -107,14 +107,19 @@ Reference the source PDF
 ✅ Exam mode with timer
 ✅ GitHub repository set up and synced
 ✅ Biochemistry question bank: 481 questions, all 99 subtopics covered (matches topic_coverage plan)
+✅ Immunology question bank: 324 questions, all 96 subtopics covered (matches topic_coverage plan)
 ✅ Source of truth in questions-bank/ + scripts to validate and sync to Supabase
-✅ Light/dark theme: toggle in every page header, saved in localStorage, follows OS preference, no flash on load
+✅ scripts/ingest-generated.mjs — schema + plan gate for AI-authored batches
+✅ Subject cards on the dashboard enable themselves from the live question count
+✅ Stats page: subject selector + "practice your weakest topics" drill
+✅ Exam mode works end to end (exam id, Finish Exam, /exam-results review, retake)
 🚧 What Needs to Be Done Next
-Other subjects: Immunology, Microbiology, Pathology, Pharmacology
- (Pharmacology batch 1 with 20 questions is already staged in questions-bank/pharmacology/)
-Enable the remaining subject cards on the dashboard once their banks are filled
+Other subjects: Microbiology, Pathology (Pharmacology has 20 questions staged)
+Apply supabase/migrations/0001_anonymous_progress_policies.sql in the Supabase
+ SQL editor — without it the anon key cannot INSERT into user_progress, so
+ progress, statistics and exam review are empty for real users (the quiz now
+ shows a banner instead of failing silently)
 Filtering: add difficulty filter on top of topic/subtopic selection
-Analytics: weak-area breakdown exists in /stats; add a "practice my weakest topics" mode
 Mobile responsiveness: verify layouts on phones/tablets
 🤖 Instructions for AI Agents
 When working on this project, follow these rules:
@@ -140,6 +145,17 @@ SUPABASE_SERVICE_ROLE_KEY=<service role key> npm run import:questions -- --subje
 The anon key used by the app is read-only on the questions table (row level security),
 so questions are synced with scripts/import-questions.mjs using the service role key.
 Question bank scripts: npm run validate:questions, npm run import:questions, npm run export:seed-sql.
+
+Adding a new subject (the pattern used for Immunology):
+  1. Check the plan: topic_coverage rows for the subject are the authority for
+     (major_topic, subtopic) pairs and how many questions each needs.
+  2. Generate JSON batches into a scratch dir (one file per major topic, each a
+     JSON array), using the exact sibling/schema fields seen in
+     questions-bank/biochemistry/.
+  3. node scripts/ingest-generated.mjs --dir=<scratch> --subject=<Subject> --dry-run
+     then drop --dry-run. It refuses to write anything if a question is off-plan
+     or off-schema, and it dedupes, so a bad batch can never corrupt the bank.
+  4. npm run validate:questions, then sync with the service role key.
 📊 Success Metrics
 100+ questions across all 5 topics
 User can complete a 20-question quiz in < 10 minutes
