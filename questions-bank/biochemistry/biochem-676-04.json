@@ -1,0 +1,41 @@
+{
+  "id": "biochem-676-04",
+  "subject": "Biochemistry",
+  "major_topic": "Vitamins and Minerals",
+  "subtopic": "Vitamin B12 (Cobalamin)",
+  "difficulty": "medium",
+  "vignette": "A 27-year-old woman who has followed a strict vegan diet for 4 years presents with fatigue, tingling of the fingers and toes, and difficulty with balance. She has normal gastrointestinal anatomy, no history of surgery, and her serum intrinsic factor and parietal cell antibodies are negative. Hemoglobin is 9.4 g/dL, MCV is 109 fL, and serum vitamin B12 is low despite a high-fiber diet that includes fermented foods.",
+  "question": "Which of the following best explains why this patient cannot rely on her intestinal microbiota as a source of vitamin B12?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Intestinal bacteria do not synthesize vitamin B12 in humans"
+    },
+    {
+      "id": "B",
+      "text": "Vitamin B12 produced by colonic bacteria is destroyed by gastric acid before it can act"
+    },
+    {
+      "id": "C",
+      "text": "Bacterial vitamin B12 is synthesized in the colon, distal to the terminal ileum where absorption occurs"
+    },
+    {
+      "id": "D",
+      "text": "Vegan diets contain substances that block the intrinsic factor receptor in the ileum"
+    },
+    {
+      "id": "E",
+      "text": "Vitamin B12 can only be produced by animal cells and never by bacteria"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Vitamin B12 is synthesized by intestinal microbiota, but this synthesis occurs in the colon, which is distal to the terminal ileum where the intrinsic factor-B12 complex is absorbed. Therefore humans must obtain preformed vitamin B12 from animal products, and strict vegans are at risk of deficiency unless they take supplements. Deficiency produces macrocytic megaloblastic anemia and subacute combined degeneration of the spinal cord.",
+  "explanation_incorrect": {
+    "A": "Intestinal bacteria do synthesize vitamin B12; the problem is the location of that synthesis relative to the absorptive site.",
+    "B": "The issue is not destruction by gastric acid but the fact that colonic production occurs beyond the absorptive surface.",
+    "D": "No such blocking substance is responsible; the issue is the absence of dietary animal products together with the anatomy of absorption.",
+    "E": "Bacteria, not animal cells, are the organisms that synthesize vitamin B12; animal products simply provide it in the diet."
+  },
+  "educationalObjective": "Bacterial vitamin B12 synthesis occurs in the colon distal to the terminal ileum, so humans must obtain the vitamin from animal products.",
+  "source": "Generated from 1. Biochemistry.pdf - Nutrition: Water-Soluble Vitamins (Vitamin B12, Cobalamin)"
+}

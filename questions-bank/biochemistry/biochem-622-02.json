@@ -1,0 +1,41 @@
+{
+  "id": "biochem-622-02",
+  "subject": "Biochemistry",
+  "major_topic": "Carbohydrate Metabolism",
+  "subtopic": "Glycogen Synthesis and Breakdown",
+  "difficulty": "hard",
+  "vignette": "A 24-year-old man sprints up a flight of stairs and feels his muscles working intensely. During contraction, skeletal muscle rapidly mobilizes its glycogen stores to support glycolysis.",
+  "question": "Which of the following most directly activates glycogen phosphorylase kinase in contracting skeletal muscle?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Cyclic AMP"
+    },
+    {
+      "id": "B",
+      "text": "Calcium-calmodulin"
+    },
+    {
+      "id": "C",
+      "text": "Insulin"
+    },
+    {
+      "id": "D",
+      "text": "Glucose-6-phosphate"
+    },
+    {
+      "id": "E",
+      "text": "NADPH"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Muscle contraction raises cytosolic calcium, which binds calmodulin and activates phosphorylase kinase, which in turn phosphorylates and activates glycogen phosphorylase. Epinephrine raises cyclic AMP and activates protein kinase A, but calcium-calmodulin is the contraction-linked activator in muscle.",
+  "explanation_incorrect": {
+    "A": "Cyclic AMP activates protein kinase A after epinephrine or glucagon stimulation; it does not directly activate phosphorylase kinase in response to contraction.",
+    "C": "Insulin promotes glycogen synthesis and inhibits glycogenolysis; it does not activate phosphorylase kinase.",
+    "D": "Glucose-6-phosphate is an allosteric inhibitor of glycogen phosphorylase, not an activator of phosphorylase kinase.",
+    "E": "NADPH is a product of the pentose phosphate pathway used for reductive biosynthesis and has no role in glycogenolysis."
+  },
+  "educationalObjective": "Calcium-calmodulin activates phosphorylase kinase in contracting skeletal muscle, coupling contraction to glycogenolysis.",
+  "source": "Generated from 1. Biochemistry.pdf - Glycogen Synthesis and Breakdown"
+}

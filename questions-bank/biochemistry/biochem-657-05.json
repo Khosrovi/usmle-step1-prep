@@ -1,0 +1,41 @@
+{
+  "id": "biochem-657-05",
+  "subject": "Biochemistry",
+  "major_topic": "Molecular Biology",
+  "subtopic": "DNA Repair (BER, NER, MMR)",
+  "difficulty": "medium",
+  "vignette": "A 44-year-old man is found to have more than 60 adenomatous colonic polyps on screening colonoscopy. Genetic testing shows biallelic pathogenic variants in MUTYH, which encodes a DNA glycosylase, and no APC mutation is identified.",
+  "question": "A deficiency of which of the following steps is most directly responsible for the accumulation of DNA damage in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Excision of a bulky oligonucleotide containing thymine dimers"
+    },
+    {
+      "id": "B",
+      "text": "Cleavage of the 5' end of the AP site by an endonuclease"
+    },
+    {
+      "id": "C",
+      "text": "Filling of the gap by DNA polymerase beta"
+    },
+    {
+      "id": "D",
+      "text": "Sealing of the nick by DNA ligase"
+    },
+    {
+      "id": "E",
+      "text": "Removal of an altered base to create an apurinic/apyrimidinic (AP) site"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "In base excision repair, a base-specific glycosylase removes the altered base and creates an AP site; AP endonuclease and AP lyase then remove the backbone segment, DNA polymerase beta fills the gap, and ligase seals it. Loss of the glycosylase MUTYH impairs removal of oxidized bases and causes MUTYH-associated polyposis.",
+  "explanation_incorrect": {
+    "A": "Excision of bulky, helix-distorting lesions such as thymine dimers is performed by nucleotide excision repair.",
+    "B": "AP endonuclease acts after the AP site has been created, so it is not the initiating defect here.",
+    "C": "Polymerase beta fills the gap later in base excision repair; it is not the enzyme encoded by MUTYH.",
+    "D": "DNA ligase seals the nick at the final step of base excision repair."
+  },
+  "educationalObjective": "Base excision repair begins when a base-specific glycosylase removes the altered base and creates an AP site.",
+  "source": "Generated from 1. Biochemistry.pdf - Molecular Biology: DNA Repair (BER, NER, MMR)"
+}

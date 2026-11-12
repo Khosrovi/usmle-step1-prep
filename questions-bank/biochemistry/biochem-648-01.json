@@ -1,0 +1,41 @@
+{
+  "id": "biochem-648-01",
+  "subject": "Biochemistry",
+  "major_topic": "Nucleotide Metabolism",
+  "subtopic": "Pyrimidine Synthesis",
+  "difficulty": "medium",
+  "vignette": "A 7-month-old girl is brought for poor feeding and failure to thrive. She has a macrocytic anemia with hypersegmented neutrophils, and bone marrow shows megaloblastic changes. Serum vitamin B12 and folate are normal, serum ammonia is normal, and urinalysis shows abundant orotic acid with no hyperammonemia.",
+  "question": "Which enzyme deficiency is the most likely cause of this patient's hematologic and urinary abnormalities?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Carbamoyl phosphate synthetase II"
+    },
+    {
+      "id": "B",
+      "text": "Dihydroorotate dehydrogenase"
+    },
+    {
+      "id": "C",
+      "text": "UMP synthase (orotate phosphoribosyltransferase and orotidine 5'-monophosphate decarboxylase)"
+    },
+    {
+      "id": "D",
+      "text": "Thymidylate synthase"
+    },
+    {
+      "id": "E",
+      "text": "Ornithine transcarbamylase"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "UMP synthase is a bifunctional enzyme that converts orotic acid to UMP through orotate phosphoribosyltransferase and orotidine 5'-monophosphate decarboxylase activities. Its deficiency blocks pyrimidine synthesis, so orotic acid accumulates and is excreted in large amounts, while pyrimidine starvation impairs DNA synthesis and produces megaloblastic anemia that does not respond to folate or vitamin B12. Oral uridine bypasses the block, and ammonia is normal because the urea cycle is intact.",
+  "explanation_incorrect": {
+    "A": "CPS II deficiency would reduce pyrimidine synthesis but would not cause orotic acid accumulation, because carbamoyl phosphate is upstream of orotate.",
+    "B": "Dihydroorotate dehydrogenase catalyzes an earlier step, so its deficiency decreases rather than increases orotic acid; it is the target of leflunomide.",
+    "D": "Thymidylate synthase deficiency would impair dTMP synthesis but would not cause orotic aciduria.",
+    "E": "Ornithine transcarbamylase deficiency raises orotic acid but also causes hyperammonemia and does not cause megaloblastic anemia."
+  },
+  "educationalObjective": "UMP synthase deficiency causes orotic aciduria with megaloblastic anemia unresponsive to folate or vitamin B12, without hyperammonemia, and is treated with uridine.",
+  "source": "Generated from 1. Biochemistry.pdf - Nucleotide Metabolism: Pyrimidine Synthesis"
+}

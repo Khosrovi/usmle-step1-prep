@@ -1,0 +1,41 @@
+{
+  "id": "biochem-663-03",
+  "subject": "Biochemistry",
+  "major_topic": "Molecular Biology",
+  "subtopic": "Post-Translational Modifications",
+  "difficulty": "hard",
+  "vignette": "A 1-year-old boy is evaluated for coarse facial features, gingival hyperplasia, corneal clouding, restricted joint mobility, and claw-hand deformities. Radiographs show dysostosis multiplex, and plasma lysosomal enzyme levels are markedly elevated, while cultured fibroblasts contain inclusion bodies and have deficient lysosomal enzyme activity.",
+  "question": "Which of the following best explains these findings?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A homozygous deficiency of a single lysosomal acid hydrolase"
+    },
+    {
+      "id": "B",
+      "text": "Deficiency of lysyl oxidase due to impaired copper transport"
+    },
+    {
+      "id": "C",
+      "text": "Deficiency of vitamin C-dependent prolyl hydroxylase"
+    },
+    {
+      "id": "D",
+      "text": "Impaired ubiquitin-proteasome degradation of glycoproteins"
+    },
+    {
+      "id": "E",
+      "text": "Failure of the Golgi to add mannose-6-phosphate because N-acetylglucosaminyl-1-phosphotransferase is defective, causing lysosomal enzymes to be secreted"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "In I-cell disease (mucolipidosis type II), a defect in N-acetylglucosaminyl-1-phosphotransferase prevents phosphorylation of mannose residues on lysosomal enzymes, so the mannose-6-phosphate targeting signal is absent. The enzymes are secreted extracellularly instead of being delivered to lysosomes, which become deficient in digestive enzymes and accumulate inclusion bodies. This explains the coarse features, corneal clouding, joint restriction, and elevated plasma lysosomal enzyme levels.",
+  "explanation_incorrect": {
+    "A": "A single acid hydrolase deficiency causes a classic lysosomal storage disease such as Tay-Sachs or Gaucher disease, with low rather than elevated plasma enzyme levels and no mannose-6-phosphate defect.",
+    "B": "Lysyl oxidase deficiency occurs in Menkes disease and affects collagen cross-linking, not lysosomal enzyme targeting.",
+    "C": "Vitamin C deficiency impairs collagen hydroxylation and does not produce inclusion bodies or elevated plasma lysosomal enzymes.",
+    "D": "Proteasome defects cause accumulation of ubiquitinated proteins, not mistargeting of lysosomal hydrolases."
+  },
+  "educationalObjective": "I-cell disease results from defective mannose-6-phosphate tagging in the Golgi, causing lysosomal enzymes to be secreted rather than delivered to lysosomes.",
+  "source": "Generated from 1. Biochemistry.pdf - Molecular Biology: Posttranslational Modifications"
+}

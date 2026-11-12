@@ -1,0 +1,41 @@
+{
+  "id": "biochem-667-01",
+  "subject": "Biochemistry",
+  "major_topic": "Molecular Biology",
+  "subtopic": "Epigenetics",
+  "difficulty": "medium",
+  "vignette": "A 5-year-old boy is evaluated for excessive appetite, obesity, and mild intellectual disability. He had marked hypotonia in infancy and now has small hands and feet and hypogonadism with cryptorchidism. Methylation analysis shows loss of the paternally derived chromosome 15q11-q13 region.",
+  "question": "Which of the following best explains the parent-of-origin effect in this disorder?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A mutation in mitochondrial DNA inherited from the mother."
+    },
+    {
+      "id": "B",
+      "text": "Genomic imprinting: the maternally derived copies of these genes are silenced by methylation, so loss of the paternal copy eliminates their expression."
+    },
+    {
+      "id": "C",
+      "text": "X-chromosome inactivation in a female carrier."
+    },
+    {
+      "id": "D",
+      "text": "A trinucleotide repeat expansion causing genetic anticipation."
+    },
+    {
+      "id": "E",
+      "text": "Somatic mosaicism for an activating GNAS mutation."
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Prader-Willi syndrome results from loss of paternally derived 15q11-q13 gene expression, usually through paternal deletion, maternal uniparental disomy, or an imprinting defect. Because the maternal copies of these genes are imprinted and silenced by methylation, the region has no active genes, producing hyperphagia, obesity, hypogonadism, hypotonia, and intellectual disability.",
+  "explanation_incorrect": {
+    "A": "Mitochondrial DNA is inherited only from the mother and has no relationship to chromosome 15 imprinting.",
+    "C": "X-chromosome inactivation silences one X chromosome in XX cells; it does not affect chromosome 15 or explain this parent-of-origin pattern.",
+    "D": "Trinucleotide repeat expansions cause diseases such as Huntington disease and fragile X syndrome, not Prader-Willi syndrome.",
+    "E": "Activating GNAS mutations cause McCune-Albright syndrome, with cafe-au-lait spots, polyostotic fibrous dysplasia, and endocrinopathy."
+  },
+  "educationalObjective": "Prader-Willi syndrome reflects loss of paternally expressed genes at 15q11-q13, whose maternal copies are imprinted and silenced by methylation.",
+  "source": "Generated from 1. Biochemistry.pdf - Molecular Biology: Epigenetics"
+}

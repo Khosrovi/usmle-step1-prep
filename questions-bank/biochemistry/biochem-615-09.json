@@ -1,0 +1,41 @@
+{
+  "id": "biochem-615-09",
+  "subject": "Biochemistry",
+  "major_topic": "Carbohydrate Metabolism",
+  "subtopic": "Glycolysis",
+  "difficulty": "medium",
+  "vignette": "A 45-year-old man participates in a metabolic study after a 24-hour fast. Plasma glucose is 74 mg/dL, insulin 3 mIU/L, glucagon 190 pg/mL, and beta-hydroxybutyrate 1.9 mmol/L; lactate and alanine are low. Hepatic gluconeogenesis is accelerated, and glycolytic flux through pyruvate kinase is markedly reduced.",
+  "question": "Which of the following best explains the reduced hepatic pyruvate kinase activity in this fasting state?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Allosteric inhibition by fructose-1,6-bisphosphate"
+    },
+    {
+      "id": "B",
+      "text": "Allosteric activation by alanine"
+    },
+    {
+      "id": "C",
+      "text": "Phosphorylation of the enzyme by protein kinase A in response to glucagon"
+    },
+    {
+      "id": "D",
+      "text": "Transcriptional induction of the enzyme by insulin"
+    },
+    {
+      "id": "E",
+      "text": "Product inhibition by acetyl-CoA"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Glucagon raises hepatic cAMP and activates protein kinase A, which phosphorylates the liver isozyme of pyruvate kinase and inactivates it. This restrains the last ATP-generating step of glycolysis and prevents pyruvate from being diverted away from gluconeogenesis during fasting; fructose-1,6-bisphosphate is a positive effector, whereas ATP, alanine, glucagon, and epinephrine inhibit the enzyme.",
+  "explanation_incorrect": {
+    "A": "Fructose-1,6-bisphosphate is a positive allosteric effector of pyruvate kinase, activating rather than inhibiting it; its concentration falls during fasting, which also contributes to reduced activity.",
+    "B": "Alanine is an inhibitor, not an activator, of pyruvate kinase and signals adequate gluconeogenic substrate.",
+    "D": "Insulin induces glucokinase and other glycolytic enzymes in the fed state; it does not induce pyruvate kinase during fasting.",
+    "E": "Acetyl-CoA is not the product of pyruvate kinase (pyruvate is); acetyl-CoA allosterically activates pyruvate carboxylase instead."
+  },
+  "educationalObjective": "Glucagon increases hepatic cAMP and protein kinase A activity, which phosphorylates and inactivates liver pyruvate kinase to spare pyruvate for gluconeogenesis during fasting.",
+  "source": "Generated from 1. Biochemistry.pdf - Carbohydrate Metabolism: Glycolysis"
+}

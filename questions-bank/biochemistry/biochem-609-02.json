@@ -1,0 +1,41 @@
+{
+  "id": "biochem-609-02",
+  "subject": "Biochemistry",
+  "major_topic": "Enzymology",
+  "subtopic": "Enzyme Inhibition Types",
+  "difficulty": "medium",
+  "vignette": "A 57-year-old man with a history of myocardial infarction is advised to take low-dose aspirin daily. Aspirin acetylates a serine residue in the cyclooxygenase active site of platelet prostaglandin H2 synthase. Platelet aggregation remains impaired for the life of the platelet, approximately 7 to 10 days, even though aspirin is cleared from the plasma within a few hours.",
+  "question": "Which of the following best characterizes aspirin's inhibition of cyclooxygenase?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Reversible competitive inhibition that can be overcome by increasing arachidonic acid concentration"
+    },
+    {
+      "id": "B",
+      "text": "Irreversible mechanism-based (suicide) inhibition produced by covalent modification of the enzyme"
+    },
+    {
+      "id": "C",
+      "text": "Uncompetitive inhibition that requires formation of the enzyme-substrate complex"
+    },
+    {
+      "id": "D",
+      "text": "Reversible allosteric inhibition that lowers Vmax without changing Km"
+    },
+    {
+      "id": "E",
+      "text": "Feedback inhibition of cyclooxygenase by its own prostaglandin products"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Aspirin transfers its acetyl group covalently to a serine residue in the cyclooxygenase active site, which irreversibly inactivates the enzyme and is a classic example of suicide (mechanism-based) inhibition. Because platelets cannot synthesize new protein, enzyme activity returns only when new platelets are produced, roughly 7 to 10 days after the last dose. This is why low-dose aspirin produces a prolonged antiplatelet effect despite its short plasma half-life.",
+  "explanation_incorrect": {
+    "A": "Competitive inhibition is reversible and would be overcome by higher arachidonic acid concentrations; aspirin's acetylation cannot be reversed by substrate.",
+    "C": "Uncompetitive inhibitors bind only the enzyme-substrate complex and reduce both Km and Vmax; aspirin permanently inactivates the enzyme through covalent chemistry.",
+    "D": "Allosteric inhibitors are typically reversible, and aspirin's stable covalent mark on the enzyme accounts for the prolonged effect.",
+    "E": "Product feedback inhibition is reversible and does not explain the week-long platelet defect after a single dose."
+  },
+  "educationalObjective": "Aspirin is a suicide (irreversible) inhibitor that acetylates cyclooxygenase covalently, so its antiplatelet effect lasts for the lifespan of the platelet.",
+  "source": "Generated from 1. Biochemistry.pdf - Enzymology: Enzyme Inhibition Types"
+}

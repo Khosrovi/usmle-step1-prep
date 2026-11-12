@@ -1,0 +1,41 @@
+{
+  "id": "biochem-662-03",
+  "subject": "Biochemistry",
+  "major_topic": "Molecular Biology",
+  "subtopic": "Translation",
+  "difficulty": "medium",
+  "vignette": "A 4-year-old boy is brought with 3 days of bloody diarrhea after eating undercooked hamburger. He develops pallor, petechiae, and decreased urine output; laboratory studies show anemia, thrombocytopenia, and acute kidney injury with schistocytes on the smear. Stool culture grows Shiga toxin-producing Escherichia coli.",
+  "question": "Which of the following best describes the mechanism by which Shiga toxin damages endothelial cells?",
+  "options": [
+    {
+      "id": "A",
+      "text": "ADP-ribosylation of elongation factor 2"
+    },
+    {
+      "id": "B",
+      "text": "Cleavage of 28S rRNA of the 60S ribosomal subunit, inhibiting protein synthesis"
+    },
+    {
+      "id": "C",
+      "text": "Binding to the 30S subunit and causing misreading of mRNA"
+    },
+    {
+      "id": "D",
+      "text": "Inhibition of peptidyl transferase in the 50S subunit"
+    },
+    {
+      "id": "E",
+      "text": "Inhibition of RNA polymerase II"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Shiga toxin, and the Shiga-like toxin of enterohemorrhagic E. coli, inactivates the 60S ribosomal subunit by cleaving 28S rRNA, halting protein synthesis in target cells such as renal endothelial cells. This endothelial injury produces the microangiopathic hemolytic anemia, thrombocytopenia, and acute kidney injury of hemolytic-uremic syndrome. The toxin is distinct from diphtheria toxin, which ADP-ribosylates elongation factor 2.",
+  "explanation_incorrect": {
+    "A": "ADP-ribosylation of elongation factor 2 is the mechanism of diphtheria toxin and Pseudomonas exotoxin.",
+    "C": "Aminoglycosides bind the 30S subunit and cause misreading; Shiga toxin acts on the 60S subunit.",
+    "D": "Chloramphenicol and macrolides inhibit the 50S subunit; Shiga toxin instead cleaves 28S rRNA.",
+    "E": "Inhibition of RNA polymerase II occurs with alpha-amanitin, not with Shiga toxin."
+  },
+  "educationalObjective": "Shiga toxin cleaves 28S rRNA of the 60S ribosomal subunit, inhibiting protein synthesis and causing endothelial injury in hemolytic-uremic syndrome.",
+  "source": "Generated from 1. Biochemistry.pdf - Molecular Biology: Translation"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "biochem-683-05",
+  "subject": "Biochemistry",
+  "major_topic": "Vitamins and Minerals",
+  "subtopic": "Trace Elements",
+  "difficulty": "medium",
+  "vignette": "A 29-year-old woman presents with 4 months of numbness and tingling of both feet that has progressed to an unsteady gait and difficulty climbing stairs. She also reports fatigue and recurrent mouth ulcers. She has taken high-dose oral zinc supplements (100 mg daily) for severe acne for 15 months. Examination shows loss of vibration and position sense below the knees, positive Romberg sign, and hyperreflexia with bilateral Babinski signs. Hemoglobin is 10.8 g/dL, leukocyte count 2,900/mm3, serum copper 24 mcg/dL, ceruloplasmin low, and serum zinc markedly elevated.",
+  "question": "Which of the following best explains the development of copper deficiency in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Zinc increases renal tubular excretion of copper"
+    },
+    {
+      "id": "B",
+      "text": "Zinc competitively inhibits hepatic ceruloplasmin synthesis"
+    },
+    {
+      "id": "C",
+      "text": "Zinc chelates copper within the plasma and prevents its delivery to tissues"
+    },
+    {
+      "id": "D",
+      "text": "Zinc increases hepatic retention of copper"
+    },
+    {
+      "id": "E",
+      "text": "Zinc induces intestinal metallothionein, which binds copper and blocks its absorption"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "High-dose zinc induces metallothionein in enterocytes, and metallothionein preferentially binds copper, trapping it in the mucosal cell and preventing its transfer into the portal circulation. The resulting acquired copper deficiency causes a normocytic or macrocytic anemia with neutropenia and a myeloneuropathy that mimics vitamin B12 deficiency, with loss of vibration and position sense, spastic gait, and posterior column findings; treatment is discontinuation of zinc and copper repletion.",
+  "explanation_incorrect": {
+    "A": "Zinc does not primarily increase renal copper excretion; the defect is at the level of intestinal absorption.",
+    "B": "Hepatic ceruloplasmin synthesis is not directly inhibited by zinc; ceruloplasmin is low because there is too little copper to load into the apoprotein.",
+    "C": "Zinc does not chelate copper in the plasma; the interaction occurs in the intestinal mucosa through metallothionein.",
+    "D": "Zinc does not promote hepatic copper retention; it reduces copper absorption and can be used therapeutically in Wilson disease for exactly that reason."
+  },
+  "educationalObjective": "Excess zinc induces enterocyte metallothionein that binds copper and blocks its absorption, producing copper deficiency with anemia, neutropenia, and a myeloneuropathy.",
+  "source": "Generated from 1. Biochemistry.pdf - Nutrition: Vitamins and Minerals (Trace Elements)"
+}

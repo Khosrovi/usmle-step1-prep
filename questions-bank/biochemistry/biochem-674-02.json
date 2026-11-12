@@ -1,0 +1,41 @@
+{
+  "id": "biochem-674-02",
+  "subject": "Biochemistry",
+  "major_topic": "Vitamins and Minerals",
+  "subtopic": "Vitamin B7 (Biotin)",
+  "difficulty": "medium",
+  "vignette": "A 30-year-old woman completing 6 months of broad-spectrum antibiotic therapy for a chronic pelvic infection develops a scaly rash, diffuse hair loss, and recurrent episodes of shakiness and confusion before breakfast. During one episode blood glucose is 48 mg/dL, lactate is 4.6 mmol/L, and blood pH is 7.28. Serum biotin is low. Her symptoms improve on a vitamin replacement regimen that restores a carboxylase cofactor.",
+  "question": "Impaired activity of which of the following enzymes best explains this patient's recurrent hypoglycemia?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Pyruvate dehydrogenase"
+    },
+    {
+      "id": "B",
+      "text": "Alpha-ketoglutarate dehydrogenase"
+    },
+    {
+      "id": "C",
+      "text": "Transketolase"
+    },
+    {
+      "id": "D",
+      "text": "Methylmalonyl-CoA mutase"
+    },
+    {
+      "id": "E",
+      "text": "Pyruvate carboxylase"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Biotin is the carrier of activated carbon dioxide for carboxylation enzymes, and pyruvate carboxylase is a biotin-dependent enzyme that converts pyruvate to oxaloacetate for gluconeogenesis and TCA cycle anaplerosis. When biotin is deficient, lactate and pyruvate accumulate and hepatic glucose production falls, so fasting hypoglycemia and lactic acidosis develop. Long-term antibiotic use can cause biotin deficiency because gut microbiota contribute to biotin supply.",
+  "explanation_incorrect": {
+    "A": "Pyruvate dehydrogenase requires thiamine pyrophosphate, lipoic acid, coenzyme A, FAD, and NAD+, but it is not biotin dependent.",
+    "B": "Alpha-ketoglutarate dehydrogenase uses the same cofactors as pyruvate dehydrogenase and does not require biotin.",
+    "C": "Transketolase of the pentose phosphate pathway requires thiamine pyrophosphate, not biotin.",
+    "D": "Methylmalonyl-CoA mutase requires adenosylcobalamin (vitamin B12) and is not a carboxylase."
+  },
+  "educationalObjective": "Biotin-dependent pyruvate carboxylase is required for gluconeogenesis from pyruvate, so biotin deficiency can cause fasting hypoglycemia with lactic acidosis.",
+  "source": "Generated from 1. Biochemistry.pdf - Nutrition: Water-Soluble Vitamins (Vitamin B7, Biotin)"
+}

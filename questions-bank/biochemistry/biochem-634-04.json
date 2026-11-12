@@ -1,0 +1,41 @@
+{
+  "id": "biochem-634-04",
+  "subject": "Biochemistry",
+  "major_topic": "Lipid Metabolism",
+  "subtopic": "Familial Hypercholesterolemias",
+  "difficulty": "hard",
+  "vignette": "A 41-year-old woman with heterozygous familial hypercholesterolemia has an LDL cholesterol of 195 mg/dL despite maximal-dose statin therapy. A monoclonal antibody against PCSK9 is added to her regimen, and her LDL cholesterol falls by 55% over 3 months.",
+  "question": "The added drug lowers LDL cholesterol most directly by which of the following mechanisms?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Increased renal excretion of cholesterol"
+    },
+    {
+      "id": "B",
+      "text": "Inhibition of intestinal cholesterol absorption"
+    },
+    {
+      "id": "C",
+      "text": "Increased lipoprotein lipase activity"
+    },
+    {
+      "id": "D",
+      "text": "Prevention of LDL receptor degradation with increased receptor recycling"
+    },
+    {
+      "id": "E",
+      "text": "Inhibition of the rate-limiting enzyme of cholesterol synthesis"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "PCSK9 normally binds the LDL receptor and promotes its degradation, which reduces receptor number and raises serum LDL. Inhibiting PCSK9 prevents receptor degradation, increases LDL receptor recycling to the hepatocyte surface, and enhances LDL clearance. Statins act differently, by inhibiting HMG-CoA reductase.",
+  "explanation_incorrect": {
+    "A": "Renal cholesterol excretion is negligible; this drug acts on hepatic LDL receptor turnover.",
+    "B": "Inhibition of intestinal cholesterol absorption is the mechanism of ezetimibe, not of a PCSK9 inhibitor.",
+    "C": "Lipoprotein lipase activity affects triglyceride-rich particles, not the number of LDL receptors.",
+    "E": "Inhibition of HMG-CoA reductase is the statin mechanism, which this patient is already receiving."
+  },
+  "educationalObjective": "PCSK9 inhibition lowers LDL by preventing LDL receptor degradation and increasing receptor recycling and LDL clearance.",
+  "source": "Generated from 1. Biochemistry.pdf - Key Enzymes in Lipid Transport"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "biochem-627-05",
+  "subject": "Biochemistry",
+  "major_topic": "Lipid Metabolism",
+  "subtopic": "Fatty Acid beta-Oxidation",
+  "difficulty": "medium",
+  "vignette": "A 20-year-old woman with type 1 diabetes mellitus presents with vomiting, abdominal pain, fruity breath, and severe ketoacidosis. Her hepatocytes are actively synthesizing ketone bodies, but the ketone bodies are used as fuel by skeletal muscle and brain rather than by the liver itself.",
+  "question": "Hepatic inability to use ketone bodies as fuel is best explained by the absence of which of the following enzymes in hepatocytes?",
+  "options": [
+    {
+      "id": "A",
+      "text": "HMG-CoA synthase"
+    },
+    {
+      "id": "B",
+      "text": "HMG-CoA lyase"
+    },
+    {
+      "id": "C",
+      "text": "beta-hydroxybutyrate dehydrogenase"
+    },
+    {
+      "id": "D",
+      "text": "beta-ketoacyl-CoA thiolase"
+    },
+    {
+      "id": "E",
+      "text": "beta-ketoacyl-CoA transferase (thiophorase)"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Extrahepatic tissues activate acetoacetate by transferring coenzyme A from succinyl-CoA to form acetoacetyl-CoA, a reaction catalyzed by beta-ketoacyl-CoA transferase (thiophorase). Hepatocytes lack this enzyme, so ketone bodies produced by the liver are exported and used by muscle and brain, while the liver relies on fatty acid oxidation and gluconeogenesis.",
+  "explanation_incorrect": {
+    "A": "HMG-CoA synthase is a ketogenic enzyme that produces HMG-CoA and is required for ketone body synthesis, not for ketone body use.",
+    "B": "HMG-CoA lyase releases acetoacetate during ketogenesis and is present in the liver.",
+    "C": "beta-hydroxybutyrate dehydrogenase interconverts acetoacetate and beta-hydroxybutyrate and is present in the liver.",
+    "D": "beta-ketoacyl-CoA thiolase cleaves acetoacetyl-CoA to two acetyl-CoA molecules after the activation step that hepatocytes cannot perform."
+  },
+  "educationalObjective": "The liver lacks beta-ketoacyl-CoA transferase (thiophorase), so it cannot use the ketone bodies it produces.",
+  "source": "Generated from 1. Biochemistry.pdf - Fatty Acid beta-Oxidation"
+}

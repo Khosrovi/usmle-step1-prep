@@ -1,0 +1,41 @@
+{
+  "id": "biochem-617-09",
+  "subject": "Biochemistry",
+  "major_topic": "Carbohydrate Metabolism",
+  "subtopic": "TCA Cycle (Krebs)",
+  "difficulty": "medium",
+  "vignette": "A 44-year-old man who has followed a strict vegan diet for 8 years presents with fatigue and paresthesias of the hands and feet. Examination shows decreased vibration and position sense. Hemoglobin is 10.1 g/dL with MCV 114 fL; serum methylmalonic acid and homocysteine are elevated.",
+  "question": "Deficiency of which of the following cofactors most directly prevents odd-chain fatty acid metabolites from entering the TCA cycle as succinyl-CoA?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Thiamine pyrophosphate"
+    },
+    {
+      "id": "B",
+      "text": "Biotin"
+    },
+    {
+      "id": "C",
+      "text": "Adenosylcobalamin (vitamin B12)"
+    },
+    {
+      "id": "D",
+      "text": "Pyridoxal phosphate"
+    },
+    {
+      "id": "E",
+      "text": "Tetrahydrofolate"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Odd-chain fatty acids yield propionyl-CoA, which is carboxylated to methylmalonyl-CoA and then converted to succinyl-CoA by methylmalonyl-CoA mutase, an adenosylcobalamin-dependent enzyme. Vitamin B12 deficiency blocks this step, so succinyl-CoA cannot be formed and methylmalonic acid accumulates, contributing to demyelination.",
+  "explanation_incorrect": {
+    "A": "Thiamine pyrophosphate is required by dehydrogenases such as pyruvate dehydrogenase and alpha-ketoglutarate dehydrogenase, not by methylmalonyl-CoA mutase.",
+    "B": "Biotin is the cofactor for propionyl-CoA carboxylase, which acts before the B12-dependent step; this patient's macrocytic anemia and marked methylmalonic acid elevation indicate B12 deficiency.",
+    "D": "Pyridoxal phosphate is required for transamination and ALA synthase, not for methylmalonyl-CoA mutase.",
+    "E": "Tetrahydrofolate carries one-carbon units; folate deficiency causes megaloblastic anemia but does not raise methylmalonic acid."
+  },
+  "educationalObjective": "Vitamin B12 (adenosylcobalamin) is required by methylmalonyl-CoA mutase, which converts methylmalonyl-CoA to the TCA intermediate succinyl-CoA.",
+  "source": "Generated from 1. Biochemistry.pdf - TCA Cycle (Krebs)"
+}

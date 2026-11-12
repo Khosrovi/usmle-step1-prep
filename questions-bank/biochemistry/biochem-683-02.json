@@ -1,0 +1,41 @@
+{
+  "id": "biochem-683-02",
+  "subject": "Biochemistry",
+  "major_topic": "Vitamins and Minerals",
+  "subtopic": "Trace Elements",
+  "difficulty": "medium",
+  "vignette": "A 17-year-old boy is evaluated for a 6-month history of a coarse hand tremor, slurred speech, deteriorating school performance, and irritability. Examination shows a jaundiced sclera, hepatomegaly, and brownish-green rings at the corneoscleral limbus visible on slit-lamp examination. Laboratory studies show ceruloplasmin 7 mg/dL, 24-hour urinary copper 340 mcg, aspartate aminotransferase 96 U/L, and a low alkaline phosphatase.",
+  "question": "Which of the following best explains the accumulation of copper in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Mutation in ATP7A with impaired intestinal copper absorption"
+    },
+    {
+      "id": "B",
+      "text": "Mutation in ATP7B with impaired hepatic excretion of copper into bile"
+    },
+    {
+      "id": "C",
+      "text": "Isolated deficiency of apoceruloplasmin synthesis unrelated to copper handling"
+    },
+    {
+      "id": "D",
+      "text": "Excessive dietary copper intake"
+    },
+    {
+      "id": "E",
+      "text": "Autoimmune destruction of hepatocytes with release of stored copper"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Wilson disease is caused by loss-of-function mutations in ATP7B, the hepatic copper transporter that loads copper into ceruloplasmin and exports it into bile. Copper accumulates in the liver, basal ganglia, and cornea, producing cirrhosis, a Parkinson-like tremor with dysarthria, and Kayser-Fleischer rings, while serum ceruloplasmin is low and urinary copper is high; treatment uses chelators such as penicillamine or trientine plus zinc.",
+  "explanation_incorrect": {
+    "A": "ATP7A mutations cause Menkes disease, in which copper absorption and transport are impaired and serum copper and ceruloplasmin are low, but the phenotype is kinky hair, hypotonia, and aneurysms rather than hepatic copper overload.",
+    "C": "Ceruloplasmin is low in this patient because copper cannot be loaded into the apoprotein, not because of an isolated synthetic defect; the urinary copper and Kayser-Fleischer rings indicate systemic overload.",
+    "D": "Excess dietary intake alone does not produce this phenotype, and Wilson disease is a genetic disorder of excretion.",
+    "E": "Autoimmune hepatitis does not cause Kayser-Fleischer rings, low ceruloplasmin, or markedly elevated urinary copper, and the low alkaline phosphatase reflects copper toxicity to that enzyme."
+  },
+  "educationalObjective": "Wilson disease results from ATP7B mutations that impair biliary copper excretion, causing cirrhosis, basal ganglia degeneration with tremor, and Kayser-Fleischer rings.",
+  "source": "Generated from 1. Biochemistry.pdf - Nutrition: Vitamins and Minerals (Trace Elements)"
+}

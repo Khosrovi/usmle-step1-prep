@@ -1,0 +1,41 @@
+{
+  "id": "biochem-690-03",
+  "subject": "Biochemistry",
+  "major_topic": "Inborn Errors of Metabolism",
+  "subtopic": "Lysosomal Storage Diseases Part 2",
+  "difficulty": "hard",
+  "vignette": "A 6-month-old girl is evaluated for coarse facial features, gingival hyperplasia, and limited movement of the shoulders and hips. She has bilateral corneal clouding and claw-hand deformities. Radiographs show kyphoscoliosis. Plasma levels of several lysosomal enzymes, including β-hexosaminidase and arylsulfatase A, are markedly elevated, whereas cultured fibroblasts show numerous inclusion bodies and low intralysosomal enzyme activity.",
+  "question": "A defect in which of the following steps best explains these findings?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Synthesis of lysosomal hydrolases on the rough endoplasmic reticulum"
+    },
+    {
+      "id": "B",
+      "text": "Acidification of the lysosomal lumen by a proton pump"
+    },
+    {
+      "id": "C",
+      "text": "Fusion of late endosomes with lysosomes"
+    },
+    {
+      "id": "D",
+      "text": "Phosphorylation of mannose residues on lysosomal enzymes in the Golgi apparatus"
+    },
+    {
+      "id": "E",
+      "text": "Cleavage of the mannose-6-phosphate tag after delivery to the lysosome"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "I-cell disease (mucolipidosis type II) is an autosomal recessive deficiency of N-acetylglucosaminyl-1-phosphotransferase, the Golgi enzyme that adds mannose-6-phosphate to lysosomal hydrolases. Without the tag, the enzymes are secreted extracellularly instead of being targeted to lysosomes, so plasma levels are high while lysosomes lack digestive enzymes and fill with inclusion bodies. Clinically the disorder resembles a more severe form of Hurler syndrome, with coarse facies, gingival hyperplasia, corneal clouding, joint restriction, and early death.",
+  "explanation_incorrect": {
+    "A": "The hydrolases are synthesized normally; the defect is in their posttranslational targeting, not their production.",
+    "B": "Lysosomal acidification by the vacuolar proton pump is intact and is not the disturbed step in this disorder.",
+    "C": "Endosome-lysosome fusion proceeds normally; the enzymes never reach the lysosome in the first place.",
+    "E": "Removal of the mannose-6-phosphate tag is a later step and does not explain the export of enzymes into plasma."
+  },
+  "educationalObjective": "I-cell disease results from failure to add mannose-6-phosphate in the Golgi, causing lysosomal enzymes to be secreted and resulting in high plasma enzyme levels with empty, debris-filled lysosomes.",
+  "source": "Generated from 1. Biochemistry.pdf - Cell trafficking / I-cell disease"
+}

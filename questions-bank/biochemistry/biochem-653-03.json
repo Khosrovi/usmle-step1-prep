@@ -1,0 +1,41 @@
+{
+  "id": "biochem-653-03",
+  "subject": "Biochemistry",
+  "major_topic": "Nucleotide Metabolism",
+  "subtopic": "Antimetabolite Drugs",
+  "difficulty": "hard",
+  "vignette": "A 46-year-old man with a renal transplant maintained on azathioprine, tacrolimus, and prednisone is started on allopurinol for recurrent gout. Six weeks later he presents with fever, sore throat, and bruising. Laboratory studies show a white blood cell count of 1,200/uL, hemoglobin 8.0 g/dL, and platelets 60,000/uL, while renal and hepatic function are unchanged from baseline.",
+  "question": "Which of the following best explains the development of pancytopenia in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Allopurinol displaces azathioprine from albumin and increases free drug concentrations"
+    },
+    {
+      "id": "B",
+      "text": "Allopurinol induces hepatic mixed-function oxidases that accelerate activation of azathioprine"
+    },
+    {
+      "id": "C",
+      "text": "Allopurinol inhibits xanthine oxidase, shunting 6-mercaptopurine into thioguanine nucleotides with bone marrow toxicity"
+    },
+    {
+      "id": "D",
+      "text": "Allopurinol inhibits hypoxanthine-guanine phosphoribosyltransferase and blocks purine salvage"
+    },
+    {
+      "id": "E",
+      "text": "Allopurinol depletes folate stores by inhibiting dihydrofolate reductase"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Azathioprine is metabolized to 6-mercaptopurine, which is inactivated by xanthine oxidase and by thiopurine methyltransferase. Inhibiting xanthine oxidase with allopurinol diverts 6-mercaptopurine toward 6-thioguanine nucleotides, which are incorporated into DNA and cause severe myelosuppression; the azathioprine dose must be reduced substantially (for example by about 75%) or the combination avoided.",
+  "explanation_incorrect": {
+    "A": "The interaction is metabolic rather than a protein-binding displacement, and it produces dose-dependent bone marrow suppression.",
+    "B": "Allopurinol is an enzyme inhibitor, not an inducer, and the toxicity results from reduced rather than accelerated inactivation of the thiopurine.",
+    "D": "Allopurinol does not inhibit HGPRT; deficient HGPRT activity underlies Lesch-Nyhan syndrome and would cause hyperuricemia rather than reversing it.",
+    "E": "Allopurinol is a xanthine oxidase inhibitor and not an antifolate, so it does not deplete folate or tetrahydrofolate."
+  },
+  "educationalObjective": "Allopurinol inhibits xanthine oxidase and can cause life-threatening myelosuppression when combined with azathioprine or 6-mercaptopurine, requiring a marked dose reduction.",
+  "source": "Generated from 1. Biochemistry.pdf - Molecular Biochemistry: De Novo Pyrimidine and Purine Synthesis (6-Mercaptopurine and Azathioprine)"
+}

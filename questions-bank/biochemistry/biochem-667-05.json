@@ -1,0 +1,41 @@
+{
+  "id": "biochem-667-05",
+  "subject": "Biochemistry",
+  "major_topic": "Molecular Biology",
+  "subtopic": "Epigenetics",
+  "difficulty": "hard",
+  "vignette": "A 3-year-old girl had normal development until 14 months of age, when she began to regress in motor, verbal, and cognitive skills. She now has stereotypic hand-wringing, ataxia, and seizures, and her head growth has slowed. Genetic testing shows a de novo mutation in MECP2.",
+  "question": "The protein encoded by this gene normally contributes to gene silencing by which mechanism?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Binding methylated CpG dinucleotides and recruiting transcriptional repression."
+    },
+    {
+      "id": "B",
+      "text": "Cleaving target mRNAs within the RNA-induced silencing complex."
+    },
+    {
+      "id": "C",
+      "text": "Acetylating histone tails to open chromatin and activate transcription."
+    },
+    {
+      "id": "D",
+      "text": "Removing introns from pre-mRNA as part of the spliceosome."
+    },
+    {
+      "id": "E",
+      "text": "Phosphorylating RNA polymerase II to initiate transcription."
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "MECP2 encodes methyl-CpG-binding protein 2, which recognizes methylated cytosine residues in DNA and helps recruit repressive complexes that silence transcription. Loss-of-function mutations cause Rett syndrome, a de novo X-linked dominant disorder that is seen mostly in females and is embryonically lethal in males.",
+  "explanation_incorrect": {
+    "B": "mRNA cleavage in the RNA-induced silencing complex is carried out by Argonaute proteins loaded with siRNA, not by MECP2.",
+    "C": "Histone acetylation by histone acetyltransferases opens chromatin and activates transcription; MECP2 is associated with repression.",
+    "D": "Introns are removed by the spliceosome; MECP2 acts on methylated DNA to regulate transcription.",
+    "E": "Phosphorylation of RNA polymerase II is part of transcription initiation and elongation and is not the function of a methyl-CpG-binding protein."
+  },
+  "educationalObjective": "MECP2 encodes a methyl-CpG-binding protein that helps silence methylated DNA, and its loss of function causes Rett syndrome.",
+  "source": "Generated from 1. Biochemistry.pdf - Molecular Biology: Epigenetics"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "biochem-601-05",
+  "subject": "Biochemistry",
+  "major_topic": "Amino Acids & Proteins",
+  "subtopic": "Protein Structure (1, 2, 3, 4 degree)",
+  "difficulty": "medium",
+  "vignette": "A 63-year-old man with severe chronic obstructive pulmonary disease has chronic hypoxemia, a hematocrit of 58%, and a right-shifted hemoglobin oxygen dissociation curve. His hemoglobin concentration is increased as a compensatory response, and his red cells contain elevated 2,3-bisphosphoglycerate.",
+  "question": "The cooperative oxygen binding that produces the sigmoid-shaped oxygen dissociation curve of this patient's hemoglobin depends on which level of protein structure?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Quaternary structure"
+    },
+    {
+      "id": "B",
+      "text": "Secondary structure"
+    },
+    {
+      "id": "C",
+      "text": "Primary structure"
+    },
+    {
+      "id": "D",
+      "text": "The heme prosthetic group alone, independent of the globin chains"
+    },
+    {
+      "id": "E",
+      "text": "Interchain disulfide bonds"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Hemoglobin is a tetramer of two alpha and two beta globin chains, and cooperative binding arises from interactions between these subunits as the molecule shifts from the tense (T) to the relaxed (R) state. Oxygen binding to one subunit changes the conformation of the others and increases their affinity, producing the sigmoid curve; this is a property of quaternary structure. Myoglobin, a single-chain protein, lacks quaternary structure and shows a hyperbolic curve instead.",
+  "explanation_incorrect": {
+    "B": "Secondary structure refers to the alpha helices of each globin chain; these helices are necessary but do not by themselves explain cooperativity between subunits.",
+    "C": "Primary structure is the amino acid sequence, which determines the fold but is not the structural level that directly mediates subunit interactions and cooperativity.",
+    "D": "Heme binds oxygen, but the heme group alone cannot explain the sigmoid curve; cooperativity requires communication between intact globin subunits.",
+    "E": "Hemoglobin subunits are not linked by interchain disulfide bonds; their interactions are noncovalent."
+  },
+  "educationalObjective": "Cooperative oxygen binding by hemoglobin is a property of its quaternary structure, arising from interactions between its two alpha and two beta globin subunits.",
+  "source": "Generated from 1. Biochemistry.pdf - Protein Structure (Primary, Secondary, Tertiary, Quaternary)"
+}

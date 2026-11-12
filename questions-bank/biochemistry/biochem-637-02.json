@@ -1,0 +1,41 @@
+{
+  "id": "biochem-637-02",
+  "subject": "Biochemistry",
+  "major_topic": "Amino Acid Metabolism",
+  "subtopic": "Urea Cycle",
+  "difficulty": "medium",
+  "vignette": "A healthy 24-year-old man participates in a 3-day fast. Muscle protein breakdown releases amino acids that are catabolized in the liver, and hepatic ureagenesis increases. Each molecule of urea requires two nitrogen atoms: one from free ammonia and one donated by an amino acid whose carbon skeleton can enter the TCA cycle.",
+  "question": "Which amino acid donates the second nitrogen atom of urea?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Alanine"
+    },
+    {
+      "id": "B",
+      "text": "Glutamine"
+    },
+    {
+      "id": "C",
+      "text": "Glycine"
+    },
+    {
+      "id": "D",
+      "text": "Arginine"
+    },
+    {
+      "id": "E",
+      "text": "Aspartate"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "In the cytosol, argininosuccinate synthetase condenses citrulline with aspartate to form argininosuccinate, and the alpha-amino group of aspartate becomes the second nitrogen of urea when argininosuccinate is cleaved. The aspartate carbon skeleton is released as fumarate, connecting ureagenesis to the TCA cycle.",
+  "explanation_incorrect": {
+    "A": "Alanine contributes nitrogen indirectly after transamination to glutamate, but it is not the amino acid that condenses with citrulline.",
+    "B": "Glutamine donates its amide nitrogen to several biosynthetic reactions, but the second urea nitrogen is not taken directly from glutamine.",
+    "C": "Glycine participates in purine and heme synthesis, not in urea formation.",
+    "D": "Arginine is the immediate precursor of urea, but both of its urea-forming nitrogens were previously assembled from ammonia and aspartate; aspartate is the direct donor of the second nitrogen."
+  },
+  "educationalObjective": "Urea nitrogen comes from free ammonia, via carbamoyl phosphate, and from aspartate, which is condensed with citrulline by argininosuccinate synthetase.",
+  "source": "Generated from 1. Biochemistry.pdf - Amino Acid Metabolism: Urea Cycle"
+}

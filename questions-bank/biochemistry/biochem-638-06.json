@@ -1,0 +1,41 @@
+{
+  "id": "biochem-638-06",
+  "subject": "Biochemistry",
+  "major_topic": "Amino Acid Metabolism",
+  "subtopic": "Urea Cycle Disorders",
+  "difficulty": "medium",
+  "vignette": "A 4-day-old neonate with confirmed carbamoyl phosphate synthetase I deficiency is admitted with lethargy and respiratory alkalosis. Plasma ammonia is 950 umol/L and continues to rise despite stopping enteral feeding and giving intravenous glucose. The infant remains encephalopathic.",
+  "question": "Which of the following is the most appropriate next step to reduce the nitrogen load?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Start a high-protein formula to stimulate urea cycle flux."
+    },
+    {
+      "id": "B",
+      "text": "Give oral lactulose to trap ammonia in the colon."
+    },
+    {
+      "id": "C",
+      "text": "Give acetazolamide to alkalinize the urine and increase ammonia excretion."
+    },
+    {
+      "id": "D",
+      "text": "Give methionine supplements to provide methyl groups for ammonia detoxification."
+    },
+    {
+      "id": "E",
+      "text": "Give sodium benzoate or sodium phenylbutyrate and arrange hemodialysis if hyperammonemia is severe or refractory."
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Sodium benzoate conjugates glycine to hippurate, and sodium phenylbutyrate is converted to phenylacetate, which conjugates glutamine to phenylacetylglutamine; both products are excreted in urine, providing an alternative route for nitrogen disposal. Protein intake is restricted, carglumic acid can be used in carbamoyl phosphate synthetase I or N-acetylglutamate synthase deficiency, and hemodialysis removes ammonia rapidly in severe or refractory cases.",
+  "explanation_incorrect": {
+    "A": "Additional protein increases nitrogen intake and worsens hyperammonemia.",
+    "B": "Lactulose acidifies the colon and reduces ammonia absorption, but it does not remove the endogenous nitrogen load and is not first-line therapy for an inherited urea cycle defect.",
+    "C": "Acetazolamide does not increase ammonia excretion and can cause metabolic acidosis.",
+    "D": "Methionine is an amino acid whose catabolism generates more nitrogen, so supplementation would worsen hyperammonemia."
+  },
+  "educationalObjective": "Inherited hyperammonemia is treated with protein restriction, nitrogen scavengers such as sodium benzoate or phenylbutyrate, and hemodialysis for severe or refractory cases.",
+  "source": "Generated from 1. Biochemistry.pdf - Amino Acid Metabolism: Urea Cycle Disorders"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "pharm-016",
+  "subject": "Pharmacology",
+  "major_topic": "Toxicities and Adverse Effects",
+  "subtopic": "Drug-induced QT prolongation",
+  "difficulty": "medium",
+  "vignette": "A 64-year-old woman receiving ondansetron for chemotherapy-induced nausea develops palpitations and syncope. ECG shows polymorphic ventricular tachycardia with a twisting axis around the isoelectric line; QTc is 520 ms, potassium is 3.1 mEq/L, and magnesium is 1.4 mg/dL.",
+  "question": "Which of the following is the most appropriate initial treatment?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Intravenous magnesium sulfate"
+    },
+    {
+      "id": "B",
+      "text": "Intravenous calcium gluconate"
+    },
+    {
+      "id": "C",
+      "text": "Amiodarone"
+    },
+    {
+      "id": "D",
+      "text": "Procainamide"
+    },
+    {
+      "id": "E",
+      "text": "Digoxin"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Torsades de pointes is triggered by QT prolongation and is treated initially with intravenous magnesium sulfate plus correction of hypokalemia and hypomagnesemia; the offending QT-prolonging drug should be stopped.",
+  "explanation_incorrect": {
+    "B": "Calcium gluconate is used for calcium channel blocker toxicity, not torsades de pointes.",
+    "C": "Amiodarone prolongs the QT interval and can worsen torsades de pointes.",
+    "D": "Procainamide also prolongs the QT interval and is contraindicated.",
+    "E": "Digoxin does not treat torsades de pointes and can cause arrhythmias."
+  },
+  "educationalObjective": "Torsades de pointes is treated with intravenous magnesium and correction of electrolyte abnormalities.",
+  "source": "Generated from 5. Pharmacology.pdf - Toxicities and Adverse Effects (drug reactions, cardiovascular)"
+}

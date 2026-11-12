@@ -1,0 +1,41 @@
+{
+  "id": "biochem-658-04",
+  "subject": "Biochemistry",
+  "major_topic": "Molecular Biology",
+  "subtopic": "DNA Repair (NHEJ, HR)",
+  "difficulty": "easy",
+  "vignette": "A 33-year-old woman participates in a study in which her cultured fibroblasts are irradiated during S phase. The resulting DNA double-strand breaks are repaired using the newly synthesized sister chromatid as a template, and the original sequence is restored without any loss of nucleotides.",
+  "question": "Which of the following best describes the process responsible for this accurate repair?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It joins DNA ends without homology and frequently deletes nucleotides"
+    },
+    {
+      "id": "B",
+      "text": "It removes RNA primers and replaces them with DNA"
+    },
+    {
+      "id": "C",
+      "text": "It uses a complementary strand from an intact homologous duplex as a template to restore the sequence"
+    },
+    {
+      "id": "D",
+      "text": "It removes altered bases through a glycosylase and an AP site"
+    },
+    {
+      "id": "E",
+      "text": "It removes mismatched nucleotides from the newly synthesized strand"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Homologous recombination requires two homologous DNA duplexes and repairs a damaged strand using the complementary strand of an intact homolog as a template. This restores the duplex accurately without loss of nucleotides and is defective in breast and ovarian cancers with BRCA1 or BRCA2 mutations and in some types of Fanconi anemia.",
+  "explanation_incorrect": {
+    "A": "That description applies to nonhomologous end joining, which is error-prone.",
+    "B": "Removal of RNA primers is part of DNA replication, not double-strand break repair.",
+    "D": "Glycosylase-mediated base removal is base excision repair.",
+    "E": "Removal of mismatched nucleotides is mismatch repair."
+  },
+  "educationalObjective": "Homologous recombination accurately repairs double-strand breaks by using an intact homologous duplex as a template.",
+  "source": "Generated from 1. Biochemistry.pdf - Molecular Biology: DNA Repair (NHEJ, HR)"
+}

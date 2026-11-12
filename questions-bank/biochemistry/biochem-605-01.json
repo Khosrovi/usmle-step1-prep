@@ -1,0 +1,41 @@
+{
+  "id": "biochem-605-01",
+  "subject": "Biochemistry",
+  "major_topic": "Amino Acids & Proteins",
+  "subtopic": "Immunoglobulins Structure and Classes",
+  "difficulty": "easy",
+  "vignette": "A 2-day-old boy born at 39 weeks' gestation is noted to have jaundice, pallor, and hepatosplenomegaly. He was born to a 28-year-old woman who is Rh-negative (O negative) and who did not receive antenatal anti-D immune globulin; the infant is Rh-positive (O positive). Laboratory studies show hemoglobin 10.8 g/dL, reticulocyte count 9%, total bilirubin 16 mg/dL, and a positive direct Coombs test.",
+  "question": "Which of the following immunoglobulin classes is most likely responsible for the destruction of this infant's red blood cells?",
+  "options": [
+    {
+      "id": "A",
+      "text": "IgG"
+    },
+    {
+      "id": "B",
+      "text": "IgM"
+    },
+    {
+      "id": "C",
+      "text": "IgA"
+    },
+    {
+      "id": "D",
+      "text": "IgE"
+    },
+    {
+      "id": "E",
+      "text": "IgD"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Maternal anti-D antibodies are of the IgG class, and IgG is the only immunoglobulin class that is actively transported across the placenta (through placental FcRn). Once in the fetal circulation, maternal IgG opsonizes Rh-positive fetal red blood cells, which are then cleared by the fetal reticuloendothelial system and cause hemolytic disease of the newborn.",
+  "explanation_incorrect": {
+    "B": "IgM is a pentamer that is largely confined to the intravascular space; it is too large to cross the placenta, so it cannot mediate red cell destruction in utero.",
+    "C": "IgA exists mainly as secretory IgA, a dimer stabilized by a J chain and secretory component that mediates mucosal immunity; it is not transferred across the placenta.",
+    "D": "IgE is a monomer that binds high-affinity Fc epsilon receptors on mast cells and basophils and mediates type I hypersensitivity; it neither crosses the placenta nor opsonizes red blood cells.",
+    "E": "IgD is a monomeric surface immunoglobulin that acts as a B-cell antigen receptor and has no role in placental transfer or red cell destruction."
+  },
+  "educationalObjective": "IgG is the only immunoglobulin class that crosses the placenta, which is why Rh alloimmunization by maternal IgG causes hemolytic disease of the newborn.",
+  "source": "Generated from 1. Biochemistry.pdf - Immunoglobulins Structure and Classes"
+}

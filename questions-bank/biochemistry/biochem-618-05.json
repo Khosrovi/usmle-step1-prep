@@ -1,0 +1,41 @@
+{
+  "id": "biochem-618-05",
+  "subject": "Biochemistry",
+  "major_topic": "Carbohydrate Metabolism",
+  "subtopic": "Electron Transport Chain",
+  "difficulty": "hard",
+  "vignette": "A 64-year-old man who has received long-term total parenteral nutrition without trace elements presents with fatigue, pallor, and numbness of the feet. Laboratory studies show anemia, neutropenia, and low serum copper and ceruloplasmin. He takes no medications that affect copper metabolism.",
+  "question": "Decreased activity of which of the following electron transport chain components is most likely in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Complex I"
+    },
+    {
+      "id": "B",
+      "text": "Complex II"
+    },
+    {
+      "id": "C",
+      "text": "Complex III"
+    },
+    {
+      "id": "D",
+      "text": "Coenzyme Q"
+    },
+    {
+      "id": "E",
+      "text": "Complex IV"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Complex IV (cytochrome c oxidase) contains copper ions in its cytochrome a and a3 centers, which transfer electrons to oxygen. Copper deficiency impairs complex IV and also affects ceruloplasmin-dependent iron transport, producing anemia, neutropenia, and neuropathy.",
+  "explanation_incorrect": {
+    "A": "Complex I contains FMN and iron-sulfur clusters but does not require copper.",
+    "B": "Complex II contains FAD and iron-sulfur clusters and does not require copper.",
+    "C": "Complex III contains heme and iron-sulfur centers but not copper.",
+    "D": "Coenzyme Q is a lipid-soluble quinone that does not contain copper."
+  },
+  "educationalObjective": "Complex IV (cytochrome c oxidase) is a copper-dependent enzyme that reduces oxygen to water, so copper deficiency impairs oxidative phosphorylation.",
+  "source": "Generated from 1. Biochemistry.pdf - Electron Transport Chain"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "biochem-632-07",
+  "subject": "Biochemistry",
+  "major_topic": "Lipid Metabolism",
+  "subtopic": "Lipoproteins",
+  "difficulty": "easy",
+  "vignette": "A 64-year-old woman with a history of myalgias on two different statins has an LDL cholesterol of 168 mg/dL. She is started on ezetimibe, and after 6 weeks her LDL cholesterol is 122 mg/dL while her plasma triglycerides and HDL cholesterol are essentially unchanged. She tolerates the medication without adverse effects.",
+  "question": "Which of the following best explains the action of ezetimibe?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Inhibition of intestinal cholesterol absorption through NPC1L1"
+    },
+    {
+      "id": "B",
+      "text": "Inhibition of hepatic HMG-CoA reductase"
+    },
+    {
+      "id": "C",
+      "text": "Binding of bile acids within the intestinal lumen"
+    },
+    {
+      "id": "D",
+      "text": "Activation of lipoprotein lipase"
+    },
+    {
+      "id": "E",
+      "text": "Inhibition of cholesteryl ester transfer protein"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Ezetimibe blocks NPC1L1, the sterol transporter on the apical brush border of enterocytes, and thereby reduces absorption of dietary and biliary cholesterol. Less cholesterol reaching the liver increases hepatic LDL receptor expression, so plasma LDL falls, and the effect is additive with that of a statin.",
+  "explanation_incorrect": {
+    "B": "Inhibition of HMG-CoA reductase is the mechanism of statins, which this patient could not tolerate.",
+    "C": "Binding bile acids in the gut is the mechanism of cholestyramine and colestipol.",
+    "D": "Activation of lipoprotein lipase is produced by fibrates and primarily lowers triglycerides.",
+    "E": "Cholesteryl ester transfer protein inhibition is a distinct lipid-modifying strategy and is not the mechanism of ezetimibe."
+  },
+  "educationalObjective": "Ezetimibe lowers LDL cholesterol by inhibiting NPC1L1-mediated intestinal absorption of cholesterol.",
+  "source": "Generated from 1. Biochemistry.pdf - Lipid Metabolism: Lipoproteins"
+}

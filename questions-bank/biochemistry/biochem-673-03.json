@@ -1,0 +1,41 @@
+{
+  "id": "biochem-673-03",
+  "subject": "Biochemistry",
+  "major_topic": "Vitamins and Minerals",
+  "subtopic": "Vitamin B6 (Pyridoxine)",
+  "difficulty": "hard",
+  "vignette": "A 52-year-old man with chronic alcohol use and a diet limited to bread and beer is evaluated for progressive numbness of the feet and a painful tongue. Laboratory studies show plasma homocysteine of 28 micromol/L (normal less than 15), normal serum methylmalonic acid, and normal serum vitamin B12 and folate. Serum pyridoxine is markedly reduced. There is no lens dislocation, Marfanoid habitus, or history of thrombosis.",
+  "question": "Which of the following metabolic steps is most likely impaired in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Remethylation of homocysteine to methionine by methionine synthase"
+    },
+    {
+      "id": "B",
+      "text": "Conversion of methylmalonyl-CoA to succinyl-CoA by methylmalonyl-CoA mutase"
+    },
+    {
+      "id": "C",
+      "text": "Condensation of homocysteine with serine to form cystathionine"
+    },
+    {
+      "id": "D",
+      "text": "Hydroxylation of proline residues in procollagen"
+    },
+    {
+      "id": "E",
+      "text": "Conversion of phenylalanine to tyrosine by phenylalanine hydroxylase"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Pyridoxal phosphate is the cofactor for cystathionine beta-synthase, which condenses homocysteine with serine to form cystathionine in the transsulfuration pathway. Vitamin B6 deficiency therefore raises homocysteine while methylmalonic acid remains normal, because the vitamin B12-dependent methylmalonyl-CoA mutase is intact. The absence of Marfanoid features and lens dislocation argues against genetic homocystinuria from cystathionine beta-synthase deficiency.",
+  "explanation_incorrect": {
+    "A": "Remethylation by methionine synthase requires methylcobalamin (vitamin B12), and this patient's B12 level is normal.",
+    "B": "Methylmalonyl-CoA mutase requires adenosylcobalamin; the normal methylmalonic acid level excludes this defect.",
+    "D": "Proline hydroxylation requires vitamin C, and its deficiency causes scurvy rather than hyperhomocysteinemia.",
+    "E": "Phenylalanine hydroxylase requires tetrahydrobiopterin, and its deficiency causes phenylketonuria, not elevated homocysteine."
+  },
+  "educationalObjective": "Pyridoxal phosphate is required by cystathionine beta-synthase, so vitamin B6 deficiency raises homocysteine with a normal methylmalonic acid level.",
+  "source": "Generated from 1. Biochemistry.pdf - Nutrition: Water-Soluble Vitamins (Vitamin B6, Pyridoxine)"
+}

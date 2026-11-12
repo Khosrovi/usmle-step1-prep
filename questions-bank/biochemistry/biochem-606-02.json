@@ -1,0 +1,41 @@
+{
+  "id": "biochem-606-02",
+  "subject": "Biochemistry",
+  "major_topic": "Amino Acids & Proteins",
+  "subtopic": "Hemoglobin and Myoglobin",
+  "difficulty": "easy",
+  "vignette": "A 24-year-old man is brought to the emergency department after a high-speed motor vehicle collision in which his legs were pinned under the dashboard for 90 minutes. He is alert but has passed dark brown urine. Laboratory studies show creatine kinase 48,000 U/L, creatinine 1.4 mg/dL, normal haptoglobin, and no schistocytes on the peripheral blood smear. Urinalysis is dipstick-positive for blood, but microscopic examination shows no red blood cells.",
+  "question": "Which of the following substances is most likely responsible for the positive urine dipstick test?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Myoglobin"
+    },
+    {
+      "id": "B",
+      "text": "Free hemoglobin from intravascular hemolysis"
+    },
+    {
+      "id": "C",
+      "text": "Conjugated bilirubin"
+    },
+    {
+      "id": "D",
+      "text": "Urobilinogen"
+    },
+    {
+      "id": "E",
+      "text": "Porphobilinogen"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Crush injury of skeletal muscle releases myoglobin, a single-heme monomer with a higher oxygen affinity than hemoglobin, into the circulation. Myoglobin is filtered by the glomerulus, and its heme moiety produces a positive peroxidase reaction on the blood pad of the urine dipstick even though no intact red cells are present; heme-mediated tubular toxicity and cast obstruction can precipitate acute kidney injury, so treatment is aggressive intravenous fluid resuscitation.",
+  "explanation_incorrect": {
+    "B": "Intravascular hemolysis would also give a heme-positive dipstick, but it lowers haptoglobin and often produces schistocytes and anemia; this patient has normal haptoglobin and no hemolysis on smear, and his pigment derives from crushed muscle.",
+    "C": "Bilirubin is detected on a separate dipstick pad and is not read as blood; it would not be expected with a normal liver panel and does not cause dark urine after muscle injury.",
+    "D": "Urobilinogen reflects bilirubin metabolism in the gut and is not responsible for a positive blood pad or for myoglobinuria.",
+    "E": "Porphobilinogen is not measured by the standard blood pad, and porphyria would not explain the crush injury, markedly elevated creatine kinase, or the clinical setting."
+  },
+  "educationalObjective": "Rhabdomyolysis releases myoglobin, which gives a heme-positive urine dipstick without red blood cells on microscopy and can cause acute kidney injury.",
+  "source": "Generated from 1. Biochemistry.pdf - Hemoglobin and Myoglobin"
+}

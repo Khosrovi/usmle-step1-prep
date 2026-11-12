@@ -1,0 +1,41 @@
+{
+  "id": "biochem-661-04",
+  "subject": "Biochemistry",
+  "major_topic": "Molecular Biology",
+  "subtopic": "RNA Processing",
+  "difficulty": "medium",
+  "vignette": "A 6-year-old boy is evaluated for recurrent sinopulmonary infections. He has normal numbers of B cells, but serum IgM is low. Laboratory studies show that his B cells express membrane-bound IgM, whereas differentiated plasma cells from the same B-cell clone secrete pentameric IgM. The heavy-chain gene is identical in both cell types.",
+  "question": "Which of the following best explains how a single gene produces both membrane-bound and secreted IgM?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Somatic hypermutation alters the heavy-chain constant region"
+    },
+    {
+      "id": "B",
+      "text": "The two forms are encoded by separate genes derived from gene duplication"
+    },
+    {
+      "id": "C",
+      "text": "Class switching changes IgM to IgG in plasma cells"
+    },
+    {
+      "id": "D",
+      "text": "Alternative splicing of the same hnRNA joins different 3-prime exons, producing either a transmembrane anchor or a secreted tail"
+    },
+    {
+      "id": "E",
+      "text": "RNA editing changes a codon in the constant region"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Alternative splicing allows a single hnRNA to be processed into different mRNAs by joining different combinations of exons; for immunoglobulin heavy chains this produces a membrane-bound form with a hydrophobic transmembrane tail or a secreted form without it. The same mechanism explains tissue-specific isoforms such as tropomyosin variants and dopamine receptor subtypes. The underlying DNA sequence is unchanged between the two cell types.",
+  "explanation_incorrect": {
+    "A": "Somatic hypermutation introduces point mutations in variable regions to increase antibody affinity and does not switch the membrane form to the secreted form.",
+    "B": "The two forms arise from the same heavy-chain gene, not from duplicated genes.",
+    "C": "Class switching changes the constant region from IgM to IgG, IgA, or IgE and does not explain membrane versus secreted IgM.",
+    "E": "RNA editing alters specific nucleotides in some transcripts but is not the mechanism for membrane versus secreted IgM."
+  },
+  "educationalObjective": "Alternative splicing of a single hnRNA produces different protein isoforms, such as membrane-bound versus secreted immunoglobulin.",
+  "source": "Generated from 1. Biochemistry.pdf - Molecular Biology: RNA Processing"
+}

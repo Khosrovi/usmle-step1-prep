@@ -1,0 +1,41 @@
+{
+  "id": "biochem-640-02",
+  "subject": "Biochemistry",
+  "major_topic": "Amino Acid Metabolism",
+  "subtopic": "Branched-Chain Amino Acids and MSUD",
+  "difficulty": "medium",
+  "vignette": "A 3-month-old girl is evaluated because of episodes of vomiting and irritability that began at 10 days of life. Newborn screening showed elevated leucine, and she has been managed with a formula restricted in branched-chain amino acids. Genetic testing shows a partial defect of the branched-chain alpha-ketoacid dehydrogenase complex. Her metabolic team recommends a trial of a vitamin supplement that serves as a cofactor for this enzyme complex, in addition to continuing her diet.",
+  "question": "Which of the following vitamins is most likely to be supplemented in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Biotin"
+    },
+    {
+      "id": "B",
+      "text": "Cobalamin"
+    },
+    {
+      "id": "C",
+      "text": "Pyridoxal phosphate"
+    },
+    {
+      "id": "D",
+      "text": "Thiamine"
+    },
+    {
+      "id": "E",
+      "text": "Tetrahydrofolate"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "The branched-chain alpha-ketoacid dehydrogenase complex is a multienzyme dehydrogenase complex homologous to pyruvate dehydrogenase and alpha-ketoglutarate dehydrogenase, and all three require thiamine pyrophosphate. Thiamine supplementation can improve residual enzyme activity in patients with an intermediate or thiamine-responsive form of maple syrup urine disease, whereas dietary restriction of leucine, isoleucine, and valine remains the mainstay of treatment.",
+  "explanation_incorrect": {
+    "A": "Biotin is the cofactor for carboxylation reactions such as pyruvate carboxylase, acetyl-CoA carboxylase, and propionyl-CoA carboxylase, not for alpha-ketoacid dehydrogenase complexes.",
+    "B": "Cobalamin is a cofactor for methionine synthase and methylmalonyl-CoA mutase and has no role in branched-chain amino acid catabolism.",
+    "C": "Pyridoxal phosphate is the cofactor for transamination and decarboxylation reactions; the transamination step of branched-chain amino acid catabolism is B6-dependent, but the dehydrogenase that is deficient in maple syrup urine disease is not.",
+    "E": "Tetrahydrofolate carries one-carbon units in nucleotide and methionine metabolism and is not a cofactor of the branched-chain alpha-ketoacid dehydrogenase complex."
+  },
+  "educationalObjective": "Branched-chain alpha-ketoacid dehydrogenase is a thiamine pyrophosphate-dependent complex, so thiamine supplementation may benefit thiamine-responsive forms of maple syrup urine disease.",
+  "source": "Generated from 1. Biochemistry.pdf - Amino Acid Metabolism: Branched-Chain Amino Acids and MSUD"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "biochem-697-03",
+  "subject": "Biochemistry",
+  "major_topic": "Inborn Errors of Metabolism",
+  "subtopic": "Purine/Pyrimidine Disorders",
+  "difficulty": "hard",
+  "vignette": "A 3-year-old boy has recurrent episodes of gross hematuria and colicky flank pain. Renal ultrasound shows a 4-mm radiolucent stone in the right ureter, and urine microscopy shows round, brownish 2,8-dihydroxyadenine crystals. Serum uric acid and plasma creatinine are normal, and he has no neurologic abnormalities. His parents are asymptomatic but are known to be related.",
+  "question": "Deficiency of which of the following enzymes is the most likely cause?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Hypoxanthine-guanine phosphoribosyltransferase"
+    },
+    {
+      "id": "B",
+      "text": "Xanthine oxidase"
+    },
+    {
+      "id": "C",
+      "text": "Adenine phosphoribosyltransferase"
+    },
+    {
+      "id": "D",
+      "text": "Adenosine deaminase"
+    },
+    {
+      "id": "E",
+      "text": "UMP synthase"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Adenine phosphoribosyltransferase normally salvages adenine into AMP, and its autosomal recessive deficiency allows adenine to be oxidized by xanthine oxidase to 2,8-dihydroxyadenine. This compound is extremely insoluble and precipitates as radiolucent kidney stones and crystalline nephropathy, which are treated with allopurinol, hydration, and a low-purine diet.",
+  "explanation_incorrect": {
+    "A": "Hypoxanthine-guanine phosphoribosyltransferase deficiency raises uric acid and causes uric acid stones together with self-mutilation and dystonia in Lesch-Nyhan syndrome.",
+    "B": "Xanthine oxidase deficiency causes xanthinuria with radiolucent xanthine stones, but not 2,8-dihydroxyadenine crystals.",
+    "D": "Adenosine deaminase deficiency causes severe combined immunodeficiency, not kidney stones.",
+    "E": "UMP synthase deficiency causes hereditary orotic aciduria with megaloblastic anemia and orotic acid crystals rather than dihydroxyadenine stones."
+  },
+  "educationalObjective": "Radiolucent 2,8-dihydroxyadenine kidney stones with normal serum uric acid indicate autosomal recessive adenine phosphoribosyltransferase deficiency.",
+  "source": "Generated from 1. Biochemistry.pdf - Section II: Metabolism, Purine and Pyrimidine Synthesis"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "biochem-673-02",
+  "subject": "Biochemistry",
+  "major_topic": "Vitamins and Minerals",
+  "subtopic": "Vitamin B6 (Pyridoxine)",
+  "difficulty": "medium",
+  "vignette": "A 34-year-old woman on a combined oral contraceptive for 3 years reports 4 months of fatigue and exercise intolerance. Hemoglobin is 9.6 g/dL, MCV is 78 fL, and reticulocyte count is low; serum iron and ferritin are elevated, while total iron-binding capacity is low. Bone marrow aspirate shows ring sideroblasts. Serum vitamin B12, folate, and copper levels are normal, but serum pyridoxine is low.",
+  "question": "Deficiency of which of the following vitamins best explains this patient's anemia?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Vitamin B1 (thiamine)"
+    },
+    {
+      "id": "B",
+      "text": "Vitamin B7 (biotin)"
+    },
+    {
+      "id": "C",
+      "text": "Vitamin B9 (folate)"
+    },
+    {
+      "id": "D",
+      "text": "Vitamin B6 (pyridoxine)"
+    },
+    {
+      "id": "E",
+      "text": "Vitamin C (ascorbic acid)"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Pyridoxal phosphate is required for the first step of heme synthesis, the mitochondrial ALA synthase reaction that condenses glycine with succinyl-CoA. When this step is impaired, iron accumulates in mitochondria of erythroid precursors and forms ring sideroblasts, producing a microcytic sideroblastic anemia with high serum iron. Deficiency of vitamin B6 can be induced by isoniazid and by oral contraceptives.",
+  "explanation_incorrect": {
+    "A": "Thiamine deficiency produces beriberi and Wernicke-Korsakoff syndrome and does not impair heme synthesis.",
+    "B": "Biotin deficiency causes dermatitis, enteritis, and alopecia; biotin-dependent carboxylases are not involved in heme synthesis.",
+    "C": "Folate deficiency impairs DNA synthesis and produces a macrocytic megaloblastic anemia with hypersegmented neutrophils, not a microcytic sideroblastic anemia with elevated iron.",
+    "E": "Vitamin C deficiency causes scurvy; it facilitates iron absorption but does not cause ring sideroblasts."
+  },
+  "educationalObjective": "Vitamin B6 deficiency impairs pyridoxal phosphate-dependent ALA synthase and causes a microcytic sideroblastic anemia with iron overload.",
+  "source": "Generated from 1. Biochemistry.pdf - Nutrition: Water-Soluble Vitamins (Vitamin B6, Pyridoxine)"
+}

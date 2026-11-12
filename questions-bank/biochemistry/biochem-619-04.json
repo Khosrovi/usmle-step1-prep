@@ -1,0 +1,41 @@
+{
+  "id": "biochem-619-04",
+  "subject": "Biochemistry",
+  "major_topic": "Carbohydrate Metabolism",
+  "subtopic": "Oxidative Phosphorylation",
+  "difficulty": "hard",
+  "vignette": "A 25-year-old man undergoes a maximal exercise test as part of a physiology study. During exercise his skeletal muscle oxygen consumption increases several-fold, mixed venous oxygen content falls, and blood lactate rises from 1.2 to 3.0 mmol/L. Muscle ADP concentration rises while ATP remains relatively constant.",
+  "question": "Which of the following best explains the increase in mitochondrial oxygen consumption?",
+  "options": [
+    {
+      "id": "A",
+      "text": "ADP availability stimulates electron transport and oxidative phosphorylation"
+    },
+    {
+      "id": "B",
+      "text": "Increased ATP inhibits complex IV"
+    },
+    {
+      "id": "C",
+      "text": "Protons are pumped into the mitochondrial matrix"
+    },
+    {
+      "id": "D",
+      "text": "The proton gradient across the inner mitochondrial membrane is eliminated"
+    },
+    {
+      "id": "E",
+      "text": "FADH2 replaces NADH as the only electron donor"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Mitochondrial respiration is tightly coupled to ATP demand: when ATP is used and ADP rises, ATP synthase accelerates proton re-entry into the matrix, which increases electron transport and oxygen consumption. This respiratory control allows ATP production to match cellular demand during exercise.",
+  "explanation_incorrect": {
+    "B": "ATP inhibits, rather than stimulates, electron transport; it is the ADP level that rises during exercise.",
+    "C": "Electron transport pumps protons from the matrix into the intermembrane space, not into the matrix.",
+    "D": "The proton gradient is maintained and used; its elimination would indicate uncoupling, which would not efficiently produce ATP.",
+    "E": "NADH remains a major electron donor; FADH2 contributes but does not replace NADH."
+  },
+  "educationalObjective": "Oxidative phosphorylation is regulated by ADP availability, so increased ATP turnover during exercise raises mitochondrial oxygen consumption.",
+  "source": "Generated from 1. Biochemistry.pdf - Oxidative Phosphorylation"
+}

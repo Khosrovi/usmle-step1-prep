@@ -1,0 +1,41 @@
+{
+  "id": "biochem-656-07",
+  "subject": "Biochemistry",
+  "major_topic": "Molecular Biology",
+  "subtopic": "DNA Replication",
+  "difficulty": "easy",
+  "vignette": "A 31-year-old woman with unexplained infertility participates in a research protocol in which her cultured fibroblasts are pulse-labeled with tritiated thymidine. Autoradiography shows a series of short DNA segments that are later joined into a continuous strand on one side of the replication fork.",
+  "question": "Which of the following best describes these short DNA segments?",
+  "options": [
+    {
+      "id": "A",
+      "text": "They are synthesized continuously on the leading strand"
+    },
+    {
+      "id": "B",
+      "text": "They are RNA primers that are never removed"
+    },
+    {
+      "id": "C",
+      "text": "They are synthesized by DNA ligase"
+    },
+    {
+      "id": "D",
+      "text": "They are short DNA segments synthesized discontinuously on the lagging strand and later joined by DNA ligase"
+    },
+    {
+      "id": "E",
+      "text": "They are produced only in prokaryotes and are absent in human cells"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Okazaki fragments are short DNA segments synthesized discontinuously on the lagging strand, each initiated by an RNA primer. DNA ligase then joins them into one continuous strand, whereas the leading strand is synthesized continuously.",
+  "explanation_incorrect": {
+    "A": "The leading strand is synthesized continuously; Okazaki fragments characterize the lagging strand.",
+    "B": "The RNA primers are removed and replaced with DNA (in prokaryotes this is done by DNA polymerase I with its 5'-3' exonuclease).",
+    "C": "Ligase joins Okazaki fragments; primase and DNA polymerase synthesize them.",
+    "E": "Lagging-strand synthesis is discontinuous in both prokaryotes and eukaryotes, including human cells."
+  },
+  "educationalObjective": "The lagging strand is synthesized discontinuously as Okazaki fragments that are later joined by DNA ligase.",
+  "source": "Generated from 1. Biochemistry.pdf - Molecular Biology: DNA Replication"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "biochem-602-03",
+  "subject": "Biochemistry",
+  "major_topic": "Amino Acids & Proteins",
+  "subtopic": "Protein Folding, Chaperones, Misfolding Diseases",
+  "difficulty": "medium",
+  "vignette": "A 47-year-old man who has never smoked is evaluated for 2 years of progressive exertional dyspnea. Chest CT shows emphysema predominating in the lower lobes. He also has mildly elevated aminotransferases, and liver biopsy shows periodic acid-Schiff-positive, diastase-resistant inclusions within hepatocytes, with early bridging fibrosis.",
+  "question": "Which of the following best explains the hepatic findings in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Unopposed elastase activity directly digests hepatocyte membranes"
+    },
+    {
+      "id": "B",
+      "text": "Autoimmune destruction of hepatocytes triggered by circulating immune complexes"
+    },
+    {
+      "id": "C",
+      "text": "Iron deposition caused by increased intestinal iron absorption"
+    },
+    {
+      "id": "D",
+      "text": "Retention of misfolded alpha1-antitrypsin within the endoplasmic reticulum of hepatocytes"
+    },
+    {
+      "id": "E",
+      "text": "Impaired synthesis of apolipoproteins leading to severe hepatic steatosis"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "The PiZZ variant of alpha1-antitrypsin folds abnormally, and because the misfolded protein cannot be secreted it accumulates in the endoplasmic reticulum of hepatocytes, producing the characteristic PAS-positive, diastase-resistant inclusions and eventually cirrhosis. In the lung, the same deficiency leaves elastase unopposed and destroys alveolar walls, causing early-onset lower-lobe emphysema. The liver disease therefore reflects a toxic gain-of-function from retained misfolded protein rather than loss of antiprotease activity.",
+  "explanation_incorrect": {
+    "A": "Loss of antiprotease activity explains lung destruction, not hepatic injury; hepatocytes are damaged by intracellular retention of the misfolded protein.",
+    "B": "Alpha1-antitrypsin deficiency liver disease is not autoimmune; the inclusions are retained mutant protein within the endoplasmic reticulum.",
+    "C": "Iron deposition occurs in hemochromatosis, which is not associated with these PAS-positive, diastase-resistant inclusions or early emphysema.",
+    "E": "Impaired apolipoprotein synthesis causes steatosis in conditions such as abetalipoproteinemia or kwashiorkor, not the protein inclusions and fibrosis described here."
+  },
+  "educationalObjective": "In alpha1-antitrypsin deficiency the PiZZ protein misfolds and is retained in the hepatocyte endoplasmic reticulum, causing liver injury, while the lack of circulating antiprotease permits elastase-mediated emphysema.",
+  "source": "Generated from 1. Biochemistry.pdf - Protein Folding, Chaperones, and Misfolding Diseases"
+}

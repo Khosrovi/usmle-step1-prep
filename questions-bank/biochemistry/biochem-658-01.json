@@ -1,0 +1,41 @@
+{
+  "id": "biochem-658-01",
+  "subject": "Biochemistry",
+  "major_topic": "Molecular Biology",
+  "subtopic": "DNA Repair (NHEJ, HR)",
+  "difficulty": "medium",
+  "vignette": "A 6-year-old boy is evaluated for progressive difficulty walking and frequent falls over the past 3 years. Examination shows gait ataxia, dysarthria, and telangiectasias of the conjunctivae. He has had recurrent sinopulmonary infections, and laboratory studies show low IgA and elevated alpha-fetoprotein. Karyotyping after ionizing radiation shows increased chromosomal breakage.",
+  "question": "Which of the following processes is most likely defective in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Mismatch repair"
+    },
+    {
+      "id": "B",
+      "text": "Repair of DNA double-strand breaks"
+    },
+    {
+      "id": "C",
+      "text": "Nucleotide excision repair"
+    },
+    {
+      "id": "D",
+      "text": "Base excision repair"
+    },
+    {
+      "id": "E",
+      "text": "Removal of RNA primers during replication"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Ataxia-telangiectasia is caused by mutations in ATM, a kinase that coordinates the response to and repair of DNA double-strand breaks. Cells are hypersensitive to ionizing radiation, and the disorder causes cerebellar ataxia, conjunctival telangiectasias, immunodeficiency with low IgA, and cancer predisposition.",
+  "explanation_incorrect": {
+    "A": "Mismatch repair defects cause Lynch syndrome, with hereditary colorectal and endometrial cancer rather than ataxia.",
+    "C": "Nucleotide excision repair defects cause xeroderma pigmentosum, with severe UV sensitivity and skin cancers.",
+    "D": "Base excision repair defects impair removal of altered bases, as in MUTYH-associated polyposis.",
+    "E": "RNA primer removal is a normal step of DNA replication and is not the defect described."
+  },
+  "educationalObjective": "Ataxia-telangiectasia results from defective repair of DNA double-strand breaks.",
+  "source": "Generated from 1. Biochemistry.pdf - Molecular Biology: DNA Repair (NHEJ, HR)"
+}

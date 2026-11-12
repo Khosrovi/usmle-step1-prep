@@ -1,0 +1,41 @@
+{
+  "id": "biochem-615-06",
+  "subject": "Biochemistry",
+  "major_topic": "Carbohydrate Metabolism",
+  "subtopic": "Glycolysis",
+  "difficulty": "easy",
+  "vignette": "A 58-year-old man is being screened for diabetes. A fasting blood sample is collected into a gray-top tube containing sodium fluoride so that the measured glucose will not fall while the sample is transported to the laboratory, and the reported fasting glucose is 126 mg/dL. A medical student asks how sodium fluoride preserves the glucose concentration in the sample.",
+  "question": "Sodium fluoride prevents in vitro glucose consumption by inhibiting which of the following glycolytic enzymes?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Enolase"
+    },
+    {
+      "id": "B",
+      "text": "Hexokinase"
+    },
+    {
+      "id": "C",
+      "text": "Phosphofructokinase-1"
+    },
+    {
+      "id": "D",
+      "text": "Pyruvate kinase"
+    },
+    {
+      "id": "E",
+      "text": "Glyceraldehyde-3-phosphate dehydrogenase"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Sodium fluoride chelates magnesium and inhibits enolase, which converts 2-phosphoglycerate to phosphoenolpyruvate. Blocking this step stops glycolysis in leukocytes and erythrocytes, preventing the 5% to 7% per hour fall in glucose that otherwise occurs in an unprocessed blood sample; fluoride also inhibits several other glycolytic enzymes, but enolase is the classic target.",
+  "explanation_incorrect": {
+    "B": "Hexokinase catalyzes the first step of glycolysis and is feedback-inhibited by glucose-6-phosphate; it is not the enzyme blocked by fluoride.",
+    "C": "Phosphofructokinase-1 is the rate-limiting enzyme of glycolysis and is allosterically regulated by AMP, fructose-2,6-bisphosphate, ATP, and citrate, not by fluoride.",
+    "D": "Pyruvate kinase catalyzes the final substrate-level phosphorylation of glycolysis and is not inhibited by fluoride.",
+    "E": "Glyceraldehyde-3-phosphate dehydrogenase catalyzes the NAD+-dependent step of glycolysis and is not blocked by fluoride."
+  },
+  "educationalObjective": "Sodium fluoride preserves blood glucose by inhibiting enolase and thereby halting glycolysis in the sample.",
+  "source": "Generated from 1. Biochemistry.pdf - Carbohydrate Metabolism: Glycolysis"
+}

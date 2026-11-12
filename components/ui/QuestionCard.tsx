@@ -50,7 +50,7 @@ export function QuestionCard({ question, onAnswer }: QuestionCardProps) {
       .from("bookmarks")
       .select("*")
       .eq("question_id", question.id)
-      .single();
+      .maybeSingle();
 
     if (data) {
       setIsBookmarked(true);
@@ -82,7 +82,7 @@ export function QuestionCard({ question, onAnswer }: QuestionCardProps) {
       <CardHeader>
         <div className="flex justify-between items-start">
           <div className="flex-1">
-            <div className="text-sm text-blue-600 font-medium mb-2">
+            <div className="text-sm text-primary font-medium mb-2">
               {question.topic}
             </div>
             <CardTitle className="text-lg mb-4">{question.question}</CardTitle>
@@ -91,7 +91,7 @@ export function QuestionCard({ question, onAnswer }: QuestionCardProps) {
             variant={isBookmarked ? "default" : "outline"}
             size="sm"
             onClick={handleBookmark}
-            className={isBookmarked ? "bg-yellow-500 hover:bg-yellow-600" : ""}
+            className={isBookmarked ? "bg-yellow-500 text-yellow-950 hover:bg-yellow-400" : ""}
           >
             {isBookmarked ? "★ Bookmarked" : "☆ Bookmark"}
           </Button>
@@ -99,8 +99,8 @@ export function QuestionCard({ question, onAnswer }: QuestionCardProps) {
       </CardHeader>
       <CardContent>
         {/* Vignette */}
-        <div className="bg-blue-50 p-4 rounded-lg mb-6">
-          <p className="text-gray-700">{question.vignette}</p>
+        <div className="bg-blue-50 dark:bg-blue-950/40 p-4 rounded-lg mb-6">
+          <p className="text-foreground/90">{question.vignette}</p>
         </div>
 
         {/* Options */}
@@ -115,13 +115,13 @@ export function QuestionCard({ question, onAnswer }: QuestionCardProps) {
               className={`flex items-center space-x-2 p-3 rounded-lg border-2 transition-all ${
                 showExplanation
                   ? option.id === question.correctAnswer
-                    ? "border-green-500 bg-green-50"
+                    ? "border-green-500 bg-green-50 dark:bg-green-950/40"
                     : option.id === selectedAnswer
-                    ? "border-red-500 bg-red-50"
-                    : "border-gray-200"
+                    ? "border-red-500 bg-red-50 dark:bg-red-950/40"
+                    : "border-border"
                   : selectedAnswer === option.id
-                  ? "border-blue-500 bg-blue-50"
-                  : "border-gray-200 hover:border-blue-300"
+                  ? "border-primary bg-blue-50 dark:bg-blue-950/40"
+                  : "border-border hover:border-primary/60"
               }`}
             >
               <RadioGroupItem value={option.id} id={`option-${option.id}`} />
@@ -141,7 +141,7 @@ export function QuestionCard({ question, onAnswer }: QuestionCardProps) {
           <Button
             onClick={handleCheckAnswer}
             disabled={!selectedAnswer}
-            className="w-full mt-6 bg-blue-600 hover:bg-blue-700 text-white"
+            className="w-full mt-6 bg-primary hover:bg-primary/90 text-white"
           >
             Check Answer
           </Button>
@@ -151,25 +151,25 @@ export function QuestionCard({ question, onAnswer }: QuestionCardProps) {
         {showExplanation && (
           <div className="mt-6 space-y-4">
             <Separator />
-            <div className="bg-green-50 p-4 rounded-lg">
-              <h3 className="font-semibold text-green-900 mb-2">
+            <div className="bg-green-50 dark:bg-green-950/40 p-4 rounded-lg">
+              <h3 className="font-semibold text-green-900 dark:text-green-200 mb-2">
                 ✓ Correct Answer: {question.correctAnswer}
               </h3>
-              <p className="text-green-800">{question.explanation.correct}</p>
+              <p className="text-green-800 dark:text-green-300">{question.explanation.correct}</p>
             </div>
 
-            <div className="bg-red-50 p-4 rounded-lg">
-              <h3 className="font-semibold text-red-900 mb-2">
+            <div className="bg-red-50 dark:bg-red-950/40 p-4 rounded-lg">
+              <h3 className="font-semibold text-red-900 dark:text-red-200 mb-2">
                 ✗ Why other options are wrong:
               </h3>
               <div className="space-y-2">
                 {Object.entries(question.explanation.incorrect).map(
                   ([key, explanation]) => (
                     <div key={key} className="text-sm">
-                      <span className="font-semibold text-red-700">
+                      <span className="font-semibold text-red-700 dark:text-red-300">
                         {key}:
                       </span>{" "}
-                      <span className="text-red-800">{explanation}</span>
+                      <span className="text-red-800 dark:text-red-300">{explanation}</span>
                     </div>
                   )
                 )}
@@ -178,15 +178,15 @@ export function QuestionCard({ question, onAnswer }: QuestionCardProps) {
 
             {/* Bookmark Note */}
             {isBookmarked && (
-              <div className="bg-yellow-50 p-4 rounded-lg">
-                <h3 className="font-semibold text-yellow-900 mb-2">
+              <div className="bg-yellow-50 dark:bg-yellow-950/40 p-4 rounded-lg">
+                <h3 className="font-semibold text-yellow-900 dark:text-yellow-200 mb-2">
                   📝 Your Note:
                 </h3>
                 <Textarea
                   value={bookmarkNote}
                   onChange={(e) => setBookmarkNote(e.target.value)}
                   placeholder="Add a note about this question..."
-                  className="bg-white"
+                  className="bg-card"
                 />
                 <Button
                   onClick={handleBookmark}

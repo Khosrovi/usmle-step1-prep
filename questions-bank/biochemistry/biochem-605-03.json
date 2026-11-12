@@ -1,0 +1,41 @@
+{
+  "id": "biochem-605-03",
+  "subject": "Biochemistry",
+  "major_topic": "Amino Acids & Proteins",
+  "subtopic": "Immunoglobulins Structure and Classes",
+  "difficulty": "medium",
+  "vignette": "A 29-year-old woman with a lifelong history of recurrent sinus and respiratory infections receives a transfusion of packed red blood cells for symptomatic anemia. Within minutes of starting the transfusion she develops urticaria, wheezing, and profound hypotension. She has never received blood products before and takes no medications. Laboratory studies show undetectable serum IgA (less than 7 mg/dL) with normal serum IgG, IgM, and T-cell numbers; an anti-IgA antibody screen is positive.",
+  "question": "Which of the following is the most likely explanation for this patient's reaction?",
+  "options": [
+    {
+      "id": "A",
+      "text": "ABO incompatibility causing complement-mediated intravascular hemolysis"
+    },
+    {
+      "id": "B",
+      "text": "Febrile nonhemolytic reaction caused by cytokines released from donor leukocytes"
+    },
+    {
+      "id": "C",
+      "text": "Transfusion-related acute lung injury caused by donor anti-HLA antibodies"
+    },
+    {
+      "id": "D",
+      "text": "Preformed anti-IgA antibodies reacting with IgA in the donor plasma"
+    },
+    {
+      "id": "E",
+      "text": "IgE-mediated allergy to the citrate anticoagulant in the blood bag"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Selective IgA deficiency is the most common primary immunodeficiency and is characterized by undetectable serum IgA with normal IgG, IgM, and T-cell numbers. Affected patients may develop anti-IgA antibodies, and infusion of IgA-containing blood products can then trigger anaphylaxis; future transfusions should use washed red cells or IgA-deficient products.",
+  "explanation_incorrect": {
+    "A": "Acute ABO hemolysis presents with fever, flank pain, and hemoglobinuria from complement-mediated red cell destruction; it does not explain the missing serum IgA or the anti-IgA antibody screen.",
+    "B": "A febrile nonhemolytic reaction causes fever and chills from recipient antibodies against donor leukocytes, not acute urticaria, bronchospasm, and hypotension.",
+    "C": "Transfusion-related acute lung injury produces bilateral pulmonary edema and hypoxemia within hours of transfusion, not anaphylaxis with urticaria and hypotension.",
+    "E": "Citrate reactions cause perioral paresthesias and hypocalcemia during massive transfusion, and allergy to citrate does not account for undetectable IgA with anti-IgA antibodies."
+  },
+  "educationalObjective": "Selective IgA deficiency, the most common primary immunodeficiency, can cause anaphylaxis to IgA-containing blood products because of anti-IgA antibodies.",
+  "source": "Generated from 1. Biochemistry.pdf - Immunoglobulins Structure and Classes"
+}

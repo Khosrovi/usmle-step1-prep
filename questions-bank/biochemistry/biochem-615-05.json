@@ -1,0 +1,41 @@
+{
+  "id": "biochem-615-05",
+  "subject": "Biochemistry",
+  "major_topic": "Carbohydrate Metabolism",
+  "subtopic": "Glycolysis",
+  "difficulty": "medium",
+  "vignette": "A 29-year-old woman has had fasting plasma glucose values of 130 to 138 mg/dL on three occasions over 2 years, and her HbA1c is 6.4%. Her body mass index is 22, she has no symptoms, and she takes no medications. Her mother and maternal grandfather have had mild fasting hyperglycemia since their twenties and have never required insulin; pancreatic autoantibodies are negative and C-peptide is normal. After a 75-g oral glucose load her glucose rises from 132 to 186 mg/dL at 2 hours.",
+  "question": "A partial deficiency of which of the following enzymes is the most likely explanation for her presentation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Hexokinase"
+    },
+    {
+      "id": "B",
+      "text": "GLUT4"
+    },
+    {
+      "id": "C",
+      "text": "Phosphofructokinase-1"
+    },
+    {
+      "id": "D",
+      "text": "Glucokinase"
+    },
+    {
+      "id": "E",
+      "text": "Glycogen synthase"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Glucokinase (hexokinase IV) is expressed in hepatocytes and pancreatic beta cells, where its high Km makes it the glucose sensor that sets the threshold for glucose-stimulated insulin secretion. Heterozygous loss-of-function variants raise that threshold and cause maturity-onset diabetes of the young type 2 (MODY2), a mild, stable, autosomal dominant fasting hyperglycemia that is usually managed with diet and does not require insulin.",
+  "explanation_incorrect": {
+    "A": "Hexokinase is expressed in most tissues with a low Km and is feedback-inhibited by glucose-6-phosphate; it is not the beta cell glucose sensor and its deficiency does not cause MODY.",
+    "B": "GLUT4 mediates insulin-dependent glucose uptake in muscle and adipose tissue; impaired GLUT4 function causes insulin resistance rather than an autosomal dominant trait of mild fasting hyperglycemia.",
+    "C": "Phosphofructokinase-1 is the rate-limiting enzyme of glycolysis, regulated by AMP, fructose-2,6-bisphosphate, ATP, and citrate, and it has no role as a beta cell glucose sensor.",
+    "E": "Glycogen synthase catalyzes glycogen synthesis and is regulated by insulin and glucose-6-phosphate; it is not the glucose sensor of beta cells."
+  },
+  "educationalObjective": "Glucokinase is the high-Km glucose sensor of hepatocytes and pancreatic beta cells, and its partial deficiency causes MODY2 with mild fasting hyperglycemia.",
+  "source": "Generated from 1. Biochemistry.pdf - Carbohydrate Metabolism: Glycolysis"
+}

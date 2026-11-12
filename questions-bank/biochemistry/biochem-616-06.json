@@ -1,0 +1,41 @@
+{
+  "id": "biochem-616-06",
+  "subject": "Biochemistry",
+  "major_topic": "Carbohydrate Metabolism",
+  "subtopic": "Gluconeogenesis",
+  "difficulty": "medium",
+  "vignette": "A 30-year-old man finishes a marathon with a venous lactate of 11 mmol/L. Over the next few hours his blood lactate falls to 1.5 mmol/L while his plasma glucose is maintained at 88 mg/dL, and his liver takes up lactate and releases glucose. His resting oxygen consumption increases modestly during recovery.",
+  "question": "How many high-energy phosphate bonds are consumed in the liver to convert the lactate produced by anaerobic glycolysis of 1 mol of blood glucose back into 1 mol of glucose?",
+  "options": [
+    {
+      "id": "A",
+      "text": "2 high-energy phosphate bonds"
+    },
+    {
+      "id": "B",
+      "text": "6 high-energy phosphate bonds"
+    },
+    {
+      "id": "C",
+      "text": "4 high-energy phosphate bonds"
+    },
+    {
+      "id": "D",
+      "text": "8 high-energy phosphate bonds"
+    },
+    {
+      "id": "E",
+      "text": "12 high-energy phosphate bonds"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Gluconeogenesis from 2 mol of pyruvate consumes 4 ATP (2 in the pyruvate carboxylase reaction and 2 in the phosphoglycerate kinase reaction) plus 2 GTP in the phosphoenolpyruvate carboxykinase reaction, for a total of 6 high-energy phosphate bonds per glucose formed. Because anaerobic glycolysis of 1 mol of glucose yields only 2 mol of ATP, the Cori cycle shifts the energetic cost of recycling lactate to the liver.",
+  "explanation_incorrect": {
+    "A": "Two is the net ATP yield of anaerobic glycolysis per glucose, not the cost of gluconeogenesis.",
+    "C": "Four ATP are consumed by pyruvate carboxylase and phosphoglycerate kinase, but the 2 GTP used by phosphoenolpyruvate carboxykinase are additional.",
+    "D": "Eight overestimates the cost; no gluconeogenic step consumes additional high-energy phosphates beyond the 4 ATP and 2 GTP.",
+    "E": "Twelve would double the actual cost of 6 high-energy bonds per glucose formed."
+  },
+  "educationalObjective": "Converting 2 lactate molecules back to 1 glucose consumes 6 high-energy phosphate bonds (4 ATP and 2 GTP), making the Cori cycle energetically expensive.",
+  "source": "Generated from 1. Biochemistry.pdf - Carbohydrate Metabolism: Gluconeogenesis"
+}

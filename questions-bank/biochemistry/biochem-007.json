@@ -1,0 +1,41 @@
+{
+  "id": "biochem-007",
+  "subject": "Biochemistry",
+  "major_topic": "Amino Acids & Proteins",
+  "subtopic": "Acid-Base Properties and Isoelectric Point",
+  "difficulty": "medium",
+  "vignette": "A biochemist is characterizing a newly discovered enzyme. The active site contains an amino acid residue that frequently acts as a general acid-base catalyst during the reaction because its side chain can easily donate or accept protons at physiologic pH (7.4).",
+  "question": "Which of the following amino acids is most likely present in the active site of this enzyme?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Arginine"
+    },
+    {
+      "id": "B",
+      "text": "Histidine"
+    },
+    {
+      "id": "C",
+      "text": "Lysine"
+    },
+    {
+      "id": "D",
+      "text": "Aspartate"
+    },
+    {
+      "id": "E",
+      "text": "Valine"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Histidine has a side chain pKa of approximately 6.0, which is uniquely close to physiologic pH (7.4). This allows it to exist in both protonated and deprotonated states at physiologic pH, making it an excellent general acid-base catalyst and buffer in enzyme active sites (e.g., in chymotrypsin, carbonic anhydrase, and hemoglobin). First Aid notes that histidine has no net charge at body pH, reflecting this transitional state.",
+  "explanation_incorrect": {
+    "A": "Arginine has a very high pKa (~12.5) and is fully protonated (positively charged) at physiologic pH, making it a poor proton donor/acceptor in this range.",
+    "C": "Lysine has a high pKa (~10.5) and is also fully protonated at physiologic pH, limiting its ability to act as a flexible acid-base catalyst.",
+    "D": "Aspartate is an acidic amino acid with a low pKa (~3.9). It is fully deprotonated (negatively charged) at physiologic pH.",
+    "E": "Valine is a nonpolar, aliphatic amino acid with no ionizable side chain, so it cannot donate or accept protons."
+  },
+  "educationalObjective": "Histidine has a side chain pKa of approximately 6.0, which is uniquely close to physiologic pH (7.4).",
+  "source": "Imported from the existing Supabase question bank"
+}

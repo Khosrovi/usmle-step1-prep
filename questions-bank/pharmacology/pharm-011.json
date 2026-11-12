@@ -1,0 +1,41 @@
+{
+  "id": "pharm-011",
+  "subject": "Pharmacology",
+  "major_topic": "Toxicities and Adverse Effects",
+  "subtopic": "Anticoagulant reversal",
+  "difficulty": "medium",
+  "vignette": "A 72-year-old man with atrial fibrillation who takes dabigatran presents with severe gastrointestinal bleeding and hypotension.",
+  "question": "Which of the following is the most specific reversal agent?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Idarucizumab"
+    },
+    {
+      "id": "B",
+      "text": "Andexanet alfa"
+    },
+    {
+      "id": "C",
+      "text": "Protamine sulfate"
+    },
+    {
+      "id": "D",
+      "text": "Vitamin K"
+    },
+    {
+      "id": "E",
+      "text": "Platelet transfusion"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Idarucizumab is a monoclonal antibody fragment that binds dabigatran with high affinity and neutralizes it. Andexanet alfa reverses direct factor Xa inhibitors such as apixaban and rivaroxaban.",
+  "explanation_incorrect": {
+    "B": "Andexanet alfa is a decoy factor Xa molecule that reverses apixaban and rivaroxaban, not dabigatran.",
+    "C": "Protamine sulfate reverses heparin.",
+    "D": "Vitamin K reverses warfarin.",
+    "E": "Platelet transfusion does not reverse dabigatran."
+  },
+  "educationalObjective": "Idarucizumab is the specific reversal agent for dabigatran.",
+  "source": "Generated from 5. Pharmacology.pdf - Toxicities and Adverse Effects (specific toxicity treatments)"
+}

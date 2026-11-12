@@ -1,0 +1,41 @@
+{
+  "id": "biochem-661-06",
+  "subject": "Biochemistry",
+  "major_topic": "Molecular Biology",
+  "subtopic": "RNA Processing",
+  "difficulty": "medium",
+  "vignette": "A 4-month-old boy is brought for evaluation of poor feeding and decreased movement. Examination shows generalized hypotonia, tongue fasciculations, and absent deep tendon reflexes; he has symmetric proximal weakness and is described as a floppy baby. Genetic testing shows homozygous deletion of SMN1.",
+  "question": "Which of the following best explains the pathogenesis of this disorder?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Antibodies against U1 snRNP impair spliceosome assembly"
+    },
+    {
+      "id": "B",
+      "text": "A mutation in the dystrophin gene disrupts the muscle membrane"
+    },
+    {
+      "id": "C",
+      "text": "Impaired aminoacylation of tRNA causes global protein synthesis failure"
+    },
+    {
+      "id": "D",
+      "text": "Reduced SMN protein impairs assembly of small nuclear ribonucleoproteins, leading to degeneration of anterior horn cells"
+    },
+    {
+      "id": "E",
+      "text": "Defective 5-prime capping of motor neuron mRNAs"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Survival motor neuron (SMN) protein is required for assembly of small nuclear ribonucleoproteins (snRNPs), which form the spliceosome that removes introns from pre-mRNA. Loss of SMN causes spinal muscular atrophy, with degeneration of anterior horn cells and symmetric weakness, hypotonia, and tongue fasciculations in infancy. snRNPs consist of snRNA bound to proteins such as the Smith (Sm) antigen.",
+  "explanation_incorrect": {
+    "A": "Anti-U1 snRNP antibodies occur in systemic lupus erythematosus and mixed connective tissue disease, not in spinal muscular atrophy.",
+    "B": "Dystrophin mutations cause Duchenne or Becker muscular dystrophy, which presents later with elevated creatine kinase and a different pattern of weakness.",
+    "C": "Aminoacyl-tRNA synthetase defects would impair protein synthesis globally rather than produce selective anterior horn degeneration.",
+    "E": "Capping is a general mRNA modification and is not the defect responsible for spinal muscular atrophy."
+  },
+  "educationalObjective": "Spinal muscular atrophy results from loss of SMN protein, which impairs snRNP assembly and causes degeneration of anterior horn cells.",
+  "source": "Generated from 1. Biochemistry.pdf - Molecular Biology: RNA Processing"
+}

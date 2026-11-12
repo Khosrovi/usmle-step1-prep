@@ -1,0 +1,41 @@
+{
+  "id": "biochem-627-07",
+  "subject": "Biochemistry",
+  "major_topic": "Lipid Metabolism",
+  "subtopic": "Fatty Acid beta-Oxidation",
+  "difficulty": "medium",
+  "vignette": "A 3-month-old infant has hypotonia, seizures, and hepatomegaly with dysmorphic facies and jaundice. Plasma very-long-chain fatty acids and pipecolic acid are elevated, and liver biopsy shows a marked absence of peroxisomes.",
+  "question": "Which of the following metabolic processes is most directly impaired by the organelle defect in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Mitochondrial beta-oxidation of palmitate"
+    },
+    {
+      "id": "B",
+      "text": "Peroxisomal beta-oxidation of very-long-chain fatty acids"
+    },
+    {
+      "id": "C",
+      "text": "Cytosolic fatty acid synthesis"
+    },
+    {
+      "id": "D",
+      "text": "Hepatic ketogenesis"
+    },
+    {
+      "id": "E",
+      "text": "Cholesterol synthesis in the smooth endoplasmic reticulum"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "This infant has Zellweger syndrome, an autosomal recessive failure of peroxisome biogenesis caused by PEX gene mutations. Peroxisomes perform the beta-oxidation of very-long-chain fatty acids and the alpha-oxidation of branched-chain fatty acids, so these fatty acids accumulate and cause the neurologic and hepatic manifestations.",
+  "explanation_incorrect": {
+    "A": "Mitochondria, not peroxisomes, carry out beta-oxidation of long-chain fatty acids such as palmitate, which remains intact in Zellweger syndrome.",
+    "C": "Fatty acid synthesis takes place in the cytosol and is not a peroxisomal process.",
+    "D": "Ketogenesis occurs in hepatic mitochondria and is not directly impaired by loss of peroxisomes.",
+    "E": "Cholesterol synthesis occurs in the cytosol and smooth endoplasmic reticulum, not in peroxisomes."
+  },
+  "educationalObjective": "Peroxisomes are required for beta-oxidation of very-long-chain fatty acids, and defective peroxisome biogenesis causes Zellweger syndrome.",
+  "source": "Generated from 1. Biochemistry.pdf - Fatty Acid beta-Oxidation"
+}

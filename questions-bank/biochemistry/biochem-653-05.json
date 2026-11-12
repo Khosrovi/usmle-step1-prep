@@ -1,0 +1,41 @@
+{
+  "id": "biochem-653-05",
+  "subject": "Biochemistry",
+  "major_topic": "Nucleotide Metabolism",
+  "subtopic": "Antimetabolite Drugs",
+  "difficulty": "easy",
+  "vignette": "A 9-year-old boy with sickle cell disease has had three vaso-occlusive crises in the past year. He is started on an oral medication, and at follow-up his hemoglobin F concentration is increased and his MCV has risen from 84 to 104 fL. His platelet count, reticulocyte count, and renal function are otherwise unchanged, and he has had no further crises.",
+  "question": "Which of the following best describes the mechanism of the drug prescribed in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Inhibition of thymidylate synthase"
+    },
+    {
+      "id": "B",
+      "text": "Inhibition of inosine monophosphate dehydrogenase"
+    },
+    {
+      "id": "C",
+      "text": "Inhibition of dihydroorotate dehydrogenase"
+    },
+    {
+      "id": "D",
+      "text": "Inhibition of topoisomerase II"
+    },
+    {
+      "id": "E",
+      "text": "Inhibition of ribonucleotide reductase"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Hydroxyurea inhibits ribonucleotide reductase, the enzyme that converts ribonucleoside diphosphates to deoxyribonucleotides, arresting cells in S phase. In sickle cell disease it increases fetal hemoglobin production, which reduces polymerization of hemoglobin S and the frequency of vaso-occlusive crises, and macrocytosis is an expected laboratory effect of the drug.",
+  "explanation_incorrect": {
+    "A": "Thymidylate synthase inhibition by 5-fluorouracil depletes dTMP but does not raise hemoglobin F.",
+    "B": "Inosine monophosphate dehydrogenase is inhibited by mycophenolate and ribavirin, which are immunosuppressive and antiviral rather than antisickling agents.",
+    "C": "Dihydroorotate dehydrogenase is inhibited by leflunomide, which blocks pyrimidine synthesis in autoimmune disease.",
+    "D": "Topoisomerase II is inhibited by etoposide and teniposide, which are cytotoxic chemotherapeutic agents and are not used for sickle cell disease."
+  },
+  "educationalObjective": "Hydroxyurea inhibits ribonucleotide reductase and raises hemoglobin F, reducing the frequency of vaso-occlusive crises in sickle cell disease.",
+  "source": "Generated from 1. Biochemistry.pdf - Molecular Biochemistry: De Novo Pyrimidine and Purine Synthesis (Hydroxyurea)"
+}

@@ -6,6 +6,7 @@ import { QuestionCard } from "@/components/ui/QuestionCard";
 import { Button } from "@/components/ui/button";
 import { Progress } from "@/components/ui/progress";
 import { supabase } from "@/lib/supabase";
+import { ThemeToggle } from "@/components/theme-toggle";
 
 interface Question {
   id: number;
@@ -129,7 +130,7 @@ function QuizContent() {
   if (loading) {
     return (
       <div className="min-h-screen flex items-center justify-center">
-        <p className="text-gray-600">Loading questions...</p>
+        <p className="text-muted-foreground">Loading questions...</p>
       </div>
     );
   }
@@ -138,7 +139,7 @@ function QuizContent() {
     return (
       <div className="min-h-screen flex items-center justify-center">
         <div className="text-center">
-          <p className="text-gray-600 mb-2">
+          <p className="text-muted-foreground mb-2">
             No questions found for {subject}
             {subtopic && ` • ${subtopic}`}
           </p>
@@ -155,8 +156,8 @@ function QuizContent() {
   const progress = ((currentIndex + 1) / totalQuestions) * 100;
 
   return (
-    <main className="min-h-screen bg-gray-50">
-      <header className="bg-white border-b border-gray-200 shadow-sm sticky top-0 z-10">
+    <main className="min-h-screen bg-background">
+      <header className="bg-card border-b border-border shadow-sm sticky top-0 z-10">
         <div className="max-w-6xl mx-auto px-8 py-4">
           <div className="flex justify-between items-center mb-4">
             <div className="flex items-center gap-3">
@@ -168,8 +169,8 @@ function QuizContent() {
                 ← Dashboard
               </Button>
               <div>
-                <h1 className="text-xl font-bold text-gray-900">{subject}</h1>
-                <p className="text-xs text-gray-500">
+                <h1 className="text-xl font-bold text-foreground">{subject}</h1>
+                <p className="text-xs text-muted-foreground">
                   Mode: {mode}
                   {subtopic && ` • ${subtopic}`}
                   {" • "}
@@ -180,39 +181,40 @@ function QuizContent() {
 
             <div className="flex items-center gap-4">
               {/* Таймер */}
-              <div className="flex items-center gap-2 bg-gray-100 px-3 py-1.5 rounded-lg">
-                <span className="text-sm text-gray-600">⏱️</span>
-                <span className="font-mono font-semibold text-gray-900">
+              <div className="flex items-center gap-2 bg-muted px-3 py-1.5 rounded-lg">
+                <span className="text-sm text-muted-foreground">⏱️</span>
+                <span className="font-mono font-semibold text-foreground">
                   {formatTime(timer)}
                 </span>
                 <button
                   onClick={() => setTimerEnabled(!timerEnabled)}
                   className={`text-xs px-2 py-0.5 rounded ${
                     timerEnabled
-                      ? "bg-green-200 text-green-800"
-                      : "bg-gray-200 text-gray-600"
+                      ? "bg-green-200 text-green-800 dark:text-green-300"
+                      : "bg-muted text-muted-foreground"
                   }`}
                 >
                   {timerEnabled ? "ON" : "OFF"}
                 </button>
               </div>
 
-              <div className="text-sm text-gray-600">
+              <div className="text-sm text-muted-foreground">
                 Accuracy:{" "}
-                <span className="font-semibold text-blue-600">
+                <span className="font-semibold text-primary">
                   {accuracy}%
                 </span>
               </div>
-              <div className="text-sm text-gray-600">
-                <span className="font-semibold text-gray-900">
+              <div className="text-sm text-muted-foreground">
+                <span className="font-semibold text-foreground">
                   {correctCount}
                 </span>{" "}
                 / {answeredCount} correct
               </div>
+              <ThemeToggle />
             </div>
           </div>
           <Progress value={progress} className="h-2" />
-          <div className="text-xs text-gray-500 mt-1 text-right">
+          <div className="text-xs text-muted-foreground mt-1 text-right">
             Question {currentIndex + 1} of {totalQuestions}
           </div>
         </div>
@@ -249,7 +251,7 @@ function QuizContent() {
           <Button
             onClick={handleNext}
             disabled={currentIndex === totalQuestions - 1}
-            className="flex-1 bg-blue-600 hover:bg-blue-700 text-white"
+            className="flex-1 bg-primary hover:bg-primary/90 text-white"
           >
             Next →
           </Button>
@@ -264,7 +266,7 @@ export default function QuizPage() {
     <Suspense
       fallback={
         <div className="min-h-screen flex items-center justify-center">
-          <p className="text-gray-600">Loading...</p>
+          <p className="text-muted-foreground">Loading...</p>
         </div>
       }
     >

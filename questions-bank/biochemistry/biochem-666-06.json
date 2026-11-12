@@ -1,0 +1,41 @@
+{
+  "id": "biochem-666-06",
+  "subject": "Biochemistry",
+  "major_topic": "Molecular Biology",
+  "subtopic": "Recombinant DNA Technology",
+  "difficulty": "hard",
+  "vignette": "A 22-year-old woman with sickle cell disease has recurrent vaso-occlusive crises despite hydroxyurea. She is considering an investigational autologous hematopoietic stem cell therapy in which a guide RNA complementary to a target sequence is complexed with Cas9, which creates a double-strand break at the beta-globin locus; a normal donor sequence is then used as a template for repair.",
+  "question": "Which of the following best describes the mechanism of this genome-editing strategy?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A guide RNA directs the Cas9 endonuclease to a specific DNA sequence, where it creates a targeted double-strand break that can be repaired by homology-directed repair using donor DNA."
+    },
+    {
+      "id": "B",
+      "text": "A small interfering RNA with complete complementarity cleaves the target mRNA in the cytosol."
+    },
+    {
+      "id": "C",
+      "text": "A short noncoding RNA binds the promoter and blocks RNA polymerase II."
+    },
+    {
+      "id": "D",
+      "text": "A retroviral vector randomly inserts a functional gene into the host genome."
+    },
+    {
+      "id": "E",
+      "text": "A restriction endonuclease digests genomic DNA at palindromic sites for Southern blotting."
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "CRISPR/Cas9 is a bacterial genome-editing system in which the guide RNA is complementary to the target DNA and directs Cas9 to make a single- or double-strand break at that site. The break can be repaired by nonhomologous end joining, producing a frameshift and a knock-out, or by homology-directed repair with a donor template to knock in a healthy sequence, as in attempts to correct a disease-causing allele.",
+  "explanation_incorrect": {
+    "B": "That describes siRNA-mediated RNA interference, which acts on mRNA in the cytosol rather than editing genomic DNA.",
+    "C": "Short noncoding RNAs can modulate transcription, but CRISPR/Cas9 is an endonuclease that cuts DNA; no polymerase blockade is involved.",
+    "D": "Random retroviral insertion is a gene therapy approach but not targeted editing; Cas9 cuts at the sequence specified by the guide RNA.",
+    "E": "Restriction endonucleases cut DNA at palindromic sites and are used in cloning and Southern blotting, not for programmable genome editing."
+  },
+  "educationalObjective": "CRISPR/Cas9 uses a guide RNA to direct the Cas9 endonuclease to a target sequence, creating a break that yields a knockout through nonhomologous end joining or a knock-in through homology-directed repair with donor DNA.",
+  "source": "Generated from 1. Biochemistry.pdf - Laboratory Techniques: Recombinant DNA Technology"
+}

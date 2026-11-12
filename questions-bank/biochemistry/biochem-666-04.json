@@ -1,0 +1,41 @@
+{
+  "id": "biochem-666-04",
+  "subject": "Biochemistry",
+  "major_topic": "Molecular Biology",
+  "subtopic": "Recombinant DNA Technology",
+  "difficulty": "medium",
+  "vignette": "A 58-year-old woman presents with fatigue, fever, and gingival hypertrophy. The complete blood count shows leukocytosis with 60% blasts, and the hematologist needs to characterize the surface antigen profile (CD13, CD33, and CD34) of individual blast cells to classify the leukemia.",
+  "question": "Which of the following techniques is most appropriate for this purpose?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Northern blot"
+    },
+    {
+      "id": "B",
+      "text": "Flow cytometry"
+    },
+    {
+      "id": "C",
+      "text": "Southern blot"
+    },
+    {
+      "id": "D",
+      "text": "DNA microarray"
+    },
+    {
+      "id": "E",
+      "text": "Karyotyping"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Flow cytometry tags cells with fluorescent-labeled antibodies against surface or intracellular proteins and analyzes them one at a time with a laser, measuring light scatter (size and granularity) and fluorescence intensity. This immunophenotyping is commonly used in the workup of leukemias, lymphomas, paroxysmal nocturnal hemoglobinuria, and immunodeficiencies such as HIV.",
+  "explanation_incorrect": {
+    "A": "Northern blot measures mRNA levels and cannot define the surface protein profile of individual cells.",
+    "C": "Southern blot analyzes DNA fragments and does not detect cell surface proteins.",
+    "D": "Microarrays compare the relative transcription of many genes in RNA samples but do not phenotype individual cells.",
+    "E": "Karyotyping identifies chromosomal numerical and structural abnormalities but not surface antigen expression."
+  },
+  "educationalObjective": "Flow cytometry measures size, granularity, and surface or intracellular protein expression of individual cells and is used for leukemia immunophenotyping.",
+  "source": "Generated from 1. Biochemistry.pdf - Laboratory Techniques: Recombinant DNA Technology"
+}

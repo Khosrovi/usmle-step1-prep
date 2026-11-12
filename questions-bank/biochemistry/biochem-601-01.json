@@ -1,0 +1,41 @@
+{
+  "id": "biochem-601-01",
+  "subject": "Biochemistry",
+  "major_topic": "Amino Acids & Proteins",
+  "subtopic": "Protein Structure (1, 2, 3, 4 degree)",
+  "difficulty": "medium",
+  "vignette": "A 3-year-old boy is evaluated for chronic diarrhea, poor weight gain, and recurrent pneumonia. Sweat chloride is 82 mEq/L on two occasions, and genetic testing shows a deletion of phenylalanine at position 508 of the CFTR protein. The mutant protein never reaches the apical membrane because it is retained in the endoplasmic reticulum and degraded.",
+  "question": "This mutation most directly alters which level of protein structure?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Secondary structure"
+    },
+    {
+      "id": "B",
+      "text": "Tertiary structure"
+    },
+    {
+      "id": "C",
+      "text": "Primary structure"
+    },
+    {
+      "id": "D",
+      "text": "Quaternary structure"
+    },
+    {
+      "id": "E",
+      "text": "Post-translational modification"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Primary structure is the linear sequence of amino acids joined by peptide bonds, and deleting a single phenylalanine residue changes that sequence directly. The abnormal primary sequence then prevents normal folding, so the protein is recognized as misfolded and destroyed before it can traffic to the membrane. The subsequent failure of tertiary folding is secondary to the primary sequence defect.",
+  "explanation_incorrect": {
+    "A": "Secondary structure refers to local folding patterns such as alpha helices and beta sheets; the deletion changes the sequence first, and abnormal secondary structure is a downstream consequence.",
+    "B": "Tertiary structure is the overall three-dimensional fold of the chain; it is disrupted, but only indirectly after the primary sequence is altered.",
+    "D": "Quaternary structure refers to the assembly of multiple polypeptide subunits; CFTR functions as a single polypeptide chain.",
+    "E": "Post-translational modification refers to events such as glycosylation or phosphorylation after translation; the F508 deletion is a genetic change in the amino acid sequence."
+  },
+  "educationalObjective": "Primary structure is the amino acid sequence, so a single in-frame codon deletion directly changes primary structure and can secondarily prevent normal folding and trafficking.",
+  "source": "Generated from 1. Biochemistry.pdf - Protein Structure (Primary, Secondary, Tertiary, Quaternary)"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "biochem-671-02",
+  "subject": "Biochemistry",
+  "major_topic": "Vitamins and Minerals",
+  "subtopic": "Vitamin B3 (Niacin)",
+  "difficulty": "hard",
+  "vignette": "A 58-year-old woman reports 8 months of episodic facial flushing, explosive watery diarrhea, and 9 kg of weight loss. Examination shows a holosystolic murmur at the left lower sternal border that increases with inspiration and a pulsatile liver. A 24-hour urine collection shows markedly elevated 5-hydroxyindoleacetic acid. Over the following months she develops a hyperpigmented, scaly rash on sun-exposed forearms and progressive memory difficulty.",
+  "question": "Which of the following best explains the development of this patient's rash and cognitive decline?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Tumor-driven diversion of tryptophan into serotonin synthesis reduces the tryptophan available for niacin production"
+    },
+    {
+      "id": "B",
+      "text": "Serotonin directly degrades nicotinamide in the intestinal mucosa"
+    },
+    {
+      "id": "C",
+      "text": "Impaired intestinal absorption of niacin due to tumor-related bowel edema"
+    },
+    {
+      "id": "D",
+      "text": "Increased urinary excretion of niacin bound to serotonin metabolites"
+    },
+    {
+      "id": "E",
+      "text": "Enhanced conversion of niacin to NADH in the liver, depleting the NAD+ pool"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "This is malignant carcinoid syndrome, which causes flushing, secretory diarrhea, right-sided cardiac valvular fibrosis, and elevated urinary 5-HIAA. The tumor shunts a large fraction of dietary tryptophan into serotonin production, leaving too little tryptophan for conversion to niacin, which normally supplies a meaningful share of the body's niacin requirement. The result is pellagra with photosensitive dermatitis and neuropsychiatric symptoms.",
+  "explanation_incorrect": {
+    "B": "Serotonin does not chemically destroy nicotinamide; the mechanism is substrate competition for tryptophan.",
+    "C": "Niacin absorption is not impaired in carcinoid syndrome, and the deficiency is nutritional-metabolic rather than absorptive.",
+    "D": "Niacin is not excreted bound to serotonin metabolites; the problem is reduced synthesis from tryptophan.",
+    "E": "Carcinoid does not increase hepatic NADH formation; the finding is decreased niacin synthesis because tryptophan is diverted."
+  },
+  "educationalObjective": "Carcinoid syndrome diverts tryptophan into serotonin, reducing niacin synthesis and producing pellagra-like dermatitis and cognitive change.",
+  "source": "Generated from 1. Biochemistry.pdf - Nutrition: Water-Soluble Vitamins (Vitamin B3, Niacin)"
+}

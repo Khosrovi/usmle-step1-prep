@@ -1,0 +1,41 @@
+{
+  "id": "biochem-662-01",
+  "subject": "Biochemistry",
+  "major_topic": "Molecular Biology",
+  "subtopic": "Translation",
+  "difficulty": "medium",
+  "vignette": "A 6-year-old girl is brought for a rash around the nose and mouth. Examination shows honey-colored crusted lesions with mild surrounding erythema, and culture grows Staphylococcus aureus. She is started on topical mupirocin.",
+  "question": "Which of the following best describes the mechanism of this drug?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Inhibition of bacterial isoleucyl-tRNA synthetase, blocking aminoacylation of tRNA"
+    },
+    {
+      "id": "B",
+      "text": "Binding to the 30S subunit with misreading of mRNA"
+    },
+    {
+      "id": "C",
+      "text": "Binding to the 50S subunit and causing premature chain termination"
+    },
+    {
+      "id": "D",
+      "text": "Inhibition of bacterial DNA-dependent RNA polymerase"
+    },
+    {
+      "id": "E",
+      "text": "Inhibition of peptidoglycan cross-linking"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Mupirocin inhibits bacterial isoleucyl-tRNA synthetase, preventing attachment of isoleucine to its tRNA and thereby blocking protein synthesis; it is used topically for impetigo. Aminoacyl-tRNA synthetases provide one enzyme per amino acid and are responsible for the accuracy of amino acid selection during charging. Because the drug targets the bacterial enzyme, it is effective against staphylococci and streptococci.",
+  "explanation_incorrect": {
+    "B": "Aminoglycosides bind the 30S subunit and cause misreading; mupirocin inhibits tRNA charging.",
+    "C": "Chloramphenicol and macrolides act on the 50S subunit; mupirocin acts on an aminoacyl-tRNA synthetase.",
+    "D": "Rifampin inhibits bacterial RNA polymerase; mupirocin inhibits translation.",
+    "E": "Beta-lactams inhibit peptidoglycan cross-linking; mupirocin inhibits protein synthesis."
+  },
+  "educationalObjective": "Mupirocin inhibits bacterial isoleucyl-tRNA synthetase, blocking aminoacylation of tRNA and protein synthesis.",
+  "source": "Generated from 1. Biochemistry.pdf - Molecular Biology: Translation"
+}

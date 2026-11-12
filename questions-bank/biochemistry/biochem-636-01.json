@@ -1,0 +1,41 @@
+{
+  "id": "biochem-636-01",
+  "subject": "Biochemistry",
+  "major_topic": "Amino Acid Metabolism",
+  "subtopic": "Transamination and Deamination",
+  "difficulty": "medium",
+  "vignette": "A 26-year-old man has been fasting for 48 hours as part of a research protocol. His blood glucose remains normal because the liver produces glucose from amino acids released by skeletal muscle. In hepatocytes, the amino group of alanine is transferred to alpha-ketoglutarate, and the remaining three-carbon skeleton is used for gluconeogenesis.",
+  "question": "Which of the following best describes the reaction that transfers the amino group of alanine in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It is catalyzed by glutamate dehydrogenase and releases free ammonia into the mitochondrial matrix."
+    },
+    {
+      "id": "B",
+      "text": "It requires biotin and generates oxaloacetate directly from alanine."
+    },
+    {
+      "id": "C",
+      "text": "It is a transamination reaction that requires pyridoxal phosphate and produces pyruvate and glutamate."
+    },
+    {
+      "id": "D",
+      "text": "It is catalyzed by carbamoyl phosphate synthetase I and consumes two molecules of ATP."
+    },
+    {
+      "id": "E",
+      "text": "It requires tetrahydrobiopterin and produces tyrosine from phenylalanine."
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Hepatic alanine aminotransferase transfers the alpha-amino group of alanine to alpha-ketoglutarate, producing pyruvate and glutamate in a reversible transamination that requires pyridoxal phosphate (vitamin B6). The pyruvate is then used for gluconeogenesis, which is why alanine is the main nitrogen carrier from muscle to liver (the Cahill, or alanine-glucose, cycle).",
+  "explanation_incorrect": {
+    "A": "Glutamate dehydrogenase performs oxidative deamination of glutamate and releases free ammonia, but it does not transfer an amino group from alanine.",
+    "B": "Biotin is a cofactor for carboxylation reactions such as pyruvate carboxylase; it is not involved in transamination, and alanine is not converted directly to oxaloacetate.",
+    "D": "Carbamoyl phosphate synthetase I initiates ureagenesis by condensing ammonia and bicarbonate; it does not act on alanine.",
+    "E": "Tetrahydrobiopterin is required by aromatic amino acid hydroxylases, including phenylalanine hydroxylase, not by transaminases."
+  },
+  "educationalObjective": "Transamination reversibly transfers an amino group from an amino acid to alpha-ketoglutarate in a pyridoxal phosphate-dependent reaction, producing glutamate and the corresponding alpha-keto acid.",
+  "source": "Generated from 1. Biochemistry.pdf - Amino Acid Metabolism: Transamination and Deamination"
+}

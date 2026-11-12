@@ -1,0 +1,41 @@
+{
+  "id": "biochem-626-04",
+  "subject": "Biochemistry",
+  "major_topic": "Lipid Metabolism",
+  "subtopic": "Fatty Acid Synthesis",
+  "difficulty": "medium",
+  "vignette": "A 22-year-old woman with type 1 diabetes mellitus is brought to the emergency department with vomiting, abdominal pain, and Kussmaul respirations. Laboratory studies show glucose 520 mg/dL, arterial pH 7.08, and markedly elevated serum beta-hydroxybutyrate. Her hepatic fatty acid synthesis is very low, while fatty acid oxidation and ketogenesis are increased.",
+  "question": "Which of the following best explains the decreased activity of hepatic acetyl-CoA carboxylase in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Increased citrate"
+    },
+    {
+      "id": "B",
+      "text": "Increased insulin"
+    },
+    {
+      "id": "C",
+      "text": "Increased malonyl-CoA"
+    },
+    {
+      "id": "D",
+      "text": "Increased glucagon signaling"
+    },
+    {
+      "id": "E",
+      "text": "Decreased intracellular cAMP"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "In diabetic ketoacidosis, insulin deficiency and glucagon excess raise hepatic cAMP, which activates protein kinase A and inactivates acetyl-CoA carboxylase by phosphorylation. The resulting fall in malonyl-CoA relieves inhibition of carnitine palmitoyltransferase I, so long-chain fatty acids enter mitochondria, undergo beta-oxidation, and are converted to ketone bodies.",
+  "explanation_incorrect": {
+    "A": "Citrate allosterically activates acetyl-CoA carboxylase, so an increase would stimulate rather than inhibit fatty acid synthesis.",
+    "B": "Insulin activates acetyl-CoA carboxylase and promotes fatty acid synthesis, and this patient is insulin deficient.",
+    "C": "Malonyl-CoA is the product of the reaction; it inhibits carnitine palmitoyltransferase I rather than acetyl-CoA carboxylase.",
+    "E": "A decrease in cAMP would activate acetyl-CoA carboxylase, but hepatic cAMP is increased in ketoacidosis."
+  },
+  "educationalObjective": "Glucagon acting through cAMP inactivates acetyl-CoA carboxylase, lowering malonyl-CoA and promoting beta-oxidation and ketogenesis.",
+  "source": "Generated from 1. Biochemistry.pdf - Fatty Acid Synthesis"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "biochem-637-06",
+  "subject": "Biochemistry",
+  "major_topic": "Amino Acid Metabolism",
+  "subtopic": "Urea Cycle",
+  "difficulty": "hard",
+  "vignette": "A 60-year-old man is studied after a protein-rich meal. Hepatic N-acetylglutamate, synthesized from glutamate and acetyl-CoA by N-acetylglutamate synthase, increases and stimulates carbamoyl phosphate synthetase I, accelerating ureagenesis.",
+  "question": "Activity of N-acetylglutamate synthase is most directly increased by which of the following?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Citrulline"
+    },
+    {
+      "id": "B",
+      "text": "Urea"
+    },
+    {
+      "id": "C",
+      "text": "Arginine"
+    },
+    {
+      "id": "D",
+      "text": "Ammonia"
+    },
+    {
+      "id": "E",
+      "text": "Aspartate"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Arginine allosterically activates N-acetylglutamate synthase, which raises N-acetylglutamate and stimulates carbamoyl phosphate synthetase I; this signals an abundant supply of amino acid nitrogen. Arginine is therefore also used therapeutically in several urea cycle disorders to enhance residual cycle activity.",
+  "explanation_incorrect": {
+    "A": "Citrulline is a downstream urea cycle intermediate and does not activate N-acetylglutamate synthase.",
+    "B": "Urea is the excreted end product and has no stimulatory effect on this enzyme.",
+    "D": "Ammonia is the substrate of carbamoyl phosphate synthetase I, not an activator of N-acetylglutamate synthase.",
+    "E": "Aspartate donates the second urea nitrogen at a later step and does not activate this enzyme."
+  },
+  "educationalObjective": "Arginine activates N-acetylglutamate synthase, increasing N-acetylglutamate and stimulating carbamoyl phosphate synthetase I.",
+  "source": "Generated from 1. Biochemistry.pdf - Amino Acid Metabolism: Urea Cycle"
+}

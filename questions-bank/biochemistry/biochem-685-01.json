@@ -1,0 +1,41 @@
+{
+  "id": "biochem-685-01",
+  "subject": "Biochemistry",
+  "major_topic": "Heme and Bilirubin Metabolism",
+  "subtopic": "Porphyrias",
+  "difficulty": "medium",
+  "vignette": "A 24-year-old woman is evaluated for 2 days of severe crampy abdominal pain, nausea, vomiting, and constipation. She recently started phenytoin for a seizure disorder. Examination shows tachycardia and blood pressure 152/94 mm Hg; the abdomen is soft and nontender, and there are no skin lesions. Laboratory studies show hyponatremia and normal liver enzymes. Her urine, initially normal in color, darkens to a port-wine color after standing, and it contains markedly elevated delta-aminolevulinic acid and porphobilinogen.",
+  "question": "Deficiency of which of the following enzymes is most likely responsible for this patient's symptoms?",
+  "options": [
+    {
+      "id": "A",
+      "text": "ALA synthase"
+    },
+    {
+      "id": "B",
+      "text": "Porphobilinogen deaminase"
+    },
+    {
+      "id": "C",
+      "text": "Uroporphyrinogen decarboxylase"
+    },
+    {
+      "id": "D",
+      "text": "Coproporphyrinogen oxidase"
+    },
+    {
+      "id": "E",
+      "text": "Ferrochelatase"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Acute intermittent porphyria results from deficiency of porphobilinogen deaminase (hydroxymethylbilane synthase), causing accumulation of the neurotoxic precursors ALA and porphobilinogen. Attacks are triggered by drugs that induce ALA synthase (such as phenytoin), fasting, alcohol, and infection, and they produce neurovisceral symptoms without cutaneous findings. The dark port-wine urine reflects nonenzymatic oxidation of porphobilinogen to porphobilin on standing.",
+  "explanation_incorrect": {
+    "A": "ALA synthase is the rate-limiting enzyme of heme synthesis and is induced by the offending drugs, but it is not deficient in acute intermittent porphyria.",
+    "C": "Uroporphyrinogen decarboxylase deficiency causes porphyria cutanea tarda, which presents with blistering photosensitivity rather than acute neurovisceral attacks.",
+    "D": "Coproporphyrinogen oxidase deficiency causes hereditary coproporphyria, which typically produces both neurovisceral attacks and cutaneous photosensitivity.",
+    "E": "Ferrochelatase deficiency causes erythropoietic protoporphyria, characterized by painful photosensitivity of sun-exposed skin without abdominal attacks."
+  },
+  "educationalObjective": "Acute intermittent porphyria is caused by porphobilinogen deaminase deficiency and produces neurovisceral attacks with elevated urinary ALA and porphobilinogen but no skin findings.",
+  "source": "Generated from 1. Biochemistry.pdf - Heme and Bilirubin Metabolism: Porphyrias"
+}

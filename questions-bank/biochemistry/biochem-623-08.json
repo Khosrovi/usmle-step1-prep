@@ -1,0 +1,41 @@
+{
+  "id": "biochem-623-08",
+  "subject": "Biochemistry",
+  "major_topic": "Carbohydrate Metabolism",
+  "subtopic": "Glycogen Storage Diseases",
+  "difficulty": "hard",
+  "vignette": "A 26-year-old man has lifelong exercise intolerance with muscle cramps and burgundy-colored urine after strenuous activity. He reports that after about 10 minutes of moderate exercise his pain consistently improves, allowing him to continue the activity.",
+  "question": "Which of the following best explains this improvement?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Upregulation of hepatic gluconeogenesis"
+    },
+    {
+      "id": "B",
+      "text": "Release of glucose from muscle glycogen stores"
+    },
+    {
+      "id": "C",
+      "text": "Activation of the Cori cycle in skeletal muscle"
+    },
+    {
+      "id": "D",
+      "text": "Increased muscle blood flow after the initial period of exercise"
+    },
+    {
+      "id": "E",
+      "text": "A shift to anaerobic glycolysis with increased lactate production"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "The second-wind phenomenon in McArdle disease is attributed to increased muscular blood flow during continued exercise, which improves delivery of alternative fuels to muscle. It occurs despite the inability to break down muscle glycogen, and blood glucose levels are typically unaffected.",
+  "explanation_incorrect": {
+    "A": "Hepatic gluconeogenesis is not upregulated acutely during exercise in McArdle disease and does not explain the second-wind phenomenon.",
+    "B": "Muscle glycogen cannot be broken down in McArdle disease because myophosphorylase is deficient, so glycogen-derived glucose is not the explanation.",
+    "C": "The Cori cycle transfers lactate from muscle to liver; it is not activated within skeletal muscle and does not explain the 10-minute improvement.",
+    "E": "Increased anaerobic glycolysis with lactate production would worsen cramps and is precisely what is impaired, as shown by the flat lactate curve."
+  },
+  "educationalObjective": "The second-wind phenomenon of McArdle disease is attributed to increased muscular blood flow during sustained exercise.",
+  "source": "Generated from 1. Biochemistry.pdf - Glycogen Storage Diseases"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "biochem-633-04",
+  "subject": "Biochemistry",
+  "major_topic": "Lipid Metabolism",
+  "subtopic": "Apolipoproteins",
+  "difficulty": "hard",
+  "vignette": "A 44-year-old man is referred for yellow-orange deposits on his palms and tuberoeruptive xanthomas over the elbows and knees. Fasting lipids show total cholesterol 420 mg/dL and triglycerides 480 mg/dL, with increased chylomicron remnants and VLDL; lipoprotein electrophoresis shows a broad beta band. He does not have diabetes.",
+  "question": "Which of the following apolipoproteins is most likely defective in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Apolipoprotein A-I"
+    },
+    {
+      "id": "B",
+      "text": "Apolipoprotein B-48"
+    },
+    {
+      "id": "C",
+      "text": "Apolipoprotein C-II"
+    },
+    {
+      "id": "D",
+      "text": "Apolipoprotein E"
+    },
+    {
+      "id": "E",
+      "text": "Apolipoprotein B-100"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Palmar and tuberoeruptive xanthomas with accumulation of chylomicron remnants and VLDL (a broad beta band) indicate familial dysbetalipoproteinemia, or type III, which is caused by defective apo E. Apo E normally mediates hepatic uptake of chylomicron remnants, VLDL, IDL, and HDL, so its loss causes remnant accumulation and premature atherosclerosis; inheritance is autosomal recessive.",
+  "explanation_incorrect": {
+    "A": "Apo A-I activates LCAT and forms part of HDL; its deficiency lowers HDL cholesterol and does not produce a broad beta band.",
+    "B": "Apo B-48 supports chylomicron assembly; defective apo B-48 causes fat malabsorption rather than remnant accumulation.",
+    "C": "Apo C-II deficiency causes type I hyperchylomicronemia with massive hypertriglyceridemia and eruptive, not palmar, xanthomas.",
+    "E": "Apo B-100 binds the LDL receptor and its defect raises LDL cholesterol; the broad beta band reflects remnant particles."
+  },
+  "educationalObjective": "Defective apo E causes type III dysbetalipoproteinemia with impaired remnant clearance, palmar xanthomas, and premature atherosclerosis.",
+  "source": "Generated from 1. Biochemistry.pdf - Major Apolipoproteins"
+}

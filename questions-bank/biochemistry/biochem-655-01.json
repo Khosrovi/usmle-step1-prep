@@ -1,0 +1,41 @@
+{
+  "id": "biochem-655-01",
+  "subject": "Biochemistry",
+  "major_topic": "Molecular Biology",
+  "subtopic": "DNA Structure and Chromatin",
+  "difficulty": "medium",
+  "vignette": "A 58-year-old woman with a 4-year history of mycosis fungoides (cutaneous T-cell lymphoma) has progressive skin plaques and enlarged lymph nodes. She is started on vorinostat after failing topical therapy. Within weeks, her circulating malignant T cells show increased expression of several tumor suppressor genes.",
+  "question": "Which of the following best explains the mechanism by which this drug alters gene expression?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Inhibition of histone deacetylase, increasing histone acetylation and relaxing chromatin"
+    },
+    {
+      "id": "B",
+      "text": "Inhibition of DNA methyltransferase, preventing methylation of promoter CpG islands"
+    },
+    {
+      "id": "C",
+      "text": "Inhibition of topoisomerase I, producing single-stranded DNA breaks"
+    },
+    {
+      "id": "D",
+      "text": "Increased histone deacetylation, which tightens DNA coiling and reduces transcription"
+    },
+    {
+      "id": "E",
+      "text": "Removal of methyl groups from histone lysine residues, directly activating transcription"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Vorinostat is a histone deacetylase (HDAC) inhibitor. Acetylation neutralizes the positive charge of lysine residues on histones, weakening their binding to negatively charged DNA, relaxing DNA coiling, and increasing transcription.",
+  "explanation_incorrect": {
+    "B": "DNA methyltransferase inhibitors such as azacitidine and decitabine act through hypomethylation; CpG methylation in promoters typically represses transcription, but that is not the mechanism of vorinostat.",
+    "C": "Topoisomerase I inhibitors (irinotecan, topotecan) generate single-stranded DNA breaks and are unrelated to histone acetylation.",
+    "D": "Histone deacetylation tightens chromatin and decreases transcription; this drug does the opposite by blocking the deacetylases.",
+    "E": "Histone acetyltransferases add acetyl groups; removal of methyl groups is not the mechanism of this drug, and histone methylation usually suppresses transcription."
+  },
+  "educationalObjective": "Histone acetylation relaxes chromatin and increases transcription, and HDAC inhibitors exploit this to reactivate silenced genes.",
+  "source": "Generated from 1. Biochemistry.pdf - Molecular Biology: Chromatin Structure"
+}

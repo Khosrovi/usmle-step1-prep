@@ -1,0 +1,41 @@
+{
+  "id": "biochem-670-02",
+  "subject": "Biochemistry",
+  "major_topic": "Vitamins and Minerals",
+  "subtopic": "Vitamin B2 (Riboflavin)",
+  "difficulty": "medium",
+  "vignette": "A 45-year-old man with a long-standing restrictive diet is found to have low serum riboflavin. A research protocol using permeabilized muscle fibers from his biopsy shows markedly reduced conversion of succinate to fumarate, whereas flux through the other steps of the TCA cycle is preserved. The investigators note that the impaired step depends on a flavin cofactor.",
+  "question": "Impaired activity of which of the following enzymes best explains this finding?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Citrate synthase"
+    },
+    {
+      "id": "B",
+      "text": "Succinate dehydrogenase"
+    },
+    {
+      "id": "C",
+      "text": "Aconitase"
+    },
+    {
+      "id": "D",
+      "text": "Fumarase"
+    },
+    {
+      "id": "E",
+      "text": "Malate dehydrogenase"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Succinate dehydrogenase is the TCA cycle enzyme that converts succinate to fumarate, and it is unique among the cycle's enzymes because its cofactor is FAD, derived from riboflavin. In riboflavin deficiency, FAD-dependent redox reactions, including succinate dehydrogenase, are impaired while the other TCA steps remain intact. FMN is also derived from riboflavin, and both flavins serve as electron carriers in redox reactions.",
+  "explanation_incorrect": {
+    "A": "Citrate synthase condenses oxaloacetate with acetyl-CoA and uses no flavin cofactor.",
+    "C": "Aconitase converts citrate to isocitrate and contains an iron-sulfur cluster, not FAD or FMN.",
+    "D": "Fumarase hydrates fumarate to malate and does not require a flavin cofactor.",
+    "E": "Malate dehydrogenase uses NAD+ as its electron acceptor, which is derived from niacin (vitamin B3), not riboflavin."
+  },
+  "educationalObjective": "Succinate dehydrogenase of the TCA cycle uses FAD, so riboflavin (vitamin B2) deficiency impairs the oxidation of succinate to fumarate.",
+  "source": "Generated from 1. Biochemistry.pdf - Nutrition: Water-Soluble Vitamins (Vitamin B2, Riboflavin)"
+}

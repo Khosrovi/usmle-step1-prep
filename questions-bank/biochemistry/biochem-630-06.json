@@ -1,0 +1,41 @@
+{
+  "id": "biochem-630-06",
+  "subject": "Biochemistry",
+  "major_topic": "Lipid Metabolism",
+  "subtopic": "Cholesterol Synthesis",
+  "difficulty": "hard",
+  "vignette": "A 3-week-old infant is evaluated for poor feeding, hypotonia, and developmental delay. He has microcephaly, ptosis, a small jaw, syndactyly of the second and third toes, and ambiguous genitalia. Plasma cholesterol is 52 mg/dL, 7-dehydrocholesterol is markedly elevated, and electrolytes, glucose, and ammonia are normal.",
+  "question": "Decreased activity of which of the following enzymes is most likely responsible for this presentation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "HMG-CoA reductase"
+    },
+    {
+      "id": "B",
+      "text": "Mevalonate kinase"
+    },
+    {
+      "id": "C",
+      "text": "Squalene synthase"
+    },
+    {
+      "id": "D",
+      "text": "Cholesterol 7-alpha-hydroxylase"
+    },
+    {
+      "id": "E",
+      "text": "7-Dehydrocholesterol reductase"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "7-Dehydrocholesterol reductase catalyzes the final step of cholesterol synthesis, the conversion of 7-dehydrocholesterol to cholesterol. Its deficiency causes Smith-Lemli-Opitz syndrome, characterized by low plasma cholesterol, accumulation of 7-dehydrocholesterol, microcephaly, syndactyly, hypotonia, and ambiguous genitalia.",
+  "explanation_incorrect": {
+    "A": "Reduced HMG-CoA reductase activity would lower cholesterol without causing accumulation of 7-dehydrocholesterol, and statin-treated patients do not develop this malformation syndrome.",
+    "B": "Mevalonate kinase deficiency causes recurrent fevers and arthralgias with mevalonic aciduria, not dysmorphic features with 7-dehydrocholesterol accumulation.",
+    "C": "Squalene synthase acts upstream of the sterol ring intermediates, so its deficiency would not produce a selective rise in 7-dehydrocholesterol.",
+    "D": "Cholesterol 7-alpha-hydroxylase initiates bile acid synthesis; its impairment causes cholestatic liver disease rather than this malformation pattern."
+  },
+  "educationalObjective": "Smith-Lemli-Opitz syndrome results from 7-dehydrocholesterol reductase deficiency, with low cholesterol, elevated 7-dehydrocholesterol, microcephaly, syndactyly, and ambiguous genitalia.",
+  "source": "Generated from 1. Biochemistry.pdf - Lipid Metabolism: Cholesterol Synthesis"
+}

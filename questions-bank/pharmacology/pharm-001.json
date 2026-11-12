@@ -1,0 +1,41 @@
+{
+  "id": "pharm-001",
+  "subject": "Pharmacology",
+  "major_topic": "Toxicities and Adverse Effects",
+  "subtopic": "Acetaminophen toxicity",
+  "difficulty": "easy",
+  "vignette": "A 22-year-old woman is brought to the emergency department 6 hours after ingesting 20 tablets of acetaminophen 500 mg in a suicide attempt. She has a history of chronic alcohol use disorder. Laboratory studies show elevated AST and ALT.",
+  "question": "Which of the following is the most appropriate antidote to prevent hepatic injury?",
+  "options": [
+    {
+      "id": "A",
+      "text": "N-Acetylcysteine"
+    },
+    {
+      "id": "B",
+      "text": "Deferoxamine"
+    },
+    {
+      "id": "C",
+      "text": "Fomepizole"
+    },
+    {
+      "id": "D",
+      "text": "Naloxone"
+    },
+    {
+      "id": "E",
+      "text": "Physostigmine"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "N-Acetylcysteine replenishes hepatic glutathione and provides sulfhydryl groups that conjugate the toxic metabolite NAPQI. NAPQI accumulates when acetaminophen is oxidized by CYP2E1 and glutathione stores are depleted; chronic alcohol use induces CYP2E1 and increases NAPQI formation, making hepatotoxicity more likely.",
+  "explanation_incorrect": {
+    "B": "Deferoxamine is an iron chelator used for iron poisoning.",
+    "C": "Fomepizole inhibits alcohol dehydrogenase and is used for methanol or ethylene glycol poisoning.",
+    "D": "Naloxone is an opioid receptor antagonist used for opioid overdose.",
+    "E": "Physostigmine is a cholinesterase inhibitor used for anticholinergic toxicity."
+  },
+  "educationalObjective": "N-Acetylcysteine is the antidote for acetaminophen overdose because it restores glutathione and detoxifies NAPQI.",
+  "source": "Generated from 5. Pharmacology.pdf - Toxicities and Adverse Effects (specific toxicity treatments)"
+}

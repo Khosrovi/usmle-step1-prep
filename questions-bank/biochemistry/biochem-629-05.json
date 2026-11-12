@@ -1,0 +1,41 @@
+{
+  "id": "biochem-629-05",
+  "subject": "Biochemistry",
+  "major_topic": "Lipid Metabolism",
+  "subtopic": "Ketone Bodies",
+  "difficulty": "hard",
+  "vignette": "A 5-day-old boy born at term is brought for poor feeding, vomiting, and rapid breathing. He is lethargic and tachypneic; glucose is 27 mg/dL, arterial pH 7.16, bicarbonate 8 mEq/L, and ammonia 120 micromol/L. Urine ketones are negative despite the acidosis, and urine organic acids show markedly increased 3-hydroxy-3-methylglutaric acid; the newborn screen is otherwise normal.",
+  "question": "Deficiency of which of the following enzymes is most likely responsible for this presentation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "HMG-CoA reductase"
+    },
+    {
+      "id": "B",
+      "text": "HMG-CoA synthase"
+    },
+    {
+      "id": "C",
+      "text": "Medium-chain acyl-CoA dehydrogenase"
+    },
+    {
+      "id": "D",
+      "text": "HMG-CoA lyase"
+    },
+    {
+      "id": "E",
+      "text": "Mitochondrial acetoacetyl-CoA thiolase"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "HMG-CoA lyase cleaves HMG-CoA to acetoacetate and acetyl-CoA, the final step of hepatic ketogenesis; its deficiency blocks ketone body production, so fasting or illness produces hypoketotic hypoglycemia, metabolic acidosis, and hyperammonemia. The proximal intermediate HMG-CoA accumulates and is excreted as 3-hydroxy-3-methylglutaric acid, which is the diagnostic organic acid.",
+  "explanation_incorrect": {
+    "A": "HMG-CoA reductase is the rate-limiting enzyme of cholesterol synthesis, and its inhibition does not cause hypoketotic hypoglycemia with 3-hydroxy-3-methylglutaric aciduria.",
+    "B": "HMG-CoA synthase catalyzes an earlier step of ketogenesis; its deficiency also causes hypoketotic hypoglycemia but is not associated with marked 3-hydroxy-3-methylglutaric aciduria.",
+    "C": "Medium-chain acyl-CoA dehydrogenase deficiency causes hypoketotic hypoglycemia with dicarboxylic acids and fatty acyl carnitines, not with accumulation of 3-hydroxy-3-methylglutaric acid.",
+    "E": "Mitochondrial acetoacetyl-CoA thiolase deficiency causes intermittent ketoacidosis with elevated 2-methylacetoacetate, the opposite of the hypoketotic state described here."
+  },
+  "educationalObjective": "HMG-CoA lyase deficiency blocks ketogenesis and causes hypoketotic hypoglycemia, metabolic acidosis, hyperammonemia, and 3-hydroxy-3-methylglutaric aciduria.",
+  "source": "Generated from 1. Biochemistry.pdf - Lipid Metabolism: Ketone Bodies"
+}

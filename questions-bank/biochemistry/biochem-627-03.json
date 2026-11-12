@@ -1,0 +1,41 @@
+{
+  "id": "biochem-627-03",
+  "subject": "Biochemistry",
+  "major_topic": "Lipid Metabolism",
+  "subtopic": "Fatty Acid beta-Oxidation",
+  "difficulty": "hard",
+  "vignette": "A 38-year-old woman with type 2 diabetes mellitus eats a large high-carbohydrate meal. Within 2 hours her hepatic malonyl-CoA level rises several-fold and mitochondrial fatty acid oxidation falls.",
+  "question": "Which of the following best explains the decrease in hepatic fatty acid oxidation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Decreased cytosolic carnitine"
+    },
+    {
+      "id": "B",
+      "text": "Inhibition of beta-ketoacyl-CoA thiolase by NADH"
+    },
+    {
+      "id": "C",
+      "text": "Malonyl-CoA inhibition of carnitine palmitoyltransferase I"
+    },
+    {
+      "id": "D",
+      "text": "Decreased acyl-CoA dehydrogenase activity"
+    },
+    {
+      "id": "E",
+      "text": "Increased mitochondrial acetyl-CoA"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "In the fed state, insulin and citrate activate acetyl-CoA carboxylase, raising malonyl-CoA. Malonyl-CoA inhibits carnitine palmitoyltransferase I, the rate-limiting step for entry of long-chain fatty acids into mitochondria, so fatty acid synthesis and fatty acid oxidation are reciprocally regulated.",
+  "explanation_incorrect": {
+    "A": "Carnitine availability does not fall after a meal; the shuttle is regulated by malonyl-CoA inhibition of carnitine palmitoyltransferase I.",
+    "B": "NADH is a product of the third reaction of beta-oxidation and does not inhibit beta-ketoacyl-CoA thiolase, which is inhibited by its product acetyl-CoA.",
+    "D": "Acyl-CoA dehydrogenase activity is not the acute regulatory step in this setting.",
+    "E": "Increased mitochondrial acetyl-CoA does not block beta-oxidation; it activates pyruvate carboxylase for gluconeogenesis."
+  },
+  "educationalObjective": "Malonyl-CoA produced by acetyl-CoA carboxylase inhibits carnitine palmitoyltransferase I and suppresses mitochondrial fatty acid oxidation.",
+  "source": "Generated from 1. Biochemistry.pdf - Fatty Acid beta-Oxidation"
+}

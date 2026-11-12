@@ -1,0 +1,41 @@
+{
+  "id": "biochem-697-04",
+  "subject": "Biochemistry",
+  "major_topic": "Inborn Errors of Metabolism",
+  "subtopic": "Purine/Pyrimidine Disorders",
+  "difficulty": "hard",
+  "vignette": "A 9-month-old girl is evaluated for failure to thrive, developmental delay, and pallor. She has a macrocytic anemia with hemoglobin 7.2 g/dL, MCV 108 fL, and hypersegmented neutrophils; serum vitamin B12 and folate are normal, and there is no hematologic response to parenteral vitamin B12 or folate therapy. Serum ammonia is normal. Urine organic acid analysis shows a markedly increased orotic acid peak and needle-like crystals on microscopy.",
+  "question": "Deficiency of which of the following enzymes is most likely responsible?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Carbamoyl phosphate synthetase I"
+    },
+    {
+      "id": "B",
+      "text": "Ornithine transcarbamylase"
+    },
+    {
+      "id": "C",
+      "text": "Carbamoyl phosphate synthetase II"
+    },
+    {
+      "id": "D",
+      "text": "PRPP synthetase"
+    },
+    {
+      "id": "E",
+      "text": "UMP synthase"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Hereditary orotic aciduria is an autosomal recessive deficiency of the bifunctional enzyme UMP synthase, which contains orotate phosphoribosyltransferase and orotidine-5-prime-decarboxylase activities. The block causes orotic acid to accumulate and starves cells of pyrimidines, producing a megaloblastic anemia unresponsive to vitamin B12 or folate that is treated with uridine.",
+  "explanation_incorrect": {
+    "A": "Carbamoyl phosphate synthetase I deficiency causes hyperammonemia without orotic aciduria because the block is proximal to orotate formation.",
+    "B": "Ornithine transcarbamylase deficiency does produce orotic aciduria, but it is accompanied by marked hyperammonemia and encephalopathy rather than an isolated megaloblastic anemia.",
+    "C": "Carbamoyl phosphate synthetase II initiates cytosolic pyrimidine synthesis, but its deficiency would not cause orotic acid to accumulate, since orotate lies downstream of the block.",
+    "D": "PRPP synthetase superactivity causes hyperuricemia and early-onset gout, not orotic aciduria or macrocytic anemia."
+  },
+  "educationalObjective": "Megaloblastic anemia unresponsive to B12 or folate with orotic acid crystalluria and no hyperammonemia indicates hereditary orotic aciduria from UMP synthase deficiency.",
+  "source": "Generated from 1. Biochemistry.pdf - Section II: Metabolism, Purine and Pyrimidine Synthesis"
+}

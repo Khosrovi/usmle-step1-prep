@@ -1,0 +1,41 @@
+{
+  "id": "biochem-642-06",
+  "subject": "Biochemistry",
+  "major_topic": "Amino Acid Metabolism",
+  "subtopic": "One-Carbon Metabolism",
+  "difficulty": "medium",
+  "vignette": "A 33-year-old man is evaluated after a transient ischemic attack, and his brother had a myocardial infarction at age 35. He has no conventional cardiovascular risk factors. Laboratory studies show a plasma homocysteine of 38 micromol/L (normal less than 15), normal serum methylmalonic acid, normal methionine, and normal vitamin B12 and folate levels. Genetic testing shows homozygosity for a thermolabile variant of methylenetetrahydrofolate reductase.",
+  "question": "Which of the following reactions is most directly impaired in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Reduction of N5,N10-methylenetetrahydrofolate to N5-methyltetrahydrofolate"
+    },
+    {
+      "id": "B",
+      "text": "Condensation of homocysteine with serine to form cystathionine"
+    },
+    {
+      "id": "C",
+      "text": "Conversion of methionine to S-adenosylmethionine"
+    },
+    {
+      "id": "D",
+      "text": "Conversion of methylmalonyl-CoA to succinyl-CoA"
+    },
+    {
+      "id": "E",
+      "text": "Transfer of a methyl group from S-adenosylmethionine to guanidinoacetate"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Methylenetetrahydrofolate reductase generates methyltetrahydrofolate, which donates its methyl group in the methionine synthase reaction, so its deficiency limits remethylation of homocysteine to methionine and causes hyperhomocysteinemia with normal methylmalonic acid and normal or low methionine. The reduced folate cofactor also explains why folate supplementation lowers homocysteine in these patients, and hyperhomocysteinemia promotes endothelial injury and thrombosis.",
+  "explanation_incorrect": {
+    "B": "That reaction is catalyzed by cystathionine beta-synthase; its deficiency causes homocystinuria with elevated methionine, not normal methionine.",
+    "C": "Methionine adenosyltransferase is not the site of this defect, and its failure would not produce the biochemical pattern described.",
+    "D": "Methylmalonyl-CoA mutase requires vitamin B12, and its impairment would raise methylmalonic acid, which is normal here.",
+    "E": "Guanidinoacetate methyltransferase participates in creatine synthesis and is unrelated to homocysteine metabolism."
+  },
+  "educationalObjective": "MTHFR generates methyltetrahydrofolate for homocysteine remethylation, so its deficiency causes hyperhomocysteinemia with a normal methylmalonic acid level.",
+  "source": "Generated from 1. Biochemistry.pdf - Amino Acid Metabolism: One-Carbon Metabolism"
+}

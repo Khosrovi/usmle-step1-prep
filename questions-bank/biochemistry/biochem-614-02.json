@@ -1,0 +1,41 @@
+{
+  "id": "biochem-614-02",
+  "subject": "Biochemistry",
+  "major_topic": "Carbohydrate Metabolism",
+  "subtopic": "Glucose Transporters (GLUT, SGLT)",
+  "difficulty": "hard",
+  "vignette": "A 14-month-old boy is evaluated for recurrent seizures that began at 6 months of age, along with developmental delay and acquired microcephaly. Between episodes he is alert, and his serum glucose, electrolytes, and ammonia are normal; brain MRI is unremarkable. Lumbar puncture shows 0 white blood cells, protein 38 mg/dL, and glucose 27 mg/dL, while a simultaneously drawn serum glucose is 78 mg/dL. Arterial lactate is low (0.6 mmol/L).",
+  "question": "A defect in which of the following transporters is the most likely explanation for these findings?",
+  "options": [
+    {
+      "id": "A",
+      "text": "SGLT1, impairing intestinal glucose absorption"
+    },
+    {
+      "id": "B",
+      "text": "SGLT2, impairing renal glucose reabsorption"
+    },
+    {
+      "id": "C",
+      "text": "GLUT4, impairing insulin-stimulated glucose uptake"
+    },
+    {
+      "id": "D",
+      "text": "GLUT1, impairing glucose transport across the blood-brain barrier"
+    },
+    {
+      "id": "E",
+      "text": "GLUT2, impairing hepatic glucose output"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "The CSF-to-serum glucose ratio is about 0.35 (normal greater than 0.6) with normal CSF cells and protein, which is the definition of hypoglycorrhachia. GLUT1 is the facilitative transporter that carries glucose across the blood-brain barrier and into erythrocytes; haploinsufficiency causes GLUT1 deficiency syndrome with seizures, developmental delay, microcephaly, and low CSF lactate. A ketogenic diet is the mainstay of therapy because ketones enter the brain through monocarboxylate transporters.",
+  "explanation_incorrect": {
+    "A": "SGLT1 deficiency causes glucose-galactose malabsorption in infancy with osmotic diarrhea, dehydration, and failure to thrive, not hypoglycorrhachia and seizures.",
+    "B": "Loss of SGLT2 causes familial renal glucosuria, but plasma and CSF glucose are normal and neurologic development is unaffected.",
+    "C": "GLUT4 mediates insulin-dependent uptake in muscle and adipose tissue; its dysfunction impairs postprandial glucose disposal and does not lower CSF glucose.",
+    "E": "GLUT2 is the high-capacity transporter of liver and pancreatic beta cells; its loss impairs glucose sensing and hepatic glucose flux but does not selectively lower CSF glucose."
+  },
+  "educationalObjective": "GLUT1 deficiency syndrome causes hypoglycorrhachia with normal serum glucose and responds to a ketogenic diet.",
+  "source": "Generated from 1. Biochemistry.pdf - Carbohydrate Metabolism: Glucose Transporters (GLUT, SGLT)"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "biochem-608-03",
+  "subject": "Biochemistry",
+  "major_topic": "Enzymology",
+  "subtopic": "Lineweaver-Burk Plot",
+  "difficulty": "hard",
+  "vignette": "An enzymologist studies a purified kinase obtained from a patient with a rare congenital metabolic disorder. A Lineweaver-Burk plot of 1/v versus 1/[S] is constructed, with v expressed in micromol/min per mg of protein and [S] in mM. The best-fit line has a y-intercept of 0.02 and an x-intercept of -0.5.",
+  "question": "Which of the following correctly reports the Km and Vmax of this enzyme?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Km = 0.5 mM; Vmax = 0.02 micromol/min per mg"
+    },
+    {
+      "id": "B",
+      "text": "Km = 0.5 mM; Vmax = 50 micromol/min per mg"
+    },
+    {
+      "id": "C",
+      "text": "Km = 2 mM; Vmax = 0.02 micromol/min per mg"
+    },
+    {
+      "id": "D",
+      "text": "Km = 2 mM; Vmax = 50 micromol/min per mg"
+    },
+    {
+      "id": "E",
+      "text": "Km = 20 mM; Vmax = 500 micromol/min per mg"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "In the double-reciprocal plot the y-intercept equals 1/Vmax and the x-intercept equals -1/Km. A y-intercept of 0.02 gives Vmax = 1/0.02 = 50 micromol/min per mg, and an x-intercept of -0.5 mM raises to the minus first power gives Km = 1/0.5 = 2 mM. The slope of the line would be Km/Vmax = 0.04.",
+  "explanation_incorrect": {
+    "A": "This option mistakenly treats the intercept values themselves as Km and Vmax, ignoring that the plot reports reciprocals.",
+    "B": "A Km of 0.5 mM equals the magnitude of the x-intercept rather than its reciprocal, so this pairing of values is incorrect.",
+    "C": "This option correctly inverts the x-intercept to obtain Km but fails to invert the y-intercept to obtain Vmax.",
+    "E": "These values result from inverting in the wrong direction; neither 20 mM nor 500 micromol/min per mg follows from the intercepts provided."
+  },
+  "educationalObjective": "On a Lineweaver-Burk plot, Vmax = 1/(y-intercept) and Km = -1/(x-intercept), so both intercepts must be inverted to recover the kinetic constants.",
+  "source": "Generated from 1. Biochemistry.pdf - Enzymology: Lineweaver-Burk Plot"
+}

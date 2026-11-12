@@ -1,0 +1,41 @@
+{
+  "id": "biochem-632-05",
+  "subject": "Biochemistry",
+  "major_topic": "Lipid Metabolism",
+  "subtopic": "Lipoproteins",
+  "difficulty": "medium",
+  "vignette": "A 24-year-old man is noted to have enlarged, orange-yellow tonsils during a routine examination. He also reports several months of intermittent numbness and tingling of his hands and feet. His HDL cholesterol is 7 mg/dL, LDL cholesterol is 88 mg/dL, and triglycerides are 120 mg/dL. There is no hepatosplenomegaly.",
+  "question": "Which of the following is the most likely underlying defect?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Deficiency of lecithin-cholesterol acyltransferase"
+    },
+    {
+      "id": "B",
+      "text": "Defective ATP-binding cassette transporter A1 (ABCA1)"
+    },
+    {
+      "id": "C",
+      "text": "Deficiency of cholesteryl ester transfer protein"
+    },
+    {
+      "id": "D",
+      "text": "Deficiency of apolipoprotein C-II"
+    },
+    {
+      "id": "E",
+      "text": "Defective intestinal NPC1L1"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Tangier disease is an autosomal recessive disorder caused by loss-of-function mutations in ABCA1, the transporter that moves free cholesterol and phospholipid from cells onto nascent apolipoprotein A-I. Without this efflux step HDL cannot mature, so plasma HDL is nearly absent, and cholesterol accumulates in macrophages, producing the enlarged orange tonsils and a peripheral neuropathy.",
+  "explanation_incorrect": {
+    "A": "LCAT deficiency (fish-eye disease) also lowers HDL but produces corneal opacities and progressive renal disease rather than orange tonsils with neuropathy.",
+    "C": "Cholesteryl ester transfer protein deficiency raises HDL cholesterol markedly instead of eliminating it.",
+    "D": "Apolipoprotein C-II deficiency causes type I hyperchylomicronemia with severe hypertriglyceridemia, not isolated near-absent HDL.",
+    "E": "NPC1L1 mediates intestinal cholesterol absorption; its inhibition by ezetimibe lowers LDL cholesterol and does not cause absent HDL."
+  },
+  "educationalObjective": "Tangier disease is caused by ABCA1 mutations and produces near-absent HDL, enlarged orange tonsils, and peripheral neuropathy.",
+  "source": "Generated from 1. Biochemistry.pdf - Lipid Metabolism: Lipoproteins"
+}

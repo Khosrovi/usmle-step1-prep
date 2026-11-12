@@ -1,0 +1,41 @@
+{
+  "id": "biochem-657-06",
+  "subject": "Biochemistry",
+  "major_topic": "Molecular Biology",
+  "subtopic": "DNA Repair (BER, NER, MMR)",
+  "difficulty": "hard",
+  "vignette": "A 56-year-old man with a history of colorectal cancer undergoes analysis of his tumor, which shows loss of function of DNA polymerase beta. His cells can remove damaged bases and incise AP sites, but they cannot complete repair of the resulting single-nucleotide gaps.",
+  "question": "Which of the following repair pathways is impaired in these cells?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Base excision repair"
+    },
+    {
+      "id": "B",
+      "text": "Nucleotide excision repair"
+    },
+    {
+      "id": "C",
+      "text": "Mismatch repair"
+    },
+    {
+      "id": "D",
+      "text": "Homologous recombination"
+    },
+    {
+      "id": "E",
+      "text": "Nonhomologous end joining"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "DNA polymerase beta fills the single-nucleotide gap created during base excision repair, after which DNA ligase seals the nick. Loss of polymerase beta therefore blocks completion of base excision repair even though base removal and AP site incision remain intact.",
+  "explanation_incorrect": {
+    "B": "Nucleotide excision repair uses endonucleases plus other DNA polymerases to replace a longer oligonucleotide containing a bulky lesion.",
+    "C": "Mismatch repair corrects mismatched nucleotides in newly synthesized DNA and does not depend on polymerase beta.",
+    "D": "Homologous recombination repairs double-strand breaks using a homologous DNA duplex as a template.",
+    "E": "Nonhomologous end joining rejoins double-strand breaks without requiring homology."
+  },
+  "educationalObjective": "DNA polymerase beta fills the gap during base excision repair.",
+  "source": "Generated from 1. Biochemistry.pdf - Molecular Biology: DNA Repair (BER, NER, MMR)"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "biochem-600-01",
+  "subject": "Biochemistry",
+  "major_topic": "Amino Acids & Proteins",
+  "subtopic": "Acid-Base Properties and Isoelectric Point",
+  "difficulty": "hard",
+  "vignette": "A 62-year-old woman is evaluated for fatigue, bone pain, and confusion. Laboratory studies show a hemoglobin of 8.9 g/dL, calcium of 12.4 mg/dL, and a creatinine of 2.1 mg/dL. Serum protein electrophoresis performed at pH 8.6 shows a dense, narrow band in the gamma region, and immunofixation identifies a monoclonal IgG.",
+  "question": "Which of the following best explains why the immunoglobulin band migrates toward the cathode at pH 8.6?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The isoelectric point of immunoglobulin is below 8.6, so the protein carries a net negative charge."
+    },
+    {
+      "id": "B",
+      "text": "Immunoglobulins are neutral at pH 8.6 and therefore migrate only by size, not by charge."
+    },
+    {
+      "id": "C",
+      "text": "Immunoglobulins bind the buffer anions and become negatively charged carriers."
+    },
+    {
+      "id": "D",
+      "text": "The high carbohydrate content of immunoglobulins gives them a fixed negative charge independent of pH."
+    },
+    {
+      "id": "E",
+      "text": "The isoelectric point of immunoglobulin is above 8.6, so the protein carries a net positive charge."
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "A protein's net charge depends on the difference between the buffer pH and its isoelectric point (pI). At pH 8.6, albumin (pI about 4.6) is strongly negative and migrates toward the anode, whereas gamma globulins, whose pI values are higher than the buffer pH, are net positive and migrate toward the cathode. In multiple myeloma, the monoclonal immunoglobulin produces the dense gamma band seen in this patient.",
+  "explanation_incorrect": {
+    "A": "A pI below the buffer pH would make the protein net negative and cause migration toward the anode, not the cathode.",
+    "B": "Proteins at a pH equal to their pI have zero net charge and do not migrate in an electric field; that is not the case for gamma globulins at pH 8.6.",
+    "C": "Serum protein electrophoresis does not depend on binding buffer anions; migration is determined by the intrinsic net charge of each protein.",
+    "D": "Carbohydrate content does not confer a fixed pH-independent negative charge; charge is determined by ionizable amino acid side chains relative to the pI."
+  },
+  "educationalObjective": "A protein is net positive when the buffer pH is below its isoelectric point and therefore migrates toward the cathode, which explains why gamma globulins run cathodally on serum protein electrophoresis at pH 8.6.",
+  "source": "Generated from 1. Biochemistry.pdf - Amino Acids: Acid-Base Properties and Isoelectric Point"
+}

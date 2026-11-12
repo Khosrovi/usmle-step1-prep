@@ -1,0 +1,41 @@
+{
+  "id": "biochem-623-01",
+  "subject": "Biochemistry",
+  "major_topic": "Carbohydrate Metabolism",
+  "subtopic": "Glycogen Storage Diseases",
+  "difficulty": "easy",
+  "vignette": "A 4-month-old boy is brought for poor feeding and progressive abdominal enlargement. He has had several episodes of sweating and irritability that resolve with feeding. Examination shows a small, pale infant with marked hepatomegaly. After a 4-hour fast, laboratory studies show glucose 38 mg/dL, lactate 7.8 mmol/L, triglycerides 420 mg/dL, and uric acid 9.2 mg/dL.",
+  "question": "Which of the following is the most likely diagnosis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Pompe disease (type II)"
+    },
+    {
+      "id": "B",
+      "text": "Von Gierke disease (type I)"
+    },
+    {
+      "id": "C",
+      "text": "Cori disease (type III)"
+    },
+    {
+      "id": "D",
+      "text": "Andersen disease (type IV)"
+    },
+    {
+      "id": "E",
+      "text": "McArdle disease (type V)"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Von Gierke disease is caused by deficiency of glucose-6-phosphatase, so the liver cannot release glucose and severe fasting hypoglycemia develops. Glucose-6-phosphate accumulates and is shunted into glycolysis, producing lactic acidosis, and into triglyceride and uric acid synthesis, producing hypertriglyceridemia and gout; hepatomegaly and renomegaly are typical.",
+  "explanation_incorrect": {
+    "A": "Pompe disease is a lysosomal acid alpha-1,4-glucosidase (acid maltase) deficiency that presents with hypotonia, macroglossia, and cardiomyopathy, not with severe fasting hypoglycemia and lactic acidosis.",
+    "C": "Cori disease is caused by debranching enzyme deficiency; it resembles von Gierke disease but is milder and is characterized by normal blood lactate levels.",
+    "D": "Andersen disease is caused by branching enzyme deficiency and presents with hepatosplenomegaly, failure to thrive, and cirrhosis; hypoglycemia occurs late in the disease.",
+    "E": "McArdle disease is a muscle phosphorylase deficiency that causes exercise-induced cramps and myoglobinuria with unaffected blood glucose."
+  },
+  "educationalObjective": "Severe fasting hypoglycemia with lactic acidosis, hypertriglyceridemia, hyperuricemia, and hepatomegaly in an infant indicates von Gierke disease (glucose-6-phosphatase deficiency).",
+  "source": "Generated from 1. Biochemistry.pdf - Glycogen Storage Diseases"
+}

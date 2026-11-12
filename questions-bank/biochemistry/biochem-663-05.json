@@ -1,0 +1,41 @@
+{
+  "id": "biochem-663-05",
+  "subject": "Biochemistry",
+  "major_topic": "Molecular Biology",
+  "subtopic": "Post-Translational Modifications",
+  "difficulty": "easy",
+  "vignette": "A 45-year-old man is admitted with severe epigastric pain radiating to the back, nausea, and vomiting. Serum lipase is markedly elevated, and imaging shows pancreatic inflammation. During his illness, pancreatic enzymes that are normally stored as inactive precursors become activated within the gland.",
+  "question": "Which of the following best describes the normal activation of trypsinogen?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Glycosylation of the enzyme in the Golgi apparatus"
+    },
+    {
+      "id": "B",
+      "text": "Phosphorylation by protein kinase A"
+    },
+    {
+      "id": "C",
+      "text": "Gamma-carboxylation of glutamate residues"
+    },
+    {
+      "id": "D",
+      "text": "Cleavage of an N-terminal propeptide to produce mature trypsin"
+    },
+    {
+      "id": "E",
+      "text": "Ubiquitination followed by proteasomal degradation"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Trypsinogen is a zymogen that is activated in the duodenum when enteropeptidase cleaves its N-terminal propeptide, yielding mature trypsin; trypsin then activates the other pancreatic zymogens. This removal of an N-terminal propeptide (trimming) is a common post-translational mechanism for generating a mature protein. In pancreatitis, premature intrapancreatic activation of these zymogens causes autodigestion.",
+  "explanation_incorrect": {
+    "A": "Glycosylation is a post-translational modification, but it does not convert trypsinogen into trypsin.",
+    "B": "Phosphorylation regulates the activity of many enzymes but is not the mechanism of zymogen activation here.",
+    "C": "Gamma-carboxylation is vitamin K-dependent and occurs on clotting factors, not on trypsinogen.",
+    "E": "Ubiquitination targets proteins for degradation rather than activating a zymogen."
+  },
+  "educationalObjective": "Trypsinogen is activated by proteolytic removal of an N-terminal propeptide (trimming), a post-translational modification that generates mature trypsin.",
+  "source": "Generated from 1. Biochemistry.pdf - Molecular Biology: Posttranslational Modifications"
+}

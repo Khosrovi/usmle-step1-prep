@@ -1,0 +1,41 @@
+{
+  "id": "biochem-662-05",
+  "subject": "Biochemistry",
+  "major_topic": "Molecular Biology",
+  "subtopic": "Translation",
+  "difficulty": "medium",
+  "vignette": "A 3-year-old boy with early-onset progressive muscle weakness is diagnosed with Duchenne muscular dystrophy. Sequencing of the dystrophin gene shows a single-nucleotide change that creates a UGA codon in the middle of the transcript, and no functional dystrophin is produced.",
+  "question": "Which of the following best describes the normal function of the codon created by this mutation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It encodes tryptophan and would be read by a normal tRNA"
+    },
+    {
+      "id": "B",
+      "text": "It encodes selenocysteine in all contexts"
+    },
+    {
+      "id": "C",
+      "text": "It serves as the initiator codon for translation"
+    },
+    {
+      "id": "D",
+      "text": "It is recognized by release factors and signals termination of translation"
+    },
+    {
+      "id": "E",
+      "text": "It acts as a splice acceptor site in the nucleus"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "UGA, along with UAA and UAG, is a stop codon recognized by release factors; it terminates translation and releases the completed polypeptide from the ribosome. A mutation that creates a premature UGA codon in the dystrophin transcript produces a truncated, nonfunctional protein. Termination, like initiation and translocation, requires GTP.",
+  "explanation_incorrect": {
+    "A": "UGA normally signals termination and does not encode tryptophan; UGG is the tryptophan codon.",
+    "B": "UGA can direct selenocysteine incorporation only under special conditions involving a SECIS element, not in all contexts, and dystrophin does not use this mechanism.",
+    "C": "The initiator codon is AUG, which encodes methionine in eukaryotes and formylmethionine in prokaryotes.",
+    "E": "Splicing occurs in the nucleus and depends on splice site sequences, not on stop codons."
+  },
+  "educationalObjective": "UGA is one of the three stop codons and signals termination through release factors; a premature stop codon truncates the protein.",
+  "source": "Generated from 1. Biochemistry.pdf - Molecular Biology: Translation"
+}

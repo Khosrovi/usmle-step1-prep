@@ -1,0 +1,41 @@
+{
+  "id": "biochem-629-03",
+  "subject": "Biochemistry",
+  "major_topic": "Lipid Metabolism",
+  "subtopic": "Ketone Bodies",
+  "difficulty": "medium",
+  "vignette": "A 23-year-old man with type 1 diabetes mellitus is admitted with diabetic ketoacidosis: glucose 480 mg/dL, arterial pH 7.08, bicarbonate 6 mEq/L, anion gap 32 mEq/L, and serum beta-hydroxybutyrate 9.8 mmol/L. The urine dipstick for ketones is only trace positive, and the measured serum acetoacetate is disproportionately low compared with the severity of the acidosis.",
+  "question": "Which of the following best explains the discrepancy between this patient's ketoacidosis and his urine ketone result?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The dipstick detects acetone but not acetoacetate"
+    },
+    {
+      "id": "B",
+      "text": "The dipstick detects acetoacetate but not beta-hydroxybutyrate"
+    },
+    {
+      "id": "C",
+      "text": "The dipstick detects beta-hydroxybutyrate but not acetoacetate"
+    },
+    {
+      "id": "D",
+      "text": "The dipstick detects only ketone bodies bound to albumin"
+    },
+    {
+      "id": "E",
+      "text": "Acetone evaporates from the specimen before it is tested"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "The nitroprusside (Rothera) reaction used by routine urine and serum ketone tests reacts with acetoacetate and acetone but not with beta-hydroxybutyrate. In severe ketoacidosis the high NADH/NAD+ ratio favors conversion of acetoacetate to beta-hydroxybutyrate, so the dipstick can underestimate or even miss the ketosis, and direct measurement of beta-hydroxybutyrate is required.",
+  "explanation_incorrect": {
+    "A": "The nitroprusside reaction does react with acetoacetate, which is one of the two ketone species the test is designed to detect.",
+    "C": "The sensitivity is the opposite of what is described: beta-hydroxybutyrate is the species that is not detected by the nitroprusside test.",
+    "D": "Ketone bodies circulate as free small molecules and are filtered and excreted without binding to albumin.",
+    "E": "Loss of acetone from a collected specimen is minor and would not explain the trace result when beta-hydroxybutyrate is nearly 10 mmol/L."
+  },
+  "educationalObjective": "Nitroprusside ketone tests detect acetoacetate and acetone but not beta-hydroxybutyrate, so they can underestimate ketoacidosis when beta-hydroxybutyrate predominates.",
+  "source": "Generated from 1. Biochemistry.pdf - Lipid Metabolism: Ketone Bodies"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "pharm-002",
+  "subject": "Pharmacology",
+  "major_topic": "Autonomic Drugs",
+  "subtopic": "Cholinesterase inhibitors and organophosphate poisoning",
+  "difficulty": "medium",
+  "vignette": "A farmworker is found confused, sweating profusely, and in respiratory distress after spraying crops without protective equipment. Examination shows miosis, bradycardia, bronchorrhea, and muscle fasciculations.",
+  "question": "Which of the following is the most appropriate initial pharmacologic treatment?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Atropine followed by pralidoxime"
+    },
+    {
+      "id": "B",
+      "text": "Pralidoxime followed by atropine"
+    },
+    {
+      "id": "C",
+      "text": "Physostigmine"
+    },
+    {
+      "id": "D",
+      "text": "Naloxone"
+    },
+    {
+      "id": "E",
+      "text": "Succinylcholine"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Organophosphates irreversibly inhibit acetylcholinesterase, producing cholinergic excess with miosis, bradycardia, bronchorrhea, and fasciculations. Atropine is given first to block muscarinic effects such as bronchorrhea and bradycardia, and pralidoxime is then used to reactivate acetylcholinesterase before the enzyme ages.",
+  "explanation_incorrect": {
+    "B": "The order is reversed: atropine must come first to dry secretions and support the airway, and pralidoxime works only while the enzyme can still be reactivated.",
+    "C": "Physostigmine inhibits acetylcholinesterase and would worsen cholinergic toxicity.",
+    "D": "Naloxone is an opioid antagonist and has no role in organophosphate poisoning.",
+    "E": "Succinylcholine is metabolized by pseudocholinesterase, which is inhibited in organophosphate poisoning, so its effect would be dangerously prolonged."
+  },
+  "educationalObjective": "Organophosphate poisoning is treated with atropine first for muscarinic blockade, followed by early pralidoxime for enzyme reactivation.",
+  "source": "Generated from 5. Pharmacology.pdf - Autonomic Drugs and specific toxicity treatments"
+}

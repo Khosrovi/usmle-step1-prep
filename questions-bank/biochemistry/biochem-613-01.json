@@ -1,0 +1,41 @@
+{
+  "id": "biochem-613-01",
+  "subject": "Biochemistry",
+  "major_topic": "Enzymology",
+  "subtopic": "Zymogens",
+  "difficulty": "medium",
+  "vignette": "A 45-year-old man with heavy alcohol use presents with severe epigastric pain radiating to the back that is relieved by leaning forward. Serum lipase is markedly elevated and CT shows pancreatic edema with peripancreatic fluid. The pancreatic injury is attributed to autodigestion by the gland's own digestive enzymes.",
+  "question": "Which of the following is the most likely proximate cause of pancreatic autodigestion in this condition?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Failure of enteropeptidase to activate pancreatic zymogens within the duodenum"
+    },
+    {
+      "id": "B",
+      "text": "Intrapancreatic premature conversion of trypsinogen to trypsin, which then activates the other zymogens"
+    },
+    {
+      "id": "C",
+      "text": "Increased synthesis of alpha1-antitrypsin within pancreatic acinar cells"
+    },
+    {
+      "id": "D",
+      "text": "Deficiency of procarboxypeptidase, which prevents breakdown of partially digested proteins"
+    },
+    {
+      "id": "E",
+      "text": "Hereditary absence of chymotrypsinogen, which destabilizes the zymogen granules"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Pancreatic digestive enzymes are synthesized as inactive zymogens, including trypsinogen, chymotrypsinogen, procarboxypeptidase, and proelastase, which normally are activated only after reaching the duodenum. Trypsinogen is converted to trypsin by enteropeptidase, and trypsin then activates the remaining zymogens; if this conversion occurs prematurely within the pancreas, activated trypsin digests the gland itself. Alcohol-related and other forms of acute pancreatitis are therefore treated as autodigestion caused by premature zymogen activation, with protective protease inhibitors such as alpha1-antitrypsin normally limiting the damage.",
+  "explanation_incorrect": {
+    "A": "Failure of duodenal enteropeptidase activation would cause maldigestion in the gut, not intrapancreatic autodigestion with severe abdominal pain and elevated lipase.",
+    "C": "Increased alpha1-antitrypsin would inhibit, not promote, protease activity; alpha1-antitrypsin deficiency permits unopposed elastase activity and tissue damage.",
+    "D": "Procarboxypeptidase deficiency would impair terminal protein digestion in the intestinal lumen but would not activate other zymogens inside the pancreas.",
+    "E": "Chymotrypsinogen is activated downstream by trypsin, and its absence does not initiate the activation cascade that causes pancreatitis."
+  },
+  "educationalObjective": "Acute pancreatitis results from premature intrapancreatic activation of trypsinogen to trypsin, which then activates other digestive zymogens and causes autodigestion of the gland.",
+  "source": "Generated from 1. Biochemistry.pdf - Enzymology: Zymogens"
+}

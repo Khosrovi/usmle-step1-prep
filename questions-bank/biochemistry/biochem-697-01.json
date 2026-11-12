@@ -1,0 +1,41 @@
+{
+  "id": "biochem-697-01",
+  "subject": "Biochemistry",
+  "major_topic": "Inborn Errors of Metabolism",
+  "subtopic": "Purine/Pyrimidine Disorders",
+  "difficulty": "easy",
+  "vignette": "A 2-year-old boy is brought for evaluation of developmental delay and episodes of unexplained agitation during which he severely bites his lips and fingers. He has dystonic posturing of the arms and orange, sand-like crystals in his diaper. Serum uric acid is 13 mg/dL and urine uric acid is elevated, with normal urine organic acids. His maternal uncle had similar behavior problems and died of renal failure in childhood.",
+  "question": "Which of the following is the most likely diagnosis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Adenosine deaminase deficiency"
+    },
+    {
+      "id": "B",
+      "text": "Lesch-Nyhan syndrome"
+    },
+    {
+      "id": "C",
+      "text": "Adenine phosphoribosyltransferase deficiency"
+    },
+    {
+      "id": "D",
+      "text": "Hereditary orotic aciduria"
+    },
+    {
+      "id": "E",
+      "text": "Glycogen storage disease type I"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Lesch-Nyhan syndrome is an X-linked recessive deficiency of hypoxanthine-guanine phosphoribosyltransferase, which prevents salvage of hypoxanthine and guanine. The resulting rise in PRPP increases de novo purine synthesis and uric acid production, while the neurologic features include intellectual disability, aggression, self-mutilation, and dystonia; allopurinol or febuxostat lowers urate but does not reverse the neurologic findings.",
+  "explanation_incorrect": {
+    "A": "Adenosine deaminase deficiency causes autosomal recessive severe combined immunodeficiency with recurrent infections and lymphopenia, not self-mutilation or hyperuricemia.",
+    "C": "Adenine phosphoribosyltransferase deficiency causes 2,8-dihydroxyadenine kidney stones with normal uric acid and no neurologic features.",
+    "D": "Hereditary orotic aciduria causes megaloblastic anemia, failure to thrive, and orotic acid crystalluria, without hyperuricemia or self-mutilation.",
+    "E": "Glycogen storage disease type I causes fasting hypoglycemia, hepatomegaly, and lactic acidosis; hyperuricemia may occur, but the behavior and dystonia seen here are not part of the disease."
+  },
+  "educationalObjective": "Self-mutilation, dystonia, and hyperuricemia in a young boy indicate Lesch-Nyhan syndrome from X-linked HGPRT deficiency.",
+  "source": "Generated from 1. Biochemistry.pdf - Section II: Metabolism, Purine and Pyrimidine Synthesis"
+}

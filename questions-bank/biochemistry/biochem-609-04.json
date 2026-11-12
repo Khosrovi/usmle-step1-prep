@@ -1,0 +1,41 @@
+{
+  "id": "biochem-609-04",
+  "subject": "Biochemistry",
+  "major_topic": "Enzymology",
+  "subtopic": "Enzyme Inhibition Types",
+  "difficulty": "medium",
+  "vignette": "A 62-year-old woman with rheumatoid arthritis takes weekly methotrexate, which competitively inhibits dihydrofolate reductase by mimicking the folate substrate. She develops painful oral ulcerations and pancytopenia. Her physician administers leucovorin (N5-formyl-tetrahydrofolate) and her mucosal and hematologic toxicity resolves over several days.",
+  "question": "Which of the following best explains why leucovorin reverses methotrexate toxicity despite the competitive blockade of dihydrofolate reductase?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It raises the substrate concentration for dihydrofolate reductase and outcompetes methotrexate at the active site"
+    },
+    {
+      "id": "B",
+      "text": "It permanently inactivates circulating methotrexate and accelerates its hepatic metabolism"
+    },
+    {
+      "id": "C",
+      "text": "It induces transcription of the dihydrofolate reductase gene and restores enzyme synthesis"
+    },
+    {
+      "id": "D",
+      "text": "It is already a reduced folate and therefore replenishes the tetrahydrofolate pool downstream of the inhibited step"
+    },
+    {
+      "id": "E",
+      "text": "It increases the affinity of dihydrofolate reductase for folate while leaving methotrexate binding unchanged"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Methotrexate competitively inhibits dihydrofolate reductase, depleting tetrahydrofolate and its one-carbon derivatives such as N5,N10-methylenetetrahydrofolate, which is required for thymidylate synthesis. Leucovorin is a reduced folate that enters cells and is converted to tetrahydrofolate derivatives without needing dihydrofolate reductase, thereby bypassing the block. This is described as leucovorin rescue and it restores DNA synthesis in the patient's rapidly dividing tissues.",
+  "explanation_incorrect": {
+    "A": "Competing with methotrexate at the active site by raising folate concentrations is inefficient and is not the mechanism of rescue, since methotrexate binds the enzyme with very high affinity.",
+    "B": "Leucovorin does not inactivate or metabolize methotrexate; it bypasses the metabolic block downstream of the inhibited enzyme.",
+    "C": "Enzyme induction would take days and is not the reason a reduced folate corrects toxicity within hours to days.",
+    "E": "Leucovorin does not alter the kinetics of dihydrofolate reductase; its benefit comes from supplying product downstream of the block."
+  },
+  "educationalObjective": "Leucovorin rescue works by supplying a reduced folate that bypasses competitively inhibited dihydrofolate reductase, restoring the tetrahydrofolate pool.",
+  "source": "Generated from 1. Biochemistry.pdf - Enzymology: Enzyme Inhibition Types"
+}

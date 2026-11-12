@@ -1,0 +1,41 @@
+{
+  "id": "biochem-684-05",
+  "subject": "Biochemistry",
+  "major_topic": "Heme and Bilirubin Metabolism",
+  "subtopic": "Heme Synthesis",
+  "difficulty": "hard",
+  "vignette": "A 52-year-old man with a long history of heavy alcohol use is evaluated for fatigue. Laboratory studies show hemoglobin 9.6 g/dL, mean corpuscular volume 101 fL, elevated serum iron, and increased transferrin saturation. Serum vitamin B12 and folate are normal, and testing for an ALAS2 mutation is negative. Bone marrow aspirate shows ring sideroblasts.",
+  "question": "Which of the following best explains the presence of ring sideroblasts in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Cytosolic accumulation of protoporphyrin IX"
+    },
+    {
+      "id": "B",
+      "text": "Defective beta-globin chain synthesis"
+    },
+    {
+      "id": "C",
+      "text": "Increased heme oxygenase activity in macrophages"
+    },
+    {
+      "id": "D",
+      "text": "Decreased erythropoietin production"
+    },
+    {
+      "id": "E",
+      "text": "Mitochondrial iron deposition due to impaired heme synthesis"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Ring sideroblasts are erythroid precursors in which iron accumulates within mitochondria because it cannot be inserted into protoporphyrin IX to form heme. Alcohol is a mitochondrial toxin and a recognized cause of sideroblastic anemia. On Prussian blue staining, the iron-laden mitochondria form a ring around the nucleus, giving the cells their name.",
+  "explanation_incorrect": {
+    "A": "Protoporphyrin IX accumulates in erythropoietic protoporphyria because ferrochelatase cannot incorporate iron; protoporphyrin itself is not the ring-forming material seen on iron staining.",
+    "B": "Defective beta-globin synthesis causes thalassemia, which produces microcytic hypochromic anemia with target cells, not ring sideroblasts.",
+    "C": "Increased heme oxygenase activity accelerates heme catabolism during hemolysis and does not produce ring sideroblasts.",
+    "D": "Reduced erythropoietin production causes the normocytic anemia of chronic kidney disease without iron loading of erythroid mitochondria."
+  },
+  "educationalObjective": "Ring sideroblasts reflect mitochondrial iron overload that occurs whenever heme synthesis is impaired, as with alcohol, lead, isoniazid, and ALAS2 mutations.",
+  "source": "Generated from 1. Biochemistry.pdf - Heme and Bilirubin Metabolism: Heme Synthesis"
+}

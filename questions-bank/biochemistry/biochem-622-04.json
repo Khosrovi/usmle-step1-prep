@@ -1,0 +1,41 @@
+{
+  "id": "biochem-622-04",
+  "subject": "Biochemistry",
+  "major_topic": "Carbohydrate Metabolism",
+  "subtopic": "Glycogen Synthesis and Breakdown",
+  "difficulty": "medium",
+  "vignette": "A 26-year-old man is running a marathon and relies heavily on muscle glycogen for energy. During the race his blood glucose remains stable even though his muscles are rapidly consuming glucose-6-phosphate.",
+  "question": "Which of the following best explains why muscle glycogen cannot directly maintain blood glucose during this exercise?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Muscle lacks glycogen phosphorylase"
+    },
+    {
+      "id": "B",
+      "text": "Muscle lacks debranching enzyme"
+    },
+    {
+      "id": "C",
+      "text": "Muscle lacks glucose-6-phosphatase"
+    },
+    {
+      "id": "D",
+      "text": "Muscle lacks phosphoenolpyruvate carboxykinase"
+    },
+    {
+      "id": "E",
+      "text": "Muscle lacks glucagon receptors"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Muscle glycogen is degraded to glucose-6-phosphate, which enters glycolysis because muscle lacks glucose-6-phosphatase and cannot release free glucose into the blood. The liver, which possesses glucose-6-phosphatase, is the organ that maintains blood glucose during fasting and exercise.",
+  "explanation_incorrect": {
+    "A": "Muscle contains abundant glycogen phosphorylase, which is why muscle glycogen can be mobilized during exercise.",
+    "B": "Muscle contains both debranching enzyme activities and can fully degrade branched glycogen to glucose-6-phosphate.",
+    "D": "Phosphoenolpyruvate carboxykinase is a gluconeogenic enzyme; its absence is not the reason muscle glycogen cannot raise blood glucose, since muscle also cannot release glucose-6-phosphate.",
+    "E": "Glucagon does not act on muscle, but muscle glycogenolysis is driven by epinephrine and contraction, so receptor status is not the explanation."
+  },
+  "educationalObjective": "Muscle glycogen cannot raise blood glucose because muscle lacks glucose-6-phosphatase, so its glucose-6-phosphate is used locally in glycolysis.",
+  "source": "Generated from 1. Biochemistry.pdf - Glycogen Synthesis and Breakdown"
+}

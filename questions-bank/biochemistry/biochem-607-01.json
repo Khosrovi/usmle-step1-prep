@@ -1,0 +1,41 @@
+{
+  "id": "biochem-607-01",
+  "subject": "Biochemistry",
+  "major_topic": "Enzymology",
+  "subtopic": "Enzyme Kinetics (Michaelis-Menten, Vmax, Km)",
+  "difficulty": "medium",
+  "vignette": "A 14-year-old boy is evaluated for mild fasting hyperglycemia found on a routine sports physical examination. His father and paternal grandmother were given a diagnosis of diabetes in their teens and twenties and have never required insulin. The boy is lean, has no acanthosis nigricans, and is negative for islet autoantibodies. Genetic testing shows a heterozygous mutation in the glucokinase gene, and kinetic studies of the mutant enzyme show a markedly increased Km for glucose with an unchanged Vmax.",
+  "question": "Which of the following best explains the increased threshold for glucose-stimulated insulin secretion in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The mutant glucokinase has a lower affinity for glucose, so a higher intracellular glucose concentration is required to generate the ATP signal that triggers insulin release"
+    },
+    {
+      "id": "B",
+      "text": "The mutant glucokinase has a higher affinity for glucose and is prematurely saturated at low glucose concentrations"
+    },
+    {
+      "id": "C",
+      "text": "The catalytic rate constant of the mutant enzyme is increased, which lowers the glucose threshold for insulin release"
+    },
+    {
+      "id": "D",
+      "text": "Hexokinase is overexpressed in pancreatic beta cells and compensates for the glucokinase defect"
+    },
+    {
+      "id": "E",
+      "text": "Loss of glucokinase lowers the Km of downstream glycolytic enzymes and slows glucose oxidation"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Glucokinase is the glucose sensor of pancreatic beta cells and has a uniquely high Km (low affinity) for glucose, so its reaction rate rises steeply only when blood glucose is high. A mutation that further increases Km shifts the glucose concentration needed for half-maximal phosphorylation upward, blunting the rise in ATP/ADP that closes ATP-sensitive K+ channels and triggers insulin exocytosis. The result is mild, stable, autosomal dominant hyperglycemia (MODY 2) that usually responds to diet rather than insulin.",
+  "explanation_incorrect": {
+    "B": "An increased affinity (lower Km) would lower the threshold for glucose sensing and cause hyperinsulinemic hypoglycemia, not mild hyperglycemia.",
+    "C": "The vignette states that Vmax is unchanged; an increased kcat would raise Vmax and could not explain a higher glucose threshold.",
+    "D": "Pancreatic beta cells normally use glucokinase, not hexokinase, as their glucose sensor; hexokinase has a low Km and is saturated and product-inhibited even at low glucose concentrations.",
+    "E": "Km is an intrinsic property of each individual enzyme and does not change in downstream enzymes when glucokinase activity falls; decreased glucose phosphorylation simply slows glycolytic flux."
+  },
+  "educationalObjective": "Km is inversely related to substrate affinity, and glucokinase's high Km allows it to act as the beta-cell glucose sensor, so mutations that raise Km increase the glucose threshold for insulin secretion.",
+  "source": "Generated from 1. Biochemistry.pdf - Enzymology: Enzyme Kinetics (Michaelis-Menten, Vmax, Km)"
+}

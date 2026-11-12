@@ -1,0 +1,41 @@
+{
+  "id": "biochem-617-03",
+  "subject": "Biochemistry",
+  "major_topic": "Carbohydrate Metabolism",
+  "subtopic": "TCA Cycle (Krebs)",
+  "difficulty": "medium",
+  "vignette": "A 45-year-old man receiving isoniazid for pulmonary tuberculosis presents with progressive fatigue and exertional dyspnea. Laboratory studies show hemoglobin 8.9 g/dL and MCV 74 fL; bone marrow biopsy shows ring sideroblasts. Serum pyridoxine is low.",
+  "question": "Impaired availability of which of the following substrate pairs is the most likely explanation for this patient's anemia?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Glycine and succinyl-CoA"
+    },
+    {
+      "id": "B",
+      "text": "Alanine and pyruvate"
+    },
+    {
+      "id": "C",
+      "text": "Glycine and acetyl-CoA"
+    },
+    {
+      "id": "D",
+      "text": "Aspartate and fumarate"
+    },
+    {
+      "id": "E",
+      "text": "Glutamate and alpha-ketoglutarate"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "The rate-limiting step of heme synthesis is catalyzed by mitochondrial ALA synthase, which requires pyridoxal phosphate and condenses glycine with succinyl-CoA to form delta-ALA. Isoniazid depletes vitamin B6, impairing this reaction and causing ring sideroblasts.",
+  "explanation_incorrect": {
+    "B": "Alanine and pyruvate are linked by alanine aminotransferase in the Cahill cycle and are not substrates for ALA synthase.",
+    "C": "Acetyl-CoA is not a substrate of ALA synthase; it is used for fatty acid synthesis and ketogenesis.",
+    "D": "Aspartate and fumarate are linked through the urea cycle, not heme synthesis.",
+    "E": "Glutamate and alpha-ketoglutarate are interconverted by glutamate dehydrogenase or transamination, not by ALA synthase."
+  },
+  "educationalObjective": "Heme synthesis requires the TCA cycle intermediate succinyl-CoA, which ALA synthase condenses with glycine in a pyridoxal phosphate-dependent reaction.",
+  "source": "Generated from 1. Biochemistry.pdf - TCA Cycle (Krebs)"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "biochem-616-04",
+  "subject": "Biochemistry",
+  "major_topic": "Carbohydrate Metabolism",
+  "subtopic": "Gluconeogenesis",
+  "difficulty": "medium",
+  "vignette": "A 55-year-old man is in the third day of a prolonged fast during a hospitalization for pancreatitis. His plasma glucose is maintained at 68 mg/dL, his urine contains ketones, and his liver takes up lactate, alanine, and glycerol to sustain gluconeogenesis. He is not receiving any nutritional supplements.",
+  "question": "Which of the following substrates can undergo net conversion to glucose in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Palmitate, a 16-carbon saturated fatty acid"
+    },
+    {
+      "id": "B",
+      "text": "Oleate, an 18-carbon monounsaturated fatty acid"
+    },
+    {
+      "id": "C",
+      "text": "Acetoacetate, a ketone body"
+    },
+    {
+      "id": "D",
+      "text": "Heptadecanoate (margaric acid), a 17-carbon saturated fatty acid"
+    },
+    {
+      "id": "E",
+      "text": "Leucine, a ketogenic amino acid"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Odd-chain fatty acids such as heptadecanoate are oxidized to propionyl-CoA, which is carboxylated to methylmalonyl-CoA with biotin and converted by vitamin B12-dependent methylmalonyl-CoA mutase to succinyl-CoA; succinyl-CoA enters the TCA cycle and can be used for gluconeogenesis. Even-chain fatty acids yield only acetyl-CoA, which cannot produce net glucose in humans, and leucine is purely ketogenic.",
+  "explanation_incorrect": {
+    "A": "Palmitate is an even-chain fatty acid that yields acetyl-CoA only; acetyl-CoA cannot be converted to oxaloacetate in humans, so it provides no net glucose.",
+    "B": "Oleate is also an even-chain fatty acid and yields only acetyl-CoA equivalents, which are ketogenic.",
+    "C": "Acetoacetate is a ketone body produced by the liver; it is used as fuel by extrahepatic tissues and cannot be converted to glucose.",
+    "E": "Leucine is one of the two purely ketogenic amino acids (with lysine); it yields acetyl-CoA and acetoacetate but no glucose."
+  },
+  "educationalObjective": "Odd-chain fatty acids are the only fatty acids that can serve as a net source of glucose, because propionyl-CoA enters the TCA cycle as succinyl-CoA, whereas even-chain fatty acids yield only acetyl-CoA.",
+  "source": "Generated from 1. Biochemistry.pdf - Carbohydrate Metabolism: Gluconeogenesis"
+}

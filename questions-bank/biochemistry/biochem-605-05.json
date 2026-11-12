@@ -1,0 +1,41 @@
+{
+  "id": "biochem-605-05",
+  "subject": "Biochemistry",
+  "major_topic": "Amino Acids & Proteins",
+  "subtopic": "Immunoglobulins Structure and Classes",
+  "difficulty": "hard",
+  "vignette": "A 2-year-old boy is evaluated for recurrent pneumonia, chronic diarrhea, and failure to thrive. Laboratory studies show markedly decreased serum IgG, IgA, and IgE with an elevated serum IgM; B-cell and T-cell numbers are normal. Flow cytometry shows that his B cells express surface IgM and IgD but not IgG, IgA, or IgE. Genetic testing identifies a mutation in CD40 ligand (CD40L).",
+  "question": "Which of the following processes is most directly impaired in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "V(D)J recombination of immunoglobulin heavy-chain and light-chain variable regions"
+    },
+    {
+      "id": "B",
+      "text": "Somatic hypermutation of variable-region genes in germinal centers"
+    },
+    {
+      "id": "C",
+      "text": "Assembly and signaling of the pre-B-cell receptor"
+    },
+    {
+      "id": "D",
+      "text": "Proteolytic cleavage of immunoglobulin into Fab and Fc fragments"
+    },
+    {
+      "id": "E",
+      "text": "Class switch recombination of heavy-chain constant-region genes"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Interaction of CD40L on helper T cells with CD40 on B cells is required for class switch recombination, which joins a new heavy-chain constant region to the existing variable region and changes the isotype from IgM and IgD to IgG, IgA, or IgE. Loss of this signal leaves normal numbers of B cells that produce only IgM, the pattern of X-linked hyper-IgM syndrome.",
+  "explanation_incorrect": {
+    "A": "Defective V(D)J recombination prevents assembly of any functional antigen receptor, producing absent B cells and panhypogammaglobulinemia (as in Bruton agammaglobulinemia) rather than normal B cells with isolated IgM production.",
+    "B": "Somatic hypermutation introduces point mutations that increase antibody affinity for antigen; impaired affinity maturation would not change the isotype distribution or raise IgM.",
+    "C": "Failure of pre-B-cell receptor assembly blocks B-cell development before surface immunoglobulin expression, so B cells would be absent rather than IgM-positive.",
+    "D": "Cleavage of immunoglobulin into Fab and Fc fragments is an in vitro effect of papain digestion, not a physiologic step that determines the antibody class."
+  },
+  "educationalObjective": "X-linked hyper-IgM syndrome results from defective CD40L-CD40 interaction and impaired class switch recombination, leaving elevated IgM with low IgG, IgA, and IgE.",
+  "source": "Generated from 1. Biochemistry.pdf - Immunoglobulins Structure and Classes"
+}

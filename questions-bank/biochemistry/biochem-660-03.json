@@ -1,0 +1,41 @@
+{
+  "id": "biochem-660-03",
+  "subject": "Biochemistry",
+  "major_topic": "Molecular Biology",
+  "subtopic": "Transcription",
+  "difficulty": "easy",
+  "vignette": "A 4-month-old boy is evaluated for pallor and failure to thrive. He has a macrocytic anemia with reticulocytopenia, and bone marrow aspirate shows decreased erythroid precursors. Genetic testing reveals a mutation in a ribosomal protein gene, and marrow studies demonstrate impaired ribosome biogenesis.",
+  "question": "Which of the following RNA species is synthesized by RNA polymerase I in the nucleolus?",
+  "options": [
+    {
+      "id": "A",
+      "text": "mRNA"
+    },
+    {
+      "id": "B",
+      "text": "tRNA"
+    },
+    {
+      "id": "C",
+      "text": "snRNA"
+    },
+    {
+      "id": "D",
+      "text": "rRNA"
+    },
+    {
+      "id": "E",
+      "text": "5S rRNA"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "RNA polymerase I is located in the nucleolus and transcribes the large ribosomal RNA precursor that is processed into the 28S, 18S, and 5.8S rRNAs of the ribosome. Diamond-Blackfan anemia results from mutations in ribosomal proteins and impaired ribosome biogenesis, consistent with this infant's erythroid failure. RNA polymerase II makes mRNA and snRNA, whereas RNA polymerase III makes tRNA and 5S rRNA.",
+  "explanation_incorrect": {
+    "A": "mRNA is synthesized by RNA polymerase II, not by RNA polymerase I.",
+    "B": "tRNA is synthesized by RNA polymerase III.",
+    "C": "snRNA is synthesized by RNA polymerase II along with mRNA and miRNA.",
+    "E": "5S rRNA is synthesized by RNA polymerase III, not by RNA polymerase I."
+  },
+  "educationalObjective": "RNA polymerase I transcribes rRNA in the nucleolus, RNA polymerase II transcribes mRNA and snRNA, and RNA polymerase III transcribes tRNA and 5S rRNA.",
+  "source": "Generated from 1. Biochemistry.pdf - Molecular Biology: Transcription"
+}

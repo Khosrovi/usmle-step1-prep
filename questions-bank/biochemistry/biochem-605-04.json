@@ -1,0 +1,41 @@
+{
+  "id": "biochem-605-04",
+  "subject": "Biochemistry",
+  "major_topic": "Amino Acids & Proteins",
+  "subtopic": "Immunoglobulins Structure and Classes",
+  "difficulty": "medium",
+  "vignette": "A 7-year-old boy is brought to the emergency department 5 minutes after eating a peanut butter cookie at school. He has lip and tongue swelling, diffuse urticaria, and audible wheezing, and his blood pressure is 78/40 mm Hg. He has a history of atopic dermatitis and allergic rhinitis, and a serum tryptase level drawn later is elevated. The reaction resolves after intramuscular epinephrine.",
+  "question": "The rapid onset of this patient's symptoms is initiated by cross-linking of which of the following structures on the surface of his mast cells and basophils?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Secretory component bound to dimeric IgA"
+    },
+    {
+      "id": "B",
+      "text": "Fc epsilon RI-bound IgE"
+    },
+    {
+      "id": "C",
+      "text": "Fc gamma receptors bound to IgG immune complexes"
+    },
+    {
+      "id": "D",
+      "text": "Pentameric IgM bound to complement fragments"
+    },
+    {
+      "id": "E",
+      "text": "Surface IgD acting as a B-cell antigen receptor"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "In type I hypersensitivity, peanut allergens cross-link IgE already bound to high-affinity Fc epsilon RI receptors on mast cells and basophils. This triggers degranulation and release of preformed mediators such as histamine and tryptase, producing urticaria, bronchospasm, and hypotension; IgE switching depends on Th2 cytokines including IL-4 and IL-13.",
+  "explanation_incorrect": {
+    "A": "Secretory component plus dimeric IgA forms secretory IgA, which neutralizes pathogens at mucosal surfaces and does not arm mast cells for immediate degranulation.",
+    "C": "Fc gamma receptors bind IgG and participate in opsonization and type II and III hypersensitivity, not in the IgE-dependent immediate reaction seen here.",
+    "D": "IgM is a complement-fixing pentamer involved in early humoral responses and immune-complex disease; it is not the mast-cell-bound isotype that triggers anaphylaxis.",
+    "E": "IgD is expressed on naive B cells and serves as an antigen receptor; it is not present on mast cells and does not mediate their degranulation."
+  },
+  "educationalObjective": "Immediate type I hypersensitivity is initiated when an allergen cross-links IgE bound to Fc epsilon RI on mast cells and basophils.",
+  "source": "Generated from 1. Biochemistry.pdf - Immunoglobulins Structure and Classes"
+}

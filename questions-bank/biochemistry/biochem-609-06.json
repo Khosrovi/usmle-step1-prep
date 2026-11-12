@@ -1,0 +1,41 @@
+{
+  "id": "biochem-609-06",
+  "subject": "Biochemistry",
+  "major_topic": "Enzymology",
+  "subtopic": "Enzyme Inhibition Types",
+  "difficulty": "hard",
+  "vignette": "A 47-year-old man with gout participates in a study of an investigational xanthine oxidase inhibitor. Kinetic analysis shows that the drug binds both to the free enzyme and to the enzyme-substrate complex, but its affinity for the free enzyme is considerably higher. As a result the apparent substrate affinity falls, and even at very high substrate concentrations the maximal rate achieved is below the uninhibited Vmax.",
+  "question": "Which of the following best describes the effect of this drug on the kinetic parameters of xanthine oxidase?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Apparent Km increases and Vmax decreases"
+    },
+    {
+      "id": "B",
+      "text": "Apparent Km increases and Vmax is unchanged"
+    },
+    {
+      "id": "C",
+      "text": "Apparent Km is unchanged and Vmax decreases"
+    },
+    {
+      "id": "D",
+      "text": "Apparent Km decreases and Vmax decreases"
+    },
+    {
+      "id": "E",
+      "text": "Both apparent Km and Vmax are unchanged"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Binding of an inhibitor to both free enzyme and the enzyme-substrate complex, with unequal affinities for the two forms, produces mixed inhibition. Because inhibitor can bind the free enzyme and prevent substrate binding, the apparent Km rises, and because some enzyme remains trapped in dead-end complexes even at saturating substrate, Vmax falls. On a Lineweaver-Burk plot the lines would intersect to the left of the y-axis.",
+  "explanation_incorrect": {
+    "B": "An increased apparent Km with unchanged Vmax describes pure competitive inhibition, in which the inhibitor competes only for the free enzyme at the active site.",
+    "C": "An unchanged Km with decreased Vmax describes pure noncompetitive inhibition, in which the inhibitor binds free enzyme and ES complex equally.",
+    "D": "A decreased apparent Km with a decreased Vmax describes uncompetitive inhibition, in which the inhibitor binds only the ES complex.",
+    "E": "Unchanged kinetic parameters would mean no measurable inhibition, which contradicts the observed fall in the maximal rate and substrate affinity."
+  },
+  "educationalObjective": "Mixed inhibition increases apparent Km and decreases Vmax because the inhibitor binds both free enzyme and the enzyme-substrate complex with different affinities.",
+  "source": "Generated from 1. Biochemistry.pdf - Enzymology: Enzyme Inhibition Types"
+}

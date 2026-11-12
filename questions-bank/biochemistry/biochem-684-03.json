@@ -1,0 +1,41 @@
+{
+  "id": "biochem-684-03",
+  "subject": "Biochemistry",
+  "major_topic": "Heme and Bilirubin Metabolism",
+  "subtopic": "Heme Synthesis",
+  "difficulty": "easy",
+  "vignette": "A 45-year-old man with a seizure disorder has taken phenobarbital for 6 months, and his seizures are well controlled. Routine laboratory studies, including a complete blood count and liver enzymes, are normal. The drug is a potent inducer of hepatic cytochrome P450 enzymes, which use heme as a prosthetic group.",
+  "question": "Activity of which of the following enzymes is most likely increased in this patient's hepatocytes?",
+  "options": [
+    {
+      "id": "A",
+      "text": "ALA dehydratase"
+    },
+    {
+      "id": "B",
+      "text": "Ferrochelatase"
+    },
+    {
+      "id": "C",
+      "text": "ALA synthase"
+    },
+    {
+      "id": "D",
+      "text": "Heme oxygenase"
+    },
+    {
+      "id": "E",
+      "text": "Biliverdin reductase"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Phenobarbital induces cytochrome P450 enzymes, which consume heme as a prosthetic group. The resulting fall in free heme relieves negative feedback on ALA synthase, the rate-limiting enzyme of heme synthesis, and increases its transcription. This same mechanism explains why barbiturates, rifampin, and other inducers can precipitate attacks of acute porphyria.",
+  "explanation_incorrect": {
+    "A": "ALA dehydratase is not the regulated step of the pathway; its activity is inhibited by lead rather than induced by cytochrome P450 inducers.",
+    "B": "Ferrochelatase catalyzes the final step of heme synthesis and is inhibited by lead; it is not the enzyme induced by barbiturates.",
+    "D": "Heme oxygenase degrades heme to biliverdin and is induced by heme and oxidative stress, not by the mechanism described here.",
+    "E": "Biliverdin reductase acts downstream of heme oxygenase in bilirubin production and is not the regulatory target of cytochrome P450 inducers."
+  },
+  "educationalObjective": "Cytochrome P450 inducers such as barbiturates increase hepatic heme demand and thereby induce ALA synthase, the rate-limiting enzyme of heme synthesis.",
+  "source": "Generated from 1. Biochemistry.pdf - Heme and Bilirubin Metabolism: Heme Synthesis"
+}

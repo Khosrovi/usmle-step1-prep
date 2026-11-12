@@ -1,0 +1,41 @@
+{
+  "id": "biochem-677-02",
+  "subject": "Biochemistry",
+  "major_topic": "Vitamins and Minerals",
+  "subtopic": "Vitamin C (Ascorbic acid)",
+  "difficulty": "medium",
+  "vignette": "A 19-year-old woman with menorrhagia is diagnosed with iron deficiency anemia and started on oral ferrous sulfate. The pharmacist advises her to take each dose with a glass of orange juice rather than with coffee or tea. Six weeks later her hemoglobin has risen from 8.2 to 10.9 g/dL and her ferritin has increased, even though the dose of iron was unchanged and she had been taking the iron on an empty stomach all along.",
+  "question": "Which of the following best explains why the orange juice improved her response to iron therapy?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It increases gastric pH, which keeps iron soluble in the duodenum"
+    },
+    {
+      "id": "B",
+      "text": "It chelates iron and carries it across the intestinal brush border"
+    },
+    {
+      "id": "C",
+      "text": "It suppresses hepcidin production by the liver"
+    },
+    {
+      "id": "D",
+      "text": "Ascorbic acid reduces ferric iron to the ferrous form, increasing its absorption"
+    },
+    {
+      "id": "E",
+      "text": "Ascorbic acid converts ferrous iron to ferric iron, which is absorbed more efficiently"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Vitamin C facilitates iron absorption by reducing dietary ferric iron (Fe3+) to the ferrous form (Fe2+), which is the form transported across the intestinal brush border. This is why citrus juice or a vitamin C supplement is recommended with oral iron therapy. The same reducing property allows ascorbic acid to serve as an ancillary treatment for methemoglobinemia by converting Fe3+ back to Fe2+.",
+  "explanation_incorrect": {
+    "A": "Ascorbic acid does not raise gastric pH, and an acidic environment actually favors iron solubility and reduction.",
+    "B": "Vitamin C does not chelate iron for transport; it reduces the metal so that the divalent metal transporter can accept it.",
+    "C": "Ascorbic acid does not suppress hepcidin; that effect is not the mechanism of its benefit on iron absorption.",
+    "E": "The direction is reversed: ascorbic acid reduces Fe3+ to Fe2+, and the ferrous form is the better absorbed species."
+  },
+  "educationalObjective": "Vitamin C facilitates iron absorption by reducing Fe3+ to Fe2+, and it can also reduce methemoglobin iron back to the ferrous state.",
+  "source": "Generated from 1. Biochemistry.pdf - Nutrition: Water-Soluble Vitamins (Vitamin C, Ascorbic acid)"
+}

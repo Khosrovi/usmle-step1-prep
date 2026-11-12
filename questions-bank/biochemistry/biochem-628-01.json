@@ -1,0 +1,41 @@
+{
+  "id": "biochem-628-01",
+  "subject": "Biochemistry",
+  "major_topic": "Lipid Metabolism",
+  "subtopic": "Odd-chain FA Oxidation",
+  "difficulty": "hard",
+  "vignette": "A 28-year-old woman with anorexia nervosa has been fasting for 5 days in the hospital. Her blood glucose is maintained at 60 mg/dL, and she has mild ketonemia. Lipolysis in adipose tissue releases fatty acids that are oxidized in her liver.",
+  "question": "Which of the following products of fatty acid oxidation in this patient can serve directly as a substrate for gluconeogenesis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Propionyl-CoA"
+    },
+    {
+      "id": "B",
+      "text": "Acetyl-CoA"
+    },
+    {
+      "id": "C",
+      "text": "beta-hydroxybutyrate"
+    },
+    {
+      "id": "D",
+      "text": "Acetoacetate"
+    },
+    {
+      "id": "E",
+      "text": "Malonyl-CoA"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Odd-chain fatty acids are oxidized to acetyl-CoA plus one propionyl-CoA in the final cycle. Propionyl-CoA is carboxylated to methylmalonyl-CoA by biotin-dependent propionyl-CoA carboxylase and then converted by vitamin B12-dependent methylmalonyl-CoA mutase to succinyl-CoA, which enters the TCA cycle and can be used for gluconeogenesis; this makes odd-chain fatty acids the only fatty acid carbon source of new glucose.",
+  "explanation_incorrect": {
+    "B": "Acetyl-CoA cannot be converted to glucose in humans because the pyruvate dehydrogenase reaction is irreversible and there is no glyoxylate cycle; it is used in the TCA cycle or for ketogenesis.",
+    "C": "beta-hydroxybutyrate is a ketone body that is oxidized to acetyl-CoA in extrahepatic tissues and cannot yield net glucose.",
+    "D": "Acetoacetate is also a ketone body and is converted to acetoacetyl-CoA and then acetyl-CoA, which is not gluconeogenic.",
+    "E": "Malonyl-CoA is the product of acetyl-CoA carboxylase and a substrate for fatty acid synthesis; it is not a gluconeogenic precursor."
+  },
+  "educationalObjective": "Propionyl-CoA from odd-chain fatty acids can enter the TCA cycle as succinyl-CoA and serve as a glucose precursor.",
+  "source": "Generated from 1. Biochemistry.pdf - Odd-chain FA Oxidation"
+}

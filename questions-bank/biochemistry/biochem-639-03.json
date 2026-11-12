@@ -1,0 +1,41 @@
+{
+  "id": "biochem-639-03",
+  "subject": "Biochemistry",
+  "major_topic": "Amino Acid Metabolism",
+  "subtopic": "Phenylalanine and Tyrosine Metabolism",
+  "difficulty": "hard",
+  "vignette": "A 6-month-old boy with hyperphenylalaninemia has hypotonia, extrapyramidal rigidity, and seizures despite a strict low-phenylalanine diet. Genetic testing shows dihydropteridine reductase deficiency, and cerebrospinal fluid levels of homovanillic acid and 5-hydroxyindoleacetic acid are low.",
+  "question": "Which of the following best explains the additional neurologic findings?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Deficiency of tetrahydrobiopterin impairs tyrosine and tryptophan hydroxylases, reducing dopamine and serotonin synthesis."
+    },
+    {
+      "id": "B",
+      "text": "Accumulated phenylketones are directly toxic to the basal ganglia."
+    },
+    {
+      "id": "C",
+      "text": "Inability to synthesize tyrosine impairs thyroid hormone production and causes myxedema."
+    },
+    {
+      "id": "D",
+      "text": "Aspartame in the diet is converted to phenylalanine and worsens the hyperphenylalaninemia."
+    },
+    {
+      "id": "E",
+      "text": "Impaired pyruvate dehydrogenase reduces acetyl-CoA production in neurons."
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Tetrahydrobiopterin is required not only by phenylalanine hydroxylase but also by tyrosine hydroxylase and tryptophan hydroxylase, the rate-limiting enzymes for dopamine and serotonin synthesis. In tetrahydrobiopterin deficiency, patients therefore have hyperphenylalaninemia plus a neurotransmitter deficiency that causes hypotonia, movement disorders, and seizures, so treatment requires tetrahydrobiopterin and neurotransmitter precursors in addition to dietary phenylalanine restriction.",
+  "explanation_incorrect": {
+    "B": "Phenylketones contribute to the cognitive impairment of classic phenylketonuria but do not explain the movement disorder and low cerebrospinal fluid neurotransmitter metabolites in tetrahydrobiopterin deficiency.",
+    "C": "This patient's findings are extrapyramidal and neurologic, not those of hypothyroidism.",
+    "D": "Aspartame is a source of phenylalanine but does not explain low cerebrospinal fluid dopamine and serotonin metabolites.",
+    "E": "The defect is in pterin metabolism, not pyruvate dehydrogenase."
+  },
+  "educationalObjective": "Tetrahydrobiopterin deficiency impairs phenylalanine, tyrosine, and tryptophan hydroxylases, causing hyperphenylalaninemia with dopamine and serotonin deficiency.",
+  "source": "Generated from 1. Biochemistry.pdf - Amino Acid Metabolism: Phenylalanine and Tyrosine Metabolism"
+}

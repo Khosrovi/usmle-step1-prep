@@ -1,0 +1,41 @@
+{
+  "id": "biochem-617-07",
+  "subject": "Biochemistry",
+  "major_topic": "Carbohydrate Metabolism",
+  "subtopic": "TCA Cycle (Krebs)",
+  "difficulty": "easy",
+  "vignette": "A 15-year-old boy is evaluated for exercise intolerance and muscle cramps after mild exertion. Serum lactate is 3.1 mmol/L and pyruvate is mildly elevated; muscle biopsy shows subsarcolemmal mitochondrial accumulation. Isolated mitochondria from the biopsy are incubated with succinyl-CoA, and a high-energy phosphate is generated directly.",
+  "question": "Which of the following high-energy phosphates is produced directly in the reaction that converts succinyl-CoA to succinate?",
+  "options": [
+    {
+      "id": "A",
+      "text": "GTP"
+    },
+    {
+      "id": "B",
+      "text": "ATP, via oxidative phosphorylation"
+    },
+    {
+      "id": "C",
+      "text": "NADH"
+    },
+    {
+      "id": "D",
+      "text": "FADH2"
+    },
+    {
+      "id": "E",
+      "text": "CO2"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "The conversion of succinyl-CoA to succinate by succinyl-CoA synthetase is the only substrate-level phosphorylation in the TCA cycle and directly generates GTP from GDP and inorganic phosphate. The GTP can subsequently be converted to ATP by nucleoside diphosphate kinase.",
+  "explanation_incorrect": {
+    "B": "ATP is produced by oxidative phosphorylation downstream of the TCA cycle, not directly in this reaction.",
+    "C": "NADH is produced at the isocitrate dehydrogenase, alpha-ketoglutarate dehydrogenase, and malate dehydrogenase steps.",
+    "D": "FADH2 is produced when succinate is oxidized to fumarate by succinate dehydrogenase, the next step.",
+    "E": "CO2 is released at the isocitrate dehydrogenase and alpha-ketoglutarate dehydrogenase steps."
+  },
+  "educationalObjective": "Succinyl-CoA synthetase performs substrate-level phosphorylation in the TCA cycle, directly generating GTP.",
+  "source": "Generated from 1. Biochemistry.pdf - TCA Cycle (Krebs)"
+}

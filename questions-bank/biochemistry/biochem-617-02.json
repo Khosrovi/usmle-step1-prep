@@ -1,0 +1,41 @@
+{
+  "id": "biochem-617-02",
+  "subject": "Biochemistry",
+  "major_topic": "Carbohydrate Metabolism",
+  "subtopic": "TCA Cycle (Krebs)",
+  "difficulty": "hard",
+  "vignette": "A 34-year-old woman is evaluated for episodes of palpitations, headache, and diaphoresis. During an episode her blood pressure is 190/110 mm Hg. Plasma free metanephrines are markedly elevated, and imaging shows a 4-cm adrenal mass. Genetic testing reveals a pathogenic mutation in SDHB.",
+  "question": "The affected enzyme is also which of the following components of the electron transport chain?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Complex I (NADH dehydrogenase)"
+    },
+    {
+      "id": "B",
+      "text": "Complex II (succinate dehydrogenase)"
+    },
+    {
+      "id": "C",
+      "text": "Coenzyme Q (ubiquinone)"
+    },
+    {
+      "id": "D",
+      "text": "Complex III (cytochrome bc1)"
+    },
+    {
+      "id": "E",
+      "text": "Complex IV (cytochrome c oxidase)"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Succinate dehydrogenase, which converts succinate to fumarate in the TCA cycle, is also complex II of the electron transport chain. Germline mutations in SDH subunits predispose to hereditary paraganglioma and pheochromocytoma, and loss of the enzyme leads to succinate accumulation.",
+  "explanation_incorrect": {
+    "A": "Complex I is NADH dehydrogenase, which transfers electrons from NADH to coenzyme Q and does not contain the TCA enzyme succinate dehydrogenase.",
+    "C": "Coenzyme Q is a mobile lipid-soluble electron carrier, not the enzyme encoded by SDHB.",
+    "D": "Complex III transfers electrons from coenzyme Q to cytochrome c and is not succinate dehydrogenase.",
+    "E": "Complex IV is cytochrome c oxidase, which reduces oxygen to water."
+  },
+  "educationalObjective": "Succinate dehydrogenase is the only TCA cycle enzyme embedded in the inner mitochondrial membrane, where it also serves as complex II of the electron transport chain.",
+  "source": "Generated from 1. Biochemistry.pdf - TCA Cycle (Krebs)"
+}

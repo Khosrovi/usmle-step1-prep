@@ -1,0 +1,41 @@
+{
+  "id": "pharm-017",
+  "subject": "Pharmacology",
+  "major_topic": "Autonomic Drugs",
+  "subtopic": "Sympatholytic toxicity",
+  "difficulty": "medium",
+  "vignette": "A 40-year-old man presents with a heart rate of 38/min, blood pressure of 76/50 mm Hg, and hypoglycemia after ingesting a large number of metoprolol tablets.",
+  "question": "In addition to intravenous fluids and atropine, which of the following is the most appropriate treatment?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Glucagon"
+    },
+    {
+      "id": "B",
+      "text": "Naloxone"
+    },
+    {
+      "id": "C",
+      "text": "Flumazenil"
+    },
+    {
+      "id": "D",
+      "text": "Digoxin-specific antibody fragments"
+    },
+    {
+      "id": "E",
+      "text": "Intravenous calcium chloride"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Glucagon activates adenylate cyclase through a G-protein-coupled receptor that bypasses the blocked beta-adrenergic receptor, increasing intracellular cAMP and improving heart rate and contractility. High-dose insulin with euglycemia and transvenous pacing are additional options.",
+  "explanation_incorrect": {
+    "B": "Naloxone is an opioid antagonist.",
+    "C": "Flumazenil is a benzodiazepine antagonist.",
+    "D": "Digoxin-specific antibody fragments treat digoxin toxicity.",
+    "E": "Calcium chloride is used for calcium channel blocker overdose, not beta-blocker overdose."
+  },
+  "educationalObjective": "Glucagon is used in beta-blocker overdose because it raises intracellular cAMP independently of beta receptors.",
+  "source": "Generated from 5. Pharmacology.pdf - Toxicities and Adverse Effects (specific toxicity treatments)"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "biochem-606-03",
+  "subject": "Biochemistry",
+  "major_topic": "Amino Acids & Proteins",
+  "subtopic": "Hemoglobin and Myoglobin",
+  "difficulty": "medium",
+  "vignette": "A 55-year-old man is found unresponsive in his garage with the car engine still running. On arrival his skin has a cherry-red hue, blood pressure is 118/70 mm Hg, and pulse oximetry reads 99% while he remains obtunded. Arterial blood gas shows PaO2 92 mm Hg with a normal hemoglobin concentration, and co-oximetry shows carboxyhemoglobin of 38%. He is treated with 100% oxygen.",
+  "question": "Which of the following mechanisms best explains this patient's tissue hypoxia?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Marked deficiency of circulating hemoglobin"
+    },
+    {
+      "id": "B",
+      "text": "Oxidation of heme iron to Fe3+ with formation of methemoglobin"
+    },
+    {
+      "id": "C",
+      "text": "Depletion of erythrocyte 2,3-bisphosphoglycerate"
+    },
+    {
+      "id": "D",
+      "text": "High-affinity binding of carbon monoxide to Fe2+ with a leftward shift of the remaining oxygen-binding sites"
+    },
+    {
+      "id": "E",
+      "text": "Rightward shift of the oxyhemoglobin dissociation curve caused by increased 2,3-bisphosphoglycerate"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Carbon monoxide binds ferrous heme iron with an affinity roughly 200 times that of oxygen and also allosterically left shifts the dissociation curve of the remaining heme sites. Tissue oxygen delivery therefore falls despite a normal PaO2, and pulse oximetry cannot distinguish carboxyhemoglobin from oxyhemoglobin, so the reading is falsely normal; treatment is 100% oxygen, with hyperbaric oxygen for severe poisoning.",
+  "explanation_incorrect": {
+    "A": "The hemoglobin concentration is normal; the defect is occupied and poorly unloading oxygen-binding sites, not a shortage of hemoglobin molecules.",
+    "B": "Methemoglobinemia also causes tissue hypoxia and a saturation gap, but it produces cyanosis with chocolate-colored blood, and co-oximetry would show elevated methemoglobin rather than carboxyhemoglobin.",
+    "C": "2,3-bisphosphoglycerate depletion would left shift the curve, but carbon monoxide does not act by depleting this cofactor and the acute exposure occurred within hours.",
+    "E": "Carbon monoxide produces a leftward, not a rightward, shift that impairs oxygen unloading; increased 2,3-bisphosphoglycerate would improve unloading and is not the mechanism here."
+  },
+  "educationalObjective": "Carbon monoxide causes tissue hypoxia by binding ferrous heme with very high affinity and left-shifting the oxyhemoglobin dissociation curve, while pulse oximetry and PaO2 remain misleadingly normal.",
+  "source": "Generated from 1. Biochemistry.pdf - Hemoglobin and Myoglobin"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "biochem-662-02",
+  "subject": "Biochemistry",
+  "major_topic": "Molecular Biology",
+  "subtopic": "Translation",
+  "difficulty": "easy",
+  "vignette": "A 3-year-old boy with developmental delay undergoes whole-exome sequencing. A synonymous variant is found in a neuronally expressed gene: the third nucleotide of a codon is changed, but the encoded amino acid is unchanged. The geneticist explains that the same amino acid can be specified by several codons and that a single tRNA can often read more than one of them.",
+  "question": "Which of the following best explains this phenomenon?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The genetic code is overlapping, so one nucleotide participates in several codons"
+    },
+    {
+      "id": "B",
+      "text": "The genetic code is ambiguous, so one codon can specify several amino acids"
+    },
+    {
+      "id": "C",
+      "text": "Wobble base pairing allows the third nucleotide of the codon to vary while the first two determine specificity"
+    },
+    {
+      "id": "D",
+      "text": "The code is read in triplets, which prevents any change in the third position"
+    },
+    {
+      "id": "E",
+      "text": "The code is universal, so bacterial and human tRNAs are interchangeable"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "The first two nucleotides of a codon pair strictly with the anticodon and largely determine which amino acid is specified, whereas the third nucleotide can form nonstandard (wobble) base pairs. This flexibility allows a single tRNA to recognize multiple synonymous codons and explains why many point mutations in the third position are silent. The genetic code is degenerate but unambiguous.",
+  "explanation_incorrect": {
+    "A": "The code is not overlapping; each nucleotide is read in only one codon.",
+    "B": "The code is unambiguous, meaning a given codon specifies only one amino acid.",
+    "D": "Triplet reading does not prevent changes in the third position; wobble permits them.",
+    "E": "The genetic code is nearly universal, but tRNAs are species-specific and are not interchangeable in this way."
+  },
+  "educationalObjective": "Wobble base pairing at the third codon position accounts for the degeneracy of the genetic code and for silent mutations.",
+  "source": "Generated from 1. Biochemistry.pdf - Molecular Biology: Translation"
+}

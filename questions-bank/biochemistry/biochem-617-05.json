@@ -1,0 +1,41 @@
+{
+  "id": "biochem-617-05",
+  "subject": "Biochemistry",
+  "major_topic": "Carbohydrate Metabolism",
+  "subtopic": "TCA Cycle (Krebs)",
+  "difficulty": "medium",
+  "vignette": "A 49-year-old woman with central obesity and hypertriglyceridemia is found to have hepatic steatosis on ultrasound. Laboratory studies show fasting triglycerides of 310 mg/dL and normal aminotransferases. After a high-carbohydrate meal, her liver increases citrate export from mitochondria to the cytosol and synthesizes fatty acids.",
+  "question": "Which of the following best describes the role of citrate in this process?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It inhibits phosphofructokinase-1, slowing glycolysis"
+    },
+    {
+      "id": "B",
+      "text": "It is converted directly to acetyl-CoA by citrate synthase"
+    },
+    {
+      "id": "C",
+      "text": "It activates hormone-sensitive lipase in adipose tissue"
+    },
+    {
+      "id": "D",
+      "text": "It inhibits acetyl-CoA carboxylase, limiting fatty acid synthesis"
+    },
+    {
+      "id": "E",
+      "text": "It allosterically activates acetyl-CoA carboxylase, promoting fatty acid synthesis"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Citrate is transported from the mitochondrial matrix to the cytosol, where it is cleaved by ATP citrate lyase to acetyl-CoA and oxaloacetate and allosterically activates acetyl-CoA carboxylase. The resulting malonyl-CoA is used for fatty acid synthesis, which contributes to hepatic steatosis after carbohydrate-rich meals.",
+  "explanation_incorrect": {
+    "A": "Citrate does inhibit phosphofructokinase-1, but this is not the mechanism by which it promotes fatty acid synthesis after a carbohydrate load.",
+    "B": "Citrate synthase catalyzes the opposite direction, forming citrate from oxaloacetate and acetyl-CoA; in the cytosol citrate is cleaved to acetyl-CoA by ATP citrate lyase.",
+    "C": "Citrate does not activate hormone-sensitive lipase; insulin and catecholamines regulate lipolysis.",
+    "D": "Citrate activates, rather than inhibits, acetyl-CoA carboxylase."
+  },
+  "educationalObjective": "TCA-derived citrate is exported to the cytosol, where it supplies acetyl-CoA and allosterically activates acetyl-CoA carboxylase for fatty acid synthesis.",
+  "source": "Generated from 1. Biochemistry.pdf - TCA Cycle (Krebs)"
+}

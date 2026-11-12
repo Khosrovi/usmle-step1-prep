@@ -1,0 +1,41 @@
+{
+  "id": "biochem-613-02",
+  "subject": "Biochemistry",
+  "major_topic": "Enzymology",
+  "subtopic": "Zymogens",
+  "difficulty": "medium",
+  "vignette": "A 4-month-old boy is evaluated for failure to thrive, chronic diarrhea, and generalized edema. Laboratory studies show hypoalbuminemia and hypoproteinemia, low serum concentrations of several pancreatic digestive enzymes, and increased fecal fat. Intestinal biopsy shows normal mucosal architecture, and congenital enteropeptidase deficiency is confirmed.",
+  "question": "Which of the following best explains his protein maldigestion?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Zymogens are activated prematurely within the pancreas, causing autodigestion and enzyme loss"
+    },
+    {
+      "id": "B",
+      "text": "Trypsin is synthesized normally but is irreversibly inhibited by alpha1-antitrypsin in the duodenal lumen"
+    },
+    {
+      "id": "C",
+      "text": "Conversion of trypsinogen to trypsin is impaired, so the zymogen activation cascade and subsequent protein digestion fail"
+    },
+    {
+      "id": "D",
+      "text": "Pepsinogen is not converted to pepsin in the stomach, abolishing gastric protein digestion"
+    },
+    {
+      "id": "E",
+      "text": "Procarboxypeptidase is secreted in its active form and is rapidly degraded in the small intestine"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Enteropeptidase (enterokinase), a brush-border protease of the duodenal mucosa, cleaves trypsinogen to trypsin, and trypsin in turn activates chymotrypsinogen, procarboxypeptidase, and proelastase. Congenital enteropeptidase deficiency therefore blocks the entire pancreatic zymogen activation cascade, so pancreatic proteases remain inactive in the lumen and protein digestion fails, producing hypoproteinemia, edema, diarrhea, and failure to thrive. Pancreatic enzyme secretion itself is normal, which explains the normal intestinal mucosa and low luminal enzyme activity.",
+  "explanation_incorrect": {
+    "A": "Premature intrapancreatic activation causes pancreatitis with abdominal pain and elevated pancreatic enzymes in blood, not isolated luminal maldigestion.",
+    "B": "Alpha1-antitrypsin is a circulating antiprotease that protects tissues from elastase; it does not irreversibly inhibit trypsin in the duodenal lumen.",
+    "D": "Pepsinogen activation in the stomach is mediated by gastric acid and is unaffected by enteropeptidase deficiency; gastric digestion alone cannot compensate for loss of pancreatic proteases.",
+    "E": "Procarboxypeptidase is secreted as an inactive zymogen and requires trypsin for activation, so it is not secreted in active form and rapidly degraded."
+  },
+  "educationalObjective": "Enteropeptidase activates trypsinogen to trypsin in the duodenum, and trypsin then activates the other pancreatic zymogens, so its congenital deficiency impairs protein digestion.",
+  "source": "Generated from 1. Biochemistry.pdf - Enzymology: Zymogens"
+}

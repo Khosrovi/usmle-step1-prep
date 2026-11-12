@@ -1,0 +1,41 @@
+{
+  "id": "biochem-681-02",
+  "subject": "Biochemistry",
+  "major_topic": "Vitamins and Minerals",
+  "subtopic": "Vitamin K",
+  "difficulty": "medium",
+  "vignette": "A 51-year-old woman with primary biliary cholangitis presents with jaundice, pruritus, and steatorrhea. Over the past 2 weeks she has developed extensive ecchymoses on her arms and legs after minor trauma. Laboratory studies show a prothrombin time of 21 seconds, an activated partial thromboplastin time of 48 seconds, normal platelets, and a normal bleeding time.",
+  "question": "Deficiency of which of the following proteins best explains her coagulopathy?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Factor VIII"
+    },
+    {
+      "id": "B",
+      "text": "Factor V"
+    },
+    {
+      "id": "C",
+      "text": "Protein C"
+    },
+    {
+      "id": "D",
+      "text": "Fibrinogen"
+    },
+    {
+      "id": "E",
+      "text": "von Willebrand factor"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Vitamin K is the cofactor for the epoxide reductase cycle that regenerates reduced vitamin K, which a gamma-carboxylase uses to carboxylate glutamate residues on factors II, VII, IX, and X and on proteins C and S. Cholestasis impairs fat-soluble vitamin absorption, so both procoagulant factors and the vitamin K-dependent anticoagulant protein C are depleted, prolonging the PT and aPTT; parenteral vitamin K corrects the abnormality if the liver synthetic capacity is intact.",
+  "explanation_incorrect": {
+    "A": "Factor VIII is synthesized in endothelial cells and is not vitamin K dependent, so its deficiency (hemophilia A) prolongs only the aPTT.",
+    "B": "Factor V is a cofactor in the common pathway but does not undergo vitamin K-dependent gamma-carboxylation, so it is unaffected by fat-soluble vitamin deficiency.",
+    "D": "Fibrinogen is not vitamin K dependent and would be normal here; its deficiency would prolong thrombin and reptilase times.",
+    "E": "von Willebrand factor mediates platelet adhesion and is not a vitamin K-dependent protein, so its deficiency prolongs the bleeding time rather than the PT."
+  },
+  "educationalObjective": "Vitamin K-dependent proteins include factors II, VII, IX, and X and proteins C and S, and their deficiency from fat malabsorption prolongs both the PT and aPTT.",
+  "source": "Generated from 1. Biochemistry.pdf - Nutrition: Fat-Soluble Vitamins (Vitamin K)"
+}

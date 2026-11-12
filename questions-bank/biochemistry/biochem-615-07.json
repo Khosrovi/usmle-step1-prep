@@ -1,0 +1,41 @@
+{
+  "id": "biochem-615-07",
+  "subject": "Biochemistry",
+  "major_topic": "Carbohydrate Metabolism",
+  "subtopic": "Glycolysis",
+  "difficulty": "medium",
+  "vignette": "A 22-year-old college sprinter collapses after a 400-m race with severe leg fatigue and is helped off the track. He is well hydrated, his heart rate is 118/min, and his blood pressure is 118/70 mm Hg. Ten minutes after the race, venous lactate is 13.8 mmol/L and pyruvate is mildly elevated with an anion gap of 22. The next morning his lactate is normal.",
+  "question": "During his race, which of the following enzymes most directly permitted continued anaerobic glycolysis in his skeletal muscle by regenerating NAD+?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Pyruvate dehydrogenase complex"
+    },
+    {
+      "id": "B",
+      "text": "Pyruvate carboxylase"
+    },
+    {
+      "id": "C",
+      "text": "Alanine aminotransferase"
+    },
+    {
+      "id": "D",
+      "text": "Lactate dehydrogenase"
+    },
+    {
+      "id": "E",
+      "text": "Glyceraldehyde-3-phosphate dehydrogenase"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "The glyceraldehyde-3-phosphate dehydrogenase reaction requires NAD+ and reduces it to NADH, so glycolysis stops unless NAD+ is regenerated. In skeletal muscle, lactate dehydrogenase reduces pyruvate to lactate in the cytosol, oxidizing NADH back to NAD+ and permitting ATP production to continue at 2 net ATP per glucose when mitochondria cannot keep pace with demand. The lactate is later cleared by the liver through the Cori cycle.",
+  "explanation_incorrect": {
+    "A": "The pyruvate dehydrogenase complex is mitochondrial and would consume pyruvate oxidatively; it does not regenerate cytosolic NAD+ and cannot support high flux in this setting.",
+    "B": "Pyruvate carboxylase converts pyruvate to oxaloacetate in the mitochondrial matrix for gluconeogenesis and anaplerosis; it uses ATP and biotin and does not regenerate NAD+.",
+    "C": "Alanine aminotransferase transfers the amino group of alanine to alpha-ketoglutarate and does not regenerate NAD+ for glycolysis.",
+    "E": "Glyceraldehyde-3-phosphate dehydrogenase itself consumes NAD+ and produces NADH; it is the step that requires regeneration, not the source of it."
+  },
+  "educationalObjective": "Lactate dehydrogenase regenerates NAD+ by reducing pyruvate to lactate, allowing anaerobic glycolysis and ATP production to continue in skeletal muscle.",
+  "source": "Generated from 1. Biochemistry.pdf - Carbohydrate Metabolism: Glycolysis"
+}

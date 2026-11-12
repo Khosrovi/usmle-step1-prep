@@ -1,0 +1,41 @@
+{
+  "id": "biochem-660-02",
+  "subject": "Biochemistry",
+  "major_topic": "Molecular Biology",
+  "subtopic": "Transcription",
+  "difficulty": "medium",
+  "vignette": "A 34-year-old man with HIV infection is diagnosed with cavitary pulmonary tuberculosis and started on a multidrug regimen. Two weeks later he notes orange discoloration of his urine and tears, and his sputum cultures are converting. His regimen includes a drug that inhibits bacterial transcription and is also used for meningococcal prophylaxis.",
+  "question": "Which of the following best describes the mechanism of this drug?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Binds the beta subunit of bacterial DNA-dependent RNA polymerase, preventing transcription initiation"
+    },
+    {
+      "id": "B",
+      "text": "Binds the 30S ribosomal subunit and causes misreading of mRNA"
+    },
+    {
+      "id": "C",
+      "text": "Inhibits bacterial DNA gyrase and topoisomerase IV"
+    },
+    {
+      "id": "D",
+      "text": "Intercalates into DNA and blocks RNA polymerase in both prokaryotes and eukaryotes"
+    },
+    {
+      "id": "E",
+      "text": "Inhibits human RNA polymerase II"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Rifampin binds the beta subunit of bacterial DNA-dependent RNA polymerase, encoded by rpoB, and blocks the initiation of transcription. Human RNA polymerases are not affected, which gives the drug relative selectivity for mycobacteria and explains its role in tuberculosis therapy and meningococcal prophylaxis. Resistance commonly arises from mutations in rpoB.",
+  "explanation_incorrect": {
+    "B": "Aminoglycosides bind the 30S ribosomal subunit and cause misreading of mRNA; rifampin acts on RNA polymerase.",
+    "C": "Fluoroquinolones inhibit DNA gyrase and topoisomerase IV; rifampin does not inhibit these enzymes.",
+    "D": "Dactinomycin intercalates DNA and inhibits RNA polymerase in both prokaryotes and eukaryotes; rifampin is specific for the bacterial enzyme.",
+    "E": "Rifampin does not inhibit human RNA polymerase II; its selectivity for the bacterial enzyme underlies its clinical use."
+  },
+  "educationalObjective": "Rifampin inhibits bacterial DNA-dependent RNA polymerase by binding its beta subunit, selectively blocking transcription initiation.",
+  "source": "Generated from 1. Biochemistry.pdf - Molecular Biology: Transcription"
+}

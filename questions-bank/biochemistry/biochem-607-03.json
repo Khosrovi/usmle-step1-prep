@@ -1,0 +1,41 @@
+{
+  "id": "biochem-607-03",
+  "subject": "Biochemistry",
+  "major_topic": "Enzymology",
+  "subtopic": "Enzyme Kinetics (Michaelis-Menten, Vmax, Km)",
+  "difficulty": "medium",
+  "vignette": "A 48-year-old man with a long history of alcohol use disorder is brought to the emergency department after a binge. He is drowsy but arousable, and his blood ethanol concentration is 320 mg/dL. Serial measurements show that blood ethanol declines at a constant rate of approximately 15 to 20 mg/dL per hour, and the rate of decline is essentially identical at 300 mg/dL and at 100 mg/dL.",
+  "question": "Which of the following best explains the constant rate of ethanol elimination in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Ethanol elimination follows first-order kinetics because blood concentrations remain far below the Km of alcohol dehydrogenase"
+    },
+    {
+      "id": "B",
+      "text": "Ethanol is removed primarily by renal excretion, which does not depend on hepatic enzyme activity"
+    },
+    {
+      "id": "C",
+      "text": "Alcohol dehydrogenase is saturated with substrate at these concentrations, so elimination proceeds at a constant zero-order rate that approximates Vmax"
+    },
+    {
+      "id": "D",
+      "text": "Product inhibition of alcohol dehydrogenase by acetaldehyde fixes the rate of metabolism at a constant value"
+    },
+    {
+      "id": "E",
+      "text": "Reoxidation of NADH limits the reaction only at ethanol concentrations above the Km of alcohol dehydrogenase"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Alcohol dehydrogenase has a low Km for ethanol, so at blood concentrations in the intoxicating range the enzyme is fully saturated with substrate. When substrate concentration is far above Km, velocity is essentially independent of substrate concentration and equals Vmax, which produces the observed zero-order (linear) decline in blood ethanol. Because NAD+ is the limiting reagent in this reaction, the rate is fixed and cannot be accelerated by higher ethanol concentrations.",
+  "explanation_incorrect": {
+    "A": "First-order kinetics would produce an exponential decline whose rate falls as concentration falls; the constant rate indicates saturation, not substrate concentrations below Km.",
+    "B": "Renal excretion of unchanged ethanol accounts for only a small fraction of elimination; hepatic oxidation by alcohol dehydrogenase is the principal route.",
+    "D": "The linear decline is explained by enzyme saturation rather than by acetaldehyde feedback, and acetaldehyde is oxidized rapidly to acetate by aldehyde dehydrogenase.",
+    "E": "The NADH/NAD+ ratio does limit the reaction, but the saturation phenomenon arises because the ethanol concentration is far above Km, not below it."
+  },
+  "educationalObjective": "When substrate concentration greatly exceeds Km, a Michaelis-Menten enzyme is saturated and works at Vmax, giving zero-order kinetics, as seen with alcohol dehydrogenase and ethanol elimination.",
+  "source": "Generated from 1. Biochemistry.pdf - Enzymology: Enzyme Kinetics (Michaelis-Menten, Vmax, Km)"
+}

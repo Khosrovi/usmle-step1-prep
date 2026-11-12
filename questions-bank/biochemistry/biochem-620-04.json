@@ -1,0 +1,41 @@
+{
+  "id": "biochem-620-04",
+  "subject": "Biochemistry",
+  "major_topic": "Carbohydrate Metabolism",
+  "subtopic": "ETC Inhibitors and Uncouplers",
+  "difficulty": "hard",
+  "vignette": "A 4-year-old boy is brought to the emergency department after ingesting a pesticide from a neighbor's shed. He has vomiting, altered mental status, and a generalized seizure. Laboratories show severe lactic acidosis; the toxin is identified as rotenone.",
+  "question": "Which of the following is expected in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Inhibition of complex IV with reduced oxygen consumption and high venous oxygen saturation"
+    },
+    {
+      "id": "B",
+      "text": "Uncoupling of oxidative phosphorylation with increased heat production"
+    },
+    {
+      "id": "C",
+      "text": "Inhibition of complex I, reducing NADH oxidation and ATP production"
+    },
+    {
+      "id": "D",
+      "text": "Stimulation of ATP synthase by increased ADP"
+    },
+    {
+      "id": "E",
+      "text": "Inhibition of complex II by competitive blockade of succinate oxidation"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Rotenone, a plant-derived fish poison and pesticide, inhibits complex I, preventing electron transfer from NADH to coenzyme Q. Oxidative phosphorylation and ATP production fall, and cells rely on anaerobic glycolysis, producing lactic acidosis.",
+  "explanation_incorrect": {
+    "A": "Complex IV inhibition with impaired oxygen utilization and elevated venous oxygen saturation is characteristic of cyanide or carbon monoxide, not rotenone.",
+    "B": "Uncoupling with heat production is caused by agents such as 2,4-dinitrophenol, salicylates, and uncoupling protein 1.",
+    "D": "ADP stimulates ATP synthase physiologically, but rotenone does not stimulate ATP synthase; it blocks electron entry from NADH.",
+    "E": "Complex II inhibition by competitive substrate blockade is produced by malonate, not rotenone."
+  },
+  "educationalObjective": "Rotenone inhibits complex I, blocking NADH oxidation and oxidative ATP production and causing lactic acidosis.",
+  "source": "Generated from 1. Biochemistry.pdf - ETC Inhibitors and Uncouplers"
+}

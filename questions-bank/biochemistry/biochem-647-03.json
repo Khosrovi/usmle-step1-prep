@@ -1,0 +1,41 @@
+{
+  "id": "biochem-647-03",
+  "subject": "Biochemistry",
+  "major_topic": "Nucleotide Metabolism",
+  "subtopic": "Purine Salvage Pathway",
+  "difficulty": "hard",
+  "vignette": "A 5-month-old girl with adenosine deaminase deficiency has profound lymphopenia involving both B and T cells, recurrent viral pneumonia, and chronic diarrhea. Analysis of her lymphocytes shows markedly elevated dATP and reduced ability to synthesize DNA, whereas her neutrophils and fibroblasts survive relatively normally.",
+  "question": "Which of the following best explains the selective loss of lymphocytes in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Accumulated dATP inhibits ribonucleotide reductase, depleting deoxyribonucleotide precursors and triggering lymphocyte death."
+    },
+    {
+      "id": "B",
+      "text": "Accumulated uric acid crystals directly destroy lymphocytes within the thymus and lymph nodes."
+    },
+    {
+      "id": "C",
+      "text": "Deficiency of PRPP limits de novo purine synthesis and prevents lymphocyte proliferation."
+    },
+    {
+      "id": "D",
+      "text": "Excess adenosine inhibits thymidylate synthase and prevents thymine nucleotide synthesis."
+    },
+    {
+      "id": "E",
+      "text": "Absent adenosine deaminase prevents salvage of guanine, causing guanine nucleotide depletion."
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Without adenosine deaminase, adenosine and deoxyadenosine accumulate and are converted by kinases to dATP. Excess dATP allosterically inhibits ribonucleotide reductase, so lymphocytes cannot produce the deoxyribonucleotide precursors needed for DNA replication and repair, and they undergo apoptosis. Rapidly dividing lymphoid progenitors are most vulnerable, producing combined B- and T-cell immunodeficiency.",
+  "explanation_incorrect": {
+    "B": "Uric acid crystals are not the mechanism; ADA deficiency causes lymphotoxicity through nucleotide accumulation, not crystal deposition.",
+    "C": "PRPP is not deficient in ADA deficiency; purine salvage intermediates accumulate rather than becoming depleted.",
+    "D": "Thymidylate synthase is not inhibited by adenosine; the block in DNA synthesis is at ribonucleotide reductase.",
+    "E": "ADA degrades adenosine, not guanine, and the toxicity results from deoxyadenosine triphosphate accumulation rather than guanine nucleotide depletion."
+  },
+  "educationalObjective": "In adenosine deaminase deficiency, accumulated dATP inhibits ribonucleotide reductase, depleting DNA precursors and causing selective lymphocyte toxicity.",
+  "source": "Generated from 1. Biochemistry.pdf - Nucleotide Metabolism: Purine Salvage Pathway"
+}

@@ -101,20 +101,21 @@ Reference the source PDF
 ✅ Basic UI with Tailwind CSS (dashboard, question display)
 ✅ Supabase connected (database for progress, bookmarks)
 ✅ QuestionCard component (displays question, options, explanations)
-✅ Progress tracking (mark questions as done/review later)
-✅ Bookmarks system (save questions for review)
+✅ Answer flow: choose option → Check Answer → color-coded correct/incorrect + explanation of every option
+✅ Progress tracking (answers stored in user_progress)
+✅ Bookmarks system (save questions for review, with notes)
 ✅ Exam mode with timer
 ✅ GitHub repository set up and synced
+✅ Biochemistry question bank: 481 questions, all 99 subtopics covered (matches topic_coverage plan)
+✅ Source of truth in questions-bank/ + scripts to validate and sync to Supabase
+✅ Light/dark theme: toggle in every page header, saved in localStorage, follows OS preference, no flash on load
 🚧 What Needs to Be Done Next
-Populate Question Bank: Generate 100+ questions from the 5 PDF files
-Start with Pharmacology (most clinical vignettes)
-Then Biochemistry, Pathology, Microbiology, Immunology
-Improve Question Display:
-Show answer first, then reveal explanation on click
-Color-code correct/incorrect options
-Add Filtering: Filter questions by topic, subtopic, difficulty
-Add Analytics: Show user's weak areas based on wrong answers
-Mobile Responsiveness: Ensure works on phones/tablets
+Other subjects: Immunology, Microbiology, Pathology, Pharmacology
+ (Pharmacology batch 1 with 20 questions is already staged in questions-bank/pharmacology/)
+Enable the remaining subject cards on the dashboard once their banks are filled
+Filtering: add difficulty filter on top of topic/subtopic selection
+Analytics: weak-area breakdown exists in /stats; add a "practice my weakest topics" mode
+Mobile responsiveness: verify layouts on phones/tablets
 🤖 Instructions for AI Agents
 When working on this project, follow these rules:
 Read this file first before making any changes.
@@ -133,6 +134,12 @@ The .env.local file contains Supabase credentials:
 NEXT_PUBLIC_SUPABASE_URL=https://fkuqohcosijdbgatdqjm.supabase.co
 NEXT_PUBLIC_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImZrdXFvaGNvc2lqZGJnYXRkcWptIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTQzODU0NTYsImV4cCI6MjEwOTk2MTQ1Nn0.6UTzef8SxpvfQrD1L630TOYehUx3r2i2b96cxR-igMA
 Never commit .env.local to GitHub.
+
+For local imports only (never commit, pass through the shell):
+SUPABASE_SERVICE_ROLE_KEY=<service role key> npm run import:questions -- --subject=Biochemistry
+The anon key used by the app is read-only on the questions table (row level security),
+so questions are synced with scripts/import-questions.mjs using the service role key.
+Question bank scripts: npm run validate:questions, npm run import:questions, npm run export:seed-sql.
 📊 Success Metrics
 100+ questions across all 5 topics
 User can complete a 20-question quiz in < 10 minutes

@@ -1,0 +1,41 @@
+{
+  "id": "biochem-626-01",
+  "subject": "Biochemistry",
+  "major_topic": "Lipid Metabolism",
+  "subtopic": "Fatty Acid Synthesis",
+  "difficulty": "medium",
+  "vignette": "A 4-month-old boy is brought for a scaly, erythematous rash around the mouth and eyes, sparse hair, and irritability. Since birth he has been fed a homemade formula thickened with raw egg whites. Urine organic acids show increased 3-hydroxyisovaleric acid, and serum lactate is mildly elevated.",
+  "question": "Decreased activity of which of the following enzymes most directly explains impaired fatty acid synthesis in this infant?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Acetyl-CoA carboxylase"
+    },
+    {
+      "id": "B",
+      "text": "Fatty acid synthase"
+    },
+    {
+      "id": "C",
+      "text": "ATP citrate lyase"
+    },
+    {
+      "id": "D",
+      "text": "Carnitine palmitoyltransferase I"
+    },
+    {
+      "id": "E",
+      "text": "Pyruvate dehydrogenase"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Avidin in raw egg whites binds biotin and causes biotin deficiency. Acetyl-CoA carboxylase is a biotin-dependent enzyme that converts acetyl-CoA to malonyl-CoA, the committed and rate-limiting step of fatty acid synthesis, so its impaired activity reduces malonyl-CoA and palmitate production; the same deficiency also affects pyruvate carboxylase and propionyl-CoA carboxylase.",
+  "explanation_incorrect": {
+    "B": "Fatty acid synthase does not require biotin; it uses NADPH and a pantothenic acid-derived phosphopantetheine arm.",
+    "C": "ATP citrate lyase cleaves citrate to acetyl-CoA and oxaloacetate in the cytosol and is not biotin-dependent.",
+    "D": "Carnitine palmitoyltransferase I mediates mitochondrial entry of long-chain fatty acids for oxidation and requires carnitine, not biotin.",
+    "E": "Pyruvate dehydrogenase uses thiamine pyrophosphate, lipoic acid, coenzyme A, FAD, and NAD+, but not biotin."
+  },
+  "educationalObjective": "Biotin is the cofactor for acetyl-CoA carboxylase, the rate-limiting enzyme of fatty acid synthesis.",
+  "source": "Generated from 1. Biochemistry.pdf - Fatty Acid Synthesis"
+}

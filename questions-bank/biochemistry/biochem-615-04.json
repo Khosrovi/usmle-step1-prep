@@ -1,0 +1,41 @@
+{
+  "id": "biochem-615-04",
+  "subject": "Biochemistry",
+  "major_topic": "Carbohydrate Metabolism",
+  "subtopic": "Glycolysis",
+  "difficulty": "hard",
+  "vignette": "A 46-year-old man is evaluated for 5 months of nausea, vomiting, watery diarrhea, and an 11-kg weight loss. He works at a smelting plant that processes metal ores. Examination shows diffuse hyperpigmentation, several hyperkeratotic palmar plaques, and a garlicky odor to his breath, and the ECG shows a corrected QT interval of 512 ms. Plasma lactate is 4.8 mmol/L with an elevated anion gap, and urine arsenic is elevated.",
+  "question": "Which of the following is the most direct molecular target of the toxin responsible for this presentation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Thiamine pyrophosphate"
+    },
+    {
+      "id": "B",
+      "text": "Lipoic acid"
+    },
+    {
+      "id": "C",
+      "text": "Biotin"
+    },
+    {
+      "id": "D",
+      "text": "NAD+"
+    },
+    {
+      "id": "E",
+      "text": "FAD"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Arsenic binds the sulfhydryl groups of lipoic acid, inactivating the dihydrolipoamide acyltransferase component of the pyruvate dehydrogenase and alpha-ketoglutarate dehydrogenase complexes. This blocks pyruvate oxidation and the TCA cycle, causing lactic acidosis together with the classic gastrointestinal, dermatologic (pigmentary changes, hyperkeratoses, skin cancer), cardiac (QT prolongation), and neurologic findings of chronic arsenic poisoning.",
+  "explanation_incorrect": {
+    "A": "Thiamine pyrophosphate is a cofactor of the same enzyme complexes, but arsenic does not bind it; thiamine deficiency causes Wernicke encephalopathy rather than this multisystem syndrome.",
+    "C": "Biotin is the carrier for carboxylases such as pyruvate carboxylase and is not the target of arsenic.",
+    "D": "NAD+ is the electron acceptor in the pyruvate dehydrogenase reaction, but arsenic does not deplete it directly.",
+    "E": "FAD is a cofactor of the pyruvate dehydrogenase complex, but it is not the site of arsenic binding."
+  },
+  "educationalObjective": "Arsenic inhibits lipoic acid-containing enzyme complexes such as pyruvate dehydrogenase and alpha-ketoglutarate dehydrogenase, causing lactic acidosis and multisystem toxicity.",
+  "source": "Generated from 1. Biochemistry.pdf - Carbohydrate Metabolism: Glycolysis"
+}

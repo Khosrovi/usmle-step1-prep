@@ -1,0 +1,41 @@
+{
+  "id": "biochem-624-05",
+  "subject": "Biochemistry",
+  "major_topic": "Carbohydrate Metabolism",
+  "subtopic": "Fructose and Galactose Metabolism",
+  "difficulty": "medium",
+  "vignette": "A 58-year-old man with a 15-year history of poorly controlled type 2 diabetes mellitus is evaluated for progressive blurring of vision. Slit-lamp examination shows cortical lens opacities consistent with cataracts.",
+  "question": "Which of the following enzymes is most directly responsible for the accumulation of the osmotically active substance that damages the lens in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Sorbitol dehydrogenase"
+    },
+    {
+      "id": "B",
+      "text": "Hexokinase"
+    },
+    {
+      "id": "C",
+      "text": "Galactokinase"
+    },
+    {
+      "id": "D",
+      "text": "Aldose reductase"
+    },
+    {
+      "id": "E",
+      "text": "Fructokinase"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "In chronic hyperglycemia, aldose reductase converts glucose to sorbitol, which is osmotically active. The lens has primarily aldose reductase, so sorbitol accumulates and draws water into the lens, causing osmotic damage and cataracts; the retina, kidney, and Schwann cells also have only aldose reductase.",
+  "explanation_incorrect": {
+    "A": "Sorbitol dehydrogenase converts sorbitol to fructose, so its activity would reduce rather than cause sorbitol accumulation; the lens lacks sufficient activity of this enzyme.",
+    "B": "Hexokinase phosphorylates glucose to glucose-6-phosphate and does not generate the osmotically active alcohol that damages the lens.",
+    "C": "Galactokinase phosphorylates galactose and is relevant to galactose-related cataracts, not to the sorbitol pathway of diabetes.",
+    "E": "Fructokinase phosphorylates fructose in the liver and is not the enzyme that generates sorbitol in the lens."
+  },
+  "educationalObjective": "Aldose reductase converts glucose to sorbitol, and tissues such as the lens that lack sorbitol dehydrogenase are vulnerable to osmotic damage in diabetes.",
+  "source": "Generated from 1. Biochemistry.pdf - Fructose and Galactose Metabolism"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "biochem-658-03",
+  "subject": "Biochemistry",
+  "major_topic": "Molecular Biology",
+  "subtopic": "DNA Repair (NHEJ, HR)",
+  "difficulty": "hard",
+  "vignette": "A 58-year-old man with prostate cancer undergoes external beam radiotherapy, which generates DNA double-strand breaks in tumor cells. Sequencing of the repaired junctions shows that broken ends were rejoined with small deletions of several nucleotides, and no homologous template was used.",
+  "question": "Which of the following mechanisms best explains these findings?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Nonhomologous end joining, which joins DNA ends without requiring homology and may lose nucleotides"
+    },
+    {
+      "id": "B",
+      "text": "Homologous recombination, which uses a sister chromatid as a template"
+    },
+    {
+      "id": "C",
+      "text": "Mismatch repair, which corrects base mismatches introduced during replication"
+    },
+    {
+      "id": "D",
+      "text": "Nucleotide excision repair, which removes bulky helix-distorting lesions"
+    },
+    {
+      "id": "E",
+      "text": "Base excision repair, which removes altered bases through an AP site"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Nonhomologous end joining repairs double-strand breaks by bringing two DNA ends together without requiring a homologous template. Because the broken ends are processed before ligation, it is error-prone, so part of the DNA may be lost or translocated, which explains the small deletions at the junctions.",
+  "explanation_incorrect": {
+    "B": "Homologous recombination uses an intact homologous duplex as a template and restores the sequence accurately, so it would not leave these deletions.",
+    "C": "Mismatch repair acts on mismatched nucleotides in newly synthesized DNA, not on double-strand breaks.",
+    "D": "Nucleotide excision repair removes bulky adducts and pyrimidine dimers, not double-strand break junctions.",
+    "E": "Base excision repair removes individual altered bases and is unrelated to rejoining broken chromosome ends."
+  },
+  "educationalObjective": "Nonhomologous end joining repairs double-strand breaks without homology and is error-prone, often deleting nucleotides.",
+  "source": "Generated from 1. Biochemistry.pdf - Molecular Biology: DNA Repair (NHEJ, HR)"
+}

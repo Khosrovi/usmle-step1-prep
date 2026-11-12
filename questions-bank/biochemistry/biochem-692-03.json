@@ -1,0 +1,41 @@
+{
+  "id": "biochem-692-03",
+  "subject": "Biochemistry",
+  "major_topic": "Inborn Errors of Metabolism",
+  "subtopic": "Peroxisomal Disorders",
+  "difficulty": "medium",
+  "vignette": "An 8-year-old boy is evaluated because of declining school performance and increasing clumsiness over the past 6 months. His mother reports that he has become withdrawn and has difficulty seeing the blackboard. Examination shows spasticity, hyperreflexia with Babinski signs, and bilateral optic atrophy. Laboratory studies show a low cortisol level with an elevated ACTH level, and plasma very-long-chain fatty acids are markedly elevated. MRI shows confluent demyelination of the parieto-occipital white matter.",
+  "question": "Which of the following patterns of inheritance is most likely responsible for this disorder?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Autosomal dominant"
+    },
+    {
+      "id": "B",
+      "text": "Autosomal recessive"
+    },
+    {
+      "id": "C",
+      "text": "Mitochondrial (maternal)"
+    },
+    {
+      "id": "D",
+      "text": "X-linked recessive"
+    },
+    {
+      "id": "E",
+      "text": "X-linked dominant"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "X-Linked adrenoleukodystrophy is caused by a mutation in ABCD1, a gene on the X chromosome that encodes a peroxisomal membrane transporter required for import of very-long-chain fatty acids. Without peroxisomal β-oxidation these fatty acids accumulate in the adrenal cortex, cerebral white matter, and testes. The result is primary adrenal insufficiency with progressive demyelination, and because the disorder is X-linked recessive, boys are affected and female carriers may show mild neurologic signs.",
+  "explanation_incorrect": {
+    "A": "Autosomal dominant inheritance is characteristic of disorders such as neurofibromatosis and Huntington disease, not adrenoleukodystrophy.",
+    "B": "Most peroxisomal disorders other than adrenoleukodystrophy, including Zellweger syndrome and Refsum disease, are autosomal recessive.",
+    "C": "Mitochondrial inheritance applies to disorders such as MELAS and Leber hereditary optic neuropathy, which are not associated with very-long-chain fatty acid accumulation.",
+    "E": "X-Linked dominant inheritance would affect females as severely as males and is seen in disorders such as fragile X syndrome and Alport syndrome."
+  },
+  "educationalObjective": "Childhood cerebral adrenoleukodystrophy with adrenal insufficiency and very-long-chain fatty acid accumulation is an X-linked recessive peroxisomal β-oxidation disorder.",
+  "source": "Generated from 1. Biochemistry.pdf - Peroxisome / peroxisomal disorders"
+}

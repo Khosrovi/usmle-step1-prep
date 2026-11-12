@@ -1,0 +1,41 @@
+{
+  "id": "pharm-019",
+  "subject": "Pharmacology",
+  "major_topic": "Toxicities and Adverse Effects",
+  "subtopic": "Antituberculosis drug toxicity",
+  "difficulty": "medium",
+  "vignette": "A 34-year-old man with active tuberculosis started on isoniazid, rifampin, pyrazinamide, and ethambutol 2 months ago presents with numbness and tingling of both feet.",
+  "question": "Which of the following is the most appropriate treatment to prevent progression of this complication?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Pyridoxine"
+    },
+    {
+      "id": "B",
+      "text": "Cyanocobalamin"
+    },
+    {
+      "id": "C",
+      "text": "Thiamine"
+    },
+    {
+      "id": "D",
+      "text": "Folic acid"
+    },
+    {
+      "id": "E",
+      "text": "Ascorbic acid"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Isoniazid interferes with pyridoxine (vitamin B6) metabolism, and the resulting deficiency causes a peripheral neuropathy that is prevented or treated with pyridoxine supplementation.",
+  "explanation_incorrect": {
+    "B": "Cyanocobalamin treats vitamin B12 deficiency, which can cause neuropathy but is not the mechanism here.",
+    "C": "Thiamine deficiency causes beriberi and Wernicke encephalopathy.",
+    "D": "Folic acid deficiency causes megaloblastic anemia, not this neuropathy.",
+    "E": "Ascorbic acid is vitamin C and is unrelated to isoniazid neuropathy."
+  },
+  "educationalObjective": "Pyridoxine is given with isoniazid to prevent peripheral neuropathy.",
+  "source": "Generated from 5. Pharmacology.pdf - Toxicities and Adverse Effects (drug reactions, neurologic)"
+}

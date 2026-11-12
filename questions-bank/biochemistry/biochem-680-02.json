@@ -1,0 +1,41 @@
+{
+  "id": "biochem-680-02",
+  "subject": "Biochemistry",
+  "major_topic": "Vitamins and Minerals",
+  "subtopic": "Vitamin E",
+  "difficulty": "medium",
+  "vignette": "A 68-year-old man with atrial fibrillation has been taking warfarin at a stable dose for 3 years with an INR between 2.0 and 3.0. Six weeks ago he began taking high-dose vitamin E (800 IU daily) after reading that it protects against heart disease. He now reports easy bruising and bleeding gums. His diet, alcohol intake, and other medications are unchanged, and his INR is 6.1.",
+  "question": "Which of the following best explains the change in his coagulation studies?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Induction of hepatic CYP2C9 activity with accelerated warfarin metabolism"
+    },
+    {
+      "id": "B",
+      "text": "High-dose vitamin E alters the metabolism of vitamin K-dependent proteins and enhances the anticoagulant effect of warfarin"
+    },
+    {
+      "id": "C",
+      "text": "Increased hepatic synthesis of factors II, VII, IX, and X"
+    },
+    {
+      "id": "D",
+      "text": "Irreversible inhibition of platelet cyclooxygenase with loss of thromboxane A2 production"
+    },
+    {
+      "id": "E",
+      "text": "Vitamin E chelates calcium, impairing the function of several clotting factors"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Pharmacologic doses of vitamin E alter the metabolism of vitamin K-dependent proteins, including factors II, VII, IX, and X and proteins C and S, and thereby potentiate the anticoagulant effect of warfarin. The rising INR and new mucosal bleeding after starting high-dose supplementation in a previously stable patient are characteristic of this interaction.",
+  "explanation_incorrect": {
+    "A": "Warfarin is metabolized by CYP2C9, but enzyme induction would lower the INR rather than raise it, and vitamin E is not a recognized inducer at this dose.",
+    "C": "Increased synthesis of vitamin K-dependent clotting factors would shorten the prothrombin time and lower the INR, the opposite of what is observed.",
+    "D": "Vitamin E can modestly impair platelet function, but this would not prolong the INR because the INR measures the extrinsic clotting cascade, not platelet activity.",
+    "E": "Calcium chelation is not the mechanism of vitamin E toxicity; coagulation factor activity depends on gamma-carboxyglutamate residues, and the INR elevation reflects a warfarin interaction."
+  },
+  "educationalObjective": "High-dose vitamin E supplementation potentiates warfarin by altering metabolism of vitamin K-dependent clotting proteins, so the INR must be monitored.",
+  "source": "Generated from 1. Biochemistry.pdf - Nutrition: Fat-Soluble Vitamins (Vitamin E)"
+}

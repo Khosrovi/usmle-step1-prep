@@ -1,0 +1,41 @@
+{
+  "id": "biochem-626-05",
+  "subject": "Biochemistry",
+  "major_topic": "Lipid Metabolism",
+  "subtopic": "Fatty Acid Synthesis",
+  "difficulty": "easy",
+  "vignette": "A 48-year-old man with obesity and biopsy-proven hepatic steatosis participates in a study of hepatic lipogenesis after a high-carbohydrate meal. Isotope labeling shows that the newly synthesized fatty acids released by his liver are almost entirely 16-carbon saturated chains.",
+  "question": "Which of the following is the predominant direct product of the fatty acid synthase complex in these hepatocytes?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Stearate (18:0)"
+    },
+    {
+      "id": "B",
+      "text": "Oleate (18:1)"
+    },
+    {
+      "id": "C",
+      "text": "Acetyl-CoA"
+    },
+    {
+      "id": "D",
+      "text": "Malonyl-CoA"
+    },
+    {
+      "id": "E",
+      "text": "Palmitate (16:0)"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "The cytosolic fatty acid synthase complex uses acetyl-CoA as a primer and malonyl-CoA as the two-carbon donor, adding units in NADPH-dependent cycles until the chain reaches 16 carbons. The direct product is palmitate (16:0); longer and unsaturated fatty acids are made afterward by elongases and desaturases in the endoplasmic reticulum.",
+  "explanation_incorrect": {
+    "A": "Stearate (18:0) is produced by elongation of palmitate in the endoplasmic reticulum, not by fatty acid synthase.",
+    "B": "Oleate (18:1) is produced by delta-9 desaturation of stearate in the endoplasmic reticulum.",
+    "C": "Acetyl-CoA is the primer that initiates synthesis, not the product of the complex.",
+    "D": "Malonyl-CoA is the substrate added during each cycle and is decarboxylated as the two-carbon unit is incorporated."
+  },
+  "educationalObjective": "Fatty acid synthase produces palmitate (16:0) from acetyl-CoA and malonyl-CoA using NADPH.",
+  "source": "Generated from 1. Biochemistry.pdf - Fatty Acid Synthesis"
+}

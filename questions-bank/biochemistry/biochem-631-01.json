@@ -1,0 +1,41 @@
+{
+  "id": "biochem-631-01",
+  "subject": "Biochemistry",
+  "major_topic": "Lipid Metabolism",
+  "subtopic": "Bile Acids",
+  "difficulty": "medium",
+  "vignette": "A 58-year-old woman with an LDL cholesterol of 192 mg/dL is started on cholestyramine in addition to dietary therapy. She develops mild constipation and bloating but continues the drug as prescribed. After 6 weeks her LDL cholesterol is 148 mg/dL and fecal bile acid excretion is increased; plasma triglycerides are unchanged.",
+  "question": "Which of the following best explains the reduction in LDL cholesterol produced by this drug?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Inhibition of HMG-CoA reductase in hepatocytes"
+    },
+    {
+      "id": "B",
+      "text": "Inhibition of NPC1L1-mediated intestinal cholesterol absorption"
+    },
+    {
+      "id": "C",
+      "text": "Activation of lipoprotein lipase in adipose tissue"
+    },
+    {
+      "id": "D",
+      "text": "Increased hepatic LDL receptor expression secondary to accelerated bile acid synthesis"
+    },
+    {
+      "id": "E",
+      "text": "Increased activity of cholesteryl ester transfer protein"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Cholestyramine is a nonabsorbable resin that binds bile acids in the gut and interrupts their enterohepatic recirculation, so hepatic conversion of cholesterol to bile acids increases. The resulting fall in hepatocyte cholesterol upregulates LDL receptors, and the extra receptors clear LDL from plasma, which is the principal mechanism of the LDL reduction.",
+  "explanation_incorrect": {
+    "A": "Bile acid sequestrants do not inhibit HMG-CoA reductase; they actually increase its activity as hepatic cholesterol falls, so a statin is often added for additional LDL lowering.",
+    "B": "Inhibition of NPC1L1-dependent cholesterol absorption is the mechanism of ezetimibe, not of the bile acid resins.",
+    "C": "Activation of lipoprotein lipase is produced by fibrates and lowers triglycerides rather than LDL cholesterol.",
+    "E": "Cholesteryl ester transfer protein activity is not affected by cholestyramine, and CETP inhibition is not a lipid-lowering mechanism of the resin."
+  },
+  "educationalObjective": "Bile acid sequestrants lower LDL cholesterol by increasing bile acid synthesis and thereby upregulating hepatic LDL receptors.",
+  "source": "Generated from 1. Biochemistry.pdf - Lipid Metabolism: Bile Acids"
+}

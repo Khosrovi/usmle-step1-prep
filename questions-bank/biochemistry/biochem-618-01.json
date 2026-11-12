@@ -1,0 +1,41 @@
+{
+  "id": "biochem-618-01",
+  "subject": "Biochemistry",
+  "major_topic": "Carbohydrate Metabolism",
+  "subtopic": "Electron Transport Chain",
+  "difficulty": "medium",
+  "vignette": "A 10-month-old boy is evaluated for loss of previously acquired milestones, hypotonia, and poor feeding. Serum lactate is 7.2 mmol/L and pyruvate is elevated; MRI shows symmetric T2 hyperintensities in the basal ganglia. Muscle biopsy demonstrates reduced NADH dehydrogenase activity.",
+  "question": "Decreased activity of which of the following electron transport chain components is most likely responsible?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Complex I"
+    },
+    {
+      "id": "B",
+      "text": "Complex II"
+    },
+    {
+      "id": "C",
+      "text": "Complex III"
+    },
+    {
+      "id": "D",
+      "text": "Complex IV"
+    },
+    {
+      "id": "E",
+      "text": "ATP synthase"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Complex I (NADH dehydrogenase) transfers electrons from NADH to coenzyme Q and pumps protons across the inner mitochondrial membrane. Its deficiency produces Leigh syndrome with developmental regression, hypotonia, basal ganglia lesions, and lactic acidosis.",
+  "explanation_incorrect": {
+    "B": "Complex II is succinate dehydrogenase, which oxidizes FADH2-linked substrate; its deficiency is associated with paraganglioma and would not selectively reduce NADH dehydrogenase activity.",
+    "C": "Complex III transfers electrons from coenzyme Q to cytochrome c and would not selectively reduce NADH dehydrogenase activity.",
+    "D": "Complex IV is cytochrome c oxidase, which reduces oxygen to water; it is not NADH dehydrogenase.",
+    "E": "ATP synthase uses the proton gradient to phosphorylate ADP and does not oxidize NADH."
+  },
+  "educationalObjective": "Complex I is NADH dehydrogenase; its deficiency causes Leigh syndrome with lactic acidosis and basal ganglia lesions.",
+  "source": "Generated from 1. Biochemistry.pdf - Electron Transport Chain"
+}

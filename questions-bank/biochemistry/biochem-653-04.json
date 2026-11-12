@@ -1,0 +1,41 @@
+{
+  "id": "biochem-653-04",
+  "subject": "Biochemistry",
+  "major_topic": "Nucleotide Metabolism",
+  "subtopic": "Antimetabolite Drugs",
+  "difficulty": "medium",
+  "vignette": "A 34-year-old woman with systemic lupus erythematosus and class IV lupus nephritis is treated with mycophenolate mofetil in addition to corticosteroids. Three months later her proteinuria has improved, but she develops persistent diarrhea and a white blood cell count of 2,800/uL. She is afebrile, and serum creatinine and liver enzyme values are stable.",
+  "question": "The immunosuppressive effect of mycophenolate in this patient results from inhibition of which of the following enzymes?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Dihydrofolate reductase"
+    },
+    {
+      "id": "B",
+      "text": "Inosine monophosphate dehydrogenase"
+    },
+    {
+      "id": "C",
+      "text": "Ribonucleotide reductase"
+    },
+    {
+      "id": "D",
+      "text": "Thymidylate synthase"
+    },
+    {
+      "id": "E",
+      "text": "Carbamoyl phosphate synthetase II"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Mycophenolate mofetil is hydrolyzed to mycophenolic acid, which inhibits inosine monophosphate dehydrogenase, the rate-limiting enzyme of de novo guanine nucleotide synthesis. Because lymphocytes depend heavily on de novo purine synthesis, GMP depletion suppresses their proliferation; diarrhea and leukopenia are common dose-related adverse effects.",
+  "explanation_incorrect": {
+    "A": "Dihydrofolate reductase is inhibited by methotrexate, trimethoprim, and pyrimethamine.",
+    "C": "Ribonucleotide reductase is inhibited by hydroxyurea, which blocks conversion of ribonucleotides to deoxyribonucleotides.",
+    "D": "Thymidylate synthase is inhibited by 5-fluorouracil and its prodrug capecitabine.",
+    "E": "Carbamoyl phosphate synthetase II initiates de novo pyrimidine synthesis and is not the target of mycophenolate."
+  },
+  "educationalObjective": "Mycophenolate, like ribavirin, inhibits IMP dehydrogenase and selectively depletes guanine nucleotides in lymphocytes, suppressing their proliferation.",
+  "source": "Generated from 1. Biochemistry.pdf - Molecular Biochemistry: De Novo Pyrimidine and Purine Synthesis (Mycophenolate and Ribavirin)"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "biochem-620-01",
+  "subject": "Biochemistry",
+  "major_topic": "Carbohydrate Metabolism",
+  "subtopic": "ETC Inhibitors and Uncouplers",
+  "difficulty": "medium",
+  "vignette": "A 40-year-old man is rescued unconscious from a house fire and has soot in the oropharynx. He is confused and tachycardic. Arterial blood gas on room air shows pH 7.18, PaO2 95 mm Hg, and lactate 15 mmol/L; central venous oxygen saturation is elevated, and carboxyhemoglobin is 4%.",
+  "question": "Inhibition of which of the following electron transport components best explains these findings?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Complex I"
+    },
+    {
+      "id": "B",
+      "text": "Complex II"
+    },
+    {
+      "id": "C",
+      "text": "Complex III"
+    },
+    {
+      "id": "D",
+      "text": "Complex IV"
+    },
+    {
+      "id": "E",
+      "text": "ATP synthase"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Cyanide in smoke inhibits cytochrome c oxidase (complex IV), blocking the reduction of oxygen to water. Electron transport and ATP production stop, so cells shift to anaerobic metabolism and lactate rises, while venous oxygen content remains high because tissues cannot extract oxygen.",
+  "explanation_incorrect": {
+    "A": "Complex I is inhibited by rotenone and amytal, not by cyanide.",
+    "B": "Complex II is succinate dehydrogenase and is not the target of cyanide.",
+    "C": "Complex III is inhibited by antimycin A, not cyanide.",
+    "E": "Oligomycin inhibits ATP synthase, which would not explain the elevated venous oxygen saturation produced by cyanide."
+  },
+  "educationalObjective": "Cyanide inhibits complex IV (cytochrome c oxidase), causing severe lactic acidosis with preserved arterial oxygen and impaired tissue oxygen extraction.",
+  "source": "Generated from 1. Biochemistry.pdf - ETC Inhibitors and Uncouplers"
+}

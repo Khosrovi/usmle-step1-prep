@@ -1,0 +1,41 @@
+{
+  "id": "biochem-612-02",
+  "subject": "Biochemistry",
+  "major_topic": "Enzymology",
+  "subtopic": "Isoenzymes",
+  "difficulty": "easy",
+  "vignette": "A 31-year-old man is rescued after being trapped under a collapsed wall for 6 hours. He has tensely swollen, tender thighs, and his urine is dark brown. Urinalysis is positive for blood but shows no red blood cells on microscopy. Serum creatine kinase is 60,000 U/L, and creatinine is rising despite fluid resuscitation.",
+  "question": "Which of the following creatine kinase isoenzymes is the predominant form released in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "CK-MB"
+    },
+    {
+      "id": "B",
+      "text": "CK-BB"
+    },
+    {
+      "id": "C",
+      "text": "CK-MB2"
+    },
+    {
+      "id": "D",
+      "text": "Mitochondrial creatine kinase"
+    },
+    {
+      "id": "E",
+      "text": "CK-MM"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Creatine kinase is a dimer of M and B subunits, and CK-MM is the isoenzyme that predominates in skeletal muscle, accounting for most of the CK activity in normal serum. Massive crush injury with rhabdomyolysis releases CK-MM into the circulation, and the resulting myoglobin produces the dipstick-positive, red-cell-free urine that can precipitate acute kidney injury. CK-MB is found mainly in myocardium and CK-BB mainly in brain.",
+  "explanation_incorrect": {
+    "A": "CK-MB is predominantly a myocardial isoenzyme; it may rise slightly after severe skeletal muscle injury but is not the predominant form released from damaged muscle.",
+    "B": "CK-BB is the brain isoenzyme and is not the source of the markedly elevated CK in crush injury.",
+    "C": "CK-MB2 is a microheterogeneous form of the myocardial isoenzyme used in some assays for early infarction detection, not the main isoenzyme of skeletal muscle.",
+    "D": "Mitochondrial CK is not the major circulating isoform measured in clinical assays and does not account for the massive CK elevation of rhabdomyolysis."
+  },
+  "educationalObjective": "CK-MM predominates in skeletal muscle, so rhabdomyolysis from crush injury releases CK-MM along with myoglobin, which can cause acute kidney injury.",
+  "source": "Generated from 1. Biochemistry.pdf - Enzymology: Isoenzymes"
+}

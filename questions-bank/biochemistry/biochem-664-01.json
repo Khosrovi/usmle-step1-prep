@@ -1,0 +1,41 @@
+{
+  "id": "biochem-664-01",
+  "subject": "Biochemistry",
+  "major_topic": "Molecular Biology",
+  "subtopic": "Genetic Code and Mutations",
+  "difficulty": "medium",
+  "vignette": "A 2-year-old boy of West African ancestry is brought to the emergency department with severe pain and swelling of the hands and feet, pallor, and scleral icterus. Hemoglobin is 7.8 g/dL and the reticulocyte count is 11%; the peripheral smear shows sickle-shaped red cells. Sequencing of the beta-globin gene reveals a single base change in the sixth codon, from GAG to GTG.",
+  "question": "Which of the following best classifies this mutation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Silent mutation, because the substitution occurs within a codon but does not change the amino acid sequence."
+    },
+    {
+      "id": "B",
+      "text": "Nonsense mutation, because the new codon is read as a termination signal."
+    },
+    {
+      "id": "C",
+      "text": "Frameshift insertion, because an extra nucleotide is added to the coding sequence."
+    },
+    {
+      "id": "D",
+      "text": "Transversion causing a missense mutation, because a purine is replaced by a pyrimidine and the amino acid changes."
+    },
+    {
+      "id": "E",
+      "text": "Transition causing a missense mutation, because one purine is replaced by another purine."
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "In GAG to GTG, adenine (a purine) is replaced by thymine (a pyrimidine), which is a transversion. The codon changes from glutamate to valine, so one amino acid is substituted for another (missense), producing hemoglobin S. The new hydrophobic surface patch drives polymerization of deoxygenated hemoglobin S and the sickling seen on the smear.",
+  "explanation_incorrect": {
+    "A": "A silent mutation encodes the same amino acid; here glutamate is replaced by valine, so the protein sequence does change.",
+    "B": "GTG is not a stop codon; the three stop codons are UAA, UAG, and UGA.",
+    "C": "No nucleotide is inserted; this is a single nucleotide substitution, not an insertion, so the reading frame is preserved.",
+    "E": "A transition is a purine-to-purine or pyrimidine-to-pyrimidine change (for example, A to G); adenine to thymine is a transversion."
+  },
+  "educationalObjective": "The Glu6Val substitution of sickle cell disease is a purine-to-pyrimidine transversion that causes a missense change and creates a hydrophobic surface patch on hemoglobin S.",
+  "source": "Generated from 1. Biochemistry.pdf - Molecular Biology: Genetic Code and Mutations"
+}

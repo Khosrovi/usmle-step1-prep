@@ -1,0 +1,41 @@
+{
+  "id": "biochem-616-03",
+  "subject": "Biochemistry",
+  "major_topic": "Carbohydrate Metabolism",
+  "subtopic": "Gluconeogenesis",
+  "difficulty": "easy",
+  "vignette": "A 24-year-old man fasts overnight and then performs 45 minutes of strenuous weight training. His blood glucose falls only slightly (from 82 to 74 mg/dL), although his muscle glycogen content decreases substantially, and plasma lactate rises and is taken up by the liver. His skeletal muscle cannot release glucose derived from its own glycogen stores into the circulation.",
+  "question": "Which of the following best explains why skeletal muscle cannot contribute directly to blood glucose?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Skeletal muscle lacks glucose-6-phosphatase"
+    },
+    {
+      "id": "B",
+      "text": "Skeletal muscle lacks glycogen phosphorylase"
+    },
+    {
+      "id": "C",
+      "text": "Skeletal muscle lacks phosphofructokinase-1"
+    },
+    {
+      "id": "D",
+      "text": "Skeletal muscle lacks pyruvate kinase"
+    },
+    {
+      "id": "E",
+      "text": "Skeletal muscle lacks lactate dehydrogenase"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Muscle glycogen is degraded to glucose-6-phosphate, but muscle lacks glucose-6-phosphatase, the enzyme that removes the phosphate so that free glucose can leave the cell. Muscle glucose-6-phosphate therefore enters glycolysis and becomes lactate, which is exported to the liver and converted back to glucose in the Cori cycle; muscle also lacks the complete gluconeogenic machinery.",
+  "explanation_incorrect": {
+    "B": "Muscle does contain glycogen phosphorylase (myophosphorylase); its deficiency causes McArdle disease with exercise-induced cramps and myoglobinuria.",
+    "C": "Phosphofructokinase-1 is abundantly expressed in muscle and is essential for glycolytic ATP production during contraction.",
+    "D": "Pyruvate kinase is present in muscle and catalyzes the final ATP-generating step of glycolysis.",
+    "E": "Lactate dehydrogenase is abundant in skeletal muscle and regenerates NAD+ by converting pyruvate to lactate."
+  },
+  "educationalObjective": "Skeletal muscle cannot release free glucose because it lacks glucose-6-phosphatase, so muscle glycogen is exported as lactate for hepatic gluconeogenesis.",
+  "source": "Generated from 1. Biochemistry.pdf - Carbohydrate Metabolism: Gluconeogenesis"
+}

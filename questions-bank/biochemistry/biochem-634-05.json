@@ -1,0 +1,41 @@
+{
+  "id": "biochem-634-05",
+  "subject": "Biochemistry",
+  "major_topic": "Lipid Metabolism",
+  "subtopic": "Familial Hypercholesterolemias",
+  "difficulty": "medium",
+  "vignette": "A 12-year-old boy with heterozygous familial hypercholesterolemia has an LDL cholesterol of 190 mg/dL despite dietary therapy, so atorvastatin is started. Three months later his LDL cholesterol has fallen by 40%, and liver transaminase levels are normal.",
+  "question": "Inhibition of which of the following enzymes is most directly responsible for the drug's effect?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Acetyl-CoA carboxylase"
+    },
+    {
+      "id": "B",
+      "text": "HMG-CoA synthase"
+    },
+    {
+      "id": "C",
+      "text": "Lipoprotein lipase"
+    },
+    {
+      "id": "D",
+      "text": "Cholesteryl ester transfer protein"
+    },
+    {
+      "id": "E",
+      "text": "HMG-CoA reductase"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Statins inhibit HMG-CoA reductase, the rate-limiting enzyme of cholesterol synthesis. The fall in hepatocyte cholesterol increases LDL receptor expression, which increases LDL clearance and lowers serum LDL. HMG-CoA reductase is induced by insulin, thyroxine, and estrogen and suppressed by glucagon and cholesterol.",
+  "explanation_incorrect": {
+    "A": "Acetyl-CoA carboxylase catalyzes the committed step of fatty acid synthesis, not cholesterol synthesis.",
+    "B": "HMG-CoA synthase participates in ketogenesis and is not the rate-limiting enzyme of cholesterol synthesis.",
+    "C": "Lipoprotein lipase hydrolyzes triglycerides in chylomicrons and VLDL and is not the statin target.",
+    "D": "Cholesteryl ester transfer protein transfers cholesteryl esters between lipoproteins and is not inhibited by statins."
+  },
+  "educationalObjective": "Statins lower LDL by inhibiting HMG-CoA reductase, the rate-limiting step of cholesterol synthesis, which secondarily upregulates LDL receptors.",
+  "source": "Generated from 1. Biochemistry.pdf - Regulation of Rate-Limiting Enzymes"
+}

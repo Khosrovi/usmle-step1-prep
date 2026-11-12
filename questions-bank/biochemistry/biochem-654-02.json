@@ -1,0 +1,41 @@
+{
+  "id": "biochem-654-02",
+  "subject": "Biochemistry",
+  "major_topic": "Nucleotide Metabolism",
+  "subtopic": "DNA and RNA Structure",
+  "difficulty": "medium",
+  "vignette": "A 19-year-old man with short stature, bilateral sensorineural hearing loss, and recurrent stroke-like episodes has lactic acidosis and ragged red fibers on muscle biopsy. Genetic testing shows a homoplasmic point mutation in the mitochondrial gene encoding tRNA-Leu(UUR). Structural analysis of the mutant tRNA shows loss of the T-psi-C sequence with an otherwise intact cloverleaf structure, an intact anticodon loop, and an intact 3'-CCA terminus.",
+  "question": "Loss of this sequence would most directly impair which of the following functions?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Recognition of the tRNA by its specific aminoacyl-tRNA synthetase"
+    },
+    {
+      "id": "B",
+      "text": "Binding of the tRNA to the ribosome"
+    },
+    {
+      "id": "C",
+      "text": "Covalent attachment of the amino acid to the 3' end"
+    },
+    {
+      "id": "D",
+      "text": "Codon-anticodon base pairing in the A site"
+    },
+    {
+      "id": "E",
+      "text": "Peptidyl transferase activity"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "The T-arm contains the T-psi-C sequence, which is necessary for tRNA-ribosome binding and tethers the tRNA molecule to the ribosome during translation. The D-arm instead carries dihydrouridine residues required for recognition by the correct aminoacyl-tRNA synthetase, so the arms serve distinct roles.",
+  "explanation_incorrect": {
+    "A": "Recognition by aminoacyl-tRNA synthetase depends primarily on the D-arm, which contains dihydrouridine residues and is intact in this patient.",
+    "C": "Amino acid attachment requires the invariant CCA sequence at the 3' end, which is described as intact.",
+    "D": "Codon-anticodon pairing depends on the anticodon loop, which is structurally separate from the T-arm.",
+    "E": "Peptidyl transferase activity is catalyzed by ribosomal RNA (a ribozyme) rather than by tRNA."
+  },
+  "educationalObjective": "The T-arm (T-psi-C sequence) of tRNA is required for binding to the ribosome, whereas the D-arm mediates recognition by aminoacyl-tRNA synthetase.",
+  "source": "Generated from 1. Biochemistry.pdf - Molecular Biochemistry: tRNA Structure"
+}

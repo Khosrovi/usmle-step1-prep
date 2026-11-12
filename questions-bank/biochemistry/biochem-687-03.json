@@ -1,0 +1,41 @@
+{
+  "id": "biochem-687-03",
+  "subject": "Biochemistry",
+  "major_topic": "Heme and Bilirubin Metabolism",
+  "subtopic": "Bilirubin Metabolism",
+  "difficulty": "hard",
+  "vignette": "A 5-day-old term infant is evaluated for persistent jaundice. He was born at 39 weeks after an uncomplicated pregnancy and is feeding well. Examination shows scleral icterus but no hepatosplenomegaly. Laboratory studies show total bilirubin 21 mg/dL with a direct fraction of 0.8 mg/dL, normal reticulocyte count, normal hemoglobin, and normal liver enzymes. A trial of oral phenobarbital is begun, and serum bilirubin falls substantially over the next week.",
+  "question": "Which of the following diagnoses best explains this infant's persistent jaundice and his response to phenobarbital?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Gilbert syndrome"
+    },
+    {
+      "id": "B",
+      "text": "Crigler-Najjar syndrome type I"
+    },
+    {
+      "id": "C",
+      "text": "Dubin-Johnson syndrome"
+    },
+    {
+      "id": "D",
+      "text": "Crigler-Najjar syndrome type II"
+    },
+    {
+      "id": "E",
+      "text": "Physiologic neonatal jaundice"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Crigler-Najjar syndrome type II is caused by a partial deficiency of UGT1A1, the enzyme that conjugates bilirubin. Because some enzyme activity remains, phenobarbital induces residual UGT1A1 expression and lowers serum bilirubin, distinguishing type II from type I. The unconjugated hyperbilirubinemia persists well beyond the first week and can still cause neurologic injury if bilirubin is very high.",
+  "explanation_incorrect": {
+    "A": "Gilbert syndrome produces only mild jaundice and does not cause bilirubin concentrations of 21 mg/dL in the first week of life.",
+    "B": "In Crigler-Najjar syndrome type I, UGT1A1 activity is absent, so phenobarbital fails to lower bilirubin and lifelong phototherapy, exchange transfusion, or liver transplantation is required.",
+    "C": "Dubin-Johnson syndrome causes conjugated hyperbilirubinemia because of impaired biliary excretion, not unconjugated hyperbilirubinemia responsive to phenobarbital.",
+    "E": "Physiologic neonatal jaundice results from immature UGT1A1 and resolves spontaneously within 1 to 2 weeks; a 21 mg/dL level persisting at 5 days and responding to phenobarbital suggests a genetic conjugation defect."
+  },
+  "educationalObjective": "A substantial fall in bilirubin after phenobarbital favors Crigler-Najjar syndrome type II over type I, because residual UGT1A1 can be induced in the partial deficiency.",
+  "source": "Generated from 1. Biochemistry.pdf - Heme and Bilirubin Metabolism: Bilirubin Metabolism"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "biochem-610-02",
+  "subject": "Biochemistry",
+  "major_topic": "Enzymology",
+  "subtopic": "Allosteric Regulation",
+  "difficulty": "easy",
+  "vignette": "A 22-year-old man performs maximal exertion on a cycle ergometer. As contraction continues, ATP is consumed more rapidly than it is regenerated, and skeletal muscle must increase glycolytic flux to sustain ATP supply. Phosphofructokinase-1 (PFK-1) catalyzes the rate-limiting step of glycolysis and is a classic allosteric enzyme.",
+  "question": "Which of the following best describes the allosteric regulation of PFK-1 in this man's exercising muscle?",
+  "options": [
+    {
+      "id": "A",
+      "text": "PFK-1 is inhibited by AMP and activated by ATP"
+    },
+    {
+      "id": "B",
+      "text": "PFK-1 is activated by citrate and inhibited by fructose-2,6-bisphosphate"
+    },
+    {
+      "id": "C",
+      "text": "PFK-1 activity is unchanged because it is regulated only by covalent phosphorylation"
+    },
+    {
+      "id": "D",
+      "text": "PFK-1 is inhibited by fructose-2,6-bisphosphate and activated by ATP"
+    },
+    {
+      "id": "E",
+      "text": "PFK-1 is activated by AMP and inhibited by ATP, increasing glycolytic flux"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "PFK-1 is allosterically activated by AMP and fructose-2,6-bisphosphate and inhibited by ATP and citrate. During intense exercise ATP falls and AMP rises, so the ATP/AMP ratio favors activation of PFK-1 and increases glycolytic flux to regenerate ATP. This allosteric control allows the muscle to match glycolytic rate to energy demand without new enzyme synthesis.",
+  "explanation_incorrect": {
+    "A": "The regulation is inverted: AMP, a signal of low energy charge, activates PFK-1, and ATP inhibits it when energy is abundant.",
+    "B": "Citrate inhibits PFK-1, and fructose-2,6-bisphosphate is the most potent activator of PFK-1 in the fed state.",
+    "C": "PFK-1 is regulated both allosterically by small metabolites and by covalent modification, so activity is not unchanged during exercise.",
+    "D": "Fructose-2,6-bisphosphate activates rather than inhibits PFK-1, and ATP acts as an inhibitor rather than an activator."
+  },
+  "educationalObjective": "PFK-1 is allosterically activated by AMP and fructose-2,6-bisphosphate and inhibited by ATP and citrate, matching glycolytic flux to cellular energy demand.",
+  "source": "Generated from 1. Biochemistry.pdf - Enzymology: Allosteric Regulation"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "biochem-655-03",
+  "subject": "Biochemistry",
+  "major_topic": "Molecular Biology",
+  "subtopic": "DNA Structure and Chromatin",
+  "difficulty": "medium",
+  "vignette": "A 9-year-old girl is evaluated for short stature, a webbed neck, and a heart murmur. Echocardiography shows a bicuspid aortic valve with coarctation of the aorta, and karyotype is 45,X. Her physician orders a buccal smear to assess X chromosome inactivation.",
+  "question": "Which of the following best explains the expected buccal smear finding in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A single Barr body, because one X chromosome is inactivated"
+    },
+    {
+      "id": "B",
+      "text": "Two Barr bodies, because both X chromosomes are inactivated"
+    },
+    {
+      "id": "C",
+      "text": "No Barr body, because the X chromosome remains euchromatic"
+    },
+    {
+      "id": "D",
+      "text": "A single Barr body, because the Y chromosome is inactivated"
+    },
+    {
+      "id": "E",
+      "text": "No Barr body, because only one X chromosome is present"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "A Barr body is an inactivated X chromosome, visible as a densely condensed heterochromatic mass at the nuclear periphery. Inactivation occurs for all X chromosomes beyond the first, so a 45,X patient has no second X to inactivate and no Barr body is seen.",
+  "explanation_incorrect": {
+    "A": "A single Barr body requires at least two X chromosomes, as in a normal 46,XX female.",
+    "B": "Two Barr bodies would require at least three X chromosomes (for example, 47,XXX).",
+    "C": "The absence of a Barr body is due to the absence of a second X chromosome, not to euchromatic maintenance of the single X.",
+    "D": "There is no Y chromosome in Turner syndrome, and the Y chromosome is not inactivated as a Barr body."
+  },
+  "educationalObjective": "Barr bodies represent inactivated X chromosomes, so a 45,X karyotype produces none.",
+  "source": "Generated from 1. Biochemistry.pdf - Molecular Biology: Chromatin Structure"
+}

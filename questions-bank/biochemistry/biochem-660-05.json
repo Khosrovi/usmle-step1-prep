@@ -1,0 +1,41 @@
+{
+  "id": "biochem-660-05",
+  "subject": "Biochemistry",
+  "major_topic": "Molecular Biology",
+  "subtopic": "Transcription",
+  "difficulty": "hard",
+  "vignette": "A 7-year-old girl with recurrent urinary tract infections has a urine culture growing Escherichia coli. In the microbiology laboratory the isolate is grown in media containing different concentrations of glucose and lactose, and investigators measure lac operon transcription. Maximal transcription of the lac genes is observed when glucose is low and lactose is abundant.",
+  "question": "Which of the following best explains maximal expression of the lac operon under these conditions?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Lactose binds directly to catabolite activator protein (CAP) and converts it into an activator"
+    },
+    {
+      "id": "B",
+      "text": "The lac repressor remains bound to the operator and stimulates polymerase binding"
+    },
+    {
+      "id": "C",
+      "text": "Low glucose raises intracellular cAMP, which prevents CAP from binding DNA"
+    },
+    {
+      "id": "D",
+      "text": "Glucose directly activates the lac repressor"
+    },
+    {
+      "id": "E",
+      "text": "cAMP-CAP binds upstream of the promoter while lactose removes the repressor from the operator"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "When glucose is low, adenylate cyclase activity and intracellular cAMP rise; cAMP binds CAP, and the cAMP-CAP complex binds upstream of the lac promoter to increase transcription. Lactose is converted to allolactose, which binds the lac repressor and causes it to release the operator so that RNA polymerase can transcribe the operon. Maximal expression therefore requires both low glucose and available lactose.",
+  "explanation_incorrect": {
+    "A": "CAP is activated by cAMP, not by lactose; lactose acts on the lac repressor.",
+    "B": "A repressor bound to the operator blocks transcription rather than stimulating it, and lactose causes the repressor to release the operator.",
+    "C": "Low glucose increases cAMP and promotes CAP binding; it is high glucose that lowers cAMP.",
+    "D": "Glucose does not activate the repressor; high glucose lowers cAMP and reduces CAP-dependent activation, a phenomenon called catabolite repression."
+  },
+  "educationalObjective": "Maximal lac operon transcription requires low glucose, which raises cAMP-CAP activation, plus lactose, which relieves repressor binding to the operator.",
+  "source": "Generated from 1. Biochemistry.pdf - Molecular Biology: Transcription"
+}

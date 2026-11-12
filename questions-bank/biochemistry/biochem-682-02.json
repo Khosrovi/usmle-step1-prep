@@ -1,0 +1,41 @@
+{
+  "id": "biochem-682-02",
+  "subject": "Biochemistry",
+  "major_topic": "Vitamins and Minerals",
+  "subtopic": "Iron Metabolism",
+  "difficulty": "medium",
+  "vignette": "A 66-year-old woman with long-standing rheumatoid arthritis treated with methotrexate presents with fatigue. She denies any bleeding source and has no pica. Examination shows synovitis of the wrists and metacarpophalangeal joints and pale conjunctivae. Findings include hemoglobin 10.2 g/dL, MCV 82 fL, reticulocyte count 1.0%, serum iron 35 mcg/dL, total iron-binding capacity 205 mcg/dL, ferritin 340 ng/mL, and an elevated C-reactive protein.",
+  "question": "Which of the following best explains these laboratory findings?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Ongoing occult gastrointestinal blood loss"
+    },
+    {
+      "id": "B",
+      "text": "Absent erythropoietin production by the kidneys"
+    },
+    {
+      "id": "C",
+      "text": "Hepcidin-mediated sequestration of iron in macrophages with reduced intestinal absorption"
+    },
+    {
+      "id": "D",
+      "text": "Megaloblastic maturation caused by methotrexate-induced folate deficiency"
+    },
+    {
+      "id": "E",
+      "text": "Accelerated destruction of circulating red cells"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Inflammation raises interleukin-6, which stimulates hepatic hepcidin. Hepcidin degrades ferroportin on macrophages and enterocytes, trapping recycled iron inside macrophages and reducing intestinal iron absorption; the result is the anemia of chronic disease with low serum iron, low total iron-binding capacity, normal or elevated ferritin, and a normal MCV.",
+  "explanation_incorrect": {
+    "A": "Occult blood loss would cause iron deficiency with a low ferritin and a high total iron-binding capacity, the opposite of these results.",
+    "B": "Erythropoietin deficiency occurs with chronic kidney disease, which this patient does not have; her normocytic anemia with iron-restricted indices points to inflammation.",
+    "D": "Methotrexate can cause folate deficiency, but that produces macrocytosis with hypersegmented neutrophils and often an elevated lactate dehydrogenase, not iron-restricted indices.",
+    "E": "Hemolysis would raise the reticulocyte count and bilirubin and lower haptoglobin; this patient has an inappropriately low reticulocyte count."
+  },
+  "educationalObjective": "Anemia of chronic disease is driven by hepcidin-mediated iron sequestration and presents with low serum iron, low total iron-binding capacity, and normal or high ferritin.",
+  "source": "Generated from 1. Biochemistry.pdf - Nutrition: Vitamins and Minerals (Iron)"
+}

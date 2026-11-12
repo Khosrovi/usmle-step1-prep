@@ -1,0 +1,41 @@
+{
+  "id": "biochem-604-02",
+  "subject": "Biochemistry",
+  "major_topic": "Amino Acids & Proteins",
+  "subtopic": "Plasma Proteins",
+  "difficulty": "medium",
+  "vignette": "A 19-year-old man is evaluated for 6 months of worsening tremor, slurred speech, and jaundice. Slit-lamp examination shows golden-brown rings at the corneal margins, and he has a resting tremor with dysarthria. Serum ceruloplasmin is 6 mg/dL, 24-hour urinary copper excretion is elevated, and liver biopsy shows increased hepatic copper with early fibrosis.",
+  "question": "Which of the following best explains the low serum ceruloplasmin in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Autoantibodies against ceruloplasmin accelerate its clearance"
+    },
+    {
+      "id": "B",
+      "text": "Impaired incorporation of copper into apoceruloplasmin due to a defective ATP7B copper transporter, producing an unstable protein that is degraded"
+    },
+    {
+      "id": "C",
+      "text": "Urinary loss of ceruloplasmin due to glomerular disease"
+    },
+    {
+      "id": "D",
+      "text": "Consumption of ceruloplasmin by excess free copper in the plasma"
+    },
+    {
+      "id": "E",
+      "text": "Suppression of ceruloplasmin synthesis by hepatic iron overload"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Wilson disease is caused by mutations in ATP7B, the hepatocyte copper transporter that loads copper onto apoceruloplasmin in the Golgi and excretes copper into bile. Without adequate copper incorporation, apoceruloplasmin is unstable and is rapidly degraded, so serum ceruloplasmin is low while copper accumulates in the liver, brain, cornea, and other tissues. The resulting Kayser-Fleischer rings, tremor, dysarthria, and hepatic disease are classic manifestations.",
+  "explanation_incorrect": {
+    "A": "Wilson disease is not autoimmune; ceruloplasmin levels fall because copper cannot be incorporated into the apoprotein, not because antibodies clear it.",
+    "C": "Ceruloplasmin is a relatively large plasma protein and is not lost in urine in the absence of significant glomerular disease, which this patient does not have.",
+    "D": "Excess free copper does not consume ceruloplasmin; the defect is in the transport of copper into the protein during its synthesis.",
+    "E": "Hepatic iron overload occurs in hemochromatosis, not Wilson disease, and iron does not suppress ceruloplasmin synthesis."
+  },
+  "educationalObjective": "In Wilson disease, defective ATP7B prevents copper loading onto apoceruloplasmin, so the unstable apoprotein is degraded and serum ceruloplasmin is low while copper accumulates in tissues.",
+  "source": "Generated from 1. Biochemistry.pdf - Plasma Proteins"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "pharm-010",
+  "subject": "Pharmacology",
+  "major_topic": "Toxicities and Adverse Effects",
+  "subtopic": "Anticoagulant reversal",
+  "difficulty": "easy",
+  "vignette": "A 60-year-old man receiving a continuous unfractionated heparin infusion after pulmonary embolism develops bleeding from his intravenous sites, and his aPTT is markedly prolonged.",
+  "question": "Which of the following is the most appropriate agent to reverse the anticoagulant effect?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Protamine sulfate"
+    },
+    {
+      "id": "B",
+      "text": "Vitamin K"
+    },
+    {
+      "id": "C",
+      "text": "Idarucizumab"
+    },
+    {
+      "id": "D",
+      "text": "Andexanet alfa"
+    },
+    {
+      "id": "E",
+      "text": "Fresh frozen plasma"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Protamine sulfate binds heparin and neutralizes it, reversing unfractionated heparin; it only partially reverses low-molecular-weight heparin.",
+  "explanation_incorrect": {
+    "B": "Vitamin K reverses warfarin.",
+    "C": "Idarucizumab reverses dabigatran.",
+    "D": "Andexanet alfa reverses direct factor Xa inhibitors.",
+    "E": "Fresh frozen plasma is used for warfarin bleeding and is not a specific heparin antidote."
+  },
+  "educationalObjective": "Protamine sulfate is the specific antidote for unfractionated heparin.",
+  "source": "Generated from 5. Pharmacology.pdf - Toxicities and Adverse Effects (specific toxicity treatments)"
+}

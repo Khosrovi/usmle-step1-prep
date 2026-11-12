@@ -1,0 +1,41 @@
+{
+  "id": "biochem-666-03",
+  "subject": "Biochemistry",
+  "major_topic": "Molecular Biology",
+  "subtopic": "Recombinant DNA Technology",
+  "difficulty": "easy",
+  "vignette": "A 26-year-old man requests HIV testing after a high-risk exposure 3 weeks ago, and a screening immunoassay is reactive. To confirm the result, the laboratory separates viral proteins by gel electrophoresis, transfers them to a membrane, and detects patient antibodies bound to specific viral protein bands.",
+  "question": "Which of the following techniques is being used?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Southern blot"
+    },
+    {
+      "id": "B",
+      "text": "Northern blot"
+    },
+    {
+      "id": "C",
+      "text": "Enzyme-linked immunosorbent assay"
+    },
+    {
+      "id": "D",
+      "text": "Western blot"
+    },
+    {
+      "id": "E",
+      "text": "Flow cytometry"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Western blotting separates proteins by gel electrophoresis, transfers them to a membrane, and detects specific proteins, here HIV proteins recognized by the patient's antibodies, using labeled antibodies. The mnemonic SNoW DRoP indicates that Southern blot is for DNA, Northern blot is for RNA, and Western blot is for protein; Western blot has classically been used to confirm a reactive HIV screening test in adults.",
+  "explanation_incorrect": {
+    "A": "Southern blot analyzes DNA, not proteins.",
+    "B": "Northern blot analyzes RNA, not proteins.",
+    "C": "ELISA detects an antigen or antibody in a fluid with an enzyme-linked antibody but does not separate proteins by electrophoresis.",
+    "E": "Flow cytometry analyzes single cells by light scatter and fluorescence and is not used to confirm HIV serology."
+  },
+  "educationalObjective": "Western blotting separates and identifies proteins with labeled antibodies; Southern blot is used for DNA and Northern blot for RNA.",
+  "source": "Generated from 1. Biochemistry.pdf - Laboratory Techniques: Recombinant DNA Technology"
+}

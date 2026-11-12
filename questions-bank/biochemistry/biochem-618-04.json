@@ -1,0 +1,41 @@
+{
+  "id": "biochem-618-04",
+  "subject": "Biochemistry",
+  "major_topic": "Carbohydrate Metabolism",
+  "subtopic": "Electron Transport Chain",
+  "difficulty": "hard",
+  "vignette": "A 19-year-old man presents with 3 weeks of painless, progressive vision loss in the right eye, followed 2 months later by similar loss in the left eye. Funduscopy shows optic disc hyperemia, and visual acuity is 20/200 bilaterally. His maternal uncle and a maternal cousin had similar vision loss, whereas his father and paternal relatives are unaffected. Genetic testing reveals a mitochondrial DNA mutation affecting a complex I subunit.",
+  "question": "Which of the following best explains the inheritance pattern of this disorder?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Autosomal dominant inheritance with incomplete penetrance"
+    },
+    {
+      "id": "B",
+      "text": "Autosomal recessive inheritance"
+    },
+    {
+      "id": "C",
+      "text": "X-linked recessive inheritance"
+    },
+    {
+      "id": "D",
+      "text": "Mitochondrial inheritance with heteroplasmy"
+    },
+    {
+      "id": "E",
+      "text": "Genomic imprinting"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Leber hereditary optic neuropathy is caused by mitochondrial DNA mutations, which are transmitted only through the mother; all offspring of an affected female may inherit the mutation. Variable expression results from heteroplasmy, the coexistence of mutant and normal mitochondrial genomes within cells.",
+  "explanation_incorrect": {
+    "A": "Autosomal dominant inheritance would require an affected parent of either sex to transmit the allele with a 50% risk, which does not match the purely maternal pattern.",
+    "B": "Autosomal recessive inheritance would not show the maternal transmission pattern described.",
+    "C": "X-linked recessive inheritance affects males predominantly but is transmitted by carrier mothers and would not explain the purely maternal pattern seen in his relatives.",
+    "E": "Genomic imprinting involves parent-of-origin-specific expression of nuclear genes and is not the mechanism of mitochondrial DNA disorders."
+  },
+  "educationalObjective": "Mitochondrial DNA disorders such as Leber hereditary optic neuropathy are transmitted maternally, with variable expression due to heteroplasmy.",
+  "source": "Generated from 1. Biochemistry.pdf - Electron Transport Chain"
+}

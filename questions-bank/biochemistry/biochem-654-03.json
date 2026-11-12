@@ -1,0 +1,41 @@
+{
+  "id": "biochem-654-03",
+  "subject": "Biochemistry",
+  "major_topic": "Nucleotide Metabolism",
+  "subtopic": "DNA and RNA Structure",
+  "difficulty": "medium",
+  "vignette": "A 46-year-old man presents with progressive involuntary choreiform movements, irritability, and cognitive decline, and his father had a similar illness. Genetic testing shows expanded CAG repeats in the HTT gene, confirming Huntington disease. In affected neurons, regions of chromatin become highly condensed and transcriptionally inactive.",
+  "question": "Which of the following mechanisms most directly produces this condensed, transcriptionally inactive chromatin state?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Acetylation of lysine residues in histone tails"
+    },
+    {
+      "id": "B",
+      "text": "Replacement of core histones by linker histone H1"
+    },
+    {
+      "id": "C",
+      "text": "Phosphorylation of histone H1 tails"
+    },
+    {
+      "id": "D",
+      "text": "Histone deacetylation"
+    },
+    {
+      "id": "E",
+      "text": "Increased binding of DNA to the nuclear envelope"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Heterochromatin is condensed and transcriptionally inactive and is characterized by histone deacetylation together with increased DNA methylation. Deacetylation restores the positive charge of histone lysine residues, tightening the electrostatic interaction with negatively charged DNA and stabilizing the compact chromatin fiber; histone deacetylation may contribute to the altered gene expression of Huntington disease, and histone deacetylase inhibitors are under study.",
+  "explanation_incorrect": {
+    "A": "Histone acetylation neutralizes lysine charge and loosens DNA-histone contacts, producing euchromatin and increased transcription.",
+    "B": "Histone H1 is a linker histone that binds linker DNA and stabilizes the chromatin fiber; it does not replace the core octamer, which consists of two copies each of H2A, H2B, H3, and H4.",
+    "C": "Histone phosphorylation is associated with chromatin remodeling and transcriptional activation rather than a stable repressed state.",
+    "E": "Attachment of chromatin to the nuclear envelope is not the mechanism that silences these regions in this disorder."
+  },
+  "educationalObjective": "Histone deacetylation, with DNA methylation, condenses chromatin into transcriptionally inactive heterochromatin, whereas acetylation promotes euchromatin and transcription.",
+  "source": "Generated from 1. Biochemistry.pdf - Molecular Biochemistry: Chromatin Structure"
+}

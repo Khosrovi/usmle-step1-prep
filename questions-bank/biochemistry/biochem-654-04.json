@@ -1,0 +1,41 @@
+{
+  "id": "biochem-654-04",
+  "subject": "Biochemistry",
+  "major_topic": "Nucleotide Metabolism",
+  "subtopic": "DNA and RNA Structure",
+  "difficulty": "easy",
+  "vignette": "A 61-year-old woman with metastatic melanoma undergoes molecular testing of her tumor to detect a BRAF V600E mutation. The assay amplifies a guanine- and cytosine-rich exon of BRAF, and the laboratory must use a higher denaturation temperature for this amplicon than for the other amplicons in the same panel.",
+  "question": "Which of the following best explains the higher denaturation temperature required for this GC-rich DNA fragment?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Guanine-cytosine pairs are held together by two hydrogen bonds each"
+    },
+    {
+      "id": "B",
+      "text": "Guanine-cytosine pairs are joined by covalent bonds between the bases"
+    },
+    {
+      "id": "C",
+      "text": "GC-rich DNA contains more deoxyribose per base pair"
+    },
+    {
+      "id": "D",
+      "text": "GC-rich DNA contains uracil instead of thymine"
+    },
+    {
+      "id": "E",
+      "text": "Each guanine-cytosine pair has three hydrogen bonds, so more energy is required to separate the strands"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Guanine and cytosine are joined by three hydrogen bonds, whereas adenine and thymine are joined by only two, so higher GC content raises the melting temperature of a DNA duplex. This is why GC-rich amplicons require a higher denaturation temperature in PCR-based tumor genotyping.",
+  "explanation_incorrect": {
+    "A": "G-C pairs have three hydrogen bonds; it is A-T pairs that have only two.",
+    "B": "Base pairing is noncovalent hydrogen bonding; covalent bonds occur within each base and along the sugar-phosphate backbone.",
+    "C": "The deoxyribose content per base pair is the same regardless of base composition, so it cannot explain a difference in melting temperature.",
+    "D": "Uracil is found in RNA, not DNA; DNA contains thymine."
+  },
+  "educationalObjective": "GC content raises the melting temperature of DNA because each G-C pair has three hydrogen bonds while each A-T pair has only two.",
+  "source": "Generated from 1. Biochemistry.pdf - Molecular Biochemistry: Nucleotides (Base Pairing and Hydrogen Bonds)"
+}

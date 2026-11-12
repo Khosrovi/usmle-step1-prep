@@ -1,0 +1,41 @@
+{
+  "id": "biochem-697-02",
+  "subject": "Biochemistry",
+  "major_topic": "Inborn Errors of Metabolism",
+  "subtopic": "Purine/Pyrimidine Disorders",
+  "difficulty": "medium",
+  "vignette": "A 4-month-old girl is admitted with persistent oral candidiasis, failure to thrive, and Pneumocystis jirovecii pneumonia. She has no palpable lymph nodes or tonsils, and a chest radiograph shows an absent thymic shadow. Laboratory studies show lymphopenia with markedly decreased T cells and poor antibody responses; serum uric acid is normal, and erythrocyte adenosine deaminase activity is undetectable. Her parents are first cousins.",
+  "question": "Which of the following is the most likely underlying defect?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Purine nucleoside phosphorylase deficiency"
+    },
+    {
+      "id": "B",
+      "text": "Hypoxanthine-guanine phosphoribosyltransferase deficiency"
+    },
+    {
+      "id": "C",
+      "text": "Xanthine oxidase deficiency"
+    },
+    {
+      "id": "D",
+      "text": "Adenosine deaminase deficiency"
+    },
+    {
+      "id": "E",
+      "text": "PRPP synthetase superactivity"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Adenosine deaminase deficiency is an autosomal recessive cause of severe combined immunodeficiency and accounts for a substantial minority of cases. Lack of ADA causes deoxyadenosine and dATP to accumulate, and dATP inhibits ribonucleotide reductase, depriving lymphocytes of DNA precursors; treatment options include enzyme replacement, hematopoietic stem cell transplantation, and gene therapy.",
+  "explanation_incorrect": {
+    "A": "Purine nucleoside phosphorylase deficiency causes a combined immunodeficiency with prominent T-cell defects and low uric acid, but it does not produce the classic ADA-deficient SCID picture with an absent thymus.",
+    "B": "Hypoxanthine-guanine phosphoribosyltransferase deficiency causes Lesch-Nyhan syndrome with hyperuricemia and self-mutilation, not severe combined immunodeficiency.",
+    "C": "Xanthine oxidase deficiency causes xanthinuria with radiolucent kidney stones and has no effect on immune function.",
+    "E": "PRPP synthetase superactivity causes early-onset gout and hyperuricemia, not thymic aplasia or opportunistic infection."
+  },
+  "educationalObjective": "Severe combined immunodeficiency with an absent thymus and undetectable adenosine deaminase activity indicates ADA deficiency, an autosomal recessive form of SCID.",
+  "source": "Generated from 1. Biochemistry.pdf - Section II: Metabolism, Purine and Pyrimidine Synthesis"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "pharm-015",
+  "subject": "Pharmacology",
+  "major_topic": "Toxicities and Adverse Effects",
+  "subtopic": "Vancomycin infusion reaction",
+  "difficulty": "easy",
+  "vignette": "A 55-year-old man receiving vancomycin for MRSA bacteremia develops flushing, pruritus, and erythema over the face and upper trunk during the infusion. Blood pressure is 118/72 mm Hg and there is no airway compromise.",
+  "question": "Which of the following is the most appropriate management?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Slow the infusion rate and administer diphenhydramine"
+    },
+    {
+      "id": "B",
+      "text": "Discontinue vancomycin permanently"
+    },
+    {
+      "id": "C",
+      "text": "Administer intramuscular epinephrine"
+    },
+    {
+      "id": "D",
+      "text": "Administer intravenous hydrocortisone"
+    },
+    {
+      "id": "E",
+      "text": "Administer naloxone"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Vancomycin infusion reaction (formerly red man syndrome) is a non-IgE-mediated histamine release triggered by rapid infusion. It is managed by slowing the infusion and giving an antihistamine; stopping the drug permanently is unnecessary.",
+  "explanation_incorrect": {
+    "B": "Permanent discontinuation is unnecessary because the reaction is infusion-rate dependent and not true allergy.",
+    "C": "Epinephrine is reserved for anaphylaxis with airway compromise or shock.",
+    "D": "Corticosteroids are not first-line for this acute histamine-release reaction.",
+    "E": "Naloxone is an opioid antagonist."
+  },
+  "educationalObjective": "Vancomycin infusion reaction is rate-dependent histamine release treated by slowing the infusion and giving an antihistamine.",
+  "source": "Generated from 5. Pharmacology.pdf - Toxicities and Adverse Effects (drug reactions, cardiovascular)"
+}

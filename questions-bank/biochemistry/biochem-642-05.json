@@ -1,0 +1,41 @@
+{
+  "id": "biochem-642-05",
+  "subject": "Biochemistry",
+  "major_topic": "Amino Acid Metabolism",
+  "subtopic": "One-Carbon Metabolism",
+  "difficulty": "hard",
+  "vignette": "A 47-year-old man undergoes a 6-hour operation with nitrous oxide anesthesia. Three weeks later he develops progressive numbness of the hands and feet, difficulty with balance, and fatigue. Laboratory studies show hemoglobin 9.8 g/dL, mean corpuscular volume 118 fL, hypersegmented neutrophils, increased homocysteine, and increased methylmalonic acid. His blood counts were normal before surgery, and he takes no medications.",
+  "question": "Which of the following best explains these findings?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Nitrous oxide causes folate malabsorption in the jejunum"
+    },
+    {
+      "id": "B",
+      "text": "Nitrous oxide directly inhibits dihydrofolate reductase"
+    },
+    {
+      "id": "C",
+      "text": "Nitrous oxide blocks intrinsic factor secretion by parietal cells"
+    },
+    {
+      "id": "D",
+      "text": "Nitrous oxide inactivates cobalamin and impairs methionine synthase and methylmalonyl-CoA mutase"
+    },
+    {
+      "id": "E",
+      "text": "Nitrous oxide increases renal loss of methylmalonic acid"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Nitrous oxide oxidizes the cobalt in cobalamin, inactivating vitamin B12 and thereby both B12-dependent enzymes: methionine synthase, which remethylates homocysteine, and methylmalonyl-CoA mutase, which converts methylmalonyl-CoA to succinyl-CoA. The result is megaloblastic anemia with elevated homocysteine and methylmalonic acid plus subacute combined degeneration of the spinal cord, identical to severe dietary B12 deficiency.",
+  "explanation_incorrect": {
+    "A": "Nitrous oxide does not impair jejunal folate absorption; folate deficiency raises homocysteine but leaves methylmalonic acid normal.",
+    "B": "Dihydrofolate reductase is inhibited by methotrexate, trimethoprim, and pyrimethamine, not by nitrous oxide.",
+    "C": "Intrinsic factor is secreted by gastric parietal cells; nitrous oxide does not block its secretion, and the mechanism is direct inactivation of cobalamin.",
+    "E": "Methylmalonic acid is increased in serum and urine because its metabolism is impaired, not because of increased renal loss."
+  },
+  "educationalObjective": "Nitrous oxide inactivates cobalamin and produces a functional B12 deficiency with megaloblastic anemia and elevated homocysteine and methylmalonic acid levels.",
+  "source": "Generated from 1. Biochemistry.pdf - Amino Acid Metabolism: One-Carbon Metabolism"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "biochem-005",
+  "subject": "Biochemistry",
+  "major_topic": "Amino Acids & Proteins",
+  "subtopic": "Structure and classification",
+  "difficulty": "medium",
+  "vignette": "A researcher is studying the structure of histone proteins, which are rich in positively charged amino acids that interact with the negatively charged phosphate groups of DNA. The researcher notes that mutations in these amino acids can affect chromatin structure and gene expression.",
+  "question": "Which of the following amino acids is most likely to be abundant in histone proteins?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Aspartate and glutamate"
+    },
+    {
+      "id": "B",
+      "text": "Lysine and arginine"
+    },
+    {
+      "id": "C",
+      "text": "Leucine and isoleucine"
+    },
+    {
+      "id": "D",
+      "text": "Serine and threonine"
+    },
+    {
+      "id": "E",
+      "text": "Phenylalanine and tyrosine"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Lysine and arginine are basic (positively charged) amino acids that are abundant in histone proteins. At physiological pH, the amino groups of lysine and the guanidino group of arginine are protonated, giving them a positive charge. This positive charge allows histones to interact electrostatically with the negatively charged phosphate backbone of DNA, facilitating DNA packaging into nucleosomes. Histone modifications (e.g., acetylation of lysine, methylation of lysine and arginine) play crucial roles in epigenetic regulation of gene expression. Acetylation of lysine neutralizes its positive charge, loosening chromatin structure and promoting transcription.",
+  "explanation_incorrect": {
+    "A": "Aspartate and glutamate are acidic (negatively charged) amino acids. They would repel DNA rather than bind to it.",
+    "C": "Leucine and isoleucine are nonpolar, hydrophobic amino acids. They do not have charged side chains for DNA interaction.",
+    "D": "Serine and threonine are polar, uncharged amino acids with hydroxyl groups. They can be phosphorylated but are not the primary amino acids for DNA binding in histones.",
+    "E": "Phenylalanine and tyrosine are aromatic amino acids. Tyrosine can be phosphorylated, but these amino acids are not the primary positively charged residues in histones."
+  },
+  "educationalObjective": "Lysine and arginine are basic (positively charged) amino acids that are abundant in histone proteins.",
+  "source": "Imported from the existing Supabase question bank"
+}

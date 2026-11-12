@@ -1,0 +1,41 @@
+{
+  "id": "biochem-656-05",
+  "subject": "Biochemistry",
+  "major_topic": "Molecular Biology",
+  "subtopic": "DNA Replication",
+  "difficulty": "medium",
+  "vignette": "A 56-year-old woman with acute myeloid leukemia receives cytarabine (ara-C), a pyrimidine analog. Her bone marrow blasts arrest in S phase and undergo apoptosis after the drug is incorporated into newly synthesized DNA.",
+  "question": "Which of the following best explains the cytotoxic effect of cytarabine?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Inhibition of thymidylate synthase"
+    },
+    {
+      "id": "B",
+      "text": "Inhibition of ribonucleotide reductase"
+    },
+    {
+      "id": "C",
+      "text": "Inhibition of dihydrofolate reductase"
+    },
+    {
+      "id": "D",
+      "text": "Incorporation into DNA with a modified 3'-OH that prevents addition of the next nucleotide"
+    },
+    {
+      "id": "E",
+      "text": "Inhibition of topoisomerase I"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Nucleoside analogs such as cytarabine are incorporated into the growing DNA chain but carry a modified 3'-OH, so the next deoxynucleotide cannot be added. This chain termination blocks DNA synthesis, which is why such drugs preferentially kill rapidly dividing cells.",
+  "explanation_incorrect": {
+    "A": "Thymidylate synthase is inhibited by 5-fluorouracil.",
+    "B": "Ribonucleotide reductase is inhibited by hydroxyurea.",
+    "C": "Dihydrofolate reductase is inhibited by methotrexate.",
+    "E": "Irinotecan and topotecan inhibit topoisomerase I and act by a different mechanism."
+  },
+  "educationalObjective": "Nucleoside analogs with an altered 3'-OH terminate DNA chain elongation.",
+  "source": "Generated from 1. Biochemistry.pdf - Molecular Biology: DNA Replication"
+}

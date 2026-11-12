@@ -1,0 +1,41 @@
+{
+  "id": "biochem-599-02",
+  "subject": "Biochemistry",
+  "major_topic": "Amino Acids & Proteins",
+  "subtopic": "Structure and classification",
+  "difficulty": "hard",
+  "vignette": "A 3-year-old boy is evaluated for recurrent early-morning hypoglycemia after overnight fasting. During an episode, blood glucose is 38 mg/dL, urine ketones are large, lactate and ammonia are normal, and blood pH is 7.30. The metabolic team explains that during fasting, amino acids released from skeletal muscle provide carbon for hepatic gluconeogenesis.",
+  "question": "Which of the following amino acids cannot contribute carbon to glucose synthesis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Glutamate"
+    },
+    {
+      "id": "B",
+      "text": "Alanine"
+    },
+    {
+      "id": "C",
+      "text": "Aspartate"
+    },
+    {
+      "id": "D",
+      "text": "Leucine"
+    },
+    {
+      "id": "E",
+      "text": "Serine"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Leucine and lysine are the only purely ketogenic amino acids; their carbon skeletons are degraded to acetyl-CoA and acetoacetate, which cannot be used for net glucose synthesis. Alanine and serine enter gluconeogenesis through pyruvate, glutamate through alpha-ketoglutarate, and aspartate through oxaloacetate. This is why ketotic hypoglycemia in children can be worsened by inability to use ketogenic amino acids as glucose precursors.",
+  "explanation_incorrect": {
+    "A": "Glutamate is glucogenic; it is deaminated to alpha-ketoglutarate, a TCA cycle intermediate that can be converted to glucose.",
+    "B": "Alanine is glucogenic and is a major carrier of nitrogen from muscle to liver in the glucose-alanine cycle, where it is converted to pyruvate.",
+    "C": "Aspartate is glucogenic; it enters the TCA cycle as oxaloacetate and can be used for gluconeogenesis.",
+    "E": "Serine is glucogenic; it is converted to 3-phosphoglycerate, an intermediate of glycolysis and gluconeogenesis."
+  },
+  "educationalObjective": "Leucine and lysine are the only exclusively ketogenic amino acids and therefore cannot be used for net glucose synthesis during fasting.",
+  "source": "Generated from 1. Biochemistry.pdf - Amino Acids: Structure and Classification"
+}

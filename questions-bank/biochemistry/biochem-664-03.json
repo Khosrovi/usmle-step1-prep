@@ -1,0 +1,41 @@
+{
+  "id": "biochem-664-03",
+  "subject": "Biochemistry",
+  "major_topic": "Molecular Biology",
+  "subtopic": "Genetic Code and Mutations",
+  "difficulty": "medium",
+  "vignette": "A 4-year-old boy is brought for difficulty climbing stairs and frequent falls. He has proximal muscle weakness, calf pseudohypertrophy, and a positive Gowers sign, and his creatine kinase is 18,000 U/L. Genetic testing shows a multi-exon deletion in the dystrophin gene that removes a number of nucleotides not divisible by 3.",
+  "question": "Which of the following best describes the effect of this deletion on the dystrophin protein?",
+  "options": [
+    {
+      "id": "A",
+      "text": "An in-frame deletion that produces a shortened but partially functional dystrophin."
+    },
+    {
+      "id": "B",
+      "text": "A silent change that leaves the dystrophin amino acid sequence unchanged."
+    },
+    {
+      "id": "C",
+      "text": "A frameshift deletion that produces a truncated, nonfunctional dystrophin."
+    },
+    {
+      "id": "D",
+      "text": "A trinucleotide repeat expansion that alters dystrophin expression."
+    },
+    {
+      "id": "E",
+      "text": "A single nucleotide substitution that creates a premature stop codon."
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Removal of a number of nucleotides not divisible by 3 shifts the reading frame, so every codon downstream is misread and a premature stop codon is usually encountered. The resulting truncated, unstable dystrophin is absent from the muscle membrane, causing the severe Duchenne phenotype. In-frame deletions instead preserve the reading frame and produce partially functional dystrophin, which causes the milder Becker muscular dystrophy.",
+  "explanation_incorrect": {
+    "A": "In-frame deletions produce a shortened but partially functional protein and a milder Becker phenotype; this deletion removes a number of nucleotides not divisible by 3.",
+    "B": "A multi-exon deletion necessarily changes the protein; silent mutations are single substitutions that leave the amino acid unchanged.",
+    "D": "Trinucleotide repeat expansions (for example, CAG in Huntington disease) do not cause Duchenne muscular dystrophy.",
+    "E": "The lesion described is a multi-exon deletion, not a single nucleotide substitution, and the frameshift itself creates downstream stop codons."
+  },
+  "educationalObjective": "Out-of-frame deletions in the dystrophin gene shift the reading frame and yield truncated, nonfunctional dystrophin, causing Duchenne muscular dystrophy, whereas in-frame deletions cause milder Becker disease.",
+  "source": "Generated from 1. Biochemistry.pdf - Molecular Biology: Genetic Code and Mutations"
+}

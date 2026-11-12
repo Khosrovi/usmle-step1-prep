@@ -1,0 +1,41 @@
+{
+  "id": "biochem-667-03",
+  "subject": "Biochemistry",
+  "major_topic": "Molecular Biology",
+  "subtopic": "Epigenetics",
+  "difficulty": "medium",
+  "vignette": "A 58-year-old man with refractory cutaneous T-cell lymphoma begins treatment with a histone deacetylase inhibitor. After therapy, tumor cells show increased expression of several genes.",
+  "question": "Which of the following best explains the increased transcription?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Increased methylation of CpG islands in the promoters of these genes."
+    },
+    {
+      "id": "B",
+      "text": "Removal of acetyl groups from histones, tightening DNA coiling."
+    },
+    {
+      "id": "C",
+      "text": "Increased positive charge on histone lysine residues, strengthening their binding to DNA."
+    },
+    {
+      "id": "D",
+      "text": "Accumulation of acetylated histones, neutralizing their positive charge and relaxing DNA coiling."
+    },
+    {
+      "id": "E",
+      "text": "Proteasomal degradation of nucleosomes, removing histones from DNA."
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Histones are positively charged because of lysine and arginine residues and bind negatively charged DNA. Acetylation neutralizes the positive charge, relaxing DNA coiling and increasing transcription; histone deacetylase inhibitors prevent removal of acetyl groups, keeping chromatin open and increasing expression of target genes. Deacetylation, conversely, tightens coiling and decreases transcription.",
+  "explanation_incorrect": {
+    "A": "CpG methylation silences genes; this drug inhibits deacetylation, not methylation.",
+    "B": "Removal of acetyl groups is what the inhibited enzyme would do; blocking deacetylation increases acetylation, which relaxes rather than tightens chromatin.",
+    "C": "Acetylation neutralizes the positive charge of lysine residues and weakens histone-DNA binding; increased positive charge would tighten chromatin and suppress transcription.",
+    "E": "Histone deacetylase inhibitors alter histone modification, not proteasomal degradation of nucleosomes."
+  },
+  "educationalObjective": "Histone acetylation neutralizes the positive charge of lysine residues, relaxing DNA coiling and increasing transcription, whereas deacetylation tightens chromatin and suppresses transcription.",
+  "source": "Generated from 1. Biochemistry.pdf - Molecular Biology: Epigenetics"
+}

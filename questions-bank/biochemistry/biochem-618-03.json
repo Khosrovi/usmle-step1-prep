@@ -1,0 +1,41 @@
+{
+  "id": "biochem-618-03",
+  "subject": "Biochemistry",
+  "major_topic": "Carbohydrate Metabolism",
+  "subtopic": "Electron Transport Chain",
+  "difficulty": "medium",
+  "vignette": "A 9-year-old girl presents with progressive cerebellar ataxia, seizures, and exercise intolerance. Serum lactate is elevated, and muscle biopsy shows reduced coenzyme Q10 with normal activities of the individual respiratory complexes. Coenzyme Q10 supplementation improves her symptoms.",
+  "question": "Which of the following best describes the normal function of the deficient molecule?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It transfers electrons from complex III to complex IV"
+    },
+    {
+      "id": "B",
+      "text": "It pumps protons from the matrix to the intermembrane space"
+    },
+    {
+      "id": "C",
+      "text": "It accepts electrons from complexes I and II and delivers them to complex III"
+    },
+    {
+      "id": "D",
+      "text": "It catalyzes the phosphorylation of ADP to ATP"
+    },
+    {
+      "id": "E",
+      "text": "It transfers electrons from cytochrome c to oxygen"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Coenzyme Q is a lipid-soluble mobile carrier in the inner mitochondrial membrane that accepts electrons from complexes I and II and delivers them to complex III. Its deficiency impairs both NADH- and FADH2-driven respiration and causes a mitochondrial encephalomyopathy that may respond to coenzyme Q10 supplementation.",
+  "explanation_incorrect": {
+    "A": "Electron transfer from complex III to complex IV is mediated by cytochrome c, a water-soluble protein in the intermembrane space.",
+    "B": "Coenzyme Q carries electrons and does not pump protons; proton pumping is performed by complexes I, III, and IV.",
+    "D": "ADP phosphorylation is catalyzed by ATP synthase (complex V).",
+    "E": "Transfer of electrons from cytochrome c to oxygen is performed by complex IV."
+  },
+  "educationalObjective": "Coenzyme Q is the mobile electron carrier that collects electrons from complexes I and II and transfers them to complex III.",
+  "source": "Generated from 1. Biochemistry.pdf - Electron Transport Chain"
+}

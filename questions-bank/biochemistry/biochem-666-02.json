@@ -1,0 +1,41 @@
+{
+  "id": "biochem-666-02",
+  "subject": "Biochemistry",
+  "major_topic": "Molecular Biology",
+  "subtopic": "Recombinant DNA Technology",
+  "difficulty": "medium",
+  "vignette": "A 4-year-old boy is evaluated for developmental delay. He has a long face, prominent large everted ears, and hypermobile joints; his mother reports that two maternal uncles have intellectual disability, and chromosomal microarray is normal.",
+  "question": "Which of the following techniques is most appropriate to determine the number of CGG repeats in the FMR1 gene?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Northern blot"
+    },
+    {
+      "id": "B",
+      "text": "Western blot"
+    },
+    {
+      "id": "C",
+      "text": "Southern blot"
+    },
+    {
+      "id": "D",
+      "text": "Flow cytometry"
+    },
+    {
+      "id": "E",
+      "text": "Enzyme-linked immunosorbent assay"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Southern blotting digests DNA with restriction enzymes, separates the fragments by gel electrophoresis, transfers them to a membrane, and visualizes them with a labeled DNA probe. It can therefore size the FMR1 restriction fragment and thus determine the number of CGG repeats, distinguishing a premutation (50-200 repeats) from a full mutation (more than 200 repeats) in fragile X syndrome.",
+  "explanation_incorrect": {
+    "A": "Northern blot analyzes RNA, whereas fragile X is caused by a DNA repeat expansion; mRNA studies may suggest abnormal expression but do not measure repeat number.",
+    "B": "Western blot detects protein with antibodies and cannot measure a DNA repeat expansion.",
+    "D": "Flow cytometry measures size, granularity, and surface protein expression of individual cells, not DNA repeat length.",
+    "E": "ELISA detects an antigen or antibody in a fluid using an enzyme-linked antibody and does not analyze genomic DNA."
+  },
+  "educationalObjective": "Southern blotting sizes specific DNA fragments after restriction digestion and hybridization and is used to determine the number of FMR1 CGG repeats in fragile X syndrome.",
+  "source": "Generated from 1. Biochemistry.pdf - Laboratory Techniques: Recombinant DNA Technology"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "biochem-625-04",
+  "subject": "Biochemistry",
+  "major_topic": "Lipid Metabolism",
+  "subtopic": "Dietary Lipid Digestion and Absorption",
+  "difficulty": "medium",
+  "vignette": "A 58-year-old woman with primary biliary cholangitis and long-standing cholestasis is admitted with bruising and pale stools. Examination shows jaundice, excoriations, and xanthelasma. Laboratory studies show an increased fecal fat content, a markedly prolonged prothrombin time that corrects with parenteral vitamin K, and low serum vitamin D and vitamin E levels.",
+  "question": "Which of the following best explains the impaired absorption of fat-soluble vitamins in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Decreased gastric acid production"
+    },
+    {
+      "id": "B",
+      "text": "Loss of terminal ileum"
+    },
+    {
+      "id": "C",
+      "text": "Impaired chylomicron assembly in enterocytes"
+    },
+    {
+      "id": "D",
+      "text": "Reduced pancreatic bicarbonate secretion"
+    },
+    {
+      "id": "E",
+      "text": "Reduced bile acid emulsification in the intestinal lumen"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Cholestasis reduces the delivery of bile acids to the small intestine, so dietary fat is not adequately emulsified and micelles cannot form. Fat and the fat-soluble vitamins A, D, E, and K are then poorly solubilized and absorbed, producing steatorrhea, low vitamin D and E levels, and vitamin K deficiency with a prolonged prothrombin time.",
+  "explanation_incorrect": {
+    "A": "Gastric acid is not required for fat emulsification or fat-soluble vitamin absorption; loss of acid impairs iron and vitamin B12 absorption more than fat absorption.",
+    "B": "The terminal ileum reabsorbs bile acids and vitamin B12, but this patient's problem is reduced biliary bile acid delivery rather than ileal disease.",
+    "C": "Impaired chylomicron assembly occurs in abetalipoproteinemia, which presents with lipid-laden enterocytes and absent apo B lipoproteins, not with cholestasis.",
+    "D": "Pancreatic bicarbonate neutralizes gastric acid in the duodenum; reduced bicarbonate does not prevent micelle formation."
+  },
+  "educationalObjective": "Bile acids are required for fat emulsification and micelle formation, so cholestasis causes steatorrhea and fat-soluble vitamin deficiency.",
+  "source": "Generated from 1. Biochemistry.pdf - Dietary Lipid Digestion and Absorption"
+}

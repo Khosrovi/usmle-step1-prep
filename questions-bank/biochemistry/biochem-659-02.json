@@ -1,0 +1,41 @@
+{
+  "id": "biochem-659-02",
+  "subject": "Biochemistry",
+  "major_topic": "Molecular Biology",
+  "subtopic": "Xeroderma Pigmentosum, Lynch, BRCA",
+  "difficulty": "medium",
+  "vignette": "A 45-year-old woman is diagnosed with a mismatch repair-deficient adenocarcinoma of the ascending colon. Genetic testing identifies a pathogenic MLH1 variant, and her sister is referred for genetic counseling and cancer screening.",
+  "question": "This patient is at increased risk for which of the following additional malignancies?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Lung adenocarcinoma"
+    },
+    {
+      "id": "B",
+      "text": "Glioblastoma"
+    },
+    {
+      "id": "C",
+      "text": "Medullary thyroid carcinoma"
+    },
+    {
+      "id": "D",
+      "text": "Retinoblastoma"
+    },
+    {
+      "id": "E",
+      "text": "Endometrial carcinoma"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Lynch syndrome (hereditary nonpolyposis colorectal cancer) is caused by defective mismatch repair, classically from MLH1 or MSH2 mutations. It increases the risk of colorectal cancer (frequently right-sided) as well as endometrial, ovarian, gastric, and urothelial cancers, which is why endometrial cancer screening is recommended.",
+  "explanation_incorrect": {
+    "A": "Lung adenocarcinoma is not part of Lynch syndrome; tobacco exposure is the dominant risk factor.",
+    "B": "Glioblastoma is associated with Li-Fraumeni syndrome and other tumor predisposition syndromes, not Lynch syndrome.",
+    "C": "Medullary thyroid carcinoma is associated with multiple endocrine neoplasia type 2.",
+    "D": "Retinoblastoma is caused by loss of the RB1 tumor suppressor gene."
+  },
+  "educationalObjective": "Lynch syndrome predisposes to colorectal, endometrial, ovarian, gastric, and urothelial cancers because of mismatch repair deficiency.",
+  "source": "Generated from 1. Biochemistry.pdf - Xeroderma Pigmentosum, Lynch Syndrome, BRCA"
+}

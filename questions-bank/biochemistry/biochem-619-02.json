@@ -1,0 +1,41 @@
+{
+  "id": "biochem-619-02",
+  "subject": "Biochemistry",
+  "major_topic": "Carbohydrate Metabolism",
+  "subtopic": "Oxidative Phosphorylation",
+  "difficulty": "easy",
+  "vignette": "A 30-year-old man with a mitochondrial disorder undergoes metabolic evaluation; his resting serum lactate is 4.8 mmol/L. He asks how much energy a healthy person obtains from complete oxidation of one glucose molecule. In cardiac myocytes and hepatocytes, cytosolic NADH is transferred into mitochondria by the malate-aspartate shuttle.",
+  "question": "Complete aerobic oxidation of one glucose molecule in these tissues yields approximately how many net ATP?",
+  "options": [
+    {
+      "id": "A",
+      "text": "2"
+    },
+    {
+      "id": "B",
+      "text": "10"
+    },
+    {
+      "id": "C",
+      "text": "32"
+    },
+    {
+      "id": "D",
+      "text": "38"
+    },
+    {
+      "id": "E",
+      "text": "30"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "In heart and liver, the malate-aspartate shuttle transfers cytosolic NADH into the matrix, where each NADH yields 2.5 ATP. Glycolysis contributes 2 ATP and 2 NADH, pyruvate dehydrogenase contributes 2 NADH, and the TCA cycle contributes 6 NADH, 2 FADH2, and 2 GTP, for a net total of about 32 ATP per glucose.",
+  "explanation_incorrect": {
+    "A": "Two ATP is the net yield of anaerobic glycolysis per glucose, not of complete aerobic oxidation.",
+    "B": "Ten ATP is the yield from one acetyl-CoA molecule, not from an entire glucose molecule.",
+    "D": "Thirty-eight ATP is an older estimate that used different ATP equivalents per NADH and FADH2.",
+    "E": "Thirty ATP is the yield when the glycerol-3-phosphate shuttle is used in skeletal muscle, not in heart and liver."
+  },
+  "educationalObjective": "Complete aerobic oxidation of one glucose molecule yields about 32 net ATP when the malate-aspartate shuttle is used.",
+  "source": "Generated from 1. Biochemistry.pdf - Oxidative Phosphorylation"
+}

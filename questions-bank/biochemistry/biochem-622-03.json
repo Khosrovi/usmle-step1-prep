@@ -1,0 +1,41 @@
+{
+  "id": "biochem-622-03",
+  "subject": "Biochemistry",
+  "major_topic": "Carbohydrate Metabolism",
+  "subtopic": "Glycogen Synthesis and Breakdown",
+  "difficulty": "medium",
+  "vignette": "A 20-year-old man participates in a study of fasting metabolism and fasts for 24 hours. Hepatic glycogen phosphorylase has progressively shortened a glycogen branch until 4 glucose residues remain.",
+  "question": "Which of the following is most directly released by the subsequent action of alpha-1,6-glucosidase at this branch point?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Glucose-1-phosphate"
+    },
+    {
+      "id": "B",
+      "text": "UDP-glucose"
+    },
+    {
+      "id": "C",
+      "text": "Glucose-6-phosphate"
+    },
+    {
+      "id": "D",
+      "text": "Fructose-1-phosphate"
+    },
+    {
+      "id": "E",
+      "text": "Free glucose"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "After phosphorylase leaves a limit dextrin of about 4 residues, 4-alpha-D-glucanotransferase moves 3 of the 4 glucose units to a linear chain, and alpha-1,6-glucosidase cleaves the last residue, liberating free glucose. Phosphorylase itself releases glucose-1-phosphate, which is converted to glucose-6-phosphate and then to glucose in the liver.",
+  "explanation_incorrect": {
+    "A": "Glucose-1-phosphate is the product of glycogen phosphorylase acting on alpha-1,4 bonds, not of the alpha-1,6-glucosidase reaction.",
+    "B": "UDP-glucose is an activated glucose donor used during glycogenesis, not a product of glycogen breakdown.",
+    "C": "Glucose-6-phosphate is formed from glucose-1-phosphate by phosphoglucomutase after phosphorylase action and is not the direct product of the debranching enzyme.",
+    "D": "Fructose-1-phosphate is an intermediate of fructose metabolism and is not generated during glycogenolysis."
+  },
+  "educationalObjective": "The alpha-1,6-glucosidase activity of the debranching enzyme releases free glucose, whereas glycogen phosphorylase releases glucose-1-phosphate.",
+  "source": "Generated from 1. Biochemistry.pdf - Glycogen Synthesis and Breakdown"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "biochem-646-03",
+  "subject": "Biochemistry",
+  "major_topic": "Nucleotide Metabolism",
+  "subtopic": "Purine Synthesis de novo",
+  "difficulty": "medium",
+  "vignette": "A 5-year-old boy with recurrent respiratory infections is found to have markedly reduced de novo purine synthesis in cultured lymphocytes. His plasma amino acids are normal, and his diet provides adequate protein. The pediatrician reviews the substrates and cofactors required to build the purine ring from ribose-5-phosphate so that potential deficiencies can be excluded.",
+  "question": "Which of the following is NOT required for de novo purine synthesis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Glycine"
+    },
+    {
+      "id": "B",
+      "text": "Glutamine"
+    },
+    {
+      "id": "C",
+      "text": "Cysteine"
+    },
+    {
+      "id": "D",
+      "text": "Aspartate"
+    },
+    {
+      "id": "E",
+      "text": "Tetrahydrofolate"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "De novo purine synthesis requires glycine, glutamine, aspartate, tetrahydrofolate, carbon dioxide, and PRPP, as summarized by the mnemonic that the necessary amino acids are glycine, aspartate, and glutamine (the cat purrs until it GAGs). Cysteine is a sulfur-containing amino acid used in protein and glutathione synthesis but is not a purine precursor. Its absence from the pathway is why cysteine is the correct exception.",
+  "explanation_incorrect": {
+    "A": "Glycine is required because it is incorporated intact into the purine ring, supplying carbons 4 and 5 and nitrogen 7.",
+    "B": "Glutamine is required because it donates the amide nitrogens at positions 3 and 9 of the purine ring.",
+    "D": "Aspartate is required because it donates nitrogen 1 to the purine ring.",
+    "E": "Tetrahydrofolate is required because N10-formyl tetrahydrofolate donates the one-carbon groups at carbons 2 and 8."
+  },
+  "educationalObjective": "De novo purine synthesis needs glycine, glutamine, aspartate, tetrahydrofolate, carbon dioxide, and PRPP, but not cysteine.",
+  "source": "Generated from 1. Biochemistry.pdf - Nucleotide Metabolism: Purine Synthesis de novo"
+}

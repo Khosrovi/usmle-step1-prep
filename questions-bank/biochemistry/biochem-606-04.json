@@ -1,0 +1,41 @@
+{
+  "id": "biochem-606-04",
+  "subject": "Biochemistry",
+  "major_topic": "Amino Acids & Proteins",
+  "subtopic": "Hemoglobin and Myoglobin",
+  "difficulty": "hard",
+  "vignette": "A 34-year-old man with dermatitis herpetiformis has been taking dapsone for 3 weeks. He presents with 3 days of progressive dyspnea and cyanosis but is not in respiratory distress. Pulse oximetry is 88% while he receives 15 L/min of oxygen by nonrebreather mask. Arterial blood gas on 100% oxygen shows PaO2 310 mm Hg with a normal hemoglobin concentration, and co-oximetry shows methemoglobin 32% and carboxyhemoglobin 1%. Blood drawn for testing is chocolate-brown and does not brighten with oxygen exposure.",
+  "question": "Which of the following best explains this patient's cyanosis and low oxygen saturation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Binding of carbon monoxide to ferrous heme iron"
+    },
+    {
+      "id": "B",
+      "text": "Oxidation of heme iron to Fe3+, which cannot bind oxygen and shifts the remaining sites leftward"
+    },
+    {
+      "id": "C",
+      "text": "Depletion of 2,3-bisphosphoglycerate by dapsone"
+    },
+    {
+      "id": "D",
+      "text": "An increased fraction of fetal hemoglobin with a higher oxygen affinity"
+    },
+    {
+      "id": "E",
+      "text": "A rightward shift of the oxyhemoglobin dissociation curve caused by acidosis"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Dapsone and other oxidants convert ferrous heme iron to Fe3+, producing methemoglobin, which cannot bind oxygen and left shifts the dissociation curve of the remaining ferrous hemes. The result is cyanosis that does not respond to supplemental oxygen, a saturation gap between a high PaO2 and a low pulse oximetry reading, and chocolate-brown blood; methylene blue reduces the iron back to Fe2+ and is contraindicated in G6PD deficiency.",
+  "explanation_incorrect": {
+    "A": "Carboxyhemoglobin is only 1% here, and carbon monoxide poisoning produces cherry-red blood and skin with a normal pulse oximetry reading rather than a saturation gap and chocolate-colored blood.",
+    "C": "2,3-bisphosphoglycerate depletion causes a left shift but does not reduce the oxygen-carrying capacity of hemoglobin or create a saturation gap, and dapsone does not act by depleting this cofactor.",
+    "D": "Fetal hemoglobin has a higher oxygen affinity, but it is a minor fraction in adults, binds oxygen normally, and would not cause refractory cyanosis with oxidized heme iron.",
+    "E": "A rightward shift from acidosis lowers oxygen affinity and can modestly reduce saturation, but it does not prevent oxygen binding or explain the chocolate-brown blood and the 32% methemoglobin level."
+  },
+  "educationalObjective": "Methemoglobinemia from oxidation of heme iron to Fe3+ causes cyanosis unresponsive to oxygen, a saturation gap, and chocolate-brown blood, and it is treated with methylene blue.",
+  "source": "Generated from 1. Biochemistry.pdf - Hemoglobin and Myoglobin"
+}

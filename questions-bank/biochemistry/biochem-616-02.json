@@ -1,0 +1,41 @@
+{
+  "id": "biochem-616-02",
+  "subject": "Biochemistry",
+  "major_topic": "Carbohydrate Metabolism",
+  "subtopic": "Gluconeogenesis",
+  "difficulty": "medium",
+  "vignette": "A 48-year-old man with alcohol use disorder is admitted after a binge. He had eaten little for 3 days and is now confused and tremulous. Plasma glucose is 42 mg/dL, lactate 3.4 mmol/L, beta-hydroxybutyrate 2.8 mmol/L, and blood ethanol 0.21 g/dL; insulin is undetectable, cortisol is elevated, and liver enzymes are mildly increased.",
+  "question": "Which of the following best explains the hypoglycemia in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Excess insulin secretion stimulated by ethanol"
+    },
+    {
+      "id": "B",
+      "text": "Increased hepatic fructose-2,6-bisphosphate formation"
+    },
+    {
+      "id": "C",
+      "text": "An increased NADH/NAD+ ratio that diverts oxaloacetate to malate and impairs gluconeogenesis"
+    },
+    {
+      "id": "D",
+      "text": "Activation of pyruvate carboxylase by acetyl-CoA"
+    },
+    {
+      "id": "E",
+      "text": "Increased renal glucose excretion"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Ethanol is oxidized to acetaldehyde and then acetate by NAD+-dependent dehydrogenases, generating a high NADH/NAD+ ratio in hepatocytes. The excess NADH shifts oxaloacetate to malate and pyruvate to lactate, so gluconeogenesis from lactate and amino acids fails; because glycogen stores are already depleted after 3 days of poor intake, fasting hypoglycemia develops. Thiamine is given with glucose to prevent Wernicke encephalopathy.",
+  "explanation_incorrect": {
+    "A": "Ethanol does not stimulate insulin secretion; insulin is undetectable here, and hypoglycemia occurs despite low insulin.",
+    "B": "Fructose-2,6-bisphosphate stimulates glycolysis and inhibits gluconeogenesis if increased, but ethanol does not increase it; the central mechanism is the redox shift.",
+    "D": "Acetyl-CoA activation of pyruvate carboxylase would promote gluconeogenesis; ethanol oxidation diverts acetyl-CoA to ketogenesis instead.",
+    "E": "Renal glucose excretion is not increased in this setting; the hypoglycemia results from impaired hepatic glucose production."
+  },
+  "educationalObjective": "Ethanol oxidation raises the hepatic NADH/NAD+ ratio, diverting oxaloacetate to malate and blocking gluconeogenesis, which causes fasting hypoglycemia in patients with depleted glycogen stores.",
+  "source": "Generated from 1. Biochemistry.pdf - Carbohydrate Metabolism: Gluconeogenesis"
+}

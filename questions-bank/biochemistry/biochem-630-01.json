@@ -1,0 +1,41 @@
+{
+  "id": "biochem-630-01",
+  "subject": "Biochemistry",
+  "major_topic": "Lipid Metabolism",
+  "subtopic": "Cholesterol Synthesis",
+  "difficulty": "easy",
+  "vignette": "A 54-year-old man with a prior myocardial infarction has an LDL cholesterol of 176 mg/dL despite 6 months of dietary therapy. He is started on simvastatin, and 8 weeks later his LDL cholesterol is 98 mg/dL. He remains asymptomatic, and liver transaminases and creatine kinase are normal.",
+  "question": "Simvastatin lowers LDL cholesterol by inhibiting which of the following enzymes?",
+  "options": [
+    {
+      "id": "A",
+      "text": "HMG-CoA synthase"
+    },
+    {
+      "id": "B",
+      "text": "HMG-CoA lyase"
+    },
+    {
+      "id": "C",
+      "text": "HMG-CoA reductase"
+    },
+    {
+      "id": "D",
+      "text": "Squalene monooxygenase"
+    },
+    {
+      "id": "E",
+      "text": "Acyl-CoA:cholesterol acyltransferase (ACAT)"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "HMG-CoA reductase catalyzes the rate-limiting, committed step of cholesterol synthesis, the reduction of HMG-CoA to mevalonate by the enzyme anchored in the endoplasmic reticulum membrane. Statins are competitive inhibitors of this enzyme, so hepatic cholesterol synthesis falls and intracellular sterol levels drop.",
+  "explanation_incorrect": {
+    "A": "HMG-CoA synthase generates HMG-CoA upstream of the reductase and is the rate-limiting enzyme of ketogenesis, not the target of statins.",
+    "B": "HMG-CoA lyase catalyzes the final step of ketone body production in mitochondria and is not inhibited by statins.",
+    "D": "Squalene monooxygenase acts several steps downstream of mevalonate and is not the pharmacologic target of statins.",
+    "E": "ACAT esterifies cholesterol for storage in cells and is not the site of action of statins."
+  },
+  "educationalObjective": "Statins inhibit HMG-CoA reductase, the rate-limiting enzyme of cholesterol synthesis.",
+  "source": "Generated from 1. Biochemistry.pdf - Lipid Metabolism: Cholesterol Synthesis"
+}

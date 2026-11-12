@@ -1,0 +1,41 @@
+{
+  "id": "biochem-615-03",
+  "subject": "Biochemistry",
+  "major_topic": "Carbohydrate Metabolism",
+  "subtopic": "Glycolysis",
+  "difficulty": "medium",
+  "vignette": "A 7-month-old girl is evaluated for poor feeding, hypotonia, and delayed milestones. She has been tachypneic since birth and is now lethargic. Arterial blood gas shows pH 7.24 and bicarbonate 12 mEq/L with an anion gap of 20; plasma lactate is 8.2 mmol/L, pyruvate 0.35 mmol/L, and alanine is markedly elevated, while blood glucose and ammonia are normal. Brain MRI shows symmetric cystic lesions in the basal ganglia.",
+  "question": "Deficiency of which of the following enzymes is the most likely explanation for this presentation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Pyruvate carboxylase"
+    },
+    {
+      "id": "B",
+      "text": "Pyruvate kinase"
+    },
+    {
+      "id": "C",
+      "text": "Alpha-ketoglutarate dehydrogenase"
+    },
+    {
+      "id": "D",
+      "text": "Phosphoenolpyruvate carboxykinase"
+    },
+    {
+      "id": "E",
+      "text": "Pyruvate dehydrogenase complex"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "The pyruvate dehydrogenase complex converts pyruvate to acetyl-CoA and links glycolysis to the TCA cycle, and it requires thiamine pyrophosphate, lipoic acid, CoA, FAD, and NAD+. X-linked PDH deficiency shunts pyruvate to lactate through LDH and to alanine through ALT, producing early neurologic deficits, basal ganglia lesions, and lactic acidosis, and it is treated with a ketogenic diet plus thiamine and lipoic acid.",
+  "explanation_incorrect": {
+    "A": "Pyruvate carboxylase deficiency also raises lactate and alanine, but it characteristically causes hypoglycemia because gluconeogenesis and anaplerosis fail; this child has normal blood glucose.",
+    "B": "Pyruvate kinase deficiency causes chronic hemolytic anemia, not lactic acidosis with basal ganglia lesions.",
+    "C": "Alpha-ketoglutarate dehydrogenase deficiency impairs the TCA cycle and raises alpha-ketoglutarate, but the conversion of pyruvate to acetyl-CoA is preserved.",
+    "D": "Phosphoenolpyruvate carboxykinase deficiency causes fasting hypoglycemia with lactic acidosis because gluconeogenesis fails, not a lactic acidosis with normal blood glucose."
+  },
+  "educationalObjective": "Pyruvate dehydrogenase deficiency is an X-linked cause of infantile lactic acidosis, elevated alanine, and neurologic injury that is treated with a ketogenic diet.",
+  "source": "Generated from 1. Biochemistry.pdf - Carbohydrate Metabolism: Glycolysis"
+}

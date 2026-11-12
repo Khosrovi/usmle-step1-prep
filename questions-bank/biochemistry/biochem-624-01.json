@@ -1,0 +1,41 @@
+{
+  "id": "biochem-624-01",
+  "subject": "Biochemistry",
+  "major_topic": "Carbohydrate Metabolism",
+  "subtopic": "Fructose and Galactose Metabolism",
+  "difficulty": "medium",
+  "vignette": "A 9-month-old boy is brought with recurrent vomiting, sweating, and lethargy that occur after meals, most recently after he was given apple juice. Examination shows jaundice, hepatomegaly, and irritability. Laboratory studies show glucose 40 mg/dL and elevated transaminases; the urine dipstick is negative for glucose but positive for reducing substances.",
+  "question": "Which of the following enzyme deficiencies is most likely responsible?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Aldolase B"
+    },
+    {
+      "id": "B",
+      "text": "Fructokinase"
+    },
+    {
+      "id": "C",
+      "text": "Galactokinase"
+    },
+    {
+      "id": "D",
+      "text": "Galactose-1-phosphate uridyltransferase"
+    },
+    {
+      "id": "E",
+      "text": "Aldose reductase"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Hereditary fructose intolerance is caused by deficiency of aldolase B, so fructose-1-phosphate accumulates and traps inorganic phosphate, inhibiting glycogenolysis and gluconeogenesis. The result is hypoglycemia, jaundice, hepatomegaly, and vomiting after ingestion of fructose or sucrose, and the treatment is restriction of fructose, sucrose, and sorbitol.",
+  "explanation_incorrect": {
+    "B": "Fructokinase deficiency (essential fructosuria) is asymptomatic and benign, producing fructose in blood and urine without hypoglycemia or liver disease.",
+    "C": "Galactokinase deficiency causes infantile cataracts after galactose ingestion, not hypoglycemia and hepatomegaly after fruit juice.",
+    "D": "Galactose-1-phosphate uridyltransferase deficiency (classic galactosemia) causes jaundice, hepatomegaly, and cataracts after milk feeding, not specifically after fruit juice.",
+    "E": "Aldose reductase converts glucose and galactose to their alcohol derivatives and is not the primary enzyme deficient in inherited fructose disorders."
+  },
+  "educationalObjective": "Hereditary fructose intolerance (aldolase B deficiency) causes hypoglycemia, jaundice, and hepatomegaly only after fructose or sucrose ingestion.",
+  "source": "Generated from 1. Biochemistry.pdf - Fructose and Galactose Metabolism"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "biochem-656-04",
+  "subject": "Biochemistry",
+  "major_topic": "Molecular Biology",
+  "subtopic": "DNA Replication",
+  "difficulty": "medium",
+  "vignette": "A 69-year-old man with metastatic colorectal cancer undergoes tumor sequencing, which demonstrates high telomerase activity, whereas his normal colonic mucosa shows little activity. His oncologist explains that telomerase is upregulated in progenitor cells and in most cancers and is downregulated in aging and progeria.",
+  "question": "Which of the following best describes the enzyme responsible for telomere maintenance?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A DNA-dependent DNA polymerase that copies telomeric repeats from a DNA template"
+    },
+    {
+      "id": "B",
+      "text": "An RNA-dependent DNA polymerase that adds TTAGGG repeats to the 3' ends of chromosomes"
+    },
+    {
+      "id": "C",
+      "text": "A DNA-dependent RNA polymerase that transcribes telomeric repeats"
+    },
+    {
+      "id": "D",
+      "text": "An endonuclease that removes telomeric repeats"
+    },
+    {
+      "id": "E",
+      "text": "A ligase that seals breaks within telomeric DNA"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Telomerase is a reverse transcriptase (RNA-dependent DNA polymerase) that carries its own RNA template and adds DNA repeats (TTAGGG) to the 3' ends of chromosomes, preventing loss of genetic material with each duplication. It is upregulated in stem cells and cancer and downregulated in aging.",
+  "explanation_incorrect": {
+    "A": "Telomerase uses an RNA template, not a DNA template, which makes it an RNA-dependent polymerase.",
+    "C": "RNA polymerase synthesizes RNA from a DNA template; telomerase synthesizes telomeric DNA.",
+    "D": "Telomerase adds rather than removes telomeric repeats.",
+    "E": "DNA ligase joins DNA ends and does not synthesize telomeric repeats."
+  },
+  "educationalObjective": "Telomerase is an RNA-dependent DNA polymerase that adds TTAGGG repeats to chromosome 3' ends.",
+  "source": "Generated from 1. Biochemistry.pdf - Molecular Biology: DNA Replication"
+}

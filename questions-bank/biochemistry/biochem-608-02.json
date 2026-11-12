@@ -1,0 +1,41 @@
+{
+  "id": "biochem-608-02",
+  "subject": "Biochemistry",
+  "major_topic": "Enzymology",
+  "subtopic": "Lineweaver-Burk Plot",
+  "difficulty": "medium",
+  "vignette": "A 61-year-old woman with resistant hypertension enters a clinical trial of an investigational agent that lowers blood pressure by inhibiting a vascular smooth-muscle enzyme. In vitro, the agent binds a site on the enzyme that is distinct from the substrate-binding site, and raising the substrate concentration does not restore the maximal rate. Kinetic analysis shows an unchanged apparent Km with a decreased Vmax.",
+  "question": "Which of the following Lineweaver-Burk patterns is most likely to be observed with this agent?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Lines intersecting on the y-axis with an unchanged x-intercept"
+    },
+    {
+      "id": "B",
+      "text": "Parallel lines with no intersection"
+    },
+    {
+      "id": "C",
+      "text": "Lines intersecting on the x-axis with a higher y-intercept"
+    },
+    {
+      "id": "D",
+      "text": "A single line identical to the uninhibited reaction"
+    },
+    {
+      "id": "E",
+      "text": "Lines intersecting to the left of the y-axis with both intercepts changed"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Binding to a site distinct from the active site without competition for substrate describes noncompetitive inhibition, which lowers Vmax but leaves Km unchanged. On the double-reciprocal plot the x-intercept (-1/Km) is unchanged, whereas the y-intercept (1/Vmax) increases, so the lines cross exactly on the x-axis. Because the inhibitor does not compete with substrate, adding more substrate cannot restore the maximal velocity.",
+  "explanation_incorrect": {
+    "A": "Intersection on the y-axis characterizes competitive inhibition, in which Vmax is preserved and apparent Km increases; here the agent is not substrate-competitive.",
+    "B": "Parallel lines indicate uncompetitive inhibition, in which both Km and Vmax decrease and the inhibitor binds only the enzyme-substrate complex.",
+    "D": "Identical lines would indicate no inhibition at all; the agent clearly decreases the maximal rate.",
+    "E": "Intersection left of the y-axis indicates mixed inhibition, in which both apparent Km and Vmax change; here Km is unchanged."
+  },
+  "educationalObjective": "Noncompetitive inhibition produces Lineweaver-Burk lines that intersect on the x-axis because Km is unchanged while Vmax (1/y-intercept) decreases.",
+  "source": "Generated from 1. Biochemistry.pdf - Enzymology: Lineweaver-Burk Plot"
+}

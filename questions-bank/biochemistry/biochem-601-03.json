@@ -1,0 +1,41 @@
+{
+  "id": "biochem-601-03",
+  "subject": "Biochemistry",
+  "major_topic": "Amino Acids & Proteins",
+  "subtopic": "Protein Structure (1, 2, 3, 4 degree)",
+  "difficulty": "easy",
+  "vignette": "A 58-year-old man collapses during a marathon on a hot day. In the emergency department his core temperature is 41.8 degrees C, he is confused, and his creatine kinase is 45,000 U/L with dark urine. Serum enzyme activities from multiple organs are decreased despite extensive tissue injury, and the amino acid sequence of these enzymes is unchanged.",
+  "question": "Which of the following best explains the loss of enzymatic function at this temperature?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Cleavage of peptide bonds into short peptide fragments"
+    },
+    {
+      "id": "B",
+      "text": "Disruption of the noncovalent interactions that maintain the folded three-dimensional conformation"
+    },
+    {
+      "id": "C",
+      "text": "Failure of aminoacyl-tRNA synthetases to charge tRNA"
+    },
+    {
+      "id": "D",
+      "text": "Dissociation of each enzyme into separate subunits"
+    },
+    {
+      "id": "E",
+      "text": "Replacement of one amino acid by another within the active site"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Enzyme activity depends on a precise three-dimensional shape maintained by hydrophobic interactions, hydrogen bonds, ionic bonds, and disulfide bonds, which together define tertiary structure. Extreme heat disrupts these noncovalent interactions, unfolding the protein and destroying the active site while the peptide bonds and primary sequence remain intact. This is why heat stroke produces widespread enzyme inactivation and cell death.",
+  "explanation_incorrect": {
+    "A": "Peptide bonds are not broken by heat; primary structure remains intact, which is why the amino acid sequence of the denatured enzymes is unchanged.",
+    "C": "Failure of tRNA charging would reduce synthesis of new proteins over time and does not explain acute, widespread enzyme inactivation within minutes.",
+    "D": "Not all enzymes are multimeric, and dissociation would affect only the subset that has quaternary structure rather than all enzymes.",
+    "E": "Amino acid substitutions are genetic mutations, not an acute effect of hyperthermia."
+  },
+  "educationalObjective": "Heat denaturation unfolds proteins by disrupting the noncovalent interactions of tertiary structure, inactivating enzymes even though the primary sequence stays intact.",
+  "source": "Generated from 1. Biochemistry.pdf - Protein Structure (Primary, Secondary, Tertiary, Quaternary)"
+}

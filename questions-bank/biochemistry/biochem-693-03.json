@@ -1,0 +1,41 @@
+{
+  "id": "biochem-693-03",
+  "subject": "Biochemistry",
+  "major_topic": "Inborn Errors of Metabolism",
+  "subtopic": "Mitochondrial Disorders",
+  "difficulty": "medium",
+  "vignette": "A 19-year-old man presents with 3 weeks of painless, progressive blurring of central vision, first in the left eye and then in the right. He denies eye pain, trauma, or drug use and is otherwise healthy. Visual acuity is 20/200 bilaterally with central scotomas, and funduscopy shows hyperemia of the optic discs with telangiectatic vessels. A maternal uncle had similar permanent vision loss and is legally blind.",
+  "question": "Which of the following is the most likely diagnosis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Leber hereditary optic neuropathy"
+    },
+    {
+      "id": "B",
+      "text": "MELAS"
+    },
+    {
+      "id": "C",
+      "text": "MERRF"
+    },
+    {
+      "id": "D",
+      "text": "Friedreich ataxia"
+    },
+    {
+      "id": "E",
+      "text": "Refsum disease"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Leber hereditary optic neuropathy is caused by mitochondrial DNA mutations, most often affecting complex I of the electron transport chain, which leads to death of retinal ganglion cells and optic nerve neurons. The classic presentation is subacute, painless, bilateral central vision loss in teenagers and young adults, with males affected more often than females, and the deficit is usually permanent. The affected maternal uncle reflects transmission of mitochondrial DNA exclusively through the mother.",
+  "explanation_incorrect": {
+    "B": "MELAS presents with stroke-like episodes, seizures, and lactic acidosis rather than isolated bilateral optic neuropathy.",
+    "C": "MERRF causes myoclonic epilepsy and ataxia, not painless central vision loss as the presenting feature.",
+    "D": "Friedreich ataxia is autosomal recessive and presents with gait ataxia, areflexia, and cardiomyopathy, not acute visual loss.",
+    "E": "Refsum disease causes retinitis pigmentosa with night blindness, anosmia, hearing loss, and ataxia, not acute central scotomas."
+  },
+  "educationalObjective": "Subacute painless bilateral central vision loss in a young man with maternal family history is characteristic of Leber hereditary optic neuropathy, caused by complex I mtDNA mutations.",
+  "source": "Generated from 1. Biochemistry.pdf - Mitochondrial diseases"
+}

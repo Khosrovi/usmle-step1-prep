@@ -1,0 +1,41 @@
+{
+  "id": "biochem-661-01",
+  "subject": "Biochemistry",
+  "major_topic": "Molecular Biology",
+  "subtopic": "RNA Processing",
+  "difficulty": "medium",
+  "vignette": "A 2-year-old girl of Southeast Asian ancestry is evaluated for chronic anemia. Hemoglobin is 8.4 g/dL, MCV is 61 fL, and iron studies are normal. Hemoglobin electrophoresis shows no abnormal hemoglobin, and genetic testing identifies a mutation in the polyadenylation signal (AAUAAA) of the alpha-globin gene.",
+  "question": "Which of the following is the most likely consequence of this mutation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Failure of 5-prime capping of the transcript"
+    },
+    {
+      "id": "B",
+      "text": "Absence of the poly-A tail, leading to rapid degradation of the mRNA before translation"
+    },
+    {
+      "id": "C",
+      "text": "Retention of introns because spliceosome assembly is prevented"
+    },
+    {
+      "id": "D",
+      "text": "Failure of aminoacylation of tRNA"
+    },
+    {
+      "id": "E",
+      "text": "Ribosomal stalling at a premature stop codon"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "The polyadenylation signal AAUAAA directs cleavage of the transcript and addition of a poly-A tail by poly-A polymerase, an enzyme that requires no template. A mutation in this signal prevents tail addition, and the unprotected transcript is rapidly degraded before it can be translated, reducing alpha-globin output. This produces an alpha-thalassemia phenotype despite a normal coding sequence.",
+  "explanation_incorrect": {
+    "A": "Capping occurs at the 5-prime end and is independent of the 3-prime polyadenylation signal.",
+    "C": "Splicing depends on splice sites and snRNPs, not on the polyadenylation signal.",
+    "D": "Aminoacylation of tRNA is carried out by aminoacyl-tRNA synthetases and is unrelated to mRNA 3-prime processing.",
+    "E": "Premature stop codons cause termination and nonsense-mediated decay, but no premature stop codon is described in this patient."
+  },
+  "educationalObjective": "The AAUAAA polyadenylation signal is required for addition of the poly-A tail; its mutation leads to early mRNA degradation and reduced protein expression.",
+  "source": "Generated from 1. Biochemistry.pdf - Molecular Biology: RNA Processing"
+}

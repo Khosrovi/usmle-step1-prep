@@ -1,0 +1,41 @@
+{
+  "id": "biochem-639-07",
+  "subject": "Biochemistry",
+  "major_topic": "Amino Acid Metabolism",
+  "subtopic": "Phenylalanine and Tyrosine Metabolism",
+  "difficulty": "medium",
+  "vignette": "A 20-year-old woman with phenylketonuria maintains a low-phenylalanine diet and has stable plasma phenylalanine levels. At a party she drinks several sugar-free beverages sweetened with aspartame, and her plasma phenylalanine rises the next day.",
+  "question": "Which of the following best explains this increase?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Aspartame inhibits phenylalanine hydroxylase activity."
+    },
+    {
+      "id": "B",
+      "text": "Aspartame is hydrolyzed to tyrosine and homogentisic acid."
+    },
+    {
+      "id": "C",
+      "text": "Aspartame contains a tetrahydrobiopterin antagonist."
+    },
+    {
+      "id": "D",
+      "text": "Aspartame is hydrolyzed in the gut to phenylalanine and aspartate."
+    },
+    {
+      "id": "E",
+      "text": "Aspartame is converted by gut bacteria to phenylketones."
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Aspartame is a methyl ester of the dipeptide aspartate-phenylalanine, so it releases phenylalanine when hydrolyzed in the intestine. Patients with phenylketonuria must avoid aspartame because they cannot convert the additional phenylalanine to tyrosine, and their plasma phenylalanine can rise substantially.",
+  "explanation_incorrect": {
+    "A": "Phenylalanine hydroxylase is already deficient in phenylketonuria; aspartame does not inhibit the enzyme further.",
+    "B": "Aspartame does not contain homogentisic acid and is not hydrolyzed to it.",
+    "C": "Aspartame is a source of amino acids, not a tetrahydrobiopterin antagonist.",
+    "E": "Phenylketones are produced endogenously from accumulated phenylalanine, not by bacterial metabolism of aspartame."
+  },
+  "educationalObjective": "Aspartame releases phenylalanine and must be avoided by patients with phenylketonuria.",
+  "source": "Generated from 1. Biochemistry.pdf - Amino Acid Metabolism: Phenylalanine and Tyrosine Metabolism"
+}

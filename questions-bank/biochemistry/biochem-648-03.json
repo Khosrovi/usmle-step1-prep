@@ -1,0 +1,41 @@
+{
+  "id": "biochem-648-03",
+  "subject": "Biochemistry",
+  "major_topic": "Nucleotide Metabolism",
+  "subtopic": "Pyrimidine Synthesis",
+  "difficulty": "easy",
+  "vignette": "A 32-year-old woman with rheumatoid arthritis has had excellent disease control on leflunomide for 2 years. She reports a missed menstrual period, and a urine pregnancy test is positive. Her rheumatologist explains that the drug is teratogenic, must be stopped immediately, and requires a washout procedure.",
+  "question": "Which of the following enzymes is inhibited by leflunomide?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Dihydrofolate reductase"
+    },
+    {
+      "id": "B",
+      "text": "Ribonucleotide reductase"
+    },
+    {
+      "id": "C",
+      "text": "Thymidylate synthase"
+    },
+    {
+      "id": "D",
+      "text": "Inosine monophosphate dehydrogenase"
+    },
+    {
+      "id": "E",
+      "text": "Dihydroorotate dehydrogenase"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Leflunomide is a prodrug converted to teriflunomide, which inhibits dihydroorotate dehydrogenase, a mitochondrial enzyme in the pyrimidine synthesis pathway. The resulting depletion of pyrimidine nucleotides suppresses proliferation of activated lymphocytes and is used to treat rheumatoid arthritis, but the drug is teratogenic and requires discontinuation with cholestyramine washout before pregnancy.",
+  "explanation_incorrect": {
+    "A": "Dihydrofolate reductase is inhibited by methotrexate, trimethoprim, and pyrimethamine.",
+    "B": "Ribonucleotide reductase is inhibited by hydroxyurea.",
+    "C": "Thymidylate synthase is inhibited by 5-fluorouracil and its prodrug capecitabine.",
+    "D": "Inosine monophosphate dehydrogenase is inhibited by mycophenolate and ribavirin."
+  },
+  "educationalObjective": "Leflunomide inhibits dihydroorotate dehydrogenase and blocks pyrimidine synthesis, which explains both its immunosuppressive effect and its teratogenicity.",
+  "source": "Generated from 1. Biochemistry.pdf - Nucleotide Metabolism: Pyrimidine Synthesis"
+}

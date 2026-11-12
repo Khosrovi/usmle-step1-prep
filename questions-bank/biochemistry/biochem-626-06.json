@@ -1,0 +1,41 @@
+{
+  "id": "biochem-626-06",
+  "subject": "Biochemistry",
+  "major_topic": "Lipid Metabolism",
+  "subtopic": "Fatty Acid Synthesis",
+  "difficulty": "medium",
+  "vignette": "A 10-month-old infant with short bowel syndrome has been receiving fat-free parenteral nutrition for several months. He develops dry, scaly dermatitis, sparse hair, poor wound healing, and growth failure. Plasma fatty acid analysis shows markedly low linoleic acid with low arachidonic acid.",
+  "question": "Deficiency of which of the following fatty acids is the most likely explanation for these findings?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Palmitic acid"
+    },
+    {
+      "id": "B",
+      "text": "Stearic acid"
+    },
+    {
+      "id": "C",
+      "text": "Oleic acid"
+    },
+    {
+      "id": "D",
+      "text": "Linoleic acid"
+    },
+    {
+      "id": "E",
+      "text": "Palmitoleic acid"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Linoleic acid (omega-6) and linolenic acid (omega-3) are essential fatty acids because humans lack the desaturases needed to introduce double bonds beyond carbon 9 and therefore cannot synthesize them. Linoleic acid is the precursor of arachidonic acid and eicosanoids, and its deficiency causes dermatitis, poor growth, and hair loss, so it must be supplied in the diet.",
+  "explanation_incorrect": {
+    "A": "Palmitic acid is a saturated 16-carbon fatty acid synthesized by fatty acid synthase and is not essential.",
+    "B": "Stearic acid is an 18-carbon saturated fatty acid made by elongation of palmitate and is not essential.",
+    "C": "Oleic acid is an 18-carbon monounsaturated fatty acid synthesized by delta-9 desaturation of stearate and is not essential.",
+    "E": "Palmitoleic acid is made by delta-9 desaturation of palmitate and is not an essential fatty acid."
+  },
+  "educationalObjective": "Linoleic and linolenic acids are essential because humans cannot introduce double bonds beyond carbon 9, so dietary deficiency impairs growth and skin integrity.",
+  "source": "Generated from 1. Biochemistry.pdf - Fatty Acid Synthesis"
+}

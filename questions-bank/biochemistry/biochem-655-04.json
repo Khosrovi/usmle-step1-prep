@@ -1,0 +1,41 @@
+{
+  "id": "biochem-655-04",
+  "subject": "Biochemistry",
+  "major_topic": "Molecular Biology",
+  "subtopic": "DNA Structure and Chromatin",
+  "difficulty": "hard",
+  "vignette": "A 22-year-old man presents with painless loss of central vision in the right eye, followed 4 months later by similar loss in the left eye. His maternal uncle and older brother have had similar visual loss, but his father and paternal relatives are unaffected. Fundoscopy shows optic disc pallor, and genetic testing confirms a mitochondrial DNA mutation.",
+  "question": "Which of the following best explains the inheritance pattern of this disorder?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It is inherited in an X-linked recessive pattern, affecting males almost exclusively"
+    },
+    {
+      "id": "B",
+      "text": "The mitochondrial genome is circular, histone-free, and transmitted almost exclusively through the maternal line"
+    },
+    {
+      "id": "C",
+      "text": "Mitochondrial DNA is linear, histone-bound, and inherited equally from both parents"
+    },
+    {
+      "id": "D",
+      "text": "The disorder follows autosomal dominant inheritance with incomplete penetrance"
+    },
+    {
+      "id": "E",
+      "text": "Mitochondrial DNA is inherited from the father because sperm contribute most of the mitochondria"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Mitochondria contain their own circular DNA, which does not bind histones and is inherited almost exclusively from the mother. This maternal pattern explains why the patient's maternal relatives are affected while paternal relatives are spared.",
+  "explanation_incorrect": {
+    "A": "The pedigree follows maternal transmission, not X-linked inheritance, and both sexes can be affected.",
+    "C": "Mitochondrial DNA is circular and histone-free, not linear and histone-bound.",
+    "D": "The pattern is maternal; autosomal dominant disease would be transmitted by both sexes.",
+    "E": "Sperm contribute essentially no mitochondria to the zygote, so paternal transmission of mitochondrial DNA disease is exceptional."
+  },
+  "educationalObjective": "Mitochondrial DNA is circular, does not bind histones, and shows maternal inheritance.",
+  "source": "Generated from 1. Biochemistry.pdf - Molecular Biology: Chromatin Structure"
+}

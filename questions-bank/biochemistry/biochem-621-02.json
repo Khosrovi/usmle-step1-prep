@@ -1,0 +1,41 @@
+{
+  "id": "biochem-621-02",
+  "subject": "Biochemistry",
+  "major_topic": "Carbohydrate Metabolism",
+  "subtopic": "Pentose Phosphate Pathway",
+  "difficulty": "medium",
+  "vignette": "A 31-year-old man of African ancestry develops jaundice and dark urine 3 days after starting primaquine for malaria prophylaxis. Laboratory studies show anemia with an increased reticulocyte count and a peripheral smear with bite cells.",
+  "question": "Which of the following best explains the destruction of his red blood cells?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Deficiency of pyruvate kinase with inadequate ATP production"
+    },
+    {
+      "id": "B",
+      "text": "Autoantibody-mediated complement fixation on the red cell membrane"
+    },
+    {
+      "id": "C",
+      "text": "Mechanical fragmentation of red cells across fibrin strands"
+    },
+    {
+      "id": "D",
+      "text": "Failure to regenerate reduced glutathione, allowing peroxide-mediated oxidative damage"
+    },
+    {
+      "id": "E",
+      "text": "Osmotic lysis caused by intracellular sorbitol accumulation"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "In G6PD deficiency, the pentose phosphate pathway cannot produce enough NADPH to keep glutathione in its reduced form. Reduced glutathione normally detoxifies peroxides, so without it oxidative damage denatures hemoglobin into Heinz bodies and the damaged red cells are removed by the spleen, leaving bite cells.",
+  "explanation_incorrect": {
+    "A": "Pyruvate kinase deficiency limits ATP production and causes chronic hemolysis, but it is not precipitated by oxidant agents and does not cause bite cells.",
+    "B": "Autoimmune hemolytic anemia is mediated by antibodies and complement and produces spherocytes with a positive direct antiglobulin test, not bite cells.",
+    "C": "Microangiopathic hemolysis fragments red cells mechanically and produces schistocytes, not bite cells.",
+    "E": "Sorbitol accumulation causes osmotic damage in the lens, retina, kidney, and Schwann cells, not in red blood cells."
+  },
+  "educationalObjective": "G6PD deficiency causes hemolysis because NADPH is required to regenerate reduced glutathione, which protects red cells from peroxide-induced oxidative damage.",
+  "source": "Generated from 1. Biochemistry.pdf - Pentose Phosphate Pathway"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "biochem-639-01",
+  "subject": "Biochemistry",
+  "major_topic": "Amino Acid Metabolism",
+  "subtopic": "Phenylalanine and Tyrosine Metabolism",
+  "difficulty": "medium",
+  "vignette": "A 3-month-old girl is brought to a clinic in an area without newborn screening because of developmental delay, fair skin, and eczema. Her hair is light, and her parents report a musty body odor. Plasma phenylalanine is 1,800 umol/L, plasma tyrosine is low, and urine contains phenylpyruvate.",
+  "question": "Deficiency of which enzyme is the most likely cause?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Homogentisate oxidase"
+    },
+    {
+      "id": "B",
+      "text": "Phenylalanine hydroxylase"
+    },
+    {
+      "id": "C",
+      "text": "Tyrosinase"
+    },
+    {
+      "id": "D",
+      "text": "Branched-chain alpha-ketoacid dehydrogenase"
+    },
+    {
+      "id": "E",
+      "text": "Cystathionine synthase"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Phenylalanine hydroxylase converts phenylalanine to tyrosine using tetrahydrobiopterin, and its deficiency causes classic phenylketonuria with accumulation of phenylalanine and phenylketones such as phenylacetate, phenyllactate, and phenylpyruvate. Because tyrosine cannot be formed in adequate amounts, tyrosine becomes an essential amino acid for these patients.",
+  "explanation_incorrect": {
+    "A": "Homogentisate oxidase deficiency causes alkaptonuria, with dark urine and ochronosis rather than hyperphenylalaninemia.",
+    "C": "Tyrosinase deficiency causes oculocutaneous albinism without elevated plasma phenylalanine.",
+    "D": "Branched-chain alpha-ketoacid dehydrogenase deficiency causes maple syrup urine disease with elevated leucine, isoleucine, and valine.",
+    "E": "Cystathionine synthase deficiency causes homocystinuria, not hyperphenylalaninemia."
+  },
+  "educationalObjective": "Classic phenylketonuria results from phenylalanine hydroxylase deficiency, causing hyperphenylalaninemia, phenylketonuria, and hypopigmentation.",
+  "source": "Generated from 1. Biochemistry.pdf - Amino Acid Metabolism: Phenylalanine and Tyrosine Metabolism"
+}

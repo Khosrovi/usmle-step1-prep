@@ -1,0 +1,41 @@
+{
+  "id": "biochem-638-03",
+  "subject": "Biochemistry",
+  "major_topic": "Amino Acid Metabolism",
+  "subtopic": "Urea Cycle Disorders",
+  "difficulty": "medium",
+  "vignette": "A 5-day-old infant is irritable and feeding poorly and has had two seizures. Plasma ammonia is 600 umol/L, plasma citrulline is 1,500 umol/L (reference less than 50 umol/L), and urine orotic acid is normal.",
+  "question": "Deficiency of which enzyme is the most likely cause?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Ornithine transcarbamylase"
+    },
+    {
+      "id": "B",
+      "text": "Argininosuccinate synthetase"
+    },
+    {
+      "id": "C",
+      "text": "Carbamoyl phosphate synthetase I"
+    },
+    {
+      "id": "D",
+      "text": "Argininosuccinate lyase"
+    },
+    {
+      "id": "E",
+      "text": "Arginase"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Argininosuccinate synthetase catalyzes the condensation of citrulline with aspartate, so its deficiency causes citrulline to accumulate, a condition called citrullinemia. Orotic acid is not increased because carbamoyl phosphate is consumed normally upstream.",
+  "explanation_incorrect": {
+    "A": "Ornithine transcarbamylase deficiency raises orotic acid and does not cause marked citrullinemia.",
+    "C": "Carbamoyl phosphate synthetase I deficiency lowers citrulline because the cycle is blocked before citrulline is made.",
+    "D": "Argininosuccinate lyase deficiency raises argininosuccinate rather than citrulline as the dominant amino acid.",
+    "E": "Arginase deficiency raises arginine and does not cause citrullinemia."
+  },
+  "educationalObjective": "Argininosuccinate synthetase deficiency, or citrullinemia, produces marked elevation of plasma citrulline with hyperammonemia.",
+  "source": "Generated from 1. Biochemistry.pdf - Amino Acid Metabolism: Urea Cycle Disorders"
+}

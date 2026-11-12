@@ -1,0 +1,41 @@
+{
+  "id": "biochem-668-02",
+  "subject": "Biochemistry",
+  "major_topic": "Molecular Biology",
+  "subtopic": "Telomeres and Telomerase",
+  "difficulty": "hard",
+  "vignette": "An 8-year-old boy is evaluated for 6 months of progressive fatigue, easy bruising, and recurrent oral and respiratory infections. Examination shows reticulated hyperpigmentation of the neck and upper chest, dystrophic fingernails, and white plaques on the oral mucosa. Complete blood count reveals pancytopenia (hemoglobin 7.8 g/dL, leukocytes 1,900/mm3, platelets 22,000/mm3), and a bone marrow biopsy is markedly hypocellular. Genetic testing identifies a pathogenic mutation in the gene encoding the RNA component of telomerase, and a telomere length assay of peripheral blood leukocytes shows telomeres markedly shorter than those of age-matched controls.",
+  "question": "Which of the following best explains the mechanism linking this patient's genetic defect to his bone marrow findings?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Failure to excise RNA primers from the lagging strand, producing a permanently gapped genome"
+    },
+    {
+      "id": "B",
+      "text": "Inability of rapidly dividing hematopoietic stem cells to maintain chromosome ends, leading to replicative senescence and apoptosis"
+    },
+    {
+      "id": "C",
+      "text": "Defective removal of ultraviolet-induced pyrimidine dimers with accumulation of mutations"
+    },
+    {
+      "id": "D",
+      "text": "Failure to generate Okazaki fragments on the lagging strand during replication"
+    },
+    {
+      "id": "E",
+      "text": "Excessive topoisomerase II activity causing irreparable double-stranded DNA breaks"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "The RNA component of telomerase is the template for the TTAGGG repeats added to chromosome ends, so its deficiency impairs telomere elongation. Tissues with high turnover, such as the hematopoietic system, must replicate repeatedly; with each division their telomeres shorten until critically short telomeres trigger replicative senescence and apoptosis, which produces the pancytopenia and the mucocutaneous features of this bone marrow failure syndrome.",
+  "explanation_incorrect": {
+    "A": "RNA primers are removed by other enzymes (for example, the 5' to 3' exonuclease activity of DNA polymerase I in prokaryotes), and telomerase itself supplies its own RNA template rather than functioning in primer removal, so primer retention does not explain telomere shortening.",
+    "C": "Defective nucleotide excision repair of pyrimidine dimers causes xeroderma pigmentosum with photosensitivity and skin cancer, not premature telomere shortening and marrow failure.",
+    "D": "Okazaki fragments are synthesized by the lagging-strand machinery (primase and DNA polymerase) and joined by ligase; their generation is unaffected by loss of the telomerase RNA template.",
+    "E": "Topoisomerase II relieves supercoiling during replication, and increased activity would not produce the gradual, division-dependent telomere shortening seen in this patient."
+  },
+  "educationalObjective": "Loss of telomerase activity in high-turnover tissues causes progressive telomere shortening, replicative senescence, and premature bone marrow failure.",
+  "source": "Generated from 1. Biochemistry.pdf - Molecular Biology: DNA Replication (Telomerase)"
+}

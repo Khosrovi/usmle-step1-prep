@@ -1,0 +1,41 @@
+{
+  "id": "biochem-610-03",
+  "subject": "Biochemistry",
+  "major_topic": "Enzymology",
+  "subtopic": "Allosteric Regulation",
+  "difficulty": "hard",
+  "vignette": "A 3-day-old term boy develops lethargy, poor feeding, tachypnea, and vomiting. Arterial blood gas shows respiratory alkalosis, plasma ammonia is 900 micromol/L, organic acids are normal, and citrulline is low. Genetic testing shows a homozygous mutation in the gene encoding N-acetylglutamate synthase, but carbamoyl phosphate synthetase I (CPS I) protein is present in normal amounts on immunoblot.",
+  "question": "Which of the following best explains the impaired urea cycle in this infant?",
+  "options": [
+    {
+      "id": "A",
+      "text": "CPS I is competitively inhibited by excess ammonia at its active site"
+    },
+    {
+      "id": "B",
+      "text": "CPS I requires pyridoxal phosphate, which cannot be conjugated to the apoenzyme in this disorder"
+    },
+    {
+      "id": "C",
+      "text": "Loss of N-acetylglutamate lowers CPS I activity by covalently modifying the enzyme"
+    },
+    {
+      "id": "D",
+      "text": "N-acetylglutamate is an essential allosteric activator of CPS I, and its absence reduces enzyme activity despite normal enzyme protein"
+    },
+    {
+      "id": "E",
+      "text": "The enzyme adopts a Michaelis-Menten kinetic profile that cannot respond to substrate"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "N-acetylglutamate is synthesized from acetyl-CoA and glutamate by N-acetylglutamate synthase and is an obligatory allosteric activator of carbamoyl phosphate synthetase I. Without it, CPS I protein is present but functionally inactive, so carbamoyl phosphate is not formed, ammonia accumulates, and citrulline is low. This contrasts with primary CPS I deficiency, in which the enzyme protein itself is absent or defective.",
+  "explanation_incorrect": {
+    "A": "Ammonia is the substrate rather than an active-site competitive inhibitor, and its elevation is a consequence rather than the cause of the block.",
+    "B": "CPS I does not require pyridoxal phosphate; it requires N-acetylglutamate as an allosteric activator and uses ATP and bicarbonate in the reaction.",
+    "C": "The activator is noncovalently bound and its absence does not covalently modify the enzyme; activity is regulated by allosteric binding, not by modification.",
+    "E": "CPS I is normally an allosteric enzyme with a sigmoidal response to its activator, and the loss of activator binding, not an altered kinetic profile, explains the defect."
+  },
+  "educationalObjective": "N-acetylglutamate is an essential allosteric activator of carbamoyl phosphate synthetase I, so deficiency of its synthase causes hyperammonemia even when the enzyme protein is present.",
+  "source": "Generated from 1. Biochemistry.pdf - Enzymology: Allosteric Regulation"
+}

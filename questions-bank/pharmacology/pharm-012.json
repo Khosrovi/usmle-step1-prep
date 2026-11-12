@@ -1,0 +1,41 @@
+{
+  "id": "pharm-012",
+  "subject": "Pharmacology",
+  "major_topic": "Toxicities and Adverse Effects",
+  "subtopic": "Cytochrome P-450 interactions",
+  "difficulty": "medium",
+  "vignette": "A 58-year-old man taking simvastatin for hyperlipidemia is prescribed clarithromycin for sinusitis. Two weeks later he presents with diffuse muscle pain and dark urine. Creatine kinase is 12,000 U/L and creatinine is elevated.",
+  "question": "Which of the following best explains this patient's presentation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Clarithromycin inhibits CYP3A4, increasing simvastatin levels and causing rhabdomyolysis"
+    },
+    {
+      "id": "B",
+      "text": "Clarithromycin induces CYP3A4, decreasing simvastatin levels"
+    },
+    {
+      "id": "C",
+      "text": "Simvastatin displaces clarithromycin from plasma protein binding sites"
+    },
+    {
+      "id": "D",
+      "text": "Clarithromycin causes an autoimmune myositis"
+    },
+    {
+      "id": "E",
+      "text": "Simvastatin inhibits the renal clearance of clarithromycin"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Clarithromycin is a potent inhibitor of CYP3A4, the enzyme that metabolizes simvastatin. Inhibition increases statin exposure and leads to myopathy and rhabdomyolysis; rifampin, by contrast, is an inducer that would lower statin levels.",
+  "explanation_incorrect": {
+    "B": "Clarithromycin inhibits rather than induces CYP3A4, so statin levels rise, not fall.",
+    "C": "Protein-binding displacement does not explain this severe rhabdomyolysis.",
+    "D": "The myopathy is caused by statin accumulation, not an autoimmune process.",
+    "E": "Simvastatin is metabolized hepatically and does not inhibit renal clarithromycin clearance."
+  },
+  "educationalObjective": "CYP3A4 inhibitors such as clarithromycin can raise statin levels and cause rhabdomyolysis.",
+  "source": "Generated from 5. Pharmacology.pdf - Toxicities and Adverse Effects (cytochrome P-450 interactions)"
+}

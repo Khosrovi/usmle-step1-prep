@@ -1,0 +1,41 @@
+{
+  "id": "biochem-675-03",
+  "subject": "Biochemistry",
+  "major_topic": "Vitamins and Minerals",
+  "subtopic": "Vitamin B9 (Folate)",
+  "difficulty": "hard",
+  "vignette": "A 45-year-old man with alcohol use disorder and a poor diet for 4 months is found to have a macrocytic anemia with hypersegmented neutrophils, a serum folate of 2.1 ng/mL, and a normal serum vitamin B12. His physician explains that, unlike vitamin B12 deficiency, his hematologic abnormality appeared after only a few months of inadequate intake. He has no neurologic deficits, and methylmalonic acid is normal.",
+  "question": "Which of the following best explains why this deficiency developed so much faster than a vitamin B12 deficiency would under the same dietary conditions?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Folate is not stored anywhere in the body, so deficiency appears within days of reduced intake"
+    },
+    {
+      "id": "B",
+      "text": "Vitamin B12 is absorbed by passive diffusion and is therefore preserved even when intake is low"
+    },
+    {
+      "id": "C",
+      "text": "Folate requires intrinsic factor for absorption, which alcohol destroys"
+    },
+    {
+      "id": "D",
+      "text": "Vitamin B12 is continuously synthesized and absorbed in the colon"
+    },
+    {
+      "id": "E",
+      "text": "The hepatic folate reserve is small and lasts only months, whereas hepatic vitamin B12 stores last years"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Folate is stored primarily in the liver in a small reserve pool that lasts roughly 3 to 4 months, while vitamin B12 has a very large hepatic reserve that lasts several years. This difference explains why folate deficiency, not B12 deficiency, typically appears after a few months of poor intake or chronic alcohol use. Folate deficiency causes macrocytic anemia with elevated homocysteine and normal methylmalonic acid and typically spares the nervous system.",
+  "explanation_incorrect": {
+    "A": "Folate is stored in the liver, although the pool is much smaller than the vitamin B12 pool; deficiency does not develop within days.",
+    "B": "Vitamin B12 absorption is an active, intrinsic factor-dependent process in the terminal ileum, not passive diffusion.",
+    "C": "Folate absorption does not require intrinsic factor; intrinsic factor is required for vitamin B12 absorption.",
+    "D": "Colonic bacteria synthesize vitamin B12 distal to the site of absorption, which is why humans must obtain it from animal products."
+  },
+  "educationalObjective": "The hepatic folate pool is small and depleted within months, whereas vitamin B12 stores last years, which is why folate deficiency appears earlier during poor dietary intake.",
+  "source": "Generated from 1. Biochemistry.pdf - Nutrition: Water-Soluble Vitamins (Vitamin B9, Folate)"
+}

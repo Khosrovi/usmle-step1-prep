@@ -1,0 +1,41 @@
+{
+  "id": "biochem-602-04",
+  "subject": "Biochemistry",
+  "major_topic": "Amino Acids & Proteins",
+  "subtopic": "Protein Folding, Chaperones, Misfolding Diseases",
+  "difficulty": "hard",
+  "vignette": "A 68-year-old man is evaluated for 4 months of rapidly progressive dementia, unsteadiness, and involuntary jerking movements that are exaggerated by loud noises. He has no family history of similar illness. EEG shows periodic sharp wave complexes, and cerebrospinal fluid is positive for 14-3-3 protein. At autopsy, spongiform change is seen in the cerebral cortex.",
+  "question": "Which of the following best describes the pathogenic mechanism of this disease?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Replication of a prion-specific RNA genome within neurons"
+    },
+    {
+      "id": "B",
+      "text": "Autoantibodies directed against synaptic proteins"
+    },
+    {
+      "id": "C",
+      "text": "Deposition of amyloid beta peptide in cortical plaques"
+    },
+    {
+      "id": "D",
+      "text": "Expansion of a trinucleotide repeat within the prion protein gene"
+    },
+    {
+      "id": "E",
+      "text": "Post-translational conversion of normal prion protein into a beta-sheet-rich, protease-resistant conformer that propagates"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Prion diseases such as Creutzfeldt-Jakob disease are caused by PrP-Sc, a post-translationally altered form of the normal cell surface protein PrP-C. The abnormal conformer is rich in beta-pleated sheet, resistant to proteases, and acts as a template that converts additional normal PrP-C molecules, producing neuronal loss and spongiform change without any nucleic acid. This is the only known infectious agent that propagates without a genome.",
+  "explanation_incorrect": {
+    "A": "Prions contain no nucleic acid and do not replicate a genome; infectivity resides in the misfolded protein itself.",
+    "B": "Autoimmune encephalitides can cause rapidly progressive dementia, but this patient's periodic sharp waves, 14-3-3 positivity, and spongiform change indicate a prion disease.",
+    "C": "Amyloid beta deposition causes Alzheimer disease, which progresses over years and produces plaques and tangles rather than spongiform change.",
+    "D": "Trinucleotide repeat expansions cause diseases such as Huntington disease; prion disease results from protein conformational change, not repeat expansion."
+  },
+  "educationalObjective": "Prion diseases are transmitted by a beta-sheet-rich, protease-resistant conformer of prion protein that templates the conversion of normal PrP and propagates without any nucleic acid.",
+  "source": "Generated from 1. Biochemistry.pdf - Protein Folding, Chaperones, and Misfolding Diseases"
+}

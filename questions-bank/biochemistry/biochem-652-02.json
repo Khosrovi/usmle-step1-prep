@@ -1,0 +1,41 @@
+{
+  "id": "biochem-652-02",
+  "subject": "Biochemistry",
+  "major_topic": "Nucleotide Metabolism",
+  "subtopic": "Orotic Aciduria",
+  "difficulty": "medium",
+  "vignette": "A 10-month-old girl with hereditary orotic aciduria has persistent macrocytic anemia and marked urinary orotic acid excretion despite adequate vitamin B12 and folate supplementation. Her blood ammonia, BUN, and liver enzyme values are normal. The clinical team decides to begin oral uridine therapy.",
+  "question": "Which of the following best explains the therapeutic benefit of uridine in this disorder?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It restores the folate pool needed for thymidylate synthesis"
+    },
+    {
+      "id": "B",
+      "text": "It inhibits xanthine oxidase and decreases uric acid production"
+    },
+    {
+      "id": "C",
+      "text": "It activates carbamoyl phosphate synthetase I and improves ammonia detoxification"
+    },
+    {
+      "id": "D",
+      "text": "It directly stimulates the mutant UMP synthase enzyme"
+    },
+    {
+      "id": "E",
+      "text": "It supplies pyrimidine nucleotides distal to the block and suppresses orotic acid production by feedback inhibition of CPS II"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Uridine is phosphorylated by uridine kinase to UMP, bypassing the deficient UMP synthase and replenishing pyrimidine nucleotide pools, which corrects the megaloblastic anemia. The resulting pyrimidine nucleotides feedback-inhibit carbamoyl phosphate synthetase II, reducing upstream flux through the pathway and thereby lowering orotic acid production and excretion.",
+  "explanation_incorrect": {
+    "A": "The defect lies in pyrimidine nucleotide synthesis rather than in folate metabolism, which is why vitamin B12 and folate supplementation do not correct the anemia of orotic aciduria.",
+    "B": "Xanthine oxidase inhibition with allopurinol lowers uric acid and is used in gout and Lesch-Nyhan syndrome; it does not treat orotic aciduria.",
+    "C": "Carbamoyl phosphate synthetase I is the mitochondrial urea cycle enzyme, and activating it would neither bypass the UMP synthase block nor correct ammonia handling, which is already normal here.",
+    "D": "Uridine does not restore mutant UMP synthase activity; it circumvents the enzymatic step entirely."
+  },
+  "educationalObjective": "Oral uridine treats hereditary orotic aciduria by bypassing the UMP synthase block and feedback-inhibiting CPS II, which restores pyrimidines and reduces orotic acid accumulation.",
+  "source": "Generated from 1. Biochemistry.pdf - Molecular Biochemistry: De Novo Pyrimidine Synthesis (Orotic Aciduria)"
+}

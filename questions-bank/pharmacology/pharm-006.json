@@ -1,0 +1,41 @@
+{
+  "id": "pharm-006",
+  "subject": "Pharmacology",
+  "major_topic": "Toxicities and Adverse Effects",
+  "subtopic": "Tricyclic antidepressant toxicity",
+  "difficulty": "medium",
+  "vignette": "A 25-year-old woman presents with confusion, dry mouth, and blurred vision after ingesting a bottle of amitriptyline. ECG shows a QRS duration of 130 ms and runs of ventricular tachycardia.",
+  "question": "Which of the following is the most appropriate initial treatment for this patient's cardiac toxicity?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Sodium bicarbonate"
+    },
+    {
+      "id": "B",
+      "text": "Physostigmine"
+    },
+    {
+      "id": "C",
+      "text": "Flumazenil"
+    },
+    {
+      "id": "D",
+      "text": "Pralidoxime"
+    },
+    {
+      "id": "E",
+      "text": "Glucagon"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Tricyclic antidepressants block cardiac sodium channels, widening the QRS and predisposing to ventricular arrhythmias. Intravenous sodium bicarbonate provides a sodium load and alkalinizes the serum, stabilizing the cardiac membrane; physostigmine is contraindicated because it can worsen conduction disturbances and seizures.",
+  "explanation_incorrect": {
+    "B": "Physostigmine is contraindicated in tricyclic antidepressant overdose because it can precipitate seizures and cardiac conduction abnormalities.",
+    "C": "Flumazenil reverses benzodiazepines and may precipitate seizures in mixed overdose.",
+    "D": "Pralidoxime is used for organophosphate poisoning.",
+    "E": "Glucagon is used for beta-blocker overdose."
+  },
+  "educationalObjective": "Sodium bicarbonate is the first-line treatment for tricyclic antidepressant toxicity because it stabilizes cardiac sodium channels.",
+  "source": "Generated from 5. Pharmacology.pdf - Toxicities and Adverse Effects (specific toxicity treatments)"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "biochem-661-02",
+  "subject": "Biochemistry",
+  "major_topic": "Molecular Biology",
+  "subtopic": "RNA Processing",
+  "difficulty": "easy",
+  "vignette": "A 67-year-old man with type 2 diabetes mellitus receives an mRNA-based vaccine. Two days later he reports low-grade fever, fatigue, and myalgia, which resolve over 48 hours. Blood counts and liver enzymes are normal. The vaccine mRNA is synthesized with a 5-prime cap analog, modified nucleosides, and a poly-A tail.",
+  "question": "Which of the following best describes the function of the 5-prime cap of this mRNA?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It signals cleavage and polyadenylation at the 3-prime end"
+    },
+    {
+      "id": "B",
+      "text": "It serves as the splice donor site for intron removal"
+    },
+    {
+      "id": "C",
+      "text": "It terminates transcription by RNA polymerase II"
+    },
+    {
+      "id": "D",
+      "text": "It targets the mRNA for rapid degradation in P-bodies"
+    },
+    {
+      "id": "E",
+      "text": "It binds initiation factors and protects the 5-prime end from exonuclease degradation, allowing efficient translation"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "The 7-methylguanosine cap is added cotranscriptionally to the 5-prime end of eukaryotic transcripts; it binds eukaryotic initiation factors and helps assemble the small ribosomal subunit, and it protects the mRNA from 5-prime exonucleases. This is why therapeutic mRNAs are synthesized with a cap analog to ensure efficient translation and stability. Capping is a distinct process from polyadenylation and splicing.",
+  "explanation_incorrect": {
+    "A": "The polyadenylation signal at the 3-prime end, not the 5-prime cap, directs cleavage and addition of the poly-A tail.",
+    "B": "Splicing is directed by splice sites and snRNPs within the transcript, not by the 5-prime cap.",
+    "C": "The cap does not terminate transcription; it is added as transcription begins.",
+    "D": "The cap promotes stability and translation rather than targeting the mRNA for degradation."
+  },
+  "educationalObjective": "The 7-methylguanosine 5-prime cap binds initiation factors, promotes translation initiation, and protects mRNA from exonuclease degradation.",
+  "source": "Generated from 1. Biochemistry.pdf - Molecular Biology: RNA Processing"
+}

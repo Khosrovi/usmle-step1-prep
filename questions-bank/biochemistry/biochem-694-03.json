@@ -1,0 +1,41 @@
+{
+  "id": "biochem-694-03",
+  "subject": "Biochemistry",
+  "major_topic": "Inborn Errors of Metabolism",
+  "subtopic": "Organic Acidemias",
+  "difficulty": "easy",
+  "vignette": "A 5-day-old boy is evaluated for poor feeding, vomiting, and increasing lethargy. He is tachypneic and hypotonic, and his mother reports a foul odor resembling sweaty feet. Laboratory studies show a high anion gap metabolic acidosis, ammonia 160 micrograms/dL, neutropenia, thrombocytopenia, and elevated isovalerylglycine in the urine.",
+  "question": "Impaired catabolism of which of the following amino acids best explains this patient's disorder?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Leucine"
+    },
+    {
+      "id": "B",
+      "text": "Isoleucine"
+    },
+    {
+      "id": "C",
+      "text": "Valine"
+    },
+    {
+      "id": "D",
+      "text": "Methionine"
+    },
+    {
+      "id": "E",
+      "text": "Phenylalanine"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "This infant has isovaleric acidemia from deficiency of isovaleryl-CoA dehydrogenase, the enzyme that catabolizes leucine. Isovaleryl-CoA accumulates, is conjugated with glycine to form isovalerylglycine, and causes the characteristic sweaty-feet odor, metabolic acidosis, and bone marrow suppression.",
+  "explanation_incorrect": {
+    "B": "Isoleucine is degraded to propionyl-CoA and acetyl-CoA, and its accumulation occurs in maple syrup urine disease and propionic acidemia, not isovaleric acidemia.",
+    "C": "Valine is also a propionyl-CoA precursor, and its accumulation with isoleucine, methionine, and threonine is characteristic of propionic acidemia.",
+    "D": "Methionine is a propionyl-CoA precursor; its classic disorder, cystathionine beta-synthase deficiency, causes homocystinuria with lens dislocation and thrombosis.",
+    "E": "Phenylalanine catabolism defects cause phenylketonuria with a musty odor and urinary phenylketones rather than isovalerylglycine."
+  },
+  "educationalObjective": "Isovaleric acidemia is a defect of leucine catabolism that produces a sweaty-feet odor and elevated isovalerylglycine.",
+  "source": "Generated from 1. Biochemistry.pdf - Section II: Metabolism, Organic Acidemias"
+}

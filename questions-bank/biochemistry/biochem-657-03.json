@@ -1,0 +1,41 @@
+{
+  "id": "biochem-657-03",
+  "subject": "Biochemistry",
+  "major_topic": "Molecular Biology",
+  "subtopic": "DNA Repair (BER, NER, MMR)",
+  "difficulty": "medium",
+  "vignette": "A 47-year-old woman is diagnosed with a right-sided colon adenocarcinoma. Her mother had endometrial cancer at age 45, and her maternal uncle had colon cancer at age 52. Tumor testing shows high microsatellite instability and loss of MLH1 protein expression.",
+  "question": "Which of the following processes is most likely defective in her tumor cells?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Nucleotide excision repair"
+    },
+    {
+      "id": "B",
+      "text": "Base excision repair"
+    },
+    {
+      "id": "C",
+      "text": "Mismatch repair"
+    },
+    {
+      "id": "D",
+      "text": "Homologous recombination"
+    },
+    {
+      "id": "E",
+      "text": "Nonhomologous end joining"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "MLH1 is a mismatch repair gene, and its loss causes Lynch syndrome (hereditary nonpolyposis colorectal cancer). Mismatched nucleotides in the newly synthesized strand are not removed, producing microsatellite instability and a high mutation rate.",
+  "explanation_incorrect": {
+    "A": "Nucleotide excision repair defects cause xeroderma pigmentosum and impaired removal of UV-induced dimers.",
+    "B": "Base excision repair defects impair removal of altered bases such as deaminated cytosine.",
+    "D": "Homologous recombination is defective in BRCA1/BRCA2-associated breast and ovarian cancers and in Fanconi anemia.",
+    "E": "Nonhomologous end joining repairs DNA double-strand breaks and is not affected in Lynch syndrome."
+  },
+  "educationalObjective": "Lynch syndrome is caused by defective mismatch repair, typically involving MLH1 or MSH2, and produces microsatellite instability.",
+  "source": "Generated from 1. Biochemistry.pdf - Molecular Biology: DNA Repair (BER, NER, MMR)"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "biochem-635-08",
+  "subject": "Biochemistry",
+  "major_topic": "Lipid Metabolism",
+  "subtopic": "Sphingolipidoses",
+  "difficulty": "easy",
+  "vignette": "A 30-year-old woman and her 32-year-old husband are healthy and have a 2-year-old son with developmental regression, an exaggerated startle response, and a cherry-red spot; enzyme studies show absent hexosaminidase A. Genetic testing shows that both parents carry a pathogenic variant.",
+  "question": "What is the probability that their next child will be affected by this disease?",
+  "options": [
+    {
+      "id": "A",
+      "text": "0%"
+    },
+    {
+      "id": "B",
+      "text": "50%"
+    },
+    {
+      "id": "C",
+      "text": "75%"
+    },
+    {
+      "id": "D",
+      "text": "25%"
+    },
+    {
+      "id": "E",
+      "text": "100%"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Tay-Sachs disease is autosomal recessive, so an affected child inherits one pathogenic variant from each carrier parent. Each pregnancy therefore carries a 25% chance of an affected child, a 50% chance of a healthy carrier, and a 25% chance of a healthy noncarrier.",
+  "explanation_incorrect": {
+    "A": "A 0% risk would apply only if both parents were homozygous for normal alleles, which is not the case here.",
+    "B": "A 50% figure is the probability that a child will be an asymptomatic carrier, not affected.",
+    "C": "A 75% figure is the probability that a child will not be affected, not the probability of being affected.",
+    "E": "A 100% risk would require every child to inherit a pathogenic variant from each parent, which does not occur in autosomal recessive disease."
+  },
+  "educationalObjective": "Tay-Sachs disease is autosomal recessive, so two carrier parents have a 25% risk of an affected child in each pregnancy.",
+  "source": "Generated from 1. Biochemistry.pdf - Autosomal Recessive Diseases"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "biochem-638-07",
+  "subject": "Biochemistry",
+  "major_topic": "Amino Acid Metabolism",
+  "subtopic": "Urea Cycle Disorders",
+  "difficulty": "hard",
+  "vignette": "A 4-day-old infant with ornithine transcarbamylase deficiency has a plasma ammonia concentration of 1,000 umol/L and develops coma and cerebral edema. In astrocytes, ammonia is combined with glutamate by glutamine synthetase, and glutamine accumulates within these cells.",
+  "question": "Which mechanism best explains the development of cerebral edema in this infant?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Osmotic swelling of astrocytes caused by intracellular accumulation of glutamine"
+    },
+    {
+      "id": "B",
+      "text": "Depletion of GABA leading to diffuse neuronal excitation and cytotoxic edema"
+    },
+    {
+      "id": "C",
+      "text": "Increased synthesis of myelin lipids in oligodendrocytes"
+    },
+    {
+      "id": "D",
+      "text": "Inhibition of neuronal sodium-potassium ATPase by urea"
+    },
+    {
+      "id": "E",
+      "text": "Increased cerebral glucose utilization with lactic acidosis"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Ammonia is detoxified in astrocytes by glutamine synthetase, and the resulting glutamine is osmotically active; its accumulation draws water into astrocytes, causing swelling and cerebral edema. Ammonia also depletes alpha-ketoglutarate and inhibits the TCA cycle, and it increases GABAergic tone, which contributes to encephalopathy.",
+  "explanation_incorrect": {
+    "B": "Hyperammonemia increases, rather than depletes, GABAergic tone; neuronal excitation is not the primary mechanism of the edema.",
+    "C": "The edema is not caused by increased myelin lipid synthesis.",
+    "D": "Cerebral edema in hyperammonemia is not explained by urea inhibiting neuronal sodium-potassium ATPase; urea is not the principal osmolyte involved.",
+    "E": "The primary metabolic effect is TCA cycle inhibition, not increased cerebral glucose utilization."
+  },
+  "educationalObjective": "Hyperammonemia causes cerebral edema mainly through osmotic accumulation of glutamine in astrocytes.",
+  "source": "Generated from 1. Biochemistry.pdf - Amino Acid Metabolism: Urea Cycle Disorders"
+}

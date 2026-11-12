@@ -1,0 +1,41 @@
+{
+  "id": "pharm-005",
+  "subject": "Pharmacology",
+  "major_topic": "Toxicities and Adverse Effects",
+  "subtopic": "Salicylate toxicity",
+  "difficulty": "medium",
+  "vignette": "A 30-year-old woman with rheumatoid arthritis is brought in after ingesting a large quantity of aspirin. She is tachypneic and confused. Arterial blood gas shows pH 7.48 and PaCO2 22 mm Hg, and serum chemistry shows bicarbonate 16 mEq/L with an elevated anion gap.",
+  "question": "Which of the following is the most appropriate specific treatment?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Sodium bicarbonate"
+    },
+    {
+      "id": "B",
+      "text": "Acetazolamide"
+    },
+    {
+      "id": "C",
+      "text": "N-Acetylcysteine"
+    },
+    {
+      "id": "D",
+      "text": "Fomepizole"
+    },
+    {
+      "id": "E",
+      "text": "Vitamin K"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Salicylates directly stimulate the respiratory center, producing respiratory alkalosis early, and later uncouple oxidative phosphorylation, generating organic acids and a high anion gap metabolic acidosis. Sodium bicarbonate alkalinizes serum and urine, increasing the ionized fraction of salicylate and its renal excretion; hemodialysis is used for severe toxicity.",
+  "explanation_incorrect": {
+    "B": "Acetazolamide alkalinizes the urine but worsens systemic metabolic acidosis and is not used in salicylate poisoning.",
+    "C": "N-Acetylcysteine is the antidote for acetaminophen overdose.",
+    "D": "Fomepizole is used for methanol or ethylene glycol poisoning.",
+    "E": "Vitamin K reverses warfarin, not salicylates."
+  },
+  "educationalObjective": "Sodium bicarbonate is used in salicylate poisoning to alkalinize serum and urine and enhance salicylate elimination.",
+  "source": "Generated from 5. Pharmacology.pdf - Toxicities and Adverse Effects (specific toxicity treatments)"
+}

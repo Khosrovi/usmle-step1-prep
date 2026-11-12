@@ -1,0 +1,41 @@
+{
+  "id": "biochem-006",
+  "subject": "Biochemistry",
+  "major_topic": "Amino Acids & Proteins",
+  "subtopic": "Acid-Base Properties and Isoelectric Point",
+  "difficulty": "medium",
+  "vignette": "A 22-year-old man participates in a study on protein variants. A specific protein variant is found to have a single amino acid substitution where a neutral, nonpolar residue is replaced by an acidic amino acid. The researcher performs gel electrophoresis on both the wild-type and variant proteins at pH 8.6.",
+  "question": "Compared to the wild-type protein, how will the variant protein most likely migrate during electrophoresis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Faster toward the anode (positive electrode)"
+    },
+    {
+      "id": "B",
+      "text": "Faster toward the cathode (negative electrode)"
+    },
+    {
+      "id": "C",
+      "text": "It will not migrate from the origin"
+    },
+    {
+      "id": "D",
+      "text": "At the same rate but with a different band shape"
+    },
+    {
+      "id": "E",
+      "text": "It will precipitate at the well"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "At pH 8.6 (which is above the isoelectric point of most proteins), proteins carry a net negative charge and migrate toward the positive electrode (anode). Replacing a neutral residue with an acidic amino acid (such as glutamate or aspartate, which are negatively charged at body pH) increases the net negative charge of the variant protein. Consequently, it will be more strongly attracted to the positive anode and migrate faster than the wild-type protein. This is the same principle underlying hemoglobin electrophoresis (e.g., HbS vs. HbA).",
+  "explanation_incorrect": {
+    "B": "Proteins at pH 8.6 are negatively charged, so they migrate toward the positive anode, not the negative cathode.",
+    "C": "The protein has a net charge at pH 8.6 and will migrate.",
+    "D": "The change in net charge directly affects the migration rate, not just the band shape.",
+    "E": "The protein remains soluble and will migrate based on its charge-to-mass ratio."
+  },
+  "educationalObjective": "At pH 8.6 (which is above the isoelectric point of most proteins), proteins carry a net negative charge and migrate toward the positive electrode (anode).",
+  "source": "Imported from the existing Supabase question bank"
+}

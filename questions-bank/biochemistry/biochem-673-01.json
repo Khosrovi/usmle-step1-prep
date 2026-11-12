@@ -1,0 +1,41 @@
+{
+  "id": "biochem-673-01",
+  "subject": "Biochemistry",
+  "major_topic": "Vitamins and Minerals",
+  "subtopic": "Vitamin B6 (Pyridoxine)",
+  "difficulty": "hard",
+  "vignette": "A 3-month-old boy is evaluated for repetitive myoclonic seizures that began at 2 weeks of age. Seizures occur up to 20 times a day and persist despite therapeutic levels of phenobarbital, levetiracetam, and topiramate. Brain MRI and routine CSF studies are normal, and metabolic screening shows no organic aciduria. After a trial of an intravenous vitamin, the seizures stop within minutes and he remains seizure-free on enteral therapy.",
+  "question": "Impaired synthesis of which of the following neurotransmitters best explains this infant's seizures?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Dopamine"
+    },
+    {
+      "id": "B",
+      "text": "Gamma-aminobutyric acid (GABA)"
+    },
+    {
+      "id": "C",
+      "text": "Serotonin"
+    },
+    {
+      "id": "D",
+      "text": "Norepinephrine"
+    },
+    {
+      "id": "E",
+      "text": "Acetylcholine"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "This infant has pyridoxine-dependent epilepsy, in which deficient pyridoxal phosphate impairs glutamate decarboxylase, the PLP-dependent enzyme that converts glutamate into the inhibitory neurotransmitter GABA. Loss of GABAergic inhibition lowers the seizure threshold and produces refractory neonatal seizures that respond dramatically to pyridoxine. PLP is required for many decarboxylation and transamination reactions, including the synthesis of serotonin, dopamine, norepinephrine, and histamine.",
+  "explanation_incorrect": {
+    "A": "Dopamine synthesis does require PLP for decarboxylation of dopa, but impaired dopaminergic signaling does not produce pyridoxine-responsive neonatal seizures.",
+    "C": "Serotonin synthesis is also PLP dependent, but the acute seizure phenotype of pyridoxine dependency reflects loss of GABA-mediated inhibition.",
+    "D": "Norepinephrine synthesis requires dopamine beta-hydroxylase and vitamin C rather than a primary pyridoxal phosphate step, and deficiency does not cause this syndrome.",
+    "E": "Acetylcholine is synthesized by choline acetyltransferase, which does not require pyridoxal phosphate."
+  },
+  "educationalObjective": "Pyridoxal phosphate is required for glutamate decarboxylase, and its deficiency causes pyridoxine-dependent seizures through loss of GABA synthesis.",
+  "source": "Generated from 1. Biochemistry.pdf - Nutrition: Water-Soluble Vitamins (Vitamin B6, Pyridoxine)"
+}

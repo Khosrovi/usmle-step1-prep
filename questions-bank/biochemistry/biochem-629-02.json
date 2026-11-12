@@ -1,0 +1,41 @@
+{
+  "id": "biochem-629-02",
+  "subject": "Biochemistry",
+  "major_topic": "Lipid Metabolism",
+  "subtopic": "Ketone Bodies",
+  "difficulty": "medium",
+  "vignette": "A 34-year-old woman with anorexia nervosa is admitted after 5 days of near-total fasting; her BMI is 14.2. She is alert, has acetone on her breath, and her serum glucose is 62 mg/dL, beta-hydroxybutyrate 5.6 mmol/L, and arterial pH 7.36. Despite brisk hepatic ketogenesis, her hepatocytes do not consume the ketone bodies that they produce, whereas her skeletal muscle and brain do.",
+  "question": "Which of the following best explains why this patient's hepatocytes cannot use ketone bodies as fuel?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Absence of mitochondrial HMG-CoA synthase"
+    },
+    {
+      "id": "B",
+      "text": "Absence of acetoacetate decarboxylase"
+    },
+    {
+      "id": "C",
+      "text": "Absence of beta-ketoacyl-CoA transferase (thiophorase)"
+    },
+    {
+      "id": "D",
+      "text": "Absence of carnitine palmitoyltransferase I"
+    },
+    {
+      "id": "E",
+      "text": "Absence of HMG-CoA lyase"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Oxidation of ketone bodies requires beta-ketoacyl-CoA transferase (succinyl-CoA:acetoacetate CoA transferase, also called thiophorase), which activates acetoacetate to acetoacetyl-CoA in extrahepatic tissues. Hepatocytes lack this enzyme, so the liver can synthesize ketone bodies but cannot reutilize them, ensuring that the fuel produced is exported to muscle and brain.",
+  "explanation_incorrect": {
+    "A": "HMG-CoA synthase is required for ketone body production and is highly active in the fasting liver; its absence would prevent ketogenesis rather than ketone body use.",
+    "B": "There is no enzymatic acetoacetate decarboxylase; acetone forms by spontaneous decarboxylation of acetoacetate.",
+    "D": "Carnitine palmitoyltransferase I is needed for long-chain fatty acid entry into mitochondria and is not involved in ketone body oxidation.",
+    "E": "HMG-CoA lyase is a ketogenic enzyme that cleaves HMG-CoA to acetoacetate and acetyl-CoA and is present in the liver."
+  },
+  "educationalObjective": "The liver produces ketone bodies but cannot use them because hepatocytes lack beta-ketoacyl-CoA transferase (thiophorase).",
+  "source": "Generated from 1. Biochemistry.pdf - Lipid Metabolism: Ketone Bodies"
+}

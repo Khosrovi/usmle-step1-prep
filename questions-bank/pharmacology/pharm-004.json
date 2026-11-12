@@ -1,0 +1,41 @@
+{
+  "id": "pharm-004",
+  "subject": "Pharmacology",
+  "major_topic": "Toxicities and Adverse Effects",
+  "subtopic": "Methanol and ethylene glycol toxicity",
+  "difficulty": "medium",
+  "vignette": "A 45-year-old man presents 12 hours after drinking homemade alcohol with blurred vision described as a snowfield and worsening confusion. Laboratory studies show a high anion gap metabolic acidosis and an elevated osmolar gap.",
+  "question": "Which of the following is the most appropriate initial treatment?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Fomepizole"
+    },
+    {
+      "id": "B",
+      "text": "N-Acetylcysteine"
+    },
+    {
+      "id": "C",
+      "text": "Naloxone"
+    },
+    {
+      "id": "D",
+      "text": "Hydroxocobalamin"
+    },
+    {
+      "id": "E",
+      "text": "Disulfiram"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Methanol is oxidized by alcohol dehydrogenase to formaldehyde and then formic acid, which damages the retina and causes severe metabolic acidosis. Fomepizole inhibits alcohol dehydrogenase and prevents formation of these toxic metabolites; severe cases also require hemodialysis.",
+  "explanation_incorrect": {
+    "B": "N-Acetylcysteine is the antidote for acetaminophen overdose.",
+    "C": "Naloxone is an opioid antagonist.",
+    "D": "Hydroxocobalamin is used for cyanide poisoning.",
+    "E": "Disulfiram inhibits acetaldehyde dehydrogenase and is used as aversion therapy for alcohol use disorder; it does not treat methanol poisoning."
+  },
+  "educationalObjective": "Fomepizole (or ethanol) blocks alcohol dehydrogenase and prevents toxic metabolite formation in methanol and ethylene glycol poisoning.",
+  "source": "Generated from 5. Pharmacology.pdf - Toxicities and Adverse Effects (specific toxicity treatments)"
+}

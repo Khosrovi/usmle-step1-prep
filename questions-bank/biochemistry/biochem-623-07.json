@@ -1,0 +1,41 @@
+{
+  "id": "biochem-623-07",
+  "subject": "Biochemistry",
+  "major_topic": "Carbohydrate Metabolism",
+  "subtopic": "Glycogen Storage Diseases",
+  "difficulty": "medium",
+  "vignette": "A 6-month-old boy has been diagnosed with von Gierke disease after an episode of severe fasting hypoglycemia with lactic acidosis. His parents ask how to prevent further hypoglycemic episodes at home.",
+  "question": "Which of the following is the most appropriate dietary recommendation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A high-fructose diet to provide an alternative source of glucose"
+    },
+    {
+      "id": "B",
+      "text": "Frequent oral glucose or cornstarch feedings with avoidance of fructose and galactose"
+    },
+    {
+      "id": "C",
+      "text": "A ketogenic diet with prolonged fasting intervals"
+    },
+    {
+      "id": "D",
+      "text": "Enzyme replacement therapy with acid alpha-glucosidase"
+    },
+    {
+      "id": "E",
+      "text": "No dietary changes, because hypoglycemia resolves with age"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "In von Gierke disease the liver cannot release glucose, so the treatment is frequent oral glucose or cornstarch to prevent fasting hypoglycemia. Fructose and galactose must be avoided because they are converted to glucose-6-phosphate and worsen lactic acidosis and hyperuricemia.",
+  "explanation_incorrect": {
+    "A": "Fructose is converted to fructose-1-phosphate and then to glucose-6-phosphate, which cannot be released and instead worsens lactic acidosis; it is specifically avoided.",
+    "C": "Prolonged fasting provokes severe hypoglycemia in this disorder, so a ketogenic diet with long fasting intervals would be dangerous.",
+    "D": "Enzyme replacement with acid alpha-glucosidase is used for Pompe disease, not for the glucose-6-phosphatase deficiency of von Gierke disease.",
+    "E": "Hypoglycemia does not resolve without treatment and can cause seizures and neurologic injury, so dietary management is required."
+  },
+  "educationalObjective": "Von Gierke disease is managed with frequent oral glucose or cornstarch and avoidance of fructose and galactose.",
+  "source": "Generated from 1. Biochemistry.pdf - Glycogen Storage Diseases"
+}

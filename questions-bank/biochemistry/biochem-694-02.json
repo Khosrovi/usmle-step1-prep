@@ -1,0 +1,41 @@
+{
+  "id": "biochem-694-02",
+  "subject": "Biochemistry",
+  "major_topic": "Inborn Errors of Metabolism",
+  "subtopic": "Organic Acidemias",
+  "difficulty": "medium",
+  "vignette": "A 9-month-old girl with a history of developmental delay is admitted with vomiting, dehydration, and lethargy after a high-protein meal. She is hypotonic, and the liver edge is palpable 3 cm below the costal margin. Laboratory studies show a high anion gap metabolic acidosis, ketonuria, ammonia 180 micrograms/dL, elevated propionylcarnitine (C3), and elevated propionic acid on organic acid analysis.",
+  "question": "Which of the following dietary restrictions is most appropriate for this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Restriction of phenylalanine and tyrosine"
+    },
+    {
+      "id": "B",
+      "text": "Restriction of leucine only"
+    },
+    {
+      "id": "C",
+      "text": "Restriction of valine, isoleucine, methionine, threonine, and odd-chain fatty acids"
+    },
+    {
+      "id": "D",
+      "text": "Restriction of glycine and serine"
+    },
+    {
+      "id": "E",
+      "text": "Restriction of galactose and fructose"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Propionyl-CoA carboxylase is a biotin-dependent enzyme, and its deficiency causes propionic acidemia. Propionyl-CoA is generated from valine, odd-chain fatty acids, methionine, isoleucine, and threonine (VOMIT), so a low-protein diet limiting these precursors reduces acid production; carnitine is often added to promote excretion.",
+  "explanation_incorrect": {
+    "A": "Restriction of phenylalanine and tyrosine is used in phenylketonuria and tyrosinemia, neither of which causes propionic acid accumulation.",
+    "B": "Restriction of leucine alone is used in maple syrup urine disease and isovaleric acidemia; leucine is not a propionyl-CoA precursor.",
+    "D": "Glycine and serine are not major propionyl-CoA precursors; glycine is instead used therapeutically to conjugate isovaleryl-CoA in isovaleric acidemia.",
+    "E": "Restriction of galactose and fructose is used in galactosemia and hereditary fructose intolerance, which cause hypoglycemia and liver injury without propionic acidemia."
+  },
+  "educationalObjective": "In propionic acidemia the diet must limit the propionyl-CoA precursors valine, odd-chain fatty acids, methionine, isoleucine, and threonine (VOMIT).",
+  "source": "Generated from 1. Biochemistry.pdf - Section II: Metabolism, Organic Acidemias"
+}

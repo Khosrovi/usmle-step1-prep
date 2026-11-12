@@ -1,0 +1,41 @@
+{
+  "id": "biochem-637-01",
+  "subject": "Biochemistry",
+  "major_topic": "Amino Acid Metabolism",
+  "subtopic": "Urea Cycle",
+  "difficulty": "easy",
+  "vignette": "A 45-year-old man adopts a diet very high in protein. Within several days, hepatic urea production increases substantially. The rate-limiting reaction of the urea cycle is stimulated by N-acetylglutamate, whose concentration rises after a protein-rich meal.",
+  "question": "Which enzyme catalyzes the rate-limiting step of the urea cycle?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Ornithine transcarbamylase"
+    },
+    {
+      "id": "B",
+      "text": "Carbamoyl phosphate synthetase I"
+    },
+    {
+      "id": "C",
+      "text": "Argininosuccinate synthetase"
+    },
+    {
+      "id": "D",
+      "text": "Arginase"
+    },
+    {
+      "id": "E",
+      "text": "N-acetylglutamate synthase"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Carbamoyl phosphate synthetase I catalyzes the condensation of ammonia and bicarbonate to carbamoyl phosphate in the mitochondrial matrix, consuming two ATP, and it is the rate-limiting enzyme of ureagenesis. N-acetylglutamate is its obligate allosteric activator, and CPS I activity rises with dietary protein intake.",
+  "explanation_incorrect": {
+    "A": "Ornithine transcarbamylase catalyzes the next step, carbamoyl phosphate plus ornithine to citrulline, but it is not the rate-limiting or N-acetylglutamate-regulated step.",
+    "C": "Argininosuccinate synthetase incorporates aspartate into the cycle but is not the rate-limiting enzyme of ureagenesis.",
+    "D": "Arginase catalyzes the final step, releasing urea and ornithine; it does not initiate the cycle.",
+    "E": "N-acetylglutamate synthase produces the allosteric activator of carbamoyl phosphate synthetase I but does not catalyze a step of urea formation itself."
+  },
+  "educationalObjective": "Carbamoyl phosphate synthetase I is the rate-limiting, N-acetylglutamate-activated enzyme of the urea cycle.",
+  "source": "Generated from 1. Biochemistry.pdf - Amino Acid Metabolism: Urea Cycle"
+}

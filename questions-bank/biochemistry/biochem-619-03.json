@@ -1,0 +1,41 @@
+{
+  "id": "biochem-619-03",
+  "subject": "Biochemistry",
+  "major_topic": "Carbohydrate Metabolism",
+  "subtopic": "Oxidative Phosphorylation",
+  "difficulty": "medium",
+  "vignette": "A 6-year-old boy with a mitochondrial disorder has severe exercise intolerance, lactic acidosis, and developmental delay. Genetic testing reveals a mutation in the F0 portion of ATP synthase.",
+  "question": "Which of the following best describes the function of the F0 portion of ATP synthase?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It catalyzes the phosphorylation of ADP to ATP"
+    },
+    {
+      "id": "B",
+      "text": "It transfers electrons from cytochrome c to oxygen"
+    },
+    {
+      "id": "C",
+      "text": "It pumps protons out of the mitochondrial matrix"
+    },
+    {
+      "id": "D",
+      "text": "It exchanges ATP for ADP across the inner mitochondrial membrane"
+    },
+    {
+      "id": "E",
+      "text": "It forms the proton channel through which protons re-enter the matrix"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "ATP synthase (complex V) has an F0 portion that spans the inner mitochondrial membrane and forms the proton channel, and an F1 portion that contains the catalytic sites for ADP phosphorylation. Protons returning to the matrix through F0 drive rotation of the enzyme and ATP synthesis.",
+  "explanation_incorrect": {
+    "A": "The catalytic site for ADP phosphorylation is in the F1 portion, not F0.",
+    "B": "Electron transfer to oxygen is performed by complex IV, not ATP synthase.",
+    "C": "ATP synthase does not pump protons outward; it allows protons to flow back into the matrix down their gradient.",
+    "D": "ATP-ADP exchange across the inner mitochondrial membrane is performed by the adenine nucleotide translocase, a separate carrier protein."
+  },
+  "educationalObjective": "The F0 portion of ATP synthase forms the proton channel, whereas the F1 portion catalyzes ATP synthesis.",
+  "source": "Generated from 1. Biochemistry.pdf - Oxidative Phosphorylation"
+}

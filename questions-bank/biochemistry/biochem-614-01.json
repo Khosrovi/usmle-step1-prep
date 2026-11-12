@@ -1,0 +1,41 @@
+{
+  "id": "biochem-614-01",
+  "subject": "Biochemistry",
+  "major_topic": "Carbohydrate Metabolism",
+  "subtopic": "Glucose Transporters (GLUT, SGLT)",
+  "difficulty": "medium",
+  "vignette": "A 63-year-old man with a 9-year history of type 2 diabetes mellitus is seen for follow-up. His medications are metformin and glargine insulin, his HbA1c is 8.7%, and his fasting plasma glucose is 184 mg/dL. Dapagliflozin is added, and 2 weeks later his fasting glucose is 142 mg/dL with a strongly positive urine dipstick for glucose. Serum electrolytes and renal function are normal.",
+  "question": "Inhibition of which of the following transporters is most directly responsible for the glucose-lowering effect of dapagliflozin?",
+  "options": [
+    {
+      "id": "A",
+      "text": "GLUT1, the insulin-independent transporter of erythrocytes and brain"
+    },
+    {
+      "id": "B",
+      "text": "SGLT2, a sodium-dependent glucose cotransporter of the proximal renal tubule"
+    },
+    {
+      "id": "C",
+      "text": "SGLT1, a sodium-dependent glucose cotransporter of the small intestine"
+    },
+    {
+      "id": "D",
+      "text": "GLUT4, the insulin-responsive transporter of skeletal muscle and adipose tissue"
+    },
+    {
+      "id": "E",
+      "text": "GLUT5, the fructose transporter of the small intestine"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "SGLT2 is expressed in the early proximal tubule and reabsorbs most of the filtered glucose; dapagliflozin and empagliflozin inhibit it, producing glucosuria and lowering plasma glucose independently of insulin. The resulting glucosuria also reduces sodium reabsorption and is associated with lower cardiovascular and renal risk in type 2 diabetes.",
+  "explanation_incorrect": {
+    "A": "GLUT1 is a facilitative, insulin-independent transporter that supplies basal glucose to erythrocytes, brain, and cornea; it is not the target of this drug, and its inhibition would not cause glucosuria.",
+    "C": "SGLT1 absorbs glucose and galactose in the small intestine and the late proximal tubule; inhibiting it produces osmotic diarrhea rather than the therapeutic glucosuria seen here.",
+    "D": "GLUT4 moves to the surface of skeletal muscle and adipose cells in response to insulin or exercise; SGLT2 inhibitors do not act on it.",
+    "E": "GLUT5 transports fructose in the small intestine and kidney and is not involved in the action of dapagliflozin."
+  },
+  "educationalObjective": "SGLT2 inhibitors lower plasma glucose by blocking sodium-coupled glucose reabsorption in the proximal tubule, causing glucosuria.",
+  "source": "Generated from 1. Biochemistry.pdf - Carbohydrate Metabolism: Glucose Transporters (GLUT, SGLT)"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "biochem-615-10",
+  "subject": "Biochemistry",
+  "major_topic": "Carbohydrate Metabolism",
+  "subtopic": "Glycolysis",
+  "difficulty": "medium",
+  "vignette": "A 40-year-old man is found unresponsive in a plating shop after a workplace accident. He has a normal respiratory rate and pink skin; blood pressure is 110/70 mm Hg, and pulse oximetry is 94% on room air. Arterial blood gas shows pH 7.10 and bicarbonate 10 mEq/L with an anion gap of 24; venous oxygen saturation is unusually high at 91%, plasma lactate is 12 mmol/L, and serum cyanide is elevated with inhibition of cytochrome c oxidase.",
+  "question": "Which of the following is the principal source of ATP for this patient's erythrocytes during this intoxication?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Oxidative phosphorylation, because cyanide inhibits only complex I"
+    },
+    {
+      "id": "B",
+      "text": "Beta-oxidation of fatty acids"
+    },
+    {
+      "id": "C",
+      "text": "GTP generation by the TCA cycle"
+    },
+    {
+      "id": "D",
+      "text": "The pentose phosphate pathway"
+    },
+    {
+      "id": "E",
+      "text": "Anaerobic glycolysis"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Cyanide binds the ferric iron of cytochrome c oxidase (complex IV), halting electron transport and oxidative phosphorylation even though oxygen delivery is adequate, so tissues shift to anaerobic glycolysis and develop a high-anion-gap lactic acidosis with high venous oxygen content. Mature erythrocytes have no mitochondria and generate ATP exclusively by anaerobic glycolysis ending in lactate, so their ATP production is unaffected by complex IV inhibition.",
+  "explanation_incorrect": {
+    "A": "Cyanide inhibits complex IV rather than complex I alone, and cells with mitochondria cannot sustain oxidative phosphorylation in this setting.",
+    "B": "Beta-oxidation is mitochondrial and does not occur in mature erythrocytes, which lack mitochondria and the carnitine shuttle.",
+    "C": "The TCA cycle is mitochondrial, so erythrocytes cannot generate GTP this way.",
+    "D": "The pentose phosphate pathway produces NADPH and ribose-5-phosphate, not ATP."
+  },
+  "educationalObjective": "Mature erythrocytes lack mitochondria and rely on anaerobic glycolysis for ATP, so inhibitors of the electron transport chain do not stop red cell ATP production.",
+  "source": "Generated from 1. Biochemistry.pdf - Carbohydrate Metabolism: Glycolysis"
+}

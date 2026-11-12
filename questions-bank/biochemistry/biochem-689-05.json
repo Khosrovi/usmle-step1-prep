@@ -1,0 +1,41 @@
+{
+  "id": "biochem-689-05",
+  "subject": "Biochemistry",
+  "major_topic": "Inborn Errors of Metabolism",
+  "subtopic": "Lysosomal Storage Diseases Part 1",
+  "difficulty": "hard",
+  "vignette": "A 5-month-old boy is evaluated for irritability, poor feeding, and progressive stiffness of the limbs. His parents note that he no longer tracks objects and that he has episodes of unexplained crying with arching of the back. Examination shows hypertonia, hyperreflexia, and optic disc pallor. Nerve conduction studies reveal a demyelinating peripheral neuropathy, and brain biopsy shows multinucleated macrophages packed with undigested lipid (globoid cells) along with loss of oligodendrocytes.",
+  "question": "Deficiency of which of the following enzymes is most likely responsible?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Arylsulfatase A"
+    },
+    {
+      "id": "B",
+      "text": "Hexosaminidase A"
+    },
+    {
+      "id": "C",
+      "text": "Galactocerebrosidase (galactosylceramidase)"
+    },
+    {
+      "id": "D",
+      "text": "Sphingomyelinase"
+    },
+    {
+      "id": "E",
+      "text": "α-Galactosidase A"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Krabbe disease (globoid cell leukodystrophy) is an autosomal recessive deficiency of galactocerebrosidase, which impairs degradation of galactocerebroside and psychosine. Psychosine is toxic to oligodendrocytes, so myelin-producing cells are destroyed and central and peripheral demyelination follow. The resulting debris is engulfed by macrophages that become multinucleated globoid cells, and patients present in infancy with irritability, developmental delay, peripheral neuropathy, and optic atrophy.",
+  "explanation_incorrect": {
+    "A": "Arylsulfatase A deficiency causes metachromatic leukodystrophy, in which cerebroside sulfate accumulates and metachromatic granules are seen rather than globoid cells.",
+    "B": "Hexosaminidase A deficiency causes Tay-Sachs disease, with GM2 ganglioside storage in neurons and a cherry-red spot rather than demyelination and globoid cells.",
+    "D": "Sphingomyelinase deficiency causes Niemann-Pick disease, with hepatosplenomegaly, foam cells, and a cherry-red spot.",
+    "E": "α-Galactosidase A deficiency causes Fabry disease, an X-linked disorder with angiokeratomas, acroparesthesias, and renal failure."
+  },
+  "educationalObjective": "Infantile irritability, demyelinating neuropathy, optic atrophy, and globoid cells on brain biopsy indicate Krabbe disease, caused by galactocerebrosidase deficiency.",
+  "source": "Generated from 1. Biochemistry.pdf - Lysosomal storage diseases (sphingolipidoses)"
+}

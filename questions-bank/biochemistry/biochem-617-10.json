@@ -1,0 +1,41 @@
+{
+  "id": "biochem-617-10",
+  "subject": "Biochemistry",
+  "major_topic": "Carbohydrate Metabolism",
+  "subtopic": "TCA Cycle (Krebs)",
+  "difficulty": "medium",
+  "vignette": "A 3-day-old boy is evaluated for poor feeding, lethargy, and tachypnea. Arterial blood gas shows respiratory alkalosis, plasma ammonia is 1,100 micromol/L, and plasma argininosuccinate is markedly elevated with mild citrullinemia.",
+  "question": "The defective urea cycle reaction normally generates which of the following TCA cycle intermediates?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Citrate"
+    },
+    {
+      "id": "B",
+      "text": "Isocitrate"
+    },
+    {
+      "id": "C",
+      "text": "Succinyl-CoA"
+    },
+    {
+      "id": "D",
+      "text": "Fumarate"
+    },
+    {
+      "id": "E",
+      "text": "Malate"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Argininosuccinate lyase cleaves argininosuccinate into arginine and fumarate; fumarate then enters the TCA cycle and is hydrated to malate. In argininosuccinate lyase deficiency, fumarate production is impaired and argininosuccinate accumulates, causing hyperammonemia.",
+  "explanation_incorrect": {
+    "A": "Citrate is formed by citrate synthase from acetyl-CoA and oxaloacetate and is not a product of the urea cycle.",
+    "B": "Isocitrate is formed from citrate by aconitase and is not produced by the urea cycle.",
+    "C": "Succinyl-CoA is generated from alpha-ketoglutarate or propionyl-CoA, not by the urea cycle.",
+    "E": "Malate is the TCA cycle product formed from fumarate by fumarase; the urea cycle releases fumarate, not malate."
+  },
+  "educationalObjective": "The urea cycle enzyme argininosuccinate lyase releases fumarate, linking the urea cycle to the TCA cycle.",
+  "source": "Generated from 1. Biochemistry.pdf - TCA Cycle (Krebs)"
+}

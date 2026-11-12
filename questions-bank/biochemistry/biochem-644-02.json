@@ -1,0 +1,41 @@
+{
+  "id": "biochem-644-02",
+  "subject": "Biochemistry",
+  "major_topic": "Amino Acid Metabolism",
+  "subtopic": "Biogenic Amines",
+  "difficulty": "medium",
+  "vignette": "A 68-year-old man with Parkinson disease has been taking levodopa alone and develops nausea, lightheadedness, and worsening on-off fluctuations. His neurologist changes his regimen to a fixed combination of levodopa and carbidopa, and the nausea and blood pressure instability improve while his motor symptoms become more predictable.",
+  "question": "Which of the following best explains the effect of carbidopa in this combination?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It inhibits catechol-O-methyltransferase in the central nervous system"
+    },
+    {
+      "id": "B",
+      "text": "It inhibits monoamine oxidase B and prolongs dopamine action"
+    },
+    {
+      "id": "C",
+      "text": "It is a direct agonist at dopamine D2 receptors"
+    },
+    {
+      "id": "D",
+      "text": "It inhibits DOPA decarboxylase in peripheral tissues, increasing delivery of levodopa to the brain"
+    },
+    {
+      "id": "E",
+      "text": "It blocks the blood-brain barrier to dopamine and reduces peripheral side effects"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Levodopa is a dopamine precursor that crosses the blood-brain barrier, whereas dopamine itself does not. Carbidopa inhibits aromatic L-amino acid decarboxylase (DOPA decarboxylase) in peripheral tissues but does not cross the blood-brain barrier, so a larger fraction of levodopa reaches the brain and is converted to dopamine there, while peripheral conversion to dopamine that causes nausea and hypotension is reduced.",
+  "explanation_incorrect": {
+    "A": "Catechol-O-methyltransferase inhibitors such as entacapone and tolcapone block methylation of catecholamines; carbidopa is not a COMT inhibitor.",
+    "B": "Monoamine oxidase B inhibitors such as selegiline reduce dopamine degradation in the brain; carbidopa does not inhibit monoamine oxidase.",
+    "C": "Carbidopa has no direct dopaminergic agonist activity; dopamine agonists such as pramipexole act at D2 receptors.",
+    "E": "Carbidopa does not block the blood-brain barrier; its effect reflects peripheral inhibition of DOPA decarboxylase, and it does not prevent dopamine formation in the brain."
+  },
+  "educationalObjective": "Carbidopa inhibits peripheral DOPA decarboxylase and thereby increases the fraction of levodopa that reaches the brain.",
+  "source": "Generated from 1. Biochemistry.pdf - Amino Acid Metabolism: Biogenic Amines"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "biochem-635-09",
+  "subject": "Biochemistry",
+  "major_topic": "Lipid Metabolism",
+  "subtopic": "Sphingolipidoses",
+  "difficulty": "medium",
+  "vignette": "A 32-year-old man is evaluated for fatigue, a spleen palpable 8 cm below the left costal margin, and recurrent bone pain in the left femur; blood counts show pancytopenia. Bone marrow shows lipid-laden macrophages with a crumpled-tissue-paper appearance, and enzyme testing confirms glucocerebrosidase deficiency.",
+  "question": "Which of the following is the most appropriate specific therapy for this condition?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Splenectomy"
+    },
+    {
+      "id": "B",
+      "text": "Dietary restriction of sphingolipids"
+    },
+    {
+      "id": "C",
+      "text": "Intravenous recombinant glucocerebrosidase"
+    },
+    {
+      "id": "D",
+      "text": "Intravenous recombinant alpha-galactosidase A"
+    },
+    {
+      "id": "E",
+      "text": "Long-term statin therapy"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Gaucher disease is treated with enzyme replacement using recombinant glucocerebrosidase, which reduces glucocerebroside accumulation in macrophages and improves hematologic and skeletal findings. The diagnosis is confirmed by deficient glucocerebrosidase activity with Gaucher cells in the marrow. Splenectomy may be used for refractory hypersplenism but does not correct the enzymatic defect.",
+  "explanation_incorrect": {
+    "A": "Splenectomy can relieve hypersplenism but is not specific therapy and leaves the lysosomal enzyme deficiency untreated.",
+    "B": "No dietary sphingolipid restriction corrects this inherited lysosomal hydrolase deficiency.",
+    "D": "Recombinant alpha-galactosidase A is used for Fabry disease, not Gaucher disease.",
+    "E": "Statins lower LDL cholesterol and have no role in lysosomal glucocerebroside storage."
+  },
+  "educationalObjective": "Gaucher disease, caused by glucocerebrosidase deficiency, can be treated with recombinant glucocerebrosidase enzyme replacement.",
+  "source": "Generated from 1. Biochemistry.pdf - Lysosomal Storage Diseases"
+}

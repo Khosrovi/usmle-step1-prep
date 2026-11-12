@@ -1,0 +1,41 @@
+{
+  "id": "biochem-651-02",
+  "subject": "Biochemistry",
+  "major_topic": "Nucleotide Metabolism",
+  "subtopic": "SCID and ADA Deficiency",
+  "difficulty": "medium",
+  "vignette": "A 6-month-old boy is evaluated for severe recurrent bacterial and viral infections dating from birth. He has chronic diarrhea and failure to thrive, and examination shows absent tonsils and no palpable lymph nodes. Laboratory studies show a lymphocyte count of 400/uL with very low CD3+ T cells and hypogammaglobulinemia. The parents are healthy first cousins, and a 4-month-old sister of the patient has just been admitted with Pneumocystis pneumonia and lymphopenia.",
+  "question": "Which of the following is the most likely mode of inheritance of this disorder?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Autosomal recessive"
+    },
+    {
+      "id": "B",
+      "text": "X-linked recessive"
+    },
+    {
+      "id": "C",
+      "text": "Autosomal dominant with incomplete penetrance"
+    },
+    {
+      "id": "D",
+      "text": "Mitochondrial inheritance"
+    },
+    {
+      "id": "E",
+      "text": "X-linked dominant"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Adenosine deaminase deficiency is an autosomal recessive cause of SCID and, together with X-linked SCID, accounts for the majority of cases. Healthy consanguineous parents and severely affected siblings of both sexes fit autosomal recessive inheritance, with an expected 25% recurrence risk in future pregnancies.",
+  "explanation_incorrect": {
+    "B": "X-linked recessive SCID results from mutations in the IL-2 receptor common gamma chain and affects only males; it could not explain severe disease in the patient's sister.",
+    "C": "SCID is not transmitted as an autosomal dominant trait, and heterozygous carriers of adenosine deaminase mutations are clinically unaffected.",
+    "D": "Mitochondrial disorders are maternally inherited, and the pedigree, the enzyme deficiency, and the immune phenotype are not consistent with that pattern.",
+    "E": "An X-linked dominant disorder would be expected to affect the heterozygous mother and would not spare her while producing severe disease in a daughter and a son."
+  },
+  "educationalObjective": "Adenosine deaminase deficiency is an autosomal recessive cause of SCID, in contrast to X-linked SCID caused by defects in the IL-2 receptor common gamma chain.",
+  "source": "Generated from 1. Biochemistry.pdf - Molecular Biochemistry: Purine Salvage Deficiencies (Adenosine Deaminase Deficiency)"
+}

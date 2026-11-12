@@ -1,0 +1,41 @@
+{
+  "id": "biochem-607-05",
+  "subject": "Biochemistry",
+  "major_topic": "Enzymology",
+  "subtopic": "Enzyme Kinetics (Michaelis-Menten, Vmax, Km)",
+  "difficulty": "easy",
+  "vignette": "A 60-year-old man is evaluated for a suspected inherited enzyme deficiency. Cultured skin fibroblasts are incubated with increasing concentrations of the enzyme's substrate, and reaction velocity is plotted against substrate concentration. The curve is hyperbolic, the maximal velocity is 100 micromol/min per mg of protein, and half of this maximal velocity is reached at a substrate concentration of 4 mM.",
+  "question": "Based on these measurements, what is the Km of the enzyme?",
+  "options": [
+    {
+      "id": "A",
+      "text": "2 mM"
+    },
+    {
+      "id": "B",
+      "text": "4 micromol/min per mg of protein"
+    },
+    {
+      "id": "C",
+      "text": "100 micromol/min per mg of protein"
+    },
+    {
+      "id": "D",
+      "text": "25 mM"
+    },
+    {
+      "id": "E",
+      "text": "4 mM"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "By definition, Km is the substrate concentration at which the reaction velocity is one-half of Vmax. Because half-maximal velocity in this assay occurs at a substrate concentration of 4 mM, the Km is 4 mM, a concentration (not a velocity) that reflects the enzyme's affinity for the substrate.",
+  "explanation_incorrect": {
+    "A": "2 mM would produce a velocity of approximately 33% of Vmax for an enzyme with a Km of 4 mM; it is not the half-maximal point.",
+    "B": "4 micromol/min per mg is a velocity expressed in the units of the assay and therefore cannot be a Km, which is expressed as a concentration.",
+    "C": "100 micromol/min per mg of protein is the Vmax of the enzyme, not the Km.",
+    "D": "A Km of 25 mM is not supported by the data; the half-maximal velocity was observed at 4 mM."
+  },
+  "educationalObjective": "Km is the substrate concentration at which velocity is half of Vmax and is expressed in units of concentration, not velocity.",
+  "source": "Generated from 1. Biochemistry.pdf - Enzymology: Enzyme Kinetics (Michaelis-Menten, Vmax, Km)"
+}

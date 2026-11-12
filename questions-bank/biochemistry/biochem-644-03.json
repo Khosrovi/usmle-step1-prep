@@ -1,0 +1,41 @@
+{
+  "id": "biochem-644-03",
+  "subject": "Biochemistry",
+  "major_topic": "Amino Acid Metabolism",
+  "subtopic": "Biogenic Amines",
+  "difficulty": "hard",
+  "vignette": "A 42-year-old woman has an adrenal pheochromocytoma that secretes epinephrine, as shown by elevated plasma free metanephrine with normal normetanephrine. The tumor lies within the adrenal medulla and is surrounded by normal adrenal cortex, which delivers cortisol directly to the medullary tissue. The surgeons note that other sympathetic ganglia in the same patient do not produce epinephrine.",
+  "question": "Which of the following best explains why the adrenal medulla, but not other sympathetic ganglia, produces epinephrine?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Cortisol-induced expression of phenylethanolamine-N-methyltransferase"
+    },
+    {
+      "id": "B",
+      "text": "Higher tyrosine hydroxylase activity in medullary chromaffin cells"
+    },
+    {
+      "id": "C",
+      "text": "Presence of dopamine beta-hydroxylase only in the adrenal gland"
+    },
+    {
+      "id": "D",
+      "text": "Increased synthesis of tetrahydrobiopterin within the medulla"
+    },
+    {
+      "id": "E",
+      "text": "Absence of monoamine oxidase in the adrenal medulla"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Epinephrine is formed only in cells that express phenylethanolamine-N-methyltransferase (PNMT), which methylates norepinephrine using S-adenosylmethionine. In the adrenal medulla, cortisol delivered from the surrounding cortex through the intra-adrenal portal system induces PNMT, so the medulla can convert norepinephrine to epinephrine, whereas other sympathetic ganglia lack this glucocorticoid exposure.",
+  "explanation_incorrect": {
+    "B": "All catecholaminergic neurons express tyrosine hydroxylase; higher activity does not explain the ability to synthesize epinephrine rather than norepinephrine.",
+    "C": "Dopamine beta-hydroxylase is present in noradrenergic sympathetic neurons as well and accounts for norepinephrine, not epinephrine, synthesis.",
+    "D": "Tetrahydrobiopterin is required by tyrosine hydroxylase and tryptophan hydroxylase; its availability does not determine the conversion of norepinephrine to epinephrine.",
+    "E": "Loss of monoamine oxidase would increase stored catecholamines, but it does not confer the ability to synthesize epinephrine, and monoamine oxidase is present in both locations."
+  },
+  "educationalObjective": "Cortisol from the adrenal cortex induces PNMT in the adrenal medulla, which is why epinephrine synthesis occurs there and not in other sympathetic ganglia.",
+  "source": "Generated from 1. Biochemistry.pdf - Amino Acid Metabolism: Biogenic Amines"
+}

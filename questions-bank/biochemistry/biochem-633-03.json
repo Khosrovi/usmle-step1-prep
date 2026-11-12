@@ -1,0 +1,41 @@
+{
+  "id": "biochem-633-03",
+  "subject": "Biochemistry",
+  "major_topic": "Lipid Metabolism",
+  "subtopic": "Apolipoproteins",
+  "difficulty": "medium",
+  "vignette": "A 4-month-old girl is evaluated for failure to thrive, bulky foul-smelling stools, and poor visual tracking. She is pale, and a peripheral blood smear shows acanthocytes. Intestinal biopsy shows enterocytes distended with lipid droplets, and after a fatty meal her plasma contains no chylomicrons, VLDL, or LDL.",
+  "question": "Which of the following apolipoproteins is most likely undetectable in this patient's plasma?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Apo A-I only"
+    },
+    {
+      "id": "B",
+      "text": "Apo B-48 and apo B-100"
+    },
+    {
+      "id": "C",
+      "text": "Apo C-II and apo E"
+    },
+    {
+      "id": "D",
+      "text": "Apo E only"
+    },
+    {
+      "id": "E",
+      "text": "Apo A-I and apo C-II"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "This infant has abetalipoproteinemia, an autosomal recessive defect in microsomal triglyceride transfer protein (MTP) that prevents assembly of apo B-containing lipoproteins. Because apo B-48 is produced in the intestine and apo B-100 in the liver, both are absent, so chylomicrons, VLDL, and LDL cannot be formed. Later consequences include vitamin E deficiency with retinitis pigmentosa and spinocerebellar degeneration.",
+  "explanation_incorrect": {
+    "A": "Apo A-I is the major HDL apolipoprotein and remains present, since HDL is not an apo B-containing particle.",
+    "C": "Apo C-II and apo E are not the structural apolipoproteins whose absence defines this disorder.",
+    "D": "Apo E is present on remnants and HDL and is not the missing structural apolipoprotein here.",
+    "E": "Neither apo A-I nor apo C-II requires MTP for synthesis or secretion."
+  },
+  "educationalObjective": "Abetalipoproteinemia from MTP deficiency abolishes both apo B-48 and apo B-100, so chylomicrons, VLDL, and LDL are absent from plasma.",
+  "source": "Generated from 1. Biochemistry.pdf - Major Apolipoproteins"
+}

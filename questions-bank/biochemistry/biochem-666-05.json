@@ -1,0 +1,41 @@
+{
+  "id": "biochem-666-05",
+  "subject": "Biochemistry",
+  "major_topic": "Molecular Biology",
+  "subtopic": "Recombinant DNA Technology",
+  "difficulty": "medium",
+  "vignette": "A 2-month-old girl with a ventricular septal defect has a hypocalcemic seizure. Serum calcium and parathyroid hormone are low, and she has had recurrent viral infections with a low T-cell count; the genetics team suspects a 22q11.2 microdeletion.",
+  "question": "Which of the following techniques directly visualizes the missing chromosomal region?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Polymerase chain reaction"
+    },
+    {
+      "id": "B",
+      "text": "Western blot"
+    },
+    {
+      "id": "C",
+      "text": "Northern blot"
+    },
+    {
+      "id": "D",
+      "text": "Enzyme-linked immunosorbent assay"
+    },
+    {
+      "id": "E",
+      "text": "Fluorescence in situ hybridization"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Fluorescence in situ hybridization uses a fluorescent DNA or RNA probe that binds a specific gene or chromosomal locus, allowing direct visualization of chromosomal anomalies. With a microdeletion, one chromosome shows no fluorescence at the locus while the other copy is labeled, as in the 22q11.2 deletion of DiGeorge syndrome.",
+  "explanation_incorrect": {
+    "A": "PCR amplifies a DNA segment but does not directly visualize a chromosomal locus, so it is not the best technique for demonstrating a microdeletion.",
+    "B": "Western blot detects proteins and cannot visualize chromosomes.",
+    "C": "Northern blot analyzes RNA and does not visualize chromosomal DNA.",
+    "D": "ELISA detects antigens or antibodies in body fluids and is unrelated to chromosome visualization."
+  },
+  "educationalObjective": "FISH uses fluorescent probes to localize specific DNA sequences on chromosomes and directly demonstrates microdeletions such as 22q11.2.",
+  "source": "Generated from 1. Biochemistry.pdf - Laboratory Techniques: Recombinant DNA Technology"
+}

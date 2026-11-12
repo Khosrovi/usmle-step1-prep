@@ -1,0 +1,41 @@
+{
+  "id": "biochem-638-01",
+  "subject": "Biochemistry",
+  "major_topic": "Amino Acid Metabolism",
+  "subtopic": "Urea Cycle Disorders",
+  "difficulty": "medium",
+  "vignette": "A 3-day-old boy born at term develops poor feeding, vomiting, and progressive lethargy. He is tachypneic and hypotonic. Plasma ammonia is 950 umol/L, blood urea nitrogen is low, and urine orotic acid is markedly elevated; blood pH is 7.50 with a normal anion gap.",
+  "question": "Deficiency of which enzyme is the most likely cause?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Carbamoyl phosphate synthetase I"
+    },
+    {
+      "id": "B",
+      "text": "Argininosuccinate synthetase"
+    },
+    {
+      "id": "C",
+      "text": "Argininosuccinate lyase"
+    },
+    {
+      "id": "D",
+      "text": "Ornithine transcarbamylase"
+    },
+    {
+      "id": "E",
+      "text": "Arginase"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Ornithine transcarbamylase deficiency is the most common urea cycle disorder and is X-linked recessive, unlike the other urea cycle enzyme deficiencies, which are autosomal recessive. Carbamoyl phosphate that cannot be converted to citrulline accumulates and is shunted into pyrimidine synthesis, producing orotic acid; ammonia rises while urea and blood urea nitrogen fall.",
+  "explanation_incorrect": {
+    "A": "Carbamoyl phosphate synthetase I deficiency also causes severe hyperammonemia, but carbamoyl phosphate is never formed, so orotic acid does not accumulate.",
+    "B": "Argininosuccinate synthetase deficiency raises citrulline rather than orotic acid.",
+    "C": "Argininosuccinate lyase deficiency raises argininosuccinate, not orotic acid.",
+    "E": "Arginase deficiency causes hyperargininemia with less severe hyperammonemia and no orotic aciduria."
+  },
+  "educationalObjective": "Ornithine transcarbamylase deficiency is the most common, X-linked urea cycle disorder and classically causes hyperammonemia with elevated orotic acid.",
+  "source": "Generated from 1. Biochemistry.pdf - Amino Acid Metabolism: Urea Cycle Disorders"
+}

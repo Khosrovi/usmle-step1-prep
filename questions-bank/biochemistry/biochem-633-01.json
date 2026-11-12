@@ -1,0 +1,41 @@
+{
+  "id": "biochem-633-01",
+  "subject": "Biochemistry",
+  "major_topic": "Lipid Metabolism",
+  "subtopic": "Apolipoproteins",
+  "difficulty": "easy",
+  "vignette": "A 34-year-old woman is evaluated after a routine screening shows an HDL cholesterol level of 18 mg/dL. She has no symptoms, and her fasting LDL cholesterol and triglycerides are normal. Plasma studies show markedly reduced cholesteryl ester formation and low lecithin-cholesterol acyltransferase (LCAT) activity. Her brother has a similar lipid profile.",
+  "question": "Deficiency of which of the following apolipoproteins most directly explains the reduced LCAT activity in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Apolipoprotein B-100"
+    },
+    {
+      "id": "B",
+      "text": "Apolipoprotein C-II"
+    },
+    {
+      "id": "C",
+      "text": "Apolipoprotein A-I"
+    },
+    {
+      "id": "D",
+      "text": "Apolipoprotein E"
+    },
+    {
+      "id": "E",
+      "text": "Apolipoprotein B-48"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Apolipoprotein A-I is found only on alpha-lipoproteins (HDL) and is the physiologic activator of LCAT, the enzyme that esterifies most of the cholesterol in plasma and is required for HDL maturation. Loss of apo A-I function therefore lowers cholesteryl ester formation and HDL cholesterol. No other major apolipoprotein activates LCAT.",
+  "explanation_incorrect": {
+    "A": "Apo B-100 is the ligand for the LDL receptor on liver-derived particles and does not activate LCAT.",
+    "B": "Apo C-II is a cofactor for lipoprotein lipase, which hydrolyzes triglycerides in circulating chylomicrons and VLDL.",
+    "D": "Apo E mediates hepatic uptake of chylomicron remnants, VLDL, IDL, and HDL; it is not an LCAT activator.",
+    "E": "Apo B-48 mediates chylomicron secretion from intestinal epithelial cells into lymphatics."
+  },
+  "educationalObjective": "Apo A-I, present only on HDL, activates LCAT and is required for normal HDL maturation and plasma cholesterol esterification.",
+  "source": "Generated from 1. Biochemistry.pdf - Major Apolipoproteins"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "biochem-004",
+  "subject": "Biochemistry",
+  "major_topic": "Amino Acid Metabolism",
+  "subtopic": "Phenylalanine and Tyrosine Metabolism",
+  "difficulty": "medium",
+  "vignette": "A 25-year-old woman presents with fatigue, weight gain, cold intolerance, and constipation. Physical examination reveals dry skin, bradycardia, and delayed deep tendon reflexes. Laboratory studies show elevated thyroid-stimulating hormone (TSH) and low free thyroxine (T4) levels. The patient is diagnosed with primary hypothyroidism and started on levothyroxine replacement therapy.",
+  "question": "Levothyroxine is a synthetic form of a hormone derived from which of the following amino acids?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Tryptophan"
+    },
+    {
+      "id": "B",
+      "text": "Tyrosine"
+    },
+    {
+      "id": "C",
+      "text": "Phenylalanine"
+    },
+    {
+      "id": "D",
+      "text": "Histidine"
+    },
+    {
+      "id": "E",
+      "text": "Methionine"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Thyroid hormones (T3 and T4) are derived from tyrosine, an aromatic amino acid. Tyrosine is iodinated and coupled within thyroglobulin to form monoiodotyrosine (MIT), diiodotyrosine (DIT), T3 (one MIT + one DIT), and T4 (two DIT molecules). Tyrosine is also the precursor for other important molecules including: catecholamines (dopamine, norepinephrine, epinephrine), melanin (via tyrosinase), and coenzyme Q10. Tyrosine itself is synthesized from phenylalanine by phenylalanine hydroxylase (requiring tetrahydrobiopterin as a cofactor).",
+  "explanation_incorrect": {
+    "A": "Tryptophan is the precursor for serotonin, melatonin, and niacin (vitamin B3), not thyroid hormones.",
+    "C": "Phenylalanine is converted to tyrosine by phenylalanine hydroxylase, but thyroid hormones are synthesized directly from tyrosine, not phenylalanine.",
+    "D": "Histidine is the precursor for histamine, not thyroid hormones.",
+    "E": "Methionine is the precursor for S-adenosylmethionine (SAM), a universal methyl donor, not thyroid hormones."
+  },
+  "educationalObjective": "Thyroid hormones (T3 and T4) are derived from tyrosine, an aromatic amino acid.",
+  "source": "Imported from the existing Supabase question bank"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "biochem-646-06",
+  "subject": "Biochemistry",
+  "major_topic": "Nucleotide Metabolism",
+  "subtopic": "Purine Synthesis de novo",
+  "difficulty": "hard",
+  "vignette": "A 5-year-old boy with recurrent sinopulmonary infections is found to have a selective defect in lymphocyte purine metabolism. Cultured lymphoblasts synthesize GMP from IMP normally, and intracellular PRPP and tetrahydrofolate levels are normal, but the cells cannot synthesize AMP from IMP. The defect involves the first reaction of the adenylate branch of the pathway.",
+  "question": "Which of the following amino acids is required for the conversion of IMP to AMP?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Glutamine"
+    },
+    {
+      "id": "B",
+      "text": "Glycine"
+    },
+    {
+      "id": "C",
+      "text": "Serine"
+    },
+    {
+      "id": "D",
+      "text": "Aspartate"
+    },
+    {
+      "id": "E",
+      "text": "Alanine"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "IMP is converted to adenylosuccinate by adenylosuccinate synthetase, which requires aspartate and GTP; adenylosuccinate lyase then releases fumarate to yield AMP. In contrast, the GMP branch requires glutamine and ATP, which is why normal GMP synthesis and normal PRPP and tetrahydrofolate levels point to aspartate as the missing substrate for the adenylate branch.",
+  "explanation_incorrect": {
+    "A": "Glutamine is required for the GMP branch (IMP to xanthosine monophosphate), and this patient synthesizes GMP normally.",
+    "B": "Glycine is incorporated into the purine ring early in de novo synthesis, before IMP is formed; its deficiency would impair both branches.",
+    "C": "Serine supplies one-carbon units through tetrahydrofolate but is not the nitrogen donor for AMP synthesis.",
+    "E": "Alanine is not used in purine nucleotide interconversion; it carries nitrogen between muscle and liver in the glucose-alanine cycle."
+  },
+  "educationalObjective": "Conversion of IMP to AMP requires aspartate and GTP, whereas conversion of IMP to GMP requires glutamine and ATP.",
+  "source": "Generated from 1. Biochemistry.pdf - Nucleotide Metabolism: Purine Synthesis de novo"
+}

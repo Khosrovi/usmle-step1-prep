@@ -1,0 +1,41 @@
+{
+  "id": "biochem-638-02",
+  "subject": "Biochemistry",
+  "major_topic": "Amino Acid Metabolism",
+  "subtopic": "Urea Cycle Disorders",
+  "difficulty": "medium",
+  "vignette": "A 2-day-old girl has severe hyperammonemia of 1,200 umol/L, lethargy, and coma. Arterial blood gas shows respiratory alkalosis. Urine orotic acid is undetectable on repeated testing, and plasma citrulline is very low.",
+  "question": "Which enzyme deficiency is most likely?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Carbamoyl phosphate synthetase I"
+    },
+    {
+      "id": "B",
+      "text": "Ornithine transcarbamylase"
+    },
+    {
+      "id": "C",
+      "text": "Argininosuccinate synthetase"
+    },
+    {
+      "id": "D",
+      "text": "Argininosuccinate lyase"
+    },
+    {
+      "id": "E",
+      "text": "Arginase"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Carbamoyl phosphate synthetase I deficiency blocks the first step of ureagenesis, so carbamoyl phosphate is not produced, orotic acid remains low, and citrulline is low. Ornithine transcarbamylase deficiency, by contrast, causes accumulation of carbamoyl phosphate and increased orotic acid.",
+  "explanation_incorrect": {
+    "B": "Ornithine transcarbamylase deficiency would produce increased orotic acid, which is absent here.",
+    "C": "Argininosuccinate synthetase deficiency causes marked elevation of plasma citrulline.",
+    "D": "Argininosuccinate lyase deficiency causes accumulation of argininosuccinate.",
+    "E": "Arginase deficiency raises plasma arginine and is usually less acutely severe in the neonatal period."
+  },
+  "educationalObjective": "Carbamoyl phosphate synthetase I deficiency causes proximal hyperammonemia without orotic aciduria and with low citrulline, distinguishing it from ornithine transcarbamylase deficiency.",
+  "source": "Generated from 1. Biochemistry.pdf - Amino Acid Metabolism: Urea Cycle Disorders"
+}

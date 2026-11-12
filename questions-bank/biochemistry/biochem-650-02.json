@@ -1,0 +1,41 @@
+{
+  "id": "biochem-650-02",
+  "subject": "Biochemistry",
+  "major_topic": "Nucleotide Metabolism",
+  "subtopic": "Gout and Lesch-Nyhan",
+  "difficulty": "hard",
+  "vignette": "A 6-year-old boy with complete HGPRT deficiency has severe hyperuricemia and tophi despite a normal diet. Enzyme studies on cultured fibroblasts show markedly increased activity of PRPP amidotransferase, the enzyme that catalyzes the committed step of de novo purine synthesis. His renal function is normal.",
+  "question": "Which of the following best explains the increased uric acid production in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Increased renal tubular reabsorption of uric acid"
+    },
+    {
+      "id": "B",
+      "text": "Decreased xanthine oxidase activity with accumulation of hypoxanthine"
+    },
+    {
+      "id": "C",
+      "text": "Accumulation of PRPP and loss of feedback inhibition by IMP and GMP, increasing de novo purine synthesis"
+    },
+    {
+      "id": "D",
+      "text": "Increased salvage of adenine by adenine phosphoribosyltransferase"
+    },
+    {
+      "id": "E",
+      "text": "Impaired degradation of adenosine by adenosine deaminase"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "HGPRT normally salvages hypoxanthine and guanine, consuming PRPP and generating IMP and GMP, which feedback-inhibit PRPP amidotransferase. When HGPRT is deficient, PRPP is not consumed by salvage and the inhibitory nucleotides are depleted, so PRPP amidotransferase activity rises and de novo purine synthesis increases, flooding the degradation pathway with uric acid. This compensatory overproduction is why hyperuricemia is severe in Lesch-Nyhan syndrome.",
+  "explanation_incorrect": {
+    "A": "Increased renal reabsorption is not the mechanism; the enzyme studies demonstrate increased purine synthesis, and renal function is normal.",
+    "B": "Xanthine oxidase is not decreased; reduced activity would lower uric acid production and cause xanthine accumulation.",
+    "D": "Adenine salvage by APRT is not increased and would not explain the elevated PRPP amidotransferase activity.",
+    "E": "Adenosine deaminase is not impaired; ADA deficiency causes immunodeficiency rather than purine overproduction."
+  },
+  "educationalObjective": "In HGPRT deficiency, PRPP accumulates while IMP and GMP fall, relieving feedback inhibition of PRPP amidotransferase and driving excess de novo purine synthesis and uric acid production.",
+  "source": "Generated from 1. Biochemistry.pdf - Nucleotide Metabolism: Gout and Lesch-Nyhan"
+}

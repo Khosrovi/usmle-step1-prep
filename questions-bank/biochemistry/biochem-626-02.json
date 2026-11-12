@@ -1,0 +1,41 @@
+{
+  "id": "biochem-626-02",
+  "subject": "Biochemistry",
+  "major_topic": "Lipid Metabolism",
+  "subtopic": "Fatty Acid Synthesis",
+  "difficulty": "medium",
+  "vignette": "A 45-year-old man with obesity and a recent switch to a very high-carbohydrate diet undergoes a liver biopsy for evaluation of mild transaminase elevation. Histology shows hepatocellular steatosis, and biochemical analysis of the biopsy shows increased cytosolic acetyl-CoA and a several-fold increase in fatty acid synthesis.",
+  "question": "Which of the following enzymes most directly generates cytosolic acetyl-CoA from citrate in the pathway activated in this patient's liver?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Citrate synthase"
+    },
+    {
+      "id": "B",
+      "text": "ATP citrate lyase"
+    },
+    {
+      "id": "C",
+      "text": "Malate dehydrogenase"
+    },
+    {
+      "id": "D",
+      "text": "Pyruvate carboxylase"
+    },
+    {
+      "id": "E",
+      "text": "Acetyl-CoA carboxylase"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "In the fed state, mitochondrial citrate is exported to the cytosol, where ATP citrate lyase cleaves it into acetyl-CoA and oxaloacetate. Acetyl-CoA is then carboxylated to malonyl-CoA by acetyl-CoA carboxylase, while oxaloacetate can be converted to pyruvate by malic enzyme, generating additional NADPH for synthesis.",
+  "explanation_incorrect": {
+    "A": "Citrate synthase catalyzes the mitochondrial condensation of acetyl-CoA with oxaloacetate to form citrate and does not release acetyl-CoA in the cytosol.",
+    "C": "Malate dehydrogenase interconverts malate and oxaloacetate, mostly within the TCA cycle, and does not cleave citrate.",
+    "D": "Pyruvate carboxylase is a mitochondrial, biotin-dependent enzyme that converts pyruvate to oxaloacetate.",
+    "E": "Acetyl-CoA carboxylase acts on acetyl-CoA already present in the cytosol, converting it to malonyl-CoA."
+  },
+  "educationalObjective": "The citrate shuttle and ATP citrate lyase supply the cytosolic acetyl-CoA needed for fatty acid synthesis.",
+  "source": "Generated from 1. Biochemistry.pdf - Fatty Acid Synthesis"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "biochem-662-07",
+  "subject": "Biochemistry",
+  "major_topic": "Molecular Biology",
+  "subtopic": "Translation",
+  "difficulty": "hard",
+  "vignette": "A 4-year-old boy presents with fever, headache, and asymmetric flaccid weakness of the legs after a recent diarrheal illness. Stool testing confirms poliovirus. In infected motor neurons, viral replication proceeds efficiently, although host-cell protein synthesis is markedly reduced. The viral RNA lacks a 5-prime cap.",
+  "question": "Which of the following best explains continued viral protein synthesis while host translation is inhibited?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Viral RNA is translated by bacterial-type 70S ribosomes"
+    },
+    {
+      "id": "B",
+      "text": "The virus encodes its own RNA polymerase, which also synthesizes proteins"
+    },
+    {
+      "id": "C",
+      "text": "The viral protease cleaves eIF4G, blocking cap-dependent initiation, while the viral IRES allows cap-independent initiation"
+    },
+    {
+      "id": "D",
+      "text": "The virus adds its own 5-prime cap to host mRNAs"
+    },
+    {
+      "id": "E",
+      "text": "Host ribosomes are degraded, and viral proteins are synthesized by the proteasome"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Poliovirus encodes a protease that cleaves eIF4G, a component of the cap-binding complex, shutting off cap-dependent translation of host mRNAs. The viral genome carries an internal ribosome entry site (IRES), which recruits the small ribosomal subunit directly and permits cap-independent translation, so viral proteins continue to be made. This strategy is shared by other picornaviruses.",
+  "explanation_incorrect": {
+    "A": "Poliovirus infects eukaryotic cells and uses host 80S ribosomes, not 70S bacterial ribosomes.",
+    "B": "RNA polymerase synthesizes RNA, not protein, and the virus uses host translation machinery.",
+    "D": "The virus does not cap host mRNAs; it eliminates cap-dependent host translation.",
+    "E": "Proteins are not synthesized by the proteasome, which instead degrades polyubiquitinated proteins."
+  },
+  "educationalObjective": "Poliovirus cleaves eIF4G to shut off cap-dependent host translation while its IRES-directed, cap-independent initiation sustains viral protein synthesis.",
+  "source": "Generated from 1. Biochemistry.pdf - Molecular Biology: Translation"
+}

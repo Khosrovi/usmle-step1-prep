@@ -1,0 +1,41 @@
+{
+  "id": "biochem-622-01",
+  "subject": "Biochemistry",
+  "major_topic": "Carbohydrate Metabolism",
+  "subtopic": "Glycogen Synthesis and Breakdown",
+  "difficulty": "easy",
+  "vignette": "A 52-year-old man with poorly controlled type 2 diabetes mellitus is evaluated after a carbohydrate-rich meal. His plasma glucose remains elevated for several hours, and hepatic glycogen synthesis after the meal is markedly reduced.",
+  "question": "Which of the following enzymes catalyzes the rate-limiting step of glycogenesis and is stimulated by insulin?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Glycogen synthase"
+    },
+    {
+      "id": "B",
+      "text": "Glycogen phosphorylase"
+    },
+    {
+      "id": "C",
+      "text": "Branching enzyme"
+    },
+    {
+      "id": "D",
+      "text": "Debranching enzyme"
+    },
+    {
+      "id": "E",
+      "text": "UDP-glucose pyrophosphorylase"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Glycogen synthase catalyzes the rate-limiting step of glycogenesis by adding glucose residues from UDP-glucose to the growing glycogen chain. It is stimulated by insulin and glucose-6-phosphate and inhibited by glucagon and epinephrine, which act through protein kinase A.",
+  "explanation_incorrect": {
+    "B": "Glycogen phosphorylase catalyzes the rate-limiting step of glycogenolysis, not glycogenesis, and it is activated rather than inhibited by glucagon and epinephrine.",
+    "C": "Branching enzyme creates alpha-1,6 branch points that increase the number of nonreducing ends, but it is not the rate-limiting enzyme of glycogen synthesis.",
+    "D": "Debranching enzyme acts during glycogenolysis to remodel and cleave branch points, not during glycogen synthesis.",
+    "E": "UDP-glucose pyrophosphorylase generates UDP-glucose, the activated glucose donor, but glycogen synthase catalyzes the rate-limiting incorporation step."
+  },
+  "educationalObjective": "Glycogen synthase is the rate-limiting enzyme of glycogenesis and is activated by insulin and glucose-6-phosphate.",
+  "source": "Generated from 1. Biochemistry.pdf - Glycogen Synthesis and Breakdown"
+}

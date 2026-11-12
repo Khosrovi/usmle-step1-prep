@@ -1,0 +1,41 @@
+{
+  "id": "biochem-637-03",
+  "subject": "Biochemistry",
+  "major_topic": "Amino Acid Metabolism",
+  "subtopic": "Urea Cycle",
+  "difficulty": "hard",
+  "vignette": "A 30-year-old man receives a high-protein diet during a metabolic study. In his hepatocytes, citrulline is converted to argininosuccinate in a reaction that incorporates aspartate and cleaves a molecule of ATP to AMP and pyrophosphate.",
+  "question": "Which enzyme catalyzes this reaction?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Carbamoyl phosphate synthetase I"
+    },
+    {
+      "id": "B",
+      "text": "Ornithine transcarbamylase"
+    },
+    {
+      "id": "C",
+      "text": "Argininosuccinate synthetase"
+    },
+    {
+      "id": "D",
+      "text": "Argininosuccinate lyase"
+    },
+    {
+      "id": "E",
+      "text": "Arginase"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Argininosuccinate synthetase ligates citrulline and aspartate to form argininosuccinate in the cytosol, using ATP that is hydrolyzed to AMP and pyrophosphate. This is the second ATP-consuming step of the urea cycle and the point at which the second nitrogen enters.",
+  "explanation_incorrect": {
+    "A": "Carbamoyl phosphate synthetase I condenses ammonia with bicarbonate in the mitochondrial matrix and hydrolyzes two ATP to ADP, but it does not use citrulline or aspartate.",
+    "B": "Ornithine transcarbamylase transfers carbamoyl phosphate to ornithine and consumes no ATP.",
+    "D": "Argininosuccinate lyase cleaves argininosuccinate to arginine and fumarate in an ATP-independent reaction.",
+    "E": "Arginase hydrolyzes arginine to urea and ornithine without using ATP."
+  },
+  "educationalObjective": "Argininosuccinate synthetase incorporates aspartate into the urea cycle and is the step in which ATP is cleaved to AMP and pyrophosphate.",
+  "source": "Generated from 1. Biochemistry.pdf - Amino Acid Metabolism: Urea Cycle"
+}

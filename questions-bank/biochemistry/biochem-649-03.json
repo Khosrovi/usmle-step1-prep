@@ -1,0 +1,41 @@
+{
+  "id": "biochem-649-03",
+  "subject": "Biochemistry",
+  "major_topic": "Nucleotide Metabolism",
+  "subtopic": "Nucleotide Degradation",
+  "difficulty": "medium",
+  "vignette": "An 8-year-old boy with bulky Burkitt lymphoma begins chemotherapy. The next day he becomes oliguric, and laboratory studies show potassium 6.2 mEq/L, phosphate 7.8 mg/dL, uric acid 14.5 mg/dL, creatinine 2.0 mg/dL, and calcium 7.4 mg/dL. Urine output is 200 mL over 24 hours. His G6PD activity is normal.",
+  "question": "Which of the following is the most appropriate agent to rapidly reduce this patient's uric acid load?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Allopurinol"
+    },
+    {
+      "id": "B",
+      "text": "Febuxostat"
+    },
+    {
+      "id": "C",
+      "text": "Colchicine"
+    },
+    {
+      "id": "D",
+      "text": "Indomethacin"
+    },
+    {
+      "id": "E",
+      "text": "Rasburicase"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Rasburicase is a recombinant form of urate oxidase, the enzyme that converts uric acid to allantoin, which is far more soluble and readily excreted. Unlike allopurinol, which prevents new uric acid formation, rasburicase degrades uric acid already present, making it the best choice for established tumor lysis syndrome with severe hyperuricemia. It is contraindicated in G6PD deficiency because it generates hydrogen peroxide and can cause hemolysis.",
+  "explanation_incorrect": {
+    "A": "Allopurinol blocks xanthine oxidase and prevents further uric acid formation but does not degrade the uric acid already present, so it acts too slowly for severe established hyperuricemia.",
+    "B": "Febuxostat is a nonpurine xanthine oxidase inhibitor used for chronic gout; like allopurinol, it does not remove existing urate.",
+    "C": "Colchicine treats gout by binding tubulin and inhibiting neutrophil function, not by lowering uric acid.",
+    "D": "Indomethacin is an anti-inflammatory drug used for acute gout and does not lower uric acid."
+  },
+  "educationalObjective": "Rasburicase is recombinant urate oxidase that degrades uric acid to soluble allantoin and is used for severe tumor lysis syndrome, but it is contraindicated in G6PD deficiency.",
+  "source": "Generated from 1. Biochemistry.pdf - Nucleotide Metabolism: Nucleotide Degradation"
+}

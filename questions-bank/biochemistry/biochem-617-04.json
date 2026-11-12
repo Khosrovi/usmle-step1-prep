@@ -1,0 +1,41 @@
+{
+  "id": "biochem-617-04",
+  "subject": "Biochemistry",
+  "major_topic": "Carbohydrate Metabolism",
+  "subtopic": "TCA Cycle (Krebs)",
+  "difficulty": "medium",
+  "vignette": "A 38-year-old man is brought to the emergency department after a 3-day binge of heavy alcohol use. He is drowsy and tremulous. Blood glucose is 42 mg/dL, lactate is 6.8 mmol/L, and beta-hydroxybutyrate is elevated; serum ethanol is 240 mg/dL.",
+  "question": "Which of the following best explains this patient's hypoglycemia and lactic acidosis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Ethanol directly inhibits pyruvate kinase"
+    },
+    {
+      "id": "B",
+      "text": "Acetaldehyde activates pyruvate carboxylase"
+    },
+    {
+      "id": "C",
+      "text": "An increased NADH/NAD+ ratio inhibits the TCA cycle and gluconeogenesis"
+    },
+    {
+      "id": "D",
+      "text": "Ethanol uncouples oxidative phosphorylation in hepatocytes"
+    },
+    {
+      "id": "E",
+      "text": "Ethanol increases the activity of fructose-1,6-bisphosphatase"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Ethanol oxidation by alcohol dehydrogenase and acetaldehyde dehydrogenase generates large amounts of NADH, raising the hepatic NADH/NAD+ ratio. This inhibits TCA cycle dehydrogenases and shifts oxaloacetate to malate, limiting gluconeogenesis, while pyruvate is reduced to lactate, producing hypoglycemia and lactic acidosis.",
+  "explanation_incorrect": {
+    "A": "Ethanol does not directly inhibit pyruvate kinase; impaired gluconeogenesis and increased lactate production explain the findings.",
+    "B": "Acetaldehyde does not activate pyruvate carboxylase; high NADH instead reduces flux through gluconeogenesis.",
+    "D": "Uncoupling of oxidative phosphorylation is characteristic of aspirin overdose and dinitrophenol, not the primary mechanism here.",
+    "E": "Ethanol does not increase fructose-1,6-bisphosphatase activity; gluconeogenesis is impaired, not stimulated."
+  },
+  "educationalObjective": "Ethanol metabolism raises the hepatic NADH/NAD+ ratio, which inhibits the TCA cycle and gluconeogenesis and causes fasting hypoglycemia with lactic acidosis.",
+  "source": "Generated from 1. Biochemistry.pdf - TCA Cycle (Krebs)"
+}

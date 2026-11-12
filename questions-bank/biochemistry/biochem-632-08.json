@@ -1,0 +1,41 @@
+{
+  "id": "biochem-632-08",
+  "subject": "Biochemistry",
+  "major_topic": "Lipid Metabolism",
+  "subtopic": "Lipoproteins",
+  "difficulty": "medium",
+  "vignette": "A 52-year-old man with central obesity and type 2 diabetes has a fasting triglyceride of 1240 mg/dL, LDL cholesterol of 96 mg/dL, and HDL cholesterol of 30 mg/dL; his HbA1c is 8.1%. He takes metformin and does not drink alcohol. Three weeks ago he had an episode of severe epigastric pain with a lipase of 900 U/L.",
+  "question": "Which of the following best explains this patient's hypertriglyceridemia?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Deficiency of lipoprotein lipase"
+    },
+    {
+      "id": "B",
+      "text": "Deficiency of apolipoprotein C-II"
+    },
+    {
+      "id": "C",
+      "text": "Defective apolipoprotein E"
+    },
+    {
+      "id": "D",
+      "text": "Hepatic overproduction of VLDL related to insulin resistance"
+    },
+    {
+      "id": "E",
+      "text": "Deficiency of microsomal triglyceride transfer protein"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Insulin resistance increases hepatic fatty acid flux and VLDL secretion while reducing lipoprotein lipase-mediated clearance, so VLDL and triglycerides rise, the type IV pattern seen in type 2 diabetes and central obesity. Triglycerides above 1000 mg/dL predispose to acute pancreatitis, which explains this patient's episode of severe epigastric pain with an elevated lipase.",
+  "explanation_incorrect": {
+    "A": "Primary lipoprotein lipase deficiency (type I) causes chylomicronemia from childhood with a creamy supernatant and is not the pattern of adult-onset diabetes-associated hypertriglyceridemia.",
+    "B": "Apolipoprotein C-II deficiency also causes type I hyperchylomicronemia and would not present for the first time in a 52-year-old with the metabolic syndrome.",
+    "C": "Defective apolipoprotein E causes remnant accumulation (type III) with palmar xanthomas and combined hyperlipidemia rather than isolated VLDL excess.",
+    "E": "Microsomal triglyceride transfer protein deficiency causes abetalipoproteinemia with very low triglycerides, the opposite of the finding here."
+  },
+  "educationalObjective": "Type IV hypertriglyceridemia reflects hepatic overproduction of VLDL from insulin resistance and can cause acute pancreatitis when triglycerides exceed 1000 mg/dL.",
+  "source": "Generated from 1. Biochemistry.pdf - Lipid Metabolism: Lipoproteins"
+}

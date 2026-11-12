@@ -1,0 +1,41 @@
+{
+  "id": "biochem-695-03",
+  "subject": "Biochemistry",
+  "major_topic": "Inborn Errors of Metabolism",
+  "subtopic": "Fatty Acid Oxidation Disorders",
+  "difficulty": "hard",
+  "vignette": "A 3-month-old infant is admitted with poor feeding, lethargy, and hepatomegaly. Echocardiography shows a dilated cardiomyopathy, and funduscopy shows pigmentary retinopathy. His mother's pregnancy was complicated by severe preeclampsia with elevated liver enzymes and low platelets, and his newborn sister died of a similar illness. Laboratory studies show glucose 38 mg/dL with low urine ketones and elevated hydroxyacylcarnitines (C16-OH).",
+  "question": "Deficiency of which of the following enzymes is most likely responsible?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Medium-chain acyl-CoA dehydrogenase"
+    },
+    {
+      "id": "B",
+      "text": "Carnitine palmitoyltransferase II"
+    },
+    {
+      "id": "C",
+      "text": "Very-long-chain acyl-CoA dehydrogenase"
+    },
+    {
+      "id": "D",
+      "text": "Long-chain 3-hydroxyacyl-CoA dehydrogenase"
+    },
+    {
+      "id": "E",
+      "text": "Carnitine palmitoyltransferase I"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Long-chain 3-hydroxyacyl-CoA dehydrogenase is part of the mitochondrial trifunctional protein, and its deficiency causes hypoketotic hypoglycemia, cardiomyopathy, pigmentary retinopathy, and peripheral neuropathy. Long-chain fatty acid metabolites from the affected fetus accumulate in the maternal circulation and are associated with maternal HELLP syndrome and acute fatty liver of pregnancy.",
+  "explanation_incorrect": {
+    "A": "Medium-chain acyl-CoA dehydrogenase deficiency causes hypoketotic hypoglycemia during fasting but not cardiomyopathy, retinopathy, or maternal liver disease; acylcarnitines show C8 rather than hydroxy-C16.",
+    "B": "Carnitine palmitoyltransferase II deficiency in infancy causes cardiomyopathy and hypoketotic hypoglycemia without retinopathy, and maternal HELLP is not a feature.",
+    "C": "Very-long-chain acyl-CoA dehydrogenase deficiency causes cardiomyopathy and hypoketotic hypoglycemia with elevated C14:1 acylcarnitine, but not pigmentary retinopathy or maternal HELLP.",
+    "E": "Carnitine palmitoyltransferase I deficiency causes hypoketotic hypoglycemia and hepatomegaly with elevated free fatty acids, without cardiomyopathy or maternal disease."
+  },
+  "educationalObjective": "Long-chain 3-hydroxyacyl-CoA dehydrogenase deficiency causes infantile cardiomyopathy with retinopathy and is associated with maternal HELLP syndrome or acute fatty liver of pregnancy.",
+  "source": "Generated from 1. Biochemistry.pdf - Section II: Metabolism, Fatty Acid Metabolism"
+}

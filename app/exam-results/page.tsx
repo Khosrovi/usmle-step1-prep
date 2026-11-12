@@ -6,6 +6,7 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Progress } from "@/components/ui/progress";
 import { supabase } from "@/lib/supabase";
+import { ThemeToggle } from "@/components/theme-toggle";
 
 interface ExamResult {
   question_id: number;
@@ -95,18 +96,21 @@ function ExamResultsContent() {
   if (loading) {
     return (
       <div className="min-h-screen flex items-center justify-center">
-        <p className="text-gray-600">Loading results...</p>
+        <p className="text-muted-foreground">Loading results...</p>
       </div>
     );
   }
 
   return (
-    <main className="min-h-screen bg-gray-50">
-      <header className="bg-white border-b border-gray-200 shadow-sm">
+    <main className="min-h-screen bg-background">
+      <header className="bg-card border-b border-border shadow-sm">
         <div className="max-w-6xl mx-auto px-8 py-6">
-          <h1 className="text-2xl font-bold text-gray-900">
-            🎯 Exam Results
-          </h1>
+          <div className="flex items-center justify-between">
+            <h1 className="text-2xl font-bold text-foreground">
+              🎯 Exam Results
+            </h1>
+            <ThemeToggle />
+          </div>
         </div>
       </header>
 
@@ -115,19 +119,19 @@ function ExamResultsContent() {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-4 mb-8">
           <Card>
             <CardContent className="p-6 text-center">
-              <div className="text-3xl font-bold text-blue-600">
+              <div className="text-3xl font-bold text-primary">
                 {totalCount}
               </div>
-              <div className="text-sm text-gray-500 mt-1">Total Questions</div>
+              <div className="text-sm text-muted-foreground mt-1">Total Questions</div>
             </CardContent>
           </Card>
 
           <Card>
             <CardContent className="p-6 text-center">
-              <div className="text-3xl font-bold text-green-600">
+              <div className="text-3xl font-bold text-green-600 dark:text-green-400">
                 {correctCount}
               </div>
-              <div className="text-sm text-gray-500 mt-1">Correct</div>
+              <div className="text-sm text-muted-foreground mt-1">Correct</div>
             </CardContent>
           </Card>
 
@@ -136,24 +140,24 @@ function ExamResultsContent() {
               <div
                 className={`text-3xl font-bold ${
                   accuracy >= 70
-                    ? "text-green-600"
+                    ? "text-green-600 dark:text-green-400"
                     : accuracy >= 50
-                    ? "text-yellow-600"
-                    : "text-red-600"
+                    ? "text-yellow-600 dark:text-yellow-400"
+                    : "text-red-600 dark:text-red-400"
                 }`}
               >
                 {accuracy}%
               </div>
-              <div className="text-sm text-gray-500 mt-1">Accuracy</div>
+              <div className="text-sm text-muted-foreground mt-1">Accuracy</div>
             </CardContent>
           </Card>
 
           <Card>
             <CardContent className="p-6 text-center">
-              <div className="text-3xl font-bold text-purple-600">
+              <div className="text-3xl font-bold text-purple-600 dark:text-purple-400">
                 {formatTime(totalTime)}
               </div>
-              <div className="text-sm text-gray-500 mt-1">Time Spent</div>
+              <div className="text-sm text-muted-foreground mt-1">Time Spent</div>
             </CardContent>
           </Card>
         </div>
@@ -170,7 +174,7 @@ function ExamResultsContent() {
                 ? "📚"
                 : "💪"}
             </div>
-            <h2 className="text-2xl font-bold text-gray-900 mb-2">
+            <h2 className="text-2xl font-bold text-foreground mb-2">
               {accuracy >= 80
                 ? "Excellent Work!"
                 : accuracy >= 60
@@ -179,7 +183,7 @@ function ExamResultsContent() {
                 ? "Keep Studying!"
                 : "Don't Give Up!"}
             </h2>
-            <p className="text-gray-600">
+            <p className="text-muted-foreground">
               {accuracy >= 80
                 ? "You're well prepared for this topic."
                 : accuracy >= 60
@@ -192,7 +196,7 @@ function ExamResultsContent() {
         </Card>
 
         {/* Breakdown by Topic */}
-        <h2 className="text-xl font-semibold text-gray-900 mb-4">
+        <h2 className="text-xl font-semibold text-foreground mb-4">
           Performance by Topic
         </h2>
 
@@ -205,14 +209,14 @@ function ExamResultsContent() {
               <Card key={topic}>
                 <CardContent className="p-4">
                   <div className="flex justify-between items-center mb-2">
-                    <h3 className="font-semibold text-gray-900">{topic}</h3>
+                    <h3 className="font-semibold text-foreground">{topic}</h3>
                     <span
                       className={`text-sm font-semibold ${
                         topicAccuracy >= 70
-                          ? "text-green-600"
+                          ? "text-green-600 dark:text-green-400"
                           : topicAccuracy >= 50
-                          ? "text-yellow-600"
-                          : "text-red-600"
+                          ? "text-yellow-600 dark:text-yellow-400"
+                          : "text-red-600 dark:text-red-400"
                       }`}
                     >
                       {topicAccuracy}% ({stats.correct}/{stats.total})
@@ -226,7 +230,7 @@ function ExamResultsContent() {
         </div>
 
         {/* Detailed Results */}
-        <h2 className="text-xl font-semibold text-gray-900 mb-4">
+        <h2 className="text-xl font-semibold text-foreground mb-4">
           Question Review
         </h2>
 
@@ -236,44 +240,44 @@ function ExamResultsContent() {
               key={result.question_id}
               className={
                 result.is_correct
-                  ? "border-green-200 bg-green-50"
-                  : "border-red-200 bg-red-50"
+                  ? "border-green-200 bg-green-50 dark:border-green-900 dark:bg-green-950/40"
+                  : "border-red-200 bg-red-50 dark:border-red-900 dark:bg-red-950/40"
               }
             >
               <CardContent className="p-4">
                 <div className="flex items-start gap-3">
                   <div
                     className={`text-2xl ${
-                      result.is_correct ? "text-green-600" : "text-red-600"
+                      result.is_correct ? "text-green-600 dark:text-green-400" : "text-red-600 dark:text-red-400"
                     }`}
                   >
                     {result.is_correct ? "✓" : "✗"}
                   </div>
                   <div className="flex-1">
-                    <div className="text-xs text-gray-500 mb-1">
+                    <div className="text-xs text-muted-foreground mb-1">
                       Question {index + 1} •{" "}
                       {result.questions.major_topic}
                     </div>
-                    <p className="text-sm text-gray-900 mb-2">
+                    <p className="text-sm text-foreground mb-2">
                       {result.questions.question}
                     </p>
                     <div className="text-xs">
-                      <span className="text-gray-600">Your answer: </span>
+                      <span className="text-muted-foreground">Your answer: </span>
                       <span
                         className={
                           result.is_correct
-                            ? "text-green-700 font-semibold"
-                            : "text-red-700 font-semibold"
+                            ? "text-green-700 dark:text-green-300 font-semibold"
+                            : "text-red-700 dark:text-red-300 font-semibold"
                         }
                       >
                         {result.selected_answer}
                       </span>
                       {!result.is_correct && (
                         <>
-                          <span className="text-gray-600 ml-3">
+                          <span className="text-muted-foreground ml-3">
                             Correct:{" "}
                           </span>
-                          <span className="text-green-700 font-semibold">
+                          <span className="text-green-700 dark:text-green-300 font-semibold">
                             {result.questions.correct_answer}
                           </span>
                         </>
@@ -297,7 +301,7 @@ function ExamResultsContent() {
           </Button>
           <Button
             onClick={() => router.push("/stats")}
-            className="flex-1 bg-blue-600 hover:bg-blue-700"
+            className="flex-1 bg-primary hover:bg-primary/90"
           >
             View Statistics
           </Button>
@@ -312,7 +316,7 @@ export default function ExamResultsPage() {
     <Suspense
       fallback={
         <div className="min-h-screen flex items-center justify-center">
-          <p className="text-gray-600">Loading...</p>
+          <p className="text-muted-foreground">Loading...</p>
         </div>
       }
     >

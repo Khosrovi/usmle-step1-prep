@@ -1,0 +1,41 @@
+{
+  "id": "biochem-674-01",
+  "subject": "Biochemistry",
+  "major_topic": "Vitamins and Minerals",
+  "subtopic": "Vitamin B7 (Biotin)",
+  "difficulty": "easy",
+  "vignette": "A 26-year-old man who has been following a high-protein bodybuilding diet reports 3 months of a scaly, red rash around the eyes and mouth, thinning of the eyebrows and scalp hair, and intermittent loose stools. He has been eating roughly 18 raw eggs per day, blended into shakes, and cooking nothing. Physical examination is otherwise unremarkable, and serum biotin is markedly decreased.",
+  "question": "Which of the following best explains how this patient's diet produced his deficiency?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Avidin in the raw egg whites binds biotin in the intestine and prevents its absorption"
+    },
+    {
+      "id": "B",
+      "text": "Raw egg whites contain an enzyme that rapidly degrades biotin in the stomach"
+    },
+    {
+      "id": "C",
+      "text": "Egg whites directly inhibit pyruvate carboxylase within the intestinal lumen"
+    },
+    {
+      "id": "D",
+      "text": "Egg whites increase renal excretion of biotin by competing for a tubular transporter"
+    },
+    {
+      "id": "E",
+      "text": "Cooking eggs destroys most of their biotin content, and raw eggs contain none"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Avidin is a protein in raw egg whites that binds biotin with very high affinity and prevents its absorption from the gut. Biotin is the carrier of activated carbon dioxide for carboxylation enzymes, including pyruvate carboxylase, acetyl-CoA carboxylase, and propionyl-CoA carboxylase. The resulting deficiency causes dermatitis, enteritis, and alopecia, as seen in this patient, and cooking denatures avidin and prevents the problem.",
+  "explanation_incorrect": {
+    "B": "The mechanism is high-affinity binding by avidin, not enzymatic degradation of biotin.",
+    "C": "Biotin is absorbed and acts as a cofactor inside cells; avidin does not inhibit carboxylases in the intestinal lumen.",
+    "D": "Avidin acts by blocking intestinal absorption, not by competing for a renal tubular transporter.",
+    "E": "Cooking denatures avidin and improves biotin bioavailability; raw eggs are precisely the problem in this patient."
+  },
+  "educationalObjective": "Avidin in raw egg whites binds biotin avidly and prevents its absorption, producing dermatitis, alopecia, and enteritis.",
+  "source": "Generated from 1. Biochemistry.pdf - Nutrition: Water-Soluble Vitamins (Vitamin B7, Biotin)"
+}

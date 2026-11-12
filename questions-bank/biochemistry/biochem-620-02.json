@@ -1,0 +1,41 @@
+{
+  "id": "biochem-620-02",
+  "subject": "Biochemistry",
+  "major_topic": "Carbohydrate Metabolism",
+  "subtopic": "ETC Inhibitors and Uncouplers",
+  "difficulty": "medium",
+  "vignette": "A 22-year-old woman is brought to the emergency department after an intentional overdose of aspirin. She reports tinnitus and nausea. Temperature is 39.4 C, respiratory rate is 32/min, and she is confused. Laboratory studies show an anion gap metabolic acidosis and lactate 5.9 mmol/L; PaO2 is normal.",
+  "question": "Which of the following best explains her hyperthermia?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Inhibition of complex IV by salicylates"
+    },
+    {
+      "id": "B",
+      "text": "Uncoupling of oxidative phosphorylation with dissipation of the proton gradient as heat"
+    },
+    {
+      "id": "C",
+      "text": "Increased ATP synthase activity"
+    },
+    {
+      "id": "D",
+      "text": "Inhibition of the adenine nucleotide translocase"
+    },
+    {
+      "id": "E",
+      "text": "Competitive inhibition of succinate dehydrogenase"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Salicylates in overdose act as uncouplers of oxidative phosphorylation: they increase the permeability of the inner mitochondrial membrane to protons, so the proton gradient is dissipated as heat while electron transport continues. ATP synthesis falls, and the resulting energy deficit drives glycolysis and lipolysis, producing lactic acidosis and hyperthermia.",
+  "explanation_incorrect": {
+    "A": "Complex IV inhibition occurs with cyanide, carbon monoxide, and hydrogen sulfide, not salicylates; it does not cause the high oxygen consumption and heat production seen with uncoupling.",
+    "C": "ATP synthase activity is not increased; uncoupling reduces ATP synthesis.",
+    "D": "Inhibition of the adenine nucleotide translocase reduces ATP export but is not the classic cause of salicylate-induced hyperthermia.",
+    "E": "Succinate dehydrogenase is not competitively inhibited by salicylates; malonate is a classic complex II inhibitor."
+  },
+  "educationalObjective": "Aspirin overdose can uncouple oxidative phosphorylation, dissipating the proton gradient as heat and causing hyperthermia with lactic acidosis.",
+  "source": "Generated from 1. Biochemistry.pdf - ETC Inhibitors and Uncouplers"
+}

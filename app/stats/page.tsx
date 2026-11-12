@@ -6,6 +6,7 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Progress } from "@/components/ui/progress";
 import { supabase } from "@/lib/supabase";
+import { ThemeToggle } from "@/components/theme-toggle";
 
 interface TopicStats {
   major_topic: string;
@@ -140,9 +141,9 @@ function StatsContent() {
   };
 
   return (
-    <main className="min-h-screen bg-gray-50">
+    <main className="min-h-screen bg-background">
       {/* Header */}
-      <header className="bg-white border-b border-gray-200 shadow-sm">
+      <header className="bg-card border-b border-border shadow-sm">
         <div className="max-w-6xl mx-auto px-8 py-6">
           <div className="flex items-center justify-between">
             <div className="flex items-center gap-3">
@@ -154,14 +155,15 @@ function StatsContent() {
                 ← Dashboard
               </Button>
               <div>
-                <h1 className="text-2xl font-bold text-gray-900">
+                <h1 className="text-2xl font-bold text-foreground">
                   📊 Your Statistics
                 </h1>
-                <p className="text-sm text-gray-500">
+                <p className="text-sm text-muted-foreground">
                   Track your progress and identify weak areas
                 </p>
               </div>
             </div>
+            <ThemeToggle />
           </div>
         </div>
       </header>
@@ -169,7 +171,7 @@ function StatsContent() {
       <div className="max-w-6xl mx-auto p-8">
         {loading ? (
           <div className="text-center py-12">
-            <p className="text-gray-600">Loading statistics...</p>
+            <p className="text-muted-foreground">Loading statistics...</p>
           </div>
         ) : (
           <>
@@ -177,10 +179,10 @@ function StatsContent() {
             <div className="grid grid-cols-1 md:grid-cols-4 gap-4 mb-8">
               <Card>
                 <CardContent className="p-6 text-center">
-                  <div className="text-3xl font-bold text-blue-600">
+                  <div className="text-3xl font-bold text-primary">
                     {overallStats.total_questions}
                   </div>
-                  <div className="text-sm text-gray-500 mt-1">
+                  <div className="text-sm text-muted-foreground mt-1">
                     Total Questions
                   </div>
                 </CardContent>
@@ -188,19 +190,19 @@ function StatsContent() {
 
               <Card>
                 <CardContent className="p-6 text-center">
-                  <div className="text-3xl font-bold text-green-600">
+                  <div className="text-3xl font-bold text-green-600 dark:text-green-400">
                     {overallStats.answered}
                   </div>
-                  <div className="text-sm text-gray-500 mt-1">Answered</div>
+                  <div className="text-sm text-muted-foreground mt-1">Answered</div>
                 </CardContent>
               </Card>
 
               <Card>
                 <CardContent className="p-6 text-center">
-                  <div className="text-3xl font-bold text-purple-600">
+                  <div className="text-3xl font-bold text-purple-600 dark:text-purple-400">
                     {overallStats.correct}
                   </div>
-                  <div className="text-sm text-gray-500 mt-1">Correct</div>
+                  <div className="text-sm text-muted-foreground mt-1">Correct</div>
                 </CardContent>
               </Card>
 
@@ -209,15 +211,15 @@ function StatsContent() {
                   <div
                     className={`text-3xl font-bold ${
                       overallStats.accuracy >= 70
-                        ? "text-green-600"
+                        ? "text-green-600 dark:text-green-400"
                         : overallStats.accuracy >= 50
-                        ? "text-yellow-600"
-                        : "text-red-600"
+                        ? "text-yellow-600 dark:text-yellow-400"
+                        : "text-red-600 dark:text-red-400"
                     }`}
                   >
                     {overallStats.accuracy}%
                   </div>
-                  <div className="text-sm text-gray-500 mt-1">Accuracy</div>
+                  <div className="text-sm text-muted-foreground mt-1">Accuracy</div>
                 </CardContent>
               </Card>
             </div>
@@ -229,7 +231,7 @@ function StatsContent() {
               </CardHeader>
               <CardContent>
                 <div className="flex justify-between mb-2">
-                  <span className="text-sm text-gray-600">
+                  <span className="text-sm text-muted-foreground">
                     {overallStats.answered} of {overallStats.total_questions}{" "}
                     questions answered
                   </span>
@@ -258,7 +260,7 @@ function StatsContent() {
             </Card>
 
             {/* Topic Breakdown */}
-            <h2 className="text-xl font-semibold text-gray-900 mb-4">
+            <h2 className="text-xl font-semibold text-foreground mb-4">
               Performance by Topic
             </h2>
 
@@ -266,15 +268,15 @@ function StatsContent() {
               <Card>
                 <CardContent className="p-12 text-center">
                   <div className="text-5xl mb-4">📝</div>
-                  <h3 className="text-lg font-semibold text-gray-900 mb-2">
+                  <h3 className="text-lg font-semibold text-foreground mb-2">
                     No data yet
                   </h3>
-                  <p className="text-gray-500 mb-4">
+                  <p className="text-muted-foreground mb-4">
                     Start answering questions to see your statistics here.
                   </p>
                   <Button
                     onClick={() => router.push("/dashboard")}
-                    className="bg-blue-600 hover:bg-blue-700"
+                    className="bg-primary hover:bg-primary/90"
                   >
                     Start Practicing
                   </Button>
@@ -300,25 +302,25 @@ function StatsContent() {
                     return (
                       <div key={majorTopic}>
                         <div className="flex items-center justify-between mb-3">
-                          <h3 className="text-lg font-semibold text-gray-800 flex items-center gap-2">
-                            <span className="w-2 h-2 bg-blue-600 rounded-full"></span>
+                          <h3 className="text-lg font-semibold text-foreground flex items-center gap-2">
+                            <span className="w-2 h-2 bg-primary rounded-full"></span>
                             {majorTopic}
                           </h3>
-                          <div className="text-sm text-gray-600">
+                          <div className="text-sm text-muted-foreground">
                             {groupAnswered > 0 ? (
                               <span
                                 className={`font-semibold ${
                                   groupAccuracy >= 70
-                                    ? "text-green-600"
+                                    ? "text-green-600 dark:text-green-400"
                                     : groupAccuracy >= 50
-                                    ? "text-yellow-600"
-                                    : "text-red-600"
+                                    ? "text-yellow-600 dark:text-yellow-400"
+                                    : "text-red-600 dark:text-red-400"
                                 }`}
                               >
                                 {groupAccuracy}% accuracy
                               </span>
                             ) : (
-                              <span className="text-gray-400">
+                              <span className="text-muted-foreground">
                                 Not started
                               </span>
                             )}
@@ -329,12 +331,12 @@ function StatsContent() {
                           {topics.map((topic) => {
                             const accuracyColor =
                               topic.accuracy >= 70
-                                ? "text-green-600"
+                                ? "text-green-600 dark:text-green-400"
                                 : topic.accuracy >= 50
-                                ? "text-yellow-600"
+                                ? "text-yellow-600 dark:text-yellow-400"
                                 : topic.answered > 0
-                                ? "text-red-600"
-                                : "text-gray-400";
+                                ? "text-red-600 dark:text-red-400"
+                                : "text-muted-foreground";
 
                             return (
                               <Card
@@ -352,18 +354,18 @@ function StatsContent() {
                               >
                                 <CardContent className="p-4">
                                   <div className="flex justify-between items-start mb-2">
-                                    <h4 className="font-medium text-gray-900 text-sm flex-1">
+                                    <h4 className="font-medium text-foreground text-sm flex-1">
                                       {topic.subtopic}
                                     </h4>
                                     <span
                                       className={`text-xs font-semibold px-2 py-1 rounded ${
                                         topic.accuracy >= 70
-                                          ? "bg-green-100 text-green-700"
+                                          ? "bg-green-100 text-green-700 dark:text-green-300 dark:bg-green-950 dark:text-green-300"
                                           : topic.accuracy >= 50
-                                          ? "bg-yellow-100 text-yellow-700"
+                                          ? "bg-yellow-100 text-yellow-700 dark:bg-yellow-950 dark:text-yellow-300"
                                           : topic.answered > 0
-                                          ? "bg-red-100 text-red-700"
-                                          : "bg-gray-100 text-gray-500"
+                                          ? "bg-red-100 text-red-700 dark:text-red-300 dark:bg-red-950 dark:text-red-300"
+                                          : "bg-muted text-muted-foreground"
                                       }`}
                                     >
                                       {topic.answered > 0
@@ -372,7 +374,7 @@ function StatsContent() {
                                     </span>
                                   </div>
 
-                                  <div className="flex justify-between text-xs text-gray-500 mb-1">
+                                  <div className="flex justify-between text-xs text-muted-foreground mb-1">
                                     <span>
                                       {topic.answered}/{topic.total_questions}{" "}
                                       answered
@@ -415,7 +417,7 @@ export default function StatsPage() {
     <Suspense
       fallback={
         <div className="min-h-screen flex items-center justify-center">
-          <p className="text-gray-600">Loading...</p>
+          <p className="text-muted-foreground">Loading...</p>
         </div>
       }
     >

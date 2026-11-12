@@ -1,0 +1,41 @@
+{
+  "id": "biochem-001",
+  "subject": "Biochemistry",
+  "major_topic": "Amino Acids & Proteins",
+  "subtopic": "Structure and classification",
+  "difficulty": "medium",
+  "vignette": "A 4-year-old boy is evaluated for developmental delay and failure to thrive. His parents report that he has been on a strict vegan diet since birth due to family beliefs. Physical examination shows muscle wasting and edema. Laboratory studies reveal low serum albumin and decreased levels of several amino acids that cannot be synthesized by the body.",
+  "question": "Which of the following amino acids is most likely deficient in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Alanine"
+    },
+    {
+      "id": "B",
+      "text": "Aspartate"
+    },
+    {
+      "id": "C",
+      "text": "Leucine"
+    },
+    {
+      "id": "D",
+      "text": "Glutamate"
+    },
+    {
+      "id": "E",
+      "text": "Serine"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Leucine is an essential amino acid that cannot be synthesized by the human body and must be obtained from the diet. Essential amino acids include: Phenylalanine, Valine, Tryptophan, Threonine, Isoleucine, Methionine, Histidine, Arginine (conditionally essential in children), Leucine, and Lysine (mnemonic: PVT TIM HaLL). A strict vegan diet without proper supplementation can lead to deficiency of essential amino acids, resulting in protein-energy malnutrition with muscle wasting, edema (due to hypoalbuminemia), and developmental delay.",
+  "explanation_incorrect": {
+    "A": "Alanine is a non-essential amino acid that can be synthesized from pyruvate via transamination.",
+    "B": "Aspartate is a non-essential amino acid synthesized from oxaloacetate via transamination.",
+    "D": "Glutamate is a non-essential amino acid synthesized from α-ketoglutarate via transamination or from glutamine via glutaminase.",
+    "E": "Serine is a non-essential amino acid synthesized from 3-phosphoglycerate in glycolysis."
+  },
+  "educationalObjective": "Leucine is an essential amino acid that cannot be synthesized by the human body and must be obtained from the diet.",
+  "source": "Imported from the existing Supabase question bank"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "biochem-692-02",
+  "subject": "Biochemistry",
+  "major_topic": "Inborn Errors of Metabolism",
+  "subtopic": "Peroxisomal Disorders",
+  "difficulty": "medium",
+  "vignette": "A 29-year-old man is evaluated for progressive night blindness, inability to smell, and unsteadiness of gait. He has had hearing loss since his early twenties. Examination shows retinitis pigmentosa, absent sense of smell, sensorineural hearing loss, gait ataxia, and dry, scaly skin over the shins. Nerve conduction studies show a demyelinating peripheral neuropathy, and serum phytanic acid is markedly elevated.",
+  "question": "A defect in which of the following processes best explains these findings?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Peroxisomal α-oxidation of branched-chain fatty acids"
+    },
+    {
+      "id": "B",
+      "text": "Peroxisomal β-oxidation of very-long-chain fatty acids"
+    },
+    {
+      "id": "C",
+      "text": "Mitochondrial β-oxidation of long-chain fatty acids"
+    },
+    {
+      "id": "D",
+      "text": "Lysosomal degradation of sphingomyelin"
+    },
+    {
+      "id": "E",
+      "text": "Cytosolic fatty acid synthesis"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Refsum disease is an autosomal recessive defect of peroxisomal α-oxidation, the pathway that degrades branched-chain fatty acids such as phytanic acid. Undegraded phytanic acid accumulates and produces retinitis pigmentosa, anosmia, hearing loss, ataxia, peripheral neuropathy, ichthyosis, and cardiac conduction defects. Treatment consists of a diet restricted in phytanic acid along with plasmapheresis to lower circulating levels.",
+  "explanation_incorrect": {
+    "B": "Defective peroxisomal β-oxidation of very-long-chain fatty acids causes X-linked adrenoleukodystrophy, which affects adrenal cortex, brain white matter, and testes rather than producing retinitis pigmentosa and ichthyosis.",
+    "C": "Mitochondrial β-oxidation defects such as medium-chain acyl-CoA dehydrogenase deficiency cause hypoketotic hypoglycemia and lethargy, not phytanic acid accumulation.",
+    "D": "Sphingomyelin degradation is a lysosomal function; its failure causes Niemann-Pick disease.",
+    "E": "Fatty acid synthesis occurs in the cytosol and is anabolic; its impairment would not cause fatty acid accumulation."
+  },
+  "educationalObjective": "Refsum disease results from defective peroxisomal α-oxidation, causing phytanic acid accumulation with retinitis pigmentosa, anosmia, hearing loss, ataxia, neuropathy, and ichthyosis.",
+  "source": "Generated from 1. Biochemistry.pdf - Peroxisome / peroxisomal disorders"
+}

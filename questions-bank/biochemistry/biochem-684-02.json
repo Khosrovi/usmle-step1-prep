@@ -1,0 +1,41 @@
+{
+  "id": "biochem-684-02",
+  "subject": "Biochemistry",
+  "major_topic": "Heme and Bilirubin Metabolism",
+  "subtopic": "Heme Synthesis",
+  "difficulty": "medium",
+  "vignette": "A 34-year-old woman with active pulmonary tuberculosis is started on a multidrug regimen that includes isoniazid. Three months later she reports increasing fatigue. Laboratory studies show hemoglobin 8.8 g/dL, mean corpuscular volume 74 fL, elevated serum iron, and increased transferrin saturation; serum vitamin B12, folate, and ferritin are normal. A bone marrow aspirate shows ring sideroblasts.",
+  "question": "Deficiency of which of the following vitamins most directly accounts for this patient's adverse drug effect?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Riboflavin (vitamin B2)"
+    },
+    {
+      "id": "B",
+      "text": "Pyridoxine (vitamin B6)"
+    },
+    {
+      "id": "C",
+      "text": "Thiamine (vitamin B1)"
+    },
+    {
+      "id": "D",
+      "text": "Biotin (vitamin B7)"
+    },
+    {
+      "id": "E",
+      "text": "Ascorbic acid (vitamin C)"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Isoniazid reacts with pyridoxal phosphate and promotes its urinary excretion, producing functional pyridoxine deficiency. ALA synthase requires pyridoxal phosphate as a cofactor for the glycine-succinyl-CoA condensation, so heme synthesis falls in erythroid precursors and iron accumulates in mitochondria, causing sideroblastic anemia. Pyridoxine supplementation prevents this complication.",
+  "explanation_incorrect": {
+    "A": "Riboflavin deficiency produces angular cheilitis, glossitis, and corneal vascularization; it does not impair the pyridoxal phosphate-dependent step of heme synthesis.",
+    "C": "Thiamine deficiency causes dry beriberi, wet beriberi, and Wernicke encephalopathy, none of which feature ring sideroblasts.",
+    "D": "Biotin deficiency impairs carboxylase reactions and causes dermatitis, alopecia, and neurologic symptoms rather than sideroblastic anemia.",
+    "E": "Ascorbic acid deficiency impairs collagen hydroxylation and causes scurvy with bleeding gums and perifollicular hemorrhages."
+  },
+  "educationalObjective": "Isoniazid depletes pyridoxine, and because ALA synthase is pyridoxal phosphate-dependent, heme synthesis decreases and sideroblastic anemia can develop.",
+  "source": "Generated from 1. Biochemistry.pdf - Heme and Bilirubin Metabolism: Heme Synthesis"
+}

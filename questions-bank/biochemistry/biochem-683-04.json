@@ -1,0 +1,41 @@
+{
+  "id": "biochem-683-04",
+  "subject": "Biochemistry",
+  "major_topic": "Vitamins and Minerals",
+  "subtopic": "Trace Elements",
+  "difficulty": "hard",
+  "vignette": "A 44-year-old woman with short bowel syndrome has received home total parenteral nutrition for 8 months. Her regimen was recently changed to a formulation that lacks trace element supplementation. She now presents with 3 weeks of worsening exertional dyspnea, orthopnea, and ankle edema. Examination shows an elevated jugular venous pressure, bibasilar crackles, and an S3 gallop. Echocardiography demonstrates a dilated, poorly contractile left ventricle, and serum selenium is undetectable with increased lipid peroxidation products.",
+  "question": "Impaired activity of which of the following enzymes best explains her cardiomyopathy?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Catalase"
+    },
+    {
+      "id": "B",
+      "text": "Superoxide dismutase"
+    },
+    {
+      "id": "C",
+      "text": "Glutathione peroxidase"
+    },
+    {
+      "id": "D",
+      "text": "Cytochrome c oxidase"
+    },
+    {
+      "id": "E",
+      "text": "Xanthine oxidase"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Selenium is an essential cofactor for glutathione peroxidase, which reduces hydrogen peroxide and organic lipid peroxides to water and alcohols, protecting cell membranes from oxidative damage. Deficiency in unsupplemented parenteral nutrition can cause a dilated cardiomyopathy that resembles Keshan disease; selenium is also a cofactor for the deiodinases that convert thyroxine to triiodothyronine.",
+  "explanation_incorrect": {
+    "A": "Catalase is a heme iron-containing enzyme that degrades hydrogen peroxide; it is not selenium dependent and its loss is not a recognized cause of cardiomyopathy.",
+    "B": "Superoxide dismutase isozymes require copper, zinc, or manganese rather than selenium and catalyze the dismutation of superoxide, not reduction of lipid peroxides.",
+    "D": "Cytochrome c oxidase is a copper-containing mitochondrial enzyme; its deficiency relates to the neurologic phenotype of copper disorders rather than selenium deficiency.",
+    "E": "Xanthine oxidase requires molybdenum and generates reactive oxygen species during purine catabolism; its deficiency causes xanthinuria, not heart failure."
+  },
+  "educationalObjective": "Selenium is a cofactor for glutathione peroxidase, and its deficiency in unsupplemented parenteral nutrition causes an oxidative cardiomyopathy (Keshan disease).",
+  "source": "Generated from 1. Biochemistry.pdf - Nutrition: Vitamins and Minerals (Trace Elements)"
+}

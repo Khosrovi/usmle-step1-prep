@@ -1,0 +1,41 @@
+{
+  "id": "biochem-662-06",
+  "subject": "Biochemistry",
+  "major_topic": "Molecular Biology",
+  "subtopic": "Translation",
+  "difficulty": "medium",
+  "vignette": "A 5-year-old unvaccinated boy is brought with fever and sore throat. Examination shows a gray adherent pseudomembrane over the tonsils, marked neck swelling, and a muffled voice. Two weeks later he develops heart failure with elevated creatine kinase MB and conduction abnormalities. Cultures grow Corynebacterium diphtheriae.",
+  "question": "Which of the following best explains the toxin-mediated inhibition of protein synthesis in this patient's cardiac cells?",
+  "options": [
+    {
+      "id": "A",
+      "text": "ADP-ribosylation of eukaryotic elongation factor 2, preventing translocation"
+    },
+    {
+      "id": "B",
+      "text": "Cleavage of 28S rRNA in the 60S subunit"
+    },
+    {
+      "id": "C",
+      "text": "Binding to the 30S subunit and causing misreading"
+    },
+    {
+      "id": "D",
+      "text": "Inhibition of peptidyl transferase"
+    },
+    {
+      "id": "E",
+      "text": "Prevention of the initiator tRNA from binding the P site"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Diphtheria toxin ADP-ribosylates eukaryotic elongation factor 2, inactivating it and blocking translocation of the peptidyl-tRNA from the A site to the P site. Protein synthesis stops, which explains the toxin-mediated damage to the heart and nervous system. Pseudomonas exotoxin uses the same mechanism, and both are A-B toxins.",
+  "explanation_incorrect": {
+    "B": "Cleavage of 28S rRNA is the mechanism of Shiga toxin.",
+    "C": "30S misreading is caused by aminoglycosides, which are antibacterial and do not act on human elongation factor 2.",
+    "D": "Peptidyl transferase inhibition is the mechanism of chloramphenicol and macrolides in bacterial ribosomes.",
+    "E": "Prevention of initiator tRNA binding is not the mechanism; the toxin acts during elongation."
+  },
+  "educationalObjective": "Diphtheria toxin ADP-ribosylates and inactivates eukaryotic elongation factor 2, blocking translocation and protein synthesis.",
+  "source": "Generated from 1. Biochemistry.pdf - Molecular Biology: Translation"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "biochem-601-02",
+  "subject": "Biochemistry",
+  "major_topic": "Amino Acids & Proteins",
+  "subtopic": "Protein Structure (1, 2, 3, 4 degree)",
+  "difficulty": "medium",
+  "vignette": "A 4-year-old boy is brought for recurrent blisters on his palms, soles, and knees after minor friction such as crawling. Skin biopsy shows intraepidermal blistering with clumped keratin tonofilaments, and genetic testing identifies a mutation in keratin 5. The mutated region lies within the long alpha-helical rod domain of the protein.",
+  "question": "Which level of protein structure is most directly disrupted by this mutation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Primary structure only"
+    },
+    {
+      "id": "B",
+      "text": "Tertiary structure only"
+    },
+    {
+      "id": "C",
+      "text": "Quaternary structure"
+    },
+    {
+      "id": "D",
+      "text": "Disulfide bond formation"
+    },
+    {
+      "id": "E",
+      "text": "Secondary structure"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Keratin intermediate filaments are built from alpha-helical coils held in shape by hydrogen bonds between backbone amide and carbonyl groups, which are the defining interactions of secondary structure. A mutation in the helical rod domain disrupts these alpha helices and the coiled-coil packing, so the filaments clump and cannot provide mechanical strength. The resulting fragility produces intraepidermal blistering in epidermolysis bullosa simplex.",
+  "explanation_incorrect": {
+    "A": "The mutation does change the primary sequence, but the question asks which structural level is directly disrupted functionally; the pathogenic defect is loss of the alpha-helical secondary structure that builds the filament.",
+    "B": "Tertiary structure describes the overall three-dimensional fold of a single chain and is not the level that describes the alpha-helical rod of keratin.",
+    "C": "Quaternary structure involves assembly of separate polypeptide subunits; keratin filaments are polymers of the same polypeptide, not a multi-subunit complex.",
+    "D": "Disulfide bonds stabilize tertiary and quaternary structure; keratin filament assembly in the epidermis does not depend on disulfide cross-links within the rod domain."
+  },
+  "educationalObjective": "Alpha helices and beta sheets are secondary structure stabilized by backbone hydrogen bonds, and mutations in the keratin alpha-helical rod domain cause epidermolysis bullosa simplex.",
+  "source": "Generated from 1. Biochemistry.pdf - Protein Structure (Primary, Secondary, Tertiary, Quaternary)"
+}

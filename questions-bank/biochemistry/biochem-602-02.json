@@ -1,0 +1,41 @@
+{
+  "id": "biochem-602-02",
+  "subject": "Biochemistry",
+  "major_topic": "Amino Acids & Proteins",
+  "subtopic": "Protein Folding, Chaperones, Misfolding Diseases",
+  "difficulty": "easy",
+  "vignette": "A 32-year-old woman is admitted with acute pyelonephritis and sepsis. Her temperature is 40.3 degrees C, heart rate is 122/min, and blood pressure is 88/54 mm Hg. At this temperature, many intracellular proteins begin to unfold and expose hydrophobic regions that tend to aggregate.",
+  "question": "Which of the following mechanisms most directly protects this patient's cells from accumulation of denatured proteins?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Ubiquitin-mediated proteasomal degradation of all damaged proteins without any refolding"
+    },
+    {
+      "id": "B",
+      "text": "Increased expression of heat shock proteins that bind and assist refolding of partially denatured proteins using ATP"
+    },
+    {
+      "id": "C",
+      "text": "Activation of the unfolded protein response in the cytosol"
+    },
+    {
+      "id": "D",
+      "text": "Heat-induced alternative splicing that generates more stable protein isoforms"
+    },
+    {
+      "id": "E",
+      "text": "Global reduction of transcription that prevents synthesis of any new proteins"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Heat shock proteins such as HSP60 and HSP70 are chaperones that bind exposed hydrophobic regions of partially folded proteins, prevent aggregation, and promote ATP-dependent refolding. Their expression rises with heat, acidic pH, and hypoxia, which allows cells to tolerate stress that would otherwise cause widespread protein denaturation. Proteins that cannot be salvaged are then targeted for ubiquitin-proteasome degradation.",
+  "explanation_incorrect": {
+    "A": "Proteasomal degradation is a backup pathway for proteins that cannot be refolded; chaperone-assisted refolding is the more direct protective response to heat denaturation.",
+    "C": "The unfolded protein response occurs in the endoplasmic reticulum and addresses misfolded secretory proteins, not the cytosolic stress described here.",
+    "D": "Heat shock does not induce alternative splicing of protein isoforms as a general protective mechanism; the response is mediated by chaperone gene transcription.",
+    "E": "Although translation is transiently reduced during stress, global transcriptional shutdown is not the mechanism that prevents aggregation of already denatured proteins."
+  },
+  "educationalObjective": "Heat shock proteins are stress-induced chaperones that prevent aggregation and assist ATP-dependent refolding of denatured proteins during fever and other cellular stress.",
+  "source": "Generated from 1. Biochemistry.pdf - Protein Folding, Chaperones, and Misfolding Diseases"
+}

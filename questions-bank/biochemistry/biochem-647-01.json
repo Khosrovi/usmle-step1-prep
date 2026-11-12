@@ -1,0 +1,41 @@
+{
+  "id": "biochem-647-01",
+  "subject": "Biochemistry",
+  "major_topic": "Nucleotide Metabolism",
+  "subtopic": "Purine Salvage Pathway",
+  "difficulty": "medium",
+  "vignette": "A 4-year-old boy is brought for evaluation of recurrent abdominal pain and gross hematuria. Renal ultrasound shows bilateral echogenic stones, and stone analysis reveals 2,8-dihydroxyadenine. Serum uric acid is normal, urine adenine is elevated, and the parents are first cousins. He has had no urinary tract infection.",
+  "question": "Deficiency of which of the following enzymes is most likely responsible for these findings?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Hypoxanthine-guanine phosphoribosyltransferase"
+    },
+    {
+      "id": "B",
+      "text": "Adenine phosphoribosyltransferase"
+    },
+    {
+      "id": "C",
+      "text": "Adenosine deaminase"
+    },
+    {
+      "id": "D",
+      "text": "Xanthine oxidase"
+    },
+    {
+      "id": "E",
+      "text": "PRPP synthetase"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Adenine phosphoribosyltransferase (APRT) salvages adenine by transferring the ribose-5-phosphate of PRPP to it, forming AMP. When APRT is deficient, adenine accumulates and is oxidized by xanthine oxidase to 2,8-dihydroxyadenine, which is extremely insoluble and precipitates as radiolucent kidney stones and crystal nephropathy. The disorder is autosomal recessive and is treated with a low-purine diet, high fluid intake, and allopurinol.",
+  "explanation_incorrect": {
+    "A": "HGPRT salvages hypoxanthine and guanine; its deficiency causes hyperuricemia and Lesch-Nyhan syndrome, not 2,8-dihydroxyadenine stones.",
+    "C": "Adenosine deaminase degrades adenosine and deoxyadenosine; its deficiency causes severe combined immunodeficiency.",
+    "D": "Xanthine oxidase deficiency causes xanthinuria with hypouricemia and xanthine stones, not 2,8-dihydroxyadenine stones.",
+    "E": "PRPP synthetase superactivity increases purine synthesis and causes hyperuricemia and gout, not this stone composition."
+  },
+  "educationalObjective": "APRT deficiency causes adenine accumulation and 2,8-dihydroxyadenine kidney stones, a disorder distinct from HGPRT deficiency and xanthinuria.",
+  "source": "Generated from 1. Biochemistry.pdf - Nucleotide Metabolism: Purine Salvage Pathway"
+}

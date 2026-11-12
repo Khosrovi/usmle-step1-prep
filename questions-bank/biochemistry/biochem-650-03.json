@@ -1,0 +1,41 @@
+{
+  "id": "biochem-650-03",
+  "subject": "Biochemistry",
+  "major_topic": "Nucleotide Metabolism",
+  "subtopic": "Gout and Lesch-Nyhan",
+  "difficulty": "medium",
+  "vignette": "A 4-year-old boy is diagnosed with Lesch-Nyhan syndrome after presenting with self-mutilation and hyperuricemia. His mother is healthy, but her brother has the same disorder, and her father is unaffected. She is pregnant with a male fetus and asks the pediatrician about the risk that this child will be affected.",
+  "question": "Which of the following best describes the inheritance of this disorder?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Autosomal recessive, with a 25% risk for each child regardless of sex"
+    },
+    {
+      "id": "B",
+      "text": "Autosomal dominant, with a 50% risk for each child regardless of sex"
+    },
+    {
+      "id": "C",
+      "text": "X-linked dominant, with a 50% risk for all offspring of an affected mother"
+    },
+    {
+      "id": "D",
+      "text": "X-linked recessive, with a 50% risk for each male offspring of a carrier mother"
+    },
+    {
+      "id": "E",
+      "text": "Mitochondrial, with all offspring of an affected mother affected"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Lesch-Nyhan syndrome is caused by mutations in the HGPRT gene on the X chromosome and is inherited in an X-linked recessive pattern. An affected boy inherits the mutant allele from his carrier mother, who is typically unaffected; each son of a carrier mother has a 50% chance of being affected, and each daughter has a 50% chance of being a carrier. Father-to-son transmission does not occur.",
+  "explanation_incorrect": {
+    "A": "The disorder is X-linked, not autosomal recessive, so the recurrence risk differs by sex.",
+    "B": "Lesch-Nyhan syndrome is recessive; carrier mothers are clinically unaffected and there is no male-to-male transmission.",
+    "C": "An X-linked dominant disorder would affect carrier mothers, who are healthy in this family.",
+    "E": "The HGPRT gene is nuclear, not mitochondrial; mitochondrial inheritance would affect all children of an affected mother."
+  },
+  "educationalObjective": "Lesch-Nyhan syndrome is X-linked recessive, so each son of a carrier mother has a 50% risk of being affected.",
+  "source": "Generated from 1. Biochemistry.pdf - Nucleotide Metabolism: Gout and Lesch-Nyhan"
+}

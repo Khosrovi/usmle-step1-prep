@@ -1,0 +1,41 @@
+{
+  "id": "biochem-621-03",
+  "subject": "Biochemistry",
+  "major_topic": "Carbohydrate Metabolism",
+  "subtopic": "Pentose Phosphate Pathway",
+  "difficulty": "easy",
+  "vignette": "A 5-year-old boy is brought to the emergency department with fever, cough, and lobar pneumonia. Two days after admission he becomes jaundiced and passes dark urine. Laboratory studies show a fall in hemoglobin and an increased reticulocyte count, and the peripheral smear shows bite cells. He has not eaten fava beans and received no new medications.",
+  "question": "Which of the following is the most likely precipitant of his hemolytic episode?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Fava bean ingestion"
+    },
+    {
+      "id": "B",
+      "text": "Nitrofurantoin"
+    },
+    {
+      "id": "C",
+      "text": "Primaquine"
+    },
+    {
+      "id": "D",
+      "text": "Sulfonamide antibiotics"
+    },
+    {
+      "id": "E",
+      "text": "Infection"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Infection is the most common precipitant of hemolysis in G6PD deficiency. The inflammatory response generates free radicals that diffuse into red cells and cause oxidative damage, and this patient has no exposure to fava beans or oxidant drugs.",
+  "explanation_incorrect": {
+    "A": "The history explicitly states that the child has not eaten fava beans, which are a classic dietary trigger of hemolysis in G6PD deficiency.",
+    "B": "Nitrofurantoin, a urinary tract antibiotic, is an oxidant trigger of hemolysis, but it was not administered to this child.",
+    "C": "Primaquine, an antimalarial, is an oxidant trigger of hemolysis, but no antimalarial was given to this child.",
+    "D": "Sulfonamides are classic oxidant triggers, but this child received no antibiotics before the hemolytic episode."
+  },
+  "educationalObjective": "Infection is the most common cause of hemolytic crises in glucose-6-phosphate dehydrogenase deficiency.",
+  "source": "Generated from 1. Biochemistry.pdf - Pentose Phosphate Pathway"
+}

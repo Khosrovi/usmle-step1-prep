@@ -1,0 +1,41 @@
+{
+  "id": "biochem-664-06",
+  "subject": "Biochemistry",
+  "major_topic": "Molecular Biology",
+  "subtopic": "Genetic Code and Mutations",
+  "difficulty": "easy",
+  "vignette": "A 24-year-old woman undergoes preconception carrier screening because her brother has an autosomal recessive disorder. A single nucleotide variant is identified in the third position of a codon, and the encoded amino acid is predicted to remain unchanged. The laboratory classifies the variant as a benign silent polymorphism.",
+  "question": "Which property of the genetic code best explains why this variant does not alter the protein?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The code is unambiguous, meaning that each codon specifies only one amino acid."
+    },
+    {
+      "id": "B",
+      "text": "The code is universal and conserved throughout evolution."
+    },
+    {
+      "id": "C",
+      "text": "The code is read as a continuous sequence without punctuation (commaless)."
+    },
+    {
+      "id": "D",
+      "text": "The code is read from a fixed starting point without overlap."
+    },
+    {
+      "id": "E",
+      "text": "The code is degenerate (redundant), and the third nucleotide of a codon can vary (wobble)."
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Most amino acids are encoded by more than one codon, which makes the code degenerate or redundant. The first two nucleotides of a codon are essential for anticodon recognition, whereas the third can vary (the wobble hypothesis), so many third-position substitutions are silent. Methionine (AUG) and tryptophan (UGG) are the exceptions, each encoded by a single codon.",
+  "explanation_incorrect": {
+    "A": "Unambiguity means a codon never specifies more than one amino acid; it does not explain why different codons can encode the same amino acid.",
+    "B": "Universality means the code is nearly the same across species, with mitochondria as the main exception; it does not explain tolerance of third-position changes.",
+    "C": "Being commaless means the sequence is read continuously without spacer nucleotides, with some viruses as exceptions.",
+    "D": "A fixed, nonoverlapping reading frame describes how the sequence is read and does not account for synonymous codons."
+  },
+  "educationalObjective": "Degeneracy of the genetic code, together with third-position wobble, allows many single-nucleotide substitutions in the third codon position to be silent.",
+  "source": "Generated from 1. Biochemistry.pdf - Molecular Biology: Genetic Code and Mutations"
+}

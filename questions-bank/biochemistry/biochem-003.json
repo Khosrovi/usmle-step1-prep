@@ -1,0 +1,41 @@
+{
+  "id": "biochem-003",
+  "subject": "Biochemistry",
+  "major_topic": "Amino Acid Metabolism",
+  "subtopic": "Sulfur-Containing Amino Acids",
+  "difficulty": "medium",
+  "vignette": "A 12-year-old boy presents with developmental delay, seizures, and a marfanoid habitus with long extremities and arachnodactyly. Ophthalmologic examination reveals bilateral downward lens dislocation. Laboratory studies show elevated homocysteine and methionine levels in the blood. Urine testing is positive for homocysteine.",
+  "question": "Deficiency of which of the following enzymes is most likely responsible for this patient's condition?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Phenylalanine hydroxylase"
+    },
+    {
+      "id": "B",
+      "text": "Cystathionine synthase"
+    },
+    {
+      "id": "C",
+      "text": "Branched-chain α-keto acid dehydrogenase"
+    },
+    {
+      "id": "D",
+      "text": "Homogentisate oxidase"
+    },
+    {
+      "id": "E",
+      "text": "Tyrosinase"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "This patient has homocystinuria, most commonly caused by cystathionine synthase deficiency (autosomal recessive). Cystathionine synthase catalyzes the condensation of homocysteine and serine to form cystathionine in the transsulfuration pathway. Deficiency leads to accumulation of homocysteine and methionine. Clinical features include marfanoid habitus (tall stature, long extremities, arachnodactyly), downward lens dislocation (vs upward in Marfan syndrome), intellectual disability, thromboembolic events, and osteoporosis. Treatment includes dietary restriction of methionine, supplementation with cysteine (which becomes essential), vitamin B6 (pyridoxine, a cofactor for cystathionine synthase), folate, and vitamin B12.",
+  "explanation_incorrect": {
+    "A": "Phenylalanine hydroxylase deficiency causes phenylketonuria (PKU), which presents with intellectual disability, musty odor, and hypopigmentation, not marfanoid habitus.",
+    "C": "Branched-chain α-keto acid dehydrogenase deficiency causes maple syrup urine disease, which presents with sweet-smelling urine and neurological symptoms in neonates.",
+    "D": "Homogentisate oxidase deficiency causes alkaptonuria, which presents with dark urine, ochronosis (blue-black connective tissue), and arthropathy.",
+    "E": "Tyrosinase deficiency causes oculocutaneous albinism, which presents with hypopigmentation of skin, hair, and eyes."
+  },
+  "educationalObjective": "This patient has homocystinuria, most commonly caused by cystathionine synthase deficiency (autosomal recessive).",
+  "source": "Imported from the existing Supabase question bank"
+}

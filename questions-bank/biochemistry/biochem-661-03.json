@@ -1,0 +1,41 @@
+{
+  "id": "biochem-661-03",
+  "subject": "Biochemistry",
+  "major_topic": "Molecular Biology",
+  "subtopic": "RNA Processing",
+  "difficulty": "medium",
+  "vignette": "A 4-year-old boy of Greek ancestry has chronic microcytic anemia with hemoglobin 8.6 g/dL, target cells on the blood smear, and elevated HbA2. Sequencing of the beta-globin gene identifies a single-nucleotide change in the first intron that creates a new splice acceptor site, and his reticulocytes contain reduced amounts of mature beta-globin mRNA.",
+  "question": "Which of the following best explains the reduced mature beta-globin mRNA in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Abnormal splicing generates an aberrant transcript that is unstable and cannot be translated"
+    },
+    {
+      "id": "B",
+      "text": "The 5-prime cap cannot be added because the mutation lies in the first intron"
+    },
+    {
+      "id": "C",
+      "text": "The poly-A tail is not added because the mutation lies in the first intron"
+    },
+    {
+      "id": "D",
+      "text": "The mutation changes the start codon and prevents initiation"
+    },
+    {
+      "id": "E",
+      "text": "The mutation creates a stop codon that blocks transcription"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Introns normally begin with GU and end with AG; mutations that create or destroy splice sites cause the spliceosome to join exons incorrectly, producing aberrant mRNAs with retained intronic sequence or skipped exons. These abnormal transcripts are usually unstable and degraded, so mature beta-globin mRNA and protein are reduced, a common mechanism of beta-thalassemia. Intronic sequence is normally removed in the nucleus and never translated.",
+  "explanation_incorrect": {
+    "B": "Capping is a 5-prime modification and does not depend on intronic sequence.",
+    "C": "Polyadenylation depends on the 3-prime AAUAAA signal, not on the first intron.",
+    "D": "A start-codon change would lie in exon 1, not in an intron, and would not create a splice acceptor site.",
+    "E": "Stop codons are recognized during translation, not transcription; this mutation lies in an intron and alters splicing rather than creating a coding stop codon."
+  },
+  "educationalObjective": "Mutations that alter splice sites cause abnormal splicing and unstable transcripts, a common mechanism of beta-thalassemia.",
+  "source": "Generated from 1. Biochemistry.pdf - Molecular Biology: RNA Processing"
+}

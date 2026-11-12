@@ -1,0 +1,41 @@
+{
+  "id": "biochem-635-07",
+  "subject": "Biochemistry",
+  "major_topic": "Lipid Metabolism",
+  "subtopic": "Sphingolipidoses",
+  "difficulty": "easy",
+  "vignette": "A 9-month-old girl is evaluated for developmental regression, abdominal enlargement, and delayed myelination on MRI. Enzyme studies confirm a lysosomal storage disease with accumulation of an undegraded glycosphingolipid.",
+  "question": "The progressive organ dysfunction in this infant results most directly from impaired function of which of the following processes?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Peroxisomal beta-oxidation"
+    },
+    {
+      "id": "B",
+      "text": "Lysosomal degradation of macromolecules"
+    },
+    {
+      "id": "C",
+      "text": "Proteasomal degradation of ubiquitinated proteins"
+    },
+    {
+      "id": "D",
+      "text": "Mitochondrial fatty acid oxidation"
+    },
+    {
+      "id": "E",
+      "text": "Nucleotide excision repair"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Lysosomal storage diseases are caused by deficiency of a lysosomal hydrolase, so its substrate cannot be degraded and accumulates within lysosomes. The engorged lysosomes and stored material interfere with normal cell function in neurons, macrophages, and other tissues.",
+  "explanation_incorrect": {
+    "A": "Peroxisomal beta-oxidation defects cause very long chain fatty acid accumulation and do not produce lysosomal inclusions.",
+    "C": "Proteasomal degradation removes ubiquitinated cytosolic proteins and is not the defective process here.",
+    "D": "Mitochondrial fatty acid oxidation defects cause hypoketotic hypoglycemia and myopathy.",
+    "E": "Nucleotide excision repair defects cause xeroderma pigmentosum and are unrelated to lysosomal storage."
+  },
+  "educationalObjective": "Lysosomal storage diseases arise from deficient lysosomal hydrolases, leading to intracellular accumulation of undegraded substrate.",
+  "source": "Generated from 1. Biochemistry.pdf - Lysosomal Storage Diseases"
+}

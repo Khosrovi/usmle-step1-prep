@@ -1,0 +1,41 @@
+{
+  "id": "biochem-655-02",
+  "subject": "Biochemistry",
+  "major_topic": "Molecular Biology",
+  "subtopic": "DNA Structure and Chromatin",
+  "difficulty": "easy",
+  "vignette": "A 71-year-old man with myelodysplastic syndrome has worsening anemia and neutropenia with 8% blasts in the bone marrow. He is treated with azacitidine. Follow-up marrow shows increased expression of genes that were previously hypermethylated at their promoter CpG islands.",
+  "question": "Which of the following best describes the mechanism of this drug?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It acetylates histone tails, relaxing chromatin and increasing transcription"
+    },
+    {
+      "id": "B",
+      "text": "It methylates promoter CpG islands, silencing the affected genes"
+    },
+    {
+      "id": "C",
+      "text": "It intercalates DNA and inhibits topoisomerase II"
+    },
+    {
+      "id": "D",
+      "text": "It inhibits DNA methyltransferase, reversing promoter hypermethylation and gene silencing"
+    },
+    {
+      "id": "E",
+      "text": "It inhibits inosine monophosphate dehydrogenase, depleting guanine nucleotides"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Azacitidine is a cytidine analog that inhibits DNA methyltransferase, causing hypomethylation of promoter CpG islands and re-expression of silenced genes. Methylation within gene promoters (CpG islands) normally represses transcription.",
+  "explanation_incorrect": {
+    "A": "Histone acetylation is produced by histone acetyltransferases; azacitidine does not acetylate histones.",
+    "B": "CpG methylation silences genes; the drug removes methylation rather than adding it.",
+    "C": "Topoisomerase II inhibitors such as etoposide and teniposide cause double-stranded DNA breaks; that is not the mechanism here.",
+    "E": "Mycophenolate mofetil inhibits inosine monophosphate dehydrogenase; it is an immunosuppressant and not the drug described."
+  },
+  "educationalObjective": "DNA methylation of promoter CpG islands represses transcription, and DNA methyltransferase inhibitors reverse this silencing.",
+  "source": "Generated from 1. Biochemistry.pdf - Molecular Biology: Chromatin Structure"
+}

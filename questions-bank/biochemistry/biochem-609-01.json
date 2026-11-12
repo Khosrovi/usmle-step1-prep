@@ -1,0 +1,41 @@
+{
+  "id": "biochem-609-01",
+  "subject": "Biochemistry",
+  "major_topic": "Enzymology",
+  "subtopic": "Enzyme Inhibition Types",
+  "difficulty": "medium",
+  "vignette": "A 34-year-old man is brought to the emergency department with blurred vision, nausea, and confusion several hours after drinking homemade spirits. Arterial blood gas analysis shows a high-anion-gap metabolic acidosis, and serum methanol is markedly elevated. He is treated with fomepizole, which binds the active site of alcohol dehydrogenase and blocks the formation of formaldehyde and formic acid.",
+  "question": "Which of the following best describes the type of inhibition produced by fomepizole?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Competitive inhibition, in which the apparent Km increases while Vmax is unchanged"
+    },
+    {
+      "id": "B",
+      "text": "Noncompetitive inhibition, in which Vmax decreases while Km is unchanged"
+    },
+    {
+      "id": "C",
+      "text": "Uncompetitive inhibition, in which both Km and Vmax decrease"
+    },
+    {
+      "id": "D",
+      "text": "Irreversible mechanism-based inhibition, in which recovery requires synthesis of new enzyme"
+    },
+    {
+      "id": "E",
+      "text": "Mixed inhibition, in which Km increases and Vmax decreases"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Fomepizole binds reversibly to the alcohol dehydrogenase active site and competes with methanol for the same site, so it is a competitive inhibitor. Substrate competition means that a sufficiently high methanol concentration could overcome the block, which is why the enzyme is not permanently inactivated and Vmax is unchanged while the apparent Km for methanol rises. Ethanol itself was used historically for the same purpose because alcohol dehydrogenase has a higher affinity for ethanol than for methanol.",
+  "explanation_incorrect": {
+    "B": "Noncompetitive inhibitors bind a site distinct from the active site and lower Vmax; fomepizole binds the active site and leaves Vmax unchanged.",
+    "C": "Uncompetitive inhibitors bind only the enzyme-substrate complex and reduce both Km and Vmax, which is not the pattern described.",
+    "D": "Fomepizole is a reversible tight-binding inhibitor, not a suicide substrate; alcohol dehydrogenase activity returns without new protein synthesis.",
+    "E": "Mixed inhibition alters both apparent Km and Vmax because the inhibitor binds free enzyme and enzyme-substrate complex with different affinities; here only Km is affected."
+  },
+  "educationalObjective": "Fomepizole inhibits alcohol dehydrogenase competitively, so it raises the apparent Km without changing Vmax and protects against methanol and ethylene glycol toxicity.",
+  "source": "Generated from 1. Biochemistry.pdf - Enzymology: Enzyme Inhibition Types"
+}

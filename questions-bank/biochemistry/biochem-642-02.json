@@ -1,0 +1,41 @@
+{
+  "id": "biochem-642-02",
+  "subject": "Biochemistry",
+  "major_topic": "Amino Acid Metabolism",
+  "subtopic": "One-Carbon Metabolism",
+  "difficulty": "easy",
+  "vignette": "A 29-year-old woman with chronic alcohol use disorder is evaluated for fatigue. She is pale, and her tongue is smooth and red. Laboratory studies show hemoglobin 9.4 g/dL, mean corpuscular volume 114 fL, hypersegmented neutrophils, increased serum homocysteine, and a normal serum methylmalonic acid level. A peripheral blood smear shows no schistocytes.",
+  "question": "Which of the following laboratory findings best distinguishes her deficiency from vitamin B12 deficiency?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Elevated serum homocysteine"
+    },
+    {
+      "id": "B",
+      "text": "Hypersegmented neutrophils"
+    },
+    {
+      "id": "C",
+      "text": "Normal serum methylmalonic acid"
+    },
+    {
+      "id": "D",
+      "text": "Macrocytosis"
+    },
+    {
+      "id": "E",
+      "text": "Low reticulocyte count"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Homocysteine rises in both folate and B12 deficiency, and the hematologic findings are identical in the two disorders, but methylmalonic acid increases only in B12 deficiency because methylmalonyl-CoA mutase requires adenosylcobalamin. A normal methylmalonic acid level with macrocytic anemia and elevated homocysteine therefore points to folate deficiency, a common consequence of poor diet and alcohol use.",
+  "explanation_incorrect": {
+    "A": "Homocysteine is increased in both folate and B12 deficiency and therefore does not distinguish between them.",
+    "B": "Hypersegmentation of neutrophils is a feature of any megaloblastic anemia and is not specific to folate deficiency.",
+    "D": "Macrocytosis occurs with both deficiencies and cannot separate them.",
+    "E": "Reticulocytopenia accompanies ineffective erythropoiesis in both deficiencies and is not discriminatory."
+  },
+  "educationalObjective": "A normal methylmalonic acid level with elevated homocysteine distinguishes folate deficiency from B12 deficiency.",
+  "source": "Generated from 1. Biochemistry.pdf - Amino Acid Metabolism: One-Carbon Metabolism"
+}

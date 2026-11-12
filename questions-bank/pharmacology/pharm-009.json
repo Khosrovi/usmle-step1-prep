@@ -1,0 +1,41 @@
+{
+  "id": "pharm-009",
+  "subject": "Pharmacology",
+  "major_topic": "Toxicities and Adverse Effects",
+  "subtopic": "Digoxin toxicity",
+  "difficulty": "easy",
+  "vignette": "A 78-year-old woman taking digoxin presents with nausea, vomiting, confusion, and yellow-green halos around lights. ECG shows atrial tachycardia with atrioventricular block, and the serum digoxin level is markedly elevated.",
+  "question": "Which of the following is the most appropriate treatment?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Digoxin-specific antibody fragments"
+    },
+    {
+      "id": "B",
+      "text": "Calcium gluconate"
+    },
+    {
+      "id": "C",
+      "text": "Protamine sulfate"
+    },
+    {
+      "id": "D",
+      "text": "Atropine"
+    },
+    {
+      "id": "E",
+      "text": "Vitamin K"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Digoxin toxicity causes gastrointestinal, visual (yellow-green halos), and cardiac effects including arrhythmias. Digoxin-specific antibody fragments bind and neutralize digoxin; intravenous calcium is avoided because it can potentiate digoxin toxicity (stone heart).",
+  "explanation_incorrect": {
+    "B": "Intravenous calcium can worsen digoxin toxicity and is contraindicated.",
+    "C": "Protamine sulfate reverses heparin.",
+    "D": "Atropine may temporarily treat bradycardia but does not reverse the underlying digoxin toxicity.",
+    "E": "Vitamin K reverses warfarin."
+  },
+  "educationalObjective": "Digoxin toxicity is treated with digoxin-specific antibody fragments; calcium is contraindicated.",
+  "source": "Generated from 5. Pharmacology.pdf - Toxicities and Adverse Effects (specific toxicity treatments)"
+}

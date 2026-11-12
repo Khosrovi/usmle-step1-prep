@@ -1,0 +1,41 @@
+{
+  "id": "biochem-649-04",
+  "subject": "Biochemistry",
+  "major_topic": "Nucleotide Metabolism",
+  "subtopic": "Nucleotide Degradation",
+  "difficulty": "medium",
+  "vignette": "A 3-year-old boy is evaluated for recurrent flank pain and hematuria. Renal ultrasound shows bilateral kidney stones, and stone analysis reveals xanthine. Serum uric acid is strikingly low at 0.8 mg/dL, and serum xanthine is elevated. He takes no medications and has normal kidney function between episodes.",
+  "question": "Which of the following enzymes is most likely deficient in this child?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Hypoxanthine-guanine phosphoribosyltransferase"
+    },
+    {
+      "id": "B",
+      "text": "Adenine phosphoribosyltransferase"
+    },
+    {
+      "id": "C",
+      "text": "Adenosine deaminase"
+    },
+    {
+      "id": "D",
+      "text": "Xanthine oxidase"
+    },
+    {
+      "id": "E",
+      "text": "PRPP synthetase"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Xanthine oxidase catalyzes the final two steps of purine degradation, converting hypoxanthine to xanthine and xanthine to uric acid. When it is deficient, uric acid production falls markedly, producing hypouricemia, while xanthine accumulates and crystallizes in the urinary tract, causing xanthine stones. Because humans lack urate oxidase, uric acid is normally the end product of purine catabolism.",
+  "explanation_incorrect": {
+    "A": "HGPRT deficiency increases uric acid and causes Lesch-Nyhan syndrome, not hypouricemia and xanthine stones.",
+    "B": "APRT deficiency causes 2,8-dihydroxyadenine stones with normal serum uric acid.",
+    "C": "Adenosine deaminase deficiency causes severe combined immunodeficiency without xanthine stones.",
+    "E": "PRPP synthetase superactivity causes hyperuricemia and gout, the opposite of this patient's low uric acid."
+  },
+  "educationalObjective": "Xanthine oxidase deficiency causes hypouricemia with xanthine accumulation and xanthine stones, whereas HGPRT and APRT deficiencies cause hyperuricemia or 2,8-dihydroxyadenine stones.",
+  "source": "Generated from 1. Biochemistry.pdf - Nucleotide Metabolism: Nucleotide Degradation"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "biochem-611-04",
+  "subject": "Biochemistry",
+  "major_topic": "Enzymology",
+  "subtopic": "Coenzymes and Cofactors",
+  "difficulty": "hard",
+  "vignette": "A 44-year-old man is evaluated for months of nausea, vomiting, watery diarrhea, and progressive darkening of the skin on his trunk. He drinks well water near an industrial waste site. ECG shows QT prolongation, and his breath has a garlicky odor. Urine arsenic is markedly elevated, and toxicity is attributed to binding of the metalloid to lipoic acid-containing enzyme complexes.",
+  "question": "Inhibition of which of the following cofactors best explains the impaired oxidative metabolism and QT prolongation in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Thiamine pyrophosphate"
+    },
+    {
+      "id": "B",
+      "text": "Flavin adenine dinucleotide"
+    },
+    {
+      "id": "C",
+      "text": "Nicotinamide adenine dinucleotide"
+    },
+    {
+      "id": "D",
+      "text": "Lipoic acid"
+    },
+    {
+      "id": "E",
+      "text": "Coenzyme A"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Arsenic binds to the sulfhydryl groups of lipoic acid, inactivating the lipoic acid-dependent enzyme complexes pyruvate dehydrogenase and alpha-ketoglutarate dehydrogenase. Loss of these steps impairs the transition from glycolysis to the TCA cycle and reduces ATP production, contributing to the neurologic, gastrointestinal, cardiac, and dermatologic manifestations of chronic arsenic poisoning. Arsenic toxicity presents with vomiting, diarrhea, garlic breath, QT prolongation, and pigmentary skin changes with increased risk of skin cancer.",
+  "explanation_incorrect": {
+    "A": "Thiamine pyrophosphate is also a cofactor of these complexes, but arsenic does not deplete or inhibit it; thiamine deficiency produces beriberi and Wernicke encephalopathy instead.",
+    "B": "FAD is not the cofactor targeted by arsenic; its deficiency causes cheilosis, glossitis, and corneal vascularization.",
+    "C": "NAD+ is a hydride-accepting cofactor and is not the arsenic-binding site; niacin deficiency causes pellagra.",
+    "E": "Coenzyme A participates in acyl transfer but does not contain the vicinal sulfhydryl groups that arsenic binds with high affinity."
+  },
+  "educationalObjective": "Arsenic inhibits lipoic acid in pyruvate dehydrogenase and alpha-ketoglutarate dehydrogenase, impairing oxidative metabolism and producing vomiting, diarrhea, garlic breath, QT prolongation, and pigmentary skin changes.",
+  "source": "Generated from 1. Biochemistry.pdf - Nutrition: Vitamins (Enzymology: Coenzymes and Cofactors)"
+}

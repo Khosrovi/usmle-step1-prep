@@ -1,0 +1,41 @@
+{
+  "id": "biochem-686-01",
+  "subject": "Biochemistry",
+  "major_topic": "Heme and Bilirubin Metabolism",
+  "subtopic": "Lead Poisoning",
+  "difficulty": "medium",
+  "vignette": "A 5-year-old boy is brought to the clinic with 2 weeks of crampy abdominal pain, constipation, and irritability. He lives in an older apartment building with peeling paint and has been seen eating paint chips. Examination shows pallor and a lead line along the gingival margin. Laboratory studies show hemoglobin 9.1 g/dL, mean corpuscular volume 71 fL, reticulocytes 3.2%, and blood lead 45 mcg/dL. The peripheral smear shows hypochromic red cells with basophilic stippling.",
+  "question": "Inhibition of which of the following pairs of enzymes best explains this patient's hematologic findings?",
+  "options": [
+    {
+      "id": "A",
+      "text": "ALA synthase and porphobilinogen deaminase"
+    },
+    {
+      "id": "B",
+      "text": "Porphobilinogen deaminase and uroporphyrinogen decarboxylase"
+    },
+    {
+      "id": "C",
+      "text": "ALA dehydratase and ferrochelatase"
+    },
+    {
+      "id": "D",
+      "text": "Protoporphyrinogen oxidase and coproporphyrinogen oxidase"
+    },
+    {
+      "id": "E",
+      "text": "Heme oxygenase and biliverdin reductase"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Lead binds sulfhydryl groups and inhibits ALA dehydratase, the second enzyme of heme synthesis, as well as ferrochelatase, which inserts iron into protoporphyrin IX. The combined block reduces heme production, so iron accumulates as protoporphyrin-iron complexes and the developing red cell cannot mature normally, producing microcytic anemia with basophilic stippling. Elevated erythrocyte protoporphyrin is a sensitive marker of this blockade.",
+  "explanation_incorrect": {
+    "A": "ALA synthase deficiency is not the mechanism of lead toxicity; lead increases ALA accumulation by blocking the step after ALA synthase.",
+    "B": "Porphobilinogen deaminase and uroporphyrinogen decarboxylase deficiencies cause acute intermittent porphyria and porphyria cutanea tarda, respectively, both unrelated to lead exposure.",
+    "D": "Protoporphyrinogen oxidase and coproporphyrinogen oxidase deficiencies cause variegate porphyria and hereditary coproporphyria, which are inherited porphyrias, not lead-related.",
+    "E": "Heme oxygenase and biliverdin reductase are involved in heme degradation and bilirubin production, not in the heme synthetic block caused by lead."
+  },
+  "educationalObjective": "Lead poisoning inhibits ALA dehydratase and ferrochelatase, impairing heme synthesis and causing microcytic anemia with basophilic stippling and elevated erythrocyte protoporphyrin.",
+  "source": "Generated from 1. Biochemistry.pdf - Heme and Bilirubin Metabolism: Lead Poisoning"
+}

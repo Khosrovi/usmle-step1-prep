@@ -1,0 +1,41 @@
+{
+  "id": "biochem-646-01",
+  "subject": "Biochemistry",
+  "major_topic": "Nucleotide Metabolism",
+  "subtopic": "Purine Synthesis de novo",
+  "difficulty": "medium",
+  "vignette": "A 10-year-old boy is evaluated for recurrent episodes of a red, hot, swollen first metatarsophalangeal joint and intermittent flank pain. Serum uric acid is 10.8 mg/dL, and urinalysis shows uric acid crystals. Several maternal uncles have had similar episodes, and cultured fibroblasts from the boy show markedly increased PRPP synthetase activity with normal HGPRT activity.",
+  "question": "Which of the following best explains the hyperuricemia in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Increased PRPP drives PRPP amidotransferase, the committed step of de novo purine synthesis, generating excess purine degradation products."
+    },
+    {
+      "id": "B",
+      "text": "Impaired renal tubular secretion of uric acid causes decreased urinary excretion of urate."
+    },
+    {
+      "id": "C",
+      "text": "Deficient xanthine oxidase activity causes accumulation of uric acid precursors in the blood."
+    },
+    {
+      "id": "D",
+      "text": "Deficient HGPRT activity prevents salvage of hypoxanthine and guanine."
+    },
+    {
+      "id": "E",
+      "text": "Increased adenosine deaminase activity accelerates degradation of adenosine to uric acid."
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "PRPP is the activated ribose donor for de novo purine synthesis, and PRPP amidotransferase (GPAT) catalyzes the first committed step. Gain-of-function mutations in PRPP synthetase, which is X-linked, raise intracellular PRPP, increase flux through PRPP amidotransferase, and produce excess IMP, AMP, and GMP that are degraded to uric acid. This overproduction causes early-onset gout and uric acid stones in affected boys.",
+  "explanation_incorrect": {
+    "B": "Renal tubular handling is not the primary problem here; the increased PRPP synthetase activity demonstrates uric acid overproduction, not underexcretion.",
+    "C": "Xanthine oxidase is not deficient; its deficiency would lower uric acid and cause xanthine stones, the opposite of this patient's presentation.",
+    "D": "HGPRT activity is reported as normal; absent HGPRT causes Lesch-Nyhan syndrome with neurologic findings rather than isolated overproduction gout.",
+    "E": "Adenosine deaminase is not increased; ADA deficiency, not excess activity, is associated with severe combined immunodeficiency."
+  },
+  "educationalObjective": "Superactivity of PRPP synthetase raises PRPP availability, driving the committed step of de novo purine synthesis and causing uric acid overproduction and early gout.",
+  "source": "Generated from 1. Biochemistry.pdf - Nucleotide Metabolism: Purine Synthesis de novo"
+}

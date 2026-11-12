@@ -1,0 +1,41 @@
+{
+  "id": "biochem-643-01",
+  "subject": "Biochemistry",
+  "major_topic": "Amino Acid Metabolism",
+  "subtopic": "Creatine Metabolism",
+  "difficulty": "medium",
+  "vignette": "An 18-month-old girl is evaluated for delayed speech, intellectual disability, and recurrent seizures. Brain MRI is normal, but proton magnetic resonance spectroscopy shows a complete absence of the creatine peak in the brain. Plasma creatine is low and plasma guanidinoacetate is markedly elevated. Her parents are unaffected and are first cousins.",
+  "question": "Deficiency of which of the following enzymes is the most likely cause of this condition?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Creatine kinase"
+    },
+    {
+      "id": "B",
+      "text": "Glycine amidinotransferase"
+    },
+    {
+      "id": "C",
+      "text": "Guanidinoacetate methyltransferase"
+    },
+    {
+      "id": "D",
+      "text": "Arginase"
+    },
+    {
+      "id": "E",
+      "text": "Ornithine transcarbamylase"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Creatine is synthesized in two steps: glycine amidinotransferase (AGAT) transfers the amidino group of arginine to glycine to form guanidinoacetate, and guanidinoacetate methyltransferase (GAMT) then methylates guanidinoacetate using S-adenosylmethionine to form creatine. In GAMT deficiency, guanidinoacetate accumulates while creatine is depleted, causing intellectual disability, seizures, speech delay, and an absent creatine peak on magnetic resonance spectroscopy; treatment is creatine supplementation.",
+  "explanation_incorrect": {
+    "A": "Creatine kinase phosphorylates creatine to creatine phosphate in muscle; its deficiency causes exercise intolerance, not absent brain creatine with elevated guanidinoacetate.",
+    "B": "Glycine amidinotransferase deficiency also causes cerebral creatine depletion with intellectual disability, but guanidinoacetate is low rather than elevated because its synthesis is blocked.",
+    "D": "Arginase is the final enzyme of the urea cycle, and its deficiency causes hyperargininemia with spasticity and hyperammonemia rather than creatine depletion.",
+    "E": "Ornithine transcarbamylase deficiency causes hyperammonemia with orotic aciduria and does not impair creatine synthesis."
+  },
+  "educationalObjective": "Guanidinoacetate methyltransferase catalyzes the second, S-adenosylmethionine-dependent step of creatine synthesis, and its deficiency raises guanidinoacetate while depleting creatine.",
+  "source": "Generated from 1. Biochemistry.pdf - Amino Acid Metabolism: Creatine Metabolism"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "biochem-621-01",
+  "subject": "Biochemistry",
+  "major_topic": "Carbohydrate Metabolism",
+  "subtopic": "Pentose Phosphate Pathway",
+  "difficulty": "medium",
+  "vignette": "A 24-year-old man of Mediterranean ancestry presents with jaundice and dark urine that began 2 days after he started nitrofurantoin for a urinary tract infection. He is pale and mildly icteric, and the spleen tip is palpable. Laboratory studies show hemoglobin 8.9 g/dL, reticulocytes 6.4%, indirect bilirubin 3.1 mg/dL, and a peripheral smear with several bite cells.",
+  "question": "Which of the following enzyme deficiencies is the most likely cause of his anemia?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Pyruvate kinase"
+    },
+    {
+      "id": "B",
+      "text": "Glucose-6-phosphate dehydrogenase"
+    },
+    {
+      "id": "C",
+      "text": "Hexokinase"
+    },
+    {
+      "id": "D",
+      "text": "Glucose-6-phosphatase"
+    },
+    {
+      "id": "E",
+      "text": "Galactokinase"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Nitrofurantoin is an oxidant drug that precipitates hemolysis in glucose-6-phosphate dehydrogenase (G6PD) deficiency, the most common human enzyme deficiency. Loss of G6PD activity depletes NADPH, so reduced glutathione cannot be regenerated and peroxides damage the red cell membrane, producing Heinz bodies and bite cells. The disorder is inherited in an X-linked recessive pattern.",
+  "explanation_incorrect": {
+    "A": "Pyruvate kinase deficiency causes a chronic non-spherocytic hemolytic anemia from impaired ATP production, but it is not triggered by oxidant drugs and does not produce bite cells.",
+    "C": "Hexokinase deficiency is a rare cause of hereditary hemolysis; it does not produce an oxidant-triggered crisis with bite cells.",
+    "D": "Glucose-6-phosphatase deficiency (von Gierke disease) causes severe fasting hypoglycemia and hepatomegaly, not an isolated oxidant-induced hemolytic anemia.",
+    "E": "Galactokinase deficiency causes infantile cataracts and galactosuria after galactose ingestion, not drug-induced hemolysis."
+  },
+  "educationalObjective": "An oxidant drug such as nitrofurantoin or primaquine that triggers hemolysis with bite cells and Heinz bodies points to glucose-6-phosphate dehydrogenase deficiency.",
+  "source": "Generated from 1. Biochemistry.pdf - Pentose Phosphate Pathway"
+}

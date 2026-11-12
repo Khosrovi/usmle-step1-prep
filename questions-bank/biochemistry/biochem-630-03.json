@@ -1,0 +1,41 @@
+{
+  "id": "biochem-630-03",
+  "subject": "Biochemistry",
+  "major_topic": "Lipid Metabolism",
+  "subtopic": "Cholesterol Synthesis",
+  "difficulty": "medium",
+  "vignette": "A 68-year-old woman with hyperlipidemia is admitted with 1 week of diffuse proximal muscle pain and dark urine. She has taken simvastatin for 2 years and recently began gemfibrozil. Creatine kinase is 4800 U/L, creatinine is 1.9 mg/dL, and urinalysis is positive for blood with only a few red blood cells. Her HMG-CoA reductase activity is markedly reduced.",
+  "question": "Depletion of which of the following products of the mevalonate pathway best explains this patient's muscle injury?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Bile acids"
+    },
+    {
+      "id": "B",
+      "text": "Steroid hormones"
+    },
+    {
+      "id": "C",
+      "text": "LDL cholesterol"
+    },
+    {
+      "id": "D",
+      "text": "Dolichol"
+    },
+    {
+      "id": "E",
+      "text": "Ubiquinone (coenzyme Q10)"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Mevalonate is the precursor not only of cholesterol but also of nonsterol isoprenoids, including farnesyl pyrophosphate, geranylgeranyl pyrophosphate, dolichol, and ubiquinone. Ubiquinone is an electron carrier of the mitochondrial respiratory chain, and its depletion by a statin, exaggerated by a fibrate that competes for the same clearance pathways, impairs myocyte energy metabolism and produces myopathy with rhabdomyolysis and myoglobinuric acute kidney injury.",
+  "explanation_incorrect": {
+    "A": "Bile acids are synthesized from cholesterol in the liver and have no role in skeletal muscle energy metabolism.",
+    "B": "Steroid hormones are made in the adrenal cortex and gonads; reducing them does not cause myocyte injury.",
+    "C": "Lowering LDL cholesterol itself is not toxic to muscle and does not account for rhabdomyolysis.",
+    "D": "Dolichol is required for N-linked glycoprotein synthesis, but its depletion is not the principal cause of statin-associated myopathy."
+  },
+  "educationalObjective": "Statin myopathy reflects depletion of mevalonate-derived nonsterol isoprenoids such as ubiquinone, which is needed for mitochondrial electron transport in muscle.",
+  "source": "Generated from 1. Biochemistry.pdf - Lipid Metabolism: Cholesterol Synthesis"
+}

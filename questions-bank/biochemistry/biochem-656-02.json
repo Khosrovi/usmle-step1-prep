@@ -1,0 +1,41 @@
+{
+  "id": "biochem-656-02",
+  "subject": "Biochemistry",
+  "major_topic": "Molecular Biology",
+  "subtopic": "DNA Replication",
+  "difficulty": "medium",
+  "vignette": "A 64-year-old man with extensive-stage small cell lung cancer is treated with a regimen that includes etoposide and cisplatin. After the first cycle he develops severe neutropenia. Analysis of his tumor cells shows accumulation of double-stranded DNA breaks and arrest in G2 phase.",
+  "question": "Which of the following is the primary molecular target of etoposide?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Topoisomerase II"
+    },
+    {
+      "id": "B",
+      "text": "Topoisomerase I"
+    },
+    {
+      "id": "C",
+      "text": "DNA gyrase"
+    },
+    {
+      "id": "D",
+      "text": "Ribonucleotide reductase"
+    },
+    {
+      "id": "E",
+      "text": "Thymidylate synthase"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Etoposide and teniposide inhibit eukaryotic topoisomerase II, preventing resealing of the double-stranded break created to relieve supercoils and thereby generating DNA double-strand breaks that arrest the cell cycle and trigger apoptosis.",
+  "explanation_incorrect": {
+    "B": "Topoisomerase I is inhibited by irinotecan and topotecan, which produce single-stranded breaks.",
+    "C": "DNA gyrase is the bacterial topoisomerase II inhibited by fluoroquinolones.",
+    "D": "Ribonucleotide reductase is inhibited by hydroxyurea.",
+    "E": "Thymidylate synthase is inhibited by 5-fluorouracil."
+  },
+  "educationalObjective": "Etoposide inhibits topoisomerase II and produces double-stranded DNA breaks.",
+  "source": "Generated from 1. Biochemistry.pdf - Molecular Biology: DNA Replication"
+}

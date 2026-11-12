@@ -1,0 +1,41 @@
+{
+  "id": "biochem-656-08",
+  "subject": "Biochemistry",
+  "major_topic": "Molecular Biology",
+  "subtopic": "DNA Replication",
+  "difficulty": "medium",
+  "vignette": "A 42-year-old woman with a newly diagnosed soft tissue sarcoma undergoes tumor-cell culture studies. Investigators observe that DNA synthesis begins simultaneously at many sites along each chromosome and proceeds in both directions from each site, and that these sites share AT-rich consensus sequences.",
+  "question": "Which of the following best describes origins of replication in human cells?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Each chromosome contains a single origin of replication"
+    },
+    {
+      "id": "B",
+      "text": "They are GC-rich sequences recognized by DNA ligase"
+    },
+    {
+      "id": "C",
+      "text": "They are located exclusively within telomeres"
+    },
+    {
+      "id": "D",
+      "text": "They are used only for synthesis of the lagging strand"
+    },
+    {
+      "id": "E",
+      "text": "They are multiple AT-rich consensus sequences that permit simultaneous bidirectional replication"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Eukaryotes have multiple origins of replication per chromosome, whereas prokaryotes typically have a single origin. Origins are AT-rich consensus sequences (AT-rich regions also occur in promoters), and replication proceeds bidirectionally from each origin.",
+  "explanation_incorrect": {
+    "A": "A single origin per chromosome is characteristic of prokaryotes, not human cells.",
+    "B": "Origins are AT-rich, not GC-rich, and DNA ligase does not recognize origins.",
+    "C": "Origins are distributed along the chromosome and are not confined to telomeres.",
+    "D": "Each origin fires to support synthesis of both strands; leading and lagging strands are made at each replication fork."
+  },
+  "educationalObjective": "Human chromosomes contain multiple AT-rich origins of replication that allow simultaneous bidirectional DNA synthesis.",
+  "source": "Generated from 1. Biochemistry.pdf - Molecular Biology: DNA Replication"
+}

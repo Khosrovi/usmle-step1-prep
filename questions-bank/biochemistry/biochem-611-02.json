@@ -1,0 +1,41 @@
+{
+  "id": "biochem-611-02",
+  "subject": "Biochemistry",
+  "major_topic": "Enzymology",
+  "subtopic": "Coenzymes and Cofactors",
+  "difficulty": "medium",
+  "vignette": "A 38-year-old man with active tuberculosis is started on isoniazid. Six weeks later he reports numbness and tingling of both hands and feet. Examination shows symmetric stocking-and-glove sensory loss with reduced ankle reflexes. Serum pyridoxine is low, and his regimen has not included a vitamin supplement.",
+  "question": "Deficiency of which of the following cofactors best explains his neuropathy?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Thiamine pyrophosphate"
+    },
+    {
+      "id": "B",
+      "text": "Pyridoxal phosphate"
+    },
+    {
+      "id": "C",
+      "text": "Tetrahydrofolate"
+    },
+    {
+      "id": "D",
+      "text": "Coenzyme A"
+    },
+    {
+      "id": "E",
+      "text": "Biotin"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Pyridoxine is converted to pyridoxal phosphate (PLP), a cofactor for transamination, decarboxylation, and other reactions including synthesis of heme, niacin, and neurotransmitters such as GABA and norepinephrine. Isoniazid increases vitamin B6 excretion and inactivation, so deficiency causes a peripheral neuropathy that is prevented by pyridoxine supplementation. PLP deficiency also produces convulsions and sideroblastic anemia.",
+  "explanation_incorrect": {
+    "A": "Thiamine pyrophosphate deficiency causes Wernicke-Korsakoff syndrome and beriberi, with confusion, ataxia, and heart failure rather than a symmetric sensory neuropathy.",
+    "C": "Tetrahydrofolate deficiency causes macrocytic megaloblastic anemia with glossitis and no neurologic symptoms, which distinguishes it from B12 deficiency.",
+    "D": "Coenzyme A is derived from pantothenic acid and is required for acyl transfer reactions; deficiency causes dermatitis and burning feet syndrome rather than this pattern.",
+    "E": "Biotin deficiency from raw egg whites or prolonged antibiotics causes dermatitis, alopecia, and enteritis and does not cause the neuropathy seen with isoniazid."
+  },
+  "educationalObjective": "Isoniazid-induced pyridoxine deficiency lowers pyridoxal phosphate, causing peripheral neuropathy that is prevented by vitamin B6 supplementation.",
+  "source": "Generated from 1. Biochemistry.pdf - Nutrition: Vitamins (Enzymology: Coenzymes and Cofactors)"
+}

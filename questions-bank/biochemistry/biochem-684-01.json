@@ -1,0 +1,41 @@
+{
+  "id": "biochem-684-01",
+  "subject": "Biochemistry",
+  "major_topic": "Heme and Bilirubin Metabolism",
+  "subtopic": "Heme Synthesis",
+  "difficulty": "medium",
+  "vignette": "A 24-year-old man is evaluated for 6 months of progressive fatigue and exertional dyspnea. Physical examination shows pallor and mild splenomegaly. Laboratory studies show hemoglobin 9.2 g/dL, mean corpuscular volume 72 fL, elevated serum iron, and increased transferrin saturation. A bone marrow aspirate shows ring sideroblasts, and a trial of oral pyridoxine produces a modest rise in hemoglobin. Genetic testing identifies a mutation in an X-linked gene expressed in erythroid precursors.",
+  "question": "Deficiency of which of the following enzymes is the most likely cause of this patient's anemia?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Aminolevulinic acid (ALA) synthase"
+    },
+    {
+      "id": "B",
+      "text": "ALA dehydratase"
+    },
+    {
+      "id": "C",
+      "text": "Porphobilinogen deaminase"
+    },
+    {
+      "id": "D",
+      "text": "Ferrochelatase"
+    },
+    {
+      "id": "E",
+      "text": "Uroporphyrinogen III synthase"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "The rate-limiting step of heme synthesis is the mitochondrial condensation of glycine with succinyl-CoA to form delta-aminolevulinic acid, catalyzed by ALA synthase. The erythroid-specific isoform (ALAS2) is encoded on the X chromosome, and its deficiency causes X-linked sideroblastic anemia. Because the reaction requires pyridoxal phosphate, some patients respond partially to pyridoxine supplementation.",
+  "explanation_incorrect": {
+    "B": "ALA dehydratase catalyzes the second, cytosolic step of heme synthesis (ALA to porphobilinogen); its deficiency causes a rare acute porphyria with neurovisceral attacks, not ring sideroblasts.",
+    "C": "Porphobilinogen deaminase deficiency causes acute intermittent porphyria, which presents with abdominal pain and neuropsychiatric symptoms and elevated urinary ALA and porphobilinogen.",
+    "D": "Ferrochelatase catalyzes the final step of heme synthesis; its deficiency causes erythropoietic protoporphyria with painful photosensitivity rather than sideroblastic anemia.",
+    "E": "Uroporphyrinogen III synthase deficiency causes congenital erythropoietic porphyria, characterized by severe photosensitivity, hemolytic anemia, and red urine."
+  },
+  "educationalObjective": "X-linked sideroblastic anemia results from deficiency of erythroid ALA synthase (ALAS2), the pyridoxal phosphate-dependent rate-limiting enzyme of heme synthesis.",
+  "source": "Generated from 1. Biochemistry.pdf - Heme and Bilirubin Metabolism: Heme Synthesis"
+}

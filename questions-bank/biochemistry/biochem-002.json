@@ -1,0 +1,41 @@
+{
+  "id": "biochem-002",
+  "subject": "Biochemistry",
+  "major_topic": "Amino Acid Metabolism",
+  "subtopic": "Branched-Chain Amino Acids and MSUD",
+  "difficulty": "medium",
+  "vignette": "A 6-month-old infant presents with poor feeding, vomiting, and lethargy. Physical examination reveals a sweet, maple syrup odor to the urine and earwax. Laboratory studies show elevated levels of branched-chain amino acids and their corresponding α-keto acids in the blood and urine. The infant's condition improves with dietary restriction of specific amino acids.",
+  "question": "Which of the following amino acids should be restricted in this patient's diet?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Phenylalanine, tyrosine, and tryptophan"
+    },
+    {
+      "id": "B",
+      "text": "Leucine, isoleucine, and valine"
+    },
+    {
+      "id": "C",
+      "text": "Methionine, cysteine, and homocysteine"
+    },
+    {
+      "id": "D",
+      "text": "Lysine, arginine, and histidine"
+    },
+    {
+      "id": "E",
+      "text": "Aspartate, glutamate, and asparagine"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "This patient has maple syrup urine disease (MSUD), an autosomal recessive disorder caused by deficiency of branched-chain α-keto acid dehydrogenase complex. This enzyme complex is responsible for the degradation of branched-chain amino acids: leucine, isoleucine, and valine (mnemonic: \"I Love Vermont maple syrup from maple trees with Branches\"). Deficiency leads to accumulation of these amino acids and their toxic α-keto acids, causing the characteristic sweet odor of urine and severe neurological symptoms. Treatment involves dietary restriction of leucine, isoleucine, and valine, along with thiamine supplementation (thiamine is a cofactor for the enzyme complex).",
+  "explanation_incorrect": {
+    "A": "Phenylalanine, tyrosine, and tryptophan are aromatic amino acids. Phenylalanine restriction is used in phenylketonuria (PKU), not MSUD.",
+    "C": "Methionine, cysteine, and homocysteine are sulfur-containing amino acids. Methionine restriction is used in homocystinuria.",
+    "D": "Lysine, arginine, and histidine are basic amino acids. They are not restricted in MSUD.",
+    "E": "Aspartate, glutamate, and asparagine are acidic amino acids and their amides. They are not restricted in MSUD."
+  },
+  "educationalObjective": "This patient has maple syrup urine disease (MSUD), an autosomal recessive disorder caused by deficiency of branched-chain α-keto acid dehydrogenase complex.",
+  "source": "Imported from the existing Supabase question bank"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "biochem-694-01",
+  "subject": "Biochemistry",
+  "major_topic": "Inborn Errors of Metabolism",
+  "subtopic": "Organic Acidemias",
+  "difficulty": "medium",
+  "vignette": "A 5-month-old boy is brought to the emergency department with recurrent vomiting, poor feeding, and lethargy that began 2 days after a mild viral illness. He is tachypneic and hypotonic, and his liver edge is palpable 3 cm below the costal margin. Laboratory studies show pH 7.25, bicarbonate 10 mEq/L, anion gap 26 mEq/L, ammonia 210 micrograms/dL, and glucose 58 mg/dL. Urine ketones are strongly positive, plasma methylmalonic acid is markedly elevated, propionic acid is normal, and serum vitamin B12 is normal.",
+  "question": "Deficiency of which of the following enzymes is the most likely cause of this patient's findings?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Propionyl-CoA carboxylase"
+    },
+    {
+      "id": "B",
+      "text": "Methylmalonyl-CoA mutase"
+    },
+    {
+      "id": "C",
+      "text": "Isovaleryl-CoA dehydrogenase"
+    },
+    {
+      "id": "D",
+      "text": "Branched-chain alpha-ketoacid dehydrogenase"
+    },
+    {
+      "id": "E",
+      "text": "Pyruvate carboxylase"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Methylmalonyl-CoA mutase converts methylmalonyl-CoA to succinyl-CoA in a vitamin B12-dependent reaction, and its deficiency causes methylmalonic acid to accumulate. The accumulated organic acid produces a high anion gap metabolic acidosis, ketosis, and secondary hyperammonemia from inhibition of the urea cycle.",
+  "explanation_incorrect": {
+    "A": "Propionyl-CoA carboxylase deficiency causes propionic acidemia with elevated propionic acid and propionylcarnitine (C3), rather than an isolated rise in methylmalonic acid with normal propionic acid.",
+    "C": "Isovaleryl-CoA dehydrogenase deficiency (isovaleric acidemia) produces a sweaty-feet odor and elevated isovalerylglycine, not methylmalonic aciduria.",
+    "D": "Branched-chain alpha-ketoacid dehydrogenase deficiency (maple syrup urine disease) elevates branched-chain amino acids and their ketoacids, not methylmalonic acid.",
+    "E": "Pyruvate carboxylase deficiency causes lactic acidosis and hypoglycemia without elevation of methylmalonic acid."
+  },
+  "educationalObjective": "An isolated marked elevation of methylmalonic acid with normal propionic acid indicates methylmalonyl-CoA mutase deficiency rather than propionyl-CoA carboxylase deficiency.",
+  "source": "Generated from 1. Biochemistry.pdf - Section II: Metabolism, Organic Acidemias"
+}

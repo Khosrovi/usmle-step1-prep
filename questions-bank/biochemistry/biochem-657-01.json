@@ -1,0 +1,41 @@
+{
+  "id": "biochem-657-01",
+  "subject": "Biochemistry",
+  "major_topic": "Molecular Biology",
+  "subtopic": "DNA Repair (BER, NER, MMR)",
+  "difficulty": "medium",
+  "vignette": "A 5-year-old girl is brought to the clinic because her mother has noticed freckles and rough, slightly raised lesions on her face and hands. She has had severe sunburns after minimal sun exposure since infancy, and her eyes tear and burn in bright light. Examination shows numerous lentigines and actinic keratoses confined to sun-exposed skin; her 2-year-old sister has similar findings.",
+  "question": "Which of the following is the most likely diagnosis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Bloom syndrome"
+    },
+    {
+      "id": "B",
+      "text": "Xeroderma pigmentosum"
+    },
+    {
+      "id": "C",
+      "text": "Fanconi anemia"
+    },
+    {
+      "id": "D",
+      "text": "Ataxia-telangiectasia"
+    },
+    {
+      "id": "E",
+      "text": "Lynch syndrome"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Xeroderma pigmentosum is an autosomal recessive defect in nucleotide excision repair, so UV-induced pyrimidine dimers cannot be excised. Patients develop marked photosensitivity, lentigines, actinic keratoses, and skin cancers on sun-exposed areas early in life.",
+  "explanation_incorrect": {
+    "A": "Bloom syndrome can cause photosensitivity, but it results from a DNA helicase defect and features growth deficiency and increased sister chromatid exchanges.",
+    "C": "Fanconi anemia causes pancytopenia, skeletal anomalies such as absent thumbs, and defective repair of DNA crosslinks.",
+    "D": "Ataxia-telangiectasia causes progressive cerebellar ataxia and conjunctival telangiectasias from defective double-strand break repair.",
+    "E": "Lynch syndrome is a mismatch repair defect that causes hereditary colorectal and endometrial cancer without photosensitivity."
+  },
+  "educationalObjective": "Xeroderma pigmentosum is a nucleotide excision repair defect that causes extreme UV sensitivity and early skin cancers.",
+  "source": "Generated from 1. Biochemistry.pdf - Molecular Biology: DNA Repair (BER, NER, MMR)"
+}

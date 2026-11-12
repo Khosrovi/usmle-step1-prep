@@ -1,0 +1,41 @@
+{
+  "id": "biochem-696-03",
+  "subject": "Biochemistry",
+  "major_topic": "Inborn Errors of Metabolism",
+  "subtopic": "Congenital Disorders of Glycosylation",
+  "difficulty": "medium",
+  "vignette": "A 4-month-old boy is evaluated for hypotonia, poor feeding, and seizures. He has developmental delay, mildly elevated transaminases, and a prolonged PTT. Isoelectric focusing of serum transferrin shows increased asialo- and disialotransferrin, and mass spectrometry confirms a defect in assembly of the dolichol-linked oligosaccharide precursor. Plasma amino acids, urine organic acids, and very-long-chain fatty acids are all normal.",
+  "question": "Which of the following processes is most directly impaired in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "O-linked glycosylation of serine and threonine residues in the Golgi apparatus"
+    },
+    {
+      "id": "B",
+      "text": "Sulfation of glycosaminoglycans within lysosomes"
+    },
+    {
+      "id": "C",
+      "text": "Phosphorylation of mannose residues in the Golgi apparatus"
+    },
+    {
+      "id": "D",
+      "text": "Hydroxylation of proline residues in collagen"
+    },
+    {
+      "id": "E",
+      "text": "N-linked glycosylation of asparagine residues in the endoplasmic reticulum"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Most congenital disorders of glycosylation are type I defects in which the dolichol-linked oligosaccharide precursor is assembled or transferred inefficiently in the endoplasmic reticulum. Because the glycan is normally attached to asparagine residues by oligosaccharyltransferase, proteins such as transferrin are hypoglycosylated, producing the asialo- and disialotransferrin pattern.",
+  "explanation_incorrect": {
+    "A": "Defects of O-linked glycosylation typically cause congenital muscular dystrophies with brain and eye abnormalities, such as Walker-Warburg syndrome, rather than the type I transferrin pattern.",
+    "B": "Impaired lysosomal sulfation is not the defect in this disease; sulfatase deficiencies cause mucopolysaccharidoses with coarse features and organomegaly.",
+    "C": "Failure to phosphorylate mannose residues in the Golgi is the defect in I-cell disease, which causes inclusion bodies and elevated plasma lysosomal enzymes.",
+    "D": "Impaired proline hydroxylation in collagen occurs in vitamin C deficiency (scurvy) and causes bleeding gums, perifollicular hemorrhage, and poor wound healing."
+  },
+  "educationalObjective": "Type I congenital disorders of glycosylation impair N-linked glycosylation in the endoplasmic reticulum, detected as a carbohydrate-deficient transferrin pattern.",
+  "source": "Generated from 1. Biochemistry.pdf - Section II: Cell Biology, Post-translational Modifications"
+}

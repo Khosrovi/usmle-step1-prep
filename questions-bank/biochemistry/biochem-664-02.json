@@ -1,0 +1,41 @@
+{
+  "id": "biochem-664-02",
+  "subject": "Biochemistry",
+  "major_topic": "Molecular Biology",
+  "subtopic": "Genetic Code and Mutations",
+  "difficulty": "easy",
+  "vignette": "A 30-year-old man is evaluated for multiple cafe-au-lait macules, axillary freckling, and several soft cutaneous nodules. He has a family history of a similar disorder, and sequencing of the NF1 gene reveals a single nucleotide substitution that converts a coding codon into UAG in the middle of the mRNA.",
+  "question": "Which type of mutation is most likely responsible for the truncated, nonfunctional neurofibromin in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Nonsense mutation"
+    },
+    {
+      "id": "B",
+      "text": "Missense mutation"
+    },
+    {
+      "id": "C",
+      "text": "Silent mutation"
+    },
+    {
+      "id": "D",
+      "text": "Frameshift deletion"
+    },
+    {
+      "id": "E",
+      "text": "Splice-site mutation"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "UAG is one of the three stop codons (UAA, UAG, and UGA). A single base substitution that converts a sense codon into a stop codon is a nonsense mutation, so translation terminates prematurely and the shortened protein is usually nonfunctional and rapidly degraded. Loss of one functional NF1 allele causes neurofibromatosis type 1.",
+  "explanation_incorrect": {
+    "B": "A missense mutation replaces one amino acid with another but does not create a premature stop codon, so a full-length protein would still be produced.",
+    "C": "A silent mutation does not change the amino acid and would not explain a truncated protein.",
+    "D": "A frameshift deletion changes the reading frame and alters all codons downstream; it is not a single substitution creating a stop codon at this site.",
+    "E": "A splice-site mutation causes intron retention or exon skipping during RNA processing, not replacement of a single coding codon by a stop codon."
+  },
+  "educationalObjective": "A single nucleotide change that converts a sense codon into a stop codon (UAA, UAG, or UGA) is a nonsense mutation and typically yields a truncated, nonfunctional protein.",
+  "source": "Generated from 1. Biochemistry.pdf - Molecular Biology: Genetic Code and Mutations"
+}

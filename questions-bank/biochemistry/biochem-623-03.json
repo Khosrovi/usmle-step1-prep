@@ -1,0 +1,41 @@
+{
+  "id": "biochem-623-03",
+  "subject": "Biochemistry",
+  "major_topic": "Carbohydrate Metabolism",
+  "subtopic": "Glycogen Storage Diseases",
+  "difficulty": "medium",
+  "vignette": "An 18-month-old boy has a protuberant abdomen and episodes of early-morning drowsiness. Fasting glucose is 45 mg/dL, blood lactate is 1.4 mmol/L (normal), and triglycerides and uric acid are mildly elevated. Liver biopsy shows glycogen with short, limit dextrin-like outer branches.",
+  "question": "Which of the following enzyme deficiencies is most likely responsible?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Debranching enzymes (alpha-1,6-glucosidase and 4-alpha-D-glucanotransferase)"
+    },
+    {
+      "id": "B",
+      "text": "Glucose-6-phosphatase"
+    },
+    {
+      "id": "C",
+      "text": "Branching enzyme"
+    },
+    {
+      "id": "D",
+      "text": "Skeletal muscle glycogen phosphorylase"
+    },
+    {
+      "id": "E",
+      "text": "Lysosomal acid alpha-1,4-glucosidase"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Cori disease (type III) is caused by deficiency of the debranching enzymes, so limit dextrin-like structures accumulate in the cytosol and glycogenolysis is incomplete. It resembles von Gierke disease but is milder and is distinguished by normal blood lactate, because gluconeogenesis remains intact.",
+  "explanation_incorrect": {
+    "B": "Glucose-6-phosphatase deficiency (von Gierke disease) also causes fasting hypoglycemia but is associated with elevated lactate, triglycerides, and uric acid, and does not produce limit dextrin.",
+    "C": "Branching enzyme deficiency (Andersen disease) produces abnormally branched glycogen and cirrhosis, not limit dextrin-like structures with mild hypoglycemia.",
+    "D": "Muscle glycogen phosphorylase deficiency (McArdle disease) affects skeletal muscle only and does not cause hepatomegaly or fasting hypoglycemia.",
+    "E": "Lysosomal acid alpha-1,4-glucosidase deficiency (Pompe disease) causes lysosomal glycogen accumulation with cardiomyopathy and hypotonia, not hepatic limit dextrin."
+  },
+  "educationalObjective": "Cori disease (debranching enzyme deficiency) mimics von Gierke disease but is milder and features normal blood lactate with limit dextrin accumulation.",
+  "source": "Generated from 1. Biochemistry.pdf - Glycogen Storage Diseases"
+}

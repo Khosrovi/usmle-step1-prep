@@ -1,0 +1,41 @@
+{
+  "id": "biochem-636-02",
+  "subject": "Biochemistry",
+  "major_topic": "Amino Acid Metabolism",
+  "subtopic": "Transamination and Deamination",
+  "difficulty": "easy",
+  "vignette": "A 58-year-old man with alcohol-associated cirrhosis is admitted with confusion and asterixis. Plasma ammonia is elevated. In his hepatocytes, free ammonia is generated in the mitochondrial matrix when the amino group of glutamate is removed oxidatively, with concurrent reduction of NAD+.",
+  "question": "Which enzyme catalyzes this oxidative deamination reaction?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Alanine aminotransferase"
+    },
+    {
+      "id": "B",
+      "text": "Glutamate dehydrogenase"
+    },
+    {
+      "id": "C",
+      "text": "Aspartate aminotransferase"
+    },
+    {
+      "id": "D",
+      "text": "Glutaminase"
+    },
+    {
+      "id": "E",
+      "text": "Ornithine transcarbamylase"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Glutamate dehydrogenase catalyzes the reversible oxidative deamination of glutamate to alpha-ketoglutarate and free ammonia in the mitochondrial matrix, using NAD+ or NADP+ as the electron acceptor. This reaction is a major source of the ammonia that enters the urea cycle and links amino acid catabolism to the TCA cycle.",
+  "explanation_incorrect": {
+    "A": "Alanine aminotransferase transfers an amino group to alpha-ketoglutarate, producing glutamate rather than releasing free ammonia.",
+    "C": "Aspartate aminotransferase transfers an amino group between aspartate and alpha-ketoglutarate; it does not perform oxidative deamination.",
+    "D": "Glutaminase hydrolyzes glutamine to glutamate and ammonia; it does not remove the amino group of glutamate oxidatively.",
+    "E": "Ornithine transcarbamylase transfers a carbamoyl group to ornithine in the urea cycle and does not generate ammonia."
+  },
+  "educationalObjective": "Glutamate dehydrogenase releases free ammonia by oxidative deamination of glutamate, coupling amino acid catabolism to the urea cycle and the TCA cycle.",
+  "source": "Generated from 1. Biochemistry.pdf - Amino Acid Metabolism: Transamination and Deamination"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "biochem-621-04",
+  "subject": "Biochemistry",
+  "major_topic": "Carbohydrate Metabolism",
+  "subtopic": "Pentose Phosphate Pathway",
+  "difficulty": "medium",
+  "vignette": "A 35-year-old man of sub-Saharan African ancestry has had several episodes of jaundice and dark urine after taking sulfa drugs; between episodes his hemoglobin is normal. His maternal uncle has had similar episodes, and his father has never had jaundice.",
+  "question": "Which of the following best describes the inheritance of this condition?",
+  "options": [
+    {
+      "id": "A",
+      "text": "X-linked recessive"
+    },
+    {
+      "id": "B",
+      "text": "Autosomal recessive"
+    },
+    {
+      "id": "C",
+      "text": "Autosomal dominant"
+    },
+    {
+      "id": "D",
+      "text": "X-linked dominant"
+    },
+    {
+      "id": "E",
+      "text": "Mitochondrial inheritance"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "G6PD deficiency is an X-linked recessive disorder and is the most common human enzyme deficiency. It is most prevalent in populations from malaria-endemic regions because heterozygosity confers protection against Plasmodium falciparum, and male relatives on the maternal side are typically affected.",
+  "explanation_incorrect": {
+    "B": "Autosomal recessive inheritance would require an affected sibling or consanguinity and would not explain the sex-specific pattern seen in this family.",
+    "C": "Autosomal dominant inheritance would produce affected individuals in every generation with an affected parent, which is not the case here.",
+    "D": "X-linked dominant inheritance would affect daughters of an affected father and would not spare the father while affecting a maternal uncle.",
+    "E": "Mitochondrial inheritance is transmitted only through the mother and would affect both sexes equally with variable severity, unlike this enzyme deficiency."
+  },
+  "educationalObjective": "Glucose-6-phosphate dehydrogenase deficiency is inherited in an X-linked recessive pattern.",
+  "source": "Generated from 1. Biochemistry.pdf - Pentose Phosphate Pathway"
+}

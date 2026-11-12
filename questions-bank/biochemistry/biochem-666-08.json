@@ -1,0 +1,41 @@
+{
+  "id": "biochem-666-08",
+  "subject": "Biochemistry",
+  "major_topic": "Molecular Biology",
+  "subtopic": "Recombinant DNA Technology",
+  "difficulty": "medium",
+  "vignette": "A 52-year-old woman undergoes lumpectomy for invasive breast carcinoma. The oncologist wants to compare the relative transcription of thousands of genes between the tumor and adjacent normal breast tissue to guide therapy.",
+  "question": "Which of the following techniques is most appropriate for this comparison?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Western blot"
+    },
+    {
+      "id": "B",
+      "text": "Enzyme-linked immunosorbent assay"
+    },
+    {
+      "id": "C",
+      "text": "Karyotyping"
+    },
+    {
+      "id": "D",
+      "text": "DNA microarray"
+    },
+    {
+      "id": "E",
+      "text": "Flow cytometry"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Microarrays compare the relative transcription of genes in two RNA samples, typically tumor versus normal tissue, by hybridizing labeled cDNA to probes on a chip. When DNA is used instead, microarrays can detect single nucleotide polymorphisms and copy number variants for genotyping, cancer mutation analysis, and genetic linkage studies.",
+  "explanation_incorrect": {
+    "A": "Western blot detects specific proteins and does not compare the transcription of thousands of genes.",
+    "B": "ELISA detects a specific antigen or antibody in a sample and is not a genome-wide expression assay.",
+    "C": "Karyotyping examines chromosome number and structure, not gene expression.",
+    "E": "Flow cytometry analyzes protein expression of individual cells, not global mRNA transcription."
+  },
+  "educationalObjective": "DNA microarrays compare the relative transcription of thousands of genes between two RNA samples and can also detect SNPs and copy number variants.",
+  "source": "Generated from 1. Biochemistry.pdf - Laboratory Techniques: Recombinant DNA Technology"
+}

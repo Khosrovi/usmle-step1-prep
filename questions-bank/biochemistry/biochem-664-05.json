@@ -1,0 +1,41 @@
+{
+  "id": "biochem-664-05",
+  "subject": "Biochemistry",
+  "major_topic": "Molecular Biology",
+  "subtopic": "Genetic Code and Mutations",
+  "difficulty": "hard",
+  "vignette": "A 42-year-old man is brought by his wife because of 2 years of progressive involuntary jerking movements, irritability, and difficulty with balance. His father developed similar symptoms at age 55, and his paternal grandfather was institutionalized with dementia. Genetic testing shows an expanded CAG repeat in the HTT gene, and the repeat is longer than that found in his father.",
+  "question": "Which of the following mechanisms best explains the increase in repeat length between generations?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A transition mutation within the repeat region."
+    },
+    {
+      "id": "B",
+      "text": "Slipped strand mispairing during DNA replication."
+    },
+    {
+      "id": "C",
+      "text": "A defect in nucleotide excision repair."
+    },
+    {
+      "id": "D",
+      "text": "A splice-site mutation that retains an intron."
+    },
+    {
+      "id": "E",
+      "text": "Nonhomologous end joining of a double-strand break."
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "During replication of a repetitive sequence, DNA polymerase can slip and either insert or remove one or more repeat units. When slippage adds repeats, the expanded allele is transmitted, and further expansion in succeeding generations produces genetic anticipation, with earlier onset and greater severity, as seen in Huntington disease.",
+  "explanation_incorrect": {
+    "A": "A transition is a single purine-to-purine or pyrimidine-to-pyrimidine substitution and does not change the copy number of a repeated sequence.",
+    "C": "Nucleotide excision repair removes bulky helix-distorting lesions such as pyrimidine dimers; defective repair causes xeroderma pigmentosum, not repeat expansion.",
+    "D": "Splice-site mutations affect intron removal after transcription and do not alter the number of CAG repeats in genomic DNA.",
+    "E": "Nonhomologous end joining repairs double-strand breaks and may cause small deletions or translocations, but repeat expansion arises from replication slippage at repetitive sequences."
+  },
+  "educationalObjective": "Expansion of trinucleotide repeats by slipped strand mispairing during replication produces genetic anticipation, with earlier onset and more severe disease in successive generations.",
+  "source": "Generated from 1. Biochemistry.pdf - Molecular Biology: Genetic Code and Mutations"
+}

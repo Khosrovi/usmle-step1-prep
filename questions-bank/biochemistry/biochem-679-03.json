@@ -1,0 +1,41 @@
+{
+  "id": "biochem-679-03",
+  "subject": "Biochemistry",
+  "major_topic": "Vitamins and Minerals",
+  "subtopic": "Vitamin D",
+  "difficulty": "medium",
+  "vignette": "A 34-year-old woman with a 2-year history of sarcoidosis presents with fatigue, confusion, polyuria, and constipation. She takes no calcium or vitamin D supplements. Examination shows bilateral hilar lymphadenopathy and dry mucous membranes. Laboratory studies show calcium 12.4 mg/dL, phosphate 3.1 mg/dL, parathyroid hormone suppressed to 6 pg/mL, and 1,25-dihydroxyvitamin D elevated at 96 pg/mL.",
+  "question": "Which of the following best explains the hypercalcemia in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Ectopic parathyroid hormone secretion by granulomas"
+    },
+    {
+      "id": "B",
+      "text": "Osteolytic bone metastases"
+    },
+    {
+      "id": "C",
+      "text": "Primary hyperparathyroidism with an adenoma"
+    },
+    {
+      "id": "D",
+      "text": "Unregulated 1-alpha-hydroxylase activity in activated macrophages"
+    },
+    {
+      "id": "E",
+      "text": "Parathyroid hormone-related peptide secretion by a carcinoma"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "In granulomatous diseases such as sarcoidosis, epithelioid macrophages express 1-alpha-hydroxylase that is not regulated by parathyroid hormone or by feedback inhibition. These cells convert circulating 25-hydroxyvitamin D to calcitriol outside the kidney, increasing intestinal calcium absorption and bone resorption, which raises serum calcium and suppresses parathyroid hormone.",
+  "explanation_incorrect": {
+    "A": "Parathyroid hormone is suppressed, not elevated, in this patient; granulomas do not produce parathyroid hormone.",
+    "B": "Bone metastases would produce a high parathyroid hormone-related peptide or local osteolysis with an elevated alkaline phosphatase and focal bone lesions, and would not raise 1,25-dihydroxyvitamin D.",
+    "C": "Primary hyperparathyroidism raises both calcium and parathyroid hormone; here parathyroid hormone is appropriately suppressed by the high calcium.",
+    "E": "Parathyroid hormone-related peptide secretion (humoral hypercalcemia of malignancy) elevates calcium while lowering 1,25-dihydroxyvitamin D and would not explain elevated calcitriol."
+  },
+  "educationalObjective": "Granulomatous diseases cause hypercalcemia through extrarenal, unregulated 1-alpha-hydroxylase activity in macrophages that produces excess calcitriol.",
+  "source": "Generated from 1. Biochemistry.pdf - Nutrition: Fat-Soluble Vitamins (Vitamin D)"
+}

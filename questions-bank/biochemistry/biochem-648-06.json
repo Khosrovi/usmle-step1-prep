@@ -1,0 +1,41 @@
+{
+  "id": "biochem-648-06",
+  "subject": "Biochemistry",
+  "major_topic": "Nucleotide Metabolism",
+  "subtopic": "Pyrimidine Synthesis",
+  "difficulty": "medium",
+  "vignette": "A 64-year-old woman with rheumatoid arthritis has taken methotrexate for 3 months. She now reports fatigue and a sore tongue, and laboratory studies show a macrocytic anemia with hypersegmented neutrophils. Serum vitamin B12 is normal, and serum folate is low. Methotrexate inhibits dihydrofolate reductase.",
+  "question": "Which of the following is the most direct cause of this patient's megaloblastic anemia?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Depletion of dTMP due to impaired thymidylate synthase activity"
+    },
+    {
+      "id": "B",
+      "text": "Accumulation of orotic acid due to impaired UMP synthase activity"
+    },
+    {
+      "id": "C",
+      "text": "Depletion of IMP due to inhibition of PRPP amidotransferase"
+    },
+    {
+      "id": "D",
+      "text": "Accumulation of xanthine due to inhibition of xanthine oxidase"
+    },
+    {
+      "id": "E",
+      "text": "Depletion of ATP due to inhibition of ribonucleotide reductase"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Methotrexate inhibits dihydrofolate reductase, lowering tetrahydrofolate and its one-carbon carrier N5,N10-methylene tetrahydrofolate. Thymidylate synthase requires that cofactor to methylate dUMP to dTMP, so dTMP depletion impairs DNA synthesis and produces the megaloblastic anemia and hypersegmented neutrophils. Folinic acid (leucovorin) can bypass the blocked dihydrofolate reductase step and rescue normal cells.",
+  "explanation_incorrect": {
+    "B": "Orotic acid accumulation occurs in UMP synthase deficiency and in ornithine transcarbamylase deficiency, not with methotrexate.",
+    "C": "PRPP amidotransferase is not inhibited by methotrexate; folate depletion impairs purine synthesis indirectly but does not deplete IMP as the direct cause of megaloblastosis.",
+    "D": "Xanthine oxidase is not inhibited by methotrexate; it is inhibited by allopurinol and febuxostat.",
+    "E": "Ribonucleotide reductase is not the target of methotrexate; its inhibition by hydroxyurea also impairs DNA synthesis but is not the mechanism here."
+  },
+  "educationalObjective": "Methotrexate inhibits dihydrofolate reductase, depleting the tetrahydrofolate needed by thymidylate synthase and thereby causing dTMP depletion, megaloblastic anemia, and mucositis.",
+  "source": "Generated from 1. Biochemistry.pdf - Nucleotide Metabolism: Pyrimidine Synthesis"
+}

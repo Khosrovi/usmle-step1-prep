@@ -6,7 +6,10 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "validate:questions": "node scripts/validate-questions.mjs",
+    "export:seed-sql": "node scripts/export-seed-sql.mjs",
+    "import:questions": "node scripts/import-questions.mjs"
   },
   "dependencies": {
     "@base-ui/react": "^1.9.0",

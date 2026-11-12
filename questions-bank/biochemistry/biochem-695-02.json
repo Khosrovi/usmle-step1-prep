@@ -1,0 +1,41 @@
+{
+  "id": "biochem-695-02",
+  "subject": "Biochemistry",
+  "major_topic": "Inborn Errors of Metabolism",
+  "subtopic": "Fatty Acid Oxidation Disorders",
+  "difficulty": "medium",
+  "vignette": "A 10-month-old girl is evaluated for progressive hypotonia, poor feeding, and tachypnea. Echocardiography shows a dilated left ventricle with an ejection fraction of 25%. Fasting during the evaluation provoked hypoglycemia (glucose 40 mg/dL) with inappropriately low urine ketones. Plasma free carnitine is markedly decreased, and plasma long-chain fatty acids are elevated.",
+  "question": "Deficiency of which of the following is the most likely cause?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Carnitine transporter (OCTN2)"
+    },
+    {
+      "id": "B",
+      "text": "Carnitine palmitoyltransferase I"
+    },
+    {
+      "id": "C",
+      "text": "Carnitine-acylcarnitine translocase"
+    },
+    {
+      "id": "D",
+      "text": "Medium-chain acyl-CoA dehydrogenase"
+    },
+    {
+      "id": "E",
+      "text": "Very-long-chain acyl-CoA dehydrogenase"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Systemic primary carnitine deficiency is caused by loss of the sodium-dependent carnitine transporter OCTN2, so carnitine cannot enter cells and long-chain fatty acids cannot be transported into mitochondria. Cytosolic long-chain fatty acids accumulate, producing hypoketotic hypoglycemia, muscle weakness, and dilated cardiomyopathy that responds to high-dose oral carnitine.",
+  "explanation_incorrect": {
+    "B": "Carnitine palmitoyltransferase I deficiency also causes hypoketotic hypoglycemia, but plasma carnitine is normal or elevated and cardiomyopathy is uncommon.",
+    "C": "Carnitine-acylcarnitine translocase deficiency usually presents in the neonatal period with arrhythmias and accumulation of long-chain acylcarnitines (C16, C18).",
+    "D": "Medium-chain acyl-CoA dehydrogenase deficiency causes hypoketotic hypoglycemia with C8 acylcarnitine elevation and does not cause cardiomyopathy or low plasma carnitine.",
+    "E": "Very-long-chain acyl-CoA dehydrogenase deficiency can cause cardiomyopathy and hypoketotic hypoglycemia, but free carnitine is normal and C14:1 acylcarnitine is elevated."
+  },
+  "educationalObjective": "Dilated cardiomyopathy with hypoketotic hypoglycemia and very low plasma free carnitine indicates systemic primary carnitine deficiency from an OCTN2 transporter defect.",
+  "source": "Generated from 1. Biochemistry.pdf - Section II: Metabolism, Fatty Acid Metabolism"
+}

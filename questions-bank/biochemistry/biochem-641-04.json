@@ -1,0 +1,41 @@
+{
+  "id": "biochem-641-04",
+  "subject": "Biochemistry",
+  "major_topic": "Amino Acid Metabolism",
+  "subtopic": "Sulfur-Containing Amino Acids",
+  "difficulty": "hard",
+  "vignette": "A 9-month-old infant with cystathionine beta-synthase deficiency is being managed with a methionine-restricted diet, but his plasma homocysteine remains high and he has had poor weight gain. His physician explains that the block in the transsulfuration pathway makes one amino acid conditionally essential in this disorder and that it must be supplemented.",
+  "question": "Which of the following amino acids must be supplemented because its endogenous synthesis is impaired?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Serine"
+    },
+    {
+      "id": "B",
+      "text": "Cysteine"
+    },
+    {
+      "id": "C",
+      "text": "Methionine"
+    },
+    {
+      "id": "D",
+      "text": "Homocysteine"
+    },
+    {
+      "id": "E",
+      "text": "Taurine"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "In the transsulfuration pathway, homocysteine condenses with serine to form cystathionine in a reaction catalyzed by the pyridoxal phosphate-dependent enzyme cystathionine beta-synthase, and cystathionine is then cleaved to cysteine and alpha-ketobutyrate. When this step is blocked, cysteine cannot be synthesized from methionine and becomes a conditionally essential amino acid, so cysteine supplementation is part of treatment along with a low-methionine diet and pyridoxine, B12, and folate.",
+  "explanation_incorrect": {
+    "A": "Serine is the cosubstrate for cystathionine synthesis, but it is not depleted by the block; the amino acid whose synthesis is impaired is cysteine.",
+    "C": "Methionine is restricted rather than supplemented, because its catabolism is blocked at the transsulfuration step and homocysteine accumulates.",
+    "D": "Homocysteine is the intermediate that accumulates and cannot substitute for the missing product of the blocked pathway.",
+    "E": "Taurine is a product of cysteine catabolism rather than the missing product of the transsulfuration pathway; cysteine is the amino acid that becomes essential."
+  },
+  "educationalObjective": "Because cysteine is synthesized from homocysteine and serine through the transsulfuration pathway, cystathionine beta-synthase deficiency makes cysteine conditionally essential.",
+  "source": "Generated from 1. Biochemistry.pdf - Amino Acid Metabolism: Sulfur-Containing Amino Acids"
+}

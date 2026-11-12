@@ -1,0 +1,41 @@
+{
+  "id": "biochem-599-03",
+  "subject": "Biochemistry",
+  "major_topic": "Amino Acids & Proteins",
+  "subtopic": "Structure and classification",
+  "difficulty": "medium",
+  "vignette": "A 4-year-old boy is brought for evaluation of a red, scaly, photosensitive rash over his face and hands, intermittent ataxia, and loose stools. He eats a normal diet. Urinalysis shows increased excretion of neutral amino acids, and genetic testing identifies a defect in a neutral amino acid transporter expressed in both the kidney and the small intestine.",
+  "question": "Deficiency of which of the following amino acids is most directly responsible for this patient's skin lesions?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Tryptophan"
+    },
+    {
+      "id": "B",
+      "text": "Tyrosine"
+    },
+    {
+      "id": "C",
+      "text": "Phenylalanine"
+    },
+    {
+      "id": "D",
+      "text": "Methionine"
+    },
+    {
+      "id": "E",
+      "text": "Histidine"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "This patient has Hartnup disease, in which defective renal and intestinal transport of neutral amino acids causes loss of tryptophan. Reduced tryptophan availability limits synthesis of niacin (via the kynurenine pathway), producing a pellagra-like dermatitis, diarrhea, and ataxia that can be treated with niacin supplementation. The rash follows sun-exposed skin, as in pellagra.",
+  "explanation_incorrect": {
+    "B": "Tyrosine is an aromatic amino acid but is transported differently; its deficiency does not cause a pellagra-like photosensitive rash (tyrosinemia causes liver and renal tubular disease).",
+    "C": "Phenylalanine is not a neutral-amino-acid transporter substrate defect of Hartnup disease; its excess causes phenylketonuria.",
+    "D": "Methionine is a sulfur-containing amino acid involved in homocysteine and SAM metabolism; deficiency does not produce pellagra-like skin changes.",
+    "E": "Histidine is the precursor of histamine and a buffer, but its deficiency is not responsible for the niacin-deficient dermatitis of Hartnup disease."
+  },
+  "educationalObjective": "Hartnup disease causes renal and intestinal loss of neutral amino acids, and the resulting tryptophan deficiency leads to niacin deficiency with a pellagra-like rash, ataxia, and diarrhea.",
+  "source": "Generated from 1. Biochemistry.pdf - Amino Acids: Structure and Classification"
+}

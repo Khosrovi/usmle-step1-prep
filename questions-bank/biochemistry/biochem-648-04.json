@@ -1,0 +1,41 @@
+{
+  "id": "biochem-648-04",
+  "subject": "Biochemistry",
+  "major_topic": "Nucleotide Metabolism",
+  "subtopic": "Pyrimidine Synthesis",
+  "difficulty": "medium",
+  "vignette": "A 58-year-old man with metastatic colon cancer receives 5-fluorouracil. Two weeks later he develops painful oral ulcers, watery diarrhea, and a neutrophil count of 900 cells/microL. His hemoglobin is 9.8 g/dL with a mean corpuscular volume of 104 fL. Bone marrow examination shows megaloblastic changes.",
+  "question": "Which of the following best explains the mechanism of 5-fluorouracil toxicity?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Inhibition of dihydrofolate reductase, depleting tetrahydrofolate"
+    },
+    {
+      "id": "B",
+      "text": "Formation of 5-fluorodeoxyuridine monophosphate, which inhibits thymidylate synthase and depletes dTMP"
+    },
+    {
+      "id": "C",
+      "text": "Inhibition of ribonucleotide reductase, preventing deoxyribonucleotide synthesis"
+    },
+    {
+      "id": "D",
+      "text": "Inhibition of inosine monophosphate dehydrogenase, depleting guanine nucleotides"
+    },
+    {
+      "id": "E",
+      "text": "Inhibition of xanthine oxidase, causing accumulation of purine precursors"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "5-Fluorouracil is converted to 5-fluorodeoxyuridine monophosphate, which forms a stable complex with thymidylate synthase and blocks conversion of dUMP to dTMP. The resulting thymine nucleotide depletion impairs DNA synthesis and causes the mucositis, diarrhea, and myelosuppression seen with this drug, which preferentially affects rapidly dividing tissues. Capecitabine is an oral prodrug that is converted to the same active metabolite.",
+  "explanation_incorrect": {
+    "A": "Dihydrofolate reductase is not the target of 5-fluorouracil; it is inhibited by methotrexate, trimethoprim, and pyrimethamine.",
+    "C": "Ribonucleotide reductase is inhibited by hydroxyurea.",
+    "D": "Inosine monophosphate dehydrogenase is inhibited by mycophenolate and ribavirin.",
+    "E": "Xanthine oxidase is inhibited by allopurinol and febuxostat, which affect purine degradation rather than pyrimidine synthesis."
+  },
+  "educationalObjective": "5-Fluorouracil is converted to 5-fluorodeoxyuridine monophosphate, which inhibits thymidylate synthase and depletes dTMP, causing toxicity in rapidly dividing tissues.",
+  "source": "Generated from 1. Biochemistry.pdf - Nucleotide Metabolism: Pyrimidine Synthesis"
+}

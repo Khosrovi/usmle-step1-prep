@@ -1,0 +1,41 @@
+{
+  "id": "biochem-656-06",
+  "subject": "Biochemistry",
+  "major_topic": "Molecular Biology",
+  "subtopic": "DNA Replication",
+  "difficulty": "hard",
+  "vignette": "A 57-year-old man with colorectal cancer undergoes tumor sequencing that reveals an exceptional excess of point mutations. The tumor has intact mismatch repair and no microsatellite instability, but the sequencing report describes a pathogenic variant that abolishes the proofreading function of the replicative DNA polymerase.",
+  "question": "Which of the following enzymatic activities is most likely defective in these tumor cells?",
+  "options": [
+    {
+      "id": "A",
+      "text": "5'-3' exonuclease activity"
+    },
+    {
+      "id": "B",
+      "text": "5'-3' polymerase activity"
+    },
+    {
+      "id": "C",
+      "text": "3'-5' exonuclease activity"
+    },
+    {
+      "id": "D",
+      "text": "3'-5' polymerase activity"
+    },
+    {
+      "id": "E",
+      "text": "DNA ligase activity"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Replicative DNA polymerases synthesize DNA in the 5'-3' direction and proofread with 3'-5' exonuclease activity, which excises misincorporated nucleotides. Loss of this proofreading activity allows replication errors to persist and produces a hypermutated tumor phenotype.",
+  "explanation_incorrect": {
+    "A": "5'-3' exonuclease activity removes RNA primers (as DNA polymerase I does in prokaryotes); it does not correct misincorporated bases.",
+    "B": "The 5'-3' polymerase activity is retained; the defect lies in proofreading.",
+    "D": "DNA polymerases do not synthesize DNA in the 3'-5' direction.",
+    "E": "DNA ligase seals nicks between fragments and does not excise mispaired nucleotides."
+  },
+  "educationalObjective": "Replicative DNA polymerases proofread with 3'-5' exonuclease activity, and its loss causes a hypermutated phenotype.",
+  "source": "Generated from 1. Biochemistry.pdf - Molecular Biology: DNA Replication"
+}

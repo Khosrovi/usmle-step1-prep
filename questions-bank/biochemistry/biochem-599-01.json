@@ -1,0 +1,41 @@
+{
+  "id": "biochem-599-01",
+  "subject": "Biochemistry",
+  "major_topic": "Amino Acids & Proteins",
+  "subtopic": "Structure and classification",
+  "difficulty": "medium",
+  "vignette": "A 7-year-old boy of West African descent is brought to the emergency department with severe pain and swelling of his hands and feet and scleral icterus. His hemoglobin is 7.4 g/dL, reticulocyte count is 12%, and hemoglobin electrophoresis shows hemoglobin S. Sequencing of the beta-globin gene reveals substitution of valine for glutamate at position 6.",
+  "question": "Which of the following best explains why this substitution promotes polymerization of deoxygenated hemoglobin S?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Glutamate is a basic amino acid, so its loss raises the pH of the red cell cytosol and favors deoxygenation."
+    },
+    {
+      "id": "B",
+      "text": "Valine is a nonpolar amino acid, so the substitution creates a hydrophobic surface patch that allows adjacent deoxygenated tetramers to aggregate."
+    },
+    {
+      "id": "C",
+      "text": "Valine is a polar uncharged amino acid, so it forms a new hydrogen bond with the heme iron."
+    },
+    {
+      "id": "D",
+      "text": "Glutamate is a sulfur-containing amino acid, so its loss prevents formation of a disulfide bond between beta chains."
+    },
+    {
+      "id": "E",
+      "text": "Valine is an acidic amino acid, so it increases the net negative charge of the hemoglobin tetramer."
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Glutamate is a negatively charged (acidic) amino acid, whereas valine is nonpolar and hydrophobic. Replacing glutamate with valine at position 6 of the beta-globin chain places a hydrophobic patch on the surface of the deoxygenated tetramer, allowing hemoglobin S molecules to stick together and precipitate as insoluble polymers that deform the red blood cell. The same substitution does not occur on the oxygenated conformation, which is why sickling is triggered by deoxygenation.",
+  "explanation_incorrect": {
+    "A": "Glutamate is an acidic (negatively charged) amino acid, not a basic one; the sickling is not caused by a change in cytosolic pH.",
+    "C": "Valine is nonpolar and does not form hydrogen bonds with the heme iron; the polymer forms through hydrophobic interactions between adjacent tetramers.",
+    "D": "Glutamate contains no sulfur, and beta-globin chains are not joined to each other by disulfide bonds.",
+    "E": "Valine is neutral and nonpolar; loss of the negative charge of glutamate makes the protein more hydrophobic, not more negatively charged."
+  },
+  "educationalObjective": "The Glu6Val substitution of sickle cell disease replaces a charged surface residue with a nonpolar residue, creating a hydrophobic sticky patch that drives polymerization of deoxygenated hemoglobin S.",
+  "source": "Generated from 1. Biochemistry.pdf - Amino Acids: Structure and Classification"
+}

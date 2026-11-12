@@ -1,0 +1,41 @@
+{
+  "id": "biochem-628-02",
+  "subject": "Biochemistry",
+  "major_topic": "Lipid Metabolism",
+  "subtopic": "Odd-chain FA Oxidation",
+  "difficulty": "medium",
+  "vignette": "A 55-year-old man who has followed a strict vegan diet for 10 years presents with fatigue, tingling of the hands and feet, and an unsteady gait. Examination shows decreased vibration and position sense, spasticity, and hyperreflexia. Laboratory studies show macrocytic anemia with hypersegmented neutrophils, elevated serum homocysteine, and elevated methylmalonic acid.",
+  "question": "The elevated methylmalonic acid most directly reflects impaired activity of which of the following enzymes of odd-chain fatty acid metabolism?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Propionyl-CoA carboxylase"
+    },
+    {
+      "id": "B",
+      "text": "Methylmalonyl-CoA racemase"
+    },
+    {
+      "id": "C",
+      "text": "Methylmalonyl-CoA mutase"
+    },
+    {
+      "id": "D",
+      "text": "HMG-CoA synthase"
+    },
+    {
+      "id": "E",
+      "text": "beta-ketoacyl-CoA thiolase"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Odd-chain fatty acids and branched-chain amino acids are metabolized to propionyl-CoA, which is carboxylated to methylmalonyl-CoA and then converted to succinyl-CoA by vitamin B12-dependent methylmalonyl-CoA mutase. In vitamin B12 deficiency this mutase is impaired, so methylmalonic acid accumulates; the same deficiency impairs methionine synthase and raises homocysteine.",
+  "explanation_incorrect": {
+    "A": "Propionyl-CoA carboxylase is biotin dependent; its deficiency causes propionic acidemia and actually lowers methylmalonic acid levels.",
+    "B": "Methylmalonyl-CoA racemase interconverts D- and L-methylmalonyl-CoA and does not require vitamin B12.",
+    "D": "HMG-CoA synthase is a ketogenic enzyme; its defect causes hypoketotic hypoglycemia, not elevated methylmalonic acid.",
+    "E": "beta-ketoacyl-CoA thiolase completes beta-oxidation and is unrelated to methylmalonic acid metabolism."
+  },
+  "educationalObjective": "Vitamin B12 deficiency impairs methylmalonyl-CoA mutase, causing methylmalonic acid accumulation from odd-chain fatty acid and branched-chain amino acid metabolism.",
+  "source": "Generated from 1. Biochemistry.pdf - Odd-chain FA Oxidation"
+}

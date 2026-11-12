@@ -1,0 +1,41 @@
+{
+  "id": "biochem-665-01",
+  "subject": "Biochemistry",
+  "major_topic": "Molecular Biology",
+  "subtopic": "Gene Regulation",
+  "difficulty": "medium",
+  "vignette": "A 45-year-old man is brought to the emergency department 10 hours after eating wild mushrooms that he picked himself. He has severe vomiting, profuse watery diarrhea, and abdominal pain; alanine aminotransferase is 5,200 U/L, aspartate aminotransferase is 4,800 U/L, and the INR is 2.4. Despite supportive care he develops acute liver failure.",
+  "question": "The toxin responsible for his hepatic injury most directly inhibits which of the following?",
+  "options": [
+    {
+      "id": "A",
+      "text": "DNA gyrase"
+    },
+    {
+      "id": "B",
+      "text": "Prokaryotic DNA-dependent RNA polymerase"
+    },
+    {
+      "id": "C",
+      "text": "The eukaryotic 60S ribosomal subunit"
+    },
+    {
+      "id": "D",
+      "text": "RNA polymerase II"
+    },
+    {
+      "id": "E",
+      "text": "RNA polymerase I"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "The patient ingested Amanita phalloides (the death cap mushroom), which contains alpha-amanitin. Alpha-amanitin inhibits RNA polymerase II, the enzyme that transcribes mRNA as well as microRNA and small nuclear RNA, so gene expression collapses in hepatocytes and severe gastrointestinal injury and hepatic failure follow.",
+  "explanation_incorrect": {
+    "A": "DNA gyrase is a prokaryotic topoisomerase inhibited by fluoroquinolones and is not affected by mushroom toxins.",
+    "B": "Prokaryotic DNA-dependent RNA polymerase is inhibited by rifamycins such as rifampin, not by alpha-amanitin.",
+    "C": "The 60S subunit is part of the eukaryotic ribosome and is inhibited by compounds such as cycloheximide; alpha-amanitin acts upstream, on transcription.",
+    "E": "RNA polymerase I transcribes ribosomal RNA in the nucleolus and is relatively insensitive to alpha-amanitin."
+  },
+  "educationalObjective": "Alpha-amanitin from Amanita phalloides inhibits RNA polymerase II, blocking mRNA synthesis and causing severe gastrointestinal injury and hepatic failure.",
+  "source": "Generated from 1. Biochemistry.pdf - Molecular Biology: Regulation of Gene Expression"
+}

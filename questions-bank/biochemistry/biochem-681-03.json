@@ -1,0 +1,41 @@
+{
+  "id": "biochem-681-03",
+  "subject": "Biochemistry",
+  "major_topic": "Vitamins and Minerals",
+  "subtopic": "Vitamin K",
+  "difficulty": "hard",
+  "vignette": "A 72-year-old man with atrial fibrillation takes warfarin and presents with melena and lightheadedness. His INR is 8.4 and his hemoglobin has fallen to 8.1 g/dL. He is resuscitated with fluids and packed red cells, and he receives an intravenous dose of vitamin K together with a prothrombin complex concentrate, after which his INR falls toward the therapeutic range over the next 24 hours.",
+  "question": "Warfarin produced this patient's bleeding tendency by which of the following mechanisms?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Direct inhibition of gamma-glutamyl carboxylase"
+    },
+    {
+      "id": "B",
+      "text": "Chelation of calcium ions required for coagulation factor activity"
+    },
+    {
+      "id": "C",
+      "text": "Blockade of intestinal absorption of vitamin K"
+    },
+    {
+      "id": "D",
+      "text": "Inhibition of vitamin K epoxide reductase, preventing regeneration of reduced vitamin K"
+    },
+    {
+      "id": "E",
+      "text": "Activation of antithrombin III with inactivation of thrombin and factor Xa"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Warfarin inhibits vitamin K epoxide reductase (VKORC1), the enzyme that regenerates reduced vitamin K from vitamin K epoxide. Without reduced vitamin K, gamma-glutamyl carboxylase cannot carboxylate glutamate residues on factors II, VII, IX, and X and on proteins C and S, so the factors are secreted in an inactive form; because the vitamin also drives synthesis of the short-lived anticoagulant proteins C and S, the anticoagulant effect is delayed in onset. Vitamin K bypasses the block by replenishing reduced vitamin K.",
+  "explanation_incorrect": {
+    "A": "Warfarin does not inhibit carboxylase directly; it depletes the reduced vitamin K cofactor that the carboxylase requires.",
+    "B": "Warfarin is not a calcium chelator; citrate, not warfarin, produces anticoagulation by binding calcium.",
+    "C": "Warfarin does not block vitamin K absorption; it blocks recycling of the vitamin after it is used.",
+    "E": "Antithrombin activation is the mechanism of heparin and its derivatives such as fondaparinux, not of warfarin."
+  },
+  "educationalObjective": "Warfarin anticoagulates by inhibiting vitamin K epoxide reductase and thereby reducing gamma-carboxylation of vitamin K-dependent clotting factors.",
+  "source": "Generated from 1. Biochemistry.pdf - Nutrition: Fat-Soluble Vitamins (Vitamin K)"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "biochem-661-05",
+  "subject": "Biochemistry",
+  "major_topic": "Molecular Biology",
+  "subtopic": "RNA Processing",
+  "difficulty": "hard",
+  "vignette": "A 5-year-old boy is evaluated for intellectual disability, a long face, large prominent ears, and macroorchidism. Genetic testing shows an expanded CGG repeat in FMR1 with hypermethylation and silencing of the gene. The encoded protein normally binds specific mRNAs and regulates their translation and stability within cytoplasmic processing bodies.",
+  "question": "Which of the following best describes the function of processing bodies (P-bodies)?",
+  "options": [
+    {
+      "id": "A",
+      "text": "They are nuclear sites of 5-prime capping and splicing"
+    },
+    {
+      "id": "B",
+      "text": "They are the site of rRNA transcription in the nucleolus"
+    },
+    {
+      "id": "C",
+      "text": "They are cytoplasmic foci containing decapping enzymes and exonucleases where mRNAs are degraded or stored for later translation"
+    },
+    {
+      "id": "D",
+      "text": "They are the site of poly-A tail addition"
+    },
+    {
+      "id": "E",
+      "text": "They are the site of aminoacyl-tRNA synthetase charging"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Processing bodies are cytoplasmic foci that contain decapping enzymes, exonucleases, and microRNAs and serve as sites of mRNA quality control, where transcripts are either degraded or stored for future translation. They are part of post-transcriptional regulation of gene expression. Nuclear events such as capping, splicing, and polyadenylation occur before the mRNA is exported to the cytoplasm.",
+  "explanation_incorrect": {
+    "A": "Capping and splicing take place in the nucleus; P-bodies are cytoplasmic structures.",
+    "B": "rRNA is transcribed by RNA polymerase I in the nucleolus, not within P-bodies.",
+    "D": "Polyadenylation occurs in the nucleus on the 3-prime end of the transcript.",
+    "E": "Aminoacylation of tRNA is performed by aminoacyl-tRNA synthetases in the cytosol, not in P-bodies."
+  },
+  "educationalObjective": "P-bodies are cytoplasmic mRNA quality-control centers containing decapping enzymes and exonucleases that degrade or store mRNAs.",
+  "source": "Generated from 1. Biochemistry.pdf - Molecular Biology: RNA Processing"
+}

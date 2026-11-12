@@ -1,0 +1,41 @@
+{
+  "id": "biochem-642-03",
+  "subject": "Biochemistry",
+  "major_topic": "Amino Acid Metabolism",
+  "subtopic": "One-Carbon Metabolism",
+  "difficulty": "hard",
+  "vignette": "A 71-year-old man with macrocytic anemia and paresthesias is treated with oral folic acid by a clinician who does not check vitamin B12 first. Six weeks later his hemoglobin normalizes and his hypersegmented neutrophils disappear, but he now has worsening numbness, an unsteady gait, and new urinary urgency. Serum vitamin B12 is later found to be low.",
+  "question": "Which of the following best explains this patient's course?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Folic acid directly inhibits methionine synthase and raises homocysteine"
+    },
+    {
+      "id": "B",
+      "text": "Folic acid corrects the anemia by supporting thymidylate synthesis while the B12-dependent methylation defect continues to injure the nervous system"
+    },
+    {
+      "id": "C",
+      "text": "Folic acid increases methylmalonic acid accumulation and causes demyelination"
+    },
+    {
+      "id": "D",
+      "text": "Folic acid enhances methylmalonyl-CoA mutase activity and depletes myelin lipids"
+    },
+    {
+      "id": "E",
+      "text": "Folic acid is converted to homocysteine, which directly forms the myelin sheath"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "In B12 deficiency, methionine synthase cannot transfer the methyl group from methyltetrahydrofolate, so folate is trapped as methyltetrahydrofolate and DNA synthesis is impaired. Folic acid bypasses this trap enough to permit thymidylate and DNA synthesis and thus corrects the anemia, but it does not restore B12-dependent methylation, so the demyelinating neurologic damage progresses. This is why folate supplementation can mask the hematologic findings of B12 deficiency without preventing neurologic injury.",
+  "explanation_incorrect": {
+    "A": "Folic acid does not inhibit methionine synthase; it corrects the hematologic consequence of the blocked enzyme without restoring its activity.",
+    "C": "Methylmalonic acid accumulates because methylmalonyl-CoA mutase requires adenosylcobalamin; folate administration does not increase its accumulation and is not the cause of demyelination.",
+    "D": "Folic acid does not activate methylmalonyl-CoA mutase; that enzyme requires adenosylcobalamin as its cofactor.",
+    "E": "Homocysteine is a metabolite that accumulates when remethylation fails; it is not a precursor of myelin."
+  },
+  "educationalObjective": "Folate can correct the megaloblastic anemia of B12 deficiency by supporting DNA synthesis while B12-dependent neurologic damage continues, so B12 deficiency must be excluded before folate is given.",
+  "source": "Generated from 1. Biochemistry.pdf - Amino Acid Metabolism: One-Carbon Metabolism"
+}

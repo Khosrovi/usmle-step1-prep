@@ -1,0 +1,41 @@
+{
+  "id": "biochem-617-01",
+  "subject": "Biochemistry",
+  "major_topic": "Carbohydrate Metabolism",
+  "subtopic": "TCA Cycle (Krebs)",
+  "difficulty": "medium",
+  "vignette": "A 42-year-old man is evaluated for 3 weeks of nausea, vomiting, and watery diarrhea. He recently moved to a rural area and has been drinking water from a private well. Examination shows hyperpigmented macules on the trunk and a prolonged QT interval on ECG; his breath has a faint garlic odor. Serum lactate is 3.2 mmol/L, and urine alpha-ketoglutarate is elevated.",
+  "question": "Decreased activity of which of the following TCA cycle enzymes best explains these findings?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Citrate synthase"
+    },
+    {
+      "id": "B",
+      "text": "Isocitrate dehydrogenase"
+    },
+    {
+      "id": "C",
+      "text": "Succinate dehydrogenase"
+    },
+    {
+      "id": "D",
+      "text": "alpha-Ketoglutarate dehydrogenase"
+    },
+    {
+      "id": "E",
+      "text": "Malate dehydrogenase"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Arsenic binds to lipoic acid, a cofactor shared by the alpha-ketoglutarate dehydrogenase complex and the pyruvate dehydrogenase complex, so alpha-ketoglutarate accumulates and the TCA cycle slows. The resulting energy deficit and oxidative stress explain the gastrointestinal, cutaneous, and cardiac (QT prolongation) findings of chronic arsenic poisoning.",
+  "explanation_incorrect": {
+    "A": "Citrate synthase catalyzes the first step of the cycle (oxaloacetate plus acetyl-CoA to citrate) and is not a lipoic acid-dependent enzyme.",
+    "B": "Isocitrate dehydrogenase produces alpha-ketoglutarate; its inhibition would lower, not raise, alpha-ketoglutarate.",
+    "C": "Succinate dehydrogenase is an FAD-linked inner membrane enzyme (complex II) that does not use lipoic acid.",
+    "E": "Malate dehydrogenase catalyzes the final NADH-producing step of the cycle and is not lipoic acid dependent."
+  },
+  "educationalObjective": "Arsenic inhibits the lipoic acid-dependent alpha-ketoglutarate dehydrogenase complex, causing accumulation of alpha-ketoglutarate and impaired TCA cycle flux.",
+  "source": "Generated from 1. Biochemistry.pdf - TCA Cycle (Krebs)"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "biochem-637-07",
+  "subject": "Biochemistry",
+  "major_topic": "Amino Acid Metabolism",
+  "subtopic": "Urea Cycle",
+  "difficulty": "hard",
+  "vignette": "A researcher compares two hepatic carbamoyl phosphate synthetase enzymes. One is mitochondrial, uses free ammonia for ureagenesis, and is allosterically activated by N-acetylglutamate. The other is cytosolic, uses glutamine for de novo pyrimidine synthesis, and is activated by PRPP.",
+  "question": "Which of the following best distinguishes these two enzymes?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Only carbamoyl phosphate synthetase I is inhibited by UTP."
+    },
+    {
+      "id": "B",
+      "text": "Carbamoyl phosphate synthetase I uses glutamine, whereas the cytosolic enzyme uses free ammonia."
+    },
+    {
+      "id": "C",
+      "text": "Carbamoyl phosphate synthetase I is cytosolic, whereas the pyrimidine-synthesis enzyme is mitochondrial."
+    },
+    {
+      "id": "D",
+      "text": "The pyrimidine-synthesis enzyme requires N-acetylglutamate as an allosteric activator."
+    },
+    {
+      "id": "E",
+      "text": "Carbamoyl phosphate synthetase I is activated by N-acetylglutamate, whereas the pyrimidine-synthesis enzyme is activated by PRPP."
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Carbamoyl phosphate synthetase I is mitochondrial, uses free ammonia for ureagenesis, and requires N-acetylglutamate as an allosteric activator. Carbamoyl phosphate synthetase II is cytosolic, uses glutamine for de novo pyrimidine synthesis, and is activated by PRPP and inhibited by UTP.",
+  "explanation_incorrect": {
+    "A": "UTP feedback-inhibits the pyrimidine pathway at carbamoyl phosphate synthetase II, not carbamoyl phosphate synthetase I.",
+    "B": "The substrate use is reversed: carbamoyl phosphate synthetase I uses free ammonia, and carbamoyl phosphate synthetase II uses glutamine.",
+    "C": "The locations are reversed: carbamoyl phosphate synthetase I is mitochondrial, and carbamoyl phosphate synthetase II is cytosolic.",
+    "D": "N-acetylglutamate activates carbamoyl phosphate synthetase I; carbamoyl phosphate synthetase II is activated by PRPP and inhibited by UTP."
+  },
+  "educationalObjective": "Carbamoyl phosphate synthetase I is the mitochondrial, N-acetylglutamate-activated enzyme of ureagenesis, whereas carbamoyl phosphate synthetase II is the cytosolic, PRPP-activated enzyme of pyrimidine synthesis.",
+  "source": "Generated from 1. Biochemistry.pdf - Amino Acid Metabolism: Urea Cycle"
+}

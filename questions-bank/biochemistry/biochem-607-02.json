@@ -1,0 +1,41 @@
+{
+  "id": "biochem-607-02",
+  "subject": "Biochemistry",
+  "major_topic": "Enzymology",
+  "subtopic": "Enzyme Kinetics (Michaelis-Menten, Vmax, Km)",
+  "difficulty": "medium",
+  "vignette": "A 45-year-old man with epilepsy has taken carbamazepine for 2 years. Routine laboratory studies show an isolated increase in serum gamma-glutamyl transferase and alkaline phosphatase with normal bilirubin and aminotransferase levels. Hepatic enzyme activity measured in a liver biopsy is markedly increased, but the Km of the induced enzyme for its substrate is identical to that measured in a healthy control liver.",
+  "question": "Which of the following best describes the kinetic change responsible for the increased hepatic enzyme activity in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Decreased Km with a compensatory decrease in Vmax"
+    },
+    {
+      "id": "B",
+      "text": "Increased total enzyme concentration, producing a higher Vmax at an unchanged Km"
+    },
+    {
+      "id": "C",
+      "text": "Increased substrate affinity of each enzyme molecule without a change in the maximal rate"
+    },
+    {
+      "id": "D",
+      "text": "Allosteric activation that simultaneously lowers Km and raises Vmax"
+    },
+    {
+      "id": "E",
+      "text": "Reduced degradation of enzyme molecules, which increases the kcat of each molecule"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Carbamazepine induces cytochrome P-450 and other hepatic enzymes by increasing gene transcription, so the number of enzyme molecules per cell rises. Because Vmax equals kcat multiplied by total enzyme concentration, Vmax increases in direct proportion to enzyme amount, whereas Km reflects the intrinsic substrate affinity of the catalytic site and is therefore unchanged.",
+  "explanation_incorrect": {
+    "A": "Enzyme induction does not alter substrate affinity, and a decrease in Km would be reflected as a change in the x-intercept of a Lineweaver-Burk plot rather than in Vmax.",
+    "C": "An increase in affinity of individual molecules would lower Km, which was explicitly unchanged in this patient.",
+    "D": "Allosteric activation changes the activity of existing enzyme molecules and does not explain enzyme induction after chronic drug exposure at unchanged Km.",
+    "E": "kcat is an intrinsic catalytic constant of the enzyme molecule and does not increase when degradation is reduced; decreased degradation raises enzyme concentration and thus Vmax."
+  },
+  "educationalObjective": "Vmax is proportional to total enzyme concentration (Vmax = kcat x [E]total), whereas Km depends only on the intrinsic properties of the enzyme for its substrate.",
+  "source": "Generated from 1. Biochemistry.pdf - Enzymology: Enzyme Kinetics (Michaelis-Menten, Vmax, Km)"
+}

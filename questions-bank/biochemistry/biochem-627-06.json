@@ -1,0 +1,41 @@
+{
+  "id": "biochem-627-06",
+  "subject": "Biochemistry",
+  "major_topic": "Lipid Metabolism",
+  "subtopic": "Fatty Acid beta-Oxidation",
+  "difficulty": "medium",
+  "vignette": "A 40-year-old man whose diet lacks dairy products and green leafy vegetables presents with cracked, fissured lips, a magenta tongue, and corneal vascularization. Urine organic acids show increased medium-chain dicarboxylic acids, and his diet history is otherwise adequate.",
+  "question": "Decreased activity of which of the following enzymes of beta-oxidation is most directly attributable to this vitamin deficiency?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Acyl-CoA dehydrogenase"
+    },
+    {
+      "id": "B",
+      "text": "Enoyl-CoA hydratase"
+    },
+    {
+      "id": "C",
+      "text": "3-hydroxyacyl-CoA dehydrogenase"
+    },
+    {
+      "id": "D",
+      "text": "beta-ketoacyl-CoA thiolase"
+    },
+    {
+      "id": "E",
+      "text": "Carnitine palmitoyltransferase I"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "The findings are typical of riboflavin (vitamin B2) deficiency. Riboflavin is the precursor of FAD and FMN, and acyl-CoA dehydrogenase, the first enzyme of each beta-oxidation cycle, requires FAD to oxidize the acyl chain to a trans-enoyl-CoA; impaired activity leads to accumulation of fatty acid derivatives and dicarboxylic acids.",
+  "explanation_incorrect": {
+    "B": "Enoyl-CoA hydratase adds water across the double bond and requires no vitamin-derived cofactor.",
+    "C": "3-hydroxyacyl-CoA dehydrogenase uses NAD+, derived from niacin (vitamin B3), not riboflavin.",
+    "D": "beta-ketoacyl-CoA thiolase requires coenzyme A, derived from pantothenic acid (vitamin B5), rather than FAD.",
+    "E": "Carnitine palmitoyltransferase I is part of the carnitine shuttle and does not use a flavin cofactor."
+  },
+  "educationalObjective": "Riboflavin-derived FAD is required by acyl-CoA dehydrogenase, the first step of beta-oxidation.",
+  "source": "Generated from 1. Biochemistry.pdf - Fatty Acid beta-Oxidation"
+}

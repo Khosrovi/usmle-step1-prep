@@ -1,0 +1,41 @@
+{
+  "id": "biochem-653-02",
+  "subject": "Biochemistry",
+  "major_topic": "Nucleotide Metabolism",
+  "subtopic": "Antimetabolite Drugs",
+  "difficulty": "medium",
+  "vignette": "A 22-year-old woman with osteosarcoma is receiving high-dose methotrexate followed by leucovorin rescue. On day 4 she develops severe mucositis, a painful rash, and a platelet count of 40,000/uL, and her serum methotrexate concentration remains markedly elevated. She is hemodynamically stable with normal renal function and no evidence of infection.",
+  "question": "Which of the following agents is most appropriate to limit the toxicity of methotrexate in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Leucovorin (folinic acid)"
+    },
+    {
+      "id": "B",
+      "text": "Allopurinol"
+    },
+    {
+      "id": "C",
+      "text": "Thymidine"
+    },
+    {
+      "id": "D",
+      "text": "Uridine"
+    },
+    {
+      "id": "E",
+      "text": "Hydroxycobalamin (vitamin B12)"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Methotrexate inhibits dihydrofolate reductase, depleting tetrahydrofolate and thereby blocking synthesis of dTMP and of purines. Leucovorin is a reduced folate that enters the folate pool distal to the blocked step, preferentially rescuing normal proliferating cells; it is given after high-dose methotrexate and escalated when drug clearance is delayed.",
+  "explanation_incorrect": {
+    "B": "Allopurinol inhibits xanthine oxidase and lowers uric acid; it does not reverse antifolate toxicity and can worsen myelosuppression when combined with azathioprine or 6-mercaptopurine.",
+    "C": "Thymidine rescue is used for thymidylate synthase inhibitors such as 5-fluorouracil; it does not bypass the dihydrofolate reductase block.",
+    "D": "Uridine bypasses the enzyme defect of hereditary orotic aciduria and does not replenish tetrahydrofolate pools.",
+    "E": "Vitamin B12 is a cofactor for methionine synthase and methylmalonyl-CoA mutase and does not treat methotrexate toxicity."
+  },
+  "educationalObjective": "Leucovorin rescue replenishes reduced folate pools distal to dihydrofolate reductase and limits methotrexate toxicity to normal tissues.",
+  "source": "Generated from 1. Biochemistry.pdf - Molecular Biochemistry: De Novo Pyrimidine and Purine Synthesis (Antimetabolite Drugs)"
+}

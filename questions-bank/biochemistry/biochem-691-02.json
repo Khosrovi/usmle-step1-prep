@@ -1,0 +1,41 @@
+{
+  "id": "biochem-691-02",
+  "subject": "Biochemistry",
+  "major_topic": "Inborn Errors of Metabolism",
+  "subtopic": "Lysosomal Storage Diseases Part 3",
+  "difficulty": "hard",
+  "vignette": "A 6-month-old girl with developmental regression, an exaggerated startle response, and a cherry-red macular spot is diagnosed with Tay-Sachs disease. Her abdominal examination is normal and ultrasound shows no hepatosplenomegaly, even though an infant of the same age with Niemann-Pick disease at the same clinic has massive hepatosplenomegaly.",
+  "question": "Which of the following best explains the absence of hepatosplenomegaly in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The stored substrate accumulates in hepatocytes only after weaning"
+    },
+    {
+      "id": "B",
+      "text": "The deficient enzyme is expressed exclusively in the central nervous system"
+    },
+    {
+      "id": "C",
+      "text": "The stored substrate accumulates predominantly in neurons rather than in reticuloendothelial macrophages"
+    },
+    {
+      "id": "D",
+      "text": "The defective enzyme is secreted extracellularly instead of being delivered to lysosomes"
+    },
+    {
+      "id": "E",
+      "text": "The accumulated substrate is rapidly excreted in bile"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "In Tay-Sachs disease, GM2 ganglioside accumulates chiefly in neurons of the central nervous system, producing neurodegeneration, hyperacusis, and the cherry-red macular spot from lipid engorgement of retinal ganglion cells. The reticuloendothelial system is not a major site of storage, so the liver and spleen remain normal in size. In Niemann-Pick disease, sphingomyelin and cholesterol also accumulate in macrophages, which is why hepatosplenomegaly is prominent.",
+  "explanation_incorrect": {
+    "A": "Storage begins in utero and is not related to the introduction of solid food; the distribution of substrate, not the timing, explains the findings.",
+    "B": "Hexosaminidase A is expressed in essentially all cells; the difference reflects where the substrate accrues, not enzyme expression.",
+    "D": "Extracellular secretion of lysosomal enzymes is the defect in I-cell disease, not Tay-Sachs disease.",
+    "E": "GM2 ganglioside is not excreted in bile; it accumulates within neurons and their lysosomes."
+  },
+  "educationalObjective": "Tay-Sachs disease lacks hepatosplenomegaly because GM2 ganglioside accumulates predominantly in central nervous system neurons rather than in reticuloendothelial macrophages.",
+  "source": "Generated from 1. Biochemistry.pdf - Lysosomal storage diseases (sphingolipidoses)"
+}

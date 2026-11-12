@@ -1,0 +1,41 @@
+{
+  "id": "biochem-609-05",
+  "subject": "Biochemistry",
+  "major_topic": "Enzymology",
+  "subtopic": "Enzyme Inhibition Types",
+  "difficulty": "medium",
+  "vignette": "A 26-year-old farm worker is brought to the emergency department with salivation, lacrimation, urination, diarrhea, bronchospasm, bradycardia, and pinpoint pupils after accidental exposure to an organophosphate insecticide. He is treated with atropine and pralidoxime. The insecticide phosphorylates a serine residue in the active site of acetylcholinesterase, and enzyme activity returns only as new enzyme is synthesized.",
+  "question": "Which of the following statements about this inhibitor is correct?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Its effect at the synapse can be reversed acutely by increasing acetylcholine concentration"
+    },
+    {
+      "id": "B",
+      "text": "It increases Km while leaving Vmax unchanged"
+    },
+    {
+      "id": "C",
+      "text": "Its binding is rapidly reversible by simple dilution of the synaptic cleft fluid"
+    },
+    {
+      "id": "D",
+      "text": "It is a competitive inhibitor that raises the apparent Km for acetylcholine"
+    },
+    {
+      "id": "E",
+      "text": "It produces an irreversible reduction in Vmax that cannot be overcome by increasing substrate concentration"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Organophosphates covalently phosphorylate the catalytic serine of acetylcholinesterase, irreversibly inactivating the enzyme and reducing the effective Vmax; because no free active enzyme remains available to compete with substrate, adding more acetylcholine cannot restore activity. Recovery depends on synthesis of new enzyme or on reactivation by pralidoxime if given before aging of the phosphorylated complex. This irreversible inhibition is not described by a change in Km.",
+  "explanation_incorrect": {
+    "A": "Raising acetylcholine concentration cannot help because the covalently modified enzyme molecules are permanently inactive; the substrate simply accumulates and produces the cholinergic crisis.",
+    "B": "An increase in Km with unchanged Vmax describes reversible competitive inhibition, not covalent phosphorylation of the active site.",
+    "C": "Covalent phosphorylation does not dissociate on dilution, so dialyzing or diluting the synapse would not restore activity.",
+    "D": "Competitive inhibitors bind noncovalently and reversibly at the active site; organophosphates form stable covalent bonds and reduce Vmax."
+  },
+  "educationalObjective": "Irreversible inhibitors such as organophosphates covalently inactivate the enzyme, lowering Vmax permanently so that substrate cannot overcome the block.",
+  "source": "Generated from 1. Biochemistry.pdf - Enzymology: Enzyme Inhibition Types"
+}

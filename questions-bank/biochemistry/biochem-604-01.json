@@ -1,0 +1,41 @@
+{
+  "id": "biochem-604-01",
+  "subject": "Biochemistry",
+  "major_topic": "Amino Acids & Proteins",
+  "subtopic": "Plasma Proteins",
+  "difficulty": "medium",
+  "vignette": "A 22-year-old man of Mediterranean descent develops jaundice and dark urine 3 days after beginning primaquine for malaria prophylaxis. His hemoglobin is 7.6 g/dL, reticulocyte count is 9%, indirect bilirubin is 4.3 mg/dL, and lactate dehydrogenase is markedly elevated. Serum haptoglobin is undetectable, and the peripheral smear shows bite cells.",
+  "question": "Which of the following best explains the low serum haptoglobin in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Decreased hepatic synthesis of haptoglobin due to hepatocellular injury"
+    },
+    {
+      "id": "B",
+      "text": "Urinary loss of haptoglobin caused by glomerular damage"
+    },
+    {
+      "id": "C",
+      "text": "Consumption of haptoglobin by bilirubin in the circulation"
+    },
+    {
+      "id": "D",
+      "text": "Haptoglobin binds free hemoglobin released during intravascular hemolysis, and the complex is cleared by the reticuloendothelial system"
+    },
+    {
+      "id": "E",
+      "text": "Haptoglobin is a positive acute phase reactant whose level falls during inflammation"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Haptoglobin is a plasma glycoprotein that binds free hemoglobin liberated by intravascular hemolysis, forming a complex that is removed by the reticuloendothelial system. This conserves iron and prevents hemoglobin-induced renal injury, but it also consumes haptoglobin, so the serum level falls rapidly and is a sensitive marker of intravascular hemolysis. This patient has G6PD deficiency triggered by primaquine, with bite cells, low haptoglobin, high LDH, and indirect hyperbilirubinemia.",
+  "explanation_incorrect": {
+    "A": "Haptoglobin is synthesized in the liver, but this patient has no evidence of hepatocellular injury; low haptoglobin here reflects consumption by free hemoglobin.",
+    "B": "Haptoglobin is retained in plasma by its high molecular weight and is not lost in urine unless there is severe glomerular disease, which is absent in this case.",
+    "C": "Bilirubin does not bind or consume haptoglobin; the relevant ligand is free hemoglobin released from lysed red blood cells.",
+    "E": "Haptoglobin is an acute phase reactant whose level rises with inflammation, not falls; the low value here reflects hemolysis."
+  },
+  "educationalObjective": "Haptoglobin binds free hemoglobin during intravascular hemolysis and is consumed in the process, so a low serum haptoglobin is a sensitive marker of hemolysis.",
+  "source": "Generated from 1. Biochemistry.pdf - Plasma Proteins"
+}

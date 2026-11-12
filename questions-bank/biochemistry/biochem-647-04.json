@@ -1,0 +1,41 @@
+{
+  "id": "biochem-647-04",
+  "subject": "Biochemistry",
+  "major_topic": "Nucleotide Metabolism",
+  "subtopic": "Purine Salvage Pathway",
+  "difficulty": "medium",
+  "vignette": "A 9-year-old boy has mild hyperuricemia but normal intelligence and no neurologic symptoms. Enzyme studies on his cultured fibroblasts show reduced formation of GMP from free guanine and of IMP from free hypoxanthine, while adenine salvage, adenosine deamination, and xanthine oxidation are all normal. The residual enzyme activity is approximately 15% of normal.",
+  "question": "Which of the following reactions is impaired in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Hydrolytic removal of the purine base from guanosine to yield guanine and ribose"
+    },
+    {
+      "id": "B",
+      "text": "Oxidation of hypoxanthine to xanthine using molecular oxygen"
+    },
+    {
+      "id": "C",
+      "text": "Phosphorylation of guanosine to GMP using ATP as the phosphate donor"
+    },
+    {
+      "id": "D",
+      "text": "Deamination of guanosine to inosine"
+    },
+    {
+      "id": "E",
+      "text": "Transfer of ribose-5-phosphate from PRPP to guanine to form GMP, and to hypoxanthine to form IMP"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Hypoxanthine-guanine phosphoribosyltransferase (HGPRT) catalyzes the salvage of free guanine and hypoxanthine by transferring the ribose-5-phosphate moiety of PRPP, producing GMP and IMP, respectively. IMP and GMP then feedback-inhibit PRPP amidotransferase; when salvage is reduced, PRPP accumulates and de novo purine synthesis rises, causing hyperuricemia. This patient's partial deficiency is milder than complete HGPRT deficiency, which produces Lesch-Nyhan syndrome.",
+  "explanation_incorrect": {
+    "A": "Hydrolysis of guanosine is catalyzed by purine nucleoside phosphorylase, not HGPRT, and would not be affected by an HGPRT defect.",
+    "B": "Oxidation of hypoxanthine to xanthine is catalyzed by xanthine oxidase, which is normal in this patient.",
+    "C": "HGPRT uses PRPP, not ATP, as the ribose-5-phosphate donor; a kinase does not form GMP directly from guanosine in this salvage reaction.",
+    "D": "Deamination of guanosine is not the HGPRT reaction, and the patient's adenosine deaminase activity is normal."
+  },
+  "educationalObjective": "HGPRT salvages guanine and hypoxanthine by transferring ribose-5-phosphate from PRPP to form GMP and IMP, and its partial deficiency causes hyperuricemia without the neurologic features of Lesch-Nyhan syndrome.",
+  "source": "Generated from 1. Biochemistry.pdf - Nucleotide Metabolism: Purine Salvage Pathway"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "pharm-008",
+  "subject": "Pharmacology",
+  "major_topic": "Toxicities and Adverse Effects",
+  "subtopic": "Anticoagulant reversal",
+  "difficulty": "medium",
+  "vignette": "A 67-year-old man taking warfarin for atrial fibrillation presents with gross hematuria and melena. His INR is 8.5 and hemoglobin is 7.8 g/dL.",
+  "question": "Which of the following provides the most rapid reversal of his coagulopathy?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Prothrombin complex concentrate"
+    },
+    {
+      "id": "B",
+      "text": "Vitamin K"
+    },
+    {
+      "id": "C",
+      "text": "Protamine sulfate"
+    },
+    {
+      "id": "D",
+      "text": "Idarucizumab"
+    },
+    {
+      "id": "E",
+      "text": "Andexanet alfa"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Prothrombin complex concentrate and fresh frozen plasma replace functional vitamin K-dependent clotting factors immediately and are used for life-threatening bleeding. Vitamin K is also given to sustain reversal but takes hours to become effective.",
+  "explanation_incorrect": {
+    "B": "Vitamin K is necessary for sustained reversal but its effect is delayed by several hours and is too slow for active bleeding.",
+    "C": "Protamine sulfate reverses heparin.",
+    "D": "Idarucizumab reverses dabigatran.",
+    "E": "Andexanet alfa reverses direct factor Xa inhibitors such as apixaban and rivaroxaban."
+  },
+  "educationalObjective": "Prothrombin complex concentrate (or fresh frozen plasma) provides immediate factor replacement for life-threatening warfarin bleeding, with vitamin K given for sustained reversal.",
+  "source": "Generated from 5. Pharmacology.pdf - Toxicities and Adverse Effects (specific toxicity treatments)"
+}

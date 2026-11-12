@@ -1,0 +1,41 @@
+{
+  "id": "biochem-659-04",
+  "subject": "Biochemistry",
+  "major_topic": "Molecular Biology",
+  "subtopic": "Xeroderma Pigmentosum, Lynch, BRCA",
+  "difficulty": "hard",
+  "vignette": "A 61-year-old woman with high-grade serous ovarian cancer and a germline BRCA2 mutation is started on olaparib after chemotherapy. Her tumor cells cannot repair DNA double-strand breaks by homologous recombination, whereas her nonmalignant cells retain one functional BRCA2 allele.",
+  "question": "Which of the following best explains why olaparib is selectively toxic to her tumor cells?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It inhibits topoisomerase II and generates double-strand breaks"
+    },
+    {
+      "id": "B",
+      "text": "It restores BRCA2 function and promotes homologous recombination"
+    },
+    {
+      "id": "C",
+      "text": "It increases DNA methylation of the BRCA2 promoter"
+    },
+    {
+      "id": "D",
+      "text": "It inhibits thymidylate synthase and blocks DNA synthesis"
+    },
+    {
+      "id": "E",
+      "text": "It blocks poly(ADP-ribose) polymerase, and the resulting unrepaired single-strand breaks become double-strand breaks that cells lacking homologous recombination cannot repair"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "This is synthetic lethality: poly(ADP-ribose) polymerase (PARP) normally participates in single-strand break repair, and PARP inhibition leaves single-strand breaks that collapse into double-strand breaks at replication forks. Tumor cells lacking BRCA2 cannot repair those breaks by homologous recombination and die, whereas normal cells with intact homologous recombination survive.",
+  "explanation_incorrect": {
+    "A": "Topoisomerase II inhibitors such as etoposide and teniposide generate double-strand breaks directly; that is not the mechanism of PARP inhibitors.",
+    "B": "Olaparib does not restore BRCA function; it exploits the loss of function.",
+    "C": "DNA methylation changes are not the mechanism of PARP inhibition.",
+    "D": "Thymidylate synthase is inhibited by 5-fluorouracil, not by PARP inhibitors."
+  },
+  "educationalObjective": "PARP inhibitors exploit synthetic lethality by producing unrepaired double-strand breaks in BRCA-deficient tumor cells that cannot perform homologous recombination.",
+  "source": "Generated from 1. Biochemistry.pdf - Xeroderma Pigmentosum, Lynch Syndrome, BRCA"
+}

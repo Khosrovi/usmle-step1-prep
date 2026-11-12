@@ -1,0 +1,41 @@
+{
+  "id": "biochem-634-02",
+  "subject": "Biochemistry",
+  "major_topic": "Lipid Metabolism",
+  "subtopic": "Familial Hypercholesterolemias",
+  "difficulty": "medium",
+  "vignette": "A 35-year-old woman has an LDL cholesterol of 260 mg/dL and total cholesterol of 330 mg/dL despite a low-fat diet; her triglycerides are normal. Her mother and maternal uncle have hypercholesterolemia, and her mother underwent coronary artery bypass grafting at age 48. Genetic testing confirms a mutation in a hepatic cell-surface protein that clears LDL.",
+  "question": "Which of the following mechanisms best explains the elevated LDL cholesterol in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Increased hepatic production of VLDL"
+    },
+    {
+      "id": "B",
+      "text": "Deficient lipoprotein lipase activity"
+    },
+    {
+      "id": "C",
+      "text": "Absent or defective LDL receptors"
+    },
+    {
+      "id": "D",
+      "text": "Defective apolipoprotein E"
+    },
+    {
+      "id": "E",
+      "text": "Increased intestinal cholesterol absorption"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Familial hypercholesterolemia is most often caused by mutations that reduce or abolish LDL receptors, impairing receptor-mediated endocytosis of LDL and slowing its clearance. Heterozygotes, about 1 in 500 people, have cholesterol near 300 mg/dL and premature atherosclerosis, whereas homozygotes exceed 700 mg/dL. The vertical family history reflects autosomal dominant transmission.",
+  "explanation_incorrect": {
+    "A": "Hepatic overproduction of VLDL characterizes type IV hypertriglyceridemia and raises triglycerides, which are normal here.",
+    "B": "Lipoprotein lipase deficiency causes type I hyperchylomicronemia with massive hypertriglyceridemia.",
+    "D": "Defective apo E impairs remnant clearance and produces type III dysbetalipoproteinemia.",
+    "E": "Increased cholesterol absorption does not explain the autosomal dominant family pattern or the isolated LDL elevation."
+  },
+  "educationalObjective": "Familial hypercholesterolemia results from absent or defective LDL receptors, which reduces LDL clearance and causes autosomal dominant hypercholesterolemia with premature atherosclerosis.",
+  "source": "Generated from 1. Biochemistry.pdf - Familial Dyslipidemias"
+}

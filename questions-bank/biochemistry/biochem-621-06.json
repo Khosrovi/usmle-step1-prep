@@ -1,0 +1,41 @@
+{
+  "id": "biochem-621-06",
+  "subject": "Biochemistry",
+  "major_topic": "Carbohydrate Metabolism",
+  "subtopic": "Pentose Phosphate Pathway",
+  "difficulty": "hard",
+  "vignette": "A 58-year-old man with alcohol use disorder is brought to the hospital with confusion, unsteady gait, and horizontal nystagmus with ophthalmoplegia. His diet has been poor for several months.",
+  "question": "Which of the following enzymes of the pentose phosphate pathway requires thiamine pyrophosphate as a cofactor?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Transketolase"
+    },
+    {
+      "id": "B",
+      "text": "Glucose-6-phosphate dehydrogenase"
+    },
+    {
+      "id": "C",
+      "text": "6-Phosphogluconate dehydrogenase"
+    },
+    {
+      "id": "D",
+      "text": "Phosphopentose isomerase"
+    },
+    {
+      "id": "E",
+      "text": "Ribulose-5-phosphate epimerase"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Transketolase, an enzyme of the nonoxidative phase of the pentose phosphate pathway, requires thiamine pyrophosphate (vitamin B1). Thiamine deficiency also impairs pyruvate dehydrogenase and alpha-ketoglutarate dehydrogenase and classically produces Wernicke encephalopathy with confusion, ataxia, and ophthalmoplegia.",
+  "explanation_incorrect": {
+    "B": "Glucose-6-phosphate dehydrogenase is the rate-limiting enzyme of the oxidative phase and uses NADP+ as an electron acceptor, not thiamine pyrophosphate.",
+    "C": "6-Phosphogluconate dehydrogenase is the second dehydrogenase of the oxidative phase and also uses NADP+, not a thiamine cofactor.",
+    "D": "Phosphopentose isomerase converts ribulose-5-phosphate to ribose-5-phosphate without a thiamine pyrophosphate cofactor.",
+    "E": "Ribulose-5-phosphate epimerase converts ribulose-5-phosphate to xylulose-5-phosphate and does not require thiamine pyrophosphate."
+  },
+  "educationalObjective": "Transketolase, a thiamine pyrophosphate-dependent enzyme of the nonoxidative pentose phosphate pathway, is one of the enzymes impaired in thiamine deficiency.",
+  "source": "Generated from 1. Biochemistry.pdf - Pentose Phosphate Pathway"
+}

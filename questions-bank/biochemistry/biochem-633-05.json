@@ -1,0 +1,41 @@
+{
+  "id": "biochem-633-05",
+  "subject": "Biochemistry",
+  "major_topic": "Lipid Metabolism",
+  "subtopic": "Apolipoproteins",
+  "difficulty": "hard",
+  "vignette": "A 29-year-old woman is evaluated for an LDL cholesterol of 245 mg/dL and a normal triglyceride level. Her father had a myocardial infarction at age 43, and her brother has a similar lipid profile. Genetic testing shows normal LDL receptor expression but a variant that alters the receptor-binding region of the major LDL ligand.",
+  "question": "Which of the following apolipoproteins is most likely defective in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Apolipoprotein A-I"
+    },
+    {
+      "id": "B",
+      "text": "Apolipoprotein C-II"
+    },
+    {
+      "id": "C",
+      "text": "Apolipoprotein E"
+    },
+    {
+      "id": "D",
+      "text": "Apolipoprotein B-48"
+    },
+    {
+      "id": "E",
+      "text": "Apolipoprotein B-100"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Apo B-100 is present on liver-derived VLDL, IDL, and LDL and is the ligand that binds the LDL receptor, permitting receptor-mediated endocytosis and LDL clearance. A variant that impairs this binding produces familial hypercholesterolemia with high LDL and premature atherosclerosis despite normal receptor expression. Apo B-48, in contrast, is made only in the intestine.",
+  "explanation_incorrect": {
+    "A": "Apo A-I is the LCAT activator on HDL and does not bind the LDL receptor.",
+    "B": "Apo C-II is a lipoprotein lipase cofactor acting on triglyceride-rich particles.",
+    "C": "Apo E mediates remnant uptake but is not the ligand that is defective in this patient's LDL particles.",
+    "D": "Apo B-48 is synthesized only in the small intestine and mediates chylomicron secretion."
+  },
+  "educationalObjective": "Apo B-100 is the LDL receptor ligand on liver-derived lipoproteins, and defective binding causes a dominantly inherited hypercholesterolemia phenotype.",
+  "source": "Generated from 1. Biochemistry.pdf - Major Apolipoproteins"
+}

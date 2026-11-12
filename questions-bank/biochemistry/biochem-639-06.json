@@ -1,0 +1,41 @@
+{
+  "id": "biochem-639-06",
+  "subject": "Biochemistry",
+  "major_topic": "Amino Acid Metabolism",
+  "subtopic": "Phenylalanine and Tyrosine Metabolism",
+  "difficulty": "medium",
+  "vignette": "A 68-year-old man with Parkinson disease starts carbidopa-levodopa. Carbidopa does not cross the blood-brain barrier and reduces peripheral side effects such as nausea and orthostatic hypotension while increasing the amount of levodopa that reaches the brain.",
+  "question": "Carbidopa produces these effects by inhibiting which enzyme?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Tyrosine hydroxylase"
+    },
+    {
+      "id": "B",
+      "text": "Dopamine beta-hydroxylase"
+    },
+    {
+      "id": "C",
+      "text": "Catechol-O-methyltransferase"
+    },
+    {
+      "id": "D",
+      "text": "Monoamine oxidase B"
+    },
+    {
+      "id": "E",
+      "text": "DOPA decarboxylase"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Carbidopa inhibits peripheral aromatic L-amino acid decarboxylase, also called DOPA decarboxylase, preventing conversion of levodopa to dopamine outside the brain. Because carbidopa does not cross the blood-brain barrier, levodopa that reaches the brain is still decarboxylated to dopamine by central DOPA decarboxylase.",
+  "explanation_incorrect": {
+    "A": "Tyrosine hydroxylase catalyzes the rate-limiting step of catecholamine synthesis and is not inhibited by carbidopa.",
+    "B": "Dopamine beta-hydroxylase converts dopamine to norepinephrine and requires vitamin C.",
+    "C": "Catechol-O-methyltransferase inhibitors such as entacapone block peripheral metabolism of levodopa, but carbidopa does not inhibit this enzyme.",
+    "D": "Monoamine oxidase B inhibitors such as selegiline reduce dopamine degradation in the brain; carbidopa does not inhibit monoamine oxidase B."
+  },
+  "educationalObjective": "Carbidopa inhibits peripheral DOPA decarboxylase, increasing levodopa delivery to the brain and reducing peripheral dopamine effects.",
+  "source": "Generated from 1. Biochemistry.pdf - Amino Acid Metabolism: Phenylalanine and Tyrosine Metabolism"
+}

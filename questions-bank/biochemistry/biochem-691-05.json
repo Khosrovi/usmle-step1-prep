@@ -1,0 +1,41 @@
+{
+  "id": "biochem-691-05",
+  "subject": "Biochemistry",
+  "major_topic": "Inborn Errors of Metabolism",
+  "subtopic": "Lysosomal Storage Diseases Part 3",
+  "difficulty": "medium",
+  "vignette": "A 24-year-old asymptomatic woman seeks counseling because her father was diagnosed with Fabry disease after developing end-stage renal disease. Her leukocyte α-galactosidase A activity is moderately reduced, and slit-lamp examination shows faint corneal opacities. She and her healthy husband are planning a pregnancy.",
+  "question": "Which of the following best describes the risk that a future son of this couple will be affected?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Essentially 0%, because the disease affects only males"
+    },
+    {
+      "id": "B",
+      "text": "25%, because both parents must contribute a mutant allele"
+    },
+    {
+      "id": "C",
+      "text": "Essentially 0%, because the mutant allele is transmitted only by mothers"
+    },
+    {
+      "id": "D",
+      "text": "50%, because she is an obligatory carrier of an X-linked recessive allele"
+    },
+    {
+      "id": "E",
+      "text": "100%, because all children of affected mothers are affected"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Fabry disease is inherited in an X-linked recessive pattern, and an affected father passes his mutated X chromosome to every daughter, making her an obligatory carrier. Each son of a carrier mother inherits either the mutated or the normal X chromosome with equal probability, so the risk is 50%. Female carriers can be mildly symptomatic because random X-inactivation (lyonization) leaves some cells expressing the mutant allele, which explains this patient's low enzyme activity and corneal opacities.",
+  "explanation_incorrect": {
+    "A": "Heterozygous women are not simply unaffected; lyonization allows angiokeratomas, acroparesthesias, renal disease, and corneal changes.",
+    "B": "A 25% risk describes autosomal recessive inheritance, whereas Fabry disease is X-linked; the father's genotype is irrelevant here because he is not contributing an X chromosome to a son.",
+    "C": "It is true that fathers do not transmit an X-linked allele to their sons, but this patient is the mother and is a carrier, so her sons are at risk.",
+    "E": "A 100% transmission to all offspring is characteristic of mitochondrial (maternal) inheritance, not of an X-linked gene."
+  },
+  "educationalObjective": "Daughters of men with Fabry disease are obligatory carriers of an X-linked recessive allele, so each of their sons has a 50% risk of being affected.",
+  "source": "Generated from 1. Biochemistry.pdf - Genetics (X-linked recessive inheritance)"
+}

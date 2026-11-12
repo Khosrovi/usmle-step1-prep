@@ -1,0 +1,41 @@
+{
+  "id": "biochem-666-07",
+  "subject": "Biochemistry",
+  "major_topic": "Molecular Biology",
+  "subtopic": "Recombinant DNA Technology",
+  "difficulty": "medium",
+  "vignette": "A 45-year-old woman with metastatic melanoma is enrolled in a clinical trial of a chemically synthesized small interfering RNA designed to knock down a mutant kinase that drives her tumor. The RNA is perfectly complementary to the target mRNA.",
+  "question": "Which of the following best describes the expected mechanism of action?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It binds the promoter and blocks transcription of the gene."
+    },
+    {
+      "id": "B",
+      "text": "It requires only partial base pairing and blocks translation without degrading the mRNA."
+    },
+    {
+      "id": "C",
+      "text": "It directs highly specific cleavage of the target mRNA before translation."
+    },
+    {
+      "id": "D",
+      "text": "It is reverse-transcribed and inserted into the genome."
+    },
+    {
+      "id": "E",
+      "text": "It is translated into a dominant-negative protein."
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Small interfering RNAs are usually derived from exogenous double-stranded RNA or are chemically synthesized; after loading into the RNA-induced silencing complex they require complete nucleotide pairing with their target. This complete pairing leads to cleavage of the mRNA before translation and highly specific gene knockdown. MicroRNAs, by contrast, use loose pairing to repress translation of many related mRNAs.",
+  "explanation_incorrect": {
+    "A": "siRNA does not act on the promoter; it operates on cytoplasmic mRNA.",
+    "B": "That describes microRNA, which uses partial pairing to block translation and can also promote degradation, giving broader targeting.",
+    "D": "siRNA is not reverse-transcribed or integrated into the genome; it functions as an RNA molecule in the cytosol.",
+    "E": "siRNA is noncoding and is not translated into protein."
+  },
+  "educationalObjective": "siRNA requires complete base pairing with its target mRNA and causes highly specific mRNA cleavage before translation, whereas miRNA uses loose pairing to repress translation of related mRNAs.",
+  "source": "Generated from 1. Biochemistry.pdf - Laboratory Techniques: Recombinant DNA Technology"
+}

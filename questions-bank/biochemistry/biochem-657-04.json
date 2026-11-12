@@ -1,0 +1,41 @@
+{
+  "id": "biochem-657-04",
+  "subject": "Biochemistry",
+  "major_topic": "Molecular Biology",
+  "subtopic": "DNA Repair (BER, NER, MMR)",
+  "difficulty": "medium",
+  "vignette": "A 38-year-old woman with Lynch syndrome undergoes colonoscopy, and biopsy of a cecal mass shows a mismatch repair-deficient adenocarcinoma. Her tumor cells accumulate errors in the newly synthesized DNA strand.",
+  "question": "The repair process that is defective in this patient normally occurs predominantly in which phase of the cell cycle?",
+  "options": [
+    {
+      "id": "A",
+      "text": "G1 phase"
+    },
+    {
+      "id": "B",
+      "text": "G2 phase"
+    },
+    {
+      "id": "C",
+      "text": "M phase"
+    },
+    {
+      "id": "D",
+      "text": "S phase"
+    },
+    {
+      "id": "E",
+      "text": "G0 phase"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Mismatch repair occurs predominantly in S phase, when mismatched nucleotides in newly synthesized DNA are removed and the gap is filled and resealed. For comparison, nucleotide excision repair occurs in G1 phase and base excision repair acts throughout the cell cycle.",
+  "explanation_incorrect": {
+    "A": "G1 phase is the period in which nucleotide excision repair is active, not the predominant phase for mismatch repair.",
+    "B": "G2 phase follows DNA synthesis and is not the principal phase for mismatch correction.",
+    "C": "M phase is mitosis, when chromosomes are segregated rather than newly synthesized DNA being proofread.",
+    "E": "G0 is the quiescent, noncycling state and is not the phase of mismatch repair."
+  },
+  "educationalObjective": "Mismatch repair occurs predominantly during S phase.",
+  "source": "Generated from 1. Biochemistry.pdf - Molecular Biology: DNA Repair (BER, NER, MMR)"
+}

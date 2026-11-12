@@ -1,0 +1,41 @@
+{
+  "id": "biochem-646-04",
+  "subject": "Biochemistry",
+  "major_topic": "Nucleotide Metabolism",
+  "subtopic": "Purine Synthesis de novo",
+  "difficulty": "medium",
+  "vignette": "A 34-year-old woman with Crohn disease is started on azathioprine. Over the next 3 months her lymphocyte count falls and her intestinal symptoms improve markedly. Her thiopurine methyltransferase activity is normal, and she continues to take the drug without infectious complications.",
+  "question": "Azathioprine is a prodrug of 6-mercaptopurine. Which of the following best describes the mechanism by which it suppresses lymphocyte proliferation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Inhibition of dihydrofolate reductase, depleting tetrahydrofolate"
+    },
+    {
+      "id": "B",
+      "text": "Inhibition of de novo purine synthesis after conversion to thio-IMP, depleting adenine and guanine nucleotides"
+    },
+    {
+      "id": "C",
+      "text": "Inhibition of inosine monophosphate dehydrogenase, depleting guanine nucleotides"
+    },
+    {
+      "id": "D",
+      "text": "Inhibition of ribonucleotide reductase, depleting deoxyribonucleotides"
+    },
+    {
+      "id": "E",
+      "text": "Inhibition of thymidylate synthase, depleting dTMP"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "6-Mercaptopurine is activated by HGPRT to thio-IMP, a purine analog that blocks de novo purine synthesis and is incorporated into DNA as thioguanine nucleotides, suppressing lymphocyte proliferation. Azathioprine is metabolized both by xanthine oxidase and by thiopurine methyltransferase, which explains the myelotoxicity that occurs when xanthine oxidase is inhibited by allopurinol.",
+  "explanation_incorrect": {
+    "A": "Dihydrofolate reductase is inhibited by methotrexate, not by thiopurines.",
+    "C": "Inosine monophosphate dehydrogenase is inhibited by mycophenolate and ribavirin.",
+    "D": "Ribonucleotide reductase is inhibited by hydroxyurea.",
+    "E": "Thymidylate synthase is inhibited by 5-fluorouracil through its metabolite 5-fluorodeoxyuridine monophosphate."
+  },
+  "educationalObjective": "Azathioprine and 6-mercaptopurine inhibit de novo purine synthesis after conversion to thio-IMP, which is why xanthine oxidase inhibition by allopurinol causes thiopurine accumulation and myelotoxicity.",
+  "source": "Generated from 1. Biochemistry.pdf - Nucleotide Metabolism: Purine Synthesis de novo"
+}

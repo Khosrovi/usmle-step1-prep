@@ -1,0 +1,41 @@
+{
+  "id": "biochem-638-04",
+  "subject": "Biochemistry",
+  "major_topic": "Amino Acid Metabolism",
+  "subtopic": "Urea Cycle Disorders",
+  "difficulty": "medium",
+  "vignette": "A 6-day-old infant is lethargic and feeding poorly. Plasma ammonia is 500 umol/L, and plasma citrulline is moderately elevated. Blood and urine show a large increase in argininosuccinic acid and its anhydrides.",
+  "question": "Deficiency of which enzyme is the most likely cause?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Carbamoyl phosphate synthetase I"
+    },
+    {
+      "id": "B",
+      "text": "Ornithine transcarbamylase"
+    },
+    {
+      "id": "C",
+      "text": "Argininosuccinate synthetase"
+    },
+    {
+      "id": "D",
+      "text": "Arginase"
+    },
+    {
+      "id": "E",
+      "text": "Argininosuccinate lyase"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Argininosuccinate lyase cleaves argininosuccinate into arginine and fumarate; when it is deficient, argininosuccinate accumulates and is excreted in urine, producing argininosuccinic aciduria. Hyperammonemia occurs because the cycle cannot regenerate arginine and ornithine efficiently.",
+  "explanation_incorrect": {
+    "A": "Carbamoyl phosphate synthetase I deficiency presents with low citrulline and no orotic acid, not with argininosuccinate accumulation.",
+    "B": "Ornithine transcarbamylase deficiency raises orotic acid and does not cause argininosuccinic aciduria.",
+    "C": "Argininosuccinate synthetase catalyzes the step before lyase; its deficiency raises citrulline, not argininosuccinate.",
+    "D": "Arginase deficiency raises arginine and does not accumulate argininosuccinate."
+  },
+  "educationalObjective": "Argininosuccinate lyase deficiency causes accumulation of argininosuccinate, or argininosuccinic aciduria, with hyperammonemia.",
+  "source": "Generated from 1. Biochemistry.pdf - Amino Acid Metabolism: Urea Cycle Disorders"
+}

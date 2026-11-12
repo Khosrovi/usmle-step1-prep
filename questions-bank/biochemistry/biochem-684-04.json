@@ -1,0 +1,41 @@
+{
+  "id": "biochem-684-04",
+  "subject": "Biochemistry",
+  "major_topic": "Heme and Bilirubin Metabolism",
+  "subtopic": "Heme Synthesis",
+  "difficulty": "medium",
+  "vignette": "A 27-year-old man with sideroblastic anemia due to an ALAS2 mutation is seen for genetic counseling. His physician explains that heme synthesis requires both mitochondrial and cytosolic enzymes, with intermediates shuttling across the mitochondrial membranes, and that the patient should understand where the defective step occurs.",
+  "question": "Which of the following enzymes catalyzes a reaction that occurs in the cytosol?",
+  "options": [
+    {
+      "id": "A",
+      "text": "ALA synthase"
+    },
+    {
+      "id": "B",
+      "text": "Ferrochelatase"
+    },
+    {
+      "id": "C",
+      "text": "Protoporphyrinogen oxidase"
+    },
+    {
+      "id": "D",
+      "text": "ALA dehydratase"
+    },
+    {
+      "id": "E",
+      "text": "Coproporphyrinogen oxidase"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Heme synthesis begins in the mitochondrial matrix with ALA synthase and ends in the mitochondrion with ferrochelatase, but the intermediate steps occur in the cytosol. ALA dehydratase catalyzes the cytosolic condensation of two molecules of ALA to porphobilinogen. The other enzymes listed (ALA synthase, coproporphyrinogen oxidase, protoporphyrinogen oxidase, and ferrochelatase) are mitochondrial.",
+  "explanation_incorrect": {
+    "A": "ALA synthase is the rate-limiting first enzyme and is located in the mitochondrial matrix, where it condenses glycine with succinyl-CoA.",
+    "B": "Ferrochelatase inserts iron into protoporphyrin IX on the inner mitochondrial membrane and is not a cytosolic enzyme.",
+    "C": "Protoporphyrinogen oxidase is a mitochondrial enzyme that converts protoporphyrinogen IX to protoporphyrin IX.",
+    "E": "Coproporphyrinogen oxidase is a mitochondrial enzyme that converts coproporphyrinogen III to protoporphyrinogen IX."
+  },
+  "educationalObjective": "Heme synthesis is compartmentalized: ALA synthase and the last three enzymes are mitochondrial, whereas ALA dehydratase and the intermediate steps occur in the cytosol.",
+  "source": "Generated from 1. Biochemistry.pdf - Heme and Bilirubin Metabolism: Heme Synthesis"
+}

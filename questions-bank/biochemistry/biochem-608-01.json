@@ -1,0 +1,41 @@
+{
+  "id": "biochem-608-01",
+  "subject": "Biochemistry",
+  "major_topic": "Enzymology",
+  "subtopic": "Lineweaver-Burk Plot",
+  "difficulty": "medium",
+  "vignette": "A 58-year-old man with heterozygous familial hypercholesterolemia begins treatment with simvastatin, a structural analog of HMG-CoA that binds the active site of HMG-CoA reductase. Enzyme kinetics are studied in vitro with the drug present and absent. The maximal velocity of the enzyme is unchanged by the drug, but a higher concentration of substrate is needed to reach one-half of the maximal velocity.",
+  "question": "Which of the following double-reciprocal (Lineweaver-Burk) patterns best describes the inhibited reaction?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Parallel lines, indicating a decreased Vmax and a decreased Km"
+    },
+    {
+      "id": "B",
+      "text": "Lines that intersect on the y-axis, indicating an increased apparent Km with an unchanged Vmax"
+    },
+    {
+      "id": "C",
+      "text": "Lines that intersect on the x-axis, indicating a decreased Vmax with an unchanged Km"
+    },
+    {
+      "id": "D",
+      "text": "A single line with an increased slope and unchanged intercepts"
+    },
+    {
+      "id": "E",
+      "text": "Lines that intersect to the left of the y-axis, indicating an increased Km and a decreased Vmax"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "On a Lineweaver-Burk plot the y-intercept equals 1/Vmax and the x-intercept equals -1/Km. A competitive inhibitor such as simvastatin raises the apparent Km but does not change Vmax, so the y-intercept stays the same while the x-intercept moves toward zero, and the lines intersect precisely on the y-axis. The slope of the inhibited line (Km/Vmax) increases accordingly.",
+  "explanation_incorrect": {
+    "A": "Parallel lines are the signature of uncompetitive inhibition, in which both Km and Vmax fall proportionally and the apparent Km actually decreases.",
+    "C": "Intersection on the x-axis indicates pure noncompetitive inhibition, in which Km is unchanged and Vmax decreases; the vignette describes the opposite pattern.",
+    "D": "A single line with unchanged intercepts would mean no change in either Km or Vmax, which is inconsistent with the experiment.",
+    "E": "Intersection to the left of the y-axis indicates mixed inhibition, in which both Km and Vmax change; here Vmax is unchanged."
+  },
+  "educationalObjective": "A competitive inhibitor produces Lineweaver-Burk lines that intersect on the y-axis because Vmax (1/y-intercept) is unchanged while the apparent Km (1/x-intercept) increases.",
+  "source": "Generated from 1. Biochemistry.pdf - Enzymology: Lineweaver-Burk Plot"
+}

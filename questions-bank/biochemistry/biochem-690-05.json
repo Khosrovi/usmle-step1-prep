@@ -1,0 +1,41 @@
+{
+  "id": "biochem-690-05",
+  "subject": "Biochemistry",
+  "major_topic": "Inborn Errors of Metabolism",
+  "subtopic": "Lysosomal Storage Diseases Part 2",
+  "difficulty": "easy",
+  "vignette": "A 4-month-old boy with hepatosplenomegaly and developmental delay is diagnosed with a lysosomal hydrolase deficiency after enzyme assays on leukocytes. While explaining the pathophysiology to the family, the resident notes that the missing enzymes function optimally at a pH of approximately 4.5 to 5.0 and have little activity at the neutral pH of the cytosol.",
+  "question": "Which of the following is most directly responsible for maintaining the environment required by these enzymes?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Na+/K+-ATPase in the lysosomal membrane"
+    },
+    {
+      "id": "B",
+      "text": "The mitochondrial electron transport chain"
+    },
+    {
+      "id": "C",
+      "text": "The mannose-6-phosphate receptor"
+    },
+    {
+      "id": "D",
+      "text": "COPI-mediated retrograde transport"
+    },
+    {
+      "id": "E",
+      "text": "A vacuolar H+-ATPase proton pump in the lysosomal membrane"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Lysosomes are kept acidic by a vacuolar-type H+-ATPase that pumps protons into the lumen, maintaining a pH near 4.5 to 5.0. Acid hydrolases are optimized for this pH and are largely inactive at cytosolic pH, which protects the cell if small amounts of enzyme escape. The acidic environment also helps unfold and activate substrates and supports the activity of the hydrolases after they are delivered as mannose-6-phosphate-tagged proteins.",
+  "explanation_incorrect": {
+    "A": "Na+/K+-ATPase is a plasma membrane pump that maintains sodium and potassium gradients; it does not acidify lysosomes.",
+    "B": "The electron transport chain generates a proton gradient across the inner mitochondrial membrane for ATP synthesis, not across the lysosomal membrane.",
+    "C": "The mannose-6-phosphate receptor sorts enzymes to lysosomes but does not establish luminal pH.",
+    "D": "COPI-coated vesicles carry cargo retrograde from the Golgi to the endoplasmic reticulum and are unrelated to lysosomal acidity."
+  },
+  "educationalObjective": "Lysosomal acid hydrolases depend on the acidic luminal pH maintained by a vacuolar H+-ATPase proton pump.",
+  "source": "Generated from 1. Biochemistry.pdf - Cell trafficking / lysosomes"
+}

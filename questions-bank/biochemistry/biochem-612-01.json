@@ -1,0 +1,41 @@
+{
+  "id": "biochem-612-01",
+  "subject": "Biochemistry",
+  "major_topic": "Enzymology",
+  "subtopic": "Isoenzymes",
+  "difficulty": "medium",
+  "vignette": "A 58-year-old man presents 20 hours after the onset of substernal chest pressure. ECG shows ST-segment elevation in leads II, III, and aVF, and serum troponin I is elevated. Serum lactate dehydrogenase (LDH) is also elevated, and electrophoresis of LDH isoenzymes is performed to identify the tissue source of the elevation.",
+  "question": "Which of the following LDH isoenzyme patterns is most likely in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "LDH1 predominates over LDH2"
+    },
+    {
+      "id": "B",
+      "text": "LDH2 predominates over LDH1"
+    },
+    {
+      "id": "C",
+      "text": "LDH3 is the predominant isoenzyme"
+    },
+    {
+      "id": "D",
+      "text": "LDH4 predominates over LDH5"
+    },
+    {
+      "id": "E",
+      "text": "LDH5 predominates over LDH4"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "LDH exists as five tetrameric isoenzymes composed of H and M subunits; LDH1 (four H subunits) predominates in heart and red blood cells, whereas LDH5 (four M subunits) predominates in liver and skeletal muscle. In healthy serum LDH2 is normally greater than LDH1, but myocardial infarction releases cardiac LDH1 and reverses this ratio, producing a flipped LDH1/LDH2 pattern. The shift appears around 24 to 72 hours after infarction and resolves over several days.",
+  "explanation_incorrect": {
+    "B": "LDH2 greater than LDH1 is the normal serum pattern and would not indicate acute myocardial injury.",
+    "C": "LDH3 is distributed in lung, spleen, and lymphoid tissue and is not the pattern of cardiac injury.",
+    "D": "LDH4 is not the predominant cardiac isoenzyme, and an LDH4 over LDH5 pattern does not reflect myocardial infarction.",
+    "E": "LDH5 over LDH4 predominance is seen with hepatocellular injury and skeletal muscle damage, not with myocardial infarction."
+  },
+  "educationalObjective": "Myocardial infarction releases cardiac LDH1, producing the characteristic flipped LDH1 greater than LDH2 serum pattern, whereas normal serum has LDH2 greater than LDH1.",
+  "source": "Generated from 1. Biochemistry.pdf - Enzymology: Isoenzymes"
+}

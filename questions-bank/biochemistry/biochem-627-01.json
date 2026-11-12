@@ -1,0 +1,41 @@
+{
+  "id": "biochem-627-01",
+  "subject": "Biochemistry",
+  "major_topic": "Lipid Metabolism",
+  "subtopic": "Fatty Acid beta-Oxidation",
+  "difficulty": "medium",
+  "vignette": "A 14-month-old girl is brought for progressive muscle weakness and poor feeding that worsened after a 12-hour fast during gastroenteritis. Examination shows hypotonia, decreased deep tendon reflexes, and cardiomegaly with a dilated left ventricle on echocardiography. Laboratory studies show glucose 42 mg/dL, low serum ketones, and a markedly low plasma free carnitine level.",
+  "question": "Which of the following is the most likely underlying defect?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Carrier-mediated uptake of carnitine into cells"
+    },
+    {
+      "id": "B",
+      "text": "Medium-chain acyl-CoA dehydrogenase"
+    },
+    {
+      "id": "C",
+      "text": "HMG-CoA synthase"
+    },
+    {
+      "id": "D",
+      "text": "Lipoprotein lipase"
+    },
+    {
+      "id": "E",
+      "text": "Propionyl-CoA carboxylase"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Systemic primary carnitine deficiency is caused by a defect in the carnitine transporter, so cells cannot take up carnitine and long-chain fatty acids cannot be transported into mitochondria by the carnitine shuttle. Long-chain acyls accumulate in the cytosol, and patients develop weakness, hypotonia, hypoketotic hypoglycemia during fasting, and dilated cardiomyopathy.",
+  "explanation_incorrect": {
+    "B": "Medium-chain acyl-CoA dehydrogenase deficiency also causes hypoketotic hypoglycemia, but plasma free carnitine is not markedly low and the acylcarnitine profile shows elevated medium-chain species with dicarboxylic aciduria.",
+    "C": "HMG-CoA synthase deficiency impairs ketone body production but does not reduce plasma carnitine or cause cardiomyopathy.",
+    "D": "Lipoprotein lipase deficiency causes severe hyperchylomicronemia and pancreatitis, not hypoketotic hypoglycemia or cardiomyopathy.",
+    "E": "Propionyl-CoA carboxylase deficiency causes propionic acidemia with ketosis, a high anion gap metabolic acidosis, and hyperammonemia."
+  },
+  "educationalObjective": "Primary carnitine deficiency blocks mitochondrial entry of long-chain fatty acids, causing hypoketotic hypoglycemia, weakness, and cardiomyopathy.",
+  "source": "Generated from 1. Biochemistry.pdf - Fatty Acid beta-Oxidation"
+}

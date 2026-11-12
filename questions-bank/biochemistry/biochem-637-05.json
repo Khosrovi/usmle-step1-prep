@@ -1,0 +1,41 @@
+{
+  "id": "biochem-637-05",
+  "subject": "Biochemistry",
+  "major_topic": "Amino Acid Metabolism",
+  "subtopic": "Urea Cycle",
+  "difficulty": "medium",
+  "vignette": "In a hepatocyte study, radiolabeled ornithine is added to isolated mitochondria. The label appears in citrulline, which is then exported to the cytosol so that the remainder of the cycle can proceed there.",
+  "question": "Which enzyme catalyzes the conversion of ornithine to citrulline?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Ornithine transcarbamylase"
+    },
+    {
+      "id": "B",
+      "text": "Carbamoyl phosphate synthetase I"
+    },
+    {
+      "id": "C",
+      "text": "Argininosuccinate synthetase"
+    },
+    {
+      "id": "D",
+      "text": "Arginase"
+    },
+    {
+      "id": "E",
+      "text": "Ornithine aminotransferase"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Ornithine transcarbamylase transfers the carbamoyl group of carbamoyl phosphate to ornithine, forming citrulline in the mitochondrial matrix. Citrulline is then transported to the cytosol, where the remaining reactions of the urea cycle take place.",
+  "explanation_incorrect": {
+    "B": "Carbamoyl phosphate synthetase I forms carbamoyl phosphate from ammonia and bicarbonate, before ornithine is used.",
+    "C": "Argininosuccinate synthetase acts later in the cytosol, converting citrulline and aspartate to argininosuccinate.",
+    "D": "Arginase converts arginine to urea and ornithine, which is the reverse of the step asked about.",
+    "E": "Ornithine aminotransferase participates in ornithine catabolism to glutamate semialdehyde, not in citrulline synthesis."
+  },
+  "educationalObjective": "Ornithine transcarbamylase forms citrulline from ornithine and carbamoyl phosphate in the mitochondrial matrix.",
+  "source": "Generated from 1. Biochemistry.pdf - Amino Acid Metabolism: Urea Cycle"
+}

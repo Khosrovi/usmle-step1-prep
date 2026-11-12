@@ -1,0 +1,41 @@
+{
+  "id": "biochem-658-02",
+  "subject": "Biochemistry",
+  "major_topic": "Molecular Biology",
+  "subtopic": "DNA Repair (NHEJ, HR)",
+  "difficulty": "medium",
+  "vignette": "A 7-year-old girl is evaluated for fatigue and easy bruising. Laboratory studies show pancytopenia with a hypocellular bone marrow. Examination reveals absent thumbs, a hypoplastic radius, and several cafe-au-lait spots. Chromosomal analysis after exposure to a DNA cross-linking agent shows markedly increased chromosome breakage.",
+  "question": "Which of the following DNA repair processes is most likely impaired in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Nucleotide excision repair"
+    },
+    {
+      "id": "B",
+      "text": "Mismatch repair"
+    },
+    {
+      "id": "C",
+      "text": "Base excision repair"
+    },
+    {
+      "id": "D",
+      "text": "Homologous recombination-mediated repair of DNA interstrand crosslinks"
+    },
+    {
+      "id": "E",
+      "text": "Proofreading by DNA polymerase"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Fanconi anemia results from defects in the Fanconi anemia pathway that repairs DNA interstrand crosslinks, with homologous recombination acting downstream to restore the duplex. Cells are hypersensitive to cross-linking agents, and patients develop pancytopenia, skeletal anomalies such as absent thumbs, cafe-au-lait spots, and cancer predisposition.",
+  "explanation_incorrect": {
+    "A": "Nucleotide excision repair removes bulky helix-distorting adducts but not interstrand crosslinks.",
+    "B": "Mismatch repair corrects mismatched nucleotides in newly synthesized DNA.",
+    "C": "Base excision repair removes small altered bases such as deaminated cytosine.",
+    "E": "Proofreading removes misincorporated nucleotides during replication; it is not the defect in Fanconi anemia."
+  },
+  "educationalObjective": "Fanconi anemia reflects defective repair of DNA interstrand crosslinks through the Fanconi anemia/homologous recombination pathway.",
+  "source": "Generated from 1. Biochemistry.pdf - Molecular Biology: DNA Repair (NHEJ, HR)"
+}

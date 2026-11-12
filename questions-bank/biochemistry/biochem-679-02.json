@@ -1,0 +1,41 @@
+{
+  "id": "biochem-679-02",
+  "subject": "Biochemistry",
+  "major_topic": "Vitamins and Minerals",
+  "subtopic": "Vitamin D",
+  "difficulty": "medium",
+  "vignette": "A 58-year-old man with type 2 diabetes and hypertension has an estimated glomerular filtration rate of 25 mL/min/1.73 m2. Laboratory studies show calcium 7.8 mg/dL, phosphate 6.2 mg/dL, and parathyroid hormone 310 pg/mL. He has no sun exposure and takes no supplements. His physician notes that intestinal calcium absorption is markedly reduced despite a normal serum level of 25-hydroxyvitamin D.",
+  "question": "Which of the following best explains the impaired intestinal calcium absorption?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Decreased hepatic conversion of cholecalciferol to 25-hydroxyvitamin D"
+    },
+    {
+      "id": "B",
+      "text": "Decreased renal tubular reabsorption of phosphate"
+    },
+    {
+      "id": "C",
+      "text": "Impaired 1-alpha-hydroxylation of 25-hydroxyvitamin D in the kidney"
+    },
+    {
+      "id": "D",
+      "text": "Increased hepatic degradation of vitamin D to inactive metabolites"
+    },
+    {
+      "id": "E",
+      "text": "Loss of intestinal vitamin D receptors owing to mucosal atrophy"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Vitamin D is 25-hydroxylated in the liver (the storage form) and then 1-alpha-hydroxylated in the kidney to calcitriol, the active hormone that increases intestinal calcium and phosphate absorption. Loss of renal parenchyma in chronic kidney disease impairs this final activation step, lowering calcitriol and producing hypocalcemia and hyperphosphatemia with secondary hyperparathyroidism.",
+  "explanation_incorrect": {
+    "A": "Hepatic 25-hydroxylation is preserved in chronic kidney disease, which is why the serum 25-hydroxyvitamin D level is normal in this patient.",
+    "B": "Impaired phosphate excretion is a consequence of the reduced glomerular filtration rate; it raises phosphate but does not explain the low calcium or low calcitriol.",
+    "D": "Hepatic catabolism of vitamin D is not the primary mechanism; the kidney is the site of the missing activation step.",
+    "E": "Intestinal vitamin D receptor expression is not lost in chronic kidney disease; the problem is the absence of the ligand that activates those receptors."
+  },
+  "educationalObjective": "The kidney performs the final 1-alpha-hydroxylation that converts 25-hydroxyvitamin D to active calcitriol, so chronic kidney disease causes hypocalcemia with secondary hyperparathyroidism.",
+  "source": "Generated from 1. Biochemistry.pdf - Nutrition: Fat-Soluble Vitamins (Vitamin D)"
+}

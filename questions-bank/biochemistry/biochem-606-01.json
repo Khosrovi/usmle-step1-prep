@@ -1,0 +1,41 @@
+{
+  "id": "biochem-606-01",
+  "subject": "Biochemistry",
+  "major_topic": "Amino Acids & Proteins",
+  "subtopic": "Hemoglobin and Myoglobin",
+  "difficulty": "medium",
+  "vignette": "A 26-year-old mountaineer rapidly ascends from sea level to an altitude of 4,200 m and develops headache, dyspnea, and fatigue. His oxygen saturation by pulse oximetry is 84%, and arterial blood gas shows a normal PaCO2 with mild respiratory alkalosis. After 4 days of acclimatization his resting ventilation is higher, his hemoglobin is 16.8 g/dL, and his hemoglobin P50 has increased from 26 to 30 mm Hg.",
+  "question": "Which of the following changes is most responsible for the rightward shift of the oxyhemoglobin dissociation curve in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Decreased erythrocyte 2,3-bisphosphoglycerate concentration"
+    },
+    {
+      "id": "B",
+      "text": "Increased carbon monoxide binding to heme iron"
+    },
+    {
+      "id": "C",
+      "text": "Increased erythrocyte 2,3-bisphosphoglycerate concentration"
+    },
+    {
+      "id": "D",
+      "text": "Increased fraction of fetal hemoglobin (HbF)"
+    },
+    {
+      "id": "E",
+      "text": "Oxidation of heme iron from Fe2+ to Fe3+"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "At high altitude, chronic hypoxia increases glycolysis in erythrocytes and raises 2,3-bisphosphoglycerate, which binds deoxyhemoglobin and stabilizes the T state of the tetramer. This right shifts the dissociation curve (higher P50) and improves oxygen unloading to tissues despite the lower arterial oxygen saturation; the shift is summarized by the CADET mnemonic (CO2, acid, 2,3-DPG, exercise, temperature).",
+  "explanation_incorrect": {
+    "A": "A fall in 2,3-bisphosphoglycerate removes the T-state stabilizer and shifts the curve to the left, increasing oxygen affinity and impairing tissue unloading, the opposite of what is observed after acclimatization.",
+    "B": "Carbon monoxide binds ferrous heme with roughly 200-fold greater affinity than oxygen and left shifts the remaining binding sites; it does not explain the adaptive right shift at altitude.",
+    "D": "Fetal hemoglobin (alpha2-gamma2) binds 2,3-bisphosphoglycerate poorly and therefore has a higher oxygen affinity with a left-shifted curve; an increased HbF fraction would not produce a higher P50 in an adult.",
+    "E": "Oxidation of heme iron to Fe3+ creates methemoglobin, which cannot bind oxygen and left shifts the dissociation curve of the remaining ferrous hemes, causing cyanosis rather than an adaptive right shift."
+  },
+  "educationalObjective": "Increased erythrocyte 2,3-bisphosphoglycerate at high altitude right-shifts the oxyhemoglobin dissociation curve and enhances oxygen unloading to tissues.",
+  "source": "Generated from 1. Biochemistry.pdf - Hemoglobin and Myoglobin"
+}

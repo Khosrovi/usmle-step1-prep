@@ -1,0 +1,41 @@
+{
+  "id": "biochem-623-04",
+  "subject": "Biochemistry",
+  "major_topic": "Carbohydrate Metabolism",
+  "subtopic": "Glycogen Storage Diseases",
+  "difficulty": "medium",
+  "vignette": "A 24-year-old man reports that within minutes of starting to exercise he develops severe muscle cramps and passes dark red urine; the symptoms are worse with high-intensity activity. Examination is normal between episodes. Fasting glucose, liver enzymes, and bilirubin are normal, creatine kinase is mildly elevated, and forearm exercise testing shows a flat venous lactate curve with a normal rise in ammonia.",
+  "question": "Which of the following enzyme deficiencies is most likely responsible?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Glucose-6-phosphatase"
+    },
+    {
+      "id": "B",
+      "text": "Branching enzyme"
+    },
+    {
+      "id": "C",
+      "text": "Skeletal muscle glycogen phosphorylase"
+    },
+    {
+      "id": "D",
+      "text": "Lysosomal acid alpha-1,4-glucosidase"
+    },
+    {
+      "id": "E",
+      "text": "Debranching enzymes"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "McArdle disease (type V) is caused by deficiency of skeletal muscle glycogen phosphorylase (myophosphorylase). Muscle glycogen cannot be broken down during exercise, producing cramps and myoglobinuria, and the block in glycogenolysis explains the flat venous lactate curve with a preserved ammonia rise; blood glucose is typically unaffected.",
+  "explanation_incorrect": {
+    "A": "Glucose-6-phosphatase deficiency (von Gierke disease) causes fasting hypoglycemia and lactic acidosis, not exercise-induced cramps with normal blood glucose.",
+    "B": "Branching enzyme deficiency (Andersen disease) causes hepatosplenomegaly and cirrhosis in infancy, not isolated exercise intolerance in an adult.",
+    "D": "Lysosomal acid alpha-1,4-glucosidase deficiency (Pompe disease) causes infantile cardiomyopathy and hypotonia, not an isolated exercise-induced myopathy.",
+    "E": "Debranching enzyme deficiency (Cori disease) causes hepatomegaly and mild hypoglycemia, not a pure skeletal muscle phenotype."
+  },
+  "educationalObjective": "Exercise-induced cramps with myoglobinuria and a flat venous lactate curve indicate McArdle disease, a skeletal muscle glycogen phosphorylase deficiency.",
+  "source": "Generated from 1. Biochemistry.pdf - Glycogen Storage Diseases"
+}

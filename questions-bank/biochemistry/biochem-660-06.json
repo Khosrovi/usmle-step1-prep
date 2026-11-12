@@ -1,0 +1,41 @@
+{
+  "id": "biochem-660-06",
+  "subject": "Biochemistry",
+  "major_topic": "Molecular Biology",
+  "subtopic": "Transcription",
+  "difficulty": "medium",
+  "vignette": "A 3-year-old boy is evaluated for an asymptomatic abdominal mass noted by his parents. Imaging shows a large renal tumor, and he undergoes nephrectomy for Wilms tumor. His chemotherapy regimen includes actinomycin D (dactinomycin), which intercalates between DNA base pairs.",
+  "question": "Which of the following best describes the effect of this drug on nucleic acid synthesis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It selectively inhibits eukaryotic RNA polymerase II"
+    },
+    {
+      "id": "B",
+      "text": "It selectively inhibits bacterial DNA-dependent RNA polymerase"
+    },
+    {
+      "id": "C",
+      "text": "It inhibits RNA polymerase in both prokaryotes and eukaryotes"
+    },
+    {
+      "id": "D",
+      "text": "It inhibits topoisomerase II, causing double-strand breaks"
+    },
+    {
+      "id": "E",
+      "text": "It inhibits ribonucleotide reductase, depleting deoxyribonucleotides"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Dactinomycin binds DNA by intercalation and inhibits RNA polymerase in both prokaryotes and eukaryotes, blocking transcription; this activity underlies its use against Wilms tumor and other cancers. Because it is not selective for a particular polymerase, it is highly toxic. Its action is distinct from alpha-amanitin, which selectively inhibits eukaryotic RNA polymerase II, and from rifampin, which inhibits the bacterial enzyme.",
+  "explanation_incorrect": {
+    "A": "Alpha-amanitin selectively inhibits eukaryotic RNA polymerase II; dactinomycin inhibits RNA polymerase in both prokaryotes and eukaryotes.",
+    "B": "Rifampin selectively inhibits bacterial DNA-dependent RNA polymerase.",
+    "D": "Topoisomerase II inhibitors such as etoposide cause double-strand breaks; dactinomycin acts by intercalation and transcriptional inhibition.",
+    "E": "Ribonucleotide reductase is inhibited by hydroxyurea, not by dactinomycin."
+  },
+  "educationalObjective": "Dactinomycin intercalates into DNA and inhibits RNA polymerase in both prokaryotes and eukaryotes, blocking transcription.",
+  "source": "Generated from 1. Biochemistry.pdf - Molecular Biology: Transcription"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "biochem-641-05",
+  "subject": "Biochemistry",
+  "major_topic": "Amino Acid Metabolism",
+  "subtopic": "Sulfur-Containing Amino Acids",
+  "difficulty": "medium",
+  "vignette": "A 22-year-old man is brought to the emergency department 6 hours after ingesting about 20 tablets of acetaminophen in a suicide attempt. He is alert but has nausea and right upper quadrant tenderness. His serum acetaminophen concentration is above the treatment line, serum transaminases are rising, and intravenous N-acetylcysteine is started.",
+  "question": "Which of the following best explains the protective effect of this antidote?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It inhibits cytochrome P-450 2E1 and prevents formation of the reactive metabolite"
+    },
+    {
+      "id": "B",
+      "text": "It increases hepatic sulfation of acetaminophen"
+    },
+    {
+      "id": "C",
+      "text": "It increases renal excretion of unchanged acetaminophen"
+    },
+    {
+      "id": "D",
+      "text": "It replenishes hepatic glutathione, which detoxifies the reactive metabolite NAPQI"
+    },
+    {
+      "id": "E",
+      "text": "It directly reduces the reactive metabolite within mitochondria"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "N-acetylcysteine provides cysteine, the rate-limiting amino acid for synthesis of the tripeptide glutathione. In acetaminophen overdose the glucuronidation and sulfation pathways are saturated, and cytochrome P-450 2E1 converts the excess drug to NAPQI; once glutathione is depleted, NAPQI binds cellular proteins and causes centrilobular hepatic necrosis. Restoring the glutathione pool allows NAPQI to be conjugated and excreted, which limits liver injury.",
+  "explanation_incorrect": {
+    "A": "N-acetylcysteine does not inhibit cytochrome P-450 2E1; it works by restoring the depleted glutathione pool rather than by blocking bioactivation.",
+    "B": "Sulfation is already saturated in overdose, and the principal protective effect of the antidote is glutathione repletion rather than increased sulfation.",
+    "C": "Renal excretion of unchanged acetaminophen is not the mechanism by which the antidote prevents hepatotoxicity.",
+    "E": "N-acetylcysteine does not directly reduce the reactive metabolite; it must first be used for glutathione synthesis before conjugation can occur."
+  },
+  "educationalObjective": "N-acetylcysteine limits acetaminophen hepatotoxicity by supplying cysteine for glutathione synthesis, allowing detoxification of the reactive metabolite NAPQI.",
+  "source": "Generated from 1. Biochemistry.pdf - Amino Acid Metabolism: Sulfur-Containing Amino Acids"
+}

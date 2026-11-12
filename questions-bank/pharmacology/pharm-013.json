@@ -1,0 +1,41 @@
+{
+  "id": "pharm-013",
+  "subject": "Pharmacology",
+  "major_topic": "Toxicities and Adverse Effects",
+  "subtopic": "Cytochrome P-450 interactions",
+  "difficulty": "medium",
+  "vignette": "A 26-year-old woman who uses combined oral contraceptive pills is started on rifampin for active tuberculosis. Two months later she returns with breakthrough bleeding and a positive pregnancy test.",
+  "question": "Which of the following best explains this finding?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Rifampin induces CYP3A4, accelerating the metabolism of contraceptive steroids"
+    },
+    {
+      "id": "B",
+      "text": "Rifampin inhibits CYP3A4, increasing contraceptive steroid levels"
+    },
+    {
+      "id": "C",
+      "text": "Rifampin displaces contraceptive steroids from sex hormone-binding globulin"
+    },
+    {
+      "id": "D",
+      "text": "Rifampin directly suppresses ovulation"
+    },
+    {
+      "id": "E",
+      "text": "Rifampin increases renal excretion of estrogen"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Rifampin is a potent inducer of CYP3A4 and of glucuronidation, reducing plasma concentrations of estrogen and progestin and causing contraceptive failure. Women taking rifampin need additional or alternative contraception.",
+  "explanation_incorrect": {
+    "B": "Rifampin induces rather than inhibits CYP3A4, so contraceptive levels fall.",
+    "C": "Displacement from binding proteins would increase free hormone and does not explain contraceptive failure.",
+    "D": "Rifampin does not directly suppress ovulation.",
+    "E": "Increased renal excretion is not the mechanism of this interaction."
+  },
+  "educationalObjective": "Rifampin is a strong CYP3A4 inducer that reduces oral contraceptive efficacy.",
+  "source": "Generated from 5. Pharmacology.pdf - Toxicities and Adverse Effects (cytochrome P-450 interactions)"
+}

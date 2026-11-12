@@ -1,0 +1,41 @@
+{
+  "id": "biochem-668-01",
+  "subject": "Biochemistry",
+  "major_topic": "Molecular Biology",
+  "subtopic": "Telomeres and Telomerase",
+  "difficulty": "medium",
+  "vignette": "A 64-year-old man is evaluated for a growing pigmented lesion on his back. Excisional biopsy shows melanoma, and a sentinel lymph node is positive for metastatic cells. Immunohistochemical studies of the metastatic cells show markedly increased activity of an enzyme that synthesizes DNA using its own RNA as a template. Normal somatic cells in the same patient show only minimal activity of this enzyme.",
+  "question": "Which of the following best describes the enzyme whose activity is increased in these metastatic cells?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A DNA-dependent DNA polymerase that requires a preformed RNA primer synthesized by primase"
+    },
+    {
+      "id": "B",
+      "text": "A ligase that seals the nicks between adjacent Okazaki fragments"
+    },
+    {
+      "id": "C",
+      "text": "An RNA-dependent DNA polymerase that adds TTAGGG repeats to the 3' ends of chromosomes"
+    },
+    {
+      "id": "D",
+      "text": "A DNA-dependent RNA polymerase that transcribes ribosomal RNA"
+    },
+    {
+      "id": "E",
+      "text": "A topoisomerase II that introduces double-stranded breaks to relieve supercoiling"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Telomerase is a reverse transcriptase (an RNA-dependent DNA polymerase) that carries its own RNA template and adds TTAGGG repeats to the 3' ends of chromosomes, compensating for the end-replication problem of linear DNA. It is normally upregulated in progenitor cells and is reactivated in most cancers, which allows malignant cells to avoid the progressive telomere shortening that limits the replicative lifespan of normal somatic cells.",
+  "explanation_incorrect": {
+    "A": "DNA polymerase alpha requires a preformed RNA primer and synthesizes the complementary strand, but it cannot extend chromosome ends; telomerase uses its own RNA as a template and does not depend on a separate primer for its repeat synthesis.",
+    "B": "DNA ligase catalyzes phosphodiester bond formation to join Okazaki fragments, but it does not synthesize or elongate DNA and therefore cannot maintain telomeres.",
+    "D": "RNA polymerases synthesize RNA from a DNA template; telomerase works in the opposite direction, synthesizing DNA from an RNA template.",
+    "E": "Topoisomerase II creates transient double-stranded breaks to add or remove supercoils during replication, but it does not add repetitive DNA sequences to chromosome ends."
+  },
+  "educationalObjective": "Telomerase is an RNA-dependent DNA polymerase that adds TTAGGG repeats to chromosome 3' ends and is reactivated in most cancers to allow unlimited replication.",
+  "source": "Generated from 1. Biochemistry.pdf - Molecular Biology: DNA Replication (Telomerase)"
+}

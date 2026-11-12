@@ -1,0 +1,41 @@
+{
+  "id": "biochem-609-03",
+  "subject": "Biochemistry",
+  "major_topic": "Enzymology",
+  "subtopic": "Enzyme Inhibition Types",
+  "difficulty": "medium",
+  "vignette": "A 63-year-old man with type 2 diabetes enrolls in a phase I trial of a compound that inhibits a hepatic gluconeogenic enzyme. In vitro studies show that the drug binds only to the enzyme-substrate complex and not to the free enzyme. As the substrate concentration is raised in the assay, the degree of inhibition increases rather than decreases.",
+  "question": "Which of the following types of inhibition best explains these findings?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Competitive inhibition"
+    },
+    {
+      "id": "B",
+      "text": "Noncompetitive inhibition"
+    },
+    {
+      "id": "C",
+      "text": "Uncompetitive inhibition"
+    },
+    {
+      "id": "D",
+      "text": "Mixed inhibition"
+    },
+    {
+      "id": "E",
+      "text": "Irreversible mechanism-based inhibition"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "An uncompetitive inhibitor binds only the enzyme-substrate complex, so its effect requires that substrate be bound, and increasing substrate concentration actually increases the fraction of enzyme in the ES form and therefore increases inhibition. Uncompetitive inhibition lowers both Km and Vmax proportionally, which produces parallel lines on a Lineweaver-Burk plot. This contrasts with competitive inhibition, which is relieved by high substrate concentrations.",
+  "explanation_incorrect": {
+    "A": "Competitive inhibitors bind the free enzyme at the active site and are overcome, not enhanced, by increasing substrate concentration.",
+    "B": "Noncompetitive inhibitors bind free enzyme and ES complex equally at a separate site; they are not enhanced by rising substrate in this way.",
+    "D": "Mixed inhibitors bind both free enzyme and the ES complex with different affinities, which would change both Km and Vmax but not produce this exclusive ES dependence.",
+    "E": "Irreversible inhibition reflects covalent damage to the enzyme and does not explain the explicitly ES-dependent, substrate-enhanced pattern."
+  },
+  "educationalObjective": "Uncompetitive inhibitors bind only the enzyme-substrate complex, so their inhibitory effect increases as substrate concentration rises and both Km and Vmax decrease.",
+  "source": "Generated from 1. Biochemistry.pdf - Enzymology: Enzyme Inhibition Types"
+}

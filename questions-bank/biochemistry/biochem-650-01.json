@@ -1,0 +1,41 @@
+{
+  "id": "biochem-650-01",
+  "subject": "Biochemistry",
+  "major_topic": "Nucleotide Metabolism",
+  "subtopic": "Gout and Lesch-Nyhan",
+  "difficulty": "medium",
+  "vignette": "A 3-year-old boy is brought for developmental delay and episodes of aggression. He has repeatedly bitten his lower lip and fingers, and his mother reports orange crystals in his diapers. Examination shows dystonia and hyperreflexia. Serum uric acid is 11.4 mg/dL, and urinalysis shows sodium urate crystals.",
+  "question": "Mutation of which of the following genes is most likely responsible for this presentation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Hypoxanthine-guanine phosphoribosyltransferase"
+    },
+    {
+      "id": "B",
+      "text": "Adenine phosphoribosyltransferase"
+    },
+    {
+      "id": "C",
+      "text": "Adenosine deaminase"
+    },
+    {
+      "id": "D",
+      "text": "Xanthine oxidase"
+    },
+    {
+      "id": "E",
+      "text": "PRPP synthetase"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Lesch-Nyhan syndrome results from complete deficiency of hypoxanthine-guanine phosphoribosyltransferase, an X-linked recessive defect of purine salvage. Loss of salvage causes PRPP accumulation and reduced feedback inhibition of PRPP amidotransferase, so de novo purine synthesis and uric acid production increase. The classic findings are intellectual disability, self-mutilation, aggression, dystonia, and orange-red sodium urate crystals in the diaper.",
+  "explanation_incorrect": {
+    "B": "APRT deficiency causes adenine accumulation and 2,8-dihydroxyadenine kidney stones without the neurologic and behavioral features described.",
+    "C": "Adenosine deaminase deficiency causes severe combined immunodeficiency with lymphopenia, not self-mutilation and hyperuricemia.",
+    "D": "Xanthine oxidase deficiency causes hypouricemia and xanthine stones, the opposite of this patient's hyperuricemia.",
+    "E": "PRPP synthetase superactivity causes hyperuricemia and gout but not the self-mutilating behavior and dystonia of Lesch-Nyhan syndrome."
+  },
+  "educationalObjective": "Complete HGPRT deficiency causes Lesch-Nyhan syndrome with self-mutilation, aggression, dystonia, developmental delay, and hyperuricemia with orange urate crystals.",
+  "source": "Generated from 1. Biochemistry.pdf - Nucleotide Metabolism: Gout and Lesch-Nyhan"
+}

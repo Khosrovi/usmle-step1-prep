@@ -1,0 +1,41 @@
+{
+  "id": "biochem-676-03",
+  "subject": "Biochemistry",
+  "major_topic": "Vitamins and Minerals",
+  "subtopic": "Vitamin B12 (Cobalamin)",
+  "difficulty": "medium",
+  "vignette": "A 66-year-old man with type 2 diabetes treated with a medication for 6 years presents with progressive fatigue and numbness of both feet. Hemoglobin is 9.8 g/dL, MCV is 114 fL, and the peripheral smear shows hypersegmented neutrophils. Serum vitamin B12 is low, methylmalonic acid and homocysteine are elevated, and intrinsic factor antibodies are negative. He has never had gastric or intestinal surgery and eats meat daily.",
+  "question": "Which of the following is the most likely explanation for this patient's vitamin deficiency?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Autoimmune gastritis with loss of intrinsic factor"
+    },
+    {
+      "id": "B",
+      "text": "Impaired vitamin B12 absorption associated with long-term metformin use"
+    },
+    {
+      "id": "C",
+      "text": "Insufficient dietary intake of folate"
+    },
+    {
+      "id": "D",
+      "text": "Heavy alcohol use causing hepatic depletion of cobalamin"
+    },
+    {
+      "id": "E",
+      "text": "Previous gastric bypass surgery"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Long-term metformin use is associated with vitamin B12 deficiency, likely through interference with calcium-dependent binding of the intrinsic factor-B12 complex to the ileal receptor. The deficiency produces a macrocytic megaloblastic anemia with hypersegmented neutrophils and elevated methylmalonic acid and homocysteine. Metformin is a common and easily overlooked cause of B12 deficiency in older adults with diabetes.",
+  "explanation_incorrect": {
+    "A": "Intrinsic factor antibodies are negative, and autoimmune gastritis is not the likely mechanism in a patient taking metformin for years.",
+    "C": "Folate deficiency also causes macrocytic anemia but leaves methylmalonic acid normal, and this patient's methylmalonic acid is elevated.",
+    "D": "Alcohol can contribute to B12 deficiency through malabsorption, but no alcohol use is described and metformin is the identifiable risk factor.",
+    "E": "Gastric bypass surgery can cause B12 deficiency, but the patient has never had gastric surgery."
+  },
+  "educationalObjective": "Long-term metformin therapy can cause vitamin B12 deficiency with macrocytic anemia, elevated methylmalonic acid, and neurologic findings.",
+  "source": "Generated from 1. Biochemistry.pdf - Nutrition: Water-Soluble Vitamins (Vitamin B12, Cobalamin)"
+}

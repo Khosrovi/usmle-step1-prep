@@ -1,0 +1,41 @@
+{
+  "id": "biochem-666-01",
+  "subject": "Biochemistry",
+  "major_topic": "Molecular Biology",
+  "subtopic": "Recombinant DNA Technology",
+  "difficulty": "easy",
+  "vignette": "A 3-week-old boy born to a mother with untreated HIV infection is brought for evaluation. He is asymptomatic and his physical examination is normal, but maternal anti-HIV IgG antibodies are present in his serum, making serologic testing unreliable at this age.",
+  "question": "Which of the following is the most appropriate technique to determine whether the infant is infected?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Polymerase chain reaction"
+    },
+    {
+      "id": "B",
+      "text": "Southern blot"
+    },
+    {
+      "id": "C",
+      "text": "Northern blot"
+    },
+    {
+      "id": "D",
+      "text": "Western blot"
+    },
+    {
+      "id": "E",
+      "text": "Karyotyping"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "PCR amplifies a specific DNA segment using DNA primers, a heat-stable DNA polymerase, and deoxynucleotide triphosphates through repeated cycles of denaturation, annealing, and elongation. In neonates, maternal anti-HIV antibodies cross the placenta and persist for months, so amplification-based detection of proviral DNA or viral RNA is used to establish infection; PCR is also used to diagnose herpes encephalitis from cerebrospinal fluid.",
+  "explanation_incorrect": {
+    "B": "Southern blot detects specific DNA fragments by size after restriction digestion and hybridization, but it is not an amplification method and lacks the sensitivity required for this diagnosis.",
+    "C": "Northern blot detects RNA species, typically to study mRNA levels and splicing, and is not used for neonatal HIV diagnosis.",
+    "D": "Western blot detects proteins with antibodies and is used to confirm HIV infection in adults, but it cannot distinguish maternal antibody from infection in a neonate.",
+    "E": "Karyotyping examines chromosome number and structure and is irrelevant to the diagnosis of HIV infection."
+  },
+  "educationalObjective": "PCR amplification is the preferred diagnostic test for neonatal HIV infection because transplacentally acquired maternal antibodies make serologic tests unreliable.",
+  "source": "Generated from 1. Biochemistry.pdf - Laboratory Techniques: Recombinant DNA Technology"
+}

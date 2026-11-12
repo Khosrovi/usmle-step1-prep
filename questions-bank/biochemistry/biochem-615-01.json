@@ -1,0 +1,41 @@
+{
+  "id": "biochem-615-01",
+  "subject": "Biochemistry",
+  "major_topic": "Carbohydrate Metabolism",
+  "subtopic": "Glycolysis",
+  "difficulty": "medium",
+  "vignette": "A 3-year-old boy is evaluated for chronic anemia. He was jaundiced in the newborn period, has had intermittent scleral icterus since, and examination shows splenomegaly. Hemoglobin is 8.4 g/dL, reticulocytes 11%, indirect bilirubin 3.1 mg/dL, LDH 620 U/L, and haptoglobin is undetectable. The peripheral smear shows echinocytes (burr cells) and polychromasia, the direct Coombs test is negative, and G6PD activity is normal.",
+  "question": "Deficiency of which of the following enzymes is the most likely explanation for this patient's hemolytic anemia?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Glucose-6-phosphate dehydrogenase"
+    },
+    {
+      "id": "B",
+      "text": "Pyruvate carboxylase"
+    },
+    {
+      "id": "C",
+      "text": "Pyruvate kinase"
+    },
+    {
+      "id": "D",
+      "text": "Pyruvate dehydrogenase complex"
+    },
+    {
+      "id": "E",
+      "text": "Lactate dehydrogenase"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Erythrocytes lack mitochondria and depend exclusively on anaerobic glycolysis for ATP, and pyruvate kinase catalyzes the second substrate-level phosphorylation of glycolysis. Pyruvate kinase deficiency causes ATP depletion, failure of the membrane Na+/K+ ATPase, red cell dehydration, and chronic non-spherocytic hemolysis with elevated reticulocytes and LDH and a negative Coombs test; it is inherited in an autosomal recessive pattern.",
+  "explanation_incorrect": {
+    "A": "G6PD deficiency is X-linked and causes episodic hemolysis after oxidative stress such as fava beans, sulfonamides, or infection, with bite cells and Heinz bodies rather than chronic hemolysis from birth.",
+    "B": "Pyruvate carboxylase is a mitochondrial gluconeogenic enzyme; its deficiency causes lactic acidosis and hypoglycemia, not an isolated hemolytic anemia.",
+    "D": "Pyruvate dehydrogenase deficiency causes infantile lactic acidosis with neurologic impairment, not chronic hemolysis.",
+    "E": "LDH catalyzes the terminal step of anaerobic glycolysis, and its serum level is elevated here as a marker of hemolysis; inherited LDH deficiency is not a cause of chronic hemolytic anemia."
+  },
+  "educationalObjective": "Pyruvate kinase deficiency is an autosomal recessive cause of chronic non-spherocytic hemolytic anemia because mature red cells depend on glycolysis for ATP.",
+  "source": "Generated from 1. Biochemistry.pdf - Carbohydrate Metabolism: Glycolysis"
+}

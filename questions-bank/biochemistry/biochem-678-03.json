@@ -1,0 +1,41 @@
+{
+  "id": "biochem-678-03",
+  "subject": "Biochemistry",
+  "major_topic": "Vitamins and Minerals",
+  "subtopic": "Vitamin A",
+  "difficulty": "medium",
+  "vignette": "A 34-year-old man presents with 2 weeks of fatigue, easy bruising, and gingival bleeding. Laboratory studies show pancytopenia, a prolonged prothrombin time, and elevated D-dimer. Peripheral blood smear reveals many abnormal promyelocytes containing multiple Auer rods, and cytogenetic testing demonstrates t(15;17). He is started on a differentiating agent together with arsenic trioxide and achieves remission.",
+  "question": "Which of the following agents most directly induces terminal differentiation of these malignant cells?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Cytarabine"
+    },
+    {
+      "id": "B",
+      "text": "Imatinib mesylate"
+    },
+    {
+      "id": "C",
+      "text": "All-trans retinoic acid"
+    },
+    {
+      "id": "D",
+      "text": "Methotrexate"
+    },
+    {
+      "id": "E",
+      "text": "Rituximab"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Acute promyelocytic leukemia is driven by the t(15;17) PML-RARA fusion, which blocks retinoic acid receptor signaling and arrests myeloid maturation. All-trans retinoic acid overcomes this block and drives terminal differentiation of the leukemic promyelocytes, rapidly improving the coagulopathy; it is combined with arsenic trioxide.",
+  "explanation_incorrect": {
+    "A": "Cytarabine is an antimetabolite that kills dividing cells by incorporating into DNA; it does not induce differentiation of promyelocytes.",
+    "B": "Imatinib inhibits the BCR-ABL tyrosine kinase of chronic myeloid leukemia and is not active in acute promyelocytic leukemia.",
+    "D": "Methotrexate inhibits dihydrofolate reductase and is used in other hematologic and rheumatic diseases; it does not differentiate promyelocytes.",
+    "E": "Rituximab is an anti-CD20 antibody used for B-cell lymphomas and has no role in a myeloid leukemia whose cells lack CD20."
+  },
+  "educationalObjective": "All-trans retinoic acid treats t(15;17) acute promyelocytic leukemia by overcoming the PML-RARA maturation block and inducing terminal differentiation of promyelocytes.",
+  "source": "Generated from 1. Biochemistry.pdf - Nutrition: Fat-Soluble Vitamins (Vitamin A)"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "biochem-663-06",
+  "subject": "Biochemistry",
+  "major_topic": "Molecular Biology",
+  "subtopic": "Post-Translational Modifications",
+  "difficulty": "medium",
+  "vignette": "A 70-year-old woman with atrial fibrillation is started on warfarin. Three weeks later she presents with gum bleeding and hematuria; her INR is 6.8. Her medication list also includes a newly prescribed antibiotic, and her physician explains that warfarin interferes with a vitamin K-dependent post-translational modification required for clotting factor activity.",
+  "question": "Which of the following modifications is impaired in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Hydroxylation of proline and lysine residues"
+    },
+    {
+      "id": "B",
+      "text": "Phosphorylation of serine residues"
+    },
+    {
+      "id": "C",
+      "text": "Gamma-carboxylation of glutamate residues in factors II, VII, IX, and X"
+    },
+    {
+      "id": "D",
+      "text": "N-linked glycosylation of asparagine residues"
+    },
+    {
+      "id": "E",
+      "text": "Ubiquitination of clotting factors"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Vitamin K is a cofactor for gamma-glutamyl carboxylase, which carboxylates glutamate residues near the N-terminus of factors II (prothrombin), VII, IX, and X and of proteins C and S. Gamma-carboxyglutamate binds calcium and is required for these factors to assemble on phospholipid membranes, so warfarin, a vitamin K antagonist, impairs coagulation and raises the INR. This is a post-translational modification, not a change in gene sequence.",
+  "explanation_incorrect": {
+    "A": "Hydroxylation of proline and lysine is vitamin C-dependent and occurs in collagen, not in clotting factors.",
+    "B": "Phosphorylation regulates enzyme activity but is not the vitamin K-dependent modification of clotting factors.",
+    "D": "N-linked glycosylation occurs on asparagine in the ER and is not vitamin K-dependent.",
+    "E": "Ubiquitination marks proteins for proteasomal degradation and is not affected by warfarin."
+  },
+  "educationalObjective": "Vitamin K-dependent gamma-carboxylation of glutamate residues is required for the activity of clotting factors II, VII, IX, and X, and warfarin blocks this modification.",
+  "source": "Generated from 1. Biochemistry.pdf - Molecular Biology: Posttranslational Modifications"
+}

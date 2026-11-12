@@ -1,0 +1,41 @@
+{
+  "id": "biochem-631-03",
+  "subject": "Biochemistry",
+  "major_topic": "Lipid Metabolism",
+  "subtopic": "Bile Acids",
+  "difficulty": "medium",
+  "vignette": "A 51-year-old man with a 12-year history of ulcerative colitis is evaluated for 4 months of pruritus, fatigue, and jaundice. He has pale, bulky, floating stools and has lost 5 kg. Total bilirubin is 9.4 mg/dL with a direct fraction of 7.8 mg/dL, alkaline phosphatase is 640 U/L, and the prothrombin time is prolonged but corrects after parenteral vitamin K. Magnetic resonance cholangiopancreatography shows multifocal strictures of the intrahepatic bile ducts.",
+  "question": "Which of the following best explains this patient's steatorrhea?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Deficiency of pancreatic lipase activity in the duodenum"
+    },
+    {
+      "id": "B",
+      "text": "Increased hepatic synthesis of bile acids"
+    },
+    {
+      "id": "C",
+      "text": "Absence of bile acids in the intestinal lumen with impaired micelle formation"
+    },
+    {
+      "id": "D",
+      "text": "Deficiency of apo B-48 preventing chylomicron assembly"
+    },
+    {
+      "id": "E",
+      "text": "Loss of NPC1L1-mediated enterocyte cholesterol uptake"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Bile acids emulsify dietary fat and form the mixed micelles that permit absorption of fatty acids and fat-soluble vitamins. Chronic cholestasis from primary sclerosing cholangitis eliminates bile acids from the intestinal lumen, so fat is malabsorbed and vitamins A, D, E, and K are deficient; the prolonged prothrombin time that corrects with vitamin K reflects the same mechanism.",
+  "explanation_incorrect": {
+    "A": "Pancreatic lipase is not the deficient factor in this cholestatic disorder, and the vitamin K-responsive coagulopathy points to failure of fat-soluble vitamin absorption.",
+    "B": "Bile acid synthesis is impaired rather than increased in cholestasis, and increased bile acids would improve rather than impair fat absorption.",
+    "D": "Apo B-48 deficiency (abetalipoproteinemia) impairs chylomicron assembly, but this patient's presentation reflects biliary obstruction rather than a genetic defect in apo B-48.",
+    "E": "NPC1L1 transports cholesterol rather than triglycerides; its loss would not cause steatorrhea, and it is not the mechanism of fat malabsorption in cholestasis."
+  },
+  "educationalObjective": "Bile acids are required for micelle formation, so their absence from the intestinal lumen in cholestasis causes steatorrhea and fat-soluble vitamin deficiency.",
+  "source": "Generated from 1. Biochemistry.pdf - Lipid Metabolism: Bile Acids"
+}

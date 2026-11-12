@@ -1,0 +1,41 @@
+{
+  "id": "biochem-636-03",
+  "subject": "Biochemistry",
+  "major_topic": "Amino Acid Metabolism",
+  "subtopic": "Transamination and Deamination",
+  "difficulty": "medium",
+  "vignette": "A 32-year-old man with active tuberculosis begins isoniazid therapy. One month later he reports numbness and tingling of both feet, and serum pyridoxine is low. His liver function tests are normal.",
+  "question": "Deficiency of pyridoxal phosphate would most directly impair which of the following reactions?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Carboxylation of pyruvate to oxaloacetate"
+    },
+    {
+      "id": "B",
+      "text": "Oxidative decarboxylation of alpha-ketoglutarate"
+    },
+    {
+      "id": "C",
+      "text": "Hydroxylation of phenylalanine to tyrosine"
+    },
+    {
+      "id": "D",
+      "text": "Transfer of an amino group from alanine to alpha-ketoglutarate"
+    },
+    {
+      "id": "E",
+      "text": "Hydroxylation of dopamine to norepinephrine"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Pyridoxal phosphate is the cofactor for transaminases such as alanine aminotransferase and aspartate aminotransferase, which transfer alpha-amino groups from amino acids to alpha-ketoglutarate. Isoniazid interferes with pyridoxine metabolism, so transamination and other pyridoxal phosphate-dependent reactions, including decarboxylation of dopamine and synthesis of GABA, are impaired.",
+  "explanation_incorrect": {
+    "A": "Pyruvate carboxylase requires biotin, not pyridoxal phosphate.",
+    "B": "The alpha-ketoglutarate dehydrogenase complex requires thiamine pyrophosphate and lipoic acid, not pyridoxal phosphate.",
+    "C": "Phenylalanine hydroxylase requires tetrahydrobiopterin and iron; it is not pyridoxal phosphate-dependent.",
+    "E": "Dopamine beta-hydroxylase requires vitamin C (ascorbate), not pyridoxal phosphate."
+  },
+  "educationalObjective": "Pyridoxal phosphate is the essential cofactor for transaminases such as alanine aminotransferase and aspartate aminotransferase.",
+  "source": "Generated from 1. Biochemistry.pdf - Amino Acid Metabolism: Transamination and Deamination"
+}

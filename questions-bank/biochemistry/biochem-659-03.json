@@ -1,0 +1,41 @@
+{
+  "id": "biochem-659-03",
+  "subject": "Biochemistry",
+  "major_topic": "Molecular Biology",
+  "subtopic": "Xeroderma Pigmentosum, Lynch, BRCA",
+  "difficulty": "medium",
+  "vignette": "A 36-year-old woman of Ashkenazi Jewish ancestry is diagnosed with triple-negative breast cancer. Her mother had ovarian cancer at age 42, and her maternal aunt had breast cancer at age 39. She is referred for testing for hereditary breast and ovarian cancer syndrome.",
+  "question": "Which of the following genes is most likely mutated in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "TP53"
+    },
+    {
+      "id": "B",
+      "text": "BRCA1"
+    },
+    {
+      "id": "C",
+      "text": "BRCA2"
+    },
+    {
+      "id": "D",
+      "text": "MLH1"
+    },
+    {
+      "id": "E",
+      "text": "APC"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "BRCA1 (on chromosome 17) mutations cause hereditary breast and ovarian cancer syndrome. BRCA1-associated breast cancers are frequently triple-negative, and both BRCA1 and BRCA2 act in homologous recombination repair of DNA double-strand breaks.",
+  "explanation_incorrect": {
+    "A": "TP53 mutations cause Li-Fraumeni syndrome with sarcomas, brain tumors, and early breast cancer, but not the classic breast-ovarian pattern described.",
+    "C": "BRCA2 (on chromosome 13) also causes hereditary breast and ovarian cancer but is more strongly associated with male breast cancer and pancreatic cancer.",
+    "D": "MLH1 mutations cause Lynch syndrome, with colorectal and endometrial cancer.",
+    "E": "APC mutations cause familial adenomatous polyposis with hundreds of colonic polyps."
+  },
+  "educationalObjective": "BRCA1 mutations cause hereditary breast and ovarian cancer and are associated with triple-negative breast tumors.",
+  "source": "Generated from 1. Biochemistry.pdf - Xeroderma Pigmentosum, Lynch Syndrome, BRCA"
+}

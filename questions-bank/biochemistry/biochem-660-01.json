@@ -1,0 +1,41 @@
+{
+  "id": "biochem-660-01",
+  "subject": "Biochemistry",
+  "major_topic": "Molecular Biology",
+  "subtopic": "Transcription",
+  "difficulty": "medium",
+  "vignette": "A 42-year-old man is brought to the emergency department with 2 days of severe vomiting, crampy abdominal pain, and profuse watery diarrhea after eating wild mushrooms that he foraged. He is jaundiced, and laboratory studies show ALT 2400 U/L, AST 2800 U/L, total bilirubin 6.2 mg/dL, and INR 2.6. Despite supportive care he develops acute liver failure.",
+  "question": "Ingestion of the responsible toxin most likely impairs hepatic protein synthesis by inhibiting which of the following enzymes?",
+  "options": [
+    {
+      "id": "A",
+      "text": "RNA polymerase I in the nucleolus"
+    },
+    {
+      "id": "B",
+      "text": "RNA polymerase III"
+    },
+    {
+      "id": "C",
+      "text": "RNA polymerase II"
+    },
+    {
+      "id": "D",
+      "text": "Bacterial DNA-dependent RNA polymerase"
+    },
+    {
+      "id": "E",
+      "text": "DNA polymerase alpha"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Alpha-amanitin, the toxin of Amanita phalloides, binds and inhibits RNA polymerase II, the enzyme that transcribes mRNA as well as snRNA and miRNA in the nucleus. Because hepatocytes depend on continuous mRNA synthesis for essential proteins, inhibition produces the severe hepatic necrosis and gastrointestinal symptoms of death-cap mushroom poisoning. RNA polymerase I is resistant to alpha-amanitin, and RNA polymerase III is affected only at markedly higher concentrations.",
+  "explanation_incorrect": {
+    "A": "RNA polymerase I is resistant to alpha-amanitin; it synthesizes rRNA in the nucleolus and is not the primary target of the toxin.",
+    "B": "RNA polymerase III synthesizes 5S rRNA and tRNA and is inhibited only at much higher alpha-amanitin concentrations; the clinical toxicity is due to RNA polymerase II inhibition.",
+    "D": "Bacterial RNA polymerase is inhibited by rifamycins, not by alpha-amanitin, and this patient's illness is not a bacterial infection.",
+    "E": "DNA polymerase alpha functions in DNA replication, not transcription, and is not inhibited by alpha-amanitin."
+  },
+  "educationalObjective": "Alpha-amanitin from Amanita phalloides causes hepatic failure by inhibiting eukaryotic RNA polymerase II, the enzyme responsible for mRNA synthesis.",
+  "source": "Generated from 1. Biochemistry.pdf - Molecular Biology: Transcription"
+}

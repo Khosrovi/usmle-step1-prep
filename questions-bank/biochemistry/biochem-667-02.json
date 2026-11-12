@@ -1,0 +1,41 @@
+{
+  "id": "biochem-667-02",
+  "subject": "Biochemistry",
+  "major_topic": "Molecular Biology",
+  "subtopic": "Epigenetics",
+  "difficulty": "medium",
+  "vignette": "A 67-year-old man undergoes right hemicolectomy for colon adenocarcinoma. Tumor testing shows no pathogenic mutation in a DNA mismatch repair gene, but immunohistochemistry shows absent MLH1 protein, and methylation studies reveal hypermethylation of CpG islands in the MLH1 promoter.",
+  "question": "Which of the following best explains how this change silences the gene?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Methylation of CpG islands in the promoter represses transcription without changing the DNA sequence."
+    },
+    {
+      "id": "B",
+      "text": "Methylation creates a premature stop codon in the coding region."
+    },
+    {
+      "id": "C",
+      "text": "Promoter methylation recruits RNA polymerase II and increases transcription."
+    },
+    {
+      "id": "D",
+      "text": "Methylation causes a frameshift during DNA replication."
+    },
+    {
+      "id": "E",
+      "text": "Methylation converts cytosine to uracil throughout the gene, degrading the mRNA."
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "DNA methylation reversibly changes gene expression without altering the underlying DNA sequence. Methylation within gene promoters, particularly at CpG islands, typically represses or silences transcription, so promoter hypermethylation silences MLH1 and produces a mismatch repair-deficient cancer.",
+  "explanation_incorrect": {
+    "B": "Methylation of cytosine does not convert a codon into a stop codon; nonsense mutations arise from nucleotide substitutions.",
+    "C": "Promoter methylation represses rather than activates transcription, reducing binding of RNA polymerase II.",
+    "D": "Methylation does not alter the reading frame; frameshifts result from insertions or deletions not divisible by 3.",
+    "E": "Deamination of cytosine can yield uracil, but methylation of CpG islands silences transcription epigenetically; it is not a conversion of cytosine to uracil in the gene."
+  },
+  "educationalObjective": "Hypermethylation of CpG islands in a gene promoter reversibly represses transcription without changing the DNA sequence and is a common mechanism of tumor suppressor silencing in cancer.",
+  "source": "Generated from 1. Biochemistry.pdf - Molecular Biology: Epigenetics"
+}

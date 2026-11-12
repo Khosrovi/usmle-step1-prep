@@ -1,0 +1,41 @@
+{
+  "id": "biochem-627-02",
+  "subject": "Biochemistry",
+  "major_topic": "Lipid Metabolism",
+  "subtopic": "Fatty Acid beta-Oxidation",
+  "difficulty": "medium",
+  "vignette": "A 22-month-old boy is brought to the emergency department after a night of vomiting and lethargy that progressed to a generalized seizure. He had been well until a 14-hour fast during gastroenteritis. Laboratory studies show glucose 38 mg/dL, low serum beta-hydroxybutyrate, mild hyperammonemia, elevated medium-chain acylcarnitines, and increased urinary adipic and suberic acids.",
+  "question": "Which of the following is the most likely diagnosis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Systemic primary carnitine deficiency"
+    },
+    {
+      "id": "B",
+      "text": "Medium-chain acyl-CoA dehydrogenase deficiency"
+    },
+    {
+      "id": "C",
+      "text": "Hereditary fructose intolerance"
+    },
+    {
+      "id": "D",
+      "text": "Glycogen storage disease type I"
+    },
+    {
+      "id": "E",
+      "text": "Propionic acidemia"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Medium-chain acyl-CoA dehydrogenase deficiency prevents oxidation of medium-chain fatty acids, so fasting cannot generate ketones and the patient develops hypoketotic hypoglycemia with accumulation of medium-chain acylcarnitines and dicarboxylic acids. Vomiting, lethargy, seizures, coma, and sudden death in infancy are typical, and treatment is avoidance of fasting.",
+  "explanation_incorrect": {
+    "A": "Systemic primary carnitine deficiency presents with very low plasma free carnitine, weakness, and cardiomyopathy, without medium-chain acylcarnitine or dicarboxylic acid accumulation.",
+    "C": "Hereditary fructose intolerance causes vomiting and hypoglycemia after fructose or sucrose ingestion, with jaundice, hepatomegaly, and ketotic hypoglycemia, not after a pure fast.",
+    "D": "Glycogen storage disease type I causes fasting hypoglycemia with lactic acidosis, hepatomegaly, and ketosis, not hypoketotic hypoglycemia.",
+    "E": "Propionic acidemia causes severe ketosis, a high anion gap metabolic acidosis, and hyperammonemia with elevated propionylcarnitine."
+  },
+  "educationalObjective": "MCAD deficiency causes hypoketotic hypoglycemia triggered by fasting, with elevated medium-chain acylcarnitines and dicarboxylic acids.",
+  "source": "Generated from 1. Biochemistry.pdf - Fatty Acid beta-Oxidation"
+}

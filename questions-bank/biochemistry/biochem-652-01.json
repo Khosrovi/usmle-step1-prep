@@ -1,0 +1,41 @@
+{
+  "id": "biochem-652-01",
+  "subject": "Biochemistry",
+  "major_topic": "Nucleotide Metabolism",
+  "subtopic": "Orotic Aciduria",
+  "difficulty": "medium",
+  "vignette": "A 7-month-old boy is brought to the clinic for poor feeding, failure to thrive, and developmental delay. He has no hyperammonemia, but laboratory studies show hemoglobin 7.4 g/dL with an MCV of 106 fL and hypersegmented neutrophils, while serum vitamin B12 and folate concentrations are both normal. Urinalysis shows massive excretion of orotic acid with a normal blood urea nitrogen and normal plasma ammonia.",
+  "question": "Which of the following enzyme activities is most likely deficient in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Carbamoyl phosphate synthetase I"
+    },
+    {
+      "id": "B",
+      "text": "UMP synthase (orotate phosphoribosyltransferase/OMP decarboxylase)"
+    },
+    {
+      "id": "C",
+      "text": "Dihydroorotate dehydrogenase"
+    },
+    {
+      "id": "D",
+      "text": "Hypoxanthine-guanine phosphoribosyltransferase"
+    },
+    {
+      "id": "E",
+      "text": "Adenosine deaminase"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Hereditary orotic aciduria is caused by deficiency of UMP synthase, the bifunctional enzyme that converts orotic acid to UMP through orotate phosphoribosyltransferase and OMP decarboxylase activities. The block causes orotic acid to accumulate and spill into the urine while pyrimidine nucleotide pools fall, producing a megaloblastic anemia that does not respond to vitamin B12 or folate.",
+  "explanation_incorrect": {
+    "A": "Carbamoyl phosphate synthetase I deficiency also raises orotic acid, but it presents with hyperammonemia, low BUN, and elevated glutamine, and it does not cause megaloblastic anemia.",
+    "C": "Dihydroorotate dehydrogenase catalyzes formation of orotic acid from dihydroorotate; its inhibition (for example by leflunomide) reduces rather than increases orotic acid production.",
+    "D": "HGPRT deficiency causes Lesch-Nyhan syndrome with hyperuricemia, self-mutilation, and dystonia, not orotic aciduria.",
+    "E": "Adenosine deaminase deficiency causes SCID with profound lymphopenia and is not associated with orotic acid excretion or megaloblastic anemia."
+  },
+  "educationalObjective": "Hereditary orotic aciduria results from UMP synthase deficiency and causes megaloblastic anemia with urinary orotic acid excretion but without hyperammonemia.",
+  "source": "Generated from 1. Biochemistry.pdf - Molecular Biochemistry: De Novo Pyrimidine Synthesis (Orotic Aciduria)"
+}

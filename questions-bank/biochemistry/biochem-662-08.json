@@ -1,0 +1,41 @@
+{
+  "id": "biochem-662-08",
+  "subject": "Biochemistry",
+  "major_topic": "Molecular Biology",
+  "subtopic": "Translation",
+  "difficulty": "medium",
+  "vignette": "A 65-year-old man with bacterial meningitis and a penicillin allergy is treated with chloramphenicol, which binds the 50S ribosomal subunit and inhibits peptide bond formation. He improves over several days, but his platelet count falls and he develops anemia.",
+  "question": "In the bacterial ribosome, which component normally catalyzes peptide bond formation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "16S rRNA of the 30S subunit"
+    },
+    {
+      "id": "B",
+      "text": "Ribosomal protein S12"
+    },
+    {
+      "id": "C",
+      "text": "Elongation factor G"
+    },
+    {
+      "id": "D",
+      "text": "Aminoacyl-tRNA synthetase"
+    },
+    {
+      "id": "E",
+      "text": "23S rRNA of the 50S subunit, acting as a ribozyme"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Peptide bond formation is catalyzed by the peptidyl transferase center of the large ribosomal subunit, which is composed of rRNA; the ribosome is therefore a ribozyme. In bacteria the 23S rRNA of the 50S subunit provides this catalytic activity, and chloramphenicol binds near this center to inhibit it. Elongation factors and GTP are required for tRNA delivery and translocation, not for catalysis of the peptide bond.",
+  "explanation_incorrect": {
+    "A": "16S rRNA of the 30S subunit is involved in mRNA binding and Shine-Dalgarno recognition, not in peptide bond catalysis.",
+    "B": "Ribosomal protein S12 is part of the 30S subunit and is not the catalytic site; mutations in it confer streptomycin resistance.",
+    "C": "Elongation factor G mediates translocation, not peptide bond formation.",
+    "D": "Aminoacyl-tRNA synthetases charge tRNA with amino acids; they do not form peptide bonds."
+  },
+  "educationalObjective": "The peptidyl transferase activity of the ribosome is mediated by 23S rRNA in the 50S subunit, making the ribosome a ribozyme.",
+  "source": "Generated from 1. Biochemistry.pdf - Molecular Biology: Translation"
+}

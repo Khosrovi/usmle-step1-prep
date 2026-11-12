@@ -1,0 +1,41 @@
+{
+  "id": "biochem-610-01",
+  "subject": "Biochemistry",
+  "major_topic": "Enzymology",
+  "subtopic": "Allosteric Regulation",
+  "difficulty": "medium",
+  "vignette": "A 48-year-old man with obesity and type 2 diabetes has fasting hypertriglyceridemia and hepatic steatosis. In hepatocytes, acetyl-CoA carboxylase (ACC) converts acetyl-CoA to malonyl-CoA, the committed step of fatty acid synthesis, and this enzyme is actively regulated in the fed state. During this state, cytosolic concentrations of several metabolites change and alter ACC activity.",
+  "question": "Which of the following metabolites most directly activates acetyl-CoA carboxylase in this patient's hepatocytes?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Palmitoyl-CoA"
+    },
+    {
+      "id": "B",
+      "text": "AMP"
+    },
+    {
+      "id": "C",
+      "text": "Citrate"
+    },
+    {
+      "id": "D",
+      "text": "Malonyl-CoA"
+    },
+    {
+      "id": "E",
+      "text": "Glucagon"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Citrate is an allosteric activator of acetyl-CoA carboxylase; when mitochondrial citrate accumulates in the fed state it is exported to the cytosol and signals abundant acetyl-CoA, promoting malonyl-CoA formation and fatty acid synthesis. Palmitoyl-CoA, the end product of the pathway, exerts allosteric feedback inhibition. Glucagon acts through cAMP-dependent phosphorylation to inactivate the enzyme rather than through a direct allosteric site.",
+  "explanation_incorrect": {
+    "A": "Palmitoyl-CoA is the product of the fatty acid synthesis pathway and inhibits acetyl-CoA carboxylase rather than activating it.",
+    "B": "AMP signals a low-energy state and stimulates catabolic pathways such as glycolysis, while fatty acid synthesis is suppressed.",
+    "D": "Malonyl-CoA is the product of the reaction and an inhibitor of carnitine acyltransferase I; it does not activate its own producing enzyme.",
+    "E": "Glucagon is a hormone, not an allosteric effector; it inactivates acetyl-CoA carboxylase indirectly via phosphorylation, decreasing enzyme activity."
+  },
+  "educationalObjective": "Citrate allosterically activates acetyl-CoA carboxylase, linking mitochondrial energy surplus to cytosolic fatty acid synthesis, whereas palmitoyl-CoA provides feedback inhibition.",
+  "source": "Generated from 1. Biochemistry.pdf - Enzymology: Allosteric Regulation"
+}

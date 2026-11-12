@@ -1,0 +1,41 @@
+{
+  "id": "biochem-628-03",
+  "subject": "Biochemistry",
+  "major_topic": "Lipid Metabolism",
+  "subtopic": "Odd-chain FA Oxidation",
+  "difficulty": "medium",
+  "vignette": "A 5-day-old boy is brought with poor feeding, vomiting, tachypnea, and progressive lethargy. Laboratory studies show glucose 48 mg/dL, a high anion gap metabolic acidosis with positive urine ketones, ammonia 220 micromol/L, and elevated propionylcarnitine; blood methylmalonic acid is not increased.",
+  "question": "Deficiency of which of the following enzymes is the most likely cause?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Methylmalonyl-CoA mutase"
+    },
+    {
+      "id": "B",
+      "text": "Pyruvate carboxylase"
+    },
+    {
+      "id": "C",
+      "text": "Isovaleryl-CoA dehydrogenase"
+    },
+    {
+      "id": "D",
+      "text": "Propionyl-CoA carboxylase"
+    },
+    {
+      "id": "E",
+      "text": "HMG-CoA lyase"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Propionic acidemia results from deficiency of biotin-dependent propionyl-CoA carboxylase, so propionyl-CoA derived from odd-chain fatty acids and branched-chain amino acids accumulates and is detected as propionylcarnitine. Organic acids inhibit gluconeogenesis and the urea cycle, producing hypoglycemia, ketosis, metabolic acidosis, and hyperammonemia; treatment includes a low-protein diet restricted in valine, odd-chain fatty acids, methionine, isoleucine, and threonine.",
+  "explanation_incorrect": {
+    "A": "Methylmalonyl-CoA mutase deficiency causes methylmalonic acidemia with elevated methylmalonic acid, and the mutase step is downstream of propionyl-CoA carboxylase.",
+    "B": "Pyruvate carboxylase deficiency causes lactic acidosis and hypoglycemia without propionylcarnitine accumulation.",
+    "C": "Isovaleryl-CoA dehydrogenase deficiency causes isovaleric acidemia, which presents with a sweaty-feet odor and elevated isovaleryl carnitine.",
+    "E": "HMG-CoA lyase deficiency impairs ketogenesis and causes hypoketotic hypoglycemia without significant acidosis or hyperammonemia."
+  },
+  "educationalObjective": "Propionyl-CoA carboxylase deficiency (propionic acidemia) causes ketotic hypoglycemia, metabolic acidosis, and hyperammonemia in a neonate.",
+  "source": "Generated from 1. Biochemistry.pdf - Odd-chain FA Oxidation"
+}

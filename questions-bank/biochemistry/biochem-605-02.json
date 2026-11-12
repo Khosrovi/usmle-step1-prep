@@ -1,0 +1,41 @@
+{
+  "id": "biochem-605-02",
+  "subject": "Biochemistry",
+  "major_topic": "Amino Acids & Proteins",
+  "subtopic": "Immunoglobulins Structure and Classes",
+  "difficulty": "medium",
+  "vignette": "A 68-year-old man presents with 6 months of progressive fatigue, blurry vision, and recurrent nosebleeds. Physical examination shows distended retinal veins with flame-shaped hemorrhages and no lytic bone lesions. Laboratory studies show hemoglobin 9.4 g/dL, total serum protein 10.2 g/dL, and a narrow monoclonal spike on serum protein electrophoresis; immunofixation identifies the spike as IgM, and the serum cold agglutinin titer is elevated.",
+  "question": "Which of the following structural features of this patient's monoclonal immunoglobulin most directly accounts for his hyperviscosity?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Dimerization of two immunoglobulin monomers by a J chain and secretory component"
+    },
+    {
+      "id": "B",
+      "text": "A long, flexible hinge region between the Fab arms and the Fc region"
+    },
+    {
+      "id": "C",
+      "text": "Pentameric assembly of five monomers linked by disulfide bonds and a J chain"
+    },
+    {
+      "id": "D",
+      "text": "Two identical heavy chains and two identical light chains"
+    },
+    {
+      "id": "E",
+      "text": "Heavy glycosylation of the variable regions of the Fab arms"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "IgM circulates as a pentamer of five monomeric subunits joined by disulfide bonds and a J chain, giving it a molecular mass of roughly 900 kDa. In Waldenstrom macroglobulinemia, monoclonal IgM greatly increases serum viscosity, producing blurred vision, retinal hemorrhages, mucosal bleeding, and neurologic symptoms that improve with plasma exchange.",
+  "explanation_incorrect": {
+    "A": "A J chain plus secretory component describes secretory IgA, a dimer found in mucosal secretions, not the IgM pentamer responsible for this patient's hyperviscosity.",
+    "B": "The hinge region confers flexibility but does not determine molecular size, and IgM has a relatively short hinge; it cannot explain hyperviscosity.",
+    "D": "Two heavy and two light chains describe a single monomeric immunoglobulin unit, a feature shared by IgG, IgA, IgE, and IgD monomers; it does not distinguish the pentameric IgM molecule.",
+    "E": "Variable-region glycosylation affects antigen binding and is not the structural basis of the increased serum viscosity caused by a large IgM pentamer."
+  },
+  "educationalObjective": "IgM is a pentamer containing a J chain, so monoclonal IgM gammopathy (Waldenstrom macroglobulinemia) can cause hyperviscosity syndrome.",
+  "source": "Generated from 1. Biochemistry.pdf - Immunoglobulins Structure and Classes"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "biochem-615-02",
+  "subject": "Biochemistry",
+  "major_topic": "Carbohydrate Metabolism",
+  "subtopic": "Glycolysis",
+  "difficulty": "easy",
+  "vignette": "A 52-year-old man with alcohol use disorder is brought to the emergency department with 2 days of confusion and unsteadiness. Examination shows disorientation, horizontal nystagmus, and an ataxic gait, and he has had several episodes of vomiting. Plasma glucose is 96 mg/dL, lactate 5.1 mmol/L, pyruvate 0.22 mmol/L (normal 0.03 to 0.10), and blood alcohol is undetectable.",
+  "question": "Deficiency of which of the following vitamins best explains these findings?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Thiamine (vitamin B1)"
+    },
+    {
+      "id": "B",
+      "text": "Riboflavin (vitamin B2)"
+    },
+    {
+      "id": "C",
+      "text": "Niacin (vitamin B3)"
+    },
+    {
+      "id": "D",
+      "text": "Biotin (vitamin B7)"
+    },
+    {
+      "id": "E",
+      "text": "Pyridoxine (vitamin B6)"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Thiamine pyrophosphate is a required cofactor for pyruvate dehydrogenase, alpha-ketoglutarate dehydrogenase, transketolase, and branched-chain alpha-ketoacid dehydrogenase. In thiamine deficiency pyruvate cannot be converted to acetyl-CoA efficiently, so pyruvate and lactate accumulate, and the classic triad of Wernicke encephalopathy develops: confusion, ophthalmoplegia or nystagmus, and ataxia. Parenteral thiamine is given before glucose because a glucose load can precipitate the encephalopathy.",
+  "explanation_incorrect": {
+    "B": "Riboflavin forms FAD, a cofactor of the pyruvate dehydrogenase complex, but riboflavin deficiency causes cheilosis, glossitis, and corneal vascularization, not Wernicke encephalopathy.",
+    "C": "Niacin forms NAD+ and NADP+; its deficiency causes pellagra with dermatitis, diarrhea, and dementia, not elevated pyruvate with nystagmus and ataxia.",
+    "D": "Biotin is the carrier for carboxylases such as pyruvate carboxylase; deficiency causes dermatitis, alopecia, and neurologic symptoms but not this triad with elevated pyruvate.",
+    "E": "Pyridoxine is a cofactor for transaminases including ALT; deficiency causes peripheral neuropathy, glossitis, and sideroblastic anemia."
+  },
+  "educationalObjective": "Thiamine (vitamin B1) is required for pyruvate dehydrogenase, and its deficiency causes elevated pyruvate and lactate with Wernicke encephalopathy.",
+  "source": "Generated from 1. Biochemistry.pdf - Carbohydrate Metabolism: Glycolysis"
+}

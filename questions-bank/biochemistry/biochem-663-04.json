@@ -1,0 +1,41 @@
+{
+  "id": "biochem-663-04",
+  "subject": "Biochemistry",
+  "major_topic": "Molecular Biology",
+  "subtopic": "Post-Translational Modifications",
+  "difficulty": "medium",
+  "vignette": "A 62-year-old woman with multiple myeloma is started on bortezomib after failing first-line therapy. Within days she develops fatigue, peripheral neuropathy, and a falling platelet count, and her tumor markers improve over subsequent cycles. The drug inhibits a barrel-shaped complex that degrades polyubiquitin-tagged proteins.",
+  "question": "Which of the following best describes the consequence of inhibiting this complex in myeloma cells?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Lysosomal acid hydrolases are inhibited and undigested substrates accumulate"
+    },
+    {
+      "id": "B",
+      "text": "Polyubiquitinated proteins accumulate, causing endoplasmic reticulum stress and apoptosis"
+    },
+    {
+      "id": "C",
+      "text": "N-linked glycosylation is blocked, preventing protein folding"
+    },
+    {
+      "id": "D",
+      "text": "Mannose-6-phosphate tagging fails, and lysosomal enzymes are secreted"
+    },
+    {
+      "id": "E",
+      "text": "Gamma-carboxylation of glutamate residues is prevented"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "The proteasome is a barrel-shaped complex that degrades polyubiquitin-tagged proteins, including misfolded proteins and cell-cycle regulators, and it is also important in MHC class I antigen processing. Proteasome inhibitors such as bortezomib cause accumulation of ubiquitinated proteins, ER stress, and apoptosis in heavily protein-producing plasma cells. This underlies both the efficacy and the toxicities of the drug.",
+  "explanation_incorrect": {
+    "A": "Lysosomal acid hydrolases are not the target; the proteasome is a distinct cytosolic degradation system.",
+    "C": "Glycosylation occurs in the ER and Golgi and is not directly blocked by proteasome inhibition.",
+    "D": "Mannose-6-phosphate tagging is a Golgi function, and its failure causes I-cell disease.",
+    "E": "Gamma-carboxylation of glutamate is vitamin K-dependent and occurs on clotting factors."
+  },
+  "educationalObjective": "The proteasome degrades polyubiquitinated proteins, and its inhibition causes accumulation of misfolded proteins, ER stress, and apoptosis.",
+  "source": "Generated from 1. Biochemistry.pdf - Molecular Biology: Posttranslational Modifications"
+}

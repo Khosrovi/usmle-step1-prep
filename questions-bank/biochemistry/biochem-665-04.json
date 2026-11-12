@@ -1,0 +1,41 @@
+{
+  "id": "biochem-665-04",
+  "subject": "Biochemistry",
+  "major_topic": "Molecular Biology",
+  "subtopic": "Gene Regulation",
+  "difficulty": "medium",
+  "vignette": "A 6-year-old boy from the Mediterranean region has chronic microcytic anemia with hemoglobin 7.9 g/dL, target cells and basophilic stippling on the smear, elevated hemoglobin A2 and hemoglobin F, and normal iron studies. Sequencing shows a mutation in the TATA box of the beta-globin gene promoter that reduces binding of RNA polymerase II and its associated transcription factors.",
+  "question": "Which of the following is the most direct consequence of this mutation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Retention of an intron in beta-globin mRNA"
+    },
+    {
+      "id": "B",
+      "text": "A premature stop codon in the beta-globin coding region"
+    },
+    {
+      "id": "C",
+      "text": "Decreased efficiency of translation initiation at the Kozak sequence"
+    },
+    {
+      "id": "D",
+      "text": "Inability to add the 5-prime methylguanosine cap"
+    },
+    {
+      "id": "E",
+      "text": "A reduced rate of beta-globin gene transcription"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "The TATA box is part of the promoter, the site where RNA polymerase II and multiple transcription factors bind upstream of the gene and increase initiation of transcription. A promoter mutation weakens this binding, so less beta-globin mRNA and protein are produced, causing beta-plus thalassemia with elevated hemoglobin A2 and F.",
+  "explanation_incorrect": {
+    "A": "Intron retention results from splice-site mutations, not from a promoter mutation.",
+    "B": "A premature stop codon is a nonsense mutation within the coding sequence, whereas this mutation lies in the promoter.",
+    "C": "The Kozak sequence governs translation initiation; this promoter mutation acts earlier, at transcription.",
+    "D": "Capping occurs shortly after transcription begins and is not prevented by a TATA box mutation."
+  },
+  "educationalObjective": "Promoter mutations such as those in the TATA box decrease binding of RNA polymerase II and transcription factors, reducing the rate of transcription and causing beta-plus thalassemia.",
+  "source": "Generated from 1. Biochemistry.pdf - Molecular Biology: Regulation of Gene Expression"
+}

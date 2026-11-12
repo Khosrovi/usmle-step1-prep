@@ -1,0 +1,41 @@
+{
+  "id": "biochem-665-05",
+  "subject": "Biochemistry",
+  "major_topic": "Molecular Biology",
+  "subtopic": "Gene Regulation",
+  "difficulty": "easy",
+  "vignette": "A 38-year-old man with untreated HIV infection presents with 3 weeks of fever, night sweats, and hemoptysis. Chest radiograph shows upper-lobe cavitation, sputum is positive for acid-fast bacilli, and nucleic acid testing confirms Mycobacterium tuberculosis. He is started on a multidrug regimen that includes rifampin.",
+  "question": "Rifampin inhibits bacterial growth by targeting which of the following?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The 30S ribosomal subunit"
+    },
+    {
+      "id": "B",
+      "text": "DNA-dependent RNA polymerase in prokaryotes"
+    },
+    {
+      "id": "C",
+      "text": "DNA gyrase"
+    },
+    {
+      "id": "D",
+      "text": "Arabinosyltransferase in the mycobacterial cell wall"
+    },
+    {
+      "id": "E",
+      "text": "Dihydrofolate reductase"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Rifamycins bind the beta subunit of bacterial DNA-dependent RNA polymerase and block transcription initiation, which is why rifampin is effective against Mycobacterium tuberculosis. Resistance typically arises from mutations in the rpoB gene that encodes this subunit.",
+  "explanation_incorrect": {
+    "A": "The 30S subunit is inhibited by aminoglycosides and tetracyclines, not by rifampin.",
+    "C": "DNA gyrase, a prokaryotic topoisomerase, is inhibited by fluoroquinolones.",
+    "D": "Arabinosyltransferase is inhibited by ethambutol, which impairs mycobacterial cell wall synthesis.",
+    "E": "Dihydrofolate reductase is inhibited by trimethoprim in bacteria and by methotrexate in humans."
+  },
+  "educationalObjective": "Rifampin and other rifamycins inhibit prokaryotic DNA-dependent RNA polymerase, blocking transcription and bacterial growth.",
+  "source": "Generated from 1. Biochemistry.pdf - Molecular Biology: Regulation of Gene Expression"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "biochem-676-01",
+  "subject": "Biochemistry",
+  "major_topic": "Vitamins and Minerals",
+  "subtopic": "Vitamin B12 (Cobalamin)",
+  "difficulty": "medium",
+  "vignette": "A 68-year-old woman presents with 6 months of fatigue, numbness and tingling of both feet, and unsteadiness while walking in the dark. Examination shows decreased vibration and position sense in the toes, brisk knee reflexes with extensor plantar responses, and a positive Romberg sign. Hemoglobin is 8.4 g/dL, MCV is 112 fL, and the smear shows hypersegmented neutrophils. Serum vitamin B12 is 90 pg/mL, and antibodies against intrinsic factor are positive.",
+  "question": "Which of the following is the most likely cause of this patient's vitamin deficiency?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Infection with Diphyllobothrium latum"
+    },
+    {
+      "id": "B",
+      "text": "Surgical resection of the terminal ileum"
+    },
+    {
+      "id": "C",
+      "text": "A strict vegan diet"
+    },
+    {
+      "id": "D",
+      "text": "Autoimmune destruction of gastric parietal cells with loss of intrinsic factor"
+    },
+    {
+      "id": "E",
+      "text": "Small intestinal bacterial overgrowth"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "This patient has pernicious anemia, in which autoantibodies destroy gastric parietal cells and eliminate intrinsic factor, so vitamin B12 cannot be absorbed in the terminal ileum. The deficiency causes macrocytic megaloblastic anemia with hypersegmented neutrophils and subacute combined degeneration of the dorsal columns and lateral corticospinal tracts, which explains the sensory loss, spasticity, and gait disturbance. Both serum homocysteine and methylmalonic acid are elevated because methionine synthase and methylmalonyl-CoA mutase require cobalamin.",
+  "explanation_incorrect": {
+    "A": "Diphyllobothrium latum competes for vitamin B12, but positive anti-intrinsic factor antibodies point to an autoimmune cause.",
+    "B": "Terminal ileal resection also causes B12 deficiency, but this patient has no surgical history and has anti-intrinsic factor antibodies.",
+    "C": "Veganism causes B12 deficiency through absent intake, but the positive antibodies indicate pernicious anemia.",
+    "E": "Bacterial overgrowth can cause B12 malabsorption, but it does not produce anti-intrinsic factor antibodies."
+  },
+  "educationalObjective": "Pernicious anemia results from autoimmune loss of gastric parietal cells and intrinsic factor, causing vitamin B12 deficiency with megaloblastic anemia and subacute combined degeneration.",
+  "source": "Generated from 1. Biochemistry.pdf - Nutrition: Water-Soluble Vitamins (Vitamin B12, Cobalamin)"
+}

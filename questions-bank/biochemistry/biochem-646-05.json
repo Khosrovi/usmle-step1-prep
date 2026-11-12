@@ -1,0 +1,41 @@
+{
+  "id": "biochem-646-05",
+  "subject": "Biochemistry",
+  "major_topic": "Nucleotide Metabolism",
+  "subtopic": "Purine Synthesis de novo",
+  "difficulty": "medium",
+  "vignette": "A 45-year-old man receives a kidney transplant and is started on mycophenolate mofetil, tacrolimus, and prednisone. Within several weeks his lymphocyte count falls substantially, but his neutrophil count and hemoglobin remain stable. He has no evidence of infection or graft rejection.",
+  "question": "Which of the following best explains the selective antiproliferative effect of mycophenolate on lymphocytes?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Inhibition of thymidylate synthase blocks DNA synthesis in all dividing cells equally."
+    },
+    {
+      "id": "B",
+      "text": "Inhibition of ribonucleotide reductase prevents reduction of all ribonucleotides to deoxyribonucleotides."
+    },
+    {
+      "id": "C",
+      "text": "Inhibition of xanthine oxidase prevents purine degradation and increases uric acid."
+    },
+    {
+      "id": "D",
+      "text": "Inhibition of dihydrofolate reductase depletes tetrahydrofolate and blocks one-carbon transfer."
+    },
+    {
+      "id": "E",
+      "text": "Inhibition of inosine monophosphate dehydrogenase depletes guanine nucleotides, blocking lymphocyte proliferation."
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Mycophenolate mofetil is de-esterified to mycophenolic acid, which reversibly inhibits inosine monophosphate dehydrogenase, the rate-limiting enzyme for de novo guanine nucleotide synthesis. Lymphocytes depend heavily on de novo purine synthesis for clonal expansion, so guanine nucleotide depletion selectively suppresses their proliferation while sparing resting cells and neutrophils.",
+  "explanation_incorrect": {
+    "A": "Thymidylate synthase is not the target of mycophenolate; its inhibition by 5-fluorouracil affects all rapidly dividing tissues, including marrow and mucosa.",
+    "B": "Ribonucleotide reductase is inhibited by hydroxyurea, not mycophenolate.",
+    "C": "Xanthine oxidase is inhibited by allopurinol and febuxostat, which lower uric acid rather than suppress lymphocytes.",
+    "D": "Dihydrofolate reductase is inhibited by methotrexate, trimethoprim, and pyrimethamine."
+  },
+  "educationalObjective": "Mycophenolate inhibits inosine monophosphate dehydrogenase and selectively depletes guanine nucleotides in lymphocytes, which rely on de novo purine synthesis.",
+  "source": "Generated from 1. Biochemistry.pdf - Nucleotide Metabolism: Purine Synthesis de novo"
+}

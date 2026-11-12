@@ -1,0 +1,41 @@
+{
+  "id": "biochem-622-05",
+  "subject": "Biochemistry",
+  "major_topic": "Carbohydrate Metabolism",
+  "subtopic": "Glycogen Synthesis and Breakdown",
+  "difficulty": "medium",
+  "vignette": "A 45-year-old man has fasted for 24 hours. During this period his plasma glucagon is elevated and his liver is actively producing glucose.",
+  "question": "Which of the following best describes the effect of glucagon on hepatic glycogen metabolism in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Activation of glycogen synthase by dephosphorylation"
+    },
+    {
+      "id": "B",
+      "text": "Increased glycogen synthesis through cyclic AMP"
+    },
+    {
+      "id": "C",
+      "text": "Direct inhibition of glycogen phosphorylase"
+    },
+    {
+      "id": "D",
+      "text": "Activation of glycogen phosphorylase and inhibition of glycogen synthase through cyclic AMP and protein kinase A"
+    },
+    {
+      "id": "E",
+      "text": "No effect on hepatic glycogen, because glucagon acts only on adipose tissue"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Glucagon binds its hepatic receptor, raises cyclic AMP, and activates protein kinase A. Protein kinase A phosphorylates and activates phosphorylase kinase, which activates glycogen phosphorylase, while it also phosphorylates and inactivates glycogen synthase, so hepatic glycogenolysis increases and glycogenesis decreases. Insulin has the opposite effect and promotes dephosphorylation of these enzymes.",
+  "explanation_incorrect": {
+    "A": "Dephosphorylation activates glycogen synthase, but this is the effect of insulin and protein phosphatase, not glucagon.",
+    "B": "Glucagon decreases rather than increases glycogen synthesis, because protein kinase A inactivates glycogen synthase.",
+    "C": "Glucagon activates glycogen phosphorylase through phosphorylation; it does not inhibit it.",
+    "E": "Glucagon acts on the liver, where it stimulates glycogenolysis and gluconeogenesis; adipose tissue is not its only target."
+  },
+  "educationalObjective": "Glucagon raises hepatic cyclic AMP, which activates glycogen phosphorylase and inactivates glycogen synthase through protein kinase A.",
+  "source": "Generated from 1. Biochemistry.pdf - Glycogen Synthesis and Breakdown"
+}

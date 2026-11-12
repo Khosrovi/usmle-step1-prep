@@ -1,0 +1,41 @@
+{
+  "id": "biochem-687-04",
+  "subject": "Biochemistry",
+  "major_topic": "Heme and Bilirubin Metabolism",
+  "subtopic": "Bilirubin Metabolism",
+  "difficulty": "medium",
+  "vignette": "A 16-year-old boy is evaluated for intermittent jaundice. He is asymptomatic and takes no medications. Laboratory studies show total bilirubin 5.2 mg/dL with a direct fraction of 3.8 mg/dL, normal ALT and AST, and alkaline phosphatase within the reference range. Hemolytic studies are normal, and ultrasound shows no biliary dilatation. Liver biopsy shows a black pigment within hepatocytes but otherwise normal architecture.",
+  "question": "Which of the following is the most likely underlying defect in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Impaired canalicular excretion of conjugated bilirubin due to an MRP2 transporter defect"
+    },
+    {
+      "id": "B",
+      "text": "Reduced activity of UGT1A1"
+    },
+    {
+      "id": "C",
+      "text": "Increased activity of heme oxygenase"
+    },
+    {
+      "id": "D",
+      "text": "Defective hepatic uptake of unconjugated bilirubin by OATP1B1"
+    },
+    {
+      "id": "E",
+      "text": "Extrahepatic obstruction of the biliary tree"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Dubin-Johnson syndrome is an autosomal recessive disorder caused by a defect in the MRP2 transporter, which normally pumps conjugated bilirubin into the bile canaliculus. Conjugated bilirubin accumulates in plasma and appears in urine, while liver enzymes remain normal. The characteristic black liver results from lysosomal accumulation of a melanin-like pigment, and the condition is benign.",
+  "explanation_incorrect": {
+    "B": "Reduced UGT1A1 activity causes unconjugated hyperbilirubinemia, as in Gilbert syndrome, rather than the direct hyperbilirubinemia seen here.",
+    "C": "Increased heme oxygenase activity would increase unconjugated bilirubin and does not cause a black liver or direct hyperbilirubinemia.",
+    "D": "Defective hepatic uptake of bilirubin by the OATP1B1 and OATP1B3 transporters is the defect in Rotor syndrome, which also causes conjugated hyperbilirubinemia, but the liver in Rotor syndrome lacks the black pigment seen in this biopsy.",
+    "E": "Extrahepatic obstruction would produce biliary dilatation on ultrasound and elevated alkaline phosphatase, neither of which is present."
+  },
+  "educationalObjective": "Dubin-Johnson syndrome results from an MRP2 transporter defect that impairs canalicular excretion of conjugated bilirubin and produces a benign black liver.",
+  "source": "Generated from 1. Biochemistry.pdf - Heme and Bilirubin Metabolism: Bilirubin Metabolism"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "biochem-644-01",
+  "subject": "Biochemistry",
+  "major_topic": "Amino Acid Metabolism",
+  "subtopic": "Biogenic Amines",
+  "difficulty": "medium",
+  "vignette": "A 34-year-old woman with a 2-year history of episodic headache, palpitations, and diaphoresis is found to have paroxysmal hypertension to 210/120 mm Hg during an episode. A 24-hour urine collection shows increased fractionated metanephrines, and imaging shows a 3-cm left adrenal mass. She is scheduled for resection of a pheochromocytoma.",
+  "question": "Which of the following enzymes catalyzes the rate-limiting step in the synthesis of the catecholamines stored in this tumor?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Phenylalanine hydroxylase"
+    },
+    {
+      "id": "B",
+      "text": "Tyrosine hydroxylase"
+    },
+    {
+      "id": "C",
+      "text": "DOPA decarboxylase"
+    },
+    {
+      "id": "D",
+      "text": "Dopamine beta-hydroxylase"
+    },
+    {
+      "id": "E",
+      "text": "Phenylethanolamine-N-methyltransferase"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Catecholamine synthesis begins with conversion of tyrosine to DOPA by tyrosine hydroxylase, the rate-limiting and regulated step, which requires tetrahydrobiopterin and iron. DOPA is then decarboxylated by a pyridoxal phosphate-dependent enzyme to dopamine, dopamine is hydroxylated by dopamine beta-hydroxylase (vitamin C) to norepinephrine, and norepinephrine is methylated by phenylethanolamine-N-methyltransferase (SAM) to epinephrine. The elevated metanephrines in this patient reflect catabolism of these amines.",
+  "explanation_incorrect": {
+    "A": "Phenylalanine hydroxylase converts phenylalanine to tyrosine and is deficient in phenylketonuria; it does not catalyze the rate-limiting step of catecholamine synthesis.",
+    "C": "DOPA decarboxylase carries out the second step and requires pyridoxal phosphate, but it is not the rate-limiting enzyme.",
+    "D": "Dopamine beta-hydroxylase converts dopamine to norepinephrine and requires vitamin C; it is not rate-limiting.",
+    "E": "Phenylethanolamine-N-methyltransferase performs the final methylation of norepinephrine to epinephrine and uses SAM, but it is not rate-limiting."
+  },
+  "educationalObjective": "Tyrosine hydroxylase catalyzes the rate-limiting, tetrahydrobiopterin-dependent step of catecholamine synthesis.",
+  "source": "Generated from 1. Biochemistry.pdf - Amino Acid Metabolism: Biogenic Amines"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "biochem-693-04",
+  "subject": "Biochemistry",
+  "major_topic": "Inborn Errors of Metabolism",
+  "subtopic": "Mitochondrial Disorders",
+  "difficulty": "easy",
+  "vignette": "A 24-year-old woman with lifelong exercise intolerance, mild proximal muscle weakness, and a chronically elevated serum lactate level undergoes a muscle biopsy. The pathologist reports ragged red fibers on modified Gomori trichrome staining.",
+  "question": "Which of the following best explains these abnormal fibers?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Accumulation of glycogen within lysosomes"
+    },
+    {
+      "id": "B",
+      "text": "Compensatory proliferation of mitochondria, often with abnormal cristae or crystalline inclusions"
+    },
+    {
+      "id": "C",
+      "text": "Deposition of amyloid in the sarcoplasm"
+    },
+    {
+      "id": "D",
+      "text": "Fibrosis replacing necrotic muscle fibers"
+    },
+    {
+      "id": "E",
+      "text": "Lipid droplets resulting from defective fatty acid oxidation"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Ragged red fibers are the light microscopy hallmark of mitochondrial myopathies, and they represent compensatory proliferation of structurally abnormal mitochondria in muscle fibers that cannot generate enough ATP through oxidative phosphorylation. The subsarcolemmal accumulation of mitochondria stains red with modified Gomori trichrome, and electron microscopy shows mitochondrial crystalline inclusions. The same energy failure explains the elevated lactate, because affected fibers rely on anaerobic glycolysis.",
+  "explanation_incorrect": {
+    "A": "Glycogen storage diseases such as Pompe disease produce vacuolated fibers filled with glycogen, not ragged red fibers.",
+    "C": "Amyloid deposition produces extracellular eosinophilic material and is not the basis of ragged red fibers.",
+    "D": "Fibrosis is a late consequence of muscle necrosis and does not produce the red subsarcolemmal staining described.",
+    "E": "Lipid storage myopathy from defective fatty acid oxidation produces lipid droplets within fibers, which appear as vacuoles on oil red O staining rather than ragged red fibers."
+  },
+  "educationalObjective": "Ragged red fibers on modified Gomori trichrome staining reflect compensatory mitochondrial proliferation in oxidative phosphorylation disorders.",
+  "source": "Generated from 1. Biochemistry.pdf - Mitochondrial diseases"
+}

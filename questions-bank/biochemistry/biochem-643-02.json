@@ -1,0 +1,41 @@
+{
+  "id": "biochem-643-02",
+  "subject": "Biochemistry",
+  "major_topic": "Amino Acid Metabolism",
+  "subtopic": "Creatine Metabolism",
+  "difficulty": "medium",
+  "vignette": "A 61-year-old man with hyperlipidemia presents with 3 days of diffuse muscle pain and dark urine after starting a statin. He is alert and afebrile, and his thighs are tender to palpation. Laboratory studies show creatine kinase 24,000 U/L, serum creatinine 2.1 mg/dL, and a urine dipstick positive for blood with no red blood cells on microscopy. Troponin I is normal.",
+  "question": "Which of the following isoenzymes of creatine kinase accounts for most of the circulating enzyme activity in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Brain-type creatine kinase (CK-BB)"
+    },
+    {
+      "id": "B",
+      "text": "Heart-type creatine kinase (CK-MB)"
+    },
+    {
+      "id": "C",
+      "text": "Lactate dehydrogenase-1"
+    },
+    {
+      "id": "D",
+      "text": "Aldolase B"
+    },
+    {
+      "id": "E",
+      "text": "Muscle-type creatine kinase (CK-MM)"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Skeletal muscle contains predominantly the CK-MM isoenzyme, so massive muscle injury such as statin-associated rhabdomyolysis releases CK-MM and produces very high total creatine kinase activity. The accompanying myoglobinuria explains the dipstick positive for blood without red blood cells and the acute kidney injury from pigment-induced tubular damage. CK-MB is mainly myocardial, and this patient's normal troponin argues against myocardial infarction.",
+  "explanation_incorrect": {
+    "A": "CK-BB is found mainly in brain and smooth muscle and would not explain a massive rise after skeletal muscle injury.",
+    "B": "CK-MB is predominantly myocardial and is used to detect myocardial infarction; this patient's normal troponin and the clinical setting point to muscle rather than heart.",
+    "C": "Lactate dehydrogenase-1 is enriched in heart and red cells and is not the isoenzyme responsible for the measured creatine kinase activity.",
+    "D": "Aldolase B is a liver and kidney glycolytic enzyme and is not a creatine kinase isoenzyme."
+  },
+  "educationalObjective": "CK-MM is the predominant creatine kinase isoenzyme of skeletal muscle, and its massive release in rhabdomyolysis causes myoglobinuria and acute kidney injury.",
+  "source": "Generated from 1. Biochemistry.pdf - Amino Acid Metabolism: Creatine Metabolism"
+}

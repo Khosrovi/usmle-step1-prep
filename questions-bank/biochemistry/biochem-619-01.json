@@ -1,0 +1,41 @@
+{
+  "id": "biochem-619-01",
+  "subject": "Biochemistry",
+  "major_topic": "Carbohydrate Metabolism",
+  "subtopic": "Oxidative Phosphorylation",
+  "difficulty": "medium",
+  "vignette": "A 32-year-old woman with a mitochondrial myopathy reports exercise intolerance and proximal muscle weakness. Serum lactate is elevated, and muscle biopsy shows ragged red fibers. Studies of isolated mitochondria show an intact electron transport chain and a normal proton gradient, but reduced ATP synthesis because of a mutation in ATP synthase.",
+  "question": "Which of the following directly provides the energy for ATP synthesis by ATP synthase?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Electron transfer from NADH to oxygen"
+    },
+    {
+      "id": "B",
+      "text": "The electrochemical proton gradient across the inner mitochondrial membrane"
+    },
+    {
+      "id": "C",
+      "text": "Hydrolysis of GTP in the mitochondrial matrix"
+    },
+    {
+      "id": "D",
+      "text": "The membrane potential of the outer mitochondrial membrane"
+    },
+    {
+      "id": "E",
+      "text": "Phosphorylation of ADP by creatine kinase"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Electron transport pumps protons from the matrix into the intermembrane space, creating an electrochemical gradient with an alkaline matrix and an acidic intermembrane space. Protons then flow back into the matrix through ATP synthase, and this exergonic flow drives phosphorylation of ADP to ATP.",
+  "explanation_incorrect": {
+    "A": "Electron transfer generates the proton gradient but does not directly phosphorylate ADP; the gradient is the immediate energy source for ATP synthase.",
+    "C": "GTP hydrolysis is not the direct energy source for ATP synthase; GTP is produced by substrate-level phosphorylation in the TCA cycle.",
+    "D": "The relevant gradient is across the inner mitochondrial membrane, not the outer membrane.",
+    "E": "Creatine kinase buffers ATP in the cytosol but does not drive mitochondrial ATP synthesis."
+  },
+  "educationalObjective": "ATP synthase uses the electrochemical proton gradient across the inner mitochondrial membrane to phosphorylate ADP.",
+  "source": "Generated from 1. Biochemistry.pdf - Oxidative Phosphorylation"
+}

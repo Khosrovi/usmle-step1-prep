@@ -1,0 +1,41 @@
+{
+  "id": "biochem-644-04",
+  "subject": "Biochemistry",
+  "major_topic": "Amino Acid Metabolism",
+  "subtopic": "Biogenic Amines",
+  "difficulty": "medium",
+  "vignette": "A 38-year-old man with treatment-resistant depression has been taking a nonselective monoamine oxidase inhibitor. At a dinner party he eats aged cheese and cured sausage and within an hour develops an occipital headache, palpitations, and sweating, with a blood pressure of 220/115 mm Hg. He is treated in the emergency department and recovers.",
+  "question": "Which of the following best explains this reaction?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Tyramine directly stimulates beta-adrenergic receptors on vascular smooth muscle"
+    },
+    {
+      "id": "B",
+      "text": "Monoamine oxidase inhibition increases catecholamine biosynthesis in the adrenal medulla"
+    },
+    {
+      "id": "C",
+      "text": "Tyramine is not degraded by monoamine oxidase, is taken up into adrenergic terminals, and displaces stored norepinephrine"
+    },
+    {
+      "id": "D",
+      "text": "Tyramine inhibits catechol-O-methyltransferase and blocks norepinephrine degradation"
+    },
+    {
+      "id": "E",
+      "text": "Tyramine acts as an antagonist at presynaptic alpha-2 receptors and reduces norepinephrine release"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Aged cheese, cured meats, and fermented products contain tyramine, an indirect sympathomimetic that is normally degraded by monoamine oxidase in the gut wall and liver. When a nonselective monoamine oxidase inhibitor is present, tyramine reaches adrenergic nerve terminals, enters them through the uptake transporter, and displaces norepinephrine from vesicular stores into the synaptic cleft, causing a hypertensive crisis often called the cheese reaction.",
+  "explanation_incorrect": {
+    "A": "Tyramine has little direct receptor activity; its pressor effect requires uptake into terminals and release of stored norepinephrine.",
+    "B": "Monoamine oxidase inhibition reduces catecholamine degradation rather than increasing medullary catecholamine synthesis.",
+    "D": "Catechol-O-methyltransferase is not the target of tyramine; tyramine increases norepinephrine availability by displacement rather than by inhibiting methylation.",
+    "E": "Tyramine increases rather than decreases norepinephrine release, and alpha-2 agonists are the agents that reduce release."
+  },
+  "educationalObjective": "The cheese reaction occurs because tyramine escapes monoamine oxidase degradation and displaces stored norepinephrine, producing severe hypertension in patients taking nonselective monoamine oxidase inhibitors.",
+  "source": "Generated from 1. Biochemistry.pdf - Amino Acid Metabolism: Biogenic Amines"
+}

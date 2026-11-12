@@ -1,0 +1,41 @@
+{
+  "id": "biochem-691-04",
+  "subject": "Biochemistry",
+  "major_topic": "Inborn Errors of Metabolism",
+  "subtopic": "Lysosomal Storage Diseases Part 3",
+  "difficulty": "medium",
+  "vignette": "A 31-year-old woman and her unrelated 33-year-old husband seek genetic counseling after their first child died at age 3 years of a progressive demyelinating disorder. Postmortem studies showed diffuse loss of myelin with metachromatic granules within oligodendrocytes and peripheral nerves, and arylsulfatase A activity was absent in the child's leukocytes. Both parents are asymptomatic and have no affected relatives.",
+  "question": "Which of the following is the risk that their next child will be affected by the same disorder?",
+  "options": [
+    {
+      "id": "A",
+      "text": "100%"
+    },
+    {
+      "id": "B",
+      "text": "50%"
+    },
+    {
+      "id": "C",
+      "text": "50% if the child is male"
+    },
+    {
+      "id": "D",
+      "text": "Essentially 0%"
+    },
+    {
+      "id": "E",
+      "text": "25%"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Metachromatic leukodystrophy is an autosomal recessive deficiency of arylsulfatase A, so both asymptomatic parents of an affected child must be obligatory carriers. With each pregnancy, an autosomal recessive couple has a 25% chance of an affected child, a 50% chance of an unaffected carrier, and a 25% chance of a noncarrier. This is why sphingolipidoses, including metachromatic leukodystrophy, are classified among the autosomal recessive diseases.",
+  "explanation_incorrect": {
+    "A": "A 100% risk would require both parents to be homozygous affected, which is not the case because both are asymptomatic.",
+    "B": "A 50% risk per pregnancy applies to autosomal dominant disease or to a carrier of an X-linked recessive allele having an affected son.",
+    "C": "Sex does not alter the risk in an autosomal disorder; male and female children are affected with equal frequency.",
+    "D": "The risk is not negligible because both parents are obligatory carriers of the same autosomal recessive mutation."
+  },
+  "educationalObjective": "Two asymptomatic parents of a child with an autosomal recessive lysosomal storage disorder have a 25% recurrence risk in each subsequent pregnancy.",
+  "source": "Generated from 1. Biochemistry.pdf - Genetics (autosomal recessive diseases)"
+}

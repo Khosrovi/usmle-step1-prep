@@ -1,0 +1,41 @@
+{
+  "id": "biochem-634-03",
+  "subject": "Biochemistry",
+  "major_topic": "Lipid Metabolism",
+  "subtopic": "Familial Hypercholesterolemias",
+  "difficulty": "medium",
+  "vignette": "A 24-year-old man is found to have total cholesterol of 296 mg/dL and LDL cholesterol of 210 mg/dL during an employment screening; he is asymptomatic. His father had a myocardial infarction at age 41, and his paternal grandmother had a similar lipid pattern. LDL cholesterol is also elevated in his 12-year-old daughter.",
+  "question": "Which of the following patterns of inheritance best explains this family's lipid abnormality?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Autosomal recessive"
+    },
+    {
+      "id": "B",
+      "text": "Autosomal dominant"
+    },
+    {
+      "id": "C",
+      "text": "X-linked recessive"
+    },
+    {
+      "id": "D",
+      "text": "X-linked dominant"
+    },
+    {
+      "id": "E",
+      "text": "Mitochondrial"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Familial hypercholesterolemia is inherited in an autosomal dominant pattern, so heterozygous relatives in successive generations have elevated LDL; heterozygotes occur in about 1 in 500 people. Transmission through the paternal line to a daughter excludes X-linked inheritance, and the trait appears in every generation. Homozygotes are very rare but far more severely affected.",
+  "explanation_incorrect": {
+    "A": "An autosomal recessive pattern would require both parents to be carriers and would not produce this vertical, multi-generation pattern.",
+    "C": "An affected father cannot pass an X-linked recessive disease to a daughter as an affected phenotype; she would be a carrier.",
+    "D": "X-linked dominant inheritance from an affected father affects all daughters but no sons, which does not fit this pedigree.",
+    "E": "Mitochondrial inheritance is strictly maternal, but this trait came through the paternal side."
+  },
+  "educationalObjective": "Familial hypercholesterolemia is an autosomal dominant disorder with vertical transmission and a heterozygote frequency of about 1 in 500.",
+  "source": "Generated from 1. Biochemistry.pdf - Familial Dyslipidemias"
+}

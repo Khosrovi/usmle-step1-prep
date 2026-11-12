@@ -1,0 +1,41 @@
+{
+  "id": "biochem-667-04",
+  "subject": "Biochemistry",
+  "major_topic": "Molecular Biology",
+  "subtopic": "Epigenetics",
+  "difficulty": "easy",
+  "vignette": "A 15-year-old girl is evaluated for short stature, a webbed neck, and primary amenorrhea. Physical examination shows a shield chest with widely spaced nipples, and karyotyping reveals 45,X.",
+  "question": "Which of the following is most likely when her buccal mucosal cells are examined for Barr bodies?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Two Barr bodies in each nucleus"
+    },
+    {
+      "id": "B",
+      "text": "One Barr body in each nucleus"
+    },
+    {
+      "id": "C",
+      "text": "No Barr bodies, because she has only one X chromosome"
+    },
+    {
+      "id": "D",
+      "text": "One Barr body in half of the cells and none in the other half"
+    },
+    {
+      "id": "E",
+      "text": "Barr bodies located within the mitochondria"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "A Barr body is an inactive, condensed X chromosome, a form of methylated heterochromatin that is visible at the periphery of the nucleus. In XX cells one X is randomly inactivated, leaving one Barr body; a 45,X individual has only one X, so no X is inactivated and no Barr body is present.",
+  "explanation_incorrect": {
+    "A": "Two Barr bodies would require at least three X chromosomes, as in 47,XXX.",
+    "B": "One Barr body is the normal finding in 46,XX cells, but this patient has only a single X.",
+    "D": "Random inactivation still produces one Barr body per XX cell; it does not create a 50% mixture of cells with and without a Barr body.",
+    "E": "Barr bodies are nuclear, not mitochondrial; mitochondria have their own circular DNA that does not bind histones."
+  },
+  "educationalObjective": "The Barr body is the methylated, inactivated X chromosome; normal XX cells have one, whereas 45,X cells have none.",
+  "source": "Generated from 1. Biochemistry.pdf - Molecular Biology: Epigenetics"
+}

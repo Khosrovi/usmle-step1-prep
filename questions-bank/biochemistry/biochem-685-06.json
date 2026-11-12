@@ -1,0 +1,41 @@
+{
+  "id": "biochem-685-06",
+  "subject": "Biochemistry",
+  "major_topic": "Heme and Bilirubin Metabolism",
+  "subtopic": "Porphyrias",
+  "difficulty": "easy",
+  "vignette": "An 11-year-old boy is brought to the clinic because he develops burning, redness, and swelling of the face and hands within minutes of sun exposure, followed by crusting, while blistered skin lesions are absent. The symptoms have occurred every summer since early childhood. He has no abdominal pain, neurologic symptoms, or anemia. Laboratory studies show markedly elevated free erythrocyte protoporphyrin with normal urinary ALA and porphobilinogen.",
+  "question": "A defect in which of the following enzymes best accounts for this boy's burning photosensitivity and elevated erythrocyte protoporphyrin?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Ferrochelatase"
+    },
+    {
+      "id": "B",
+      "text": "ALA synthase"
+    },
+    {
+      "id": "C",
+      "text": "Porphobilinogen deaminase"
+    },
+    {
+      "id": "D",
+      "text": "Uroporphyrinogen decarboxylase"
+    },
+    {
+      "id": "E",
+      "text": "Coproporphyrinogen oxidase"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Erythropoietic protoporphyria is caused by deficiency of ferrochelatase, the final enzyme of heme synthesis, which inserts iron into protoporphyrin IX. Protoporphyrin IX accumulates in erythrocytes, plasma, and stool and produces acute, painful photosensitivity, sometimes with burning and swelling rather than blisters. Because the defect is distal in the pathway, ALA and porphobilinogen are not elevated and neurovisceral attacks do not occur.",
+  "explanation_incorrect": {
+    "B": "ALA synthase deficiency does not exist as an isolated porphyria; ALAS2 mutations cause X-linked sideroblastic anemia, not photosensitivity.",
+    "C": "Porphobilinogen deaminase deficiency causes acute intermittent porphyria with abdominal and neuropsychiatric symptoms and no skin lesions.",
+    "D": "Uroporphyrinogen decarboxylase deficiency causes porphyria cutanea tarda with chronic blistering and scarring, not acute burning within minutes of sun exposure.",
+    "E": "Coproporphyrinogen oxidase deficiency causes hereditary coproporphyria, which produces blisters and neurovisceral attacks and elevates coproporphyrin III."
+  },
+  "educationalObjective": "Erythropoietic protoporphyria is caused by ferrochelatase deficiency and presents with painful photosensitivity and elevated erythrocyte protoporphyrin without neurovisceral attacks.",
+  "source": "Generated from 1. Biochemistry.pdf - Heme and Bilirubin Metabolism: Porphyrias"
+}

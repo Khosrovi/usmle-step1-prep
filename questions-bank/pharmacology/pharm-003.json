@@ -1,0 +1,41 @@
+{
+  "id": "pharm-003",
+  "subject": "Pharmacology",
+  "major_topic": "Autonomic Drugs",
+  "subtopic": "Muscarinic antagonists and anticholinergic toxicity",
+  "difficulty": "medium",
+  "vignette": "A 19-year-old man is brought in after eating berries from a plant he found while hiking. He is agitated and incoherent. Examination shows dry flushed skin, dilated pupils, urinary retention, and a temperature of 39.2 degrees Celsius.",
+  "question": "Which of the following is the most appropriate antidote?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Physostigmine"
+    },
+    {
+      "id": "B",
+      "text": "Neostigmine"
+    },
+    {
+      "id": "C",
+      "text": "Atropine"
+    },
+    {
+      "id": "D",
+      "text": "Pralidoxime"
+    },
+    {
+      "id": "E",
+      "text": "Flumazenil"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "This is the anticholinergic toxidrome (hot, dry, mad, blind, full). Physostigmine is a tertiary amine that crosses the blood-brain barrier and reversibly inhibits acetylcholinesterase centrally and peripherally. Supportive cooling is also required; physostigmine is avoided when tricyclic antidepressant co-ingestion is suspected.",
+  "explanation_incorrect": {
+    "B": "Neostigmine is a quaternary amine that does not cross the blood-brain barrier, so it cannot reverse central anticholinergic effects.",
+    "C": "Atropine is itself a muscarinic antagonist and would worsen the toxidrome.",
+    "D": "Pralidoxime is used for organophosphate poisoning to reactivate acetylcholinesterase.",
+    "E": "Flumazenil is a benzodiazepine antagonist and has no role in anticholinergic toxicity."
+  },
+  "educationalObjective": "Physostigmine, a CNS-penetrant cholinesterase inhibitor, is the antidote for central anticholinergic toxicity.",
+  "source": "Generated from 5. Pharmacology.pdf - Autonomic Drugs and specific toxicity treatments"
+}

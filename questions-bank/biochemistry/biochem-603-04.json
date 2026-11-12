@@ -1,0 +1,41 @@
+{
+  "id": "biochem-603-04",
+  "subject": "Biochemistry",
+  "major_topic": "Amino Acids & Proteins",
+  "subtopic": "Collagen Synthesis and Disorders",
+  "difficulty": "medium",
+  "vignette": "A 4-month-old boy is evaluated for failure to thrive, poor feeding, and hypotonia, and he has had several seizures. His hair is sparse, coarse, and twisted, and his face appears unusually pale with sagging cheeks. Serum copper and ceruloplasmin are low, and a skeletal survey shows wormian bones and flared metaphyses.",
+  "question": "Which step of collagen maturation is most likely impaired in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Hydroxylation of proline and lysine residues"
+    },
+    {
+      "id": "B",
+      "text": "Cleavage of procollagen N- and C-terminal propeptides"
+    },
+    {
+      "id": "C",
+      "text": "Glycosylation of hydroxylysine residues"
+    },
+    {
+      "id": "D",
+      "text": "Copper-dependent oxidative deamination of lysine and hydroxylysine by lysyl oxidase"
+    },
+    {
+      "id": "E",
+      "text": "Formation of the collagen triple helix"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "This infant has Menkes disease, an X-linked recessive disorder caused by defective ATP7A, which impairs intestinal copper absorption and copper transport. Copper is a required cofactor for lysyl oxidase, the enzyme that oxidatively deaminates lysine and hydroxylysine to form the covalent cross-links that give collagen and elastin their tensile strength. Deficient cross-linking produces kinky hair, hypotonia, developmental delay, connective tissue fragility, and a risk of cerebral aneurysms.",
+  "explanation_incorrect": {
+    "A": "Proline and lysine hydroxylation requires vitamin C, and its deficiency causes scurvy with bleeding gums, not kinky hair and copper deficiency.",
+    "B": "Procollagen peptidase cleavage defects cause a form of Ehlers-Danlos syndrome and are not related to copper metabolism.",
+    "C": "Glycosylation of hydroxylysine occurs in the Golgi independently of copper and does not produce the hair and neurologic findings described.",
+    "E": "Triple helix formation can be impaired by glycine substitutions in osteogenesis imperfecta, which does not cause low serum copper or kinky hair."
+  },
+  "educationalObjective": "Menkes disease results from defective ATP7A and impaired copper-dependent lysyl oxidase activity, causing defective collagen and elastin cross-linking with kinky hair, hypotonia, and vascular fragility.",
+  "source": "Generated from 1. Biochemistry.pdf - Biochemistry: Cellular (Collagen Synthesis and Disorders)"
+}

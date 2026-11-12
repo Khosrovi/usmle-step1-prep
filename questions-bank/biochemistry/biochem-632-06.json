@@ -1,0 +1,41 @@
+{
+  "id": "biochem-632-06",
+  "subject": "Biochemistry",
+  "major_topic": "Lipid Metabolism",
+  "subtopic": "Lipoproteins",
+  "difficulty": "medium",
+  "vignette": "A 56-year-old woman with heterozygous familial hypercholesterolemia and coronary artery disease has an LDL cholesterol of 205 mg/dL despite atorvastatin 80 mg daily and ezetimibe. Evolocumab is added, and 4 weeks later her LDL cholesterol is 68 mg/dL. She has no new symptoms and her creatine kinase is normal.",
+  "question": "Which of the following best explains the lipid-lowering action of evolocumab?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Irreversible inhibition of HMG-CoA reductase"
+    },
+    {
+      "id": "B",
+      "text": "Blockade of intestinal NPC1L1"
+    },
+    {
+      "id": "C",
+      "text": "Binding PCSK9 and preventing degradation of LDL receptors"
+    },
+    {
+      "id": "D",
+      "text": "Activation of lipoprotein lipase through PPAR-alpha"
+    },
+    {
+      "id": "E",
+      "text": "Antisense inhibition of apolipoprotein B-100 synthesis"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "PCSK9 binds the LDL receptor and directs it toward lysosomal degradation, reducing the number of receptors that return to the hepatocyte surface. Evolocumab is a monoclonal antibody that binds PCSK9 and prevents this degradation, so more LDL receptors remain available to clear LDL and plasma LDL falls dramatically on top of statin therapy.",
+  "explanation_incorrect": {
+    "A": "Irreversible inhibition of HMG-CoA reductase describes the mechanism of statins, not of an antibody directed against PCSK9.",
+    "B": "NPC1L1 blockade is the mechanism of ezetimibe, which this patient is already taking without adequate effect.",
+    "D": "PPAR-alpha activation with increased lipoprotein lipase activity is the mechanism of fibrates, which lower triglycerides more than LDL.",
+    "E": "Antisense inhibition of apolipoprotein B-100 describes mipomersen, a different lipid-lowering strategy that reduces VLDL secretion."
+  },
+  "educationalObjective": "Evolocumab lowers LDL by binding PCSK9 and preventing LDL receptor degradation, increasing hepatic LDL clearance.",
+  "source": "Generated from 1. Biochemistry.pdf - Lipid Metabolism: Lipoproteins"
+}

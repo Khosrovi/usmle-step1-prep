@@ -1,0 +1,41 @@
+{
+  "id": "biochem-635-10",
+  "subject": "Biochemistry",
+  "major_topic": "Lipid Metabolism",
+  "subtopic": "Sphingolipidoses",
+  "difficulty": "medium",
+  "vignette": "A 30-year-old woman is evaluated because her 58-year-old father has end-stage renal disease, angiokeratomas, and a history of painful hands and feet; her 27-year-old brother has similar skin lesions and proteinuria. She has mild proteinuria and is otherwise asymptomatic.",
+  "question": "Which of the following patterns of inheritance best fits the condition in this family?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Autosomal dominant"
+    },
+    {
+      "id": "B",
+      "text": "Autosomal recessive"
+    },
+    {
+      "id": "C",
+      "text": "X-linked dominant"
+    },
+    {
+      "id": "D",
+      "text": "Mitochondrial"
+    },
+    {
+      "id": "E",
+      "text": "X-linked recessive"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Fabry disease is an X-linked recessive disorder caused by alpha-galactosidase A deficiency, so an affected father transmits the variant to all of his daughters, who become carriers. Skewed X-inactivation can make carrier females symptomatic, explaining this woman's mild proteinuria while her male relatives have severe disease. Affected males do not transmit the disorder to their sons.",
+  "explanation_incorrect": {
+    "A": "An autosomal dominant pattern would not explain the severe male-predominant disease with only mild findings in the daughter.",
+    "B": "Autosomal recessive disease requires two carrier parents and affects males and females equally.",
+    "C": "In X-linked dominant disease all daughters of an affected father are affected, usually with substantial disease, which does not fit this carrier state.",
+    "D": "Mitochondrial inheritance is strictly maternal, but this trait came through the father."
+  },
+  "educationalObjective": "Fabry disease is X-linked recessive, so affected fathers pass the variant to all daughters, who may show mild disease from skewed X-inactivation.",
+  "source": "Generated from 1. Biochemistry.pdf - Lysosomal Storage Diseases"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "biochem-692-04",
+  "subject": "Biochemistry",
+  "major_topic": "Inborn Errors of Metabolism",
+  "subtopic": "Peroxisomal Disorders",
+  "difficulty": "hard",
+  "vignette": "A 2-month-old girl with hypotonia, seizures, and dysmorphic features is found to have no detectable peroxisomes in cultured fibroblasts, consistent with Zellweger syndrome. Her physicians compare her case with that of a boy with X-linked adrenoleukodystrophy, in whom peroxisomes are present but fatty acid import is defective.",
+  "question": "Which of the following best explains why Zellweger syndrome affects many organs, whereas adrenoleukodystrophy mainly affects white matter, adrenal cortex, and testes?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Zellweger syndrome is caused by a mutation in ABCD1 that abolishes all peroxisomal β-oxidation"
+    },
+    {
+      "id": "B",
+      "text": "Zellweger syndrome is a defect of peroxisome biogenesis (PEX genes), so all peroxisomal functions are lost"
+    },
+    {
+      "id": "C",
+      "text": "Zellweger syndrome causes secondary depletion of mitochondrial DNA"
+    },
+    {
+      "id": "D",
+      "text": "Adrenoleukodystrophy is autosomal recessive and therefore has residual peroxisomal enzyme activity"
+    },
+    {
+      "id": "E",
+      "text": "Zellweger syndrome impairs mannose-6-phosphate tagging of lysosomal hydrolases"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Peroxisomes carry out β-oxidation of very-long-chain fatty acids, α-oxidation of branched-chain fatty acids, catabolism of amino acids and ethanol, and synthesis of bile acids and plasmalogens, a phospholipid that is especially important in brain white matter. In Zellweger syndrome, PEX gene mutations prevent peroxisome formation, so every one of these functions fails and the disease is severe and multisystem. In adrenoleukodystrophy only the ABCD1 transporter is defective, so very-long-chain fatty acids accumulate mainly in adrenal cortex, white matter, and testes.",
+  "explanation_incorrect": {
+    "A": "ABCD1 mutations cause adrenoleukodystrophy; Zellweger syndrome results from mutations in PEX genes that govern peroxisome assembly.",
+    "C": "Zellweger syndrome does not cause mitochondrial DNA depletion; it is a defect of peroxisome biogenesis, and the resulting energy failure is secondary to loss of peroxisomal metabolism.",
+    "D": "Adrenoleukodystrophy is X-linked recessive, and its limited phenotype reflects a single defective transporter rather than residual activity.",
+    "E": "Mannose-6-phosphate tagging failure is the mechanism of I-cell disease, a lysosomal disorder, not of Zellweger syndrome."
+  },
+  "educationalObjective": "Zellweger syndrome abolishes all peroxisomal functions because peroxisome biogenesis fails, whereas adrenoleukodystrophy disables a single peroxisomal transporter and therefore has a restricted phenotype.",
+  "source": "Generated from 1. Biochemistry.pdf - Peroxisome / peroxisomal disorders"
+}

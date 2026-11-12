@@ -1,0 +1,41 @@
+{
+  "id": "biochem-665-06",
+  "subject": "Biochemistry",
+  "major_topic": "Molecular Biology",
+  "subtopic": "Gene Regulation",
+  "difficulty": "medium",
+  "vignette": "A 3-month-old boy is evaluated for prolonged bleeding after circumcision and a large intracranial hemorrhage. Factor IX activity is less than 1% of normal, and sequencing of the factor IX gene shows a single nucleotide change in the Kozak consensus sequence surrounding the AUG start codon that reduces binding of the small ribosomal subunit to the mRNA.",
+  "question": "This mutation most likely decreases factor IX production by which mechanism?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Impaired initiation of transcription"
+    },
+    {
+      "id": "B",
+      "text": "Defective removal of introns from the transcript"
+    },
+    {
+      "id": "C",
+      "text": "Failure of polyadenylation at the 3-prime end"
+    },
+    {
+      "id": "D",
+      "text": "Misfolding of factor IX in the endoplasmic reticulum"
+    },
+    {
+      "id": "E",
+      "text": "Impaired initiation of translation"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "The Kozak sequence surrounds the AUG start codon in most eukaryotic mRNAs and facilitates binding of the small (40S) ribosomal subunit. A mutation that weakens this interaction impairs initiation of translation, so less factor IX protein is synthesized even though the mRNA is present in the cell.",
+  "explanation_incorrect": {
+    "A": "Transcription initiation depends on the promoter, such as the TATA box, and its transcription factors, not on the Kozak sequence at the start codon.",
+    "B": "Intron removal is performed by the spliceosome at splice sites; the Kozak sequence acts after the mRNA has been processed.",
+    "C": "Polyadenylation depends on the AAUAAA signal in the 3-prime untranslated region, whereas the Kozak sequence lies at the 5-prime end near AUG.",
+    "D": "Protein misfolding would affect stability or trafficking after translation; here the defect is at the initiation step of protein synthesis."
+  },
+  "educationalObjective": "The Kozak sequence facilitates 40S ribosomal subunit binding at the AUG start codon, so mutations that disrupt it impair translation initiation and reduce protein synthesis.",
+  "source": "Generated from 1. Biochemistry.pdf - Molecular Biology: Regulation of Gene Expression"
+}

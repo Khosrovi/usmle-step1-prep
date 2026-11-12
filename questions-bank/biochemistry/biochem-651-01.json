@@ -1,0 +1,41 @@
+{
+  "id": "biochem-651-01",
+  "subject": "Biochemistry",
+  "major_topic": "Nucleotide Metabolism",
+  "subtopic": "SCID and ADA Deficiency",
+  "difficulty": "hard",
+  "vignette": "A 4-month-old girl is brought to the clinic because of poor weight gain, chronic watery diarrhea, and persistent oral thrush that has not responded to nystatin. She has been hospitalized twice for Pneumocystis jirovecii pneumonia. On examination she is thin and has no palpable lymph nodes, and a chest radiograph shows an absent thymic shadow. Laboratory studies show an absolute lymphocyte count of 300/uL and markedly decreased serum immunoglobulin levels, and erythrocyte adenosine deaminase activity is undetectable.",
+  "question": "Which of the following best explains the depletion of lymphocytes in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Impaired conversion of guanine and hypoxanthine to their respective monophosphates"
+    },
+    {
+      "id": "B",
+      "text": "Impaired conversion of orotic acid to UMP"
+    },
+    {
+      "id": "C",
+      "text": "Accumulation of deoxyadenosine triphosphate with inhibition of ribonucleotide reductase"
+    },
+    {
+      "id": "D",
+      "text": "Inhibition of thymidylate synthase by accumulated deoxyuridine monophosphate"
+    },
+    {
+      "id": "E",
+      "text": "Reduced availability of PRPP because of deficient PRPP synthetase"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Absence of adenosine deaminase prevents degradation of adenosine and deoxyadenosine, so deoxyadenosine is phosphorylated to dATP. Excess dATP inhibits ribonucleotide reductase, depleting the deoxyribonucleotide precursors required for DNA synthesis, and lymphocytes are especially sensitive to this effect. The result is the profound lymphopenia and combined T- and B-cell dysfunction of SCID.",
+  "explanation_incorrect": {
+    "A": "This describes defective purine salvage in HGPRT deficiency (Lesch-Nyhan syndrome), which produces hyperuricemia, self-mutilation, and dystonia rather than SCID.",
+    "B": "This describes UMP synthase deficiency (hereditary orotic aciduria), which causes megaloblastic anemia and orotic aciduria, not lymphopenia.",
+    "D": "Thymidylate synthase inhibition (for example by 5-fluorouracil) depletes dTMP, but the initiating defect here is adenosine deaminase deficiency, and neither dUMP accumulation nor antifolate toxicity explains this presentation.",
+    "E": "PRPP is the activated ribose donor for both de novo and salvage purine synthesis; its deficiency would impair purine production broadly but is not the mechanism of adenosine deaminase deficiency."
+  },
+  "educationalObjective": "Adenosine deaminase deficiency causes autosomal recessive SCID because accumulated dATP inhibits ribonucleotide reductase and blocks lymphocyte DNA synthesis.",
+  "source": "Generated from 1. Biochemistry.pdf - Molecular Biochemistry: Purine Salvage Deficiencies (Adenosine Deaminase Deficiency)"
+}

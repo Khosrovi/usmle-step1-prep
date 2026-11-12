@@ -1,0 +1,41 @@
+{
+  "id": "biochem-696-02",
+  "subject": "Biochemistry",
+  "major_topic": "Inborn Errors of Metabolism",
+  "subtopic": "Congenital Disorders of Glycosylation",
+  "difficulty": "medium",
+  "vignette": "A 5-month-old boy has had intractable watery diarrhea and failure to thrive since birth. He has a mildly enlarged liver and pitting edema of the legs. Laboratory studies show albumin 2.1 g/dL, glucose 48 mg/dL after a fasting period, a prolonged PTT, mildly elevated transaminases, and increased fecal alpha-1 antitrypsin clearance consistent with protein-losing enteropathy. Transferrin isoelectric focusing shows a type I carbohydrate-deficient pattern, and enzyme studies show phosphomannose isomerase deficiency; he has no developmental delay or cerebellar atrophy.",
+  "question": "Which of the following is the most appropriate specific therapy?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Oral mannose supplementation"
+    },
+    {
+      "id": "B",
+      "text": "High-dose oral biotin"
+    },
+    {
+      "id": "C",
+      "text": "A galactose-restricted formula"
+    },
+    {
+      "id": "D",
+      "text": "Enzyme replacement with alglucosidase alfa"
+    },
+    {
+      "id": "E",
+      "text": "Intravenous immune globulin"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Phosphomannose isomerase deficiency (CDG type Ib) blocks conversion of fructose-6-phosphate to mannose-6-phosphate, and oral mannose bypasses this step to restore glycosylation. It is the one congenital disorder of glycosylation with effective monosaccharide therapy, and treatment reverses the protein-losing enteropathy, hypoglycemia, and coagulopathy while neurologic development is typically spared.",
+  "explanation_incorrect": {
+    "B": "High-dose biotin is used in multiple carboxylase deficiency (biotinidase or holocarboxylase synthetase deficiency), which causes alopecia, seborrheic rash, hearing loss, and lactic acidosis.",
+    "C": "A galactose-restricted formula is used in classic galactosemia from GALT deficiency, which causes cataracts, jaundice, and sepsis rather than protein-losing enteropathy.",
+    "D": "Alglucosidase alfa is enzyme replacement for infantile Pompe disease (acid alpha-glucosidase deficiency), which causes cardiomegaly and profound hypotonia.",
+    "E": "Intravenous immune globulin does not correct the glycosylation defect and is not disease-modifying therapy for this disorder."
+  },
+  "educationalObjective": "CDG type Ib from phosphomannose isomerase deficiency is uniquely treatable with oral mannose, which reverses the enteropathy, hypoglycemia, and coagulopathy.",
+  "source": "Generated from 1. Biochemistry.pdf - Section II: Metabolism, Congenital Disorders of Glycosylation"
+}

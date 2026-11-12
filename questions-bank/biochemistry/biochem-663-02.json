@@ -1,0 +1,41 @@
+{
+  "id": "biochem-663-02",
+  "subject": "Biochemistry",
+  "major_topic": "Molecular Biology",
+  "subtopic": "Post-Translational Modifications",
+  "difficulty": "medium",
+  "vignette": "A 4-month-old boy is evaluated for feeding difficulties, hypotonia, and seizures. He has sparse, short, kinky hair, and his serum copper and ceruloplasmin are low. Genetic testing identifies a mutation in a copper-transporting ATPase.",
+  "question": "Which of the following best explains the connective tissue and hair abnormalities in this disorder?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Deficient copper-dependent lysyl oxidase activity impairs cross-linking of collagen and elastin"
+    },
+    {
+      "id": "B",
+      "text": "Deficient vitamin C-dependent hydroxylation of proline"
+    },
+    {
+      "id": "C",
+      "text": "Failure to add mannose-6-phosphate to lysosomal enzymes"
+    },
+    {
+      "id": "D",
+      "text": "Defective N-linked glycosylation of procollagen"
+    },
+    {
+      "id": "E",
+      "text": "Impaired proteasomal degradation of collagen"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Lysyl oxidase is a copper-containing enzyme that forms covalent lysine-hydroxylysine cross-links between collagen and elastin molecules, strengthening connective tissue. In Menkes disease, defective intestinal copper absorption and copper transport reduce lysyl oxidase activity, producing kinky hair and connective tissue abnormalities. Copper is also a cofactor for cytochrome c oxidase and superoxide dismutase.",
+  "explanation_incorrect": {
+    "B": "Vitamin C deficiency causes scurvy and affects hydroxylation, not the copper-dependent cross-linking step.",
+    "C": "Failure of mannose-6-phosphate tagging causes I-cell disease with mistargeting of lysosomal enzymes.",
+    "D": "Glycosylation of procollagen is not copper-dependent and is not the defect in Menkes disease.",
+    "E": "Proteasomal degradation is unrelated; Menkes disease is caused by defective copper transport."
+  },
+  "educationalObjective": "Copper deficiency impairs lysyl oxidase and collagen/elastin cross-linking, producing the kinky hair and connective tissue findings of Menkes disease.",
+  "source": "Generated from 1. Biochemistry.pdf - Molecular Biology: Posttranslational Modifications"
+}

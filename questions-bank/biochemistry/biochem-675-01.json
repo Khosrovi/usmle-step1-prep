@@ -1,0 +1,41 @@
+{
+  "id": "biochem-675-01",
+  "subject": "Biochemistry",
+  "major_topic": "Vitamins and Minerals",
+  "subtopic": "Vitamin B9 (Folate)",
+  "difficulty": "medium",
+  "vignette": "A 42-year-old woman with Crohn disease underwent resection of a long segment of proximal small bowel 6 months ago and now has a normal terminal ileum on imaging. She presents with fatigue, a sore red tongue, and poor appetite. Hemoglobin is 10.2 g/dL, MCV is 108 fL, and the peripheral smear shows hypersegmented neutrophils. Plasma homocysteine is elevated, serum methylmalonic acid is normal, serum folate is low, and serum vitamin B12 is normal.",
+  "question": "Which of the following best explains this patient's vitamin deficiency?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Loss of absorptive surface in the terminal ileum"
+    },
+    {
+      "id": "B",
+      "text": "Loss of the jejunal absorptive surface where folate is absorbed"
+    },
+    {
+      "id": "C",
+      "text": "Autoimmune destruction of gastric parietal cells"
+    },
+    {
+      "id": "D",
+      "text": "Bacterial overgrowth in a postsurgical blind loop"
+    },
+    {
+      "id": "E",
+      "text": "Impaired formation of the folate-intrinsic factor complex"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Folate is absorbed in the jejunum, so resection of proximal small bowel removes the absorptive surface required for folate uptake. Folate deficiency causes a macrocytic megaloblastic anemia with hypersegmented neutrophils and glossitis, and homocysteine rises while methylmalonic acid remains normal because methylmalonyl-CoA mutase does not require folate. Neurologic symptoms are typically absent, which helps distinguish folate from vitamin B12 deficiency.",
+  "explanation_incorrect": {
+    "A": "The terminal ileum absorbs vitamin B12, not folate, and this patient's ileum is intact and her B12 level is normal.",
+    "C": "Parietal cell destruction causes pernicious anemia from loss of intrinsic factor, which impairs vitamin B12 absorption rather than folate absorption.",
+    "D": "Bacterial overgrowth in a blind loop causes vitamin B12 malabsorption, not folate deficiency, and no blind loop is described.",
+    "E": "Folate absorption does not require intrinsic factor; intrinsic factor is needed for vitamin B12 absorption in the terminal ileum."
+  },
+  "educationalObjective": "Folate is absorbed in the jejunum, so proximal small bowel resection causes folate deficiency with macrocytic anemia, elevated homocysteine, and normal methylmalonic acid.",
+  "source": "Generated from 1. Biochemistry.pdf - Nutrition: Water-Soluble Vitamins (Vitamin B9, Folate)"
+}

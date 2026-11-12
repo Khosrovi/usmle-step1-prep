@@ -1,0 +1,41 @@
+{
+  "id": "biochem-664-04",
+  "subject": "Biochemistry",
+  "major_topic": "Molecular Biology",
+  "subtopic": "Genetic Code and Mutations",
+  "difficulty": "medium",
+  "vignette": "A 28-year-old man of Ashkenazi Jewish ancestry is evaluated for fatigue, easy bruising, and abdominal fullness. He has massive hepatosplenomegaly and thrombocytopenia, and bone marrow examination shows lipid-laden macrophages with a crumpled tissue paper appearance. Leukocyte beta-glucocerebrosidase activity is markedly reduced, and sequencing identifies a mutation at the 5-prime splice donor site of an intron in the GBA gene.",
+  "question": "Which of the following is the most likely consequence of this mutation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A premature stop codon that truncates the enzyme."
+    },
+    {
+      "id": "B",
+      "text": "Substitution of a single amino acid that misfolds the enzyme."
+    },
+    {
+      "id": "C",
+      "text": "Deletion of three nucleotides with loss of one amino acid."
+    },
+    {
+      "id": "D",
+      "text": "Expansion of a trinucleotide repeat in the promoter."
+    },
+    {
+      "id": "E",
+      "text": "Retention of an intron in the mature mRNA, producing an abnormal enzyme."
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Splice-site mutations disrupt recognition of the 5-prime or 3-prime splice site by the spliceosome, so the adjacent intron is not removed. The retained intron remains in the mature mRNA, altering the downstream sequence and usually producing an abnormal, poorly functional enzyme; splice-site mutations are a recognized rare cause of Gaucher disease.",
+  "explanation_incorrect": {
+    "A": "A premature stop codon results from a nonsense mutation within an exon, not from disruption of an intron-exon boundary.",
+    "B": "A single amino acid substitution reflects a missense mutation inside an exon, not a splice-site change.",
+    "C": "An in-frame deletion of three nucleotides removes one amino acid but does not describe a mutation at a splice site.",
+    "D": "Trinucleotide repeat expansion occurs through slipped strand mispairing in repetitive sequences (for example, Huntington disease) and does not create a splice donor site defect."
+  },
+  "educationalObjective": "Splice-site mutations cause intron retention or exon skipping during pre-mRNA splicing, generally producing an abnormal, partially functional or nonfunctional protein.",
+  "source": "Generated from 1. Biochemistry.pdf - Molecular Biology: Genetic Code and Mutations"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "biochem-630-04",
+  "subject": "Biochemistry",
+  "major_topic": "Lipid Metabolism",
+  "subtopic": "Cholesterol Synthesis",
+  "difficulty": "medium",
+  "vignette": "A 24-year-old woman participates in a supervised 72-hour fast for a metabolic study. On day 3, plasma insulin is undetectable, glucagon is 320 pg/mL, glucose is 58 mg/dL, and beta-hydroxybutyrate is 5.2 mmol/L. Isotope dilution studies show that hepatic cholesterol synthesis has fallen substantially compared with the fed state.",
+  "question": "Which of the following best explains the decrease in hepatic cholesterol synthesis during this fast?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Accumulation of cholesterol within hepatocytes"
+    },
+    {
+      "id": "B",
+      "text": "Depletion of mitochondrial acetyl-CoA"
+    },
+    {
+      "id": "C",
+      "text": "Increased HMG-CoA synthase activity"
+    },
+    {
+      "id": "D",
+      "text": "Glucagon-mediated inhibition of HMG-CoA reductase with loss of insulin stimulation"
+    },
+    {
+      "id": "E",
+      "text": "Reduced cytosolic NADPH generation"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "HMG-CoA reductase is stimulated by insulin and inhibited by glucagon, so the fasting fall in insulin and rise in glucagon rapidly reduce the rate of cholesterol synthesis. In the fed state insulin also supplies the acetyl-CoA and NADPH needed for the pathway, and these effects are lost during fasting.",
+  "explanation_incorrect": {
+    "A": "Hepatic cholesterol content does not rise during fasting, because cholesterol continues to be consumed for bile acid synthesis; sterol feedback is not the operative mechanism here.",
+    "B": "Acetyl-CoA is abundant during fasting because beta-oxidation of fatty acids generates large amounts of it.",
+    "C": "HMG-CoA synthase is the rate-limiting enzyme of ketogenesis and increases during fasting, but it does not explain a fall in cholesterol synthesis.",
+    "E": "NADPH production by the pentose phosphate pathway and malic enzyme is not the limiting factor that suppresses cholesterol synthesis in the fasted liver."
+  },
+  "educationalObjective": "Hepatic cholesterol synthesis falls during fasting because glucagon inhibits HMG-CoA reductase and insulin stimulation is lost.",
+  "source": "Generated from 1. Biochemistry.pdf - Lipid Metabolism: Cholesterol Synthesis"
+}

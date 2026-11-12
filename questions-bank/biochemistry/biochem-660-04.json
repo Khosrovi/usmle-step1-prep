@@ -1,0 +1,41 @@
+{
+  "id": "biochem-660-04",
+  "subject": "Biochemistry",
+  "major_topic": "Molecular Biology",
+  "subtopic": "Transcription",
+  "difficulty": "medium",
+  "vignette": "A 5-year-old boy of Mediterranean ancestry is evaluated for mild microcytic anemia. Hemoglobin is 9.8 g/dL, MCV is 64 fL, and iron studies are normal; hemoglobin electrophoresis shows an elevated HbA2. Sequencing of the beta-globin gene reveals a mutation in the TATA box of the promoter with a normal coding sequence.",
+  "question": "Which of the following best explains the reduced beta-globin production in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Defective splicing of intron 1"
+    },
+    {
+      "id": "B",
+      "text": "Reduced binding of RNA polymerase II and transcription factors at the promoter, decreasing initiation of transcription"
+    },
+    {
+      "id": "C",
+      "text": "A premature stop codon causing nonsense-mediated decay"
+    },
+    {
+      "id": "D",
+      "text": "Loss of the polyadenylation signal causing rapid mRNA degradation"
+    },
+    {
+      "id": "E",
+      "text": "Impaired translation initiation from a mutated Kozak sequence"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Promoter elements such as the TATA and CAAT boxes are binding sites for RNA polymerase II and its transcription factors; mutations there reduce initiation of transcription and can dramatically decrease gene expression. Because the coding sequence and splice sites are normal in this child, the reduced beta-globin output reflects decreased transcription of the gene. The result is a beta-thalassemia phenotype with elevated HbA2.",
+  "explanation_incorrect": {
+    "A": "Splice-site mutations in introns are a common cause of beta-thalassemia, but this patient's mutation lies in the promoter, not at a splice site.",
+    "C": "Nonsense mutations that produce premature stop codons occur in exonic coding sequence; the coding sequence described here is normal.",
+    "D": "Polyadenylation signal mutations impair mRNA stability, but the mutation in this patient is in the promoter.",
+    "E": "Kozak sequence mutations impair translation initiation, but this variant is located in the promoter region."
+  },
+  "educationalObjective": "Mutations in promoter elements such as the TATA box reduce transcription factor and RNA polymerase II binding, decreasing the rate of transcription initiation.",
+  "source": "Generated from 1. Biochemistry.pdf - Molecular Biology: Transcription"
+}

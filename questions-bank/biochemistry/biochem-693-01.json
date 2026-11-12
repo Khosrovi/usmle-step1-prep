@@ -1,0 +1,41 @@
+{
+  "id": "biochem-693-01",
+  "subject": "Biochemistry",
+  "major_topic": "Inborn Errors of Metabolism",
+  "subtopic": "Mitochondrial Disorders",
+  "difficulty": "medium",
+  "vignette": "A 16-year-old girl is admitted after a sudden episode of right-sided weakness and aphasia that began while she was playing volleyball. She has had three similar episodes since age 11, each followed by partial recovery, and she reports migraine-like headaches and recurrent vomiting. Her mother has diabetes and a similar headache history. Serum lactate is 6.8 mmol/L, and a muscle biopsy stained with modified Gomori trichrome shows ragged red fibers.",
+  "question": "Which of the following is the most likely diagnosis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Myoclonic epilepsy with ragged red fibers (MERRF)"
+    },
+    {
+      "id": "B",
+      "text": "Leber hereditary optic neuropathy (LHON)"
+    },
+    {
+      "id": "C",
+      "text": "Multiple sclerosis"
+    },
+    {
+      "id": "D",
+      "text": "Sturge-Weber syndrome"
+    },
+    {
+      "id": "E",
+      "text": "Mitochondrial encephalomyopathy with lactic acidosis and stroke-like episodes (MELAS)"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "MELAS is a mitochondrial myopathy caused by mutations in mitochondrial DNA that impair oxidative phosphorylation. Tissues with high energy demands, such as the central nervous system and skeletal muscle, are preferentially affected, producing encephalopathy, seizures, lactic acidosis, and stroke-like episodes that often do not respect vascular territories. The disorder is transmitted only through the mother, which fits the maternal history, and ragged red fibers result from compensatory mitochondrial proliferation.",
+  "explanation_incorrect": {
+    "A": "MERRF is dominated by myoclonic epilepsy and ataxia; stroke-like episodes and severe lactic acidosis are the signature of MELAS.",
+    "B": "Leber hereditary optic neuropathy causes painless subacute bilateral central vision loss in young adults, not stroke-like cortical episodes.",
+    "C": "Multiple sclerosis produces demyelinating lesions with a relapsing course, but lactate is normal and muscle biopsy does not show ragged red fibers.",
+    "D": "Sturge-Weber syndrome is a sporadic vascular malformation with a facial port-wine stain, seizures, and leptomeningeal angiomatosis."
+  },
+  "educationalObjective": "Stroke-like episodes, lactic acidosis, seizures, and ragged red fibers in a young patient with maternal inheritance indicate MELAS.",
+  "source": "Generated from 1. Biochemistry.pdf - Mitochondrial diseases"
+}

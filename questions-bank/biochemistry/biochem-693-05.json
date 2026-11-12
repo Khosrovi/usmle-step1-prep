@@ -1,0 +1,41 @@
+{
+  "id": "biochem-693-05",
+  "subject": "Biochemistry",
+  "major_topic": "Inborn Errors of Metabolism",
+  "subtopic": "Mitochondrial Disorders",
+  "difficulty": "hard",
+  "vignette": "A 35-year-old woman with MELAS has three children, all of whom carry the same pathogenic mitochondrial DNA mutation. Her older son developed seizures and stroke-like episodes at age 12, her daughter has only mild hearing loss and short stature, and her younger son complains of exercise intolerance without neurologic symptoms.",
+  "question": "Which of the following best explains the difference in severity among these siblings?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Anticipation due to trinucleotide repeat expansion"
+    },
+    {
+      "id": "B",
+      "text": "Genomic imprinting with silencing of the maternal allele"
+    },
+    {
+      "id": "C",
+      "text": "X-Inactivation (lyonization) of the mutated allele"
+    },
+    {
+      "id": "D",
+      "text": "Heteroplasmy, the variable proportion of mutant mitochondrial DNA among tissues"
+    },
+    {
+      "id": "E",
+      "text": "Dominant-negative effects of a nuclear gene mutation"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Each cell contains many copies of mitochondrial DNA, and pathogenic mutations usually coexist with normal genomes; the fraction of mutant genomes is called heteroplasmy. Because the proportion of mutant mitochondrial DNA varies among tissues and among offspring of an affected mother, disease expression ranges from asymptomatic to severe within a single family. Tissues with high energy requirements, such as the central nervous system and skeletal muscle, are the first to be affected.",
+  "explanation_incorrect": {
+    "A": "Anticipation describes worsening severity across generations in repeat-expansion disorders such as Huntington disease and fragile X syndrome, not variable severity among siblings with mtDNA mutations.",
+    "B": "Genomic imprinting refers to parent-of-origin silencing of nuclear genes and does not apply to mitochondrial DNA.",
+    "C": "X-Inactivation affects X-linked nuclear genes in females and cannot explain severity differences among siblings of both sexes.",
+    "E": "The pathogenic mutation here is in mitochondrial DNA rather than a nuclear gene, so dominant-negative effects of a nuclear allele are not the explanation."
+  },
+  "educationalObjective": "Variable severity within a family with a mitochondrial disease is explained by heteroplasmy, the differing proportion of mutant mitochondrial DNA in different tissues and individuals.",
+  "source": "Generated from 1. Biochemistry.pdf - Mitochondrial diseases / mitochondrial inheritance"
+}

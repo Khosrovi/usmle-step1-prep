@@ -1,0 +1,41 @@
+{
+  "id": "biochem-662-04",
+  "subject": "Biochemistry",
+  "major_topic": "Molecular Biology",
+  "subtopic": "Translation",
+  "difficulty": "medium",
+  "vignette": "A 47-year-old man with E. coli bacteremia is treated with antibiotics. In the laboratory, the isolate is found to carry a mutation in the 16S rRNA gene that prevents base pairing with the Shine-Dalgarno sequence of its mRNAs, and the bacteria show markedly reduced protein synthesis.",
+  "question": "Which step of protein synthesis is most directly impaired in this organism?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Amino acid activation by aminoacyl-tRNA synthetase"
+    },
+    {
+      "id": "B",
+      "text": "Peptide bond formation by the peptidyl transferase center"
+    },
+    {
+      "id": "C",
+      "text": "Translocation of the ribosome along the mRNA"
+    },
+    {
+      "id": "D",
+      "text": "Recognition of the stop codon by release factors"
+    },
+    {
+      "id": "E",
+      "text": "Initiation of translation, because the ribosome cannot be aligned with the start codon"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "The Shine-Dalgarno sequence is the ribosomal binding site in prokaryotic mRNA; it is recognized by a complementary sequence in 16S rRNA, which aligns the ribosome with the start codon so that the code is read correctly. Loss of this interaction impairs initiation of translation and reduces protein synthesis. Eukaryotes instead use the 5-prime cap and Kozak sequence for initiation.",
+  "explanation_incorrect": {
+    "A": "Amino acid activation occurs on aminoacyl-tRNA synthetases and does not require the Shine-Dalgarno sequence.",
+    "B": "Peptide bond formation is catalyzed by the peptidyl transferase center and occurs after initiation.",
+    "C": "Translocation is an elongation step mediated by elongation factors and GTP.",
+    "D": "Stop codon recognition by release factors is a termination step that occurs after the polypeptide has been synthesized."
+  },
+  "educationalObjective": "The Shine-Dalgarno sequence in prokaryotic mRNA base pairs with 16S rRNA to position the ribosome at the start codon during initiation.",
+  "source": "Generated from 1. Biochemistry.pdf - Molecular Biology: Translation"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "biochem-601-04",
+  "subject": "Biochemistry",
+  "major_topic": "Amino Acids & Proteins",
+  "subtopic": "Protein Structure (1, 2, 3, 4 degree)",
+  "difficulty": "hard",
+  "vignette": "A 2-year-old boy is evaluated for ambiguous genitalia, and he subsequently develops severe proteinuria with diffuse mesangial sclerosis. Karyotyping shows a 46,XY pattern, and sequencing identifies a mutation in WT1, a transcription factor that regulates genes involved in gonadal and renal development. The mutation lies in the region of the protein that inserts into the major groove of DNA.",
+  "question": "Which of the following best describes the structural motif that is most likely disrupted in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A beta-barrel formed by antiparallel beta strands"
+    },
+    {
+      "id": "B",
+      "text": "A leucine zipper formed by periodic leucine residues in two alpha helices"
+    },
+    {
+      "id": "C",
+      "text": "A coiled-coil formed by two amphipathic alpha helices"
+    },
+    {
+      "id": "D",
+      "text": "A zinc finger in which zinc is coordinated by cysteine and histidine residues"
+    },
+    {
+      "id": "E",
+      "text": "An EF-hand calcium-binding loop"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "WT1 is a zinc finger transcription factor, and its DNA-binding domain consists of tandem zinc fingers in which a zinc ion is coordinated by conserved cysteine and histidine residues. The finger inserts into the major groove of DNA, so mutations in this motif impair target gene transcription and cause Denys-Drash syndrome with ambiguous genitalia and nephropathy. Zinc fingers are a classic DNA-binding structural motif.",
+  "explanation_incorrect": {
+    "A": "Beta-barrels are compact globular folds found in proteins such as porins and retinol-binding protein, not the DNA-binding domain of WT1.",
+    "B": "Leucine zippers are also DNA-binding motifs, but the question describes a domain that inserts into the major groove with a coordinated metal ion; WT1 uses zinc fingers instead.",
+    "C": "Coiled-coils are two-stranded alpha-helical structures such as those in keratin and myosin, not the DNA-binding domain described here.",
+    "E": "EF-hand motifs bind calcium, as in troponin C and calmodulin, and are not the DNA-binding motif of WT1."
+  },
+  "educationalObjective": "Zinc fingers are DNA-binding structural motifs in which zinc is coordinated by cysteine and histidine residues, and mutations in the zinc fingers of WT1 cause Denys-Drash syndrome.",
+  "source": "Generated from 1. Biochemistry.pdf - Protein Structure (Primary, Secondary, Tertiary, Quaternary)"
+}

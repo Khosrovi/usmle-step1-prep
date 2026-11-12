@@ -1,0 +1,41 @@
+{
+  "id": "biochem-614-03",
+  "subject": "Biochemistry",
+  "major_topic": "Carbohydrate Metabolism",
+  "subtopic": "Glucose Transporters (GLUT, SGLT)",
+  "difficulty": "medium",
+  "vignette": "A 42-year-old man with type 2 diabetes mellitus (body mass index 33) takes metformin and basal insulin. During 40 minutes of moderate cycling, his continuous glucose monitor falls from 198 mg/dL to 128 mg/dL although he ate no food and took no prandial insulin for 5 hours; plasma insulin is 18 mIU/L before exercise and 17 mIU/L afterward.",
+  "question": "The exercise-induced fall in his glucose is best explained by translocation of which of the following transporters to the skeletal muscle plasma membrane?",
+  "options": [
+    {
+      "id": "A",
+      "text": "GLUT4, through AMP-activated protein kinase signaling"
+    },
+    {
+      "id": "B",
+      "text": "GLUT1, through hypoxia-inducible factor 1-alpha"
+    },
+    {
+      "id": "C",
+      "text": "GLUT2, through hepatocyte nuclear factor 1-alpha"
+    },
+    {
+      "id": "D",
+      "text": "SGLT2, through sodium-glucose cotransport"
+    },
+    {
+      "id": "E",
+      "text": "GLUT3, through insulin receptor substrate 1"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Skeletal muscle and adipose tissue express GLUT4, which is stored in intracellular vesicles and translocates to the plasma membrane in response to insulin. Contracting muscle also translocates GLUT4 through AMPK-dependent signaling, so glucose uptake rises during exercise even when insulin concentrations do not change, which explains the fall in glucose in this insulin-resistant patient.",
+  "explanation_incorrect": {
+    "B": "GLUT1 is constitutively present on most cell membranes and responds to neither insulin nor exercise, so it cannot account for contraction-stimulated glucose uptake.",
+    "C": "GLUT2 is a high-Km, bidirectional transporter of liver and pancreatic beta cells and does not mediate contraction-stimulated glucose uptake in muscle.",
+    "D": "SGLT2 is confined to the proximal renal tubule and does not transport glucose into skeletal muscle.",
+    "E": "GLUT3 is a high-affinity, insulin-independent transporter of neurons and placenta and is not responsible for exercise-induced muscle uptake."
+  },
+  "educationalObjective": "Exercise and insulin both increase skeletal muscle glucose uptake by translocating GLUT4, but exercise acts through AMPK and does not require insulin.",
+  "source": "Generated from 1. Biochemistry.pdf - Carbohydrate Metabolism: Glucose Transporters (GLUT, SGLT)"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "biochem-620-03",
+  "subject": "Biochemistry",
+  "major_topic": "Carbohydrate Metabolism",
+  "subtopic": "ETC Inhibitors and Uncouplers",
+  "difficulty": "easy",
+  "vignette": "A 2-hour-old boy delivered at 36 weeks' gestation has a temperature of 35.4 C and is otherwise well. He is placed under a radiant warmer, and his brown adipose tissue generates heat through nonshivering thermogenesis.",
+  "question": "Which of the following best describes the mechanism of heat production by brown adipose tissue?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Increased ATP synthase activity in mitochondria"
+    },
+    {
+      "id": "B",
+      "text": "Rapid hydrolysis of creatine phosphate"
+    },
+    {
+      "id": "C",
+      "text": "Increased expression of complex II in brown adipocytes"
+    },
+    {
+      "id": "D",
+      "text": "Inhibition of the electron transport chain at complex I"
+    },
+    {
+      "id": "E",
+      "text": "Uncoupling protein 1 increases inner mitochondrial membrane permeability to protons"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Uncoupling protein 1 (thermogenin) in brown fat increases the permeability of the inner mitochondrial membrane to protons, allowing them to re-enter the matrix without passing through ATP synthase. The energy of the proton gradient is released as heat, and electron transport continues while ATP synthesis decreases.",
+  "explanation_incorrect": {
+    "A": "Increased ATP synthase activity would increase ATP production, not heat production.",
+    "B": "Creatine phosphate hydrolysis buffers ATP in muscle and does not mediate nonshivering thermogenesis.",
+    "C": "Complex II is not the mediator of brown fat thermogenesis; uncoupling protein 1 is.",
+    "D": "Complex I inhibition would slow electron transport and reduce heat production."
+  },
+  "educationalObjective": "Uncoupling protein 1 (thermogenin) dissipates the proton gradient in brown adipose tissue to generate heat for nonshivering thermogenesis.",
+  "source": "Generated from 1. Biochemistry.pdf - ETC Inhibitors and Uncouplers"
+}

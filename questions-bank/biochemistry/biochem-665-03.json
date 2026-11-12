@@ -1,0 +1,41 @@
+{
+  "id": "biochem-665-03",
+  "subject": "Biochemistry",
+  "major_topic": "Molecular Biology",
+  "subtopic": "Gene Regulation",
+  "difficulty": "medium",
+  "vignette": "A 27-year-old woman presents with a malar rash, symmetric arthritis of the hands, and pleuritic chest pain. Antinuclear antibodies are positive at 1:640, anti-double-stranded DNA antibodies are negative, and anti-U1 ribonucleoprotein antibodies are detected. The rheumatologist explains that these antibodies recognize small nuclear ribonucleoproteins.",
+  "question": "These autoantibodies most directly impair which of the following processes?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Capping of the 5-prime end of pre-mRNA"
+    },
+    {
+      "id": "B",
+      "text": "Polyadenylation of the 3-prime end of mRNA"
+    },
+    {
+      "id": "C",
+      "text": "Splicing of pre-mRNA by the spliceosome"
+    },
+    {
+      "id": "D",
+      "text": "Aminoacylation of tRNA"
+    },
+    {
+      "id": "E",
+      "text": "Assembly of the 40S initiation complex"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Small nuclear ribonucleoproteins are small nuclear RNAs bound to proteins such as the Smith antigen; they assemble into the spliceosome, which cleaves pre-mRNA at the 5-prime and 3-prime splice sites and removes introns. Anti-U1 ribonucleoprotein antibodies are associated with systemic lupus erythematosus and mixed connective tissue disease.",
+  "explanation_incorrect": {
+    "A": "5-prime capping adds 7-methylguanosine cotranscriptionally and does not require the spliceosome.",
+    "B": "Polyadenylation at the AAUAAA signal is performed by poly-A polymerase, not by small nuclear ribonucleoproteins.",
+    "D": "Aminoacylation is catalyzed by aminoacyl-tRNA synthetases, each specific for one amino acid and its tRNA.",
+    "E": "Assembly of the 40S initiation complex is mediated by eukaryotic initiation factors (eIFs), not by small nuclear ribonucleoproteins."
+  },
+  "educationalObjective": "snRNPs assemble into the spliceosome that removes introns from pre-mRNA, and anti-U1 snRNP autoantibodies are associated with SLE and mixed connective tissue disease.",
+  "source": "Generated from 1. Biochemistry.pdf - Molecular Biology: Regulation of Gene Expression"
+}

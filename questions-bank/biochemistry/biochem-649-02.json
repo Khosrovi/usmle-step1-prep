@@ -1,0 +1,41 @@
+{
+  "id": "biochem-649-02",
+  "subject": "Biochemistry",
+  "major_topic": "Nucleotide Metabolism",
+  "subtopic": "Nucleotide Degradation",
+  "difficulty": "hard",
+  "vignette": "A 36-year-old woman with Crohn disease has been stable on azathioprine for 2 years. One month ago allopurinol was added for recurrent gout. She now presents with fever, painful mouth ulcers, and pancytopenia, with a white blood cell count of 800 cells/microL and a platelet count of 40,000 cells/microL. Her thiopurine methyltransferase activity is normal.",
+  "question": "Which of the following best explains this patient's pancytopenia?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Allopurinol directly inhibits thiopurine methyltransferase"
+    },
+    {
+      "id": "B",
+      "text": "Allopurinol displaces azathioprine from plasma albumin, increasing its free fraction"
+    },
+    {
+      "id": "C",
+      "text": "Allopurinol inhibits xanthine oxidase, reducing catabolism of 6-mercaptopurine and increasing its incorporation into DNA"
+    },
+    {
+      "id": "D",
+      "text": "Allopurinol induces CYP3A4, accelerating conversion of azathioprine to 6-mercaptopurine"
+    },
+    {
+      "id": "E",
+      "text": "Allopurinol decreases renal excretion of 6-mercaptopurine"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Azathioprine is a prodrug of 6-mercaptopurine, which is inactivated by xanthine oxidase and by thiopurine methyltransferase. Allopurinol inhibits xanthine oxidase, so 6-mercaptopurine accumulates and is converted to thioguanine nucleotides that are incorporated into DNA, causing severe myelosuppression. The thiopurine dose must be reduced substantially, typically to about one quarter, when allopurinol is coadministered.",
+  "explanation_incorrect": {
+    "A": "TPMT is not inhibited by allopurinol; this patient's TPMT activity is normal, so deficient methylation is not the explanation.",
+    "B": "Protein-binding displacement is not the mechanism of this interaction; it results from inhibition of 6-mercaptopurine catabolism.",
+    "D": "The interaction does not depend on CYP3A4 induction; azathioprine activation is not mediated by this pathway.",
+    "E": "The toxicity reflects increased intracellular thioguanine nucleotides, not reduced renal excretion."
+  },
+  "educationalObjective": "Allopurinol inhibits xanthine oxidase-mediated inactivation of 6-mercaptopurine, so coadministration with azathioprine causes thiopurine accumulation and life-threatening myelosuppression.",
+  "source": "Generated from 1. Biochemistry.pdf - Nucleotide Metabolism: Nucleotide Degradation"
+}

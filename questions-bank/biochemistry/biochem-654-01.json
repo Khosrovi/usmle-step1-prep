@@ -1,0 +1,41 @@
+{
+  "id": "biochem-654-01",
+  "subject": "Biochemistry",
+  "major_topic": "Nucleotide Metabolism",
+  "subtopic": "DNA and RNA Structure",
+  "difficulty": "hard",
+  "vignette": "A 55-year-old man undergoes colectomy for adenocarcinoma of the descending colon. Tumor sequencing identifies a C to T transition at a CpG dinucleotide within a tumor suppressor gene, and the remainder of the gene sequence is intact; the change creates a premature stop codon. He has no family history of colorectal cancer and no known exposure to carcinogens.",
+  "question": "Which of the following chemical events most likely produced this base change?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Depurination of guanine with loss of the purine ring"
+    },
+    {
+      "id": "B",
+      "text": "Ultraviolet light-induced formation of a thymine dimer"
+    },
+    {
+      "id": "C",
+      "text": "Deamination of cytosine to uracil, generating a U:G mismatch"
+    },
+    {
+      "id": "D",
+      "text": "Oxidation of guanine to 8-oxoguanine"
+    },
+    {
+      "id": "E",
+      "text": "Methylation of cytosine within the promoter region"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Spontaneous hydrolytic deamination of cytosine converts it to uracil and creates a U:G mismatch; if the uracil is not excised before replication, adenine is inserted opposite it, fixing a C to T transition. Deamination of 5-methylcytosine, which is common at CpG dinucleotides, directly yields thymine and is the single most frequent source of C to T transitions in human tumors.",
+  "explanation_incorrect": {
+    "A": "Depurination removes a base and leaves an abasic site that typically produces transversions or strand breaks rather than an isolated transition at a CpG dinucleotide.",
+    "B": "Thymine dimers follow ultraviolet exposure and yield tandem CC to TT mutations typical of skin cancers, not a single C to T transition in a colon tumor.",
+    "D": "Oxidation of guanine gives 8-oxoguanine, which mispairs with adenine and produces G to C or G to T transversions.",
+    "E": "Methylation of cytosine to 5-methylcytosine is a normal epigenetic modification that does not alter base-pairing specificity, although it predisposes the base to deamination-induced transitions."
+  },
+  "educationalObjective": "Deamination of cytosine or 5-methylcytosine produces C to T transitions, the most common single-base substitution in human tumors.",
+  "source": "Generated from 1. Biochemistry.pdf - Molecular Biochemistry: Nucleotides (Deamination Reactions)"
+}

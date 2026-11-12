@@ -1,0 +1,41 @@
+{
+  "id": "biochem-672-02",
+  "subject": "Biochemistry",
+  "major_topic": "Vitamins and Minerals",
+  "subtopic": "Vitamin B5 (Pantothenic acid)",
+  "difficulty": "medium",
+  "vignette": "A 42-year-old woman with a severe malabsorption disorder develops a painful burning sensation in both feet along with a scaly rash and hair loss. Laboratory testing confirms a deficiency of a water-soluble vitamin that serves as the precursor of a carrier molecule for acyl groups. Her physicians note that this carrier is required both in mitochondrial beta-oxidation and in the TCA cycle.",
+  "question": "Impaired activity of which of the following processes best explains the metabolic consequences of this deficiency?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Acyl transfer reactions that use coenzyme A, such as beta-oxidation and the TCA cycle"
+    },
+    {
+      "id": "B",
+      "text": "Pyridoxal phosphate-dependent transamination reactions"
+    },
+    {
+      "id": "C",
+      "text": "Biotin-dependent carboxylation reactions"
+    },
+    {
+      "id": "D",
+      "text": "One-carbon transfer reactions that use tetrahydrofolate"
+    },
+    {
+      "id": "E",
+      "text": "Methyl transfer reactions that use methylcobalamin"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Pantothenic acid is the precursor of coenzyme A, the carrier of acyl groups for reactions such as beta-oxidation, pyruvate dehydrogenase, alpha-ketoglutarate dehydrogenase, and the thiolase step of the TCA cycle. It is also a component of fatty acid synthase, where its phosphopantetheine arm shuttles the growing acyl chain. Deficiency therefore impairs acyl transfer and energy production broadly, which explains the multisystem presentation.",
+  "explanation_incorrect": {
+    "B": "Transamination reactions such as ALT and AST require pyridoxal phosphate derived from vitamin B6, not pantothenic acid.",
+    "C": "Carboxylation enzymes such as pyruvate carboxylase and acetyl-CoA carboxylase require biotin (vitamin B7).",
+    "D": "One-carbon transfer for nucleotide and methionine synthesis uses tetrahydrofolate derived from folate (vitamin B9).",
+    "E": "Methyl transfer from methylcobalamin to homocysteine is catalyzed by methionine synthase and requires vitamin B12."
+  },
+  "educationalObjective": "Pantothenic acid is the precursor of coenzyme A, which carries acyl groups in beta-oxidation and the TCA cycle and is also part of fatty acid synthase.",
+  "source": "Generated from 1. Biochemistry.pdf - Nutrition: Water-Soluble Vitamins (Vitamin B5, Pantothenic acid)"
+}

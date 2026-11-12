@@ -1,0 +1,41 @@
+{
+  "id": "biochem-611-03",
+  "subject": "Biochemistry",
+  "major_topic": "Enzymology",
+  "subtopic": "Coenzymes and Cofactors",
+  "difficulty": "medium",
+  "vignette": "A 29-year-old man presents with a scaly rash around the mouth and eyes, glossitis, hair thinning, and mild diarrhea. He has followed a bodybuilding diet containing several dozen raw eggs daily for the past 10 months. Serum biotin is markedly decreased.",
+  "question": "Deficiency of this cofactor would most directly impair which of the following reactions?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Transfer of a methyl group from methylcobalamin to homocysteine"
+    },
+    {
+      "id": "B",
+      "text": "Oxidative decarboxylation of alpha-ketoglutarate in the TCA cycle"
+    },
+    {
+      "id": "C",
+      "text": "Transfer of one-carbon units for thymidylate synthesis"
+    },
+    {
+      "id": "D",
+      "text": "Transamination of alanine to pyruvate by alanine aminotransferase"
+    },
+    {
+      "id": "E",
+      "text": "Carboxylation of pyruvate to oxaloacetate by pyruvate carboxylase"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Biotin is the carrier of activated carbon dioxide and is required by carboxylation enzymes, including pyruvate carboxylase (gluconeogenesis), acetyl-CoA carboxylase (fatty acid synthesis), and propionyl-CoA carboxylase (oxidation of odd-chain fatty acids and branched-chain amino acids). Avidin in raw egg whites binds biotin avidly and prevents its absorption, producing the dermatitis, alopecia, and enteritis described here. Without biotin, these carboxylation reactions proceed poorly even when substrate is available.",
+  "explanation_incorrect": {
+    "A": "Methyl transfer from methylcobalamin to homocysteine is catalyzed by methionine synthase and requires vitamin B12, not biotin.",
+    "B": "Oxidative decarboxylation of alpha-ketoglutarate requires thiamine pyrophosphate, lipoic acid, CoA, FAD, and NAD+, not biotin.",
+    "C": "One-carbon transfer for thymidylate synthesis requires tetrahydrofolate derived from folate and vitamin B12 metabolism.",
+    "D": "Transamination by alanine aminotransferase requires pyridoxal phosphate derived from vitamin B6; biotin is not involved in amino group transfer."
+  },
+  "educationalObjective": "Biotin is the CO2 carrier for carboxylation enzymes such as pyruvate carboxylase, acetyl-CoA carboxylase, and propionyl-CoA carboxylase, and it is bound and inactivated by avidin in raw egg whites.",
+  "source": "Generated from 1. Biochemistry.pdf - Nutrition: Vitamins (Enzymology: Coenzymes and Cofactors)"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "biochem-649-01",
+  "subject": "Biochemistry",
+  "major_topic": "Nucleotide Metabolism",
+  "subtopic": "Nucleotide Degradation",
+  "difficulty": "medium",
+  "vignette": "A 60-year-old man has recurrent attacks of acute monoarthritis of the first metatarsophalangeal joint. Serum uric acid is 9.6 mg/dL, and a 24-hour urine collection shows increased uric acid excretion, indicating overproduction. He is started on allopurinol, and his serum uric acid falls over the next several weeks.",
+  "question": "Which of the following best describes the mechanism by which allopurinol lowers serum uric acid?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It activates urate oxidase, converting uric acid to allantoin"
+    },
+    {
+      "id": "B",
+      "text": "It inhibits xanthine oxidase, reducing conversion of hypoxanthine and xanthine to uric acid"
+    },
+    {
+      "id": "C",
+      "text": "It increases renal tubular secretion of uric acid"
+    },
+    {
+      "id": "D",
+      "text": "It inhibits de novo purine synthesis by blocking PRPP synthetase"
+    },
+    {
+      "id": "E",
+      "text": "It increases purine salvage by activating hypoxanthine-guanine phosphoribosyltransferase"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Allopurinol is a purine analog (a hypoxanthine analog) that inhibits xanthine oxidase, the enzyme that converts hypoxanthine to xanthine and xanthine to uric acid. Its active metabolite oxypurinol also inhibits the enzyme, so purine degradation shifts toward the more soluble hypoxanthine and xanthine and uric acid production falls. Allopurinol is used for chronic urate lowering and is not appropriate for treatment of an acute gout attack.",
+  "explanation_incorrect": {
+    "A": "Urate oxidase is not activated by allopurinol; it is absent in humans, and a recombinant form (rasburicase) is given to degrade uric acid directly.",
+    "C": "Allopurinol does not increase renal tubular secretion of uric acid; it reduces uric acid production.",
+    "D": "Allopurinol's primary target is xanthine oxidase, not PRPP synthetase.",
+    "E": "Allopurinol does not increase HGPRT activity; it is a xanthine oxidase inhibitor."
+  },
+  "educationalObjective": "Allopurinol is a hypoxanthine analog that inhibits xanthine oxidase, lowering uric acid production and thereby treating chronic hyperuricemia rather than acute gout.",
+  "source": "Generated from 1. Biochemistry.pdf - Nucleotide Metabolism: Nucleotide Degradation"
+}

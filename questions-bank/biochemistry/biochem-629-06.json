@@ -1,0 +1,41 @@
+{
+  "id": "biochem-629-06",
+  "subject": "Biochemistry",
+  "major_topic": "Lipid Metabolism",
+  "subtopic": "Ketone Bodies",
+  "difficulty": "hard",
+  "vignette": "A 58-year-old woman with type 2 diabetes treated with metformin and empagliflozin is admitted with 2 days of nausea, vomiting, and malaise after a viral illness with reduced oral intake. Glucose is 186 mg/dL, arterial pH 7.19, bicarbonate 9 mEq/L, anion gap 26 mEq/L, and beta-hydroxybutyrate 7.2 mmol/L; urine ketones are positive.",
+  "question": "Which of the following best explains the development of ketoacidosis with only modest hyperglycemia in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Reduced glomerular filtration of ketone bodies"
+    },
+    {
+      "id": "B",
+      "text": "Increased hepatic ketogenesis driven by a low insulin-to-glucagon ratio"
+    },
+    {
+      "id": "C",
+      "text": "Impaired ketone body oxidation in skeletal muscle"
+    },
+    {
+      "id": "D",
+      "text": "Lactate accumulation from metformin therapy"
+    },
+    {
+      "id": "E",
+      "text": "Osmotic diuresis causing a contraction alkalosis"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Because empagliflozin causes glucosuria, plasma glucose can remain only mildly elevated even as ketoacidosis develops. Reduced carbohydrate availability plus the stress of illness lowers the insulin-to-glucagon ratio, which stimulates adipose lipolysis and hepatic ketogenesis, so beta-hydroxybutyrate rises and produces an anion-gap metabolic acidosis.",
+  "explanation_incorrect": {
+    "A": "Impaired renal ketone clearance is not the primary event; the acidosis is driven by overproduction of ketoacids rather than by reduced filtration.",
+    "C": "Skeletal muscle retains the ability to oxidize ketone bodies; a defect in their use would not raise their plasma concentration.",
+    "D": "Metformin can cause lactic acidosis, but the elevated beta-hydroxybutyrate and positive ketones here identify ketoacidosis as the cause of the anion gap.",
+    "E": "Osmotic diuresis may accompany glucosuria, but a contraction alkalosis would lower, not raise, the anion gap and does not explain the ketones."
+  },
+  "educationalObjective": "SGLT2 inhibitors can cause euglycemic ketoacidosis because glucosuria masks hyperglycemia while a low insulin-to-glucagon ratio drives hepatic ketogenesis.",
+  "source": "Generated from 1. Biochemistry.pdf - Lipid Metabolism: Ketone Bodies"
+}

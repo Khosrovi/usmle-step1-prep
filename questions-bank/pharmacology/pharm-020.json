@@ -1,0 +1,41 @@
+{
+  "id": "pharm-020",
+  "subject": "Pharmacology",
+  "major_topic": "Pharmacokinetics and Pharmacodynamics",
+  "subtopic": "Zero-order elimination",
+  "difficulty": "medium",
+  "vignette": "A 24-year-old man with epilepsy has been taking phenytoin 300 mg/day with a serum concentration of 12 micrograms/mL. After the dose is increased to 400 mg/day, the concentration rises to 28 micrograms/mL and he develops nystagmus and ataxia.",
+  "question": "Which of the following best explains this finding?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Saturation of hepatic metabolism (zero-order kinetics)"
+    },
+    {
+      "id": "B",
+      "text": "Increased volume of distribution"
+    },
+    {
+      "id": "C",
+      "text": "Decreased plasma protein binding"
+    },
+    {
+      "id": "D",
+      "text": "Impaired renal clearance"
+    },
+    {
+      "id": "E",
+      "text": "Enzyme induction"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Phenytoin, like ethanol and high-dose aspirin, follows zero-order (saturable) elimination: once hepatic enzymes are saturated, a constant amount of drug is eliminated per unit time, so a small dose increase can produce a disproportionately large rise in serum concentration and toxicity.",
+  "explanation_incorrect": {
+    "B": "A change in volume of distribution would not produce this disproportionate rise at steady state.",
+    "C": "Decreased protein binding would lower total drug concentration rather than raising it sharply.",
+    "D": "Phenytoin is metabolized hepatically, not cleared unchanged by the kidney.",
+    "E": "Enzyme induction would lower serum concentrations rather than raise them."
+  },
+  "educationalObjective": "Phenytoin shows zero-order (saturable) elimination, so small dose increases can cause large, toxic rises in serum concentration.",
+  "source": "Generated from 5. Pharmacology.pdf - Pharmacokinetics and Pharmacodynamics"
+}

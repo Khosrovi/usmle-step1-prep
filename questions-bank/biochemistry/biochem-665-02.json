@@ -1,0 +1,41 @@
+{
+  "id": "biochem-665-02",
+  "subject": "Biochemistry",
+  "major_topic": "Molecular Biology",
+  "subtopic": "Gene Regulation",
+  "difficulty": "hard",
+  "vignette": "A 32-year-old woman with acute pyelonephritis has a urine culture that grows Escherichia coli. In the microbiology laboratory the isolate is grown in medium containing both glucose and lactose, and expression of the lac operon is found to be only at a very low basal level despite the presence of lactose.",
+  "question": "Which of the following best explains the low level of lac operon transcription?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Glucose lowers cAMP levels, so catabolite activator protein (CAP) does not bind the promoter."
+    },
+    {
+      "id": "B",
+      "text": "Lactose binds the repressor and prevents it from binding the operator."
+    },
+    {
+      "id": "C",
+      "text": "High cAMP activates the repressor protein."
+    },
+    {
+      "id": "D",
+      "text": "CAP binds the operator and blocks RNA polymerase."
+    },
+    {
+      "id": "E",
+      "text": "Glucose binds directly to the lac operator and silences the operon."
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Escherichia coli preferentially uses glucose; when glucose is available, adenylate cyclase is inhibited, so cAMP levels fall and CAP cannot bind the promoter to activate transcription. Lactose is also present, so allolactose removes the repressor from the operator, but without CAP-dependent activation transcription remains at a very low basal rate.",
+  "explanation_incorrect": {
+    "B": "Lactose, acting as allolactose, removes the repressor from the operator and would increase rather than decrease transcription.",
+    "C": "cAMP activates CAP, not the repressor; the repressor is inactivated by allolactose.",
+    "D": "CAP binds the promoter near the operator, where it activates transcription; it does not block RNA polymerase.",
+    "E": "Glucose is not a DNA-binding protein; its effect is mediated through adenylate cyclase, cAMP, and CAP."
+  },
+  "educationalObjective": "The lac operon is strongly transcribed only when glucose is low (high cAMP activating CAP) and lactose is available (repressor released from the operator); glucose causes catabolite repression.",
+  "source": "Generated from 1. Biochemistry.pdf - Molecular Biology: Regulation of Gene Expression"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "biochem-607-04",
+  "subject": "Biochemistry",
+  "major_topic": "Enzymology",
+  "subtopic": "Enzyme Kinetics (Michaelis-Menten, Vmax, Km)",
+  "difficulty": "hard",
+  "vignette": "An investigator measures the kinetics of a purified dehydrogenase isolated from a liver biopsy of a 52-year-old woman with an unexplained metabolic disorder. The enzyme follows classic Michaelis-Menten behavior, with a Km for its substrate of 2 mM and a Vmax of 50 micromol/min per mg of protein.",
+  "question": "Approximately what substrate concentration is required for the reaction to proceed at 90% of Vmax?",
+  "options": [
+    {
+      "id": "A",
+      "text": "2 mM"
+    },
+    {
+      "id": "B",
+      "text": "4 mM"
+    },
+    {
+      "id": "C",
+      "text": "10 mM"
+    },
+    {
+      "id": "D",
+      "text": "18 mM"
+    },
+    {
+      "id": "E",
+      "text": "50 mM"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "The Michaelis-Menten relationship is v = Vmax x [S]/(Km + [S]). Setting v/Vmax equal to 0.9 and Km equal to 2 mM gives 0.9 = [S]/(2 + [S]), which solves to [S] = 18 mM, that is, 9 times the Km. This illustrates that an enzyme must be exposed to substrate concentrations several-fold above Km before it approaches maximal velocity.",
+  "explanation_incorrect": {
+    "A": "A substrate concentration equal to Km (2 mM) produces exactly half of Vmax, not 90% of Vmax.",
+    "B": "At twice the Km, v = 0.67 Vmax, so 4 mM would give only about two-thirds of the maximal rate.",
+    "C": "At 5 times Km (10 mM), v is approximately 0.83 Vmax, which is still below the 90% target.",
+    "E": "At 25 times Km (50 mM), the velocity would be approximately 96% of Vmax, considerably more than required; moreover 50 micromol/min per mg is the Vmax value itself, not a concentration."
+  },
+  "educationalObjective": "Rearranging the Michaelis-Menten equation shows that reaching 90% of Vmax requires a substrate concentration of nine times the Km.",
+  "source": "Generated from 1. Biochemistry.pdf - Enzymology: Enzyme Kinetics (Michaelis-Menten, Vmax, Km)"
+}

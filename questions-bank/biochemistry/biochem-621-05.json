@@ -1,0 +1,41 @@
+{
+  "id": "biochem-621-05",
+  "subject": "Biochemistry",
+  "major_topic": "Carbohydrate Metabolism",
+  "subtopic": "Pentose Phosphate Pathway",
+  "difficulty": "medium",
+  "vignette": "A 19-year-old woman is evaluated for jaundice and fatigue after eating a large serving of fava beans. She is pale and mildly icteric. Peripheral smear shows red cells with peripherally located bites, and supravital staining reveals dark inclusions within many red cells.",
+  "question": "Which of the following is the most likely explanation for these findings?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Target cells formed by excess membrane cholesterol"
+    },
+    {
+      "id": "B",
+      "text": "Schistocytes produced by mechanical shearing"
+    },
+    {
+      "id": "C",
+      "text": "Bite cells produced by splenic macrophages removing denatured hemoglobin"
+    },
+    {
+      "id": "D",
+      "text": "Spherocytes produced by loss of membrane surface area"
+    },
+    {
+      "id": "E",
+      "text": "Sickle cells produced by hemoglobin S polymerization"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Oxidative stress in G6PD deficiency causes hemoglobin to denature and precipitate as Heinz bodies inside red cells. Splenic macrophages remove these inclusions, leaving a peripheral bite in the cell membrane, so bite cells and Heinz bodies are characteristic of this disorder.",
+  "explanation_incorrect": {
+    "A": "Target cells reflect an increased membrane-to-hemoglobin ratio, as in thalassemia or liver disease, and are not the inclusions seen after oxidant stress.",
+    "B": "Schistocytes are fragmented red cells produced by mechanical damage, such as in microangiopathic hemolysis, and are not bite cells.",
+    "D": "Spherocytes result from loss of membrane surface area, as in hereditary spherocytosis or autoimmune hemolysis, and lack the inclusions described here.",
+    "E": "Sickle cells result from polymerization of hemoglobin S in sickle cell disease, which is not an oxidant-triggered process."
+  },
+  "educationalObjective": "Heinz bodies are denatured globin precipitates, and the bite cells seen after their splenic removal are classic for glucose-6-phosphate dehydrogenase deficiency.",
+  "source": "Generated from 1. Biochemistry.pdf - Pentose Phosphate Pathway"
+}

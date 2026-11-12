@@ -1,0 +1,41 @@
+{
+  "id": "biochem-636-04",
+  "subject": "Biochemistry",
+  "major_topic": "Amino Acid Metabolism",
+  "subtopic": "Transamination and Deamination",
+  "difficulty": "medium",
+  "vignette": "A 24-year-old man is evaluated after a motorcycle crash. He has extensive bilateral thigh muscle injury, and creatine kinase is 25,000 U/L. Serum aspartate aminotransferase is elevated, but alanine aminotransferase is normal, and there is no evidence of hepatic injury.",
+  "question": "Which of the following best explains the isolated increase in aspartate aminotransferase in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Aspartate aminotransferase is abundant in both the cytosol and mitochondria of skeletal muscle, whereas alanine aminotransferase is much more liver-specific."
+    },
+    {
+      "id": "B",
+      "text": "Aspartate aminotransferase catalyzes the rate-limiting step of the urea cycle."
+    },
+    {
+      "id": "C",
+      "text": "Aspartate aminotransferase requires biotin, which is released from damaged muscle."
+    },
+    {
+      "id": "D",
+      "text": "Aspartate aminotransferase is expressed only in the mitochondrial matrix of hepatocytes."
+    },
+    {
+      "id": "E",
+      "text": "Aspartate aminotransferase is induced by ethanol intake."
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Aspartate aminotransferase has both cytosolic and mitochondrial isoenzymes and is abundant in liver, cardiac muscle, skeletal muscle, and red blood cells, whereas alanine aminotransferase is predominantly hepatic and cytosolic. Therefore, skeletal muscle injury releases aspartate aminotransferase without a proportional rise in alanine aminotransferase.",
+  "explanation_incorrect": {
+    "B": "The rate-limiting enzyme of the urea cycle is carbamoyl phosphate synthetase I, not aspartate aminotransferase.",
+    "C": "Aspartate aminotransferase is a pyridoxal phosphate-dependent transaminase and does not require biotin.",
+    "D": "Aspartate aminotransferase is not restricted to hepatocytes or to mitochondria; it is widely distributed in the cytosol and mitochondria of several tissues.",
+    "E": "Alcohol may damage hepatocytes and raise aspartate aminotransferase, but this patient has muscle injury and no evidence of liver disease."
+  },
+  "educationalObjective": "Because aspartate aminotransferase is present in skeletal muscle as well as liver, whereas alanine aminotransferase is relatively liver-specific, muscle injury raises aspartate aminotransferase more than alanine aminotransferase.",
+  "source": "Generated from 1. Biochemistry.pdf - Amino Acid Metabolism: Transamination and Deamination"
+}

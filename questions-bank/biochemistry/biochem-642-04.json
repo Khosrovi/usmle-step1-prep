@@ -1,0 +1,41 @@
+{
+  "id": "biochem-642-04",
+  "subject": "Biochemistry",
+  "major_topic": "Amino Acid Metabolism",
+  "subtopic": "One-Carbon Metabolism",
+  "difficulty": "medium",
+  "vignette": "A 56-year-old woman with rheumatoid arthritis is treated with weekly low-dose methotrexate and folic acid. She develops mouth ulcers, fatigue, and a macrocytic anemia with hypersegmented neutrophils. Her physician explains that the drug inhibits an enzyme of one-carbon metabolism, and that supplementation with folic acid reduces these adverse effects.",
+  "question": "Inhibition of which of the following enzymes best explains these adverse effects?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Thymidylate synthase"
+    },
+    {
+      "id": "B",
+      "text": "Ribonucleotide reductase"
+    },
+    {
+      "id": "C",
+      "text": "Methionine synthase"
+    },
+    {
+      "id": "D",
+      "text": "Methylenetetrahydrofolate reductase"
+    },
+    {
+      "id": "E",
+      "text": "Dihydrofolate reductase"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Methotrexate inhibits dihydrofolate reductase, blocking regeneration of tetrahydrofolate and thereby the one-carbon transfers needed for thymidylate and purine synthesis. Rapidly dividing cells of the bone marrow and gastrointestinal mucosa are most affected, which explains the megaloblastic anemia, mouth ulcers, and fatigue, and folic acid supplementation reduces these toxicities. Trimethoprim and pyrimethamine inhibit the same enzyme.",
+  "explanation_incorrect": {
+    "A": "Thymidylate synthase is inhibited by 5-fluorouracil through its active metabolite 5-fluorodeoxyuridine monophosphate, not by methotrexate directly.",
+    "B": "Ribonucleotide reductase is inhibited by hydroxyurea, which blocks conversion of ribonucleotides to deoxyribonucleotides.",
+    "C": "Methionine synthase requires vitamin B12 and is not the target of methotrexate; its impairment causes homocysteine accumulation.",
+    "D": "Methylenetetrahydrofolate reductase is affected by genetic variants and by flavin cofactor deficiency, not by methotrexate."
+  },
+  "educationalObjective": "Methotrexate, trimethoprim, and pyrimethamine inhibit dihydrofolate reductase, reducing tetrahydrofolate for thymidylate and purine synthesis and causing megaloblastic changes.",
+  "source": "Generated from 1. Biochemistry.pdf - Amino Acid Metabolism: One-Carbon Metabolism"
+}

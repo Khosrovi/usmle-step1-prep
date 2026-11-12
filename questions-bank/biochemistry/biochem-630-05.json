@@ -1,0 +1,41 @@
+{
+  "id": "biochem-630-05",
+  "subject": "Biochemistry",
+  "major_topic": "Lipid Metabolism",
+  "subtopic": "Cholesterol Synthesis",
+  "difficulty": "medium",
+  "vignette": "A 61-year-old man with stable angina is started on atorvastatin 80 mg daily after an LDL cholesterol of 190 mg/dL. After 6 weeks his LDL cholesterol is 92 mg/dL while his triglycerides and HDL cholesterol are essentially unchanged. His hepatic LDL receptor activity, measured in a research protocol before and after therapy, has increased.",
+  "question": "Which of the following best explains the fall in plasma LDL cholesterol produced by this drug?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Binding of bile acids within the intestinal lumen"
+    },
+    {
+      "id": "B",
+      "text": "Increased hepatic expression of LDL receptors"
+    },
+    {
+      "id": "C",
+      "text": "Inhibition of intestinal cholesterol absorption"
+    },
+    {
+      "id": "D",
+      "text": "Increased activity of lipoprotein lipase"
+    },
+    {
+      "id": "E",
+      "text": "Reduced cholesteryl ester transfer protein activity"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "By inhibiting HMG-CoA reductase, statins lower intrahepatic free cholesterol, which relieves sterol-mediated suppression of SREBP-2 and increases transcription of the LDL receptor gene. The resulting increase in hepatic LDL receptors clears LDL from plasma and is the dominant mechanism of the LDL reduction, which also explains the additive effect of combining a statin with a bile acid sequestrant.",
+  "explanation_incorrect": {
+    "A": "Bile acid binding in the gut is the mechanism of cholestyramine and colestipol, not of statins, which are absorbed and act within hepatocytes.",
+    "C": "Inhibition of intestinal cholesterol absorption is the mechanism of ezetimibe.",
+    "D": "Activation of lipoprotein lipase is the effect of fibrates and lowers triglycerides rather than LDL cholesterol.",
+    "E": "Cholesteryl ester transfer protein is not inhibited by statins, and CETP inhibition is not their lipid-lowering mechanism."
+  },
+  "educationalObjective": "Statins lower plasma LDL mainly by increasing hepatic LDL receptor expression after intracellular cholesterol falls.",
+  "source": "Generated from 1. Biochemistry.pdf - Lipid Metabolism: Cholesterol Synthesis"
+}

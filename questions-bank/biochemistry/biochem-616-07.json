@@ -1,0 +1,41 @@
+{
+  "id": "biochem-616-07",
+  "subject": "Biochemistry",
+  "major_topic": "Carbohydrate Metabolism",
+  "subtopic": "Gluconeogenesis",
+  "difficulty": "hard",
+  "vignette": "A 10-month-old boy is brought in with lethargy and vomiting during gastroenteritis after 12 hours without food. Glucose is 34 mg/dL, urine ketones are negative, serum free fatty acids are elevated, and urine organic acids show dicarboxylic acids of medium-chain length; ammonia is mildly elevated and liver enzymes are normal. A sibling died suddenly at 1 year of age during an illness.",
+  "question": "Which of the following best explains the impaired glucose production in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Increased insulin-like growth factor 1 activity"
+    },
+    {
+      "id": "B",
+      "text": "Activation of fructose-1,6-bisphosphatase by AMP"
+    },
+    {
+      "id": "C",
+      "text": "Increased conversion of pyruvate to acetyl-CoA"
+    },
+    {
+      "id": "D",
+      "text": "Activation of pyruvate kinase by fructose-1,6-bisphosphate"
+    },
+    {
+      "id": "E",
+      "text": "Reduced acetyl-CoA availability, which normally activates pyruvate carboxylase for gluconeogenesis"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "During fasting, beta-oxidation of fatty acids supplies acetyl-CoA, which allosterically activates pyruvate carboxylase, the first step of gluconeogenesis, while the NADH generated favors gluconeogenesis. In medium-chain acyl-CoA dehydrogenase deficiency, impaired beta-oxidation depletes acetyl-CoA, so pyruvate carboxylase is underactive and gluconeogenesis fails while ketogenesis is also reduced, producing hypoketotic hypoglycemia.",
+  "explanation_incorrect": {
+    "A": "Insulin-like growth factor 1 has insulin-like effects but is not the cause; the disorder is a fasting-induced failure of hepatic gluconeogenesis.",
+    "B": "AMP inhibits fructose-1,6-bisphosphatase 1 rather than activating it, and its activation would not explain this presentation.",
+    "C": "Increased conversion of pyruvate to acetyl-CoA would consume pyruvate and is not expected when beta-oxidation is impaired; the block is in the opposite direction.",
+    "D": "Activation of pyruvate kinase would promote glycolysis rather than glucose production and does not explain hypoketotic hypoglycemia."
+  },
+  "educationalObjective": "During fasting, acetyl-CoA from beta-oxidation activates pyruvate carboxylase for gluconeogenesis, so fatty acid oxidation defects such as MCAD deficiency cause hypoketotic hypoglycemia.",
+  "source": "Generated from 1. Biochemistry.pdf - Carbohydrate Metabolism: Gluconeogenesis"
+}

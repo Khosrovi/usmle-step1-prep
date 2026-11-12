@@ -1,0 +1,41 @@
+{
+  "id": "biochem-632-03",
+  "subject": "Biochemistry",
+  "major_topic": "Lipid Metabolism",
+  "subtopic": "Lipoproteins",
+  "difficulty": "medium",
+  "vignette": "A 4-month-old girl born to consanguineous parents is evaluated for chronic fatty diarrhea and poor weight gain. She has a distended abdomen and marked failure to thrive. The blood smear shows acanthocytes, total cholesterol is 42 mg/dL, triglycerides are 16 mg/dL, and apolipoprotein B is undetectable. Intestinal biopsy shows lipid-laden enterocytes.",
+  "question": "A mutation in which of the following genes is most likely responsible for this presentation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Microsomal triglyceride transfer protein (MTTP)"
+    },
+    {
+      "id": "B",
+      "text": "ATP-binding cassette transporter A1 (ABCA1)"
+    },
+    {
+      "id": "C",
+      "text": "Lecithin-cholesterol acyltransferase (LCAT)"
+    },
+    {
+      "id": "D",
+      "text": "Lipoprotein lipase (LPL)"
+    },
+    {
+      "id": "E",
+      "text": "Apolipoprotein A-I"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Abetalipoproteinemia is an autosomal recessive disorder caused by loss-of-function mutations in MTTP, which transfers lipids onto apolipoprotein B in the endoplasmic reticulum and is required for chylomicron and VLDL assembly. Without apolipoprotein B-containing lipoproteins, chylomicrons, VLDL, and LDL are absent, producing steatorrhea, failure to thrive, acanthocytosis, and very low cholesterol and triglycerides.",
+  "explanation_incorrect": {
+    "B": "ABCA1 mutations cause Tangier disease with near-absent HDL and orange tonsils, but fat absorption and apolipoprotein B levels are preserved.",
+    "C": "LCAT deficiency causes low HDL with corneal opacities and progressive renal disease, not fat malabsorption with absent apolipoprotein B.",
+    "D": "Lipoprotein lipase deficiency produces severe hypertriglyceridemia with chylomicron accumulation, the opposite of the lipid values seen here.",
+    "E": "Apolipoprotein A-I deficiency lowers HDL cholesterol but does not eliminate apolipoprotein B-containing lipoproteins or cause steatorrhea."
+  },
+  "educationalObjective": "Abetalipoproteinemia is caused by MTTP mutations, resulting in absent apolipoprotein B-containing lipoproteins, steatorrhea, acanthocytes, and later vitamin E deficiency.",
+  "source": "Generated from 1. Biochemistry.pdf - Lipid Metabolism: Lipoproteins"
+}

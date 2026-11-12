@@ -1,0 +1,41 @@
+{
+  "id": "biochem-686-02",
+  "subject": "Biochemistry",
+  "major_topic": "Heme and Bilirubin Metabolism",
+  "subtopic": "Lead Poisoning",
+  "difficulty": "medium",
+  "vignette": "A 32-year-old man who works at a battery recycling plant is evaluated for several weeks of abdominal colic, constipation, and bilateral wrist drop. Examination shows hypertension and a blue-black line along the gums. Laboratory studies show microcytic anemia with basophilic stippling, blood lead 62 mcg/dL, markedly elevated urinary ALA, normal urinary porphobilinogen, and elevated zinc protoporphyrin.",
+  "question": "Which of the following best explains the elevated urinary ALA with normal urinary porphobilinogen?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Lead inhibits ALA dehydratase, preventing conversion of ALA to porphobilinogen"
+    },
+    {
+      "id": "B",
+      "text": "Lead directly induces porphobilinogen deaminase"
+    },
+    {
+      "id": "C",
+      "text": "Lead inhibits ferrochelatase, causing ALA to accumulate proximal to the block"
+    },
+    {
+      "id": "D",
+      "text": "Lead inhibits porphobilinogen deaminase, causing ALA to be excreted unchanged"
+    },
+    {
+      "id": "E",
+      "text": "Lead increases heme oxygenase activity, shifting heme into ALA"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "ALA dehydratase catalyzes the cytosolic conversion of two ALA molecules to porphobilinogen. When lead inhibits this enzyme, ALA accumulates and is excreted in urine, while porphobilinogen does not rise because its synthesis is blocked. This pattern, together with elevated zinc protoporphyrin from ferrochelatase inhibition, is characteristic of lead poisoning and helps distinguish it from acute intermittent porphyria, in which both ALA and porphobilinogen are elevated.",
+  "explanation_incorrect": {
+    "B": "Lead does not induce porphobilinogen deaminase; such an effect would also increase rather than normalize porphobilinogen levels.",
+    "C": "Ferrochelatase catalyzes the final step of heme synthesis, distal to porphobilinogen; its inhibition cannot explain an isolated accumulation of ALA.",
+    "D": "Inhibition of porphobilinogen deaminase would increase porphobilinogen as well as ALA, as occurs in acute intermittent porphyria, so it does not fit a normal porphobilinogen level.",
+    "E": "Heme oxygenase degrades heme to biliverdin, carbon monoxide, and iron; it does not convert heme into ALA."
+  },
+  "educationalObjective": "In lead poisoning, inhibition of ALA dehydratase raises urinary ALA while porphobilinogen remains normal, whereas acute intermittent porphyria elevates both precursors.",
+  "source": "Generated from 1. Biochemistry.pdf - Heme and Bilirubin Metabolism: Lead Poisoning"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "biochem-646-02",
+  "subject": "Biochemistry",
+  "major_topic": "Nucleotide Metabolism",
+  "subtopic": "Purine Synthesis de novo",
+  "difficulty": "easy",
+  "vignette": "A 6-year-old boy with a profound T-cell immunodeficiency is found to have a defect in de novo purine synthesis. Cultured lymphoblasts from the patient incorporate radiolabeled precursors into IMP at less than 10% of the normal rate, and the metabolic team is mapping which atoms of the purine ring come from which precursor.",
+  "question": "Which of the following amino acids is incorporated as a whole molecule, providing both carbon and nitrogen atoms to the purine ring?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Aspartate"
+    },
+    {
+      "id": "B",
+      "text": "Glutamine"
+    },
+    {
+      "id": "C",
+      "text": "Serine"
+    },
+    {
+      "id": "D",
+      "text": "Glycine"
+    },
+    {
+      "id": "E",
+      "text": "Alanine"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Glycine is incorporated intact into the developing purine ring, contributing carbon atoms 4 and 5 as well as nitrogen 7. The remaining atoms come from glutamine (nitrogens 3 and 9), aspartate (nitrogen 1), N10-formyl tetrahydrofolate (carbons 2 and 8), and carbon dioxide (carbon 6). This is why de novo purine synthesis requires glycine, glutamine, aspartate, and tetrahydrofolate.",
+  "explanation_incorrect": {
+    "A": "Aspartate donates only its amino group (nitrogen 1) to the purine ring; its carbon skeleton is not incorporated.",
+    "B": "Glutamine donates amide nitrogens (nitrogens 3 and 9) but not carbon atoms to the ring.",
+    "C": "Serine is a one-carbon donor through tetrahydrofolate metabolism but is not incorporated into the purine ring.",
+    "E": "Alanine is not a purine precursor; it serves mainly as a carrier of nitrogen and carbon from muscle to liver in the glucose-alanine cycle."
+  },
+  "educationalObjective": "Glycine is the only amino acid incorporated intact into the purine ring, contributing carbons 4 and 5 and nitrogen 7.",
+  "source": "Generated from 1. Biochemistry.pdf - Nucleotide Metabolism: Purine Synthesis de novo"
+}

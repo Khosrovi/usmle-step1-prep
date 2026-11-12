@@ -1,0 +1,41 @@
+{
+  "id": "biochem-647-02",
+  "subject": "Biochemistry",
+  "major_topic": "Nucleotide Metabolism",
+  "subtopic": "Purine Salvage Pathway",
+  "difficulty": "medium",
+  "vignette": "A 4-month-old boy is brought for failure to thrive, chronic watery diarrhea, and oral thrush. He has had two episodes of pneumonia, and his chest radiograph shows an absent thymic shadow. The absolute lymphocyte count is 350 cells/microL, serum immunoglobulins are markedly decreased, and erythrocyte adenosine deaminase activity is undetectable.",
+  "question": "Deficiency of which of the following enzymes best explains these findings?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Hypoxanthine-guanine phosphoribosyltransferase"
+    },
+    {
+      "id": "B",
+      "text": "Adenine phosphoribosyltransferase"
+    },
+    {
+      "id": "C",
+      "text": "Adenosine deaminase"
+    },
+    {
+      "id": "D",
+      "text": "Xanthine oxidase"
+    },
+    {
+      "id": "E",
+      "text": "Thymidylate synthase"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Adenosine deaminase is required for degradation of adenosine and deoxyadenosine, so its deficiency causes these substrates to accumulate and be phosphorylated to dATP. Excess dATP inhibits ribonucleotide reductase, depleting deoxyribonucleotide precursors and causing lymphocyte toxicity, which produces an autosomal recessive form of severe combined immunodeficiency. The absent thymic shadow, profound lymphopenia, and hypogammaglobulinemia are typical.",
+  "explanation_incorrect": {
+    "A": "HGPRT deficiency causes Lesch-Nyhan syndrome with hyperuricemia, self-mutilation, and dystonia, not severe combined immunodeficiency.",
+    "B": "APRT deficiency causes 2,8-dihydroxyadenine kidney stones; immune function is normal.",
+    "D": "Xanthine oxidase deficiency causes hypouricemia and xanthine stones rather than immunodeficiency.",
+    "E": "Thymidylate synthase deficiency is not a cause of congenital severe combined immunodeficiency; its inhibition by 5-fluorouracil causes myelosuppression and mucositis."
+  },
+  "educationalObjective": "Adenosine deaminase deficiency is an autosomal recessive cause of severe combined immunodeficiency, detected by absent ADA activity and profound lymphopenia.",
+  "source": "Generated from 1. Biochemistry.pdf - Nucleotide Metabolism: Purine Salvage Pathway"
+}

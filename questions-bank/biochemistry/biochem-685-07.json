@@ -1,0 +1,41 @@
+{
+  "id": "biochem-685-07",
+  "subject": "Biochemistry",
+  "major_topic": "Heme and Bilirubin Metabolism",
+  "subtopic": "Porphyrias",
+  "difficulty": "hard",
+  "vignette": "A 26-year-old woman with a known diagnosis of acute intermittent porphyria is admitted with severe abdominal pain, vomiting, tachycardia, and new-onset confusion after several days of poor oral intake. She is given intravenous fluids, carbohydrate loading, and intravenous hemin. Her symptoms improve over the next 48 hours, and urinary ALA and porphobilinogen levels decline.",
+  "question": "Which of the following best explains the therapeutic effect of intravenous hemin in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It directly inhibits porphobilinogen deaminase"
+    },
+    {
+      "id": "B",
+      "text": "It increases renal excretion of ALA"
+    },
+    {
+      "id": "C",
+      "text": "It stimulates uroporphyrinogen III synthase activity"
+    },
+    {
+      "id": "D",
+      "text": "It restores negative feedback inhibition of ALA synthase"
+    },
+    {
+      "id": "E",
+      "text": "It chelates excess iron and reduces oxidative stress"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Hemin is a stable form of heme that replenishes the hepatic heme pool and restores negative feedback inhibition of ALA synthase, the rate-limiting enzyme of heme synthesis. With ALA synthase suppressed, production of the neurotoxic precursors ALA and porphobilinogen falls. Carbohydrate loading acts similarly by inducing the enzyme via a different mechanism and is used when hemin is unavailable.",
+  "explanation_incorrect": {
+    "A": "Hemin does not inhibit porphobilinogen deaminase; that enzyme is the one that is deficient in acute intermittent porphyria, and further inhibition would worsen precursor accumulation.",
+    "B": "Hemin does not act by increasing renal clearance of ALA; it reduces ALA and porphobilinogen synthesis at the source.",
+    "C": "Hemin does not directly activate uroporphyrinogen III synthase, and this enzyme is not the deficient step in acute intermittent porphyria.",
+    "E": "Iron chelation is used in iron overload states and does not address the pathophysiology of the acute porphyria attack."
+  },
+  "educationalObjective": "Intravenous hemin treats acute porphyria attacks by replenishing heme and restoring feedback inhibition of ALA synthase, thereby decreasing ALA and porphobilinogen production.",
+  "source": "Generated from 1. Biochemistry.pdf - Heme and Bilirubin Metabolism: Porphyrias"
+}

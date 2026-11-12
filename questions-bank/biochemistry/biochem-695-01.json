@@ -1,0 +1,41 @@
+{
+  "id": "biochem-695-01",
+  "subject": "Biochemistry",
+  "major_topic": "Inborn Errors of Metabolism",
+  "subtopic": "Fatty Acid Oxidation Disorders",
+  "difficulty": "medium",
+  "vignette": "A 22-month-old boy is brought to the emergency department after 24 hours of vomiting and poor oral intake; he is now drowsy and has had a brief generalized seizure. He is afebrile, and his liver edge is slightly enlarged. Laboratory studies show glucose 34 mg/dL, bicarbonate 18 mEq/L, minimal urine ketones, ammonia 95 micrograms/dL, and normal lactate. Plasma acylcarnitine profile shows elevated octanoylcarnitine (C8), and urine contains adipic and suberic acids.",
+  "question": "Which of the following is the most likely diagnosis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Systemic primary carnitine deficiency"
+    },
+    {
+      "id": "B",
+      "text": "Carnitine palmitoyltransferase I deficiency"
+    },
+    {
+      "id": "C",
+      "text": "Propionic acidemia"
+    },
+    {
+      "id": "D",
+      "text": "HMG-CoA lyase deficiency"
+    },
+    {
+      "id": "E",
+      "text": "Medium-chain acyl-CoA dehydrogenase deficiency"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Deficiency of medium-chain acyl-CoA dehydrogenase impairs beta-oxidation of medium-chain fatty acids, so fasting produces hypoglycemia with inappropriately low ketones. Medium-chain acylcarnitines (C8) and dicarboxylic acids (adipic, suberic) accumulate, and mild hyperammonemia is common; management is avoidance of fasting and intravenous dextrose during illness.",
+  "explanation_incorrect": {
+    "A": "Systemic carnitine deficiency also causes hypoketotic hypoglycemia, but plasma free carnitine is very low and patients typically have muscle weakness and dilated cardiomyopathy rather than an isolated C8 elevation.",
+    "B": "Carnitine palmitoyltransferase I deficiency raises free fatty acids with low ketones and does not produce dicarboxylic aciduria or C8 acylcarnitine elevation.",
+    "C": "Propionic acidemia causes a ketotic high anion gap acidosis with hyperammonemia and elevated propionylcarnitine (C3), not hypoketosis.",
+    "D": "HMG-CoA lyase deficiency causes hypoketotic hypoglycemia with metabolic acidosis and elevated 3-hydroxy-3-methylglutaric acid, not adipic and suberic acids."
+  },
+  "educationalObjective": "Hypoketotic hypoglycemia after fasting with elevated C8 acylcarnitine and dicarboxylic aciduria is characteristic of medium-chain acyl-CoA dehydrogenase deficiency.",
+  "source": "Generated from 1. Biochemistry.pdf - Section II: Metabolism, Fatty Acid Metabolism"
+}

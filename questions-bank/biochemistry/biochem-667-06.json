@@ -1,0 +1,41 @@
+{
+  "id": "biochem-667-06",
+  "subject": "Biochemistry",
+  "major_topic": "Molecular Biology",
+  "subtopic": "Epigenetics",
+  "difficulty": "medium",
+  "vignette": "A 58-year-old woman presents with a rapidly enlarging cervical lymph node, and biopsy shows diffuse large B-cell lymphoma. Studies of the tumor cells show marked overexpression of a microRNA that has loose complementarity to the mRNA of a tumor suppressor gene.",
+  "question": "Which of the following best explains the reduced expression of the tumor suppressor?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The microRNA binds with complete complementarity and cleaves the mRNA."
+    },
+    {
+      "id": "B",
+      "text": "Loose nucleotide pairing allows the microRNA to bind related mRNAs, blocking translation and sometimes promoting mRNA degradation."
+    },
+    {
+      "id": "C",
+      "text": "The microRNA is translated into a protein that degrades the tumor suppressor."
+    },
+    {
+      "id": "D",
+      "text": "The microRNA methylates the promoter of the tumor suppressor gene."
+    },
+    {
+      "id": "E",
+      "text": "The microRNA serves as a primer for DNA replication at the locus."
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "MicroRNAs are naturally produced noncoding RNAs that form hairpin structures and use loose nucleotide pairing, which allows them to target a family of related mRNAs. When a microRNA binds its target mRNA, it blocks translation and may also facilitate degradation, so overexpression can silence a tumor suppressor gene and contribute to malignancy.",
+  "explanation_incorrect": {
+    "A": "Complete pairing with direct cleavage is characteristic of siRNA, which provides highly specific targeting; microRNA pairing is loose and broad.",
+    "C": "MicroRNAs are noncoding and are not translated into proteins.",
+    "D": "MicroRNAs repress translation or promote degradation in the cytoplasm; they do not methylate gene promoters.",
+    "E": "MicroRNAs do not serve as primers for DNA replication; they regulate mRNA translation and stability."
+  },
+  "educationalObjective": "MicroRNAs use loose base pairing to repress translation and sometimes promote degradation of related mRNAs, and abnormal microRNA expression can silence tumor suppressor genes in cancer.",
+  "source": "Generated from 1. Biochemistry.pdf - Molecular Biology: Epigenetics"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "biochem-648-02",
+  "subject": "Biochemistry",
+  "major_topic": "Nucleotide Metabolism",
+  "subtopic": "Pyrimidine Synthesis",
+  "difficulty": "medium",
+  "vignette": "A 3-day-old boy born at term develops poor feeding, lethargy, vomiting, and tachypnea. Plasma ammonia is 620 micromol/L, blood urea nitrogen is 4 mg/dL, and arterial blood gas shows respiratory alkalosis. Urine organic acids show increased orotic acid, but serum folate and vitamin B12 are normal and there is no megaloblastic anemia. A maternal uncle died as a neonate with a similar illness.",
+  "question": "Which of the following is the most likely diagnosis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Ornithine transcarbamylase deficiency"
+    },
+    {
+      "id": "B",
+      "text": "UMP synthase deficiency"
+    },
+    {
+      "id": "C",
+      "text": "Carbamoyl phosphate synthetase I deficiency"
+    },
+    {
+      "id": "D",
+      "text": "Adenosine deaminase deficiency"
+    },
+    {
+      "id": "E",
+      "text": "Pyruvate carboxylase deficiency"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Ornithine transcarbamylase deficiency is the most common urea cycle disorder and is X-linked recessive, which matches the affected maternal uncle. Excess carbamoyl phosphate is diverted into the pyrimidine pathway and converted to orotic acid, causing orotic aciduria with hyperammonemia and a low blood urea nitrogen. Megaloblastic anemia is absent, which distinguishes this from hereditary orotic aciduria caused by UMP synthase deficiency.",
+  "explanation_incorrect": {
+    "B": "UMP synthase deficiency causes orotic aciduria and megaloblastic anemia but normal ammonia, and it is autosomal recessive.",
+    "C": "CPS I deficiency causes hyperammonemia but does not increase orotic acid, because carbamoyl phosphate cannot be formed.",
+    "D": "Adenosine deaminase deficiency causes severe combined immunodeficiency, not neonatal hyperammonemia and orotic aciduria.",
+    "E": "Pyruvate carboxylase deficiency causes lactic acidosis and neurologic deterioration, not orotic aciduria with respiratory alkalosis."
+  },
+  "educationalObjective": "OTC deficiency, the most common X-linked urea cycle disorder, causes hyperammonemia with increased orotic acid but no megaloblastic anemia, unlike UMP synthase deficiency.",
+  "source": "Generated from 1. Biochemistry.pdf - Nucleotide Metabolism: Pyrimidine Synthesis"
+}

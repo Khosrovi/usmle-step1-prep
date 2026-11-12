@@ -1,0 +1,41 @@
+{
+  "id": "biochem-653-01",
+  "subject": "Biochemistry",
+  "major_topic": "Nucleotide Metabolism",
+  "subtopic": "Antimetabolite Drugs",
+  "difficulty": "medium",
+  "vignette": "A 58-year-old man with stage III colon cancer is receiving adjuvant chemotherapy with 5-fluorouracil, leucovorin, and oxaliplatin. Two weeks into therapy he develops painful oral ulcerations, profuse watery diarrhea, and a neutrophil count of 900/uL. He is afebrile and blood cultures are negative, and his renal and hepatic function are normal.",
+  "question": "The cytotoxic effect of 5-fluorouracil in this patient is mediated primarily by inhibition of which of the following enzymes?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Dihydrofolate reductase"
+    },
+    {
+      "id": "B",
+      "text": "Ribonucleotide reductase"
+    },
+    {
+      "id": "C",
+      "text": "Inosine monophosphate dehydrogenase"
+    },
+    {
+      "id": "D",
+      "text": "Thymidylate synthase"
+    },
+    {
+      "id": "E",
+      "text": "Dihydroorotate dehydrogenase"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "5-Fluorouracil is converted to 5-fluoro-2'-deoxyuridine monophosphate, which inhibits thymidylate synthase and prevents conversion of dUMP to dTMP. Depletion of dTMP blocks DNA synthesis in rapidly dividing cells such as gastrointestinal epithelium and bone marrow, which explains the mucositis and myelosuppression; leucovorin increases binding of the inhibitor to the enzyme.",
+  "explanation_incorrect": {
+    "A": "Dihydrofolate reductase is inhibited by methotrexate (and by the antimicrobials trimethoprim and pyrimethamine), not by 5-fluorouracil.",
+    "B": "Ribonucleotide reductase is inhibited by hydroxyurea, which depletes all four deoxyribonucleotides rather than selectively reducing dTMP.",
+    "C": "Inosine monophosphate dehydrogenase is inhibited by mycophenolate and ribavirin, reducing GMP synthesis.",
+    "E": "Dihydroorotate dehydrogenase is inhibited by leflunomide, which blocks de novo pyrimidine synthesis upstream of orotic acid."
+  },
+  "educationalObjective": "5-Fluorouracil acts through its metabolite FdUMP, which inhibits thymidylate synthase and depletes dTMP, an effect enhanced by leucovorin.",
+  "source": "Generated from 1. Biochemistry.pdf - Molecular Biochemistry: De Novo Pyrimidine and Purine Synthesis (Antimetabolite Drugs)"
+}

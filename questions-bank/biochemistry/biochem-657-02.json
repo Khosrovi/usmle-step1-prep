@@ -1,0 +1,41 @@
+{
+  "id": "biochem-657-02",
+  "subject": "Biochemistry",
+  "major_topic": "Molecular Biology",
+  "subtopic": "DNA Repair (BER, NER, MMR)",
+  "difficulty": "medium",
+  "vignette": "A 62-year-old man with metastatic non-small cell lung cancer is treated with cisplatin, which forms covalent intrastrand crosslinks that produce bulky, helix-distorting DNA adducts. His tumor cells must remove these lesions in order to survive the drug.",
+  "question": "Which of the following repair pathways is primarily responsible for removing these cisplatin adducts?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Mismatch repair"
+    },
+    {
+      "id": "B",
+      "text": "Base excision repair"
+    },
+    {
+      "id": "C",
+      "text": "Nonhomologous end joining"
+    },
+    {
+      "id": "D",
+      "text": "Homologous recombination"
+    },
+    {
+      "id": "E",
+      "text": "Nucleotide excision repair"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Bulky, helix-distorting lesions such as cisplatin crosslinks and UV pyrimidine dimers are removed by nucleotide excision repair: specific endonucleases excise the oligonucleotide containing the lesion, and DNA polymerase and ligase fill and reseal the gap.",
+  "explanation_incorrect": {
+    "A": "Mismatch repair corrects mismatched nucleotides in newly synthesized DNA and does not remove bulky adducts.",
+    "B": "Base excision repair handles small altered bases, such as uracil from deaminated cytosine, not helix-distorting crosslinks.",
+    "C": "Nonhomologous end joining repairs DNA double-strand breaks without a homologous template.",
+    "D": "Homologous recombination repairs double-strand breaks using a homologous duplex as a template."
+  },
+  "educationalObjective": "Nucleotide excision repair removes bulky helix-distorting lesions such as UV pyrimidine dimers and cisplatin adducts.",
+  "source": "Generated from 1. Biochemistry.pdf - Molecular Biology: DNA Repair (BER, NER, MMR)"
+}

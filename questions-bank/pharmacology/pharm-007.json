@@ -1,0 +1,41 @@
+{
+  "id": "pharm-007",
+  "subject": "Pharmacology",
+  "major_topic": "Toxicities and Adverse Effects",
+  "subtopic": "Methemoglobinemia",
+  "difficulty": "easy",
+  "vignette": "A 2-month-old infant is evaluated for cyanosis after a topical anesthetic was applied for a minor procedure. Oxygen saturation is 88% despite 100% oxygen, and the blood appears chocolate-brown.",
+  "question": "Which of the following is the most appropriate treatment?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Methylene blue"
+    },
+    {
+      "id": "B",
+      "text": "Hydroxocobalamin"
+    },
+    {
+      "id": "C",
+      "text": "N-Acetylcysteine"
+    },
+    {
+      "id": "D",
+      "text": "Deferoxamine"
+    },
+    {
+      "id": "E",
+      "text": "Vitamin K"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Methemoglobinemia occurs when hemoglobin iron is oxidized to the ferric (Fe3+) state, which cannot bind oxygen and shifts the oxygen dissociation curve leftward. Methylene blue is reduced to leukomethylene blue, which reduces Fe3+ back to Fe2+ in a NADPH-dependent reaction; it is ineffective and potentially harmful in G6PD deficiency.",
+  "explanation_incorrect": {
+    "B": "Hydroxocobalamin is used for cyanide poisoning.",
+    "C": "N-Acetylcysteine is the antidote for acetaminophen overdose.",
+    "D": "Deferoxamine chelates iron in iron poisoning.",
+    "E": "Vitamin K reverses warfarin."
+  },
+  "educationalObjective": "Methylene blue reduces ferric hemoglobin back to ferrous hemoglobin in methemoglobinemia.",
+  "source": "Generated from 5. Pharmacology.pdf - Toxicities and Adverse Effects (specific toxicity treatments)"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "biochem-603-01",
+  "subject": "Biochemistry",
+  "major_topic": "Amino Acids & Proteins",
+  "subtopic": "Collagen Synthesis and Disorders",
+  "difficulty": "medium",
+  "vignette": "A 67-year-old man with alcohol use disorder presents with bleeding gums, easy bruising, and slowly healing wounds on his legs. His diet has consisted mainly of tea and toast for the past year. Examination shows perifollicular petechiae, corkscrew hairs, and swollen, friable gingivae. Platelet count and coagulation studies are normal.",
+  "question": "Which of the following collagen synthesis steps is most likely impaired in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Hydroxylation of proline and lysine residues in the pro-alpha chain"
+    },
+    {
+      "id": "B",
+      "text": "Cleavage of the N- and C-terminal propeptides of procollagen"
+    },
+    {
+      "id": "C",
+      "text": "Oxidative deamination of lysine and hydroxylysine by lysyl oxidase"
+    },
+    {
+      "id": "D",
+      "text": "Glycosylation of hydroxylysine residues in the Golgi apparatus"
+    },
+    {
+      "id": "E",
+      "text": "Translation of the Gly-X-Y repeat of the pro-alpha chain"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "This patient has scurvy, which results from vitamin C deficiency. Vitamin C is a required cofactor for prolyl and lysyl hydroxylases, so hydroxylation of proline and lysine residues in procollagen is impaired. Without hydroxyproline and hydroxylysine, the triple helix is unstable, cross-linking is inadequate, and defective collagen produces bleeding gums, perifollicular hemorrhage, corkscrew hairs, and poor wound healing.",
+  "explanation_incorrect": {
+    "B": "Cleavage of procollagen propeptides is performed by procollagen peptidases and is not vitamin C dependent; deficiency causes a form of Ehlers-Danlos syndrome rather than scurvy.",
+    "C": "Lysyl oxidase requires copper, not vitamin C; its deficiency occurs in Menkes disease and causes defective cross-linking without gingival bleeding.",
+    "D": "Glycosylation of hydroxylysine occurs in the Golgi but does not require vitamin C, and it is not the defect responsible for scurvy.",
+    "E": "Translation of the Gly-X-Y repeat does not require vitamin C; the collagen chains are synthesized normally but are poorly hydroxylated."
+  },
+  "educationalObjective": "Vitamin C is required for hydroxylation of proline and lysine during collagen synthesis, and its deficiency produces scurvy with bleeding gums, perifollicular hemorrhage, and impaired wound healing.",
+  "source": "Generated from 1. Biochemistry.pdf - Biochemistry: Cellular (Collagen Synthesis and Disorders)"
+}

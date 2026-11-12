@@ -1,0 +1,41 @@
+{
+  "id": "biochem-653-06",
+  "subject": "Biochemistry",
+  "major_topic": "Nucleotide Metabolism",
+  "subtopic": "Antimetabolite Drugs",
+  "difficulty": "medium",
+  "vignette": "A 38-year-old woman with seropositive rheumatoid arthritis begins a new oral disease-modifying antirheumatic drug. Her joint pain and swelling improve over 8 weeks, but she develops mild hypertension and a doubling of serum transaminases. She is not taking methotrexate or a biologic agent, drinks no alcohol, and viral hepatitis serologies are negative.",
+  "question": "Which of the following enzymes is inhibited by the active metabolite of the drug initiated in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Dihydroorotate dehydrogenase"
+    },
+    {
+      "id": "B",
+      "text": "UMP synthase"
+    },
+    {
+      "id": "C",
+      "text": "Ribonucleotide reductase"
+    },
+    {
+      "id": "D",
+      "text": "Thymidylate synthase"
+    },
+    {
+      "id": "E",
+      "text": "Inosine monophosphate dehydrogenase"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Leflunomide is a prodrug converted to teriflunomide, which inhibits mitochondrial dihydroorotate dehydrogenase, the rate-limiting step of de novo pyrimidine synthesis. Depletion of pyrimidines reduces proliferation of activated lymphocytes; the drug is hepatotoxic and teratogenic and can cause hypertension.",
+  "explanation_incorrect": {
+    "B": "UMP synthase deficiency causes hereditary orotic aciduria and is not a pharmacologic target; no drug inhibits this enzyme.",
+    "C": "Ribonucleotide reductase is inhibited by hydroxyurea.",
+    "D": "Thymidylate synthase is inhibited by 5-fluorouracil and its prodrug capecitabine.",
+    "E": "Inosine monophosphate dehydrogenase is inhibited by mycophenolate and ribavirin."
+  },
+  "educationalObjective": "Leflunomide inhibits dihydroorotate dehydrogenase and thereby blocks de novo pyrimidine synthesis in proliferating lymphocytes.",
+  "source": "Generated from 1. Biochemistry.pdf - Molecular Biochemistry: De Novo Pyrimidine and Purine Synthesis (Leflunomide)"
+}

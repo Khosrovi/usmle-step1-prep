@@ -1,0 +1,41 @@
+{
+  "id": "biochem-656-03",
+  "subject": "Biochemistry",
+  "major_topic": "Molecular Biology",
+  "subtopic": "DNA Replication",
+  "difficulty": "easy",
+  "vignette": "A 27-year-old woman presents with dysuria, fever, and flank pain. Urine culture grows more than 100,000 CFU/mL of Escherichia coli. She is treated with oral ciprofloxacin and improves over the next 48 hours without complications.",
+  "question": "Which of the following is the molecular target of this antibiotic?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Bacterial DNA polymerase III"
+    },
+    {
+      "id": "B",
+      "text": "Bacterial DNA gyrase (topoisomerase II) and topoisomerase IV"
+    },
+    {
+      "id": "C",
+      "text": "Bacterial 30S ribosomal subunit"
+    },
+    {
+      "id": "D",
+      "text": "Bacterial RNA polymerase"
+    },
+    {
+      "id": "E",
+      "text": "Bacterial dihydrofolate reductase"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Fluoroquinolones such as ciprofloxacin inhibit prokaryotic topoisomerase II (DNA gyrase) and topoisomerase IV, blocking DNA replication and causing double-stranded DNA breaks. These enzymes are bacterial, which provides selectivity over human topoisomerases.",
+  "explanation_incorrect": {
+    "A": "DNA polymerase III is not the target of fluoroquinolones; it is the main replicative polymerase in prokaryotes.",
+    "C": "The 30S ribosomal subunit is targeted by aminoglycosides and tetracyclines.",
+    "D": "Bacterial RNA polymerase is inhibited by rifampin.",
+    "E": "Dihydrofolate reductase is inhibited by trimethoprim, a folate synthesis antagonist."
+  },
+  "educationalObjective": "Fluoroquinolones inhibit bacterial DNA gyrase (topoisomerase II) and topoisomerase IV.",
+  "source": "Generated from 1. Biochemistry.pdf - Molecular Biology: DNA Replication"
+}

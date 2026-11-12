@@ -1,0 +1,41 @@
+{
+  "id": "biochem-656-01",
+  "subject": "Biochemistry",
+  "major_topic": "Molecular Biology",
+  "subtopic": "DNA Replication",
+  "difficulty": "medium",
+  "vignette": "A 3-year-old boy is evaluated for poor growth, a photosensitive malar rash after sun exposure, and recurrent otitis media. He has a long, narrow face and a high-pitched voice. Chromosomal analysis of his lymphocytes shows increased sister chromatid exchanges, and a pathogenic BLM gene variant is identified.",
+  "question": "Which of the following enzyme activities is most likely deficient in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "DNA ligase"
+    },
+    {
+      "id": "B",
+      "text": "DNA topoisomerase II"
+    },
+    {
+      "id": "C",
+      "text": "DNA helicase"
+    },
+    {
+      "id": "D",
+      "text": "RNA primase"
+    },
+    {
+      "id": "E",
+      "text": "Telomerase"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "The BLM gene encodes a DNA helicase that unwinds the DNA template at the replication fork. Loss of function causes Bloom syndrome, characterized by growth deficiency, photosensitivity, immunodeficiency, increased sister chromatid exchanges, and cancer predisposition.",
+  "explanation_incorrect": {
+    "A": "DNA ligase catalyzes phosphodiester bond formation and joins Okazaki fragments; its deficiency is not Bloom syndrome.",
+    "B": "Topoisomerase II relieves supercoils by creating double-stranded breaks and is the target of etoposide.",
+    "D": "Primase synthesizes the short RNA primer required for initiation of DNA synthesis.",
+    "E": "Telomerase maintains telomere length and is not the product of the BLM gene."
+  },
+  "educationalObjective": "Bloom syndrome is caused by loss of the BLM DNA helicase that unwinds DNA at the replication fork.",
+  "source": "Generated from 1. Biochemistry.pdf - Molecular Biology: DNA Replication"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "biochem-645-01",
+  "subject": "Biochemistry",
+  "major_topic": "Amino Acid Metabolism",
+  "subtopic": "Nitric Oxide Synthesis",
+  "difficulty": "medium",
+  "vignette": "A 63-year-old man with a perforated diverticulum develops fever, hypotension, and confusion 12 hours after surgery. Blood cultures grow Escherichia coli, and he is treated with broad-spectrum antibiotics and norepinephrine. Despite adequate fluid resuscitation, his mean arterial pressure remains 52 mm Hg, his extremities are warm with a widened pulse pressure, and his serum lactate is 4.6 mmol/L.",
+  "question": "Which of the following best explains his persistent vasodilation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Reduced endothelial release of endothelin-1"
+    },
+    {
+      "id": "B",
+      "text": "Impaired myocardial contractility from bacterial exotoxins alone"
+    },
+    {
+      "id": "C",
+      "text": "Deficiency of tetrahydrobiopterin causing decreased nitric oxide synthesis"
+    },
+    {
+      "id": "D",
+      "text": "Excess catecholamine degradation by induced monoamine oxidase"
+    },
+    {
+      "id": "E",
+      "text": "Cytokine-induced nitric oxide synthase producing excess nitric oxide that increases cyclic GMP in vascular smooth muscle"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Endotoxin and cytokines induce inducible nitric oxide synthase in macrophages and vascular endothelium, and the resulting nitric oxide diffuses into smooth muscle cells and activates soluble guanylyl cyclase, raising cyclic GMP and producing profound vasodilation with hyporesponsiveness to catecholamines. This mechanism accounts for the warm, vasodilated shock of sepsis, and it explains why such patients require vasopressors. Nitric oxide is synthesized from arginine by nitric oxide synthase using oxygen, NADPH, and tetrahydrobiopterin.",
+  "explanation_incorrect": {
+    "A": "Endothelin-1 is a vasoconstrictor, and reduced release would not explain the warm, vasodilated state; sepsis typically increases rather than decreases vasoconstrictor mediators.",
+    "B": "Myocardial depression can occur in sepsis, but the warm extremities and widened pulse pressure indicate low systemic vascular resistance rather than isolated pump failure.",
+    "C": "Nitric oxide synthesis is increased, not decreased, in sepsis; tetrahydrobiopterin is a cofactor for nitric oxide synthase, and its availability does not account for the excess nitric oxide.",
+    "D": "Induction of monoamine oxidase would modestly lower catecholamine levels but is not the primary cause of septic vasodilation and would not produce this warm shock picture."
+  },
+  "educationalObjective": "In sepsis, cytokine-induced inducible nitric oxide synthase generates excess nitric oxide that raises cyclic GMP in vascular smooth muscle and causes vasodilatory shock.",
+  "source": "Generated from 1. Biochemistry.pdf - Amino Acid Metabolism: Nitric Oxide Synthesis"
+}
