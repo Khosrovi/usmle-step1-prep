@@ -1,0 +1,84 @@
+[
+{
+  "id": "immuno-067",
+  "subject": "Immunology",
+  "major_topic": "Autoimmune Diseases",
+  "subtopic": "Type 1 diabetes mellitus",
+  "difficulty": "medium",
+  "vignette": "An 11-year-old boy presents with 3 weeks of polyuria, polydipsia, and a 3 kg weight loss. He is thin and has acetone on his breath. Labs: random glucose 480 mg/dL, arterial pH 7.18, bicarbonate 12 mEq/L, and urine positive for ketones. His father notes that a paternal uncle and a cousin also have diabetes. Antibodies to glutamic acid decarboxylase (GAD65) are strongly positive, and C-peptide is low.",
+  "question": "What is the primary mechanism destroying his pancreatic beta cells?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Antibody-mediated complement destruction of beta cells mediated by GAD65 autoantibodies alone"
+    },
+    {
+      "id": "B",
+      "text": "Peripheral insulin resistance with compensatory beta-cell hypertrophy"
+    },
+    {
+      "id": "C",
+      "text": "Virally induced direct cytolysis of beta cells by enteroviruses"
+    },
+    {
+      "id": "D",
+      "text": "T cell-mediated autoimmune destruction of insulin-producing beta cells"
+    },
+    {
+      "id": "E",
+      "text": "A somatic mutation in the insulin receptor causing insulin resistance from birth"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Type 1 diabetes is a T cell-mediated autoimmune disease in which CD4+ and CD8+ T cells destroy pancreatic beta cells, leading to absolute insulin deficiency. Islet autoantibodies to GAD65, insulin, IA-2, and ZnT8 are markers of the disease process rather than the effector mechanism themselves. Genetic susceptibility at HLA-DR3 and HLA-DQ2/8 loci and environmental triggers contribute, and low C-peptide confirms near-complete beta-cell destruction. Absolute insulin deficiency permits ketogenesis, explaining his diabetic ketoacidosis.",
+  "explanation_incorrect": {
+    "A": "Autoantibodies such as anti-GAD65 serve as serologic markers of autoimmune insulitis; the destructive effector mechanism is T cell-mediated, not antibody and complement.",
+    "B": "Insulin resistance with compensatory hyperplasia describes type 2 diabetes, which is rare in a thin 11-year-old with ketoacidosis and positive autoantibodies.",
+    "C": "An enterovirus trigger has been proposed as an environmental factor, but direct cytolysis is not the established mechanism of beta-cell destruction.",
+    "E": "Insulin receptor mutations cause rare inherited insulin-resistant syndromes and do not produce autoantibody-positive ketoacidosis."
+  },
+  "educationalObjective": "Type 1 diabetes is caused by T cell-mediated autoimmune destruction of pancreatic beta cells, with islet autoantibodies serving as markers of the disease process.",
+  "source": "Generated from 2. Immunology.pdf - Autoimmune Diseases: Type 1 diabetes mellitus"
+},
+{
+  "id": "immuno-068",
+  "subject": "Immunology",
+  "major_topic": "Autoimmune Diseases",
+  "subtopic": "Type 1 diabetes mellitus",
+  "difficulty": "hard",
+  "vignette": "A 29-year-old woman with type 1 diabetes diagnosed at age 15 presents with fatigue, cold intolerance, and a swollen neck. Examination reveals a diffuse, nontender goiter. Labs: TSH 14 uIU/mL, free T4 low, anti-thyroid peroxidase antibodies positive, and HbA1c 8.9%. Over the past 2 years she has also reported dry mouth and fatigue, with a positive anti-tissue transglutaminase IgA antibody on screening, confirmed by duodenal biopsy. She asks why she needs screening for other diseases.",
+  "question": "Which of the following best explains her development of these additional conditions?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Deficiency of AIRE protein causing failure to delete autoreactive T cells in the thymus"
+    },
+    {
+      "id": "B",
+      "text": "Autoimmune polyendocrine-type clustering due to shared HLA-DR3/DQ2 susceptibility genes and a common autoimmune diathesis"
+    },
+    {
+      "id": "C",
+      "text": "Hyperglycemia directly inducing autoimmune thyroiditis through advanced glycation end products"
+    },
+    {
+      "id": "D",
+      "text": "Loss of pancreatic beta cells releasing antigen that cross-reacts with thyroid tissue"
+    },
+    {
+      "id": "E",
+      "text": "Chronic insulin injections activating complement and causing bystander autoimmune activation"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Type 1 diabetes is part of the polyglandular autoimmune cluster that includes Hashimoto thyroiditis, celiac disease, Addison disease, and vitiligo. These conditions share HLA-DR3 and HLA-DQ2 haplotypes, which shape antigen presentation and create a common susceptibility to loss of tolerance to several tissues. Because of this, patients with type 1 diabetes should be screened for thyroid dysfunction (TSH) and celiac disease (tissue transglutaminase antibodies) at intervals. Her goiter, low free T4, high TSH, and anti-TPO antibodies confirm Hashimoto thyroiditis.",
+  "explanation_incorrect": {
+    "A": "Deficiency of AIRE causes the rare autoimmune polyendocrinopathy-candidiasis-ectodermal dystrophy (APECED) syndrome, which presents in childhood with mucocutaneous candidiasis and hypoparathyroidism.",
+    "C": "Chronic hyperglycemia does not induce autoimmune thyroiditis; shared immune susceptibility underlies their co-occurrence.",
+    "D": "Antigen cross-reactivity between beta cells and thyroid has not been established as the cause; HLA-based shared susceptibility is the accepted explanation.",
+    "E": "Exogenous insulin is not known to cause bystander autoimmune activation, and insulin autoantibodies occur during disease progression, not as the cause of other organ-specific autoimmunity."
+  },
+  "educationalObjective": "Type 1 diabetes is associated with other organ-specific autoimmune diseases through shared HLA susceptibility, warranting screening for thyroid disease and celiac disease.",
+  "source": "Generated from 2. Immunology.pdf - Autoimmune Diseases: Type 1 diabetes mellitus"
+}
+]

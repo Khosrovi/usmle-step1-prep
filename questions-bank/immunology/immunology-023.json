@@ -1,0 +1,125 @@
+[
+{
+  "id": "immuno-069",
+  "subject": "Immunology",
+  "major_topic": "B Cell Activation",
+  "subtopic": "B cell receptor and signaling",
+  "difficulty": "medium",
+  "vignette": "A 34-year-old man is evaluated for recurrent bacterial pneumonia. Serum protein electrophoresis shows a complete absence of gamma globulin. Flow cytometry of peripheral blood demonstrates normal numbers of CD19+ B cells, but these cells fail to express surface immunoglobulin; mRNA for the mu heavy chain is absent on Northern blot, though lambda light chain mRNA is present normally. His B cells can be induced to express CD40 and MHC class II in vitro.",
+  "question": "Which component of the B cell receptor complex is most likely defective in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "CD3 zeta chain"
+    },
+    {
+      "id": "B",
+      "text": "Ig-alpha/Ig-beta (CD79a/CD79b) heterodimer"
+    },
+    {
+      "id": "C",
+      "text": "Lambda light chain"
+    },
+    {
+      "id": "D",
+      "text": "CD40 ligand (CD154)"
+    },
+    {
+      "id": "E",
+      "text": "TAP-1 transporter"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Surface immunoglobulin cannot be expressed or signal without its non-covalently associated signaling partners, the Ig-alpha/Ig-beta (CD79a/CD79b) heterodimer; the cytoplasmic immunoreceptor tyrosine-based activation motifs (ITAMs) of CD79 transmit the antigen signal because the immunoglobulin heavy chains themselves have only a very short cytoplasmic tail. Mutations of CD79a cause a rare autosomal recessive agammaglobulinemia that phenocopies X-linked agammaglobulinemia (BTK deficiency): B cells are present in the marrow but circulating B cells lack surface Ig and serum immunoglobulins are undetectable. The finding of normal CD40 and MHC class II induction in vitro indicates the B cell is otherwise functional and points away from a T cell-B cell interaction defect.",
+  "explanation_incorrect": {
+    "A": "The CD3 zeta chain is part of the T cell receptor complex and has no role in assembling or signaling through the B cell receptor.",
+    "C": "Lambda light chain mRNA and protein are intact in this patient, so the light chain is not the defective component.",
+    "D": "CD40 ligand is expressed on activated T cells and mediates class switching and germinal center formation, not BCR surface expression.",
+    "E": "TAP-1 transports peptides into the endoplasmic reticulum for MHC class I loading and is unrelated to immunoglobulin heavy chain expression."
+  },
+  "educationalObjective": "Surface immunoglobulin requires the CD79a/CD79b (Ig-alpha/Ig-beta) heterodimer for expression and ITAM-based signal transduction, and its loss causes an autosomal recessive agammaglobulinemia.",
+  "source": "Generated from 2. Immunology.pdf - B Cell Activation: B cell receptor and signaling"
+},
+{
+  "id": "immuno-076",
+  "subject": "Immunology",
+  "major_topic": "B Cell Activation",
+  "subtopic": "B cell receptor and signaling",
+  "difficulty": "medium",
+  "vignette": "A 7-year-old boy is referred for recurrent sinopulmonary infections since age 2, including otitis media and pneumonia. Serum immunoglobulins of all isotypes are almost undetectable, and B cells are absent from peripheral blood and lymph nodes; the tonsils are barely visible. He has a maternal uncle who had similar problems. Sequencing reveals a mutation in a gene encoding a Bruton tyrosine kinase domain.",
+  "question": "Which step in B cell signal transduction is most directly impaired by loss of Bruton tyrosine kinase (BTK)?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Generation of the BCR repertoire through V(D)J recombination"
+    },
+    {
+      "id": "B",
+      "text": "Phosphorylation of ITAM tyrosines on CD79a/CD79b after receptor cross-linking by SYK"
+    },
+    {
+      "id": "C",
+      "text": "Phospholipase C gamma 2 activation downstream of BCR ITAM phosphorylation, producing IP3 and DAG"
+    },
+    {
+      "id": "D",
+      "text": "Proteasomal degradation of NF-kB inhibitor following CD40 ligation"
+    },
+    {
+      "id": "E",
+      "text": "Assembly of the CD21/CD19/Cr2 coreceptor complex on the B cell surface"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "When antigen cross-links the BCR, the CD79a/CD79b ITAMs are phosphorylated by Src-family kinases, SYK is recruited, and BTK (a Tec-family kinase) is activated and phosphorylates phospholipase C gamma 2. PLC gamma 2 then cleaves PIP2 into IP3, which releases intracellular calcium, and DAG, which activates protein kinase C and Ras pathways, culminating in NF-kB and NFAT activation. Loss of BTK therefore interrupts the calcium signal after receptor engagement, blocking pre-B cell transition so that B cell development arrests at the pre-B stage. This explains X-linked agammaglobulinemia (Bruton agammaglobulinemia): absence of B cells, absent lymphoid follicles and undetectable immunoglobulins, with a male predominance and a positive family history.",
+  "explanation_incorrect": {
+    "A": "V(D)J recombination is mediated by RAG-1/RAG-2 and is intact in X-linked agammaglobulinemia; it is defective in severe combined immunodeficiency types caused by RAG mutations.",
+    "B": "Phosphorylation of CD79 ITAMs and SYK recruitment occur upstream of BTK, which acts only after this step has been completed.",
+    "D": "The CD40 pathway activates NF-kB through TRAF adaptors and occurs in costimulation by T cells; BTK's major role is in BCR signaling.",
+    "E": "The CD21/CD19 coreceptor is assembled independently of BTK and is still present on the B cell surface."
+  },
+  "educationalObjective": "BTK links BCR ITAM signaling to PLC gamma 2 and downstream calcium and NF-kB activation, and its deficiency causes X-linked agammaglobulinemia with absent B cells and immunoglobulins.",
+  "source": "Generated from 2. Immunology.pdf - B Cell Activation: B cell receptor and signaling"
+},
+{
+  "id": "immuno-081",
+  "subject": "Immunology",
+  "major_topic": "B Cell Activation",
+  "subtopic": "B cell receptor and signaling",
+  "difficulty": "easy",
+  "vignette": "A 12-year-old girl develops fever and a sore throat and is found to have a positive rapid strep test. Two weeks later she has hematuria and periorbital edema. Biopsy shows diffuse endocapillary proliferation with granular IgG and C3 deposits along glomerular capillary loops. Serology shows an elevated anti-streptolysin O titre and anti-dsDNA antibody is negative; total complement is low.",
+  "question": "Which mechanism generates the immune complexes that deposit in the glomeruli in this condition?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Direct binding of complement C3b to glomerular basement membrane without antibody"
+    },
+    {
+      "id": "B",
+      "text": "Streptococcal antigens activating T cells, which then deposit on the basement membrane"
+    },
+    {
+      "id": "C",
+      "text": "Nephritogenic streptococcal proteins binding onto the glomerular basement membrane followed by antibody binding"
+    },
+    {
+      "id": "D",
+      "text": "Anti-streptolysin O antibody cross-reacting with basement membrane collagen"
+    },
+    {
+      "id": "E",
+      "text": "Polyclonal activation of plasma cells with monoclonal IgG cryoglobulin deposition"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Post-streptococcal glomerulonephritis is the classic example of in situ immune complex formation: during a throat or skin infection, specific antibodies are generated against streptococcal proteins able to bind glomerular basement membrane components, and the complex forms at that site. IgG and C3 are seen as \"lumpy-bumpy\" granular deposits on immunofluorescence, and complement activation produces the low serum C3 typical of the disease (whereas anti-GBM disease, Goodpasture syndrome, gives linear deposits). This connects B cell activation and antibody production with the classic type III-like glomerular injury.",
+  "explanation_incorrect": {
+    "A": "A C3-only pattern without antibody would suggest C3 glomerulopathy rather than the granular IgG and C3 deposits of post-streptococcal disease.",
+    "B": "T cells do not deposit on basement membranes; they help B cells but have no structural role in the deposits.",
+    "D": "Anti-streptolysin O is used only as a marker of recent infection and does not cross-react with basement membrane collagen.",
+    "E": "Cryoglobulinemia with monoclonal deposition is not the mechanism of post-streptococcal glomerulonephritis, which is polyclonal and granular."
+  },
+  "educationalObjective": "Post-streptococcal glomerulonephritis results from in situ glomerular immune complex formation and complement activation, appearing as granular IgG/C3 deposits with low serum C3.",
+  "source": "Generated from 2. Immunology.pdf - B Cell Activation: B cell receptor and signaling"
+}
+]

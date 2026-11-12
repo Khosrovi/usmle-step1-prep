@@ -1,0 +1,84 @@
+[
+{
+  "id": "immuno-186",
+  "subject": "Immunology",
+  "major_topic": "Immunodeficiencies",
+  "subtopic": "Ataxia-telangiectasia",
+  "difficulty": "medium",
+  "vignette": "A 7-year-old boy is brought for progressive difficulty walking that began around age 3. Examination shows a wide-based ataxic gait, dysmetria, and involuntary choreoathetoid movements. Slit-lamp and direct examination of the eyes reveals conjunctival telangiectasias. He has had recurrent sinus infections and bronchitis. Serum shows markedly low IgA, low IgG2, and elevated alpha-fetoprotein. MRI shows cerebellar atrophy without mass lesion.",
+  "question": "Which of the following is the most likely underlying genetic and cellular defect in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Mutations in the ATM gene causing defective DNA double-strand break repair and increased radiosensitivity"
+    },
+    {
+      "id": "B",
+      "text": "Deletion of 22q11.2 causing cardiac defects, hypocalcemia, and absent thymus"
+    },
+    {
+      "id": "C",
+      "text": "Mutation in WAS gene causing defective actin cytoskeleton reorganization in lymphocytes"
+    },
+    {
+      "id": "D",
+      "text": "Mutation in CYBB causing defective NADPH oxidase in phagocytes"
+    },
+    {
+      "id": "E",
+      "text": "Deficiency of adenosine deaminase causing accumulation of toxic purine metabolites in lymphocytes"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Ataxia-telangiectasia is an autosomal recessive disorder caused by biallelic mutations in ATM, a kinase that orchestrates the DNA damage response to double-strand breaks. The phenotype combines progressive cerebellar ataxia beginning in early childhood, oculocutaneous telangiectasias, variable humoral and cellular immunodeficiency (especially low IgA, IgG2, and IgE), elevated alpha-fetoprotein, and a markedly increased risk of hematopoietic malignancies. Because DNA repair is faulty, patients are hypersensitive to ionizing radiation, whose use should be minimized in diagnostic and therapeutic settings.",
+  "explanation_incorrect": {
+    "B": "22q11.2 deletion (DiGeorge syndrome) causes cardiac defects, hypocalcemia, and thymic hypoplasia but not progressive ataxia with telangiectasias or elevated alpha-fetoprotein.",
+    "C": "WAS mutation causes Wiskott-Aldrich syndrome, characterized by microthrombocytopenia, eczema, and immunodeficiency rather than cerebellar degeneration.",
+    "D": "CYBB mutation causes chronic granulomatous disease, which presents with granulomatous infections and a defective respiratory burst.",
+    "E": "Adenosine deaminase deficiency causes a severe combined immunodeficiency with lymphopenia, presenting in infancy rather than ataxia at age 7."
+  },
+  "educationalObjective": "Ataxia-telangiectasia results from ATM mutations impairing DNA double-strand break repair, producing ataxia, telangiectasias, IgA deficiency, elevated AFP, and radiosensitivity.",
+  "source": "Generated from 2. Immunology.pdf - Immunodeficiencies: Ataxia-telangiectasia"
+},
+{
+  "id": "immuno-187",
+  "subject": "Immunology",
+  "major_topic": "Immunodeficiencies",
+  "subtopic": "Ataxia-telangiectasia",
+  "difficulty": "hard",
+  "vignette": "An 11-year-old girl with known ataxia-telangiectasia has had recurrent sinopulmonary infections treated with antibiotics and immunoglobulin replacement. She now presents with a painless neck mass. Lymph node biopsy shows a B-cell lymphoma. Her parents ask whether she should receive chest radiotherapy as part of treatment and whether her siblings need testing.",
+  "question": "Which of the following best describes the most important management consideration and risk associated with this disorder?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Radiotherapy is safe and recommended because DNA repair in this disorder affects only lymphocytes"
+    },
+    {
+      "id": "B",
+      "text": "Siblings need no testing because the disorder is X-linked"
+    },
+    {
+      "id": "C",
+      "text": "Radiation therapy should be minimized because ATM deficiency causes hypersensitivity and there is a high lifetime malignancy risk"
+    },
+    {
+      "id": "D",
+      "text": "Immunoglobulin replacement removes the need to monitor for malignancy"
+    },
+    {
+      "id": "E",
+      "text": "The main risk for this patient is anaphylaxis to blood products from IgA-containing plasma"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "ATM deficiency impairs repair of DNA double-strand breaks in all tissues, so patients are radiosensitive and should receive ionizing radiation sparingly; they also have a markedly elevated lifetime risk of lymphoreticular malignancies (leukemia and lymphoma) and some solid tumors, even when immunoglobulin replacement controls infections. Ataxia-telangiectasia is autosomal recessive, so siblings have a 25% risk if both parents are carriers and merit genetic counseling and testing. Malignancy surveillance is a key part of long-term care.",
+  "explanation_incorrect": {
+    "A": "ATM is a ubiquitous DNA repair kinase; radiosensitivity affects all tissues, and radiation can cause severe toxicity in these patients.",
+    "B": "Ataxia-telangiectasia is autosomal recessive, so both male and female siblings may be affected and should be offered testing.",
+    "D": "Immunoglobulin replacement reduces infection burden but does not reduce the intrinsic malignancy risk from defective DNA repair.",
+    "E": "Anaphylaxis to IgA in blood products is a concern in selective IgA deficiency with anti-IgA antibodies, not the central issue here."
+  },
+  "educationalObjective": "Ataxia-telangiectasia patients are radiosensitive and have a high lifetime malignancy risk, so radiation should be minimized and families counseled about autosomal recessive inheritance.",
+  "source": "Generated from 2. Immunology.pdf - Immunodeficiencies: Ataxia-telangiectasia"
+}
+]

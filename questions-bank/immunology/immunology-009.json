@@ -1,0 +1,125 @@
+[
+{
+  "id": "immuno-026",
+  "subject": "Immunology",
+  "major_topic": "Antigen Presentation and MHC",
+  "subtopic": "Costimulation and cross-presentation",
+  "difficulty": "medium",
+  "vignette": "A 44-year-old woman is treated with abatacept for rheumatoid arthritis. The drug is a fusion protein of the extracellular domain of CTLA-4 and the Fc portion of IgG1.",
+  "question": "By which mechanism does abatacept most directly reduce T-cell activation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It blocks the CD28-CD80/CD86 interaction by binding CD80/CD86 with high affinity"
+    },
+    {
+      "id": "B",
+      "text": "It blocks the CD40L-CD40 interaction between T cells and B cells"
+    },
+    {
+      "id": "C",
+      "text": "It binds PD-1 and blocks inhibitory signaling"
+    },
+    {
+      "id": "D",
+      "text": "It depletes T cells by complement-mediated lysis"
+    },
+    {
+      "id": "E",
+      "text": "It inhibits the signal transducer JAK3 in T cells"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Full activation of a naive T cell requires two signals: signal 1 is MHC-peptide recognition by the T-cell receptor, and signal 2 is costimulation, most classically CD28 on the T cell engaging CD80 (B7-1) or CD86 (B7-2) on the antigen-presenting cell. Abatacept contains the ligand-binding domain of CTLA-4, which has higher affinity for CD80/CD86 than CD28; it therefore binds and sequesters these ligands, preventing CD28 engagement. Without signal 2 the T cell becomes anergic rather than activated, so this fusion protein reduces the costimulatory support needed for rheumatoid arthritis flares.",
+  "explanation_incorrect": {
+    "B": "CD40L-CD40 blockade describes the mechanism of agents used to blunt T-cell help to B cells, but abatacept does not target that interaction.",
+    "C": "Blocking PD-1 would release an inhibitory brake; abatacept does not bind PD-1 and its effect is to remove a stimulatory signal.",
+    "D": "Abatacept is a fusion protein with an Fc region but its Fc does not mediate appreciable complement-mediated T-cell lysis; its role is sequestration of CD80/CD86.",
+    "E": "JAK3 inhibition describes tofacitinib, a small-molecule kinase inhibitor, not a CD80/CD86-binding fusion protein."
+  },
+  "educationalObjective": "Abatacept (CTLA-4-Ig) sequesters CD80/CD86 and blocks CD28-mediated costimulation, driving T cells toward anergy.",
+  "source": "Generated from 2. Immunology.pdf - Antigen Presentation and MHC: Costimulation and cross-presentation"
+},
+{
+  "id": "immuno-027",
+  "subject": "Immunology",
+  "major_topic": "Antigen Presentation and MHC",
+  "subtopic": "Costimulation and cross-presentation",
+  "difficulty": "hard",
+  "vignette": "A 51-year-old man undergoes excision of a melanoma. Tumor cells die and their proteins are endocytosed by dendritic cells. Laboratory studies show that dendritic cells can prime CD8+ T cells to these tumor antigens even though the dendritic cells are not themselves infected.",
+  "question": "Which of the following mechanisms best explains how dendritic cells activate CD8+ T cells against a tumor antigen taken up from outside the cell?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Tumor antigens are presented on MHC class II to CD8+ T cells"
+    },
+    {
+      "id": "B",
+      "text": "Tumor antigens enter the class I pathway only after infecting the dendritic cell"
+    },
+    {
+      "id": "C",
+      "text": "Tumor antigens are processed in lysosomes and loaded onto MHC class I with the help of HLA-DM"
+    },
+    {
+      "id": "D",
+      "text": "Exogenous tumor antigens are diverted from endosomes into the cytosol and cross-presented on MHC class I"
+    },
+    {
+      "id": "E",
+      "text": "CD8+ T cells acquire tumor peptides from the dendritic cell surface and bind them to their own MHC class I"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Cross-presentation is the process by which exogenous antigens taken up by dendritic cells are delivered from the endocytic compartment into the cytosol, degraded by the proteasome and loaded via TAP onto MHC class I for presentation to CD8+ T cells. This is the central mechanism for priming cytotoxic T cells against viruses that do not infect your own professional APCs, and against tumor antigens such as those from melanoma. The dendritic cell must also provide costimulation, which is why cross-presenting DCs are licensed by CD4+ T-cell help through CD40-CD40L, and why vaccines against tumors often target DC uptake and maturation.",
+  "explanation_incorrect": {
+    "A": "CD8+ T cells do not read antigen presented on MHC class II; only CD4+ T cells are class II-restricted, so class II presentation would recruit helper T cells rather than cytotoxic T cells.",
+    "B": "Cross-presentation is notable precisely because the dendritic cell need not be infected; the internalized cellular debris is routed to the cytosolic class I route.",
+    "C": "HLA-DM operates in the MHC class II pathway, and it does not load class I molecules.",
+    "E": "Peptide exchange onto another cell's MHC is not a recognized mechanism of antigen presentation; acquisition of foreign MHC-peptide complexes by trogocytosis is a curiosity, not the basis of tumor cross-priming."
+  },
+  "educationalObjective": "Cross-presentation lets dendritic cells deliver exogenous antigens, such as tumor and viral debris, to CD8+ T cells on MHC class I.",
+  "source": "Generated from 2. Immunology.pdf - Antigen Presentation and MHC: Costimulation and cross-presentation"
+},
+{
+  "id": "immuno-028",
+  "subject": "Immunology",
+  "major_topic": "Antigen Presentation and MHC",
+  "subtopic": "Costimulation and cross-presentation",
+  "difficulty": "easy",
+  "vignette": "A 62-year-old woman with type 2 diabetes develops a blistering foot infection. Pneumococcal vaccine response studies show that her circulating T cells have sensitized B cells but do not produce antibody without a second signal. She is found to be missing a required ligand expressed on activated T cells.",
+  "question": "Which interaction provides the essential costimulatory help that allows a T cell to activate a B cell?",
+  "options": [
+    {
+      "id": "A",
+      "text": "CD80 on the T cell engaging CD28 on the B cell"
+    },
+    {
+      "id": "B",
+      "text": "CD40L on the activated T cell engaging CD40 on the B cell"
+    },
+    {
+      "id": "C",
+      "text": "MHC class II on the T cell engaging the TCR on the B cell"
+    },
+    {
+      "id": "D",
+      "text": "CTLA-4 on the B cell engaging CD86 on the T cell"
+    },
+    {
+      "id": "E",
+      "text": "Fas ligand on the T cell engaging Fas on the B cell"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "B cells can internalize antigen via surface immunoglobulin, process it, and present peptide on MHC class II to a helper T cell. Recognition alone is not enough: the activated T cell must express CD40 ligand (CD40L, also called CD154), which binds CD40 on the B cell to provide cognate help, driving proliferation, immunoglobulin class switching, and affinity maturation. This is why patients with hyper-IgM syndrome, usually caused by CD40L deficiency, have normal or high IgM but low IgG, IgA, and IgE, which is the clue linking the pathway to a real disease.",
+  "explanation_incorrect": {
+    "A": "CD80 is expressed on antigen-presenting cells and engages CD28 on T cells, the reverse of the pairing described, and B cells do not use CD28 as their help receptor.",
+    "C": "MHC class II is expressed on the B cell, which presents to the T cell; T cells do not present class II to B-cell receptors.",
+    "D": "CTLA-4 is an inhibitory T-cell receptor, not a B-cell ligand that promotes help.",
+    "E": "Fas-FasL triggers apoptosis and is involved in peripheral deletion of activated lymphocytes, not in delivering positive help."
+  },
+  "educationalObjective": "Cognate help to B cells requires CD40L expressed on activated helper T cells binding CD40 on B cells, enabling class switching and affinity maturation.",
+  "source": "Generated from 2. Immunology.pdf - Antigen Presentation and MHC: Costimulation and cross-presentation"
+}
+]

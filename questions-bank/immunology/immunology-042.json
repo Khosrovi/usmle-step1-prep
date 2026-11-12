@@ -1,0 +1,166 @@
+[
+{
+  "id": "immuno-138",
+  "subject": "Immunology",
+  "major_topic": "Complement System",
+  "subtopic": "Complement functions (opsonization, chemotaxis, lysis)",
+  "difficulty": "easy",
+  "vignette": "A 5-year-old boy with a history of recurrent otitis media and pneumonia is evaluated after a lumbar puncture shows pneumococcal meningitis. His spleen is enlarged, and immunologic testing reveals normal immunoglobulins but low C3. The attending explains that one of the most important complement functions is to tag bacteria so that phagocytes can engulf them efficiently, and that this tag promotes ingestion through specific phagocyte receptors.",
+  "question": "Which complement fragment is the principal opsonin that enhances phagocytosis by binding phagocyte complement receptors after being deposited on bacterial surfaces?",
+  "options": [
+    {
+      "id": "A",
+      "text": "C5a"
+    },
+    {
+      "id": "B",
+      "text": "C5b"
+    },
+    {
+      "id": "C",
+      "text": "C3b"
+    },
+    {
+      "id": "D",
+      "text": "C4a"
+    },
+    {
+      "id": "E",
+      "text": "C9"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Opsonization is the process by which pathogens are coated with molecules that promote recognition and engulfment by phagocytes. C3b is the most important complement opsonin: it covalently attaches to microbial surfaces through its reactive thioester and is recognized by complement receptor 1 (CR1, CD35) on macrophages and neutrophils, while its degradation fragment iC3b binds CR3 (CD11b/CD18) and CR4. Coating with C3b, especially together with IgG, vastly increases phagocytic efficiency. Patients with C3 deficiency or C3 consumption suffer recurrent infections with encapsulated organisms precisely because opsonization fails.",
+  "explanation_incorrect": {
+    "A": "C5a is a chemoattractant and anaphylatoxin that acts in the fluid phase; it does not serve as a surface opsonin.",
+    "B": "C5b nucleates the membrane attack complex and is not a phagocytosis-promoting opsonin.",
+    "D": "C4a is a small cleavage fragment with weak anaphylatoxic and mast-cell-stimulating activity and no opsonizing role.",
+    "E": "C9 polymerizes to form the MAC pore and does not mediate phagocytic recognition."
+  },
+  "educationalObjective": "C3b is the principal complement opsonin, covalently coating pathogens for recognition by CR1 and CR3 on phagocytes.",
+  "source": "Generated from 2. Immunology.pdf - Complement System: Complement functions (opsonization, chemotaxis, lysis)"
+},
+{
+  "id": "immuno-139",
+  "subject": "Immunology",
+  "major_topic": "Complement System",
+  "subtopic": "Complement functions (opsonization, chemotaxis, lysis)",
+  "difficulty": "medium",
+  "vignette": "A 28-year-old man with a deep thigh wound from a bicycle accident develops fever, erythema, and a fluctuant abscess. Histology shows dense neutrophil recruitment into the wound. When the laboratory quantifies complement activation products in wound fluid, C5a levels substantially exceed C3a levels.",
+  "question": "Which complement fragment is the most potent chemoattractant for the neutrophils recruited to this wound?",
+  "options": [
+    {
+      "id": "A",
+      "text": "C3a"
+    },
+    {
+      "id": "B",
+      "text": "C5a"
+    },
+    {
+      "id": "C",
+      "text": "C5b"
+    },
+    {
+      "id": "D",
+      "text": "C1q"
+    },
+    {
+      "id": "E",
+      "text": "C4b"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "C5a is the most potent complement-derived chemotactic factor for neutrophils and monocytes, signaling through the C5a receptor (C5aR/CD88) to drive directed migration, adhesion molecule upregulation, and priming of the oxidative burst and degranulation. It also triggers mast cell and basophil degranulation, contributing to the vasodilation and increased vascular permeability that help deliver cells to the infection site. Although C3a is also an anaphylatoxin, it is a much weaker chemoattractant than C5a, which explains the higher C5a-to-C3a ratio measured in this wound.",
+  "explanation_incorrect": {
+    "A": "C3a is an anaphylatoxin that stimulates mast cells but is far less potent than C5a for neutrophil recruitment.",
+    "C": "C5b is the membrane-binding fragment that initiates MAC assembly and has no chemotactic function.",
+    "D": "C1q binds immune complexes to initiate the classical pathway and is not a neutrophil chemoattractant.",
+    "E": "C4b is the targeting component of the classical convertase that degrades to C4d and has no chemotactic role."
+  },
+  "educationalObjective": "C5a is the most potent complement-derived chemoattractant for neutrophils, whereas C3a is a weaker anaphylatoxin with minimal chemotactic potency.",
+  "source": "Generated from 2. Immunology.pdf - Complement System: Complement functions (opsonization, chemotaxis, lysis)"
+},
+{
+  "id": "immuno-140",
+  "subject": "Immunology",
+  "major_topic": "Complement System",
+  "subtopic": "Complement functions (opsonization, chemotaxis, lysis)",
+  "difficulty": "medium",
+  "vignette": "A 58-year-old woman is diagnosed with early-stage serous ovarian cancer. Her oncologist explains that malignant cells often overexpress complement regulatory proteins on their surfaces to resist complement lysis. Research into complement-based therapies aims to restore the ability of the immune system to lyse tumor cells directly by exploiting the terminal pathway.",
+  "question": "Which complement structure is directly responsible for osmotic lysis of a target cell?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The C3bBb convertase"
+    },
+    {
+      "id": "B",
+      "text": "The C4b2a convertase"
+    },
+    {
+      "id": "C",
+      "text": "C3a and C5a"
+    },
+    {
+      "id": "D",
+      "text": "The C5b-9 membrane attack complex"
+    },
+    {
+      "id": "E",
+      "text": "CR1 on the target cell membrane"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "The terminal step of complement generates the membrane attack complex, a cylindrical pore formed by one molecule each of C5b, C6, C7, and C8 plus multiple polymerized C9 molecules. Insertion of this complex into a membrane creates an aqueous channel that permits free passage of ions and water, leading to osmotic swelling and lysis of the target cell. This mechanism is particularly effective against Gram-negative bacteria and can lyse virus-infected and tumor cells when membrane regulators such as CD59 are absent or overwhelmed. Tumors that overexpress CD46, CD55, and CD59 are therefore relatively resistant to complement lysis.",
+  "explanation_incorrect": {
+    "A": "The C3bBb convertase is an enzyme complex that cleaves C3 and is not membrane-inserting, so it cannot itself lyse cells.",
+    "B": "The classical convertase C4b2a generates opsonins and anaphylatoxins but does not form membrane pores.",
+    "C": "C3a and C5a are soluble inflammatory and chemotactic mediators that lack lytic activity.",
+    "E": "CR1 is a complement receptor that binds C3b to promote immune complex clearance and is not a lytic pore."
+  },
+  "educationalObjective": "The C5b-9 membrane attack complex creates a membrane pore that causes osmotic lysis of target cells, while CD59 and other regulators protect self cells.",
+  "source": "Generated from 2. Immunology.pdf - Complement System: Complement functions (opsonization, chemotaxis, lysis)"
+},
+{
+  "id": "immuno-141",
+  "subject": "Immunology",
+  "major_topic": "Complement System",
+  "subtopic": "Complement functions (opsonization, chemotaxis, lysis)",
+  "difficulty": "hard",
+  "vignette": "A 30-year-old woman with systemic lupus erythematosus has very low levels of early classical complement components but a normal total complement. Biopsy shows mesangial immune deposits with minimal inflammation. Her nephrologist explains that early complement components help clear immune complexes and that their deficiency paradoxically worsens lupus rather than protecting against it.",
+  "question": "In the presence of C1q or C4 deficiency, which complement function becomes most impaired, thereby favoring lupus and immune complex disease?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Solubilization and clearance of immune complexes by CR1 on erythrocytes and fixed phagocytes"
+    },
+    {
+      "id": "B",
+      "text": "Formation of the membrane attack complex on Gram-negative bacteria"
+    },
+    {
+      "id": "C",
+      "text": "Neutrophil chemotaxis mediated by C5a"
+    },
+    {
+      "id": "D",
+      "text": "Mast cell degranulation mediated by C3a"
+    },
+    {
+      "id": "E",
+      "text": "Complement receptor 3-mediated phagocytosis of C3b-coated particles"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "The classical pathway has a specialized role in immune complex homeostasis. C1q and other early components bind immune complexes and promote their coating with C3b; erythrocytes expressing CR1 (CD35) then ferry these complexes to the liver and spleen, where fixed phagocytes remove them. Deficiency of C1q, C1r, C1s, C4, or C2 impairs this clearance, allowing complexes to persist and deposit in tissues, which promotes SLE-like autoimmunity. C1q also participates in the clearance of apoptotic debris, and failure of this process exposes self antigens and increases autoantibody formation. This is why hereditary C1q and C2 deficiencies are strongly associated with lupus.",
+  "explanation_incorrect": {
+    "B": "MAC formation depends on terminal components and is not the primary deficit in early classical pathway deficiency.",
+    "C": "C5a-mediated chemotaxis remains largely intact because C5 can still be cleaved through alternative pathway amplification.",
+    "D": "C3a generation is only partially reduced and is not the main mechanism linking these deficiencies to lupus.",
+    "E": "Phagocytosis of C3b-opsonized particles can be sustained by alternative pathway amplification and is not the dominant functional deficit."
+  },
+  "educationalObjective": "Early classical pathway components, especially C1q and C4, are essential for immune complex solubilization and clearance; their deficiency strongly predisposes to SLE-like disease.",
+  "source": "Generated from 2. Immunology.pdf - Complement System: Complement functions (opsonization, chemotaxis, lysis)"
+}
+]

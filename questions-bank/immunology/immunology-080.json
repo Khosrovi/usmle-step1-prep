@@ -1,0 +1,248 @@
+[
+{
+  "id": "immuno-262",
+  "subject": "Immunology",
+  "major_topic": "T Cell Activation and Cytokines",
+  "subtopic": "Interleukins and cytokines",
+  "difficulty": "medium",
+  "vignette": "A 28-year-old woman presents with a 3-week history of pallor, fatigue, and exertional dyspnea. She has also noticed joint pains and intermittent fevers. Laboratory studies show normocytic anemia with a hemoglobin of 8.1 g/dL, an elevated ESR, and markedly elevated serum ferritin. Her rheumatologist documents active systemic juvenile idiopathic arthritis and considers tocilizumab.",
+  "question": "The anemia in this patient is best attributed to which cytokine that induces hepatic hepcidin and drives the acute-phase response?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Interleukin-12, after being produced by dendritic cells"
+    },
+    {
+      "id": "B",
+      "text": "Interleukin-2, after being produced by activated helper T cells"
+    },
+    {
+      "id": "C",
+      "text": "Interleukin-10, after being secreted by regulatory T cells"
+    },
+    {
+      "id": "D",
+      "text": "Interleukin-4, after being produced by Th2 lymphocytes"
+    },
+    {
+      "id": "E",
+      "text": "Interleukin-6, after being produced by macrophages and endothelial cells"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Interleukin-6 is a pleiotropic cytokine produced by macrophages, endothelial cells, and T cells in response to inflammatory stimuli. It drives hepatic synthesis of acute-phase reactants such as C-reactive protein and the iron-regulatory hormone hepcidin, which blocks ferroportin and reduces both dietary iron absorption and iron release from macrophages, producing the anemia of chronic disease despite adequate iron stores. Tocilizumab, an anti-interleukin-6 receptor antibody, is effective in systemic juvenile idiopathic arthritis and rapidly corrects the fever, ferritin, and inflammatory markers. Interleukin-6 is a major pyrogenic cytokine, explaining her fevers.",
+  "explanation_incorrect": {
+    "A": "Interleukin-12 promotes Th1 differentiation and interferon gamma production and is not the principal inducer of hepcidin or the acute-phase hepatic response.",
+    "B": "Interleukin-2 is the T cell growth factor that drives proliferation of T cells and NK cells; it does not mediate anemia of chronic disease.",
+    "C": "Interleukin-10 is an anti-inflammatory and immunosuppressive cytokine that inhibits macrophage function, the opposite of the proinflammatory effect needed here.",
+    "D": "Interleukin-4 promotes Th2 responses, IgE class switching, and alternative macrophage activation, not hepcidin-driven hypoferremia."
+  },
+  "educationalObjective": "Interleukin-6 is the key cytokine driving the hepatic acute-phase response and hepcidin-mediated anemia of chronic disease, and it is targeted by tocilizumab.",
+  "source": "Generated from 2. Immunology.pdf - T Cell Activation and Cytokines: Interleukins and cytokines"
+},
+{
+  "id": "immuno-263",
+  "subject": "Immunology",
+  "major_topic": "T Cell Activation and Cytokines",
+  "subtopic": "Interleukins and cytokines",
+  "difficulty": "hard",
+  "vignette": "A 22-year-old man presents with fever, a swollen tender cervical lymph node, and severe sore throat. Examination reveals greyish, adherent pseudomembranes over the tonsils and uvula. A Gram stain of the membrane shows gram-positive rods in a Chinese-letter arrangement, and cultures grow a toxin-producing organism. The toxin is known to ADP-ribosylate elongation factor-2 in host cells.",
+  "question": "The systemic toxicity in this patient is best explained by which mechanism of cytokine dysregulation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Superantigen cross-linking of MHC class II to the V-beta region of many T cell receptors, causing non-specific T cell activation"
+    },
+    {
+      "id": "B",
+      "text": "Recognition of processed toxin peptides presented on MHC class II by a single antigen-specific T cell clone"
+    },
+    {
+      "id": "C",
+      "text": "Perforin-mediated killing of macrophages and dendritic cells by cytotoxic T cells"
+    },
+    {
+      "id": "D",
+      "text": "Inhibition of elongation factor-2 in hepatocytes leading to direct ischemic necrosis"
+    },
+    {
+      "id": "E",
+      "text": "Blockade of the CD28 co-stimulatory signal, resulting in T cell anergy"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "This patient has diphtheria, caused by Corynebacterium diphtheriae, whose toxin ADP-ribosylates elongation factor-2 and halts protein synthesis in target cells, explaining the pseudomembrane, myocarditis, and neuropathy. The systemic features of fever and lymphadenopathy also reflect cytokine release driven by superantigen activity. Bacterial toxins such as staphylococcal toxic shock syndrome toxin-1 and streptococcal pyrogenic exotoxins bind MHC class II outside the antigen-binding groove and cross-link the V-beta region of the T cell receptor, bypassing the requirement for specific peptide recognition. This activates a large fraction of all T cells at once, releasing massive amounts of interferon gamma, interleukin-2, and TNF, which produce the shocklike inflammatory state. Prototypical superantigen diseases are toxic shock syndromes.",
+  "explanation_incorrect": {
+    "B": "Conventional peptide recognition is clone-specific and activates only a small fraction of T cells, which cannot explain a nonspecific systemic cascade.",
+    "C": "Cytotoxic T cell killing of antigen-presenting cells would dampen, not amplify, the massive T cell activation seen here.",
+    "D": "Elongation factor-2 inhibition explains local tissue injury such as myocarditis, but the diffuse systemic inflammation reflects superantigen-driven cytokine release.",
+    "E": "Superantigens enhance T cell activation and do not block CD28 co-stimulation, which would favor anergy rather than cytokine storm."
+  },
+  "educationalObjective": "Superantigens such as the diphtheria and toxic shock toxins cross-link MHC class II with the T cell receptor V-beta region, causing nonspecific polyclonal T cell activation and cytokine-mediated systemic toxicity.",
+  "source": "Generated from 2. Immunology.pdf - T Cell Activation and Cytokines: Interleukins and cytokines"
+},
+{
+  "id": "immuno-264",
+  "subject": "Immunology",
+  "major_topic": "T Cell Activation and Cytokines",
+  "subtopic": "Interleukins and cytokines",
+  "difficulty": "medium",
+  "vignette": "An 8-month-old boy is admitted with recurrent perianal abscesses, otitis media, and a persistent desquamating rash since early infancy. Skin biopsy shows sparse inflammatory infiltrate in the dermis. Laboratory studies reveal markedly elevated IgE, peripheral eosinophilia, and defective chemotaxis of neutrophils and monocytes. He has had no life-threatening viral infections or sepsis.",
+  "question": "Deficiency of which cytokine most likely accounts for this presentation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Interferon gamma"
+    },
+    {
+      "id": "B",
+      "text": "Interleukin-5"
+    },
+    {
+      "id": "C",
+      "text": "Interleukin-2"
+    },
+    {
+      "id": "D",
+      "text": "Transforming growth factor beta"
+    },
+    {
+      "id": "E",
+      "text": "Interleukin-7"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "This infant has Omenn syndrome-like features in the setting of severe combined immunodeficiency, and the specific pattern of absent T cells, intact B cells, and defective lymphocyte survival fits interleukin-7 receptor alpha (IL-7R alpha) deficiency. Interleukin-7 signals through the common gamma chain to JAK3/STAT5 and is essential for T cell survival, thymic development, and homeostatic expansion of naive T cells. Loss of IL-7 signaling produces profound T cell lymphopenia with antibody deficiency. In these defects, oligoclonal autoreactive T cells can expand and produce the desquamating rash, eosinophilia, and elevated IgE (Omenn-like phenotype). Gamma chain defects (X-linked SCID) show the same reliance on IL-7 signaling.",
+  "explanation_incorrect": {
+    "A": "Interferon gamma deficiency predisposes to disseminated mycobacterial infection rather than to T cell lymphopenia with eczematous rash.",
+    "B": "Interleukin-5 drives eosinophil differentiation and is elevated rather than deficient in this presentation; deficiency would not cause absent T cells.",
+    "C": "Interleukin-2 supports T cell proliferation after activation but is not required for early thymic T cell development; its absence does not mimic SCID.",
+    "D": "Transforming growth factor beta is immunosuppressive and promotes regulatory T cell function; loss of T cell survival in SCID is not explained by it."
+  },
+  "educationalObjective": "Interleukin-7 receptor alpha deficiency causes T-negative SCID because IL-7 signaling through the common gamma chain is required for T cell development and survival.",
+  "source": "Generated from 2. Immunology.pdf - T Cell Activation and Cytokines: Interleukins and cytokines"
+},
+{
+  "id": "immuno-265",
+  "subject": "Immunology",
+  "major_topic": "T Cell Activation and Cytokines",
+  "subtopic": "Interleukins and cytokines",
+  "difficulty": "easy",
+  "vignette": "A 19-year-old man presents with a painless penile ulcer with a clean, indurated base that appeared 3 weeks ago and has since resolved without treatment. He now reports malaise and low-grade fever. Rapid plasma reagin is positive and confirmatory testing is positive. He asks what will happen without treatment and is told about the later stages of disease.",
+  "question": "Which cytokine produced by plasma cells is the principal target of the autoantibody-like effect that can disappear after adequate penicillin treatment?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Interleukin-2"
+    },
+    {
+      "id": "B",
+      "text": "Interleukin-12"
+    },
+    {
+      "id": "C",
+      "text": "Interleukin-4"
+    },
+    {
+      "id": "D",
+      "text": "Vascular endothelial growth factor"
+    },
+    {
+      "id": "E",
+      "text": "Tumor necrosis factor beta"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Interleukin-4 is the master cytokine of Th2 differentiation and is central to class switching of B cells to IgE and to IgG4 and IgE-mediated responses. In congenital syphilis, the neonate can develop a nephrotic syndrome from membranous nephropathy caused by immune complex deposition; the classic board association is that interleukins provide B cell help and that Th2 cytokines (IL-4, IL-5, IL-13) drive IgE and alternative macrophage activation. More relevant here, IL-4 promotes humoral responses and is necessary for B cell differentiation into antibody-secreting plasma cells. In secondary syphilis the vigorous humoral response is reflected in high titers of nontreponemal antibody, which fall after effective penicillin therapy; the cytokine that sustains this humoral response is IL-4 derived from T follicular helper cells.",
+  "explanation_incorrect": {
+    "A": "Interleukin-2 is primarily a T cell growth factor and, although T follicular helper cells do produce it, it is not the defining B cell helper cytokine.",
+    "B": "Interleukin-12 is a Th1-polarizing cytokine from dendritic cells and macrophages that promotes cell-mediated immunity, not antibody production.",
+    "D": "Vascular endothelial growth factor is an angiogenesis factor and is unrelated to B cell class switching or the humoral response to Treponema pallidum.",
+    "E": "Tumor necrosis factor beta (lymphotoxin) increases MHC class I expression and is not the principal B cell differentiation cytokine."
+  },
+  "educationalObjective": "Interleukin-4 is the key Th2 cytokine driving B cell differentiation, class switching to IgE, and humoral immunity, whereas IL-12 promotes Th1 cell-mediated responses.",
+  "source": "Generated from 2. Immunology.pdf - T Cell Activation and Cytokines: Interleukins and cytokines"
+},
+{
+  "id": "immuno-266",
+  "subject": "Immunology",
+  "major_topic": "T Cell Activation and Cytokines",
+  "subtopic": "Interleukins and cytokines",
+  "difficulty": "medium",
+  "vignette": "A 62-year-old woman with metastatic renal cell carcinoma and a history of autoimmune hypothyroidism is being considered for a novel immune-stimulating agent. On day 6 of the infusion she develops a temperature of 38.9 C, hypotension, and generalized erythroderma. Serum ferritin exceeds 10,000 ng/mL, fibrinogen is low, and triglycerides are elevated. She becomes confused and requires transfer to the intensive care unit.",
+  "question": "This patient's presentation is best explained by massive release of which cytokine combination?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Interleukin-4 plus interleukin-13"
+    },
+    {
+      "id": "B",
+      "text": "Interleukin-10 plus transforming growth factor beta"
+    },
+    {
+      "id": "C",
+      "text": "Interleukin-5 plus interleukin-9"
+    },
+    {
+      "id": "D",
+      "text": "Interleukin-1 plus interleukin-6 plus tumor necrosis factor and interferon gamma"
+    },
+    {
+      "id": "E",
+      "text": "Interleukin-7 plus interleukin-15 alone"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "This is cytokine release syndrome, seen with T cell-engaging and immune-activating therapies such as high-dose interleukin-2, CAR T cells, and bispecific T cell engagers. Activated T cells and macrophages release a burst of proinflammatory cytokines, including interleukin-1, interleukin-6, tumor necrosis factor, and interferon gamma, producing fever, hypotension, erythroderma, and capillary leak. The constellation of hyperferritinemia, hypofibrinogenemia, cytopenias, and hypertriglyceridemia constitutes secondary hemophagocytic lymphohistiocytosis, in which macrophage activation is driven by excessive interferon gamma and inability to terminate T cell activation. Treatment includes stopping the agent, supportive care, and tocilizumab or anakinra for severe disease; steroids are used for refractory cases.",
+  "explanation_incorrect": {
+    "A": "Interleukin-4 and interleukin-13 drive Th2 and allergic responses and cannot produce a hyperinflammatory state with hyperferritinemia and hypofibrinogenemia.",
+    "B": "Interleukin-10 and transforming growth factor beta are suppressive regulatory cytokines that would dampen rather than generate a cytokine storm.",
+    "C": "Interleukin-5 and interleukin-9 promote eosinophil and mast cell responses, respectively, and are not the mediators of this syndrome.",
+    "E": "Interleukin-7 and interleukin-15 support T cell and NK cell survival but are not the effector cytokines responsible for fever, capillary leak, and macrophage activation."
+  },
+  "educationalObjective": "Cytokine release syndrome is a macrophage- and T cell-driven storm of IL-1, IL-6, TNF, and interferon gamma, often complicated by secondary hemophagocytic lymphohistiocytosis.",
+  "source": "Generated from 2. Immunology.pdf - T Cell Activation and Cytokines: Interleukins and cytokines"
+},
+{
+  "id": "immuno-267",
+  "subject": "Immunology",
+  "major_topic": "T Cell Activation and Cytokines",
+  "subtopic": "Interleukins and cytokines",
+  "difficulty": "hard",
+  "vignette": "A 3-week-old boy, born of a nonconsanguineous marriage, presents with chronic diarrhea, failure to thrive, and persistent oral candidiasis. He has diffuse erythematous scaling of the skin. Total lymphocyte count is normal, but CD3-positive T cells are nearly absent while B cells and NK cells are present. An older sibling died of severe infection in infancy. Genetic testing shows a defect in the gene encoding the shared signaling subunit of multiple cytokine receptors.",
+  "question": "The defective receptor subunit in this patient normally transduces signals for which of the following cytokine groups?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Interleukin-2, interleukin-4, interleukin-7, and interleukin-15 through the common gamma chain"
+    },
+    {
+      "id": "B",
+      "text": "Interleukin-1, interleukin-6, and interleukin-18 through the common beta chain"
+    },
+    {
+      "id": "C",
+      "text": "Interferon alpha and interferon beta through the interleukin-10 receptor"
+    },
+    {
+      "id": "D",
+      "text": "Interleukin-12 and interleukin-23 through the interleukin-2 receptor alpha chain"
+    },
+    {
+      "id": "E",
+      "text": "Interleukin-8 and interleukin-1 through the toll-like receptor common adaptor MyD88"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "This infant has X-linked severe combined immunodeficiency caused by mutation in IL2RG, which encodes the common gamma chain (gamma-c). The gamma-c is shared by the receptors for interleukin-2, interleukin-4, interleukin-7, interleukin-9, interleukin-15, and interleukin-21; the mnemonic is that the gamma-c receptor is used by these cytokines, and JAK3 associates with it in signaling. Because IL-7 is required for T cell thymic development and IL-15 for NK cell development, X-linked SCID classically shows absent T cells and absent NK cells with present but nonfunctional B cells, despite normal total lymphocyte counts and the typical maternal CD4+ T cell engraftment. Defective signaling leads to Candida, diarrhea, and failure to thrive; treatment is hematopoietic stem cell transplantation or gene therapy.",
+  "explanation_incorrect": {
+    "B": "There is no common beta chain serving IL-1 and IL-6; the shared gp130 subunit transmits IL-6 family signals and is not the defect here.",
+    "C": "Interferon alpha and beta signal through a distinct type I interferon receptor, not through the interleukin-10 receptor.",
+    "D": "IL-12 and IL-23 share an IL-12R-beta1/p40 axis, and the IL-2 receptor alpha chain (CD25) is not the common cytokine receptor subunit in SCID.",
+    "E": "IL-8 signals through CXCR chemokine receptors, and MyD88 is an innate adaptor, not a cytokine receptor subunit."
+  },
+  "educationalObjective": "The common gamma chain (IL2RG) is shared by receptors for IL-2, IL-4, IL-7, IL-9, IL-15, and IL-21; its defect causes X-linked SCID with absent T and NK cells.",
+  "source": "Generated from 2. Immunology.pdf - T Cell Activation and Cytokines: Interleukins and cytokines"
+}
+]

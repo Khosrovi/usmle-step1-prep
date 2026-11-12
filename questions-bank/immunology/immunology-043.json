@@ -1,0 +1,125 @@
+[
+{
+  "id": "immuno-142",
+  "subject": "Immunology",
+  "major_topic": "Complement System",
+  "subtopic": "Complement regulation and hereditary angioedema",
+  "difficulty": "medium",
+  "vignette": "A 24-year-old woman has had two episodes in the past year of sudden, nonpruritic swelling of the lips and tongue that began without urticaria and resolved over two days. She also had an episode of severe abdominal cramping and vomiting. Her father had similar attacks. Her provider prescribes ecallantide and explains that this drug inhibits a plasma protease that generates bradykinin.",
+  "question": "Which of the following best describes the mechanism of this patient's disorder?",
+  "options": [
+    {
+      "id": "A",
+      "text": "IgE cross-linking on mast cells causing histamine release"
+    },
+    {
+      "id": "B",
+      "text": "Deficiency of decay-accelerating factor causing intravascular hemolysis"
+    },
+    {
+      "id": "C",
+      "text": "Deficiency of CD59 causing uncontrolled MAC formation on endothelial cells"
+    },
+    {
+      "id": "D",
+      "text": "Overactivity of C3 convertase causing excess C3a and histamine-mediated angioedema"
+    },
+    {
+      "id": "E",
+      "text": "Loss of C1 inhibitor activity leading to unregulated plasma kallikrein and bradykinin overproduction"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "This patient has hereditary angioedema, typically caused by autosomal dominant deficiency (type I) or dysfunction (type II) of C1 inhibitor, a serine protease inhibitor of the serpin family. C1 inhibitor normally inactivates C1r and C1s as well as plasma kallikrein and factor XIIa. Its loss unleashes the contact (kallikrein-kinin) system, generating excess bradykinin, which increases vascular permeability and produces the characteristic episodic, nonpruritic swelling of the face, lips, larynx, and bowel wall with abdominal pain. The disorder is bradykinin-driven, so it responds to C1 inhibitor concentrate, ecallantide, or icatibant rather than to antihistamines.",
+  "explanation_incorrect": {
+    "A": "Mast cell IgE-mediated histamine release causes urticaria and allergic angioedema, which is typically itchy and acute, unlike hereditary angioedema.",
+    "B": "Decay-accelerating factor deficiency causes paroxysmal nocturnal hemoglobinuria-type hemolysis, not episodic angioedema or abdominal pain.",
+    "C": "CD59 deficiency leads to complement-mediated hemolysis, not bradykinin-mediated swelling.",
+    "D": "Hereditary angioedema is not a C3 convertase hyperactivity disorder; C3a-mediated histamine release is not the mechanism of swelling in C1 inhibitor deficiency."
+  },
+  "educationalObjective": "Hereditary angioedema results from C1 inhibitor deficiency or dysfunction, causing bradykinin-mediated nonpruritic swelling that responds to C1 inhibitor, icatibant, or ecallantide.",
+  "source": "Generated from 2. Immunology.pdf - Complement System: Complement regulation and hereditary angioedema"
+},
+{
+  "id": "immuno-143",
+  "subject": "Immunology",
+  "major_topic": "Complement System",
+  "subtopic": "Complement regulation and hereditary angioedema",
+  "difficulty": "medium",
+  "vignette": "A 32-year-old man is brought to the emergency department with inspiratory stridor, hoarseness, and difficulty swallowing. He has no urticaria and ate no new foods. He reports two prior episodes of hand swelling and one episode of severe abdominal pain. Labs drawn during the attack show normal C3, low C4, and a markedly reduced C1 inhibitor level. His father had recurrent abdominal pain episodes and died of laryngeal obstruction.",
+  "question": "If this attack were left untreated, his laryngeal edema could cause death by which mechanism, and which laboratory finding best confirms the diagnosis during an attack?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Anaphylaxis via IgE; high serum tryptase"
+    },
+    {
+      "id": "B",
+      "text": "Pulmonary embolism; elevated D-dimer"
+    },
+    {
+      "id": "C",
+      "text": "Mast cell activation; elevated urinary histamine"
+    },
+    {
+      "id": "D",
+      "text": "Airway obstruction from bradykinin-mediated edema; low C4 and low C1 inhibitor"
+    },
+    {
+      "id": "E",
+      "text": "Complement-consumptive shock; low C3 and low CH50"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "In hereditary angioedema, episodic accumulation of bradykinin increases vascular permeability in the deep dermis and submucosa, and laryngeal involvement can progress to fatal airway obstruction. Attacks are not IgE-mediated, so antihistamines, epinephrine, and glucocorticoids are largely ineffective; C1 inhibitor concentrate, icatibant (a bradykinin B2 receptor antagonist), and ecallantide (a kallikrein inhibitor) are the effective therapies. During an attack, uninhibited C1s continuously cleaves C4, so C4 falls while C1 inhibitor is consumed and measurably low; that combination confirms the diagnosis. Levels can normalize between attacks, so testing during an episode is most informative.",
+  "explanation_incorrect": {
+    "A": "Anaphylaxis is IgE-mediated mast cell degranulation with tryptase elevation and urticaria, which is not the mechanism of hereditary angioedema.",
+    "B": "Pulmonary embolism does not cause recurrent facial and abdominal swelling, and D-dimer is not a confirmatory test for this disorder.",
+    "C": "Elevated urinary histamine suggests mast cell activation seen in allergic reactions rather than bradykinin-mediated angioedema.",
+    "E": "C3 levels are typically normal in hereditary angioedema, and the CH50 is often normal because MAC formation is not severely impaired."
+  },
+  "educationalObjective": "Hereditary angioedema laryngeal attacks cause death via bradykinin-mediated airway edema, and during an attack a low C4 with low C1 inhibitor is the diagnostic laboratory pattern.",
+  "source": "Generated from 2. Immunology.pdf - Complement System: Complement regulation and hereditary angioedema"
+},
+{
+  "id": "immuno-144",
+  "subject": "Immunology",
+  "major_topic": "Complement System",
+  "subtopic": "Complement regulation and hereditary angioedema",
+  "difficulty": "hard",
+  "vignette": "A 27-year-old woman with hereditary angioedema on a stable regimen starts a combined oral contraceptive pill and has three attacks in one month, including one with tongue swelling. Her physician notes that estrogens can exacerbate her condition. She asks why her disease causes swelling rather than the infections or hemolysis seen with other complement defects.",
+  "question": "Which of the following best accounts for the fact that C1 inhibitor deficiency produces angioedema despite the protein also regulating the classical pathway?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Estrogen directly activates C1q, bypassing C1 inhibitor"
+    },
+    {
+      "id": "B",
+      "text": "C1 inhibitor is the principal inhibitor of kallikrein and factor XIIa, so its loss mainly increases bradykinin production"
+    },
+    {
+      "id": "C",
+      "text": "C1 inhibitor deficiency causes C5 convertase overactivity that generates C5a"
+    },
+    {
+      "id": "D",
+      "text": "The alternative pathway completely fails in C1 inhibitor deficiency"
+    },
+    {
+      "id": "E",
+      "text": "C1 inhibitor blocks mannose-binding lectin recognition of pathogens"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "C1 inhibitor is a multifunctional serpin that inactivates C1r and C1s of the classical pathway, MASP-1 and MASP-2 of the lectin pathway, and plasma kallikrein and factor XIIa of the contact system. Its deficiency manifests predominantly as angioedema because the kinin-generating arm is exquisitely sensitive to C1 inhibitor levels: loss of kallikrein inhibition allows excess cleavage of high-molecular-weight kininogen into bradykinin. Estrogens can lower C1 inhibitor levels or increase its consumption, which is why attacks cluster with oral contraceptive use, pregnancy, and menses. The classical pathway is also continuously activated, which explains the persistently low C4.",
+  "explanation_incorrect": {
+    "A": "Estrogen does not directly activate C1q; it modulates C1 inhibitor levels and kinin generation instead.",
+    "C": "Terminal pathway overactivity is not the mechanism of swelling, and C5a generation does not drive bradykinin-mediated edema.",
+    "D": "The alternative pathway is not abolished in C1 inhibitor deficiency; it continues to function and contributes to C3 turnover.",
+    "E": "C1 inhibitor does inhibit MASPs and thereby modestly restrains the lectin pathway, but the dominant symptom mechanism is bradykinin excess rather than loss of microbial recognition."
+  },
+  "educationalObjective": "C1 inhibitor deficiency produces bradykinin-driven angioedema because kinin generation is highly sensitive to loss of kallikrein inhibition, while classical pathway activation explains the persistently low C4.",
+  "source": "Generated from 2. Immunology.pdf - Complement System: Complement regulation and hereditary angioedema"
+}
+]

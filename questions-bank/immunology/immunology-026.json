@@ -1,0 +1,125 @@
+[
+{
+  "id": "immuno-072",
+  "subject": "Immunology",
+  "major_topic": "B Cell Activation",
+  "subtopic": "B cell memory and plasma cells",
+  "difficulty": "medium",
+  "vignette": "A 68-year-old woman receives the seasonal influenza vaccine in October. She is well until January, when she develops high fever, myalgias and cough, and nasal swab is positive for a strain that was included in that vaccine. Her serum drawn on day 3 of illness shows influenza-specific IgG in high titer with moderate affinity, and on day 10 the titre rises further and the antibodies show higher affinity. She has never had influenza illness before.",
+  "question": "Which cell population most directly accounts for the rapid IgG response detected on day 3 of her illness?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Naive IgM+IgD+ B cells in the splenic marginal zone"
+    },
+    {
+      "id": "B",
+      "text": "Long-lived plasma cells residing in the bone marrow"
+    },
+    {
+      "id": "C",
+      "text": "Follicular dendritic cells displaying intact viral antigen"
+    },
+    {
+      "id": "D",
+      "text": "Memory B cells that rapidly differentiated into antibody-secreting cells"
+    },
+    {
+      "id": "E",
+      "text": "CD8+ cytotoxic T lymphocytes"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Memory B cells generated from the vaccine-elicited germinal center reaction persist for years, express high-affinity class-switched BCRs and low activation thresholds, and upon re-encounter with antigen proliferate explosively and differentiate within days into plasma cells secreting IgG. This rapid, higher-affinity and higher-titre recall is the hallmark of immunologic memory and is why the secondary response appears by day 3 rather than 7-10 days as in a primary response. The further rise and affinity increase by day 10 reflects recruitment of additional memory clones and ongoing germinal center-type maturation.",
+  "explanation_incorrect": {
+    "A": "Marginal zone B cells respond mainly to T-independent polysaccharide antigens with IgM and do not generate the high-titer class-switched IgG recall seen here.",
+    "B": "Long-lived plasma cells in the marrow provide steady baseline antibody titres but do not respond to new antigen exposure within 3 days; they are not the source of the acute surge.",
+    "C": "Follicular dendritic cells hold antigen on their surface to select high-affinity B cells but do not themselves secrete antibodies.",
+    "E": "Cytotoxic T cells kill infected cells and do not produce immunoglobulin."
+  },
+  "educationalObjective": "Memory B cells provide the rapid, high-affinity, class-switched secondary antibody response on re-exposure to antigen, whereas long-lived plasma cells maintain steady-state protective titres.",
+  "source": "Generated from 2. Immunology.pdf - B Cell Activation: B cell memory and plasma cells"
+},
+{
+  "id": "immuno-078",
+  "subject": "Immunology",
+  "major_topic": "B Cell Activation",
+  "subtopic": "B cell memory and plasma cells",
+  "difficulty": "hard",
+  "vignette": "A 58-year-old woman with a history of a treated solitary bone lesion is found to have serum monoclonal IgG that is stable in concentration over 4 years, with no bone lesions, anemia, hypercalcemia or renal impairment. Bone marrow aspirate contains 8% clonal plasma cells. Her total serum polyclonal immunoglobulins remain normal despite the presence of a large clone of plasma cells in the marrow.",
+  "question": "Which niche survival signal most likely sustains these long-lived marrow plasma cells independently of continued antigen exposure?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Stimulation of BCR by persistent antigen on follicular dendritic cells"
+    },
+    {
+      "id": "B",
+      "text": "CD40 ligand delivered by circulating memory T cells"
+    },
+    {
+      "id": "C",
+      "text": "AID-dependent continued somatic hypermutation in the marrow"
+    },
+    {
+      "id": "D",
+      "text": "IL-6, APRIL (TNFSF13) and BAFF from stromal cells acting on the plasma cell survival receptors"
+    },
+    {
+      "id": "E",
+      "text": "Feedback suppression by anti-idiotypic antibodies signalling through CD19"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Terminally differentiated plasma cells no longer express surface immunoglobulin or the BCR and therefore cannot be stimulated by antigen, and they do not express CD40. Instead, long-lived plasma cells survive in dedicated bone marrow niches where stromal cells, basophils, eosinophils and megakaryocytes provide IL-6 and the TNF-family ligands APRIL (TNFSF13) and BAFF, which engage TACI, BCMA and BAFF-R on the plasma cell. This niche dependence explains why a stable monoclonal protein concentration in a patient with smoldering myeloma can persist for years without antigen, and why plasma cells lose responsiveness to further mutation or switching.",
+  "explanation_incorrect": {
+    "A": "Plasma cells downregulate surface immunoglobulin and cannot be restimulated through the BCR.",
+    "B": "Plasma cells do not express CD40 and are not sustained by T cell costimulation once they have terminally differentiated.",
+    "C": "AID expression ceases when cells leave the germinal center and differentiate into plasma cells; no ongoing hypermutation occurs in the marrow niche.",
+    "E": "Anti-idiotypic antibodies and CD19 signaling do not maintain plasma cells; CD19 is lost as cells differentiate into plasma cells."
+  },
+  "educationalObjective": "Long-lived bone marrow plasma cells survive independently of antigen by IL-6 and BAFF/APRIL signaling from stromal niche cells, maintaining durable protective antibody titres (and, when clonal, producing a stable monoclonal protein).",
+  "source": "Generated from 2. Immunology.pdf - B Cell Activation: B cell memory and plasma cells"
+},
+{
+  "id": "immuno-080",
+  "subject": "Immunology",
+  "major_topic": "B Cell Activation",
+  "subtopic": "B cell memory and plasma cells",
+  "difficulty": "hard",
+  "vignette": "A 44-year-old woman had acute hepatitis B 15 years ago that resolved spontaneously, with documented loss of hepatitis B surface antigen and appearance of anti-HBs antibody. She is now healthy and has not been re-exposed. Enzyme-linked immunospot assay of her bone marrow shows small numbers of long-lived antibody-secreting cells producing anti-HBs, and her serum anti-HBs titre has remained stable at a protective level over more than a decade, even though she is now receiving rituximab for a rheumatologic condition.",
+  "question": "Which statement best explains the persistence of her protective anti-HBs titre after B cell depletion with rituximab?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Long-lived plasma cells in bone marrow niches are CD20-negative and do not express surface immunoglobulin, so they survive rituximab and continue secreting antibody"
+    },
+    {
+      "id": "B",
+      "text": "Memory B cells are the sole source of circulating antibody and are unaffected by anti-CD20 therapy"
+    },
+    {
+      "id": "C",
+      "text": "Continued antigen exposure from a persistent hepatocyte reservoir drives new plasma cell formation"
+    },
+    {
+      "id": "D",
+      "text": "Anti-HBs antibody is produced mainly by T follicular helper cells that escape rituximab"
+    },
+    {
+      "id": "E",
+      "text": "Complement-fixing IgM from marginal zone B cells compensates for the loss of IgG"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Antibody titres are maintained by two distinct compartments: memory B cells, which are CD20-positive and are depleted by rituximab and must be restimulated by antigen to respond, and long-lived plasma cells, which are CD20-negative, have lost surface immunoglobulin and reside in bone marrow survival niches sustained by IL-6 and BAFF/APRIL from stromal cells. Because the plasma cell compartment is spared, pre-existing protective antibody (such as anti-HBs, anti-tetanus or anti-measles) persists after rituximab, whereas the ability to mount a new or recall response is impaired. This dissociation is why patients on anti-CD20 therapy can still be protected for years against pathogens they were immunized against but respond poorly to new vaccines.",
+  "explanation_incorrect": {
+    "B": "Memory B cells are CD20-positive and are the population depleted by rituximab; they are also not the cells that constitutively secrete antibody at steady state.",
+    "C": "Hepatitis B surface antigen has been cleared and there is no persistent antigen reservoir driving new plasma cell formation in a resolved infection.",
+    "D": "T follicular helper cells help B cells but never produce antibody themselves.",
+    "E": "Protective anti-HBs is predominantly IgG; marginal zone IgM does not compensate for a stable, antigen-specific IgG titre."
+  },
+  "educationalObjective": "A primary T-dependent response proceeds from BCR-mediated antigen uptake and MHC class II presentation through CD40L/cytokine help, germinal center entry, class switching and hypermutation, to memory and plasma cell output.",
+  "source": "Generated from 2. Immunology.pdf - B Cell Activation: B cell memory and plasma cells"
+}
+]

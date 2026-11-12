@@ -1,0 +1,125 @@
+[
+{
+  "id": "immuno-233",
+  "subject": "Immunology",
+  "major_topic": "Lymphoid Structures",
+  "subtopic": "B and T cell zones (follicle, paracortex, medulla)",
+  "difficulty": "medium",
+  "vignette": "A 29-year-old man with untreated HIV infection and a CD4+ count of 38 cells/mm3 dies of disseminated infection. At autopsy, a mesenteric lymph node shows near-complete loss of the region lying between the lymphoid follicles and the medulla, with relative preservation of the follicles themselves.",
+  "question": "Which cell population is normally most abundant in the depleted region of this lymph node?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Germinal center B cells undergoing somatic hypermutation"
+    },
+    {
+      "id": "B",
+      "text": "Antibody-secreting plasma cells within the medullary cords"
+    },
+    {
+      "id": "C",
+      "text": "Mature T lymphocytes, predominantly CD4+ helper cells"
+    },
+    {
+      "id": "D",
+      "text": "Macrophages lining the subcapsular sinus"
+    },
+    {
+      "id": "E",
+      "text": "Follicular dendritic cells of the germinal center light zone"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "The region between the cortical follicles and the medulla is the paracortex, which is the T cell zone of the lymph node. Naive T lymphocytes enter this zone from the blood through high endothelial venules, and dendritic cells that have captured antigen in peripheral tissue migrate here to present peptide on MHC molecules. HIV preferentially infects and destroys CD4+ helper T cells, so the paracortex is the compartment that is characteristically depleted, producing the 'paracortical depletion' pattern described at autopsy.",
+  "explanation_incorrect": {
+    "A": "Germinal center B cells reside in the cortical follicles, which the vignette explicitly states are relatively preserved in this patient.",
+    "B": "Plasma cells of the medullary cords secrete antibody and are not the dominant population of the paracortical zone.",
+    "D": "Macrophages lining the subcapsular sinus phagocytose afferent lymph and are unrelated to the paracortical depletion of HIV.",
+    "E": "Follicular dendritic cells are confined to germinal centers of B cell follicles and are not depleted in the paracortex."
+  },
+  "educationalObjective": "The lymph node cortex contains B cell follicles while the paracortex is the T cell zone that is selectively depleted by HIV.",
+  "source": "Generated from 2. Immunology.pdf - Lymphoid Structures: B and T cell zones (follicle, paracortex, medulla)"
+},
+{
+  "id": "immuno-234",
+  "subject": "Immunology",
+  "major_topic": "Lymphoid Structures",
+  "subtopic": "B and T cell zones (follicle, paracortex, medulla)",
+  "difficulty": "medium",
+  "vignette": "A 66-year-old woman has a 6-month history of painless, gradually enlarging cervical lymph nodes. Excisional biopsy shows a node effaced by back-to-back follicles composed of small cleaved B cells that strongly express BCL2; cytogenetics reveals t(14;18).",
+  "question": "In a normal lymph node, the compartment from which this neoplasm arises is located in which of the following regions?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The paracortex, immediately deep to the cortex"
+    },
+    {
+      "id": "B",
+      "text": "The cortex, as spherical nodules of B cells"
+    },
+    {
+      "id": "C",
+      "text": "The medullary cords, adjacent to the hilum"
+    },
+    {
+      "id": "D",
+      "text": "The subcapsular sinus beneath the capsule"
+    },
+    {
+      "id": "E",
+      "text": "The corticomedullary junction at the thymic remnant"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "The t(14;18) translocation places the BCL2 gene under control of the immunoglobulin heavy-chain promoter, blocking apoptosis in germinal center B cells; this is the hallmark of follicular lymphoma. Germinal centers develop within the cortical lymphoid follicles, the B cell zone of the lymph node, where B cells proliferate, undergo somatic hypermutation and class switching, and are selected by antigen held on follicular dendritic cells. Because the neoplastic clone retains the follicular growth pattern, the node is replaced by back-to-back follicles that fail to regress.",
+  "explanation_incorrect": {
+    "A": "The paracortex is the T cell zone and does not give rise to follicular lymphoma, which is a germinal center B cell neoplasm.",
+    "C": "Medullary cords contain plasma cells and macrophages, not the germinal center B cells that carry t(14;18).",
+    "D": "The subcapsular sinus is a lymphatic channel containing macrophages and does not contain follicles.",
+    "E": "There is no thymic remnant at the corticomedullary junction; the thymus is a separate organ in the anterior mediastinum."
+  },
+  "educationalObjective": "Follicular lymphoma arises from germinal center B cells of the cortical follicles, where BCL2 overexpression prevents apoptosis.",
+  "source": "Generated from 2. Immunology.pdf - Lymphoid Structures: B and T cell zones (follicle, paracortex, medulla)"
+},
+{
+  "id": "immuno-235",
+  "subject": "Immunology",
+  "major_topic": "Lymphoid Structures",
+  "subtopic": "B and T cell zones (follicle, paracortex, medulla)",
+  "difficulty": "medium",
+  "vignette": "A 20-year-old man presents with a 3-week history of painless left posterior cervical lymphadenopathy. Serum IgM antibodies to Toxoplasma gondii are positive. Excisional biopsy shows preserved nodal architecture with markedly enlarged, irregularly shaped germinal centers, numerous tingible body macrophages, and small epithelioid granulomas encroaching on the follicle edges.",
+  "question": "Which of the following best describes the principal process taking place in the enlarged structures?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Positive and negative selection of developing T cells"
+    },
+    {
+      "id": "B",
+      "text": "Maturation of T cells within the paracortical zone"
+    },
+    {
+      "id": "C",
+      "text": "Phagocytic clearance of encapsulated bacteria by red pulp macrophages"
+    },
+    {
+      "id": "D",
+      "text": "Filtration of afferent lymph by subcapsular sinus macrophages"
+    },
+    {
+      "id": "E",
+      "text": "Clonal expansion of B cells with somatic hypermutation and class switching, supported by follicular dendritic and T follicular helper cells"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "The picture is reactive follicular hyperplasia, a common response of the cortical B cell zone to persistent antigen such as Toxoplasma infection. Within each germinal center, antigen-activated B cells clonally expand, mutate their immunoglobulin variable regions (somatic hypermutation), and switch isotype with help from T follicular helper cells, while follicular dendritic cells display antigen for selection. Tingible body macrophages engulf apoptotic B cells that fail selection, producing the classic 'starry sky' appearance.",
+  "explanation_incorrect": {
+    "A": "Positive and negative selection of T cells occurs in the thymus, not in germinal centers of a peripheral lymph node.",
+    "B": "T cells mature in the thymus; the paracortex is where mature T cells are activated, and it is not the structure that is enlarged here.",
+    "C": "Red pulp macrophages belong to the spleen and clear blood-borne encapsulated organisms, not lymph node follicles.",
+    "D": "Subcapsular sinus macrophages filter afferent lymph but do not drive germinal center enlargement."
+  },
+  "educationalObjective": "Reactive follicular hyperplasia reflects antigen-driven germinal center B cell expansion with somatic hypermutation and class switching in the cortical B cell zone.",
+  "source": "Generated from 2. Immunology.pdf - Lymphoid Structures: B and T cell zones (follicle, paracortex, medulla)"
+}
+]

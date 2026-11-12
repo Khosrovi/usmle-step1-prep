@@ -16,36 +16,39 @@ interface Topic {
   status: string;
 }
 
+// Subjects are progressively filled: a card becomes playable as soon as the
+// questions table actually holds questions for it, so the UI never advertises
+// an empty subject and never hides a ready one.
 const subjects = [
   {
     id: "Biochemistry",
     name: "Biochemistry",
     icon: "🧪",
-    description: "480 questions",
+    blurb: "Metabolism, enzymes, molecular biology",
   },
   {
     id: "Immunology",
     name: "Immunology",
     icon: "🛡️",
-    description: "Coming soon",
+    blurb: "Immunodeficiencies, hypersensitivity, complement",
   },
   {
     id: "Microbiology",
     name: "Microbiology",
     icon: "🦠",
-    description: "Coming soon",
+    blurb: "Bacteriology, virology, mycology",
   },
   {
     id: "Pathology",
     name: "Pathology",
     icon: "🔬",
-    description: "Coming soon",
+    blurb: "Cell injury, neoplasia, systemic pathology",
   },
   {
     id: "Pharmacology",
     name: "Pharmacology",
     icon: "💊",
-    description: "Coming soon",
+    blurb: "Drug mechanisms, toxicities, antidotes",
   },
 ];
 
@@ -58,6 +61,7 @@ export default function DashboardPage() {
   const [questionCounts, setQuestionCounts] = useState<Record<string, number>>(
     {}
   );
+  const [countsLoaded, setCountsLoaded] = useState(false);
 
   // Сколько вопросов реально есть в базе по каждому предмету
   useEffect(() => {
@@ -70,6 +74,7 @@ export default function DashboardPage() {
           counts[row.subject] = (counts[row.subject] ?? 0) + 1;
         });
         setQuestionCounts(counts);
+        setCountsLoaded(true);
       });
   }, []);
 
@@ -164,36 +169,51 @@ export default function DashboardPage() {
             Select Subject
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-            {subjects.map((subject) => (
-              <Card
-                key={subject.id}
-                className={`cursor-pointer transition-all ${
-                  selectedSubject === subject.id
-                    ? "ring-2 ring-primary shadow-lg"
-                    : "hover:shadow-md"
-                } ${subject.id === "Biochemistry" ? "" : "opacity-50 cursor-not-allowed"}`}
-                onClick={() => {
-                  if (subject.id === "Biochemistry") {
+            {subjects.map((subject) => {
+              const count = questionCounts[subject.id] ?? 0;
+              const isReady = count > 0;
+              const isSelected = selectedSubject === subject.id;
+              return (
+                <Card
+                  key={subject.id}
+                  className={`transition-all ${
+                    isSelected
+                      ? "ring-2 ring-primary shadow-lg"
+                      : isReady
+                      ? "cursor-pointer hover:shadow-md hover:border-primary/60"
+                      : "opacity-50 cursor-not-allowed"
+                  }`}
+                  onClick={() => {
+                    if (!isReady) return;
                     setSelectedSubject(subject.id);
                     setSelectedMode(null);
-                  }
-                }}
-              >
-                <CardHeader>
-                  <div className="flex items-center gap-3">
-                    <span className="text-4xl">{subject.icon}</span>
-                    <div>
-                      <CardTitle className="text-lg">{subject.name}</CardTitle>
-                      <p className="text-sm text-muted-foreground">
-                        {subject.id === "Biochemistry"
-                          ? `${questionCounts.Biochemistry ?? 0} questions`
-                          : "Coming soon"}
-                      </p>
+                  }}
+                >
+                  <CardHeader>
+                    <div className="flex items-center gap-3">
+                      <span className="text-4xl">{subject.icon}</span>
+                      <div className="min-w-0">
+                        <CardTitle className="text-lg">
+                          {subject.name}
+                        </CardTitle>
+                        <p className="text-sm text-muted-foreground">
+                          {!countsLoaded
+                            ? "Loading…"
+                            : isReady
+                            ? `${count} questions`
+                            : "Coming soon"}
+                        </p>
+                      </div>
                     </div>
-                  </div>
-                </CardHeader>
-              </Card>
-            ))}
+                  </CardHeader>
+                  <CardContent>
+                    <p className="text-xs text-muted-foreground">
+                      {subject.blurb}
+                    </p>
+                  </CardContent>
+                </Card>
+              );
+            })}
           </div>
         </div>
 

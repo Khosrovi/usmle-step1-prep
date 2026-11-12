@@ -1,0 +1,125 @@
+[
+{
+  "id": "immuno-259",
+  "subject": "Immunology",
+  "major_topic": "T Cell Activation and Cytokines",
+  "subtopic": "Interferons",
+  "difficulty": "medium",
+  "vignette": "A 24-year-old woman with relapsing-remitting multiple sclerosis is started on interferon beta-1a injections. Three weeks later she presents with fever to 39 C, severe myalgias, headache, and diffuse arthralgias. She also reports new fatigue and irritability. Physical examination is unremarkable except for mild malaise; blood cultures are negative and CRP is only mildly elevated.",
+  "question": "The adverse effects this patient is experiencing are best explained by which property of interferon beta?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Direct lysis of oligodendrocytes by complement activation"
+    },
+    {
+      "id": "B",
+      "text": "Blockade of the JAK-STAT pathway required for erythropoiesis"
+    },
+    {
+      "id": "C",
+      "text": "Inhibition of MHC class I expression on all nucleated cells"
+    },
+    {
+      "id": "D",
+      "text": "Induction of an antiviral state with nonspecific immune-mediated cytokine symptoms"
+    },
+    {
+      "id": "E",
+      "text": "Depletion of CD4+ T cells by antibody-dependent cellular cytotoxicity"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Interferons are a family of cytokines that induce an antiviral state in neighboring cells by upregulating MHC class I, increasing expression of protein kinase R (PKR) and 2'-5'-oligoadenylate synthetase, and activating NK cells after binding the interferon receptor and signaling through JAK-STAT. Interferon beta is used in relapsing-remitting multiple sclerosis because it reduces T cell trafficking and antigen presentation across the blood-brain barrier. Because the receptor is expressed on essentially all cells, systemic administration produces a flulike syndrome of fever, myalgias, arthralgias, headache, and fatigue, often with leukopenia and mood change. These effects typically diminish but are the classic counseling point before starting therapy.",
+  "explanation_incorrect": {
+    "A": "Interferon beta is a signaling molecule, not an antibody; it does not fix complement or directly lyse oligodendrocytes.",
+    "B": "Interferon signaling does use JAK-STAT, but it reduces marrow output rather than blocking erythropoietin signaling, and the febrile systemic symptoms are not caused by marrow suppression.",
+    "C": "Interferons upregulate, not inhibit, MHC class I expression on nucleated cells.",
+    "E": "Interferon beta therapy is not an anti-CD4 antibody and does not cause ADCC-mediated T cell depletion, unlike alemtuzumab."
+  },
+  "educationalObjective": "Interferons act through JAK-STAT to induce an antiviral state and are systemically pyrogenic, producing a characteristic flulike syndrome with leukopenia and fatigue.",
+  "source": "Generated from 2. Immunology.pdf - T Cell Activation and Cytokines: Interferons"
+},
+{
+  "id": "immuno-260",
+  "subject": "Immunology",
+  "major_topic": "T Cell Activation and Cytokines",
+  "subtopic": "Interferons",
+  "difficulty": "hard",
+  "vignette": "A 42-year-old woman develops fever, diffuse arthralgias, and a violaceous facial rash over 2 weeks. She is found to have anti-double-stranded DNA antibodies, low complement, and rising creatinine. While admitted, she says her brother has tuberculosis. The team wants to evaluate her for latent tuberculosis before starting steroids, but they are concerned about the skin test result.",
+  "question": "Which interferon is most responsible for the diminished delayed-type hypersensitivity response that can cause a false-negative tuberculin skin test in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Interferon gamma, which classically activates macrophages"
+    },
+    {
+      "id": "B",
+      "text": "Interferon alpha, which enhances MHC class I expression"
+    },
+    {
+      "id": "C",
+      "text": "Interferon lambda, which acts on mucosal epithelium"
+    },
+    {
+      "id": "D",
+      "text": "Interferon omega, which is produced by trophoblasts"
+    },
+    {
+      "id": "E",
+      "text": "Interferon epsilon, which protects reproductive epithelium"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Interferon gamma is the type II interferon produced by activated T cells and NK cells; it is the principal macrophage-activating cytokine and is required for granuloma maintenance in tuberculosis. The delayed-type hypersensitivity response of the tuberculin skin test depends on memory Th1 cells releasing interferon gamma to recruit and activate macrophages, generating induration 48-72 hours later. Conditions that impair cellular immunity, including active systemic lupus erythematosus with its associated lymphopenia and steroid use, can suppress this response and yield a false negative. Interferon gamma release assays measure the same Th1 response in vitro and may also be falsely negative, so risk assessment and imaging may still be required.",
+  "explanation_incorrect": {
+    "B": "Interferon alpha is a type I antiviral and antitumor cytokine from plasmacytoid dendritic cells; it is not the principal driver of macrophage activation in a tuberculin reaction.",
+    "C": "Interferon lambda shares JAK-STAT signaling with type I interferon but acts on epithelial barriers, not on the systemic macrophage-based delayed hypersensitivity readout.",
+    "D": "Interferon omega is expressed mainly at the maternal-fetal interface and is not the cytokine tested in latent tuberculosis evaluation.",
+    "E": "Interferon epsilon protects reproductive tract epithelium from viral infection and has no role in the delayed-type hypersensitivity response to tuberculin."
+  },
+  "educationalObjective": "Interferon gamma, the type II interferon released by Th1 cells and NK cells, activates macrophages and is the effector cytokine underlying the tuberculin delayed hypersensitivity reaction.",
+  "source": "Generated from 2. Immunology.pdf - T Cell Activation and Cytokines: Interferons"
+},
+{
+  "id": "immuno-261",
+  "subject": "Immunology",
+  "major_topic": "T Cell Activation and Cytokines",
+  "subtopic": "Interferons",
+  "difficulty": "medium",
+  "vignette": "A 55-year-old man with chronic hepatitis C and compensated cirrhosis is treated with pegylated interferon alfa plus ribavirin. Two months into therapy he reports fevers, intense fatigue, poor appetite, and a 6-kg weight loss. Over the following month, thyroid-stimulating hormone is repeatedly abnormal, with initially elevated free T4 and suppressed TSH.",
+  "question": "Interferon alfa exerts its antiviral effect in this patient primarily through which intracellular mechanism?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Direct cleavage of viral RNA by an interferon-encoded endonuclease"
+    },
+    {
+      "id": "B",
+      "text": "Blockade of the viral fusion protein at the hepatocyte membrane"
+    },
+    {
+      "id": "C",
+      "text": "JAK-STAT-mediated induction of protein kinase R and 2'-5'-oligoadenylate synthetase"
+    },
+    {
+      "id": "D",
+      "text": "Upregulation of MHC class II on hepatocytes to present viral peptides"
+    },
+    {
+      "id": "E",
+      "text": "Neutralization of free viral particles by interferon-binding immunoglobulins"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Interferon alfa binds the type I interferon receptor and activates JAK1 and TYK2, which phosphorylate STAT1 and STAT2; these combine with IRF9 to form ISGF3, which transcribes interferon-stimulated genes. The key antiviral products are protein kinase R, which phosphorylates eIF2-alpha to halt viral protein translation, and 2'-5'-oligoadenylate synthetase, which activates RNase L to degrade viral RNA. Interferon alfa also upregulates MHC class I and activates NK cells. This patient's flulike symptoms, weight loss, and thyroid dysfunction (interferon-induced autoimmune thyroiditis) illustrate the systemic toxicity of type I interferon therapy.",
+  "explanation_incorrect": {
+    "A": "Interferon does not encode an endonuclease; degradation of viral RNA results from induction of 2'-5'-oligoadenylate synthetase and RNase L, an indirect effect.",
+    "B": "Interferon alfa does not act by blocking viral entry through fusion protein inhibition; that describes a different antiviral class.",
+    "D": "Interferons upregulate MHC class I rather than MHC class II, and class II on hepatocytes is not the antiviral mechanism discussed.",
+    "E": "Interferon is itself a cytokine, not an antibody, and it does not neutralize virions through immunoglobulin-mediated binding."
+  },
+  "educationalObjective": "Interferon alfa signals through JAK-STAT to induce protein kinase R and 2'-5'-oligoadenylate synthetase/RNase L, which block viral translation and degrade viral RNA.",
+  "source": "Generated from 2. Immunology.pdf - T Cell Activation and Cytokines: Interferons"
+}
+]

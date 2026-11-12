@@ -1,0 +1,125 @@
+[
+{
+  "id": "immuno-230",
+  "subject": "Immunology",
+  "major_topic": "Immunosuppressants",
+  "subtopic": "mTOR inhibitors (sirolimus, everolimus)",
+  "difficulty": "medium",
+  "vignette": "A 44-year-old kidney transplant recipient on sirolimus, mycophenolate, and low-dose prednisone has had stable graft function for 2 years. Six days after an uncomplicated knee arthroscopy, he returns with a wound dehiscence, persistent serous drainage, and no fever. Tissue cultures show no pathogens. Chest is clear and the rest of the exam is unremarkable.",
+  "question": "Which mechanism most likely explains his impaired wound healing?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Inhibition of mTORC1, which suppresses proliferation of fibroblasts and keratinocytes and impairs granulation tissue formation"
+    },
+    {
+      "id": "B",
+      "text": "Depletion of neutrophils from baseline marrow suppression"
+    },
+    {
+      "id": "C",
+      "text": "Inhibition of calcineurin, which is required for collagen cross-linking"
+    },
+    {
+      "id": "D",
+      "text": "Blockade of the IL-2 receptor, preventing macrophage influx into the wound"
+    },
+    {
+      "id": "E",
+      "text": "Increased collagen degradation from induction of matrix metalloproteinases by rapamycin"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Sirolimus (via binding to FKBP12) inhibits mTORC1, which is required for cell-cycle progression from G1 to S in response to growth factors and cytokines. This potently blocks growth factor-driven proliferation of lymphocytes, fibroblasts, and endothelial and epithelial cells, so sirolimus is a well-known cause of impaired wound healing, lymphocele formation, and delayed re-epithelialization, especially when used at induction or after surgery. It is also associated with aphthous-type ulcers. For this reason, sirolimus is usually avoided immediately after surgery and in patients with surgical wounds, and it is why it can be useful in treating conditions of aberrant proliferation (e.g., tuberous sclerosis-associated tumors with everolimus).",
+  "explanation_incorrect": {
+    "B": "Sirolimus can cause thrombocytopenia and anemia at higher doses but is not classically a neutrophil-depleting agent, and there is no sepsis pattern here.",
+    "C": "Calcineurin inhibition is the mechanism of tacrolimus and cyclosporine, distinct from mTOR inhibition, and collagen cross-linking is a direct mechanism of toxicity.",
+    "D": "The IL-2 receptor alpha chain blocker is basiliximab, which does not specifically impair macrophage influx or cause the classic wound-healing defect.",
+    "E": "Sirolimus is not a classic MMP inducer; impaired wound healing stems from arrested cellular proliferation and granulation tissue formation."
+  },
+  "educationalObjective": "mTOR inhibitors impair proliferation of fibroblasts and epithelial cells, causing delayed wound healing and lymphoceles; they are often held around surgery.",
+  "source": "Generated from 2. Immunology.pdf - Immunosuppressants: mTOR inhibitors (sirolimus, everolimus)"
+},
+{
+  "id": "immuno-231",
+  "subject": "Immunology",
+  "major_topic": "Immunosuppressants",
+  "subtopic": "mTOR inhibitors (sirolimus, everolimus)",
+  "difficulty": "medium",
+  "vignette": "A 47-year-old man on everolimus for a pancreatic neuroendocrine tumor presents with a 3-week history of oral ulcers, acneiform rash, and progressive exertional dyspnea. Labs show total cholesterol 310 mg/dL, LDL 210 mg/dL, triglycerides 480 mg/dL, and random glucose 168 mg/dL. He also notes a productive cough with yellow sputum and a fever of 38.4 C. Chest CT shows patchy ground-glass opacities and a small pleural effusion; bronchoalveolar lavage shows lymphocytosis with no organisms on culture.",
+  "question": "Which of the following is the most likely adverse-effect profile of everolimus in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Pulmonary fibrosis due to mTOR-independent fibroblast activation, with hyperlipidemia as an unrelated coincidence"
+    },
+    {
+      "id": "B",
+      "text": "Nephrotoxicity with hyperkalemia and hypomagnesemia from afferent arteriolar vasoconstriction"
+    },
+    {
+      "id": "C",
+      "text": "Hyperlipidemia and hyperglycemia from insulin resistance plus noninfectious mTOR inhibitor-associated pneumonitis, often with stomatitis"
+    },
+    {
+      "id": "D",
+      "text": "Hypertriglyceridemia from massive chylomicron accumulation only at doses above 10 mg"
+    },
+    {
+      "id": "E",
+      "text": "Hepatotoxicity with acute liver failure from bile duct proliferation"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "mTOR inhibitors (sirolimus and everolimus) classically cause hyperlipidemia (elevated LDL and triglycerides), hyperglycemia and insulin resistance (which can worsen or unmask diabetes), stomatitis/mucositis, cytopenias, and drug-induced interstitial pneumonitis, which can present with cough, dyspnea, fever, ground-glass opacities, and BAL lymphocytosis without an infectious isolate. These effects reflect mTOR's role in hepatic lipid metabolism, insulin signaling in muscle and adipose tissue, and epithelial proliferation in the lung and oropharynx. Management of pneumonitis is holding the drug and considering corticosteroids if severe, with infectious workup to exclude opportunistic infection first.",
+  "explanation_incorrect": {
+    "A": "Pulmonary toxicity is a recognized mTOR inhibitor effect, but it is not merely an unrelated fibroblast phenomenon; the lipid changes are a well-documented drug effect rather than coincidence.",
+    "B": "Afferent arteriolar vasoconstriction with hypomagnesemia and hyperkalemia is characteristic of calcineurin inhibitors, and a creatinine elevation is not described here.",
+    "D": "Hyperlipidemia from everolimus occurs across standard doses and does not require doses above 10 mg; it is a primary drug effect on lipid metabolism.",
+    "E": "Acute liver failure from bile duct proliferation is not the classic everolimus toxicity; this patient's findings are pulmonary and metabolic."
+  },
+  "educationalObjective": "mTOR inhibitors cause hyperlipidemia, hyperglycemia, stomatitis, cytopenias, and drug-induced pneumonitis presenting with ground-glass opacities and BAL lymphocytosis.",
+  "source": "Generated from 2. Immunology.pdf - Immunosuppressants: mTOR inhibitors (sirolimus, everolimus)"
+},
+{
+  "id": "immuno-232",
+  "subject": "Immunology",
+  "major_topic": "Immunosuppressants",
+  "subtopic": "mTOR inhibitors (sirolimus, everolimus)",
+  "difficulty": "hard",
+  "vignette": "A 12-year-old boy with tuberous sclerosis complex has multiple bilateral renal angiomyolipomas, the largest measuring 5.8 cm, and subependymal giant cell astrocytomas (SEGAs) with recent seizure worsening. His tumor board recommends everolimus rather than surgical resection or embolization.",
+  "question": "What molecular rationale underlies everolimus's efficacy in these tuberous sclerosis lesions?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Loss of the TSC1/TSC2 complex abolishes tuberin's GTPase-activating function, leaving Rheb-GTP active and making mTORC1 the oncogenic driver that everolimus inhibits"
+    },
+    {
+      "id": "B",
+      "text": "Tuberous sclerosis tumors are driven by constitutive activation of calcineurin dephosphorylation, which everolimus directly blocks"
+    },
+    {
+      "id": "C",
+      "text": "Everolimus depletes T cells and shrinks the lesions by treating a peritumoral autoimmune reaction"
+    },
+    {
+      "id": "D",
+      "text": "Everolimus inhibits MEK-ERK signaling downstream of RAS, which is the initiating event in angiomyolipomas"
+    },
+    {
+      "id": "E",
+      "text": "Everolimus restores hamartin/tuberin complex assembly by increasing TSC2 gene transcription"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "TSC1 and TSC2 encode hamartin and tuberin, which together form a GTPase-activating protein complex for Rheb; TSC2 loss (tuberin mutation) leaves Rheb in its GTP-bound active state, which constitutively activates mTORC1 and drives the growth of hamartomas, including angiomyolipomas, SEGAs, and lymphangioleiomyomatosis. Everolimus binds FKBP12 and inhibits mTORC1, reducing this growth and causing disease stabilization and partial shrinkage, which is why it is FDA-approved for SEGA and angiomyolipomas in tuberous sclerosis and for LAM. The same logic explains its use in renal cell carcinoma, where mTOR activation supports tumor growth. Remember the TSC/mTOR axis as the 'hamartoma-mTOR' pathway.",
+  "explanation_incorrect": {
+    "B": "Calcineurin is not the driver in tuberous sclerosis, and everolimus does not inhibit calcineurin; that is the mechanism of tacrolimus and cyclosporine.",
+    "C": "These are true hamartomas driven by mTORC1 hyperactivation, not autoimmune masses, so the effect is not mediated by immunosuppression.",
+    "D": "RAS-MEK-ERK is a different mitogenic pathway; angiomyolipomas in tuberous sclerosis are driven by mTORC1, not by constitutive RAS signaling.",
+    "E": "Everolimus inhibits mTORC1 kinase activity and does not restore TSC2 transcription; the therapy works downstream of the genetic lesion."
+  },
+  "educationalObjective": "Loss of TSC2 leaves Rheb active and constitutively drives mTORC1, so mTOR inhibitors such as everolimus shrink tuberous sclerosis-associated SEGAs and angiomyolipomas.",
+  "source": "Generated from 2. Immunology.pdf - Immunosuppressants: mTOR inhibitors (sirolimus, everolimus)"
+}
+]

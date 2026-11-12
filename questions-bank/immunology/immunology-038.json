@@ -1,0 +1,166 @@
+[
+{
+  "id": "immuno-123",
+  "subject": "Immunology",
+  "major_topic": "Complement System",
+  "subtopic": "Alternative and lectin pathways",
+  "difficulty": "medium",
+  "vignette": "A 24-year-old man with sickle cell disease is brought to the emergency department with fever, chills, and a new petechial rash. Blood cultures grow Streptococcus pneumoniae. The team explains that his spleen is nonfunctional and that part of his susceptibility relates to impaired alternative pathway amplification. A medical student asks how a pathway can be active without any antibody, and the attending replies that the alternative pathway runs continuously at a low baseline.",
+  "question": "Which of the following describes the initiating event that allows spontaneous low-level C3 tickover in plasma?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Binding of mannose-binding lectin to mannose residues on bacterial surfaces"
+    },
+    {
+      "id": "B",
+      "text": "Spontaneous hydrolysis of C3 generating C3(H2O), which then binds factor B"
+    },
+    {
+      "id": "C",
+      "text": "Antigen-antibody immune complexes engaging C1q"
+    },
+    {
+      "id": "D",
+      "text": "Cleavage of factor B by C2b generated from the classical pathway"
+    },
+    {
+      "id": "E",
+      "text": "Activation of the mevalonate pathway in the liver to increase complement synthesis"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "The alternative pathway is unique in that it is always running at a low, antibody-independent level. Circulating C3 undergoes spontaneous hydrolysis of its internal thioester, generating C3(H2O), which then binds factor B. Factor D cleaves the bound factor B to Ba and Bb, yielding a fluid-phase C3 convertase (C3(H2O)Bb) that deposits C3b onto nearby surfaces. On pathogen surfaces, properdin (factor P) stabilizes the C3bBb convertase while host regulators are absent, creating an exponential amplification loop. This is why alternative pathway activity contributes substantially to innate defense against encapsulated bacteria such as pneumococcus.",
+  "explanation_incorrect": {
+    "A": "Mannose-binding lectin binding is the initiating event of the lectin pathway, not the alternative pathway, and it requires a distinct set of lectins and MASP proteases.",
+    "C": "Immune complexes engaging C1q trigger the classical pathway, which is antibody-dependent and requires IgM or clustered IgG.",
+    "D": "C2b is generated within the classical and lectin pathway convertases; factor B is cleaved by factor D, not by C2b.",
+    "E": "The mevalonate pathway produces cholesterol and isoprenoids in the liver, and it has no role in initiating complement activation."
+  },
+  "educationalObjective": "Spontaneous C3 hydrolysis creates C3(H2O), enabling factor B binding and continuous low-level alternative pathway activation that is amplified on unregulated surfaces.",
+  "source": "Generated from 2. Immunology.pdf - Complement System: Alternative and lectin pathways"
+},
+{
+  "id": "immuno-124",
+  "subject": "Immunology",
+  "major_topic": "Complement System",
+  "subtopic": "Alternative and lectin pathways",
+  "difficulty": "easy",
+  "vignette": "A 19-year-old college student presents with sudden fever, malaise, and a rapidly spreading petechial rash. Within hours he is hypotensive, and blood cultures return Neisseria meningitidis. Evaluation reveals normal classical pathway function but markedly impaired lectin pathway activation. The attending notes that the lectin pathway can initiate complement without antibody.",
+  "question": "Which of the following best describes a key initiating feature of the lectin pathway compared with the classical pathway?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It requires IgM bound to whole bacterial cells"
+    },
+    {
+      "id": "B",
+      "text": "It depends on an IgG immune complex to activate C1q"
+    },
+    {
+      "id": "C",
+      "text": "It involves mannose-binding lectin or ficolins binding surface sugar patterns and activating MASPs"
+    },
+    {
+      "id": "D",
+      "text": "It is initiated by factor D hydrolyzing factor B in plasma"
+    },
+    {
+      "id": "E",
+      "text": "It requires the presence of properdin in order to activate"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "The lectin pathway is antibody-independent. Mannose-binding lectin (MBL), together with ficolins and collectins, recognizes carbohydrate patterns such as mannose, fucose, and N-acetylglucosamine that terminate microbial surface glycans but are not exposed on human glycoproteins. Once MBL binds the pathogen, MBL-associated serine proteases (MASP-1 and MASP-2) activate and cleave C4 and C2, assembling the classical-like C3 convertase C4b2a. Thus the lectin and classical pathways converge on the same convertase and downstream steps, but the lectin pathway begins with sugar recognition instead of antibody. Impaired terminal complement function, including inadequate lectin-initiated amplification, is classically associated with recurrent neisserial disease.",
+  "explanation_incorrect": {
+    "A": "IgM-dependent activation through C1q describes the classical pathway, which the lectin pathway does not require.",
+    "B": "IgG immune complex deposition activating C1q is also classical pathway initiation and depends on antibody.",
+    "D": "Factor D cleaving factor B belongs to the alternative pathway amplification loop, not to lectin pathway initiation.",
+    "E": "Properdin stabilizes alternative pathway convertases, but it is not required for lectin pathway activation."
+  },
+  "educationalObjective": "The lectin pathway is initiated when mannose-binding lectin or ficolins bind pathogen surface sugars and activate MASPs, which then build the C4b2a convertase without any need for antibody.",
+  "source": "Generated from 2. Immunology.pdf - Complement System: Alternative and lectin pathways"
+},
+{
+  "id": "immuno-125",
+  "subject": "Immunology",
+  "major_topic": "Complement System",
+  "subtopic": "Alternative and lectin pathways",
+  "difficulty": "hard",
+  "vignette": "A 31-year-old woman has had three episodes of Neisseria meningitidis bacteremia over four years despite vaccination. Workup shows a normal total hemolytic complement (CH50) but a markedly reduced functional alternative pathway assay. Plasma levels of C3 and factor B are normal. The immunologist explains that her defect involves the only positive regulator that stabilizes the alternative pathway convertase on microbial surfaces.",
+  "question": "Which of the following components is most likely deficient in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "C1 inhibitor"
+    },
+    {
+      "id": "B",
+      "text": "Mannose-binding lectin"
+    },
+    {
+      "id": "C",
+      "text": "C9"
+    },
+    {
+      "id": "D",
+      "text": "Properdin (factor P)"
+    },
+    {
+      "id": "E",
+      "text": "CD59"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Properdin (factor P) is the only known positive regulatory protein of the complement system. It binds and stabilizes the C3bBb alternative pathway C3 convertase, extending its half-life on microbial surfaces while protecting it from factor I-mediated degradation. Properdin deficiency is X-linked and produces impaired alternative pathway activity with a normal CH50 because the classical pathway remains intact. Affected patients, predominantly males, present with recurrent and often fulminant Neisseria infections. The preserved C3 and factor B levels here point to a defect in the stabilizing regulator rather than in the pathway substrates.",
+  "explanation_incorrect": {
+    "A": "C1 inhibitor deficiency causes hereditary angioedema with episodic nonpruritic swelling, not recurrent neisserial bacteremia.",
+    "B": "MBL deficiency reduces lectin pathway function, is generally associated with milder infections, and does not stabilize the alternative convertase.",
+    "C": "C9 deficiency impairs membrane attack complex formation and predisposes to neisserial disease, but the alternative pathway functional assay should be preserved.",
+    "E": "CD59 deficiency causes paroxysmal nocturnal hemoglobinuria-type hemolysis from uninhibited MAC on host cells, not recurrent neisserial sepsis."
+  },
+  "educationalObjective": "Properdin is the only positive complement regulator; its X-linked deficiency impairs alternative pathway amplification and causes recurrent fulminant Neisseria infections with a normal CH50.",
+  "source": "Generated from 2. Immunology.pdf - Complement System: Alternative and lectin pathways"
+},
+{
+  "id": "immuno-126",
+  "subject": "Immunology",
+  "major_topic": "Complement System",
+  "subtopic": "Alternative and lectin pathways",
+  "difficulty": "medium",
+  "vignette": "A 45-year-old man is evaluated for repeated infections with encapsulated organisms. His physician explains that the alternative pathway functions as an amplification loop that deposits vast amounts of C3b onto bacterial surfaces. She adds that the alternative pathway C3 convertase uses a different catalytic fragment than the classical convertase, a point that frequently appears on board examinations.",
+  "question": "Which fragment provides the catalytic subunit that converts C3 to C3b in the alternative pathway C3 convertase?",
+  "options": [
+    {
+      "id": "A",
+      "text": "C4b"
+    },
+    {
+      "id": "B",
+      "text": "C2a"
+    },
+    {
+      "id": "C",
+      "text": "Bb"
+    },
+    {
+      "id": "D",
+      "text": "C1r"
+    },
+    {
+      "id": "E",
+      "text": "C5b"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "The alternative pathway C3 convertase is composed of C3b and Bb (C3bBb), with Bb serving as the serine protease that cleaves additional C3 molecules into C3a and C3b. Factor D generates Bb by cleaving factor B while it is bound to C3b, and properdin then stabilizes the complex. In contrast, the classical and lectin pathway convertases use C4b as the targeting fragment and C2a as the catalytic subunit, producing C4b2a. Recognizing this distinction explains why all three pathways converge at C3 but require entirely different proteins upstream (factor B, factor D, properdin versus C1, C4, and C2).",
+  "explanation_incorrect": {
+    "A": "C4b is the noncatalytic targeting fragment of the classical and lectin pathway convertase, not the catalytic subunit of the alternative pathway.",
+    "B": "C2a is the catalytic component of the classical and lectin convertases (C4b2a), so it does not belong to the alternative pathway complex.",
+    "D": "C1r is a serine protease within the C1 complex that activates C1s, and it is not part of the alternative convertase.",
+    "E": "C5b is generated once a convertase acts on C5; it nucleates the membrane attack complex and has no catalytic role in C3 cleavage."
+  },
+  "educationalObjective": "The alternative pathway C3 convertase is C3bBb with Bb as the catalytic subunit, whereas the classical and lectin convertases are C4b2a with C2a catalytic.",
+  "source": "Generated from 2. Immunology.pdf - Complement System: Alternative and lectin pathways"
+}
+]

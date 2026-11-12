@@ -1,0 +1,166 @@
+[
+{
+  "id": "immuno-008",
+  "subject": "Immunology",
+  "major_topic": "Antibodies and Immunoglobulins",
+  "subtopic": "IgA",
+  "difficulty": "easy",
+  "vignette": "A 32-year-old woman with a long history of low serum IgA has never suffered mucosal infections, and her gastroenterologist notes a healthy intestinal barrier with normal antibody coating of the gut epithelium. Her immunologist explains that despite low serum IgA she still produces a particular IgA form that moves across epithelial cells and is protected in the lumen.",
+  "question": "Which IgA form predominates in mucosal secretions and resists proteolytic degradation in the gut lumen?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Monomeric serum IgA1"
+    },
+    {
+      "id": "B",
+      "text": "IgG3 monomer"
+    },
+    {
+      "id": "C",
+      "text": "Dimeric secretory IgA containing a J chain and secretory component"
+    },
+    {
+      "id": "D",
+      "text": "Pentameric IgM"
+    },
+    {
+      "id": "E",
+      "text": "Monomeric IgA without J chain"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "IgA exists as a monomer in serum and as a dimer in secretions. Secretory IgA is a dimer joined by a J chain and is transported across mucosal epithelium by the polymeric immunoglobulin receptor; during transcytosis the receptor is cleaved, leaving a piece called the secretory component covalently bound to the IgA dimer. The secretory component shields secretory IgA from proteolytic enzymes in the lumen and helps anchor it in mucus, making it the main mucosal defense antibody.",
+  "explanation_incorrect": {
+    "A": "Serum IgA is predominantly monomeric and lacks the secretory component, so it is not the main mucosal antibody and is sensitive to luminal proteases.",
+    "B": "IgG3 is the most efficient complement-fixing IgG subclass and is found in serum and tissue fluids, not as the major mucosal secretory antibody.",
+    "D": "Pentameric IgM is found in serum and can appear in secretions in IgA deficiency, but it is not the principal secretory IgA form described.",
+    "E": "Secretory IgA is a dimer joined by a J chain; a monomer without J chain cannot form the typical secretory form."
+  },
+  "educationalObjective": "Secretory IgA is a J-chain-linked dimer paired with a secretory component; it is the predominant mucosal antibody and is protease resistant.",
+  "source": "Generated from 2. Immunology.pdf - Antibodies and Immunoglobulins: IgA"
+},
+{
+  "id": "immuno-009",
+  "subject": "Immunology",
+  "major_topic": "Antibodies and Immunoglobulins",
+  "subtopic": "IgA",
+  "difficulty": "medium",
+  "vignette": "A 27-year-old woman has three episodes of anaphylaxis following transfusion of packed red blood cells, and repeated testing reveals an absent serum IgA together with serum IgG antibodies against human IgA. She has no symptoms at other times. The hematologist elects to manage her future transfusions with washed red cells or IgA-depleted products.",
+  "question": "Which of the following best explains her reaction and the reason why IgA-deficient patients are screened before transfusion?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Recipients may have anti-IgA antibodies that trigger an anaphylactic reaction on re-exposure to IgA in donor blood"
+    },
+    {
+      "id": "B",
+      "text": "Recipients develop anti-IgG antibodies that activate complement"
+    },
+    {
+      "id": "C",
+      "text": "IgA-deficient recipients are more susceptible to complement deficiencies"
+    },
+    {
+      "id": "D",
+      "text": "The reaction is caused by natural anti-A and anti-B IgM isoantibodies"
+    },
+    {
+      "id": "E",
+      "text": "Donor IgE binds directly to recipient mast cells causing anaphylaxis"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Selective IgA deficiency is the most common primary immunodeficiency and is often asymptomatic. A subset of affected individuals form anti-IgA antibodies, usually IgG, that can cross-link donor IgA on mast cells or basophils during transfusion and cause severe anaphylactic reactions. This is why IgA-deficient patients are screened before transfusion and why washed or IgA-poor blood products are used when anti-IgA antibodies are present.",
+  "explanation_incorrect": {
+    "B": "Anti-IgG alloantibodies are not the classic cause of transfusion-associated anaphylaxis in IgA deficiency; donor plasma IgA is the relevant target here.",
+    "C": "IgA deficiency does not cause complement deficiency; the reactions described are antibody-mediated mast-cell degranulation.",
+    "D": "Anti-A and anti-B antibodies cause hemolytic reactions rather than immediate anaphylaxis, and this patient's problem is anti-IgA.",
+    "E": "Donor IgE would have to be presensitized to an allergen; the reaction here is due to recipient anti-IgA reacting with IgA in donor plasma."
+  },
+  "educationalObjective": "Selective IgA deficiency can cause transfusion anaphylaxis because recipients may have anti-IgA antibodies that react with IgA in donor blood products.",
+  "source": "Generated from 2. Immunology.pdf - Antibodies and Immunoglobulins: IgA"
+},
+{
+  "id": "immuno-010",
+  "subject": "Immunology",
+  "major_topic": "Antibodies and Immunoglobulins",
+  "subtopic": "IgA",
+  "difficulty": "medium",
+  "vignette": "A 34-year-old man has chronic diarrhea and is found to have celiac disease with small intestinal villous atrophy. Evaluation shows low total serum IgA, and endomysial antibody testing (IgA-based) is negative despite strongly positive IgG-based tissue transglutaminase antibodies.",
+  "question": "Which of the following best explains why IgA-based serologic testing alone would miss this diagnosis in a patient with IgA deficiency?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Celiac disease antibodies are exclusively IgA and cannot be detected in any patient with IgA deficiency"
+    },
+    {
+      "id": "B",
+      "text": "IgA has a particularly long half-life that masks disease"
+    },
+    {
+      "id": "C",
+      "text": "IgA is produced only in the thymus and is not present in blood"
+    },
+    {
+      "id": "D",
+      "text": "Serum IgA is low, so IgA-based assays give false-negative results and IgG-based assays (IgG anti-tTG) are used instead"
+    },
+    {
+      "id": "E",
+      "text": "IgA deficiency is associated with a compensatory increase in serum IgA subclass IgA2"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Selective IgA deficiency means that total serum IgA is markedly low, so endomysial and anti-tTG assays based on IgA can produce false-negative results because there is insufficient IgA antibody to detect. In such patients, IgG-based tissue transglutaminase testing is the appropriate serologic approach. This is a recognized pitfall in celiac testing and reinforces that isotype-specific assay design must account for the patient's IgA status.",
+  "explanation_incorrect": {
+    "A": "Celiac antibodies are usually IgA, but IgG anti-tTG and anti-deamidated gliadin peptide assays exist and work in IgA-deficient patients.",
+    "B": "IgA has a relatively short serum half-life of only hours to days compared with IgG, so prolonged half-life does not explain anything here.",
+    "C": "IgA is produced by plasma cells in mucosal tissues and bone marrow and circulates in blood; it is not thymic.",
+    "E": "Selective IgA deficiency is characterized by low to absent total IgA, not a compensatory rise in IgA2."
+  },
+  "educationalObjective": "Because serum IgA is low in IgA deficiency, IgA-based celiac serologies can be falsely negative, so IgG-based tests such as IgG anti-tTG should be used instead.",
+  "source": "Generated from 2. Immunology.pdf - Antibodies and Immunoglobulins: IgA"
+},
+{
+  "id": "immuno-011",
+  "subject": "Immunology",
+  "major_topic": "Antibodies and Immunoglobulins",
+  "subtopic": "IgA",
+  "difficulty": "hard",
+  "vignette": "A 29-year-old woman with longstanding IgA nephropathy presents with visible hematuria during a respiratory infection. Renal biopsy shows mesangial deposits of IgA with co-deposited C3. Her nephrologist explains that the condition arises from reduced clearance of IgA-containing immune complexes and abnormal mucosal IgA production.",
+  "question": "Which characteristic of IgA best explains why IgA immune complexes deposit in the kidney mesangium?",
+  "options": [
+    {
+      "id": "A",
+      "text": "IgA is the most potent complement classical-pathway fixer"
+    },
+    {
+      "id": "B",
+      "text": "IgA is produced only in the bone marrow and lacks a mucosal origin"
+    },
+    {
+      "id": "C",
+      "text": "IgA has a short half-life and rapidly fragments into bioactive peptides"
+    },
+    {
+      "id": "D",
+      "text": "IgA crosses the placenta and fixes complement in the fetal kidney"
+    },
+    {
+      "id": "E",
+      "text": "Abnormal polymeric IgA clears poorly from the circulation and deposits in the mesangium, activating the alternative pathway"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "IgA nephropathy is mediated by aberrantly glycosylated polymeric IgA, often IgA1, that escapes normal hepatic clearance and deposits in the glomerular mesangium. These deposits activate the alternative complement pathway, which is why C3 is co-deposited, and they drive mesangial proliferation and inflammation. This is the most common cause of primary glomerulonephritis worldwide and classically produces hematuria after an upper respiratory infection, termed synpharyngitic hematuria.",
+  "explanation_incorrect": {
+    "A": "IgA is a poor activator of the classical complement pathway; the alternative pathway involving C3 is the main route in IgA nephropathy.",
+    "B": "Serum IgA comes largely from mucosal plasma cells as well as bone marrow plasma cells; it is not exclusively bone-marrow derived.",
+    "C": "A short half-life does not explain mesangial deposition; abnormal polymeric IgA clearance and structure are what matter.",
+    "D": "IgA does not cross the placenta, since IgG is the only immunoglobulin that does so, and the deposits form in the patient rather than the fetus."
+  },
+  "educationalObjective": "IgA nephropathy results from mesangial deposition of abnormal polymeric IgA with alternative pathway complement activation, producing hematuria after respiratory infection.",
+  "source": "Generated from 2. Immunology.pdf - Antibodies and Immunoglobulins: IgA"
+}
+]

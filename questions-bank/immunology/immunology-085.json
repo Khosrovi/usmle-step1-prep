@@ -1,0 +1,84 @@
+[
+{
+  "id": "immuno-283",
+  "subject": "Immunology",
+  "major_topic": "Transplantation",
+  "subtopic": "Graft types (autograft, allograft, xenograft)",
+  "difficulty": "easy",
+  "vignette": "A 34-year-old man sustains full-thickness burns over 35% of his anterior trunk and both arms in a house fire. He is resuscitated and taken to the operating room, where the burn surgeon harvests sheets of split-thickness skin from his uninjured left thigh and meshes them onto the debrided burn wounds of his chest. There is no need for any donor, blood bank, or immunosuppressive medication for this procedure, and the patient's own native skin begins to heal at the donor site within 2 weeks.",
+  "question": "The skin transferred in this procedure is best classified as which of the following?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Allograft"
+    },
+    {
+      "id": "B",
+      "text": "Autograft"
+    },
+    {
+      "id": "C",
+      "text": "Xenograft"
+    },
+    {
+      "id": "D",
+      "text": "Isograft"
+    },
+    {
+      "id": "E",
+      "text": "Alloplast"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "An autograft is tissue transplanted from one site to another site on the same individual, so the graft is genetically identical to the host and no alloimmune rejection is possible. Split-thickness skin harvested from a patient's own thigh and placed on that same patient's burn wound is the classic clinical example, along with saphenous vein harvest for coronary artery bypass and bone harvested for spinal fusion. Because the tissue is self-derived, no HLA matching and no immunosuppression are required, and the graft becomes permanently incorporated once it is vascularized.",
+  "explanation_incorrect": {
+    "A": "An allograft comes from a genetically nonidentical member of the same species, such as cadaveric donor skin or a deceased-donor kidney, and would require immunosuppression.",
+    "C": "A xenograft is tissue transplanted between different species, such as porcine skin or a porcine heart valve, and provokes hyperacute rejection driven by preformed antibodies.",
+    "D": "An isograft is tissue transplanted between genetically identical individuals, classically identical twins or inbred mouse strains, not between two sites on one patient.",
+    "E": "An alloplast refers to a synthetic or nonbiologic implant material such as a Dacron graft or titanium alloy, which is not living transplanted tissue at all."
+  },
+  "educationalObjective": "An autograft is tissue moved from one site to another on the same patient, so it is genetically identical to the host and needs no HLA matching or immunosuppression.",
+  "source": "Generated from 2. Immunology.pdf - Transplantation: Graft types (autograft, allograft, xenograft)"
+},
+{
+  "id": "immuno-284",
+  "subject": "Immunology",
+  "major_topic": "Transplantation",
+  "subtopic": "Graft types (autograft, allograft, xenograft)",
+  "difficulty": "medium",
+  "vignette": "A 58-year-old man with end-stage aortic stenosis is scheduled for a valve replacement. Because he has a history of poorly controlled hypertension, dyslipidemia, and is on anticoagulation for atrial flutter with a high bleeding risk score, the surgeon recommends a bioprosthetic valve rather than a mechanical one. The valve selected is manufactured from glutaraldehyde-fixed bovine pericardium mounted on a stent. The patient, an engineer, asks how his immune system will react to the new valve and whether he will need immunosuppressive medication after surgery.",
+  "question": "Which of the following best describes this implant and the immune response it is expected to provoke?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It is an allograft, and it will require lifelong HLA-matched immunosuppression to prevent T-cell-mediated rejection"
+    },
+    {
+      "id": "B",
+      "text": "It is a xenograft, and it will undergo hyperacute rejection within minutes of implantation because of preformed antibodies against Gal epitopes"
+    },
+    {
+      "id": "C",
+      "text": "It is an isograft, and it will survive indefinitely because the donor and the recipient expression of MHC is identical"
+    },
+    {
+      "id": "D",
+      "text": "It is an autograft, and it will be rejected unless the patient receives induction therapy with a calcineurin inhibitor"
+    },
+    {
+      "id": "E",
+      "text": "It is a xenograft, but because the tissue is chemically crosslinked the protein antigens are stabilized and the valve does not require immunosuppression"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "A bovine pericardial valve is a xenogeneic tissue, so it is formally a xenograft. However, xenogeneic tissue is treated with glutaraldehyde, which covalently crosslinks and stabilizes the collagen and other proteins so that they are no longer recognized by host T cells or antibodies and cannot be degraded quickly. That is why a bioprosthetic valve is not immunologically rejected and needs no immunosuppression, a clinical advantage that offsets its limited durability and need for later replacement. Unfixed xenogeneic tissue, by contrast, is destroyed rapidly by preformed antibodies against carbohydrate epitopes such as galactose-alpha-1,3-galactose.",
+  "explanation_incorrect": {
+    "A": "An allograft is human tissue from a genetically nonidentical donor, and a bovine-derived valve is by definition from another species, not a human donor.",
+    "B": "Hyperacute rejection is characteristic of unfixed xenogeneic or ABO-incompatible grafts, but glutaraldehyde fixation crosslinks and neutralizes the target antigens, so this valve is not rejected.",
+    "C": "An isograft requires genetically identical individuals, which does not apply to tissue from a different species.",
+    "D": "An autograft is tissue from the patient's own body, and autografts are never rejected, so induction immunosuppression has no role in this setting."
+  },
+  "educationalObjective": "Glutaraldehyde-fixed bioprosthetic valves are xenografts, but chemical crosslinking removes their immunogenicity so that no immunosuppression is needed.",
+  "source": "Generated from 2. Immunology.pdf - Transplantation: Graft types (autograft, allograft, xenograft)"
+}
+]

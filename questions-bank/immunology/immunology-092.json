@@ -1,0 +1,125 @@
+[
+{
+  "id": "immuno-306",
+  "subject": "Immunology",
+  "major_topic": "Tumor Immunology",
+  "subtopic": "Tumor markers",
+  "difficulty": "easy",
+  "vignette": "A 26-year-old man presents with a 4 cm firm, painless testicular mass. Serum tumor markers are drawn before orchiectomy. Alpha-fetoprotein and beta-hCG are both normal, but lactate dehydrogenase is elevated at twice the upper limit of normal. Histopathology of the resected specimen shows uniform cells with glycogen-rich, clear cytoplasm that are intensely positive for a marker of pluripotency.",
+  "question": "Which of the following is the most likely diagnosis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Yolk sac tumor"
+    },
+    {
+      "id": "B",
+      "text": "Choriocarcinoma"
+    },
+    {
+      "id": "C",
+      "text": "Leydig cell tumor"
+    },
+    {
+      "id": "D",
+      "text": "Seminoma"
+    },
+    {
+      "id": "E",
+      "text": "Embryonal carcinoma"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Seminomas characteristically present in men in their 30s and are positive for the pluripotency marker OCT-4, consisting of uniform cells with clear, glycogen-rich cytoplasm and fibrous septa containing lymphocytes. AFP is never elevated in pure seminoma, and beta-hCG is elevated in only about 10 to 20 percent of cases. LDH is a nonspecific marker that reflects tumor burden and is the only elevated serum marker in many seminomas, so AFP elevation in a presumed seminoma should prompt a search for a nonseminomatous component.",
+  "explanation_incorrect": {
+    "A": "Yolk sac tumors are the most common nonseminomatous germ cell tumor in children and typically produce marked alpha-fetoprotein elevation, which is absent here.",
+    "B": "Choriocarcinoma shows prominent hemorrhage or necrosis and is associated with markedly elevated beta-hCG, which is normal in this patient.",
+    "C": "Leydig cell tumors produce testosterone and cause gynecomastia or precocious puberty; they are not germ cell tumors and do not express OCT-4.",
+    "E": "Embryonal carcinoma is a nonseminomatous germ cell tumor with prominent pleomorphism, necrosis, and usually elevated AFP or beta-hCG, but the histology here shows uniform clear cells."
+  },
+  "educationalObjective": "Pure seminoma typically has normal AFP with at most modest beta-hCG elevation; LDH reflects tumor burden, and OCT-4 supports the diagnosis histologically.",
+  "source": "Generated from 2. Immunology.pdf - Tumor Immunology: Tumor markers"
+},
+{
+  "id": "immuno-307",
+  "subject": "Immunology",
+  "major_topic": "Tumor Immunology",
+  "subtopic": "Tumor markers",
+  "difficulty": "medium",
+  "vignette": "A 67-year-old man with a 45-pack-year smoking history presents with hemoptysis and weight loss. Chest imaging shows a 5 cm central mass with mediastinal adenopathy. A biopsy is pending, but baseline labs show a carcinoembryonic antigen of 3 ng/mL, a chromogranin A that is mildly elevated, and a calcitonin level that is normal. The oncologist orders a serum marker to help distinguish the histologic subtype.",
+  "question": "Which tumor marker would be most useful in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Alpha-fetoprotein"
+    },
+    {
+      "id": "B",
+      "text": "CA 125"
+    },
+    {
+      "id": "C",
+      "text": "Calcitonin"
+    },
+    {
+      "id": "D",
+      "text": "Thyroglobulin"
+    },
+    {
+      "id": "E",
+      "text": "Neuron-specific enolase or progastrin-releasing peptide"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Progastrin-releasing peptide (ProGRP) and neuron-specific enolase are neuroendocrine markers used in the workup of small cell lung cancer, the subtype most strongly associated with central, bulky, rapidly growing tumors in heavy smokers. Neuron-specific enolase is also of classic importance in neuroblastoma, and chromogranin A is a pan-neuroendocrine marker that is sensitive but nonspecific. Squamous cell carcinoma antigen or CYFRA 21-1 would point toward squamous cell histology, while CEA is more associated with adenocarcinoma of the colon and lung.",
+  "explanation_incorrect": {
+    "A": "Alpha-fetoprotein is used for hepatocellular carcinoma and nonseminomatous germ cell tumors and has no role in classifying lung cancer.",
+    "B": "CA 125 is primarily an ovarian epithelial tumor marker and is not useful for distinguishing lung cancer subtypes.",
+    "C": "Calcitonin is a medullary thyroid carcinoma marker; it was already normal and does not evaluate the lung mass.",
+    "D": "Thyroglobulin is a marker for differentiated thyroid carcinoma and is not useful for a primary lung tumor."
+  },
+  "educationalObjective": "Neuroendocrine markers such as ProGRP and neuron-specific enolase support the diagnosis of small cell lung cancer, while squamous markers such as CYFRA 21-1 suggest squamous cell histology.",
+  "source": "Generated from 2. Immunology.pdf - Tumor Immunology: Tumor markers"
+},
+{
+  "id": "immuno-308",
+  "subject": "Immunology",
+  "major_topic": "Tumor Immunology",
+  "subtopic": "Tumor markers",
+  "difficulty": "hard",
+  "vignette": "A 71-year-old man with cirrhosis from chronic hepatitis C is found to have a 3.5 cm enhancing nodule in the right hepatic lobe. The alpha-fetoprotein level is 620 ng/mL. Triphasic CT shows arterial hyperenhancement with portal venous washout. He is treated with transarterial chemoembolization and, six months later, alpha-fetoprotein has fallen to 40 ng/mL. The team debates whether to reimage or rely on the marker.",
+  "question": "Which of the following best describes the principles governing this tumor marker's use?",
+  "options": [
+    {
+      "id": "A",
+      "text": "AFP levels should be used as the sole screening test for hepatocellular carcinoma in cirrhosis"
+    },
+    {
+      "id": "B",
+      "text": "AFP is specific to hepatocellular carcinoma and is never elevated in other conditions"
+    },
+    {
+      "id": "C",
+      "text": "A single AFP measurement establishes the diagnosis without imaging"
+    },
+    {
+      "id": "D",
+      "text": "AFP may reflect tumor burden and response to therapy but is neither sensitive nor specific enough to replace imaging for diagnosis or surveillance"
+    },
+    {
+      "id": "E",
+      "text": "AFP is a marker of gastrointestinal stromal tumors and should be used to monitor imatinib response"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Alpha-fetoprotein, normally made by the fetal yolk sac and liver, rises in hepatocellular carcinoma but also in yolk sac tumors, nonseminomatous germ cell tumors, and many benign liver conditions including cirrhosis, hepatitis, and pregnancy. Its sensitivity for small tumors is limited, so surveillance in cirrhosis relies on periodicity of imaging rather than AFP alone. Serially declining values can support a treatment response, but rising or persistently elevated levels should be confirmed by imaging or biopsy because a marker change is never a surrogate for restaging.",
+  "explanation_incorrect": {
+    "A": "Screening guidelines rely primarily on ultrasound at fixed intervals, with AFP as an optional adjunct at most; AFP alone misses many tumors and generates false positives in cirrhosis.",
+    "B": "AFP is also elevated in yolk sac tumors, hepatoblastoma, nonseminomatous germ cell tumors, and benign liver disease, so it is not specific.",
+    "C": "A single elevated AFP is nonspecific and does not establish the diagnosis; hepatocellular carcinoma diagnosis requires characteristic imaging or histopathology.",
+    "E": "Gastrointestinal stromal tumors are monitored with imaging and clinical parameters, not AFP, which has no role in that disease."
+  },
+  "educationalObjective": "AFP is a nonspecific marker that tracks tumor burden in hepatocellular carcinoma and germ cell tumors but cannot substitute for imaging in screening, diagnosis, or restaging.",
+  "source": "Generated from 2. Immunology.pdf - Tumor Immunology: Tumor markers"
+}
+]

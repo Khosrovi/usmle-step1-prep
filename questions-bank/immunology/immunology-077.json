@@ -1,0 +1,166 @@
+[
+{
+  "id": "immuno-253",
+  "subject": "Immunology",
+  "major_topic": "Lymphoid Structures",
+  "subtopic": "Thymus structure and T cell development",
+  "difficulty": "medium",
+  "vignette": "A 48-year-old woman presents with 3 months of fluctuating ptosis and diplopia that worsen in the evening, along with proximal muscle weakness. Anti-acetylcholine receptor antibodies are positive, and electromyography shows a decremental response to repetitive stimulation. Chest computed tomography shows a 5-cm anterior mediastinal mass, which is resected.",
+  "question": "Which of the following best characterizes this mass?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A neoplasm arising from thymic epithelial cells"
+    },
+    {
+      "id": "B",
+      "text": "A proliferation of malignant T lymphoblasts"
+    },
+    {
+      "id": "C",
+      "text": "A germ cell tumor arising from remnants of the third pharyngeal pouch"
+    },
+    {
+      "id": "D",
+      "text": "A benign proliferation of parathyroid chief cells"
+    },
+    {
+      "id": "E",
+      "text": "A hyperplastic lymph node containing Reed-Sternberg cells"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "The anterior mediastinal mass in a patient with myasthenia gravis is most likely a thymoma, a neoplasm of thymic epithelial cells. Thymomas disturb thymic architecture and are associated with autoimmunity, most commonly myasthenia gravis, but also pure red cell aplasia and hypogammaglobulinemia (Good syndrome). The mass is composed of neoplastic epithelial cells admixed with non-neoplastic lymphocytes, and the associated myasthenia reflects failure of normal central tolerance with production of anti-acetylcholine receptor antibodies.",
+  "explanation_incorrect": {
+    "B": "A T lymphoblast proliferation would be T cell acute lymphoblastic lymphoma, which presents with rapid growth and marrow involvement, not a stable thymoma with myasthenia.",
+    "C": "Germ cell tumors of the mediastinum arise from primordial germ cells, not from third pharyngeal pouch remnants, and are not associated with anti-acetylcholine receptor antibodies.",
+    "D": "Parathyroid chief cell hyperplasia occurs in the neck and causes hypercalcemia, not a thymic mass with myasthenia gravis.",
+    "E": "Hodgkin lymphoma can involve mediastinal nodes but shows Reed-Sternberg cells and does not produce this classic thymoma-myasthenia association."
+  },
+  "educationalObjective": "Thymoma is a thymic epithelial neoplasm associated with myasthenia gravis, pure red cell aplasia, and hypogammaglobulinemia.",
+  "source": "Generated from 2. Immunology.pdf - Lymphoid Structures: Thymus structure and T cell development"
+},
+{
+  "id": "immuno-254",
+  "subject": "Immunology",
+  "major_topic": "Lymphoid Structures",
+  "subtopic": "Thymus structure and T cell development",
+  "difficulty": "hard",
+  "vignette": "A 12-year-old girl presents with a 2-month history of oral thrush that persists despite nystatin, along with fatigue and weight loss. Laboratory studies show hypocalcemia and hyponatremia with hyperkalemia and a low cortisol level, consistent with adrenal insufficiency. Genetic testing reveals a mutation in the AIRE gene.",
+  "question": "The immunologic defect in this disorder reflects failure of which of the following processes?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Positive selection of T cells by cortical thymic epithelial cells"
+    },
+    {
+      "id": "B",
+      "text": "Peripheral deletion of autoreactive B cells in germinal centers"
+    },
+    {
+      "id": "C",
+      "text": "Medullary deletion of autoreactive T cells induced by self-antigens presented by thymic epithelial cells"
+    },
+    {
+      "id": "D",
+      "text": "Isotype switching in mucosal plasma cells"
+    },
+    {
+      "id": "E",
+      "text": "Negative selection of NK cells in the bone marrow"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "AIRE (autoimmune regulator) drives the expression of tissue-restricted self-antigens in medullary thymic epithelial cells, allowing developing T cells that recognize these peripheral antigens to be deleted during negative selection and supporting regulatory T cell generation. Loss of AIRE causes APECED (autoimmune polyendocrinopathy-candidiasis-ectodermal dystrophy), with autoimmunity against multiple endocrine organs, including the parathyroids and adrenal cortex. Chronic mucocutaneous candidiasis results from neutralizing autoantibodies against IL-17 and IL-22, which impair antifungal defense at mucosal surfaces.",
+  "explanation_incorrect": {
+    "A": "Positive selection in the cortex depends on MHC molecules, not AIRE, and is preserved; the defect here is central tolerance, not T cell generation.",
+    "B": "AIRE acts in the thymus on T cells; peripheral B cell deletion in germinal centers is not the mechanism of this disease.",
+    "D": "Isotype switching is intact, and the candidiasis is due to anti-cytokine autoantibodies rather than a class-switching defect.",
+    "E": "NK cell education occurs through MHC class I interactions and is not governed by AIRE in the thymic medulla."
+  },
+  "educationalObjective": "AIRE-dependent presentation of self-antigens by medullary thymic epithelial cells enables negative selection, and its loss causes APECED with multiorgan autoimmunity.",
+  "source": "Generated from 2. Immunology.pdf - Lymphoid Structures: Thymus structure and T cell development"
+},
+{
+  "id": "immuno-255",
+  "subject": "Immunology",
+  "major_topic": "Lymphoid Structures",
+  "subtopic": "Thymus structure and T cell development",
+  "difficulty": "hard",
+  "vignette": "A 7-month-old girl presents with failure to thrive, chronic diarrhea, and Pneumocystis jirovecii pneumonia. Laboratory studies show severe CD4+ lymphopenia with normal CD8+ counts and normal immunoglobulin levels. Genetic testing shows a defect in CIITA, the MHC class II transactivator, consistent with bare lymphocyte syndrome.",
+  "question": "Impaired interaction between which of the following cell pairs best explains her CD4+ lymphopenia?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Double-negative thymocytes and thymic macrophages in the subcapsular region"
+    },
+    {
+      "id": "B",
+      "text": "Mature T cells and antigen-presenting cells in the lymph node paracortex"
+    },
+    {
+      "id": "C",
+      "text": "T follicular helper cells and B cells in germinal centers"
+    },
+    {
+      "id": "D",
+      "text": "Thymocytes and thymic dendritic cells during medullary negative selection"
+    },
+    {
+      "id": "E",
+      "text": "Double-positive thymocytes and cortical thymic epithelial cells presenting peptide on MHC class II"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Positive selection occurs in the thymic cortex, where double-positive (CD4+CD8+) thymocytes must recognize self-peptide presented on MHC molecules; those that engage MHC class II on cortical thymic epithelial cells are rescued and commit to the CD4+ lineage. Without CIITA there is no MHC class II expression, so CD4+ lineage commitment fails and CD4+ T cells are profoundly reduced while CD8+ selection on MHC class I proceeds normally. The same MHC class II defect also cripples peripheral antigen presentation to the few CD4+ cells that do mature, explaining the severe susceptibility to opportunistic infection.",
+  "explanation_incorrect": {
+    "A": "Double-negative thymocytes interact with subcapsular macrophages during early maturation before MHC-restricted selection, and that step is intact here.",
+    "B": "Peripheral antigen presentation is indeed impaired, but it cannot explain the failure to generate CD4+ T cells, which occurs in the thymus.",
+    "C": "T follicular helper cell-B cell interactions generate humoral responses and immunoglobulins are normal in this patient.",
+    "D": "Medullary negative selection acts on autoreactive cells after lineage commitment and is not the cause of absent CD4+ T cells."
+  },
+  "educationalObjective": "CD4+ T cell lineage commitment requires positive selection on cortical thymic epithelial cells presenting self-peptide via MHC class II, which is absent in bare lymphocyte syndrome.",
+  "source": "Generated from 2. Immunology.pdf - Lymphoid Structures: Thymus structure and T cell development"
+},
+{
+  "id": "immuno-256",
+  "subject": "Immunology",
+  "major_topic": "Lymphoid Structures",
+  "subtopic": "Thymus structure and T cell development",
+  "difficulty": "easy",
+  "vignette": "A 78-year-old woman is admitted with severe influenza pneumonia despite having received the seasonal vaccine. She had measles in childhood and recovered uneventfully; her measles antibody titers remain high, and she responds vigorously to a booster tetanus vaccination. Flow cytometry shows markedly reduced naive CD45RA+ CD4+ T cells with preserved memory populations. Chest computed tomography shows no residual thymic tissue.",
+  "question": "Which of the following best explains these findings?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Loss of thymic Hassall corpuscles leads to autoimmunity rather than immunodeficiency"
+    },
+    {
+      "id": "B",
+      "text": "Age-related fatty involution of the thymus with reduced output of naive T cells"
+    },
+    {
+      "id": "C",
+      "text": "Impaired positive selection caused by thymic epithelial hyperplasia"
+    },
+    {
+      "id": "D",
+      "text": "Failure of class switch recombination in memory B cells"
+    },
+    {
+      "id": "E",
+      "text": "Defective M cell antigen sampling in the respiratory mucosa"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "The thymus reaches its greatest relative size in childhood and then undergoes progressive fatty involution with age, so thymic output of new naive T cells declines markedly after puberty and is nearly absent by the eighth decade. The existing memory T cell pool persists and expands, which is why responses to previously encountered pathogens and recall antigens remain intact while responses to novel pathogens, such as a novel influenza strain, are blunted. Hassall corpuscles in the medulla are whorls of keratinized epithelial cells and shrink with involution; they are markers of the medulla rather than the cause of immunodeficiency.",
+  "explanation_incorrect": {
+    "A": "Hassall corpuscles are medullary structures associated with regulatory T cell development, and their loss does not explain this patient's reduced naive T cell output.",
+    "C": "Positive selection is not impaired by thymic hyperplasia here; the thymus is involuted and fatty rather than hyperplastic.",
+    "D": "Class switch recombination is intact in this patient, whose anamnestic tetanus and measles antibody responses are vigorous.",
+    "E": "M cell sampling is a mucosal antigen uptake mechanism unrelated to the age-related decline in thymic output of naive T cells."
+  },
+  "educationalObjective": "Age-related thymic involution reduces naive T cell output while preserving memory responses, explaining impaired responses to novel pathogens in older adults.",
+  "source": "Generated from 2. Immunology.pdf - Lymphoid Structures: Thymus structure and T cell development"
+}
+]

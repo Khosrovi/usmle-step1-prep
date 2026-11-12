@@ -1,0 +1,125 @@
+[
+{
+  "id": "immuno-206",
+  "subject": "Immunology",
+  "major_topic": "Immunodeficiencies",
+  "subtopic": "Wiskott-Aldrich syndrome",
+  "difficulty": "medium",
+  "vignette": "A 1-year-old boy presents with small, pinpoint bruises on his arms and legs, an oozing eczematous rash on his face and trunk, and a history of recurrent ear infections. He has had episodes of bloody diarrhea. Laboratory studies show a platelet count of 28,000/microliter with platelets that appear small on peripheral smear, normal neutrophil and lymphocyte counts, low IgM, high IgA and IgE, and normal IgG. Family history is notable for an uncle who died of bleeding at age 3.",
+  "question": "Which of the following is the most likely diagnosis, and what is the underlying defect?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Chediak-Higashi syndrome with giant granules"
+    },
+    {
+      "id": "B",
+      "text": "Leukocyte adhesion deficiency from CD18 deficiency"
+    },
+    {
+      "id": "C",
+      "text": "Bernard-Soulier syndrome with giant platelets"
+    },
+    {
+      "id": "D",
+      "text": "Wiskott-Aldrich syndrome caused by a WAS gene mutation impairing actin cytoskeletal function in hematopoietic cells"
+    },
+    {
+      "id": "E",
+      "text": "Severe combined immunodeficiency from RAG1 deficiency"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Wiskott-Aldrich syndrome is an X-linked recessive disorder from WAS gene mutations that disrupt WASP, a regulator of actin polymerization in hematopoietic cells. The classical triad is microthrombocytopenia (small platelets, low number), eczema, and immunodeficiency with recurrent infections. Patients characteristically have elevated IgA and IgE with low IgM and impaired humoral responses to polysaccharides; bleeding, including bloody diarrhea, is a result of the platelet defect. Definitive therapy is hematopoietic stem cell transplantation.",
+  "explanation_incorrect": {
+    "A": "Chediak-Higashi features giant lysosomal granules and partial albinism, not the triad of small platelets, eczema, and immunodeficiency.",
+    "B": "LAD (CD18 deficiency) causes delayed cord separation, neutrophilia, and infections without pus, and platelets are normal in size and number.",
+    "C": "Bernard-Soulier syndrome also causes macrothrombocytopenia, but the platelets are giant rather than small and there is no eczema or immunodeficiency.",
+    "E": "RAG1 deficiency is autosomal recessive SCID with absent T and B cells, which does not match the platelet defect and immunoglobulin pattern."
+  },
+  "educationalObjective": "Wiskott-Aldrich syndrome is X-linked WAS mutation causing microthrombocytopenia, eczema, and immunodeficiency with low IgM and elevated IgA and IgE.",
+  "source": "Generated from 2. Immunology.pdf - Immunodeficiencies: Wiskott-Aldrich syndrome"
+},
+{
+  "id": "immuno-207",
+  "subject": "Immunology",
+  "major_topic": "Immunodeficiencies",
+  "subtopic": "Wiskott-Aldrich syndrome",
+  "difficulty": "hard",
+  "vignette": "A 3-year-old boy with Wiskott-Aldrich syndrome develops persistent fever, lymphadenopathy, and hepatosplenomegaly with worsening cytopenias. Epstein-Barr virus DNA levels are rising, and lymph node biopsy shows an EBV-driven B-cell lymphoproliferative disorder. His platelet count is 15,000/microliter with petechiae. He had a splenectomy previously for refractory thrombocytopenia.",
+  "question": "Which of the following best explains his increased risk of this complication?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Absent splenic function eliminates a critical source of T-cell help"
+    },
+    {
+      "id": "B",
+      "text": "WAS mutations impair T-cell activation, NK-cell function, and antibody responses, reducing control of EBV-infected B cells"
+    },
+    {
+      "id": "C",
+      "text": "Absent neutrophils reduce clearance of viral particles"
+    },
+    {
+      "id": "D",
+      "text": "Deficiency of terminal complement allows EBV-infected cells to evade lysis"
+    },
+    {
+      "id": "E",
+      "text": "Elevated IgA neutralizes EBV and paradoxically promotes infection of lymphocytes"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Wiskott-Aldrich syndrome causes combined humoral and cellular immunodeficiency: defective T-cell activation and proliferation, impaired NK-cell cytotoxicity, and poor antibody responses to polysaccharide antigens. The resulting loss of control of EBV-infected B cells predisposes to EBV-driven B-cell lymphoproliferative disease and lymphoma, which is a major cause of death. Splenectomy relieves thrombocytopenia but adds pneumococcal and other encapsulated-organism risk, and hematologic malignancy remains a concern regardless.",
+  "explanation_incorrect": {
+    "A": "The spleen is not a primary source of T-cell help; EBV susceptibility in WAS reflects intrinsic T-cell and NK-cell defects rather than splenectomy.",
+    "C": "Neutrophil counts are normal in WAS, so this cannot account for the impaired viral control.",
+    "D": "Terminal complement deficiency predisposes to Neisseria disease, and EBV control depends primarily on T cells and NK cells.",
+    "E": "IGA does not promote EBV infection of lymphocytes, and elevated IgA is an associated finding, not a mechanism of lymphoproliferation."
+  },
+  "educationalObjective": "WAS causes combined T-cell, NK-cell, and antibody defects that impair EBV control, predisposing to EBV-driven lymphoproliferative disease and lymphoma.",
+  "source": "Generated from 2. Immunology.pdf - Immunodeficiencies: Wiskott-Aldrich syndrome"
+},
+{
+  "id": "immuno-208",
+  "subject": "Immunology",
+  "major_topic": "Immunodeficiencies",
+  "subtopic": "Wiskott-Aldrich syndrome",
+  "difficulty": "easy",
+  "vignette": "A 6-month-old boy is noted to have petechiae on the trunk and a generalized eczematous rash that has not responded to moisturizers. His mother reports frequent soft tissue infections and that he has had a bloody diaper. Platelet count is 30,000/microliter; the peripheral smear shows platelets that are markedly smaller than normal. Immunoglobulin testing reveals low IgM, elevated IgA, and elevated IgE. A maternal cousin has a similar history.",
+  "question": "Which of the following would be the most appropriate next step in long-term management for the severity of his condition?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Observation only, since the platelet count will normalize by adolescence"
+    },
+    {
+      "id": "B",
+      "text": "Avoid all vaccinations indefinitely, including killed vaccines"
+    },
+    {
+      "id": "C",
+      "text": "Consider hematopoietic stem cell transplantation as definitive therapy"
+    },
+    {
+      "id": "D",
+      "text": "Start daily aspirin for platelet function support"
+    },
+    {
+      "id": "E",
+      "text": "Perform an adrenalectomy for the eczema"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Classic Wiskott-Aldrich syndrome is a severe combined cellular and humoral immunodeficiency that is often fatal by adolescence from bleeding, infection, or malignancy without definitive therapy. Allogeneic hematopoietic stem cell transplantation, ideally in early childhood, is curative and is the treatment of choice. In the interim, immunoglobulin replacement, prophylactic antibiotics, and platelet support are used; live vaccines are avoided, but killed vaccines and standard bacterial conjugate vaccines are appropriate.",
+  "explanation_incorrect": {
+    "A": "The microthrombocytopenia does not spontaneously resolve, and untreated classic WAS carries a high risk of fatal bleeding and infection.",
+    "B": "Killed and conjugate vaccines are safe and useful in WAS; only live attenuated vaccines are avoided.",
+    "D": "Aspirin inhibits platelet function and would worsen the bleeding risk in a patient with microthrombocytopenia.",
+    "E": "Eczema in WAS is managed with emollients, topical corticosteroids, and treatment of underlying immunodeficiency, not adrenal surgery."
+  },
+  "educationalObjective": "Hematopoietic stem cell transplantation is the curative therapy for classic Wiskott-Aldrich syndrome, with immunoglobulin and antibiotic support in the interim.",
+  "source": "Generated from 2. Immunology.pdf - Immunodeficiencies: Wiskott-Aldrich syndrome"
+}
+]

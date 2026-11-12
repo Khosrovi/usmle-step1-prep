@@ -1,0 +1,125 @@
+[
+{
+  "id": "immuno-020",
+  "subject": "Immunology",
+  "major_topic": "Antibodies and Immunoglobulins",
+  "subtopic": "IgM",
+  "difficulty": "easy",
+  "vignette": "A 30-year-old woman presents at 10 weeks of gestation for prenatal screening. She recalls a febrile rash illness in the first trimester. Serum studies later show toxoplasma-specific IgM, and her obstetrician explains that a positive IgM in the neonate would indicate congenital infection acquired in utero rather than passively transferred maternal antibody.",
+  "question": "Which of the following best explains why IgM is used in neonatal testing to detect congenital infection?",
+  "options": [
+    {
+      "id": "A",
+      "text": "IgM is the first antibody produced in an immune response and does not cross the placenta"
+    },
+    {
+      "id": "B",
+      "text": "IgM is the only immunoglobulin that crosses the placenta"
+    },
+    {
+      "id": "C",
+      "text": "IgM is produced by T cells in the fetus"
+    },
+    {
+      "id": "D",
+      "text": "IgM has the longest serum half-life of all immunoglobulins"
+    },
+    {
+      "id": "E",
+      "text": "IgM is a monomer with high affinity and short half-life"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "IgM is the first immunoglobulin class produced in a primary immune response and is a pentamer that cannot cross the placenta because of its large size. Detection of IgM in a newborn's serum therefore indicates in utero production by the fetus, that is, congenital infection with agents such as Toxoplasma, rubella, CMV, or Treponema pallidum. Maternal IgM also cannot reach the fetus, so a positive neonatal IgM cannot represent passive transfer.",
+  "explanation_incorrect": {
+    "B": "IgG is the immunoglobulin that crosses the placenta; IgM, as a pentamer, is far too large to do so.",
+    "C": "All immunoglobulins are made by B cells and plasma cells, not by T cells.",
+    "D": "IgG has the longest half-life at about 3 weeks, whereas IgM is cleared in roughly 5 days.",
+    "E": "IgM is a pentamer, not a monomer; high-affinity monomers describe IgG."
+  },
+  "educationalObjective": "IgM is the first antibody produced in a primary response and, because its pentameric size prevents placental transfer, neonatal IgM signals congenital infection.",
+  "source": "Generated from 2. Immunology.pdf - Antibodies and Immunoglobulins: IgM"
+},
+{
+  "id": "immuno-021",
+  "subject": "Immunology",
+  "major_topic": "Antibodies and Immunoglobulins",
+  "subtopic": "IgM",
+  "difficulty": "hard",
+  "vignette": "A 55-year-old man has a biopsy of an enlarged lymph node showing a monoclonal population of B cells. Serum protein electrophoresis shows an unusually high viscosity and a large M spike. He reports blurred vision and epistaxis, and the ophthalmologist sees dilated retinal veins. Serum viscosity is markedly elevated.",
+  "question": "Which property of the M-protein best explains the hyperviscosity in this patient's macroglobulinemia?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It is a pentamer with high molecular weight and ten antigen-binding sites"
+    },
+    {
+      "id": "B",
+      "text": "It opsonizes bacteria and is cleared quickly by the liver"
+    },
+    {
+      "id": "C",
+      "text": "It is the only complement-fixing antibody"
+    },
+    {
+      "id": "D",
+      "text": "It is the immunoglobulin that crosses the placenta"
+    },
+    {
+      "id": "E",
+      "text": "It has a very long half-life of several weeks"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "IgM is a pentamer of five monomeric subunits held together by disulfide bonds and a J chain, with a molecular weight of about 900 kDa. In Waldenstrom macroglobulinemia this large pentameric immunoglobulin accumulates in the circulation and markedly increases serum viscosity, producing blurred vision, retinal venous engorgement, mucosal bleeding, and neurologic symptoms. Its high valency of ten antigen-binding sites also makes IgM an efficient complement activator.",
+  "explanation_incorrect": {
+    "B": "Rapid hepatic clearance of opsonized material would lower serum viscosity rather than raise it, so this does not explain the presentation.",
+    "C": "IgM is the most efficient classical complement activator, but IgG1 and IgG3 also fix complement, so it is not the only one.",
+    "D": "IgG rather than IgM crosses the placenta; IgM's large size is in fact central to the hyperviscosity problem.",
+    "E": "IgM has the shortest half-life among the major isotypes at about 5 days, not several weeks."
+  },
+  "educationalObjective": "IgM is a large J-chain-linked pentamer, so its accumulation in Waldenstrom macroglobulinemia causes hyperviscosity syndrome.",
+  "source": "Generated from 2. Immunology.pdf - Antibodies and Immunoglobulins: IgM"
+},
+{
+  "id": "immuno-022",
+  "subject": "Immunology",
+  "major_topic": "Antibodies and Immunoglobulins",
+  "subtopic": "IgM",
+  "difficulty": "medium",
+  "vignette": "A 38-year-old woman has a positive heterophile antibody test and symptoms of fever, sore throat, lymphadenopathy, and fatigue consistent with infectious mononucleosis. The heterophile test relies on agglutination of sheep red blood cells by her antibody.",
+  "question": "The ability of the responsible antibody to agglutinate red cells efficiently is most strongly associated with which immunoglobulin property?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Binding to mast cells through high-affinity Fc epsilon receptors"
+    },
+    {
+      "id": "B",
+      "text": "Placental transfer via FcRn"
+    },
+    {
+      "id": "C",
+      "text": "A pentameric structure with ten antigen-binding sites, making it a potent agglutinin"
+    },
+    {
+      "id": "D",
+      "text": "Presence of a secretory component and J chain in secretions"
+    },
+    {
+      "id": "E",
+      "text": "Surface expression as a monomeric B-cell receptor on naive B cells"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "The heterophile antibody in infectious mononucleosis is classically an IgM that reacts with horse or sheep red blood cell antigens. Because IgM is a pentamer with ten antigen-combining sites, a single molecule can bridge multiple red cells simultaneously and produce visible agglutination even at low concentrations. Pentameric IgM is also a potent classical complement activator and is the first antibody made in a primary response.",
+  "explanation_incorrect": {
+    "A": "IgE, not IgM, sensitizes mast cells through Fc epsilon receptors, and it does not agglutinate red blood cells.",
+    "B": "Placental transfer via FcRn is an IgG property and has nothing to do with the agglutinating efficiency of the heterophile antibody.",
+    "D": "A secretory component identifies secretory IgA in mucosa, which is a poor agglutinin compared with pentameric IgM.",
+    "E": "A monomeric surface immunoglobulin describes IgD or monomeric IgM on B cells and does not provide the multi-site cross-linking needed for agglutination."
+  },
+  "educationalObjective": "Pentameric IgM's ten antigen-binding sites make it a potent agglutinin, which underlies the heterophile antibody test for infectious mononucleosis.",
+  "source": "Generated from 2. Immunology.pdf - Antibodies and Immunoglobulins: IgM"
+}
+]

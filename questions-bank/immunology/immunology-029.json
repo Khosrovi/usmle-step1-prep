@@ -1,0 +1,207 @@
+[
+{
+  "id": "immuno-087",
+  "subject": "Immunology",
+  "major_topic": "Cellular Components",
+  "subtopic": "CD surface markers",
+  "difficulty": "easy",
+  "vignette": "A 24-year-old man is found to have very low CD4+ T-cell counts and an inverted CD4:CD8 ratio after a positive HIV screen. The clinician wants to quantify the helper T-cell compartment directly using flow cytometry of whole blood.",
+  "question": "Which combination of surface markers defines the helper T-cell population he lacks?",
+  "options": [
+    {
+      "id": "A",
+      "text": "CD3+ CD4+ CD8-"
+    },
+    {
+      "id": "B",
+      "text": "CD3+ CD8+ CD4-"
+    },
+    {
+      "id": "C",
+      "text": "CD19+ CD20+ CD3-"
+    },
+    {
+      "id": "D",
+      "text": "CD16+ CD56+ CD3-"
+    },
+    {
+      "id": "E",
+      "text": "CD14+ CD11b+ CD3-"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Helper T cells are CD3+ (T-cell receptor complex) and co-express CD4, which binds MHC class II; they are CD8-negative because the two co-receptors are mutually exclusive on mature single-positive T cells. HIV gp120 binds CD4, so these cells are the principal target of infection and their depletion is what is measured as the CD4 count. The hallmark lab pattern is a CD4 count below 200 cells/microL with inversion of the normal CD4:CD8 ratio.",
+  "explanation_incorrect": {
+    "B": "This is the cytotoxic T-cell phenotype that recognizes MHC class I and is relatively spared in early HIV infection.",
+    "C": "CD19 and CD20 mark B cells, which are only transiently depleted by HIV and are not the cells counted to stage disease.",
+    "D": "CD16 and CD56 without CD3 identify NK cells, which mediate innate cytotoxicity and do not bind gp120 via CD4.",
+    "E": "CD14 and CD11b mark monocytes and macrophages, not the helper T-cell population."
+  },
+  "educationalObjective": "CD4+ helper T cells are CD3+ CD4+ CD8-, and their destruction by HIV underlies the inverted CD4:CD8 ratio used to stage disease.",
+  "source": "Generated from 2. Immunology.pdf - Cellular Components: CD surface markers"
+},
+{
+  "id": "immuno-088",
+  "subject": "Immunology",
+  "major_topic": "Cellular Components",
+  "subtopic": "CD surface markers",
+  "difficulty": "medium",
+  "vignette": "A 6-year-old boy has recurrent sinopulmonary infections, poor wound healing, and absent tonsils. Immunophenotyping shows normal T-cell and NK-cell numbers but virtually absent B cells. Genetic testing shows a defect in a tyrosine kinase required for pre-B-cell receptor signaling.",
+  "question": "Which surface marker is characteristically absent from this child's lymphocytes despite a preserved T-cell compartment?",
+  "options": [
+    {
+      "id": "A",
+      "text": "CD3"
+    },
+    {
+      "id": "B",
+      "text": "CD8"
+    },
+    {
+      "id": "C",
+      "text": "CD56"
+    },
+    {
+      "id": "D",
+      "text": "CD19"
+    },
+    {
+      "id": "E",
+      "text": "CD16"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "This is X-linked agammaglobulinemia (Bruton), caused by a mutation in BTK, a tyrosine kinase needed to transduce signals from the pre-B-cell receptor and B-cell receptor. B-cell development arrests at the pro-B-cell stage, so mature CD19+ B cells are absent while T cells and NK cells develop normally. CD19 is therefore the pan-B marker used to demonstrate the missing population.",
+  "explanation_incorrect": {
+    "A": "CD3 is part of the T-cell receptor complex, and T cells are numerically normal in X-linked agammaglobulinemia.",
+    "B": "CD8 marks cytotoxic T cells, which are unaffected because BTK is not required for T-cell development.",
+    "C": "CD56 marks NK cells, which are preserved; NK cells are a key line of defense in these patients.",
+    "E": "CD16 marks NK cells and neutrophils, which mature normally in this disease."
+  },
+  "educationalObjective": "BTK deficiency (X-linked agammaglobulinemia) arrests B-cell development at the pro-B stage, giving absent CD19+ B cells with normal T- and NK-cell numbers.",
+  "source": "Generated from 2. Immunology.pdf - Cellular Components: CD surface markers"
+},
+{
+  "id": "immuno-089",
+  "subject": "Immunology",
+  "major_topic": "Cellular Components",
+  "subtopic": "CD surface markers",
+  "difficulty": "medium",
+  "vignette": "A 47-year-old woman with relapsed diffuse large B-cell lymphoma is started on rituximab in combination with chemotherapy. Six weeks later she develops multiple new pulmonary nodules with fever and hypoxemia after receiving an influenza vaccine.",
+  "question": "The mechanism of rituximab's therapeutic effect is directed against which cell surface molecule?",
+  "options": [
+    {
+      "id": "A",
+      "text": "CD3, causing T-cell depletion"
+    },
+    {
+      "id": "B",
+      "text": "CD20, a pan-B-cell marker absent on plasma cells"
+    },
+    {
+      "id": "C",
+      "text": "CD25, the high-affinity IL-2 receptor alpha chain"
+    },
+    {
+      "id": "D",
+      "text": "CD52, found on lymphocytes and monocytes"
+    },
+    {
+      "id": "E",
+      "text": "CD33, a myeloid marker expressed on blasts"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Rituximab is a chimeric monoclonal antibody against CD20, a transmembrane protein present on pre-B and mature B cells but not on pro-B cells or plasma cells, which is why long-lived plasma cells and their protective titers survive therapy. Binding triggers complement- and antibody-dependent cytotoxicity. Its B-cell depletion explains the impaired primary antibody responses after vaccination seen in this patient.",
+  "explanation_incorrect": {
+    "A": "Anti-CD3 antibodies such as muromonab or teplizumab target T cells and are used for transplantation or type 1 diabetes, not B-cell lymphoma.",
+    "C": "Anti-CD25 targets the IL-2 receptor alpha chain that is expressed on activated T cells, the mechanism of basiliximab.",
+    "D": "Campath (alemtuzumab) targets CD52, which is expressed broadly on lymphocytes and monocytes, unlike CD20's B-cell restriction.",
+    "E": "Anti-CD33 is gemtuzumab ozogamicin, an antibody-drug conjugate for acute myeloid leukemia."
+  },
+  "educationalObjective": "Rituximab targets the B-cell marker CD20, sparing plasma cells and their established antibody production but impairing new humoral responses.",
+  "source": "Generated from 2. Immunology.pdf - Cellular Components: CD surface markers"
+},
+{
+  "id": "immuno-090",
+  "subject": "Immunology",
+  "major_topic": "Cellular Components",
+  "subtopic": "CD surface markers",
+  "difficulty": "hard",
+  "vignette": "A 3-month-old boy has repeated episodes of pneumonia, chronic diarrhea, and extensive candidiasis after receiving a live oral rotavirus vaccine, after which he developed persistent diarrhea. Flow cytometry shows no CD3+ T cells at all, absent CD19+ B cells, and normal CD16+/CD56+ cells. Lymphocyte count is normal.",
+  "question": "Which explanation is most consistent with these findings?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Absence of the thymus with impaired T-cell education"
+    },
+    {
+      "id": "B",
+      "text": "Isolated defect in BTK signaling"
+    },
+    {
+      "id": "C",
+      "text": "Defective NK-cell function with preserved T cells"
+    },
+    {
+      "id": "D",
+      "text": "Defective common gamma chain or IL-7 receptor signaling impairing T-cell development"
+    },
+    {
+      "id": "E",
+      "text": "Neutropenia impairing bacterial killing"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Severe combined immunodeficiency from X-linked common gamma chain (IL2RG) or autosomal-recessive IL-7 receptor defects blocks T-cell development entirely, and the absent T cells also impair B-cell help, so B cells are functionally and numerically deficient. NK cells are often present in normal numbers in the gamma chain and JAK3 forms, matching this child's flow cytometry. The normal total lymphocyte count can be misleading because NK cells and B cells fill the count while CD3+ T cells are absent, and live vaccines are contraindicated.",
+  "explanation_incorrect": {
+    "A": "DiGeorge syndrome removes thymic education of T cells but T cells are present in low numbers rather than entirely absent, and B cells are normal.",
+    "B": "A BTK defect causes X-linked agammaglobulinemia with absent B cells but normal or increased T cells, opposite to this pattern.",
+    "C": "NK-cell functional defects such as GATA2 or MCM4 deficiency do not explain the total loss of CD3+ and CD19+ cells.",
+    "E": "Neutropenia causes bacterial infections but does not produce absent T and B lymphocytes or vaccine-associated disease."
+  },
+  "educationalObjective": "A T-negative, B-negative, NK-positive SCID pattern suggests common gamma chain or JAK3 deficiency, with retained NK cells but no adaptive lymphocytes.",
+  "source": "Generated from 2. Immunology.pdf - Cellular Components: CD surface markers"
+},
+{
+  "id": "immuno-091",
+  "subject": "Immunology",
+  "major_topic": "Cellular Components",
+  "subtopic": "CD surface markers",
+  "difficulty": "hard",
+  "vignette": "A 9-year-old girl presents with non-immune hemolytic anemia and thrombocytopenia after an Epstein-Barr virus infection. Flow cytometry shows she has very low numbers of a lymphocyte population that would normally be distinguished by co-expression of CD19, CD5, and CD27, and a high titer of an autoantibody is detected.",
+  "question": "Which lymphocyte subset is depleted in this patient, and what role does the marker CD27 denote?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Naive cytotoxic T cells; CD27 marks recent thymic emigrants"
+    },
+    {
+      "id": "B",
+      "text": "CD8+ effector T cells; CD27 marks activation"
+    },
+    {
+      "id": "C",
+      "text": "Memory B cells; CD27 is a memory marker on B cells that can also synthesize autoantibody after EBV-driven polyclonal activation"
+    },
+    {
+      "id": "D",
+      "text": "Natural killer T cells; CD27 marks invariant NKT receptors"
+    },
+    {
+      "id": "E",
+      "text": "Plasma cells; CD27 marks the secretory compartment"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "CD27 is the classic memory marker for human B cells, which also retain CD19 and CD5 (the CD5+ B-1-like subset that makes natural autoantibodies). EBV infects B cells through CD21, expanding CD5+ B cells and driving polyclonal autoantibody production that causes cold-type autoagglutinins and immune thrombocytopenia. The clinical lesson is that viral B-cell activation is a common trigger of transient autoimmune cytopenias in children.",
+  "explanation_incorrect": {
+    "A": "CD27 can mark some T cells, but the CD19 co-expression identifies a B-cell subset, not cytotoxic T cells.",
+    "B": "CD19 is not expressed on CD8+ T cells, and CD8 effectors do not explain antibody-mediated hemolysis.",
+    "D": "NKT cells are CD3+ and do not routinely express CD19; they also do not produce autoantibody.",
+    "E": "Terminally differentiated plasma cells lose CD19 and CD20 and are defined by CD138, not CD27 alone."
+  },
+  "educationalObjective": "CD27 identifies memory B cells and CD5+ B-1-like B cells, which expand after EBV infection and can generate transient autoimmune hemolytic anemia.",
+  "source": "Generated from 2. Immunology.pdf - Cellular Components: CD surface markers"
+}
+]

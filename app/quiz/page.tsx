@@ -21,12 +21,38 @@ interface Question {
   explanation_incorrect: Record<string, string>;
 }
 
+/** Length of a timed exam sitting, matching the "20 questions in 10 minutes" goal. */
+const EXAM_LENGTH = 40;
+
+/** Fisher-Yates: an unbiased shuffle, unlike sort(() => Math.random() - 0.5). */
+function shuffle<T>(items: T[]): T[] {
+  const copy = [...items];
+  for (let i = copy.length - 1; i > 0; i -= 1) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [copy[i], copy[j]] = [copy[j], copy[i]];
+  }
+  return copy;
+}
+
 function QuizContent() {
   const searchParams = useSearchParams();
   const router = useRouter();
   const subject = searchParams.get("subject") || "Biochemistry";
   const mode = searchParams.get("mode") || "mixed";
   const subtopic = searchParams.get("subtopic") || "";
+  // "Practice weakest topics" passes a comma-separated set of subtopics.
+  const subtopicsParam = searchParams.get("subtopics") || "";
+  const isExam = mode === "exam";
+
+  // Every exam attempt gets its own id so /exam-results can regroup the
+  // answers later. Generated once per mounted quiz, not per render.
+  const [examId] = useState(() => {
+    if (typeof crypto !== "undefined" && "randomUUID" in crypto) {
+      return crypto.randomUUID();
+    }
+    return `exam-${Date.now()}-${Math.random().toString(16).slice(2)}`;
+  });
+  const examStartedAt = useRef<number>(0);
 
   const [questions, setQuestions] = useState<Question[]>([]);
   const [currentIndex, setCurrentIndex] = useState(0);
@@ -35,6 +61,7 @@ function QuizContent() {
   const [loading, setLoading] = useState(true);
   const [timer, setTimer] = useState(0);
   const [timerEnabled, setTimerEnabled] = useState(false);
+  const [progressSaveFailed, setProgressSaveFailed] = useState(false);
   const timerRef = useRef<NodeJS.Timeout | null>(null);
 
   useEffect(() => {
@@ -78,17 +105,40 @@ function QuizContent() {
         query = query.eq("subtopic", subtopic);
       }
 
-      const { data, error } = await query.order("id", { ascending: true });
+      // Weak-area practice: a set of subtopics chosen from /stats.
+      const weakTopics = subtopicsParam
+        .split(",")
+        .map((s) => s.trim())
+        .filter(Boolean);
+      if (mode === "weak" && weakTopics.length > 0) {
+        query = query.in("subtopic", weakTopics);
+      }
+
+      // PostgREST caps a response at 1000 rows unless a range is explicit, so
+      // biology-sized banks stay intact regardless of how big a subject grows.
+      const { data, error } = await query
+        .order("id", { ascending: true })
+        .range(0, 4999);
 
       if (error) throw error;
 
       let loadedQuestions = data || [];
-      if (mode === "mixed" && loadedQuestions.length > 0) {
-        loadedQuestions = loadedQuestions.sort(() => Math.random() - 0.5);
+      if (mode === "mixed" || isExam || mode === "weak") {
+        loadedQuestions = shuffle(loadedQuestions);
+      }
+      // An exam is a fixed-length sitting; mixed practice can run the whole bank.
+      if (isExam) {
+        loadedQuestions = loadedQuestions.slice(0, EXAM_LENGTH);
+      }
+      // A weak-area drill stays in one short sitting.
+      if (mode === "weak") {
+        loadedQuestions = loadedQuestions.slice(0, EXAM_LENGTH);
       }
 
       setQuestions(loadedQuestions);
       setTimer(0);
+      setTimerEnabled(isExam);
+      examStartedAt.current = Date.now();
     } catch (error) {
       console.error("Error loading questions:", error);
     } finally {
@@ -103,11 +153,30 @@ function QuizContent() {
     }
 
     const currentQuestion = questions[currentIndex];
-    await supabase.from("user_progress").insert({
+    // Progress is best-effort: a rejected write (for example row-level security
+    // not yet configured for anonymous users) must not interrupt the session.
+    const { error } = await supabase.from("user_progress").insert({
       question_id: currentQuestion.id,
       is_correct: isCorrect,
       selected_answer: selectedAnswer,
+      exam_id: isExam ? examId : null,
     });
+    if (error) {
+      console.warn("Could not save progress:", error.message);
+      setProgressSaveFailed(true);
+    }
+  };
+
+  const handleFinishExam = () => {
+    const params = new URLSearchParams({
+      examId,
+      subject,
+      total: String(questions.length),
+      answered: String(answeredCount),
+      correct: String(correctCount),
+      duration: String(Math.round((Date.now() - examStartedAt.current) / 1000)),
+    });
+    router.push(`/exam-results?${params.toString()}`);
   };
 
   const handlePrevious = () => {
@@ -221,6 +290,17 @@ function QuizContent() {
       </header>
 
       <div className="max-w-6xl mx-auto p-8">
+        {progressSaveFailed && (
+          <div className="mb-4 rounded-lg border border-yellow-300 bg-yellow-50 px-4 py-3 text-sm text-yellow-900 dark:border-yellow-800 dark:bg-yellow-950/50 dark:text-yellow-200">
+            Your answers are being graded, but progress could not be saved, so
+            statistics and exam review will be empty. The database needs the
+            anonymous access policies from{" "}
+            <code className="font-mono text-xs">
+              supabase/migrations/0001_anonymous_progress_policies.sql
+            </code>
+            .
+          </div>
+        )}
         <QuestionCard
           key={currentQuestion.id}
           question={{
@@ -255,6 +335,14 @@ function QuizContent() {
           >
             Next →
           </Button>
+          {isExam && (
+            <Button
+              onClick={handleFinishExam}
+              className="flex-1 bg-purple-600 hover:bg-purple-700 text-white"
+            >
+              Finish Exam ({answeredCount}/{totalQuestions})
+            </Button>
+          )}
         </div>
       </div>
     </main>

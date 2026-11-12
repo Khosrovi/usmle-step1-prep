@@ -1,0 +1,125 @@
+[
+{
+  "id": "immuno-070",
+  "subject": "Immunology",
+  "major_topic": "B Cell Activation",
+  "subtopic": "T-dependent vs T-independent antigens",
+  "difficulty": "medium",
+  "vignette": "A 3-year-old girl with sickle cell disease is admitted with fever and a swollen, painful right hand consistent with dactylitis. Blood cultures grow Streptococcus pneumoniae. Her parents report that she received the full routine childhood series but never received the 23-valent polysaccharide pneumococcal vaccine, and her records show she has had no 13-valent conjugate pneumococcal vaccine either. Despite documented infection with this organism, her serum shows only the pre-existing anti-polysaccharide antibody generated at the time of infection and no evidence of an expanded, class-switched, high-affinity response.",
+  "question": "Which feature best explains why the plain polysaccharide capsular antigens of this organism evoke a limited, short-lived antibody response without immunoglobulin class switching?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Polysaccharides are recognized only by gamma-delta T cells that provide B cell help through MHC class I"
+    },
+    {
+      "id": "B",
+      "text": "Polysaccharides directly inhibit BTK, blocking the ITAM signaling cascade"
+    },
+    {
+      "id": "C",
+      "text": "Polysaccharides cannot be bound by surface IgM because they lack peptide epitopes"
+    },
+    {
+      "id": "D",
+      "text": "Polysaccharides require prior opsonization by C3b to be recognized by the B cell receptor"
+    },
+    {
+      "id": "E",
+      "text": "Polysaccharides cannot be processed and presented with MHC class II, so they fail to recruit CD4+ T cell help"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Carbohydrate antigens contain repeating epitopes that cross-link many BCRs, generating a strong signal directly, but they cannot be degraded into peptides and loaded onto MHC class II, so they cannot recruit cognate CD4+ helper T cells. The result is a T-independent (TI-2) response: predominantly IgM, restricted heavy chain usage, no germinal center reaction, minimal affinity maturation, little class switching, and weak immunologic memory. This is why polysaccharide vaccines such as the 23-valent pneumococcal vaccine are poorly immunogenic in children under 2 years (who have immature marginal zone B cells), and why the polysaccharide is covalently conjugated to a carrier protein in the 13-valent vaccine to convert it into a T-dependent antigen.",
+  "explanation_incorrect": {
+    "A": "Gamma-delta T cells are not the helper cells for polysaccharide antigens and do not provide help through MHC class I; help is absent because MHC class II presentation is impossible.",
+    "B": "BTK is required for TI-2 signaling in humans, but carbohydrates do not inhibit BTK; loss of BTK function (as in X-linked agammaglobulinemia) impairs this pathway.",
+    "C": "Surface IgM binds carbohydrate epitopes perfectly well; cross-linking of many BCRs by repeating sugar units is exactly what drives the T-independent signal.",
+    "D": "Complement receptors such as CD21 lower the activation threshold for protein antigens, but C3b opsonization is not a prerequisite for polysaccharide recognition by the BCR."
+  },
+  "educationalObjective": "Polysaccharide antigens elicit T-independent type 2 responses because they cannot be presented on MHC class II, producing predominately IgM with little class switching or memory, which is why conjugate vaccines link sugars to carrier proteins.",
+  "source": "Generated from 2. Immunology.pdf - B Cell Activation: T-dependent vs T-independent antigens"
+},
+{
+  "id": "immuno-073",
+  "subject": "Immunology",
+  "major_topic": "B Cell Activation",
+  "subtopic": "T-dependent vs T-independent antigens",
+  "difficulty": "easy",
+  "vignette": "A 6-month-old boy is brought by his parents for a well-child visit. He is thriving and has no infections so far. Review of the immunization schedule shows he has received the diphtheria-tetanus-pertussis, inactivated polio, Haemophilus influenzae type b conjugate and hepatitis B vaccines. The nurse asks whether he can also receive a plain polysaccharide vaccine against encapsulated bacteria sold as a 23-valent preparation for older children and adults.",
+  "question": "Why is the plain polysaccharide vaccine generally withheld until after 2 years of age, whereas the conjugate forms are effective in infancy?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Infants lack germinal centers until age 5 years"
+    },
+    {
+      "id": "B",
+      "text": "Infant T cells cannot recognize polysaccharides presented on MHC class I"
+    },
+    {
+      "id": "C",
+      "text": "Conjugation to protein allows peptide presentation on MHC class II and CD4+ T cell help, overcoming the immaturity of T-independent responses in infants"
+    },
+    {
+      "id": "D",
+      "text": "Plain polysaccharides are degraded by infant stomach acid and require a protein carrier for absorption"
+    },
+    {
+      "id": "E",
+      "text": "Infants lack functional complement C3 and therefore cannot opsonize capsular polysaccharides"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Young children have immature marginal zone B cell function and limited ability to generate T-independent type 2 responses, so plain polysaccharide vaccines give weak, predominantly IgM responses in infants. Conjugating the polysaccharide to a carrier protein (such as tetanus toxoid or CRM197) converts the antigen into a T-dependent one: the B cell internalizes the conjugate through its BCR, presents carrier peptides on MHC class II and receives CD4+ T follicular helper cell help, enabling germinal center formation, isotype switching, affinity maturation and durable memory. This is the same strategy used in the Hib conjugate vaccine, which virtually eliminated invasive Hib disease in the United States.",
+  "explanation_incorrect": {
+    "A": "Germinal centers form well before age 5; neonates as young as a few months can make germinal centers, though marginal zone B cell function matures over the first 2 years.",
+    "B": "Polysaccharides are not presented on MHC class I and T cells are not involved in T-independent responses; conjugation recruits MHC class II presentation instead.",
+    "D": "Vaccines are given intramuscularly or subcutaneously and are not subject to gastric degradation; the issue is B cell subset maturity and the requirement for T cell help.",
+    "E": "Infants have functional complement; the primary limitation lies in marginal zone B cell maturation and the lack of T cell help."
+  },
+  "educationalObjective": "Conjugation of polysaccharides to carrier proteins converts T-independent carbohydrate antigens into T-dependent antigens, enabling protective B cell responses and memory in infants under 2 years.",
+  "source": "Generated from 2. Immunology.pdf - B Cell Activation: T-dependent vs T-independent antigens"
+},
+{
+  "id": "immuno-082",
+  "subject": "Immunology",
+  "major_topic": "B Cell Activation",
+  "subtopic": "T-dependent vs T-independent antigens",
+  "difficulty": "easy",
+  "vignette": "A 61-year-old man with smoldering Waldenstrom macroglobulinemia is admitted with a 2-day history of high fever and shaking chills; blood cultures grow Streptococcus pneumoniae. He was vaccinated with the polysaccharide pneumococcal vaccine 4 years ago but never received the conjugate form. He has never had pneumonia before. His total serum IgM is markedly elevated and monoclonal, while IgG and IgA are low, and his antibodies against several capsule types are absent.",
+  "question": "Which property of the plain pneumococcal polysaccharide vaccine best explains its failure to protect this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Polysaccharide antigens evoke mainly IgM without requiring T cell help, so responses are limited in adults with low baseline IgM function and little memory"
+    },
+    {
+      "id": "B",
+      "text": "Polysaccharide vaccines cannot be recognized by any B cell receptor, so they produce no antibody at all"
+    },
+    {
+      "id": "C",
+      "text": "Polysaccharide vaccines require live replication of the organism in the host to be immunogenic"
+    },
+    {
+      "id": "D",
+      "text": "Polysaccharide vaccines induce only IgE, which does not prevent bacteremia"
+    },
+    {
+      "id": "E",
+      "text": "Polysaccharide vaccines are degraded by complement before they reach the splenic marginal zone"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Encapsulated organisms are cleared chiefly by opsonizing IgG against the capsule, but the polysaccharide capsule is a T-independent type 2 antigen: it cross-links BCRs directly, cannot be presented on MHC class II and thus recruits no CD4+ T cell help, producing short-lived, predominantly IgM responses with minimal affinity maturation and almost no memory. This is why the plain 23-valent vaccine fails to give durable protection and why conjugate vaccines, which link the polysaccharide to a carrier protein and convert it into a T-dependent antigen with germinal center, class switching and memory, are preferred; patients with plasma cell disorders such as Waldenstrom macroglobulinemia, with low IgG and poor antibody function, are especially reliant on conjugate vaccines.",
+  "explanation_incorrect": {
+    "B": "Surface immunoglobulin binds polysaccharide epitopes efficiently; repeated sugar epitopes are in fact unusually good at cross-linking BCRs.",
+    "C": "Whole-organism replication is characteristic of live attenuated vaccines; killed or subunit polysaccharide vaccines are immunogenic without replication, merely less durably so.",
+    "D": "Polysaccharide vaccines induce predominantly IgM and some IgG, not IgE; IgE mediates type I hypersensitivity rather than bactericidal protection.",
+    "E": "Complement does not pre-emptively degrade vaccine polysaccharides; complement opsonization is instead part of what makes the conjugate vaccines more effective."
+  },
+  "educationalObjective": "T-independent polysaccharide antigens generate weak IgM-predominant responses without CD4+ T cell help and memory, whereas conjugating the polysaccharide to a carrier protein confers T-dependent, durable protective immunity.",
+  "source": "Generated from 2. Immunology.pdf - B Cell Activation: T-dependent vs T-independent antigens"
+}
+]

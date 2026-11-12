@@ -1,0 +1,125 @@
+[
+{
+  "id": "immuno-023",
+  "subject": "Immunology",
+  "major_topic": "Antigen Presentation and MHC",
+  "subtopic": "Antigen processing pathways",
+  "difficulty": "easy",
+  "vignette": "A 23-year-old man develops fever, right lower quadrant pain, and nausea. He undergoes appendectomy, and the inflamed appendix shows neutrophils infiltrating the wall. His circulating CD8+ T cells are subsequently able to recognize the extracellular Salmonella species cultured from the appendiceal lumen.",
+  "question": "Which of the following best explains how peptides from this extracellular bacterium are presented on MHC class I to CD8+ T cells?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Free bacterial peptides bind directly to empty MHC class I molecules on the surface of infected cells"
+    },
+    {
+      "id": "B",
+      "text": "Bacterial proteins are degraded in the cytosol and loaded onto MHC class I molecules in the endoplasmic reticulum"
+    },
+    {
+      "id": "C",
+      "text": "Bacterial proteins that escape from the phagosome into the cytosol are degraded by the proteasome and delivered through the TAP transporter"
+    },
+    {
+      "id": "D",
+      "text": "Bacterial peptides are loaded onto MHC class II molecules, which then exchange chains with MHC class I at the cell surface"
+    },
+    {
+      "id": "E",
+      "text": "MHC class I presents only intact bacterial proteins that are internalized through the Fc gamma receptor"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "MHC class I displays peptides that are present in the cytosol, because cytosolic proteins are ubiquitinated and degraded by the proteasome, and the resulting peptides are pumped by TAP into the endoplasmic reticulum, where they are loaded onto nascent class I heavy chain plus beta-2 microglobulin. Some bacteria survive inside phagosomes and escape into the cytoplasm; Salmonella in particular is classically used to illustrate this, and its cytosolic proteins then enter the same class I pathway. This is also the mechanism by which the immune system can detect pathogens that normally hide in vacuoles, complementing the class II presentation of remaining phagosomal material.",
+  "explanation_incorrect": {
+    "A": "Empty class I molecules are not expressed on the surface; exogenous peptides cannot simply bind them, because cytosolic delivery through TAP into the ER is required.",
+    "B": "Degradation of bacterial proteins in the cytosol with loading in the ER is the normal endogenous class I route, but the stem is asking for how an extracellular bacterium reaches that route, which is by escaping the phagosome first.",
+    "D": "MHC class II binds peptides of endosomal origin, and class I and class II molecules do not exchange peptide-binding chains at the plasma membrane.",
+    "E": "Class I does not present intact proteins, and Fc gamma receptor-mediated uptake delivers antigen to the endocytic pathway for class II presentation."
+  },
+  "educationalObjective": "Phagosome-to-cytosol escape routes extracellular pathogens' proteins into the class I pathway, so they can be recognized by CD8+ T cells.",
+  "source": "Generated from 2. Immunology.pdf - Antigen Presentation and MHC: Antigen processing pathways"
+},
+{
+  "id": "immuno-024",
+  "subject": "Immunology",
+  "major_topic": "Antigen Presentation and MHC",
+  "subtopic": "Antigen processing pathways",
+  "difficulty": "medium",
+  "vignette": "A 34-year-old woman with HIV infection on antiretroviral therapy is given a novel investigational drug that inhibits invariant chain (Ii) degradation. Within two weeks she develops a marked fall in circulating CD4+ T-cell numbers.",
+  "question": "Inhibition of invariant chain processing most likely impairs which of the following steps in antigen presentation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Proteasomal generation of peptides for delivery by TAP"
+    },
+    {
+      "id": "B",
+      "text": "Loading of MHC class II molecules with peptides derived from endocytosed proteins"
+    },
+    {
+      "id": "C",
+      "text": "Assembly of the MHC class I heavy chain with beta-2 microglobulin"
+    },
+    {
+      "id": "D",
+      "text": "Expression of HLA-DM molecules in the endoplasmic reticulum"
+    },
+    {
+      "id": "E",
+      "text": "Calnexin-mediated folding of MHC class I molecules in the ER"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Newly synthesized MHC class II alpha and beta chains associate in the endoplasmic reticulum with the invariant chain, whose CLIP segment occupies the peptide-binding groove and prevents premature binding of ER peptides. The invariant chain also directs the complex to the acidic endosomal compartment, where cathepsins degrade Ii, leaving CLIP in the groove; HLA-DM then catalyzes CLIP removal and peptide loading, and HLA-DO regulates HLA-DM in B cells and thymic epithelium. Blocking Ii degradation therefore specifically disrupts presentation of endocytosed antigens to CD4+ T cells, weakening helper T-cell responses.",
+  "explanation_incorrect": {
+    "A": "Proteasomal peptide generation and TAP transport serve the MHC class I pathway and do not depend on the invariant chain.",
+    "C": "Association of class I heavy chains with beta-2 microglobulin is performed by the peptide-loading complex with calreticulin and tapasin, all independent of invariant chain.",
+    "D": "HLA-DM resides in specialized endosomal MHC class II compartments and its expression is transcriptionally controlled by MHC class II transactivator (CIITA), not by invariant chain processing.",
+    "E": "Calnexin is a class I folding chaperone in the endoplasmic reticulum and is governed by the peptide-loading complex rather than by invariant chain."
+  },
+  "educationalObjective": "The invariant chain blocks the MHC class II groove and shuttles it to endosomes; its proteolytic removal is a prerequisite for loading endocytosed peptides that activate CD4+ T cells.",
+  "source": "Generated from 2. Immunology.pdf - Antigen Presentation and MHC: Antigen processing pathways"
+},
+{
+  "id": "immuno-025",
+  "subject": "Immunology",
+  "major_topic": "Antigen Presentation and MHC",
+  "subtopic": "Antigen processing pathways",
+  "difficulty": "hard",
+  "vignette": "A 41-year-old woman receives a kidney transplant from a deceased donor. HLA-B27 positive donor dendritic cells migrate from the graft to her regional lymph nodes. Laboratory studies of her T cells are performed after she develops graft dysfunction.",
+  "question": "Which of the following best describes how radioresistant donor dendritic cells activate her T cells after migration to the draining lymph node?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Donor dendritic cells present the recipient's MHC molecules to recipient B cells"
+    },
+    {
+      "id": "B",
+      "text": "Recipient dendritic cells take up donor antigen and present it on recipient MHC, an indirect pathway that dominates in this setting"
+    },
+    {
+      "id": "C",
+      "text": "Donor dendritic cells lack costimulatory molecules and therefore induce tolerance in the recipient"
+    },
+    {
+      "id": "D",
+      "text": "Donor dendritic cells can present donor-derived peptides on donor MHC class I or class II to recipient T cells, the direct pathway of allorecognition"
+    },
+    {
+      "id": "E",
+      "text": "Donor dendritic cells present peptides only on MHC class I, because class II is silenced in the graft"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Allorecognition occurs by two routes. In the direct pathway (also called passenger leukocyte pathway), donor antigen-presenting cells such as dendritic cells travel to the recipient's draining lymph node and present intact donor MHC molecules bearing donor peptides directly to recipient allo-reactive T cells. Because intrinsic donor dendritic cells are radioresistant and are present in the graft, they are a major early trigger of acute rejection; their escape from the graft is termed graft-versus-host or passenger leukocyte migration. The alternative indirect pathway has recipient APCs process donor antigens and present them on recipient MHC.",
+  "explanation_incorrect": {
+    "A": "Alloreactive T-cell priming, not B-cell presentation, is the dominant outcome of donor dendritic cell migration, and the cells present donor MHC, not recipient MHC.",
+    "B": "The indirect pathway exists but is not the pathway described here, because intrinsic donor dendritic cells survive irradiation and can directly present donor MHC.",
+    "C": "Graft dendritic cells mature during migration and do express costimulatory molecules such as CD80 and CD86, which promotes, rather than prevents, activation.",
+    "E": "MHC class II is expressed on the basolateral membrane of graft tubular epithelial cells and is not silenced; direct activation of CD4+ T cells depends on donor class II."
+  },
+  "educationalObjective": "Direct allorecognition involves donor-derived passenger leukocytes presenting donor MHC to recipient T cells, accounting for early acute rejection.",
+  "source": "Generated from 2. Immunology.pdf - Antigen Presentation and MHC: Antigen processing pathways"
+}
+]

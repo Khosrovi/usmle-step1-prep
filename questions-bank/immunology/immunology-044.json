@@ -1,0 +1,166 @@
+[
+{
+  "id": "immuno-145",
+  "subject": "Immunology",
+  "major_topic": "HIV and AIDS",
+  "subtopic": "HIV diagnosis, CD4 count, and progression",
+  "difficulty": "medium",
+  "vignette": "A 29-year-old man presents to the emergency department with 3 weeks of fever, 6 kg of unintentional weight loss, and a painful white plaque on the lateral border of his tongue that scraped off, leaving a raw erythematous base. He reports months of unprotected receptive anal intercourse with multiple partners and has never been tested for HIV. He is otherwise well-appearing with stable vital signs. The emergency physician orders an HIV test using a fourth-generation antigen/antibody combination immunoassay, which is reported as reactive. A supplemental HIV-1/HIV-2 antibody differentiation immunoassay is then performed and is also reactive.",
+  "question": "Which of the following is the most appropriate next step in confirming this patient's HIV infection?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Obtain an HIV-1 plasma RNA viral load and interpret any detectable result as confirmation of infection"
+    },
+    {
+      "id": "B",
+      "text": "Repeat the fourth-generation antigen/antibody combination immunoassay in 4 to 6 weeks"
+    },
+    {
+      "id": "C",
+      "text": "Perform a CD4+ T-lymphocyte count to determine whether the patient meets the case definition for AIDS"
+    },
+    {
+      "id": "D",
+      "text": "No further testing is required; a reactive fourth-generation assay followed by a reactive differentiation immunoassay establishes the diagnosis"
+    },
+    {
+      "id": "E",
+      "text": "Perform a Western blot for HIV-1 p24 and gp41 bands"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "The recommended US diagnostic algorithm begins with a fourth-generation antigen/antibody combination immunoassay, which detects both HIV p24 antigen and IgG to HIV-1 and HIV-2. If it is reactive, a supplemental antibody differentiation immunoassay that separates HIV-1 from HIV-2 is performed, and a reactive supplemental result is diagnostic of HIV infection - no further confirmation is needed and antiretroviral therapy should be started. The clinical picture here (unexplained fever, marked weight loss, and oral candidiasis in a person with high-risk exposures) is consistent with acute or recently acquired symptomatic HIV, but the diagnosis rests on the test sequence, not on the CD4 count. A low CD4 count would stage the disease once infection is established, not establish it.",
+  "explanation_incorrect": {
+    "A": "A detectable viral load is only needed as the tiebreaker when the initial immunoassay is reactive but the supplemental differentiation assay is negative or indeterminate; here the diagnosis is already confirmed.",
+    "B": "Repeat screening is reserved for a negative fourth-generation assay in a patient with a recent high-risk exposure still within the window period, not for a reactive result already confirmed by the differentiation assay.",
+    "C": "CD4 counting is a staging and monitoring test used after HIV is diagnosed, and it cannot by itself confirm the presence of infection in a patient with a nondiagnostic antibody result.",
+    "E": "HIV Western blot has been retired from the recommended algorithm because it is less sensitive, especially early in infection, and it cannot reliably distinguish HIV-1 from HIV-2."
+  },
+  "educationalObjective": "A reactive fourth-generation HIV-1/2 antigen/antibody assay followed by a reactive HIV-1/HIV-2 antibody differentiation assay is diagnostic of HIV infection and requires no further confirmation.",
+  "source": "Generated from 2. Immunology.pdf - HIV and AIDS: HIV diagnosis, CD4 count, and progression"
+},
+{
+  "id": "immuno-146",
+  "subject": "Immunology",
+  "major_topic": "HIV and AIDS",
+  "subtopic": "HIV diagnosis, CD4 count, and progression",
+  "difficulty": "hard",
+  "vignette": "A 41-year-old woman who is 22 weeks pregnant undergoes routine prenatal screening. Her fourth-generation HIV-1/2 antigen/antibody combination immunoassay is reactive, but the HIV-1/HIV-2 antibody differentiation immunoassay is negative for both viruses. She reports no injection drug use, no blood transfusions, and only a single monogamous partner. Vital signs and physical examination are normal, and she takes no medications. Her recent influenza vaccination was 6 weeks ago, and she has an underlying diagnosis of systemic lupus erythematosus in remission. HIV-1 RNA viral load testing is then performed and is undetectable.",
+  "question": "Which of the following is the most likely explanation for this patient's discordant test results?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A false-reactive initial immunoassay, most plausibly from a nonspecific antibody response"
+    },
+    {
+      "id": "B",
+      "text": "Early HIV-1 infection acquired within the prior 3 days that the RNA assay has not yet detected"
+    },
+    {
+      "id": "C",
+      "text": "Infection with HIV-2, which the initial assay detected but the differentiation assay missed"
+    },
+    {
+      "id": "D",
+      "text": "Acute HIV-1 infection during the eclipse phase, before systemic viral dissemination occurs"
+    },
+    {
+      "id": "E",
+      "text": "Seroconversion in a patient who has cleared the virus spontaneously without therapy"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "A reactive fourth-generation screening assay with a negative supplemental differentiation test and an undetectable HIV-1 RNA defines a false-positive initial screen and indicates that the patient is most likely not infected. The fourth-generation assay has excellent sensitivity but imperfect specificity, and cross-reacting antibodies from autoimmune disease, recent vaccination, pregnancy, or other conditions can produce false-positive results. In practice, a negative HIV-1 RNA essentially excludes HIV-1 infection; repeat HIV testing later in pregnancy is still often done to cover a very recent window-period exposure.",
+  "explanation_incorrect": {
+    "B": "HIV RNA becomes detectable within roughly 10 days of exposure and is reliably positive long before that, so an undetectable RNA does not fit infection acquired more than about a week earlier.",
+    "C": "HIV-2 does not cause a negative differentiation result while escaping it, because the differentiation assay was designed specifically to detect HIV-2 antibodies and an HIV-2 RNA assay would show viremia.",
+    "D": "The eclipse phase lasts only the few days between mucosal exposure and initial viral replication in local lymphoid tissue and would not produce a reactive antibody-based screening assay.",
+    "E": "Spontaneous clearance of HIV-1 without therapy is extraordinarily rare and would still usually leave detectable antibody reactivity, not an undetectable RNA paired with an unconfirmed screen."
+  },
+  "educationalObjective": "A reactive fourth-generation HIV assay with negative supplemental differentiation and negative HIV-1 RNA indicates a false-positive screen rather than true infection.",
+  "source": "Generated from 2. Immunology.pdf - HIV and AIDS: HIV diagnosis, CD4 count, and progression"
+},
+{
+  "id": "immuno-147",
+  "subject": "Immunology",
+  "major_topic": "HIV and AIDS",
+  "subtopic": "HIV diagnosis, CD4 count, and progression",
+  "difficulty": "medium",
+  "vignette": "A 34-year-old man with a 6-year history of well-controlled HIV infection on tenofovir disoproxil fumarate/emtricitabine/dolutegravir has had an undetectable viral load for 4 years. He presents for a routine visit feeling entirely well. His most recent laboratory values include a CD4+ T-lymphocyte count of 180 cells/mm3 and an HIV-1 RNA of 42 copies/mL. He has no history of an AIDS-defining illness or opportunistic infection. His CD4 count 1 year ago was 260 cells/mm3 and 2 years ago was 340 cells/mm3.",
+  "question": "Which of the following best describes the current status of this patient's HIV disease?",
+  "options": [
+    {
+      "id": "A",
+      "text": "He meets the case definition for AIDS on the basis of his CD4 count alone"
+    },
+    {
+      "id": "B",
+      "text": "His falling CD4 count with viral suppression indicates emerging drug resistance requiring a regimen change"
+    },
+    {
+      "id": "C",
+      "text": "His CD4 count is expected to decline at roughly 50 to 100 cells/mm3 per year, consistent with untreated natural history"
+    },
+    {
+      "id": "D",
+      "text": "He requires immediate prophylaxis against Pneumocystis jirovecii pneumonia"
+    },
+    {
+      "id": "E",
+      "text": "He is currently in the chronic or clinical latency stage of infection with preserved immune function"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "AIDS is defined by the development of an AIDS-defining opportunistic illness or by a CD4+ T-lymphocyte count below 200 cells/mm3, regardless of symptoms. This patient's count of 180 cells/mm3 satisfies the immunologic criterion, so he now meets the case definition of AIDS even though he is asymptomatic and virologically suppressed. The key teaching point is that a CD4 count below 200 marks AIDS and also mandates Pneumocystis jirovecii prophylaxis, but it does not by itself imply failure of antiretroviral therapy when the viral load remains suppressed.",
+  "explanation_incorrect": {
+    "B": "A viral load of 42 copies/mL is within the accepted definition of virologic suppression, and a declining CD4 count with suppressed viremia reflects immune reconstitution dynamics rather than emergent resistance.",
+    "C": "The natural history figure of roughly 50 to 100 cells/mm3 lost per year applies to untreated infection, but the CD4 decline here is flattened by effective antiretroviral therapy and cannot be interpreted as untreated progression.",
+    "D": "PCP prophylaxis is indicated for counts below 200 cells/mm3 and in patients with a prior PCP history, and it is discontinued only when the count rises above 200 for at least 3 months.",
+    "E": "The chronic or clinical latency stage is defined virologically and is typically associated with CD4 counts well above 200, so a count of 180 cells/mm3 has already crossed the AIDS-defining threshold."
+  },
+  "educationalObjective": "A CD4+ T-cell count below 200 cells/mm3 defines AIDS even in an asymptomatic, virologically suppressed patient, and it is the threshold for starting PCP prophylaxis.",
+  "source": "Generated from 2. Immunology.pdf - HIV and AIDS: HIV diagnosis, CD4 count, and progression"
+},
+{
+  "id": "immuno-148",
+  "subject": "Immunology",
+  "major_topic": "HIV and AIDS",
+  "subtopic": "HIV diagnosis, CD4 count, and progression",
+  "difficulty": "hard",
+  "vignette": "A 27-year-old man presents 12 days after unprotected intercourse with a 4-day history of high fever, severe sore throat, myalgias, and a diffuse maculopapular rash involving the trunk and palms. Examination reveals tender cervical and axillary lymphadenopathy and two shallow oral ulcers. His white blood cell count is 3,100/mm3 with a relative lymphopenia, and his platelet count is 118,000/mm3. A fourth-generation HIV-1/2 antigen/antibody combination immunoassay is negative, and an HIV-1 RNA quantitative assay returns 480,000 copies/mL. His CD4+ T-cell count is 310 cells/mm3.",
+  "question": "Which of the following best explains why the antibody-based assay was negative in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "His CD4+ T-cell count of 310 cells/mm3 is too low for antibody production to occur against HIV antigens"
+    },
+    {
+      "id": "B",
+      "text": "Cross-reactive antibodies from the acute viral illness blocked binding in the screening assay"
+    },
+    {
+      "id": "C",
+      "text": "Seroconversion has not yet occurred, so the assay has not reached the sensitivity threshold although he is highly viremic"
+    },
+    {
+      "id": "D",
+      "text": "The fourth-generation assay detects only p24 antigen during acute infection and cannot detect antibody until 6 months after exposure"
+    },
+    {
+      "id": "E",
+      "text": "The HIV-1 RNA result represents a false-positive amplification from the concurrent febrile illness"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Acute HIV infection peaks in viremia roughly 2 to 4 weeks after exposure while the antibody response is still maturing, so the window period means an antibody-based screening assay can be negative despite an enormous viral load. Fourth-generation assays narrow this window by detecting p24 antigen, but neither p24 nor antibody is guaranteed to be positive this early, and HIV-1 RNA is the most sensitive test in this setting. The presentation - fever, pharyngitis, rash including palms and soles, oral ulcers, lymphadenopathy, and lymphopenia - is the classic mononucleosis-like acute retroviral syndrome.",
+  "explanation_incorrect": {
+    "A": "Antibody responses are preserved at a CD4 count of 310 cells/mm3, and the timing of exposure rather than the absolute CD4 number accounts for the negative assay.",
+    "B": "Antibody assays are designed to be highly specific and blocking by unrelated antibodies is not a recognized cause of a false-negative screening result during acute infection.",
+    "D": "Fourth-generation assays simultaneously detect p24 antigen and IgG antibody and become antibody-positive within weeks, well before 6 months, which is why the older 6-month window is obsolete.",
+    "E": "An HIV-1 RNA of 480,000 copies/mL in a patient with a compatible acute retroviral syndrome is far more consistent with genuine acute infection than with sporadic assay error."
+  },
+  "educationalObjective": "During acute HIV infection the viral load may exceed 100,000 copies/mL while antibody-based assays remain negative because seroconversion has not yet occurred.",
+  "source": "Generated from 2. Immunology.pdf - HIV and AIDS: HIV diagnosis, CD4 count, and progression"
+}
+]

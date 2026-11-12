@@ -1,0 +1,166 @@
+[
+{
+  "id": "immuno-110",
+  "subject": "Immunology",
+  "major_topic": "Cellular Components",
+  "subtopic": "NK cells",
+  "difficulty": "easy",
+  "vignette": "A 48-year-old woman with a long-standing history of smoking presents with a new lung mass. Biopsy shows a poorly differentiated carcinoma with absent MHC class I expression on immunohistochemistry. The tumor is also notable for aggressive early metastasis compared with MHC class I-expressing tumors.",
+  "question": "Which immune cell is primarily responsible for recognizing and killing the MHC class I-negative tumor cells?",
+  "options": [
+    {
+      "id": "A",
+      "text": "CD4+ helper T cell"
+    },
+    {
+      "id": "B",
+      "text": "Natural killer cell"
+    },
+    {
+      "id": "C",
+      "text": "B cell"
+    },
+    {
+      "id": "D",
+      "text": "Neutrophil"
+    },
+    {
+      "id": "E",
+      "text": "Eosinophil"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "NK cells lack an antigen-specific receptor and instead survey for down-regulation of MHC class I, which is sensed when inhibitory receptors (KIRs) fail to engage their ligands. Loss of class I disinhibits NK cells, which kill via perforin and granzyme B and release IFN-gamma, the phenomenon called recognition of missing self. This is why tumors that evade CD8+ T cells by shedding MHC class I may paradoxically become vulnerable to NK cells.",
+  "explanation_incorrect": {
+    "A": "CD4+ T cells recognize peptide on MHC class II and do not directly kill class I-negative tumor cells.",
+    "C": "B cells produce antibody and are not the principal direct cytolytic effectors against class I-deficient cells.",
+    "D": "Neutrophils can phagocytose but are not the specialized surveillance cells for missing self.",
+    "E": "Eosinophils mediate antihelminth defense and allergic inflammation rather than MHC-independent tumor surveillance."
+  },
+  "educationalObjective": "NK cells kill cells with lost MHC class I through 'missing self' recognition, making them a critical defense against virus-infected and tumor cells that hide from CD8+ T cells.",
+  "source": "Generated from 2. Immunology.pdf - Cellular Components: NK cells"
+},
+{
+  "id": "immuno-111",
+  "subject": "Immunology",
+  "major_topic": "Cellular Components",
+  "subtopic": "NK cells",
+  "difficulty": "medium",
+  "vignette": "A 32-year-old man has recurrent herpes simplex virus infections with severe mucocutaneous lesions, and workup reveals a deficiency of a lymphocyte population that is CD3-negative, CD16-positive, CD56-positive. He has normal T-cell and B-cell counts and normal immunoglobulin levels.",
+  "question": "Which mechanism best explains his susceptibility to herpesviruses?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Impaired MHC class II presentation causing failure of CD4+ help"
+    },
+    {
+      "id": "B",
+      "text": "Absent antibody-mediated neutralization of virus"
+    },
+    {
+      "id": "C",
+      "text": "Defective NK-cell cytolysis and IFN-gamma production allowing uncontrolled viral replication"
+    },
+    {
+      "id": "D",
+      "text": "Deficiency of complement C3 causing opsonization failure"
+    },
+    {
+      "id": "E",
+      "text": "Reduced NADPH oxidase activity in the neutrophils"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "NK cells provide early innate control of viral infection by killing virus-infected cells through perforin and granzymes and by secreting IFN-gamma, which activates macrophages and promotes an antiviral state. Their CD3-negative, CD16/CD56-positive phenotype distinguishes them from T cells. Severe herpesvirus disease is a hallmark of NK deficiency or of diseases such as perforin or MUNC13-4 deficiency.",
+  "explanation_incorrect": {
+    "A": "MHC class II defects impair CD4 cells but this patient has normal T-cell numbers and immunoglobulin, so it does not fit.",
+    "B": "Normal immunoglobulin levels make humoral failure unlikely as the primary explanation.",
+    "D": "C3 deficiency typically causes recurrent pyogenic infections and immune complex disease, not the isolated severe herpetic disease described.",
+    "E": "Neutrophil oxidase defects cause bacterial and fungal disease, not the recurrent herpetic infection described."
+  },
+  "educationalObjective": "NK cells control early viral infection through MHC-independent cytotoxicity and IFN-gamma, so NK deficiency presents with severe herpesvirus disease.",
+  "source": "Generated from 2. Immunology.pdf - Cellular Components: NK cells"
+},
+{
+  "id": "immuno-112",
+  "subject": "Immunology",
+  "major_topic": "Cellular Components",
+  "subtopic": "NK cells",
+  "difficulty": "medium",
+  "vignette": "A 61-year-old man has an enlarged spleen and cytopenias. Peripheral blood flow cytometry shows an expansion of cells that are CD3-negative, CD16-positive, CD56-positive, and CD57-positive. He also has a history of unexplained neutropenia and has been diagnosed with a lymphoproliferative disorder.",
+  "question": "Which feature most characterizes the expansion described?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Clonal T-cell receptor rearrangement"
+    },
+    {
+      "id": "B",
+      "text": "Expression of surface immunoglobulin light chain restriction"
+    },
+    {
+      "id": "C",
+      "text": "NK-cell lineage without surface CD3, with cytotoxicity possible"
+    },
+    {
+      "id": "D",
+      "text": "Terminal deoxynucleotidyl transferase positivity"
+    },
+    {
+      "id": "E",
+      "text": "High serum tryptase with mast cell infiltrates"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "The phenotype CD3-negative, CD16/CD56/CD57-positive indicates an NK lineage expansion typical of large granular lymphocyte leukemia of NK type. NK cells are cytolytic effectors that can kill target cells via perforin and granzymes but lack T-cell receptor rearrangement. These leukemias are often indolent with mild cytopenias.",
+  "explanation_incorrect": {
+    "A": "TCR gene rearrangement is a feature of T-cell lineage neoplasms, whereas CD3 is absent here.",
+    "B": "Light chain restriction indicates a B-cell clone, and no surface immunoglobulin is present on NK cells.",
+    "D": "TdT marks immature lymphoid blasts and is not expressed by mature NK cells.",
+    "E": "Elevated tryptase with mast cell infiltrates indicates systemic mastocytosis, not an NK-cell expansion."
+  },
+  "educationalObjective": "NK-cell neoplasms lack CD3 and TCR rearrangement and are identified by CD16/CD56/CD57 expression.",
+  "source": "Generated from 2. Immunology.pdf - Cellular Components: NK cells"
+},
+{
+  "id": "immuno-113",
+  "subject": "Immunology",
+  "major_topic": "Cellular Components",
+  "subtopic": "NK cells",
+  "difficulty": "hard",
+  "vignette": "A 2-year-old boy presents with high fever, hepatosplenomegaly, pancytopenia, and hypotriglyceridemia with elevated ferritin and soluble CD25. He has a history of recurrent viral infections. Genetic testing reveals an autosomal-recessive mutation in the gene encoding perforin. Hepatic biopsy shows hemophagocytosis of erythrocytes and lymphocytes by macrophages.",
+  "question": "Which mechanism links his genetic defect to this presentation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Direct failure of B-cell class switching"
+    },
+    {
+      "id": "B",
+      "text": "Impaired NK-cell and cytotoxic T-cell perforin release, preventing destruction of infected macrophages and leading to a cytokine storm"
+    },
+    {
+      "id": "C",
+      "text": "Loss of CD18 integrin causing delayed wound healing"
+    },
+    {
+      "id": "D",
+      "text": "Defective MHC class I expression on nucleated cells"
+    },
+    {
+      "id": "E",
+      "text": "Absent respiratory burst with granuloma formation"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Familial hemophagocytic lymphohistiocytosis results from defects in perforin-dependent cytotoxicity of NK cells and CD8+ T cells, including PRF1, UNC13D, and STX11 mutations. Inability to kill infected antigen-presenting macrophages leads to persistent antigen presentation and an uncontrolled Th1 cytokine storm with IL-1, IL-6, and IFN-gamma, driving macrophage activation and hemophagocytosis. Treatment includes etoposide and in severe cases hematopoietic stem cell transplant.",
+  "explanation_incorrect": {
+    "A": "Class switching depends on T follicular helper cells and CD40L, not on perforin, and this syndrome is not an antibody disorder.",
+    "C": "Leukocyte adhesion deficiency type I caused by CD18 defects presents with delayed cord separation and no pus, not hemophagocytosis.",
+    "D": "Loss of MHC class I is a tumor escape mechanism, not the genetic basis of HLH.",
+    "E": "Chronic granulomatous disease has a normal perforin system and a different phenotype."
+  },
+  "educationalObjective": "HLH is caused by failure of perforin-dependent NK and CD8+ T-cell cytotoxicity, leading to persistent macrophage activation and a fatal cytokine storm.",
+  "source": "Generated from 2. Immunology.pdf - Cellular Components: NK cells"
+}
+]

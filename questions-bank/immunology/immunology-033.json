@@ -1,0 +1,166 @@
+[
+{
+  "id": "immuno-102",
+  "subject": "Immunology",
+  "major_topic": "Cellular Components",
+  "subtopic": "Mast cells and basophils",
+  "difficulty": "easy",
+  "vignette": "A 19-year-old college student with known peanut allergy accidentally eats a cookie containing peanut butter. Within 10 minutes she develops lip swelling, wheezing, and full-body hives. Her blood pressure is 80/50 mm Hg, and emergency treatment with epinephrine produces rapid improvement.",
+  "question": "Which cell is the principal effector of this early reaction?",
+  "options": [
+    {
+      "id": "A",
+      "text": "CD8+ cytotoxic T cell"
+    },
+    {
+      "id": "B",
+      "text": "Eosinophil with bilobed nucleus"
+    },
+    {
+      "id": "C",
+      "text": "Mast cell with preformed histamine in granules"
+    },
+    {
+      "id": "D",
+      "text": "Plasma cell secreting IgM"
+    },
+    {
+      "id": "E",
+      "text": "Neutrophil with multilobed nucleus"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "This is type I immediate hypersensitivity. Preformed IgE bound to Fc-epsilon-RI on mast cells is cross-linked by allergen, triggering rapid degranulation with histamine, proteases, and tryptase, plus newly synthesized leukotrienes and prostaglandin D2. Histamine causes vasodilation, increased vascular permeability, and bronchoconstriction, which epinephrine reverses through alpha and beta adrenergic effects.",
+  "explanation_incorrect": {
+    "A": "CD8+ T cells mediate cell-mediated immunity and do not cause immediate IgE-driven wheeze and hives.",
+    "B": "Eosinophils contribute to the late phase of allergic inflammation but are not the trigger of immediate anaphylaxis.",
+    "D": "IgM is not the antibody that arms mast cells for immediate hypersensitivity, and plasma cells do not store histamine.",
+    "E": "Neutrophils are not the principal immediate effector of IgE-mediated hypersensitivity."
+  },
+  "educationalObjective": "Immediate type I hypersensitivity is driven by IgE cross-linking on mast cells with rapid release of histamine, which epinephrine counteracts.",
+  "source": "Generated from 2. Immunology.pdf - Cellular Components: Mast cells and basophils"
+},
+{
+  "id": "immuno-103",
+  "subject": "Immunology",
+  "major_topic": "Cellular Components",
+  "subtopic": "Mast cells and basophils",
+  "difficulty": "medium",
+  "vignette": "A 48-year-old woman recalls a sudden episode of flushing, diarrhea, and hypotension after eating shellfish. She later experiences similar episodes after drinking red wine. Urine shows elevated 5-hydroxyindoleacetic acid, 24-hour urine histamine metabolites are markedly elevated, and CT reveals a large liver mass with a prominent arterial supply in the setting of elevated plasma chromogranin A.",
+  "question": "Which mediator released by the tumor cells in this patient is most responsible for her flushing and diarrhea?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Trypsinogen"
+    },
+    {
+      "id": "B",
+      "text": "Interleukin-4"
+    },
+    {
+      "id": "C",
+      "text": "Perforin"
+    },
+    {
+      "id": "D",
+      "text": "Serotonin (5-hydroxytryptamine)"
+    },
+    {
+      "id": "E",
+      "text": "Bradykinin"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "This is carcinoid syndrome from a metastatic hepatic neuroendocrine tumor, in which tumor cells secrete serotonin and other vasoactive substances such as histamine and tachykinins directly into the systemic circulation. Serotonin is measured as urinary 5-HIAA and mediates flushing, diarrhea, and bronchospasm, while chronic exposure causes right-sided valvular fibrosis. Diagnosis is supported by elevated chromogranin A and imaging.",
+  "explanation_incorrect": {
+    "A": "Trypsinogen is a pancreatic enzyme precursor and is elevated in acute pancreatitis, not in this presentation.",
+    "B": "IL-4 is a Th2 cytokine driving IgE responses and does not explain the flushing and diarrhea of a carcinoid tumor.",
+    "C": "Perforin is a pore-forming protein released by cytotoxic lymphocytes, not by neuroendocrine tumor cells.",
+    "E": "Bradykinin mediates angioedema in hereditary angioedema but not the classic flushing and diarrhea of carcinoid syndrome."
+  },
+  "educationalObjective": "Carcinoid syndrome is caused by tumor secretion of serotonin and other vasoactive amines, with urinary 5-HIAA used for diagnosis.",
+  "source": "Generated from 2. Immunology.pdf - Cellular Components: Mast cells and basophils"
+},
+{
+  "id": "immuno-104",
+  "subject": "Immunology",
+  "major_topic": "Cellular Components",
+  "subtopic": "Mast cells and basophils",
+  "difficulty": "medium",
+  "vignette": "A 30-year-old woman with severe asthma receives omalizumab, a monoclonal antibody that binds the Fc portion of free IgE. Over the following months her asthma exacerbations become less frequent and her hospitalizations decrease.",
+  "question": "Which mechanism best explains the benefit of this therapy?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Depletion of mast cell tryptase stores"
+    },
+    {
+      "id": "B",
+      "text": "Prevention of IgE binding to the Fc-epsilon-RI receptor on mast cells and basophils"
+    },
+    {
+      "id": "C",
+      "text": "Blockade of histamine H1 receptors on endothelial cells"
+    },
+    {
+      "id": "D",
+      "text": "Inhibition of 5-lipoxygenase and leukotriene synthesis"
+    },
+    {
+      "id": "E",
+      "text": "Direct killing of eosinophils by complement"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Omalizumab is a humanized monoclonal antibody that binds the Fc region of monomeric IgE, preventing it from engaging Fc-epsilon-RI on mast cells and basophils and therefore limiting allergen-triggered cross-linking and degranulation. Because free IgE is reduced, receptor expression on mast cells also down-regulates, further blunting reactivity. This is distinct from bronchodilators and inhaled steroids that act downstream.",
+  "explanation_incorrect": {
+    "A": "Omalizumab does not deplete tryptase stores in mast cells; it sequesters free IgE instead.",
+    "C": "H1 receptor blockers such as cetirizine act at the receptor, not an antibody that reduces circulating IgE.",
+    "D": "Leukotriene synthesis inhibition is the mechanism of zileuton and montelukast, not omalizumab.",
+    "E": "Eosinophilic depletion is caused by anti-IL-5 antibodies such as mepolizumab, not omalizumab."
+  },
+  "educationalObjective": "Omalizumab sequesters free IgE and reduces Fc-epsilon-RI engagement, lowering mast cell and basophil activation in allergic disease.",
+  "source": "Generated from 2. Immunology.pdf - Cellular Components: Mast cells and basophils"
+},
+{
+  "id": "immuno-105",
+  "subject": "Immunology",
+  "major_topic": "Cellular Components",
+  "subtopic": "Mast cells and basophils",
+  "difficulty": "hard",
+  "vignette": "A 39-year-old man presents with episodic flushing, syncope, and diarrhea. He has a history of gastric ulcers and a family history of a rare syndrome with a KIT mutation. Workup shows elevated serum tryptase, a positive bone marrow biopsy with dense mast cell infiltrates in spindle-shaped clusters, and a D816V KIT mutation. He is treated with adrenaline for episodes and also reports anaphylaxis to both shrimp and high-dose contrast.",
+  "question": "Which of the following best distinguishes systemic mastocytosis from a simple hypersensitivity reaction in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Elevated serum tryptase after an acute episode"
+    },
+    {
+      "id": "B",
+      "text": "Dense mast cell infiltrates with spindle-shaped clusters, KIT D816V mutation, and persistent baseline tryptase elevation"
+    },
+    {
+      "id": "C",
+      "text": "Presence of IgE antibodies to shrimp"
+    },
+    {
+      "id": "D",
+      "text": "Mast cell degranulation triggered by physical contact"
+    },
+    {
+      "id": "E",
+      "text": "Positive skin prick testing"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Systemic mastocytosis is a clonal mast cell neoplasm defined by dense mast cell infiltrates in bone marrow or extracutaneous tissues, spindle-shaped cells, an activating KIT D816V mutation, and persistently elevated baseline tryptase above 20 ng/mL. In contrast, anaphylaxis from shrimp allergy shows transient acute tryptase elevation, positive specific IgE, and no clonal marrow disease. Patients with systemic mastocytosis remain at high risk for severe anaphylaxis to venoms, drugs, and contrast.",
+  "explanation_incorrect": {
+    "A": "Acute tryptase elevation occurs after any anaphylactic episode and does not by itself establish a clonal mast cell disorder.",
+    "C": "Shrimp-specific IgE indicates food allergy and has no role in defining systemic mastocytosis.",
+    "D": "Physical triggers such as cold or pressure can provoke degranulation in physical urticaria but are not clonal indicators.",
+    "E": "Positive skin prick testing reflects antigen-specific IgE, which is also seen in ordinary allergic disease and does not prove clonality."
+  },
+  "educationalObjective": "Systemic mastocytosis is defined by clonal mast cell infiltration with a KIT D816V mutation and persistent baseline tryptase elevation, distinguishing it from IgE-mediated allergy.",
+  "source": "Generated from 2. Immunology.pdf - Cellular Components: Mast cells and basophils"
+}
+]

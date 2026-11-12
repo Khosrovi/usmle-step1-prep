@@ -1,0 +1,125 @@
+[
+{
+  "id": "immuno-209",
+  "subject": "Immunology",
+  "major_topic": "Immunosuppressants",
+  "subtopic": "Antiproliferative agents (mycophenolate, azathioprine)",
+  "difficulty": "medium",
+  "vignette": "A 34-year-old woman with systemic lupus erythematosus and biopsy-proven class IV lupus nephritis is started on mycophenolate mofetil after completing induction therapy. Six weeks later she calls the clinic reporting several days of watery diarrhea without blood, mild abdominal cramping, and low-grade fever. She has no recent travel, no antibiotic use, and a negative stool culture for Salmonella, Shigella, and Campylobacter. Colonoscopy shows patchy erythema with normal-appearing mucosa on histology.",
+  "question": "Which of the following best explains this patient's diarrhea?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Cytomegalovirus colitis reactivation from T-cell suppression"
+    },
+    {
+      "id": "B",
+      "text": "Clostridioides difficile infection secondary to altered gut flora"
+    },
+    {
+      "id": "C",
+      "text": "A hypersensitivity reaction to the sulfa moiety of the drug"
+    },
+    {
+      "id": "D",
+      "text": "Reduced enterocyte proliferation from inhibition of inosine monophosphate dehydrogenase, which is dose-dependent and may require dose reduction"
+    },
+    {
+      "id": "E",
+      "text": "Acute cellular rejection of the transplanted kidney"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Mycophenolate mofetil is a prodrug of mycophenolic acid, which noncompetitively inhibits inosine monophosphate dehydrogenase (IMPDH). Because lymphocytes depend on the de novo purine synthesis pathway, this selectively blocks B- and T-cell proliferation (it is a reversible, noncompetitive, and selective inhibitor of IMPDH). The gut epithelium turns over rapidly but is not fully spared, so GI side effects, especially diarrhea and abdominal pain, are the most common adverse effects and are dose-related rather than infectious. Dose reduction or splitting the dose usually resolves symptoms, and this is the classic reason patients are switched from mycophenolate mofetil to enteric-coated mycophenolate sodium. The absence of pathogens plus normal mucosa points to a drug effect rather than an infection or rejection, and the patient has native kidneys rather than a transplant.",
+  "explanation_incorrect": {
+    "A": "CMV colitis would require systemic viral reactivation with mucosal ulceration and inclusions on biopsy; this patient is on mycophenolate alone rather than a heavy regimen, and the biopsy showed normal mucosa.",
+    "B": "C. difficile testing was effectively negative by the described workup pattern (no antibiotics, negative workup), and mycophenolate does not meaningfully alter gut flora the way broad-spectrum antibiotics do.",
+    "C": "Mycophenolate is not a sulfonamide; it is the 'mycophenolate' rather than sulfa drug family, and hypersensitivity would more typically produce rash, neutropenia, or hepatitis rather than isolated secretory diarrhea.",
+    "E": "Acute cellular rejection is a renal phenomenon diagnosed by rising creatinine and interstitial infiltrates on graft biopsy, not diarrhea, and this patient still has her native kidneys."
+  },
+  "educationalObjective": "Mycophenolate causes dose-related diarrhea and abdominal pain via IMPDH inhibition, which selectively suppresses lymphocyte purine synthesis.",
+  "source": "Generated from 2. Immunology.pdf - Immunosuppressants: Antiproliferative agents (mycophenolate, azathioprine)"
+},
+{
+  "id": "immuno-210",
+  "subject": "Immunology",
+  "major_topic": "Immunosuppressants",
+  "subtopic": "Antiproliferative agents (mycophenolate, azathioprine)",
+  "difficulty": "hard",
+  "vignette": "A 45-year-old woman with Crohn disease has been maintained on azathioprine for 8 months. Twelve days after her primary care physician starts allopurinol 100 mg daily for gout, she presents with fever, sore throat, and a temperature of 38.9 C. Labs show an absolute neutrophil count of 380/mcL, hemoglobin 9.1 g/dL, and platelets 62,000/mcL. Liver enzymes are mildly elevated.",
+  "question": "Which pharmacologic interaction best explains this patient's severe pancytopenia?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Allopurinol inhibits xanthine oxidase, blocking the detoxification of 6-mercaptopurine and increasing its incorporation into DNA"
+    },
+    {
+      "id": "B",
+      "text": "Allopurinol displaces azathioprine from albumin, causing a transient free-drug surge"
+    },
+    {
+      "id": "C",
+      "text": "Azathioprine forms a complex with allopurinol that is directly toxic to the bone marrow"
+    },
+    {
+      "id": "D",
+      "text": "Allopurinol induces CYP3A4 and accelerates production of azathioprine's inactive metabolites"
+    },
+    {
+      "id": "E",
+      "text": "Allopurinol competes with azathioprine for renal tubular secretion, increasing plasma azathioprine levels"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Azathioprine is converted to 6-mercaptopurine, which is inactivated by xanthine oxidase (to 6-thiouric acid) and also converted by TPMT and HGPRT to active thioguanine nucleotides that are incorporated into DNA and inhibit purine synthesis in proliferating lymphocytes. Allopurinol, given for gout, blocks xanthine oxidase; because the major route of 6-MP clearance is removed, unmetabolized 6-MP shunts into HGPRT-mediated phosphorylation and thioguanine nucleotide formation, producing severe dose-dependent myelosuppression. This is a classic board interaction: allopurinol (and to a lesser extent febuxostat) with azathioprine or 6-mercaptopurine requires a 50-75% dose reduction or avoidance altogether. Pancytopenia in a patient on azathioprine should also prompt TPMT testing, since low TPMT activity mimics the same phenotype.",
+  "explanation_incorrect": {
+    "D": "Allopurinol is not a CYP3A4 inducer, and accelerating inactivation would logically lower thioguanine nucleotide levels and reduce, not worsen, myelosuppression.",
+    "B": "Azathioprine protein binding is low, so displacement from albumin is not a significant mechanism of toxicity; the interaction is metabolic, not pharmacokinetic via binding.",
+    "C": "No such direct chemical adduct is formed; the interaction is explained by inhibition of a competing metabolic pathway, not by a physically toxic complex.",
+    "E": "Competition for renal tubular secretion is not the mechanism; azathioprine is not eliminated unchanged by active tubular secretion, and the toxicity arises from purine nucleotide shunting."
+  },
+  "educationalObjective": "Allopurinol inhibits xanthine oxidase and dangerously increases active 6-thioguanine nucleotide levels from azathioprine or 6-mercaptopurine, causing pancytopenia.",
+  "source": "Generated from 2. Immunology.pdf - Immunosuppressants: Antiproliferative agents (mycophenolate, azathioprine)"
+},
+{
+  "id": "immuno-211",
+  "subject": "Immunology",
+  "major_topic": "Immunosuppressants",
+  "subtopic": "Antiproliferative agents (mycophenolate, azathioprine)",
+  "difficulty": "easy",
+  "vignette": "A 29-year-old man underwent living-donor kidney transplantation 4 months ago and is maintained on mycophenolate mofetil, tacrolimus, and prednisone. He returns after a camping trip with rapid-onset blurred vision, eye pain with movement, and confusion; he has never been exposed to a pond or standing water. Ophthalmoscopy reveals chorioretinitis with a 'headlight in the foglight' appearance. He is started on a combination of pyrimethamine, sulfadiazine, and leucovorin.",
+  "question": "Leucovorin was added to his regimen. What is its purpose?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It enhances the uptake of sulfadiazine into central nervous system trophozoites"
+    },
+    {
+      "id": "B",
+      "text": "It counteracts the myelosuppressive effect of mycophenolate by restoring purine synthesis"
+    },
+    {
+      "id": "C",
+      "text": "It prevents crystalluria from sulfadiazine by alkalinizing the urine"
+    },
+    {
+      "id": "D",
+      "text": "It prevents transplant rejection by suppressing cytotoxic T-cell clonal expansion"
+    },
+    {
+      "id": "E",
+      "text": "It is a folate analog that restores host marrow folate pools, diminishing hematologic toxicity of pyrimethamine"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "This is reactivated Toxoplasma gondii chorioretinitis in an immunosuppressed transplant patient, classically causing the 'headlight in the foglight' lesion. Pyrimethamine inhibits parasitic dihydrofolate reductase, blocking conversion of dihydrofolate to tetrahydrofolate and thereby suppressing toxoplasma replication, but human bone marrow is similarly vulnerable, producing neutropenia and thrombocytopenia. Leucovorin (folinic acid) is already reduced and enters the host folate cycle downstream of dihydrofolate reductase, so it rescues host cells without reversing the antiparasitic effect (which is why it is called 'leucovorin rescue'). The same principle applies to pyrimethamine use in toxoplasmosis in transplant recipients and to high-dose methotrexate rescue.",
+  "explanation_incorrect": {
+    "A": "Leucovorin has no effect on sulfadiazine uptake; it acts strictly on mammalian folate metabolism to protect the host marrow.",
+    "B": "Mycophenolate inhibits IMPDH in purine synthesis; leucovorin supplies reduced folate for pyrimidine and one-carbon metabolism and does not restore the IMPDH-blocked purine pathway.",
+    "C": "Crystalluria from sulfonamides is prevented by hydration and urinary alkalinization, not by leucovorin, which has no role in pH.",
+    "D": "Leucovorin is not an immunosuppressant; giving it in cancer and antiparasitic regimens is specifically intended to spare host proliferation, not to suppress T cells."
+  },
+  "educationalObjective": "Leucovorin rescues host hematopoietic cells from pyrimethamine's dihydrofolate reductase inhibition without reversing the antiparasitic effect.",
+  "source": "Generated from 2. Immunology.pdf - Immunosuppressants: Antiproliferative agents (mycophenolate, azathioprine)"
+}
+]

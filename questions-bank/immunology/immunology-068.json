@@ -1,0 +1,125 @@
+[
+{
+  "id": "immuno-227",
+  "subject": "Immunology",
+  "major_topic": "Immunosuppressants",
+  "subtopic": "Methotrexate and DMARDs",
+  "difficulty": "hard",
+  "vignette": "A 47-year-old woman with seropositive rheumatoid arthritis has been on methotrexate 20 mg weekly with folic acid for 18 months. Her disease is well controlled. She appears with 2 weeks of painful oral erosions, burning on swallowing, and fatigue; her WBC is 2,400/mcL with an ANC of 1,050/mcL and her platelets are 88,000/mcL. Liver enzymes are 2.5 times the upper limit of normal.",
+  "question": "Which intervention is most appropriate for her mucositis and myelosuppression?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Increase the folic acid dose and plan to continue methotrexate at the same dose"
+    },
+    {
+      "id": "B",
+      "text": "Administer leucovorin (folinic acid) rescue and hold methotrexate until counts recover"
+    },
+    {
+      "id": "C",
+      "text": "Start allopurinol to reduce methotrexate metabolite formation"
+    },
+    {
+      "id": "D",
+      "text": "Add a TNF-alpha inhibitor while continuing methotrexate unchanged"
+    },
+    {
+      "id": "E",
+      "text": "Increase methotrexate frequency by splitting the weekly dose into twice-weekly doses"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Methotrexate is a folate analog that inhibits dihydrofolate reductase and other folate-dependent enzymes, depleting thymidine and purines in rapidly dividing cells, so mucositis, bone marrow suppression, and hepatic fibrosis are its classic toxicities. When significant toxicity occurs, leucovorin (folinic acid, N5-formyl-THF) is used because it enters the reduced folate pool downstream of DHFR and directly rescues host cells; methotrexate should be held. This is the same rescue principle used after high-dose methotrexate chemotherapy. Folic acid (unreduced) helps prevent common side effects but cannot reverse significant toxicity once present, and allopurinol worsens methotrexate toxicity by blocking its renal clearance.",
+  "explanation_incorrect": {
+    "A": "Increasing folic acid alone will not reverse established myelosuppression and continuing full-dose methotrexate risks further toxicity.",
+    "C": "Allopurinol inhibits xanthine oxidase and reduces methotrexate and its metabolite clearance, which increases toxicity rather than reducing it.",
+    "D": "Combining more immunosuppression while the patient has methotrexate-induced cytopenias and mucositis increases both infectious and marrow risk.",
+    "E": "Methotrexate is given weekly in rheumatoid arthritis because daily or divided dosing causes severe toxicity; splitting the weekly dose is not appropriate and would worsen toxicity."
+  },
+  "educationalObjective": "Methotrexate toxicity (mucositis, cytopenias) is treated by leucovorin rescue and holding the drug; it should always be given once weekly, not daily.",
+  "source": "Generated from 2. Immunology.pdf - Immunosuppressants: Methotrexate and DMARDs"
+},
+{
+  "id": "immuno-228",
+  "subject": "Immunology",
+  "major_topic": "Immunosuppressants",
+  "subtopic": "Methotrexate and DMARDs",
+  "difficulty": "easy",
+  "vignette": "A 55-year-old woman with severe rheumatoid arthritis is started on a TNF-alpha inhibitor after failing methotrexate. Three weeks after starting, she has a positive tuberculin skin test (15 mm) with normal chest radiograph. She was treated for latent TB with 9 months of isoniazid 20 years ago. Skin testing before starting the biologic was negative.",
+  "question": "Which mechanism of TNF-alpha inhibitor therapy best explains her conversion?",
+  "options": [
+    {
+      "id": "A",
+      "text": "TNF-alpha inhibitors neutralize C3 convertase and thereby impair the tuberculin reaction"
+    },
+    {
+      "id": "B",
+      "text": "TNF-alpha inhibitors directly stimulate growth of mycobacteria by providing an iron source"
+    },
+    {
+      "id": "C",
+      "text": "TNF-alpha is required for formation and maintenance of granulomas, so blockade disrupts containment of latent Mycobacterium tuberculosis and risks reactivation"
+    },
+    {
+      "id": "D",
+      "text": "TNF-alpha inhibitors deplete CD4+ T cells, mimicking HIV-associated anergy"
+    },
+    {
+      "id": "E",
+      "text": "TNF-alpha inhibitors cause a false-positive tuberculin result because they cross-react with mycobacterial antigens"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "TNF-alpha is critical for recruiting and maintaining macrophages within granulomas and for forming caseating granulomas, so TNF-alpha blockade (infliximab, adalimumab, etanercept to a lesser extent) can disrupt containment of latent tuberculosis and cause reactivation, classically as extrapulmonary or miliary disease. All patients must be screened for latent TB before starting these agents; if positive, treat latent infection first or start concurrently per guidelines. The board point is the 'granuloma requires TNF' concept: other granulomatous infections such as histoplasmosis and coccidioidomycosis also reactivate. Note that infliximab also carries a risk of reactivating hepatitis B.",
+  "explanation_incorrect": {
+    "A": "TNF-alpha inhibitors do not neutralize complement proteins, and the tuberculin reaction is a type IV delayed hypersensitivity mediated by T cells and macrophages.",
+    "B": "TNF-alpha inhibitors do not provide nutritional iron to mycobacteria; the mechanism is immune containment failure, not growth promotion.",
+    "D": "These biologics do not selectively deplete CD4+ T cells; that is seen with HIV and with lymphocyte-depleting agents like alemtuzumab.",
+    "E": "The biologic does not cross-react with mycobacterial antigens in the skin test; true conversion reflects restored or maintained mycobacterial reactivity after latent infection escapes containment, not cross-reactivity."
+  },
+  "educationalObjective": "TNF-alpha maintains granulomas, so TNF inhibitors reactivate latent tuberculosis and require pre-treatment TB screening.",
+  "source": "Generated from 2. Immunology.pdf - Immunosuppressants: Methotrexate and DMARDs"
+},
+{
+  "id": "immuno-229",
+  "subject": "Immunology",
+  "major_topic": "Immunosuppressants",
+  "subtopic": "Methotrexate and DMARDs",
+  "difficulty": "hard",
+  "vignette": "A 58-year-old woman with longstanding seropositive rheumatoid arthritis is started on hydroxychloroquine 200 mg twice daily for mild disease activity. Six months in, her rheumatologist orders annual eye screening. Visual acuity is normal and fundoscopy shows parafoveal pigmentary changes; an automated visual field reveals a ring scotoma and OCT shows parafoveal thinning.",
+  "question": "Which ophthalmologic complication is associated with this drug?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Acute angle-closure glaucoma from ciliary body swelling"
+    },
+    {
+      "id": "B",
+      "text": "Optic neuritis with afferent pupillary defect and pain on eye movement"
+    },
+    {
+      "id": "C",
+      "text": "Irreversible retinal toxicity (bull's-eye maculopathy) from drug binding to melanin in retinal pigment epithelium"
+    },
+    {
+      "id": "D",
+      "text": "Papilledema with elevated intracranial pressure"
+    },
+    {
+      "id": "E",
+      "text": "Retinitis pigmentosa accelerated by photosensitivity"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Hydroxychloroquine, a cheap antimalarial also used for SLE and rheumatoid arthritis, is an immunomodulator that inhibits antigen processing and toll-like receptor signaling, and it accumulates in pigmented tissues. Its classic toxicity is retinopathy that can occur early in the parafoveal region (paracentral step-like changes and a ring scotoma) and, classically, bull's-eye maculopathy with irreversible vision loss if not caught early. Because it can be irreversible, guidelines recommend baseline and annual-to-biennial screening with OCT, visual fields, and fundoscopy after 5 years of use (or earlier for high risk). Rare systemic effects include QT prolongation, hemolytic anemia in G6PD deficiency, and myopathy.",
+  "explanation_incorrect": {
+    "A": "Hydroxychloroquine can cause ciliary body edema and blunted accommodation in rare cases, but acute angle-closure glaucoma is not its classic or documented board-level ocular toxicity.",
+    "B": "Optic neuritis with painful eye movement is more typical of ethambutol, multiple sclerosis, or neuromyelitis optica, not hydroxychloroquine.",
+    "D": "Papilledema from raised intracranial pressure is associated with intracranial masses, vitamin A toxicity, or tetracyclines, not hydroxychloroquine.",
+    "E": "Retinitis pigmentosa is a hereditary degeneration, not a drug-induced acceleration caused by hydroxychloroquine."
+  },
+  "educationalObjective": "Hydroxychloroquine causes irreversible bull's-eye maculopathy, requiring baseline and periodic ophthalmologic screening.",
+  "source": "Generated from 2. Immunology.pdf - Immunosuppressants: Methotrexate and DMARDs"
+}
+]

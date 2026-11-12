@@ -1,0 +1,166 @@
+[
+{
+  "id": "immuno-098",
+  "subject": "Immunology",
+  "major_topic": "Cellular Components",
+  "subtopic": "Macrophages and monocytes",
+  "difficulty": "easy",
+  "vignette": "A 22-year-old man is brought to the emergency department with fever, tachycardia, hypotension, and altered mental status after a motor vehicle collision and multiple long bone fractures. He has no prior infections and no evidence of tissue injury on initial scan.",
+  "question": "Which cell is the principal source of the excessive cytokines driving his hypotension and fever?",
+  "options": [
+    {
+      "id": "A",
+      "text": "CD4+ Th2 lymphocytes secreting IL-4"
+    },
+    {
+      "id": "B",
+      "text": "Eosinophils releasing major basic protein"
+    },
+    {
+      "id": "C",
+      "text": "Monocytes and tissue macrophages releasing TNF-alpha and IL-1"
+    },
+    {
+      "id": "D",
+      "text": "Mast cells releasing high-molecular-weight kininogen"
+    },
+    {
+      "id": "E",
+      "text": "Plasma cells secreting preformed cytokines"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "The patient has sepsis or a systemic inflammatory response driven by monocyte and macrophage activation after tissue injury. Monocytes respond to bacterial products and tissue debris by releasing TNF-alpha, IL-1, and IL-6, which produce fever, vasodilation, hypotension, and capillary leak. Macrophage-derived mediators are also the target of therapies such as anti-TNF agents in inflammatory disease.",
+  "explanation_incorrect": {
+    "A": "Th2 cells release IL-4, which drives humoral responses and has minimal role in the cardiovascular collapse of sepsis.",
+    "B": "Eosinophil degranulation is directed against helminths and does not produce the systemic cytokine storm seen here.",
+    "D": "Mast cells release histamine and other mediators in allergic reactions, but the classic septic picture arises from monocyte-macrophage cytokines.",
+    "E": "Plasma cells lack a significant cytokine repertoire and are specialized for antibody secretion."
+  },
+  "educationalObjective": "Monocytes and macrophages are the predominant producers of TNF-alpha, IL-1, and IL-6, the pyrogenic and vasodilatory mediators of systemic inflammation.",
+  "source": "Generated from 2. Immunology.pdf - Cellular Components: Macrophages and monocytes"
+},
+{
+  "id": "immuno-099",
+  "subject": "Immunology",
+  "major_topic": "Cellular Components",
+  "subtopic": "Macrophages and monocytes",
+  "difficulty": "medium",
+  "vignette": "A 34-year-old woman from Japan with painless submandibular swelling and submental lymphadenopathy is biopsied. Histology shows poorly formed follicles and numerous large cells with abundant cytoplasm, no identifiable specific infectious organism, and no evidence of local infection. The cells show numerous vacuoles and a starry-sky pattern of tingible body macrophages.",
+  "question": "Which macrophage function is best illustrated by the starry-sky pattern in this lesion?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Antigen presentation to CD8+ T cells"
+    },
+    {
+      "id": "B",
+      "text": "Phagocytosis of dying B cells and apoptotic debris"
+    },
+    {
+      "id": "C",
+      "text": "Opsonization of bacteria with antibody"
+    },
+    {
+      "id": "D",
+      "text": "Secretion of immunoglobulin"
+    },
+    {
+      "id": "E",
+      "text": "Complement activation by the lectin pathway"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "The lesion is Kikuchi histiocytic necrotizing lymphadenitis or, in the more classic differential, a reactive follicular hyperplasia in which tingible body macrophages engulf apoptotic B cells in germinal centers. Macrophages are professional phagocytes that clear apoptotic debris, preventing release of nuclear antigens that could otherwise drive autoimmunity. This is why failure of efferocytosis is linked to lupus-like disease.",
+  "explanation_incorrect": {
+    "A": "Antigen presentation is a known function of dendritic cells, but the vacuolated cells clearing apoptotic debris are phagocytic macrophages.",
+    "C": "Opsonization is the process by which antibody or complement coats targets, performed by plasma-cell antibody and complement proteins, not by macrophages.",
+    "D": "Only plasma cells secrete immunoglobulin, not macrophages.",
+    "E": "Complement lectin activation occurs in the plasma on pathogen surfaces and is not a cellular function of macrophages."
+  },
+  "educationalObjective": "Tingible body macrophages phagocytose apoptotic germinal-center B cells, and defective clearance of cellular debris is linked to autoimmune disease.",
+  "source": "Generated from 2. Immunology.pdf - Cellular Components: Macrophages and monocytes"
+},
+{
+  "id": "immuno-100",
+  "subject": "Immunology",
+  "major_topic": "Cellular Components",
+  "subtopic": "Macrophages and monocytes",
+  "difficulty": "medium",
+  "vignette": "A 55-year-old man with systemic atherosclerosis has elevated inflammatory markers and slow plaque progression. His cardiologist discusses that unstable plaques contain numerous lipid-laden cells that secrete matrix metalloproteinases and inflammatory cytokines.",
+  "question": "These lipid-laden cells within the atherosclerotic plaque are derived from which cell lineage?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Monocytes that have migrated into the vessel wall and differentiated into foamy macrophages"
+    },
+    {
+      "id": "B",
+      "text": "Smooth muscle cells that have acquired eosinophilic granules"
+    },
+    {
+      "id": "C",
+      "text": "Endothelial cells that have undergone granulocytic differentiation"
+    },
+    {
+      "id": "D",
+      "text": "B cells that have acquired the ability to phagocytose oxidized LDL"
+    },
+    {
+      "id": "E",
+      "text": "Neutrophils that become resident indefinitely in the intima"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Circulating monocytes are recruited by chemokines into the arterial intima where they differentiate into macrophages expressing scavenger receptors such as CD36 and SR-A. These receptors internalize oxidized LDL without feedback regulation, yielding cholesterol-laden foam cells. Foam cells secrete TNF and matrix metalloproteinases that weaken the fibrous cap and promote plaque rupture and thrombosis.",
+  "explanation_incorrect": {
+    "B": "Smooth muscle cells form the fibrous cap and can take up lipid, but the classic foam cell of the plaque is monocyte-derived and the 'eosinophilic granules' descriptor is wrong.",
+    "C": "Endothelial cells do not acquire granulocytic traits and are not the source of foam cells.",
+    "D": "B cells are not professional phagocytes and do not take up oxidized LDL; increased B-cell activity is instead associated with atheroprotection.",
+    "E": "Neutrophils are short-lived and not the chronic resident lipid-laden population of the plaque."
+  },
+  "educationalObjective": "Monocyte-derived macrophages become foam cells after scavenger-receptor uptake of oxidized LDL, and their proteases destabilize atherosclerotic plaques.",
+  "source": "Generated from 2. Immunology.pdf - Cellular Components: Macrophages and monocytes"
+},
+{
+  "id": "immuno-101",
+  "subject": "Immunology",
+  "major_topic": "Cellular Components",
+  "subtopic": "Macrophages and monocytes",
+  "difficulty": "hard",
+  "vignette": "A 6-year-old boy with recurrent infections from unusual organisms has a mutant gene causing defective phagocyte killing. He has a sibling with a similar presentation and no history of excessive bruising or bleeding. Genetic testing shows a defect in the NADPH oxidase system.",
+  "question": "Which of the following is the most characteristic immunologic feature of this disorder?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Absent B cells with agammaglobulinemia"
+    },
+    {
+      "id": "B",
+      "text": "Absent T cells with normal NK cells"
+    },
+    {
+      "id": "C",
+      "text": "Normal MHC class II expression with normal T-cell receptor repertoire"
+    },
+    {
+      "id": "D",
+      "text": "Defective killing of catalase-positive organisms with granuloma formation"
+    },
+    {
+      "id": "E",
+      "text": "Isolated absence of respiratory burst"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Chronic granulomatous disease is caused by NADPH oxidase deficiency, eliminating the respiratory burst that generates superoxide. Phagocytes can still ingest bacteria but cannot kill catalase-positive organisms such as Staphylococcus aureus, Serratia, Burkholderia, Nocardia, and Aspergillus, which destroy the organism's own hydrogen peroxide. Persistent antigen stimulation produces granulomas, and the nitroblue tetrazolium and dihydrorhodamine tests are used for diagnosis.",
+  "explanation_incorrect": {
+    "A": "B-cell numbers and immunoglobulins are normal in CGD; defects in antibody production define diseases like XLA.",
+    "B": "T cells are normal in CGD, which distinguishes it from SCID or DiGeorge syndrome.",
+    "C": "MHC class II expression is normal in CGD, and bare lymphocyte syndrome is a separate disease with absent class II.",
+    "E": "While the respiratory burst is absent, it is the resulting inability to kill catalase-positive organisms and the granulomas that are the clinical hallmark, so this option is less complete."
+  },
+  "educationalObjective": "NADPH oxidase deficiency (chronic granulomatous disease) spares ingestion but prevents killing of catalase-positive organisms and produces recurrent granulomas.",
+  "source": "Generated from 2. Immunology.pdf - Cellular Components: Macrophages and monocytes"
+}
+]

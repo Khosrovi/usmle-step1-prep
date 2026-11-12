@@ -80,3 +80,14 @@ body {
 ::selection {
   background-color: color-mix(in oklch, var(--primary) 30%, transparent);
 }
+
+/* Every page has a sticky header. When the browser scrolls an option or button
+ * into view (keyboard tabbing, focus, jump links), leave room for it so the
+ * element does not land underneath the header. */
+html {
+  scroll-padding-top: 9rem;
+}
+
+:where(button, [role="button"], input, label, a, h2, h3) {
+  scroll-margin-top: 9rem;
+}

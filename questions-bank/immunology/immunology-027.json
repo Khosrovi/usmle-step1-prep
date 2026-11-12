@@ -1,0 +1,84 @@
+[
+{
+  "id": "immuno-075",
+  "subject": "Immunology",
+  "major_topic": "B Cell Activation",
+  "subtopic": "B cell tolerance",
+  "difficulty": "hard",
+  "vignette": "A 31-year-old woman presents with malar rash, symmetric arthritis and a positive antinuclear antibody test. Western blot of her serum shows high-affinity IgG antibodies against double-stranded DNA and histones. Review of her laboratory history reveals that low levels of anti-dsDNA IgM (non-pathogenic, low affinity) were detectable 6 years earlier, before any symptoms. Her B cells show defective expression of an inhibitory receptor that normally dampens signaling when antigen is bound by C3d-opsonized complexes.",
+  "question": "Which B cell receptor coreceptor most directly mediates this inhibitory effect, and what is its consequence in health?",
+  "options": [
+    {
+      "id": "A",
+      "text": "CD19, which signals through PI3-kinase to raise the activation threshold"
+    },
+    {
+      "id": "B",
+      "text": "Fc gamma RIIB (CD32), which recruits SHIP-1 to inhibit BCR signaling on interaction with IgG-containing immune complexes"
+    },
+    {
+      "id": "C",
+      "text": "CD21 (CR2), which coligates with CD19 to lower the activation threshold"
+    },
+    {
+      "id": "D",
+      "text": "CD40, which transmits help from T cells"
+    },
+    {
+      "id": "E",
+      "text": "BTK, whose ITAM-coupled phosphorylation eliminates autoreactive clones"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Fc gamma RIIB (CD32B) is the inhibitory IgG Fc receptor expressed on B cells; when IgG-containing immune complexes simultaneously engage the BCR and Fc gamma RIIB, the latter's immunoreceptor tyrosine-based inhibitory motif recruits the inositol phosphatase SHIP-1, which hydrolyzes PI(3,4,5)P3 and blunts calcium flux and B cell activation. This negative feedback raises the threshold for activation by self-antigens and participates in preventing escape of low-affinity autoreactive clones. Deficiency of this inhibitory pathway in mouse models produces autoimmune-prone, lupus-like phenotypes, supporting the idea that failed peripheral tolerance converts silent low-affinity anti-dsDNA clones into pathogenic class-switched autoantibodies.",
+  "explanation_incorrect": {
+    "A": "CD19 is a positive coreceptor that amplifies BCR signaling through PI3-kinase; it lowers rather than raises the activation threshold.",
+    "C": "CD21/C3d coligation with CD19 actually lowers the threshold for activation, which is the opposite of the inhibitory effect described.",
+    "D": "CD40 provides T cell help and is a positive costimulatory signal; it does not dampen BCR signaling.",
+    "E": "BTK is a positive kinase downstream of BCR ITAMs; its absence causes agammaglobulinemia, and it does not delete autoreactive clones."
+  },
+  "educationalObjective": "Fc gamma RIIB recruits the phosphatase SHIP-1 to inhibit BCR signaling upon co-ligation by IgG immune complexes, providing an important inhibitory checkpoint that limits autoreactive B cell activation.",
+  "source": "Generated from 2. Immunology.pdf - B Cell Activation: B cell tolerance"
+},
+{
+  "id": "immuno-077",
+  "subject": "Immunology",
+  "major_topic": "B Cell Activation",
+  "subtopic": "B cell tolerance",
+  "difficulty": "hard",
+  "vignette": "A 32-year-old woman with systemic lupus erythematosus is enrolled in an immunology study. Investigators sort her bone marrow B cells and find that the frequency of newly generated immature B cells bearing light chains that bind double-stranded DNA is normal, but that almost none of these cells survive to exit the marrow. In contrast, her peripheral blood contains a modest excess of class-switched anti-dsDNA-secreting cells.",
+  "question": "Which mechanism normally removes developing B cells whose BCR binds self-antigen with high avidity within the bone marrow?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Clonal expansion of autoreactive B cells followed by autoantibody secretion"
+    },
+    {
+      "id": "B",
+      "text": "Negative selection: receptor editing to replace the self-reactive light chain, followed by Bim-dependent apoptosis of cells that fail editing"
+    },
+    {
+      "id": "C",
+      "text": "Downregulation of RAG-1 and RAG-2 expression"
+    },
+    {
+      "id": "D",
+      "text": "Class switching of autoreactive B cells to IgA for mucosal excretion"
+    },
+    {
+      "id": "E",
+      "text": "Fc gamma RIIB-mediated deletion of mature plasma cells in the bone marrow"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "In the bone marrow, immature B cells whose surface IgM binds self-antigen with high avidity undergo central tolerance through two linked processes: receptor editing, in which continued light chain rearrangement (RAG-dependent) replaces the autoreactive light chain, and, if editing fails to reduce avidity, negative selection through apoptosis. Death of the failed clones depends on the pro-apoptotic Bcl-2 family member Bim and on a strong calcium signal from the BCR. The normal marrow deletion in this patient shows that central tolerance is working; her disease must therefore arise from escape of low-avidity clones and from failure of peripheral checkpoints such as anergy, Fc gamma RIIB inhibition and germinal center deletion.",
+  "explanation_incorrect": {
+    "A": "Clonal expansion and autoantibody secretion would break tolerance; central tolerance instead requires deletion or functional silencing of these clones.",
+    "C": "Downregulation of RAG genes terminates light chain rearrangement during maturation and does not by itself remove autoreactive cells.",
+    "D": "Class switching occurs later in the periphery after antigen-driven activation and does not serve as a central tolerance mechanism.",
+    "E": "Fc gamma RIIB modulates B cell activation signaling but is not the mechanism of central deletion of immature B cells in the marrow."
+  },
+  "educationalObjective": "Central B cell tolerance eliminates high-avidity autoreactive immature B cells in the bone marrow by receptor editing or Bim-dependent apoptosis, with peripheral mechanisms handling any escapees.",
+  "source": "Generated from 2. Immunology.pdf - B Cell Activation: B cell tolerance"
+}
+]

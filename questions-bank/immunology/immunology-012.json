@@ -1,0 +1,166 @@
+[
+{
+  "id": "immuno-037",
+  "subject": "Immunology",
+  "major_topic": "Antigen Presentation and MHC",
+  "subtopic": "MHC class II",
+  "difficulty": "easy",
+  "vignette": "An infant boy has persistent diarrhea with severe failure to thrive. Skin lesions, including a vesicular eruption, and alopecia are absent, but he has severely low CD4+ T-cell counts with normal CD8+ T cells. Genetic testing confirms a mutation affecting a transcription factor responsible for the transcription of class II genes.",
+  "question": "Which of the following best explains this patient's immunodeficiency?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Failure to express MHC class II due to a defect in CIITA"
+    },
+    {
+      "id": "B",
+      "text": "Failure to express MHC class I due to a defect in beta-2 microglobulin"
+    },
+    {
+      "id": "C",
+      "text": "Defective TAP-mediated peptide transport"
+    },
+    {
+      "id": "D",
+      "text": "Absent invariant chain expression with preserved class II on the surface"
+    },
+    {
+      "id": "E",
+      "text": "Defective CD40L expression leading to high IgM"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Bare lymphocyte syndrome type II is a severe combined immunodeficiency caused by loss of MHC class II expression, most often from mutations in the transcription factor CIITA (or in one of its partners such as RFX), which controls HLA-D region gene transcription. Without class II, CD4+ T cells cannot be positively selected in the thymus, so CD4+ T cells are strikingly reduced and the patient suffers early, severe infections, diarrhea, and failure to thrive. Bone marrow transplantation restores class II expression because the defect is in hematopoietic cells, a useful conceptual point for transplant questions.",
+  "explanation_incorrect": {
+    "B": "A beta-2 microglobulin defect would abolish class I expression and reduce CD8+ T cells, the reverse of the CD4+ deficiency described.",
+    "C": "TAP deficiency impairs class I presentation and class I surface expression, leaving CD4+ numbers relatively preserved.",
+    "D": "The invariant chain is required for class II function, and its absence does not preserve normal class II presentation, so this does not explain the phenotype.",
+    "E": "CD40L deficiency causes hyper-IgM syndrome with normal T-cell numbers and is not the described class II transcription defect."
+  },
+  "educationalObjective": "CIITA drives MHC class II transcription, and its loss (bare lymphocyte syndrome type II) causes profound CD4+ lymphopenia and severe immunodeficiency.",
+  "source": "Generated from 2. Immunology.pdf - Antigen Presentation and MHC: MHC class II"
+},
+{
+  "id": "immuno-038",
+  "subject": "Immunology",
+  "major_topic": "Antigen Presentation and MHC",
+  "subtopic": "MHC class II",
+  "difficulty": "medium",
+  "vignette": "A 45-year-old man with an autoimmune disorder has peripheral blood dendritic cells analyzed. He is found to lack HLA-DO expression, and laboratory studies show that his B cells fail to undergo normal class II peptide editing.",
+  "question": "Which of the following best describes the normal function of HLA-DO?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It transports peptides into the endoplasmic reticulum for class I loading"
+    },
+    {
+      "id": "B",
+      "text": "It catalyzes the removal of invariant chain (CLIP) from MHC class II"
+    },
+    {
+      "id": "C",
+      "text": "It binds HLA-DM and modulates its activity, favoring presentation of antigens internalized by B-cell receptor-mediated endocytosis"
+    },
+    {
+      "id": "D",
+      "text": "It stabilizes the class II alpha-beta heterodimer at the cell surface"
+    },
+    {
+      "id": "E",
+      "text": "It is a peptide derived from gliadin that is presented by HLA-DQ2"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "In the class II pathway, the invariant chain is proteolyzed in endosomes, leaving CLIP in the binding groove; HLA-DM then catalyzes CLIP removal and peptide exchange. HLA-DO, expressed mainly in B cells and thymic epithelium, binds and inhibits HLA-DM under neutral pH conditions, which biases peptide selection toward antigens internalized by B-cell receptor-mediated endocytosis and presented with higher specificity. When the endosome acidifies, pH-dependent interaction between DO and DM is altered, further tuning the editing. This is a fine-tuning mechanism that broadens and refines the class II repertoire rather than the primary loader.",
+  "explanation_incorrect": {
+    "A": "Peptide transport into the ER is the job of TAP for class I, and HLA-DO is not a transporter.",
+    "B": "HLA-DM performs CLIP removal; HLA-DO modulates, and generally inhibits, that activity rather than catalyzing it.",
+    "D": "Class II stability depends on the alpha-beta heterodimer and peptide binding, not on HLA-DO, which is an editing modulator in endosomes.",
+    "E": "Gliadin peptides are dietary antigens presented by DQ2 or DQ8 in celiac disease; HLA-DO is an intracellular modulator protein, not a dietary peptide."
+  },
+  "educationalObjective": "HLA-DO modulates HLA-DM to tune which peptides occupy MHC class II in B cells, refining the specificity of helper T-cell responses.",
+  "source": "Generated from 2. Immunology.pdf - Antigen Presentation and MHC: MHC class II"
+},
+{
+  "id": "immuno-039",
+  "subject": "Immunology",
+  "major_topic": "Antigen Presentation and MHC",
+  "subtopic": "MHC class II",
+  "difficulty": "medium",
+  "vignette": "A 29-year-old pregnant woman is found to lack expression of a particular MHC class II molecule while all other class II expression is intact. Her cells are studied for the mechanism of peptide loading, and the missing molecule appears to require a specific chain complementation.",
+  "question": "Which of the following correctly lists the chains of MHC class II molecules?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A single heavy chain bound to beta-2 microglobulin"
+    },
+    {
+      "id": "B",
+      "text": "Two covalently linked identical heavy chains"
+    },
+    {
+      "id": "C",
+      "text": "An alpha chain and a beta chain, both encoded in the HLA-D region"
+    },
+    {
+      "id": "D",
+      "text": "An alpha chain from chromosome 15 and a beta chain from chromosome 6"
+    },
+    {
+      "id": "E",
+      "text": "A single chain with three extracellular domains, all polymorphic"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "MHC class II molecules are heterodimers of a nonpolymorphic alpha chain and a polymorphic beta chain, both encoded by genes in the HLA-D region of chromosome 6, with the peptide-binding groove formed jointly by the alpha-1 and beta-1 domains. The classical human class II molecules are HLA-DP, HLA-DQ, and HLA-DR, and the DR alpha gene is much less polymorphic than DR beta, which is why DR typing is usually beta-focused. This contrasts with class I, which is a single polymorphic heavy chain paired with beta-2 microglobulin.",
+  "explanation_incorrect": {
+    "A": "The heavy chain plus beta-2 microglobulin structure is MHC class I, not class II.",
+    "B": "Class II is a heterodimer of two different chains, alpha and beta, whereas class II does not form homodimers of identical heavy chains.",
+    "D": "Both class II chains are encoded in the HLA-D region on chromosome 6; beta-2 microglobulin on chromosome 15 belongs to class I.",
+    "E": "Class II molecules have two extracellular domains on each of the two chains, not one chain with three polymorphic domains."
+  },
+  "educationalObjective": "MHC class II is an alpha-beta heterodimer encoded entirely in the HLA-D region, unlike class I, which pairs a heavy chain with beta-2 microglobulin.",
+  "source": "Generated from 2. Immunology.pdf - Antigen Presentation and MHC: MHC class II"
+},
+{
+  "id": "immuno-040",
+  "subject": "Immunology",
+  "major_topic": "Antigen Presentation and MHC",
+  "subtopic": "MHC class II",
+  "difficulty": "hard",
+  "vignette": "A 36-year-old man is evaluated for chronic watery diarrhea and marked weight loss. Stool studies are negative for pathogens, and endoscopy shows generalized flattening of small intestinal villi. Peripheral blood flow cytometry shows strikingly low CD4+ T cells, and his CD4+ T cells fail to respond to antigen-presenting cells in vitro.",
+  "question": "In this condition, which of the following is most likely true?",
+  "options": [
+    {
+      "id": "A",
+      "text": "MHC class II is expressed normally on B cells but the patient's T cells cannot recognize it"
+    },
+    {
+      "id": "B",
+      "text": "MHC class II expression is preserved on all cells but peptide loading is defective in endosomes"
+    },
+    {
+      "id": "C",
+      "text": "MHC class I expression on all nucleated cells is absent"
+    },
+    {
+      "id": "D",
+      "text": "Both class I and class II expression are preserved but the TCR is mutated"
+    },
+    {
+      "id": "E",
+      "text": "MHC class II is not expressed on any nucleated cell, including B cells and dendritic cells"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "This is the classic presentation of bare lymphocyte syndrome type II (MHC class II deficiency), in which a defect in CIITA or the RFX complex prevents transcription of HLA-D region genes in all nucleated cells. With no class II on thymic epithelium and on professional antigen-presenting cells, CD4+ T cells fail positive selection and peripheral help collapses, producing severe infections, diarrhea, and failure to thrive. The absence of class II on B cells despite normal immunoglobulin genes is a defining finding, and it contrasts with common variable immunodeficiency or selective IgA deficiency, in which class II expression is normal.",
+  "explanation_incorrect": {
+    "A": "Class II is absent on all nucleated cells in this disorder, so the abnormality is not limited to the patient's T-cell recognition.",
+    "B": "Peptide loading defects such as invariant chain mutations are distinct and rarer; the global class II transcriptional block is the classic cause of this phenotype.",
+    "C": "Class I expression is preserved in bare lymphocyte syndrome type II, which is why CD8+ T cells are relatively spared.",
+    "D": "A TCR mutation would not selectively abolish CD4+ cell help while preserving CD8+ cells, and the described phenotype reflects absent class II."
+  },
+  "educationalObjective": "Bare lymphocyte syndrome type II abolishes class II expression on all nucleated cells, collapsing CD4+ selection and helper function while sparing CD8+ cells.",
+  "source": "Generated from 2. Immunology.pdf - Antigen Presentation and MHC: MHC class II"
+}
+]

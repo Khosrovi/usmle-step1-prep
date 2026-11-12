@@ -1,0 +1,125 @@
+[
+{
+  "id": "immuno-005",
+  "subject": "Immunology",
+  "major_topic": "Antibodies and Immunoglobulins",
+  "subtopic": "Class switching and affinity maturation",
+  "difficulty": "medium",
+  "vignette": "A 4-year-old boy presents with recurrent sinopulmonary infections and is found to have normal numbers of B cells but strikingly low serum IgG, IgA, and IgE with a normal to elevated IgM. Genetic testing reveals a defect in CD40 ligand (CD40L) on activated T cells. His B cells cannot receive the T-cell contact signal required for changing isotype.",
+  "question": "The process that is impaired in this patient, responsible for converting IgM-producing B cells into cells that make other antibody classes, is best described as which of the following?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Somatic hypermutation of V region genes"
+    },
+    {
+      "id": "B",
+      "text": "Gene rearrangement of V, D, and J segments"
+    },
+    {
+      "id": "C",
+      "text": "Class switch recombination of heavy-chain constant region genes"
+    },
+    {
+      "id": "D",
+      "text": "Allelic exclusion of immunoglobulin alleles"
+    },
+    {
+      "id": "E",
+      "text": "Alternative splicing of membrane versus secreted heavy-chain mRNA"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Class switching, or isotype switching, is the process by which a B cell changes the constant region of its heavy chain while keeping the same variable region, thereby producing IgM first and later IgG, IgA, or IgE with identical antigen specificity. It requires CD40-CD40L costimulation from activated CD4+ T cells plus cytokines that direct the specific switch. In X-linked hyper-IgM syndrome due to CD40L deficiency, B cells cannot switch, so the patient has very low IgG, IgA, and IgE with normal to high IgM.",
+  "explanation_incorrect": {
+    "A": "Somatic hypermutation introduces point mutations in variable regions to increase affinity; it can occur independently of class switching.",
+    "B": "V(D)J recombination assembles the variable region during B-cell development and is largely complete before antigen encounter and class switching.",
+    "D": "Allelic exclusion ensures one B cell expresses only one heavy and one light chain; it is not the process that changes isotype.",
+    "E": "Alternative RNA splicing yields membrane-bound versus secreted immunoglobulin but does not alter the constant-region isotype."
+  },
+  "educationalObjective": "Class switch recombination changes the heavy-chain constant region and thus the isotype while preserving antigen specificity, and it requires CD40L costimulation from T cells.",
+  "source": "Generated from 2. Immunology.pdf - Antibodies and Immunoglobulins: Class switching and affinity maturation"
+},
+{
+  "id": "immuno-006",
+  "subject": "Immunology",
+  "major_topic": "Antibodies and Immunoglobulins",
+  "subtopic": "Class switching and affinity maturation",
+  "difficulty": "hard",
+  "vignette": "A 65-year-old man with a history of several respiratory infections has serum antibodies tested by enzyme-linked immunosorbent assay before and after a booster immunization. After boostering, his serum antibodies to the vaccine antigen show a roughly 100-fold higher binding strength, though the total antibody concentration increases only modestly. He has a normal complement of B cells.",
+  "question": "The increase in binding strength observed after booster immunization is primarily due to which of the following?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Increased class switching to IgA"
+    },
+    {
+      "id": "B",
+      "text": "Somatic hypermutation of variable region genes followed by selection of high-affinity clones in germinal centers"
+    },
+    {
+      "id": "C",
+      "text": "Deletion of self-reactive clones in the thymus"
+    },
+    {
+      "id": "D",
+      "text": "Synthesis of the J chain"
+    },
+    {
+      "id": "E",
+      "text": "Increased complement fixation by IgM pentamers"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Affinity maturation is the Darwinian process occurring in germinal centers in which activated B cells undergo somatic hypermutation of their variable region genes. Clones with mutations that increase affinity for the antigen preferentially receive survival signals from follicular helper T cells and antigen, while lower-affinity clones undergo apoptosis. This results in production of antibodies with progressively higher affinity after each antigen exposure, the classic hallmark of a secondary or booster response.",
+  "explanation_incorrect": {
+    "A": "Class switching changes the isotype and its effector functions but does not by itself raise the binding strength (affinity) of the antibody.",
+    "C": "Negative selection of self-reactive T cells occurs in the thymus as central tolerance and is unrelated to humoral affinity maturation.",
+    "D": "The J chain multimerizes secreted IgA and IgM monomers; it does not affect the affinity of the antibody for antigen.",
+    "E": "Complement fixation is an effector property of the constant region and does not change the intrinsic antigen-binding affinity."
+  },
+  "educationalObjective": "Affinity maturation results from somatic hypermutation of variable regions combined with germinal-center selection, producing higher-affinity antibodies after repeated antigen exposure.",
+  "source": "Generated from 2. Immunology.pdf - Antibodies and Immunoglobulins: Class switching and affinity maturation"
+},
+{
+  "id": "immuno-007",
+  "subject": "Immunology",
+  "major_topic": "Antibodies and Immunoglobulins",
+  "subtopic": "Class switching and affinity maturation",
+  "difficulty": "medium",
+  "vignette": "A 3-year-old girl presents with recurrent sinopulmonary infections. Serum studies reveal low IgG with normal-to-elevated IgA and IgM. Genetic testing identifies a defect in an enzyme that deaminates cytosine residues in immunoglobulin genes; as a result her B cells fail to perform both somatic hypermutation and class switching. Her T-cell and B-cell numbers are normal.",
+  "question": "Which of the following genetic defects most closely explains a patient with low IgG and normal-to-high IgM who nevertheless has a defect in both class switching and somatic hypermutation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Deficiency of a tyrosine kinase that transmits signals from the pre-B cell receptor (Bruton)"
+    },
+    {
+      "id": "B",
+      "text": "Absence of the common gamma chain (IL-2 receptor gamma)"
+    },
+    {
+      "id": "C",
+      "text": "Mutation in the enzyme activation-induced cytidine deaminase (AID)"
+    },
+    {
+      "id": "D",
+      "text": "Deficiency of complement component C3"
+    },
+    {
+      "id": "E",
+      "text": "Deficiency of CD3 epsilon on T cells"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Activation-induced cytidine deaminase (AID) deaminates cytosines in immunoglobulin genes and is required for both somatic hypermutation and class switch recombination. AID deficiency causes an autosomal recessive hyper-IgM syndrome in which B cells cannot switch from IgM to other isotypes, producing low IgG and IgA with elevated IgM, and affinity maturation is also impaired. CD40L deficiency, the X-linked hyper-IgM form, blocks class switching but spares somatic hypermutation, so a defect in both processes points to AID.",
+  "explanation_incorrect": {
+    "A": "Bruton tyrosine kinase (BTK) deficiency causes X-linked agammaglobulinemia with absent B cells and all isotypes low, not an isolated switch defect.",
+    "B": "Common gamma chain deficiency causes X-linked severe combined immunodeficiency affecting T and NK cells with broad humoral failure, not an isolated AID-type switch defect.",
+    "D": "C3 deficiency predisposes to pyogenic infections and immune complex disease, but B cells retain normal switching and hypermutation.",
+    "E": "CD3 epsilon is a T-cell receptor component; its absence causes T-cell lymphopenia and combined immunodeficiency without a selective switch defect."
+  },
+  "educationalObjective": "AID deficiency (autosomal recessive hyper-IgM syndrome) blocks both class switch recombination and somatic hypermutation, unlike CD40L deficiency which spares hypermutation.",
+  "source": "Generated from 2. Immunology.pdf - Antibodies and Immunoglobulins: Class switching and affinity maturation"
+}
+]

@@ -98,3 +98,6 @@ yarn-error.log*
 *.pem
 *.key
 *.cert
+# Local scratch (validated plan snapshots, ingested fragments)
+.cache/
+

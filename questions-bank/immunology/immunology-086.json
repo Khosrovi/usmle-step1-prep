@@ -1,0 +1,125 @@
+[
+{
+  "id": "immuno-285",
+  "subject": "Immunology",
+  "major_topic": "Transplantation",
+  "subtopic": "Graft-versus-host disease",
+  "difficulty": "medium",
+  "vignette": "A 41-year-old woman with acute myeloid leukemia in first complete remission undergoes allogeneic hematopoietic stem cell transplantation from an HLA-matched unrelated donor after myeloablative conditioning. On post-transplant day 24 she develops jaundice, a new diffuse erythematous maculopapular rash involving the palms and soles, and profuse watery diarrhea of more than 2 liters per day. Laboratory studies show a total bilirubin of 5.2 mg/dL with a direct predominance, and stool studies for infection are negative. Skin biopsy demonstrates basal vacuolar degeneration with apoptotic keratinocytes and dermal mononuclear infiltrates.",
+  "question": "Which of the following best explains the pathogenesis of this patient's condition?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Recipient T cells recognize intact donor HLA class II on donor dendritic cells and attack the graft"
+    },
+    {
+      "id": "B",
+      "text": "Preformed recipient antibodies bind donor ABO antigens on graft endothelial cells and activate complement"
+    },
+    {
+      "id": "C",
+      "text": "Deficient thymic negative selection allows autoreactive T cells to escape into the periphery and attack self-antigens"
+    },
+    {
+      "id": "D",
+      "text": "Mature donor T cells recognize recipient alloantigens presented by host antigen-presenting cells and attack host tissue"
+    },
+    {
+      "id": "E",
+      "text": "Immune complex deposition of donor antibody and host antigen causes complement-mediated injury of small vessels"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "This is acute graft-versus-host disease, marked by the classic triad of dermatitis, jaundice with elevated bilirubin, and watery diarrhea appearing within weeks to months of transplant. It occurs when immunocompetent mature T cells in the graft recognize the host as foreign, because the recipient is nonidentical at minor and major histocompatibility loci and is immunosuppressed. The principal risk factor is donor T-cell burden, which is why grafts are T-cell depleted and why the highest risk is a highly mismatched, HLA-disparate donor. The attacked organs are the skin, gastrointestinal tract, and liver.",
+  "explanation_incorrect": {
+    "A": "Recipient T cells recognizing intact donor HLA on donor dendritic cells describes direct presentation in acute graft rejection, in which the host attacks the graft rather than the graft attacking the host.",
+    "B": "Preformed recipient antibody binding donor ABO antigens is the mechanism of hyperacute rejection, which occurs within minutes to hours and produces a thrombosed, dusky graft, not rash and diarrhea weeks later.",
+    "C": "Deficient thymic negative selection describes the failure of central tolerance leading to autoimmune disease such as APS-1, which is a separate phenomenon from an attack mounted by transplanted donor T cells.",
+    "E": "Immune complex deposition with complement-mediated vessel injury describes type III hypersensitivity reactions such as systemic lupus erythematosus or post-streptococcal glomerulonephritis, not the cellular disease described here."
+  },
+  "educationalObjective": "Graft-versus-host disease is caused by mature donor T cells in the graft recognizing recipient alloantigens and attacking host skin, gut, and liver.",
+  "source": "Generated from 2. Immunology.pdf - Transplantation: Graft-versus-host disease"
+},
+{
+  "id": "immuno-286",
+  "subject": "Immunology",
+  "major_topic": "Transplantation",
+  "subtopic": "Graft-versus-host disease",
+  "difficulty": "hard",
+  "vignette": "A 57-year-old man with diffuse large B-cell lymphoma undergoes high-dose chemotherapy followed by an autologous peripheral blood stem cell infusion using his own mobilized cells. His neutrophil count recovers on day 11 and platelet engraftment occurs on day 14. On day 32 he develops a painful, tender erythematous rash over his shoulders and upper back, along with nausea and bulky, watery stools. He has been on prophylactic fluconazole and acyclovir. His medications include lisinopril and atorvastatin. Liver enzymes are mildly elevated. Skin biopsy shows apoptotic keratinocytes with a mononuclear infiltrate.",
+  "question": "Which of the following is the most likely explanation for the finding of graft-versus-host disease in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Normal donor T cells from the stem cell product recognized a minor histocompatibility antigen mismatch present in the recipient"
+    },
+    {
+      "id": "B",
+      "text": "A drug reaction to atorvastatin that mimics graft-versus-host disease histologically but is not immune-mediated against host tissue"
+    },
+    {
+      "id": "C",
+      "text": "Engraftment syndrome from cytokine release during neutrophil recovery, which resolves with corticosteroids"
+    },
+    {
+      "id": "D",
+      "text": "Recipient-derived T cells reactivated from the residual lymphoma cell population, which cross-react with keratinocytes"
+    },
+    {
+      "id": "E",
+      "text": "Transfusion-associated graft-versus-host disease from unirradiated infused stem cells, in which donor T cells survive because the host is immunocompetent"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Autologous graft-versus-host disease is a recognized, typically self-limited complication that occurs after autologous stem cell transplant and is attributed to a graft-versus-host reaction generated by autoreactive or minor histocompatibility antigen-specific T cells that escape the re-educating thymus during rapid immune reconstitution. Because donor and host are identical, no major HLA mismatch exists, but minor histocompatibility antigens, which are polymorphisms in self-peptides, can still be recognized. The clinical picture and timing are otherwise identical to conventional GVHD, and the usual treatment is topical or systemic corticosteroids.",
+  "explanation_incorrect": {
+    "B": "Atorvastatin is not a classical trigger of an immune-mediated graft-versus-host reaction, and the biopsy pattern of apoptotic keratinocytes with a mononuclear infiltrate is not typical of a simple drug eruption.",
+    "C": "Engraftment syndrome presents with fever, rash, and pulmonary edema around neutrophil recovery, without the apoptotic keratinocyte histology or the gastrointestinal and hepatic involvement described.",
+    "D": "Residual lymphoma cells are B-cell derived and do not mediate the T-cell-driven graft-versus-host reaction seen after autologous transplant.",
+    "E": "Transfusion-associated GVHD requires a transfusion of unirradiated blood products into an immunocompromised host; here the infused cells are the patient's own and already the therapeutic product, and the scenario is autologous transplant rather than transfusion."
+  },
+  "educationalObjective": "Graft-versus-host disease can occur after autologous stem cell transplant through recognition of self minor histocompatibility antigens during rapid immune reconstitution.",
+  "source": "Generated from 2. Immunology.pdf - Transplantation: Graft-versus-host disease"
+},
+{
+  "id": "immuno-287",
+  "subject": "Immunology",
+  "major_topic": "Transplantation",
+  "subtopic": "Graft-versus-host disease",
+  "difficulty": "easy",
+  "vignette": "A 13-year-old boy with severe combined immunodeficiency due to a defect in the common gamma chain is admitted for allogeneic bone marrow transplantation from his healthy older sister. The hematology fellow is preparing the graft for infusion and is asked by the pharmacy student why the graft will be purified to reduce the number of mature lymphocytes before transfer. The boy has no functional B or T cells of his own and remains in a protective isolation room.",
+  "question": "Which of the following is the primary rationale for the graft modification being discussed?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Depleting donor lymphocytes increases the number of hematopoietic stem cells that home to the marrow niche"
+    },
+    {
+      "id": "B",
+      "text": "Depleting donor lymphocytes prevents the donor cells from engrafting, thereby reducing the need for pretransplant conditioning"
+    },
+    {
+      "id": "C",
+      "text": "Depleting donor lymphocytes removes the mature donor T cells that would otherwise recognize host alloantigens and cause graft-versus-host disease"
+    },
+    {
+      "id": "D",
+      "text": "Depleting donor lymphocytes removes the recipient's own T cells so that donor marrow can engraft without competition"
+    },
+    {
+      "id": "E",
+      "text": "Depleting donor lymphocytes prevents the recipient from mounting a hyperacute antibody-mediated reaction against donor marrow"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Graft-versus-host disease is caused by immunocompetent mature donor T cells contained in the graft that survive and recognize the recipient's tissues as foreign. T-cell depletion of the donor graft, whether by physical separation, monoclonal antibodies against CD3 or CD52, or post-transplant cyclophosphamide, is therefore a strategy to prevent GVHD. The trade-off is a weakened graft-versus-leukemia effect and an increased risk of infections and relapse, which is why T-cell depletion is used selectively and is being replaced in many centers by post-transplant cyclophosphamide and partial HLA matching.",
+  "explanation_incorrect": {
+    "A": "Depleting lymphocytes does not enrich stem cells by raising their absolute number or homing capacity; it removes competing mature cells, not to augment engraftment directly.",
+    "B": "Donor lymphocyte depletion does not prevent engraftment; complete failure of engraftment is instead a possible complication because donor T cells can support the graft, and conditioning is still required.",
+    "D": "T-cell depletion performed on the donor product cannot remove the recipient's T cells, which are addressed separately by conditioning regimens or post-transplant cyclophosphamide.",
+    "E": "Hyperacute rejection is mediated by preformed antibody with complement activation, is typical of vascularized solid organ grafts in an ABO-incompatible or pre-sensitized recipient, and cannot be prevented by depleting donor lymphocytes."
+  },
+  "educationalObjective": "T-cell depletion of a donor hematopoietic graft reduces mature donor T cells that mediate graft-versus-host disease, at the cost of a weaker graft-versus-leukemia effect.",
+  "source": "Generated from 2. Immunology.pdf - Transplantation: Graft-versus-host disease"
+}
+]

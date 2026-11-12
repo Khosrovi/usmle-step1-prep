@@ -1,0 +1,248 @@
+[
+{
+  "id": "immuno-117",
+  "subject": "Immunology",
+  "major_topic": "Cellular Components",
+  "subtopic": "T cell subsets (CD4, CD8, Th1/Th2/Th17/Treg)",
+  "difficulty": "easy",
+  "vignette": "A 7-month-old boy has had multiple severe viral pneumonias, chronic diarrhea, and failure to thrive. He was recently vaccinated with a live vaccine and developed persistent infection. Flow cytometry shows absent CD3+ cells, and genetic testing shows absence of the thymus on chest radiograph.",
+  "question": "Which cell-mediated immune defect best explains his severe viral infections?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Deficiency of CD8+ cytotoxic T cells required for killing virus-infected cells"
+    },
+    {
+      "id": "B",
+      "text": "Deficiency of B cells with absent antibody responses"
+    },
+    {
+      "id": "C",
+      "text": "Deficiency of complement C3"
+    },
+    {
+      "id": "D",
+      "text": "Deficiency of neutrophils with neutropenia"
+    },
+    {
+      "id": "E",
+      "text": "Deficiency of mast cells with impaired histamine release"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "This is DiGeorge syndrome (22q11.2 deletion) with thymic aplasia and impaired T-cell production, which abolishes CD8+ cytotoxic T-cell responses that are essential for eliminating virally infected cells. CD8+ T cells recognize viral peptide on MHC class I and kill infected cells by perforin and granzyme. In the absence of T cells, live vaccines can cause disseminated infection and must be avoided.",
+  "explanation_incorrect": {
+    "B": "B cells may be present and antibody can even be normal early, but cell-mediated protection against viruses requires CD8+ T cells.",
+    "C": "C3 deficiency predisposes mainly to encapsulated bacterial infections rather than the severe viral disease seen here.",
+    "D": "Neutropenia predisposes to bacterial and fungal infections, not the intracellular viral disease described.",
+    "E": "Mast cell deficiency affects allergic responses, not antiviral defense."
+  },
+  "educationalObjective": "Thymic aplasia in DiGeorge syndrome eliminates CD8+ cytotoxic T cells, which are essential for clearing virus-infected cells and preclude live vaccines.",
+  "source": "Generated from 2. Immunology.pdf - Cellular Components: T cell subsets (CD4, CD8, Th1/Th2/Th17/Treg)"
+},
+{
+  "id": "immuno-118",
+  "subject": "Immunology",
+  "major_topic": "Cellular Components",
+  "subtopic": "T cell subsets (CD4, CD8, Th1/Th2/Th17/Treg)",
+  "difficulty": "medium",
+  "vignette": "A 29-year-old woman with a 2-week history of cough, night sweats, and weight loss has a chest radiograph showing upper lobe infiltrates and a cavitary lesion. Sputum is positive for acid-fast bacilli, and a tuberculin skin test is indurated. She is also noted to have reduced IFN-gamma release on a QuantiFERON assay.",
+  "question": "Which T-cell subset is most critical for containing this infection through macrophage activation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Th2 cells secreting IL-4"
+    },
+    {
+      "id": "B",
+      "text": "Th17 cells secreting IL-17"
+    },
+    {
+      "id": "C",
+      "text": "Th1 cells secreting IFN-gamma"
+    },
+    {
+      "id": "D",
+      "text": "Regulatory T cells secreting TGF-beta"
+    },
+    {
+      "id": "E",
+      "text": "CD8+ cytotoxic T cells"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Mycobacterium tuberculosis is an intracellular organism that survives in macrophages, so its control depends on Th1 cells producing IFN-gamma, which activates macrophages to form granulomas and enhance killing. IL-12 from macrophages drives Th1 differentiation, and IFN-gamma defects cause Mendelian susceptibility to mycobacterial disease. The granuloma is the histologic manifestation of this Th1-macrophage axis.",
+  "explanation_incorrect": {
+    "A": "Th2 cells promote IgE responses and eosinophilic inflammation and actively antagonize the protective Th1 response.",
+    "B": "Th17 cells recruit neutrophils and are important in extracellular bacterial and fungal defense, not the primary mechanism of macrophage activation against TB.",
+    "D": "Tregs suppress immune responses and would not mount the protective macrophage activation required.",
+    "E": "CD8+ T cells contribute to antimycobacterial immunity but macrophage activation through IFN-gamma is the dominant Th1 mechanism."
+  },
+  "educationalObjective": "Th1 cells producing IFN-gamma are required for macrophage activation and granuloma formation, the key defense against intracellular pathogens such as tuberculosis.",
+  "source": "Generated from 2. Immunology.pdf - Cellular Components: T cell subsets (CD4, CD8, Th1/Th2/Th17/Treg)"
+},
+{
+  "id": "immuno-119",
+  "subject": "Immunology",
+  "major_topic": "Cellular Components",
+  "subtopic": "T cell subsets (CD4, CD8, Th1/Th2/Th17/Treg)",
+  "difficulty": "medium",
+  "vignette": "A 34-year-old woman with multiple sclerosis has new enhancing brain lesions and is offered fingolimod, a sphingosine-1-phosphate receptor modulator that sequesters lymphocytes in lymph nodes. She asks about vaccination before starting therapy.",
+  "question": "Which subset of CD4+ T cells is most classically associated with the demyelinating lesions in this disease?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Treg cells expressing CD25 and FOXP3"
+    },
+    {
+      "id": "B",
+      "text": "Th17 cells producing IL-17"
+    },
+    {
+      "id": "C",
+      "text": "Th2 cells producing IL-4"
+    },
+    {
+      "id": "D",
+      "text": "Th1 cells producing IL-12"
+    },
+    {
+      "id": "E",
+      "text": "Naive CD4+ T cells producing IL-2"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Multiple sclerosis is an autoimmune central nervous system demyelinating disease in which Th17 cells, driven by IL-6, TGF-beta, and IL-23 and producing IL-17, recruit neutrophils and monocytes and breach the blood-brain barrier when reactivated by molecular mimicry. Th17 expansion is also seen in psoriasis and in experimental autoimmune encephalomyelitis. Blocking IL-17 is effective in psoriasis, and related pathways are targeted in MS.",
+  "explanation_incorrect": {
+    "A": "Treg cells suppress autoreactive responses and are not the effector population causing demyelination.",
+    "C": "Th2 cells drive humoral and allergic responses and are not the primary initiators of MS lesions.",
+    "D": "Th1 cells and IL-12 participate in MS pathogenesis, but the classic high-yield association for these specific demyelinating lesions is Th17/IL-17.",
+    "E": "Naive CD4+ T cells have not yet encountered antigen and cannot initiate an autoimmune attack."
+  },
+  "educationalObjective": "Th17 cells producing IL-17 are central to experimental autoimmune encephalomyelitis and to multiple sclerosis lesions, linking IL-23/IL-17 pathways to CNS autoimmunity.",
+  "source": "Generated from 2. Immunology.pdf - Cellular Components: T cell subsets (CD4, CD8, Th1/Th2/Th17/Treg)"
+},
+{
+  "id": "immuno-120",
+  "subject": "Immunology",
+  "major_topic": "Cellular Components",
+  "subtopic": "T cell subsets (CD4, CD8, Th1/Th2/Th17/Treg)",
+  "difficulty": "medium",
+  "vignette": "A 2-month-old infant born to a mother with hyperthyroidism has prolonged watery diarrhea, failure to thrive, and recurrent respiratory infections. HIV testing is negative. Flow cytometry shows normal CD8+ T cells, but CD4+ T cells are absent and MHC class II expression is undetectable on monocytes and B cells (bare lymphocyte syndrome).",
+  "question": "Which mechanism best explains the absent CD4+ T-cell compartment and antibody deficiency?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Absent MHC class II prevents positive selection of CD4+ T cells and prevents helper-dependent B-cell responses"
+    },
+    {
+      "id": "B",
+      "text": "Absent MHC class I prevents positive selection of CD8+ T cells"
+    },
+    {
+      "id": "C",
+      "text": "Defective common gamma chain signaling impairs all T-cell development"
+    },
+    {
+      "id": "D",
+      "text": "Absent thymic epithelium prevents negative selection only"
+    },
+    {
+      "id": "E",
+      "text": "Defective BRUTON kinase impairs B-cell maturation"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Bare lymphocyte syndrome (MHC class II deficiency) is caused by mutations in transcription factors such as CIITA or RFX that control MHC class II expression. Without class II, thymic positive selection of CD4+ T cells is abolished, and peripheral CD4+ T cells cannot deliver help to B cells, resulting in hypogammaglobulinemia despite normal B-cell numbers. It is autosomal recessive and presents with severe infections in infancy.",
+  "explanation_incorrect": {
+    "B": "MHC class I deficiency (bare lymphocyte syndrome type I) affects CD8 numbers primarily and is a different disorder from the class II pattern shown.",
+    "C": "Common gamma chain deficiency causes SCID with absent T cells including both CD4 and CD8, not the selective CD4 loss with normal CD8 seen here.",
+    "D": "Positive and negative selection both depend on thymic antigen presentation; the defect here is loss of class II-restricted positive selection, not isolated negative selection.",
+    "E": "BTK deficiency causes X-linked agammaglobulinemia with absent B cells but normal or increased T cells, including CD4."
+  },
+  "educationalObjective": "MHC class II deficiency impairs CD4+ T-cell positive selection and helper-dependent antibody production, causing severe immunodeficiency.",
+  "source": "Generated from 2. Immunology.pdf - Cellular Components: T cell subsets (CD4, CD8, Th1/Th2/Th17/Treg)"
+},
+{
+  "id": "immuno-121",
+  "subject": "Immunology",
+  "major_topic": "Cellular Components",
+  "subtopic": "T cell subsets (CD4, CD8, Th1/Th2/Th17/Treg)",
+  "difficulty": "hard",
+  "vignette": "A 6-year-old girl has severe food allergy, chronic rhinosinusitis, marked peripheral eosinophilia, and an elevated IgE. She is treated with an investigational drug that induces FOXP3+ regulatory T cells. Notably, she has a sister with IPEX syndrome who developed severe enteropathy and endocrinopathy.",
+  "question": "Which mechanism best explains the beneficial effect of increasing Treg cells in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Tregs directly kill helminths with major basic protein"
+    },
+    {
+      "id": "B",
+      "text": "Tregs increase IL-4 production by Th2 cells"
+    },
+    {
+      "id": "C",
+      "text": "Tregs suppress autoreactive and allergen-specific effector T cells via IL-10, TGF-beta, and IL-2 consumption"
+    },
+    {
+      "id": "D",
+      "text": "Tregs promote class switching to IgE"
+    },
+    {
+      "id": "E",
+      "text": "Tregs directly induce anaphylaxis by releasing histamine"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "FOXP3+ Tregs suppress excessive Th2 effector responses through soluble mediators IL-10 and TGF-beta and by consuming IL-2, which deprives effector T cells of a proliferation signal. Mutations in FOXP3 cause IPEX syndrome (immune dysregulation, polyendocrinopathy, enteropathy, X-linked), and allergy reflects failure of this tolerance. Biologic approaches that expand Tregs are being developed to dampen allergic disease.",
+  "explanation_incorrect": {
+    "A": "Major basic protein is a product of eosinophils, and Tregs do not directly kill helminths.",
+    "B": "Tregs suppress rather than increase IL-4 production by Th2 cells.",
+    "D": "Class switching to IgE is promoted by Th2 help and IL-4, an activity that Tregs suppress.",
+    "E": "Histamine release causing anaphylaxis is a mast cell function, not a Treg function."
+  },
+  "educationalObjective": "FOXP3+ Tregs maintain peripheral tolerance by suppressing effector T cells through IL-10, TGF-beta, and IL-2 consumption, and their loss causes IPEX syndrome.",
+  "source": "Generated from 2. Immunology.pdf - Cellular Components: T cell subsets (CD4, CD8, Th1/Th2/Th17/Treg)"
+},
+{
+  "id": "immuno-122",
+  "subject": "Immunology",
+  "major_topic": "Cellular Components",
+  "subtopic": "T cell subsets (CD4, CD8, Th1/Th2/Th17/Treg)",
+  "difficulty": "hard",
+  "vignette": "A 40-year-old man with severe atopic dermatitis is treated with dupilumab, a monoclonal antibody against the IL-4 receptor alpha chain. His skin lesions improve, and his total IgE and eosinophil counts decline. He also reports fewer asthma exacerbations. Studies of his circulating T cells show reduced IL-4, IL-5, and IL-13 production after allergen stimulation.",
+  "question": "Which transcription factor drives differentiation of the T-cell subset suppressed by this therapy?",
+  "options": [
+    {
+      "id": "A",
+      "text": "T-bet"
+    },
+    {
+      "id": "B",
+      "text": "ROR-gamma-t"
+    },
+    {
+      "id": "C",
+      "text": "FOXP3"
+    },
+    {
+      "id": "D",
+      "text": "GATA-3"
+    },
+    {
+      "id": "E",
+      "text": "PU.1"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Dupilumab blocks IL-4R alpha, shared by the IL-4 and IL-13 receptors, thereby dampening Th2-driven inflammation. Th2 differentiation is controlled by the transcription factor GATA-3, which also drives production of IL-4, IL-5, and IL-13; these cytokines promote IgE class switching and eosinophilia. Atopic dermatitis and eosinophilic asthma respond because both are Th2-polarized diseases.",
+  "explanation_incorrect": {
+    "A": "T-bet is the master transcription factor for Th1 differentiation and IFN-gamma production.",
+    "B": "ROR-gamma-t drives Th17 differentiation and IL-17 production, relevant to psoriasis and fungal defense.",
+    "C": "FOXP3 is essential for regulatory T-cell development and does not drive the Th2 program.",
+    "E": "PU.1 is a myeloid transcription factor important for macrophage and B-cell development rather than Th2 commitment."
+  },
+  "educationalObjective": "GATA-3 is the master transcription factor for Th2 differentiation, driving IL-4, IL-5, and IL-13 and the IgE and eosinophilic responses targeted by dupilumab.",
+  "source": "Generated from 2. Immunology.pdf - Cellular Components: T cell subsets (CD4, CD8, Th1/Th2/Th17/Treg)"
+}
+]

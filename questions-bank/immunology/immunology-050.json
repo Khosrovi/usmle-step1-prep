@@ -1,0 +1,166 @@
+[
+{
+  "id": "immuno-169",
+  "subject": "Immunology",
+  "major_topic": "Hypersensitivity Reactions",
+  "subtopic": "Type IV delayed-type hypersensitivity",
+  "difficulty": "easy",
+  "vignette": "A 22-year-old college student has a routine pre-employment screening with a tuberculin (PPD) skin test. Forty-eight hours after intradermal placement, a nurse palpates a 12-mm indurated, erythematous plaque at the site. The patient is asymptomatic with a normal chest radiograph. He asks why the test was read 2 days later rather than immediately.",
+  "question": "Which cells mediate the induration seen at 48 hours?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Mast cells degranulating in response to antigen-specific IgE"
+    },
+    {
+      "id": "B",
+      "text": "Neutrophils recruited by immune complex activation of complement"
+    },
+    {
+      "id": "C",
+      "text": "Antigen-specific CD4+ Th1 cells that recruit and activate macrophages, causing induration and local swelling"
+    },
+    {
+      "id": "D",
+      "text": "B cells producing IgM within the dermis at the injection site"
+    },
+    {
+      "id": "E",
+      "text": "Eosinophils recruited by IL-5 in response to parasitic antigens"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "The tuberculin reaction is the prototype of type IV, delayed-type hypersensitivity. In a previously sensitized person, memory CD4+ Th1 cells recognize mycobacterial peptides presented on MHC class II by local antigen-presenting cells; they secrete IFN-gamma and other cytokines that recruit and activate macrophages, producing a firm, indurated, erythematous lesion about 48 to 72 hours after antigen injection. This is why standard reading is at 48 to 72 hours rather than immediately. The reaction is adoptive-transferable by T cells and cannot be transferred by serum.",
+  "explanation_incorrect": {
+    "A": "Mast cell degranulation characterizes type I reactivity and would produce a wheal-and-flare within minutes, not induration at 48 hours.",
+    "B": "Neutrophil recruitment by immune complexes describes the type III Arthus reaction, which peaks earlier and is less indurated.",
+    "D": "IgM production by local B cells does not produce the macrophage-rich induration of a delayed-type reaction.",
+    "E": "Eosinophil-driven IgE responses occur in parasitic infection and do not produce the tuberculin reaction."
+  },
+  "educationalObjective": "Delayed-type hypersensitivity induration at 48 to 72 hours is mediated by CD4+ Th1 cells recruiting and activating macrophages.",
+  "source": "Generated from 2. Immunology.pdf - Hypersensitivity Reactions: Type IV delayed-type hypersensitivity"
+},
+{
+  "id": "immuno-170",
+  "subject": "Immunology",
+  "major_topic": "Hypersensitivity Reactions",
+  "subtopic": "Type IV delayed-type hypersensitivity",
+  "difficulty": "medium",
+  "vignette": "A 45-year-old woman has an intensely pruritic, vesicular rash on the dorsum of her feet and around her umbilicus, shaped like the metal studs of her jeans and the snap of her belt. The rash began about 2 days after wearing a nickel-containing necklace and persists for several days after removal. Patch testing with nickel sulfate applied under occlusion shows a reaction when read at 48 and 96 hours.",
+  "question": "Which mechanism best explains the positive patch test?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Nickel-specific IgE binds to dermal mast cells and triggers immediate wheal-and-flare"
+    },
+    {
+      "id": "B",
+      "text": "Nickel-specific IgG deposits in the dermis with complement activation and neutrophil influx"
+    },
+    {
+      "id": "C",
+      "text": "Cytotoxic CD8+ T cells and macrophages recruited by hapten-specific T cells damage the epidermis, causing spongiosis and vesicles"
+    },
+    {
+      "id": "D",
+      "text": "Nickel directly inhibits keratinocyte proliferation, producing epidermal necrosis"
+    },
+    {
+      "id": "E",
+      "text": "Th2-driven eosinophil infiltration of the dermis with major basic protein deposition"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Allergic contact dermatitis from nickel is a type IV delayed hypersensitivity reaction. Nickel, a small metal hapten, complexes with self skin proteins to form a complete antigen that is processed by Langerhans cells and presented on MHC to sensitized T cells. On re-challenge, hapten-specific CD8+ cytotoxic T cells and macrophages are recruited to the epidermis over 48 to 96 hours, causing spongiosis, vesiculation, and intense pruritus. The distribution matching belt snaps and jewelry studs is characteristic, and patch testing read at 48 to 96 hours confirms the diagnosis.",
+  "explanation_incorrect": {
+    "A": "IgE-mediated reactions produce urticaria within minutes and would not give a 48-hour patch test reaction or vesicles.",
+    "B": "Immune complex deposition is a type III mechanism and does not produce the epidermal spongiosis of contact dermatitis.",
+    "D": "Direct nickel cytotoxicity is not an immunologic mechanism and would not require prior sensitization or give a positive patch test.",
+    "E": "Eosinophil infiltration is characteristic of parasitic and atopic disease, not of nickel contact dermatitis."
+  },
+  "educationalObjective": "Allergic contact dermatitis is a type IV hypersensitivity reaction in which hapten-specific T cells and macrophages produce epidermal damage 48 to 96 hours after exposure.",
+  "source": "Generated from 2. Immunology.pdf - Hypersensitivity Reactions: Type IV delayed-type hypersensitivity"
+},
+{
+  "id": "immuno-171",
+  "subject": "Immunology",
+  "major_topic": "Hypersensitivity Reactions",
+  "subtopic": "Type IV delayed-type hypersensitivity",
+  "difficulty": "medium",
+  "vignette": "A 52-year-old woman received a kidney transplant from a deceased donor 4 months ago and is maintained on tacrolimus, mycophenolate, and prednisone. She now presents with fever, oliguria, and a rise in serum creatinine from 1.1 to 2.4 mg/dL. Biopsy shows a dense interstitial infiltrate of CD4+ and CD8+ T cells, tubulitis, and moderate arteritis with endothelialitis. Complement deposits are minimal and donor-specific antibodies are undetectable.",
+  "question": "Which type of hypersensitivity best describes this biopsy finding?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Type I immediate hypersensitivity from donor mast cell sensitization"
+    },
+    {
+      "id": "B",
+      "text": "Type II antibody-mediated injury to tubular basement membranes"
+    },
+    {
+      "id": "C",
+      "text": "Type III immune complex deposition in glomerular capillaries"
+    },
+    {
+      "id": "D",
+      "text": "Type IV cell-mediated hypersensitivity with T-cell-mediated allograft rejection"
+    },
+    {
+      "id": "E",
+      "text": "A calcineurin inhibitor toxicity unrelated to immune mechanisms"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "This is acute T-cell-mediated (cellular) rejection, the type IV hypersensitivity prototype in solid organ transplantation. Recipient T cells recognize donor alloantigens on donor or recipient antigen-presenting cells through the direct and indirect pathways, become activated, and migrate into the graft, where CD8+ cytotoxic cells attack tubular and endothelial cells and CD4+ cells amplify macrophage recruitment. The histologic triad of interstitial inflammation, tubulitis, and endotheliitis (arteritis) is diagnostic, and the absence of donor-specific antibodies and complement deposition argues against antibody-mediated rejection. Treatment includes high-dose corticosteroids and T-cell-depleting agents.",
+  "explanation_incorrect": {
+    "A": "Type I mast cell reactions are not a described mechanism of acute allograft rejection.",
+    "B": "Antibody-mediated rejection would show capillary C4d deposition and circulating donor-specific antibodies, which are absent here.",
+    "C": "Type III immune complex glomerulopathy would show granular deposits and proteinuria rather than interstitial tubulitis.",
+    "E": "Calcineurin inhibitor toxicity typically causes nodular hyaline arteriolosclerosis or isometric vacuolization, not endotheliitis."
+  },
+  "educationalObjective": "Acute T-cell-mediated allograft rejection is type IV hypersensitivity, diagnosed by interstitial inflammation with tubulitis and endotheliitis.",
+  "source": "Generated from 2. Immunology.pdf - Hypersensitivity Reactions: Type IV delayed-type hypersensitivity"
+},
+{
+  "id": "immuno-172",
+  "subject": "Immunology",
+  "major_topic": "Hypersensitivity Reactions",
+  "subtopic": "Type IV delayed-type hypersensitivity",
+  "difficulty": "hard",
+  "vignette": "A 62-year-old woman with a metallic hip arthroplasty performs daily squats in a home exercise program. Six weeks into the routine she develops a cystic, fluctuant mass over the greater trochanter with surrounding erythema and swelling. Aspiration yields sterile, lymphocyte-rich, culture-negative fluid. Histology shows sheets of macrophages and numerous multinucleated giant cells with small metal debris particles, and peripheral blood shows elevated interferon-gamma responses to metal ions.",
+  "question": "Which immunologic mechanism best explains this sterile macrophage-rich reaction?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Bacterial biofilm infection leading to localized abscess and failure of clearance"
+    },
+    {
+      "id": "B",
+      "text": "Metal ions activate Th1 cells and macrophages that fuse into foreign-body giant cells, a type IV hypersensitivity-like response to wear debris"
+    },
+    {
+      "id": "C",
+      "text": "IgE antibodies to titanium activate mast cells in the joint capsule"
+    },
+    {
+      "id": "D",
+      "text": "Deposition of circulating metal-antibody immune complexes in the synovium with complement activation"
+    },
+    {
+      "id": "E",
+      "text": "Reduced phagocyte oxidative burst causing recurrent pyogenic infections"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Wear particles from metal-on-metal implants can trigger a delayed, T-cell-driven macrophage response resembling type IV hypersensitivity, sometimes called hypersensitivity or adverse local tissue reaction. Metal ions and debris are processed and presented to Th1 cells, which recruit macrophages; the macrophages phagocytose the particles and fuse into multinucleated foreign-body giant cells, forming a sterile pseudotumor. Culture-negative lymphocyte-rich fluid plus elevated IFN-gamma responses to metal support this diagnosis. Management often requires revision of the implant.",
+  "explanation_incorrect": {
+    "A": "The fluid is sterile with no organisms, making culture-negative biofilm infection unlikely.",
+    "C": "Mast cell-mediated IgE reactions produce rapid urticaria or anaphylaxis, not a six-week sterile macrophage-rich pseudotumor.",
+    "D": "Immune complex disease produces vasculitis or serum sickness rather than sheets of giant cells around metal particles.",
+    "E": "Defective oxidative burst causes chronic granulomatous disease with recurrent bacterial and fungal infections, not an implant-localized foreign-body reaction."
+  },
+  "educationalObjective": "Metal wear debris can trigger a granulomatous type IV hypersensitivity reaction with macrophage recruitment and foreign-body giant cell formation at the implant site.",
+  "source": "Generated from 2. Immunology.pdf - Hypersensitivity Reactions: Type IV delayed-type hypersensitivity"
+}
+]

@@ -1,0 +1,166 @@
+[
+{
+  "id": "immuno-161",
+  "subject": "Immunology",
+  "major_topic": "Hypersensitivity Reactions",
+  "subtopic": "Type II antibody-mediated hypersensitivity",
+  "difficulty": "easy",
+  "vignette": "A 6-year-old boy with fever, jaundice, and dark urine has worsening anemia 5 days after a cephalosporin was started for otitis media. Hemoglobin is 7.8 g/dL, reticulocyte count 8%, LDH elevated, haptoglobin undetectable, and the direct Coombs (Coombs antiglobulin) test for IgG is strongly positive. The peripheral smear shows spherocytes and a few bite cells.",
+  "question": "Which mechanism best explains his anemia?",
+  "options": [
+    {
+      "id": "A",
+      "text": "IgE-mediated degranulation of mast cells in the bone marrow"
+    },
+    {
+      "id": "B",
+      "text": "Deposition of drug-antigen immune complexes on red cell membranes causing large vessel thrombosis"
+    },
+    {
+      "id": "C",
+      "text": "T-cell-mediated destruction of erythroid precursors in the marrow"
+    },
+    {
+      "id": "D",
+      "text": "IgG antibodies on drug-modified red cell antigens opsonize erythrocytes for splenic macrophage phagocytosis"
+    },
+    {
+      "id": "E",
+      "text": "Direct cytotoxicity of the drug against erythroid progenitor cells without immune involvement"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "This is a drug-induced type II, antibody-mediated hypersensitivity reaction. The drug (or its metabolite) binds to the red cell membrane and acts as a hapten, creating a new antigenic determinant; the patient's pre-formed IgG recognizes this complex. Bound IgG opsonizes the erythrocytes for recognition by splenic macrophages through Fc gamma receptors, causing extravascular hemolysis with spherocytes, positive direct Coombs test, elevated LDH and low haptoglobin. Cephalosporins, penicillin, and methyldopa are classic culprits.",
+  "explanation_incorrect": {
+    "A": "Type I reactions cause mast cell-mediated wheal-and-flare or anaphylaxis and do not cause spherocytic hemolytic anemia.",
+    "B": "Drug-antigen immune complexes are the type III mechanism and would cause a serum-sickness-like illness rather than isolated hemolysis.",
+    "C": "T-cell destruction of marrow precursors would give reticulocytopenia or aplastic anemia, whereas this patient has a robust reticulocyte response.",
+    "E": "Direct drug toxicity would not produce a strongly positive direct Coombs test for IgG on the red cells."
+  },
+  "educationalObjective": "Type II hypersensitivity involves IgG or IgM binding surface antigens (including hapten-modified self antigens), producing complement- or Fc-mediated target cell destruction.",
+  "source": "Generated from 2. Immunology.pdf - Hypersensitivity Reactions: Type II antibody-mediated hypersensitivity"
+},
+{
+  "id": "immuno-162",
+  "subject": "Immunology",
+  "major_topic": "Hypersensitivity Reactions",
+  "subtopic": "Type II antibody-mediated hypersensitivity",
+  "difficulty": "medium",
+  "vignette": "A 28-year-old woman is admitted with fatigue and palpitations. She is 6 weeks postpartum after an uncomplicated delivery of a healthy infant. On exam there is a smooth, diffusely enlarged, nontender goiter without ocular signs. TSH is suppressed, free T4 is elevated, and TSH receptor antibodies are positive. A radioactive iodine uptake scan shows diffusely increased iodine uptake with a low-normal or normal rate, unlike a typical hot nodule.",
+  "question": "Which antibody-mediated mechanism best explains her transient hyperthyroidism?",
+  "options": [
+    {
+      "id": "A",
+      "text": "TSH receptor stimulatory antibodies mimic TSH and activate the receptor without hormone feedback"
+    },
+    {
+      "id": "B",
+      "text": "Antibodies block the TSH receptor, causing compensatory thyroid hyperplasia with hyperthyroidism"
+    },
+    {
+      "id": "C",
+      "text": "Immune complex deposition within thyroid follicles activates complement and destroys follicles"
+    },
+    {
+      "id": "D",
+      "text": "CD8+ T cells directly lyse thyroid follicular cells, releasing stored hormone"
+    },
+    {
+      "id": "E",
+      "text": "Mast cell degranulation in the thyroid releases histamine that stimulates hormone synthesis"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Graves disease is the prototypic type II, antibody-mediated hypersensitivity syndrome: IgG antibodies directed against the TSH receptor act as agonists, stimulating adenylate cyclase and driving hormone synthesis and thyroid growth. Because stimulation is TSI-driven rather than TSH-driven, hormone is produced even when TSH is suppressed by feedback, producing the classic picture of suppressed TSH with elevated free T4 and a diffusely enlarged goiter. The same IgG crosses the placenta and can cause transient neonatal hyperthyroidism.",
+  "explanation_incorrect": {
+    "B": "Blocking TSH receptor antibodies cause hypothyroidism (as in Hashimoto thyroiditis) rather than hyperthyroidism.",
+    "C": "Immune complex deposition describes type III hypersensitivity and is not the mechanism of Graves disease.",
+    "D": "T-cell-mediated follicular cell destruction is the mechanism of Hashimoto thyroiditis and leads to hypothyroidism.",
+    "E": "Mast cell histamine release plays no established role in Graves disease thyroid hormone synthesis."
+  },
+  "educationalObjective": "Graves disease is a type II hypersensitivity disorder caused by TSH receptor-stimulating IgG that produces hyperthyroidism despite suppressed TSH.",
+  "source": "Generated from 2. Immunology.pdf - Hypersensitivity Reactions: Type II antibody-mediated hypersensitivity"
+},
+{
+  "id": "immuno-163",
+  "subject": "Immunology",
+  "major_topic": "Hypersensitivity Reactions",
+  "subtopic": "Type II antibody-mediated hypersensitivity",
+  "difficulty": "medium",
+  "vignette": "A 42-year-old man with no prior transfusion history receives 2 units of packed red cells during elective surgery. Fifteen minutes into the second unit he reports flank pain and chills. His urine turns dark, blood pressure falls, and the crossmatch from the blood bank was found to have been mislabeled prior to release. Hemoglobin is unchanged, free hemoglobin is elevated, and the direct antiglobulin test is positive with anti-IgM and complement.",
+  "question": "Which mechanism is most responsible for the acute intravascular hemolysis in this reaction?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Recipient IgG anti-donor red cell antibodies causing splenic macrophage clearance only"
+    },
+    {
+      "id": "B",
+      "text": "IgE-mediated degranulation of basophils after exposure to donor erythrocyte antigens"
+    },
+    {
+      "id": "C",
+      "text": "Recipient preformed IgM anti-donor A/B antigen antibodies activating complement and producing membrane attack complex lysis"
+    },
+    {
+      "id": "D",
+      "text": "CD8+ T cells from the donor mediating graft-versus-host destruction of recipient red cells"
+    },
+    {
+      "id": "E",
+      "text": "Circulating immune complexes of donor red cell antigens depositing in the renal glomeruli"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Acute hemolytic transfusion reactions are caused by pre-formed recipient IgM antibodies, most often against ABO antigens on donor red cells. IgM is a potent complement activator; by binding donor erythrocytes it triggers the classical pathway, generating C3b for opsonization and the C5b-9 membrane attack complex that lyses red cells directly in the vascular space. The result is hemoglobinuria, flank pain, fever, hypotension, and a positive direct antiglobulin test reflecting IgM and complement on the cells. Supportive care and careful crossmatching prevent recurrence.",
+  "explanation_incorrect": {
+    "A": "IgG-mediated splenic clearance produces delayed extravascular hemolysis days after transfusion, not acute intravascular lysis.",
+    "B": "IgE-mediated basophil degranulation is the type I mechanism and is not responsible for ABO incompatibility hemolysis.",
+    "D": "Graft-versus-host reactions require viable donor T cells engrafting, typically in immunocompromised hosts, and do not explain immediate hemolysis.",
+    "E": "Immune complex deposition in glomeruli is a type III mechanism and would not cause immediate intravascular red cell lysis."
+  },
+  "educationalObjective": "Acute hemolytic transfusion reactions arise from preformed IgM anti-ABO antibodies that fix complement and cause intravascular red cell lysis.",
+  "source": "Generated from 2. Immunology.pdf - Hypersensitivity Reactions: Type II antibody-mediated hypersensitivity"
+},
+{
+  "id": "immuno-164",
+  "subject": "Immunology",
+  "major_topic": "Hypersensitivity Reactions",
+  "subtopic": "Type II antibody-mediated hypersensitivity",
+  "difficulty": "hard",
+  "vignette": "A 35-year-old woman has 3 months of proximal muscle weakness, a heliotrope rash, and Gottron papules on her knuckles. Creatine kinase is markedly elevated. Biopsy of the deltoid shows perifascicular atrophy and immunoglobulin deposition on the sarcolemmal capillaries with reduced capillary density. She also reports Raynaud phenomenon and mild dysphagia.",
+  "question": "Which mechanism best accounts for the microangiopathy seen in her muscle biopsy?",
+  "options": [
+    {
+      "id": "A",
+      "text": "IgE-mediated sensitization of mast cells in skeletal muscle with release of leukotrienes"
+    },
+    {
+      "id": "B",
+      "text": "Antibody-mediated complement fixation on muscle capillary endothelium causing capillary destruction and ischemia"
+    },
+    {
+      "id": "C",
+      "text": "CD4+ T-cell activation and granuloma formation around muscle fibers"
+    },
+    {
+      "id": "D",
+      "text": "Deposition of circulating antigen-antibody complexes primarily in the pulmonary alveoli"
+    },
+    {
+      "id": "E",
+      "text": "Reduced complement consumption with normal capillary architecture due to an inhibitor deficiency"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Dermatomyositis is a type II hypersensitivity-mediated microangiopathy of skeletal muscle. Autoantibodies (for example anti-Mi-2 or anti-TIF1-gamma) bind capillary endothelial antigens and fix complement, leading to C5b-9 attack on the endothelium, capillary loss, and perifascicular myofiber ischemia and atrophy. This ischemic mechanism explains the perifascicular atrophy and reduced capillary density on biopsy. It also explains the accompanying Raynaud phenomenon, and why dermatomyositis responds better to immunosuppression than to agents targeting only T-cell-mediated cytotoxicity.",
+  "explanation_incorrect": {
+    "A": "Type I mast cell degranulation is not described in dermatomyositis and does not cause perifascicular atrophy.",
+    "C": "Granulomatous T-cell inflammation describes a type IV process more characteristic of polymyositis or sarcoidosis than of this microangiopathy.",
+    "D": "Immune complex deposition in alveoli is a type III pulmonary mechanism and does not explain muscle capillary damage.",
+    "E": "Complement deficiency states increase immune complex disease rather than causing perifascicular myopathy."
+  },
+  "educationalObjective": "Dermatomyositis is a type II hypersensitivity microangiopathy in which complement-fixing antibodies against capillary endothelium cause perifascicular muscle ischemia.",
+  "source": "Generated from 2. Immunology.pdf - Hypersensitivity Reactions: Type II antibody-mediated hypersensitivity"
+}
+]

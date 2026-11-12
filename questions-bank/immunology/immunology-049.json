@@ -1,0 +1,166 @@
+[
+{
+  "id": "immuno-165",
+  "subject": "Immunology",
+  "major_topic": "Hypersensitivity Reactions",
+  "subtopic": "Type III immune complex hypersensitivity",
+  "difficulty": "easy",
+  "vignette": "A 26-year-old woman receives infliximab and develops fever, urticaria, and arthralgias 9 days later. On exam she has a maculopapular rash and scattered urticarial plaques on the arms, lymphadenopathy, and bilateral ankle swelling. Urinalysis shows 1+ protein and a few red cell casts; serum C3 and C4 are low, and complement-activation products are elevated. Antinuclear antibodies are negative.",
+  "question": "Which mechanism explains her fever, rash, and joint findings?",
+  "options": [
+    {
+      "id": "A",
+      "text": "IgE binding to the drug with immediate mast cell degranulation minutes after the dose"
+    },
+    {
+      "id": "B",
+      "text": "IgG antibodies against the drug-target complexes are absent and her findings are unrelated"
+    },
+    {
+      "id": "C",
+      "text": "T cells recognizing the drug in the skin cause a reaction only after 72 hours"
+    },
+    {
+      "id": "D",
+      "text": "Circulating immune complexes of chimeric antibody and anti-chimeric antibodies deposit in tissues and activate complement"
+    },
+    {
+      "id": "E",
+      "text": "Reduced C1 inhibitor activity leads to bradykinin-mediated angioedema"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "This is serum sickness, a type III immune complex hypersensitivity reaction to a foreign protein or drug such as a chimeric monoclonal antibody. The patient mounts antibodies against the foreign protein; when circulating antigen is still present and antibodies are just appearing, intermediate-sized complexes form and deposit in small vessels, synovium, and glomeruli. Complement activation by these complexes (which consumes C3 and C4) recruits neutrophils and produces the classic triad of fever, urticaria/rash, and arthralgias 7 to 10 days after exposure. Treatment is withdrawal of the agent and supportive therapy.",
+  "explanation_incorrect": {
+    "A": "Type I reactions occur minutes after exposure, whereas this patient's symptoms began about 9 days later.",
+    "B": "Anti-chimeric antibodies do form here, and the low complement with urticaria and arthralgias is not incidental.",
+    "C": "A 72-hour T-cell-mediated reaction describes type IV hypersensitivity and would not consume complement.",
+    "E": "C1 inhibitor deficiency causes hereditary angioedema without urticaria or low C3, differing markedly from this presentation."
+  },
+  "educationalObjective": "Serum sickness is type III hypersensitivity: antibody-antigen immune complexes form days after exposure and deposit in small vessels, causing fever, rash, arthralgias, and complement consumption.",
+  "source": "Generated from 2. Immunology.pdf - Hypersensitivity Reactions: Type III immune complex hypersensitivity"
+},
+{
+  "id": "immuno-166",
+  "subject": "Immunology",
+  "major_topic": "Hypersensitivity Reactions",
+  "subtopic": "Type III immune complex hypersensitivity",
+  "difficulty": "medium",
+  "vignette": "A 9-year-old boy develops facial swelling and hematuria 3 weeks after an episode of impetigo treated with oral cephalexin. Blood pressure is 140/95 mm Hg, and urinalysis shows red cell casts and 2+ protein. Complement C3 is markedly reduced with a normal C4. Serology is positive for antibodies to streptococcal antigens, and the throat culture is negative.",
+  "question": "Which immunopathologic process underlies this patient's kidney disease?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Anti-streptococcal antibodies binding to the glomerular basement membrane directly, producing a linear immunofluorescence pattern"
+    },
+    {
+      "id": "B",
+      "text": "Streptococcal exotoxins direct cytolytic injury to podocytes without any immune deposit"
+    },
+    {
+      "id": "C",
+      "text": "Immune complexes of streptococcal antigen and antibody deposit in the glomeruli, activating complement via the alternative pathway"
+    },
+    {
+      "id": "D",
+      "text": "IgE-mediated hypersensitivity causing mast cell invasion of the renal interstitium"
+    },
+    {
+      "id": "E",
+      "text": "T-cell-mediated granulomatous inflammation of glomerular capillaries"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Post-streptococcal glomerulonephritis is a classic type III hypersensitivity disease. Soluble streptococcal antigens (such as nephritis-associated plasmin receptor or streptococcal pyrogenic exotoxin B) bind host antibodies, and these circulating complexes deposit in the glomerular capillary loop, producing the characteristic granular, 'lumpy-bumpy' immunofluorescence. Complement activation favors the alternative pathway, so C3 is low with a preserved or less depressed C4. The resulting inflammation produces hematuria with red cell casts, proteinuria, hypertension, and edema 1 to 3 weeks after the infection.",
+  "explanation_incorrect": {
+    "A": "Direct anti-GBM antibodies give linear immunofluorescence, as in Goodpasture syndrome, not the granular pattern of this disease.",
+    "B": "Direct toxic injury would not produce immune deposits or a markedly reduced C3.",
+    "D": "Mast cell infiltration is not seen in post-infectious glomerulonephritis and is unrelated to eosinophil-mediated renal injury.",
+    "E": "Granulomatous T-cell inflammation is a type IV process and does not produce the granular immune deposits seen here."
+  },
+  "educationalObjective": "Post-streptococcal glomerulonephritis is type III hypersensitivity, with granular immune complex deposition and alternative-pathway complement activation causing low C3 and nephritic syndrome.",
+  "source": "Generated from 2. Immunology.pdf - Hypersensitivity Reactions: Type III immune complex hypersensitivity"
+},
+{
+  "id": "immuno-167",
+  "subject": "Immunology",
+  "major_topic": "Hypersensitivity Reactions",
+  "subtopic": "Type III immune complex hypersensitivity",
+  "difficulty": "medium",
+  "vignette": "A 33-year-old woman with chronic hepatitis C infection has palpable purpura on both shins, arthralgias, abdominal pain, and microscopic hematuria. Skin biopsy shows leukocytoclastic vasculitis with immunoglobulin and complement deposition in the walls of small vessels. Cryoglobulins are positive, and C4 is markedly reduced while C3 is only mildly reduced.",
+  "question": "Which mechanism best explains her palpable purpura and low C4?",
+  "options": [
+    {
+      "id": "A",
+      "text": "IgE-mediated mast cell degranulation in dermal vessels after exposure to a viral antigen"
+    },
+    {
+      "id": "B",
+      "text": "Cryoglobulin-containing immune complexes deposit in small vessel walls, activate complement, and recruit neutrophils"
+    },
+    {
+      "id": "C",
+      "text": "Anaphylatoxin-mediated capillary leak from isolated C3 deficiency"
+    },
+    {
+      "id": "D",
+      "text": "C5a receptor blockade prevents neutrophil recruitment and causes vessel rupture"
+    },
+    {
+      "id": "E",
+      "text": "Cytotoxic T cells infiltrate the vessel wall and lyse endothelial cells directly"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Mixed cryoglobulinemia in chronic hepatitis C is a type III hypersensitivity vasculitis. Chronic viral antigen load drives production of cold-precipitable immunoglobulins (often IgM rheumatoid factor binding IgG), and these complexes deposit in the walls of small and medium vessels. The classical complement pathway is activated, consuming C4 more than C3, which yields the characteristic serologic pattern. Neutrophil recruitment by C5a produces leukocytoclastic vasculitis with palpable purpura, arthralgias, and renal involvement; the skin biopsy confirms immunoglobulin and complement in vessel walls.",
+  "explanation_incorrect": {
+    "A": "Type I mast cell degranulation causes transient urticaria or anaphylaxis, not palpable purpura with leukocytoclastic vasculitis.",
+    "C": "C3 deficiency causes infection susceptibility rather than purpuric vasculitis; the complement pattern here is a consumption pattern.",
+    "D": "C5a receptor blockade would reduce neutrophil chemotaxis; in this disease C5a drives neutrophil-mediated vessel injury.",
+    "E": "The biopsy shows immunoglobulin and complement, indicating immune complex disease rather than direct T-cell cytotoxicity."
+  },
+  "educationalObjective": "Cryoglobulinemic vasculitis in hepatitis C is type III hypersensitivity; immune complexes activate classical complement (low C4) and cause leukocytoclastic small-vessel injury.",
+  "source": "Generated from 2. Immunology.pdf - Hypersensitivity Reactions: Type III immune complex hypersensitivity"
+},
+{
+  "id": "immuno-168",
+  "subject": "Immunology",
+  "major_topic": "Hypersensitivity Reactions",
+  "subtopic": "Type III immune complex hypersensitivity",
+  "difficulty": "hard",
+  "vignette": "A 48-year-old dairy worker presents with fever, chills, cough, dyspnea, and myalgias that begin about 6 hours after feeding cows hay on several occasions. Chest radiograph shows diffuse reticulonodular infiltrates, and high-resolution CT shows centrilobular ground-glass nodules. Serum precipitins to thermophilic actinomycetes are positive. His symptoms resolve within a day away from the farm and recur reproducibly on re-exposure. A bronchoalveolar lavage shows a mixed neutrophilic and lymphocytic infiltrate.",
+  "question": "The 6-hour latency and positive precipitins point to which hypersensitivity mechanism?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Pre-formed IgE cross-linking on mast cells in the alveolar lining"
+    },
+    {
+      "id": "B",
+      "text": "Granulomatous T-cell-mediated inflammation developing over 5 to 7 days"
+    },
+    {
+      "id": "C",
+      "text": "Antibody binding alveolar basement membrane with linear immunofluorescence"
+    },
+    {
+      "id": "D",
+      "text": "Antibody-antigen immune complex deposition in alveolar capillaries and interstitium with complement activation"
+    },
+    {
+      "id": "E",
+      "text": "Direct endotoxin-induced acute lung injury independent of adaptive immunity"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Farmer's lung is a classic type III hypersensitivity pneumonitis. Inhaled thermophilic actinomycete antigens elicit IgG precipitating antibodies; when antigen re-enters the alveoli, complexes form locally and deposit in the alveolar-capillary wall, activating complement and recruiting neutrophils. This produces the characteristic 4 to 8 hour latency (not minutes as in IgE anaphylaxis and not days as in tuberculin-type delayed reactions) with fever, cough, and diffuse infiltrates, plus a mixed lavage cellularity. Prolonged exposure can eventually cause fibrotic remodeling and can also provoke a component of type IV granulomatous response.",
+  "explanation_incorrect": {
+    "A": "IgE-mediated reactions begin within minutes and produce bronchospasm or urticaria, not 6-hour fevers with infiltrates.",
+    "B": "Granulomatous type IV reactions take days to develop and are not responsible for an acute 6-hour systemic response.",
+    "C": "Anti-GBM antibody disease produces linear deposition and progressive renal-pulmonary failure, not recurrent hay-exposure illness.",
+    "E": "Organic dust endotoxin can cause airway inflammation, but the reproducible latency and positive precipitins indicate immune-complex disease."
+  },
+  "educationalObjective": "Hypersensitivity pneumonitis (farmer's lung) is a type III immune complex reaction that typically begins 4 to 8 hours after antigen re-exposure and is associated with serum precipitins.",
+  "source": "Generated from 2. Immunology.pdf - Hypersensitivity Reactions: Type III immune complex hypersensitivity"
+}
+]

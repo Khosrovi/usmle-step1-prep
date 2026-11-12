@@ -1,0 +1,84 @@
+[
+{
+  "id": "immuno-297",
+  "subject": "Immunology",
+  "major_topic": "Transplantation",
+  "subtopic": "Transplant tolerance",
+  "difficulty": "hard",
+  "vignette": "A 24-year-old man with end-stage renal disease from congenital nephrotic syndrome is being evaluated for a kidney transplant. His HLA typing shows he is homozygous for a full set of HLA class I and class II alleles, and he strongly expresses the costimulatory molecule CD80. A potential donor is identified who is haploidentical and is expected to present his peptides. His research mentor explains that whether this graft is destroyed or accepted depends on whether the donor T cells that recognize his HLA receive only signal 1 from the alloantigen, or both signal 1 and an activating signal from the haploidentical host.",
+  "question": "Based on the two-signal model tested in this patient's scenario, what outcome was observed in the related animal experiment?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Host cells lacking CD80 failed to activate donor T cells, and the graft was accepted, supporting a role for costimulation in tolerance"
+    },
+    {
+      "id": "B",
+      "text": "Host cells lacking CD80 were rejected more rapidly because tolerance requires an initial activation signal"
+    },
+    {
+      "id": "C",
+      "text": "Donor T-cell responses were unaffected because CD28 signaling is dispensable for transplant rejection"
+    },
+    {
+      "id": "D",
+      "text": "Donor T cells responded more strongly to CD80-negative hosts due to a shift toward Th1 differentiation"
+    },
+    {
+      "id": "E",
+      "text": "The graft was rejected due to loss of regulatory T-cell function in the absence of CD80"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "In the classic two-signal model of T-cell activation, signal 1 is antigen recognition through the T-cell receptor and signal 2 is costimulation, classically CD28 on the T cell binding CD80 or CD86 on an antigen-presenting cell. Signal 1 without signal 2 leads to anergy and tolerance rather than activation. This principle underlies the experimental finding that grafts from hosts unable to provide costimulation are accepted, and it forms the rationale for costimulation-blockade strategies such as belatacept in clinical transplantation.",
+  "explanation_incorrect": {
+    "B": "Lack of CD80 removes costimulation, and the absence of a second signal causes tolerance or anergy rather than accelerated rejection, so the graft survives longer.",
+    "C": "CD28-CD80 costimulation is important in transplant rejection, and the acceptance of grafts from CD80-deficient hosts demonstrates its contribution rather than showing it is dispensable.",
+    "D": "Without costimulation, T cells do not shift toward an activated Th1 phenotype; they fail to become fully activated and enter an anergic state.",
+    "E": "Blocking costimulation generally favors tolerance and can preserve or expand regulatory T-cell activity; loss of CD80 does not cause rejection through loss of regulatory function."
+  },
+  "educationalObjective": "Signal 1 without costimulatory signal 2 produces T-cell anergy and tolerance, which is the basis of costimulation-blocking strategies in transplantation.",
+  "source": "Generated from 2. Immunology.pdf - Transplantation: Transplant tolerance"
+},
+{
+  "id": "immuno-298",
+  "subject": "Immunology",
+  "major_topic": "Transplantation",
+  "subtopic": "Transplant tolerance",
+  "difficulty": "medium",
+  "vignette": "A 46-year-old woman with acute myeloid leukemia undergoes HLA-matched sibling allogeneic hematopoietic stem cell transplantation. To prevent both graft rejection and severe graft-versus-host disease, she receives a reduced-intensity conditioning regimen followed by a fixed high-dose infusion of cyclophosphamide on days 3 and 4 after the stem cell infusion, rather than the traditional continuous post-transplant immunosuppression. She remains on a calcineurin inhibitor for a period and is tapered off over several months. At two years of follow-up she is off all immunosuppression, with a stable donor-derived myeloid and lymphoid chimerism and no evidence of GVHD.",
+  "question": "The day 3 and 4 administration of cyclophosphamide in this protocol is best explained by which of the following properties of the drug?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It crosslinks DNA and thereby depletes all dividing cells, removing both donor and host lymphocytes indiscriminately"
+    },
+    {
+      "id": "B",
+      "text": "It selectively kills CD4+CD25+FOXP3+ regulatory T cells that suppress tolerance induction"
+    },
+    {
+      "id": "C",
+      "text": "It inhibits calcineurin, thereby blocking IL-2 production by donor and recipient T cells"
+    },
+    {
+      "id": "D",
+      "text": "It causes preferential apoptosis of rapidly dividing alloreactive T cells, promoting tolerance while sparing regulatory T cells"
+    },
+    {
+      "id": "E",
+      "text": "It depletes preformed donor-specific antibodies, thereby preventing antibody-mediated rejection"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "High-dose cyclophosphamide given on post-transplant days 3 and 4 exploits the timing of immune activation: alloreactive donor and host T cells that respond to mismatched antigens proliferate explosively within this window and are selectively killed, while resting regulatory T cells are relatively spared. This approach, developed by the Johns Hopkins group, dramatically reduces GVHD after HLA-haploidentical or matched transplants and allows early withdrawal of all immunosuppression, with many patients achieving operational tolerance. It has made haploidentical transplant with post-transplant cyclophosphamide widely available.",
+  "explanation_incorrect": {
+    "A": "Cyclophosphamide crosslinks DNA and is cell-cycle sensitive, but the therapeutic rationale of this timed dosing is selective killing of proliferating alloreactive cells, not indiscriminate depletion of donor and host lymphocytes.",
+    "B": "Regulatory T cells are relatively preserved by post-transplant cyclophosphamide, and it is this sparing that permits tolerance; killing them would promote, not prevent, GVHD.",
+    "C": "Inhibition of calcineurin is the mechanism of cyclosporine and tacrolimus through cyclophilin and FKBP complexes, whereas cyclophosphamide is an alkylating agent with no calcineurin activity.",
+    "E": "Donor-specific antibodies are not the target of post-transplant cyclophosphamide, which acts on proliferating alloreactive T cells in the peritransplant window rather than on preformed antibody."
+  },
+  "educationalObjective": "Post-transplant cyclophosphamide on days 3 and 4 selectively eliminates proliferating alloreactive T cells while sparing regulatory T cells, preventing graft-versus-host disease and facilitating tolerance.",
+  "source": "Generated from 2. Immunology.pdf - Transplantation: Transplant tolerance"
+}
+]

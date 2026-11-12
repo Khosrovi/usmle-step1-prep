@@ -1,0 +1,125 @@
+[
+{
+  "id": "immuno-179",
+  "subject": "Immunology",
+  "major_topic": "Immunodeficiencies",
+  "subtopic": "X-linked agammaglobulinemia (Bruton)",
+  "difficulty": "medium",
+  "vignette": "A 3-year-old boy is brought to the clinic with his fourth episode of pneumonia in 12 months, all caused by encapsulated bacteria. His maternal uncle died of meningitis at age 5. Physical examination shows no tonsils and no palpable lymph nodes. Laboratory studies show absent CD19+ B cells, markedly decreased serum IgG, IgA, and IgM, and normal numbers of CD3+ T cells. Affected males in this family show an abnormality on chromosome Xq21.3.",
+  "question": "Which of the following best explains why this patient's B-cell number is extremely low while his T-cell number is normal?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Failure of V(D)J recombination due to a RAG1 or RAG2 defect that selectively ablates B cells"
+    },
+    {
+      "id": "B",
+      "text": "Absent expression of CD40 ligand on activated T cells, preventing B-cell class switching"
+    },
+    {
+      "id": "C",
+      "text": "Deficiency of the common gamma chain shared by IL-2, IL-4, and IL-7 receptors"
+    },
+    {
+      "id": "D",
+      "text": "Defective thymic development due to deletion of chromosome 22q11.2"
+    },
+    {
+      "id": "E",
+      "text": "Defective Bruton tyrosine kinase signaling, arresting B-cell maturation at the pre-B cell stage"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "X-linked agammaglobulinemia (Bruton disease) results from a mutation in BTK, a tyrosine kinase essential for transducing signals from the pre-B cell receptor and B cell receptor. Without BTK, B lymphocytes cannot progress past the pre-B cell stage, so patients have virtually no mature B cells, absent tonsils and lymph nodes, and panhypogammaglobulinemia. T-cell development and number are unaffected because BTK is not required for T-cell maturation, which explains the normal CD3+ count and the susceptibility to encapsulated organisms requiring opsonizing antibody.",
+  "explanation_incorrect": {
+    "A": "RAG defects cause T-B- severe combined immunodeficiency, so T cells would also be absent, not normal as in this patient.",
+    "B": "RAG1 or RAG2 defects abolish development of both B and T cells, so the T-cell count would also be absent rather than normal.",
+    "C": "CD40 ligand deficiency (hyper-IgM syndrome) preserves normal or elevated B-cell numbers while IgM is normal and other isotypes are low.",
+    "D": "Common gamma chain deficiency is X-linked SCID, which causes profound T-cell lymphopenia, the opposite of this boy's normal T cells."
+  },
+  "educationalObjective": "X-linked agammaglobulinemia is caused by BTK mutation, giving absent mature B cells and panhypogammaglobulinemia with normal T cells and susceptibility to encapsulated bacteria.",
+  "source": "Generated from 2. Immunology.pdf - Immunodeficiencies: X-linked agammaglobulinemia (Bruton)"
+},
+{
+  "id": "immuno-180",
+  "subject": "Immunology",
+  "major_topic": "Immunodeficiencies",
+  "subtopic": "X-linked agammaglobulinemia (Bruton)",
+  "difficulty": "easy",
+  "vignette": "A 14-month-old boy is evaluated after recurrent sinopulmonary infections beginning at 6 months of age, once maternal IgG had waned. He had an uncomplicated episode of rotavirus gastroenteritis but now presents with severe, prolonged diarrhea positive for Giardia lamblia. He has no tonsils and no palpable lymph nodes. Sweat chloride testing is normal. Serum immunoglobulins are all below detection limits, and flow cytometry shows essentially no circulating B cells.",
+  "question": "Which of the following pathogens is this patient MOST likely to develop a life-threatening infection from, and why?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Aspergillus fumigatus, because of defective neutrophil respiratory burst"
+    },
+    {
+      "id": "B",
+      "text": "Candida albicans, because of defective T-cell help for macrophage killing"
+    },
+    {
+      "id": "C",
+      "text": "Enterovirus (e.g., echovirus), because of absent neutralizing antibody"
+    },
+    {
+      "id": "D",
+      "text": "Staphylococcus aureus, because of defective opsonization by complement C3"
+    },
+    {
+      "id": "E",
+      "text": "Mycobacterium avium complex, because of impaired interferon-gamma signaling"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Patients with Bruton agammaglobulinemia cannot make antibody, so they cannot neutralize non-opsonizable organisms and are uniquely vulnerable to enteroviruses such as echovirus and poliovirus, which can cause chronic meningoencephalitis, as well as to Giardia. They also suffer from recurrent sinopulmonary infections with encapsulated bacteria such as Streptococcus pneumoniae and Haemophilus influenzae. Live polio vaccine is therefore contraindicated, and immunoglobulin replacement is the mainstay of therapy.",
+  "explanation_incorrect": {
+    "A": "Aspergillus susceptibility reflects chronic granulomatous disease with a defective NADPH oxidase respiratory burst, not absent B cells.",
+    "B": "Defective T-cell help for macrophage killing describes Mendelian susceptibility to mycobacterial disease and T-cell defects, not agammaglobulinemia.",
+    "D": "Complement C3 deficiency impairs opsonization, but this boy's complement is intact; his problem is absent antibody production.",
+    "E": "Impaired interferon-gamma signaling causes susceptibility to intracellular mycobacteria in patients with IL-12/IFN-gamma pathway defects."
+  },
+  "educationalObjective": "Bruton agammaglobulinemia predisposes to enteroviral meningoencephalitis and Giardia because neutralizing antibody is absent, so live polio vaccine must be avoided.",
+  "source": "Generated from 2. Immunology.pdf - Immunodeficiencies: X-linked agammaglobulinemia (Bruton)"
+},
+{
+  "id": "immuno-181",
+  "subject": "Immunology",
+  "major_topic": "Immunodeficiencies",
+  "subtopic": "X-linked agammaglobulinemia (Bruton)",
+  "difficulty": "hard",
+  "vignette": "A 2-year-old boy with recurrent otitis media and pneumonia is found to have undetectable serum immunoglobulins and fewer than 1% CD19+ B cells. Genetic testing confirms a BTK mutation. His parents ask about the best long-term therapy. He is currently treated with intravenous immunoglobulin every 4 weeks and has had no infections since starting, though he still develops occasional mild sinusitis.",
+  "question": "Which of the following is the most appropriate long-term management for this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Hematopoietic stem cell transplantation as first-line definitive therapy"
+    },
+    {
+      "id": "B",
+      "text": "Prophylactic trimethoprim-sulfamethoxazole and no immunoglobulin"
+    },
+    {
+      "id": "C",
+      "text": "Live attenuated viral vaccines to stimulate residual B cells"
+    },
+    {
+      "id": "D",
+      "text": "Regular immunoglobulin replacement plus avoidance of live vaccines"
+    },
+    {
+      "id": "E",
+      "text": "Pegylated adenosine deaminase enzyme replacement"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Bruton agammaglobulinemia is managed with lifelong immunoglobulin replacement (IVIG or SCIG), which supplies the missing antibody and dramatically reduces sinopulmonary infections. Live attenuated vaccines such as oral polio and MMR are contraindicated because the humoral response is absent and the patient can develop vaccine-derived infection; killed vaccines are generally safe but poorly immunogenic. Hematopoietic stem cell transplantation is not first-line because the T-cell compartment is intact and immunoglobulin replacement alone is usually sufficient.",
+  "explanation_incorrect": {
+    "A": "HSCT is the definitive therapy for severe combined immunodeficiency or other combined/cingulate-cell defects, not routine first-line care in isolated B-cell deficiency.",
+    "B": "Antibiotic prophylaxis alone without immunoglobulin replacement would leave the patient without opsonizing antibody and at risk for enteroviral and sinopulmonary infections.",
+    "C": "Live attenuated vaccines are contraindicated because the absent antibody response permits vaccine-derived infection.",
+    "E": "Adenosine deaminase enzyme replacement is used in ADA-deficient SCID, which presents with profound T and B lymphopenia rather than isolated B-cell loss."
+  },
+  "educationalObjective": "Isolated BTK deficiency is treated with lifelong immunoglobulin replacement and avoidance of live attenuated vaccines, since T-cell function is preserved.",
+  "source": "Generated from 2. Immunology.pdf - Immunodeficiencies: X-linked agammaglobulinemia (Bruton)"
+}
+]

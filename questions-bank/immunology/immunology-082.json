@@ -1,0 +1,166 @@
+[
+{
+  "id": "immuno-272",
+  "subject": "Immunology",
+  "major_topic": "T Cell Activation and Cytokines",
+  "subtopic": "T cell receptor and co-receptors",
+  "difficulty": "easy",
+  "vignette": "A 25-year-old woman presents with a diffuse, pruritic erythematous rash and a cervical lymph node she describes as 'rubbery.' She also reports fatigue and a low-grade fever. Serology confirms acute infection with a virus known to infect B cells and activate them polyclonally. She asks about the pathogenesis of the rash and swollen node.",
+  "question": "Which of the following best characterizes the ability of her T cells to respond to this infection?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Recognition of protein antigens presented on MHC class I to CD8+ T cells"
+    },
+    {
+      "id": "B",
+      "text": "Binding of the T cell receptor to viral DNA without MHC presentation"
+    },
+    {
+      "id": "C",
+      "text": "Recognition of peptides presented on MHC class II by CD4+ cells only"
+    },
+    {
+      "id": "D",
+      "text": "Binding of the T cell receptor to the T cell receptor's own constant regions"
+    },
+    {
+      "id": "E",
+      "text": "Recognition of carbohydrate antigens without MHC involvement"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "The T cell receptor is a heterodimer of alpha and beta chains, each with a variable and constant region; the variable regions form the peptide-MHC binding site and the constant regions associate with CD3. T cell receptors recognize processed peptide fragments presented on MHC molecules, unlike B cell receptors, which can bind native protein and carbohydrate antigens. Epstein-Barr virus, the cause of this mononucleosis-like illness, infects B cells expressing CD21 and triggers vigorous viral-specific CD8+ T cell expansion, which produces the lymphadenopathy and atypical lymphocytes; infected B cells present viral peptides on MHC class I to CD8+ lymphocytes. The 'rubbery,' nontender posterior cervical nodes and prominent fatigue are classic.",
+  "explanation_incorrect": {
+    "B": "T cell receptors do not bind free viral DNA; they recognize peptide fragments bound in the groove of an MHC molecule.",
+    "C": "CD4+ T cells recognize peptides on MHC class II, but the CD8+ response to infected cells through MHC class I is central here, so 'only' is incorrect.",
+    "D": "The T cell receptor binds peptide-MHC through variable regions, not constant regions, and does not bind its own constant regions.",
+    "E": "Carbohydrate antigens are recognized by B cell receptors and antibodies, not by T cell receptors, which are MHC-restricted and peptide-specific."
+  },
+  "educationalObjective": "The alpha-beta T cell receptor recognizes protein-derived peptide fragments bound to MHC molecules; CD8+ T cells survey MHC class I and CD4+ T cells survey MHC class II.",
+  "source": "Generated from 2. Immunology.pdf - T Cell Activation and Cytokines: T cell receptor and co-receptors"
+},
+{
+  "id": "immuno-273",
+  "subject": "Immunology",
+  "major_topic": "T Cell Activation and Cytokines",
+  "subtopic": "T cell receptor and co-receptors",
+  "difficulty": "hard",
+  "vignette": "A 7-month-old infant has had recurrent pneumococcal bacteremia, otitis media, and respiratory syncytial virus bronchiolitis. Flow cytometry shows absent CD8-positive T cells with normal CD4-positive T cell numbers and normal B cell numbers. Genetic sequencing reveals a homozygous mutation producing loss of function of a protein that associates with the T cell receptor during thymic development and recognizes a conserved, nonpolymorphic region of MHC class I.",
+  "question": "Which molecule is defective in this infant?",
+  "options": [
+    {
+      "id": "A",
+      "text": "CD40 ligand"
+    },
+    {
+      "id": "B",
+      "text": "CD8 alpha"
+    },
+    {
+      "id": "C",
+      "text": "CD4"
+    },
+    {
+      "id": "D",
+      "text": "ZAP-70"
+    },
+    {
+      "id": "E",
+      "text": "IL-7 receptor alpha"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "CD8 is the co-receptor that binds the alpha-3 domain of MHC class I, which is nonpolymorphic, while the T cell receptor's variable regions engage the peptide and alpha helices. During thymic selection, CD8 co-receptor binding of MHC class I stabilizes the T cell receptor-MHC interaction and recruits Lck to phosphorylate CD3 ITAMs, allowing development of MHC class I-restricted CD8+ T cells. Loss of CD8 causes selective CD8 deficiency with preserved CD4+ T cells and B cells; despite abundant CD4 cells, these patients have increased susceptibility to encapsulated organisms and respiratory viruses because cytotoxic killing is lost. ZAP-70 deficiency, by contrast, causes selective CD4 lymphopenia with absent CD8 numbers but nonfunctional CD4 cells.",
+  "explanation_incorrect": {
+    "A": "CD40 ligand deficiency causes hyper-IgM syndrome with normal T cell subsets and susceptibility to Pneumocystis and cryptosporidial disease, not isolated CD8 deficiency.",
+    "C": "CD4 is the co-receptor for MHC class II; its loss would cause CD4 lymphopenia, the opposite of this infant's pattern.",
+    "D": "ZAP-70 deficiency causes selective CD4 lymphopenia with severe combined immunodeficiency features, and the CD8 co-receptor itself is what is missing here.",
+    "E": "IL-7 receptor alpha deficiency causes profound T cell lymphopenia affecting CD4 cells and not this isolated CD8 deficiency."
+  },
+  "educationalObjective": "CD8 binds nonpolymorphic MHC class I and is required for CD8+ T cell development and function, so CD8 deficiency produces selective CD8 lymphopenia.",
+  "source": "Generated from 2. Immunology.pdf - T Cell Activation and Cytokines: T cell receptor and co-receptors"
+},
+{
+  "id": "immuno-274",
+  "subject": "Immunology",
+  "major_topic": "T Cell Activation and Cytokines",
+  "subtopic": "T cell receptor and co-receptors",
+  "difficulty": "medium",
+  "vignette": "A 64-year-old man with advanced melanoma is treated with an agent that enhances T cell-mediated antitumor immunity. After four doses he develops autoimmune colitis and hypophysitis but has significant tumor regression. The drug is a fully human monoclonal antibody directed against an inhibitory receptor on T cells.",
+  "question": "The target of this antibody normally functions by which mechanism?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Binding CD80/CD86 on antigen-presenting cells to deliver an activating second signal"
+    },
+    {
+      "id": "B",
+      "text": "Inhibiting the proteasome and preventing MHC class I peptide loading"
+    },
+    {
+      "id": "C",
+      "text": "Binding B7 on antigen-presenting cells with higher affinity than CD28 and transmitting inhibitory signals through its cytoplasmic immunoreceptor tyrosine-based inhibitory motif"
+    },
+    {
+      "id": "D",
+      "text": "Cleaving CD4 from the T cell surface"
+    },
+    {
+      "id": "E",
+      "text": "Acting as a decoy receptor that sequesters interleukin-2"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Ipilimumab targets CTLA-4, an inhibitory receptor on T cells that competes with CD28 for B7-1 and B7-2 on antigen-presenting cells, and its cytoplasmic immunoreceptor tyrosine-based inhibitory motif recruits SHP-2 to dephosphorylate signaling intermediates. CTLA-4 is transiently upregulated after activation and raises the threshold for further T cell signaling, a checkpoint that protects against autoimmunity. Blocking CTLA-4 releases these brakes, producing durable antitumor responses in melanoma at the cost of immune-related adverse events such as colitis, hepatitis, hypophysitis, and dermatitis. The mnemonic is that anti-CTLA-4 removes a brake early in T cell priming, whereas anti-PD-1 (nivolumab, pembrolizumab) removes a brake at the effector site.",
+  "explanation_incorrect": {
+    "A": "The activating second signal through CD80/CD86 is delivered to CD28; CTLA-4 binding competes with CD28 and is inhibitory, not activating.",
+    "B": "CTLA-4 is a surface receptor and does not affect proteasome activity or antigen loading onto MHC class I.",
+    "D": "CTLA-4 is not an enzyme and does not cleave CD4; it acts through its cytoplasmic ITIM motif to inhibit T cell costimulation.",
+    "E": "CTLA-4 does not bind or sequester IL-2; it acts on B7 ligands to modulate T cell priming."
+  },
+  "educationalObjective": "CTLA-4 is an inhibitory receptor that outcompetes CD28 for B7 and signals through an ITIM; blocking it with ipilimumab unleashes T cell priming and can cause immune-related adverse events.",
+  "source": "Generated from 2. Immunology.pdf - T Cell Activation and Cytokines: T cell receptor and co-receptors"
+},
+{
+  "id": "immuno-275",
+  "subject": "Immunology",
+  "major_topic": "T Cell Activation and Cytokines",
+  "subtopic": "T cell receptor and co-receptors",
+  "difficulty": "hard",
+  "vignette": "A 58-year-old woman with chronic lymphocytic leukemia is treated with a small-molecule inhibitor that blocks Bruton tyrosine kinase-dependent signaling of a chemokine receptor involved in lymphocyte homing. She then develops progressive multifocal leukoencephalopathy from reactivation of JC virus. Alternatively, a similar patient presents with a mutation causing loss of the CD4 co-receptor on helper T cells.",
+  "question": "Which of the following is the normal role of the CD4 co-receptor in T cell biology?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Binding the beta-2 microglobulin subunit of MHC class I"
+    },
+    {
+      "id": "B",
+      "text": "Acting as the primary antigen recognition molecule with intrinsic tyrosine kinase activity"
+    },
+    {
+      "id": "C",
+      "text": "Binding the nonpolymorphic beta-2 domain of MHC class II, bringing Lck to the T cell receptor complex to phosphorylate CD3 immunoreceptor tyrosine-based activation motifs"
+    },
+    {
+      "id": "D",
+      "text": "Functioning as the ligand for calreticulin during MHC class I assembly"
+    },
+    {
+      "id": "E",
+      "text": "Serving as the receptor for interleukin-2 on activated helper T cells"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "CD4 is a co-receptor on helper T cells that binds the nonpolymorphic beta-2 domain of MHC class II, in contrast to CD8, which binds the nonpolymorphic alpha-3 domain of MHC class I. CD4 associates with Lck through its cytoplasmic tail and delivers Lck to the T cell receptor signaling complex, where it phosphorylates CD3 ITAMs to initiate signal transduction. CD4 also supports MHC class II-restricted positive selection in the thymus and defines helper lineage commitment. Its loss produces a T helper deficiency with profound susceptibility to intracellular pathogens and opportunistic infections, and CD4 is the receptor exploited by HIV gp120.",
+  "explanation_incorrect": {
+    "A": "Beta-2 microglobulin is a component of MHC class I, which is bound by the CD8 co-receptor rather than CD4.",
+    "B": "Antigen recognition is performed by the T cell receptor; CD4 has no kinase activity and simply recruits Lck.",
+    "D": "Calreticulin is an ER chaperone for MHC class I assembly and is not a ligand for CD4 on the cell surface.",
+    "E": "The IL-2 receptor is a separate structure with alpha, beta, and gamma chains; CD4 is not an IL-2 receptor."
+  },
+  "educationalObjective": "CD4 binds nonpolymorphic MHC class II and recruits Lck to phosphorylate CD3 ITAMs, defining MHC class II-restricted helper T cell recognition.",
+  "source": "Generated from 2. Immunology.pdf - T Cell Activation and Cytokines: T cell receptor and co-receptors"
+}
+]

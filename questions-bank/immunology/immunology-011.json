@@ -1,0 +1,166 @@
+[
+{
+  "id": "immuno-033",
+  "subject": "Immunology",
+  "major_topic": "Antigen Presentation and MHC",
+  "subtopic": "MHC class I",
+  "difficulty": "easy",
+  "vignette": "A 5-year-old boy has recurrent bronchitis and pneumonia. Work-up shows normal immunoglobulin levels, a normal CD4+ count, but a markedly reduced CD8+ T-cell count. Bone marrow and T-cell receptor studies are unrevealing. His circulating T cells are found to be unable to recognize viral peptides displayed on the surface of his virus-infected respiratory epithelium.",
+  "question": "Which of the following cell types would normally present viral peptides to his CD8+ T cells?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Only dendritic cells and macrophages, since other cells cannot activate CD8+ T cells"
+    },
+    {
+      "id": "B",
+      "text": "Mast cells, via IgE-bound surface receptors"
+    },
+    {
+      "id": "C",
+      "text": "Any nucleated cell of the body via MHC class I"
+    },
+    {
+      "id": "D",
+      "text": "Erythrocytes, which are the principal source of MHC class I"
+    },
+    {
+      "id": "E",
+      "text": "CD4+ helper T cells, which take up viral proteins from the cytosol"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "MHC class I is expressed on the surface of all nucleated cells of the body, not just on professional antigen-presenting cells. That distributed expression lets any infected cell display fragments of viral proteins from its cytosol, so a CD8+ cytotoxic T cell can survey every cell in the body and eliminate infected ones. Dendritic cells are special not because of class I expression but because they additionally express class II and costimulatory molecules and can cross-present antigen, which is why they prime naive CD8+ T cells even though infected tissue cells are the actual targets.",
+  "explanation_incorrect": {
+    "A": "Professional antigen-presenting cells are uniquely able to activate naive T cells, but all nucleated cells display class I and can present endogenous viral peptides.",
+    "B": "Mast cells participate in type I hypersensitivity through IgE and Fc epsilon RI and are not the cells that present viral peptides to CD8+ T cells.",
+    "D": "Erythrocytes lack a nucleus and therefore lack MHC class I; protein presentation requires a nucleated cell.",
+    "E": "CD4+ T cells are class II-restricted helpers rather than primary presenters of cytosolic viral peptides to CD8+ T cells."
+  },
+  "educationalObjective": "MHC class I is found on all nucleated cells, allowing any infected cell to be surveyed by CD8+ cytotoxic T cells.",
+  "source": "Generated from 2. Immunology.pdf - Antigen Presentation and MHC: MHC class I"
+},
+{
+  "id": "immuno-034",
+  "subject": "Immunology",
+  "major_topic": "Antigen Presentation and MHC",
+  "subtopic": "MHC class I",
+  "difficulty": "medium",
+  "vignette": "A 38-year-old woman has recurrent sinopulmonary infections and a chronic granulomatous skin disease. Flow cytometry shows markedly reduced MHC class I on all of her cells despite a normal heavy chain and normal beta-2 microglobulin protein. Genetic sequencing demonstrates a loss-of-function mutation in the TAP1 subunit.",
+  "question": "Which of the following best explains why MHC class I cannot reach the surface in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "TAP degrades the invariant chain to permit class I peptide loading"
+    },
+    {
+      "id": "B",
+      "text": "TAP transports the peptide for MHC class II loading in the endosome"
+    },
+    {
+      "id": "C",
+      "text": "TAP transfers intact proteins from the cytosol into lysosomes instead of the ER"
+    },
+    {
+      "id": "D",
+      "text": "TAP transports cytosolic peptides into the ER that stabilize class I, allowing its release from the peptide-loading complex"
+    },
+    {
+      "id": "E",
+      "text": "TAP acts as the chaperone calnexin and folds the class I heavy chain"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "TAP (transporter associated with antigen processing) is a heterodimer of TAP1 and TAP2 in the endoplasmic reticulum membrane that pumps cytosolic peptides into the ER lumen. There the peptides meet the peptide-loading complex, containing the class I heavy chain, beta-2 microglobulin, calreticulin, calnexin, and tapasin, and stable peptide binding triggers release and trafficking to the surface. Without TAP, class I molecules remain empty and unstable in the ER, which is why TAP deficiency causes low surface class I, impaired CD8+ responses, and granulomatous skin disease.",
+  "explanation_incorrect": {
+    "A": "Invariant chain (CLIP) processing belongs to the class II pathway and requires endosomal cathepsins, not TAP.",
+    "B": "Class II peptides arise in endosomes and are loaded with the help of HLA-DM and HLA-DO, not delivered by TAP.",
+    "C": "TAP has no role in transporting intact proteins into lysosomes; that is a property of phagocytosis and endocytosis.",
+    "E": "Calnexin is a separate chaperone protein that assists class I folding; TAP is a peptide pump, not a chaperone."
+  },
+  "educationalObjective": "TAP pumps cytosolic peptides into the ER to stabilize MHC class I, which is why TAP-deficiency abolishes surface class I expression.",
+  "source": "Generated from 2. Immunology.pdf - Antigen Presentation and MHC: MHC class I"
+},
+{
+  "id": "immuno-035",
+  "subject": "Immunology",
+  "major_topic": "Antigen Presentation and MHC",
+  "subtopic": "MHC class I",
+  "difficulty": "medium",
+  "vignette": "A 55-year-old man with newly diagnosed melanoma is treated with pembrolizumab, an anti-PD-1 antibody. Despite a strong response, his tumors later recur. Tumor sequencing reveals an acquired homozygous deletion of the beta-2 microglobulin gene in the recurrent lesion.",
+  "question": "Loss of beta-2 microglobulin most likely allows this tumor to escape which of the following?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Cytotoxic CD8+ T-cell recognition via MHC class I"
+    },
+    {
+      "id": "B",
+      "text": "Natural killer cell recognition"
+    },
+    {
+      "id": "C",
+      "text": "CD4+ helper T-cell recognition via MHC class II"
+    },
+    {
+      "id": "D",
+      "text": "IgG-mediated antibody-dependent cellular cytotoxicity"
+    },
+    {
+      "id": "E",
+      "text": "Complement-dependent cytotoxicity by donor antibodies"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Class I-restricted presentation depends on a heavy chain plus beta-2 microglobulin, and beta-2 microglobulin is encoded on chromosome 15, outside the HLA locus, so a single gene loss can silence surface class I across the tumor. With class I absent, tumor peptides are no longer displayed, so tumor-specific CD8+ T cells that were driving the response no longer see their target. Such tumors are functionally invisible to the cytotoxic arm, although the absence of class I eliminates the 'self' signal that restrains natural killer cells, making them more vulnerable to NK-mediated killing, which is a mechanism under study in immunotherapy.",
+  "explanation_incorrect": {
+    "B": "Losing class I tends to make cells more, not less, susceptible to natural killer cell killing, because NK cells are inhibited by self class I.",
+    "C": "CD4+ T-cell recognition uses class II, which does not require beta-2 microglobulin, so class II presentation would be preserved.",
+    "D": "Antibody-dependent cellular cytotoxicity and complement do not require MHC class I; the tumor's described escape is T-cell mediated.",
+    "E": "Complement-mediated lysis depends on the membrane attack complex and has no dependence on beta-2 microglobulin."
+  },
+  "educationalObjective": "Tumors can escape CD8+ cytotoxic T cells by losing beta-2 microglobulin and thus all surface MHC class I, at the cost of increased NK susceptibility.",
+  "source": "Generated from 2. Immunology.pdf - Antigen Presentation and MHC: MHC class I"
+},
+{
+  "id": "immuno-036",
+  "subject": "Immunology",
+  "major_topic": "Antigen Presentation and MHC",
+  "subtopic": "MHC class I",
+  "difficulty": "hard",
+  "vignette": "A 31-year-old man with HIV infection has been off antiretroviral therapy and now has a rising viral load despite an early strong CD8+ T-cell response. Viral sequencing shows a single amino acid substitution at position 2 of a 9-residue epitope that had been recognized by his HLA-B57-restricted cytotoxic T cells. The mutated virus is no longer killed by these T cells.",
+  "question": "Which of the following best explains why this single substitution abolished T-cell recognition?",
+  "options": [
+    {
+      "id": "A",
+      "text": "MHC class I has an open-ended groove that accommodates peptides of 13 to 25 residues, so a single change cannot matter"
+    },
+    {
+      "id": "B",
+      "text": "The mutation blocked proteasomal cleavage of the whole viral polyprotein, preventing any epitope generation"
+    },
+    {
+      "id": "C",
+      "text": "The mutation prevented association of the class I heavy chain with beta-2 microglobulin in all infected cells"
+    },
+    {
+      "id": "D",
+      "text": "MHC class I has a closed groove that binds peptides about 8 to 10 residues long, and the position 2 substitution alters an anchor residue needed for stable binding"
+    },
+    {
+      "id": "E",
+      "text": "The mutation converted the epitope into a peptide that is now presented on MHC class II to CD4+ T cells"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "MHC class I binds short peptides, generally 8 to 10 amino acids, in a groove closed at both ends, so specific anchor residues at defined positions determine binding; position 2 and the C-terminal residue are the classic primary anchors for HLA-B57. A substitution at such an anchor weakens or abolishes peptide binding and surface display, so the CD8+ T-cell receptor no longer sees its target, which is a mechanism of viral immune escape. This contrasts with MHC class II, whose open groove accepts longer peptides of roughly 13 to 25 residues with fewer positional constraints.",
+  "explanation_incorrect": {
+    "A": "The open-ended groove with longer peptides describes MHC class II, not class I, so this option reverses the two pathways.",
+    "B": "A single substitution within an epitope does not block proteasomal processing of the whole polyprotein; processing still generates the epitope, but the peptide no longer binds class I.",
+    "C": "Association of heavy chain with beta-2 microglobulin is a general assembly step unaffected by one peptide's sequence, and it would not selectively eliminate this epitope.",
+    "E": "Shifting presentation to class II would not explain the loss of killing by his class I-restricted CD8+ T cells, and class II loading requires endosomal delivery."
+  },
+  "educationalObjective": "MHC class I binds 8-10 residue peptides in a closed groove, so anchor-residue mutations can abolish presentation and allow cytotoxic T-cell escape.",
+  "source": "Generated from 2. Immunology.pdf - Antigen Presentation and MHC: MHC class I"
+}
+]

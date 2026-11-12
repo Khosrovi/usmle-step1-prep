@@ -1,0 +1,166 @@
+[
+{
+  "id": "immuno-029",
+  "subject": "Immunology",
+  "major_topic": "Antigen Presentation and MHC",
+  "subtopic": "HLA genes, polymorphism, disease associations",
+  "difficulty": "easy",
+  "vignette": "A 27-year-old man presents with a 6-month history of low back pain and morning stiffness that improves with activity. Sacroiliac radiographs show sclerosis and joint space narrowing, and radiographs of the spine show early syndesmophyte formation. The rheumatologist orders a molecular test that detects a specific class I HLA allele.",
+  "question": "Which of the following conditions is most strongly associated with the HLA molecule being tested for?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Ankylosing spondylitis"
+    },
+    {
+      "id": "B",
+      "text": "Rheumatoid arthritis"
+    },
+    {
+      "id": "C",
+      "text": "Celiac disease"
+    },
+    {
+      "id": "D",
+      "text": "Systemic lupus erythematosus"
+    },
+    {
+      "id": "E",
+      "text": "Type 1 diabetes mellitus"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "HLA-B27 is a class I allele strongly associated with a seronegative spondyloarthropathy group that includes ankylosing spondylitis, reactive arthritis, psoriatic arthritis, and enteropathic arthritis. The class I allele is thought to present arthritogenic self-peptides to CD8+ T cells, and a misfolded heavy chain response contributes at the cellular level. A memorable board list pairs B27 with 'PAIR', which also covers other spondyloarthropathies. Rheumatoid arthritis, in contrast, is linked to HLA-DR4, while celiac disease is linked to HLA-DQ2 and HLA-DQ8.",
+  "explanation_incorrect": {
+    "B": "Rheumatoid arthritis is associated with the class II allele HLA-DR4, not with HLA-B27.",
+    "C": "Celiac disease is associated with the class II alleles HLA-DQ2 and HLA-DQ8, which present gliadin peptides to CD4+ T cells in the gut.",
+    "D": "Systemic lupus erythematosus has weaker associations with DR2 and DR3 and is not linked to HLA-B27.",
+    "E": "Type 1 diabetes mellitus is linked to HLA-DR3 and HLA-DQ2/DQ8 haplotypes rather than HLA-B27."
+  },
+  "educationalObjective": "HLA-B27 is associated with ankylosing spondylitis and the other seronegative spondyloarthropathies.",
+  "source": "Generated from 2. Immunology.pdf - Antigen Presentation and MHC: HLA genes, polymorphism, disease associations"
+},
+{
+  "id": "immuno-030",
+  "subject": "Immunology",
+  "major_topic": "Antigen Presentation and MHC",
+  "subtopic": "HLA genes, polymorphism, disease associations",
+  "difficulty": "medium",
+  "vignette": "A 32-year-old woman of European descent presents with chronic diarrhea, flatulence, and weight loss. Duodenal biopsy shows villous atrophy with intraepithelial lymphocytes and crypt hyperplasia, and serologic studies show elevated tissue transglutaminase IgA antibodies.",
+  "question": "Which of the following HLA haplotypes most strongly predisposes to this patient's disease?",
+  "options": [
+    {
+      "id": "A",
+      "text": "HLA-DR4"
+    },
+    {
+      "id": "B",
+      "text": "HLA-B57"
+    },
+    {
+      "id": "C",
+      "text": "HLA-DQ2 or HLA-DQ8"
+    },
+    {
+      "id": "D",
+      "text": "HLA-DR15"
+    },
+    {
+      "id": "E",
+      "text": "HLA-Cw6"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Celiac disease is an HLA-DQ2 and HLA-DQ8 restricted, CD4+ T-cell-mediated immune reaction to deamidated gliadin peptides. Tissue transglutaminase deamidates gliadin, enhancing peptide binding to these class II molecules, and the resulting CD4+ T-cell activation leads to crypt hyperplasia, villous blunting, and intraepithelial lymphocytosis. Almost all patients carry DQ2 or DQ8, making a negative result useful for excluding celiac disease, although most people who carry these alleles never develop the disease.",
+  "explanation_incorrect": {
+    "A": "HLA-DR4 is classically associated with rheumatoid arthritis and also with pemphigus vulgaris, not with celiac disease.",
+    "B": "HLA-B57 is associated with abacavir hypersensitivity and with slower HIV disease progression, not with gluten enteropathy.",
+    "D": "HLA-DR15 is associated with narcolepsy and multiple sclerosis, which do not produce villous atrophy or antigliadin T-cell reactivity.",
+    "E": "HLA-Cw6 is associated with psoriasis, which is a skin and joint disease rather than a small bowel malabsorption syndrome."
+  },
+  "educationalObjective": "Celiac disease is strongly HLA-DQ2/DQ8 associated, and HLA typing is most useful to rule the disease out when negative.",
+  "source": "Generated from 2. Immunology.pdf - Antigen Presentation and MHC: HLA genes, polymorphism, disease associations"
+},
+{
+  "id": "immuno-031",
+  "subject": "Immunology",
+  "major_topic": "Antigen Presentation and MHC",
+  "subtopic": "HLA genes, polymorphism, disease associations",
+  "difficulty": "medium",
+  "vignette": "A 23-year-old man with newly diagnosed HIV infection is started on a nucleoside reverse transcriptase inhibitor regimen that includes abacavir. He has never taken the drug before. Within 10 days he develops fever, a diffuse rash, nausea, diarrhea, and eosinophilia, and the reaction recurs within hours each time a dose is given. His clinician reviews the HLA typing that should have been performed before initiating therapy.",
+  "question": "Presence of which of the following HLA alleles would have identified this high risk for hypersensitivity?",
+  "options": [
+    {
+      "id": "A",
+      "text": "HLA-B35"
+    },
+    {
+      "id": "B",
+      "text": "HLA-B57:01"
+    },
+    {
+      "id": "C",
+      "text": "HLA-DR4"
+    },
+    {
+      "id": "D",
+      "text": "HLA-DQ8"
+    },
+    {
+      "id": "E",
+      "text": "HLA-B27"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Drug hypersensitivity reactions are classically associated with specific HLA alleles that bind and present drug or drug-generated peptides to T cells. HLA-B57:01 is the classic pharmacogenetic marker for abacavir hypersensitivity, which manifests as a systemic reaction with fever, rash, gastrointestinal symptoms, respiratory symptoms, and eosinophilia, and which recurs and can be lethal on rechallenge. Screening for B57:01 before starting abacavir has nearly eliminated this reaction, making it a model for HLA-based drug risk prediction. Carbamazepine hypersensitivity and HLA-B15:02, and phenytoin-associated SJS with HLA-B15:02, are other well-tested examples.",
+  "explanation_incorrect": {
+    "A": "HLA-B35 is not a recognized abacavir risk allele; it has weak associations with some other drug reactions and infections but is not used for abacavir screening.",
+    "C": "HLA-DR4 is a class II allele linked to rheumatoid arthritis and pemphigus vulgaris, and it plays no established role in abacavir hypersensitivity.",
+    "D": "HLA-DQ8 is a celiac disease risk allele and is unrelated to this drug reaction.",
+    "E": "HLA-B27 predisposes to spondyloarthropathies; it does not predict abacavir hypersensitivity."
+  },
+  "educationalObjective": "HLA-B57:01 screening before abacavir prevents severe abacavir hypersensitivity, a board-classic example of HLA pharmacogenomics.",
+  "source": "Generated from 2. Immunology.pdf - Antigen Presentation and MHC: HLA genes, polymorphism, disease associations"
+},
+{
+  "id": "immuno-032",
+  "subject": "Immunology",
+  "major_topic": "Antigen Presentation and MHC",
+  "subtopic": "HLA genes, polymorphism, disease associations",
+  "difficulty": "hard",
+  "vignette": "A 34-year-old woman with end-stage renal disease from IgA nephropathy has been on the transplant waitlist for 3 years. Her nephrologist explains that, in addition to the ABO blood group, several HLA genes must be matched between donor and recipient. She asks why a much larger donor pool is screened for kidney transplantation than would be predicted by the number of loci involved.",
+  "question": "Which of the following best explains the considerable antigenic diversity of her HLA molecules between donors?",
+  "options": [
+    {
+      "id": "A",
+      "text": "HLA heavy chains undergo somatic hypermutation after antigen exposure, generating new alleles"
+    },
+    {
+      "id": "B",
+      "text": "HLA genes are the most polymorphic genes in the human genome, with thousands of alleles per locus, especially at loci with high nucleotide substitution rates as in HLA-B"
+    },
+    {
+      "id": "C",
+      "text": "HLA expression is haploid in most cells, so each donor presents only one allele per locus"
+    },
+    {
+      "id": "D",
+      "text": "HLA polymorphism is limited to the alpha-3 domain, which does not contact peptide"
+    },
+    {
+      "id": "E",
+      "text": "HLA class II alleles are not expressed on endothelial cells and therefore are not typed before transplant"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "The HLA complex on the short arm of chromosome 6 contains the most polymorphic genes in the human genome, with HLA-B showing the highest number of known alleles and variant sites concentrated in the peptide-binding groove. This polymorphism allows populations to present an enormous variety of peptides, but it makes a perfect match between unrelated individuals unlikely, so matching focuses on HLA-A, -B, and -DR in kidney transplantation. Inheriting one HLA haplotype from each parent means a fully matched sibling has a 25 percent chance of an ideal donor, which is the practical consequence of codominant polymorphism.",
+  "explanation_incorrect": {
+    "A": "HLA genes are not somatically hypermutated; they are germline heterozygous alleles, unlike immunoglobulin genes, and somatic hypermutation would not produce heritable new HLA alleles.",
+    "C": "HLA expression is codominant, so both parental alleles at each locus are transcribed and displayed on the cell surface.",
+    "D": "Polymorphism is concentrated in the peptide-binding groove, the alpha-1 and alpha-2 domains for class I, which forms the alloantigenic surface recognized by T cells and antibodies.",
+    "E": "MHC class II is expressed on graft endothelial cells, and HLA-DR matching is the standard class II requirement in kidney allocation."
+  },
+  "educationalObjective": "HLA genes are uniquely polymorphic and codominantly expressed, which is why unrelated donor matching is imperfect even for just a few loci.",
+  "source": "Generated from 2. Immunology.pdf - Antigen Presentation and MHC: HLA genes, polymorphism, disease associations"
+}
+]

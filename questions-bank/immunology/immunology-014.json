@@ -1,0 +1,84 @@
+[
+{
+  "id": "immuno-044",
+  "subject": "Immunology",
+  "major_topic": "Autoimmune Diseases",
+  "subtopic": "Goodpasture syndrome",
+  "difficulty": "medium",
+  "vignette": "A 26-year-old man presents with 2 weeks of cough, hemoptysis, and progressive dyspnea, followed by dark urine and decreasing urine output. He is a cigarette smoker and recently had an influenza-like illness. Vital signs: BP 150/92 mmHg, SpO2 91% on room air. Labs: creatinine 3.4 mg/dL, hemoglobin 8.9 g/dL, and urinalysis with dysmorphic red cells and red cell casts. Chest radiograph shows bilateral patchy alveolar infiltrates. Renal biopsy shows linear deposition of IgG along the glomerular basement membrane on immunofluorescence.",
+  "question": "Which of the following antibodies is most directly responsible for this patient's disease?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Antibodies to proteinase 3 (PR3-ANCA)"
+    },
+    {
+      "id": "B",
+      "text": "Antibodies to myeloperoxidase (MPO-ANCA)"
+    },
+    {
+      "id": "C",
+      "text": "Antibodies to the noncollagenous-1 domain of the alpha-3 chain of type IV collagen"
+    },
+    {
+      "id": "D",
+      "text": "Antibodies to glomerular basement membrane heparan sulfate proteoglycans"
+    },
+    {
+      "id": "E",
+      "text": "Antibodies to double-stranded DNA"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Goodpasture syndrome is caused by IgG autoantibodies directed against the noncollagenous-1 (NC1) domain of the alpha-3 chain of type IV collagen, a basement membrane antigen shared by glomeruli and pulmonary alveoli. This shared antigen explains the combined glomerulonephritis and pulmonary hemorrhage, and the linear IgG staining (as opposed to granular or pauci-immune patterns). A trigger such as smoking, hydrocarbon exposure, or viral illness can expose the cryptic epitope. Treatment is plasmapheresis to remove the antibody plus cyclophosphamide and corticosteroids.",
+  "explanation_incorrect": {
+    "A": "PR3-ANCA causes granulomatosis with polyangiitis, which produces pauci-immune crescentic glomerulonephritis and cavitary lung lesions, not linear IgG on immunofluorescence.",
+    "B": "MPO-ANCA is associated with microscopic polyangiitis and eosinophilic granulomatosis with polyangiitis; those biopsies show pauci-immune, not linear, staining.",
+    "D": "Antibodies to heparan sulfate proteoglycan are not the target in Goodpasture disease; the classic antigen is the NC1 domain of type IV collagen alpha-3.",
+    "E": "Anti-dsDNA antibodies cause lupus nephritis with granular 'full house' immunofluorescence and would be accompanied by other lupus features such as rash, arthritis, or cytopenias."
+  },
+  "educationalObjective": "Goodpasture syndrome is mediated by anti-GBM antibodies against the NC1 domain of type IV collagen alpha-3 chains, giving linear IgG on biopsy and combined pulmonary-renal disease.",
+  "source": "Generated from 2. Immunology.pdf - Autoimmune Diseases: Goodpasture syndrome"
+},
+{
+  "id": "immuno-045",
+  "subject": "Immunology",
+  "major_topic": "Autoimmune Diseases",
+  "subtopic": "Goodpasture syndrome",
+  "difficulty": "hard",
+  "vignette": "A 62-year-old woman presents with 3 weeks of malaise, hemoptysis, and rising creatinine from 1.0 to 4.2 mg/dL. She has no rash or arthritis and no history of lung or kidney disease. Urinalysis shows hematuria with red cell casts. Anti-GBM antibodies are negative by ELISA. Renal biopsy shows crescentic glomerulonephritis with linear IgG staining on immunofluorescence, and circulating anti-MPO antibodies are detected at high titer. She is started on high-dose corticosteroids, cyclophosphamide, and plasmapheresis.",
+  "question": "Which of the following best characterizes her condition?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Post-streptococcal glomerulonephritis after a recent throat infection"
+    },
+    {
+      "id": "B",
+      "text": "Hereditary nephritis due to a mutation in the COL4A5 gene"
+    },
+    {
+      "id": "C",
+      "text": "Isolated anti-GBM disease, which never overlaps with ANCA-associated vasculitis"
+    },
+    {
+      "id": "D",
+      "text": "IgA nephropathy with superimposed pulmonary hemorrhage"
+    },
+    {
+      "id": "E",
+      "text": "Double-positive disease with both anti-GBM and ANCA antibodies, a subset with a high risk of severe renal failure"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Approximately 10-30% of patients with anti-GBM disease also have ANCA, most often MPO-ANCA. These 'double-positive' patients often progress to severe renal disease, and the serum ELISA for anti-GBM may be negative because the antibodies are deposited in tissue and are poorly detected in circulation. The demonstration of linear IgG on biopsy together with high-titer MPO-ANCA is diagnostic. Management still hinges on plasmapheresis, cyclophosphamide, and steroids.",
+  "explanation_incorrect": {
+    "A": "Post-streptococcal glomerulonephritis shows granular IgG and C3 with low complement and occurs 1-3 weeks after a streptococcal infection in children.",
+    "B": "Alport syndrome (COL4A5 mutation) causes hereditary nephritis with hearing loss and ocular abnormalities and does not produce linear IgG on immunofluorescence.",
+    "C": "Anti-GBM disease does overlap with ANCA-associated vasculitis in a well-recognized double-positive subset, so the claim that it never overlaps is false.",
+    "D": "IgA nephropathy shows mesangial IgA deposits on immunofluorescence, not linear IgG along the basement membrane, and rarely causes pulmonary hemorrhage."
+  },
+  "educationalObjective": "Concurrent anti-GBM and ANCA antibodies define a double-positive overlap syndrome that can mimic either disease and carries a poor renal prognosis.",
+  "source": "Generated from 2. Immunology.pdf - Autoimmune Diseases: Goodpasture syndrome"
+}
+]

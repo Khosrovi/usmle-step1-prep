@@ -1,0 +1,166 @@
+[
+{
+  "id": "immuno-317",
+  "subject": "Immunology",
+  "major_topic": "Vaccines",
+  "subtopic": "Live attenuated vaccines",
+  "difficulty": "medium",
+  "vignette": "A 17-year-old girl returns from a summer trip to a rural region with a mild illness: 2 days of low-grade fever, a faint scattered rash and mild conjunctival injection. She appears well, eats normally, and has no complications. Two weeks after the illness she is shown to have high titers of measles-specific IgG. She asks how a natural infection gave such lasting protection when she never received a measles vaccine.",
+  "question": "Live attenuated vaccines recapitulate natural infection in which key way that killed vaccines do not?",
+  "options": [
+    {
+      "id": "A",
+      "text": "They contain no antigen and rely on adjuvant alone"
+    },
+    {
+      "id": "B",
+      "text": "They are always administered intramuscularly, whereas killed vaccines are given orally"
+    },
+    {
+      "id": "C",
+      "text": "They rely entirely on preformed antibody from the vaccine vial"
+    },
+    {
+      "id": "D",
+      "text": "They activate B cells directly without any requirement for T-cell help or antigen processing"
+    },
+    {
+      "id": "E",
+      "text": "They replicate within host cells, stimulating both humoral and cell-mediated immune responses and often conferring lifelong immunity with one or two doses"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Live attenuated vaccines contain weakened organisms that replicate for a limited time in the host, closely mimicking natural infection. Intracellular replication leads to MHC I presentation and CD8+ cytotoxic T-cell activation alongside MHC II-driven CD4+ help and antibody production, generating broad, durable immunity and often lifelong protection after one or two doses. The tradeoff is that the attenuated organism can cause disease in severely immunocompromised hosts, which is why these vaccines are contraindicated in that group.",
+  "explanation_incorrect": {
+    "A": "Live attenuated vaccines contain viable attenuated organisms and do not depend on adjuvant alone for immunogenicity.",
+    "B": "Route does not define a vaccine as live versus killed; examples of live parenteral and live oral vaccines both exist.",
+    "C": "Live attenuated vaccines induce active, host-generated immunity rather than passively supplying antibody.",
+    "D": "Live vaccines induce T-cell immunity precisely because antigen is processed and presented, which pure polysaccharide antigens cannot provide."
+  },
+  "educationalObjective": "Live attenuated vaccines replicate in host cells, driving both humoral and cell-mediated immunity and typically lifelong protection with one or two doses.",
+  "source": "Generated from 2. Immunology.pdf - Vaccines: Live attenuated vaccines"
+},
+{
+  "id": "immuno-318",
+  "subject": "Immunology",
+  "major_topic": "Vaccines",
+  "subtopic": "Live attenuated vaccines",
+  "difficulty": "hard",
+  "vignette": "A 63-year-old man who received a living-donor kidney transplant 5 months ago is seen for preventive care. His current medications are tacrolimus, mycophenolate mofetil and prednisone 10 mg daily. He asks about the two vaccines that were recommended to him by a friend, one for zoster prevention and one for tetanus and diphtheria, and whether he can receive them the same day.",
+  "question": "Which of the following statements about vaccination in this patient is most accurate?",
+  "options": [
+    {
+      "id": "A",
+      "text": "He should receive the live attenuated zoster vaccine because cell-mediated immunity is the target"
+    },
+    {
+      "id": "B",
+      "text": "He should receive both vaccines on the same day because live and inactivated vaccines never interact"
+    },
+    {
+      "id": "C",
+      "text": "No vaccines should be given to transplant recipients at any time"
+    },
+    {
+      "id": "D",
+      "text": "Live attenuated vaccines are contraindicated, and he can instead be given the recombinant adjuvanted zoster subunit vaccine and the tetanus-diphtheria toxoid"
+    },
+    {
+      "id": "E",
+      "text": "He should receive the live attenuated zoster vaccine but only during treatment for acute rejection"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Severe immunosuppression, including solid organ transplant on maintenance calcineurin inhibitors with mycophenolate and corticosteroids, is a contraindication to live attenuated vaccines because the attenuated organism can replicate unchecked. For zoster prevention, the recombinant adjuvanted subunit vaccine (recombinant varicella-zoster glycoprotein E with an AS01B-type adjuvant) is the appropriate choice because it is nonliving, and tetanus-diphtheria toxoid boosters are safe. Inactivated, subunit and toxoid vaccines can and should still be given, ideally before transplant or when immunosuppression is minimized.",
+  "explanation_incorrect": {
+    "A": "The older live zoster vaccine is contraindicated in transplant patients on multidrug immunosuppression, despite its cell-mediated target.",
+    "B": "The point is not same-day interaction; the live zoster vaccine is simply contraindicated in this host regardless of timing.",
+    "C": "Nonliving vaccines are recommended for transplant patients, and withholding all immunization would leave them vulnerable.",
+    "E": "Treatment for acute rejection increases immunosuppression further, which makes live vaccination even more dangerous, not permissible."
+  },
+  "educationalObjective": "Transplant patients on maintenance immunosuppression should receive only nonliving vaccines, so recombinant subunit zoster vaccine replaces the live formulation.",
+  "source": "Generated from 2. Immunology.pdf - Vaccines: Live attenuated vaccines"
+},
+{
+  "id": "immuno-319",
+  "subject": "Immunology",
+  "major_topic": "Vaccines",
+  "subtopic": "Live attenuated vaccines",
+  "difficulty": "medium",
+  "vignette": "A 28-year-old Peace Corps worker is preparing to travel to West Africa for 2 years. Her planned immunization list includes several live attenuated vaccines, including yellow fever and measles-mumps-rubella. During counseling she is asked what she should do if she requires an immune globulin injection for postexposure prophylaxis shortly after receiving these vaccines.",
+  "question": "Which of the following is the most important consideration when scheduling live attenuated viral vaccines relative to immune globulin administration?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Passive antibody in immune globulin can neutralize the vaccine virus and blunt the response, so live viral vaccines should be spaced by an interval"
+    },
+    {
+      "id": "B",
+      "text": "Immune globulin destroys all B cells and prevents any vaccine response, so live vaccines are permanently contraindicated"
+    },
+    {
+      "id": "C",
+      "text": "Live and inactivated vaccines cancel each other out, so they must never be given in the same month"
+    },
+    {
+      "id": "D",
+      "text": "Immune globulin must be given at least 3 years before any live viral vaccine"
+    },
+    {
+      "id": "E",
+      "text": "There is no interaction, so the timing of immune globulin is irrelevant"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Passive antibody administered as immune globulin or as a blood product can bind the attenuated vaccine virus and reduce its replication, resulting in an inadequate immune response. The interval depends on the product and dose: immune globulin given before a live attenuated viral vaccine generally requires waiting several weeks before vaccination, whereas immune globulin given after a live viral vaccine generally requires waiting before any further doses are given, because the vaccine that has already established an infection may be neutralized. Inactivated, toxoid and subunit vaccines are not affected by passive antibody timing.",
+  "explanation_incorrect": {
+    "B": "Immune globulin does not destroy B cells; it supplies passive antibodies that can transiently neutralize a live vaccine virus.",
+    "C": "Live and inactivated vaccines do not neutralize each other, and they are routinely co-administered.",
+    "D": "A 3-year waiting period is far longer than the recognized interval, which is measured in months at most.",
+    "E": "Passive antibody against vaccine antigens definitely interacts with live attenuated vaccines, so timing matters."
+  },
+  "educationalObjective": "Passive antibody from immune globulin or blood products can blunt live attenuated viral vaccine responses, so live viral vaccination must be spaced appropriately around those products.",
+  "source": "Generated from 2. Immunology.pdf - Vaccines: Live attenuated vaccines"
+},
+{
+  "id": "immuno-320",
+  "subject": "Immunology",
+  "major_topic": "Vaccines",
+  "subtopic": "Live attenuated vaccines",
+  "difficulty": "medium",
+  "vignette": "A 15-month-old boy is seen for routine care. He has a history of an anaphylactic reaction to neomycin-containing ointment and moderate atopic dermatitis with generalized erythematous and eczematous skin, some of it active. His growth and development are normal, and his immune evaluation is reassuring. He is scheduled for the measles-mumps-rubella-varicella vaccine.",
+  "question": "Which of the following is the most appropriate recommendation regarding this child's live attenuated vaccination?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Administer the vaccine today because contraindications apply only to severe immune deficiency"
+    },
+    {
+      "id": "B",
+      "text": "Defer the vaccine until the eczema has cleared completely, since skin disease is a contraindication"
+    },
+    {
+      "id": "C",
+      "text": "Avoid the varicella component permanently because of the neomycin sensitivity"
+    },
+    {
+      "id": "D",
+      "text": "Give half the standard dose to reduce the risk of adverse reactions"
+    },
+    {
+      "id": "E",
+      "text": "He may receive the vaccine despite the eczematous skin; atopic disease is not a contraindication, though he should be monitored for the rare hypersensitivity reaction"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Atopic disease, including moderate to severe generalized eczema, is not a contraindication to live attenuated vaccines, because the underlying defect is not in cell-mediated immunity. Live vaccines should be deferred or avoided with severe immunosuppression, during pregnancy, with certain hypersensitivity to vaccine components such as gelatin or neomycin, or within a defined interval of immune globulin. Patients with prior anaphylaxis to a component deserve careful review, and neomycin hypersensitivity is generally a cautions-but-not-absolute barrier for those products, with observation after an initial dose.",
+  "explanation_incorrect": {
+    "A": "Contraindications extend well beyond severe immune deficiency and include pregnancy, anaphylaxis to components and recent immune globulin.",
+    "B": "Eczema is not a contraindication to vaccination, and delaying leaves the child unprotected against measles and varicella.",
+    "C": "There is no permanent ban based on neomycin sensitivity; the reaction risk is assessed per product and monitored.",
+    "D": "Fractional dosing is never an appropriate strategy for live vaccines and would yield inadequate immunity."
+  },
+  "educationalObjective": "Atopic and eczematous skin disease is not a contraindication to live attenuated vaccines; true contraindications are severe immunosuppression, pregnancy and anaphylaxis to vaccine components.",
+  "source": "Generated from 2. Immunology.pdf - Vaccines: Live attenuated vaccines"
+}
+]

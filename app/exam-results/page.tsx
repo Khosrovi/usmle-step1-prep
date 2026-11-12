@@ -25,15 +25,20 @@ function ExamResultsContent() {
   const searchParams = useSearchParams();
   const router = useRouter();
   const examId = searchParams.get("examId");
+  const subject = searchParams.get("subject") || "";
+  // "Retake exam" replays a fresh sitting for the same subject.
+  const practiceUrl = `/quiz?subject=${encodeURIComponent(
+    subject || "Immunology"
+  )}&mode=exam`;
 
   const [results, setResults] = useState<ExamResult[]>([]);
-  const [loading, setLoading] = useState(true);
+  // No exam id means nothing to load: the empty-state branch below handles it,
+  // so start already "done" rather than flipping loading in an effect.
+  const [loading, setLoading] = useState(Boolean(examId));
   const [totalTime, setTotalTime] = useState(0);
 
   useEffect(() => {
-    if (examId) {
-      loadResults();
-    }
+    if (examId) loadResults();
   }, [examId]);
 
   const loadResults = async () => {
@@ -84,7 +89,9 @@ function ExamResultsContent() {
   };
 
   const groupedResults = results.reduce((acc, result) => {
-    const topic = result.questions.major_topic;
+    // Rows written before a question is deleted, or before the join resolves,
+    // would otherwise crash the whole results page on one missing topic.
+    const topic = result.questions?.major_topic ?? "Uncategorized";
     if (!acc[topic]) {
       acc[topic] = { total: 0, correct: 0 };
     }
@@ -98,6 +105,37 @@ function ExamResultsContent() {
       <div className="min-h-screen flex items-center justify-center">
         <p className="text-muted-foreground">Loading results...</p>
       </div>
+    );
+  }
+
+  if (!examId || results.length === 0) {
+    return (
+      <main className="min-h-screen bg-background">
+        <div className="max-w-2xl mx-auto p-8">
+          <Card>
+            <CardHeader>
+              <CardTitle>No exam results yet</CardTitle>
+            </CardHeader>
+            <CardContent className="space-y-4">
+              <p className="text-sm text-muted-foreground">
+                This page shows a review of a finished exam. Start one from the
+                dashboard, or retake a timed sitting below.
+              </p>
+              <div className="flex gap-3">
+                <Button onClick={() => router.push("/dashboard")} variant="outline">
+                  Back to Dashboard
+                </Button>
+                <Button
+                  onClick={() => router.push(practiceUrl)}
+                  className="bg-purple-600 hover:bg-purple-700 text-white"
+                >
+                  Start an Exam
+                </Button>
+              </div>
+            </CardContent>
+          </Card>
+        </div>
+      </main>
     );
   }
 
@@ -255,12 +293,12 @@ function ExamResultsContent() {
                   </div>
                   <div className="flex-1">
                     <div className="text-xs text-muted-foreground mb-1">
-                      Question {index + 1} •{" "}
-                      {result.questions.major_topic}
-                    </div>
-                    <p className="text-sm text-foreground mb-2">
-                      {result.questions.question}
-                    </p>
+                       Question {index + 1} •{" "}
+                       {result.questions?.major_topic ?? "Uncategorized"}
+                     </div>
+                     <p className="text-sm text-foreground mb-2">
+                       {result.questions?.question ?? "(question unavailable)"}
+                     </p>
                     <div className="text-xs">
                       <span className="text-muted-foreground">Your answer: </span>
                       <span
@@ -272,16 +310,16 @@ function ExamResultsContent() {
                       >
                         {result.selected_answer}
                       </span>
-                      {!result.is_correct && (
-                        <>
-                          <span className="text-muted-foreground ml-3">
-                            Correct:{" "}
-                          </span>
-                          <span className="text-green-700 dark:text-green-300 font-semibold">
-                            {result.questions.correct_answer}
-                          </span>
-                        </>
-                      )}
+                       {!result.is_correct && (
+                         <>
+                           <span className="text-muted-foreground ml-3">
+                             Correct:{" "}
+                           </span>
+                           <span className="text-green-700 dark:text-green-300 font-semibold">
+                             {result.questions?.correct_answer ?? "?"}
+                           </span>
+                         </>
+                       )}
                     </div>
                   </div>
                 </div>
@@ -298,6 +336,13 @@ function ExamResultsContent() {
             className="flex-1"
           >
             Back to Dashboard
+          </Button>
+          <Button
+            onClick={() => router.push(practiceUrl)}
+            variant="outline"
+            className="flex-1"
+          >
+            Retake Exam
           </Button>
           <Button
             onClick={() => router.push("/stats")}

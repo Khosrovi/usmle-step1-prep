@@ -1,0 +1,84 @@
+[
+{
+  "id": "immuno-049",
+  "subject": "Immunology",
+  "major_topic": "Autoimmune Diseases",
+  "subtopic": "Multiple sclerosis",
+  "difficulty": "easy",
+  "vignette": "A 27-year-old woman presents with 5 days of blurred vision in the right eye, eye pain worsened by movement, and reduced color discrimination. Visual acuity is 20/100 in the right eye and 20/20 in the left. There is an afferent pupillary defect on the right, and fundoscopy shows optic disc swelling. Two years ago she had an episode of right leg numbness that resolved over 3 weeks. Brain MRI shows multiple T2-hyperintense periventricular and juxtacortical white matter lesions, one of which enhances with gadolinium. CSF shows oligoclonal bands.",
+  "question": "Which of the following best describes the underlying immunopathologic process?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Antibody-mediated complement fixation on myelinated peripheral nerve fibers"
+    },
+    {
+      "id": "B",
+      "text": "Infection of oligodendrocytes by JC virus causing progressive demyelination"
+    },
+    {
+      "id": "C",
+      "text": "T cell-mediated inflammatory demyelination of central nervous system white matter with dissemination in space and time"
+    },
+    {
+      "id": "D",
+      "text": "Deposition of beta-amyloid plaques with neurofibrillary tangle formation"
+    },
+    {
+      "id": "E",
+      "text": "Degeneration of anterior horn cells in the spinal cord and brainstem"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Multiple sclerosis is a chronic inflammatory demyelinating disease of the CNS in which Th1 and Th17 lymphocytes, along with CD8+ cells, B cells, and microglia, attack myelin and oligodendrocytes. The clinical signature is dissemination in space and time, as in this patient's prior sensory episode plus current optic neuritis, supported by MRI lesions in characteristic locations and CSF oligoclonal bands. Optic neuritis is the most common initial manifestation and produces pain on eye movement with an afferent pupillary defect and reduced color vision.",
+  "explanation_incorrect": {
+    "A": "Peripheral nerve demyelination by antibody is the mechanism of Guillain-Barre syndrome, which causes ascending flaccid weakness and areflexia, not optic neuritis or CNS lesions.",
+    "B": "JC virus causes progressive multifocal leukoencephalopathy in immunocompromised patients, without enhancing lesions or oligoclonal bands.",
+    "D": "Amyloid plaques and tau tangles characterize Alzheimer disease, which presents with progressive cognitive decline in older adults.",
+    "E": "Anterior horn cell degeneration describes amyotrophic lateral sclerosis, which produces upper and lower motor neuron signs without sensory loss."
+  },
+  "educationalObjective": "Multiple sclerosis is a T cell-mediated CNS demyelinating disease diagnosed by clinical and MRI dissemination in space and time with CSF oligoclonal bands.",
+  "source": "Generated from 2. Immunology.pdf - Autoimmune Diseases: Multiple sclerosis"
+},
+{
+  "id": "immuno-050",
+  "subject": "Immunology",
+  "major_topic": "Autoimmune Diseases",
+  "subtopic": "Multiple sclerosis",
+  "difficulty": "medium",
+  "vignette": "A 34-year-old man with relapsing-remitting multiple sclerosis reports that his vision has become substantially worse over the past 3 days in both eyes, with pain on eye movement. He began a new disease-modifying therapy 6 weeks earlier and has had one prior relapse in the past year. Examination shows bilateral afferent pupillary defects. He recalls a similar but milder episode a year ago that improved spontaneously. During a recent hot shower his vision briefly deteriorated.",
+  "question": "Which of the following mechanisms best explains the transient worsening of his symptoms during acute relapses?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Irreversible transection of axons within the optic nerve"
+    },
+    {
+      "id": "B",
+      "text": "Antibody-mediated destruction of photoreceptors in the retina"
+    },
+    {
+      "id": "C",
+      "text": "Ischemic optic neuropathy from small-vessel occlusion"
+    },
+    {
+      "id": "D",
+      "text": "Loss of myelin causing demyelinated axons to conduct slowly and unreliably, with conduction failure worsened by heat or metabolic stress"
+    },
+    {
+      "id": "E",
+      "text": "Elevated intracranial pressure causing papilledema"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Demyelinated axons retain continuity but conduct via a reduced number of voltage-gated sodium channels that are redistributed along the axon, giving slow and precarious saltatory conduction. Conduction fails with elevated temperature (the Uhthoff phenomenon, illustrated by his hot shower), metabolic stress, or small insults, which is why symptoms fluctuate and often improve with rest and cooling. Acute relapses are treated with high-dose IV methylprednisolone to shorten the attack, though this does not change the long-term course.",
+  "explanation_incorrect": {
+    "A": "Acute MS relapses are driven by inflammation and conduction block rather than axonal transection, which would produce fixed and irreversible deficits.",
+    "B": "Photoreceptor destruction occurs in retinopathies and would be visible on fundoscopy; anti-retinal antibodies are not the mechanism of MS optic neuritis.",
+    "C": "Non-arteritic ischemic optic neuropathy typically affects older adults with vascular risk factors and does not produce enhancing white matter lesions or oligoclonal bands.",
+    "E": "Raised intracranial pressure with papilledema would cause headaches and bilateral disc swelling with relatively preserved acuity, unlike painful subacute visual loss with periventricular lesions."
+  },
+  "educationalObjective": "MS symptoms arise from demyelinating conduction block that is temporarily worsened by heat and metabolic stress (Uhthoff phenomenon).",
+  "source": "Generated from 2. Immunology.pdf - Autoimmune Diseases: Multiple sclerosis"
+}
+]

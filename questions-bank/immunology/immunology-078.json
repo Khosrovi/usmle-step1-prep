@@ -1,0 +1,84 @@
+[
+{
+  "id": "immuno-257",
+  "subject": "Immunology",
+  "major_topic": "T Cell Activation and Cytokines",
+  "subtopic": "Apoptosis and immune regulation",
+  "difficulty": "medium",
+  "vignette": "A 34-year-old man is evaluated for a rapidly enlarging cervical mass and night sweats. Biopsy shows a germinal-center-derived B-cell lymphoma, and staging marrow reveals the t(14;18) translocation involving the BCL2 locus. Molecular studies demonstrate marked overexpression of a mitochondrial outer-membrane protein that prevents release of cytochrome c into the cytosol.",
+  "question": "The protein overexpressed in this patient's tumor most directly inhibits which of the following processes?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Cytochrome c release and caspase-9 activation by the apoptosome"
+    },
+    {
+      "id": "B",
+      "text": "Fas ligand-mediated cross-linking of the death receptor Fas"
+    },
+    {
+      "id": "C",
+      "text": "Perforin-mediated delivery of granzyme B into the target cell"
+    },
+    {
+      "id": "D",
+      "text": "Assembly of the T cell receptor signaling complex"
+    },
+    {
+      "id": "E",
+      "text": "Class switching of surface IgM to IgG in germinal-center B cells"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "The overexpressed protein is BCL2, an anti-apoptotic member of the BCL2 family located on the outer mitochondrial membrane. It binds and sequesters pro-apoptotic effectors such as BAX and BAK, preventing mitochondrial outer-membrane permeabilization, cytochrome c release, and formation of the apoptosome with APAF-1 and procaspase-9. In the intrinsic (mitochondrial) pathway, loss of BCL2 function or a relative excess of BAX/BAK tips the balance toward apoptosis. The t(14;18) translocation places the BCL2 gene under the immunoglobulin heavy-chain enhancer, which is the classic explanation for follicular lymphoma's indolent biology and its relative resistance to chemotherapy-induced apoptosis.",
+  "explanation_incorrect": {
+    "B": "Fas-mediated apoptosis proceeds through the extrinsic death-receptor pathway (FADD and procaspase-8) and does not depend on BCL2-regulated mitochondrial permeabilization.",
+    "C": "Perforin and granzyme B are used by cytotoxic T lymphocytes; BCL2 overexpression in a lymphoma does not block perforin pore formation in the target membrane.",
+    "D": "T cell receptor assembly is a T cell-specific event involving CD3 chains and the pre-TCR, and has no relationship to the BCL2 protein.",
+    "E": "Class switching requires activation-induced cytidine deaminase in germinal-center B cells and is a differentiation event, not an apoptotic checkpoint."
+  },
+  "educationalObjective": "BCL2 blocks the intrinsic apoptosis pathway by preventing cytochrome c release and apoptosome formation; its overexpression via t(14;18) is the hallmark of follicular lymphoma.",
+  "source": "Generated from 2. Immunology.pdf - T Cell Activation and Cytokines: Apoptosis and immune regulation"
+},
+{
+  "id": "immuno-258",
+  "subject": "Immunology",
+  "major_topic": "T Cell Activation and Cytokines",
+  "subtopic": "Apoptosis and immune regulation",
+  "difficulty": "hard",
+  "vignette": "A 6-year-old boy is brought for massive, nontender cervical lymphadenopathy, marked splenomegaly, and chronic cytopenias since infancy. Laboratory studies show defective Fas-mediated apoptosis of lymphocytes. He has a known pathogenic mutation in the gene encoding a death receptor on the cell surface. His mother reports that a maternal uncle died in childhood of a similar illness.",
+  "question": "Which of the following best describes the mechanism by which binding of Fas ligand to this receptor induces apoptosis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Activation of APAF-1 and recruitment of procaspase-9"
+    },
+    {
+      "id": "B",
+      "text": "Receptor trimerization with recruitment of FADD and activation of procaspase-8"
+    },
+    {
+      "id": "C",
+      "text": "Release of granzyme B from cytotoxic T cell granules directly into the cytosol"
+    },
+    {
+      "id": "D",
+      "text": "Inhibition of BCL2 by direct physical binding on the mitochondrial membrane"
+    },
+    {
+      "id": "E",
+      "text": "Engagement of the CD3 epsilon chain of the T cell receptor complex"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "This child has autoimmune lymphoproliferative syndrome (ALPS) type Ia, caused by germline mutations in FAS. Fas is a surface death receptor of the TNF receptor superfamily; binding of Fas ligand causes trimerization and clustering of death domains, recruitment of the adaptor FADD, and activation of procaspase-8 within the death-inducing signaling complex. Active caspase-8 then activates downstream effector caspases, and in many cells also cleaves BID to amplify through the mitochondrial pathway. Failure of this extrinsic apoptosis pathway leaves auto-reactive lymphocytes alive, producing lymphadenopathy, splenomegaly, and autoimmune cytopenias; the same outcome is seen in sporadic somatic FAS mutations.",
+  "explanation_incorrect": {
+    "A": "APAF-1 and procaspase-9 form the apoptosome of the intrinsic mitochondrial pathway, not the cytosolic death-inducing signaling complex assembled at Fas.",
+    "C": "Granzyme B is a cytotoxic T cell product delivered through perforin pores and represents the granule-mediated route, not the Fas receptor pathway.",
+    "D": "BID is cleaved by caspase-8 to amplify mitochondrial apoptosis, but BCL2 is not the receptor that transduces the Fas signal itself.",
+    "E": "The CD3 epsilon chain belongs to the T cell receptor complex involved in antigen recognition and is unrelated to a death receptor on lymphocytes."
+  },
+  "educationalObjective": "Fas-Fas ligand signaling kills lymphocytes through the extrinsic pathway (FADD and caspase-8), and defective Fas causes autoimmune lymphoproliferative syndrome.",
+  "source": "Generated from 2. Immunology.pdf - T Cell Activation and Cytokines: Apoptosis and immune regulation"
+}
+]

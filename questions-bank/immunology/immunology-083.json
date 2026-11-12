@@ -1,0 +1,125 @@
+[
+{
+  "id": "immuno-276",
+  "subject": "Immunology",
+  "major_topic": "T Cell Activation and Cytokines",
+  "subtopic": "Th1/Th2/Th17/Treg balance",
+  "difficulty": "medium",
+  "vignette": "A 32-year-old woman has a 4-year history of relapsing-remitting neurologic symptoms. Brain MRI shows multiple periventricular T2 hyperintense lesions, and cerebrospinal fluid shows oligoclonal bands. Increased numbers of interleukin-17-producing T cells and reduced numbers of FoxP3-positive regulatory T cells are found in her peripheral blood. She is started on a monoclonal antibody targeting the interleukin-2 receptor alpha chain.",
+  "question": "Which of the following best describes the transcription factor and signature cytokine that define the predominant effector T cells in her disease?",
+  "options": [
+    {
+      "id": "A",
+      "text": "GATA-3 and interleukin-4"
+    },
+    {
+      "id": "B",
+      "text": "T-bet and interferon gamma"
+    },
+    {
+      "id": "C",
+      "text": "FoxP3 and transforming growth factor beta"
+    },
+    {
+      "id": "D",
+      "text": "ROR-gamma-t and interleukin-17"
+    },
+    {
+      "id": "E",
+      "text": "STAT6 and interleukin-13"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Multiple sclerosis is a demyelinating T cell-mediated autoimmune disease in which Th17 cells are a major pathogenic subset. Th17 cells develop in the presence of transforming growth factor beta, interleukin-6, and interleukin-23 and depend on the transcription factor ROR-gamma-t, producing interleukin-17 to recruit neutrophils and promote tissue inflammation; daclizumab and other therapies reducing Th17 activity have been used in relapsing-remitting disease. Both Th17 cells and regulatory T cells arise from naive CD4+ cells under TGF-beta influence, but IL-6 plus IL-23 tips the balance toward Th17 and away from FoxP3-positive regulatory T cells, whose loss in this patient further disinhibits autoimmunity. Natalizumab blocks VLA-4 to prevent lymphocyte entry into the brain.",
+  "explanation_incorrect": {
+    "A": "GATA-3 and IL-4 define Th2 cells that drive allergic and helminth responses, not the predominant demyelinating subset.",
+    "B": "T-bet and interferon gamma characterize Th1 cells, which participate in some autoimmune diseases but are not the dominant IL-17 axes in this vignette.",
+    "C": "FoxP3 and TGF-beta define regulatory T cells, whose numbers are reduced here and which suppress rather than drive disease.",
+    "E": "STAT6 and IL-13 describe Th2-associated allergic inflammation, which does not explain demyelinating disease with IL-17-high T cells."
+  },
+  "educationalObjective": "Th17 cells are defined by ROR-gamma-t and IL-17, require TGF-beta plus IL-6/IL-23, and promote autoimmune inflammation such as multiple sclerosis.",
+  "source": "Generated from 2. Immunology.pdf - T Cell Activation and Cytokines: Th1/Th2/Th17/Treg balance"
+},
+{
+  "id": "immuno-277",
+  "subject": "Immunology",
+  "major_topic": "T Cell Activation and Cytokines",
+  "subtopic": "Th1/Th2/Th17/Treg balance",
+  "difficulty": "medium",
+  "vignette": "A 25-year-old woman with well-controlled asthma and mild atopic dermatitis receives a live-virus vaccine. Two days later she develops a blistering vesicular rash on her hands and arms, and the team considers why her allergic diathesis might alter her response. Separately, her 12-year-old brother with a chronic helminth infection has a strong eosinophil response.",
+  "question": "The immunologic shift described in this patient is best explained by which mechanism?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Cross-regulation in which Th2 cytokines inhibit Th1 responses, impairing cell-mediated immunity against intracellular pathogens"
+    },
+    {
+      "id": "B",
+      "text": "Failure of Th17 differentiation due to excess transforming growth factor beta alone"
+    },
+    {
+      "id": "C",
+      "text": "Deficiency of GATA-3 causing loss of IgE production"
+    },
+    {
+      "id": "D",
+      "text": "Overproduction of interferon gamma suppressing eosinophil recruitment"
+    },
+    {
+      "id": "E",
+      "text": "Depletion of regulatory T cells leading to unchecked Th1 polarization"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Naive CD4+ helper T cells differentiate according to the cytokines present: interleukin-12 with interferon gamma from dendritic cells drives T-bet and Th1 responses against intracellular microbes, whereas interleukin-4 drives GATA-3 and Th2 responses that produce interleukin-4, 5, and 13 for IgE, eosinophils, and mucus. These arms cross-regulate one another, so a strong Th2 environment, as in atopic disease, suppresses Th1-mediated cellular immunity including the response to live vaccines against intracellular viruses such as varicella or measles, raising the concern for disseminated infection. This reciprocal suppression also explains the hygiene hypothesis association between atopy and reduced Th1-based delayed hypersensitivity.",
+  "explanation_incorrect": {
+    "B": "Th17 differentiation requires TGF-beta with IL-6 and IL-23; excess TGF-beta alone does not define this Th2 shift, and Th17 is not the relevant axis here.",
+    "C": "GATA-3 is the master transcription factor of Th2 cells and is increased, not deficient, in atopy; its deficiency would reduce IgE, the opposite of the clinical picture.",
+    "D": "Interferon gamma is a Th1 product, which is relatively suppressed in a Th2-skewed environment, and the vignette describes a Th2, not Th1, pattern.",
+    "E": "Regulatory T cell depletion would increase Th2-driven inflammation rather than produce Th1 polarization with impaired viral immunity."
+  },
+  "educationalObjective": "Th1 and Th2 responses cross-regulate: IL-4-driven Th2 polarization suppresses IL-12-driven Th1 cellular immunity, increasing susceptibility to intracellular pathogens.",
+  "source": "Generated from 2. Immunology.pdf - T Cell Activation and Cytokines: Th1/Th2/Th17/Treg balance"
+},
+{
+  "id": "immuno-278",
+  "subject": "Immunology",
+  "major_topic": "T Cell Activation and Cytokines",
+  "subtopic": "Th1/Th2/Th17/Treg balance",
+  "difficulty": "hard",
+  "vignette": "A 2-month-old boy presents with severe generalized eczematous dermatitis, chronic watery diarrhea, and failure to thrive. He also has elevated serum IgE and eosinophilia. Despite the atopic features, he has recurrent severe infections with cytomegalovirus and Pneumocystis. Genetic testing reveals a forkhead box protein mutation, and circulating CD4+CD25-high cells that normally suppress self-reactive T cells are absent.",
+  "question": "The defect in this patient's immunoregulation results in which additional consequence?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Loss of peripheral tolerance with multiorgan autoimmune inflammation and increased interferon gamma-driven tissue damage"
+    },
+    {
+      "id": "B",
+      "text": "Selective preservation of regulatory T cells but loss of all CD4+ T cells"
+    },
+    {
+      "id": "C",
+      "text": "Enhanced transforming growth factor beta-mediated suppression of dendritic cells"
+    },
+    {
+      "id": "D",
+      "text": "Reduced IgE due to failure of class switching"
+    },
+    {
+      "id": "E",
+      "text": "Increased cytotoxic CD8+ T cell killing that suppresses autoimmunity"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "This infant has IPEX syndrome (immune dysregulation, polyendocrinopathy, enteropathy, X-linked), caused by loss-of-function mutations in FOXP3. FOXP3 is the master transcription factor for regulatory T cells, which develop under high TGF-beta and suppress autoreactive lymphocytes by consuming IL-2 (via CD25), secreting IL-10 and TGF-beta, and CTLA-4-dependent suppression of antigen-presenting cells. Deficiency removes peripheral tolerance, producing autoimmune enteropathy with diarrhea and failure to thrive, endocrinopathies, and severe eczema; the atopic features reflect overactive Th2 cells, and uncontrolled T cell activation also drives interferon gamma-dependent tissue damage. The overlapping phenotype with severe eczema and high IgE explains why it can be confused with Wiskott-Aldrich or severe combined immunodeficiency.",
+  "explanation_incorrect": {
+    "B": "FOXP3 mutations selectively impair regulatory T cell development and function; total CD4+ T cell numbers are generally not absent, and the vignette says the suppressing subset is missing, not preserved.",
+    "C": "The defect is loss of TGF-beta-mediated suppression, not enhanced suppression of dendritic cells.",
+    "D": "IgE is elevated in IPEX due to uncontrolled Th2 responses, not reduced from failed class switching.",
+    "E": "Excess cytotoxic activity would not suppress autoimmunity, and the disorder is defined by unopposed effector T cell activity."
+  },
+  "educationalObjective": "FOXP3 is required for regulatory T cell development; its deficiency causes IPEX with loss of peripheral tolerance, autoimmunity, severe eczema, and elevated IgE.",
+  "source": "Generated from 2. Immunology.pdf - T Cell Activation and Cytokines: Th1/Th2/Th17/Treg balance"
+}
+]

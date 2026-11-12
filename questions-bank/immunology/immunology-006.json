@@ -1,0 +1,125 @@
+[
+{
+  "id": "immuno-017",
+  "subject": "Immunology",
+  "major_topic": "Antibodies and Immunoglobulins",
+  "subtopic": "IgG",
+  "difficulty": "easy",
+  "vignette": "A 28-year-old woman is 34 weeks pregnant with her first child and has a negative indirect Coombs test, no RhD antibodies, and no history of blood transfusion. She is being counseled about immunity transfer to her baby, and her physician explains that her antibodies will protect the newborn from infections for the first months of life.",
+  "question": "Which immunoglobulin is transferred across the placenta from mother to fetus, providing passive immunity to the neonate?",
+  "options": [
+    {
+      "id": "A",
+      "text": "IgA"
+    },
+    {
+      "id": "B",
+      "text": "IgM"
+    },
+    {
+      "id": "C",
+      "text": "IgE"
+    },
+    {
+      "id": "D",
+      "text": "IgD"
+    },
+    {
+      "id": "E",
+      "text": "IgG"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "IgG is the only immunoglobulin that crosses the placenta, primarily through FcRn-mediated active transport that begins in the second trimester and peaks in the third. This provides passive immunity to the fetus and newborn during the first months of life. Because IgG can also coat fetal red cells, the same mechanism explains hemolytic disease of the newborn when a mother carries anti-RhD IgG, although this patient has no such antibodies.",
+  "explanation_incorrect": {
+    "A": "IgA does not cross the placenta; neonates receive IgA through breast milk instead.",
+    "B": "IgM is a large pentamer that cannot cross the placenta and serves instead as a marker of recent or in utero infection.",
+    "C": "IgE does not cross the placenta in significant amounts, and it does not provide passive protection.",
+    "D": "IgD does not cross the placenta and is present only in trace amounts in serum."
+  },
+  "educationalObjective": "IgG is the only immunoglobulin that crosses the placenta, providing the newborn with maternal passive immunity.",
+  "source": "Generated from 2. Immunology.pdf - Antibodies and Immunoglobulins: IgG"
+},
+{
+  "id": "immuno-018",
+  "subject": "Immunology",
+  "major_topic": "Antibodies and Immunoglobulins",
+  "subtopic": "IgG",
+  "difficulty": "medium",
+  "vignette": "A 48-year-old woman develops fever, chills, hemoglobinuria, and back pain a few hours after receiving packed red cells. Serum testing shows strong complement activation against donor red cells. A repeat investigation reveals a pre-existing antibody from a previous pregnancy that has been present for years and now activates the classical complement pathway efficiently.",
+  "question": "Which immunoglobulin is most likely mediating this complement-driven hemolytic transfusion reaction?",
+  "options": [
+    {
+      "id": "A",
+      "text": "IgE"
+    },
+    {
+      "id": "B",
+      "text": "IgD"
+    },
+    {
+      "id": "C",
+      "text": "IgA"
+    },
+    {
+      "id": "D",
+      "text": "IgG4"
+    },
+    {
+      "id": "E",
+      "text": "IgG subclasses 1 and 3"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Among the isotypes, IgM is the most efficient complement fixer, but IgG subclasses 1 and 3 are strong classical pathway activators as well. IgG also mediates extravascular hemolysis by engaging Fc gamma receptors on splenic macrophages, and in delayed hemolytic reactions from prior sensitization to antigens such as Rh, Kell, or Kidd, IgG is the culprit. IgG is the most abundant serum immunoglobulin and the main opsonin.",
+  "explanation_incorrect": {
+    "A": "IgE mediates mast-cell reactions and type I hypersensitivity, not hemolysis of transfused red cells.",
+    "B": "IgD is a B-cell receptor isotype with negligible serum levels and no role in red-cell hemolysis.",
+    "C": "IgA is not a strong complement activator and does not mediate this hemolytic pattern.",
+    "D": "IgG4 is the least complement-fixing IgG subclass and is not the mediator of brisk complement activation."
+  },
+  "educationalObjective": "IgG1 and IgG3 efficiently activate complement and mediate delayed hemolytic transfusion reactions, while IgG overall is the main opsonizing antibody.",
+  "source": "Generated from 2. Immunology.pdf - Antibodies and Immunoglobulins: IgG"
+},
+{
+  "id": "immuno-019",
+  "subject": "Immunology",
+  "major_topic": "Antibodies and Immunoglobulins",
+  "subtopic": "IgG",
+  "difficulty": "hard",
+  "vignette": "A 52-year-old woman with relapsing-remitting multiple sclerosis is treated with natalizumab, a recombinant humanized IgG4 monoclonal antibody against alpha-4 integrin. Her neurologist notes that natalizumab is IgG4-based rather than IgG1-based because IgG4 does not activate complement or bind Fc gamma receptors efficiently, limiting inflammatory Fc-mediated effects.",
+  "question": "Which property of IgG best explains its use as the backbone of humanized therapeutic monoclonals that need long circulation and tunable effector function?",
+  "options": [
+    {
+      "id": "A",
+      "text": "IgG is the largest immunoglobulin and cannot be cleared once bound"
+    },
+    {
+      "id": "B",
+      "text": "Each IgG contains ten antigen-binding sites, making it more efficient than IgM"
+    },
+    {
+      "id": "C",
+      "text": "IgG is produced only by memory T cells"
+    },
+    {
+      "id": "D",
+      "text": "IgG is the most abundant serum immunoglobulin, has the longest half-life (about 3 weeks), and can be engineered for or against effector function"
+    },
+    {
+      "id": "E",
+      "text": "IgG is the main antibody in breast milk and mucosal secretions"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "IgG is the predominant immunoglobulin in serum, about 75-80% of total Ig, and its long half-life of roughly 21-23 days due to FcRn recycling underlies the prolonged dosing intervals of IgG-based therapeutics. The four IgG subclasses differ in complement activation and Fc gamma receptor binding, so engineers can choose an IgG1 backbone when effector function is wanted or an IgG4 backbone when a pure blocking antibody is desired, as with natalizumab.",
+  "explanation_incorrect": {
+    "A": "IgG is smaller than IgM, which is the pentameric and largest immunoglobulin, and bound complexes are cleared normally, so size does not explain its use as a backbone.",
+    "B": "IgG is a monomer with two antigen-binding sites, whereas IgM has ten sites and is the more avid complement activator.",
+    "C": "Antibodies are produced by B cells and plasma cells, never by T cells, so a memory T-cell origin is impossible.",
+    "E": "IgA is the main antibody in colostrum, breast milk, and mucosal secretions; IgG predominates in serum and is transferred across the placenta."
+  },
+  "educationalObjective": "IgG is the most abundant serum immunoglobulin with the longest half-life, and its subclasses allow tailored choice of effector function for therapeutic antibodies.",
+  "source": "Generated from 2. Immunology.pdf - Antibodies and Immunoglobulins: IgG"
+}
+]

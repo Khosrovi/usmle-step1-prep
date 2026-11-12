@@ -1,0 +1,125 @@
+[
+{
+  "id": "immuno-224",
+  "subject": "Immunology",
+  "major_topic": "Immunosuppressants",
+  "subtopic": "Corticosteroids",
+  "difficulty": "medium",
+  "vignette": "A 24-year-old woman with known systemic lupus erythematosus presents with 2 weeks of fever, dyspnea, mouth ulcers, and arthralgias. She is on prednisone 5 mg daily at home. Exam shows a blood pressure of 96/60 mmHg, bibasilar crackles, and a malar rash. Urinalysis shows 3+ protein, 2+ blood, and red cell casts. She is given intravenous methylprednisolone 1 g daily for 3 days.",
+  "question": "Which of the following accurately pairs the mechanism with this acute effect of high-dose glucocorticoids?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Stabilization of lysosomal membranes as the principal mechanism accounting for prompt improvement in lupus nephritis"
+    },
+    {
+      "id": "B",
+      "text": "Binding of the steroid to the glucocorticoid receptor, causing trans repression of pro-inflammatory genes (e.g., NF-kB, AP-1) that encode cytokines and adhesion molecules"
+    },
+    {
+      "id": "C",
+      "text": "Inhibition of calcineurin, blocking NFAT-driven IL-2 transcription"
+    },
+    {
+      "id": "D",
+      "text": "Depletion of CD4+ lymphocytes by complement-mediated lysis"
+    },
+    {
+      "id": "E",
+      "text": "Inhibition of COX-2 enzyme in the cytoplasm, similar to NSAIDs"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Glucocorticoids bind cytosolic heat-shock protein 90-bound glucocorticoid receptor, translocate to the nucleus, and activate glucocorticoid response elements; the net anti-inflammatory effect is largely trans repression of NF-kB and AP-1 target genes, reducing IL-1, IL-2, IL-6, TNF-alpha, adhesion molecules, and arachidonic acid metabolites through induction of lipocortin/anexin A1. Additional effects include lymphopenia and eosinopenia (from redistribution and apoptosis), reduced antibody production, osteoclast inhibition, and gluconeogenesis. This broad suppression is why high-dose IV methylprednisolone works within hours for severe lupus nephritis, while the same therapy has no role as calcineurin inhibition or as a COX-2 selective effect.",
+  "explanation_incorrect": {
+    "A": "Lysosomal membrane stabilization has been discounted as the primary mechanism of glucocorticoid anti-inflammatory action; the effect is mediated by transcriptional regulation.",
+    "C": "Calcineurin inhibition belongs to cyclosporine and tacrolimus, which act via cyclophilin and FKBP12 complexes, not to steroids.",
+    "D": "Steroids cause lymphocyte redistribution and apoptosis but do not fix complement to CD4 cells or deliberately lyse lymphocytes.",
+    "E": "Selective COX-2 inhibition describes celecoxib; steroids inhibit phospholipase A2-mediated arachidonic acid release upstream rather than the COX-2 enzyme itself, and this does not explain the broad immunosuppressive effect."
+  },
+  "educationalObjective": "Glucocorticoids work by genomic trans repression of NF-kB and AP-1-driven pro-inflammatory genes, explaining their broad and rapid anti-inflammatory effects.",
+  "source": "Generated from 2. Immunology.pdf - Immunosuppressants: Corticosteroids"
+},
+{
+  "id": "immuno-225",
+  "subject": "Immunology",
+  "major_topic": "Immunosuppressants",
+  "subtopic": "Corticosteroids",
+  "difficulty": "hard",
+  "vignette": "A 68-year-old woman with polymyalgia rheumatica started prednisone 20 mg daily 8 months ago. She has gained 8 kg with central obesity, has a moon face and dorsal hump, and a recent DXA shows a T-score of -2.8 at the lumbar spine. Fasting glucose is 128 mg/dL (previously 92) and her wound from a recent skin biopsy has been slow to heal. She reports feeling 'wired' and has difficulty sleeping.",
+  "question": "Which of her findings is correctly attributed to a known metabolic effect of chronic glucocorticoid therapy?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Osteonecrosis in the absence of osteopenia is the rule, and bone density scan is unnecessary"
+    },
+    {
+      "id": "B",
+      "text": "Osteoporosis from reduced osteoblast function and increased osteoclast activity, together with hyperglycemia and central adiposity from enhanced gluconeogenesis and insulin resistance"
+    },
+    {
+      "id": "C",
+      "text": "Suppression of the hypothalamic-pituitary-adrenal axis leading to adrenal crisis occurs only after years of therapy, not within months"
+    },
+    {
+      "id": "D",
+      "text": "Glucocorticoid-induced hyperkalemia and hypermagnesemia from mineralocorticoid action"
+    },
+    {
+      "id": "E",
+      "text": "Reduced or stable weight is a monotonic effect; weight gain suggests an alternative diagnosis"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Chronic glucocorticoids cause a predictable cushingoid phenotype: central fat deposition (buffalo hump, moon face), hyperglycemia from increased hepatic gluconeogenesis and peripheral insulin resistance, protein catabolism (thinned skin, easy bruising, impaired wound healing, proximal myopathy), and bone loss from inhibition of osteoblast differentiation and function with increased osteoclast activity. The classic board association is that glucocorticoid-induced osteoporosis affects trabecular bone (vertebrae and femoral neck) and is a high-yield cause of secondary osteoporosis, so calcium, vitamin D, and often bisphosphonate therapy are recommended with long courses. Neuro/psychiatric effects like insomnia, euphoria, or psychosis also occur and are dose-related.",
+  "explanation_incorrect": {
+    "A": "Osteonecrosis (avascular necrosis of the femoral head) is a separate glucocorticoid complication, and symptomatic osteopenia is common; bone density assessment is recommended for patients on prolonged therapy.",
+    "C": "HPA axis suppression begins within weeks of moderate-to-high dose steroids, so adrenal insufficiency is a real risk after months, and abrupt cessation must be avoided.",
+    "D": "Glucocorticoids at this dose act mainly on the glucocorticoid receptor and cause sodium and water retention with hypertension and hypokalemia, not hyperkalemia and hypermagnesemia.",
+    "E": "Weight gain with central redistribution is a typical glucocorticoid effect, not evidence of another disease."
+  },
+  "educationalObjective": "Chronic glucocorticoid therapy causes osteoporosis via suppressed osteoblasts plus hyperglycemia, central obesity, protein catabolism, and HPA axis suppression.",
+  "source": "Generated from 2. Immunology.pdf - Immunosuppressants: Corticosteroids"
+},
+{
+  "id": "immuno-226",
+  "subject": "Immunology",
+  "major_topic": "Immunosuppressants",
+  "subtopic": "Corticosteroids",
+  "difficulty": "easy",
+  "vignette": "A 45-year-old man has taken prednisone 40 mg daily for 6 months for pemphigus vulgaris and feels well. He abruptly stops the medication because he lost his insurance and cannot afford refills. Two days later he presents with nausea, vomiting, abdominal pain, weakness, and confusion. Blood pressure is 84/52 mmHg and heart rate is 118/min. Labs show sodium 129 mEq/L, potassium 5.4 mEq/L, and glucose 62 mg/dL.",
+  "question": "Which mechanism best explains his presentation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Abrupt withdrawal causing chronic exogenous glucocorticoid-induced suppression of the hypothalamic-pituitary-adrenal axis, with deficiency of both cortisol and adrenal androgens"
+    },
+    {
+      "id": "B",
+      "text": "Rebound of complement-mediated antibody production causing hemolysis"
+    },
+    {
+      "id": "C",
+      "text": "Direct toxic effect of withdrawal on the adrenal medulla causing catecholamine deficiency"
+    },
+    {
+      "id": "D",
+      "text": "Acute adrenal hemorrhage precipitated by the withdrawal"
+    },
+    {
+      "id": "E",
+      "text": "Mineralocorticoid excess with sodium retention and volume overload"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Chronic administration of exogenous glucocorticoids feeds back on the hypothalamus and pituitary, suppressing CRH and ACTH and causing adrenal cortical atrophy. When the drug is stopped abruptly, the atrophied adrenal gland cannot mount a cortisol response, and the patient develops secondary adrenal insufficiency with hypotension, hypoglycemia, hyponatremia, hyperkalemia (partly from mineralocorticoid deficiency), nausea, and obtundation. This is why steroids must be tapered, and the board point is that secondary adrenal insufficiency spares mineralocorticoid production relatively, though mineralocorticoid deficiency can occur with longer courses. Stress dosing is needed during illness or surgery.",
+  "explanation_incorrect": {
+    "B": "Pemphigus antibody rebound does not produce hypoglycemia, hypotension, and hyperkalemia; the presentation is a classic adrenal crisis picture.",
+    "C": "Catecholamine production by the adrenal medulla is not under direct glucocorticoid feedback, and the medulla is not the site of the described deficiency.",
+    "D": "Adrenal hemorrhage would occur as an acute event with adrenal enlargement and severe pain, often bilateral; there is no precipitant here other than drug withdrawal.",
+    "E": "Mineralocorticoid excess would produce hypertension and hypokalemia, which is the opposite of this patient's hypotension and hyperkalemia."
+  },
+  "educationalObjective": "Abrupt cessation of chronic glucocorticoids precipitates adrenal crisis, so corticosteroids must be tapered and stress-dosed.",
+  "source": "Generated from 2. Immunology.pdf - Immunosuppressants: Corticosteroids"
+}
+]

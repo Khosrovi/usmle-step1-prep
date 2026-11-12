@@ -1,0 +1,166 @@
+[
+{
+  "id": "immuno-157",
+  "subject": "Immunology",
+  "major_topic": "Hypersensitivity Reactions",
+  "subtopic": "Type I immediate hypersensitivity",
+  "difficulty": "easy",
+  "vignette": "A 24-year-old man with a history of seasonal allergic rhinitis eats a peanut-containing granola bar at a party. Within minutes he develops lip swelling, generalized urticaria, and wheezing. Serum tryptase is elevated 90 minutes later. Skin testing reveals peanut-specific IgE, and a blood sample obtained during the reaction shows increased histamine and leukotriene metabolites.",
+  "question": "Which immunologic mechanism best describes the immediate phase of this patient's reaction?",
+  "options": [
+    {
+      "id": "A",
+      "text": "IgG-mediated complement activation with formation of the membrane attack complex on mast cells"
+    },
+    {
+      "id": "B",
+      "text": "Antigen cross-links pre-formed IgE bound to FcepsilonRI on mast cells, triggering immediate degranulation"
+    },
+    {
+      "id": "C",
+      "text": "Deposition of circulating peanut-antigen-antibody immune complexes in the dermal capillaries"
+    },
+    {
+      "id": "D",
+      "text": "CD4+ Th1 cell-mediated macrophage activation with granuloma formation"
+    },
+    {
+      "id": "E",
+      "text": "Fab-mediated neutralization of peanut antigen with no involvement of mast cells"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "This is a classic type I, IgE-mediated immediate hypersensitivity reaction. During initial sensitization, peanut antigen drives Th2 cells to help B cells class switch to IgE, which binds the high-affinity FcepsilonRI on tissue mast cells and blood basophils. On re-exposure, multivalent peanut antigen cross-links adjacent IgE molecules, clustering FcepsilonRI and triggering calcium influx and rapid degranulation of pre-formed histamine, tryptase, and proteases, followed by newly formed leukotrienes and prostaglandins. This produces the urticaria, angioedema, and bronchospasm seen within minutes here.",
+  "explanation_incorrect": {
+    "A": "IgG and complement-mediated cytolysis is the mechanism of type II hypersensitivity and does not drive mast cell degranulation here.",
+    "C": "Circulating immune complex deposition is the mechanism of type III hypersensitivity and produces a delayed Arthus reaction rather than minute-onset urticaria.",
+    "D": "Macrophage activation by Th1 cells with granulomas describes type IV delayed hypersensitivity, which takes days, not minutes.",
+    "E": "Fab-mediated antigen neutralization is a function of IgG and would not cause mast cell histamine release or anaphylaxis."
+  },
+  "educationalObjective": "Type I hypersensitivity occurs when allergen cross-links pre-formed IgE on mast cells through FcepsilonRI, causing rapid degranulation and mediators such as histamine and leukotrienes.",
+  "source": "Generated from 2. Immunology.pdf - Hypersensitivity Reactions: Type I immediate hypersensitivity"
+},
+{
+  "id": "immuno-158",
+  "subject": "Immunology",
+  "major_topic": "Hypersensitivity Reactions",
+  "subtopic": "Type I immediate hypersensitivity",
+  "difficulty": "medium",
+  "vignette": "A 31-year-old woman has contact urticaria 15 minutes after wearing latex gloves at work. Her serum shows strongly elevated latex-specific IgE, yet a separate test using an identical concentration of the same latex antigen applied directly to her plasma shows no reaction. The immunology laboratory notes that the antigen is a small soluble hapten-carrier conjugate that is monovalent in the test tube.",
+  "question": "Why is a monovalent soluble antigen unable to elicit a type I reaction in a test tube?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Monovalent antigens bind only one IgE molecule, and allergen must cross-link at least two adjacent IgE molecules on mast cells to trigger degranulation"
+    },
+    {
+      "id": "B",
+      "text": "Monovalent antigens cannot be processed and presented by dendritic cells, so no Th2 help is generated"
+    },
+    {
+      "id": "C",
+      "text": "IgE is unable to bind antigens smaller than 100 kDa because of the shape of the Fc region"
+    },
+    {
+      "id": "D",
+      "text": "Soluble antigens are cleared by the reticular endothelial system before reaching any mast cell"
+    },
+    {
+      "id": "E",
+      "text": "Monovalent antigens preferentially bind to FcepsilonRII (CD23) on basophils and deliver an inhibitory signal"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Mast cell activation in type I hypersensitivity requires multivalent antigen that physically cross-links (aggregates) at least two adjacent IgE molecules on the surface of the mast cell. This FcepsilonRI clustering is essential for signaling through the cytoplasmic immunoreceptor tyrosine-based activation motifs and for subsequent calcium-dependent granule exocytosis. This is also the reason monovalent Fab fragments or mildly digested allergens retained in older skin test preparations can fail to produce wheal-and-flare reactions, and why small haptens must bind carriers to become multivalent.",
+  "explanation_incorrect": {
+    "B": "Antigen processing by dendritic cells explains sensitization but not the absence of degranulation in a sensitized plasma sample, which lacks cells.",
+    "C": "IgE binds epitopes of any size; it is antigen valency, not molecular weight, that determines the ability to cross-link receptors.",
+    "D": "Rapid clearance does not explain the absence of any mast cell activation, and the test is performed in cell-free plasma.",
+    "E": "CD23 binding delivers the antigen to the processing pathway and does not cause an inhibitory signal that blocks degranulation."
+  },
+  "educationalObjective": "Allergen must be multivalent and cross-link at least two IgE molecules on a mast cell to trigger type I degranulation.",
+  "source": "Generated from 2. Immunology.pdf - Hypersensitivity Reactions: Type I immediate hypersensitivity"
+},
+{
+  "id": "immuno-159",
+  "subject": "Immunology",
+  "major_topic": "Hypersensitivity Reactions",
+  "subtopic": "Type I immediate hypersensitivity",
+  "difficulty": "medium",
+  "vignette": "A 14-year-old boy with eczema and a family history of atopy has been treated with subcutaneous allergen immunotherapy for severe allergic asthma for 8 months. After a maintenance injection he calls his allergist and reports nasal itching and mild hives 20 minutes later, which resolve after oral diphenhydramine. He asks how the injections are supposed to help him eventually.",
+  "question": "Which immunologic shift best explains the benefit of continued allergen immunotherapy?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Depletion of all mast cells from respiratory mucosa"
+    },
+    {
+      "id": "B",
+      "text": "A switch toward allergen-specific IgG4 and allergen-specific regulatory T cells with suppressed Th2 responses"
+    },
+    {
+      "id": "C",
+      "text": "Permanent production of IgE against a non-cross-reactive epitope that blocks the native allergen"
+    },
+    {
+      "id": "D",
+      "text": "Increased numbers of FcepsilonRI receptors per mast cell to buffer released histamine"
+    },
+    {
+      "id": "E",
+      "text": "Conversion of mast cell granules from histamine to an inert stored protein"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Allergen-specific immunotherapy works by repeatedly presenting the allergen in a controlled manner, which favors induction of allergen-specific regulatory T cells producing IL-10 and TGF-beta and a class switch from IgE toward allergen-specific IgG4, a blocking antibody that competes with IgE for allergen without activating mast cells. Over months this decreases Fc epsilon receptor expression and reduces effector cell reactivity, lowering symptoms and the risk of future systemic reactions. The mild hives after an injection in this vignette reflect residual effector cell sensitivity, which is why patients are observed after dosing.",
+  "explanation_incorrect": {
+    "A": "Immunotherapy does not deplete mast cells; these cells remain and can still be activated by other triggers.",
+    "C": "Immunotherapy does not create a new immunodominant IgE epitope; benefit comes from redirected antibody classes and regulation.",
+    "D": "Upregulation of FcepsilonRI would increase, not decrease, sensitivity, and immunotherapy generally lowers receptor expression.",
+    "E": "Granule contents of mast cells are not transformed by immunotherapy; the therapy works by redirecting the adaptive response."
+  },
+  "educationalObjective": "Allergen immunotherapy desensitizes patients by inducing allergen-specific IgG4 blocking antibodies and regulatory T cells while dampening Th2-driven IgE responses.",
+  "source": "Generated from 2. Immunology.pdf - Hypersensitivity Reactions: Type I immediate hypersensitivity"
+},
+{
+  "id": "immuno-160",
+  "subject": "Immunology",
+  "major_topic": "Hypersensitivity Reactions",
+  "subtopic": "Type I immediate hypersensitivity",
+  "difficulty": "hard",
+  "vignette": "A 19-year-old woman who has taken ocrelizumab for multiple sclerosis for a year is admitted with fever, cough, and a productive sputum growing Streptococcus pneumoniae. Two weeks later, while still on the medication, she develops sinus congestion, rhinorrhea, and sneezing every spring, which is unexpectedly milder than in previous years. Review of her medications also shows she takes a daily cetirizine during allergy season.",
+  "question": "In this patient, what is the most likely explanation for the persistent but milder seasonal rhinitis despite anti-CD20 therapy?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Anti-CD20 therapy depletes all immunoglobulin-producing cells, so her allergy is caused by a new T-cell-mediated mechanism"
+    },
+    {
+      "id": "B",
+      "text": "Histamine released from mast cells primed by IgG4 rather than IgE now dominates her symptoms"
+    },
+    {
+      "id": "C",
+      "text": "Long-lived plasma cells that make IgE survive anti-CD20 depletion, and residual mast cell activation via FcepsilonRI still occurs"
+    },
+    {
+      "id": "D",
+      "text": "Ocrelizumab directly degranulates mast cells, producing a therapy-induced pseudoallergy"
+    },
+    {
+      "id": "E",
+      "text": "Her allergic symptoms are now mediated by complement activation on nasal epithelial cells"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Anti-CD20 antibodies target CD20 on B cells but spare long-lived antibody-secreting plasma cells, which are CD20-negative. Thus pre-existing IgE production can continue for years, and tissue mast cells already coated with IgE remain responsive to allergen. This explains residual allergic symptoms after B-cell depletion, while the reduced numbers of memory B and new antibody responses explain the milder course and the increased infection risk. Antihistamines such as cetirizine block H1 receptors and reduce symptoms further.",
+  "explanation_incorrect": {
+    "A": "Anti-CD20 does not eliminate plasma cells or all antibody production, and seasonal allergy is not reclassified as a T-cell mechanism.",
+    "B": "IgG4 is a blocking antibody class in immunotherapy and does not prime mast cells for histamine release.",
+    "D": "Ocrelizumab binds CD20 on B cells and does not induce non-immunologic mast cell degranulation.",
+    "E": "Type II-like complement activation on nasal epithelium describes a different mechanism and is not responsible for seasonal rhinitis."
+  },
+  "educationalObjective": "Long-lived IgE-secreting plasma cells are CD20-negative, so anti-CD20 therapy reduces new IgE production but does not immediately eliminate established type I allergy.",
+  "source": "Generated from 2. Immunology.pdf - Hypersensitivity Reactions: Type I immediate hypersensitivity"
+}
+]

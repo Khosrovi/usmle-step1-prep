@@ -1,0 +1,166 @@
+[
+{
+  "id": "immuno-279",
+  "subject": "Immunology",
+  "major_topic": "T Cell Activation and Cytokines",
+  "subtopic": "TNF and chemokines",
+  "difficulty": "medium",
+  "vignette": "A 45-year-old woman with a 5-year history of rheumatoid arthritis and methotrexate failure is started on a chimeric monoclonal antibody directed against a cytokine. Screening chest radiograph is read as normal. Six weeks later she develops fever, night sweats, and productive cough, and sputum is positive for acid-fast bacilli with a cavity in the right upper lobe.",
+  "question": "The cytokine targeted by her therapy is normally required for which of the following protective responses?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Generation of the oxidative burst in macrophages and maintenance of granuloma integrity"
+    },
+    {
+      "id": "B",
+      "text": "Class switching of B cells to IgA in mucosal tissue"
+    },
+    {
+      "id": "C",
+      "text": "Negative selection of autoreactive T cells in the thymus"
+    },
+    {
+      "id": "D",
+      "text": "Production of eosinophil-specific chemokines in allergic inflammation"
+    },
+    {
+      "id": "E",
+      "text": "Somatic hypermutation in germinal centers"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "This patient received infliximab, which binds tumor necrosis factor alpha, a cytokine produced by activated macrophages and T cells. TNF alpha signals through TNFR1 and TNFR2 to recruit and activate macrophages, induce expression of adhesion molecules and NF-kappa-B-dependent proinflammatory genes, and is essential for organizing and maintaining granulomas that contain mycobacteria. Latent tuberculosis appears as a well-defined cavity or apical scar, and screening is mandatory before anti-TNF therapy; treatment of latent infection is required. Blocking TNF also explains the reactivation of hepatitis B and increased risk of fungal and mycobacterial infection; the same rationale underpins the paradoxical worsening of demyelinating disease in patients receiving anti-TNF agents.",
+  "explanation_incorrect": {
+    "B": "IgA class switching in mucosa depends on TGF-beta and B cell help in gut-associated lymphoid tissue, not on TNF alpha.",
+    "C": "Negative selection of autoreactive T cells occurs in the thymic medulla via AIRE-dependent presentation of self-antigens and is not TNF-dependent.",
+    "D": "Eosinophil recruitment is driven by eotaxin (CCL11) and IL-5, not TNF alpha, and is not the mechanism of mycobacterial containment.",
+    "E": "Somatic hypermutation requires activation-induced cytidine deaminase in germinal centers and is not the primary TNF-dependent defense against tuberculosis."
+  },
+  "educationalObjective": "TNF alpha maintains granulomas and activates macrophages, so anti-TNF therapy risks reactivation of latent tuberculosis and requires screening before treatment.",
+  "source": "Generated from 2. Immunology.pdf - T Cell Activation and Cytokines: TNF and chemokines"
+},
+{
+  "id": "immuno-280",
+  "subject": "Immunology",
+  "major_topic": "T Cell Activation and Cytokines",
+  "subtopic": "TNF and chemokines",
+  "difficulty": "easy",
+  "vignette": "A 19-year-old woman with severe Crohn disease is treated with a monoclonal antibody against the alpha-4 subunit of integrin to prevent lymphocyte trafficking into bowel tissue. Before this, she is told about a similar concept used in multiple sclerosis. She develops a headache and confusion, and brain MRI shows white matter lesions, so the drug is stopped.",
+  "question": "This anti-integrin therapy works by preventing which of the following?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Binding of CXCL8 to CXCR1 and CXCR2"
+    },
+    {
+      "id": "B",
+      "text": "The integrin-dependent firm adhesion and transmigration of lymphocytes at sites of chemokine-directed traffic"
+    },
+    {
+      "id": "C",
+      "text": "Secretion of granulocyte colony-stimulating factor by endothelial cells"
+    },
+    {
+      "id": "D",
+      "text": "Opsonization of bacteria by the lectin pathway of complement"
+    },
+    {
+      "id": "E",
+      "text": "Expression of MHC class I on enterocytes"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Chemokines such as CXCL8 (IL-8) and CCL11 (eotaxin) bind heptahelical G protein-coupled receptors on leukocytes and activate selectin-mediated rolling and integrin-dependent firm adhesion, enabling transmigration through endothelium. Natalizumab and vedolizumab block the alpha-4 integrin subunit (alpha-4 beta-1/VLA-4, and alpha-4 beta-7 for gut homing), which pairs with VCAM-1 or MAdCAM-1 to allow lymphocytes to adhere and enter tissue; blocking it reduces lymphocyte trafficking into the central nervous system and gut. The risk of progressive multifocal leukoencephalopathy from JC virus reactivation caused natalizumab's restricted use in multiple sclerosis, and it has also been used in refractory Crohn disease. The headache and white matter lesions here suggest the same complication.",
+  "explanation_incorrect": {
+    "A": "Anti-alpha-4 antibodies do not block CXCL8 binding to its receptors; they block the integrin step that follows chemokine-induced activation.",
+    "C": "G-CSF is produced mainly by macrophages, endothelial cells, and fibroblasts in sepsis and inflammation and is not the target of anti-integrin therapy.",
+    "D": "The lectin complement pathway is initiated by mannose-binding lectin binding microbial surfaces; integrins are involved in cell adhesion, not complement opsonization.",
+    "E": "MHC class I expression is upregulated by interferons and is not altered by blocking integrin alpha-4."
+  },
+  "educationalObjective": "Chemokines direct leukocyte trafficking, and integrins such as VLA-4 and alpha-4 beta-7 mediate the firm adhesion step that anti-integrin therapies block.",
+  "source": "Generated from 2. Immunology.pdf - T Cell Activation and Cytokines: TNF and chemokines"
+},
+{
+  "id": "immuno-281",
+  "subject": "Immunology",
+  "major_topic": "T Cell Activation and Cytokines",
+  "subtopic": "TNF and chemokines",
+  "difficulty": "medium",
+  "vignette": "A 4-year-old girl has recurrent gingivitis, severe periodontitis with early loss of deciduous teeth, and persistent skin ulcers. Flow cytometry shows normal CD4+ and CD8+ T cell numbers and normal immunoglobulin levels, but neutrophils fail to migrate toward a chemokine gradient. Genetic testing reveals a defect in the receptor for CXCL8, a CXC chemokine produced by macrophages and endothelial cells.",
+  "question": "The chemokine receptor defective in this patient belongs to which class of molecules?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Seven-transmembrane, G protein-coupled receptors that activate integrins"
+    },
+    {
+      "id": "B",
+      "text": "Toll-like receptors that activate MyD88"
+    },
+    {
+      "id": "C",
+      "text": "Immunoglobulin superfamily molecules that bind complement C3b"
+    },
+    {
+      "id": "D",
+      "text": "Nuclear receptors that regulate gene transcription"
+    },
+    {
+      "id": "E",
+      "text": "Tyrosine kinase receptors that homodimerize after ligand binding"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Chemokine receptors such as CXCR1 and CXCR2 are seven-transmembrane, rhodopsin-like G protein-coupled receptors linked to G-alpha-i. On neutrophils, CXCL8 binding triggers phosphatidylinositol 3-kinase activation, actin polymerization, and inside-out activation of beta-2 integrins (LFA-1), enabling directed migration and adhesion to endothelium. Loss of this signaling produces a leukocyte adhesion deficiency-like phenotype with recurrent gingivitis, periodontitis, and defective pus formation, often with normal neutrophil counts and 'cold' indolent infections. CXCL8, also called neutrophil-activating protein and IL-8, is a classic CXC chemokine that attracts neutrophils, whereas CCL11 (eotaxin) attracts eosinophils.",
+  "explanation_incorrect": {
+    "B": "Toll-like receptors are pattern-recognition receptors, not the receptors that detect chemokine gradients for cell migration.",
+    "C": "Complement receptors for C3b are immunoglobulin-like and mediate phagocytosis and immune adherence, not chemotaxis gradients.",
+    "D": "Nuclear receptors are intracellular transcription factors and would not mediate rapid directional cell migration.",
+    "E": "Growth factor receptors with intrinsic tyrosine kinase activity respond to growth factors, not to chemokines, which use G protein-coupled receptors."
+  },
+  "educationalObjective": "Chemokine receptors are seven-transmembrane G protein-coupled receptors that direct leukocyte chemotaxis and activate integrins; CXCL8 attracts neutrophils via CXCR1/CXCR2.",
+  "source": "Generated from 2. Immunology.pdf - T Cell Activation and Cytokines: TNF and chemokines"
+},
+{
+  "id": "immuno-282",
+  "subject": "Immunology",
+  "major_topic": "T Cell Activation and Cytokines",
+  "subtopic": "TNF and chemokines",
+  "difficulty": "hard",
+  "vignette": "A 3-year-old boy is admitted with a swinging fever up to 40 C for 4 weeks, a new rheumatoid-factor-negative asymmetric arthritis, and a faint evanescent salmon-pink rash that appears with fever. His ESR is 78 mm/h and ferritin is very high. He is diagnosed with systemic juvenile idiopathic arthritis and started on an IL-1 receptor antagonist. Instead, another patient in this scenario series would develop a syndrome triggered by a genetic defect in a regulator of TNF signaling.",
+  "question": "Which of the following describes a periodic fever syndrome caused by defective inhibition of TNF signaling?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Familial Mediterranean fever from pyrin (MEFV) defect"
+    },
+    {
+      "id": "B",
+      "text": "Familial chylomicronemia syndrome from lipoprotein lipase deficiency"
+    },
+    {
+      "id": "C",
+      "text": "Muckle-Wells syndrome from NLRP3 mutation"
+    },
+    {
+      "id": "D",
+      "text": "TRAPS (TNF receptor-associated periodic syndrome) from mutations in TNFRSF1A"
+    },
+    {
+      "id": "E",
+      "text": "Hyper-IgD syndrome from mevalonate kinase deficiency"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "TRAPS is caused by mutations in TNFRSF1A encoding TNF receptor 1 (p55). These mutations impair cleavage of the receptor from the cell surface (receptor shedding) or cause misfolding and intracellular accumulation, so TNF receptor signaling and NF-kappa-B-driven inflammation are not properly terminated, producing prolonged fevers lasting days to weeks with serositis, migrating myalgias, and rash. It differs from the cryopyrin-associated syndromes (NLRP3 mutations, including Muckle-Wells), the pyrin defect of familial Mediterranean fever, and mevalonate kinase deficiency, which respond to different targeted agents. The key teaching point is that many periodic fever syndromes share IL-1-driven inflammation, but TRAPS specifically involves dysregulated TNF receptor biology.",
+  "explanation_incorrect": {
+    "A": "Familial Mediterranean fever is caused by gain-of-function pyrin (MEFV) mutations leading to inflammasome activation and IL-1 release, not by TNF signaling dysregulation.",
+    "B": "Familial chylomicronemia syndrome is a lipid disorder caused by lipoprotein lipase deficiency and is unrelated to periodic fever episodes.",
+    "C": "Muckle-Wells syndrome is a cryopyrin-associated periodic syndrome from NLRP3 mutations causing IL-1-driven inflammasome activation, not a TNF receptor defect.",
+    "E": "Hyper-IgD syndrome from mevalonate kinase deficiency produces periodic fever with lymphadenopathy and elevated IgD, and does not involve TNF receptor mutations."
+  },
+  "educationalObjective": "TRAPS results from TNFRSF1A mutations that impair TNF receptor shedding and clearance, causing sustained TNF-driven periodic fever.",
+  "source": "Generated from 2. Immunology.pdf - T Cell Activation and Cytokines: TNF and chemokines"
+}
+]

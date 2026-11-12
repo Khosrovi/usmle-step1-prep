@@ -1,0 +1,125 @@
+[
+{
+  "id": "immuno-046",
+  "subject": "Immunology",
+  "major_topic": "Autoimmune Diseases",
+  "subtopic": "Graves disease and Hashimoto thyroiditis",
+  "difficulty": "easy",
+  "vignette": "A 32-year-old woman presents with 4 months of palpitations, heat intolerance, weight loss despite a good appetite, and anxiety. Examination shows a diffusely enlarged, nontender goiter, a fine tremor, and brisk deep tendon reflexes. There is no ophthalmopathy. Labs: TSH undetectable, free T4 elevated, and a high titer of thyroid-stimulating immunoglobulin. Radioactive iodine uptake scan shows diffusely increased uptake.",
+  "question": "Which of the following best explains why her TSH is suppressed while thyroid hormone levels are high?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Antibodies destroy follicular cells, releasing preformed hormone"
+    },
+    {
+      "id": "B",
+      "text": "Autoantibodies stimulate the TSH receptor constitutively, driving thyroid hormone synthesis independent of pituitary TSH"
+    },
+    {
+      "id": "C",
+      "text": "A pituitary adenoma secretes excess TSH"
+    },
+    {
+      "id": "D",
+      "text": "The thyroid gland has become autonomous due to a somatic activating mutation of the TSH receptor"
+    },
+    {
+      "id": "E",
+      "text": "Iodine deficiency causes increased thyroid sensitivity to TSH"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Graves disease is caused by TSH receptor stimulating antibodies (TSI), an IgG that mimics TSH and drives unregulated iodide uptake and hormone synthesis. The thyroid becomes hyperfunctioning independently of the pituitary, so thyroid hormone feedback suppresses pituitary TSH. The diffuse, uniform radioactive iodine uptake distinguishes Graves from toxic nodular disease. Treatment options include beta-blockers for symptoms, thionamides such as methimazole, radioiodine ablation, or surgery.",
+  "explanation_incorrect": {
+    "A": "Antibody-mediated follicular destruction describes Hashimoto thyroiditis, which causes hypothyroidism with high TSH and a low radioactive iodine uptake.",
+    "C": "A TSH-secreting pituitary adenoma gives high or inappropriately normal TSH, not an undetectable TSH, and is very rare.",
+    "D": "Autonomous nodular function from somatic mutations produces patchy or focal uptake on scintigraphy, not the diffuse uptake seen here with TSI positivity.",
+    "E": "Iodine deficiency lowers hormone output and raises TSH; it does not produce a suppressed TSH with elevated free T4."
+  },
+  "educationalObjective": "Graves disease results from TSH receptor-stimulating antibodies that cause hyperthyroidism with suppressed TSH and diffuse radioiodine uptake.",
+  "source": "Generated from 2. Immunology.pdf - Autoimmune Diseases: Graves disease and Hashimoto thyroiditis"
+},
+{
+  "id": "immuno-047",
+  "subject": "Immunology",
+  "major_topic": "Autoimmune Diseases",
+  "subtopic": "Graves disease and Hashimoto thyroiditis",
+  "difficulty": "medium",
+  "vignette": "A 45-year-old woman with Hashimoto thyroiditis treated with levothyroxine reports 2 months of fatigue, heat intolerance, and palpitations despite no change in dose. Examination reveals a mildly enlarged, firm, nontender thyroid and a resting tachycardia of 118/min. Labs: TSH 0.02 uIU/mL, free T4 3.1 ng/dL, and high titers of anti-thyroglobulin and anti-thyroid peroxidase antibodies. She has no eye findings and no cervical lymphadenopathy.",
+  "question": "Which of the following is the most likely cause of this acute decompensation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Development of a differentiated thyroid carcinoma"
+    },
+    {
+      "id": "B",
+      "text": "Exogenous levothyroxine overtreatment after a recent dose increase"
+    },
+    {
+      "id": "C",
+      "text": "Subacute granulomatous (De Quervain) thyroiditis"
+    },
+    {
+      "id": "D",
+      "text": "Release of preformed hormone from inflamed thyroid tissue during a transient Hashitoxicosis phase"
+    },
+    {
+      "id": "E",
+      "text": "Pituitary resistance to thyroid hormone"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Hashimoto thyroiditis can pass through a transient thyrotoxic phase (Hashitoxicosis) when lymphocytic inflammation destroys follicles and releases stored hormone into the circulation. Unlike Graves disease, the uptake is low because synthesis is not increased and the gland is being destroyed, and TSI is negative. Symptoms are managed with beta-blockers, and the episode usually resolves as the patient progresses to permanent hypothyroidism. Anti-TPO and anti-thyroglobulin antibodies are the serologic hallmark of Hashimoto thyroiditis.",
+  "explanation_incorrect": {
+    "A": "Thyroid carcinoma typically presents as a solitary palpable nodule and does not cause thyrotoxicosis unless a large tumor is replacing the gland.",
+    "B": "She reports no dose change, and a stable long-standing replacement dose would not abruptly cause this degree of TSH suppression and free T4 elevation in a compliant patient.",
+    "C": "Subacute thyroiditis usually follows a viral illness and produces a markedly painful, tender thyroid with fever, which is absent here.",
+    "E": "Pituitary resistance to thyroid hormone gives high T4 with high or normal TSH, not a suppressed TSH."
+  },
+  "educationalObjective": "Hashimoto thyroiditis can produce a transient thyrotoxic phase from release of stored hormone (Hashitoxicosis) before evolving into permanent hypothyroidism.",
+  "source": "Generated from 2. Immunology.pdf - Autoimmune Diseases: Graves disease and Hashimoto thyroiditis"
+},
+{
+  "id": "immuno-048",
+  "subject": "Immunology",
+  "major_topic": "Autoimmune Diseases",
+  "subtopic": "Graves disease and Hashimoto thyroiditis",
+  "difficulty": "hard",
+  "vignette": "A 28-year-old woman with untreated Graves disease presents at 12 weeks of gestation with severe nausea, palpitations, and a heart rate of 130/min. Labs: undetectable TSH, markedly elevated free T4, and positive TSI. She is started on propylthiouracil. At delivery, the neonate is noted to have tachycardia, irritability, poor weight gain, and an enlarged thyroid gland, with elevated free T4 and suppressed TSH in cord blood.",
+  "question": "Which of the following best explains the neonatal findings?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Transplacental transfer of maternal TSH receptor-stimulating IgG into the fetal circulation"
+    },
+    {
+      "id": "B",
+      "text": "Transfer of maternal propylthiouracil causing neonatal hyperthyroidism"
+    },
+    {
+      "id": "C",
+      "text": "An activating mutation of the TSH receptor inherited from the father"
+    },
+    {
+      "id": "D",
+      "text": "Maternal hypothyroidism stimulating fetal thyroid hyperplasia"
+    },
+    {
+      "id": "E",
+      "text": "Autoimmune destruction of the fetal thyroid due to maternofetal chimerism"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "TSH receptor-stimulating antibodies are IgG, which crosses the placenta by active FcRn-mediated transport, mostly in the third trimester. The neonate therefore develops transient Graves disease with thyrotoxicosis, goiter, and irritability that resolves as maternal antibody is cleared over weeks to months. This is why thyroid status must be controlled before delivery and why neonates of mothers with high TSI titers are monitored. Antithyroid drugs also cross the placenta and can instead cause fetal goiter with hypothyroidism if overused.",
+  "explanation_incorrect": {
+    "B": "Propylthiouracil crosses the placenta and inhibits fetal thyroid hormone synthesis, so it would cause hypothyroidism and goiter, not thyrotoxicosis.",
+    "C": "A familial activating TSH receptor mutation would present with hyperthyroidism in other family members and would not be transient after birth.",
+    "D": "Maternal hypothyroidism would suppress fetal thyroid axis activity and would not produce high free T4 in the newborn.",
+    "E": "Maternofetal chimerism does not cause neonatal autoimmune thyroid destruction with hyperthyroidism; transfer of maternal IgG is the mechanism."
+  },
+  "educationalObjective": "Maternal TSH receptor-stimulating IgG crosses the placenta and causes transient neonatal Graves disease.",
+  "source": "Generated from 2. Immunology.pdf - Autoimmune Diseases: Graves disease and Hashimoto thyroiditis"
+}
+]

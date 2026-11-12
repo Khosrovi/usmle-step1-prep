@@ -1,0 +1,166 @@
+[
+{
+  "id": "immuno-131",
+  "subject": "Immunology",
+  "major_topic": "Complement System",
+  "subtopic": "Classical pathway",
+  "difficulty": "easy",
+  "vignette": "A 9-year-old boy is seen 10 days after a sore throat with a new facial eruption, puffy eyelids, and dark brown urine. Blood pressure is 138/90 mmHg. Urinalysis shows red cell casts and 2+ protein. Labs show low C3 and normal C4. The pediatrician explains that his immune response against streptococcal antigens has generated circulating immune complexes that activate the classical complement pathway.",
+  "question": "Which molecular event most directly initiates the classical pathway in this condition?",
+  "options": [
+    {
+      "id": "A",
+      "text": "C1q binding the Fc region of IgM or clustered IgG in the immune complexes"
+    },
+    {
+      "id": "B",
+      "text": "Spontaneous hydrolysis of C3 generating a fluid-phase convertase"
+    },
+    {
+      "id": "C",
+      "text": "MBL binding to mannose on the streptococcal capsule"
+    },
+    {
+      "id": "D",
+      "text": "Properdin binding to the bacterial surface and stabilizing C3bBb"
+    },
+    {
+      "id": "E",
+      "text": "Direct proteolytic cleavage of C4 by bacterial proteases"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "The classical pathway is initiated when C1q binds the Fc portion of immunoglobulin that is already bound to antigen; a single pentameric IgM molecule suffices, whereas at least two closely spaced IgG molecules (typically IgG1 or IgG3) are needed. This induces a conformational change and autocatalytic activation of the C1r and C1s serine proteases within the C1 complex (C1q, C1r2, C1s2). C1s then cleaves C4 into C4a and C4b and C2 into C2a and C2b, assembling the C3 convertase C4b2a. In post-streptococcal glomerulonephritis, circulating immune complexes activate this pathway, driving neutrophil influx and glomerular injury.",
+  "explanation_incorrect": {
+    "B": "Spontaneous C3 hydrolysis creates the initial alternative pathway convertase and is not how immune complexes activate complement.",
+    "C": "MBL-mediated activation defines the lectin pathway and does not depend on immune complex formation.",
+    "D": "Properdin stabilization of C3bBb belongs to the alternative pathway and requires prior C3b deposition.",
+    "E": "Direct bacterial protease degradation of C4 is not the mechanism of classical pathway activation in immune complex disease."
+  },
+  "educationalObjective": "The classical pathway begins when C1q engages Fc regions of IgM or clustered IgG within immune complexes, activating C1r and C1s to cleave C4 and C2.",
+  "source": "Generated from 2. Immunology.pdf - Complement System: Classical pathway"
+},
+{
+  "id": "immuno-132",
+  "subject": "Immunology",
+  "major_topic": "Complement System",
+  "subtopic": "Classical pathway",
+  "difficulty": "medium",
+  "vignette": "A 67-year-old man with chronic hepatitis B infection and cirrhosis is hospitalized with fever, chills, and hypotension. He has had multiple infected ascites episodes. Labs show a low C4 with a normal C3. The immunologist explains that his liver disease limits synthesis of several complement proteins and that C4 is particularly informative because it is made almost exclusively in the liver and is consumed early in the classical pathway.",
+  "question": "Acquired or congenital deficiency of which classical pathway component characteristically produces a very low C4 with a relatively preserved C3?",
+  "options": [
+    {
+      "id": "A",
+      "text": "C1 inhibitor deficiency"
+    },
+    {
+      "id": "B",
+      "text": "C4 deficiency, due to failure of convertase assembly upstream of C3"
+    },
+    {
+      "id": "C",
+      "text": "Factor D deficiency"
+    },
+    {
+      "id": "D",
+      "text": "C9 deficiency"
+    },
+    {
+      "id": "E",
+      "text": "C5 deficiency"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "C4 and C2 are the essential substrates of the classical and lectin pathway C3 convertase (C4b2a). When C4 is deficient, the classical and lectin pathways cannot generate C4b2a, so C3 cleavage is impaired despite normal hepatic synthesis of C3; a low C4 with near-normal C3 therefore localizes the defect to the classical and lectin arm. Congenital C4 deficiency is associated with immune complex disease and with infections by encapsulated organisms. Because C4 is a liver-synthesized acute phase protein, advanced liver disease can also lower it. Clinicians track both C3 and C4 to distinguish classical from alternative pathway consumption.",
+  "explanation_incorrect": {
+    "A": "C1 inhibitor deficiency also lowers C4 by leaving C1s uninhibited, but it is a regulatory defect that presents as angioedema rather than as an isolated substrate deficiency.",
+    "C": "Factor D deficiency impairs the alternative pathway, in which C4 is not consumed, so it would not produce an isolated low C4.",
+    "D": "C9 deficiency affects terminal MAC formation while C4 levels remain normal because upstream activation is intact.",
+    "E": "C5 deficiency impairs MAC assembly but does not consume or reduce C4, which acts upstream of C5."
+  },
+  "educationalObjective": "C4 deficiency stalls classical and lectin convertase assembly, producing low C4 with relatively preserved C3 and predisposing to immune complex disease and infection.",
+  "source": "Generated from 2. Immunology.pdf - Complement System: Classical pathway"
+},
+{
+  "id": "immuno-133",
+  "subject": "Immunology",
+  "major_topic": "Complement System",
+  "subtopic": "Classical pathway",
+  "difficulty": "medium",
+  "vignette": "A 34-year-old woman with systemic lupus erythematosus is seen for follow-up. She has arthralgias and a malar rash. Labs show C3 of 55 mg/dL (normal 90-180), C4 of 6 mg/dL (normal 10-40), positive anti-dsDNA, and anti-Smith antibodies. The rheumatologist explains that serial complement levels help monitor disease activity because immune complexes continuously consume complement, and she asks the student to predict the full complement pattern.",
+  "question": "In this patient with active immune complex disease, which pattern of complement results is most characteristic?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Elevated C3 and C4 with normal CH50"
+    },
+    {
+      "id": "B",
+      "text": "Low C3 with normal C4 due to isolated alternative pathway activation"
+    },
+    {
+      "id": "C",
+      "text": "Normal C3 and C4 with elevated C9"
+    },
+    {
+      "id": "D",
+      "text": "Low C1q only with normal C3 and C4"
+    },
+    {
+      "id": "E",
+      "text": "Low C3 and low C4 with reduced CH50"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "In systemic lupus erythematosus, autoantigen-autoantibody immune complexes activate the classical pathway, which consumes C4 early and C3 downstream. Because C4 acts upstream of C3 in the classical convertase, the combination of low C3 plus low C4 is the characteristic signature of active classical pathway consumption, and it correlates with renal flare in lupus nephritis. CH50, which measures the capacity of the classical pathway to lyse sensitized red cells, is also reduced. Serial C3 and C4 measurements complement anti-dsDNA titers in following disease activity, although single values can be misleading.",
+  "explanation_incorrect": {
+    "A": "Elevated C3 and C4 suggest an acute phase response with increased synthesis rather than active complement consumption.",
+    "B": "Low C3 with a normal C4 suggests alternative pathway activation, as in C3 glomerulopathy, rather than classical pathway consumption.",
+    "C": "Normal classical pathway components with an elevated C9 would not indicate consumption and is not the pattern of active immune complex disease.",
+    "D": "Low C1q with normal C3 and C4 does not describe the usual pattern, because downstream C3 and C4 are also consumed."
+  },
+  "educationalObjective": "Active lupus immune complex disease consumes classical pathway components, so low C3 and low C4 with a reduced CH50 is the hallmark pattern.",
+  "source": "Generated from 2. Immunology.pdf - Complement System: Classical pathway"
+},
+{
+  "id": "immuno-134",
+  "subject": "Immunology",
+  "major_topic": "Complement System",
+  "subtopic": "Classical pathway",
+  "difficulty": "hard",
+  "vignette": "A 42-year-old man with recurrent sinopulmonary infections is found to have an absent C2 level. Immunoglobulins are normal. He reports several episodes of severe pneumonia with encapsulated organisms. Review of his complement studies shows normal C1 and C3 but a low C4, and his brother has a similar history.",
+  "question": "Which of the following best explains the consequence of hereditary C2 deficiency in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Inability to form the classical pathway C3 convertase, impairing clearance of immune complexes and opsonization"
+    },
+    {
+      "id": "B",
+      "text": "Increased C5 convertase activity causing excessive MAC formation and hemolysis"
+    },
+    {
+      "id": "C",
+      "text": "Failure of the alternative pathway to amplify because factor D is not activated"
+    },
+    {
+      "id": "D",
+      "text": "Inability of C1q to bind antibody Fc regions"
+    },
+    {
+      "id": "E",
+      "text": "Loss of liver synthesis of C1 inhibitor leading to angioedema"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "C2 deficiency is the most common hereditary complement deficiency in people of European ancestry, and it predisposes both to infections by encapsulated organisms and to SLE-like autoimmune disease. C2a is the catalytic subunit of the classical convertase (C4b2a); without it, the classical and lectin pathways cannot cleave C3 or C5 efficiently. As a result, immune complex solubilization and complement-dependent opsonization are impaired, allowing complexes to persist and deposit in tissues and favoring autoimmunity. Alternative pathway function and antibody responses are largely preserved, but defense against encapsulated bacteria suffers.",
+  "explanation_incorrect": {
+    "B": "C2 deficiency decreases rather than increases C5 convertase assembly, so excessive MAC formation is not expected.",
+    "C": "Factor D activity is independent of C2, and the alternative pathway can still amplify in C2 deficiency.",
+    "D": "C1q binding to Fc is unaffected by C2 deficiency, which acts downstream of C1r and C1s activation.",
+    "E": "C1 inhibitor levels are normal in C2 deficiency, and angioedema is not a feature of this disorder."
+  },
+  "educationalObjective": "Hereditary C2 deficiency is the most common complement deficiency, impairing classical convertase assembly and predisposing to encapsulated bacterial infections and SLE-like disease.",
+  "source": "Generated from 2. Immunology.pdf - Complement System: Classical pathway"
+}
+]

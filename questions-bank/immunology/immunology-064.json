@@ -1,0 +1,166 @@
+[
+{
+  "id": "immuno-212",
+  "subject": "Immunology",
+  "major_topic": "Immunosuppressants",
+  "subtopic": "Biologics (rituximab, basiliximab, IVIG)",
+  "difficulty": "medium",
+  "vignette": "A 56-year-old woman with biopsy-confirmed diffuse large B-cell lymphoma is being treated with CHOP plus rituximab. Two weeks after her first infusion she presents with fever, productive cough, and hypoxemia. Chest CT shows diffuse bilateral ground-glass opacities progressing rapidly. Beta-D-glucan and Aspergillus galactomannan are negative, blood cultures are negative, and she has no history of cardiac disease. She had a normal CT chest at baseline staging 5 weeks ago.",
+  "question": "Which adverse effect of rituximab most likely explains this presentation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Progressive multifocal leukoencephalopathy caused by JC virus reactivation"
+    },
+    {
+      "id": "B",
+      "text": "Progressive multifocal leukoencephalopathy-related demyelination in the lungs"
+    },
+    {
+      "id": "C",
+      "text": "Interstitial pneumonitis/fibrosis as a direct late pulmonary toxicity of the anti-CD20 antibody"
+    },
+    {
+      "id": "D",
+      "text": "Acute infusion-related cytokine release with pulmonary edema occurring during or shortly after the infusion"
+    },
+    {
+      "id": "E",
+      "text": "Reactivation of latent tuberculosis with miliary pulmonary spread"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Rituximab is a chimeric monoclonal antibody against CD20 on mature B cells; its binding triggers complement activation and ADCC. A well-recognized acute adverse effect, particularly with the first infusion in patients with bulky lymphoma and high tumor burden, is a cytokine release syndrome manifesting as fever, chills, hypotension, bronchospasm, and pulmonary edema or rapidly progressive hypoxemia. The timing (within hours to days of infusion), diffuse bilateral opacities without an infectious isolate, and rapid onset point to this reaction. Management is to stop the infusion, support oxygenation, and restart at a slower rate with premedication; the phenomenon must be distinguished from true hypersensitivity infusion reactions.",
+  "explanation_incorrect": {
+    "A": "PML is a demyelinating brain disease from JC virus that presents with progressive focal neurologic deficits and white matter lesions on MRI, not with acute pulmonary ground-glass opacities.",
+    "B": "PML has no pulmonary manifestation; the answer choice is a deliberately implausible hybrid and does not fit a lung disease at all.",
+    "C": "Rituximab-associated lung injury is uncommon and typically presents subacutely, not with this rapid post-infusion hypoxemic pattern alongside fever and chills.",
+    "E": "There is no evidence of tuberculosis exposure or miliary pattern, and the acute post-infusion timing with negative cultures favors a cytokine-mediated reaction over TB reactivation."
+  },
+  "educationalObjective": "Rituximab can cause an acute cytokine release reaction with fever, hypotension, bronchospasm, and pulmonary edema, especially with the first dose and high tumor burden.",
+  "source": "Generated from 2. Immunology.pdf - Immunosuppressants: Biologics (rituximab, basiliximab, IVIG)"
+},
+{
+  "id": "immuno-213",
+  "subject": "Immunology",
+  "major_topic": "Immunosuppressants",
+  "subtopic": "Biologics (rituximab, basiliximab, IVIG)",
+  "difficulty": "medium",
+  "vignette": "A 40-year-old woman is scheduled for her first kidney transplant. She has a baseline panel-reactive antibody of 0% and no prior sensitizing events. The transplant team plans induction therapy and selects basiliximab as part of her regimen, with the first dose given intraoperatively and the second dose 4 days later.",
+  "question": "Which of the following is the mechanism of action of this drug?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Depletion of CD20-positive B cells via complement-mediated cytotoxicity"
+    },
+    {
+      "id": "B",
+      "text": "Binding to the alpha chain (CD25) of the high-affinity IL-2 receptor on activated T cells, blocking IL-2 signaling without depleting T cells"
+    },
+    {
+      "id": "C",
+      "text": "Depletion of CD3-positive T cells through opsonization and complement fixation"
+    },
+    {
+      "id": "D",
+      "text": "Inhibition of calcineurin phosphatase, preventing NFAT dephosphorylation and IL-2 transcription"
+    },
+    {
+      "id": "E",
+      "text": "Blockade of costimulation by binding CD80/CD86 on antigen-presenting cells, inducing tolerance by the 'two-signal model'"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Basiliximab is a chimeric monoclonal antibody directed against CD25, the alpha chain of the high-affinity IL-2 receptor that is expressed on recently activated, but not resting, T lymphocytes. By blocking IL-2 binding it prevents clonal expansion of the alloreactive T cells that drive acute rejection while sparing resting T cells, and it does not deplete lymphocytes the way anti-thymocyte globulin or alemtuzumab do. Because it targets only activated T cells, it is considered relatively non-immunosuppressive induction with a low infection risk, and it is given as two doses 4 days apart to saturate receptors during the period of greatest rejection risk. This is why basiliximab is often paired with a steroid taper and a calcineurin inhibitor in low-immunologic-risk patients.",
+  "explanation_incorrect": {
+    "A": "CD20 depletion describes rituximab, which is used for B-cell malignancies and antibody-mediated disease, not standard transplant induction.",
+    "C": "CD3 depletion is the mechanism of muromonab-CD3 and anti-thymocyte globulin, both lymphocyte-depleting strategies that carry greater risk of cytokine release and infection.",
+    "D": "Calcineurin inhibition is the mechanism of cyclosporine and tacrolimus, which block IL-2 transcription rather than the IL-2 receptor.",
+    "E": "Costimulation blockade by binding CD80/CD86 describes belatacept, the CTLA-4-Ig fusion protein, not basiliximab."
+  },
+  "educationalObjective": "Basiliximab binds CD25 (the IL-2 receptor alpha chain) on activated T cells, blocking IL-2-driven clonal expansion without lymphocyte depletion.",
+  "source": "Generated from 2. Immunology.pdf - Immunosuppressants: Biologics (rituximab, basiliximab, IVIG)"
+},
+{
+  "id": "immuno-214",
+  "subject": "Immunology",
+  "major_topic": "Immunosuppressants",
+  "subtopic": "Biologics (rituximab, basiliximab, IVIG)",
+  "difficulty": "hard",
+  "vignette": "A 62-year-old man with chronic lymphocytic leukemia has been treated with multiple courses of rituximab-containing chemoimmunotherapy. Ten months after his last treatment his serum quantitative immunoglobulins show IgG 280 mg/dL, IgA 12 mg/dL, and IgM 8 mg/dL. He has had three episodes of pneumonia in the past year requiring hospitalization. He is given monthly intravenous immunoglobulin infusions and his infection frequency drops markedly.",
+  "question": "Which statement best describes the rationale for IVIG in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "IVIG stimulates endogenous B-cell production of immunoglobulin through Fc receptor cross-linking"
+    },
+    {
+      "id": "B",
+      "text": "IVIG provides antigen-specific memory T cells that restore cell-mediated immunity"
+    },
+    {
+      "id": "C",
+      "text": "IVIG consists of pooled polyclonal donor IgG that replaces the antibody destroyed by CD20 depletion and provides passive humoral immunity"
+    },
+    {
+      "id": "D",
+      "text": "IVIG contains anti-CD20 antibodies that continue the leukemic cell depletion started by rituximab"
+    },
+    {
+      "id": "E",
+      "text": "IVIG contains high-titer anti-Pneumococcal antisera specifically selected from immunized donors for each patient's serotype"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Rituximab destroys CD20-positive mature B cells, and in CLL those B cells are already functionally deficient, so sustained hypogammaglobulinemia is common. IgG replacement aims to maintain a trough above roughly 500-600 mg/dL and has been shown to reduce serious bacterial infections, including pneumococcal and Haemophilus pneumonia. IVIG is pooled IgG from thousands of donors, so it contains a broad spectrum of antibodies against common pathogens even if not serotype-matched to the individual patient. On the boards, remember that IVIG also has immunomodulatory uses through Fc receptor blockade (ITP, Kawasaki disease, Guillain-Barre) beyond simple replacement therapy.",
+  "explanation_incorrect": {
+    "A": "Exogenous IgG does not stimulate the patient's remaining B cells to produce antibody; in fact, the mechanisms of IVIG are largely suppressive or neutralizing, not stimulatory.",
+    "B": "Preparations are pooled IgG antibodies and do not contain viable T cells or transfer cellular immunity; B-cell depletion of this type does not cause major T-cell deficiency.",
+    "D": "IVIG is purified human immunoglobulin from healthy donors and contains no anti-CD20 monoclonal antibody; it has no direct anti-leukemic effect.",
+    "E": "Commercial IVIG is not serotype-matched or individually selected; its benefit comes from broad-spectrum pooled polyclonal IgG rather than tailored antisera."
+  },
+  "educationalObjective": "IVIG replaces deficient humoral immunity with pooled polyclonal donor IgG in patients with secondary hypogammaglobulinemia after rituximab and B-cell malignancies.",
+  "source": "Generated from 2. Immunology.pdf - Immunosuppressants: Biologics (rituximab, basiliximab, IVIG)"
+},
+{
+  "id": "immuno-215",
+  "subject": "Immunology",
+  "major_topic": "Immunosuppressants",
+  "subtopic": "Biologics (rituximab, basiliximab, IVIG)",
+  "difficulty": "medium",
+  "vignette": "A 31-year-old woman with known chronic hepatitis B infection (positive HBsAg) is about to start rituximab plus chemotherapy for follicular lymphoma. Before treatment, her HBV DNA is undetectable and liver enzymes are normal. Six weeks into treatment she develops jaundice, alanine aminotransferase of 1,240 U/L, and rising HBV DNA.",
+  "question": "Which mechanism best explains this flare?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Direct hepatotoxicity of the chemotherapeutic agent causing zone 3 necrosis"
+    },
+    {
+      "id": "B",
+      "text": "Rituximab-induced release of viral antigen into the blood with no immune consequence"
+    },
+    {
+      "id": "C",
+      "text": "Loss of B-cell-mediated antibody control and immune suppression permitting unchecked viral replication, followed by reconstitution of immune responses destroying infected hepatocytes"
+    },
+    {
+      "id": "D",
+      "text": "Autoimmune hepatitis triggered by anti-CD20 antibodies cross-reacting with hepatic antigens"
+    },
+    {
+      "id": "E",
+      "text": "Cholestatic obstruction from tumor lysis in the porta hepatis"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Rituximab causes prolonged B-cell depletion, and hepatitis B reactivation is a known consequence that can be fatal. The classic sequence is immune suppression that allows HBV to replicate to high levels (risk is highest with high viral load and lymphoma regimens containing rituximab combined with steroids), and then, as immune function recovers, CD8+ T cells destroy infected hepatocytes, producing the florid hepatitis flare. Nucleos(t)ide analog prophylaxis (e.g., entecavir or tenofovir) started before rituximab and continued for months afterward is the standard of care. The same concept explains why hepatitis B screening is mandatory before anti-CD20 and anti-TNF biologics.",
+  "explanation_incorrect": {
+    "A": "Chemotherapy can be hepatotoxic, but a rapid ALT rise with concurrent HBV DNA surge in a known HBsAg-positive patient is the signature of viral reactivation rather than idiosyncratic drug injury.",
+    "B": "Antigen release without immune consequence does not cause a 20-fold ALT elevation; the flare reflects immune-mediated destruction of infected hepatocytes.",
+    "D": "Autoimmune hepatitis is not triggered by anti-CD20 mAbs cross-reacting with liver antigens; there is no such classic association.",
+    "E": "Tumor lysis causing biliary obstruction would produce a predominantly cholestatic pattern with marked bilirubin, not the hepatocellular ALT flare seen here."
+  },
+  "educationalObjective": "Anti-CD20 therapy can reactivate hepatitis B; screen for HBV and give prophylactic antivirals before and after rituximab.",
+  "source": "Generated from 2. Immunology.pdf - Immunosuppressants: Biologics (rituximab, basiliximab, IVIG)"
+}
+]

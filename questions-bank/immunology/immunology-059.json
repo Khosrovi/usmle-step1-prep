@@ -1,0 +1,125 @@
+[
+{
+  "id": "immuno-197",
+  "subject": "Immunology",
+  "major_topic": "Immunodeficiencies",
+  "subtopic": "DiGeorge syndrome",
+  "difficulty": "medium",
+  "vignette": "A newborn boy is noted to have perioral twitching and carpopedal spasm on day 2 of life. Examination reveals a prominent nose, micrognathia, low-set ears, and a telemetric monitor showing prolonged QT. Echocardiography demonstrates a ventricular septal defect and a truncus arteriosus. Serum calcium is 6.2 mg/dL, and chest radiograph shows no thymic shadow. A fluorescence in situ hybridization study is requested.",
+  "question": "Which of the following would most likely be seen on FISH testing and on T-cell analysis in this infant?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Deletion of 22q11.2 with decreased T cells and relatively preserved B cells"
+    },
+    {
+      "id": "B",
+      "text": "Deletion of 22q11.2 with absent B cells and normal T cells"
+    },
+    {
+      "id": "C",
+      "text": "Mutation in RAG1 with absent T and B cells"
+    },
+    {
+      "id": "D",
+      "text": "Normal karyotype with absent granulocytes"
+    },
+    {
+      "id": "E",
+      "text": "Mutation in the common gamma chain with absent T and NK cells"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "DiGeorge syndrome results from a 22q11.2 deletion, the most common chromosomal microdeletion, and manifests with the CATCH-22 mnemonic: Cardiac defects (truncus arteriosus, tetralogy of Fallot, VSD), Abnormal facies, Thymic hypoplasia, Cleft palate, and Hypocalcemia from parathyroid hypoplasia. Thymic hypoplasia impairs T-cell development, causing decreased T cells and variable cellular immunodeficiency, while B cells are usually normal in number. Severe immunodeficiency requiring thymic transplant occurs only in complete DiGeorge syndrome.",
+  "explanation_incorrect": {
+    "B": "Absent B cells with normal T cells describes Bruton agammaglobulinemia, the opposite cell pattern from DiGeorge.",
+    "C": "RAG1 mutation gives T-B-NK+ SCID presenting with severe infections very early, without the DiGeorge facial or cardiac features.",
+    "D": "Granulocyte absence (agranulocytosis) is unrelated to 22q11.2 deletion and would cause severe neutropenic sepsis.",
+    "E": "Common gamma chain mutation is X-linked SCID, which lacks the hypocalcemia, cardiac defects, and parathyroid and facial findings."
+  },
+  "educationalObjective": "DiGeorge syndrome (22q11.2 deletion) presents with CATCH-22 findings and decreased T cells with normal B-cell numbers due to thymic hypoplasia.",
+  "source": "Generated from 2. Immunology.pdf - Immunodeficiencies: DiGeorge syndrome"
+},
+{
+  "id": "immuno-198",
+  "subject": "Immunology",
+  "major_topic": "Immunodeficiencies",
+  "subtopic": "DiGeorge syndrome",
+  "difficulty": "easy",
+  "vignette": "A 2-month-old infant with a known 22q11.2 deletion is admitted with seizures. Laboratory studies show ionized calcium of 0.72 mmol/L, low parathyroid hormone, and a total lymphocyte count of 900/microliter with markedly reduced CD3+ cells. The infant is receiving a live rotavirus vaccine on schedule.",
+  "question": "Which of the following interventions is most appropriate at this time?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Administer the live rotavirus vaccine as scheduled"
+    },
+    {
+      "id": "B",
+      "text": "Start lifelong immunoglobulin replacement regardless of antibody levels"
+    },
+    {
+      "id": "C",
+      "text": "Initiate intravenous calcium and vitamin D supplementation while withholding live vaccines"
+    },
+    {
+      "id": "D",
+      "text": "Give high-dose corticosteroids for lymphopenia"
+    },
+    {
+      "id": "E",
+      "text": "Perform an emergency splenectomy"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "The hypocalcemia in DiGeorge syndrome arises from parathyroid hypoplasia and requires calcium and active vitamin D repletion, with close monitoring. Because cellular immunity is impaired by thymic hypoplasia, live vaccines should be deferred until the degree of T-cell deficiency is characterized (via CD3 counts and T-cell proliferation), since attenuated organisms can disseminate. Most patients have partial DiGeorge syndrome with only mild immunodeficiency, but complete DiGeorge syndrome may need thymic transplantation.",
+  "explanation_incorrect": {
+    "A": "Live vaccines should be postponed in significant T-cell deficiency because of the risk of disseminated vaccine-derived infection.",
+    "B": "Routine lifelong immunoglobulin is reserved for significant humoral deficiency, not for every patient with DiGeorge syndrome.",
+    "D": "Corticosteroids suppress T-cell function further and are not a treatment for lymphopenia due to thymic hypoplasia.",
+    "E": "Splenectomy is indicated for splenic trauma, refractory immune thrombocytopenia, or certain hemolytic anemias, not for DiGeorge syndrome."
+  },
+  "educationalObjective": "DiGeorge hypocalcemia from parathyroid hypoplasia is treated with calcium and vitamin D, and live vaccines are withheld in significant T-cell deficiency.",
+  "source": "Generated from 2. Immunology.pdf - Immunodeficiencies: DiGeorge syndrome"
+},
+{
+  "id": "immuno-199",
+  "subject": "Immunology",
+  "major_topic": "Immunodeficiencies",
+  "subtopic": "DiGeorge syndrome",
+  "difficulty": "hard",
+  "vignette": "A 7-day-old girl with truncus arteriosus undergoes cardiac repair and is found to have profound lymphopenia (absolute lymphocyte count 250/microliter) and absent CD3+ T cells on flow cytometry. She develops severe Pneumocystis pneumonia. Genetic testing confirms a 22q11.2 deletion. Immunologists consider thymic transplantation.",
+  "question": "Which of the following best explains why this infant has profound deficiency while many other patients with the same deletion have only mild immunodeficiency?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The deletion is autosomal dominant, so severity is predetermined and uniform"
+    },
+    {
+      "id": "B",
+      "text": "The severity depends on the size of the deletion, and all patients with cardiac defects have complete athymia"
+    },
+    {
+      "id": "C",
+      "text": "Complete DiGeorge syndrome with athymia represents the severe end of a phenotypic spectrum, whereas partial forms retain some thymic tissue"
+    },
+    {
+      "id": "D",
+      "text": "Profound lymphopenia indicates a second, unrelated SCID-causing mutation must always be present"
+    },
+    {
+      "id": "E",
+      "text": "Severe T-cell deficiency is caused by hypocalcemia itself rather than thymic absence"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "22q11.2 deletion has highly variable expressivity. Partial DiGeorge syndrome retains residual thymic tissue and shows varied, usually mild immunodeficiency. Complete DiGeorge syndrome, which occurs in a minority, features athymia with profound T-cell lymphopenia, opportunistic infections such as Pneumocystis pneumonia, and requires thymic transplantation for cure. Cardiac and parathyroid involvement similarly exist on a spectrum, and the deletion is typically de novo, though it can be inherited.",
+  "explanation_incorrect": {
+    "A": "22q11.2 deletion has variable expressivity, and family members with the same deletion can have very different severity, so it is not uniform.",
+    "B": "Cardiac defects do not reliably predict athymia; many patients with severe cardiac disease have only partial thymic deficiency.",
+    "D": "A second SCID mutation is not required; complete athymia from the 22q11.2 deletion can itself produce profound lymphopenia.",
+    "E": "Hypocalcemia results from parathyroid hypoplasia and does not cause lymphopenia, which is due to absent or hypoplastic thymic tissue."
+  },
+  "educationalObjective": "22q11.2 deletion has variable expressivity; complete DiGeorge syndrome with athymia is the severe end of the spectrum and requires thymic transplantation.",
+  "source": "Generated from 2. Immunology.pdf - Immunodeficiencies: DiGeorge syndrome"
+}
+]

@@ -1,0 +1,166 @@
+[
+{
+  "id": "immuno-313",
+  "subject": "Immunology",
+  "major_topic": "Vaccines",
+  "subtopic": "Killed, toxoid, and subunit vaccines",
+  "difficulty": "medium",
+  "vignette": "A 32-year-old woman sustains a deep puncture wound to the hand from a garden rake. She is uncertain about her tetanus vaccination history and cannot recall receiving boosters as an adult. The wound is cleaned and debrided, and she is given tetanus immune globulin along with a tetanus-containing booster. Two weeks later a nurse asks the physician why both products were needed, and the physician explains that the booster prepares her own immune system while the globulin provides immediate protection.",
+  "question": "The tetanus booster the patient received contains which of the following?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Live attenuated Clostridium tetani spores"
+    },
+    {
+      "id": "B",
+      "text": "Tetanus toxin inactivated with formalin, which retains its antigenicity"
+    },
+    {
+      "id": "C",
+      "text": "Fully active, unmodified tetanus toxin"
+    },
+    {
+      "id": "D",
+      "text": "Anti-tetanus monoclonal antibody"
+    },
+    {
+      "id": "E",
+      "text": "Purified capsular polysaccharide of Clostridium tetani"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Toxoid vaccines are made by treating the bacterial exotoxin with formalin so that it loses toxicity while retaining immunogenicity. The toxoid stimulates anti-toxoid antibodies that neutralize the native tetanus toxin, and because the toxoid itself is inactive it cannot cause disease. This is why a patient with a potentially contaminated wound receives both the toxoid booster (active, delayed protection and memory) and immune globulin (immediate passive antitoxin).",
+  "explanation_incorrect": {
+    "A": "Tetanus vaccine contains no live spores; live spore exposure occurs through environmental contamination of wounds.",
+    "C": "Fully active toxin would produce disease, which is precisely why the toxin must be chemically inactivated.",
+    "D": "Anti-tetanus antibody is the content of immune globulin, which was given separately; the booster contains antigen, not antibody.",
+    "E": "Clostridium tetani disease is mediated by exotoxin, not a capsular polysaccharide, so no polysaccharide is used in the vaccine."
+  },
+  "educationalObjective": "Toxoid vaccines use formalin-inactivated exotoxin that retains antigenicity and elicits neutralizing antibody, which is why toxin-mediated diseases such as tetanus and diphtheria are prevented with toxoids.",
+  "source": "Generated from 2. Immunology.pdf - Vaccines: Killed, toxoid, and subunit vaccines"
+},
+{
+  "id": "immuno-314",
+  "subject": "Immunology",
+  "major_topic": "Vaccines",
+  "subtopic": "Killed, toxoid, and subunit vaccines",
+  "difficulty": "hard",
+  "vignette": "A 48-year-old woman with chronic hepatitis C infection and early cirrhosis is being evaluated for hepatitis B vaccination. She has no evidence of prior hepatitis B exposure (negative surface antigen, negative core antibody, negative surface antibody), and she is started on a standard three-dose series. Six months after the third dose, her anti-hepatitis B surface antibody titer is undetectable. Her physician considers repeating the series with a formulation designed to overcome poor immunogenicity in cirrhotic patients.",
+  "question": "Which of the following best describes the composition and immunologic property of the hepatitis B vaccine used in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Live attenuated hepatitis B virus that replicates in hepatocytes and triggers CD8+ responses"
+    },
+    {
+      "id": "B",
+      "text": "Inactivated whole hepatitis B virions grown in human liver cell culture"
+    },
+    {
+      "id": "C",
+      "text": "Recombinant hepatitis B surface antigen that is noninfectious and elicits anti-surface antibody, requiring an adjuvant and often multiple doses"
+    },
+    {
+      "id": "D",
+      "text": "Hepatitis B immune globulin that passively transfers antibody"
+    },
+    {
+      "id": "E",
+      "text": "A toxoid made from an inactivated hepatitis B viral protease"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "The hepatitis B vaccine is a recombinant subunit vaccine consisting of hepatitis B surface antigen produced in yeast. Because it contains only a surface protein, it is noninfectious, does not replicate, and provides immunologic memory through anti-surface antibody (anti-HBs, the marker of protection). Purified protein subunits are poorly immunogenic on their own, so an adjuvant such as aluminum salt is included, and patients with impaired immunity such as cirrhosis may need additional or double doses, or a more immunogenic formulation.",
+  "explanation_incorrect": {
+    "A": "No live hepatitis B virus is used, and live replication would be an unacceptable risk in cirrhotic and immunocompromised hosts.",
+    "B": "The antigen is a single recombinant surface protein produced in yeast, not whole virions grown in culture.",
+    "D": "Immune globulin provides immediate passive antibody and is given for postexposure prophylaxis, not for building long-term immunity in a pre-exposure series.",
+    "E": "Hepatitis B vaccine is based on surface antigen, not an inactivated viral enzyme, and it is a subunit rather than a toxoid vaccine."
+  },
+  "educationalObjective": "The hepatitis B vaccine is a recombinant surface-antigen subunit vaccine with an adjuvant that is safe in immunocompromised hosts but may require more doses or higher antigen content in patients with cirrhosis.",
+  "source": "Generated from 2. Immunology.pdf - Vaccines: Killed, toxoid, and subunit vaccines"
+},
+{
+  "id": "immuno-315",
+  "subject": "Immunology",
+  "major_topic": "Vaccines",
+  "subtopic": "Killed, toxoid, and subunit vaccines",
+  "difficulty": "easy",
+  "vignette": "A 29-year-old man is seen after a dog bite on the forearm. He has never received rabies vaccination. The wound is irrigated thoroughly and he is given rabies immunoglobulin infiltrated around the wound, followed by the first dose of rabies vaccine; further doses are scheduled on days 3, 7 and 14. When asked about the vaccine, the physician says it cannot cause rabies because the virus in it has been chemically inactivated.",
+  "question": "Why must the rabies vaccine be given in multiple doses rather than a single injection, given its composition?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Because killed viruses cannot replicate, the antigenic stimulus is limited, and repeated doses are needed to generate adequate antibody and memory"
+    },
+    {
+      "id": "B",
+      "text": "Because the live virus must be allowed time to spread and replicate in the central nervous system"
+    },
+    {
+      "id": "C",
+      "text": "Because the first dose is neutralized by the immunoglobulin and the remaining doses merely replace passive antibody"
+    },
+    {
+      "id": "D",
+      "text": "Because killed vaccines require at least 10 years to generate any measurable immune response"
+    },
+    {
+      "id": "E",
+      "text": "Because only the fourth dose contains antigen; the earlier ones are adjuvants"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Inactivated (killed) vaccines cannot replicate, so the amount of antigen presented to the immune system is fixed and relatively small. Repeated doses are required to drive sufficient B-cell activation, class switching and memory, and boosters are often needed periodically because immunity may wane without a live replicating antigen depot. Rabies is a special case in which the incubation period is long enough that postexposure vaccination with four or five doses plus immunoglobulin at the wound site can outpace the virus.",
+  "explanation_incorrect": {
+    "B": "The rabies vaccine virus is inactivated and does not replicate; spread to the CNS is exactly the catastrophic outcome the vaccine prevents.",
+    "C": "Immunoglobulin neutralizes circulating virus at the wound; later doses are active vaccine intended to induce the patient's own antibody.",
+    "D": "Killed vaccines induce measurable responses within weeks; a 10-year timeline is far too slow to be protective in any schedule.",
+    "E": "Every dose in the series contains antigen; adjuvants are not given alone as early doses."
+  },
+  "educationalObjective": "Because killed vaccines cannot replicate, they generally require multiple doses and boosters to achieve protective antibody and durable memory.",
+  "source": "Generated from 2. Immunology.pdf - Vaccines: Killed, toxoid, and subunit vaccines"
+},
+{
+  "id": "immuno-316",
+  "subject": "Immunology",
+  "major_topic": "Vaccines",
+  "subtopic": "Killed, toxoid, and subunit vaccines",
+  "difficulty": "medium",
+  "vignette": "A 24-year-old woman is scheduled for an acellular pertussis-containing booster in the third trimester of pregnancy to protect her newborn from pertussis. She asks how the shot protects her baby, since the baby will not receive it directly. The physician explains that the vaccine contains purified pertussis components combined with diphtheria and tetanus toxoids, and that antibody transferred across the placenta will provide early protection.",
+  "question": "Which feature of the acellular pertussis vaccine allows antibody to be transferred to the fetus for newborn protection?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It contains live pertussis organisms that colonize the placenta"
+    },
+    {
+      "id": "B",
+      "text": "It induces predominantly mucosal secretory IgA, which is transported across the syncytiotrophoblast"
+    },
+    {
+      "id": "C",
+      "text": "It induces IgG that is actively transported across the placenta by the FcRn receptor"
+    },
+    {
+      "id": "D",
+      "text": "It contains preformed immunoglobulin injected into the mother's circulation"
+    },
+    {
+      "id": "E",
+      "text": "It induces maternal IgM, which crosses the placenta most efficiently"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Acellular pertussis vaccine is a subunit vaccine containing purified pertussis antigens such as pertussis toxin toxoid, filamentous hemagglutinin and other adhesins, together with diphtheria and tetanus toxoids. It is nonliving and elicits serum IgG, which is transported from mother to fetus by the neonatal Fc receptor on the syncytiotrophoblast in increasing amounts during the third trimester. Maternal antibody present at birth protects the infant during the vulnerable first months before their own primary series begins.",
+  "explanation_incorrect": {
+    "A": "The acellular vaccine contains purified proteins and cannot colonize any tissue, including the placenta.",
+    "B": "Secretory IgA is produced at mucosal surfaces and is not the immunoglobulin transported across the placenta; IgM does not cross either.",
+    "D": "The vaccine contains antigen rather than preformed immunoglobulin; passive antibody would come from an immune globulin preparation.",
+    "E": "IgM is a pentamer largely confined to the intravascular space; IgG is the antibody class transferred across the placenta."
+  },
+  "educationalObjective": "Maternal IgG induced by nonliving subunit vaccines such as Tdap is actively transported across the placenta via FcRn and protects the newborn before their primary series.",
+  "source": "Generated from 2. Immunology.pdf - Vaccines: Killed, toxoid, and subunit vaccines"
+}
+]

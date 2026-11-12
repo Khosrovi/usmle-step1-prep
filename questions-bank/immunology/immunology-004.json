@@ -1,0 +1,84 @@
+[
+{
+  "id": "immuno-012",
+  "subject": "Immunology",
+  "major_topic": "Antibodies and Immunoglobulins",
+  "subtopic": "IgD",
+  "difficulty": "medium",
+  "vignette": "A 24-year-old man being evaluated for a lymphoproliferative disorder is found to have a small population of circulating cells co-expressing both IgM and IgD with identical antigen specificity. His immunologist notes that these are naive B cells that have not yet encountered antigen.",
+  "question": "Which of the following best describes IgD and the cells that express it?",
+  "options": [
+    {
+      "id": "A",
+      "text": "IgD is a secreted antibody that opsonizes bacteria in the blood"
+    },
+    {
+      "id": "B",
+      "text": "IgD fixes complement via the classical pathway and is the main complement-fixing antibody"
+    },
+    {
+      "id": "C",
+      "text": "IgD is a pentamer and exists only in mucosal secretions"
+    },
+    {
+      "id": "D",
+      "text": "IgD binds to Fc receptors on macrophages to mediate phagocytosis"
+    },
+    {
+      "id": "E",
+      "text": "IgD is present on the surface of mature naive B cells alongside IgM"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "IgD is expressed on the surface of mature, antigen-naive B cells together with IgM and serves as a B-cell receptor isotype. Its serum concentration is very low because little secreted IgD is produced. After B-cell activation, surface IgD falls and the cell begins to secrete antibody of the switched isotype. This dual IgM/IgD coexpression marks the mature naive B-cell stage before class switching occurs.",
+  "explanation_incorrect": {
+    "A": "IgD is essentially a membrane B-cell receptor with only trace serum levels; it is not an opsonin for circulating bacteria.",
+    "B": "IgD does not fix complement appreciably; IgM and certain IgG subclasses are the principal classical-pathway activators.",
+    "C": "IgD is monomeric and is not a secretory mucosal antibody; IgA is the predominant mucosal antibody.",
+    "D": "IgD is not a major opsonin and lacks strong Fc-receptor-mediated phagocytic properties."
+  },
+  "educationalObjective": "IgD is a monomeric surface immunoglobulin coexpressed with IgM on mature naive B cells and functions chiefly as a B-cell receptor.",
+  "source": "Generated from 2. Immunology.pdf - Antibodies and Immunoglobulins: IgD"
+},
+{
+  "id": "immuno-013",
+  "subject": "Immunology",
+  "major_topic": "Antibodies and Immunoglobulins",
+  "subtopic": "IgD",
+  "difficulty": "hard",
+  "vignette": "A 68-year-old woman presents with anemia, bone pain, and renal insufficiency. Serum protein electrophoresis shows a small monoclonal M spike, and immunofixation identifies delta heavy chains with lambda light chains. Bone marrow biopsy shows a clonal population of plasma cells. The hematologist remarks that IgD myeloma is rare and often presents aggressively.",
+  "question": "Which of the following statements about IgD is most consistent with this patient's unusual presentation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "IgD is the most abundant serum immunoglobulin and its myeloma is common"
+    },
+    {
+      "id": "B",
+      "text": "IgD myeloma is uncommon and often associated with aggressive disease, osteolytic lesions, and lambda light chains"
+    },
+    {
+      "id": "C",
+      "text": "IgD myeloma is clinically silent and never causes tissue damage"
+    },
+    {
+      "id": "D",
+      "text": "IgD is normally found at high concentration on mucosal surfaces"
+    },
+    {
+      "id": "E",
+      "text": "IgD is a pentamer and its M spike is always mistaken for IgM"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "IgD normally circulates in only trace amounts, and IgD myeloma accounts for only about 1-2% of all myeloma cases but tends to behave aggressively with more frequent extramedullary and osteolytic disease and a predilection for lambda light chains. A delta M spike with lambda chains in a patient with bone pain and renal impairment fits this pattern. Because IgD is normally so low, even a modest M spike can be a large relative increase over baseline.",
+  "explanation_incorrect": {
+    "A": "IgG is the most abundant serum immunoglobulin; IgD is present only in trace amounts and its myeloma is rare, not common.",
+    "C": "Like other plasma cell neoplasms, IgD myeloma can cause lytic bone lesions, renal failure, anemia, and hypercalcemia.",
+    "D": "IgD is not a mucosal antibody; secretory IgA is the mucosal immunoglobulin and IgD concentrations in secretions are very low.",
+    "E": "IgD is monomeric and immunofixation identifies the heavy chain type directly, so it is not confused with a pentameric IgM M spike."
+  },
+  "educationalObjective": "IgD myeloma is rare but tends to be aggressive with osteolytic lesions and lambda light chains, reflecting the normally trace circulating level of monomeric IgD.",
+  "source": "Generated from 2. Immunology.pdf - Antibodies and Immunoglobulins: IgD"
+}
+]

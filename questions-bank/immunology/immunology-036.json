@@ -1,0 +1,125 @@
+[
+{
+  "id": "immuno-114",
+  "subject": "Immunology",
+  "major_topic": "Cellular Components",
+  "subtopic": "Phagocytosis and respiratory burst",
+  "difficulty": "easy",
+  "vignette": "A 3-year-old boy presents with a deep bacterial infection of the skin and a serologic workup reveals both antibody and complement in the circulation. The pediatrician explains that his IgG is essential for efficient phagocytosis of the bacteria.",
+  "question": "Which interaction is required for IgG-mediated opsonization and enhancement of phagocytosis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Binding of opsonized bacteria to the Fc-gamma receptor on phagocytes"
+    },
+    {
+      "id": "B",
+      "text": "Binding of antigen to CD4 on macrophages"
+    },
+    {
+      "id": "C",
+      "text": "Binding of antigen to Fc-epsilon-RI on mast cells"
+    },
+    {
+      "id": "D",
+      "text": "Binding of IgG to CD19 on B cells"
+    },
+    {
+      "id": "E",
+      "text": "Binding of antigen to MHC class I on neutrophils"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Opsonization refers to coating a target with antibody or complement fragments, which are then engaged by Fc receptors and complement receptors on phagocytes. IgG-coated bacteria bind Fc-gamma receptors such as CD16 and CD32, triggering phagocytosis and enhanced oxidative burst; C3b binds CR1/CR3. This is why patients with agammaglobulinemia or complement deficiency develop severe infections even with intact phagocyte numbers.",
+  "explanation_incorrect": {
+    "B": "CD4 binds MHC class II, not Fc or antigen directly; it is a T-cell co-receptor rather than an opsonin receptor.",
+    "C": "Fc-epsilon-RI binds IgE and is involved in allergic reactions, not IgG-mediated phagocytosis.",
+    "D": "CD19 is a B-cell co-receptor component involved in B-cell activation signaling, not in phagocyte uptake of IgG-coated particles.",
+    "E": "MHC class I presents endogenous peptide to CD8+ T cells and is not a phagocytic receptor."
+  },
+  "educationalObjective": "IgG opsonization works through Fc-gamma receptors on phagocytes, converting the humoral response into efficient phagocytic clearance.",
+  "source": "Generated from 2. Immunology.pdf - Cellular Components: Phagocytosis and respiratory burst"
+},
+{
+  "id": "immuno-115",
+  "subject": "Immunology",
+  "major_topic": "Cellular Components",
+  "subtopic": "Phagocytosis and respiratory burst",
+  "difficulty": "medium",
+  "vignette": "A 5-year-old girl has had recurrent abscesses of the skin and liver and episodes of pneumonia caused by Burkholderia cepacia and Aspergillus. The laboratory uses a dihydrorhodamine 123 test that shows no fluorescence shift after neutrophil stimulation.",
+  "question": "Which biochemical step is most likely defective in this patient's neutrophils?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Myeloperoxidase conversion of hydrogen peroxide to hypochlorous acid"
+    },
+    {
+      "id": "B",
+      "text": "NADPH oxidase assembly and superoxide production"
+    },
+    {
+      "id": "C",
+      "text": "Complement C5a receptor signaling"
+    },
+    {
+      "id": "D",
+      "text": "Fc-gamma receptor-mediated phagocytosis"
+    },
+    {
+      "id": "E",
+      "text": "CD18 integrin-mediated adhesion"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "The dihydrorhodamine test quantifies the respiratory burst, and no fluorescence shift indicates failure of NADPH oxidase to produce superoxide, diagnostic of chronic granulomatous disease. NADPH oxidase is a multi-subunit enzyme, and defective assembly of the membrane-bound gp91phox or cytosolic subunits leads to catalase-positive organism infections with granulomas. Myeloperoxidase deficiency would still produce superoxide and a normal DHR shift.",
+  "explanation_incorrect": {
+    "A": "Myeloperoxidase deficiency leaves superoxide production intact, so the DHR fluorescence shift would still occur.",
+    "C": "C5a receptor defects would impair chemotaxis but not the neutrophil oxidative burst measured by DHR.",
+    "D": "Fc receptor-mediated phagocytosis is intact in CGD; the defect is in oxidative killing after uptake.",
+    "E": "CD18 defects would produce an adhesion defect with delayed cord separation, not a specific burst failure."
+  },
+  "educationalObjective": "A normal dihydrorhodamine result indicates adequate superoxide production, and an absent shift indicates NADPH oxidase deficiency seen in chronic granulomatous disease.",
+  "source": "Generated from 2. Immunology.pdf - Cellular Components: Phagocytosis and respiratory burst"
+},
+{
+  "id": "immuno-116",
+  "subject": "Immunology",
+  "major_topic": "Cellular Components",
+  "subtopic": "Phagocytosis and respiratory burst",
+  "difficulty": "hard",
+  "vignette": "A 26-year-old man is admitted for heat stroke after running a marathon in the summer. His core temperature is 41.5 C, he has altered mental status, and he is being cooled. Concerns are raised about whether his neutrophils can still function at this temperature.",
+  "question": "Which statement best summarizes the effect of hyperthermia on the respiratory burst in this setting?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Hyperthermia strongly enhances superoxide production and increases killing"
+    },
+    {
+      "id": "B",
+      "text": "Hyperthermia has no effect on NADPH oxidase assembly"
+    },
+    {
+      "id": "C",
+      "text": "Hyperthermia increases respiratory burst but is limited by complement production"
+    },
+    {
+      "id": "D",
+      "text": "Hyperthermia impairs neutrophil attachment, migration, and oxidative burst, raising susceptibility to infection"
+    },
+    {
+      "id": "E",
+      "text": "Hyperthermia reverses the effect of opsonins so that IgG cannot bind bacteria"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Extreme hyperthermia impairs neutrophil adhesion, chemotaxis, and respiratory burst activity, so patients with severe heat illness are at increased risk of secondary bacterial infection such as aspiration pneumonia. This is one reason febrile patients can rapidly become more vulnerable rather than better armed. Recognizing this association guides cultures and early empiric antibiotics in severe heat stroke.",
+  "explanation_incorrect": {
+    "A": "While modest heat can enhance immune function, severe hyperthermia is immunosuppressive and reduces phagocyte effectiveness.",
+    "B": "Enzymatic and receptor-dependent processes in NADPH oxidase assembly are temperature-sensitive, so there is an effect.",
+    "C": "Complement production by the liver is not the immediate limiting factor; the cellular oxidative burst itself is impaired.",
+    "E": "Opsonin binding is not reversed by hyperthermia, and IgG bacteria interactions remain intact."
+  },
+  "educationalObjective": "Severe hyperthermia impairs neutrophil adhesion, migration, and oxidative killing, increasing infection risk in heat illness.",
+  "source": "Generated from 2. Immunology.pdf - Cellular Components: Phagocytosis and respiratory burst"
+}
+]

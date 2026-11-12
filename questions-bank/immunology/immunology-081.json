@@ -1,0 +1,166 @@
+[
+{
+  "id": "immuno-268",
+  "subject": "Immunology",
+  "major_topic": "T Cell Activation and Cytokines",
+  "subtopic": "T cell activation and signal transduction",
+  "difficulty": "medium",
+  "vignette": "A 4-year-old boy has had recurrent otitis media, sinusitis, and pneumonia since infancy. He appears healthy between illnesses and his lymphoid tissue is present. Quantitative immunoglobulins show low IgG, IgA, and IgM, but surface expression of CD4, CD8, CD19, and CD16/56 is normal on flow cytometry. Genetic analysis of a key T cell signal transducer involved in antigen receptor signaling is being pursued.",
+  "question": "Which intracellular event most directly follows engagement of the T cell receptor with peptide-MHC and leads to downstream phosphorylation cascades?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Activation of adenylate cyclase and generation of cyclic AMP"
+    },
+    {
+      "id": "B",
+      "text": "Autoinhibition of Lck and inactivation of immunoreceptor tyrosine-based activation motifs"
+    },
+    {
+      "id": "C",
+      "text": "Phosphorylation of immunoreceptor tyrosine-based activation motifs on CD3 chains by Lck followed by ZAP-70 recruitment"
+    },
+    {
+      "id": "D",
+      "text": "Nuclear translocation of NF-kappa-B without upstream kinase activity"
+    },
+    {
+      "id": "E",
+      "text": "Binding of the T cell receptor directly to the major histocompatibility complex cytoplasmic tail"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "When the T cell receptor binds peptide-MHC with sufficient affinity, CD4 or CD8 associates with the receptor and brings Lck, a Src-family kinase, close to the immunoreceptor tyrosine-based activation motifs of the CD3 complex and zeta chains. Lck phosphorylates these ITAM tyrosines, creating docking sites for the tandem SH2 domains of ZAP-70. ZAP-70 is phosphorylated and activated, then phosphorylates LAT, which scaffolds PLC-gamma1, Grb2, and SLP-76. Phospholipase C-gamma1 generates IP3 (calcium release and NFAT activation) and DAG (Ras-MAPK and PKC pathways leading to AP-1 and NF-kappa-B), which together with IL-2 receptor alpha (CD25) upregulation produce full T cell activation. Defects in this proximal signaling pathway can cause severe combined immunodeficiency with normal lymphocyte subsets.",
+  "explanation_incorrect": {
+    "A": "Adenylate cyclase and cAMP are inhibitory or modulatory second messengers in T cells and are not the proximal event of T cell receptor coupling.",
+    "B": "T cell receptor engagement activates Lck rather than autoinhibiting it; ITAM phosphorylation is the key activating step, not its inactivation.",
+    "D": "NF-kappa-B activation requires upstream PKC-theta and the CBM complex; it does not occur as a direct nuclear translocation without kinase signaling.",
+    "E": "The MHC molecule's cytoplasmic tail is not engaged by the T cell receptor; recognition occurs in the extracellular and peptide-binding domains."
+  },
+  "educationalObjective": "T cell receptor engagement leads to Lck-mediated CD3 ITAM phosphorylation and ZAP-70 recruitment, the proximal step in signal transduction.",
+  "source": "Generated from 2. Immunology.pdf - T Cell Activation and Cytokines: T cell activation and signal transduction"
+},
+{
+  "id": "immuno-269",
+  "subject": "Immunology",
+  "major_topic": "T Cell Activation and Cytokines",
+  "subtopic": "T cell activation and signal transduction",
+  "difficulty": "easy",
+  "vignette": "A 41-year-old man with a history of renal transplantation 6 months ago, on tacrolimus and mycophenolate, presents with fever and a rapidly expanding neck mass. Fine needle biopsy shows a polymorphic, Epstein-Barr virus-positive lymphoproliferative disorder. Twelve of 300 tested cells show a chromosomal clonal rearrangement, and further studies are performed to determine whether reducing immunosuppression is likely to be sufficient.",
+  "question": "Tacrolimus prevents T cell activation by inhibiting which process?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Calcineurin-dependent dephosphorylation of NFAT, blocking its nuclear translocation"
+    },
+    {
+      "id": "B",
+      "text": "Direct inhibition of the T cell receptor's recognition of peptide-MHC"
+    },
+    {
+      "id": "C",
+      "text": "Purine synthesis by inosine monophosphate dehydrogenase"
+    },
+    {
+      "id": "D",
+      "text": "Assembly of the CD3 complex in the endoplasmic reticulum"
+    },
+    {
+      "id": "E",
+      "text": "Signaling of IL-2 through the JAK-STAT pathway"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Tacrolimus binds FK-binding protein 12 (FKBP12), and the complex then inhibits calcineurin, a calmodulin-dependent phosphatase. Calcineurin normally dephosphorylates NFAT, permitting its nuclear translocation and transcription of IL-2 and other activation genes. Blocking calcineurin prevents T cell activation and proliferation, which suppresses cellular immunity and permits Epstein-Barr virus-driven B cell proliferation, the substrate for post-transplant lymphoproliferative disorder. The mechanism matches cyclosporine, which binds cyclophilin; the mnemonic for both is inhibition of FKBP/cyclophilin-calcineurin interaction. Reducing immunosuppression is first-line therapy, and rituximab is used for clonal lesions.",
+  "explanation_incorrect": {
+    "B": "Tacrolimus acts downstream of the receptor; it does not block peptide-MHC recognition at the cell surface.",
+    "C": "Inosine monophosphate dehydrogenase inhibition is the mechanism of mycophenolate, not of tacrolimus, which acts on calcineurin.",
+    "D": "CD3 complex assembly occurs during thymic development and is not the target of calcineurin inhibitors in mature T cell activation.",
+    "E": "Tacrolimus reduces IL-2 production rather than blocking IL-2 receptor JAK-STAT signal transduction, which is the action of IL-2 inhibitors such as basiliximab."
+  },
+  "educationalObjective": "Tacrolimus and cyclosporine inhibit calcineurin, preventing NFAT dephosphorylation and nuclear translocation, thereby blocking IL-2 transcription and T cell activation.",
+  "source": "Generated from 2. Immunology.pdf - T Cell Activation and Cytokines: T cell activation and signal transduction"
+},
+{
+  "id": "immuno-270",
+  "subject": "Immunology",
+  "major_topic": "T Cell Activation and Cytokines",
+  "subtopic": "T cell activation and signal transduction",
+  "difficulty": "hard",
+  "vignette": "A 29-year-old woman with a family history of an autosomal dominant immunodeficiency, defined by impaired lymphocyte cytotoxicity and a mutation in the gene encoding a phospholipase C isoform, develops recurrent pulmonary infections and gingivitis. The defect is in PLC-gamma1, which hydrolyzes phosphatidylinositol 4,5-bisphosphate after T cell receptor engagement.",
+  "question": "The two products of this hydrolysis activate which set of downstream signaling events in the T cell?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Diacylglycerol activates adenylate cyclase and inorganic phosphate activates MAPK"
+    },
+    {
+      "id": "B",
+      "text": "Inositol trisphosphate opens calcium channels in the plasma membrane and diacylglycerol activates NFAT"
+    },
+    {
+      "id": "C",
+      "text": "Inositol trisphosphate releases calcium from the endoplasmic reticulum and diacylglycerol activates Ras-MAPK and PKC pathways"
+    },
+    {
+      "id": "D",
+      "text": "Diacylglycerol translocates NFAT and inositol trisphosphate stabilizes IkB"
+    },
+    {
+      "id": "E",
+      "text": "Both products activate ZAP-70 and Lck in a feedback loop"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Phospholipase C-gamma1 is activated after T cell receptor engagement and ZAP-70-dependent phosphorylation. It hydrolyzes phosphatidylinositol 4,5-bisphosphate into inositol 1,4,5-trisphosphate (IP3) and diacylglycerol (DAG). IP3 binds receptors on the endoplasmic reticulum, releasing stored calcium; depletion of ER calcium stores opens CRAC channels on the plasma membrane, and the resulting calcium enters the cytosol to activate calcineurin, which dephosphorylates NFAT and allows its nuclear import. DAG, a membrane-bound lipid, activates RasGRP/Ras-MAPK (leading to AP-1) and PKC-theta (leading to NF-kappa-B). Because these two limbs drive IL-2 transcription, PLC-gamma1 loss markedly impairs T cell activation and cytotoxic function.",
+  "explanation_incorrect": {
+    "A": "DAG does not activate adenylate cyclase for T cell activation, and inorganic phosphate is not a signaling second messenger in this pathway.",
+    "B": "IP3 acts on ER receptors rather than plasma membrane channels, and DAG activates Ras and PKC, not NFAT directly.",
+    "D": "NFAT is regulated by calcium and calcineurin, not DAG, and IP3 does not stabilize IkB, which remains bound to NF-kappa-B until it is degraded.",
+    "E": "ZAP-70 and Lck act upstream of PLC-gamma1 and are not activated in feedback by IP3 and DAG."
+  },
+  "educationalObjective": "PLC-gamma1 splits PIP2 into IP3 (calcium release, then calcineurin-NFAT) and DAG (Ras-MAPK/AP-1 and PKC/NF-kappa-B), the two limbs of T cell activation.",
+  "source": "Generated from 2. Immunology.pdf - T Cell Activation and Cytokines: T cell activation and signal transduction"
+},
+{
+  "id": "immuno-271",
+  "subject": "Immunology",
+  "major_topic": "T Cell Activation and Cytokines",
+  "subtopic": "T cell activation and signal transduction",
+  "difficulty": "medium",
+  "vignette": "A 10-year-old girl with a history of developmental delay and prolonged bleeding now presents with a new diagnosis of Wiskott-Aldrich syndrome. She has had anasarca and proteinuria, and kidney biopsy shows immune complex deposition consistent with membranoproliferative glomerulonephritis. Hematologic studies show decreased numbers of circulating T cells, and the Wiskott-Aldrich syndrome protein (WASp) defect is confirmed.",
+  "question": "Which co-stimulatory receptor on the T cell, when engaged by its ligand on the antigen-presenting cell, is the dominant second signal required for full activation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "CD40"
+    },
+    {
+      "id": "B",
+      "text": "CD8"
+    },
+    {
+      "id": "C",
+      "text": "CD3"
+    },
+    {
+      "id": "D",
+      "text": "CTLA-4"
+    },
+    {
+      "id": "E",
+      "text": "CD28"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Full T cell activation requires two signals: signal 1 from the T cell receptor recognizing peptide on MHC, and signal 2 from co-stimulation. The principal positive co-stimulatory receptor on naive T cells is CD28, which binds B7-1 (CD80) and B7-2 (CD86) on activated antigen-presenting cells. CD28 engagement amplifies the T cell receptor signal and induces IL-2 production and CD25 expression, allowing clonal expansion. Without co-stimulation, T cells become anergic or undergo apoptosis. CTLA-4 is the inhibitory homolog that competes for the same B7 ligands; ipilimumab blocks CTLA-4 to unleash antitumor immunity. Wiskott-Aldrich syndrome, caused by WASp mutations, impairs actin-based immune synapse formation, compounding the defective T cell activation in this girl.",
+  "explanation_incorrect": {
+    "A": "CD40 is expressed mainly on antigen-presenting cells and, via CD40 ligand on activated T cells, delivers the reverse signal for B cell isotype switching, not the second signal to the T cell.",
+    "B": "CD8 is a co-receptor that binds MHC class I to stabilize signal 1, but it is not the classical co-stimulatory second signal.",
+    "C": "CD3 is the signaling component of the T cell receptor complex that transduces signal 1, not the separate co-stimulatory signal.",
+    "D": "CTLA-4 is inhibitory and competes with CD28 for B7, terminating rather than initiating T cell activation."
+  },
+  "educationalObjective": "CD28 binding B7 on antigen-presenting cells provides the critical second co-stimulatory signal required for full T cell activation; CTLA-4 provides the opposing inhibitory signal.",
+  "source": "Generated from 2. Immunology.pdf - T Cell Activation and Cytokines: T cell activation and signal transduction"
+}
+]

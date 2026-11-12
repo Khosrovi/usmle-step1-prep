@@ -1,0 +1,166 @@
+[
+{
+  "id": "immuno-149",
+  "subject": "Immunology",
+  "major_topic": "HIV and AIDS",
+  "subtopic": "HIV structure and life cycle",
+  "difficulty": "medium",
+  "vignette": "A 38-year-old man with treatment-naive HIV-1 infection is started on a three-drug regimen. His regimen includes a protease inhibitor, but the physician elects to add a second agent that blocks a specific viral enzyme. This enzyme normally cleaves the Gag-Pol polyprotein precursor into functional structural and enzymatic virion components, and its inhibition leads to the release of immature, noninfectious virions that fail to properly assemble their core.",
+  "question": "Which step of the HIV life cycle is directly blocked by the protease inhibitor component of this regimen?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Binding of gp120 to the CD4 receptor on the host T lymphocyte"
+    },
+    {
+      "id": "B",
+      "text": "Conversion of viral RNA into double-stranded DNA by reverse transcriptase"
+    },
+    {
+      "id": "C",
+      "text": "Integration of proviral DNA into the host genome by integrase"
+    },
+    {
+      "id": "D",
+      "text": "Post-translational cleavage of polyprotein precursors during virion maturation"
+    },
+    {
+      "id": "E",
+      "text": "Fusion of the viral envelope with the host cell membrane via gp41"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "The HIV life cycle runs from gp120 binding to CD4 and a coreceptor, through gp41-mediated fusion, reverse transcription, integration, transcription, and translation of Gag and Gag-Pol polyproteins, to budding and finally maturation. Viral protease cleaves the Gag-Pol polyprotein into mature matrix, capsid, nucleocapsid, reverse transcriptase, integrase, and protease, an essential final step. Protease inhibitors such as ritonavir, darunavir, and atazanavir block this maturation cleavage, so virions are released but remain structurally immature and noninfectious.",
+  "explanation_incorrect": {
+    "A": "Attachment via gp120 to CD4 - and to the CCR5 or CXCR4 coreceptor - is the step blocked by entry inhibitors such as maraviroc and attachment inhibitors, not protease inhibitors.",
+    "B": "Reverse transcription of the RNA genome into proviral DNA is accomplished by reverse transcriptase and is the target of nucleoside and non-nucleoside reverse transcriptase inhibitors.",
+    "C": "Integration of proviral DNA into host chromatin is performed by integrase and is blocked by integrase strand transfer inhibitors such as raltegravir and dolutegravir.",
+    "E": "Gp41-mediated fusion is blocked by fusion inhibitors such as enfuvirtide, which is a membrane fusion step and is distinct from late polyprotein processing."
+  },
+  "educationalObjective": "HIV protease cleaves Gag-Pol polyprotein precursors during virion maturation, and protease inhibitors prevent formation of mature infectious virions.",
+  "source": "Generated from 2. Immunology.pdf - HIV and AIDS: HIV structure and life cycle"
+},
+{
+  "id": "immuno-150",
+  "subject": "Immunology",
+  "major_topic": "HIV and AIDS",
+  "subtopic": "HIV structure and life cycle",
+  "difficulty": "medium",
+  "vignette": "A 24-year-old man presents with 2 weeks of intermittent fever, fatigue, and a maculopapular rash on the upper trunk after unprotected intercourse. He is diagnosed with acute HIV infection. His clinician explains that the high-level viremia during this phase seeds a long-lived reservoir that persists even with years of suppressive antiretroviral therapy. The reservoir consists of resting memory T lymphocytes harboring virus in a transcriptionally silent state.",
+  "question": "Which of the following features of HIV biology is most responsible for the persistence of this latent reservoir despite fully suppressive antiretroviral therapy?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Progressive loss of CD4+ T-cell help with declining antibody responses to HIV envelope antigens"
+    },
+    {
+      "id": "B",
+      "text": "Antigenic variation through frequent reverse transcriptase errors that defeats neutralizing antibody"
+    },
+    {
+      "id": "C",
+      "text": "Stable proviral DNA integrated into the genome of long-lived resting memory CD4+ T cells"
+    },
+    {
+      "id": "D",
+      "text": "Selection of multidrug-resistant mutants that persist in sanctuary sites such as the central nervous system"
+    },
+    {
+      "id": "E",
+      "text": "Glycosylation of gp120 shielding neutralization epitopes from antibody recognition"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "During acute infection HIV reverse transcriptase integrates proviral DNA into the genome of activated CD4+ T cells, some of which differentiate into long-lived resting memory CD4+ T cells. In that resting state the provirus is transcriptionally silent, so it is not targeted by immune cytolysis and antiretroviral drugs that act on active replication cannot eliminate it. This stable integrated provirus, reactivated whenever the memory cell is stimulated, is the principal barrier to cure and explains why lifelong therapy is needed; latent reservoirs are the reason current regimens lower but never zero out the viral load permanently.",
+  "explanation_incorrect": {
+    "A": "Loss of CD4+ T-cell help and antibody quality contribute to disease progression but are not the mechanism that renders the reservoir untouchable by suppressive drug therapy.",
+    "B": "Reverse transcriptase error and antigenic variation drive immune escape, but they are distinct from the silent persistence of integrated provirus in resting cells.",
+    "D": "Resistance emerges mainly under the selective pressure of inadequate or intermittent therapy, and sanctuary-site seeding does not explain persistence when the virus is fully suppressed.",
+    "E": "Gp120 glycosylation limits neutralizing antibody access to the envelope, but that is an immune evasion strategy unrelated to the drug-untouchable reservoir of provirus."
+  },
+  "educationalObjective": "The latent HIV reservoir is proviral DNA integrated into long-lived resting memory CD4+ T cells, which explains why suppressive therapy cannot eradicate infection.",
+  "source": "Generated from 2. Immunology.pdf - HIV and AIDS: HIV structure and life cycle"
+},
+{
+  "id": "immuno-151",
+  "subject": "Immunology",
+  "major_topic": "HIV and AIDS",
+  "subtopic": "HIV structure and life cycle",
+  "difficulty": "hard",
+  "vignette": "A 31-year-old woman is admitted to the intensive care unit with fever, a diffuse rash, hyperglycemia, and confusion 3 weeks after the diagnosis of acute HIV infection. Her parents report that she was a member of a remote ethnic group known to have a high prevalence of HIV-1 exposed individuals who remain persistently seronegative despite repeated high-risk exposures, many of whom are homozygous for a 32-base-pair deletion in a specific chemokine receptor gene. Her current illness is attributed to a different process and resolves with supportive care.",
+  "question": "In this population, impairment of which component of the HIV life cycle confers the strong protection against infection described above?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Attachment of gp120 to the CD4 receptor"
+    },
+    {
+      "id": "B",
+      "text": "Membrane fusion mediated by gp41 after coreceptor engagement"
+    },
+    {
+      "id": "C",
+      "text": "Nuclear import and integration of proviral DNA"
+    },
+    {
+      "id": "D",
+      "text": "Processing of Gag-Pol polyproteins during virion maturation"
+    },
+    {
+      "id": "E",
+      "text": "Binding of gp120 to the CCR5 coreceptor on host cells"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "HIV enters target cells in two cooperating steps: gp120 binds CD4 and then a chemokine coreceptor, usually CCR5 on macrophages and resting CD4+ T cells or CXCR4 on lymphocytes. Carriers of the CCR5-delta32 allele lack functional CCR5 on the cell surface; homozygotes are almost completely protected from sexual transmission of CCR5-tropic virus, the classic explanation for why certain repeatedly exposed groups remain seronegative. This same biology underlies the CCR5 antagonist maraviroc and the documented cure of the Berlin patient by stem cell transplantation from a homozygous CCR5-delta32 donor.",
+  "explanation_incorrect": {
+    "A": "The CD4 receptor must be present for HIV entry and is not absent in these protected individuals; loss of CD4 binding would cause a broader immunodeficiency, not selective resistance.",
+    "B": "Fusion through gp41 requires preceding coreceptor engagement, and the protective genetic lesion lies upstream of that step rather than in the fusion protein itself.",
+    "C": "Impaired nuclear import and integration would only matter after entry, so a defect there would not prevent initial infection of target cells.",
+    "D": "Impaired polyprotein processing would cripple production of infectious progeny from already infected cells, but it does not block the initial round of viral entry."
+  },
+  "educationalObjective": "CCR5 serves as the essential coreceptor for HIV gp120 binding and entry, and homozygous CCR5-delta32 carriers are highly resistant to HIV infection.",
+  "source": "Generated from 2. Immunology.pdf - HIV and AIDS: HIV structure and life cycle"
+},
+{
+  "id": "immuno-152",
+  "subject": "Immunology",
+  "major_topic": "HIV and AIDS",
+  "subtopic": "HIV structure and life cycle",
+  "difficulty": "easy",
+  "vignette": "A 45-year-old man with untreated HIV infection for 8 years has a CD4+ T-cell count of 120 cells/mm3 and an HIV-1 RNA of 210,000 copies/mL. During teaching rounds, a student is asked to explain why his CD4+ T-cell count has fallen so dramatically. The resident notes that the virus selectively infects cells expressing CD4 and that reverse transcriptase converts the RNA genome into DNA, which the physician explains is then integrated into the host chromosome.",
+  "question": "Which viral enzyme catalyzes the conversion of the HIV RNA genome into double-stranded proviral DNA, and which enzyme then inserts that DNA into the host chromosome?",
+  "options": [
+    {
+      "id": "A",
+      "text": "RNA polymerase II, followed by protease"
+    },
+    {
+      "id": "B",
+      "text": "Reverse transcriptase, followed by integrase"
+    },
+    {
+      "id": "C",
+      "text": "Integrase, followed by reverse transcriptase"
+    },
+    {
+      "id": "D",
+      "text": "Reverse transcriptase, followed by protease"
+    },
+    {
+      "id": "E",
+      "text": "Host DNA polymerase, followed by integrase"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "HIV is a diploid, positive-sense, single-stranded RNA retrovirus that carries reverse transcriptase, integrase, and protease within its virion. After entry, reverse transcriptase copies the RNA genome into double-stranded DNA using its RNA-dependent DNA polymerase activity, and integrase then inserts that DNA into the host cell genome as a provirus. Transcribing the provirus into new genomic and messenger RNA relies on host RNA polymerase II, and the resulting polyproteins are later cleaved by viral protease during maturation.",
+  "explanation_incorrect": {
+    "A": "RNA polymerase II belongs to the host and performs transcription of the integrated provirus, and protease is a late maturation enzyme that cleaves polyproteins rather than synthesizing DNA.",
+    "C": "The order is reversed: integrase can only act on DNA, which must first be generated by reverse transcriptase from the viral RNA genome.",
+    "D": "Protease cleaves Gag-Pol polyproteins into mature virion proteins during budding and maturation, and it plays no role in producing or inserting proviral DNA.",
+    "E": "Host DNA polymerase replicates and repairs host DNA but cannot copy an RNA template, so it is reverse transcriptase that synthesizes proviral DNA from the viral RNA genome."
+  },
+  "educationalObjective": "Reverse transcriptase converts the HIV RNA genome into double-stranded DNA, which integrase then inserts into the host genome as a provirus.",
+  "source": "Generated from 2. Immunology.pdf - HIV and AIDS: HIV structure and life cycle"
+}
+]

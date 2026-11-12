@@ -1,0 +1,125 @@
+[
+{
+  "id": "immuno-041",
+  "subject": "Immunology",
+  "major_topic": "Autoimmune Diseases",
+  "subtopic": "Antiphospholipid syndrome",
+  "difficulty": "easy",
+  "vignette": "A 29-year-old woman at 30 weeks gestation presents with painless vaginal bleeding and decreased fetal movement. Three years earlier she had a deep vein thrombosis during a course of oral contraceptives, and last year she had a transient episode of right-arm weakness that resolved in 24 hours. Blood pressure is 158/104 mmHg and urine protein is 3+ with a platelet count of 78,000/mm3. Serologies return positive for IgG anticardiolipin antibodies on two occasions 14 weeks apart, with a markedly prolonged aPTT that does not correct on a 1:1 mix with normal plasma.",
+  "question": "Which of the following most likely explains the failure of the mixing study to correct?",
+  "options": [
+    {
+      "id": "A",
+      "text": "An acquired inhibitor directed against a phospholipid-binding protein, which neutralizes added coagulation factors in vitro"
+    },
+    {
+      "id": "B",
+      "text": "Consumption of factors V and VIII within the placental circulation"
+    },
+    {
+      "id": "C",
+      "text": "An antibody against platelet glycoprotein Ib causing rapid platelet clearance"
+    },
+    {
+      "id": "D",
+      "text": "A congenital deficiency of a coagulation factor that becomes apparent only during pregnancy"
+    },
+    {
+      "id": "E",
+      "text": "A deficiency of von Willebrand factor cleaving protease due to autoantibodies"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Antiphospholipid syndrome is caused by autoantibodies (lupus anticoagulant, anticardiolipin, anti-beta-2 glycoprotein I) that bind phospholipid-protein complexes. In vitro these antibodies interfere with assembly of the tenase and prothrombinase complexes, producing a paradoxically prolonged aPTT that fails to correct with normal plasma because the antibody is an inhibitor of the assay rather than a factor deficiency. In vivo the antibody promotes a prothrombotic state, which here manifests as recurrent venous thrombosis, stroke, and - during pregnancy - severe preeclampsia with fetal growth restriction and loss. Note the classic lupus anticoagulant paradox: prolonged clotting time in the tube but thrombosis in the patient.",
+  "explanation_incorrect": {
+    "B": "Consumption coagulopathy such as DIC would also lower fibrinogen, raise D-dimer, and typically correct partially with factor replacement rather than persist as a stable inhibitor pattern.",
+    "C": "Anti-glycoprotein Ib antibodies cause immune thrombocytopenic purpura, which produces thrombocytopenia and bleeding, not recurrent venous thrombosis with a prolonged aPTT.",
+    "D": "A congenital factor deficiency would correct with 1:1 mixing of normal plasma because the missing factor is supplied; persistence of the prolongation implies an inhibitor.",
+    "E": "Antibodies to ADAMTS13 cause acquired thrombotic thrombocytopenic purpura, characterized by microangiopathic hemolysis and severely reduced ADAMTS13 activity, not a prolonged aPTT."
+  },
+  "educationalObjective": "A persistently prolonged aPTT that does not correct on mixing, together with recurrent thrombosis and pregnancy loss, indicates a lupus anticoagulant of antiphospholipid syndrome.",
+  "source": "Generated from 2. Immunology.pdf - Autoimmune Diseases: Antiphospholipid syndrome"
+},
+{
+  "id": "immuno-042",
+  "subject": "Immunology",
+  "major_topic": "Autoimmune Diseases",
+  "subtopic": "Antiphospholipid syndrome",
+  "difficulty": "medium",
+  "vignette": "A 34-year-old woman with systemic lupus erythematosus presents with a swollen, painful left calf. Ultrasound shows a popliteal vein thrombosis. She also reports a history of two first-trimester miscarriages. She is currently stable on hydroxychloroquine and prednisone 5 mg daily. Labs: aPTT 68 seconds (reference 25-35), platelets 140,000/mm3, normal prothrombin time, and elevated anticardiolipin IgG titers confirmed on repeat testing 12 weeks later.",
+  "question": "Which of the following is the most appropriate management for her condition?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Fresh frozen plasma to correct the prolonged aPTT"
+    },
+    {
+      "id": "B",
+      "text": "Platelet transfusion followed by splenectomy"
+    },
+    {
+      "id": "C",
+      "text": "Lifelong anticoagulation with warfarin targeting an INR of 2-3"
+    },
+    {
+      "id": "D",
+      "text": "High-dose systemic corticosteroids alone"
+    },
+    {
+      "id": "E",
+      "text": "Cryoprecipitate to replace deficient factor VIII"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Three or more pregnancy losses or recurrent thromboses with persistently positive antiphospholipid antibodies establish the diagnosis. Because the expanded aPTT reflects an in vitro artifact and the antibody is prothrombotic, therapy is prolonged, usually warfarin with an INR of 2-3 (or higher for arterial events). Hydroxychloroquine is continued for the underlying lupus, and plasma exchange or IVIG is reserved for catastrophic APS. Transfusing plasma to 'fix' the aPTT would be treating the laboratory, not the patient.",
+  "explanation_incorrect": {
+    "A": "Fresh frozen plasma would not correct the lupus anticoagulant effect and could paradoxically add more phospholipid substrate while exposing her to volume overload.",
+    "B": "Splenectomy treats immune thrombocytopenia; her platelet count of 140,000/mm3 is nearly normal and there is no evidence of ITP.",
+    "D": "Corticosteroids do not prevent the thrombotic complications of antiphospholipid syndrome and do not substitute for anticoagulation.",
+    "E": "Cryoprecipitate is used for fibrinogen or factor VIII replacement and is inappropriate in the presence of an inhibitor."
+  },
+  "educationalObjective": "Patients with antiphospholipid syndrome and thrombotic events require prolonged warfarin anticoagulation rather than treatment aimed at correcting the aPTT.",
+  "source": "Generated from 2. Immunology.pdf - Autoimmune Diseases: Antiphospholipid syndrome"
+},
+{
+  "id": "immuno-043",
+  "subject": "Immunology",
+  "major_topic": "Autoimmune Diseases",
+  "subtopic": "Antiphospholipid syndrome",
+  "difficulty": "hard",
+  "vignette": "A 41-year-old man with a long-standing positive antiphospholipid antibody profile presents with 5 days of headaches, confusion, and a seizure. He is afebrile. Blood pressure is 168/100 mmHg and examination shows livedo reticularis and splinter hemorrhages. Labs: platelets 45,000/mm3, creatinine 3.1 mg/dL, schistocytes on smear, normal ADAMTS13 activity, and elevated D-dimer. Brain MRI shows multiple small infarcts in several vascular territories. Carotid ultrasound is normal.",
+  "question": "Which of the following best describes the pathophysiology of this presentation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Antibodies against myelin oligodendrocyte glycoprotein causing demyelination"
+    },
+    {
+      "id": "B",
+      "text": "Widespread small-vessel thrombosis driven by antiphospholipid antibodies affecting multiple organs simultaneously"
+    },
+    {
+      "id": "C",
+      "text": "Infection of cerebral endothelial cells by cytomegalovirus with subsequent vasculitis"
+    },
+    {
+      "id": "D",
+      "text": "Cholesterol embolization from a ruptured aortic plaque"
+    },
+    {
+      "id": "E",
+      "text": "Autoantibody-mediated destruction of neuromuscular junction acetylcholine receptors"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "This is catastrophic antiphospholipid syndrome: simultaneous microthromboses of three or more organs over a short period, producing renal failure, CNS infarcts, thrombocytopenia, and skin changes such as livedo reticularis. The mechanism is antiphospholipid antibody-induced activation of platelets and endothelial cells with complement-mediated injury, not large-vessel occlusion; therefore the carotid imaging is normal. Treatment is anticoagulation plus high-dose steroids and plasma exchange or IVIG.",
+  "explanation_incorrect": {
+    "A": "Anti-MOG antibodies cause demyelinating disease such as ADEM or optic neuritis, which would show white matter lesions rather than small-vessel infarcts in multiple territories with renal failure.",
+    "C": "Viral vasculitis is a rare cause of stroke in immunocompromised hosts and would not explain the combined renal, hematologic, and cutaneous findings in a patient with known antiphospholipid antibodies.",
+    "D": "Cholesterol emboli follow an arterial procedure or aortic plaque rupture and produce livedo and renal failure, but not multi-territory brain infarcts and thrombocytopenia with a positive antiphospholipid profile.",
+    "E": "Anti-acetylcholine receptor antibodies produce fatigable weakness of myasthenia gravis, which is unrelated to the microangiopathic picture here."
+  },
+  "educationalObjective": "Catastrophic antiphospholipid syndrome is multifocal small-vessel thrombosis causing multi-organ failure, treated with anticoagulation, steroids, and plasma exchange.",
+  "source": "Generated from 2. Immunology.pdf - Autoimmune Diseases: Antiphospholipid syndrome"
+}
+]

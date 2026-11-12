@@ -1,0 +1,166 @@
+[
+{
+  "id": "immuno-106",
+  "subject": "Immunology",
+  "major_topic": "Cellular Components",
+  "subtopic": "Neutrophils",
+  "difficulty": "easy",
+  "vignette": "A 4-year-old girl presents with fever and a cough productive of yellow-green sputum, with crackles and dullness at the right base. Chest radiograph shows right lower lobe consolidation, and sputum Gram stain shows numerous polymorphonuclear cells with gram-negative rods.",
+  "question": "Which function of the neutrophils present in her airway is the primary mechanism of killing of these bacteria?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Phagocytosis and oxidative killing by NADPH oxidase-derived reactive oxygen species"
+    },
+    {
+      "id": "B",
+      "text": "Secretion of antigen-specific antibodies"
+    },
+    {
+      "id": "C",
+      "text": "Presentation of lipid antigens by CD1d"
+    },
+    {
+      "id": "D",
+      "text": "Production of histamine and leukotriene B4 causing bronchoconstriction"
+    },
+    {
+      "id": "E",
+      "text": "Proliferation and differentiation into long-lived memory cells"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Neutrophils are the dominant phagocytes recruited during acute bacterial infection; they ingest opsonized bacteria and kill them through the respiratory burst and by releasing granule enzymes including myeloperoxidase and defensins. Failure of this system underlies chronic granulomatous disease. Their short lifespan and rapid recruitment explain the pus and polymorphonuclear predominance seen on the sputum Gram stain.",
+  "explanation_incorrect": {
+    "B": "Antibody secretion is a function of plasma cells, not neutrophils.",
+    "C": "CD1d-mediated lipid presentation is not a function of neutrophils.",
+    "D": "Histamine release is characteristic of mast cells and basophils; leukotriene B4 from neutrophils is mainly a chemoattractant.",
+    "E": "Neutrophils are terminally differentiated and short-lived, with no capacity for proliferation or memory generation."
+  },
+  "educationalObjective": "Neutrophils are the principal acute bacterial phagocytes, combining phagocytosis with oxidative and granular microbicidal mechanisms.",
+  "source": "Generated from 2. Immunology.pdf - Cellular Components: Neutrophils"
+},
+{
+  "id": "immuno-107",
+  "subject": "Immunology",
+  "major_topic": "Cellular Components",
+  "subtopic": "Neutrophils",
+  "difficulty": "medium",
+  "vignette": "A 3-week-old boy is brought in with a 2-day history of fever, poor feeding, and a swollen erythematous umbilicus. His umbilical cord detached at 5 weeks of age. Blood culture grows Staphylococcus aureus, and the wound has scant pus. Immunophenotyping shows normal lymphocyte subsets but the neutrophils do not express CD18.",
+  "question": "Which step of leukocyte extravasation is most directly impaired in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Selectin-mediated rolling"
+    },
+    {
+      "id": "B",
+      "text": "Integrin-mediated firm adhesion to the endothelium"
+    },
+    {
+      "id": "C",
+      "text": "Chemotaxis along a chemokine gradient"
+    },
+    {
+      "id": "D",
+      "text": "Phagocytosis of opsonized bacteria"
+    },
+    {
+      "id": "E",
+      "text": "Maturation of neutrophils in the bone marrow"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Leukocyte adhesion deficiency type I is caused by absent or defective CD18, the beta-2 integrin subunit that pairs with CD11a/b/c to form LFA-1, Mac-1, and p150,95. Without these integrins, neutrophils roll but cannot firmly adhere to endothelial ICAM-1, which manifests as delayed umbilical cord separation, recurrent skin and mucosal infections, and absence of pus. The persistent peripheral neutrophilia reflects failure of tissue entry.",
+  "explanation_incorrect": {
+    "A": "Rolling is mediated by selectins (L, E, and P selectin), which are intact in LAD; the defect is in firm adhesion.",
+    "C": "Chemotaxis depends on chemokine receptors and their G proteins, not on CD18 integrins.",
+    "D": "Opsonized phagocytosis relies on Fc and complement receptors and is not the primary defect in LAD.",
+    "E": "Neutrophil production in the marrow is normal, which is why blood counts are elevated rather than low."
+  },
+  "educationalObjective": "Leukocyte adhesion deficiency type I results from absent CD18 integrins, causing impaired firm adhesion, delayed cord separation, and infections without pus.",
+  "source": "Generated from 2. Immunology.pdf - Cellular Components: Neutrophils"
+},
+{
+  "id": "immuno-108",
+  "subject": "Immunology",
+  "major_topic": "Cellular Components",
+  "subtopic": "Neutrophils",
+  "difficulty": "medium",
+  "vignette": "A 62-year-old man with chronic myelogenous leukemia has a white blood cell count of 220,000/microL. He is admitted with a new fever and is started on antibiotics, but his fever persists and he has no signs of infection on imaging. The laboratory reports a markedly prolonged time to complete his complete blood count, and he develops a pulmonary infiltrate.",
+  "question": "Which explanation best accounts for the absence of a robust purulent response despite an overwhelming number of neutrophils?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Leukemic neutrophils are overactive and clear infection too rapidly"
+    },
+    {
+      "id": "B",
+      "text": "Their oxidative burst is unchanged and therefore irrelevant"
+    },
+    {
+      "id": "C",
+      "text": "Compartment shifting of neutrophils with functional impairment and oxidative burst deficiency"
+    },
+    {
+      "id": "D",
+      "text": "The disease prevents any neutrophil production from occurring"
+    },
+    {
+      "id": "E",
+      "text": "Reduced antibody titers from B-cell failure"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "In massive leukemoid or leukemic neutrophilia, many cells are functionally immature and abnormal, and a combination of margination, organ sequestration, and impaired oxidative burst can produce neutropenia-like infection risk despite high counts. The prolonged CBC turnaround can reflect leukostasis and clumping. Clinicians must not be reassured by a high absolute neutrophil count.",
+  "explanation_incorrect": {
+    "A": "Leukemic neutrophils are functionally impaired rather than hyperfunctional, and impaired killing does not prevent infection.",
+    "B": "An intact oxidative burst is required for bacterial killing; the assumption that it is unchanged and irrelevant confuses the mechanism.",
+    "D": "Production is clearly increased, evidenced by the massive white count.",
+    "E": "Hypogammaglobulinemia is not a feature of this neutrophilic disorder."
+  },
+  "educationalObjective": "A high absolute neutrophil count does not guarantee functionally competent neutrophils; immature or leukemic cells may have defective oxidative burst and impaired tissue function.",
+  "source": "Generated from 2. Immunology.pdf - Cellular Components: Neutrophils"
+},
+{
+  "id": "immuno-109",
+  "subject": "Immunology",
+  "major_topic": "Cellular Components",
+  "subtopic": "Neutrophils",
+  "difficulty": "hard",
+  "vignette": "A 7-year-old boy is evaluated after recurrent gingivitis with early tooth loss and recurrent skin infections. Blood smear shows neutrophils with abnormally large granules, and the child also has partial albinism of the hair and skin. His parents are consanguineous. He has a prolonged bleeding time and a history of easy bruising.",
+  "question": "Which cellular defect best explains the phenotype?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Defective NADPH oxidase assembly"
+    },
+    {
+      "id": "B",
+      "text": "Defective CD18 integrin expression"
+    },
+    {
+      "id": "C",
+      "text": "Microtubule and lysosomal trafficking failure (LYST mutation) with giant granules"
+    },
+    {
+      "id": "D",
+      "text": "Absent class I MHC expression"
+    },
+    {
+      "id": "E",
+      "text": "Deficiency of myeloperoxidase production"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Chediak-Higashi syndrome is a rare autosomal-recessive LYST gene defect causing defective fusion and trafficking of lysosomes into giant granules. The giant granules impair phagocyte degranulation and NK-cell perforin release, giving recurrent infection, and NK deficiency causes accelerated phase with hemophagocytic lymphohistiocytosis. Giant granules in leukocytes, partial albinism, platelets with gray bodies, and bleeding tendency are the classic triad.",
+  "explanation_incorrect": {
+    "A": "NADPH oxidase defects cause chronic granulomatous disease with normal granules and no albinism or giant platelets.",
+    "B": "CD18 integrin deficiency causes delayed cord separation and neutrophil leukocytosis, not giant granules.",
+    "D": "Absent class I MHC is seen in bare lymphocyte syndrome, which presents with viral and bacterial infections, not albinism.",
+    "E": "Myeloperoxidase deficiency is usually asymptomatic or causes only mild candidal disease and no giant granules."
+  },
+  "educationalObjective": "Chediak-Higashi syndrome from LYST mutation causes giant lysosomes, impaired degranulation, partial albinism, and risk of hemophagocytic lymphohistiocytosis.",
+  "source": "Generated from 2. Immunology.pdf - Cellular Components: Neutrophils"
+}
+]

@@ -1,0 +1,166 @@
+[
+{
+  "id": "immuno-182",
+  "subject": "Immunology",
+  "major_topic": "Immunodeficiencies",
+  "subtopic": "Severe combined immunodeficiency (SCID)",
+  "difficulty": "medium",
+  "vignette": "A 5-month-old girl presents with failure to thrive, chronic diarrhea, oral thrush, and severe Pneumocystis jirovecii pneumonia. Examination reveals a widespread erythematous rash following a recent smallpox (vaccinia) vaccination. Lymphocyte count is 200/microliter with absent T cells and severely reduced B cells. Chest radiograph shows no thymic shadow. She was breastfed and has retained maternal IgG.",
+  "question": "Which of the following abnormalities would be found on further evaluation of the girl's rash?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Eosinophilic microabscesses due to defective oxidative burst"
+    },
+    {
+      "id": "B",
+      "text": "Giant lysosomal granules in neutrophils due to impaired microtubule function"
+    },
+    {
+      "id": "C",
+      "text": "Absent thymic shadow with lymphopenia due to defective RAG-mediated V(D)J recombination"
+    },
+    {
+      "id": "D",
+      "text": "Immune complexes with low C4 due to a complement deficiency"
+    },
+    {
+      "id": "E",
+      "text": "Importantly, no abnormality because this is a self-limited benign vaccine reaction"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "This infant has SCID, most likely the RAG1/RAG2 autosomal recessive form, with absent T cells and no thymic shadow on radiograph (the classic 'no thymus' clue). Because T and B cells are absent, the patient cannot contain a live vaccine such as vaccinia and can develop progressive, potentially fatal vaccinia infection. Generalized vaccinia is a known consequence of live vaccination in SCID and other severe T-cell defects. The thymic aplasia, lymphopenia, and absent T cells all point to a failure of lymphocyte development, either through RAG-mediated V(D)J recombination or the common gamma chain.",
+  "explanation_incorrect": {
+    "A": "Eosinophilic microabscesses describe chronic granulomatous disease and tyrosinemia-related abnormalities, not SCID.",
+    "B": "Giant lysosomal granules are seen in Chediak-Higashi syndrome, which causes partial albinism and neutropenia with impaired chemotaxis.",
+    "D": "Low C4 with immune complexes suggests a complement deficiency such as C2 deficiency or SLE-like illness, which does not fit this presentation.",
+    "E": "In an infant with SCID, live vaccinia can disseminate and cause severe disease; the rash is not benign and vaccination is contraindicated."
+  },
+  "educationalObjective": "SCID presents with lymphopenia, absent thymic shadow, and vulnerability to opportunistic and live-vaccine organisms; vaccinia and BCG must be avoided.",
+  "source": "Generated from 2. Immunology.pdf - Immunodeficiencies: Severe combined immunodeficiency (SCID)"
+},
+{
+  "id": "immuno-183",
+  "subject": "Immunology",
+  "major_topic": "Immunodeficiencies",
+  "subtopic": "Severe combined immunodeficiency (SCID)",
+  "difficulty": "hard",
+  "vignette": "A 4-month-old boy presents with severe oral candidiasis, chronic diarrhea, and failure to thrive. He is the first child of unrelated parents. Laboratory studies reveal lymphopenia with absent T cells and absent natural killer cells but normal numbers of B cells that cannot produce antibody. A defect in the common gamma chain (CD132) of the IL-2 receptor family is found.",
+  "question": "The defective molecule in this patient is also shared by which of the following cytokines, explaining the absent natural killer cells?",
+  "options": [
+    {
+      "id": "A",
+      "text": "IL-1 and TNF-alpha, which mediate acute phase responses"
+    },
+    {
+      "id": "B",
+      "text": "IL-12 and IFN-gamma, which drive macrophage activation"
+    },
+    {
+      "id": "C",
+      "text": "IL-8 and C5a, which mediate neutrophil chemotaxis"
+    },
+    {
+      "id": "D",
+      "text": "IFN-alpha and IFN-beta, which mediate antiviral defenses"
+    },
+    {
+      "id": "E",
+      "text": "IL-7 and IL-15, which are required for T-cell and NK-cell development"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "X-linked SCID is the most common form of SCID and results from mutation in the common gamma chain (gamma-c), a shared signaling subunit of the receptors for IL-2, IL-4, IL-7, IL-9, IL-15, and IL-21. IL-7 is critical for thymocyte development, and IL-15 supports NK-cell development, so affected boys have absent T cells and absent NK cells with normal but functionally incompetent B cells (T-B+NK- SCID). This pattern contrasts with RAG-deficient SCID, which produces a T-B-NK+ phenotype.",
+  "explanation_incorrect": {
+    "A": "IL-1 and TNF-alpha signal through their own receptors and are central to innate inflammation, not through the common gamma chain.",
+    "B": "IL-12 and IFN-gamma drive Th1-mediated macrophage activation and defects here cause mycobacterial susceptibility, not SCID.",
+    "C": "IL-8 and C5a drive neutrophil chemotaxis and are unrelated to the IL-2 receptor family.",
+    "D": "Type I interferons mediate antiviral defenses and do not require the common gamma chain, so their signaling is intact in this patient."
+  },
+  "educationalObjective": "Common gamma chain (gamma-c) deficiency is X-linked T-B+NK- SCID, since gamma-c is shared by IL-2, IL-4, IL-7, IL-9, IL-15, and IL-21 receptors.",
+  "source": "Generated from 2. Immunology.pdf - Immunodeficiencies: Severe combined immunodeficiency (SCID)"
+},
+{
+  "id": "immuno-184",
+  "subject": "Immunology",
+  "major_topic": "Immunodeficiencies",
+  "subtopic": "Severe combined immunodeficiency (SCID)",
+  "difficulty": "medium",
+  "vignette": "A 6-month-old infant is diagnosed with SCID after presenting with Pneumocystis pneumonia and severe diarrhea. Live vaccines are withheld and protective isolation is initiated. The family asks about curative options and is told that the best chance of a normal immune system requires reconstitution of the T-cell compartment. There is no fully matched sibling donor.",
+  "question": "Which of the following is the most appropriate definitive therapy for this infant, and what is the main principle behind it?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Hematopoietic stem cell transplantation, because it replaces the absent lymphoid progenitors and restores adaptive immunity"
+    },
+    {
+      "id": "B",
+      "text": "Plasmapheresis to remove autoantibodies since SCID is an autoimmune disorder"
+    },
+    {
+      "id": "C",
+      "text": "High-dose corticosteroids to suppress the overactive inflammatory response"
+    },
+    {
+      "id": "D",
+      "text": "Interferon-gamma injections because the primary defect is in macrophage activation"
+    },
+    {
+      "id": "E",
+      "text": "Long-term erythromycin prophylaxis until the immune system matures naturally"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "SCID is a fatal disorder without intervention, and allogeneic hematopoietic stem cell transplantation (ideally before 3-6 months of age and before opportunistic infections) is the definitive therapy because it supplies normal lymphoid progenitors that can populate the thymus and reconstitute T, B, and NK compartments. Gene therapy has also been used in select forms such as gamma-c and ADA deficiency. Without intervention, most affected infants die within the first 2 years from opportunistic infections or live vaccine complications.",
+  "explanation_incorrect": {
+    "B": "SCID involves absent lymphocytes and antibody production, not pathogenic autoantibodies that could be removed by plasmapheresis.",
+    "C": "Corticosteroids would further suppress an already profoundly deficient immune system and are not definitive therapy.",
+    "D": "Interferon-gamma is used in some cases of chronic granulomatous disease but does not correct the lymphocyte development defect in SCID.",
+    "E": "Long-term antibiotic prophylaxis may reduce infections, but SCID does not resolve on its own and requires transplant or gene therapy."
+  },
+  "educationalObjective": "Hematopoietic stem cell transplantation before infection is the definitive cure for SCID, replacing missing lymphoid progenitors.",
+  "source": "Generated from 2. Immunology.pdf - Immunodeficiencies: Severe combined immunodeficiency (SCID)"
+},
+{
+  "id": "immuno-185",
+  "subject": "Immunology",
+  "major_topic": "Immunodeficiencies",
+  "subtopic": "Severe combined immunodeficiency (SCID)",
+  "difficulty": "easy",
+  "vignette": "A 2-month-old infant develops severe, protracted diarrhea with rotavirus, oral thrush, and failure to thrive. A chest radiograph obtained for mild respiratory symptoms shows no thymic shadow. Complete blood count shows an absolute lymphocyte count of 300/microliter (normal for age >2500). Serum immunoglobulins: IgG 120 mg/dL (maternal), IgA absent, IgM absent. The pediatrician orders flow cytometry.",
+  "question": "Which of the following flow cytometry patterns would be most consistent with X-linked SCID?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Normal T cells, normal B cells, normal NK cells with low Ig"
+    },
+    {
+      "id": "B",
+      "text": "Absent T cells, normal B cells, absent NK cells"
+    },
+    {
+      "id": "C",
+      "text": "Absent T cells, absent B cells, normal NK cells"
+    },
+    {
+      "id": "D",
+      "text": "Normal T cells, absent B cells, normal NK cells"
+    },
+    {
+      "id": "E",
+      "text": "Normal T cells with very high IgE and eosinophilia"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "X-linked SCID from common gamma chain deficiency gives the classic T-B+NK- phenotype: no T cells because IL-7 signaling is required for thymocyte survival, normal B cells (which cannot function without T-cell help), and no NK cells because IL-15 is needed for their development. Compare this with RAG1/RAG2-deficient SCID, which is T-B-NK+ due to failed V(D)J recombination rescuing neither T nor B cells while NK cells mature normally. Absent thymic shadow and severe lymphopenia are the clinical hallmarks.",
+  "explanation_incorrect": {
+    "A": "All three lineages being normal with low immunoglobulin suggests a pure humoral defect such as common variable immunodeficiency, not SCID.",
+    "C": "T-B-NK+ describes RAG1/RAG2 deficiency or Omenn syndrome, which arise from failed V(D)J recombination rather than gamma-c loss.",
+    "D": "T+B- is not a pattern of SCID; isolated absent B cells with normal T cells describes Bruton agammaglobulinemia.",
+    "E": "High IgE with eosinophilia and normal T cells suggests Omenn syndrome or hyper-IgE syndrome, not classic X-linked SCID."
+  },
+  "educationalObjective": "X-linked SCID (gamma-c deficiency) has a T-B+NK- lymphocyte phenotype, whereas RAG deficiency has a T-B-NK+ phenotype.",
+  "source": "Generated from 2. Immunology.pdf - Immunodeficiencies: Severe combined immunodeficiency (SCID)"
+}
+]

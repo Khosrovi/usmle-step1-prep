@@ -1,0 +1,125 @@
+[
+{
+  "id": "immuno-247",
+  "subject": "Immunology",
+  "major_topic": "Lymphoid Structures",
+  "subtopic": "Primary and secondary lymphoid organs",
+  "difficulty": "medium",
+  "vignette": "A 42-year-old woman with generalized myasthenia gravis undergoes thymectomy. Two years later her circulating CD4+ and CD8+ counts are modestly reduced, but she has no opportunistic infections and responds normally to vaccines and to new pathogens encountered since surgery.",
+  "question": "Which of the following best explains the absence of severe immunodeficiency after removal of a primary lymphoid organ?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The spleen assumes thymic T cell maturation after adolescence"
+    },
+    {
+      "id": "B",
+      "text": "Lymph nodes begin producing new naive T cells through germinal center reactions"
+    },
+    {
+      "id": "C",
+      "text": "The thymus is not required for T cell maturation at any age"
+    },
+    {
+      "id": "D",
+      "text": "Mature naive and memory T cells persist in the periphery and can expand by homeostatic proliferation"
+    },
+    {
+      "id": "E",
+      "text": "Bone marrow takes over positive selection of T cells"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "The thymus is a primary lymphoid organ where T cells undergo positive and negative selection, but its output is greatest early in life and declines sharply after puberty as the gland undergoes fatty involution. An adult who undergoes thymectomy still has a large pool of mature naive and memory T cells in secondary lymphoid organs, and these expand by homeostatic proliferation to maintain a stable repertoire. By contrast, congenital absence of the thymus in infancy, as in complete DiGeorge syndrome, produces profound T cell deficiency because no peripheral pool was ever established.",
+  "explanation_incorrect": {
+    "A": "The spleen is a secondary lymphoid organ and never performs positive or negative selection of T cells.",
+    "B": "Germinal center reactions activate mature B cells in secondary organs and cannot generate new naive T cells.",
+    "C": "The thymus is essential for T cell maturation in fetal and early postnatal life, as shown by complete DiGeorge syndrome.",
+    "E": "Positive selection of T cells occurs only on thymic cortical epithelial cells; the bone marrow cannot substitute for this function."
+  },
+  "educationalObjective": "Thymectomy in adults is well tolerated because mature peripheral T cells persist, whereas congenital athymia causes profound T cell deficiency.",
+  "source": "Generated from 2. Immunology.pdf - Lymphoid Structures: Primary and secondary lymphoid organs"
+},
+{
+  "id": "immuno-248",
+  "subject": "Immunology",
+  "major_topic": "Lymphoid Structures",
+  "subtopic": "Primary and secondary lymphoid organs",
+  "difficulty": "easy",
+  "vignette": "An 18-month-old boy has had recurrent otitis media, sinusitis, and pneumonia since 6 months of age. He has no visible tonsils, and lymph node aspiration after vaccination shows no germinal centers. Serum IgG, IgA, and IgM are all markedly reduced, while T cell numbers and mitogen responses are normal. Sequencing reveals a mutation in Bruton tyrosine kinase (BTK).",
+  "question": "The developmental step that is absent in this patient normally occurs in which of the following sites?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The thymic cortex, during positive selection"
+    },
+    {
+      "id": "B",
+      "text": "The bone marrow, during antigen-independent B cell maturation"
+    },
+    {
+      "id": "C",
+      "text": "Germinal centers of secondary lymphoid organs"
+    },
+    {
+      "id": "D",
+      "text": "The splenic marginal zone"
+    },
+    {
+      "id": "E",
+      "text": "The thymic medulla, during negative selection"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "B cells mature in the bone marrow, a primary lymphoid organ, where early pro-B cells rearrange immunoglobulin heavy-chain genes and progress through pre-B and immature B stages in an antigen-independent manner. BTK is required for pre-B cell receptor signaling, so X-linked agammaglobulinemia blocks this marrow stage, leaving virtually no circulating B cells. The absence of tonsils and germinal centers is a downstream consequence of having no mature B cells to populate secondary lymphoid organs; T cell development in the thymus proceeds normally.",
+  "explanation_incorrect": {
+    "A": "Positive selection in the thymic cortex generates T cells, which are normal in this patient, not B cells.",
+    "C": "Germinal centers are sites of antigen-dependent B cell activation; they are empty here only because marrow B cell maturation failed.",
+    "D": "The splenic marginal zone hosts mature marginal-zone B cells and does not generate new B cells from precursors.",
+    "E": "Negative selection of T cells in the thymic medulla is a T cell process that is unaffected in X-linked agammaglobulinemia."
+  },
+  "educationalObjective": "Antigen-independent B cell maturation occurs in the bone marrow, and its failure in X-linked agammaglobulinemia causes absent B cells, tonsils, and germinal centers.",
+  "source": "Generated from 2. Immunology.pdf - Lymphoid Structures: Primary and secondary lymphoid organs"
+},
+{
+  "id": "immuno-249",
+  "subject": "Immunology",
+  "major_topic": "Lymphoid Structures",
+  "subtopic": "Primary and secondary lymphoid organs",
+  "difficulty": "easy",
+  "vignette": "A 9-year-old boy undergoes an uncomplicated laparoscopic appendectomy for acute appendicitis. Histology of the specimen shows abundant lymphoid tissue with numerous germinal centers in the appendiceal wall. At follow-up 1 year later he has had no increase in infections and has mounted normal antibody responses to routine vaccinations.",
+  "question": "Which of the following best explains this observation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The appendix is a primary lymphoid organ whose function is duplicated by the thymus"
+    },
+    {
+      "id": "B",
+      "text": "Appendiceal lymphoid tissue is primarily involved in clearance of senescent erythrocytes"
+    },
+    {
+      "id": "C",
+      "text": "Germinal centers in the appendix are vestigial and never participate in immune responses"
+    },
+    {
+      "id": "D",
+      "text": "Splenic white pulp cannot compensate for any loss of mucosal immune function"
+    },
+    {
+      "id": "E",
+      "text": "The appendix is a secondary lymphoid organ, and lymphocyte activation is shared redundantly by other mucosal lymphoid tissues"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "The appendix is a secondary lymphoid organ containing mucosa-associated lymphoid tissue that samples luminal antigen, supports germinal center reactions, and contributes to secretory IgA responses. Lymphocytes are already generated and selected in the primary organs (bone marrow and thymus), so removing one secondary organ does not abolish the capacity to respond to antigen. Because Peyer patches, the tonsils, and other MALT sites perform the same function, appendectomy produces no clinically important immunodeficiency, which is why it is also used in the treatment of refractory ulcerative colitis.",
+  "explanation_incorrect": {
+    "A": "The appendix is not a primary lymphoid organ; primary organs are the bone marrow and thymus, where lymphocyte maturation occurs.",
+    "B": "Erythrocyte clearance is a function of splenic red pulp macrophages, not appendiceal lymphoid tissue.",
+    "C": "Appendiceal germinal centers are functional and actively participate in mucosal immune responses, as the histology shows.",
+    "D": "Splenic white pulp does contribute to systemic immunity, but redundancy among mucosal sites is what explains the benign course here."
+  },
+  "educationalObjective": "The appendix is a secondary lymphoid organ, so its removal does not impair immunity because other mucosal lymphoid tissues provide redundant antigen sampling.",
+  "source": "Generated from 2. Immunology.pdf - Lymphoid Structures: Primary and secondary lymphoid organs"
+}
+]

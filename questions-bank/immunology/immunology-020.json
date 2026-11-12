@@ -1,0 +1,166 @@
+[
+{
+  "id": "immuno-060",
+  "subject": "Immunology",
+  "major_topic": "Autoimmune Diseases",
+  "subtopic": "Systemic lupus erythematosus",
+  "difficulty": "easy",
+  "vignette": "A 25-year-old African American woman presents with 3 months of fatigue, arthralgias, and a rash. She describes a red eruption across her cheeks and the bridge of her nose, worsened after sun exposure, along with mouth ulcers and hair loss. She also has pleuritic chest pain. Labs reveal a positive ANA at 1:640, positive anti-double-stranded DNA, an elevated ESR, and normal complement C3/C4 levels. Urinalysis shows 3+ protein and 10 red blood cells per high-power field.",
+  "question": "Which of the following best explains why autoantibodies against nuclear antigens arise in this condition?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Central tolerance deletes B cells that recognize soluble self antigens presented in the bone marrow"
+    },
+    {
+      "id": "B",
+      "text": "Autoantibodies appear only after a preceding viral infection alters nuclear antigen processing"
+    },
+    {
+      "id": "C",
+      "text": "Apoptotic cell debris that is inefficiently cleared exposes unusual nuclear antigens, breaking tolerance in a genetically predisposed host"
+    },
+    {
+      "id": "D",
+      "text": "Depletion of regulatory T cells is sufficient on its own to cause lupus in every individual with a Treg defect"
+    },
+    {
+      "id": "E",
+      "text": "Complement deficiency prevents the clearance of immune complexes and is the single required cause of lupus"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Lupus arises when impaired clearance of apoptotic cells in a genetically susceptible host exposes nuclear antigens in a form that activates Toll-like receptors and dendritic cells. This drives loss of tolerance with anti-dsDNA and anti-Sm antibodies, immune complex formation, and complement-mediated tissue injury, including the class III and IV lupus nephritis suggested by her proteinuria and hematuria. The photosensitive rash reflects UV-induced keratinocyte apoptosis and increased autoantigen availability.",
+  "explanation_incorrect": {
+    "A": "Central tolerance in the bone marrow is incomplete for many self antigens, and anergy and peripheral checkpoints fail; B cells that recognize nuclear antigens can escape and persist.",
+    "B": "Viral infections may trigger flares, but anti-nuclear autoantibodies arise from loss of tolerance to self antigens, not from infection-altered processing as a required step.",
+    "D": "Treg defects contribute to autoimmunity but are not sufficient by themselves; lupus requires multiple genetic and environmental contributors.",
+    "E": "Deficiency of complement components 1, 2, or 4 may predispose to SLE, but deficiency alone does not cause lupus in most people; it is one of several contributing factors."
+  },
+  "educationalObjective": "Lupus results from impaired clearance of apoptotic debris that exposes nuclear antigens, breaking tolerance in genetically predisposed individuals and generating anti-dsDNA antibodies and immune complexes.",
+  "source": "Generated from 2. Immunology.pdf - Autoimmune Diseases: Systemic lupus erythematosus"
+},
+{
+  "id": "immuno-061",
+  "subject": "Immunology",
+  "major_topic": "Autoimmune Diseases",
+  "subtopic": "Systemic lupus erythematosus",
+  "difficulty": "medium",
+  "vignette": "A 24-year-old woman with known systemic lupus erythematosus presents with 2 weeks of hypertension and leg swelling. Urinalysis shows proteinuria of 2.5 g/day, hematuria, and red cell casts. Labs: anti-dsDNA positive, C3 and C4 both low, and creatinine 1.8 mg/dL. Renal biopsy shows diffuse endocapillary proliferation with subendothelial deposits, and immunofluorescence is positive for IgG, IgM, IgA, C3, and C1q.",
+  "question": "Which of the following best explains the low complement levels and the 'full house' immunofluorescence pattern?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Activation of the classical complement pathway by antigen-antibody complexes deposited in the glomerulus"
+    },
+    {
+      "id": "B",
+      "text": "Alternative pathway activation by bacterial lipopolysaccharide"
+    },
+    {
+      "id": "C",
+      "text": "Antibody-mediated destruction of erythrocytes causing a consumptive anemia"
+    },
+    {
+      "id": "D",
+      "text": "Deposition of beta-2 microglobulin from chronic hemodialysis"
+    },
+    {
+      "id": "E",
+      "text": "Hereditary deficiency of C1 inhibitor with angioedema"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "In lupus nephritis, circulating and in situ immune complexes containing dsDNA and anti-dsDNA antibodies fix C1q and activate the classical pathway, consuming C3 and C4 and producing low serum complement. The same complexes deposit in the glomerulus and produce the granular 'full house' immunofluorescence (IgG, IgM, IgA, C3, C1q) typical of diffuse proliferative (class IV) lupus nephritis. Low complement and rising anti-dsDNA titers correlate with disease flares.",
+  "explanation_incorrect": {
+    "B": "Alternative pathway activation by lipopolysaccharide occurs in sepsis and would lower C3 with normal C4, without anti-dsDNA or full-house deposits.",
+    "C": "Autoimmune hemolysis would cause anemia and a positive direct Coombs test but would not explain the glomerular lesions.",
+    "D": "Beta-2 microglobulin amyloid deposits occur in long-standing dialysis and appear as amyloid fibrils, not as immune complex-deposited immunoglobulins and C1q.",
+    "E": "C1 inhibitor deficiency causes hereditary angioedema with episodic swelling and low C4 but does not cause immune complex glomerulonephritis."
+  },
+  "educationalObjective": "Lupus nephritis shows low C3 and C4 from classical pathway activation with granular full-house immune deposits on immunofluorescence.",
+  "source": "Generated from 2. Immunology.pdf - Autoimmune Diseases: Systemic lupus erythematosus"
+},
+{
+  "id": "immuno-062",
+  "subject": "Immunology",
+  "major_topic": "Autoimmune Diseases",
+  "subtopic": "Systemic lupus erythematosus",
+  "difficulty": "medium",
+  "vignette": "A 31-year-old woman with systemic lupus erythematosus has been on prednisone and azathioprine for 2 years with good control. For the past 3 weeks she has had low-grade fevers, nonproductive cough, and progressive dyspnea. Examination reveals dry crackles at both bases but no rash, synovitis, or chest pain. CT of the chest shows reticular opacities and fibrotic changes at the lung bases. Labs: ESR 22, CRP normal, anti-dsDNA stable at a low titer, and complement levels normal. Sputum cultures and fungal studies are negative. She has been using azathioprine 150 mg daily.",
+  "question": "Which of the following is the most likely cause of her pulmonary symptoms?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Drug-induced pulmonary toxicity from azathioprine"
+    },
+    {
+      "id": "B",
+      "text": "Acute lupus pneumonitis"
+    },
+    {
+      "id": "C",
+      "text": "Diffuse alveolar hemorrhage from lupus vasculitis"
+    },
+    {
+      "id": "D",
+      "text": "Pulmonary embolism with infarction"
+    },
+    {
+      "id": "E",
+      "text": "Aspiration pneumonitis from chronic corticosteroid use"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Azathioprine, a thiopurine antimetabolite, can cause hypersensitivity-related pneumonitis and pulmonary fibrosis. The subacute onset with bibasilar reticular opacities, together with stable lupus activity markers (normal CRP, stable anti-dsDNA, normal complement, low ESR), points to an adverse drug effect rather than a lupus flare. Withdrawal of the drug is the key management step; patients should be warned about this rare but serious toxicity.",
+  "explanation_incorrect": {
+    "B": "Acute lupus pneumonitis usually occurs during active lupus flares with rising anti-dsDNA, falling complement, and acute diffuse infiltrates rather than fibrotic basilar changes.",
+    "C": "Diffuse alveolar hemorrhage would cause hemoptysis, anemia, and blood in the airways with falling hemoglobin, none of which are present.",
+    "D": "Pulmonary embolism would produce acute pleuritic pain and dyspnea with a high D-dimer, not bilateral basilar fibrosis with crackles.",
+    "E": "Aspiration pneumonitis would produce an acute febrile illness with segmental consolidation in dependent lobes and would not cause chronic basilar fibrotic changes."
+  },
+  "educationalObjective": "Azathioprine can cause drug-induced pneumonitis and fibrosis, which should be considered when pulmonary symptoms appear without evidence of active lupus.",
+  "source": "Generated from 2. Immunology.pdf - Autoimmune Diseases: Systemic lupus erythematosus"
+},
+{
+  "id": "immuno-063",
+  "subject": "Immunology",
+  "major_topic": "Autoimmune Diseases",
+  "subtopic": "Systemic lupus erythematosus",
+  "difficulty": "hard",
+  "vignette": "A 39-year-old man with long-standing systemic lupus erythematosus, on chronic high-dose corticosteroids and cyclophosphamide, presents with a 7 kg weight loss, chronic diarrhea, and abdominal pain. He is afebrile but has a swollen, erythematous right leg and a new serpiginous rash on the shoulder. Labs: neutrophils 3,200/mm3, anti-dsDNA decreased from prior values, complement normalized, and elevated D-dimer. CT abdomen shows small bowel wall thickening and mesenteric lymphadenopathy. Stool testing is pending.",
+  "question": "Which of the following is the most appropriate next step in evaluation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Increase immunosuppression with pulse methylprednisolone for a presumed lupus flare"
+    },
+    {
+      "id": "B",
+      "text": "Evaluate for opportunistic infection, including stool studies for mycobacteria, cytomegalovirus, and parasites"
+    },
+    {
+      "id": "C",
+      "text": "Begin anticoagulation for antiphospholipid syndrome without further testing"
+    },
+    {
+      "id": "D",
+      "text": "Initiate colonoscopy for suspected ulcerative colitis"
+    },
+    {
+      "id": "E",
+      "text": "Reassure the patient and closely follow up in 6 months"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "A changing serologic profile - falling anti-dsDNA and normal complement - argues against a lupus flare, making infection the leading concern in a patient on heavy immunosuppression. Opportunistic organisms such as Mycobacterium tuberculosis, cytomegalovirus, Clostridioides difficile, and Strongyloides must be sought before escalating immunosuppression, which could be catastrophic if he has an infection. The serpiginous rash and leg swelling further suggest a complicated infectious or thrombotic process that requires prompt investigation rather than empiric steroids.",
+  "explanation_incorrect": {
+    "A": "Escalating immunosuppression without excluding infection risks life-threatening dissemination and is not justified by decreasing anti-dsDNA and normal complement.",
+    "C": "While thrombosis risk is elevated, anticoagulation should follow confirmed imaging and antibody testing rather than be assumed.",
+    "D": "Inflammatory bowel disease is far less likely than infection in an immunosuppressed lupus patient with weight loss and diarrhea; stool studies come first.",
+    "E": "Weight loss with chronic diarrhea and a changing serologic picture in an immunocompromised host requires prompt evaluation, not delay."
+  },
+  "educationalObjective": "In immunosuppressed lupus patients with falling anti-dsDNA and normal complement, consider opportunistic infection before attributing symptoms to a lupus flare.",
+  "source": "Generated from 2. Immunology.pdf - Autoimmune Diseases: Systemic lupus erythematosus"
+}
+]

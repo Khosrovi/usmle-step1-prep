@@ -1,0 +1,166 @@
+[
+{
+  "id": "immuno-288",
+  "subject": "Immunology",
+  "major_topic": "Transplantation",
+  "subtopic": "HLA matching and immunosuppression",
+  "difficulty": "easy",
+  "vignette": "A 44-year-old woman with end-stage renal disease from idiopathic membranous nephropathy is starting induction immunosuppression after receiving a deceased-donor kidney transplant. The resident plans to start up-front therapy with cyclosporine, and the attending physician corrects him, stating that a different agent is used for induction because of a key mechanism-of-action gap. The patient is not thrombocytopenic and has no liver disease.",
+  "question": "In addition to a corticosteroid and a purine synthesis inhibitor, which of the following is most appropriate to include in this patient's initial maintenance regimen?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Basiliximab, because it promotes IL-2-mediated proliferation of T cells"
+    },
+    {
+      "id": "B",
+      "text": "Calcineurin inhibitor plus an mTOR inhibitor, since this combination avoids nephrotoxicity"
+    },
+    {
+      "id": "C",
+      "text": "Sirolimus monotherapy, because it blocks calcineurin-dependent IL-2 production"
+    },
+    {
+      "id": "D",
+      "text": "Cyclosporine, because it binds cyclophilin, inhibits calcineurin, and prevents T-cell activation and IL-2 production"
+    },
+    {
+      "id": "E",
+      "text": "Basiliximab, because it is a monoclonal antibody that blocks the IL-2 receptor on activated T cells"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Standard maintenance immunosuppression after a kidney transplant combines a corticosteroid, a purine synthesis inhibitor (mycophenolate or azathioprine), and a calcineurin inhibitor such as cyclosporine or tacrolimus. Cyclosporine binds cyclophilin, and tacrolimus binds FK506-binding protein; each drug-protein complex inhibits calcineurin, blocking dephosphorylation of NFAT and thereby preventing transcription of IL-2 and other T-cell activation genes. This is the central pharmacologic target, and it explains why both drugs are nephrotoxic.",
+  "explanation_incorrect": {
+    "A": "Basiliximab does the opposite: it is an IL-2 receptor antagonist that blocks the alpha chain (CD25) and inhibits IL-2-driven proliferation, so saying it promotes proliferation is backwards.",
+    "B": "A calcineurin inhibitor plus an mTOR inhibitor is not a standard initial three-drug regimen and combines overlapping toxicities rather than avoiding them; mTOR inhibitors can themselves worsen proteinuria and delay wound healing.",
+    "C": "Sirolimus inhibits mTOR downstream of IL-2 signaling and does not block calcineurin or IL-2 production, so it is not a substitute for a calcineurin inhibitor in this role.",
+    "E": "Basiliximab is correctly described but is used as part of induction therapy rather than as the replacement for a calcineurin inhibitor in maintenance immunosuppression."
+  },
+  "educationalObjective": "Cyclosporine and tacrolimus inhibit calcineurin via cyclophilin and FKBP respectively, blocking NFAT activation and IL-2 production, and are the backbone of maintenance immunosuppression.",
+  "source": "Generated from 2. Immunology.pdf - Transplantation: HLA matching and immunosuppression"
+},
+{
+  "id": "immuno-289",
+  "subject": "Immunology",
+  "major_topic": "Transplantation",
+  "subtopic": "HLA matching and immunosuppression",
+  "difficulty": "medium",
+  "vignette": "A 29-year-old woman undergoes living-related donor kidney transplantation from her brother after 3 years of hemodialysis for IgA nephropathy. Her preoperative panel reactive antibody level is 65%, and she was previously sensitized by two pregnancies and multiple blood transfusions. A complement-dependent cytotoxicity crossmatch performed with donor lymphocytes and her serum is positive for T-cell reactivity. The transplant team cancels the planned surgery.",
+  "question": "A positive crossmatch in this patient indicates which of the following?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Her serum contains antibodies that react against donor HLA antigens, predicting a high risk of hyperacute rejection"
+    },
+    {
+      "id": "B",
+      "text": "Her own T cells are killing donor lymphocytes in a cell-mediated manner, indicating preformed cellular rejection"
+    },
+    {
+      "id": "C",
+      "text": "There is an ABO blood group incompatibility between her and her brother"
+    },
+    {
+      "id": "D",
+      "text": "She has already developed de novo donor-specific antibodies from previous exposure to this brother's graft"
+    },
+    {
+      "id": "E",
+      "text": "She is not immunosuppressed enough for the transplant and simply needs a higher steroid dose preoperatively"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "The complement-dependent cytotoxicity crossmatch tests the recipient's serum against donor lymphocytes; a positive result means preformed antibodies in the recipient bind donor HLA and fix complement, predicting hyperacute rejection if the graft were implanted. Risk is highest in multiparous women, recipients of multiple transfusions, and previously transplanted patients, all of whom raise broad alloantibody repertoires reflected in a high panel reactive antibody level. For this reason, the combination of ABO compatibility and a negative crossmatch is the standard precondition for transplantation.",
+  "explanation_incorrect": {
+    "B": "The crossmatch detects antibody in the recipient's serum, not cytotoxic activity of live recipient T cells against donor cells, so it is not a test of preformed cellular rejection.",
+    "C": "ABO compatibility is assessed separately by blood typing, and an ABO mismatch would not be identified by a positive T-cell crossmatch against donor lymphocytes.",
+    "D": "De novo donor-specific antibodies arise after exposure to a graft, but this patient has never received this brother's kidney, so her sensitivity is from prior pregnancies, transfusions, or other exposures.",
+    "E": "A positive crossmatch reflects a qualitative contraindication from preformed donor-reactive antibody, which is not corrected by increasing steroids before surgery."
+  },
+  "educationalObjective": "A positive complement-dependent cytotoxicity crossmatch indicates preformed recipient antibodies against donor HLA and predicts hyperacute rejection.",
+  "source": "Generated from 2. Immunology.pdf - Transplantation: HLA matching and immunosuppression"
+},
+{
+  "id": "immuno-290",
+  "subject": "Immunology",
+  "major_topic": "Transplantation",
+  "subtopic": "HLA matching and immunosuppression",
+  "difficulty": "hard",
+  "vignette": "A 52-year-old man with end-stage liver disease from hepatitis C cirrhosis received an orthotopic liver transplant 7 weeks ago. He was initially maintained on tacrolimus and mycophenolate plus prednisone, but his tacrolimus troughs ran persistently above 15 ng/mL. He now presents with decreased urine output, rising creatinine from 0.9 to 2.3 mg/dL, and a new tremor with paresthesias. A tacrolimus trough is 18 ng/mL. Renal ultrasound shows no hydronephrosis or vascular thrombosis, and a donor-specific antibody assay is negative.",
+  "question": "Which of the following is the most likely cause of this patient's renal dysfunction?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Acute cellular rejection of the transplanted liver, causing hepatorenal syndrome"
+    },
+    {
+      "id": "B",
+      "text": "Pigment nephropathy from rhabdomyolysis caused by mycophenolate-induced myositis"
+    },
+    {
+      "id": "C",
+      "text": "Calcification of the renal parenchyma induced by chronic high-dose vitamin D and calcium"
+    },
+    {
+      "id": "D",
+      "text": "Cyclosporine nephrotoxicity from a cyclosporine level that is above the therapeutic range"
+    },
+    {
+      "id": "E",
+      "text": "Nephrotoxicity from supratherapeutic tacrolimus causing afferent arteriolar vasoconstriction"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Calcineurin inhibitors are directly nephrotoxic and produce a reversible, dose-dependent fall in glomerular filtration rate through vasoconstriction of the afferent arteriole, which can occur even in a patient with no kidney graft. A supratherapeutic tacrolimus trough with a concomitant tremor and paresthesia, the classic neurotoxicity of these agents, points strongly to this diagnosis, and the absence of hydronephrosis and donor-specific antibody makes obstruction and rejection unlikely. The main management step is dose reduction.",
+  "explanation_incorrect": {
+    "A": "Acute cellular rejection of the hepatic graft presents with fever, right upper quadrant pain, and elevated transaminases, and hepatorenal syndrome would not be accompanied by tremor or a supratherapeutic tacrolimus level.",
+    "B": "Mycophenolate does not cause myositis, and rhabdomyolysis with pigment nephropathy would show a markedly elevated creatine kinase and myoglobinuria, neither of which is described.",
+    "C": "Metastatic calcification of the kidney arises from chronic hypercalcemia, typically in a parathyroid disorder, and is not the expected cause of acute rising creatinine in this drug-treated transplant recipient.",
+    "D": "This patient is taking tacrolimus, not cyclosporine, so cyclosporine nephrotoxicity is not applicable even though the two share the same calcineurin-mediated mechanism."
+  },
+  "educationalObjective": "Calcineurin inhibitors such as tacrolimus cause dose-related nephrotoxicity via afferent arteriolar vasoconstriction and also produce tremor and paresthesias, so dose reduction is the key management step.",
+  "source": "Generated from 2. Immunology.pdf - Transplantation: HLA matching and immunosuppression"
+},
+{
+  "id": "immuno-291",
+  "subject": "Immunology",
+  "major_topic": "Transplantation",
+  "subtopic": "HLA matching and immunosuppression",
+  "difficulty": "medium",
+  "vignette": "A 26-year-old woman with end-stage renal disease secondary to focal segmental glomerulosclerosis receives a kidney from her father. Six weeks later she is maintained on tacrolimus, mycophenolate, and prednisone, and her creatinine is stable at 1.2 mg/dL. She presents with 3 days of dysuria and fever and is prescribed empiric oral antibiotics. Two weeks later she develops shallow oral ulcers, a painful perianal ulceration, and pancytopenia with a white blood cell count of 1.8 x 10^9/L.",
+  "question": "Which of the following is the most likely cause of her new findings?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Overimmunosuppression unmasked by severe infection with cytomegalovirus and reactivation leading to myelosuppression"
+    },
+    {
+      "id": "B",
+      "text": "Mycophenolate toxicity leading to bone marrow suppression and neutropenia"
+    },
+    {
+      "id": "C",
+      "text": "Acute cellular rejection of the renal allograft causing a systemic inflammatory state and pancytopenia"
+    },
+    {
+      "id": "D",
+      "text": "Reactivated Epstein-Barr virus causing a post-transplant lymphoproliferative disorder with cytopenias"
+    },
+    {
+      "id": "E",
+      "text": "post-transplant lymphoproliferative disorder caused by tacrolimus-induced hypogammaglobulinemia"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Mycophenolate inhibits inosine monophosphate dehydrogenase, blocking de novo purine synthesis that lymphocytes depend on, but the same pathway is needed by rapidly dividing cells elsewhere. Dose-dependent bone marrow suppression with neutropenia, thrombocytopenia, and anemia is common, and gastrointestinal side effects, including mouth and genital ulcers, are characteristic. Recognition matters because the correct response is dose reduction or drug substitution rather than intensifying immunosuppression.",
+  "explanation_incorrect": {
+    "A": "Cytomegalovirus disease in a transplant recipient usually presents as fever, leukopenia, pneumonitis, hepatitis, or colitis, and would typically require treatment of the virus rather than explaining the orogenital ulceration and pancytopenia as well.",
+    "C": "Acute cellular rejection targets the graft and elevates creatinine with graft tenderness and fever, and it does not cause systemic pancytopenia with mucosal ulcers.",
+    "D": "Post-transplant lymphoproliferative disorder typically presents as a lymphadenopathy or an extranodal mass months to years after transplant, and does not typically produce the acute mucosal ulcers and pancytopenia described.",
+    "E": "Post-transplant lymphoproliferative disorder is driven by EBV-driven B-cell proliferation under immunosuppression, not by tacrolimus-induced hypogammaglobulinemia."
+  },
+  "educationalObjective": "Mycophenolate causes dose-dependent bone marrow suppression and mucosal ulceration, so cytopenias in a transplant recipient should prompt dose reduction rather than more immunosuppression.",
+  "source": "Generated from 2. Immunology.pdf - Transplantation: HLA matching and immunosuppression"
+}
+]

@@ -25,12 +25,95 @@ interface SubjectStats {
   accuracy: number;
 }
 
+/**
+ * "Practice my weakest topics" - the roadmap item. Picks up to three subtopics
+ * that were actually attempted and scored below the 70% target, worst first,
+ * so the drill is always backed by real data rather than guesses.
+ */
+function WeakAreaCard({
+  topicStats,
+  disabled,
+  onPractice,
+}: {
+  topicStats: TopicStats[];
+  disabled: boolean;
+  onPractice: (subtopics: string[]) => void;
+}) {
+  const weakest = topicStats
+    .filter((t) => t.answered > 0 && t.total_questions > 0)
+    .sort((a, b) => a.accuracy - b.accuracy || b.answered - a.answered)
+    .slice(0, 3);
+  const hasWeak = weakest.length > 0 && weakest[0].accuracy < 70;
+
+  return (
+    <Card className="mb-8">
+      <CardHeader>
+        <CardTitle>🎯 Practice Your Weakest Topics</CardTitle>
+      </CardHeader>
+      <CardContent>
+        {!hasWeak ? (
+          <p className="text-sm text-muted-foreground">
+            {disabled
+              ? "Loading…"
+              : topicStats.some((t) => t.answered > 0)
+              ? "No weak areas yet — everything you've attempted is at or above 70%. Keep going."
+              : "Answer some questions first and your weakest sub-topics will show up here."}
+          </p>
+        ) : (
+          <>
+            <p className="text-sm text-muted-foreground mb-3">
+              Lowest accuracy among the topics you have attempted:
+            </p>
+            <ul className="mb-4 space-y-1">
+              {weakest.map((t) => (
+                <li
+                  key={t.subtopic}
+                  className="flex items-center justify-between text-sm"
+                >
+                  <span className="text-foreground">{t.subtopic}</span>
+                  <span className="text-red-600 dark:text-red-400 font-semibold">
+                    {t.accuracy}% ({t.correct}/{t.answered})
+                  </span>
+                </li>
+              ))}
+            </ul>
+            <Button
+              onClick={() => onPractice(weakest.map((t) => t.subtopic))}
+              className="bg-primary hover:bg-primary/90"
+            >
+              Practice These Topics
+            </Button>
+          </>
+        )}
+      </CardContent>
+    </Card>
+  );
+}
+
 function StatsContent() {
   const router = useRouter();
   const [subjectStats, setSubjectStats] = useState<SubjectStats[]>([]);
   const [topicStats, setTopicStats] = useState<TopicStats[]>([]);
   const [loading, setLoading] = useState(true);
   const [selectedSubject, setSelectedSubject] = useState("Biochemistry");
+  const [availableSubjects, setAvailableSubjects] = useState<string[]>([]);
+
+  // Subjects with at least one question, so the selector only offers real ones.
+  useEffect(() => {
+    supabase
+      .from("questions")
+      .select("subject")
+      .then(({ data }) => {
+        const subjects = Array.from(
+          new Set((data || []).map((row: { subject: string }) => row.subject))
+        ).sort();
+        setAvailableSubjects(subjects);
+        if (subjects.length > 0 && !subjects.includes(selectedSubject)) {
+          setSelectedSubject(subjects[0]);
+        }
+      });
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
 
   useEffect(() => {
     loadStats();
@@ -169,6 +252,22 @@ function StatsContent() {
       </header>
 
       <div className="max-w-6xl mx-auto p-8">
+        {/* Subject selector */}
+        {availableSubjects.length > 1 && (
+          <div className="flex flex-wrap items-center gap-2 mb-6">
+            <span className="text-sm text-muted-foreground mr-1">Subject:</span>
+            {availableSubjects.map((s) => (
+              <Button
+                key={s}
+                size="sm"
+                variant={s === selectedSubject ? "default" : "outline"}
+                onClick={() => setSelectedSubject(s)}
+              >
+                {s}
+              </Button>
+            ))}
+          </div>
+        )}
         {loading ? (
           <div className="text-center py-12">
             <p className="text-muted-foreground">Loading statistics...</p>
@@ -259,6 +358,19 @@ function StatsContent() {
               </CardContent>
             </Card>
 
+            {/* Weak-area practice */}
+            <WeakAreaCard
+              topicStats={topicStats}
+              disabled={loading}
+              onPractice={(subtopics) =>
+                router.push(
+                  `/quiz?subject=${encodeURIComponent(selectedSubject)}&mode=weak&subtopics=${subtopics
+                    .map(encodeURIComponent)
+                    .join(",")}`
+                )
+              }
+            />
+
             {/* Topic Breakdown */}
             <h2 className="text-xl font-semibold text-foreground mb-4">
               Performance by Topic
@@ -329,15 +441,6 @@ function StatsContent() {
 
                         <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
                           {topics.map((topic) => {
-                            const accuracyColor =
-                              topic.accuracy >= 70
-                                ? "text-green-600 dark:text-green-400"
-                                : topic.accuracy >= 50
-                                ? "text-yellow-600 dark:text-yellow-400"
-                                : topic.answered > 0
-                                ? "text-red-600 dark:text-red-400"
-                                : "text-muted-foreground";
-
                             return (
                               <Card
                                 key={topic.subtopic}

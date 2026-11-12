@@ -1,0 +1,125 @@
+[
+{
+  "id": "immuno-014",
+  "subject": "Immunology",
+  "major_topic": "Antibodies and Immunoglobulins",
+  "subtopic": "IgE",
+  "difficulty": "easy",
+  "vignette": "A 7-year-old boy is stung by a wasp and within minutes develops urticaria, wheezing, hypotension, and facial swelling. He is treated with intramuscular epinephrine with rapid improvement. Serum testing later reveals high levels of an allergen-specific antibody that binds to mast cells even before re-exposure to the allergen.",
+  "question": "Which immunoglobulin is responsible for the rapid mast-cell activation in this type I hypersensitivity reaction?",
+  "options": [
+    {
+      "id": "A",
+      "text": "IgG"
+    },
+    {
+      "id": "B",
+      "text": "IgA"
+    },
+    {
+      "id": "C",
+      "text": "IgM"
+    },
+    {
+      "id": "D",
+      "text": "IgE"
+    },
+    {
+      "id": "E",
+      "text": "IgD"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "IgE is the immunoglobulin responsible for type I immediate hypersensitivity. It exists mainly as a monomer and binds through its Fc region to high-affinity Fc epsilon receptors (FcepsilonRI) on mast cells and basophils. On re-exposure, allergen cross-links surface-bound IgE and triggers degranulation with release of histamine, tryptase, leukotrienes, and prostaglandins, producing urticaria, bronchospasm, and hypotension; epinephrine is the first-line treatment for anaphylaxis.",
+  "explanation_incorrect": {
+    "A": "IgG mediates type II and type III hypersensitivity and opsonization; it is not the major mast-cell-sensitizing antibody.",
+    "B": "IgA is the main mucosal antibody and does not mediate immediate anaphylaxis through mast cell degranulation in this way.",
+    "C": "IgM is a pentamer that activates complement strongly and is involved in early immune responses and ABO reactions, not type I hypersensitivity.",
+    "E": "IgD functions primarily as a B-cell receptor and does not bind mast-cell Fc epsilon receptors."
+  },
+  "educationalObjective": "IgE binds Fc epsilon receptors on mast cells and basophils and is the antibody responsible for type I hypersensitivity reactions such as anaphylaxis.",
+  "source": "Generated from 2. Immunology.pdf - Antibodies and Immunoglobulins: IgE"
+},
+{
+  "id": "immuno-015",
+  "subject": "Immunology",
+  "major_topic": "Antibodies and Immunoglobulins",
+  "subtopic": "IgE",
+  "difficulty": "medium",
+  "vignette": "A 12-year-old girl has seasonal allergic rhinitis with sneezing, rhinorrhea, and itchy eyes each spring. Her total serum IgE is elevated and skin-prick testing is positive for grass pollen. Her physician discusses the role of mast cell degranulation and the preformed and newly synthesized mediators released after allergen cross-links IgE.",
+  "question": "Which of the following best explains the immediate symptoms of sneezing and rhinorrhea in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Complement-mediated lysis of nasal epithelial cells by IgM"
+    },
+    {
+      "id": "B",
+      "text": "IgE-mediated mast cell degranulation with histamine release"
+    },
+    {
+      "id": "C",
+      "text": "Delayed-type hypersensitivity mediated by Th1 cells"
+    },
+    {
+      "id": "D",
+      "text": "Direct cytolysis by CD8+ cytotoxic T cells"
+    },
+    {
+      "id": "E",
+      "text": "Immune complex deposition in nasal vasculature"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Allergic rhinitis is a type I immediate hypersensitivity reaction. Allergen cross-links specific IgE bound to FcepsilonRI on mast cells in the nasal mucosa, triggering degranulation with preformed mediators such as histamine and tryptase that cause vasodilation, increased capillary permeability, and glandular hypersecretion, producing sneezing and rhinorrhea. Newly synthesized lipid mediators such as leukotrienes and prostaglandins plus cytokines contribute to the late-phase response.",
+  "explanation_incorrect": {
+    "A": "The symptoms are not due to complement lysis; no cell lysis is demonstrable, and histamine is the key mediator.",
+    "C": "Delayed-type hypersensitivity is a T-cell-mediated reaction peaking at 48-72 hours, not the immediate seasonal symptoms described.",
+    "D": "CD8+ T-cell cytotoxicity is not involved in allergic rhinitis; the reaction is IgE and mast-cell driven.",
+    "E": "Type III immune complex deposition causes serum sickness or vasculitis, not immediate sneezing and rhinorrhea."
+  },
+  "educationalObjective": "Allergic rhinitis is IgE-mediated type I hypersensitivity in which allergen cross-linking of mast-cell-bound IgE causes histamine release and immediate sneezing and rhinorrhea.",
+  "source": "Generated from 2. Immunology.pdf - Antibodies and Immunoglobulins: IgE"
+},
+{
+  "id": "immuno-016",
+  "subject": "Immunology",
+  "major_topic": "Antibodies and Immunoglobulins",
+  "subtopic": "IgE",
+  "difficulty": "medium",
+  "vignette": "A 26-year-old woman with severe asthma is started on omalizumab, a humanized monoclonal antibody, and her asthma exacerbations decrease markedly. The drug is administered subcutaneously every 2-4 weeks and binds to the region of IgE that would otherwise attach to high-affinity Fc epsilon receptors on mast cells and basophils.",
+  "question": "Omalizumab improves asthma by which of the following mechanisms?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Blocking the FcepsilonRIII on eosinophils"
+    },
+    {
+      "id": "B",
+      "text": "Activating complement and lysing IgE-secreting plasma cells"
+    },
+    {
+      "id": "C",
+      "text": "Binding free IgE and preventing it from attaching to FcepsilonRI on mast cells and basophils"
+    },
+    {
+      "id": "D",
+      "text": "Competing with IgE for Fc gamma receptors on macrophages"
+    },
+    {
+      "id": "E",
+      "text": "Inhibiting tryptase release by blocking mast cell histamine receptors"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Omalizumab is a monoclonal anti-IgE antibody that binds the Fc portion of free IgE at the site used to engage the high-affinity Fc epsilon receptor FcepsilonRI. By preventing IgE from docking on mast cells and basophils, allergen cannot cross-link surface IgE and degranulation is reduced, decreasing both early and late asthmatic responses. As free IgE falls, surface FcepsilonRI expression on these cells is also downregulated over time.",
+  "explanation_incorrect": {
+    "A": "There is no FcepsilonRIII; omalizumab targets free IgE's interaction with the high-affinity FcepsilonRI, not a receptor III on eosinophils.",
+    "B": "Omalizumab does not deplete IgE-secreting plasma cells and does not rely on complement-mediated lysis of those cells.",
+    "D": "Fc gamma receptors bind IgG rather than IgE, so competing for them would not inhibit IgE-mediated mast cell activation.",
+    "E": "Omalizumab does not block histamine H1 receptors and does not act by directly inhibiting tryptase release."
+  },
+  "educationalObjective": "Omalizumab is an anti-IgE monoclonal that binds free IgE, preventing its attachment to mast-cell FcepsilonRI and reducing allergic inflammation.",
+  "source": "Generated from 2. Immunology.pdf - Antibodies and Immunoglobulins: IgE"
+}
+]

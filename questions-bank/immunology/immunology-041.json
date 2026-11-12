@@ -1,0 +1,125 @@
+[
+{
+  "id": "immuno-135",
+  "subject": "Immunology",
+  "major_topic": "Complement System",
+  "subtopic": "Complement deficiencies",
+  "difficulty": "medium",
+  "vignette": "A 22-year-old man is admitted with a second episode of culture-proven Neisseria gonorrhoeae bacteremia in six months, plus several prior episodes of Neisseria meningitidis infection. His CH50 is low, and levels of C3 and C4 are normal. The infectious disease physician suspects a terminal complement component defect and orders specific assays.",
+  "question": "Which of the following is the most likely pattern of complement results in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Very low C4 with normal C3 and normal C5"
+    },
+    {
+      "id": "B",
+      "text": "Low C3 with low factor B and normal C5"
+    },
+    {
+      "id": "C",
+      "text": "Absent C1q with normal C3 and C4"
+    },
+    {
+      "id": "D",
+      "text": "Normal C3 and C4 with absent C5, C6, C7, or C8"
+    },
+    {
+      "id": "E",
+      "text": "Normal C3 and C4 with isolated C1 inhibitor deficiency"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Terminal complement component deficiencies (C5, C6, C7, and C8) present with recurrent disseminated infections by Neisseria species, especially meningococcus and gonococcus, because the membrane attack complex is critical for killing Gram-negative bacteria with thin or absent capsules. Because C5 through C9 act downstream of C3, C3 and C4 levels remain normal while the CH50 is reduced, since the CH50 measures MAC-dependent lysis of sensitized red cells. Screening therefore begins with CH50 followed by individual terminal component levels. The classic board association is recurrent Neisseria infection with a low CH50 and normal C3 and C4.",
+  "explanation_incorrect": {
+    "A": "A very low C4 with normal C3 points to a classical pathway substrate defect such as C2 or C4 deficiency, not a terminal component defect.",
+    "B": "Low C3 with low factor B suggests alternative pathway consumption or deficiency, which would not give the normal C3 and C4 pattern described.",
+    "C": "An absent C1q would indicate a classical pathway initiation defect and would typically lower C4 as well.",
+    "E": "C1 inhibitor deficiency is not a terminal component deficiency and presents as angioedema, not recurrent neisserial bacteremia."
+  },
+  "educationalObjective": "Deficiencies of C5 through C9 cause recurrent disseminated Neisseria infections with normal C3 and C4 but a reduced CH50.",
+  "source": "Generated from 2. Immunology.pdf - Complement System: Complement deficiencies"
+},
+{
+  "id": "immuno-136",
+  "subject": "Immunology",
+  "major_topic": "Complement System",
+  "subtopic": "Complement deficiencies",
+  "difficulty": "medium",
+  "vignette": "A 14-year-old girl has had multiple episodes of pneumonia, otitis media, and one episode of sepsis with Streptococcus pneumoniae. Immunoglobulins and lymphocyte subsets are normal. Complement testing shows a markedly low C3 and low CH50, with normal C1q and slightly reduced C4. She is diagnosed with factor I deficiency causing continuous C3 consumption.",
+  "question": "Which of the following best explains why this patient's C3 level is persistently low and her infections are severe?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Deficient C3-mediated opsonization and failure to generate adequate C5 convertase"
+    },
+    {
+      "id": "B",
+      "text": "Absent C1q preventing classical pathway initiation"
+    },
+    {
+      "id": "C",
+      "text": "Deficiency of C9 preventing pore formation"
+    },
+    {
+      "id": "D",
+      "text": "Deficiency of properdin preventing alternative convertase stabilization"
+    },
+    {
+      "id": "E",
+      "text": "Presence of an autoantibody against C5"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "C3 is the central hub of complement: C3b is the major opsonin recognized by complement receptors on phagocytes, and the C5 convertase is built on deposited C3b. In factor I deficiency, the absence of factor I permits unregulated fluid-phase and surface C3b amplification, which consumes C3 and its cofactors, so C3 levels fall. The result is impaired opsonization of encapsulated organisms and reduced C5 convertase generation, which explains severe suppurative infections. Secondary C3 deficiency from any cause, including consumption or advanced liver disease, produces the same clinical picture.",
+  "explanation_incorrect": {
+    "B": "A normal C1q in this patient argues against a classical initiation defect, and the low C3 points to a central C3 problem.",
+    "C": "C9 deficiency would not lower C3 and is associated with Neisseria rather than pneumococcal infections.",
+    "D": "Properdin deficiency reduces alternative pathway activity but does not typically cause such profound, continuous C3 depletion.",
+    "E": "An anti-C5 autoantibody would block terminal MAC formation but would not explain C3 reduction through consumption."
+  },
+  "educationalObjective": "C3 deficiency, whether congenital or secondary to uncontrolled consumption such as factor I deficiency, causes low C3, poor opsonization, and severe encapsulated bacterial infections.",
+  "source": "Generated from 2. Immunology.pdf - Complement System: Complement deficiencies"
+},
+{
+  "id": "immuno-137",
+  "subject": "Immunology",
+  "major_topic": "Complement System",
+  "subtopic": "Complement deficiencies",
+  "difficulty": "hard",
+  "vignette": "A 6-month-old infant born to consanguineous parents presents with failure to thrive, recurrent oral thrush, and chronic diarrhea. He has had several skin abscesses and two episodes of sepsis with Staphylococcus aureus. Laboratory studies show absent C3 on both immunochemical and functional testing, with normal C1q, C4, and immunoglobulins.",
+  "question": "In addition to severe infections, which of the following would be a characteristic immunologic consequence of this patient's underlying defect?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Hyperactivation of the alternative pathway causing dense deposit disease with C3 nephritic factor"
+    },
+    {
+      "id": "B",
+      "text": "Failure of B cell activation and absent germinal centers because C3d-mediated co-stimulation is lacking"
+    },
+    {
+      "id": "C",
+      "text": "Overproduction of C5a causing eosinophilia and allergic asthma"
+    },
+    {
+      "id": "D",
+      "text": "Uncontrolled classical pathway causing hereditary angioedema"
+    },
+    {
+      "id": "E",
+      "text": "Absent membrane attack complex on the erythrocyte surface causing paroxysmal nocturnal hemoglobinuria"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "This infant has congenital C3 deficiency, an autosomal recessive disorder caused by loss-of-function mutations in the C3 gene. Beyond its role as an opsonin, C3d, a degradation product of C3b, binds complement receptor 2 (CD21) on B cells and co-ligates with the B cell receptor, dramatically lowering the threshold for B cell activation. In C3 deficiency this CD21-CD19-CD81 co-stimulation fails, so germinal center formation and antibody responses to T-dependent antigens are impaired. Patients therefore have a combined innate and humoral immunodeficiency: severe infections with encapsulated and pyogenic bacteria plus defective antibody responses.",
+  "explanation_incorrect": {
+    "A": "C3 nephritic factor overactivates the alternative pathway in dense deposit disease and reflects complement dysregulation rather than C3 substrate deficiency.",
+    "C": "C3 deficiency reduces rather than increases C5 cleavage and C5a generation, so excessive C5a-mediated eosinophilia is not expected.",
+    "D": "Hereditary angioedema results from C1 inhibitor deficiency with bradykinin overproduction, not from C3 deficiency.",
+    "E": "Paroxysmal nocturnal hemoglobinuria arises from loss of GPI-anchored CD55 and CD59 on erythrocytes and is unrelated to C3 deficiency."
+  },
+  "educationalObjective": "C3 deficiency impairs opsonization and C3d-mediated B cell co-stimulation through CD21, causing both severe pyogenic infections and defective antibody responses.",
+  "source": "Generated from 2. Immunology.pdf - Complement System: Complement deficiencies"
+}
+]

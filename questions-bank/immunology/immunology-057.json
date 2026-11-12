@@ -1,0 +1,125 @@
+[
+{
+  "id": "immuno-191",
+  "subject": "Immunology",
+  "major_topic": "Immunodeficiencies",
+  "subtopic": "Common variable immunodeficiency",
+  "difficulty": "medium",
+  "vignette": "A 24-year-old woman presents with 3 years of recurrent sinusitis, bronchitis, and two episodes of pneumonia, along with a 10-kg weight loss and chronic watery diarrhea. Physical examination is notable for splenomegaly and mildly enlarged cervical lymph nodes. Laboratories show IgG 190 mg/dL, IgA 12 mg/dL, IgM 40 mg/dL, and normal T-cell and B-cell numbers with reduced memory B cells. Stool is positive for Giardia. She also has a history of an autoimmune hemolytic anemia.",
+  "question": "Which of the following best describes the pathophysiology and presentation of this patient's disorder?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Failure of B-cell class switching due to CD40 ligand deficiency presenting in infancy"
+    },
+    {
+      "id": "B",
+      "text": "Absent thymus and hypocalcemia from 22q11.2 deletion"
+    },
+    {
+      "id": "C",
+      "text": "Defective NADPH oxidase causing suppurative granulomas"
+    },
+    {
+      "id": "D",
+      "text": "Markedly deficient antibody production with normal B-cell numbers and a high risk of autoimmune disease and lymphoma"
+    },
+    {
+      "id": "E",
+      "text": "Congenital asplenia with susceptibility to encapsulated organisms"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Common variable immunodeficiency (CVID) is the most common symptomatic primary immunodeficiency in adults, characterized by hypogammaglobulinemia with normal or low B-cell numbers, impaired class switching, and poor antibody responses. Patients present in the second to fourth decade with recurrent sinopulmonary infections, chronic giardiasis or other gastrointestinal infections, splenomegaly, and granulomatous disease. A paradoxical feature is an elevated risk of autoimmune disorders (especially immune thrombocytopenia and autoimmune hemolytic anemia) and of lymphoid malignancies, which reflects dysregulated B-cell activation.",
+  "explanation_incorrect": {
+    "A": "CD40 ligand deficiency is X-linked hyper-IgM syndrome, which presents in boys in infancy with normal or elevated IgM and undetectable IgG and IgA.",
+    "B": "DiGeorge syndrome is a T-cell deficiency due to thymic hypoplasia with hypocalcemia and congenital heart disease, not adult-onset hypogammaglobulinemia.",
+    "C": "Defective NADPH oxidase describes chronic granulomatous disease, which causes recurrent suppurative infections rather than hypogammaglobulinemia.",
+    "E": "Congenital asplenia increases risk of sepsis from encapsulated organisms but does not cause hypogammaglobulinemia or autoimmunity of this type."
+  },
+  "educationalObjective": "CVID is adult-onset hypogammaglobulinemia with normal B-cell numbers, recurrent sinopulmonary and giardial infections, and paradoxical autoimmunity and lymphoma risk.",
+  "source": "Generated from 2. Immunology.pdf - Immunodeficiencies: Common variable immunodeficiency"
+},
+{
+  "id": "immuno-192",
+  "subject": "Immunology",
+  "major_topic": "Immunodeficiencies",
+  "subtopic": "Common variable immunodeficiency",
+  "difficulty": "hard",
+  "vignette": "A 34-year-old man with common variable immunodeficiency has been receiving intravenous immunoglobulin for 5 years. He now presents with fever, cough, and a solitary lung nodule on imaging. Biopsy shows noncaseating granulomas with negative stains for organisms. He also reports recent fatigue, and laboratory tests reveal a low platelet count and positive direct antiglobulin test with hemolysis.",
+  "question": "Which of the following is the most important reason to maintain immunoglobulin replacement in this patient, apart from preventing infection?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It cures the underlying B-cell class-switching defect"
+    },
+    {
+      "id": "B",
+      "text": "It is given purely to prevent Guillain-Barre syndrome"
+    },
+    {
+      "id": "C",
+      "text": "It suppresses autoantibody production directly and treats hemolytic anemia"
+    },
+    {
+      "id": "D",
+      "text": "It corrects the neutrophil oxidative burst defect"
+    },
+    {
+      "id": "E",
+      "text": "It reduces the frequency of infections that provoke granulomatous lung disease and helps prevent bronchiectasis"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "In CVID, immunoglobulin replacement reduces recurrent sinopulmonary infections that in turn drive chronic inflammation, granuloma formation in the lung, and progressive bronchiectasis, a leading cause of morbidity. Many patients also develop granulomatous-lymphocytic interstitial lung disease (GLILD) with noncaseating granulomas. Autoimmune cytopenias are managed separately with corticosteroids, rituximab, or other immunosuppressants, not by immunoglobulin alone.",
+  "explanation_incorrect": {
+    "A": "Immunoglobulin replacement provides passive antibody only; it does not correct the intrinsic B-cell defect, so therapy is lifelong.",
+    "B": "Guillain-Barre prevention is not the goal of replacement therapy; the aim is preventing infections and their complications.",
+    "C": "IVIG may have some immunomodulatory effect, but autoimmune hemolytic anemia in CVID usually requires immunosuppression such as steroids or rituximab.",
+    "D": "CVID is a humoral immunodeficiency and does not involve a phagocyte oxidative burst defect, so immunoglobulin cannot correct that."
+  },
+  "educationalObjective": "Immunoglobulin replacement in CVID is lifelong to prevent infection-driven granulomatous lung disease and bronchiectasis, while autoimmune cytopenias need separate therapy.",
+  "source": "Generated from 2. Immunology.pdf - Immunodeficiencies: Common variable immunodeficiency"
+},
+{
+  "id": "immuno-193",
+  "subject": "Immunology",
+  "major_topic": "Immunodeficiencies",
+  "subtopic": "Common variable immunodeficiency",
+  "difficulty": "easy",
+  "vignette": "A 29-year-old woman presents with recurrent bacterial bronchitis and one episode of pneumonia each year for the past 4 years. She has also had two episodes of herpes zoster. Serum studies show low IgG and low IgA with normal IgM. B-cell numbers are normal but switched memory B cells are reduced. Testing after vaccination shows an absent antibody response to protein and polysaccharide vaccines.",
+  "question": "Which of the following findings would most help distinguish her disorder from selective IgA deficiency?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Normal T-cell subsets"
+    },
+    {
+      "id": "B",
+      "text": "Presence of anaphylaxis to blood products"
+    },
+    {
+      "id": "C",
+      "text": "Absent tonsils on physical exam"
+    },
+    {
+      "id": "D",
+      "text": "Elevated serum alpha-fetoprotein"
+    },
+    {
+      "id": "E",
+      "text": "Low serum IgG with impaired antibody responses to vaccination"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Common variable immunodeficiency is defined by low total IgG (usually accompanied by low IgA and/or IgM) plus impaired specific antibody responses to vaccination, whereas selective IgA deficiency has normal IgG, IgM, and T-cell function. This distinction matters because only CVID warrants immunoglobulin replacement therapy. Both conditions can share recurrent sinopulmonary and gastrointestinal infections and increased autoimmunity, but the IgG level and functional antibody response separate them.",
+  "explanation_incorrect": {
+    "A": "Normal T-cell subsets occur in both selective IgA deficiency and CVID, so they do not distinguish the two conditions.",
+    "B": "Anti-IgA anaphylaxis can occur in IgA deficiency and is not a reliable discriminator between the two conditions.",
+    "C": "Absent tonsils reflect absent B-cell follicles, more typical of Bruton agammaglobulinemia, and can be seen in either condition.",
+    "D": "Elevated alpha-fetoprotein is characteristic of ataxia-telangiectasia and has no role in distinguishing CVID from IgA deficiency."
+  },
+  "educationalObjective": "CVID requires low IgG plus impaired functional antibody responses, whereas selective IgA deficiency spares IgG and explains why only CVID needs immunoglobulin replacement.",
+  "source": "Generated from 2. Immunology.pdf - Immunodeficiencies: Common variable immunodeficiency"
+}
+]

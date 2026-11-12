@@ -1,0 +1,125 @@
+[
+{
+  "id": "immuno-203",
+  "subject": "Immunology",
+  "major_topic": "Immunodeficiencies",
+  "subtopic": "Complement deficiencies",
+  "difficulty": "medium",
+  "vignette": "A 19-year-old man presents with a second episode of meningococcal meningitis in 2 years. Cultures grow Neisseria meningitidis. He has no history of recurrent sinopulmonary infections, and serum immunoglobulins are normal. CH50 is markedly reduced, but AP50 is normal. Further testing identifies a deficiency of the terminal complement pathway.",
+  "question": "Which of the following best explains his susceptibility and which deficiency is most likely?",
+  "options": [
+    {
+      "id": "A",
+      "text": "C3 deficiency causing impaired opsonization and susceptibility to encapsulated bacteria"
+    },
+    {
+      "id": "B",
+      "text": "C1 inhibitor deficiency causing hereditary angioedema"
+    },
+    {
+      "id": "C",
+      "text": "MBL deficiency causing severe combined immunodeficiency"
+    },
+    {
+      "id": "D",
+      "text": "Deficiency of C5-C9 preventing formation of the membrane attack complex, with susceptibility to Neisseria"
+    },
+    {
+      "id": "E",
+      "text": "C4 deficiency causing recurrent staphylococcal abscesses"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Terminal complement components C5 through C9 assemble the membrane attack complex, which directly lyses gram-negative bacteria, especially Neisseria species. Deficiency of any terminal component therefore produces recurrent disseminated neisserial infections, sometimes beginning in adolescence. CH50 measures the intact classical pathway and is absent or very low, while the alternative pathway AP50 remains normal; a blood vaccine series against Neisseria and appropriate prophylaxis are used for prevention.",
+  "explanation_incorrect": {
+    "A": "C3 deficiency impairs opsonization and antibody responses broadly, causing recurrent sinopulmonary infections with encapsulated bacteria rather than isolated Neisseria disease.",
+    "B": "C1 inhibitor deficiency causes hereditary angioedema with episodic swelling and is not a cause of recurrent meningitis.",
+    "C": "Mannose-binding lectin deficiency causes mildly increased infections in children but not severe combined immunodeficiency.",
+    "E": "C4 deficiency is associated with SLE-like autoimmunity and encapsulated organism infections, not recurrent staphylococcal abscesses."
+  },
+  "educationalObjective": "Terminal complement (C5-C9) deficiency causes recurrent Neisseria infections because membrane attack complex-mediated lysis is absent.",
+  "source": "Generated from 2. Immunology.pdf - Immunodeficiencies: Complement deficiencies"
+},
+{
+  "id": "immuno-204",
+  "subject": "Immunology",
+  "major_topic": "Immunodeficiencies",
+  "subtopic": "Complement deficiencies",
+  "difficulty": "hard",
+  "vignette": "A 26-year-old woman presents with a facial butterfly rash, oral ulcers, arthralgias, and proteinuria. Laboratory studies show a positive antinuclear antibody, low C4, low C3, and repeated low CH50. She has been treated for pneumococcal pneumonia twice. Genetic testing reveals complete C2 deficiency. Her parents are healthy carriers.",
+  "question": "Which of the following best explains the autoimmune features in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Deficiency of early classical complement components impairs clearance of apoptotic debris and immune complexes, predisposing to lupus-like autoimmunity"
+    },
+    {
+      "id": "B",
+      "text": "Excess C3 activation causes tissue damage independent of immune complexes"
+    },
+    {
+      "id": "C",
+      "text": "Absent C2 causes a defect in the membrane attack complex leading to bacterial sepsis only"
+    },
+    {
+      "id": "D",
+      "text": "Low C4 is solely due to complement consumption from her pneumonia episodes"
+    },
+    {
+      "id": "E",
+      "text": "C2 deficiency causes hypogammaglobulinemia and immune complex deposition"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Early classical pathway components (C1q, C1r, C1s, C2, C4) are needed for clearance of apoptotic cells and immune complexes by the reticuloendothelial system. Their deficiency leads to accumulation of self-antigens and immune complexes, producing a lupus-like syndrome with rash, arthritis, and glomerulonephritis. C2 deficiency is the most common inherited complement deficiency in white populations and also predisposes to encapsulated bacterial infections; it is inherited in an autosomal recessive manner.",
+  "explanation_incorrect": {
+    "B": "Deficiency, not excess, of early complement causes impaired immune complex clearance, so excess activation is not the mechanism here.",
+    "C": "C2 acts early in the classical pathway and is not part of the membrane attack complex, and C2 deficiency clearly has autoimmune consequences.",
+    "D": "Persistent low C4 with low C3 and a lupus-like presentation reflects an inherited complement deficiency plus immune complex consumption, not pneumonia alone.",
+    "E": "C2 deficiency does not cause hypogammaglobulinemia; immunoglobulin levels are typically normal."
+  },
+  "educationalObjective": "Deficiency of early classical complement components (especially C2 and C4) causes a lupus-like syndrome due to impaired clearance of apoptotic debris and immune complexes.",
+  "source": "Generated from 2. Immunology.pdf - Immunodeficiencies: Complement deficiencies"
+},
+{
+  "id": "immuno-205",
+  "subject": "Immunology",
+  "major_topic": "Immunodeficiencies",
+  "subtopic": "Complement deficiencies",
+  "difficulty": "medium",
+  "vignette": "A 4-year-old boy has had five episodes of pneumonia and two episodes of otitis media in the past 2 years, all caused by Streptococcus pneumoniae and Haemophilus influenzae. He also had a severe episode of chickenpox pneumonia. Laboratory studies show low C3, low factor B, and markedly reduced opsonic activity. Neutrophil oxidative burst testing is normal, and immunoglobulins are normal. Flow cytometry shows absent CD11/CD18.",
+  "question": "Which of the following is the MOST likely explanation for his susceptibility to encapsulated organisms?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Defective NADPH oxidase limiting intracellular killing"
+    },
+    {
+      "id": "B",
+      "text": "Deficiency of C3 or its regulators impairing opsonization of encapsulated bacteria"
+    },
+    {
+      "id": "C",
+      "text": "Absence of B cells preventing antibody production"
+    },
+    {
+      "id": "D",
+      "text": "Absence of the membrane attack complex"
+    },
+    {
+      "id": "E",
+      "text": "Deficiency of the common gamma chain"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "C3 deficiency is the most severe complement deficiency because C3b is the central opsonin for encapsulated bacteria; it also impairs amplification of the alternative pathway and generation of the membrane attack complex. Patients present in early childhood with recurrent sinopulmonary infections from pneumococcus, Haemophilus, and meningococcus, often with severe complications such as chickenpox pneumonia. Unlike terminal component deficiency, C3 deficiency produces infection with a broader range of pyogenic bacteria.",
+  "explanation_incorrect": {
+    "A": "The vignette states the neutrophil oxidative burst is normal, excluding chronic granulomatous disease.",
+    "C": "B-cell absence causes agammaglobulinemia, but this patient's immunoglobulins are normal.",
+    "D": "Terminal complement deficiency predisposes to Neisseria disease, not to the broad encapsulated bacteria pattern described here.",
+    "E": "Common gamma chain deficiency causes SCID with profound T-cell and NK-cell deficiency, not isolated opsonic defects with recurrent pneumococcal pneumonia."
+  },
+  "educationalObjective": "C3 deficiency is the most severe complement defect because C3b is the key opsonin for encapsulated pyogenic bacteria.",
+  "source": "Generated from 2. Immunology.pdf - Immunodeficiencies: Complement deficiencies"
+}
+]

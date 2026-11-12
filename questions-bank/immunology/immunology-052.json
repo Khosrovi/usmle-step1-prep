@@ -1,0 +1,125 @@
+[
+{
+  "id": "immuno-176",
+  "subject": "Immunology",
+  "major_topic": "Hypersensitivity Reactions",
+  "subtopic": "Hypersensitivity clinical scenarios",
+  "difficulty": "easy",
+  "vignette": "A 34-year-old woman has an extensive sunburn-like rash after taking lamotrigine for 3 weeks. Over the next 2 days the rash involves more than 30% of her body surface, and the more severely affected epidermis peels off the underlying dermis. She has fever, mucosal erosions of the mouth and eyes, and is paradoxically less tender than expected. Nikolsky sign is positive. Biopsy shows full-thickness epidermal necrosis with a sparse lymphocytic infiltrate.",
+  "question": "Which hypersensitivity mechanism underlies this reaction?",
+  "options": [
+    {
+      "id": "A",
+      "text": "IgE-mediated mast cell degranulation after lamotrigine exposure"
+    },
+    {
+      "id": "B",
+      "text": "Cytotoxic T-cell-mediated (type IV) epidermal injury triggered by drug-derived peptides presented on MHC"
+    },
+    {
+      "id": "C",
+      "text": "Immune complex deposition at the dermoepidermal junction with complement activation"
+    },
+    {
+      "id": "D",
+      "text": "IgG antibodies against desmoglein-3 causing acantholysis"
+    },
+    {
+      "id": "E",
+      "text": "Reduced C1 esterase inhibitor activity with bradykinin-mediated swelling"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Stevens-Johnson syndrome and toxic epidermal necrolysis are severe forms of type IV hypersensitivity, usually triggered by drugs such as lamotrigine, allopurinol, and sulfonamides. Drug-specific cytotoxic CD8+ T cells recognize peptide antigens presented on MHC class I in the epidermis and release granulysin and Fas ligand, producing widespread keratinocyte apoptosis and full-thickness epidermal necrosis. This explains the positive Nikolsky sign, the paradoxical sensory dissociation in toxic epidermal necrolysis, and the mucosal involvement. Genetic associations such as HLA-B*15:02 with carbamazepine illustrate the MHC-restricted nature of this response.",
+  "explanation_incorrect": {
+    "A": "IgE-mediated reactions occur within minutes of exposure, whereas this rash developed after 3 weeks.",
+    "C": "Immune complex reactions cause vasculitis or serum sickness rather than full-thickness epidermal necrosis.",
+    "D": "Anti-desmoglein antibodies cause pemphigus vulgaris with suprabasal acantholysis, not pan-epidermal necrosis.",
+    "E": "C1 inhibitor deficiency causes hereditary angioedema with deep swelling, not epidermal sloughing."
+  },
+  "educationalObjective": "Stevens-Johnson syndrome and toxic epidermal necrolysis are severe type IV hypersensitivity reactions in which cytotoxic T cells cause widespread keratinocyte apoptosis and epidermal necrosis.",
+  "source": "Generated from 2. Immunology.pdf - Hypersensitivity Reactions: Hypersensitivity clinical scenarios"
+},
+{
+  "id": "immuno-177",
+  "subject": "Immunology",
+  "major_topic": "Hypersensitivity Reactions",
+  "subtopic": "Hypersensitivity clinical scenarios",
+  "difficulty": "medium",
+  "vignette": "A 27-year-old woman is hospitalized with fever, hypotension, diffuse erythematous macular rash, and multi-organ dysfunction 4 weeks after starting an antibiotic. She reports having had a similar but milder rash with a different antibiotic 2 years earlier. Peripheral blood shows extreme eosinophilia (eosinophils 2,800/microL), atypical lymphocytes, and human herpesvirus-6 reactivation on viral studies. Liver enzymes are elevated, and she has facial edema and cervical lymphadenopathy.",
+  "question": "Which hypersensitivity pattern best explains this severe delayed drug reaction with eosinophilia and multi-organ involvement?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Type I hypersensitivity with circulating IgE against the antibiotic"
+    },
+    {
+      "id": "B",
+      "text": "Type II hypersensitivity with antibody-dependent destruction of eosinophils"
+    },
+    {
+      "id": "C",
+      "text": "Type III serum sickness due to immune complex deposition in joints and skin"
+    },
+    {
+      "id": "D",
+      "text": "Type IV hypersensitivity with CD8+ T cells, eosinophils, and viral reactivation producing a drug reaction with eosinophilia and systemic symptoms"
+    },
+    {
+      "id": "E",
+      "text": "Mast cell hyperproliferation with clonal KIT mutation but no drug exposure"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Drug reaction with eosinophilia and systemic symptoms (DRESS) or drug-induced hypersensitivity syndrome is a delayed type IV reaction, distinguished by eosinophilia, atypical lymphocytosis, facial edema, lymphadenopathy, and internal organ involvement such as hepatitis. The mechanism involves drug-specific T cells that produce IL-5 and other cytokines recruiting eosinophils, alongside cytotoxic CD8+ T-cell activation, and human herpesvirus-6 reactivation is a classic feature of the syndrome. Culprits include allopurinol, sulfonamides, and aromatic anticonvulsants. The 3-to-8-week latency reflects the delayed T-cell response.",
+  "explanation_incorrect": {
+    "A": "Type I reactions occur minutes after exposure and do not produce multi-week eosinophilia or organ dysfunction.",
+    "B": "Type II mechanisms destroy cells via antibody targeting and do not cause eosinophilia with lymphadenopathy and hepatitis.",
+    "C": "Serum sickness produces fever, urticaria, and arthralgias without marked eosinophilia or hepatitis.",
+    "E": "Systemic mastocytosis is a clonal KIT-mutation disorder without drug-triggered eosinophilic multi-organ hypersensitivity."
+  },
+  "educationalObjective": "DR E SS is a delayed type IV hypersensitivity reaction with drug-specific T cells, eosinophilia, and human herpesvirus-6 reactivation, not an immediate IgE phenomenon.",
+  "source": "Generated from 2. Immunology.pdf - Hypersensitivity Reactions: Hypersensitivity clinical scenarios"
+},
+{
+  "id": "immuno-178",
+  "subject": "Immunology",
+  "major_topic": "Hypersensitivity Reactions",
+  "subtopic": "Hypersensitivity clinical scenarios",
+  "difficulty": "hard",
+  "vignette": "A 9-year-old boy with severe, extensive atopic dermatitis since infancy has recurrent staphylococcal skin abscesses and one episode of staphylococcal pneumonia with pneumatocele formation. Total IgE is markedly elevated, and blood shows reduced interferon-gamma and Th17 cell function with markedly reduced STAT3 function. He also requires dental extraction of retained primary teeth and has broad nasal bridge and coarse facies. Serum anti-staphylococcal IgM responses are weak.",
+  "question": "Which explanation best fits the combined severe eczema and recurrent staphylococcal disease in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Loss of barrier and mucosal defense plus reduced Th17 responses with elevated IgE impair control of S aureus, and the eosinophilia and eczema reflect the atopic diathesis"
+    },
+    {
+      "id": "B",
+      "text": "A T-cell-mediated hypersensitivity reaction directly causing neutrophil abscesses on the skin"
+    },
+    {
+      "id": "C",
+      "text": "An IgE-mediated reaction to staphylococcal antigens that produces recurrent abscesses through mast cell degranulation"
+    },
+    {
+      "id": "D",
+      "text": "Deficient complement C5-C9 that prevents opsonization and causes all of his findings"
+    },
+    {
+      "id": "E",
+      "text": "Gain-of-function mutation in FcepsilonRI causing isolated mastocytosis without immunodeficiency"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "This child has hyper-IgE (Job) syndrome, most often caused by dominant-negative STAT3 mutations, which impairs Th17 differentiation and neutrophil recruitment to skin and lung, causing cold staphylococcal abscesses and pneumatoceles. The elevated IgE in the setting of Th2 skewing produces severe eczema, and the atopic skin barrier defect further increases S aureus colonization and infection. Thus the recurrent infections and eczema arise from combined barrier failure, Th17 defect, and atopic inflammation rather than from a single hypersensitivity class. Note that 'cold' abscesses lack classic erythema and pain.",
+  "explanation_incorrect": {
+    "B": "Hypersensitivity mechanisms do not create neutrophil-rich staphylococcal abscesses; the abscesses here result from impaired anti-staphylococcal immunity.",
+    "C": "IgE-mediated reactions cause urticaria or anaphylaxis, not cold abscesses; the elevated IgE is a marker of the immune dysregulation.",
+    "D": "Terminal complement deficiency causes recurrent Neisseria infections, not cold staphylococcal abscesses with elevated IgE.",
+    "E": "Isolated FcepsilonRI gain-of-function mastocytosis would not produce absent teeth, coarse facies, or recurrent staphylococcal pneumonia."
+  },
+  "educationalObjective": "Hyper-IgE syndrome combines STAT3-related Th17 deficiency (cold staphylococcal abscesses) with severe atopic dermatitis from elevated IgE and barrier dysfunction.",
+  "source": "Generated from 2. Immunology.pdf - Hypersensitivity Reactions: Hypersensitivity clinical scenarios"
+}
+]

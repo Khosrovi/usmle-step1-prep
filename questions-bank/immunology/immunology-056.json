@@ -1,0 +1,125 @@
+[
+{
+  "id": "immuno-188",
+  "subject": "Immunology",
+  "major_topic": "Immunodeficiencies",
+  "subtopic": "Chronic granulomatous disease",
+  "difficulty": "medium",
+  "vignette": "A 3-year-old boy presents with a 3-week history of fever and a persistent nonproductive cough. Chest radiograph shows a right middle lobe infiltrate. He has a history of recurrent skin abscesses and a liver abscess at age 2. Lymph node biopsy from a previous episode showed granulomas with central suppuration containing catalase-positive Staphylococcus aureus. Nitroblue tetrazolium (NBT) reduction test shows absent neutrophil staining.",
+  "question": "Which of the following organisms is this patient classically at highest risk for, and what is the mechanistic reason?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Streptococcus pneumoniae, because catalase-negative organisms are readily killed by the phagocytes"
+    },
+    {
+      "id": "B",
+      "text": "Pseudomonas aeruginosa, because it specifically produces catalase"
+    },
+    {
+      "id": "C",
+      "text": "Giardia lamblia, because antibody-mediated opsonization is absent"
+    },
+    {
+      "id": "D",
+      "text": "Adenovirus, because NK-cell numbers are deficient"
+    },
+    {
+      "id": "E",
+      "text": "Aspergillus fumigatus, because impaired phagocyte oxidative killing permits invasive fungal disease"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Chronic granulomatous disease (CGD) results from a defective NADPH oxidase complex, so phagocytes cannot generate the superoxide burst needed for intracellular killing. Patients are therefore susceptible to recurrent infections and abscesses from catalase-positive organisms, which degrade their own hydrogen peroxide and give no substrate to the phagocyte; classic culprits include Staphylococcus aureus, Serratia, Aspergillus, Nocardia, Burkholderia, and Candida. Invasive Aspergillus pneumonia is a feared complication, and the NBT or dihydrorhodamine test confirms the diagnosis by showing absent oxidative burst.",
+  "explanation_incorrect": {
+    "A": "Streptococcus pneumoniae is catalase-negative and its hydrogen peroxide can be used by phagocytes, so it is not a classic CGD pathogen.",
+    "B": "Pseudomonas can be seen in CGD, but Serratia and Burkholderia are more characteristic; the vignette already identifies Staphylococcus aureus and Aspergillus is the classic fungal threat.",
+    "C": "Absent antibody-mediated opsonization describes agammaglobulinemia, but this patient has a phagocyte oxidative burst defect.",
+    "D": "NK-cell deficiency permits severe viral infections, but Chediak-Higashi and SCID cause that, not the isolated oxidative killing defect of CGD."
+  },
+  "educationalObjective": "CGD causes defective superoxide production, leading to recurrent suppurative infections and granulomas from catalase-positive organisms including Aspergillus and Staphylococcus aureus.",
+  "source": "Generated from 2. Immunology.pdf - Immunodeficiencies: Chronic granulomatous disease"
+},
+{
+  "id": "immuno-189",
+  "subject": "Immunology",
+  "major_topic": "Immunodeficiencies",
+  "subtopic": "Chronic granulomatous disease",
+  "difficulty": "easy",
+  "vignette": "A 4-year-old boy with known chronic granulomatous disease presents with a nonhealing skin ulcer and enlarged cervical lymph nodes. A prior culture grew Aspergillus. The family reports he developed a small abscess at the site of a BCG vaccination. Immunoglobulin levels and lymphocyte subsets are normal. Testing demonstrates failure of nitroblue tetrazolium reduction by neutrophils.",
+  "question": "Which of the following would most likely also be found in this patient's neutrophils?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Decreased neutrophil counts with giant granules"
+    },
+    {
+      "id": "B",
+      "text": "Failure to generate superoxide anion and decreased respiratory burst measured by dihydrorhodamine assay"
+    },
+    {
+      "id": "C",
+      "text": "Absent B cells and absent plasma cells"
+    },
+    {
+      "id": "D",
+      "text": "Defective chemotaxis due to CD18 integrin deficiency"
+    },
+    {
+      "id": "E",
+      "text": "Absent granulocytes with agranulocytosis"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "The nitroblue tetrazolium test depends on phagocyte superoxide production to reduce the dye, so loss of NADPH oxidase function gives no reduction. The dihydrorhodamine (DHR) flow cytometry assay is the modern confirmatory test showing absent respiratory burst, and genetic testing often reveals X-linked CYBB mutations. Patients have normal neutrophil counts and normal immunoglobulin levels; their defect is strictly in oxidative killing, which explains susceptibility to catalase-positive organisms and to granuloma formation.",
+  "explanation_incorrect": {
+    "A": "Giant granules with neutropenia are features of Chediak-Higashi syndrome, caused by a lysosomal trafficking defect rather than NADPH oxidase failure.",
+    "C": "Absent B cells and plasma cells occur in Bruton agammaglobulinemia, but this patient has normal lymphocyte subsets and immunoglobulins.",
+    "D": "CD18 integrin deficiency causes leukocyte adhesion deficiency with impaired chemotaxis and delayed umbilical cord separation, not a respiratory burst defect.",
+    "E": "Agranulocytosis is not part of CGD, which has normal numbers of functionally defective neutrophils."
+  },
+  "educationalObjective": "CGD is confirmed by failure of the respiratory burst (NBT or dihydrorhodamine test) with normal neutrophil numbers and immunoglobulins.",
+  "source": "Generated from 2. Immunology.pdf - Immunodeficiencies: Chronic granulomatous disease"
+},
+{
+  "id": "immuno-190",
+  "subject": "Immunology",
+  "major_topic": "Immunodeficiencies",
+  "subtopic": "Chronic granulomatous disease",
+  "difficulty": "hard",
+  "vignette": "An 8-year-old boy with X-linked chronic granulomatous disease has recurrent liver abscesses and episodes of granulomatous colitis with perianal fistulas. His infections have been suppressed with prophylactic trimethoprim-sulfamethoxazole and itraconazole, but he remains unwell with restrictive lung disease from granulomas. There is no matched sibling donor.",
+  "question": "Which of the following therapies would be most appropriate to reduce the frequency of serious infectious complications in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Interferon-gamma with antibiotic and antifungal prophylaxis, with stem cell transplant considered for severe disease"
+    },
+    {
+      "id": "B",
+      "text": "High-dose corticosteroids to suppress granuloma formation"
+    },
+    {
+      "id": "C",
+      "text": "IgG replacement therapy as the sole treatment"
+    },
+    {
+      "id": "D",
+      "text": "Live attenuated vaccines to enhance cellular immunity"
+    },
+    {
+      "id": "E",
+      "text": "TNF-alpha inhibitors to treat the colitis"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Standard care for CGD includes prophylactic trimethoprim-sulfamethoxazole to cover bacterial infections, itraconazole to prevent Aspergillus, and interferon-gamma, which upregulates NADPH oxidase-independent defenses and reduces serious infections. Hematopoietic stem cell transplantation or gene therapy can be curative in severe or refractory disease, particularly when there is no sibling donor and quality of life is impacted. Anti-inflammatory therapy is used cautiously because it can increase infection risk.",
+  "explanation_incorrect": {
+    "B": "Corticosteroids suppress neutrophil function and immunity, which would worsen the patient's already defective microbial killing.",
+    "C": "Immunoglobulin replacement addresses humoral defects, whereas CGD is a phagocyte killing defect with intact antibody production.",
+    "D": "Live attenuated vaccines are contraindicated in significant immunodeficiencies because attenuated organisms can cause disseminated disease.",
+    "E": "TNF-alpha inhibitors are contraindicated because they markedly increase the risk of opportunistic infections, especially mycobacteria and fungi."
+  },
+  "educationalObjective": "CGD is managed with trimethoprim-sulfamethoxazole, itraconazole, and interferon-gamma, with stem cell transplant or gene therapy for severe disease.",
+  "source": "Generated from 2. Immunology.pdf - Immunodeficiencies: Chronic granulomatous disease"
+}
+]

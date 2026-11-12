@@ -1,0 +1,166 @@
+[
+{
+  "id": "immuno-321",
+  "subject": "Immunology",
+  "major_topic": "Vaccines",
+  "subtopic": "Vaccine contraindications and immunocompromised hosts",
+  "difficulty": "medium",
+  "vignette": "A 36-year-old woman at 28 weeks of gestation presents for a prenatal visit. She has normal vital signs and an uncomplicated pregnancy, and she is up to date with routine adult immunizations except that she has not received any vaccination during this pregnancy. She is offered an inactivated influenza vaccine and a tetanus-diphtheria-acellular pertussis vaccine today, and she is told that a live attenuated vaccine must wait.",
+  "question": "Which of the following is the most accurate statement about immunization in this pregnant patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Killed, toxoid and subunit vaccines are safe and recommended in pregnancy, whereas live attenuated viral vaccines such as MMR and varicella are contraindicated"
+    },
+    {
+      "id": "B",
+      "text": "Only live bacterial vaccines are safe during pregnancy; viral vaccines of any type are avoided"
+    },
+    {
+      "id": "C",
+      "text": "No vaccines of any type should be administered during pregnancy"
+    },
+    {
+      "id": "D",
+      "text": "Killed vaccines are contraindicated in pregnancy because mercury-containing adjuvants cross the placenta"
+    },
+    {
+      "id": "E",
+      "text": "Live attenuated viral vaccines are preferred in pregnancy because they provide the fetus with passive immunity"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Pregnancy is a state of relative cellular immune modulation, and live attenuated viral vaccines carry a theoretical risk that the attenuated organism could cross the placenta and infect the fetus, so MMR and varicella vaccines are avoided during pregnancy and given postpartum if indicated. Inactivated, toxoid and subunit vaccines are safe and actively recommended: inactivated influenza at any trimester and Tdap in each pregnancy, ideally at 27 to 36 weeks, so that maternal IgG is transferred to the fetus for protection after birth.",
+  "explanation_incorrect": {
+    "B": "No such rule exists; live bacterial vaccines such as typhoid Ty21a are also generally avoided during pregnancy.",
+    "C": "Vaccination during pregnancy is actively recommended, including influenza and Tdap, to protect both mother and newborn.",
+    "D": "Killed vaccines are recommended in pregnancy, and the claim that mercury-containing adjuvants crossing the placenta form the basis of a contraindication is incorrect.",
+    "E": "Live attenuated viral vaccines are contraindicated in pregnancy precisely because of the theoretical fetal infection risk."
+  },
+  "educationalObjective": "Pregnancy is a contraindication to live attenuated viral vaccines but an indication for inactivated influenza, Tdap and other nonliving vaccines.",
+  "source": "Generated from 2. Immunology.pdf - Vaccines: Vaccine contraindications and immunocompromised hosts"
+},
+{
+  "id": "immuno-322",
+  "subject": "Immunology",
+  "major_topic": "Vaccines",
+  "subtopic": "Vaccine contraindications and immunocompromised hosts",
+  "difficulty": "hard",
+  "vignette": "A 7-month-old boy is brought for evaluation of recurrent sinopulmonary infections and failure to thrive. He has had two episodes of pneumonia and persistent oral candidiasis. Laboratory studies show markedly decreased T-cell numbers, an absent thymic shadow on chest radiograph, and hypocalcemia with tetany. He has not yet received any live vaccines, but his parents ask whether he can receive the measles-mumps-rubella vaccine as scheduled.",
+  "question": "Which of the following best explains why live attenuated vaccines are absolutely contraindicated in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "His T cells cannot effectively destroy virus-infected cells, so attenuated vaccine organisms could cause disseminated or fatal disease"
+    },
+    {
+      "id": "B",
+      "text": "He lacks B cells, so he cannot form antibody to the vaccine antigens"
+    },
+    {
+      "id": "C",
+      "text": "His complement pathway is deficient, so opsonization of the vaccine virus fails"
+    },
+    {
+      "id": "D",
+      "text": "He has a defect in neutrophil oxidative burst, so bacteria cannot be cleared"
+    },
+    {
+      "id": "E",
+      "text": "He has an absent spleen, so the vaccine cannot be processed"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "This infant has DiGeorge syndrome (22q11.2 deletion) with thymic aplasia, profound T-cell deficiency and hypocalcemia from parathyroid hypoplasia. Cell-mediated immunity is essential for containing intracellular replication of attenuated vaccine viruses and other intracellular pathogens such as fungi, mycobacteria and Pneumocystis. In severe T-cell deficiency, vaccine strain MMR, varicella and rotavirus can replicate unchecked and cause disseminated disease or death, so live vaccines are withheld, whereas killed, subunit and toxoid vaccines are given with an expectation of a reduced response.",
+  "explanation_incorrect": {
+    "B": "His defect is primarily T-cell deficiency rather than agammaglobulinemia, and the critical vulnerability is failure to kill infected cells.",
+    "C": "Complement deficiency predisposes to encapsulated bacteria and meningococcal disease, not to uncontrolled replication of live vaccine viruses.",
+    "D": "Chronic granulomatous disease impairs killing of catalase-positive bacteria and fungi, which is not the mechanism in this patient.",
+    "E": "There is no asplenia here; the syndrome described is thymic aplasia with impaired T-cell immunity."
+  },
+  "educationalObjective": "Severe T-cell deficiency, as in DiGeorge syndrome or SCID, makes live attenuated vaccines dangerous because cell-mediated immunity is required to control replicating intracellular organisms.",
+  "source": "Generated from 2. Immunology.pdf - Vaccines: Vaccine contraindications and immunocompromised hosts"
+},
+{
+  "id": "immuno-323",
+  "subject": "Immunology",
+  "major_topic": "Vaccines",
+  "subtopic": "Vaccine contraindications and immunocompromised hosts",
+  "difficulty": "medium",
+  "vignette": "A 19-year-old college student receives the measles-mumps-rubella vaccine during a campus outbreak. Within 4 days he develops malaise, a low-grade fever and a fine maculopapular rash that fades over several days without complications. A resident asks whether this brief illness reflects a problem with the vaccine or an immune defect in the patient and how to counsel others about what to expect.",
+  "question": "Which of the following best explains the mild, self-limited illness this patient experienced after MMR vaccination?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It indicates that the vaccine contained an organism that reverted to wild-type virulence"
+    },
+    {
+      "id": "B",
+      "text": "It reflects generalized immune suppression caused by the carrier protein"
+    },
+    {
+      "id": "C",
+      "text": "It supports the concern that live attenuated vaccines cause immune reconstitution syndrome"
+    },
+    {
+      "id": "D",
+      "text": "It is an expected consequence of the vaccine virus establishing a limited, attenuated infection capable of causing a mild vaccine-strain disease"
+    },
+    {
+      "id": "E",
+      "text": "It proves that the mumps component is not attenuated and will cause parotitis"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Live attenuated vaccines are designed to produce a subclinical or mildly symptomatic, self-limited infection that faithfully mimics the immune stimulation of natural disease without the complications. A brief rash and low-grade fever several days after MMR, or a short-lived morbilliform eruption about a week after the combined vaccine, is a recognized expected reaction. Such reactions are not evidence of reversion, immune deficiency or failure, and they are distinct from the rare serious adverse events that require reporting.",
+  "explanation_incorrect": {
+    "A": "Attenuated vaccine strains are stabilized to be hypovirulent, and this well-described mild rash is not evidence of reversion to wild-type.",
+    "B": "There is no carrier protein inducing generalized immune suppression in MMR, which contains attenuated viruses with no adjuvant.",
+    "C": "Immune reconstitution syndrome is a phenomenon of restoring immunity in advanced HIV infection, not of routine live vaccination.",
+    "E": "Rare mumps vaccine-strain parotitis can occur, but a rash after MMR does not establish that the mumps component is unattenuated."
+  },
+  "educationalObjective": "Mild rash or fever days after a live attenuated vaccine is expected because the attenuated organism establishes a limited infection, and it is not evidence of a vaccine defect.",
+  "source": "Generated from 2. Immunology.pdf - Vaccines: Vaccine contraindications and immunocompromised hosts"
+},
+{
+  "id": "immuno-324",
+  "subject": "Immunology",
+  "major_topic": "Vaccines",
+  "subtopic": "Vaccine contraindications and immunocompromised hosts",
+  "difficulty": "easy",
+  "vignette": "A 58-year-old man is receiving cisplatin-based chemotherapy for non-small cell lung cancer. His oncologist reviews his routine immunizations at an interval between cycles. He has no fever or neutropenia and is clinically stable, and the plan is to administer the inactivated influenza vaccine and the pneumococcal conjugate vaccine before his next cycle.",
+  "question": "Which of the following best justifies giving nonliving vaccines to this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Nonliving vaccines provide superior protection to live vaccines in all patients and should replace them universally"
+    },
+    {
+      "id": "B",
+      "text": "Nonliving vaccines cannot cause the disease they prevent, so they can be given during immunosuppression, although the response may be reduced and higher or additional doses may be needed"
+    },
+    {
+      "id": "C",
+      "text": "Nonliving vaccines induce immunity without any need for T-cell or B-cell activity"
+    },
+    {
+      "id": "D",
+      "text": "Nonliving vaccines are only effective after chemotherapy is completed and have no value during treatment"
+    },
+    {
+      "id": "E",
+      "text": "Nonliving vaccines must be combined with immune globulin to be effective in cancer patients"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Killed, toxoid and subunit vaccines contain no replicating organism, so they cannot produce the infection they prevent even in an immunosuppressed host. They are therefore safe to administer during chemotherapy, although the antibody response is often diminished, which is why higher antigen content or additional doses are sometimes used and why immunizing before starting treatment is preferred when feasible. Live attenuated vaccines, by contrast, are contraindicated in actively immunosuppressed patients.",
+  "explanation_incorrect": {
+    "A": "Nonliving and live vaccines have different strengths and weaknesses, and live vaccines are preferred for some indications in immunocompetent hosts.",
+    "C": "Nonliving vaccines still require an intact adaptive immune response and will be less effective in lymphodepletion.",
+    "D": "Vaccination during treatment is recommended and can still produce partial protection, so it is not valueless.",
+    "E": "Immune globulin is not required for nonliving vaccine efficacy and would only add passive antibody without building memory."
+  },
+  "educationalObjective": "Nonliving vaccines are safe in immunocompromised patients because they cannot replicate, though immune responses may be blunted and may require extra or higher doses.",
+  "source": "Generated from 2. Immunology.pdf - Vaccines: Vaccine contraindications and immunocompromised hosts"
+}
+]

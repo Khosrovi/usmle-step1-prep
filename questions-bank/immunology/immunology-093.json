@@ -1,0 +1,166 @@
+[
+{
+  "id": "immuno-309",
+  "subject": "Immunology",
+  "major_topic": "Vaccines",
+  "subtopic": "Conjugate and mRNA vaccines",
+  "difficulty": "medium",
+  "vignette": "A 14-month-old boy is brought to the clinic for a well-child visit. He is unvaccinated because his parents declined all immunizations. His medical history includes one episode of pneumococcal bacteremia at age 9 months and two episodes of acute otitis media. He is growing normally, has no dysmorphic features, and his exam today is unremarkable. His pediatrician plans to begin catch-up immunization, and the parents want to know specifically why the pneumococcal vaccine differs from the tetanus vaccine in how it teaches the immune system.",
+  "question": "Which of the following best explains why the pneumococcal conjugate vaccine protects this toddler while a pure polysaccharide vaccine would not?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The polysaccharide is conjugated to a carrier protein, which allows polysaccharide-specific B cells to receive T-cell help and undergo class switching to IgG"
+    },
+    {
+      "id": "B",
+      "text": "The conjugate vaccine delivers preformed anti-capsular IgG directly into the circulation"
+    },
+    {
+      "id": "C",
+      "text": "Conjugation converts the polysaccharide into a live attenuated organism that persists in the nasopharynx"
+    },
+    {
+      "id": "D",
+      "text": "The carrier protein acts as an adjuvant that nonspecifically stimulates Toll-like receptor 4 on macrophages"
+    },
+    {
+      "id": "E",
+      "text": "Conjugate vaccines induce only a memory CD8+ T-cell response, bypassing the need for antibody"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "T-independent type 2 antigens such as pure capsular polysaccharides can activate B cells without T-cell help, generating mainly IgM with little class switching, no affinity maturation and a poor memory response, which is why polysaccharide vaccines work poorly in children under about 2 years of age. By covalently linking the polysaccharide to a carrier protein, the conjugate vaccine lets a polysaccharide-specific B cell internalize the complex, present carrier peptides on MHC II, and receive cognate help from carrier-specific CD4+ T cells. The result is germinal center maturation with class switching to IgG, affinity maturation and durable memory, and this mechanism underlies the striking reduction in invasive pneumococcal and Haemophilus influenzae type b disease in toddlers.",
+  "explanation_incorrect": {
+    "B": "Vaccines do not inject preformed antibody; passive immunity of that kind is provided by immune globulin preparations, not by conjugate vaccines.",
+    "C": "Conjugation does not create a live organism; conjugate vaccines contain killed, purified bacterial polysaccharide chemically linked to a protein.",
+    "D": "The carrier protein functions as a source of CD4+ T-cell epitopes, not as a nonspecific adjuvant acting through TLR4.",
+    "E": "Conjugate vaccines are designed to generate protective antibody responses, not CD8+ cytotoxic T-cell memory, and they do not bypass antibody."
+  },
+  "educationalObjective": "Conjugating a polysaccharide to a carrier protein converts a T-independent antigen into a T-dependent one, enabling class switching, affinity maturation and memory that protect infants.",
+  "source": "Generated from 2. Immunology.pdf - Vaccines: Conjugate and mRNA vaccines"
+},
+{
+  "id": "immuno-310",
+  "subject": "Immunology",
+  "major_topic": "Vaccines",
+  "subtopic": "Conjugate and mRNA vaccines",
+  "difficulty": "medium",
+  "vignette": "A 67-year-old man with chronic obstructive pulmonary disease and type 2 diabetes presents in late autumn with 2 days of fever, cough and pleuritic chest pain. Chest radiograph shows a right lower lobe infiltrate, and blood cultures grow Streptococcus pneumoniae. He reports that he received his annual influenza vaccine 3 weeks ago and that the day afterward he felt fatigued with low-grade fever and myalgia for about 24 hours. He asks his physician how a vaccine can be made without growing and killing the bacterium.",
+  "question": "Production of the mRNA component of the vaccines this patient received relies on which technology combined with a lipid nanoparticle carrier?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Reverse transcriptase from a replication-competent retrovirus"
+    },
+    {
+      "id": "B",
+      "text": "In vitro transcription of a DNA template by an RNA polymerase into mRNA"
+    },
+    {
+      "id": "C",
+      "text": "Chemical synthesis of the entire polysaccharide capsule"
+    },
+    {
+      "id": "D",
+      "text": "Live viral growth in embryonated chicken eggs"
+    },
+    {
+      "id": "E",
+      "text": "Insertion of the antigen gene into a yeast expression plasmid"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "mRNA vaccines are produced by in vitro transcription, in which a DNA template encoding the antigen (for example the spike protein) is transcribed into mRNA by a phage RNA polymerase; the mRNA is then encapsulated in lipid nanoparticles that protect it and deliver it into host cells. Inside the cell, the mRNA is translated into antigen, which is processed and presented on MHC I and MHC II to activate both CD8+ T cells and CD4+ helper cells. No infectious organism is grown, and the mRNA never enters the nucleus or alters the host genome, a key reassurance point for vaccine-hesitant patients.",
+  "explanation_incorrect": {
+    "A": "Reverse transcriptase is used by retroviruses to convert RNA into DNA, the opposite direction, and is not part of mRNA vaccine manufacture.",
+    "C": "Chemical synthesis of capsular polysaccharide describes conjugate vaccine production, not mRNA vaccine technology.",
+    "D": "Growth in embryonated eggs is the classic method for inactivated influenza vaccine and is unrelated to mRNA vaccines.",
+    "E": "Yeast plasmid expression is the classic route for recombinant subunit vaccines such as hepatitis B surface antigen."
+  },
+  "educationalObjective": "mRNA vaccines encode antigen in a DNA template that is transcribed in vitro and delivered by lipid nanoparticles so that host cells translate the antigen for immune presentation.",
+  "source": "Generated from 2. Immunology.pdf - Vaccines: Conjugate and mRNA vaccines"
+},
+{
+  "id": "immuno-311",
+  "subject": "Immunology",
+  "major_topic": "Vaccines",
+  "subtopic": "Conjugate and mRNA vaccines",
+  "difficulty": "hard",
+  "vignette": "A 5-year-old girl with a history of pneumococcal conjugate vaccination before age 2 years is admitted with fever, lethargy and nuchal rigidity. Cerebrospinal fluid shows neutrophilic pleocytosis, low glucose and high protein; Gram stain shows gram-positive diplococci, later identified as Streptococcus pneumoniae of a serotype not included in the earlier conjugate vaccine. She later develops profound hearing loss in the left ear. Her mother asks why a newer serotype could still infect her even though she was vaccinated.",
+  "question": "Which of the following best describes the immunologic limitation that permitted this infection?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Conjugate vaccines induce tolerance to all capsular polysaccharides after the first dose"
+    },
+    {
+      "id": "B",
+      "text": "Conjugate vaccines only generate IgM and are therefore unable to opsonize any serotype"
+    },
+    {
+      "id": "C",
+      "text": "Antibody generated by the conjugate vaccine is specific for the capsular polysaccharides included in the vaccine, so serotypes not covered are not opsonized"
+    },
+    {
+      "id": "D",
+      "text": "Conjugate vaccines abolish the mucosal secretory IgA response, predisposing to invasive disease"
+    },
+    {
+      "id": "E",
+      "text": "The vaccine replaced protective nasopharyngeal flora with antibiotic-resistant organisms"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Protection against pneumococcus is largely serotype specific, because the target of opsonizing antibody is the capsular polysaccharide, and there are more than 90 serotypes. Conjugate vaccines cover a selected subset (for example the 13- and 15- and 20-valent products), so a serotype not included can still cause invasive disease, and partial replacement disease by non-vaccine serotypes has been described. The vaccine does promote herd effects by reducing nasopharyngeal carriage of vaccine serotypes, but that benefit does not extend to uncovered serotypes, which explains why expanded-valent formulations were developed.",
+  "explanation_incorrect": {
+    "A": "Conjugate vaccines characteristically induce strong rather than tolerogenic responses to polysaccharide, which is the whole purpose of conjugation.",
+    "B": "Conjugation specifically drives class switching to IgG; a purely T-independent polysaccharide vaccine is the one limited to mainly IgM.",
+    "D": "Conjugate vaccination stimulates mucosal antibody and reduces carriage; it does not abolish secretory IgA or increase invasive disease risk.",
+    "E": "The vaccine does not itself introduce resistant organisms; disease here reflects lack of coverage for a non-vaccine serotype."
+  },
+  "educationalObjective": "Pneumococcal conjugate vaccines protect against the serotypes whose capsular polysaccharides they contain, so uncovered serotypes can still cause invasive disease.",
+  "source": "Generated from 2. Immunology.pdf - Vaccines: Conjugate and mRNA vaccines"
+},
+{
+  "id": "immuno-312",
+  "subject": "Immunology",
+  "major_topic": "Vaccines",
+  "subtopic": "Conjugate and mRNA vaccines",
+  "difficulty": "easy",
+  "vignette": "A 6-month-old infant with sickle cell disease is seen for routine care. Because of functional asplenia he is at high risk for fulminant infection with encapsulated organisms. His immunization schedule includes Haemophilus influenzae type b vaccine and pneumococcal conjugate vaccine, both given at 2, 4 and 6 months of age. His father asks whether the vaccine could possibly give his son the bacterial infection, since the bacteria are so dangerous for him.",
+  "question": "Which statement best explains why the conjugate vaccines given to this infant cannot cause pneumococcal or Haemophilus infection?",
+  "options": [
+    {
+      "id": "A",
+      "text": "They were heat-killed immediately before injection, after being stored live"
+    },
+    {
+      "id": "B",
+      "text": "Live attenuated organisms in the vaccine are immediately killed by maternal antibody in the infant's circulation"
+    },
+    {
+      "id": "C",
+      "text": "Conjugate vaccines are administered with prophylactic antibiotics that eliminate the organism"
+    },
+    {
+      "id": "D",
+      "text": "The vaccine contains only host-derived proteins rather than bacterial components"
+    },
+    {
+      "id": "E",
+      "text": "The product consists of purified capsular polysaccharide linked to a carrier protein, contains no viable organism, and therefore cannot replicate or cause infection"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Conjugate vaccines are subunit, non-living products: the bacterial capsular polysaccharide is purified and chemically linked to a carrier protein such as an inactive toxoid. Because no viable organism is present and nothing can replicate, these vaccines cannot cause invasive bacterial disease, which is an important reassurance for asplenic or otherwise high-risk infants. They still generate protective T-dependent antibody responses that provide opsonization, which is essential in a patient whose spleen does not clear encapsulated organisms efficiently.",
+  "explanation_incorrect": {
+    "A": "There is no live organism involved at any stage, so there is nothing to inactivate at the time of injection; the product is a purified subunit preparation.",
+    "B": "Although maternal antibody can blunt some vaccine responses, the absence of infection risk here is due to the absence of a viable organism, not to antibody killing it.",
+    "C": "Conjugate vaccines are not co-administered with prophylactic antibiotics specifically to contain a vaccine organism.",
+    "D": "The vaccine is built around a bacterial capsular polysaccharide, not composed solely of host-derived proteins."
+  },
+  "educationalObjective": "Conjugate vaccines are purified, non-replicating subunit products and therefore cannot cause the encapsulated bacterial infection they prevent.",
+  "source": "Generated from 2. Immunology.pdf - Vaccines: Conjugate and mRNA vaccines"
+}
+]

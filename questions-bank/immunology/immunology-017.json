@@ -1,0 +1,125 @@
+[
+{
+  "id": "immuno-051",
+  "subject": "Immunology",
+  "major_topic": "Autoimmune Diseases",
+  "subtopic": "Myasthenia gravis and Lambert-Eaton",
+  "difficulty": "easy",
+  "vignette": "A 30-year-old woman presents with 2 months of droopy eyelids and double vision that worsen in the evening and after prolonged reading. She also reports difficulty chewing and a nasal voice later in the day. Examination shows bilateral ptosis that worsens on sustained upgaze and proximal muscle weakness that becomes more pronounced after repetitive testing. Deep tendon reflexes are normal and sensation is intact. Chest CT shows an enlarged thymus. Ice pack testing temporarily improves the ptosis.",
+  "question": "Which of the following antibodies is most likely responsible for her symptoms?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Antibodies to voltage-gated calcium channels at the presynaptic terminal"
+    },
+    {
+      "id": "B",
+      "text": "Antibodies to the postsynaptic acetylcholine receptor at the neuromuscular junction"
+    },
+    {
+      "id": "C",
+      "text": "Antibodies to the voltage-gated potassium channel (anti-VGKC)"
+    },
+    {
+      "id": "D",
+      "text": "Antibodies to presynaptic synaptobrevin (VAMP)"
+    },
+    {
+      "id": "E",
+      "text": "Antibodies to the ryanodine receptor in skeletal muscle"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Myasthenia gravis is caused in most patients by IgG autoantibodies against the postsynaptic nicotinic acetylcholine receptor on the motor end plate. Antibody binding causes receptor internalization and complement-mediated destruction, reducing the safety margin of neuromuscular transmission and producing fatigable weakness that worsens with use and improves with rest. Thymic hyperplasia or thymoma is often present, and ptosis, diplopia, and bulbar weakness are typical. AChR antibody testing is first-line, and treatment includes pyridostigmine and immunotherapy with thymectomy for thymoma or refractory disease.",
+  "explanation_incorrect": {
+    "A": "Antibodies to presynaptic voltage-gated calcium channels cause Lambert-Eaton myasthenic syndrome, which produces proximal weakness that improves with continued effort, not fatigability, and is usually associated with small cell lung cancer.",
+    "C": "Anti-VGKC antibodies are associated with Isaac syndrome (neuromyotonia) and Morvan syndrome, with continuous muscle fiber activity rather than fatigable ptosis.",
+    "D": "Antibodies to synaptobrevin impair synaptic vesicle fusion and are not the cause of myasthenia gravis.",
+    "E": "Anti-ryanodine receptor antibodies occur in some thymoma-associated MG and in malignant hyperthermia susceptibility but are not the primary pathogenic antibody."
+  },
+  "educationalObjective": "Myasthenia gravis is caused by antibodies to the postsynaptic acetylcholine receptor, giving fatigable weakness with ptosis and diplopia and often an abnormal thymus.",
+  "source": "Generated from 2. Immunology.pdf - Autoimmune Diseases: Myasthenia gravis and Lambert-Eaton"
+},
+{
+  "id": "immuno-052",
+  "subject": "Immunology",
+  "major_topic": "Autoimmune Diseases",
+  "subtopic": "Myasthenia gravis and Lambert-Eaton",
+  "difficulty": "medium",
+  "vignette": "A 63-year-old male smoker presents with 4 months of progressive lower extremity weakness and difficulty climbing stairs. He also reports dry mouth and erectile dysfunction. Examination shows proximal hip weakness that improves slightly after repeated contraction, absent deep tendon reflexes at the ankles that reappear after 10 seconds of maximal voluntary contraction, and mild dysautonomia with orthostatic hypotension. He has lost 6 kg. Chest CT shows a 4 cm central lung mass with mediastinal lymphadenopathy.",
+  "question": "Which of the following findings would be most characteristic in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Marked facilitation of the compound muscle action potential amplitude on repetitive high-frequency nerve stimulation"
+    },
+    {
+      "id": "B",
+      "text": "Decremental response on repetitive low-frequency nerve stimulation"
+    },
+    {
+      "id": "C",
+      "text": "Normal nerve conduction studies with isolated myopathic changes on biopsy"
+    },
+    {
+      "id": "D",
+      "text": "Sustained clonus and hyperreflexia"
+    },
+    {
+      "id": "E",
+      "text": "Anti-acetylcholine receptor antibody positivity with thymic hyperplasia"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Lambert-Eaton myasthenic syndrome is caused by antibodies to presynaptic voltage-gated P/Q-type calcium channels, which reduce calcium influx and acetylcholine release. Weakness begins proximally in the legs, improves briefly with effort, and reflexes are absent but return with sustained contraction. On electromyography, high-frequency repetitive stimulation produces an incremental (facilitatory) response as calcium accumulates in the terminal - the mirror image of the decrement in myasthenia gravis. Approximately 50-60% of patients have an underlying small cell lung cancer, so chest imaging is essential.",
+  "explanation_incorrect": {
+    "B": "A decremental response with low-frequency stimulation is the pattern of postsynaptic myasthenia gravis, which causes fatigable ptosis and bulbar weakness rather than proximal leg weakness that improves with use.",
+    "C": "LEMS is a presynaptic neuromuscular junction disorder with abnormal repetitive stimulation findings, not a primary myopathy.",
+    "D": "Clonus and hyperreflexia indicate upper motor neuron dysfunction and would not be seen with a neuromuscular junction disorder.",
+    "E": "AChR antibodies with thymic hyperplasia are features of myasthenia gravis, a postsynaptic disorder producing fatigable weakness that worsens with effort."
+  },
+  "educationalObjective": "Lambert-Eaton myasthenic syndrome is a presynaptic disorder with anti-voltage-gated calcium channel antibodies, incremental repetitive stimulation, and an association with small cell lung cancer.",
+  "source": "Generated from 2. Immunology.pdf - Autoimmune Diseases: Myasthenia gravis and Lambert-Eaton"
+},
+{
+  "id": "immuno-053",
+  "subject": "Immunology",
+  "major_topic": "Autoimmune Diseases",
+  "subtopic": "Myasthenia gravis and Lambert-Eaton",
+  "difficulty": "hard",
+  "vignette": "A 22-year-old woman with a 3-year history of myasthenia gravis presents with her third severe exacerbation requiring hospitalization. Anti-AChR antibodies are elevated. Chest CT shows one-humped thymic hyperplasia and no thymoma. She was previously maintained on pyridostigmine and high-dose prednisone, and has also been started on azathioprine. Her physician is preparing her for thymectomy and wishes to reduce steroid dependence.",
+  "question": "Which of the following is the most immunologically reasoned rationale for thymectomy in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Removal of the thymus eliminates the source of the antigen-presenting cells and tolerized B and T cells that sustain anti-AChR antibody production"
+    },
+    {
+      "id": "B",
+      "text": "Removal of the thymus restores presynaptic calcium channel function"
+    },
+    {
+      "id": "C",
+      "text": "Removal of the thymus eliminates the spleen-like site of autoantibody production"
+    },
+    {
+      "id": "D",
+      "text": "Removal of the thymus prevents the later development of Hashimoto thyroiditis, the most common association"
+    },
+    {
+      "id": "E",
+      "text": "Removal of the thymus is required to prevent myasthenic crisis during anesthesia"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "In generalized AChR-positive myasthenia gravis with an abnormal thymus, the thymus contains germinal centers with follicular dendritic cells, myoid cells expressing antigenic AChR, and autoreactive T cells that help B cells produce antibody. Thymectomy removes this pathogenic niche and over months to years reduces antibody production, allowing taper of immunosuppression. Benefit is greatest in young patients with thymic hyperplasia and is not expected when the thymus is normal, which is why the subtype matters.",
+  "explanation_incorrect": {
+    "B": "Voltage-gated calcium channels are presynaptic and are involved in Lambert-Eaton syndrome; thymic autoimmunity does not affect calcium channel function.",
+    "C": "The thymus is not a spleen-like filter organ; antibody production occurs systemically and within the thymic germinal centers themselves.",
+    "D": "Thymectomy is not performed to prevent Hashimoto thyroiditis; autoimmune thyroid disease is a recognized comorbidity but not the surgical indication.",
+    "E": "Anesthesia-related exacerbations are managed with careful drug selection and postoperative monitoring, not by acute surgery as prophylaxis."
+  },
+  "educationalObjective": "Thymectomy benefits generalized AChR-positive myasthenia gravis with thymic hyperplasia by removing the thymic germinal centers that support autoreactive T and B cell cooperation.",
+  "source": "Generated from 2. Immunology.pdf - Autoimmune Diseases: Myasthenia gravis and Lambert-Eaton"
+}
+]

@@ -1,0 +1,125 @@
+[
+{
+  "id": "immuno-071",
+  "subject": "Immunology",
+  "major_topic": "B Cell Activation",
+  "subtopic": "Germinal centers and somatic hypermutation",
+  "difficulty": "hard",
+  "vignette": "A 42-year-old man with a 6 cm inguinal lymph node undergoes excisional biopsy. Histology shows markedly expanded follicular germinal centers with a peculiar pattern of predominantly immunoglobulin-coated follicular dendritic cells and few B cells, and flow cytometry demonstrates a CD21+ follicular network with deficiency of a CD21 ligand. Sequencing of sorted germinal center B cells reveals that activation-induced cytidine deaminase activity is intact, but cells that should have acquired mutations show no mutations in the immunoglobulin variable regions. You are asked to explain the mechanism responsible for the normal quality of his antibody response to childhood vaccines, which remains surprisingly preserved.",
+  "question": "Which enzyme is centrally responsible for introducing the point mutations and double-strand breaks characteristic of somatic hypermutation and class switch recombination?",
+  "options": [
+    {
+      "id": "A",
+      "text": "RAG-1/RAG-2 recombinase"
+    },
+    {
+      "id": "B",
+      "text": "Terminal deoxynucleotidyl transferase (TdT)"
+    },
+    {
+      "id": "C",
+      "text": "Activation-induced cytidine deaminase (AID)"
+    },
+    {
+      "id": "D",
+      "text": "DNA polymerase eta alone"
+    },
+    {
+      "id": "E",
+      "text": "Artemis nuclease"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Activation-induced cytidine deaminase (AID) is the master enzyme of affinity maturation and class switching: it deaminates cytosine to uracil in the immunoglobulin variable region and switch region DNA, and error-prone repair of those lesions by uracil DNA glycosylase, AP endonuclease and low-fidelity polymerases such as polymerase eta introduces the point mutations seen in somatic hypermutation; the same enzyme generates the double-strand breaks that permit class switch recombination. AID is expressed only in germinal center B cells and requires help from CD40L and cytokines from T follicular helper cells. Because the patient retains an intact AID pathway, his pre-existing memory response to childhood protein vaccines and his germinal center architecture-dependent responses remain functional.",
+  "explanation_incorrect": {
+    "A": "RAG-1 and RAG-2 mediate V(D)J recombination during B cell development in the bone marrow, not the antigen-driven mutations of mature germinal center B cells.",
+    "B": "Terminal deoxynucleotidyl transferase adds random N nucleotides during V(D)J recombination and is expressed in immature lymphocytes, not in germinal center hypermutation.",
+    "D": "Polymerase eta is an error-prone polymerase that participates in bypass of AID-induced uracil lesions, but it is not the enzyme that initiates the mutagenesis.",
+    "E": "Artemis is an endonuclease required for V(D)J recombination repair and for resolution of some double-strand breaks, but it does not add point mutations."
+  },
+  "educationalObjective": "AID initiates both somatic hypermutation and class switch recombination in germinal center B cells, and its loss (autosomal recessive hyper-IgM syndrome) abolishes affinity maturation and isotype switching.",
+  "source": "Generated from 2. Immunology.pdf - B Cell Activation: Germinal centers and somatic hypermutation"
+},
+{
+  "id": "immuno-074",
+  "subject": "Immunology",
+  "major_topic": "B Cell Activation",
+  "subtopic": "Germinal centers and somatic hypermutation",
+  "difficulty": "medium",
+  "vignette": "A 27-year-old woman with a recent respiratory infection develops a rapidly enlarging left cervical lymph node. Core biopsy shows a follicle with a well-defined germinal center, a dark zone of centroblasts with frequent mitoses and a light zone where cells are admixed with a network of follicular dendritic cells. In this dark zone, B cells express high levels of CD77 and CD10 and proliferate clonally.",
+  "question": "In which part of the germinal center does somatic hypermutation occur most intensively, and what process follows it in the adjacent zone?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Light zone; somatic hypermutation followed by migration to the mantle zone for apoptosis"
+    },
+    {
+      "id": "B",
+      "text": "Mantle zone; mutation followed by return to the bone marrow for reseeding"
+    },
+    {
+      "id": "C",
+      "text": "T cell zone; mutation occurring after helper T cell contact and before clonal expansion"
+    },
+    {
+      "id": "D",
+      "text": "Subcapsular sinus; mutation driven by subcapsular macrophages"
+    },
+    {
+      "id": "E",
+      "text": "Dark zone (centroblasts); selection for high-affinity receptors in the light zone with follicular dendritic cells and T follicular helper cells"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Germinal centers are polarized: centroblasts in the dark zone proliferate rapidly and express high levels of AID, undergoing intense somatic hypermutation (the reason for the historical term \"centroblast\" and its frequent mitoses). Cells then migrate to the light zone, where follicular dendritic cells display antigen-antibody complexes and T follicular helper cells deliver survival signals including CD40L and IL-21. Only B cells whose mutated BCR binds antigen with higher affinity receive positive selection and survive; the rest undergo apoptosis. This dark zone/light zone cyclic re-entry is the cellular basis of affinity maturation.",
+  "explanation_incorrect": {
+    "A": "The light zone is where selection occurs, not where the highest rate of hypermutation takes place; mantle zones contain resting naive and memory B cells.",
+    "B": "The mantle zone surrounds the germinal center and contains resting lymphocytes; it is not a site of hypermutation or of migration back to bone marrow.",
+    "C": "Somatic hypermutation requires the germinal center microenvironment, particularly follicular dendritic cells and T follicular helper cells, and does not occur in the T cell zone.",
+    "D": "The subcapsular sinus is the entry site for lymph-borne antigen and immune complexes; subcapsular macrophages do not drive mutagenesis."
+  },
+  "educationalObjective": "Somatic hypermutation occurs in dark zone centroblasts, while affinity-based selection of mutated clones occurs in the light zone through competition for antigen on follicular dendritic cells and help from T follicular helper cells.",
+  "source": "Generated from 2. Immunology.pdf - B Cell Activation: Germinal centers and somatic hypermutation"
+},
+{
+  "id": "immuno-079",
+  "subject": "Immunology",
+  "major_topic": "B Cell Activation",
+  "subtopic": "Germinal centers and somatic hypermutation",
+  "difficulty": "medium",
+  "vignette": "A 54-year-old kidney transplant recipient has an excisional biopsy of an enlarging cervical lymph node. The pathologist reports florid follicular hyperplasia with markedly expanded germinal centers showing a prominent \"starry sky\" pattern of scattered large macrophages filled with nuclear debris. A research fellow asks about the fate of the many germinal center B cells whose mutated receptors bind the immunizing antigen poorly.",
+  "question": "Which surface changes lead a germinal center B cell that fails selection to undergo apoptosis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Increased CD40L expression on the B cell surface acting directly on its own CD40"
+    },
+    {
+      "id": "B",
+      "text": "Increased expression of the antiapoptotic protein BCL-2 as a result of low-affinity BCR signaling"
+    },
+    {
+      "id": "C",
+      "text": "Upregulation of CD27 and the IL-7 receptor marking terminal plasma cell differentiation"
+    },
+    {
+      "id": "D",
+      "text": "Increased Fc epsilon RI signaling after binding of monomeric IgE"
+    },
+    {
+      "id": "E",
+      "text": "Loss of Bcl-2 family survival signals with decreased CD40/MHC class II ligation causing a failure to receive T follicular helper cell help"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "In the light zone, survival of mutant B cell clones depends on competition for antigen displayed by follicular dendritic cells and for help from T follicular helper cells, which deliver CD40L and IL-21. Clones that fail to bind antigen well receive insufficient CD40 ligation and lose supportive signals, downregulate BCL-2 and other antiapoptotic proteins, upregulate pro-apoptotic Bim, and undergo apoptosis, after which tingible body macrophages engulf the nuclear debris visible as \"starry sky\" on histology. This positive selection is what raises average antibody affinity with time and is the reason low-affinity clones are culled.",
+  "explanation_incorrect": {
+    "A": "CD40L is expressed predominantly by activated T cells, not by the B cell on its own surface; self-ligation of CD40 does not occur.",
+    "B": "Low-affinity BCR signaling leads to loss of survival signals and to apoptosis, not to increased antiapoptotic BCL-2 expression.",
+    "C": "CD27 marks memory B cells, and IL-7 receptor signaling is more relevant to T cell and early B cell development than to germinal center apoptosis.",
+    "D": "Fc epsilon RI is found on mast cells and basophils and has no role in germinal center B cell selection."
+  },
+  "educationalObjective": "Germinal center B cells require antigen affinity-based restimulation by follicular dendritic cell antigen and CD40L/IL-21 from T follicular helper cells for survival, and clones that fail this test die by apoptosis, driving affinity maturation.",
+  "source": "Generated from 2. Immunology.pdf - B Cell Activation: Germinal centers and somatic hypermutation"
+}
+]

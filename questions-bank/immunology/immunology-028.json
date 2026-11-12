@@ -1,0 +1,166 @@
+[
+{
+  "id": "immuno-083",
+  "subject": "Immunology",
+  "major_topic": "Cellular Components",
+  "subtopic": "B cells and plasma cells",
+  "difficulty": "easy",
+  "vignette": "A 58-year-old woman with longstanding Sjogren syndrome presents with new painless swelling of both parotid glands. Biopsy of a parotid mass shows a monoclonal proliferation of small lymphocytes with plasmacytoid features, and serum protein electrophoresis reveals a single M spike. Flow cytometry of the infiltrate is performed.",
+  "question": "Which cell surface marker profile best characterizes the malignant cells in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Surface immunoglobulin positive, CD19 positive, CD20 positive, cytoplasmic immunoglobulin negative"
+    },
+    {
+      "id": "B",
+      "text": "CD3 positive, CD4 positive, CD8 negative"
+    },
+    {
+      "id": "C",
+      "text": "CD138 positive, CD19 negative, CD20 negative, CD3 negative"
+    },
+    {
+      "id": "D",
+      "text": "CD56 positive, CD16 positive, CD3 negative"
+    },
+    {
+      "id": "E",
+      "text": "CD34 positive, TdT positive, cytoplasmic CD3 positive"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "This patient has an extranodal marginal zone (MALT-type) B-cell lymphoma that has undergone plasmacytic differentiation, the classic complication of longstanding Sjogren syndrome in the parotid. Once a B cell terminally differentiates into a plasma cell, it loses the pan-B markers CD19 and CD20 and the surface B-cell receptor, and strongly expresses CD138 (syndecan-1). The clone's capacity to secrete immunoglobulin is what produces the serum M spike.",
+  "explanation_incorrect": {
+    "A": "This profile describes an intact naive or memory B cell that still bears surface immunoglobulin; plasma cells lose surface immunoglobulin, CD19, and CD20 as they commit to secretion.",
+    "B": "This pattern is a CD4+ helper T cell, which has nothing to do with a monoclonal B-cell proliferation derived from a parotid B-cell clone.",
+    "D": "CD56/CD16/CD3-negative describes an NK cell, which is a cytotoxic lymphocyte rather than an immunoglobulin-secreting plasma cell.",
+    "E": "CD34 and TdT mark hematopoietic stem cells or early lymphoblasts as seen in ALL, not mature CD138+ effector plasma cells."
+  },
+  "educationalObjective": "Plasma cells are CD138+ CD19- CD20- professional immunoglobulin secretors, and loss of CD20 explains why anti-CD20 therapy fails once B cells differentiate into plasma cells.",
+  "source": "Generated from 2. Immunology.pdf - Cellular Components: B cells and plasma cells"
+},
+{
+  "id": "immuno-084",
+  "subject": "Immunology",
+  "major_topic": "Cellular Components",
+  "subtopic": "B cells and plasma cells",
+  "difficulty": "medium",
+  "vignette": "A 9-year-old boy is evaluated because of recurrent pneumonia with encapsulated organisms. He has normal B-cell numbers and normal immunoglobulin G levels, but cannot mount any antibody response to protein or polysaccharide vaccines over many years. Workup shows he lacks only CD4+ helper T cells and normal B-cell signaling.",
+  "question": "Which B-cell process is directly dependent on CD4+ T follicular helper cells and therefore impaired in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Production of B-cell receptor through V(D)J recombination"
+    },
+    {
+      "id": "B",
+      "text": "Class switching from IgM to IgG and production of high-affinity antibody"
+    },
+    {
+      "id": "C",
+      "text": "Expression of CD19 on the B-cell surface"
+    },
+    {
+      "id": "D",
+      "text": "Elimination of autoreactive B cells by negative selection in the bone marrow"
+    },
+    {
+      "id": "E",
+      "text": "Formation of the B-cell repertoire through allelic exclusion"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "T-dependent antigens require cognate help from CD4+ T follicular helper cells delivering CD40L-CD40 and IL-4/IL-21 signals; this drives the germinal center reaction, class switching, somatic hypermutation, and affinity maturation. Without T-cell help the B cell can still produce low-affinity IgM but switches poorly, so this boy fails to make specific IgG. This is the immune defect underlying profound T-cell deficiency states such as DiGeorge syndrome.",
+  "explanation_incorrect": {
+    "A": "V(D)J recombination of heavy and light chains is intrinsic to developing B cells in the bone marrow and is independent of T cells.",
+    "C": "CD19 is a pan-B marker expressed during B-cell development and does not require CD4+ help.",
+    "D": "Central B-cell tolerance by negative selection occurs in the bone marrow and selects against autoreactivity, not a help-dependent process.",
+    "E": "Allelic exclusion produces a monoallelic B-cell receptor during development and is not dependent on T-cell help."
+  },
+  "educationalObjective": "CD4+ T follicular helper cells license B cells in germinal centers for class switching, somatic hypermutation, and affinity maturation, which is why T-cell defects cause poor antibody responses.",
+  "source": "Generated from 2. Immunology.pdf - Cellular Components: B cells and plasma cells"
+},
+{
+  "id": "immuno-085",
+  "subject": "Immunology",
+  "major_topic": "Cellular Components",
+  "subtopic": "B cells and plasma cells",
+  "difficulty": "medium",
+  "vignette": "A 42-year-old woman with systemic lupus erythematosus has a flare and is started on belimumab, which neutralizes soluble BAFF. Over the next year her serum anti-double-stranded DNA titers fall and her total peripheral B-cell count drops, but she continues to have detectable antibody titers to tetanus and to previous Epstein-Barr virus infection.",
+  "question": "Which antibody-producing cell population explains the persistence of her long-lived titers despite BAFF blockade?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Short-lived plasmablasts in the circulation that depend continuously on BAFF"
+    },
+    {
+      "id": "B",
+      "text": "Naive follicular B cells awaiting new antigen exposure"
+    },
+    {
+      "id": "C",
+      "text": "Tissue-resident memory T cells in the bone marrow"
+    },
+    {
+      "id": "D",
+      "text": "Long-lived plasma cells in the bone marrow that do not require BAFF for survival"
+    },
+    {
+      "id": "E",
+      "text": "Transitional B cells completing negative selection in the spleen"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "BAFF (BLyS) supports survival and maturation of transitional and naive B cells, which is why belimumab therapy lowers peripheral B-cell counts and new autoantibody production. However, long-lived plasma cells that have migrated to bone marrow niches depend on stromal IL-6 and APRIL rather than BAFF, so preexisting protective titers persist. This distinction explains why antibody-depleting strategies often trim new autoimmunity without wiping out vaccine immunity.",
+  "explanation_incorrect": {
+    "A": "Plasmablasts are short-lived and highly BAFF-dependent, so they cannot account for stable titers persisting months to years after the drug starts.",
+    "B": "Naive follicular B cells do not secrete antibody at all; they are the precursors that must first be activated by antigen.",
+    "C": "Memory T cells are lymphocytes of T lineage and do not produce protective antibody titers.",
+    "E": "Transitional B cells are immature B cells leaving the marrow; they do not carry the burden of long-lived antibody production."
+  },
+  "educationalObjective": "Long-lived plasma cells in bone marrow niches survive without BAFF/CD19 signaling, so established antibody titers persist even when B-cell depletion or BAFF blockade is used.",
+  "source": "Generated from 2. Immunology.pdf - Cellular Components: B cells and plasma cells"
+},
+{
+  "id": "immuno-086",
+  "subject": "Immunology",
+  "major_topic": "Cellular Components",
+  "subtopic": "B cells and plasma cells",
+  "difficulty": "hard",
+  "vignette": "A 63-year-old man has progressive fatigue, hypercalcemia, and lytic skull lesions. Bone marrow aspirate shows sheets of cells with abundant basophilic cytoplasm, an eccentric nucleus, and a prominent perinuclear clearing. Serum immunoglobulin is high, but there is no peripheral lymphadenopathy and flow cytometry of peripheral blood is normal.",
+  "question": "The cells in this marrow most likely arose from which lineage, and what explains their retained capacity in this lesion?",
+  "options": [
+    {
+      "id": "A",
+      "text": "T lymphocyte, because of retained CD3 signaling"
+    },
+    {
+      "id": "B",
+      "text": "Myeloid precursor, because of retained primary granules"
+    },
+    {
+      "id": "C",
+      "text": "B cell that has undergone terminal differentiation into a plasma cell, because of retained immunoglobulin secretory machinery"
+    },
+    {
+      "id": "D",
+      "text": "Natural killer cell, because of retained perforin and granzyme"
+    },
+    {
+      "id": "E",
+      "text": "Dendritic cell, because of retained antigen presentation capacity"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "The eosinophilic cytoplasm, eccentric nucleus, and perinuclear hof (Golgi) are the morphologic signatures of a plasma cell, and the sheet-like marrow replacement with lytic lesions is multiple myeloma. These neoplastic plasma cells derive from a post-germinal-center B-cell clone and retain a massively expanded rough endoplasmic reticulum dedicated to immunoglobulin secretion, which is why light chains appear in urine as Bence Jones protein.",
+  "explanation_incorrect": {
+    "A": "T-cell neoplasms such as T-ALL or lymphomas show lymph node and skin involvement and do not produce monoclonal immunoglobulin.",
+    "B": "Myeloid precursors have granules but no perinuclear hof and no M-protein; their equivalent disease is myeloid leukemia.",
+    "D": "NK cells are nonsecretory and mediate cytolysis; they do not produce an M spike or osteolytic lesions.",
+    "E": "Dendritic cells are professional antigen-presenting cells that do not secrete large quantities of immunoglobulin."
+  },
+  "educationalObjective": "Multiple myeloma is a neoplasm of terminally differentiated plasma cells whose perinuclear Golgi and abundant rough ER reflect intense immunoglobulin synthesis.",
+  "source": "Generated from 2. Immunology.pdf - Cellular Components: B cells and plasma cells"
+}
+]

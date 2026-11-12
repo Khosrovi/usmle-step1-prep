@@ -1,0 +1,125 @@
+[
+{
+  "id": "immuno-299",
+  "subject": "Immunology",
+  "major_topic": "Tumor Immunology",
+  "subtopic": "Cancer immunotherapy",
+  "difficulty": "medium",
+  "vignette": "A 64-year-old man with metastatic melanoma is started on a monoclonal antibody that binds CTLA-4 on T cells. Two months later he presents with 3 weeks of watery diarrhea (8 stools/day), abdominal bloating, and a 4 kg weight loss. Stool studies for infectious causes are negative. Colonoscopy shows diffuse mucosal erythema and ulceration, and biopsy reveals crypt abscesses with a dense lymphocytic infiltrate and apoptotic bodies.",
+  "question": "Inhibition of which of the following molecules best explains the mechanism of this adverse effect?",
+  "options": [
+    {
+      "id": "A",
+      "text": "PD-1 on activated effector T cells"
+    },
+    {
+      "id": "B",
+      "text": "CTLA-4 on T cells, removing a brake on T-cell activation"
+    },
+    {
+      "id": "C",
+      "text": "CD3 epsilon chain of the TCR complex"
+    },
+    {
+      "id": "D",
+      "text": "B7-2 (CD86) on antigen-presenting cells"
+    },
+    {
+      "id": "E",
+      "text": "LAG-3 on exhausted T cells"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "This is immune-related colitis, a classic immune-related adverse event of ipilimumab, an anti-CTLA-4 antibody. CTLA-4 is an inhibitory receptor upregulated on T cells that competes with CD28 for B7 ligands on antigen-presenting cells during the priming phase, raising the threshold for T-cell activation. Blocking CTLA-4 unleashes autoreactive T cells against normal tissues, most commonly the gut, skin, liver, and pituitary. Anti-CTLA-4 toxicity is generally more severe and earlier than anti-PD-1 toxicity, and severe colitis is treated by holding the drug and giving high-dose corticosteroids.",
+  "explanation_incorrect": {
+    "A": "PD-1 blockade also causes immune-related colitis, but PD-1 acts at the effector phase in peripheral tissues and its colitis is usually milder and later; the vignette specifies a CTLA-4 antibody.",
+    "C": "Anti-CD3 antibodies such as muromonab are used for transplant rejection and cause a cytokine release syndrome, not checkpoint-related autoimmune colitis.",
+    "D": "Targeting the costimulatory ligand B7-2 would tend to dampen T-cell priming rather than unleash autoreactive T cells, so it does not explain this toxicity.",
+    "E": "LAG-3 is another inhibitory receptor under investigation, but it is not the target of the antibody described, which is directed against CTLA-4."
+  },
+  "educationalObjective": "Anti-CTLA-4 therapy removes an inhibitory checkpoint on T-cell priming and characteristically causes autoimmune colitis, hypophysitis, and dermatitis.",
+  "source": "Generated from 2. Immunology.pdf - Tumor Immunology: Cancer immunotherapy"
+},
+{
+  "id": "immuno-300",
+  "subject": "Immunology",
+  "major_topic": "Tumor Immunology",
+  "subtopic": "Cancer immunotherapy",
+  "difficulty": "medium",
+  "vignette": "A 55-year-old woman with a BRAF V600E-positive melanoma undergoes tumor sequencing. The report shows the tumor expresses abundant PD-L1 and has a high tumor mutational burden. She is started on pembrolizumab and shows a durable response. A year later she develops laboratory abnormalities including TSH elevation, lipase elevation, and a mild transaminitis, without abdominal pain.",
+  "question": "The efficacy of this therapy depends most directly on reversal of which process within the tumor microenvironment?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Complement-mediated lysis of tumor cells by C5b-9"
+    },
+    {
+      "id": "B",
+      "text": "Antibody-dependent cellular cytotoxicity by NK cells"
+    },
+    {
+      "id": "C",
+      "text": "T-cell exhaustion driven by chronic antigen stimulation"
+    },
+    {
+      "id": "D",
+      "text": "Classical macrophage activation by IFN-gamma"
+    },
+    {
+      "id": "E",
+      "text": "Mast cell degranulation in peritumoral tissue"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Chronic antigen exposure in tumors drives CD8+ T cells into an exhausted state marked by sustained PD-1 expression. When tumor cells express PD-L1, ligation of PD-1 delivers an inhibitory signal that suppresses TCR signaling and effector function. Pembrolizumab blocks PD-1, restoring the exhausted T cells' ability to kill tumor cells. This is why tumors with high mutational burden and PD-L1 expression respond best, and why anti-PD-1 therapy causes T-cell-mediated organ-specific autoimmunity such as thyroiditis and pancreatitis.",
+  "explanation_incorrect": {
+    "A": "Checkpoint inhibitors work through T cells and do not rely on the complement membrane attack complex to destroy tumor cells.",
+    "B": "ADCC by NK cells requires an Fc-competent antibody bound to a tumor antigen, which is not how PD-1 blockade kills tumor cells.",
+    "D": "IFN-gamma-driven M1 macrophage activation is part of the antitumor response but is not the mechanism reversed by PD-1 blockade.",
+    "E": "Mast cell degranulation mediates immediate hypersensitivity and has no role in checkpoint inhibitor efficacy."
+  },
+  "educationalObjective": "Anti-PD-1/PD-L1 antibodies restore the function of exhausted CD8+ T cells whose activity is suppressed by chronic antigen exposure in the tumor microenvironment.",
+  "source": "Generated from 2. Immunology.pdf - Tumor Immunology: Cancer immunotherapy"
+},
+{
+  "id": "immuno-301",
+  "subject": "Immunology",
+  "major_topic": "Tumor Immunology",
+  "subtopic": "Cancer immunotherapy",
+  "difficulty": "hard",
+  "vignette": "A 38-year-old man with metastatic renal cell carcinoma is treated with high-dose intravenous interleukin-2. Within hours of the first infusion he becomes tachycardic and hypotensive, and the intensive care team notes marked capillary leak with peripheral edema, weight gain, and acute oliguria. Eosinophilia and a diffuse erythematous rash also develop.",
+  "question": "Which of the following best explains the therapeutic rationale for interleukin-2 in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It directly induces tumor cell apoptosis by activating caspase-9"
+    },
+    {
+      "id": "B",
+      "text": "It opsonizes tumor cells for phagocytosis by splenic macrophages"
+    },
+    {
+      "id": "C",
+      "text": "It blocks angiogenesis by inhibiting VEGF receptor signaling"
+    },
+    {
+      "id": "D",
+      "text": "It promotes expansion and activation of cytotoxic T cells and NK cells"
+    },
+    {
+      "id": "E",
+      "text": "It depletes regulatory T cells selectively within the tumor"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Interleukin-2 is a T-cell growth factor produced mainly by activated CD4+ helper T cells that drives proliferation and activation of CD8+ cytotoxic T lymphocytes and NK cells, both of which are central to tumor killing. High-dose IL-2 can produce durable responses in renal cell carcinoma and melanoma. Its toxicity, the capillary leak syndrome with hypotension, edema, and prerenal azotemia, reflects widespread endothelial activation and is the reason it is now largely limited to high-dose regimens in specialized centers.",
+  "explanation_incorrect": {
+    "A": "IL-2 is a cytokine that signals through the JAK-STAT pathway to expand lymphocytes; it does not directly trigger the intrinsic apoptotic pathway in tumor cells.",
+    "B": "Opsonization requires antibodies or complement fragments such as C3b, not a cytokine like IL-2.",
+    "C": "Anti-angiogenic effects belong to VEGF inhibitors such as bevacizumab, not to IL-2.",
+    "E": "IL-2 actually supports regulatory T-cell survival through the high-affinity receptor, which is why low-dose IL-2 is used to treat autoimmunity rather than to deplete Tregs."
+  },
+  "educationalObjective": "High-dose IL-2 produces antitumor responses by expanding cytotoxic T cells and NK cells, at the cost of a capillary leak syndrome.",
+  "source": "Generated from 2. Immunology.pdf - Tumor Immunology: Cancer immunotherapy"
+}
+]

@@ -1,0 +1,125 @@
+[
+{
+  "id": "immuno-095",
+  "subject": "Immunology",
+  "major_topic": "Cellular Components",
+  "subtopic": "Eosinophils",
+  "difficulty": "easy",
+  "vignette": "A 28-year-old woman with seasonal allergic rhinitis presents each spring with sneezing, rhinorrhea, and itchy eyes. Nasal smears show many cells with bilobed nuclei and bright orange-red granules after Giemsa staining.",
+  "question": "Which interleukin is the principal stimulus for the production and survival of the cells found in her nasal smear?",
+  "options": [
+    {
+      "id": "A",
+      "text": "IL-2"
+    },
+    {
+      "id": "B",
+      "text": "IL-5"
+    },
+    {
+      "id": "C",
+      "text": "IL-12"
+    },
+    {
+      "id": "D",
+      "text": "IL-7"
+    },
+    {
+      "id": "E",
+      "text": "IFN-gamma"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "The cells are eosinophils, which have bilobed nuclei and eosinophilic (orange-red) granules containing major basic protein and eosinophil peroxidase. IL-5, made by Th2 cells, is the key cytokine for eosinophil maturation, activation, and tissue survival, which is why anti-IL-5 antibodies such as mepolizumab are used in severe eosinophilic asthma.",
+  "explanation_incorrect": {
+    "A": "IL-2 drives T-cell proliferation, not eosinophil lineage development or survival.",
+    "C": "IL-12 stimulates Th1 differentiation and NK cell activation, polarizing away from eosinophilic Th2 responses.",
+    "D": "IL-7 is essential for lymphocyte development, especially T cells in the thymus, but not eosinophilopoiesis.",
+    "E": "IFN-gamma is a Th1 cytokine that suppresses Th2-driven eosinophilic inflammation."
+  },
+  "educationalObjective": "IL-5 produced by Th2 cells drives eosinophil production, survival, and tissue recruitment, making it a therapeutic target in eosinophilic asthma.",
+  "source": "Generated from 2. Immunology.pdf - Cellular Components: Eosinophils"
+},
+{
+  "id": "immuno-096",
+  "subject": "Immunology",
+  "major_topic": "Cellular Components",
+  "subtopic": "Eosinophils",
+  "difficulty": "medium",
+  "vignette": "A 39-year-old man returning from a trip to a rural river valley in West Africa presents with fever, itchy rash, and dry cough. Blood count shows 28% eosinophils. Stool and urine tests are positive for an egg with a terminal spine, which is visualized in infected bladder biopsy specimens.",
+  "question": "Which cell-mediated mechanism accounts for the intense eosinophilia and the host tissue damage in this condition?",
+  "options": [
+    {
+      "id": "A",
+      "text": "IgM-mediated complement activation against helminth eggs"
+    },
+    {
+      "id": "B",
+      "text": "Neutrophil extracellular trap formation trapping the eggs"
+    },
+    {
+      "id": "C",
+      "text": "Neutralization of preformed toxins by IgG produced in the gut"
+    },
+    {
+      "id": "D",
+      "text": "IgE opsonization with eosinophil degranulation releasing major basic protein"
+    },
+    {
+      "id": "E",
+      "text": "Classical pathway MAC lysis of the adult worm"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "This is Schistosoma haematobium with terminal-spined eggs in urine. Helminths elicit a Th2 response with IL-4/IL-5-driven IgE and eosinophilia; IgE binds the worm or eggs and cross-links Fc receptors on eosinophils, which degranulate releasing major basic protein and eosinophil cationic protein. These granules damage the parasite but also injure host tissue, producing bladder granulomas and the chronic fibrosis that predisposes to squamous cell carcinoma.",
+  "explanation_incorrect": {
+    "A": "IgM is not the predominant antibody in helminth infections; the response is IgE and IgG4-driven, so this does not explain massive eosinophilia.",
+    "B": "Neutrophil extracellular traps are employed by neutrophils against bacteria and fungi, not the mechanism of antihelminthic defense.",
+    "C": "Toxin neutralization is a feature of tetanus or diphtheria immunity and has no role here.",
+    "E": "Complement-mediated lysis is minor for large multicellular helminths, and the manifestations here are eosinophil-driven."
+  },
+  "educationalObjective": "Helminths evoke IgE- and eosinophil-mediated attack in which degranulation of major basic protein kills parasites but also produces host tissue damage.",
+  "source": "Generated from 2. Immunology.pdf - Cellular Components: Eosinophils"
+},
+{
+  "id": "immuno-097",
+  "subject": "Immunology",
+  "major_topic": "Cellular Components",
+  "subtopic": "Eosinophils",
+  "difficulty": "hard",
+  "vignette": "A 44-year-old woman with adult-onset asthma presents with worsening dyspnea, peripheral neuropathy, and a rash. Blood count is remarkable for 34,000 eosinophils per microL after years of mild baseline eosinophilia. She has no recent travel, stool ova and parasites are negative, and her serum vitamin B12 is mildly elevated with a circulating cryoglobulin suggesting a hyperviscosity effect.",
+  "question": "Which of the following best explains this patient's presentation and her risk of end-organ damage?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Hypereosinophilic syndrome with tissue infiltration by eosinophils"
+    },
+    {
+      "id": "B",
+      "text": "Chronic granulomatous disease with defective oxidative burst"
+    },
+    {
+      "id": "C",
+      "text": "Chediak-Higashi syndrome with giant granules"
+    },
+    {
+      "id": "D",
+      "text": "Leukocyte adhesion deficiency type I with absent CD18"
+    },
+    {
+      "id": "E",
+      "text": "Wiskott-Aldrich syndrome with microthrombocytopenia"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Sustained eosinophil counts above 1,500/microL with unexplained multisystem involvement (heart, lung, nerves, skin) defines hypereosinophilic syndrome. Eosinophil infiltration and release of granule proteins into tissues cause endomyocardial fibrosis, neuropathy, and dermatitis. Clinicians treat with steroids and increasingly with anti-IL-5 therapy to reduce the eosinophil burden and avert irreversible organ damage.",
+  "explanation_incorrect": {
+    "B": "CGD presents with recurrent catalase-positive infections and granulomas, not massive eosinophilia or neuropathy.",
+    "C": "Chediak-Higashi features giant granules, oculocutaneous albinism, and recurrent infections, not isolated hypereosinophilia with nerve involvement.",
+    "D": "Leukocyte adhesion deficiency type I causes delayed umbilical cord separation and recurrent skin and gut infections with absent pus, not eosinophilia.",
+    "E": "Wiskott-Aldrich syndrome presents with eczema, microthrombocytopenia, and immunodeficiency, without the eosinophil-driven organ infiltration described."
+  },
+  "educationalObjective": "Hypereosinophilic syndrome requires sustained eosinophils above 1,500/microL plus end-organ damage, and anti-IL-5 therapy reduces tissue injury.",
+  "source": "Generated from 2. Immunology.pdf - Cellular Components: Eosinophils"
+}
+]

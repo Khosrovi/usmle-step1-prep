@@ -1,0 +1,166 @@
+[
+{
+  "id": "immuno-302",
+  "subject": "Immunology",
+  "major_topic": "Tumor Immunology",
+  "subtopic": "Immune surveillance and tumor evasion",
+  "difficulty": "easy",
+  "vignette": "A 51-year-old woman has a renal transplant and is maintained on tacrolimus and mycophenolate. Six years after transplantation she is found to have multiple cutaneous squamous cell carcinomas and a rapidly enlarging lymph node. Biopsy of the node shows large atypical lymphoid cells that are positive for Epstein-Barr virus-encoded RNA (EBER).",
+  "question": "Which of the following best explains the increased risk of this post-transplant lymphoproliferative disorder?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Impaired NK cell-mediated recognition of missing MHC class I"
+    },
+    {
+      "id": "B",
+      "text": "Loss of MHC class I expression on the EBV-infected B cells"
+    },
+    {
+      "id": "C",
+      "text": "Loss of T-cell-mediated immune surveillance against virally infected B cells"
+    },
+    {
+      "id": "D",
+      "text": "Increased expression of tumor antigens due to chronic inflammation"
+    },
+    {
+      "id": "E",
+      "text": "Defective complement fixation by tumor-bound IgM"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "The immunosuppressive drugs used after transplantation weaken T-cell-mediated immune surveillance, allowing proliferation of EBV-infected B cells that would normally be eliminated by cytotoxic T lymphocytes. EBV drives B-cell proliferation and immortalization, so unchecked infection progresses to post-transplant lymphoproliferative disorder. The same failure of surveillance underlies the markedly increased risk of virally driven cancers, especially cutaneous squamous cell carcinoma, in transplant recipients.",
+  "explanation_incorrect": {
+    "A": "NK cells do kill cells with absent MHC class I, but this disorder arises from loss of cytotoxic T-cell control of EBV-infected B cells rather than from NK deficiency.",
+    "B": "EBV-driven B-cell proliferation does not depend on loss of MHC class I; the tumor cells usually retain class I and are controlled by T cells that are pharmacologically suppressed.",
+    "D": "Chronic inflammation can promote carcinogenesis, but the direct driver here is EBV infection without T-cell control.",
+    "E": "Complement and IgM antibodies are not the principal defense against EBV-infected cells, and no such defect is created by these drugs."
+  },
+  "educationalObjective": "Immunosuppression impairs T-cell immune surveillance, allowing EBV-driven B-cell proliferation and virally associated cancers to escape control.",
+  "source": "Generated from 2. Immunology.pdf - Tumor Immunology: Immune surveillance and tumor evasion"
+},
+{
+  "id": "immuno-303",
+  "subject": "Immunology",
+  "major_topic": "Tumor Immunology",
+  "subtopic": "Immune surveillance and tumor evasion",
+  "difficulty": "medium",
+  "vignette": "A 58-year-old man with a 40-pack-year smoking history undergoes resection of a poorly differentiated lung adenocarcinoma. Pathology reports that the tumor cells have lost immunohistochemical staining for MHC class I molecules while retaining normal numbers of tumor-infiltrating lymphocytes. Postoperative staging is otherwise unremarkable.",
+  "question": "Loss of MHC class I on these tumor cells most directly impairs which of the following?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Recognition of tumor peptides by CD8+ cytotoxic T cells"
+    },
+    {
+      "id": "B",
+      "text": "Recognition of tumor antigens by CD4+ helper T cells"
+    },
+    {
+      "id": "C",
+      "text": "Phagocytosis of antibody-coated tumor cells"
+    },
+    {
+      "id": "D",
+      "text": "Activation of the classical complement pathway"
+    },
+    {
+      "id": "E",
+      "text": "Generation of inflammatory mediators by neutrophils"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "CD8+ cytotoxic T lymphocytes recognize tumor peptides presented on MHC class I and destroy the presenting cell. Downregulation or loss of class I therefore provides a direct escape from T-cell-mediated killing and is a common tumor evasion strategy. Such cells can still be attacked by NK cells, which kill targets lacking class I MHC because inhibitory KIR receptors are no longer engaged, unless the tumor also upregulates class I-like ligands such as HLA-G or sheds soluble NKG2D ligands.",
+  "explanation_incorrect": {
+    "B": "CD4+ helper T cells recognize peptides on MHC class II, not class I, so their antigen recognition is not directly affected by this change.",
+    "C": "Phagocytosis of opsonized cells depends on Fc receptors and complement receptors and does not require tumor MHC class I expression.",
+    "D": "Classical complement activation requires antibody binding to antigen, not presentation of peptides on MHC molecules.",
+    "E": "Neutrophil inflammatory mediator release is independent of tumor MHC class I expression and is not the step blocked here."
+  },
+  "educationalObjective": "Tumors escape CD8+ T-cell killing by downregulating MHC class I, which simultaneously makes them more susceptible to NK cell attack.",
+  "source": "Generated from 2. Immunology.pdf - Tumor Immunology: Immune surveillance and tumor evasion"
+},
+{
+  "id": "immuno-304",
+  "subject": "Immunology",
+  "major_topic": "Tumor Immunology",
+  "subtopic": "Immune surveillance and tumor evasion",
+  "difficulty": "medium",
+  "vignette": "A 47-year-old woman undergoes wide local excision of a 3.2 mm nodular melanoma. Immunohistochemistry of the tumor reveals dense infiltration by CD25+ FOXP3+ lymphocytes that suppress neighboring effector cells. Serum analysis also shows elevated transforming growth factor beta and interleukin-10.",
+  "question": "This tumor is most likely evading immune destruction through which of the following mechanisms?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Defective antigen processing by tumor proteasomes"
+    },
+    {
+      "id": "B",
+      "text": "Induction of broadly suppressive regulatory T cells"
+    },
+    {
+      "id": "C",
+      "text": "Reduced expression of MHC class I on tumor cells"
+    },
+    {
+      "id": "D",
+      "text": "Decreased expression of costimulatory B7 molecules on dendritic cells only"
+    },
+    {
+      "id": "E",
+      "text": "Absence of tumor-infiltrating lymphocytes"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Many tumors recruit and expand CD4+ CD25+ FOXP3+ regulatory T cells, which suppress effector T-cell proliferation and cytokine production and secrete immunosuppressive cytokines such as TGF-beta and IL-10. The result is a locally tolerant tumor microenvironment that permits tumor growth despite the presence of lymphocytes. Regulatory T cells also explain why high Treg density correlates with an unfavorable prognosis in several solid tumors, and they are a target of investigational therapies such as low-dose cyclophosphamide and anti-CCR4 antibodies.",
+  "explanation_incorrect": {
+    "A": "Antigen processing defects would present differently, with reduced peptide display and absent T-cell influx, rather than a dense suppressive Treg infiltrate.",
+    "C": "MHC class I loss would reduce CD8+ T-cell attack but would not explain the CD25+ FOXP3+ infiltrate or the elevated TGF-beta and IL-10.",
+    "D": "Loss of costimulation on dendritic cells alone would not account for the described intratumoral Treg population and the associated suppressive cytokines.",
+    "E": "The biopsy explicitly shows numerous tumor-infiltrating lymphocytes, contradicting this option."
+  },
+  "educationalObjective": "Tumors evade immunity by recruiting FOXP3+ regulatory T cells, whose TGF-beta and IL-10 secretion creates a locally immunosuppressive microenvironment.",
+  "source": "Generated from 2. Immunology.pdf - Tumor Immunology: Immune surveillance and tumor evasion"
+},
+{
+  "id": "immuno-305",
+  "subject": "Immunology",
+  "major_topic": "Tumor Immunology",
+  "subtopic": "Immune surveillance and tumor evasion",
+  "difficulty": "hard",
+  "vignette": "A 62-year-old woman has a node-negative invasive ductal carcinoma of the breast treated with lumpectomy and radiation. Her tumor is biopsied decades later at recurrence; the recurrent cells show markedly reduced expression of MHC class I molecules compared with the original tumor, yet they grow rapidly. Flow cytometry of the recurrent cells reveals abundant surface HLA-G, which engages inhibitory receptors on natural killer cells.",
+  "question": "Which of the following best explains why these MHC class I-deficient tumor cells are not eliminated by natural killer cells?",
+  "options": [
+    {
+      "id": "A",
+      "text": "NK cells require MHC class I molecules to become activated"
+    },
+    {
+      "id": "B",
+      "text": "HLA-G delivers an inhibitory signal to NK cells, mimicking normal self-MHC"
+    },
+    {
+      "id": "C",
+      "text": "NK cells have been rendered anergic by chronic exposure to tumor antigens"
+    },
+    {
+      "id": "D",
+      "text": "The tumor cells secrete antibodies that neutralize NK cell Fc receptors"
+    },
+    {
+      "id": "E",
+      "text": "Loss of MHC class I prevents NK cells from recognizing the tumor as foreign"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "NK cells kill targets that lack MHC class I because the absence of normal self-MHC disengages their inhibitory receptors, the 'missing self' hypothesis. Tumors counter this by expressing nonclassical class I molecules such as HLA-G, which bind inhibitory NK receptors (including KIR and ILT2) and replace the inhibitory signal that normal class I molecules would provide. This 'pseudo-self' masks the missing-self signal and permits continued tumor growth, illustrating how tumor evasion can co-opt either arm of the surveillance system.",
+  "explanation_incorrect": {
+    "A": "NK cell killing is inhibited, not activated, by engagement of their MHC class I receptors; NK cells are the cells that recognize missing self.",
+    "C": "NK cells are not the anergic cell type implicated here; classical anergy describes CD4+ T cells that receive TCR stimulation without costimulation.",
+    "D": "The tumor cells shown are not antibody-secreting plasma cells, and NK cells lack Fc receptors in the manner required for this explanation.",
+    "E": "The opposite is true: NK cells are specifically activated when MHC class I is absent, so loss of class I alone would make the tumor more vulnerable."
+  },
+  "educationalObjective": "Tumors expressing HLA-G can override the missing-self signal and suppress NK cell-mediated killing, complementing MHC class I loss as an evasion strategy.",
+  "source": "Generated from 2. Immunology.pdf - Tumor Immunology: Immune surveillance and tumor evasion"
+}
+]

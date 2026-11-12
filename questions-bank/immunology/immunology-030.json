@@ -1,0 +1,125 @@
+[
+{
+  "id": "immuno-092",
+  "subject": "Immunology",
+  "major_topic": "Cellular Components",
+  "subtopic": "Dendritic cells",
+  "difficulty": "medium",
+  "vignette": "A 34-year-old woman is vaccinated with an mRNA vaccine into the deltoid muscle. Two weeks later she has high titers of neutralizing antibodies and circulating CD8+ T cells specific for the encoded antigen, despite the antigen never being delivered to the cytosol in large amounts clinically.",
+  "question": "Which dendritic cell process most explains the generation of CD8+ T-cell responses to an exogenous vaccine antigen?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Cross-presentation of exogenous antigen on MHC class I"
+    },
+    {
+      "id": "B",
+      "text": "Direct loading of antigen onto MHC class II of naive CD8+ T cells"
+    },
+    {
+      "id": "C",
+      "text": "Presentation of antigen by MHC class III molecules"
+    },
+    {
+      "id": "D",
+      "text": "Presentation of lipid antigen by CD1d to NK cells"
+    },
+    {
+      "id": "E",
+      "text": "Transfer of MHC class II from dendritic cells to T cells"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Dendritic cells are the only professional antigen-presenting cells that can cross-present exogenous antigen onto MHC class I to prime naive CD8+ T cells, a process especially characteristic of the CD8alpha+ cDC1 subset. After migrating from the injection site to the draining lymph node, they deliver antigen and costimulation, allowing clonal expansion of cytotoxic T cells. This property is central to vaccines and to tumor immunotherapy.",
+  "explanation_incorrect": {
+    "B": "Naive CD8+ T cells do not recognize MHC class II, and peptide loading on class II stimulates CD4+ helpers rather than CD8 effectors.",
+    "C": "MHC class III molecules encode complement proteins and do not present peptide antigen.",
+    "D": "CD1d presents lipid antigens to NKT cells, which does not explain antigen-specific CD8+ cytotoxic responses.",
+    "E": "Dendritic cells do not transfer MHC molecules to T cells as a means of antigen presentation; T cells must recognize MHC on the presenting cell."
+  },
+  "educationalObjective": "Cross-presentation allows dendritic cells to prime CD8+ cytotoxic T cells against exogenous antigens, a key mechanism for antiviral vaccines and tumor immunity.",
+  "source": "Generated from 2. Immunology.pdf - Cellular Components: Dendritic cells"
+},
+{
+  "id": "immuno-093",
+  "subject": "Immunology",
+  "major_topic": "Cellular Components",
+  "subtopic": "Dendritic cells",
+  "difficulty": "hard",
+  "vignette": "A 27-year-old veterinary technician accidentally receives a small unintentional needle inoculation of live vaccinia virus into the skin of the thumb. She has never been vaccinated against smallpox. Within a week a draining axillary node becomes tender, and she develops neutralizing antibody and virus-specific CD8+ T cells.",
+  "question": "Which cell most likely transported intact vaccinia antigen from the skin to the draining lymph node to initiate this response?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Neutrophil migrating from the blood into the dermis"
+    },
+    {
+      "id": "B",
+      "text": "Langerhans cell acting as a migratory dermal dendritic cell"
+    },
+    {
+      "id": "C",
+      "text": "Postcapillary venule high endothelial cell"
+    },
+    {
+      "id": "D",
+      "text": "Plasma cell in the dermis"
+    },
+    {
+      "id": "E",
+      "text": "Mast cell resident in subcutaneous fat"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Langerhans cells (CD1a+, Birbeck granules) are epithelial dendritic cells that capture antigen in the epidermis and migrate via lymphatics to the paracortical T-cell zone of the draining node, where they present and costimulate naive T cells. This migration converts them from antigen-capturing cells with abundant MHC class II into efficient stimulators of naive T cells. The resulting node enlargement reflects the clonal expansion of antigen-specific lymphocytes.",
+  "explanation_incorrect": {
+    "A": "Neutrophils phagocytose and kill organisms but are short-lived and do not migrate to lymph nodes to prime naive T cells.",
+    "C": "High endothelial venules are specialized vessels allowing lymphocyte entry, not antigen-transporting cells.",
+    "D": "Plasma cells are antibody-secreting end-stage B cells found in marrow and mucosal tissues, not migratory antigen carriers.",
+    "E": "Mast cells release histamine and mediators and reside in connective tissue but do not traffic antigen to lymph nodes."
+  },
+  "educationalObjective": "Langerhans cells are migratory epidermal dendritic cells that carry antigen to draining lymph nodes and are the professional APCs that initiate primary T-cell responses in skin.",
+  "source": "Generated from 2. Immunology.pdf - Cellular Components: Dendritic cells"
+},
+{
+  "id": "immuno-094",
+  "subject": "Immunology",
+  "major_topic": "Cellular Components",
+  "subtopic": "Dendritic cells",
+  "difficulty": "medium",
+  "vignette": "A 61-year-old man with metastatic melanoma is treated with intravesical BCG for bladder carcinoma in situ after failing standard therapy. Three weeks later his bladder biopsies show dense mononuclear infiltrates and a CD8+ T-cell rich peritumoral immune response.",
+  "question": "Which property of dendritic cells is most responsible for converting BCG exposure into detectable antitumor T-cell activation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Their capacity to directly kill tumor cells with perforin"
+    },
+    {
+      "id": "B",
+      "text": "Their secretion of IgE in response to BCG"
+    },
+    {
+      "id": "C",
+      "text": "Their delivery of high-level costimulation and pro-inflammatory cytokines along with antigen"
+    },
+    {
+      "id": "D",
+      "text": "Their role as the primary complement-producing cells of the immune system"
+    },
+    {
+      "id": "E",
+      "text": "Their ability to generate antibody by producing surface immunoglobulin"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Dendritic cells mature after encountering pathogen-associated molecular patterns such as BCG cell wall components, increasing costimulatory molecules (CD80/CD86, CD40) and secreting IL-12 that polarizes Th1 and CD8 responses. Without this maturation signal, antigen presentation by immature dendritic cells would render T cells tolerant rather than activated. This is the basis of BCG intravesical therapy, in which robust local inflammation recruits effector cells that clear tumor.",
+  "explanation_incorrect": {
+    "A": "Dendritic cells are not primary cytolytic effectors; perforin-mediated killing is carried out by CD8+ T cells and NK cells.",
+    "B": "IgE is produced by plasma cells and is not the mechanism of dendritic antigen presentation.",
+    "D": "Hepatocytes are the main source of serum complement proteins, not dendritic cells.",
+    "E": "Dendritic cells lack surface immunoglobulin and do not secrete antibody."
+  },
+  "educationalObjective": "Mature dendritic cells provide antigen together with costimulation and IL-12, and this maturation signal is what determines whether T cells become activated or tolerant.",
+  "source": "Generated from 2. Immunology.pdf - Cellular Components: Dendritic cells"
+}
+]
