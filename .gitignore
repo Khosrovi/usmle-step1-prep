@@ -1,0 +1,100 @@
+# ============================================
+# ЗАВИСИМОСТИ
+# ============================================
+/node_modules
+/.pnp
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+
+# ============================================
+# NEXT.JS
+# ============================================
+/.next/
+/out/
+/build
+next-env.d.ts
+*.tsbuildinfo
+
+# ============================================
+# VERCEL
+# ============================================
+.vercel
+
+# ============================================
+# ПЕРЕМЕННЫЕ ОКРУЖЕНИЯ (ВАЖНО!)
+# ============================================
+.env
+.env.local
+.env.*.local
+.env.development
+.env.production
+
+# ============================================
+# PYTHON
+# ============================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+.venv/
+venv/
+ENV/
+env/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# ============================================
+# АГЕНТЫ (Python скрипты)
+# ============================================
+agents/*_questions.json
+agents/*_extracted.txt
+agents/.env
+agents/*.pyc
+agents/__pycache__/
+
+# ============================================
+# СГЕНЕРИРОВАННЫЕ ФАЙЛЫ ВОПРОСОВ
+# ============================================
+biochemistry_questions.json
+immunology_questions.json
+microbiology_questions.json
+pathology_questions.json
+pharmacology_questions.json
+*_extracted.txt
+
+# ============================================
+# ОС / РЕДАКТОРЫ
+# ============================================
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# ============================================
+# ЛОГИ
+# ============================================
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+*.log
+
+# ============================================
+# СЕКРЕТЫ
+# ============================================
+*.pem
+*.key
+*.cert
