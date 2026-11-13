@@ -123,18 +123,31 @@ function StatsContent() {
     setLoading(true);
     try {
       // 1. Получаем все вопросы (все предметы, если выбрано "All subjects").
-      let query = supabase
-        .from("questions")
-        .select("id, subject, major_topic, subtopic")
-        .order("id", { ascending: true })
-        .limit(20000);
-      if (selectedSubject !== "All subjects") {
-        query = query.ilike("subject", selectedSubject);
+      //    PostgREST caps one response at 1000 rows regardless of .limit(), so
+      //    the rows are paged until a short page arrives. Without this the
+      //    statistics silently ignored every question past the first 1000.
+      const PAGE = 1000;
+      const questions: {
+        id: number;
+        subject: string;
+        major_topic: string;
+        subtopic: string;
+      }[] = [];
+      for (let from = 0; ; from += PAGE) {
+        let query = supabase
+          .from("questions")
+          .select("id, subject, major_topic, subtopic")
+          .order("id", { ascending: true })
+          .range(from, from + PAGE - 1);
+        if (selectedSubject !== "All subjects") {
+          query = query.ilike("subject", selectedSubject);
+        }
+        const { data, error } = await query;
+        if (error) throw error;
+        const page = data ?? [];
+        questions.push(...page);
+        if (page.length < PAGE) break;
       }
-
-      const { data: questions, error: qError } = await query;
-
-      if (qError) throw qError;
 
       // 2. Получаем весь прогресс из базы. If the anon role is not allowed to
       //    insert into user_progress this comes back empty (it can still read),

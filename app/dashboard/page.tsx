@@ -63,19 +63,32 @@ export default function DashboardPage() {
   );
   const [countsLoaded, setCountsLoaded] = useState(false);
 
-  // Сколько вопросов реально есть в базе по каждому предмету
+  // Сколько вопросов реально есть в базе по каждому предмету.
+  //
+  // Counting rows client-side does not work: PostgREST caps a response at 1000
+  // rows, so once the bank grew past that the counts came back truncated (the
+  // dashboard showed 195 of 371 Microbiology questions). Asking for an exact
+  // count per subject keeps the request small and the number correct.
   useEffect(() => {
-    supabase
-      .from("questions")
-      .select("subject")
-      .then(({ data }) => {
-        const counts: Record<string, number> = {};
-        (data || []).forEach((row: { subject: string }) => {
-          counts[row.subject] = (counts[row.subject] ?? 0) + 1;
-        });
-        setQuestionCounts(counts);
-        setCountsLoaded(true);
-      });
+    let cancelled = false;
+    (async () => {
+      const counts: Record<string, number> = {};
+      await Promise.all(
+        subjects.map(async (s) => {
+          const { count } = await supabase
+            .from("questions")
+            .select("id", { count: "exact", head: true })
+            .eq("subject", s.id);
+          counts[s.id] = count ?? 0;
+        })
+      );
+      if (cancelled) return;
+      setQuestionCounts(counts);
+      setCountsLoaded(true);
+    })();
+    return () => {
+      cancelled = true;
+    };
   }, []);
 
   // Загружаем подтемы при выборе режима "topic"

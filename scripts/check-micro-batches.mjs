@@ -1,15 +1,20 @@
 #!/usr/bin/env node
 /**
- * Validate a directory of microbiology question fragments before ingest.
+ * Validate a directory of AI-generated question fragments before ingest.
  *
  * This mirrors the checks in scripts/ingest-generated.mjs so a broken batch is
  * caught by the generating agent rather than at ingest time. It only reads.
  *
- *   node scripts/check-micro-batches.mjs .cache/incoming-microbiology [--plan]
+ *   node scripts/check-micro-batches.mjs <dir> [--subject=<Subject>] [--plan]
  *
- * With --plan it also checks every (major_topic, subtopic) pair against
- * .cache/topic-coverage-microbiology.json and reports per-subtopic counts
- * against the planned targets.
+ * --subject   required subject for every question (default: inferred from the
+ *             --plan file name, else no subject check)
+ * --plan      also check every (major_topic, subtopic) pair against
+ *             .cache/topic-coverage-<subject>.json and report per-subtopic
+ *             counts against the planned targets
+ *
+ * The script keeps its historical name so existing instructions still work, but
+ * it is subject-agnostic.
  */
 import fs from "node:fs";
 import path from "node:path";
@@ -17,9 +22,11 @@ import path from "node:path";
 const dir = process.argv[2];
 const checkPlan = process.argv.includes("--plan");
 if (!dir) {
-  console.error("Usage: node scripts/check-micro-batches.mjs <dir> [--plan]");
+  console.error("Usage: node scripts/check-micro-batches.mjs <dir> [--subject=Name] [--plan]");
   process.exit(1);
 }
+
+const subjectArg = process.argv.find((a) => a.startsWith("--subject="))?.split("=")[1] ?? null;
 
 const REQUIRED = [
   "id",
@@ -44,9 +51,22 @@ function walk(d) {
 }
 
 let planRows = [];
+let expectedSubject = subjectArg;
 if (checkPlan) {
-  const planFile = path.resolve(process.cwd(), ".cache/topic-coverage-microbiology.json");
-  if (fs.existsSync(planFile)) planRows = JSON.parse(fs.readFileSync(planFile, "utf8"));
+  // Work out which subject the plan describes, from the --subject flag or by
+  // finding the topic-coverage file for this directory.
+  if (!expectedSubject) {
+    const name = path.basename(path.resolve(dir)).replace(/^incoming-/, "");
+    const candidate = path.resolve(process.cwd(), `.cache/topic-coverage-${name}.json`);
+    if (fs.existsSync(candidate)) expectedSubject = name;
+  }
+  const planFile = expectedSubject
+    ? path.resolve(process.cwd(), `.cache/topic-coverage-${expectedSubject.toLowerCase()}.json`)
+    : null;
+  if (planFile && fs.existsSync(planFile)) planRows = JSON.parse(fs.readFileSync(planFile, "utf8"));
+  // The directory name is lowercase; the questions carry the properly cased
+  // subject, so take it from the plan when available.
+  if (!subjectArg && planRows.length && planRows[0].subject) expectedSubject = planRows[0].subject;
 }
 const planPairs = new Set(planRows.map((r) => `${r.major_topic}\u0000${r.subtopic}`));
 
@@ -82,7 +102,12 @@ for (const file of files) {
       if (typeof q?.[f] !== "string" || !q[f].trim()) errors.push(`${where}: missing "${f}"`);
     }
     if (!DIFFICULTIES.has(q?.difficulty)) errors.push(`${where}: bad difficulty ${JSON.stringify(q?.difficulty)}`);
-    if (q?.subject !== "Microbiology") errors.push(`${where}: subject must be "Microbiology"`);
+    if (expectedSubject && q?.subject !== expectedSubject) {
+      errors.push(`${where}: subject must be "${expectedSubject}" (got ${JSON.stringify(q?.subject)})`);
+    }
+    // All questions in one run must agree with each other even without a
+    // --subject flag, so a stray question from another subject cannot slip in.
+    if (!expectedSubject && typeof q?.subject === "string") q?.subject && (expectedSubject ??= q.subject);
     if (checkPlan && planPairs.size && !planPairs.has(`${q?.major_topic}\u0000${q?.subtopic}`)) {
       errors.push(`${where}: pair not in plan: ${JSON.stringify(q?.major_topic)} / ${JSON.stringify(q?.subtopic)}`);
     }
