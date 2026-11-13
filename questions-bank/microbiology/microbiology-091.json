@@ -1,0 +1,125 @@
+[
+{
+  "id": "micro-273",
+  "subject": "Microbiology",
+  "major_topic": "Virology",
+  "subtopic": "RNA viruses overview and RNA virus mnemonics",
+  "difficulty": "medium",
+  "vignette": "A student is memorizing which RNA viruses carry positive-sense genomes equivalent to mRNA versus negative-sense genomes that must be transcribed first. She is told to remember the phrase about drinking flavored Corona and eating hippie California pickles.",
+  "question": "Which of the following groups of viruses all have positive-sense ssRNA genomes?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Poxvirus, hepadnavirus, and herpesvirus"
+    },
+    {
+      "id": "B",
+      "text": "Retrovirus, togavirus, flavivirus, coronavirus, hepevirus, calicivirus, picornavirus"
+    },
+    {
+      "id": "C",
+      "text": "Arenavirus, bunyavirus, paramyxovirus, orthomyxovirus, filovirus, rhabdovirus"
+    },
+    {
+      "id": "D",
+      "text": "Orthomyxovirus, paramyxovirus, and reovirus"
+    },
+    {
+      "id": "E",
+      "text": "Reovirus, rotavirus, and rhabdovirus"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Positive-sense ssRNA, which behaves like mRNA and can be translated directly, includes the retro-, toga-, flavi-, corona-, hepe-, calici-, and picornaviruses; the mnemonic is drinking flavored Corona and eating hippie California pickles at a retro toga party. Negative-sense viruses are the arena-, bunya-, paramyxo-, orthomyxo-, filo-, and rhabdoviruses, which must bring their own RNA-dependent RNA polymerase.",
+  "explanation_incorrect": {
+    "A": "These are DNA viruses; poxvirus and herpesvirus are dsDNA and hepadnavirus is partially dsDNA.",
+    "C": "This is exactly the negative-sense list; these virions package RNA-dependent RNA polymerase to make a positive-sense message first.",
+    "D": "Orthomyxovirus (influenza) and paramyxovirus are negative-sense; reovirus is the one RNA family with dsRNA.",
+    "E": "Reovirus has a dsRNA genome and rhabdovirus (rabies) is negative-sense ssRNA; neither is positive-sense."
+  },
+  "educationalObjective": "Positive-sense ssRNA viruses are retro, toga, flavi, corona, hepe, calici, and picornaviruses; negative-sense are arena, bunya, paramyxo, orthomyxo, filo, and rhabdoviruses, which must package polymerase.",
+  "source": "Generated from 3. Microbiology.pdf - Virology: RNA viruses overview and RNA virus mnemonics"
+},
+{
+  "id": "micro-274",
+  "subject": "Microbiology",
+  "major_topic": "Virology",
+  "subtopic": "RNA viruses overview and RNA virus mnemonics",
+  "difficulty": "medium",
+  "vignette": "A first-year student is asked why influenza virus and retrovirus are singled out when learning that RNA viruses replicate in the cytoplasm. A classmate answers with the phrase retro flu is outta cyt (sight).",
+  "question": "Which of the following best explains the exceptions to cytoplasmic replication among RNA viruses?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Both replicate in the cytoplasm but assemble their virions in the nucleus before budding at the plasma membrane"
+    },
+    {
+      "id": "B",
+      "text": "Influenza virus replicates in the nucleus because it requires host splicing machinery, and retrovirus integrates proviral DNA into the host genome in the nucleus"
+    },
+    {
+      "id": "C",
+      "text": "Both replicate exclusively in mitochondria to evade host immunity"
+    },
+    {
+      "id": "D",
+      "text": "Both are DNA viruses misclassified as RNA viruses"
+    },
+    {
+      "id": "E",
+      "text": "Both are naked viruses whose capsids must be disassembled in the nucleus"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "All RNA viruses replicate in the cytoplasm except the retrovirus and influenza virus. Retroviruses use reverse transcriptase to make dsDNA, which integrates into the host genome, a nuclear event. Influenza virus, an orthomyxovirus, transcribes and replicates its genome in the nucleus, using host nuclear functions. The mnemonic is Retro flu is outta cyt (sight).",
+  "explanation_incorrect": {
+    "A": "Influenza mRNAs are made in the nucleus and retroviral provirus is nuclear DNA; the nuclear step is genome transcription and integration, not merely assembly.",
+    "C": "Neither virus replicates in mitochondria; influenza uses the host nucleus and retroviruses the host chromosomal DNA.",
+    "D": "Influenza is an enveloped negative-sense ssRNA orthomyxovirus and HIV is a positive-sense ssRNA retrovirus with reverse transcriptase; neither is a DNA virus.",
+    "E": "Influenza is enveloped with a helical nucleocapsid and retrovirus is enveloped with an icosahedral core; capsid disassembly location is not the reason for nuclear replication."
+  },
+  "educationalObjective": "All RNA viruses replicate in the cytoplasm except influenza virus and retroviruses, which replicate in the nucleus (retro flu is outta cyt).",
+  "source": "Generated from 3. Microbiology.pdf - Virology: RNA viruses overview and RNA virus mnemonics"
+},
+{
+  "id": "micro-275",
+  "subject": "Microbiology",
+  "major_topic": "Virology",
+  "subtopic": "RNA viruses overview and RNA virus mnemonics",
+  "difficulty": "hard",
+  "vignette": "During a review of viral genome architecture, a student is given four RNA virus families and asked to identify which have segmented genomes, remembering the mnemonic BOAR. She is also told that all RNA viruses are single-stranded except one family.",
+  "question": "Which of the following pairings of RNA virus families with their distinguishing genome features is correct?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Orthomyxovirus has an unsegmented positive-sense genome"
+    },
+    {
+      "id": "B",
+      "text": "Paramyxovirus has a segmented dsRNA genome"
+    },
+    {
+      "id": "C",
+      "text": "Picornavirus has a fragmented negative-sense genome packaged as multiple segments"
+    },
+    {
+      "id": "D",
+      "text": "Reoviridae is the only dsRNA family, and the segmented families are bunya-, orthomyxo-, arena-, and reoviruses"
+    },
+    {
+      "id": "E",
+      "text": "Flaviviridae has a dsRNA genome and a circular, segmented arrangement"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "All RNA viruses have ssRNA genomes except Reoviridae, which has dsRNA, and reovirus is also the rotavirus family that causes infantile gastroenteritis. Segmented genomes occur in the BOAR families: bunya-, orthomyxo-, arena-, and reoviruses. Segmentation matters because it permits reassortment, the mechanism of antigenic shift in influenza.",
+  "explanation_incorrect": {
+    "A": "Orthomyxovirus (influenza) is negative-sense and multisegmented, which is precisely why it can reassort and shift.",
+    "B": "Paramyxoviruses such as measles, mumps, RSV, and parainfluenza are negative-sense and unsegmented ssRNA viruses.",
+    "C": "Picornaviruses have a single linear positive-sense ssRNA genome translated into one large polyprotein cleaved by viral proteases.",
+    "E": "Flaviviruses such as hepatitis C, yellow fever, dengue, West Nile, and Zika have linear positive-sense ssRNA genomes and are not segmented."
+  },
+  "educationalObjective": "Reoviridae is the only dsRNA RNA virus family, and only bunya-, orthomyxo-, arena-, and reoviruses (BOAR) are segmented.",
+  "source": "Generated from 3. Microbiology.pdf - Virology: RNA viruses overview and RNA virus mnemonics"
+}
+]

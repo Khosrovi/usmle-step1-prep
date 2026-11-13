@@ -1,0 +1,248 @@
+[
+{
+  "id": "micro-019",
+  "subject": "Microbiology",
+  "major_topic": "Antimicrobials",
+  "subtopic": "Antiretroviral drugs and adverse effects",
+  "difficulty": "medium",
+  "vignette": "A 32-year-old man is newly diagnosed with HIV. His CD4+ count is 220 cells/mm3 and his viral load is 95,000 copies per milliliter. Before starting a three-drug regimen of two NRTIs plus an integrase inhibitor, genotyping identifies the HLA-B*5701 allele, and the pharmacist adjusts the regimen accordingly.",
+  "question": "Which drug is contraindicated in this patient, and why?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Abacavir, because HLA-B*5701 predicts hypersensitivity"
+    },
+    {
+      "id": "B",
+      "text": "Efavirenz, because HLA-B*5701 predicts a high risk of vivid dreams and CNS symptoms"
+    },
+    {
+      "id": "C",
+      "text": "Dolutegravir, because HLA-B*5701 predicts creatine kinase elevation"
+    },
+    {
+      "id": "D",
+      "text": "Zidovudine, because HLA-B*5701 predicts dose-dependent hepatotoxicity"
+    },
+    {
+      "id": "E",
+      "text": "Tenofovir, because it causes nephrotoxicity in patients with the HLA-B*5701 allele"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Abacavir is contraindicated in patients carrying the HLA-B*5701 allele because of an increased risk of hypersensitivity reaction; screening for this allele before initiating therapy is why genotype information is used here. NRTIs as a class competitively inhibit nucleotide binding to reverse transcriptase and terminate the DNA chain because they lack a 3'-OH group, and they must be phosphorylated to be active. All NRTIs can cause myelosuppression, which is reversible with G-CSF and erythropoietin, and nephrotoxicity.",
+  "explanation_incorrect": {
+    "B": "Efavirenz causes vivid dreams and CNS symptoms as an NNRTI class-typical effect, but this is unrelated to HLA-B*5701.",
+    "C": "Integrase inhibitors such as dolutegravir increase creatine kinase and weight gain, and HLA-B*5701 does not predict this effect.",
+    "D": "Zidovudine is used for general prophylaxis and during pregnancy to reduce fetal transmission, and HLA-B*5701 is not associated with its dose-dependent hematologic toxicity.",
+    "E": "Tenofovir does cause nephrotoxicity as a class effect of NRTIs, but HLA-B*5701 is not its predictive marker; the allele specifically predicts abacavir hypersensitivity."
+  },
+  "educationalObjective": "Abacavir is contraindicated in patients with the HLA-B*5701 allele because of hypersensitivity risk; NRTIs must be phosphorylated and act as chain terminators.",
+  "source": "Generated from 3. Microbiology.pdf - Antimicrobials: Antiretroviral drugs and adverse effects"
+},
+{
+  "id": "micro-020",
+  "subject": "Microbiology",
+  "major_topic": "Antimicrobials",
+  "subtopic": "Antiretroviral drugs and adverse effects",
+  "difficulty": "medium",
+  "vignette": "A 39-year-old woman with HIV is started on efavirenz plus two NRTIs. Within 2 weeks she reports intense nightmares, insomnia, and a new diffuse rash, and her liver enzymes are mildly elevated. Her regimen also includes a protease inhibitor booster. The team counseled her in advance about potential CNS effects.",
+  "question": "Which of the following best describes the NNRTI class and efavirenz's specific adverse effects?",
+  "options": [
+    {
+      "id": "A",
+      "text": "NNRTIs bind gp41 and inhibit viral fusion at the cell membrane"
+    },
+    {
+      "id": "B",
+      "text": "NNRTIs inhibit HIV integrase and raise creatine kinase with weight gain"
+    },
+    {
+      "id": "C",
+      "text": "NNRTIs are chain terminators that incorporate into viral DNA and require phosphorylation to be active"
+    },
+    {
+      "id": "D",
+      "text": "NNRTIs inhibit HIV protease and cause hyperglycemia and GI intolerance"
+    },
+    {
+      "id": "E",
+      "text": "Direct reverse transcriptase binding with vivid dreams"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "NNRTIs such as doravirine, efavirenz, and rilpivirine bind reverse transcriptase at a site different from the NRTI site; they do not require phosphorylation to be active and do not compete with nucleotides. Rash and hepatotoxicity are common to all NNRTIs, and vivid dreams and CNS symptoms are characteristic of efavirenz. NNRTIs are also among the antiretrovirals that are not effective against HIV-2.",
+  "explanation_incorrect": {
+    "A": "Binding gp41 to block fusion describes the entry inhibitor enfuvirtide, which causes injection-site skin reactions.",
+    "B": "Integrase inhibition with increased creatine kinase and weight gain defines the integrase strand transfer inhibitors such as dolutegravir and bictegravir.",
+    "C": "Chain termination with required phosphorylation describes NRTIs, which are incorporated into DNA and lack a 3'-OH group; NNRTIs are non-nucleoside binders instead.",
+    "D": "Inhibiting HIV protease with hyperglycemia and GI intolerance describes protease inhibitors such as atazanavir and ritonavir."
+  },
+  "educationalObjective": "NNRTIs bind reverse transcriptase directly without phosphorylation and cause rash and hepatotoxicity in all members, with vivid dreams and CNS effects from efavirenz.",
+  "source": "Generated from 3. Microbiology.pdf - Antimicrobials: Antiretroviral drugs and adverse effects"
+},
+{
+  "id": "micro-021",
+  "subject": "Microbiology",
+  "major_topic": "Antimicrobials",
+  "subtopic": "Antiretroviral drugs and adverse effects",
+  "difficulty": "medium",
+  "vignette": "A 45-year-old man with HIV on darunavir plus ritonavir and two NRTIs develops fatigue, polydipsia, and polyuria. His fasting glucose is 210 mg/dL. He also reports nausea and diarrhea. The pharmacist reviews the regimen, noting that all protease inhibitors require boosting and that ritonavir's main role is inhibition of cytochrome P-450.",
+  "question": "Which of the following best describes the protease inhibitor class?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Protease blockade prevents virion maturation"
+    },
+    {
+      "id": "B",
+      "text": "They are nucleoside analogs that cause myelosuppression and nephrotoxicity"
+    },
+    {
+      "id": "C",
+      "text": "They terminate DNA chain elongation and require phosphorylation for activity"
+    },
+    {
+      "id": "D",
+      "text": "They bind CCR-5 on T cells and monocytes to prevent gp120 interaction"
+    },
+    {
+      "id": "E",
+      "text": "They inhibit integrase and increase creatine kinase levels"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Protease inhibitors prevent maturation of new virions because maturation depends on HIV-1 protease, the pol gene product that cleaves polypeptide products of HIV mRNA into functional parts; the mnemonic is that navir (never) tease a protease. All protease inhibitors require boosting with either ritonavir or cobicistat, and ritonavir itself is used only as a boosting agent because it inhibits cytochrome P-450. Their adverse effects are hyperglycemia and GI intolerance with nausea and diarrhea.",
+  "explanation_incorrect": {
+    "B": "Nucleoside analogs with myelosuppression and nephrotoxicity are the NRTIs, which interfere with reverse transcription rather than virion maturation.",
+    "C": "Chain termination after phosphorylation is the NRTI mechanism, not the protease inhibitor mechanism.",
+    "D": "CCR-5 binding to block gp120 interaction is maraviroc's entry inhibition mechanism.",
+    "E": "Integrase inhibition with creatine kinase elevation is the integrase strand transfer inhibitor profile."
+  },
+  "educationalObjective": "Protease inhibitors block HIV protease to prevent virion maturation, require ritonavir or cobicistat boosting, and cause hyperglycemia and GI intolerance.",
+  "source": "Generated from 3. Microbiology.pdf - Antimicrobials: Antiretroviral drugs and adverse effects"
+},
+{
+  "id": "micro-022",
+  "subject": "Microbiology",
+  "major_topic": "Antimicrobials",
+  "subtopic": "Antiretroviral drugs and adverse effects",
+  "difficulty": "medium",
+  "vignette": "A 28-year-old man with newly diagnosed HIV is about to start antiretroviral therapy. His regimen will include zidovudine, and his baseline labs show mild anemia. Six weeks later his hemoglobin has dropped and he has neutropenia. The team also identifies a patient starting tenofovir with a rising creatinine, and a pregnant patient receiving zidovudine for prevention of transmission.",
+  "question": "Which of the following best describes the NRTI class and its adverse effects?",
+  "options": [
+    {
+      "id": "A",
+      "text": "They are protease inhibitors that cause hyperglycemia and GI intolerance"
+    },
+    {
+      "id": "B",
+      "text": "They are integrase inhibitors that increase creatine kinase and weight"
+    },
+    {
+      "id": "C",
+      "text": "They are entry inhibitors that cause injection-site reactions and bind CCR-5"
+    },
+    {
+      "id": "D",
+      "text": "Chain termination with myelosuppression and nephrotoxicity"
+    },
+    {
+      "id": "E",
+      "text": "They bind reverse transcriptase directly without phosphorylation and cause rash with vivid dreams"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "NRTIs competitively inhibit nucleotide binding to reverse transcriptase and terminate the DNA chain because they lack a 3'-OH group; tenofovir is a nucleoTide while the others are nucleosides, and all must be phosphorylated to be active. They cause myelosuppression, reversible with G-CSF and erythropoietin, and nephrotoxicity. Zidovudine can be used for general prophylaxis and during pregnancy to reduce the risk of fetal transmission, and tenofovir with emtricitabine can be used as pre-exposure prophylaxis.",
+  "explanation_incorrect": {
+    "A": "Protease inhibition with hyperglycemia and GI intolerance is the protease inhibitor profile.",
+    "B": "Integrase inhibition with creatine kinase elevation and weight gain describes integrase strand transfer inhibitors.",
+    "C": "Entry inhibitors such as enfuvirtide and maraviroc act at fusion and docking, not at reverse transcription.",
+    "E": "Direct binding without phosphorylation and vivid dreams describe NNRTIs such as efavirenz, which also cause rash and hepatotoxicity."
+  },
+  "educationalObjective": "NRTIs are DNA chain terminators requiring phosphorylation that cause myelosuppression and nephrotoxicity; zidovudine is used in pregnancy to reduce transmission.",
+  "source": "Generated from 3. Microbiology.pdf - Antimicrobials: Antiretroviral drugs and adverse effects"
+},
+{
+  "id": "micro-023",
+  "subject": "Microbiology",
+  "major_topic": "Antimicrobials",
+  "subtopic": "Antiretroviral drugs and adverse effects",
+  "difficulty": "hard",
+  "vignette": "A 36-year-old woman with HIV and a history of suboptimal adherence is failing therapy and now has a high viral load. Her new regimen includes an integrase inhibitor, and later a CCR-5 antagonist is considered because her virus is CCR-5 tropic. A colleague asks whether all antiretrovirals are effective against both HIV-1 and HIV-2, and how entry inhibitors differ.",
+  "question": "Which of the following statements about antiretroviral coverage and entry inhibitors is most accurate?",
+  "options": [
+    {
+      "id": "A",
+      "text": "All antiretrovirals are equally effective against HIV-1 and HIV-2, and enfuvirtide binds CCR-5"
+    },
+    {
+      "id": "B",
+      "text": "NNRTIs and enfuvirtide miss HIV-2; enfuvirtide binds gp41"
+    },
+    {
+      "id": "C",
+      "text": "Integrase inhibitors are the only class ineffective against HIV-2, and maraviroc binds gp41"
+    },
+    {
+      "id": "D",
+      "text": "Protease inhibitors do not require boosting, and enfuvirtide inhibits HIV protease"
+    },
+    {
+      "id": "E",
+      "text": "NRTIs are ineffective against HIV-2, and maraviroc inhibits viral integrase"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Most antiretrovirals are active against both HIV-1 and HIV-2, with the exceptions being NNRTIs and enfuvirtide, which are not effective against HIV-2. Enfuvirtide binds gp41 to inhibit viral fusion, producing injection-site skin reactions, and maraviroc binds CCR-5 on the surface of T cells and monocytes to inhibit interaction with gp120, acting as a docking inhibitor. A standard regimen uses three drugs, typically two NRTIs plus preferably an integrase inhibitor, to prevent resistance.",
+  "explanation_incorrect": {
+    "A": "The classes are not all equally effective: NNRTIs and enfuvirtide fail against HIV-2, and enfuvirtide binds gp41 rather than CCR-5.",
+    "C": "Integrase inhibitors are effective against HIV-2; the ineffective agents are NNRTIs and enfuvirtide, and maraviroc binds CCR-5 rather than gp41.",
+    "D": "All protease inhibitors require boosting with ritonavir or cobicistat, and enfuvirtide is a fusion inhibitor rather than a protease inhibitor.",
+    "E": "NRTIs remain active against HIV-2, and maraviroc targets the CCR-5 co-receptor rather than integrase."
+  },
+  "educationalObjective": "Most antiretrovirals cover HIV-1 and HIV-2 except NNRTIs and enfuvirtide; enfuvirtide blocks gp41 fusion while maraviroc blocks CCR-5 docking.",
+  "source": "Generated from 3. Microbiology.pdf - Antimicrobials: Antiretroviral drugs and adverse effects"
+},
+{
+  "id": "micro-024",
+  "subject": "Microbiology",
+  "major_topic": "Antimicrobials",
+  "subtopic": "Antiretroviral drugs and adverse effects",
+  "difficulty": "medium",
+  "vignette": "A 41-year-old man with HIV and pulmonary tuberculosis needs simultaneous treatment of both diseases. His HIV regimen includes a protease inhibitor, and the tuberculosis regimen includes rifampin. The pharmacist warns that rifampin is a potent inducer of CYP and UGT enzymes and would lower the protease inhibitor concentration, and recommends substituting a different rifamycin.",
+  "question": "Which of the following adjustments is most appropriate?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Add cobicistat to overcome rifampin induction of the protease inhibitor"
+    },
+    {
+      "id": "B",
+      "text": "Stop the protease inhibitor permanently and use integrase inhibitor monotherapy"
+    },
+    {
+      "id": "C",
+      "text": "Increase the protease inhibitor dose and continue rifampin, since rifampin has no interaction with antiretrovirals"
+    },
+    {
+      "id": "D",
+      "text": "Use rifabutin instead of rifampin because it induces CYP450 less than rifampin"
+    },
+    {
+      "id": "E",
+      "text": "Switch the rifampin to isoniazid monotherapy to avoid drug interactions"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Rifampin is a potent inducer of CYP and UGT enzymes and reduces protease inhibitor concentrations, so rifabutin, which induces CYP450 less, is favored over rifampin in patients with HIV infection. Rifamycins all inhibit DNA-dependent RNA polymerase to reduce mRNA synthesis, so rifabutin retains antimycobacterial activity. Rifamycin monotherapy rapidly leads to resistance, so a full combination regimen must be maintained.",
+  "explanation_incorrect": {
+    "A": "Adding cobicistat does not overcome potent CYP450 induction by rifampin, which is why substituting rifabutin is preferred.",
+    "B": "Integrase inhibitor monotherapy is inadequate because antiretroviral therapy requires at least three drugs to prevent resistance, and stopping effective therapy risks HIV progression.",
+    "C": "Rifampin does have a major interaction with protease inhibitors through CYP450 induction, and dose escalation does not reliably overcome it.",
+    "E": "Isoniazid monotherapy for tuberculosis is unacceptable because monotherapy rapidly selects resistance; combination therapy is required."
+  },
+  "educationalObjective": "In patients with HIV, rifabutin is favored over rifampin because it induces CYP450 less and does not lower protease inhibitor levels as much.",
+  "source": "Generated from 3. Microbiology.pdf - Antimicrobials: Antiretroviral drugs and adverse effects"
+}
+]

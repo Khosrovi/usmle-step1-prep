@@ -1,0 +1,207 @@
+[
+{
+  "id": "micro-192",
+  "subject": "Microbiology",
+  "major_topic": "Virology",
+  "subtopic": "HIV virology and treatment",
+  "difficulty": "hard",
+  "vignette": "A 29-year-old man is newly diagnosed with HIV infection. His CD4 count is 520/mm3 and viral load is 68,000 copies/mL. He previously had controlled hypertension and no other medical problems. The clinician discusses combination antiretroviral therapy.",
+  "question": "Which of the following drug pairs correctly matches the HIV protein with the drug that inhibits it?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Zidovudine inhibits integrase, and dolutegravir inhibits reverse transcriptase"
+    },
+    {
+      "id": "B",
+      "text": "Enfuvirtide inhibits reverse transcriptase, and maraviroc inhibits protease"
+    },
+    {
+      "id": "C",
+      "text": "Lamivudine inhibits gp120 attachment, and tenofovir blocks gp41 fusion"
+    },
+    {
+      "id": "D",
+      "text": "Enfuvirtide inhibits gp41-mediated fusion, and maraviroc blocks the CCR5 coreceptor"
+    },
+    {
+      "id": "E",
+      "text": "Raltegravir inhibits protease, and ritonavir inhibits integrase"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "HIV entry requires gp120 attachment to CD4 and a coreceptor, followed by gp41-mediated fusion. Enfuvirtide blocks gp41 fusion and maraviroc blocks CCR5, so both act at entry; the other steps are reverse transcription (inhibited by nucleoside and non-nucleoside reverse transcriptase inhibitors), integration (inhibited by integrase inhibitors such as raltegravir and dolutegravir), and maturation (blocked by protease inhibitors). The pol gene encodes reverse transcriptase, integrase, and protease through cleavage of the gag-pol polyprotein.",
+  "explanation_incorrect": {
+    "A": "Zidovudine is a nucleoside reverse transcriptase inhibitor and dolutegravir is an integrase inhibitor, so both assignments are wrong.",
+    "B": "Enfuvirtide acts on gp41 fusion rather than reverse transcriptase, and maraviroc blocks the CCR5 coreceptor rather than protease.",
+    "C": "Lamivudine is a nucleoside reverse transcriptase inhibitor and tenofovir is a nucleotide reverse transcriptase inhibitor; neither targets gp120 or gp41.",
+    "E": "Raltegravir is an integrase inhibitor and ritonavir is a protease inhibitor often used as a pharmacokinetic booster; this pairing is reversed."
+  },
+  "educationalObjective": "HIV drugs act at defined steps: CCR5 antagonists and fusion inhibitors at entry, reverse transcriptase inhibitors at reverse transcription, integrase inhibitors at integration, and protease inhibitors at maturation.",
+  "source": "Generated from 3. Microbiology.pdf - Virology: HIV virology and treatment"
+},
+{
+  "id": "micro-193",
+  "subject": "Microbiology",
+  "major_topic": "Virology",
+  "subtopic": "HIV virology and treatment",
+  "difficulty": "medium",
+  "vignette": "A 36-year-old man presents with 2 weeks of fever, sore throat, fatigue, and a diffuse maculopapular rash after a new sexual partner. His HIV-1/2 antigen/antibody combination immunoassay is negative, but HIV-1 nucleic acid testing is positive with a high viral load.",
+  "question": "Which of the following best explains the discordant test results?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The p24 antigen component of the immunoassay is only detectable after seroconversion is complete"
+    },
+    {
+      "id": "B",
+      "text": "The antigen/antibody immunoassay may miss early HIV disease if performed within the first 2 weeks of infection, but NAAT detects viremia in antibody-negative patients"
+    },
+    {
+      "id": "C",
+      "text": "The negative immunoassay proves the NAAT result is a false positive from a laboratory error"
+    },
+    {
+      "id": "D",
+      "text": "The NAAT result reflects maternal antibody transfer rather than true infection"
+    },
+    {
+      "id": "E",
+      "text": "The confirmatory test for a positive immunoassay is a Western blot, which is why the initial test was negative"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "HIV-1/2 antigen/antibody immunoassays detect p24 capsid antigen and IgG and IgM antibodies to HIV-1/2 with very high sensitivity and specificity, but they may miss early disease if the test is done within the first 2 weeks of infection. NAAT is a qualitative, sensitive method to detect HIV viremia in antibody-negative patients, so it establishes acute HIV infection here. The acute retroviral syndrome with fever, pharyngitis, and rash fits this window.",
+  "explanation_incorrect": {
+    "A": "p24 antigen is detectable before antibodies appear, which is precisely why antigen/antibody combination assays shorten the window period.",
+    "C": "A negative antibody test during acute infection is expected, and a positive NAAT in this clinical setting is diagnostic rather than a laboratory artifact.",
+    "D": "Maternally transferred antibody is a concern in infants, where the recommendation is to use HIV viral load testing instead; this patient is an adult.",
+    "E": "Western blot is no longer recommended by the CDC for confirmatory testing; a positive screening test is followed by an HIV-1/2 antibody differentiation immunoassay."
+  },
+  "educationalObjective": "HIV antigen/antibody combination immunoassays can be negative in the first 2 weeks of infection, when NAAT detects viremia and establishes acute HIV.",
+  "source": "Generated from 3. Microbiology.pdf - Virology: HIV virology and treatment"
+},
+{
+  "id": "micro-194",
+  "subject": "Microbiology",
+  "major_topic": "Virology",
+  "subtopic": "HIV virology and treatment",
+  "difficulty": "medium",
+  "vignette": "A 42-year-old man with untreated HIV infection has a CD4 count of 180/mm3. He presents with 3 weeks of dry cough, exertional dyspnea, and fatigue. Chest radiograph shows bilateral perihilar interstitial infiltrates, and high-resolution CT shows ground-glass opacities.",
+  "question": "Which of the following CD4 count thresholds is most appropriate for initiating prophylaxis against this pathogen?",
+  "options": [
+    {
+      "id": "A",
+      "text": "CD4 count below 100/mm3"
+    },
+    {
+      "id": "B",
+      "text": "CD4 count below 50/mm3"
+    },
+    {
+      "id": "C",
+      "text": "CD4 count below 750/mm3"
+    },
+    {
+      "id": "D",
+      "text": "CD4 count below 200/mm3"
+    },
+    {
+      "id": "E",
+      "text": "CD4 count below 500/mm3"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "The patient has Pneumocystis jirovecii pneumonia, which appears when the CD4 count falls below 200/mm3 and produces ground-glass opacities on chest imaging. Other diseases in this tier include Histoplasma capsulatum infection, HIV dementia and HIV-associated nephropathy, JC virus reactivation causing progressive multifocal leukoencephalopathy, disseminated HHV-8 Kaposi sarcoma, and B-cell lymphoma. Prophylaxis is triggered at the same 200/mm3 threshold.",
+  "explanation_incorrect": {
+    "A": "The CD4 below 100/mm3 tier includes Bartonella bacillary angiomatosis, Candida esophagitis, CMV disease (CREEP), Cryptococcus meningitis, Cryptosporidium diarrhea, EBV CNS lymphoma, and MAC.",
+    "B": "A CD4 count below 50/mm3 is when Mycobacterium avium complex disease is most common, along with CMV retinitis; PCP prophylaxis begins earlier.",
+    "C": "A threshold of 750/mm3 is above the normal lower limit of 500 cells/mm3 and is not an AIDS-defining threshold.",
+    "E": "The CD4 below 500/mm3 tier includes oral thrush from Candida albicans, EBV oral hairy leukoplakia, HHV-8 Kaposi sarcoma, HPV squamous cell carcinoma, and increased tuberculosis reactivation risk."
+  },
+  "educationalObjective": "Pneumocystis jirovecii pneumonia occurs and prophylaxis begins at a CD4 count below 200/mm3, with ground-glass opacities on chest imaging.",
+  "source": "Generated from 3. Microbiology.pdf - Virology: HIV virology and treatment"
+},
+{
+  "id": "micro-195",
+  "subject": "Microbiology",
+  "major_topic": "Virology",
+  "subtopic": "HIV virology and treatment",
+  "difficulty": "hard",
+  "vignette": "A 51-year-old man with AIDS and a CD4 count of 30/mm3 presents with headache, fever, and confusion. MRI shows multiple ring-enhancing lesions, and serology for Toxoplasma is positive. Two months later he develops severe headache and meningismus, and CSF India ink staining shows encapsulated yeast.",
+  "question": "Which of the following best explains why he developed these opportunistic infections?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Loss of B cells eliminates antibody production, which is the sole cause of these infections"
+    },
+    {
+      "id": "B",
+      "text": "A decline in CD4+ T cells reactivates past infections and permits dissemination of bacterial and fungal infections and non-Hodgkin lymphomas"
+    },
+    {
+      "id": "C",
+      "text": "HIV directly infects astrocytes and fungal organisms, causing their proliferation"
+    },
+    {
+      "id": "D",
+      "text": "Reverse transcriptase inhibitors cause immunosuppression that predisposes to these infections"
+    },
+    {
+      "id": "E",
+      "text": "gp120 binding to CCR5 on macrophages destroys the macrophages and eliminates phagocytosis"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "A declining CD4+ T cell count leads to reactivation of past infections such as tuberculosis, HSV, and shingles, dissemination of bacterial and fungal infections such as coccidioidomycosis, and non-Hodgkin lymphomas. Specific thresholds map to specific pathogens: below 200/mm3 Toxoplasma causes ring-enhancing brain abscesses and PCP causes ground-glass opacities, and below 100/mm3 Cryptococcus causes meningitis with encapsulated yeast on India ink. HIV also binds CD4 plus CCR5 on macrophages early and CXCR4 on T cells late.",
+  "explanation_incorrect": {
+    "A": "HIV targets CD4+ T cells primarily, and cell-mediated immunity rather than B-cell antibody production is the dominant defense against these opportunistic pathogens.",
+    "C": "HIV infects CD4-expressing cells such as T cells and macrophages; it does not infect astrocytes or fungal organisms to make them proliferate.",
+    "D": "Reverse transcriptase inhibitors treat HIV and improve immune function; drug-related immunosuppression is not the mechanism of these AIDS-defining infections.",
+    "E": "gp120 binding to CD4 and a coreceptor allows viral entry into macrophages; it does not eliminate phagocytosis as the explanation for Toxoplasma and Cryptococcus."
+  },
+  "educationalObjective": "A falling CD4+ T cell count in HIV reactivates latent infections and permits opportunistic bacterial, fungal, and lymphomatous disease, in tiers at 500, 200, and 100 cells/mm3.",
+  "source": "Generated from 3. Microbiology.pdf - Virology: HIV virology and treatment"
+},
+{
+  "id": "micro-196",
+  "subject": "Microbiology",
+  "major_topic": "Virology",
+  "subtopic": "HIV virology and treatment",
+  "difficulty": "medium",
+  "vignette": "A 27-year-old man who has sex with men is seen for prevention counseling. He is HIV negative. His partner is HIV positive and has an undetectable viral load on antiretroviral therapy. The clinician reviews methods of pre-exposure prophylaxis and explains differences in viral entry.",
+  "question": "Which of the following best explains why a homozygous CCR5 mutation confers resistance to HIV infection?",
+  "options": [
+    {
+      "id": "A",
+      "text": "HIV requires CD4 plus either CCR5 on macrophages or CXCR4 on T cells for entry, and CCR5 loss blocks entry of early macrophage-tropic virus"
+    },
+    {
+      "id": "B",
+      "text": "CCR5 is the enzyme that reverse transcribes the HIV genome, so its loss prevents provirus formation"
+    },
+    {
+      "id": "C",
+      "text": "CCR5 is the same molecule as CD4, so mutation eliminates the primary receptor entirely"
+    },
+    {
+      "id": "D",
+      "text": "CCR5 mutation enhances gp41 fusion so the virus enters but cannot integrate"
+    },
+    {
+      "id": "E",
+      "text": "CCR5 mutation increases CCR5 surface expression and traps virions outside the cell"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "HIV binds CD4 as well as a coreceptor, either CCR5 on macrophages during early infection or CXCR4 on T cells during late infection. A homozygous CCR5 mutation confers immunity, whereas a heterozygous mutation produces a slower disease course, because the missing coreceptor prevents entry of macrophage-tropic virus. This is the rationale behind maraviroc, a CCR5 antagonist that blocks the same step.",
+  "explanation_incorrect": {
+    "B": "Reverse transcription is performed by the pol gene product reverse transcriptase, not by the chemokine receptor CCR5.",
+    "C": "CD4 and CCR5 are distinct surface molecules; CD4 is the primary receptor and CCR5 is a coreceptor used in addition to it.",
+    "D": "The mutation reduces functional coreceptor availability and prevents entry; it does not enhance gp41-mediated fusion.",
+    "E": "The mutation reduces or eliminates functional CCR5 on the cell surface rather than increasing expression, and virions are blocked at entry rather than trapped."
+  },
+  "educationalObjective": "Homozygous CCR5 mutation confers HIV immunity and heterozygous mutation slows disease, because HIV needs CD4 plus CCR5 (macrophages) or CXCR4 (T cells) for entry.",
+  "source": "Generated from 3. Microbiology.pdf - Virology: HIV virology and treatment"
+}
+]

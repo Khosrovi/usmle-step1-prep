@@ -1,0 +1,166 @@
+[
+{
+  "id": "micro-181",
+  "subject": "Microbiology",
+  "major_topic": "Virology",
+  "subtopic": "Hepatitis C, D, and E",
+  "difficulty": "medium",
+  "vignette": "A 41-year-old woman with a history of injection drug use is found to have an ALT of 88 U/L on routine screening. HCV RNA is detectable, and the same viral genotype persists on repeat testing 6 months later. She has never cleared the virus.",
+  "question": "Which of the following best explains why most patients with hepatitis C fail to clear the virus?",
+  "options": [
+    {
+      "id": "A",
+      "text": "HCV lacks 3'-5' exonuclease proofreading activity, so its envelope proteins undergo continuous antigenic variation"
+    },
+    {
+      "id": "B",
+      "text": "HCV integrates into the host genome and becomes invisible to cytotoxic T cells"
+    },
+    {
+      "id": "C",
+      "text": "HCV is a defective virus that requires hepatitis B surface antigen to replicate"
+    },
+    {
+      "id": "D",
+      "text": "HCV replicates in the nucleus, where neutralizing antibodies cannot reach it"
+    },
+    {
+      "id": "E",
+      "text": "HCV encodes a reverse transcriptase that generates mutations during DNA synthesis"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "The HCV RNA-dependent RNA polymerase lacks 3'-5' exonuclease activity, so it cannot proofread and makes frequent errors. This produces antigenic variation of the envelope proteins, and host antibody production lags behind the emergence of new mutant strains. As a result, the majority of infected people develop stable chronic hepatitis C, which may progress to cirrhosis or hepatocellular carcinoma.",
+  "explanation_incorrect": {
+    "B": "HCV is a flavivirus that replicates through an RNA intermediate in the cytoplasm; it does not integrate into host DNA like a retrovirus.",
+    "C": "That description fits hepatitis D, the defective deltavirus that requires HBsAg as its envelope; HCV replicates independently.",
+    "D": "HCV replicates in the cytoplasm as an RNA virus, and the escape mechanism is antigenic variation rather than nuclear sequestration.",
+    "E": "HCV does not encode reverse transcriptase; that enzyme belongs to retroviruses and hepatitis B virus."
+  },
+  "educationalObjective": "Hepatitis C evades immunity because its polymerase lacks proofreading, generating continuous antigenic variation that outpaces antibody production and leads to chronic infection in most patients.",
+  "source": "Generated from 3. Microbiology.pdf - Virology: Hepatitis C, D, and E"
+},
+{
+  "id": "micro-182",
+  "subject": "Microbiology",
+  "major_topic": "Virology",
+  "subtopic": "Hepatitis C, D, and E",
+  "difficulty": "medium",
+  "vignette": "A 29-year-old pregnant woman in her third trimester in South Asia develops jaundice and becomes encephalopathic over 5 days. Laboratory studies show an ALT of 2100 U/L, INR of 2.8, and positive IgM anti-HEV. Testing for HAV, HBV, HCV, and HDV is negative.",
+  "question": "Which of the following is the most likely outcome of this infection?",
+  "options": [
+    {
+      "id": "A",
+      "text": "High mortality from fulminant hepatitis in pregnancy"
+    },
+    {
+      "id": "B",
+      "text": "Complete dependence on hepatitis B surface antigen for entry into hepatocytes"
+    },
+    {
+      "id": "C",
+      "text": "Chronic hepatitis in the majority of those infected"
+    },
+    {
+      "id": "D",
+      "text": "Resolution with lifelong immunity and no risk of recurrence"
+    },
+    {
+      "id": "E",
+      "text": "Chronic carriage with eventual cirrhosis and hepatocellular carcinoma"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Hepatitis E is a naked positive-sense ssRNA hepevirus spread fecal-orally, especially by contaminated water in epidemic outbreaks in parts of Asia, Africa, and the Middle East. It has no carrier state and does not cause chronic disease, but in pregnant patients, particularly in the third trimester, it can cause fulminant hepatitis with high mortality, reflected here by encephalopathy and a markedly elevated INR.",
+  "explanation_incorrect": {
+    "B": "Dependence on HBsAg describes hepatitis D, a defective deltavirus, not the independently replicating hepatitis E virus.",
+    "C": "Chronic infection develops in the majority of hepatitis C patients and in some hepatitis B patients, but not with HEV.",
+    "D": "Fulminant hepatitis in pregnancy makes this a high-risk rather than benign course, and this patient already has encephalopathy and coagulopathy.",
+    "E": "HEV does not cause chronic hepatitis or hepatocellular carcinoma; it has no carrier state, which distinguishes it from HBV and HCV."
+  },
+  "educationalObjective": "Hepatitis E is fecal-orally transmitted (especially waterborne), has no carrier state, but carries high mortality from fulminant hepatitis in pregnant patients.",
+  "source": "Generated from 3. Microbiology.pdf - Virology: Hepatitis C, D, and E"
+},
+{
+  "id": "micro-183",
+  "subject": "Microbiology",
+  "major_topic": "Virology",
+  "subtopic": "Hepatitis C, D, and E",
+  "difficulty": "hard",
+  "vignette": "A 38-year-old man with a history of injection drug use and known HBsAg-positive chronic hepatitis B presents with rapidly worsening jaundice, increasing ascites, and hepatic encephalopathy. Serology is positive for IgM anti-HDV. Six months earlier his liver enzymes were only mildly elevated.",
+  "question": "Which of the following best explains the fulminant course in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Acute hepatitis E superimposed on chronic hepatitis B"
+    },
+    {
+      "id": "B",
+      "text": "Hepatitis C superinfection causing essential mixed cryoglobulinemia"
+    },
+    {
+      "id": "C",
+      "text": "Reactivation of hepatitis A with aplastic anemia"
+    },
+    {
+      "id": "D",
+      "text": "HDV coinfection with HBV, which typically produces a long incubation period and less severe disease"
+    },
+    {
+      "id": "E",
+      "text": "HDV superinfection of established hepatitis B, which carries a worse prognosis than coinfection"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Hepatitis D is a defective circular negative-sense ssRNA deltavirus that depends on HBsAg produced by replicating hepatitis B virus to form its envelope and infect hepatocytes. When HDV superinfects a patient who already has chronic hepatitis B, the incubation period is short and the prognosis is worse, with an accelerated course to cirrhosis and fulminant hepatitis, than with simultaneous coinfection.",
+  "explanation_incorrect": {
+    "A": "Acute hepatitis E can cause fulminant disease, especially in pregnancy, but this patient's IgM anti-HDV identifies the explanation for the flare directly.",
+    "B": "Hepatitis C superinfection causes chronic hepatitis and mixed cryoglobulinemia, not an acute fulminant deterioration with positive HDV IgM.",
+    "C": "Hepatitis A does not produce chronic infection or reactivation, and aplastic anemia is not part of HDV-related deterioration.",
+    "D": "Coinfection means simultaneous acquisition of HDV and HBV and has a long incubation period with a less severe course; this patient's established hepatitis B indicates superinfection."
+  },
+  "educationalObjective": "HDV superinfection of established chronic hepatitis B has a short incubation and worse prognosis than simultaneous HDV-HBV coinfection, which has a long incubation and less severe course.",
+  "source": "Generated from 3. Microbiology.pdf - Virology: Hepatitis C, D, and E"
+},
+{
+  "id": "micro-184",
+  "subject": "Microbiology",
+  "major_topic": "Virology",
+  "subtopic": "Hepatitis C, D, and E",
+  "difficulty": "medium",
+  "vignette": "A 55-year-old woman with chronic hepatitis C presents with palpable purpura on the lower legs, arthralgias, and numbness in both feet. Laboratory studies show a positive rheumatoid factor, low complement, and circulating cryoglobulins. She also has new proteinuria.",
+  "question": "Which of the following best accounts for this constellation of findings?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Membranous nephropathy due to hepatitis B immune complexes"
+    },
+    {
+      "id": "B",
+      "text": "Lichen planus of the skin secondary to hepatitis C, without renal involvement"
+    },
+    {
+      "id": "C",
+      "text": "Polyarteritis nodosa associated with chronic hepatitis B"
+    },
+    {
+      "id": "D",
+      "text": "Essential mixed cryoglobulinemia with membranoproliferative glomerulonephritis in hepatitis C"
+    },
+    {
+      "id": "E",
+      "text": "Sporadic porphyria cutanea tarda from hepatitis B"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Hepatitis C extrahepatic manifestations are grouped by organ system: hematologic effects include essential mixed cryoglobulinemia, an increased risk of B-cell non-Hodgkin lymphoma, ITP, and autoimmune hemolytic anemia; renal disease is more often membranoproliferative GN than membranous GN; vascular disease includes leukocytoclastic vasculitis. Cryoglobulinemic vasculitis links the purpura, neuropathy, low complement, and glomerulonephritis in one explanation.",
+  "explanation_incorrect": {
+    "A": "Membranous nephropathy precedes membranoproliferative GN in hepatitis B, not in hepatitis C, where the reverse hierarchy applies.",
+    "B": "Lichen planus is a hepatitis C skin association, but this patient has clear systemic vasculitic and renal disease that requires explanation.",
+    "C": "Polyarteritis nodosa is the hepatitis B vascular manifestation and affects medium vessels with myalgias and skin nodules rather than cryoglobulinemic purpura.",
+    "E": "Porphyria cutanea tarda is listed among hepatitis C dermatologic manifestations, not hepatitis B, and it does not explain the renal or neurologic findings."
+  },
+  "educationalObjective": "Hepatitis C causes essential mixed cryoglobulinemia and membranoproliferative glomerulonephritis, whereas hepatitis B causes polyarteritis nodosa and membranous glomerulonephritis.",
+  "source": "Generated from 3. Microbiology.pdf - Virology: Hepatitis C, D, and E"
+}
+]

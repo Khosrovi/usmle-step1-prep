@@ -1,0 +1,84 @@
+[
+{
+  "id": "micro-285",
+  "subject": "Microbiology",
+  "major_topic": "Basic Bacteriology",
+  "subtopic": "Spores and sporulation",
+  "difficulty": "medium",
+  "vignette": "A 9-month-old infant is brought in with poor feeding, generalized weakness, constipation, and a weak cry. The family reports giving him raw honey. The infant remains afebrile with normal mental status. The organisms cultured are gram-positive bacilli that form heat-resistant spores and grow only under anaerobic conditions.",
+  "question": "Which structure/feature best explains the environmental persistence of this organism in the honey?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Lipopolysaccharide in the outer membrane that resists heat"
+    },
+    {
+      "id": "B",
+      "text": "An S layer that inactivates hydrogen peroxide"
+    },
+    {
+      "id": "C",
+      "text": "M protein that prevents opsonization"
+    },
+    {
+      "id": "D",
+      "text": "A keratinlike spore coat with dipicolinic acid in its core"
+    },
+    {
+      "id": "E",
+      "text": "A thick polysaccharide capsule that resists desiccation"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Some gram-positive bacteria form spores when nutrients are limited; the spore is a specialized structure with a keratinlike coat and a core containing dipicolinic acid, which confers heat resistance, plus peptidoglycan and DNA. Spores lack metabolic activity and resist dehydration, heat, and chemicals, which is why honey can harbor Clostridium botulinum spores that germinate in the immature infant gut and produce toxin in vivo. This is infant botulism, distinct from foodborne botulism, in which preformed toxin from canned foods is ingested. Killing such spores requires autoclaving, and hydrogen peroxide and iodine are also sporicidal.",
+  "explanation_incorrect": {
+    "A": "LPS confers endotoxin-mediated toxicity in gram-negative organisms; it is extremely heat stable, but it is not the dormant, much more heat-resistant structure described here.",
+    "B": "The slime layer is a loose polysaccharide network for surface adherence and biofilm formation; it has no peroxide-inactivating function.",
+    "C": "M protein is a group A streptococcal surface protein that interferes with phagocytosis and shows molecular mimicry with cardiac myosin; it is unrelated to spore survival.",
+    "E": "The capsule protects against phagocytosis and complement-mediated lysis; it is not the structure responsible for extreme heat and chemical resistance of the dormant form."
+  },
+  "educationalObjective": "The spore's keratinlike coat and dipicolinic-acid-rich core provide heat, desiccation, and chemical resistance, explaining infant botulism from honey.",
+  "source": "Generated from 3. Microbiology.pdf - Basic Bacteriology: Spores and sporulation"
+},
+{
+  "id": "micro-286",
+  "subject": "Microbiology",
+  "major_topic": "Basic Bacteriology",
+  "subtopic": "Spores and sporulation",
+  "difficulty": "easy",
+  "vignette": "A 38-year-old man who injects drugs presents with a rapidly progressive, crepitant, painful leg wound with skin necrosis and gas in the tissue. The organism isolated is a gram-positive bacillus that forms spores, and blood agar shows double-zone hemolysis.",
+  "question": "Which organism and spore-associated feature best matches this picture?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Clostridium botulinum - spore former that produces a protease that cleaves SNARE proteins"
+    },
+    {
+      "id": "B",
+      "text": "Streptococcus pyogenes - non-spore-forming organism with streptolysin O"
+    },
+    {
+      "id": "C",
+      "text": "Bacillus anthracis - catalase-negative spore former with a polypeptide capsule"
+    },
+    {
+      "id": "D",
+      "text": "Clostridium perfringens - spore former whose alpha toxin is a phospholipase"
+    },
+    {
+      "id": "E",
+      "text": "Clostridioides difficile - spore former that produces two toxins causing pseudomembranous colitis"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Clostridium perfringens is a spore-forming, gram-positive anaerobe whose alpha toxin is a phospholipase (lecithinase) that degrades tissue and cell membranes, producing myonecrosis with gas gangrene and the double-zone hemolysis seen on blood agar. Spore formation among the gram-positive bacilli includes B anthracis, B cereus, C botulinum, C difficile, C perfringens, and C tetani, memorized as \"Autoclave to kill Bacillus and Clostridium.\" The crepitant, rapidly progressive wound with gas in tissue is the signature of a gas-producing anaerobe, and spores explain the organism's resistance to routine cleaning of contaminated wounds.",
+  "explanation_incorrect": {
+    "A": "C botulinum produces a SNARE-cleaving toxin causing flaccid paralysis, not myonecrosis and gas.",
+    "B": "S pyogenes is not a spore former; its streptolysin O lyses red cells and contributes to beta-hemolysis, but the spore-forming requirement excludes it.",
+    "C": "B anthracis causes anthrax with a polypeptide capsule and edema-inducing toxin, not gas gangrene with double-zone hemolysis.",
+    "E": "C difficile spores cause pseudomembranous colitis after antibiotics; it does not cause a necrotizing limb wound."
+  },
+  "educationalObjective": "Clostridium perfringens is the spore-forming gas gangrene organism whose alpha toxin is a membrane-degrading phospholipase.",
+  "source": "Generated from 3. Microbiology.pdf - Basic Bacteriology: Spores and sporulation"
+}
+]

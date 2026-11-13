@@ -1,0 +1,248 @@
+[
+{
+  "id": "micro-251",
+  "subject": "Microbiology",
+  "major_topic": "Parasitology",
+  "subtopic": "Plasmodium and malaria",
+  "difficulty": "easy",
+  "vignette": "A 31-year-old man returns from a 3-week trip to sub-Saharan Africa and presents with 4 days of fevers that spike irregularly and are associated with chills, headache, and vomiting. He took no chemoprophylaxis and did not sleep under a bed net. Examination shows a temperature of 39.8 C, scleral icterus, and splenomegaly. Laboratory studies show anemia, thrombocytopenia, elevated indirect bilirubin, and elevated lactate dehydrogenase.",
+  "question": "Which of the following morphologies on blood smear is the classic finding in the species most likely responsible for this patient's severe presentation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Trophozoites with Schüffner stippling in enlarged RBCs"
+    },
+    {
+      "id": "B",
+      "text": "Band-form trophozoites with a basket appearance"
+    },
+    {
+      "id": "C",
+      "text": "Rosettes of 8-24 merozoites in mature schizonts"
+    },
+    {
+      "id": "D",
+      "text": "Ring trophozoites in a headphone shape within normal-sized RBCs"
+    },
+    {
+      "id": "E",
+      "text": "Crescent-shaped gametocytes visible on a thin smear"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Plasmodium falciparum causes irregular, often high fevers and is the species responsible for severe and life-threatening malaria, because it can invade RBCs of all ages and reach very high parasitemia. First Aid illustrates falciparum as a headphone-shaped ring trophozoite within the RBC, with crescent-shaped gametocytes later in the cycle. Its parasitized RBCs can occlude capillaries in the brain, kidneys, and lungs, producing cerebral malaria, renal failure, and hypoxemia.",
+  "explanation_incorrect": {
+    "A": "Schüffner stippling with enlarged infected RBCs belongs to Plasmodium vivax and ovale, the tertian species with a 48-hour fever cycle and hypnozoites.",
+    "B": "Band-form trophozoites with a basket-like appearance are the classic description of Plasmodium malariae, the quartan species with a 72-hour fever cycle.",
+    "C": "Rosettes of 8-24 merozoites are mature schizonts of Plasmodium malariae, and such mature forms are not the expected finding with this severe clinical picture.",
+    "E": "Crescent-shaped gametocytes do belong to Plasmodium falciparum, but they are the gametocyte stage rather than the trophozoite ring that First Aid uses as the classic intraerythrocytic finding."
+  },
+  "educationalObjective": "Severe, irregularly febrile malaria in a returning traveler is Plasmodium falciparum, seen as headphone-shaped ring trophozoites with crescent-shaped gametocytes later in infection.",
+  "source": "Generated from 3. Microbiology.pdf - Parasitology: Plasmodium and malaria"
+},
+{
+  "id": "micro-252",
+  "subject": "Microbiology",
+  "major_topic": "Parasitology",
+  "subtopic": "Plasmodium and malaria",
+  "difficulty": "medium",
+  "vignette": "A 26-year-old woman presents with 1 week of fevers every other day, headache, and malaise after returning from 2 months in rural Guatemala. She received no chemoprophylaxis. Examination shows a temperature of 39.1 C and a spleen tip palpable 2 cm below the costal margin. Laboratory studies show mild anemia and normal renal and hepatic function. Peripheral blood smear shows enlarged infected RBCs containing trophozoites with fine red granules in the cytoplasm, and no crescent-shaped forms are seen.",
+  "question": "Which of the following regimens is most appropriate for this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Intravenous artesunate alone"
+    },
+    {
+      "id": "B",
+      "text": "Atovaquone plus azithromycin"
+    },
+    {
+      "id": "C",
+      "text": "Mefloquine plus doxycycline"
+    },
+    {
+      "id": "D",
+      "text": "Chloroquine alone"
+    },
+    {
+      "id": "E",
+      "text": "Chloroquine plus primaquine"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "The combination of a 48-hour tertian fever cycle with enlarged infected RBCs and Schüffner stippling identifies Plasmodium vivax or Plasmodium ovale, the species that form a dormant hypnozoite in the liver. Chloroquine clears the blood-stage parasites, but only primaquine eliminates the hypnozoites and prevents relapses, so primaquine is added to chloroquine. Primaquine requires testing for G6PD deficiency because it causes oxidative hemolysis in deficient patients.",
+  "explanation_incorrect": {
+    "A": "Intravenous artesunate is reserved for life-threatening malaria such as severe falciparum disease with impaired consciousness, and this patient has uncomplicated tertian malaria.",
+    "B": "Atovaquone plus azithromycin is the treatment for Babesia microti, the Ixodes tick-borne parasite with a Maltese cross, not for a hypnozoite-forming Plasmodium.",
+    "C": "Mefloquine plus doxycycline targets chloroquine-resistant Plasmodium falciparum, and neither agent eliminates hepatic hypnozoites.",
+    "D": "Chloroquine alone abolishes the current attack but leaves hepatic hypnozoites intact, so relapses occur after the drug level wanes."
+  },
+  "educationalObjective": "Tertian malaria with Schüffner stippling in enlarged RBCs is Plasmodium vivax or ovale, and primaquine must be added to a blood schizonticide to eradicate hypnozoites.",
+  "source": "Generated from 3. Microbiology.pdf - Parasitology: Plasmodium and malaria"
+},
+{
+  "id": "micro-253",
+  "subject": "Microbiology",
+  "major_topic": "Parasitology",
+  "subtopic": "Plasmodium and malaria",
+  "difficulty": "hard",
+  "vignette": "A 41-year-old engineer who worked for 3 months in western Thailand presents with daily fevers, cough, and confusion. Examination shows a temperature of 40.1 C and disorientation to place and time. Laboratory studies show parasitemia affecting 9% of RBCs, blood glucose of 45 mg/dL, creatinine of 3.4 mg/dL, and a high lactate level. He is admitted to the intensive care unit, and intravenous therapy is being selected.",
+  "question": "Which of the following findings is the most important reason that this patient requires intravenous artesunate rather than oral chloroquine?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Discovery that the patient is G6PD deficient"
+    },
+    {
+      "id": "B",
+      "text": "A history of sulfa drug allergy"
+    },
+    {
+      "id": "C",
+      "text": "A pregnancy at 9 weeks of gestation"
+    },
+    {
+      "id": "D",
+      "text": "Hypoglycemia and acute kidney injury with cerebral involvement"
+    },
+    {
+      "id": "E",
+      "text": "Realization that the infection is chloroquine-resistant"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "First Aid directs intravenous quinine or artesunate for life-threatening malaria, and artesunate is preferred because it is more effective and better tolerated. The features that make malaria life threatening include cerebral involvement, hypoglycemia, renal impairment, and high parasitemia, all of which this patient has. Knowing which features push a patient from oral to parenteral therapy is the high-yield distinction, and artesunate still necessitates checking for G6PD deficiency because of the hemolysis risk.",
+  "explanation_incorrect": {
+    "A": "G6PD deficiency must be known before artesunate is given because these agents can cause oxidative hemolysis, but it is a drug safety consideration rather than the reason intravenous therapy is required.",
+    "B": "A sulfa allergy matters for sulfadoxine-pyrimethamine, an antifolate antimalarial, and is unrelated to the decision to use parenteral therapy.",
+    "C": "Pregnancy influences drug selection and some agents are preferred or avoided, but gestation alone does not make uncomplicated malaria life threatening.",
+    "E": "Chloroquine resistance is common in this region, but resistance status alone does not establish that the disease is life threatening."
+  },
+  "educationalObjective": "Severe malaria with impaired consciousness, hypoglycemia, high parasitemia, or renal failure requires intravenous artesunate or quinine rather than oral chloroquine.",
+  "source": "Generated from 3. Microbiology.pdf - Parasitology: Plasmodium and malaria"
+},
+{
+  "id": "micro-254",
+  "subject": "Microbiology",
+  "major_topic": "Parasitology",
+  "subtopic": "Plasmodium and malaria",
+  "difficulty": "medium",
+  "vignette": "A 34-year-old woman is seen in a travel clinic before a 4-week trip to sub-Saharan Africa. She has a history of intolerance to several antibiotics, and she has limited access to G6PD testing. Her physician plans a chemoprophylactic agent that also treats rickettsial infections and covers chloroquine-resistant Plasmodium falciparum.",
+  "question": "Which of the following is the route of transmission for the pathogen this prophylaxis is intended to prevent?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Undercooked freshwater fish"
+    },
+    {
+      "id": "B",
+      "text": "A tsetse fly bite"
+    },
+    {
+      "id": "C",
+      "text": "A female Anopheles mosquito bite"
+    },
+    {
+      "id": "D",
+      "text": "A female black fly bite"
+    },
+    {
+      "id": "E",
+      "text": "Cysts in untreated drinking water"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "The prophylaxis described is doxycycline, which First Aid lists together with mefloquine and atovaquone-proguanil as the regimen for resistant Plasmodium falciparum. Malaria is transmitted by the bite of the female Anopheles mosquito. Infection of RBCs produces the cyclic fevers, anemia, and splenomegaly of malaria, and a peripheral blood smear allows identification of the infecting species.",
+  "explanation_incorrect": {
+    "D": "A female black fly transmits Onchocerca volvulus, causing black skin nodules and river blindness, which is unrelated to antimalarial prophylaxis.",
+    "E": "Cysts in untreated drinking water transmit Giardia lamblia and Entamoeba histolytica, producing malabsorptive diarrhea or bloody dysentery and liver abscess.",
+    "A": "Undercooked freshwater fish transmits Diphyllobothrium latum larvae or Clonorchis sinensis, causing megaloblastic anemia or biliary disease rather than cyclical fevers.",
+    "B": "A tsetse fly transmits Trypanosoma brucei, producing African sleeping sickness with lymphadenopathy and somnolence that no antimalarial prevents."
+  },
+  "educationalObjective": "Malaria prophylaxis targets Anopheles-mosquito-borne Plasmodium, and doxycycline is one option recommended for chloroquine-resistant falciparum malaria.",
+  "source": "Generated from 3. Microbiology.pdf - Parasitology: Plasmodium and malaria"
+},
+{
+  "id": "micro-255",
+  "subject": "Microbiology",
+  "major_topic": "Parasitology",
+  "subtopic": "Plasmodium and malaria",
+  "difficulty": "hard",
+  "vignette": "A 38-year-old man returned from Nigeria 3 weeks ago and reports fevers that spike every 2-3 days, defervesce, and then recur. Between the fever spikes he feels relatively well. A blood smear shows intraerythrocytic ring trophozoites at low parasitemia. His physician explains that repeated attacks can occur because the adaptive immune response clears one wave of parasites but is outpaced by the next.",
+  "question": "Which of the following mechanisms best explains this recurring pattern of parasitemia and fever?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Hypnozoites reactivate in the liver on a fixed monthly schedule"
+    },
+    {
+      "id": "B",
+      "text": "Repeated ingestion of new parasite cysts produces cyclical liver release of trophozoites"
+    },
+    {
+      "id": "C",
+      "text": "Sequestration of infected RBCs in capillaries acts as a progressively worsening reservoir of drug-resistant parasite"
+    },
+    {
+      "id": "D",
+      "text": "Antigenic variation produces parasite surface proteins that escape antibody control, so fevers recur"
+    },
+    {
+      "id": "E",
+      "text": "Drug-induced hemolysis accounts for the repeating febrile episodes during therapy"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Antigenic variation is the reason that immunity to malaria requires repeated exposure and why a person can suffer repeated attacks. The parasite expresses variant surface proteins that evade the antibodies that cleared the previous wave, so parasitemia rises again and the synchronous rupture of infected RBCs produces another fever spike. First Aid emphasizes this same mechanism for the recurring fever of Trypanosoma brucei, which is the classic comparison point.",
+  "explanation_incorrect": {
+    "B": "Repeated ingestion of new cysts is a reinfection mechanism, and it does not explain recurring fevers within a single episode in which no new exposure occurred.",
+    "C": "Cytoadherence and rosetting of infected RBCs cause microvascular obstruction and severe disease, but they do not explain the recurrent wave of parasitemia after each antibody response.",
+    "E": "Drug-induced hemolysis is a complication of primaquine and other oxidant drugs in G6PD deficiency and would not produce cyclical fever with renewed parasitemia.",
+    "A": "Hypnozoite reactivation is a relapsing mechanism specific to Plasmodium vivax and ovale, and it does not follow a fixed monthly schedule."
+  },
+  "educationalObjective": "Recurring malarial fevers with renewed parasitemia reflect antigenic variation, the same mechanism responsible for the recurring fever of African trypanosomiasis.",
+  "source": "Generated from 3. Microbiology.pdf - Parasitology: Plasmodium and malaria"
+},
+{
+  "id": "micro-256",
+  "subject": "Microbiology",
+  "major_topic": "Parasitology",
+  "subtopic": "Plasmodium and malaria",
+  "difficulty": "medium",
+  "vignette": "A 19-year-old student is seen after returning from a summer in an endemic region of Central America. She reports a distinct pattern of fever that returns every other day. On physical examination she has splenomegaly, and her blood smear shows increased RBC size with fine granules throughout the cytoplasm of infected cells, findings consistent with a tertian species.",
+  "question": "Which of the following best characterizes the fever pattern and lifecycle feature of the species described by these smear findings?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Spikes every 48 hours with a dormant hypnozoite stage in the liver"
+    },
+    {
+      "id": "B",
+      "text": "Spikes every 24 hours with multiple rings per RBC"
+    },
+    {
+      "id": "C",
+      "text": "Continuous fever with Maltese cross forms and no fever-free interval"
+    },
+    {
+      "id": "D",
+      "text": "Spikes every 48 hours with band-form trophozoites and no liver stage"
+    },
+    {
+      "id": "E",
+      "text": "Spikes every 72 hours with crescent-shaped gametocytes"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Plasmodium vivax and Plasmodium ovale cause tertian malaria, with fever cycles every 48 hours and a dormant hypnozoite form in the liver. The hypnozoite is why relapses can occur months after the initial infection seems to resolve, and it is the reason primaquine is added to chloroquine to prevent relapse. Vivax and ovale also show Schüffner stippling in enlarged infected RBCs.",
+  "explanation_incorrect": {
+    "B": "A 24-hour fever cycle with multiple rings per RBC is not the First Aid description for vivax or ovale, and multiply infected cells are more characteristic of falciparum.",
+    "C": "Continuous fever with Maltese cross forms describes Babesia microti, a tick-borne parasite rather than a mosquito-borne Plasmodium species.",
+    "D": "Band-form trophozoites belong to Plasmodium malariae, which has a quartan 72-hour cycle, so this option pairs the wrong periodicity with the wrong morphology.",
+    "E": "A 72-hour quartan cycle with crescent-shaped gametocytes mixes two different species, since quartan fever belongs to Plasmodium malariae and crescents belong to Plasmodium falciparum."
+  },
+  "educationalObjective": "Plasmodium vivax and ovale cause tertian fevers every 48 hours and leave dormant hypnozoites in the liver, which is why primaquine is added to prevent relapse.",
+  "source": "Generated from 3. Microbiology.pdf - Parasitology: Plasmodium and malaria"
+}
+]

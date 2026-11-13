@@ -1,0 +1,84 @@
+[
+{
+  "id": "micro-106",
+  "subject": "Microbiology",
+  "major_topic": "Mycology",
+  "subtopic": "Candida albicans",
+  "difficulty": "easy",
+  "vignette": "A 58-year-old woman with poorly controlled type 2 diabetes presents with intense vulvar itching and a thick white vaginal discharge. She has taken several courses of broad-spectrum antibiotics for a urinary tract infection over the past two months. A wet mount shows budding yeasts with elongated chains attached to the parent cell.",
+  "question": "Which of the following is the most likely causative organism?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Aspergillus fumigatus"
+    },
+    {
+      "id": "B",
+      "text": "Histoplasma capsulatum"
+    },
+    {
+      "id": "C",
+      "text": "Trichomonas vaginalis"
+    },
+    {
+      "id": "D",
+      "text": "Cryptococcus neoformans"
+    },
+    {
+      "id": "E",
+      "text": "Candida albicans"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Candida albicans is a dimorphic fungus that forms pseudohyphae and budding yeasts at 20°C and germ tubes at 37°C. Vulvovaginal candidiasis classically occurs in patients with diabetes mellitus or recent antibiotic use, and oral or esophageal thrush is typical in immunocompromised patients, including neonates, steroid users, diabetics, and those with AIDS. Oral fluconazole or topical azoles treat vaginal disease. The white, thick discharge with itching and the wet-mount pseudohyphae are the classic clues.",
+  "explanation_incorrect": {
+    "A": "Aspergillus fumigatus forms septate hyphae with acute-angle branching and causes invasive pulmonary disease in neutropenic hosts, not a vaginal infection.",
+    "B": "Histoplasma capsulatum causes granulomatous pulmonary and disseminated disease associated with bird and bat droppings, not vulvovaginal symptoms.",
+    "C": "Trichomonas vaginalis produces a frothy, malodorous, green-yellow discharge with motile flagellated trophozoites on wet mount, and it is a sexually transmitted protozoan rather than a budding yeast.",
+    "D": "Cryptococcus neoformans is an encapsulated yeast that causes meningoencephalitis and pneumonia in immunocompromised patients and is not a cause of vulvovaginitis."
+  },
+  "educationalObjective": "Candida albicans vulvovaginitis occurs with diabetes and antibiotic use and shows pseudohyphae on wet mount.",
+  "source": "Generated from 3. Microbiology.pdf - Mycology: Candida albicans"
+},
+{
+  "id": "micro-107",
+  "subject": "Microbiology",
+  "major_topic": "Mycology",
+  "subtopic": "Candida albicans",
+  "difficulty": "medium",
+  "vignette": "A 33-year-old woman with acute myeloid leukemia is admitted for induction chemotherapy. On hospital day 18 she remains profoundly neutropenic and develops persistent fevers, diffuse abdominal pain, and multiple small erythematous papules on her trunk. Blood cultures grow a yeast that produces smooth white colonies.",
+  "question": "Which of the following is the best explanation for her increased susceptibility to this organism?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Absence of gastric acid allowing overgrowth"
+    },
+    {
+      "id": "B",
+      "text": "Deficiency of phagocytes, the primary host defense"
+    },
+    {
+      "id": "C",
+      "text": "Loss of T-cell-mediated immunity specifically"
+    },
+    {
+      "id": "D",
+      "text": "Loss of complement-mediated opsonization only"
+    },
+    {
+      "id": "E",
+      "text": "Impaired IgA production in mucosal surfaces"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Candida albicans is a dimorphic fungus that causes disseminated candidiasis especially in neutropenic patients, because host defense against Candida relies on phagocytes. This is why profound neutropenia after chemotherapy is the classic setup, and why blood cultures turning positive for a yeast in a febrile neutropenic patient raise concern for hematogenous spread. Treatment of systemic disease uses fluconazole, echinocandins, or amphotericin B. Note the contrast with organisms controlled by T cells, such as Pneumocystis and Cryptococcus.",
+  "explanation_incorrect": {
+    "A": "Gastric acid loss predisposes to gut bacterial overgrowth and diarrhea, and while neither acid suppression nor achlorhydria is the classic Candida risk factor, phagocyte deficiency is.",
+    "C": "Defective T-cell immunity is the primary predisposing defect for Pneumocystis pneumonia and cryptococcosis, not the main defect for disseminated candidiasis.",
+    "D": "Complement deficiency is typically associated with recurrent neisserial infections and encapsulated bacteria rather than with disseminated candidiasis.",
+    "E": "Reduced mucosal IgA is not the principal risk factor described for disseminated Candida disease in neutropenic patients."
+  },
+  "educationalObjective": "Disseminated candidiasis occurs especially in neutropenic patients because phagocytes are the main host defense against Candida albicans.",
+  "source": "Generated from 3. Microbiology.pdf - Mycology: Candida albicans"
+}
+]

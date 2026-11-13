@@ -1,0 +1,125 @@
+[
+{
+  "id": "micro-239",
+  "subject": "Microbiology",
+  "major_topic": "Clinical Bacteriology",
+  "subtopic": "Neisseria meningitidis",
+  "difficulty": "medium",
+  "vignette": "A 19-year-old college freshman living in a crowded dormitory develops fever to 39.5°C, severe headache, neck stiffness, and photophobia over 12 hours. He is confused and hypotensive. Examination shows a rapidly spreading petechial and purpuric rash with early gangrenous changes of the toes. Cerebrospinal fluid Gram stain shows gram-negative diplococci.",
+  "question": "Which of the following laboratory findings best distinguishes this organism from Neisseria gonorrhoeae?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Acid production from both maltose and glucose"
+    },
+    {
+      "id": "B",
+      "text": "Growth on Thayer-Martin agar"
+    },
+    {
+      "id": "C",
+      "text": "Fermentation of glucose only"
+    },
+    {
+      "id": "D",
+      "text": "Absence of a polysaccharide capsule"
+    },
+    {
+      "id": "E",
+      "text": "Intracellular location within neutrophils"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Meningococci produce acid from both maltose and glucose, whereas gonococci produce acid from glucose only, which is the classic biochemical separation. Neisseria meningitidis is encapsulated, is transmitted by respiratory and oral secretions, and thrives among people in close quarters such as army barracks and college dorms, causing meningococcemia with petechiae and meningitis.",
+  "explanation_incorrect": {
+    "B": "Both Neisseria species grow on selective Thayer-Martin agar, so this does not distinguish between them.",
+    "C": "Glucose-only acid production is the pattern of Neisseria gonorrhoeae, the organism that causes gonorrhea, PID, and neonatal conjunctivitis.",
+    "D": "Meningococci have a polysaccharide capsule, which is the basis of the vaccine and of its antiphagocytic virulence; lack of a capsule is a feature of gonococci.",
+    "E": "Being intracellular within neutrophils is characteristic of N gonorrhoeae in urethral smear, whereas meningococci are more often seen free in cerebrospinal fluid."
+  },
+  "educationalObjective": "Neisseria meningitidis ferments both maltose and glucose and is encapsulated, whereas N gonorrhoeae ferments glucose only and lacks a capsule.",
+  "source": "Generated from 3. Microbiology.pdf - Clinical Bacteriology: Neisseria meningitidis"
+},
+{
+  "id": "micro-240",
+  "subject": "Microbiology",
+  "major_topic": "Clinical Bacteriology",
+  "subtopic": "Neisseria meningitidis",
+  "difficulty": "hard",
+  "vignette": "A 22-year-old army recruit in basic training is admitted with fever, headache, and a petechial rash. Within hours he becomes profoundly hypotensive and unresponsive to fluid resuscitation. Laboratory studies show hyponatremia, hyperkalemia, hypoglycemia, and eosinophilia with a low cortisol. He dies despite broad-spectrum antibiotics and intensive care.",
+  "question": "Which of the following best describes the complication responsible for his terminal deterioration?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Toxic shock syndrome from a superantigen"
+    },
+    {
+      "id": "B",
+      "text": "Endocarditis with septic emboli to the skin"
+    },
+    {
+      "id": "C",
+      "text": "Pseudomembranous colitis from antecedent antibiotics"
+    },
+    {
+      "id": "D",
+      "text": "Waterhouse-Friderichsen syndrome with acute hemorrhagic adrenal insufficiency"
+    },
+    {
+      "id": "E",
+      "text": "Fitz-Hugh–Curtis syndrome with perihepatitis"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Waterhouse-Friderichsen syndrome is acute hemorrhagic adrenal insufficiency caused by massive meningococcal sepsis, producing destruction of the adrenal glands with hypotension refractory to fluids and the electrolyte and glucose derangements described. Meningococcemia also produces petechial hemorrhages and gangrene of the toes, and prophylaxis of close contacts with rifampin, ciprofloxacin, or ceftriaxone is required.",
+  "explanation_incorrect": {
+    "A": "Toxic shock syndrome from a superantigen is caused by staphylococcal TSST-1 or streptococcal toxins and does not produce the specific adrenal hemorrhage and cortisol deficiency seen here.",
+    "B": "Endocarditis with septic emboli usually involves gram-positive organisms such as S aureus or viridans streptococci and produces Osler nodes or Janeway lesions rather than fulminant adrenal failure.",
+    "C": "Pseudomembranous colitis is toxin-mediated Clostridioides difficile disease after antibiotic exposure and presents with diarrhea and colitis, not with purpura fulminans.",
+    "E": "Fitz-Hugh–Curtis syndrome is perihepatitis complicating gonococcal or chlamydial pelvic inflammatory disease, with right upper quadrant pain and violin-string adhesions, not adrenal hemorrhage."
+  },
+  "educationalObjective": "Waterhouse-Friderichsen syndrome is acute hemorrhagic adrenal insufficiency complicating fulminant meningococcemia and causes refractory shock.",
+  "source": "Generated from 3. Microbiology.pdf - Clinical Bacteriology: Neisseria meningitidis"
+},
+{
+  "id": "micro-241",
+  "subject": "Microbiology",
+  "major_topic": "Clinical Bacteriology",
+  "subtopic": "Neisseria meningitidis",
+  "difficulty": "medium",
+  "vignette": "A 20-year-old college student is diagnosed with meningococcal meningitis and is started on intravenous ceftriaxone. The county health department is notified. His roommate, who shares a bathroom and eating utensils with him, has no symptoms and is at risk for invasive disease in the coming days.",
+  "question": "Which of the following is the most appropriate intervention for the asymptomatic roommate?",
+  "options": [
+    {
+      "id": "A",
+      "text": "No intervention, since he is asymptomatic"
+    },
+    {
+      "id": "B",
+      "text": "Intrapartum penicillin prophylaxis"
+    },
+    {
+      "id": "C",
+      "text": "Erythromycin eye ointment"
+    },
+    {
+      "id": "D",
+      "text": "Diphtheria antitoxin and a vaccine booster"
+    },
+    {
+      "id": "E",
+      "text": "Rifampin, ciprofloxacin, or ceftriaxone prophylaxis"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Close contacts of a patient with meningococcal disease should receive prophylaxis with rifampin, ciprofloxacin, or ceftriaxone to eradicate nasopharyngeal carriage and prevent secondary cases. Transmission of N meningitidis is via respiratory and oral secretions, and disease is more common among individuals in close quarters such as college dormitories and army barracks.",
+  "explanation_incorrect": {
+    "A": "Asymptomatic nasopharyngeal carriers are the reservoir for transmission, so observation alone would leave the roommate at substantial risk during the incubation period.",
+    "B": "Intrapartum penicillin prophylaxis prevents neonatal group B streptococcal disease and is irrelevant to a college roommate of a meningitis patient.",
+    "C": "Erythromycin eye ointment prevents neonatal gonococcal and chlamydial conjunctivitis and has no role in meningococcal prophylaxis.",
+    "D": "Diphtheria antitoxin plus a booster is the management of Corynebacterium diphtheriae infection, a gram-positive rod disease."
+  },
+  "educationalObjective": "Close contacts of meningococcal disease patients receive rifampin, ciprofloxacin, or ceftriaxone prophylaxis to eliminate nasopharyngeal carriage.",
+  "source": "Generated from 3. Microbiology.pdf - Clinical Bacteriology: Neisseria meningitidis"
+}
+]

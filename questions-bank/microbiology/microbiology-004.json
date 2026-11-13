@@ -1,0 +1,207 @@
+[
+{
+  "id": "micro-010",
+  "subject": "Microbiology",
+  "major_topic": "Antimicrobials",
+  "subtopic": "Antimycobacterial drugs",
+  "difficulty": "medium",
+  "vignette": "A 39-year-old man with a positive interferon-gamma release assay and a normal chest radiograph is diagnosed with latent tuberculosis infection. He is started on a rifamycin-based regimen. Three weeks later he notices that his urine and tears have turned orange-red, and he is alarmed. He also takes an oral contraceptive and has a new CD4 count of 250 cells/mm3 relevant to future therapy decisions.",
+  "question": "Which of the following best explains the orange-red discoloration, and what drug interaction should be anticipated?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Orange body fluids with CYP450 induction"
+    },
+    {
+      "id": "B",
+      "text": "Rifampin causes orange discoloration but has no effect on hepatic metabolism"
+    },
+    {
+      "id": "C",
+      "text": "Ethambutol causes red-orange discoloration along with optic neuropathy and is a strong CYP450 inducer"
+    },
+    {
+      "id": "D",
+      "text": "Isoniazid causes red-orange body fluid discoloration by inhibiting mycolic acid synthesis"
+    },
+    {
+      "id": "E",
+      "text": "Pyrazinamide causes orange discoloration through hyperuricemia and hepatotoxicity"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Rifampin inhibits DNA-dependent RNA polymerase to reduce mRNA synthesis, and it produces a nonhazardous red-orange discoloration of body fluids along with minor hepatotoxicity and significant drug interactions through CYP450 induction. That induction reduces the effectiveness of oral contraceptives and other hepatically metabolized drugs, so counseling must include a backup contraceptive method. In patients with HIV, rifabutin is favored over rifampin because it induces CYP450 less.",
+  "explanation_incorrect": {
+    "B": "Rifampin is a potent CYP450 inducer, and this induction is precisely why interactions with contraceptives and antiretrovirals occur.",
+    "C": "Ethambutol causes optic neuropathy, not orange body fluids, and it is not a CYP450 inducer.",
+    "D": "Isoniazid inhibits mycolic acid synthesis and causes peripheral neuropathy and hepatotoxicity; it does not discolor body fluids orange-red.",
+    "E": "Pyrazinamide causes hepatotoxicity and hyperuricemia but is not responsible for red-orange discoloration."
+  },
+  "educationalObjective": "Rifampin inhibits DNA-dependent RNA polymerase, causes nonhazardous red-orange body fluid discoloration, and induces CYP450 with major drug interactions.",
+  "source": "Generated from 3. Microbiology.pdf - Antimicrobials: Antimycobacterial drugs"
+},
+{
+  "id": "micro-011",
+  "subject": "Microbiology",
+  "major_topic": "Antimicrobials",
+  "subtopic": "Antimycobacterial drugs",
+  "difficulty": "medium",
+  "vignette": "A 47-year-old man from Guatemala with a history of alcohol use disorder is started on isoniazid, rifampin, pyrazinamide, and ethambutol for active pulmonary tuberculosis. Eight weeks later he presents with painful tingling and numbness of the feet in a stocking distribution. His aspartate aminotransferase has risen to three times normal. He also had a seizure of unclear cause at home.",
+  "question": "Which of the following best explains the neuropathy and hepatotoxicity?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Ethambutol causes vitamin B6 deficiency, peripheral neuropathy, and hepatotoxicity"
+    },
+    {
+      "id": "B",
+      "text": "Mycolic acid inhibition causing B6 deficiency and hepatotoxicity"
+    },
+    {
+      "id": "C",
+      "text": "Pyrazinamide causes vitamin B6 deficiency and peripheral neuropathy through inhibition of mycolic acid synthesis"
+    },
+    {
+      "id": "D",
+      "text": "Isoniazid inhibits arabinosyltransferase and causes optic neuropathy with red-green color blindness"
+    },
+    {
+      "id": "E",
+      "text": "Isoniazid inhibits RNA polymerase and causes red-orange body fluids with CYP450 induction"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Isoniazid inhibits mycolic acid synthesis and requires bacterial catalase-peroxidase encoded by katG to become active, which is also where INH resistance arises. Its adverse effects are vitamin B6 deficiency with peripheral neuropathy and sideroblastic anemia, hepatotoxicity that is worse with alcohol and increasing age, CYP450 inhibition, and drug-induced lupus, and it is administered with pyridoxine. INH overwdoes can cause seizures that are often refractory to benzodiazepines, and the mnemonic is that INH Injures Neurons and Hepatocytes.",
+  "explanation_incorrect": {
+    "A": "Ethambutol does not deplete vitamin B6; its characteristic toxicity is optic neuropathy.",
+    "C": "Pyrazinamide's mechanism is uncertain and its toxicities are hepatotoxicity and hyperuricemia, not B6 deficiency or mycolic acid synthesis inhibition.",
+    "D": "Arabinosyltransferase inhibition with optic neuropathy is ethambutol's mechanism and toxicity, which produces red-green color blindness rather than a stocking-distribution neuropathy.",
+    "E": "RNA polymerase inhibition with orange body fluids and CYP450 induction is rifampin's profile, the reverse of isoniazid's CYP450 inhibition."
+  },
+  "educationalObjective": "Isoniazid inhibits mycolic acid synthesis (activated by katG) and causes vitamin B6 deficiency with peripheral neuropathy, sideroblastic anemia, and hepatotoxicity, prevented with pyridoxine.",
+  "source": "Generated from 3. Microbiology.pdf - Antimicrobials: Antimycobacterial drugs"
+},
+{
+  "id": "micro-012",
+  "subject": "Microbiology",
+  "major_topic": "Antimicrobials",
+  "subtopic": "Antimycobacterial drugs",
+  "difficulty": "medium",
+  "vignette": "A 62-year-old man receiving rifampin, isoniazid, pyrazinamide, and ethambutol for tuberculosis reports that colors look washed out and he has trouble distinguishing red from green while reading. His visual acuity has also decreased in both eyes. He otherwise feels well, and his liver enzymes are near baseline.",
+  "question": "Which of the following best explains these visual symptoms?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Rifampin causes red-green color blindness by inhibiting RNA polymerase in retinal cells"
+    },
+    {
+      "id": "B",
+      "text": "Pyrazinamide causes optic neuropathy by raising uric acid and precipitating crystals in the eye"
+    },
+    {
+      "id": "C",
+      "text": "Chloramphenicol causes optic neuritis by blocking the 50S ribosomal subunit"
+    },
+    {
+      "id": "D",
+      "text": "Arabinosyltransferase inhibition with optic neuropathy"
+    },
+    {
+      "id": "E",
+      "text": "Isoniazid causes optic neuritis by inhibiting mycolic acid synthesis in the optic nerve"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Ethambutol inhibits arabinosyltransferase, reducing arabinogalactan synthesis and therefore cell wall formation, and its characteristic toxicity is dose-related optic neuropathy with red-green color blindness or decreased visual acuity that is typically reversible. The First Aid mnemonic to remember the drug is to pronounce it \"eyethambutol.\" Pyrazinamide and the other first-line agents contribute other toxicities instead.",
+  "explanation_incorrect": {
+    "A": "Rifampin inhibits RNA polymerase and produces orange body fluids and CYP450 induction, not color vision loss.",
+    "B": "Pyrazinamide causes hepatotoxicity and hyperuricemia; it is not associated with crystal-induced optic damage.",
+    "C": "Chloramphenicol does block the 50S peptidyltransferase center and causes aplastic anemia, but it is not part of this regimen and optic neuritis is not its classic toxicity.",
+    "E": "Isoniazid does inhibit mycolic acid synthesis, but its toxicity is peripheral neuropathy and hepatotoxicity, not optic neuritis."
+  },
+  "educationalObjective": "Ethambutol inhibits arabinosyltransferase and causes dose-related, usually reversible optic neuropathy with red-green color blindness.",
+  "source": "Generated from 3. Microbiology.pdf - Antimicrobials: Antimycobacterial drugs"
+},
+{
+  "id": "micro-013",
+  "subject": "Microbiology",
+  "major_topic": "Antimicrobials",
+  "subtopic": "Antimycobacterial drugs",
+  "difficulty": "medium",
+  "vignette": "A 34-year-old man with HIV and a CD4+ count of 40 cells/mm3 presents with fever, night sweats, weight loss, and generalized lymphadenopathy. Blood and bone marrow cultures grow Mycobacterium avium-intracellulare, and the infectious disease consultant recommends a macrolide-based regimen rather than standard tuberculosis therapy.",
+  "question": "Which of the following is the appropriate treatment regimen for this organism?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Ethambutol and streptomycin only"
+    },
+    {
+      "id": "B",
+      "text": "Rifampin, isoniazid, pyrazinamide, and ethambutol for 6 months"
+    },
+    {
+      "id": "C",
+      "text": "Macrolide plus ethambutol"
+    },
+    {
+      "id": "D",
+      "text": "Dapsone and rifampin for 12 months, adding clofazimine"
+    },
+    {
+      "id": "E",
+      "text": "Isoniazid and pyridoxine alone as monotherapy"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "For Mycobacterium avium-intracellulare, treatment is azithromycin or clarithromycin plus ethambutol, and rifabutin or ciprofloxacin may be added; prophylaxis in at-risk patients is azithromycin or rifabutin. This contrasts with tuberculosis, which is treated with the rifampin, isoniazid, pyrazinamide, and ethambutol combination. The patient's low CD4 count with disseminated disease is the classic presentation of MAC in advanced HIV.",
+  "explanation_incorrect": {
+    "A": "Ethambutol with streptomycin omits the required macrolide backbone for MAC and pairs an aminoglycoside that is not the primary MAC agent.",
+    "B": "RIPE therapy is the regimen for Mycobacterium tuberculosis, which is not the organism cultured here and is typically susceptible to isoniazid and pyrazinamide that MAC does not respond to.",
+    "D": "Dapsone plus rifampin with clofazimine for the lepromatous form is the regimen for Mycobacterium leprae, not MAC.",
+    "E": "Isoniazid monotherapy is never adequate because rifamycin monotherapy or inadequate regimens rapidly select resistance; MAC requires a macrolide plus ethambutol."
+  },
+  "educationalObjective": "Mycobacterium avium-intracellulare is treated with azithromycin or clarithromycin plus ethambutol, optionally adding rifabutin or ciprofloxacin.",
+  "source": "Generated from 3. Microbiology.pdf - Antimicrobials: Antimycobacterial drugs"
+},
+{
+  "id": "micro-014",
+  "subject": "Microbiology",
+  "major_topic": "Antimicrobials",
+  "subtopic": "Antimycobacterial drugs",
+  "difficulty": "hard",
+  "vignette": "A 30-year-old man with smear-positive pulmonary tuberculosis is started on rifampin, isoniazid, pyrazinamide, and ethambutol. After 6 weeks his sputum remains positive, and susceptibility testing shows resistance to isoniazid. The laboratory reports this resistance arises from a mutation in a specific gene. A colleague asks about pyrazinamide's role, since its mechanism is uncertain.",
+  "question": "Which of the following statements about first-line antimycobacterial mechanisms and resistance is most accurate?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Isoniazid resistance arises from a ribosomal RNA point mutation, and pyrazinamide is a prodrug activated by cytosine deaminase"
+    },
+    {
+      "id": "B",
+      "text": "Isoniazid resistance arises from a mutation in the gene encoding arabinosyltransferase, and pyrazinamide inhibits mycolic acid synthesis"
+    },
+    {
+      "id": "C",
+      "text": "Isoniazid resistance arises from mutations in RNA polymerase, and pyrazinamide works best at alkaline pH"
+    },
+    {
+      "id": "D",
+      "text": "Isoniazid resistance arises from katG mutations, and pyrazinamide works best at the acidic pH found in host phagolysosomes"
+    },
+    {
+      "id": "E",
+      "text": "Rifamycin resistance arises from katG mutations, and pyrazinamide inhibits arabinogalactan synthesis"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Isoniazid is converted to its active form by bacterial catalase-peroxidase encoded by katG, so INH resistance arises from mutations in katG. Pyrazinamide's mechanism is uncertain, but it works best at the acidic pH found in host phagolysosomes, which is where intracellular mycobacteria reside. Rifamycin resistance instead arises from mutations in the gene encoding RNA polymerase.",
+  "explanation_incorrect": {
+    "A": "Ribosomal RNA point mutation is the linezolid resistance mechanism, and activation by cytosine deaminase describes flucytosine, an antifungal.",
+    "B": "Arabinosyltransferase is the target of ethambutol, and mycolic acid synthesis is inhibited by isoniazid, so this pairing of resistance mechanism and target is incorrect.",
+    "C": "RNA polymerase mutations cause rifamycin resistance, not isoniazid resistance, and pyrazinamide's activity depends on acidic rather than alkaline pH.",
+    "E": "katG mutations confer isoniazid resistance, and arabinogalactan synthesis is inhibited by ethambutol, not pyrazinamide."
+  },
+  "educationalObjective": "Isoniazid needs katG-encoded catalase-peroxidase for activation and resistance maps to katG; pyrazinamide acts best at acidic phagolysosomal pH.",
+  "source": "Generated from 3. Microbiology.pdf - Antimicrobials: Antimycobacterial drugs"
+}
+]

@@ -1,0 +1,207 @@
+[
+{
+  "id": "micro-367",
+  "subject": "Microbiology",
+  "major_topic": "Virology",
+  "subtopic": "Virus structure, replication, and classification",
+  "difficulty": "medium",
+  "vignette": "A virology laboratory receives two purified virion preparations from a colleague: an influenza A virus and a poliovirus. The technician treating both samples with ether and a nonionic detergent finds that one preparation loses infectivity completely while the other is unaffected.",
+  "question": "Which of the following best explains the differential susceptibility of these two viruses?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Poliovirus is susceptible because its ssRNA genome is easily degraded by lipophilic solvents"
+    },
+    {
+      "id": "B",
+      "text": "Both viruses should be resistant because both have icosahedral capsids"
+    },
+    {
+      "id": "C",
+      "text": "Influenza virus is susceptible because it lacks a capsid and relies only on its envelope for protection"
+    },
+    {
+      "id": "D",
+      "text": "Poliovirus is susceptible because it acquires its envelope from the nuclear membrane during egress"
+    },
+    {
+      "id": "E",
+      "text": "Influenza virus is susceptible because its lipid envelope is acquired from the host plasma membrane as it buds from the cell"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Enveloped viruses such as influenza acquire a lipid bilayer from the host plasma membrane when they bud out of the cell, and this lipid envelope is what detergents, ether, and changes in temperature or humidity destroy. Naked viruses like poliovirus have only a protein capsid, so they survive such treatment. This is the practical consequence of the enveloped versus naked classification: enveloped viruses are easier to inactivate and spread less readily by fomites.",
+  "explanation_incorrect": {
+    "A": "Poliovirus is the resistant one here: it is a naked picornavirus with no lipid to attack. Its ssRNA is protected inside a protein capsid, not dissolved by solvent.",
+    "B": "Capsid geometry does not protect an envelope. Both viruses are icosahedral, yet only the one with a lipid bilayer is destroyed by detergent.",
+    "C": "Influenza virus does have a capsid; it is an enveloped virus with a helical nucleocapsid plus an outer lipid bilayer studded with hemagglutinin and neuraminidase.",
+    "D": "Poliovirus is nonenveloped and has no envelope at all. Herpesviruses are the family that unusually acquires envelope from the nuclear membrane, not picornaviruses."
+  },
+  "educationalObjective": "Enveloped viruses (acquired from the plasma membrane, except herpesviruses from the nuclear membrane) are susceptible to detergents and to changes in temperature and humidity, whereas naked viruses are resistant.",
+  "source": "Generated from 3. Microbiology.pdf - Virology: Virus structure, replication, and classification"
+},
+{
+  "id": "micro-368",
+  "subject": "Microbiology",
+  "major_topic": "Virology",
+  "subtopic": "Virus structure, replication, and classification",
+  "difficulty": "hard",
+  "vignette": "A 52-year-old man with long-standing hepatitis B infection is superinfected with hepatitis D virus. Hepatitis D cannot produce its own envelope protein and can only infect hepatocytes when hepatitis B surface antigen is being produced.",
+  "question": "This relationship between HDV and HBV is the classic example of which viral genetic interaction?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Complementation"
+    },
+    {
+      "id": "B",
+      "text": "Phenotypic mixing"
+    },
+    {
+      "id": "C",
+      "text": "Antigenic drift"
+    },
+    {
+      "id": "D",
+      "text": "Recombination"
+    },
+    {
+      "id": "E",
+      "text": "Reassortment"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Complementation occurs when one of two viruses infecting a cell has a mutation that makes a protein nonfunctional; the other, nonmutated virus supplies a functional copy of that protein that serves both viruses. HDV is a defective virus lacking an envelope gene, and replicating HBV supplies HBsAg as its envelope protein. This is why HDV cannot exist without HBV.",
+  "explanation_incorrect": {
+    "B": "Phenotypic mixing is the coating of virus A's genome with virus B's surface proteins in a pseudovirion; the genome itself is unchanged and the complementation is not genetic.",
+    "C": "Antigenic drift refers to accumulating point mutations in hemagglutinin or neuraminidase of influenza virus that cause seasonal epidemics; it is unrelated to HDV dependence on HBV.",
+    "D": "Recombination is exchange of genes between two chromosomes by crossing over in regions of homologous base sequence, producing a hybrid genome rather than one virus supplying a missing protein.",
+    "E": "Reassortment requires segmented genomes that exchange whole segments, as with influenza virus; HDV and HBV genomes are not segmented and no segments are swapped."
+  },
+  "educationalObjective": "HDV depends on HBV through complementation: HBV supplies the HBsAg envelope protein, so HDV only infects patients with replicating hepatitis B.",
+  "source": "Generated from 3. Microbiology.pdf - Virology: Virus structure, replication, and classification"
+},
+{
+  "id": "micro-369",
+  "subject": "Microbiology",
+  "major_topic": "Virology",
+  "subtopic": "Virus structure, replication, and classification",
+  "difficulty": "medium",
+  "vignette": "A research fellow purifies naked nucleic acid from several viruses and transfects each preparation into permissive cultured cells. Preparations from a poxvirus and a negative-sense ssRNA virus both fail to produce infectious progeny, whereas nucleic acid from most double-stranded DNA viruses does.",
+  "question": "Which of the following best explains why naked nucleic acid from negative-sense ssRNA viruses is not infectious?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Their genome is infectious but only after it integrates into the host chromosome"
+    },
+    {
+      "id": "B",
+      "text": "Negative-sense genomes are immediately translated into protein by host ribosomes"
+    },
+    {
+      "id": "C",
+      "text": "They are double-stranded RNA viruses, and dsRNA cannot enter the cytoplasm"
+    },
+    {
+      "id": "D",
+      "text": "Their genome is circular and cannot be transcribed by host enzymes"
+    },
+    {
+      "id": "E",
+      "text": "They lack the RNA-dependent RNA polymerase needed to transcribe the genome, which is carried inside the virion instead"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Naked nucleic acids of most dsDNA viruses (except poxviruses and HBV) and of positive-strand ssRNA viruses are infectious, but those of negative-strand ssRNA and dsRNA viruses are not, because they lack the polymerases required to replicate. Negative-strand virions therefore package their own RNA-dependent RNA polymerase to transcribe minus strand into plus strand. Remember the mnemonic: always bring polymerase or fail replication.",
+  "explanation_incorrect": {
+    "A": "Integration into the host chromosome is a property of retroviruses using integrase, not of negative-strand RNA viruses, which never integrate.",
+    "B": "Host ribosomes translate positive-sense RNA directly because it is equivalent to mRNA; a negative-sense genome must first be transcribed into a positive-sense message.",
+    "C": "These viruses are single-stranded negative-sense RNA, not dsRNA; dsRNA is the property of reoviruses such as rotavirus.",
+    "D": "Circularity is not the issue; bunyaviruses and arenaviruses are circular and segmented, but the failure here applies to all negative-sense ssRNA viruses regardless of shape."
+  },
+  "educationalObjective": "Negative-sense ssRNA and dsRNA virions must carry their own RNA-dependent RNA polymerase; their naked genomes are noninfectious, unlike those of most dsDNA and positive-sense ssRNA viruses.",
+  "source": "Generated from 3. Microbiology.pdf - Virology: Virus structure, replication, and classification"
+},
+{
+  "id": "micro-370",
+  "subject": "Microbiology",
+  "major_topic": "Virology",
+  "subtopic": "Virus structure, replication, and classification",
+  "difficulty": "hard",
+  "vignette": "In a mouse model, a single cell is simultaneously coinfected with virus A, whose genome is type A, and virus B. Progeny virion 1 contains the genome of virus A but is coated entirely with the surface proteins of virus B, which alters its tropism. When progeny virion 1 infects a new cell, the resulting progeny virion 2 has a type A coat again.",
+  "question": "Which viral genetic phenomenon does this experiment illustrate?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Phenotypic mixing, producing a pseudovirion whose tropism is set by the acquired coat"
+    },
+    {
+      "id": "B",
+      "text": "Lysogenic conversion of the host cell by a temperate phage"
+    },
+    {
+      "id": "C",
+      "text": "Complementation between a mutated and a wild-type virus"
+    },
+    {
+      "id": "D",
+      "text": "Reassortment of genome segments between two segmented viruses"
+    },
+    {
+      "id": "E",
+      "text": "Recombination through crossing over at homologous regions"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Phenotypic mixing happens when a cell is coinfected with two viruses and the genome of virus A gets partially or completely coated with the surface proteins of virus B, forming a pseudovirion. Because the type B protein coat determines tropism, the hybrid infects what virus B would infect, yet its progeny return to the type A coat encoded by its own genome. No genetic material is exchanged, which distinguishes it from recombination and reassortment.",
+  "explanation_incorrect": {
+    "B": "Lysogenic conversion is phage DNA integrated into a bacterial chromosome that alters bacterial phenotype, such as toxin production; this experiment involves neither bacteria nor phages.",
+    "C": "Complementation requires one virus with a nonfunctional protein to be rescued by the other's functional protein; here both viruses are intact and the phenotype is a mixed coat, not rescue of a defect.",
+    "D": "Reassortment requires segmented genomes and produces a permanently new hybrid genome, not a transiently mis-coated particle that reverts in the next generation.",
+    "E": "Recombination permanently exchanges homologous stretches of genes, so progeny 2 would carry altered genetic material rather than the unchanged type A genome."
+  },
+  "educationalObjective": "Phenotypic mixing creates a pseudovirion with the genome of one virus and the surface proteins of another; the coat determines tropism but the progeny genome is unchanged.",
+  "source": "Generated from 3. Microbiology.pdf - Virology: Virus structure, replication, and classification"
+},
+{
+  "id": "micro-371",
+  "subject": "Microbiology",
+  "major_topic": "Virology",
+  "subtopic": "Virus structure, replication, and classification",
+  "difficulty": "medium",
+  "vignette": "A graduate student is asked to predict which of two enveloped viruses will remain infectious longest on a plastic surface at room temperature. One is an enveloped DNA virus with an icosahedral capsid; the other is a naked virus with an icosahedral capsid.",
+  "question": "Which property most directly determines the difference in environmental stability between these virions?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The icosahedral symmetry of the capsid"
+    },
+    {
+      "id": "B",
+      "text": "Whether the genome is linear or circular"
+    },
+    {
+      "id": "C",
+      "text": "The diameter of the virion"
+    },
+    {
+      "id": "D",
+      "text": "The presence of a lipid envelope, which is easily disrupted by drying and by changes in temperature and humidity"
+    },
+    {
+      "id": "E",
+      "text": "Whether the genome is DNA or RNA"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Environmental stability of a virion is largely a function of its envelope. Enveloped viruses carry a fragile lipid bilayer that detergents, drying, heat, and humidity changes destroy, so they survive poorly outside the host and transmit mainly by respiratory droplets or direct contact. Naked viruses such as parvovirus, adenovirus, and poliovirus withstand these stresses and spread readily by fomites.",
+  "explanation_incorrect": {
+    "A": "Both virions are icosahedral in this scenario, so capsid symmetry cannot explain a difference between them.",
+    "B": "Genome topology such as circular versus linear affects replication and packaging, not sensitivity to drying, detergent, or temperature.",
+    "C": "Virion size affects aerosol behavior slightly but is not the determinant of envelope-related chemical fragility.",
+    "E": "Genome chemistry matters for replication strategy and for whether naked nucleic acid is infectious, but not for the lipid-dependent stability difference described here."
+  },
+  "educationalObjective": "Enveloped viruses are environmentally fragile because of their lipid bilayer, whereas naked viruses resist drying and detergents and are the classic fomite-transmitted agents.",
+  "source": "Generated from 3. Microbiology.pdf - Virology: Virus structure, replication, and classification"
+}
+]

@@ -12,6 +12,10 @@ const eslintConfig = defineConfig([
     "out/**",
     "build/**",
     "next-env.d.ts",
+    // Local scratch: extracted PDF text, generation plans and one-off helper
+    // scripts. Gitignored, and not part of the shipped app, so linting it only
+    // produced noise (it briefly masked the real error count).
+    ".cache/**",
   ]),
 ]);
 

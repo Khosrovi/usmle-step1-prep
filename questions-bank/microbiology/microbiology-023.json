@@ -1,0 +1,84 @@
+[
+{
+  "id": "micro-078",
+  "subject": "Microbiology",
+  "major_topic": "Basic Bacteriology",
+  "subtopic": "Bacterial cell wall synthesis inhibitors and PBP targets",
+  "difficulty": "medium",
+  "vignette": "A 55-year-old man with a prosthetic valve has rapidly progressive heart failure and a new regurgitant murmur. Blood cultures grow an organism that forms clusters, and the team begins a cell wall-active beta-lactam. The pharmacist notes that the drug must acylate enzymes embedded within the cytoplasmic membrane.",
+  "question": "Which enzymes are the direct targets of beta-lactam antibiotics in this organism?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The 30S ribosomal subunit, where the drug arrests protein synthesis in the bacterium"
+    },
+    {
+      "id": "B",
+      "text": "DNA gyrase, the enzyme the drug inhibits in order to block DNA replication in the cell"
+    },
+    {
+      "id": "C",
+      "text": "Transpeptidases known as penicillin-binding proteins, embedded in the membrane"
+    },
+    {
+      "id": "D",
+      "text": "Dihydrofolate reductase, which the drug blocks in order to halt bacterial folate synthesis"
+    },
+    {
+      "id": "E",
+      "text": "RNA polymerase, which the drug inhibits in order to prevent transcription of bacterial genes"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "The peptidoglycan wall is a sugar backbone with peptide side chains cross-linked by transpeptidase, and penicillin-binding proteins - the membrane-embedded transpeptidases and related enzymes - are the targets of beta-lactams. Acylation of these PBPs prevents cross-linking, weakening the wall until osmotic lysis occurs. The cytoplasmic membrane is a phospholipid bilayer sac with embedded proteins including PBPs and is the site of both oxidative and transport enzymes, which is why these drugs act at the membrane-wall interface. This explains why cell-wall inhibitors work best on actively dividing bacteria rather than stationary-phase cells.",
+  "explanation_incorrect": {
+    "A": "The 30S ribosomal subunit is the target of aminoglycosides and tetracyclines and is not involved in cell wall assembly.",
+    "B": "DNA gyrase is inhibited by fluoroquinolones, which block DNA replication rather than wall cross-linking.",
+    "D": "Dihydrofolate reductase is inhibited by trimethoprim, and sulfonamides act on dihydropteroate synthase, both of which block folate synthesis.",
+    "E": "RNA polymerase is not the beta-lactam target; rifampin inhibits bacterial RNA polymerase as a separate mechanism."
+  },
+  "educationalObjective": "Beta-lactams acylate penicillin-binding proteins, the membrane-embedded transpeptidases that cross-link peptidoglycan.",
+  "source": "Generated from 3. Microbiology.pdf - Basic Bacteriology: Bacterial cell wall synthesis inhibitors and PBP targets"
+},
+{
+  "id": "micro-079",
+  "subject": "Microbiology",
+  "major_topic": "Basic Bacteriology",
+  "subtopic": "Bacterial cell wall synthesis inhibitors and PBP targets",
+  "difficulty": "hard",
+  "vignette": "A 59-year-old woman with a vancomycin-resistant Enterococcus faecium urinary infection is treated with intravenous vancomycin without response. Susceptibility testing shows an elevated minimal inhibitory concentration, and the microbiology report notes that the drug cannot reach its usual substrate.",
+  "question": "What is the normal target of vancomycin, and why is it ineffective here?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It binds the 50S rRNA; resistance adds a methylase at that ribosomal binding site in the subunit"
+    },
+    {
+      "id": "B",
+      "text": "It inhibits RNA polymerase; resistance mutates the binding pocket for the drug in that enzyme"
+    },
+    {
+      "id": "C",
+      "text": "It blocks DNA gyrase; resistance expresses an efflux pump that expels the drug from the cell"
+    },
+    {
+      "id": "D",
+      "text": "It binds the peptidoglycan D-Ala-D-Ala terminus; resistance replaces this precursor with D-Ala-D-lactate"
+    },
+    {
+      "id": "E",
+      "text": "It inhibits dihydropteroate synthase; resistance bypasses the pathway with a new enzyme of low affinity"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Vancomycin acts on the cell wall by binding the peptidoglycan precursor terminus, and resistance arises when the target is reprogrammed to a low-affinity precursor. In the First Aid resistance diagram, vancomycin resistance is categorized as drug target modification together with penicillinase-resistant penicillins, cephalosporins acting on PBPs, rRNA methylases for macrolides and linezolid, and altered sulfonamide and fluoroquinolone targets. Transposon-mediated transfer of vanA, the classic element being Tn1546 moving from Enterococcus to S aureus, exemplifies how target-modification genes spread. The clinical takeaway is that target change, not drug destruction, defeats vancomycin.",
+  "explanation_incorrect": {
+    "A": "50S rRNA methylation is a macrolide and linezolid resistance mechanism (erm genes), not the basis of vancomycin resistance in enterococci.",
+    "B": "RNA polymerase mutations are associated with resistance to agents acting on transcription such as rifampin, not vancomycin.",
+    "C": "Fluoroquinolone resistance arises through altered DNA gyrase and reduced uptake/efflux; vancomycin does not inhibit gyrase.",
+    "E": "Sulfonamide resistance commonly results from a bypass enzyme with low drug affinity; vancomycin does not target folate synthesis."
+  },
+  "educationalObjective": "Vancomycin resistance is a drug-target modification example, alongside rRNA methylases and altered PBPs, and can be transferred by transposons such as Tn1546.",
+  "source": "Generated from 3. Microbiology.pdf - Basic Bacteriology: Bacterial cell wall synthesis inhibitors and PBP targets"
+}
+]

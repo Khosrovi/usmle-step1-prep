@@ -1,0 +1,125 @@
+[
+{
+  "id": "micro-125",
+  "subject": "Microbiology",
+  "major_topic": "Clinical Bacteriology",
+  "subtopic": "Corynebacterium diphtheriae",
+  "difficulty": "medium",
+  "vignette": "A 6-year-old unvaccinated child who recently immigrated presents with 3 days of low-grade fever, sore throat, and malaise. Examination shows a thick, adherent grayish-white membrane over the tonsils and posterior pharynx that bleeds when scraped, plus marked bilateral cervical lymphadenopathy giving a bull-neck appearance. He is tachycardic, and an ECG shows new arrhythmia.",
+  "question": "Which of the following best describes the mechanism of the responsible exotoxin?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Cleavage of SNARE proteins in the pharyngeal mucosa"
+    },
+    {
+      "id": "B",
+      "text": "Increase of intracellular cAMP by adenylyl cyclase activity"
+    },
+    {
+      "id": "C",
+      "text": "Polyclonal T-cell activation through MHC class II binding"
+    },
+    {
+      "id": "D",
+      "text": "Lecithinase activity degrading phospholipids in cell membranes"
+    },
+    {
+      "id": "E",
+      "text": "ADP-ribosylation of elongation factor 2, inhibiting protein synthesis"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Diphtheria toxin inhibits protein synthesis by ADP-ribosylation of elongation factor 2, leading to necrosis in the pharynx, heart, and central nervous system. The result is pseudomembranous pharyngitis with a grayish-white membrane and bull-neck lymphadenopathy, with toxin dissemination causing myocarditis, arrhythmias, and neuropathy. The mnemonic is ABCDEFG: ADP-ribosylation, Beta-prophage, Corynebacterium, Diphtheriae, Elongation Factor 2, Granules.",
+  "explanation_incorrect": {
+    "A": "SNARE protein cleavage is the mechanism of botulinum toxin (preventing acetylcholine release) and tetanospasmin (blocking glycine and GABA release) at neural synapses, not a mucosal toxin.",
+    "B": "Adenylyl cyclase activity raising cAMP is the edema factor component of anthrax toxin, and a similar mechanism drives cholera toxin and pertussis adenylate cyclase toxin.",
+    "C": "Superantigen-mediated polyclonal T-cell activation describes staphylococcal TSST-1 and streptococcal erythrogenic toxin, producing shock or a rash rather than a pharyngeal membrane.",
+    "D": "Lecithinase activity degrading phospholipids is the α-toxin of Clostridium perfringens, responsible for gas gangrene and hemolysis."
+  },
+  "educationalObjective": "Diphtheria toxin ADP-ribosylates elongation factor 2 to halt protein synthesis, causing pseudomembranous pharyngitis, myocarditis, and neuropathy.",
+  "source": "Generated from 3. Microbiology.pdf - Clinical Bacteriology: Corynebacterium diphtheriae"
+},
+{
+  "id": "micro-126",
+  "subject": "Microbiology",
+  "major_topic": "Clinical Bacteriology",
+  "subtopic": "Corynebacterium diphtheriae",
+  "difficulty": "medium",
+  "vignette": "A 45-year-old man returns from an area with low immunization coverage and presents with a sore throat, hoarseness, and a gray adherent pharyngeal membrane. The physician suspects diphtheria and sends a pharyngeal swab for culture. The laboratory isolates club-shaped gram-positive rods in angular arrangements with metachromatic blue and red granules on special media, and black colonies grow on cystine-tellurite agar.",
+  "question": "Which of the following tests most directly confirms that this isolate produces toxin?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Positive PYR reaction"
+    },
+    {
+      "id": "B",
+      "text": "Bile esculin hydrolysis"
+    },
+    {
+      "id": "C",
+      "text": "Positive Elek test for toxin production"
+    },
+    {
+      "id": "D",
+      "text": "Positive optochin sensitivity disk"
+    },
+    {
+      "id": "E",
+      "text": "Growth in 6.5% sodium chloride"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Laboratory diagnosis of Corynebacterium diphtheriae rests on gram-positive club-shaped rods with metachromatic (blue and red) granules and a positive Elek test for toxin. Organisms that carry the β-prophage lysogenized into their genome express the toxin, and the Elek immunodiffusion test demonstrates that toxin production.",
+  "explanation_incorrect": {
+    "A": "PYR testing distinguishes group A streptococci (negative results with bacitracin) from group B and other streptococcal groups.",
+    "B": "Bile esculin hydrolysis is a test for group D organisms such as Enterococcus and S gallolyticus, unrelated to diphtheria toxin detection.",
+    "D": "Optochin sensitivity identifies Streptococcus pneumoniae and has no role in corynebacterial identification.",
+    "E": "Growth in 6.5% sodium chloride is a test for Enterococcus and does not apply to corynebacteria, which are not characteristically halotolerant."
+  },
+  "educationalObjective": "The Elek test detects diphtheria toxin production, and diagnosis is supported by club-shaped gram-positive rods with metachromatic granules.",
+  "source": "Generated from 3. Microbiology.pdf - Clinical Bacteriology: Corynebacterium diphtheriae"
+},
+{
+  "id": "micro-127",
+  "subject": "Microbiology",
+  "major_topic": "Clinical Bacteriology",
+  "subtopic": "Corynebacterium diphtheriae",
+  "difficulty": "medium",
+  "vignette": "A 34-year-old woman presents with a 4-day history of sore throat, low-grade fever, and a gray-white adherent tonsillar membrane. She works as a teacher and is fully immunized, but a coworker recently returned from abroad with a similar illness. The hospital laboratory is not able to culture for several hours but the clinical picture is highly suggestive.",
+  "question": "Which of the following best describes the recommended management of this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Immediate intubation for airway protection followed by supportive hydration alone"
+    },
+    {
+      "id": "B",
+      "text": "Supportive care only, with antibiotics reserved for bacteremia"
+    },
+    {
+      "id": "C",
+      "text": "Diphtheria antitoxin with erythromycin or penicillin, and a toxoid vaccine booster if not up to date"
+    },
+    {
+      "id": "D",
+      "text": "Vancomycin and surgical debridement of the pharyngeal tissue"
+    },
+    {
+      "id": "E",
+      "text": "Antitoxin alone, since antibiotics only prevent secondary bacterial infection"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Treatment of diphtheria is diphtheria antitoxin plus an antibiotic, typically erythromycin or penicillin. Antitoxin neutralizes circulating toxin but does not affect toxin already bound to tissues, so it must be given promptly, and antibiotics eradicate the organism to prevent further toxin production and transmission. A booster toxoid vaccine is given if the patient's vaccination status is not current.",
+  "explanation_incorrect": {
+    "A": "Intubation may be needed if the airway is obstructed, but supportive care alone without antitoxin or antibiotics would allow progression of toxin-mediated injury.",
+    "B": "Antibiotics are not reserved for bacteremia; they are part of first-line therapy because they eliminate the toxin-producing organism, and untreated cases can progress to myocarditis and obstruction of the airway.",
+    "D": "Vancomycin and debridement fit the management of necrotizing skin and soft-tissue infection, not the toxin-mediated pharyngeal membrane of diphtheria.",
+    "E": "Antibiotics are not given only for secondary infection; they treat the primary organism, since continued toxin production drives cardiac and neurologic complications."
+  },
+  "educationalObjective": "Diphtheria is treated with diphtheria antitoxin plus erythromycin or penicillin, with vaccine boosters for exposed or under-vaccinated patients.",
+  "source": "Generated from 3. Microbiology.pdf - Clinical Bacteriology: Corynebacterium diphtheriae"
+}
+]

@@ -1,0 +1,166 @@
+[
+{
+  "id": "micro-165",
+  "subject": "Microbiology",
+  "major_topic": "Basic Bacteriology",
+  "subtopic": "Gram-positive vs gram-negative cell envelope",
+  "difficulty": "easy",
+  "vignette": "In a microbiology lab, a student prepares a heat-fixed slide from a colony and performs a Gram stain. After the decolorizer and counterstain steps, the organisms appear red to pink under oil immersion.",
+  "question": "Which feature of the bacterial cell envelope explains retention of crystal violet by gram-positive but not gram-negative organisms?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The presence of lipoteichoic acid within the outer leaflet of the envelope"
+    },
+    {
+      "id": "B",
+      "text": "A lipid-rich mycolic acid layer that repels the decolorizer and resists staining"
+    },
+    {
+      "id": "C",
+      "text": "A thick peptidoglycan layer that lies outside the outer membrane of the cell"
+    },
+    {
+      "id": "D",
+      "text": "The presence of an outer membrane that traps the crystal violet dye in the periplasmic space"
+    },
+    {
+      "id": "E",
+      "text": "A thick peptidoglycan layer that retains crystal violet toward the cell surface"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "The Gram stain is the first-line laboratory test in bacterial identification. Bacteria with a thick peptidoglycan layer retain the crystal violet dye and appear purple (gram-positive), whereas bacteria with a thin peptidoglycan layer lose it during decolorization and take up the red or pink counterstain (gram-negative). In gram-negative organisms the peptidoglycan sits in the periplasm, sandwiched between the cytoplasmic membrane and the outer membrane. This structural difference is the reason the Gram reaction correlates with so many clinical choices from empiric therapy to organism identification.",
+  "explanation_incorrect": {
+    "A": "Lipoteichoic acid extends from the cytoplasmic membrane to the exterior in gram-positive organisms and induces TNF-alpha and IL-1; it is not an outer-leaflet molecule and does not determine dye retention.",
+    "B": "Mycolic acid is the acid-fast lipid of Mycobacteria and Nocardia that makes them poorly Gram-stainable and requires Ziehl-Neelsen; it is not part of the normal gram-positive envelope.",
+    "C": "Gram-negative organisms have a thin peptidoglycan in the periplasm and an outer membrane above it; gram-positive organisms have no outer membrane at all.",
+    "D": "An outer membrane is exactly why gram-negative organisms lose the dye: it is removed by the decolorizer, and their thin peptidoglycan does not hold crystal violet; it is not what retains it."
+  },
+  "educationalObjective": "A thick peptidoglycan layer retains crystal violet (gram-positive); a thin peptidoglycan in the periplasm plus an outer membrane loses it (gram-negative).",
+  "source": "Generated from 3. Microbiology.pdf - Basic Bacteriology: Gram-positive vs gram-negative cell envelope"
+},
+{
+  "id": "micro-166",
+  "subject": "Microbiology",
+  "major_topic": "Basic Bacteriology",
+  "subtopic": "Gram-positive vs gram-negative cell envelope",
+  "difficulty": "medium",
+  "vignette": "A 34-year-old woman has a deep surgical-site infection after a contaminated wound. The isolate is a gram-negative rod, and the team is reviewing its envelope architecture because a beta-lactamase-producing strain is suspected.",
+  "question": "Where in the gram-negative cell envelope does peptidoglycan reside?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Attached only to the cytoplasmic membrane, as a single adherent monolayer"
+    },
+    {
+      "id": "B",
+      "text": "In the periplasm, between the cytoplasmic membrane and the outer membrane"
+    },
+    {
+      "id": "C",
+      "text": "On the outermost surface, outside the layer of lipopolysaccharide and capsule"
+    },
+    {
+      "id": "D",
+      "text": "Within the outer membrane leaflet itself, anchored by the lipid A moiety"
+    },
+    {
+      "id": "E",
+      "text": "Between the capsule and the cell wall, as a loose adherent polysaccharide matrix"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "In gram-negative bacteria the peptidoglycan is located in the periplasm, the space between the cytoplasmic membrane and the outer membrane. That periplasm also accumulates components exiting the cell, including hydrolytic enzymes such as beta-lactamases. This architecture explains why gram-negative organisms can secrete beta-lactamases into a compartment that bathes the peptidoglycan, a key element of resistance to penicillins. The outer membrane above contains LPS in its outer leaflet and porins for transport, and the wide periplasmic space is a diagrammatic feature unique to gram-negative organisms.",
+  "explanation_incorrect": {
+    "A": "Peptidoglycan is a netlike polymer, not a monolayer on the membrane; the peptidoglycan wall is a sugar backbone cross-linked by transpeptidases.",
+    "C": "Outside the surface is the capsule if present; peptidoglycan is always on the inner side of the outer membrane, and LPS (not peptidoglycan) faces the exterior.",
+    "D": "Lipid A anchors LPS in the outer leaflet; peptidoglycan is not a lipid and does not intercalate into the membrane leaflet.",
+    "E": "That describes a loose matrix, not peptidoglycan: the slime layer is a loose network of polysaccharides that mediates adherence and biofilm formation."
+  },
+  "educationalObjective": "Gram-negative peptidoglycan sits in the periplasm, a wide space that also accumulates beta-lactamases; the outer membrane lies above it.",
+  "source": "Generated from 3. Microbiology.pdf - Basic Bacteriology: Gram-positive vs gram-negative cell envelope"
+},
+{
+  "id": "micro-167",
+  "subject": "Microbiology",
+  "major_topic": "Basic Bacteriology",
+  "subtopic": "Gram-positive vs gram-negative cell envelope",
+  "difficulty": "medium",
+  "vignette": "A 71-year-old man with a hip prosthesis develops a slowly progressive wound infection. The isolate is a gram-positive coccus in clusters, and the laboratory reports that it grows in a wide range of environments and expresses no outer membrane porins.",
+  "question": "Which statement best describes a difference in envelope architecture between this organism and a gram-negative rod?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Only the gram-negative organism has a periplasmic space with a wide beta-lactamase compartment"
+    },
+    {
+      "id": "B",
+      "text": "Only the gram-negative organism possesses a cytoplasmic membrane bilayer with embedded proteins"
+    },
+    {
+      "id": "C",
+      "text": "Only the gram-positive organism possesses lipopolysaccharide in its cell wall envelope"
+    },
+    {
+      "id": "D",
+      "text": "Only the gram-negative organism possesses bacterial ribosomes for protein synthesis"
+    },
+    {
+      "id": "E",
+      "text": "Only the gram-positive organism possesses a peptidoglycan cell wall layer outside its membrane"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Gram-positive organisms have a thick peptidoglycan layer, teichoic and lipoteichoic acids extending from the membrane to the exterior, and no outer membrane. Gram-negative organisms have a thin peptidoglycan in a wide periplasm containing beta-lactamases, plus an outer membrane with LPS and porins. That periplasm-wide, beta-lactamase-rich space is unique to gram-negative organisms and is why gram-negative resistance to penicillins spreads readily. Both groups share the cytoplasmic membrane, where penicillin-binding proteins perform cell wall synthesis.",
+  "explanation_incorrect": {
+    "B": "All bacteria have a cytoplasmic membrane, described as a phospholipid bilayer sac with embedded proteins; it is the site of oxidative and transport enzymes and of PBPs.",
+    "C": "Lipopolysaccharide (endotoxin) is present only in gram-negative organisms, found in the outer membrane; the statement reverses reality.",
+    "D": "Ribosomes are universal bacterial structures and the target of many antibiotics; they are not an envelope distinguishing feature.",
+    "E": "Peptidoglycan is common to both gram-positive and gram-negative organisms; only the quantity and location differ."
+  },
+  "educationalObjective": "The wide periplasmic space holding beta-lactamases and the LPS-containing outer membrane are unique to gram-negative organisms; both groups have peptidoglycan and PBPs.",
+  "source": "Generated from 3. Microbiology.pdf - Basic Bacteriology: Gram-positive vs gram-negative cell envelope"
+},
+{
+  "id": "micro-168",
+  "subject": "Microbiology",
+  "major_topic": "Basic Bacteriology",
+  "subtopic": "Gram-positive vs gram-negative cell envelope",
+  "difficulty": "hard",
+  "vignette": "A 28-year-old man with a ventricular septal defect and dental plaque develops fever and a new murmur. Blood cultures grow a gram-positive coccus in chains that is alpha-hemolytic. The team links the organism's ability to adhere to damaged endocardium to an envelope surface structure.",
+  "question": "Which envelope structure of gram-positive organisms serves as the major site for anchoring cell wall synthesis enzymes and is also where lipoteichoic acid arises?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The outer membrane"
+    },
+    {
+      "id": "B",
+      "text": "The capsule"
+    },
+    {
+      "id": "C",
+      "text": "The cytoplasmic membrane"
+    },
+    {
+      "id": "D",
+      "text": "The periplasm"
+    },
+    {
+      "id": "E",
+      "text": "The peptidoglycan peptide side chain"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "The cytoplasmic membrane is a phospholipid bilayer sac with embedded proteins, including penicillin-binding proteins (PBPs) and other enzymes, and it is the site of oxidative and transport enzymes. In gram-positive organisms, lipoteichoic acids extend from this membrane all the way to the exterior. Understanding this arrangement explains why beta-lactams that acylate PBPs act at the membrane/wall interface, and why lipoteichoic acid is a proinflammatory surface molecule that is not covered by an outer membrane. It also accounts for the general absence of a periplasmic beta-lactamase compartment in these organisms.",
+  "explanation_incorrect": {
+    "A": "An outer membrane is absent from gram-positive organisms; it exists only in gram-negative cells, where LPS sits in the outer leaflet.",
+    "B": "The capsule is a discrete polysaccharide layer that protects against phagocytosis; it does not house synthetic enzymes.",
+    "D": "A periplasm exists in gram-negative organisms, as the space between cytoplasmic and outer membranes; gram-positive organisms do not have this compartment.",
+    "E": "Peptide side chains are the substrate of transpeptidase cross-linking within peptidoglycan, not the membrane site where enzymes and lipoteichoic acids arise."
+  },
+  "educationalObjective": "PBPs are embedded in the cytoplasmic membrane, which is also the origin of gram-positive lipoteichoic acids.",
+  "source": "Generated from 3. Microbiology.pdf - Basic Bacteriology: Gram-positive vs gram-negative cell envelope"
+}
+]

@@ -1,0 +1,166 @@
+[
+{
+  "id": "micro-287",
+  "subject": "Microbiology",
+  "major_topic": "Basic Bacteriology",
+  "subtopic": "Stains: Gram, Giemsa, PAS, Ziehl-Neelsen, India ink",
+  "difficulty": "medium",
+  "vignette": "A 44-year-old man with HIV and a CD4 count of 60 cells/mm3 presents with a headache and fever. Cerebrospinal fluid shows encapsulated budding yeasts. India ink preparation demonstrates clear halos around the organisms.",
+  "question": "Which stain would also allow visualization of this organism's thick polysaccharide capsule, appearing as red halos?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Mucicarmine stain"
+    },
+    {
+      "id": "B",
+      "text": "Periodic acid-Schiff stain"
+    },
+    {
+      "id": "C",
+      "text": "Silver stain"
+    },
+    {
+      "id": "D",
+      "text": "Giemsa stain"
+    },
+    {
+      "id": "E",
+      "text": "Ziehl-Neelsen stain"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "India ink preparations rely on the ability of a thick polysaccharide capsule to exclude the colloidal carbon particles, leaving a clear halo around Cryptococcus neoformans. Mucicarmine can also be used, staining this polysaccharide capsule red. Both are capsule-directed methods and are complementary rather than interchangeable in textbook usage. Recognizing the India ink halo with the classic HIV-associated meningitis syndrome is one of the highest-yield stain-organism pairings in microbiology.",
+  "explanation_incorrect": {
+    "B": "PAS stains glycogen and mucopolysaccharides and is used for Whipple disease (Tropheryma whipplei); it is not the classic capsule stain.",
+    "C": "Silver stain is used for Helicobacter pylori, Legionella, Bartonella henselae, and fungi such as Coccidioides, Pneumocystis, and Aspergillus; it does not selectively highlight capsular material.",
+    "D": "Giemsa stains H pylori, Chlamydia, Borrelia, Rickettsia, Trypanosoma, and Plasmodium; it is used for blood and tissue smears, not for capsular halos.",
+    "E": "Ziehl-Neelsen (carbol fuchsin) stains acid-fast organisms such as Mycobacteria and Nocardia by binding mycolic acid, not a polysaccharide capsule."
+  },
+  "educationalObjective": "India ink outlines and mucicarmine stains red the thick polysaccharide capsule of Cryptococcus neoformans.",
+  "source": "Generated from 3. Microbiology.pdf - Basic Bacteriology: Stains: Gram, Giemsa, PAS, Ziehl-Neelsen, India ink"
+},
+{
+  "id": "micro-288",
+  "subject": "Microbiology",
+  "major_topic": "Basic Bacteriology",
+  "subtopic": "Stains: Gram, Giemsa, PAS, Ziehl-Neelsen, India ink",
+  "difficulty": "medium",
+  "vignette": "A 29-year-old man with a chronic cough, night sweats, and weight loss has a sputum smear that is negative with the standard Gram stain but shows elongated red bacilli when an acid-fast preparation is used. He is suspected to have Mycobacterium tuberculosis.",
+  "question": "Which property allows this organism to be visualized with the Ziehl-Neelsen stain?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Absence of a cell wall, resulting in pleomorphic forms"
+    },
+    {
+      "id": "B",
+      "text": "A polysaccharide capsule that excludes counterstain"
+    },
+    {
+      "id": "C",
+      "text": "Primarily intracellular growth that concentrates dye"
+    },
+    {
+      "id": "D",
+      "text": "High lipid content from mycolic acid in the cell wall"
+    },
+    {
+      "id": "E",
+      "text": "A thick peptidoglycan layer that retains crystal violet"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "The Ziehl-Neelsen (carbol fuchsin) stain exploits the high lipid content of the mycobacterial cell wall, enabling retention of carbol fuchsin despite acid-alcohol decolorization. The organisms photographed this way include Mycobacteria and Nocardia, and the stain also demonstrates protozoa such as Cryptosporidium oocysts. Mycobacteria belong to the classic list of organisms that do not Gram stain well because of their high lipid content. In practice, auramine-rhodamine fluorescence is often used for screening because it is inexpensive and more sensitive.",
+  "explanation_incorrect": {
+    "A": "Absence of a cell wall describes Mycoplasma and Ureaplasma, which do not Gram stain well; mycobacteria do have a wall, but it is waxy and lipid rich.",
+    "B": "A capsule is not the reason: capsular material excludes ink in India ink preparations and does not confer acid fastness.",
+    "C": "Intracellular location does not explain the stain: the organisms that fail to Gram stain partly because they are primarily intracellular include Legionella, Rickettsia, Chlamydia, Bartonella, Anaplasma, and Ehrlichia.",
+    "E": "Crystal violet retention is the Gram stain mechanism and relies on thick peptidoglycan; mycobacteria typically stain poorly because of their lipid-rich wall."
+  },
+  "educationalObjective": "Ziehl-Neelsen carbol fuchsin stains the mycolic-acid-rich walls of Mycobacteria and Nocardia, and auramine-rhodamine is the sensitive screening alternative.",
+  "source": "Generated from 3. Microbiology.pdf - Basic Bacteriology: Stains: Gram, Giemsa, PAS, Ziehl-Neelsen, India ink"
+},
+{
+  "id": "micro-289",
+  "subject": "Microbiology",
+  "major_topic": "Basic Bacteriology",
+  "subtopic": "Stains: Gram, Giemsa, PAS, Ziehl-Neelsen, India ink",
+  "difficulty": "hard",
+  "vignette": "A 55-year-old man with chronic diarrhea, weight loss, and malabsorption has small-bowel biopsies showing foamy macrophages packed with PAS-positive granules in the lamina propria. The pathologist requests a specific stain to highlight the organism.",
+  "question": "Which stain best demonstrates the responsible organism, Tropheryma whipplei?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A thick polysaccharide capsule that excludes dye and prevents counterstaining"
+    },
+    {
+      "id": "B",
+      "text": "Primarily intracellular growth that concentrates dye within the host cytoplasm"
+    },
+    {
+      "id": "C",
+      "text": "A thick peptidoglycan layer that retains crystal violet through decolorization"
+    },
+    {
+      "id": "D",
+      "text": "Absence of a cell wall, resulting in pleomorphic forms that resist staining"
+    },
+    {
+      "id": "E",
+      "text": "High lipid content from mycolic acid in the cell wall, which repels the stain"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Whipple disease from Tropheryma whipplei is classically diagnosed with periodic acid-Schiff staining, which highlights the glycogen and mucopolysaccharide content of the organisms accumulating in small-bowel macrophages. PAS positivity in foamy macrophages of the lamina propria is the classic histologic clue and explains the malabsorptive syndrome. The organism is not acid fast, is not encapsulated, and is not a fungus, which eliminates the other commonly used special stains.",
+  "explanation_incorrect": {
+    "A": "Giemsa is used for H pylori, Chlamydia, Borrelia, Rickettsia, Trypanosoma, and Plasmodium, not for this organism.",
+    "B": "Silver stain highlights H pylori, Legionella, Bartonella henselae, and fungi such as Coccidioides, Pneumocystis, and Aspergillus.",
+    "C": "Ziehl-Neelsen is for acid-fast bacilli and Cryptosporidium oocysts; T whipplei is not acid fast.",
+    "E": "India ink is a negative stain for thick polysaccharide capsules such as Cryptococcus neoformans, a fungal organism."
+  },
+  "educationalObjective": "PAS stains glycogen and mucopolysaccharides and is the stain used to diagnose Whipple disease (Tropheryma whipplei); it is the only PAS application in the stain table.",
+  "source": "Generated from 3. Microbiology.pdf - Basic Bacteriology: Stains: Gram, Giemsa, PAS, Ziehl-Neelsen, India ink"
+},
+{
+  "id": "micro-290",
+  "subject": "Microbiology",
+  "major_topic": "Basic Bacteriology",
+  "subtopic": "Stains: Gram, Giemsa, PAS, Ziehl-Neelsen, India ink",
+  "difficulty": "medium",
+  "vignette": "A 33-year-old man presents with a painless penile chancre, and dark-field examination of the exudate reveals spirochetes. A routine Gram stain of the same specimen shows no organisms.",
+  "question": "Which pair correctly matches an organism from the \"do not Gram stain well\" list with the reason?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Mycoplasma - cell wall has a high lipid content"
+    },
+    {
+      "id": "B",
+      "text": "Legionella - no cell wall and thus cannot retain dye"
+    },
+    {
+      "id": "C",
+      "text": "Chlamydia - thick peptidoglycan that overstains"
+    },
+    {
+      "id": "D",
+      "text": "Treponema - too thin to be visualized on Gram stain"
+    },
+    {
+      "id": "E",
+      "text": "Rickettsia - presence of an outer membrane that excludes dye"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "The classic list of organisms that do not Gram stain well is remembered with \"These Little Microbes May Unfortunately Lack Real Color But Are Everywhere.\" Treponema and Leptospira are too thin to be visualized; Mycobacteria have a high-lipid-content cell wall; Mycoplasma and Ureaplasma have no cell wall; and Legionella, Rickettsia, Chlamydia, Bartonella, Anaplasma, and Ehrlichia are primarily intracellular, with Chlamydia also lacking classic peptidoglycan because of defective muramic acid. Syphilis is therefore diagnosed with dark-field microscopy or fluorescent antibody stains such as FTA-ABS. Knowing why each organism fails the Gram stain, rather than just the list, is what the question tests.",
+  "explanation_incorrect": {
+    "A": "Mycoplasma and Ureaplasma lack a cell wall altogether; the high-lipid-cell-wall reason belongs to Mycobacteria.",
+    "B": "Legionella belongs among the primarily intracellular organisms that fail to Gram stain well; it does have a cell wall, and the no-cell-wall reason belongs to Mycoplasma.",
+    "C": "Chlamydia lack classic peptidoglycan because of a defect in muramic acid synthesis and are primarily intracellular, and also are not thick-walled overstainers.",
+    "E": "Rickettsia fails to Gram stain because it is primarily intracellular, not because of an outer membrane; Neisseria, which are gram-negative, stain fine."
+  },
+  "educationalObjective": "Treponema and Leptospira are too thin to Gram stain; Mycobacteria are lipid rich; Mycoplasma lack a wall; and Chlamydia, Rickettsia, and Legionella are primarily intracellular.",
+  "source": "Generated from 3. Microbiology.pdf - Basic Bacteriology: Stains: Gram, Giemsa, PAS, Ziehl-Neelsen, India ink"
+}
+]

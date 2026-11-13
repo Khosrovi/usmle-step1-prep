@@ -1,0 +1,166 @@
+[
+{
+  "id": "micro-047",
+  "subject": "Microbiology",
+  "major_topic": "Antimicrobials",
+  "subtopic": "Protein synthesis inhibitors: aminoglycosides",
+  "difficulty": "easy",
+  "vignette": "A 68-year-old woman with pyelonephritis and sepsis from a resistant gram-negative rod is given gentamicin in addition to a beta-lactam. On day 4 she reports ringing in her ears and reduced hearing, and her creatinine has risen from 0.9 to 1.7 mg/dL. She was also recently started on furosemide for volume overload.",
+  "question": "Which of the following best explains these adverse effects?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Cochlear and tubular accumulation; worse with loop diuretics"
+    },
+    {
+      "id": "B",
+      "text": "Aminoglycosides cause aplastic anemia and gray baby syndrome from hepatic glucuronidation failure"
+    },
+    {
+      "id": "C",
+      "text": "Aminoglycosides cause optic neuritis from arabinosyltransferase inhibition in the optic nerve"
+    },
+    {
+      "id": "D",
+      "text": "Aminoglycosides cause a disulfiram-like reaction that presents as tinnitus after ethanol exposure"
+    },
+    {
+      "id": "E",
+      "text": "Aminoglycosides cause peripheral neuropathy from pyridoxine deficiency induced by vitamin B6 antagonism"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Aminoglycosides are the classic dose-related ototoxic and nephrotoxic drugs: they damage cochlear hair cells and proximal tubular cells, and ototoxicity is especially likely when loop diuretics such as furosemide are coadministered. Their other signature toxicity is neuromuscular blockade, which is an absolute contraindication in myasthenia gravis, and they are also teratogenic. They are bactericidal and are used with beta-lactams for severe gram-negative rod infections because they require oxygen-dependent uptake.",
+  "explanation_incorrect": {
+    "B": "Aplastic anemia and gray baby syndrome belong to chloramphenicol, which fails to conjugate the drug in premature infants; gentamicin does not cause these.",
+    "C": "Optic neuritis is ethambutol's dose-related toxicity; aminoglycosides affect the eighth cranial nerve and kidneys.",
+    "D": "A disulfiram-like reaction is caused by metronidazole and some cephalosporins, not by aminoglycosides, and does not manifest as dose-related hearing loss.",
+    "E": "Peripheral neuropathy from pyridoxine deficiency is the classic isoniazid toxicity; aminoglycosides can cause neuromuscular blockade but not via vitamin B6 antagonism."
+  },
+  "educationalObjective": "Aminoglycosides cause ototoxicity (worse with loop diuretics), nephrotoxicity, neuromuscular blockade, and teratogenicity.",
+  "source": "Generated from 3. Microbiology.pdf - Antimicrobials: Protein synthesis inhibitors: aminoglycosides"
+},
+{
+  "id": "micro-048",
+  "subject": "Microbiology",
+  "major_topic": "Antimicrobials",
+  "subtopic": "Protein synthesis inhibitors: aminoglycosides",
+  "difficulty": "medium",
+  "vignette": "A 42-year-old man with an anaerobic lung abscess from aspiration is being treated with metronidazole plus a beta-lactam. The consultant explains that gentamicin could not be part of the regimen even if gram-negative coverage were desired, because of a fundamental requirement of aminoglycoside uptake. The pharmacist also notes synergy between aminoglycosides and beta-lactams.",
+  "question": "Why are aminoglycosides ineffective against anaerobic organisms?",
+  "options": [
+    {
+      "id": "A",
+      "text": "They are destroyed by anaerobe-specific beta-lactamases"
+    },
+    {
+      "id": "B",
+      "text": "Uptake needs oxygen, so anaerobes are resistant"
+    },
+    {
+      "id": "C",
+      "text": "They cannot cross the anaerobic cell wall because it lacks peptidoglycan"
+    },
+    {
+      "id": "D",
+      "text": "They require anaerobic conditions to bind the 30S subunit"
+    },
+    {
+      "id": "E",
+      "text": "They are inactivated by the low intracellular pH found only in anaerobes"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Aminoglycosides require O2 for uptake into bacteria, which is why they are ineffective against anaerobes; the First Aid mnemonic notes that the \"Mean\" aminoglycoside GNATS cannot kill anaerobes. Their mechanism is irreversible inhibition of the initiation complex through 30S subunit binding, with mRNA misreading and blocked translocation. Aminoglycosides act synergistically with beta-lactams for severe gram-negative rod infections.",
+  "explanation_incorrect": {
+    "A": "Aminoglycosides are not beta-lactam drugs and are not destroyed by beta-lactamases; their resistance comes from plasmid-encoded transferase enzymes that acetylase, phosphorylate, or adenylate the drug.",
+    "C": "Anaerobes have normal peptidoglycan walls; the block is at drug uptake, not at the cell wall.",
+    "D": "They bind the 30S subunit regardless of oxygen tension; oxygen is required for entry into the cell rather than for binding.",
+    "E": "Reduced drug uptake in anaerobic conditions is the correct central mechanism; intracellular pH is not the described barrier for this class."
+  },
+  "educationalObjective": "Aminoglycosides require oxygen for uptake and are therefore ineffective against anaerobes, despite being bactericidal and synergistic with beta-lactams.",
+  "source": "Generated from 3. Microbiology.pdf - Antimicrobials: Protein synthesis inhibitors: aminoglycosides"
+},
+{
+  "id": "micro-049",
+  "subject": "Microbiology",
+  "major_topic": "Antimicrobials",
+  "subtopic": "Protein synthesis inhibitors: aminoglycosides",
+  "difficulty": "medium",
+  "vignette": "A 5-day-old neonate with a complicated gram-negative urinary tract infection is receiving gentamicin. The mother asks why the baby needs the medicine, and the resident explains that aminoglycoside action is not merely static: it binds irreversibly to the 30S subunit, causing misreading of mRNA and blocking translocation, which is why the drug is bactericidal. The resident also reviews how bacteria become resistant.",
+  "question": "Which of the following is the principal mechanism of acquired aminoglycoside resistance?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Loss of a porin that limits drug entry"
+    },
+    {
+      "id": "B",
+      "text": "Methylation of the 23S rRNA binding site"
+    },
+    {
+      "id": "C",
+      "text": "Alteration of the D-Ala-D-Ala cell wall precursor target"
+    },
+    {
+      "id": "D",
+      "text": "Modification of D-Ala-D-Ala precursors"
+    },
+    {
+      "id": "E",
+      "text": "A point mutation of rRNA blocking binding"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Aminoglycoside resistance is mainly enzymatic: bacterial transferases inactivate the drug by acetylation, phosphorylation, or adenylation. The drugs are bactericidal because they irreversibly inhibit the initiation complex at the 30S subunit, cause misreading of mRNA, and block translocation, and they are used for severe gram-negative rod infections with beta-lactam synergy. Neomycin is used for bowel surgery preparation.",
+  "explanation_incorrect": {
+    "A": "Porin loss reduces uptake but is not the principal acquired mechanism, and aminoglycosides are used against gram-negative organisms, not gram-positive ones.",
+    "B": "23S rRNA methylation confers macrolide resistance; aminoglycosides target the 30S subunit.",
+    "C": "D-Ala-D-Ala modification is how enterococci resist vancomycin, a cell wall active agent, not how bacteria resist aminoglycosides.",
+    "E": "Ribosomal RNA point mutation is the resistance mechanism for linezolid, not the transferase-mediated enzymatic inactivation characteristic of aminoglycosides."
+  },
+  "educationalObjective": "Aminoglycoside resistance is principally enzymatic inactivation by bacterial transferases through acetylation, phosphorylation, or adenylation.",
+  "source": "Generated from 3. Microbiology.pdf - Antimicrobials: Protein synthesis inhibitors: aminoglycosides"
+},
+{
+  "id": "micro-050",
+  "subject": "Microbiology",
+  "major_topic": "Antimicrobials",
+  "subtopic": "Protein synthesis inhibitors: aminoglycosides",
+  "difficulty": "medium",
+  "vignette": "A 74-year-old man with myasthenia gravis is admitted with aspiration pneumonia. The night team orders gentamicin for presumed gram-negative coverage before cultures return. The following morning the patient is much weaker, with worsening ptosis and respiratory difficulty requiring increased ventilatory support. The pharmacist flags the antibiotic as contraindicated in this patient.",
+  "question": "Which of the following best explains the antibiotic's contribution to this patient's deterioration?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Aminoglycosides cause hypokalemia from renal tubular wasting and worsen muscle strength"
+    },
+    {
+      "id": "B",
+      "text": "Aminoglycosides inhibit pyridoxine and cause acute peripheral neuropathy with weakness"
+    },
+    {
+      "id": "C",
+      "text": "Aminoglycosides induce a myasthenic crisis by increasing acetylcholine release at the neuromuscular junction"
+    },
+    {
+      "id": "D",
+      "text": "Aminoglycosides cause neuromuscular blockade, an absolute contraindication in myasthenia gravis"
+    },
+    {
+      "id": "E",
+      "text": "Aminoglycosides inhibit presynaptic voltage-gated calcium channels in the same way as botulinum toxin"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Aminoglycosides cause neuromuscular blockade, which is an absolute contraindication in patients with myasthenia gravis; the impairment of neuromuscular transmission explains the rapidly worsening weakness and respiratory failure here. Their other adverse effects are nephrotoxicity, ototoxicity, and teratogenicity. For severe gram-negative rod infections, aminoglycosides are used synergistically with beta-lactams, but not in this patient.",
+  "explanation_incorrect": {
+    "A": "Hypokalemia from renal tubular wasting is characteristic of amphotericin B, and the acute weakness here tracks the aminoglycoside exposure directly.",
+    "B": "Pyridoxine antagonism with peripheral neuropathy is isoniazid's toxicity, and it develops over weeks of therapy rather than as an acute worsening with an antibiotic dose.",
+    "C": "Aminoglycosides impair rather than enhance neuromuscular transmission; they do not increase acetylcholine release.",
+    "E": "Presynaptic calcium channel blockade describes botulinum toxin's mechanism; aminoglycosides act postsynaptically to impair neuromuscular transmission."
+  },
+  "educationalObjective": "Aminoglycoside-induced neuromuscular blockade is an absolute contraindication in myasthenia gravis and can precipitate respiratory failure.",
+  "source": "Generated from 3. Microbiology.pdf - Antimicrobials: Protein synthesis inhibitors: aminoglycosides"
+}
+]

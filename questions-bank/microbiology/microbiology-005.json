@@ -1,0 +1,166 @@
+[
+{
+  "id": "micro-015",
+  "subject": "Microbiology",
+  "major_topic": "Antimicrobials",
+  "subtopic": "Antiprotozoal and anthelmintic drugs",
+  "difficulty": "medium",
+  "vignette": "A 29-year-old woman returns from a 3-week trip to sub-Saharan Africa with cyclical fevers, chills, and sweats. Blood smear shows ring forms and banana-shaped gametocytes diagnostic of Plasmodium falciparum. She is treated with artemisinin-based combination therapy. She asks why chloroquine is not used for her infection.",
+  "question": "Which of the following best explains the mechanism of chloroquine and the reason for its failure here?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Chloroquine forms free radical metabolites that damage parasite DNA, and resistance arises from efflux pumps"
+    },
+    {
+      "id": "B",
+      "text": "Blocks hemozoin formation; a membrane pump lowers drug levels"
+    },
+    {
+      "id": "C",
+      "text": "Chloroquine blocks heme polymerization, and P falciparum is intrinsically unresponsive because it lacks a food vacuole"
+    },
+    {
+      "id": "D",
+      "text": "Chloroquine inhibits the mitochondrial electron transport chain, and resistance is due to a mutated cytochrome"
+    },
+    {
+      "id": "E",
+      "text": "Chloroquine inhibits dihydrofolate reductase in plasmodia, and resistance arises from a mutated enzyme"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Chloroquine blocks detoxification of heme into hemozoin, so toxic heme accumulates within the parasite; it is used for plasmodial species other than P falciparum. P falciparum resistance results from a membrane pump that reduces the intracellular concentration of the drug, which is why combination therapy is needed for falciparum malaria. Chloroquine also causes retinopathy that depends on cumulative dose and pruritus, especially in dark-skinned individuals.",
+  "explanation_incorrect": {
+    "A": "Free radical metabolite formation that damages DNA is metronidazole's mechanism, not chloroquine's.",
+    "C": "P falciparum does have a food vacuole; its resistance is acquired through a membrane pump rather than intrinsic absence of the target organelle.",
+    "D": "Chloroquine does not act on the electron transport chain, and its target is heme detoxification within the food vacuole.",
+    "E": "Dihydrofolate reductase inhibition is the mechanism of trimethoprim and pyrimethamine, not chloroquine, which acts on heme detoxification."
+  },
+  "educationalObjective": "Chloroquine blocks heme detoxification into hemozoin, is used for non-falciparum malaria, and fails against P falciparum because a membrane pump lowers intracellular drug levels.",
+  "source": "Generated from 3. Microbiology.pdf - Antimicrobials: Antiprotozoal and anthelmintic drugs"
+},
+{
+  "id": "micro-016",
+  "subject": "Microbiology",
+  "major_topic": "Antimicrobials",
+  "subtopic": "Antiprotozoal and anthelmintic drugs",
+  "difficulty": "medium",
+  "vignette": "A 34-year-old woman with HIV and a CD4+ count of 90 cells/mm3 presents with headache, fever, and a ring-enhancing brain lesion with surrounding edema. Serology is positive for Toxoplasma IgG. She is started on pyrimethamine and sulfadiazine with leucovorin, and the team plans secondary prophylaxis with TMP-SMX.",
+  "question": "Which of the following best explains the choice of pyrimethamine with sulfadiazine?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Sequential folate blockade with leucovorin rescue"
+    },
+    {
+      "id": "B",
+      "text": "Pyrimethamine inhibits squalene epoxidase and sulfadiazine binds ergosterol, giving synergy"
+    },
+    {
+      "id": "C",
+      "text": "Pyrimethamine blocks heme detoxification and sulfadiazine inhibits folate synthesis, with leucovorin to protect the parasite"
+    },
+    {
+      "id": "D",
+      "text": "Both agents inhibit the 50S ribosomal subunit of Toxoplasma at sequential sites"
+    },
+    {
+      "id": "E",
+      "text": "Pyrimethamine forms free radicals and sulfadiazine inhibits DNA gyrase, giving synergy"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Pyrimethamine inhibits dihydrofolate reductase and sulfadiazine inhibits dihydropteroate synthase, producing a sequential block of the folate pathway analogous to trimethoprim-sulfamethoxazole; leucovorin supplies host folate to limit marrow toxicity while the parasite, which cannot use preformed folate, remains blocked. Reactivation of latent Toxoplasma is a classic cause of ring-enhancing brain lesions in AIDS. TMP-SMX at CD4+ counts below 100 provides dual prophylaxis against Pneumocystis and toxoplasmosis.",
+  "explanation_incorrect": {
+    "B": "Squalene epoxidase inhibition and ergosterol binding are antifungal mechanisms (terbinafine and amphotericin B), not antiprotozoal ones.",
+    "C": "Blocking heme detoxification is chloroquine's antimalarial mechanism, and leucovorin protects the host rather than the parasite.",
+    "D": "Neither drug targets the ribosome; they act in the folate synthesis and reduction pathway.",
+    "E": "Free radical formation is metronidazole's mechanism, and DNA gyrase inhibition belongs to fluoroquinolones."
+  },
+  "educationalObjective": "Pyrimethamine plus sulfadiazine sequentially blocks toxoplasma folate synthesis, with leucovorin to protect host marrow; TMP-SMX at CD4 < 100 prevents both PCP and toxoplasmosis.",
+  "source": "Generated from 3. Microbiology.pdf - Antimicrobials: Antiprotozoal and anthelmintic drugs"
+},
+{
+  "id": "micro-017",
+  "subject": "Microbiology",
+  "major_topic": "Antimicrobials",
+  "subtopic": "Antiprotozoal and anthelmintic drugs",
+  "difficulty": "medium",
+  "vignette": "A 41-year-old man presents with intense nocturnal perianal itching. Cellophane tape preparation from the perianal skin shows oval eggs. He also reports that his toddler and spouse are similarly affected. The physician prescribes a single-dose agent that paralyzes the worm, and instructs the whole household to take it.",
+  "question": "Which of the following drugs is most appropriate for this infection?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Praziquantel"
+    },
+    {
+      "id": "B",
+      "text": "Metronidazole"
+    },
+    {
+      "id": "C",
+      "text": "Chloroquine"
+    },
+    {
+      "id": "D",
+      "text": "Permethrin"
+    },
+    {
+      "id": "E",
+      "text": "Pyrantel pamoate"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "This is enterobiasis, the classic cause of nocturnal perianal pruritus with eggs recovered by cellophane tape, and pyrantel pamoate is one of the First Aid antihelminthic agents used for such intestinal nematode infections, given to the whole household because of easy person-to-person spread. Antihelminthic therapy in First Aid also includes albendazole/mebendazole, which treat \"bendy worms\" by disrupting microtubules and cellular motility, ivermectin, praziquantel, and diethylcarbamazine.",
+  "explanation_incorrect": {
+    "A": "Praziquantel increases calcium permeability and vacuolization and is used for flukes and cestodes such as schistosomes and Taenia, not for pinworm.",
+    "B": "Metronidazole treats Giardia, Entamoeba, Trichomonas, bacterial vaginosis, and anaerobes; it has no anthelmintic activity.",
+    "C": "Chloroquine is an antimalarial that blocks heme detoxification and is not used for intestinal nematodes.",
+    "D": "Permethrin is an anti-mite and anti-louse topical therapy for scabies and lice, not an intestinal anthelmintic."
+  },
+  "educationalObjective": "Pyrantel pamoate is an antihelminthic used for intestinal nematodes such as pinworm, and household treatment is often needed.",
+  "source": "Generated from 3. Microbiology.pdf - Antimicrobials: Antiprotozoal and anthelmintic drugs"
+},
+{
+  "id": "micro-018",
+  "subject": "Microbiology",
+  "major_topic": "Antimicrobials",
+  "subtopic": "Antiprotozoal and anthelmintic drugs",
+  "difficulty": "hard",
+  "vignette": "A 33-year-old man with HIV has a pruritic rash with burrows in the web spaces of his fingers and itchy papules on the penis, and his roommate has the same rash. His clinician prescribes a topical agent, noting that oral ivermectin is an alternative. The clinician also explains that the same topical class is used for lice.",
+  "question": "Which of the following best describes the anti-mite and anti-louse agents in First Aid?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Metronidazole and tinidazole are the primary topical agents for scabies and lice"
+    },
+    {
+      "id": "B",
+      "text": "Permethrin and malathion are antifolate agents used for scabies, with ivermectin acting on the 30S ribosome"
+    },
+    {
+      "id": "C",
+      "text": "Permethrin, malathion, and ivermectin"
+    },
+    {
+      "id": "D",
+      "text": "Griseofulvin and terbinafine treat scabies by inhibiting squalene epoxidase"
+    },
+    {
+      "id": "E",
+      "text": "Ivermectin increases calcium permeability and causes vacuolization of the parasite"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "First Aid lists permethrin, malathion, and topical or oral ivermectin as the anti-mite and anti-louse therapies used for scabies from Sarcoptes scabiei and for lice from Pediculus and Pthirus species. Malathion acts as an acetylcholinesterase inhibitor. Oral ivermectin is a practical alternative for scabies, particularly when topical application is difficult or when many contacts require treatment.",
+  "explanation_incorrect": {
+    "A": "Nitroimidazoles such as metronidazole are for anaerobic bacteria and protozoa such as Trichomonas and Giardia, not scabies or lice.",
+    "B": "Permethrin and malathion are not antifolate agents, and ivermectin does not act on the bacterial 30S ribosome.",
+    "D": "Griseofulvin and terbinafine are antifungals used for dermatophytoses such as tinea and onychomycosis, not for mites.",
+    "E": "Increased calcium permeability with vacuolization describes praziquantel, which is used for flukes and cestodes."
+  },
+  "educationalObjective": "Permethrin, malathion (an acetylcholinesterase inhibitor), and topical or oral ivermectin treat scabies and lice.",
+  "source": "Generated from 3. Microbiology.pdf - Antimicrobials: Antiprotozoal and anthelmintic drugs"
+}
+]

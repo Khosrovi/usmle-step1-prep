@@ -1,0 +1,125 @@
+[
+{
+  "id": "micro-038",
+  "subject": "Microbiology",
+  "major_topic": "Antimicrobials",
+  "subtopic": "Fluoroquinolones",
+  "difficulty": "medium",
+  "vignette": "A 68-year-old man with a Pseudomonas aeruginosa urinary tract infection is prescribed ciprofloxacin. He also takes prednisone for polymyalgia rheumatica and reports that he has been taking his calcium carbonate supplement and drinking milk with each dose. Three weeks later he presents with sudden posterior ankle pain and inability to bear weight, and ultrasound shows an Achilles tendon rupture.",
+  "question": "Which of the following best explains this adverse effect and the drugs involved?",
+  "options": [
+    {
+      "id": "A",
+      "text": "DNA gyrase inhibition with tendon rupture in older patients on steroids"
+    },
+    {
+      "id": "B",
+      "text": "Fluoroquinolones form a disulfiram-like reaction that damages tendon collagen"
+    },
+    {
+      "id": "C",
+      "text": "Fluoroquinolones are beta-lactams that activate autolytic enzymes in tenocytes"
+    },
+    {
+      "id": "D",
+      "text": "Fluoroquinolones inhibit dihydrofolate reductase, depleting folate needed for tendon repair"
+    },
+    {
+      "id": "E",
+      "text": "Fluoroquinolones inhibit the 50S ribosome and cause tendon rupture through impaired collagen synthesis"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Fluoroquinolones are bactericidal inhibitors of prokaryotic topoisomerase II (DNA gyrase) and topoisomerase IV, covering gram-negative rods of the urinary and GI tracts including Pseudomonas. They can cause tendinitis or tendon rupture, particularly in people older than 60 and in those taking prednisone, which is the mnemonic that fluoroquinolones hurt attachments to your bones. Concurrent divalent cations such as dairy and antacids also markedly decrease oral absorption, which may have reduced this patient's drug levels.",
+  "explanation_incorrect": {
+    "B": "A disulfiram-like reaction belongs to metronidazole and some cephalosporins, and it produces flushing and hypotension rather than tendon injury.",
+    "C": "Beta-lactams activate autolytic enzymes to lyse bacteria; fluoroquinolones do not act on the cell wall, and their toxicity is not mediated by autolysins.",
+    "D": "Dihydrofolate reductase inhibition is trimethoprim's mechanism, which produces megaloblastic anemia rather than tendinopathy.",
+    "E": "Fluoroquinolones do not inhibit the 50S ribosome; they target bacterial topoisomerases involved in DNA integrity."
+  },
+  "educationalObjective": "Fluoroquinolones inhibit DNA gyrase and topoisomerase IV and can cause tendinitis or tendon rupture, especially in patients over 60 and those on prednisone.",
+  "source": "Generated from 3. Microbiology.pdf - Antimicrobials: Fluoroquinolones"
+},
+{
+  "id": "micro-039",
+  "subject": "Microbiology",
+  "major_topic": "Antimicrobials",
+  "subtopic": "Fluoroquinolones",
+  "difficulty": "medium",
+  "vignette": "A 15-year-old competitive gymnast develops acute sinusitis and is prescribed a fluoroquinolone by an urgent care clinician. Her parents question the choice because she is a growing adolescent with a prior cartilage issue. The pharmacist recommends an alternative agent and explains the contraindications of the class.",
+  "question": "Which of the following best explains why fluoroquinolones should be avoided in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Cartilage damage limits use under age 18 and in pregnancy"
+    },
+    {
+      "id": "B",
+      "text": "They are contraindicated because they are teratogenic by inhibiting microtubule function"
+    },
+    {
+      "id": "C",
+      "text": "They are contraindicated because they cause disulfiram-like reactions in adolescents"
+    },
+    {
+      "id": "D",
+      "text": "They are contraindicated because they cause gray baby syndrome by failing to conjugate in the liver"
+    },
+    {
+      "id": "E",
+      "text": "They are contraindicated because they cause kernicterus in adolescents with G6PD deficiency"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Fluoroquinolones are contraindicated during pregnancy and breastfeeding and in children younger than 18 because of possible damage to cartilage, which is the reason this adolescent should receive a different agent. They may also prolong the QT interval and inhibit cytochrome P-450 (ciprofloxacin), and they can cause GI upset, superinfections, rashes, headache, and dizziness. Their bactericidal mechanism is inhibition of DNA gyrase and topoisomerase IV.",
+  "explanation_incorrect": {
+    "B": "Teratogenicity by disrupting microtubules describes griseofulvin, an antifungal, not fluoroquinolones.",
+    "C": "Disulfiram-like reactions are caused by metronidazole and some cephalosporins; the cartilage contraindication is the relevant restriction here.",
+    "D": "Gray baby syndrome comes from chloramphenicol in premature infants who lack UDP-glucuronosyltransferase.",
+    "E": "Kernicterus in infants is associated with sulfonamides, which displace bilirubin from albumin, not with fluoroquinolones."
+  },
+  "educationalObjective": "Fluoroquinolones are contraindicated in children under 18 and in pregnancy or breastfeeding because of possible cartilage damage.",
+  "source": "Generated from 3. Microbiology.pdf - Antimicrobials: Fluoroquinolones"
+},
+{
+  "id": "micro-040",
+  "subject": "Microbiology",
+  "major_topic": "Antimicrobials",
+  "subtopic": "Fluoroquinolones",
+  "difficulty": "medium",
+  "vignette": "A 55-year-old man is treated with levofloxacin for community-acquired pneumonia. After 2 days he reports palpitations, and telemetry shows a prolonged QT interval. The pharmacist also notes that he has been taking aluminum hydroxide antacids frequently for dyspepsia, and his clinical response has been poor. The microbiology report shows a Pseudomonas isolate susceptible to ciprofloxacin only at high MIC.",
+  "question": "Which of the following statements about fluoroquinolone pharmacology and resistance is most accurate?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Concurrent divalent cations enhance absorption; resistance results solely from ribosomal methylation"
+    },
+    {
+      "id": "B",
+      "text": "Fluoroquinolones are inactivated by beta-lactamases, and resistance arises from carbapenemase production"
+    },
+    {
+      "id": "C",
+      "text": "Cations reduce absorption; gyrase mutation and efflux cause resistance"
+    },
+    {
+      "id": "D",
+      "text": "Fluoroquinolones require activation by viral thymidine kinase, and resistance arises from mutated thymidine kinase"
+    },
+    {
+      "id": "E",
+      "text": "Fluoroquinolones are bacteriostatic, and resistance arises from plasmid-encoded acetyltransferase"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Concurrent ingestion of divalent cations such as dairy and antacids markedly decreases oral fluoroquinolone absorption, which explains this patient's poor response. Resistance can be chromosome-encoded mutation in DNA gyrase, plasmid-mediated, or through efflux pumps. The class is bactericidal and some agents prolong the QT interval; ciprofloxacin also inhibits cytochrome P-450.",
+  "explanation_incorrect": {
+    "A": "Divalent cations chelate fluoroquinolones and reduce absorption, and ribosomal methylation is the macrolide resistance mechanism.",
+    "B": "Fluoroquinolones are not beta-lactams and are not hydrolyzed by beta-lactamases or carbapenemases.",
+    "D": "Activation by viral thymidine kinase pertains to acyclovir, an antiviral guanosine analog.",
+    "E": "They are bactericidal, and acetyltransferase-mediated inactivation is the chloramphenicol resistance mechanism."
+  },
+  "educationalObjective": "Divalent cations reduce fluoroquinolone absorption, and resistance arises from DNA gyrase mutation, plasmid-mediated resistance, or efflux pumps.",
+  "source": "Generated from 3. Microbiology.pdf - Antimicrobials: Fluoroquinolones"
+}
+]

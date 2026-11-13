@@ -1,0 +1,84 @@
+[
+{
+  "id": "micro-151",
+  "subject": "Microbiology",
+  "major_topic": "Clinical Bacteriology",
+  "subtopic": "Enterococcus",
+  "difficulty": "medium",
+  "vignette": "A 72-year-old man is admitted after elective cystoscopy and transurethral resection of a bladder tumor. He has chronic kidney disease and an indwelling urinary catheter. On postoperative day 5 he develops fever, dysuria, and flank pain. Urine culture grows gram-positive cocci that are catalase negative, PYR positive, nonhemolytic, and able to grow in 6.5% sodium chloride and in bile, with esculin hydrolysis.",
+  "question": "Which of the following organisms is most likely responsible?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Streptococcus pneumoniae"
+    },
+    {
+      "id": "B",
+      "text": "Enterococcus faecalis"
+    },
+    {
+      "id": "C",
+      "text": "Streptococcus gallolyticus"
+    },
+    {
+      "id": "D",
+      "text": "Staphylococcus saprophyticus"
+    },
+    {
+      "id": "E",
+      "text": "Streptococcus agalactiae"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Enterococci (E faecalis and E faecium) are normal colonic microbiota that cause UTI, biliary tract infection, and infective endocarditis, typically after GI or GU procedures. They are catalase negative, PYR positive, and typically nonhemolytic, and they are hardier than streptococci, growing in 6.5% NaCl and in bile, which is the key laboratory discriminator.",
+  "explanation_incorrect": {
+    "A": "Streptococcus pneumoniae is an α-hemolytic, optochin-sensitive, bile-soluble diplococcus and is not a urinary pathogen.",
+    "C": "Streptococcus gallolyticus is a group D organism linked to colon cancer and infective endocarditis, more often seen with biliary disease and bacteremia than with post-cystoscopy UTI.",
+    "D": "Staphylococcus saprophyticus is catalase positive, coagulase negative, and novobiocin resistant, and it is a community-acquired cause of cystitis in young women.",
+    "E": "Streptococcus agalactiae is β-hemolytic, bacitracin resistant, CAMP and hippurate positive, and PYR negative; it does not grow in 6.5% NaCl as reliably as enterococci."
+  },
+  "educationalObjective": "Enterococcus is catalase negative, PYR positive, and uniquely tolerant of 6.5% NaCl and bile, causing UTI after GU procedures and endocarditis after GI or GU procedures.",
+  "source": "Generated from 3. Microbiology.pdf - Clinical Bacteriology: Enterococcus"
+},
+{
+  "id": "micro-152",
+  "subject": "Microbiology",
+  "major_topic": "Clinical Bacteriology",
+  "subtopic": "Enterococcus",
+  "difficulty": "medium",
+  "vignette": "A 63-year-old woman with end-stage renal disease on hemodialysis and multiple prior hospitalizations develops persistent fever and a new murmur. Blood cultures grow Enterococcus faecium that is resistant to vancomycin and ampicillin. She previously received 6 weeks of vancomycin for a catheter-associated infection.",
+  "question": "Which of the following best explains why this organism is inherently difficult to treat with penicillin-based therapy?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Intrinsic low-level resistance that makes penicillin G alone ineffective"
+    },
+    {
+      "id": "B",
+      "text": "Failure to grow in routine culture media"
+    },
+    {
+      "id": "C",
+      "text": "Production of a β-lactamase that destroys all penicillins"
+    },
+    {
+      "id": "D",
+      "text": "An outer membrane that excludes hydrophilic β-lactams"
+    },
+    {
+      "id": "E",
+      "text": "Altered peptidoglycan precursors with d-alanine–d-lactate termini"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Enterococci are intrinsically resistant to penicillin G, so penicillin monotherapy is not adequate; combination therapy with a cell wall agent plus an aminoglycoside is classic for enterococcal endocarditis. VRE are an important cause of healthcare-associated infection, and in this patient prior vancomycin exposure bred resistance in a gut organism that was a normal colonizer.",
+  "explanation_incorrect": {
+    "B": "Enterococci grow readily on standard media, including the ability to grow in 6.5% NaCl and bile; culture failure is not the issue here.",
+    "C": "β-lactamase production is not the basis of intrinsic enterococcal resistance; the intrinsic mechanism is low-affinity penicillin-binding targets rather than enzymatic drug destruction.",
+    "D": "Enterococci are gram-positive organisms without an outer membrane, so porin-based exclusion of β-lactams cannot explain their resistance.",
+    "E": "Altered precursors ending in d-alanine–d-lactate are the mechanism of acquired vancomycin resistance, which explains the VRE phenotype but not the intrinsic penicillin resistance."
+  },
+  "educationalObjective": "Enterococci are intrinsically resistant to penicillin G and are a major source of healthcare-associated infection; vancomycin resistance is a separate, acquired mechanism.",
+  "source": "Generated from 3. Microbiology.pdf - Clinical Bacteriology: Enterococcus"
+}
+]

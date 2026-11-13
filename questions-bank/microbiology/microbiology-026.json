@@ -1,0 +1,166 @@
+[
+{
+  "id": "micro-086",
+  "subject": "Microbiology",
+  "major_topic": "Basic Bacteriology",
+  "subtopic": "Bacterial structures and function",
+  "difficulty": "medium",
+  "vignette": "A 62-year-old man with a chronic indwelling urinary catheter develops fever and cloudy urine. Urine culture grows Pseudomonas aeruginosa. The catheter surface is covered with an adherent multilayered community of organisms embedded in a loose network of polysaccharides.",
+  "question": "Which bacterial structure most directly accounts for the adherent, device-associated community in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Spore coat"
+    },
+    {
+      "id": "B",
+      "text": "Sex pilus"
+    },
+    {
+      "id": "C",
+      "text": "Slime (S) layer"
+    },
+    {
+      "id": "D",
+      "text": "Lipoteichoic acid"
+    },
+    {
+      "id": "E",
+      "text": "Periplasmic space"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "The slime (S) layer is a loose network of polysaccharides that mediates adherence to surfaces and plays a key role in biofilm formation on indwelling catheters and prosthetic devices. Pseudomonas aeruginosa is the classic respiratory-tract biofilm former in cystic fibrosis and ventilator-associated pneumonia, but the principle of a polysaccharide matrix on foreign material is general. Capsule and slime are both polysaccharide envelope layers, yet only the slime layer is described as loose and adherence/biomfilm oriented, while the capsule is a discrete antiphagocytic layer. The looser matrix reflects the glycan-rich extracellular material that makes device infections so hard to eradicate.",
+  "explanation_incorrect": {
+    "A": "A spore coat is the keratinlike, dipicolinic-acid-containing covering that makes Bacillus and Clostridium spores resistant to heat and chemicals; it is a dormant survival form, not biofilm matrix.",
+    "B": "A sex pilus is the specialized appendage that forms during conjugation, drawing F+ and F- cells together so a single strand of plasmid DNA crosses the mating bridge; it is a mating structure, not a component of a surface biofilm.",
+    "D": "Lipoteichoic acid is a gram-positive surface molecule that induces TNF-alpha and IL-1 and has no role in forming a polysaccharide matrix on plastic; Pseudomonas is gram-negative and lacks it entirely.",
+    "E": "The periplasm is the space between the cytoplasmic and outer membranes in gram-negative organisms where peptidoglycan sits and beta-lactamases accumulate; it is a compartment, not an adherent extracellular material."
+  },
+  "educationalObjective": "The slime (S) layer is the loose polysaccharide network that drives biofilm formation and adherence to inert surfaces such as catheters.",
+  "source": "Generated from 3. Microbiology.pdf - Basic Bacteriology: Bacterial structures and function"
+},
+{
+  "id": "micro-087",
+  "subject": "Microbiology",
+  "major_topic": "Basic Bacteriology",
+  "subtopic": "Bacterial structures and function",
+  "difficulty": "easy",
+  "vignette": "A medical student is reviewing the bacterial structures table. She is asked about the role of the sex pilus, a structure distinct from the ordinary fimbriae used for surface adherence.",
+  "question": "What is the principal function of the sex pilus in bacteria?",
+  "options": [
+    {
+      "id": "A",
+      "text": "To anchor lipopolysaccharide in the outer membrane"
+    },
+    {
+      "id": "B",
+      "text": "To provide motility and allow directional movement in viscous environments"
+    },
+    {
+      "id": "C",
+      "text": "To resist osmotic pressure and dehydration"
+    },
+    {
+      "id": "D",
+      "text": "To recognize and import naked DNA from the environment"
+    },
+    {
+      "id": "E",
+      "text": "To form the conjugal bridge through which plasmid DNA is transferred"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Pili or fimbriae are glycoprotein appendages that mediate adherence of bacteria to host cell surfaces, and a specialized sex pilus forms during conjugation. In F+ x F- conjugation, the F+ bacterium's sex pilus contacts the F- recipient and a single strand of plasmid DNA passes across the conjugal (mating) bridge; no chromosomal DNA is transferred in this simple F+ x F- event. The same pilus therefore serves as the physical conduit for horizontal gene transfer of plasmids, which is the classic trick that spreads resistance genes. The distinction from ordinary fimbriae is functional: adherence pili bind host glycoproteins, whereas the sex pilus mediates cell-to-cell contact for mating.",
+  "explanation_incorrect": {
+    "A": "Lipid A anchors LPS in the outer leaflet of the outer membrane of gram-negative bacteria, and this membrane assembly does not use pili.",
+    "B": "The flagellum, not the sex pilus, is the organelle of motility; it is a protein appendage whose rotation propels the cell.",
+    "C": "Rigid support against osmotic pressure is provided by the peptidoglycan cell wall, whose sugar backbone is cross-linked by transpeptidase; bacterial spores and thick coats handle dehydration.",
+    "D": "Recognition and import of naked environmental DNA is the defining step of transformation, a feature of competent organisms such as S pneumoniae, H influenzae type b, and Neisseria."
+  },
+  "educationalObjective": "The sex pilus is a specialized pilus encoded by the F plasmid that forms the conjugal bridge for plasmid DNA transfer during conjugation.",
+  "source": "Generated from 3. Microbiology.pdf - Basic Bacteriology: Bacterial structures and function"
+},
+{
+  "id": "micro-088",
+  "subject": "Microbiology",
+  "major_topic": "Basic Bacteriology",
+  "subtopic": "Bacterial structures and function",
+  "difficulty": "medium",
+  "vignette": "A 4-year-old boy has a sore throat, fever, and a swollen tonsil with a whitish exudate. A rapid antigen test identifies group A streptococcus (Streptococcus pyogenes). The physician explains that many of this organism's surface components are antigenic and immunologically active.",
+  "question": "Which envelope component of this organism is a surface molecule that induces TNF-alpha and IL-1 directly, and is found only in gram-positive organisms?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Porin trimers"
+    },
+    {
+      "id": "B",
+      "text": "Lipoteichoic acid"
+    },
+    {
+      "id": "C",
+      "text": "The O polysaccharide of LPS"
+    },
+    {
+      "id": "D",
+      "text": "Peptidoglycan cross-linked by transpeptidase"
+    },
+    {
+      "id": "E",
+      "text": "Lipid A of the outer membrane"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Lipoteichoic acids are found only in gram-positive organisms and extend from the cytoplasmic membrane all the way to the exterior of the cell. They induce TNF-alpha and IL-1, contributing to the inflammatory response and to the toxic-shock-like syndromes seen with gram-positive infections (for example the S aureus and S pyogenes superantigen illnesses). The underlying architecture is that gram-positive cells have a single, thick peptidoglycan wall with teichoic and lipoteichoic acids threaded through it, with no outer membrane. Because these acids are proinflammatory rather than protective, they are distinct from the antiphagocytic capsule that also decorates some of these organisms.",
+  "explanation_incorrect": {
+    "A": "Porins are outer membrane proteins of gram-negative bacteria that transport small molecules across the outer membrane and are antigenic; they are absent in gram-positive organisms.",
+    "C": "The O polysaccharide is the antigenic component of gram-negative LPS and determines serotype; gram-positive organisms have no outer membrane.",
+    "D": "Peptidoglycan is present in both gram-positive and gram-negative organisms and is the rigid support layer; its recognition by host pattern receptors is not the specific gram-positive-only molecule described.",
+    "E": "Lipid A is the toxic component of LPS and is found in gram-negative organisms only; it induces TNF, IL-1, and IL-6 but is not a gram-positive surface molecule."
+  },
+  "educationalObjective": "Lipoteichoic acid is unique to gram-positive organisms, spans from the membrane to the exterior, and induces TNF-alpha and IL-1.",
+  "source": "Generated from 3. Microbiology.pdf - Basic Bacteriology: Bacterial structures and function"
+},
+{
+  "id": "micro-089",
+  "subject": "Microbiology",
+  "major_topic": "Basic Bacteriology",
+  "subtopic": "Bacterial structures and function",
+  "difficulty": "hard",
+  "vignette": "A 58-year-old patient with cirrhosis and recurrent gram-negative bacteremia receives intravenous antibiotics. One morning he is hypotensive, feverish, with acrocyanosis. The team notes that several hours of intravenous antibiotic therapy have already been given, and the shock is attributed to components released from the dying organisms.",
+  "question": "Which structural component of these bacteria is most directly responsible for the fever, hypotension, and DIC?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Lipid A of lipopolysaccharide"
+    },
+    {
+      "id": "B",
+      "text": "Peptidoglycan peptide side chains"
+    },
+    {
+      "id": "C",
+      "text": "The slime layer"
+    },
+    {
+      "id": "D",
+      "text": "Lipoteichoic acid"
+    },
+    {
+      "id": "E",
+      "text": "The spore coat"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Lipopolysaccharide consists of an O antigen plus a core polysaccharide plus lipid A, and lipid A is the toxic fragment that signals through TLR4/CD14. The consequence is macrophage activation with release of TNF, IL-1, and IL-6 (fever, hypotension), activation of complement (C3a and C5a with histamine release, edema), and activation of tissue factor with DIC. Endotoxin is extremely heat stable, is not secreted but released when cells are lysed or from blebs on living cells, and it is poorly antigenic so no toxoid or vaccine exists. Neisseria species make lipooligosaccharide (LOS) instead of classical LPS, but the lipid A still drives the same response.",
+  "explanation_incorrect": {
+    "B": "Peptidoglycan provides rigid support against osmotic pressure; although fragments are immunostimulatory, the fever-hypotension-DIC triad is the classic endotoxin (lipid A) effect.",
+    "C": "The slime layer is a loose polysaccharide network for adherence and biofilm formation, with no role in the cytokinone-driven shock physiology described.",
+    "D": "Lipoteichoic acid does induce TNF-alpha and IL-1 but is a gram-positive molecule; the organisms here are gram-negative, whose shock is LPS-mediated.",
+    "E": "A spore coat is the keratinlike, heat-resistant outer layer of bacterial spores formed by Bacillus and Clostridium; it neither causes nor protects against endotoxin shock."
+  },
+  "educationalObjective": "Lipid A of LPS is the toxic moiety that induces TNF, IL-1, and IL-6, producing fever, shock, and DIC in gram-negative infection.",
+  "source": "Generated from 3. Microbiology.pdf - Basic Bacteriology: Bacterial structures and function"
+}
+]

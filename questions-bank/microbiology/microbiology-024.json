@@ -1,0 +1,166 @@
+[
+{
+  "id": "micro-080",
+  "subject": "Microbiology",
+  "major_topic": "Basic Bacteriology",
+  "subtopic": "Bacterial genetics: transformation, transduction, conjugation",
+  "difficulty": "medium",
+  "vignette": "In a teaching laboratory, a competent strain of Streptococcus pneumoniae is incubated with purified DNA extracted from a penicillin-resistant strain. After incubation, 2% of the recipient cells become resistant. When deoxyribonuclease (DNase) is added to the same mixture, no resistant colonies appear.",
+  "question": "Which mechanism of horizontal gene transfer explains these results?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Specialized transduction"
+    },
+    {
+      "id": "B",
+      "text": "Transformation"
+    },
+    {
+      "id": "C",
+      "text": "Transposition"
+    },
+    {
+      "id": "D",
+      "text": "Generalized transduction"
+    },
+    {
+      "id": "E",
+      "text": "Conjugation"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Transformation is the uptake and expression of short pieces of naked environmental bacterial DNA, usually from lysed donor cells, by a competent bacterium. Because the DNA is naked, DNase degrades it and prevents transformation, which is exactly what the experiment shows. SHiN organisms - S pneumoniae, H influenzae type b, and Neisseria - are the classic examples of naturally competent bacteria. This mechanism is one reason penicillin resistance can spread among pneumococci without any phage or plasmid transfer.",
+  "explanation_incorrect": {
+    "A": "Specialized transduction requires a lysogenic phage that excises flanking bacterial genes; it is unaffected by DNase and needs a prophage.",
+    "C": "Transposition is a \"jumping\" process in which a transposon copies or excises itself and inserts elsewhere in the same or an unrelated DNA molecule; it is not uptake of environmental DNA.",
+    "D": "Generalized transduction requires a lytic phage to package bacterial DNA in capsids; adding DNase would not abolish it, and no phage is present here.",
+    "E": "Conjugation requires cell-to-cell contact and a sex pilus, and transfers plasmid DNA across a mating bridge; free DNA in the medium is not used."
+  },
+  "educationalObjective": "Transformation is DNase-sensitive uptake of naked DNA by competent bacteria such as S pneumoniae, H influenzae type b, and Neisseria (SHiN).",
+  "source": "Generated from 3. Microbiology.pdf - Basic Bacteriology: Bacterial genetics: transformation, transduction, conjugation"
+},
+{
+  "id": "micro-081",
+  "subject": "Microbiology",
+  "major_topic": "Basic Bacteriology",
+  "subtopic": "Bacterial genetics: transformation, transduction, conjugation",
+  "difficulty": "medium",
+  "vignette": "Two strains of E coli are mixed in culture: one carries an F+ plasmid with genes for the sex pilus and conjugation, the other is F-. After mating, the recipient becomes F+ and acquires the plasmid, but no chromosomal markers are transferred.",
+  "question": "Which of the following best characterizes this F+ x F- event?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A defective phage capsid packages donor chromosomal DNA"
+    },
+    {
+      "id": "B",
+      "text": "Naked DNA is bound and imported by a competent recipient"
+    },
+    {
+      "id": "C",
+      "text": "A transposon copies itself and inserts into a new site in the chromosome"
+    },
+    {
+      "id": "D",
+      "text": "A lysogenic phage excises with flanking bacterial genes"
+    },
+    {
+      "id": "E",
+      "text": "A single strand of plasmid DNA is transferred across a conjugal bridge"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "In F+ x F- conjugation, the F+ cell's sex pilus contacts the F- cell and a single strand of the F plasmid crosses the conjugal bridge; the recipient becomes F+ but gains no chromosomal DNA. This is the simplest form of conjugation, distinct from Hfr x F-, in which the integrated F plasmid drags along flanking chromosomal genes so the recipient stays F- but may become recombinant for bacterial genes. Because plasmid transfer is efficient and plasmids often carry resistance cassettes, conjugation is a major route for spreading antibiotic resistance among gram-negative organisms.",
+  "explanation_incorrect": {
+    "A": "Phage capsid packaging of host DNA describes generalized transduction, which transfers chromosomal rather than plasmid markers through a lytic phage.",
+    "B": "Uptake of naked DNA describes transformation, which is also chromosomal and does not require a mating bridge.",
+    "C": "Transposition moves a transposon within or between DNA molecules without a donor-recipient cell apparatus and does not create an F+ strain.",
+    "D": "Excision of a prophage with flanking genes is specialized transduction, which is viral and transfers chromosomal genes."
+  },
+  "educationalObjective": "F+ x F- conjugation transfers a single plasmid strand through the sex pilus, making the recipient F+ without transferring chromosomal DNA.",
+  "source": "Generated from 3. Microbiology.pdf - Basic Bacteriology: Bacterial genetics: transformation, transduction, conjugation"
+},
+{
+  "id": "micro-082",
+  "subject": "Microbiology",
+  "major_topic": "Basic Bacteriology",
+  "subtopic": "Bacterial genetics: transformation, transduction, conjugation",
+  "difficulty": "hard",
+  "vignette": "In a hospital outbreak, a strain of E coli carrying a plasmid with ampicillin resistance is mixed in a culture with a chromosomally marked recipient. After the culture grows, the recipient acquires both the plasmid resistance gene and, rarely, chromosomal markers adjacent to an integrated F plasmid sequence. The recipient remains unable to transfer the plasmid on its own.",
+  "question": "Which process produced the rare recombinant that carries adjacent chromosomal markers?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A transposon must copy or excise itself and insert into an unrelated DNA molecule"
+    },
+    {
+      "id": "B",
+      "text": "The process requires a lytic phage and a capsid packaging error involving host DNA"
+    },
+    {
+      "id": "C",
+      "text": "The recipient must be competent and the donor DNA must be free in the surrounding medium"
+    },
+    {
+      "id": "D",
+      "text": "A lysogenic phage must integrate as a prophage and later excise with flanking genes"
+    },
+    {
+      "id": "E",
+      "text": "Naked DNA is bound and imported by a naturally competent recipient bacterium"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "When the F plasmid becomes incorporated into the bacterial chromosome the cell is called a high-frequency recombination (Hfr) cell. During Hfr x F- mating the leading portion of the plasmid is transferred along with a few flanking chromosomal genes, so the recipient may recombine those bacterial genes while remaining F-. This is a legitimate conduit for chromosomal gene spread and reflects why the F plasmid is described as a fertility factor. The clue is the linkage of the integrated plasmid to the transferred chromosomal markers.",
+  "explanation_incorrect": {
+    "A": "Lysogenic conversion is the expression of phage-encoded genes (e.g., toxin genes) by a lysogenized bacterium; no chromosomal marker transfer occurs.",
+    "B": "Generalized transduction uses a lytic phage with a packaging error and produces random chromosomal transfer, not transfer of genes flanking an integrated plasmid.",
+    "C": "Transformation takes up naked DNA from the environment and does not depend on an integrated F plasmid or a mating bridge.",
+    "D": "Specialized transduction requires a lysogenic phage and transfers genes at the prophage integration site, typically toxin genes."
+  },
+  "educationalObjective": "Hfr cells carry an integrated F plasmid and transfer the leading plasmid portion plus flanking chromosomal genes, generating recombinants that remain F-.",
+  "source": "Generated from 3. Microbiology.pdf - Basic Bacteriology: Bacterial genetics: transformation, transduction, conjugation"
+},
+{
+  "id": "micro-083",
+  "subject": "Microbiology",
+  "major_topic": "Basic Bacteriology",
+  "subtopic": "Bacterial genetics: transformation, transduction, conjugation",
+  "difficulty": "easy",
+  "vignette": "A genetics instructor is contrasting bacterial gene transfer methods. She asks students to match each mechanism with its key molecular requirement, emphasizing that one method transfers bacterial DNA through a phage capsid after a packaging error.",
+  "question": "Which mode of gene transfer is described as a \"packaging error\" of a lytic phage?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Generalized transduction"
+    },
+    {
+      "id": "B",
+      "text": "Conjugation"
+    },
+    {
+      "id": "C",
+      "text": "Transposition"
+    },
+    {
+      "id": "D",
+      "text": "Specialized transduction"
+    },
+    {
+      "id": "E",
+      "text": "Transformation"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "In generalized transduction a lytic phage infects a bacterium, cleaves the bacterial DNA, and by packaging error some pieces of host chromosomal DNA are enclosed in phage capsids. Those phages then infect another bacterium and deliver the bacterial genes. Any bacterial gene can in principle be transferred this way, in contrast to specialized transduction where only genes adjacent to the prophage integration site are carried. Distinguishing \"packaging error\" (generalized) from \"excision event\" (specialized) is the classic exam hook.",
+  "explanation_incorrect": {
+    "B": "Conjugation requires contact through a sex pilus and transfers plasmid DNA; no capsid is involved.",
+    "C": "Transposition is a jumping process that moves a transposon between DNA molecules without a phage.",
+    "D": "Specialized transduction is an excision event in which a lysogenic phage carries flanking bacterial genes; it is not a packaging error but a site-specific error of excision.",
+    "E": "Transformation is uptake of naked DNA by competent cells and involves no phage."
+  },
+  "educationalObjective": "Generalized transduction is a lytic phage packaging error that can transfer random bacterial chromosomal genes.",
+  "source": "Generated from 3. Microbiology.pdf - Basic Bacteriology: Bacterial genetics: transformation, transduction, conjugation"
+}
+]

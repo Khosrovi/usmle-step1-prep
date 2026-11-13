@@ -1,0 +1,84 @@
+[
+{
+  "id": "micro-283",
+  "subject": "Microbiology",
+  "major_topic": "Basic Bacteriology",
+  "subtopic": "Specialized transduction and lysogenic conversion",
+  "difficulty": "medium",
+  "vignette": "A 3-year-old child with bloody diarrhea develops pallor, thrombocytopenia, and acute kidney injury. Stool culture grows Shiga toxin-producing E coli O157:H7. The laboratory notes that the toxin gene is carried on a temperate bacteriophage integrated into the bacterial chromosome.",
+  "question": "Which process allowed this bacterial strain to acquire the Shiga toxin gene?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Lysogenic conversion after specialized transduction"
+    },
+    {
+      "id": "B",
+      "text": "Conjugation through the sex pilus"
+    },
+    {
+      "id": "C",
+      "text": "Generalized transduction packaging a random fragment"
+    },
+    {
+      "id": "D",
+      "text": "Transposition of a transposon into the chromosome"
+    },
+    {
+      "id": "E",
+      "text": "Transformation with naked DNA from lysed cells"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "A lysogenic (temperate) phage integrates its DNA into the bacterial chromosome. When the prophage later excises, it may take flanking bacterial genes with it; when the excised DNA is a phage-borne toxin gene and the recipient expresses it, the phenomenon is lysogenic conversion. The five classic phage-encoded toxins are the ABCD'S: group A streptococcal erythrogenic toxin, Botulinum toxin, Cholera toxin, Diphtheria toxin, and Shiga toxin. In Shiga toxin-producing E coli, infection by a toxin-carrying phage converted a harmless commensal into a pathogen that causes bloody diarrhea and hemolytic-uremic syndrome through toxin-mediated injury, even though EHEC does not invade host cells.",
+  "explanation_incorrect": {
+    "B": "Conjugation transfers plasmid DNA through a sex pilus and does not insert phage DNA into the chromosome.",
+    "C": "Generalized transduction carries random chromosomal fragments from a packaging error; it would not deliver a specific phage-encoded toxin gene.",
+    "D": "A transposon jump does not require phage integration; the Shiga toxin gene here is explicitly phage encoded.",
+    "E": "Transformation is uptake of naked DNA by competent organisms such as S pneumoniae, H influenzae type b, and Neisseria; it does not involve a temperate phage."
+  },
+  "educationalObjective": "Lysogenic conversion via specialized transduction gives bacteria phage-encoded toxins; the classic five are the ABCD'S toxins.",
+  "source": "Generated from 3. Microbiology.pdf - Basic Bacteriology: Specialized transduction and lysogenic conversion"
+},
+{
+  "id": "micro-284",
+  "subject": "Microbiology",
+  "major_topic": "Basic Bacteriology",
+  "subtopic": "Specialized transduction and lysogenic conversion",
+  "difficulty": "hard",
+  "vignette": "A 70-year-old woman with non-Hodgkin lymphoma treated with rituximab develops profound hypogammaglobulinemia, and her ability to mount antitoxin antibody responses is markedly reduced. She has not been immunized against tetanus or diphtheria in decades. She is exposed to a patient with diphtheria and asks whether she can be protected.",
+  "question": "Why does prior vaccination with a toxoid provide protection against the systemic effects of this organism?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Generalized transduction packaging a random chromosomal fragment in a capsid"
+    },
+    {
+      "id": "B",
+      "text": "An excision event of a lysogenic phage during specialized transduction"
+    },
+    {
+      "id": "C",
+      "text": "Transposition of a mobile genetic element into the bacterial chromosome"
+    },
+    {
+      "id": "D",
+      "text": "Toxoids are live attenuated organisms that outcompete the wild type"
+    },
+    {
+      "id": "E",
+      "text": "Transformation with naked DNA released from the lysed bacterial cells"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Exotoxins are strongly antigenic and induce high-titer antibodies called antitoxins, and heat- or chemically-inactivated exotoxins (toxoids) are used as vaccines for tetanus and diphtheria. Protection is therefore humoral and depends on an intact B-cell compartment, which is exactly why rituximab-induced hypogammaglobulinemia markedly blunts it. Diphtheria toxin inactivates elongation factor 2 by ADP-ribosylation, and antitoxin neutralizes the secreted toxin; killing of the organism requires antibiotics. This pairing of toxoid vaccines with antitoxin therapy is a classic board association.",
+  "explanation_incorrect": {
+    "A": "A polysaccharide antigen alone cannot be presented to T cells; that is why capsule antigens must be conjugated to carrier proteins, and toxoids are proteins anyway.",
+    "C": "Lipid A is endotoxin and is neither the basis of toxoids nor a protective antigen, since endotoxin is poorly antigenic.",
+    "D": "Toxoid vaccines contain no living organism; they rely on an inactivated toxin to elicit antitoxin, so colonization is not their mechanism.",
+    "E": "Toxoid vaccines are chemically inactivated protein toxins, not phage particles, and they work through humoral antitoxin, not interferon."
+  },
+  "educationalObjective": "Toxoids are inactivated exotoxins that induce protective antitoxins; humoral immunity, not toxin structure, determines protection.",
+  "source": "Generated from 3. Microbiology.pdf - Basic Bacteriology: Specialized transduction and lysogenic conversion"
+}
+]

@@ -1,0 +1,125 @@
+[
+{
+  "id": "micro-214",
+  "subject": "Microbiology",
+  "major_topic": "Clinical Bacteriology",
+  "subtopic": "Listeria monocytogenes",
+  "difficulty": "medium",
+  "vignette": "A 28-year-old woman at 30 weeks of gestation presents with 2 days of fever, myalgias, and mild watery diarrhea. She reports eating soft unpasteurized cheese and cold deli meats at a party last week. Fetal heart tracing is concerning for distress, and ultrasound shows decreased amniotic fluid. Blood cultures grow a gram-positive rod that grows well at refrigeration temperature.",
+  "question": "Which of the following best explains how this organism spreads from cell to cell while avoiding antibody?",
+  "options": [
+    {
+      "id": "A",
+      "text": "IgA protease cleaving mucosal antibodies at the placental interface"
+    },
+    {
+      "id": "B",
+      "text": "ADP-ribosylation of elongation factor 2 in host cells"
+    },
+    {
+      "id": "C",
+      "text": "Formation of heat-resistant endospores that survive in macrophages"
+    },
+    {
+      "id": "D",
+      "text": "Polypeptide capsule of poly d-glutamate preventing opsonization"
+    },
+    {
+      "id": "E",
+      "text": "Actin polymerization producing rocket tails for direct cell-to-cell movement"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Listeria monocytogenes is a facultative intracellular rod that forms rocket tails by polymerizing host actin, allowing it to move within the cytoplasm and spread directly into adjacent cells across membranes without ever entering the extracellular space, thereby avoiding antibody. Listeriolysin generates pores in the phagosome so the organism can escape into the cytoplasm, and it survives cold enrichment in refrigerated foods.",
+  "explanation_incorrect": {
+    "A": "IgA protease is produced by pneumococcus, Neisseria, and Haemophilus to degrade mucosal antibody, and it is not the mechanism of placental or cell-to-cell spread.",
+    "B": "ADP-ribosylation of elongation factor 2 is the mechanism of diphtheria toxin and Pseudomonas exotoxin A; Listeria does not use it to enter neighboring cells.",
+    "C": "Listeria does not form endospores; spore formation is the hallmark of Bacillus and Clostridium species, and spores are not the mechanism of intracellular spread.",
+    "D": "A poly d-glutamate polypeptide capsule is characteristic of Bacillus anthracis and does not mediate the actin-based motility described."
+  },
+  "educationalObjective": "Listeria spreads cell to cell using actin rocket tails, avoiding antibody, and is acquired from unpasteurized dairy and cold deli meats.",
+  "source": "Generated from 3. Microbiology.pdf - Clinical Bacteriology: Listeria monocytogenes"
+},
+{
+  "id": "micro-215",
+  "subject": "Microbiology",
+  "major_topic": "Clinical Bacteriology",
+  "subtopic": "Listeria monocytogenes",
+  "difficulty": "medium",
+  "vignette": "A 68-year-old man with a kidney transplant on chronic immunosuppression presents with 3 days of fever, headache, and confusion. He has no focal neurologic deficit and no rash. Cerebrospinal fluid shows a lymphocytic pleocytosis with elevated protein and normal glucose. Blood cultures grow a gram-positive rod that shows tumbling motility in broth.",
+  "question": "Which of the following is the most appropriate treatment for this infection?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Ceftriaxone"
+    },
+    {
+      "id": "B",
+      "text": "Vancomycin plus ceftazidime"
+    },
+    {
+      "id": "C",
+      "text": "Doxycycline"
+    },
+    {
+      "id": "D",
+      "text": "Ampicillin"
+    },
+    {
+      "id": "E",
+      "text": "Trimethoprim-sulfamethoxazole"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "This is Listeria monocytogenes meningitis in an immunocompromised older adult, and the treatment is ampicillin. Listeria is a facultative intracellular gram-positive rod that causes meningitis in immunocompromised patients, neonates, and older adults, and it also grows readily at refrigeration temperatures, which is why cold deli meats and unpasteurized dairy are the classic sources.",
+  "explanation_incorrect": {
+    "A": "Ceftriaxone is the backbone of empiric meningitis therapy for pneumococcus and meningococcus but is not reliably active against Listeria, which is why ampicillin is added for high-risk patients.",
+    "B": "Vancomycin plus ceftazidime covers gram-positive and gram-negative hospital organisms, but vancomycin is not a first-line agent for listerial meningitis and ceftazidime does not cover it either.",
+    "C": "Doxycycline is used for rickettsial disease, borreliosis, and chlamydia, none of which produce this picture, and it is not the drug of choice for Listeria.",
+    "E": "Trimethoprim-sulfamethoxazole is the treatment for Nocardia and for Pneumocystis, and although it has activity against Listeria it is reserved for penicillin-allergic patients rather than being first line."
+  },
+  "educationalObjective": "Listeria monocytogenes meningitis is treated with ampicillin and occurs in immunocompromised patients, neonates, and older adults.",
+  "source": "Generated from 3. Microbiology.pdf - Clinical Bacteriology: Listeria monocytogenes"
+},
+{
+  "id": "micro-216",
+  "subject": "Microbiology",
+  "major_topic": "Clinical Bacteriology",
+  "subtopic": "Listeria monocytogenes",
+  "difficulty": "hard",
+  "vignette": "A 33-year-old woman who is 22 weeks pregnant has a spontaneous abortion. Placental cultures grow a gram-positive rod that is catalase positive. Histology of the products of conception shows microabscesses and granulomatous inflammation. She recalls eating refrigerated smoked seafood and unpasteurized cheese several times during the pregnancy.",
+  "question": "Which of the following best accounts for this organism's propensity to cause fetal loss in pregnancy?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Toxin-mediated destruction of the placenta by an ADP-ribosylating exotoxin"
+    },
+    {
+      "id": "B",
+      "text": "Hematogenous spread from a gram-negative mucosal infection"
+    },
+    {
+      "id": "C",
+      "text": "Direct ascending infection from the vaginal canal only"
+    },
+    {
+      "id": "D",
+      "text": "Antibody-mediated complement activation on the trophoblast"
+    },
+    {
+      "id": "E",
+      "text": "Transplacental transmission after ingestion of contaminated food"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Listeria monocytogenes is acquired by ingestion of unpasteurized dairy products and cold deli meats and can also be transmitted transplacentally and by vaginal transmission during birth. In pregnant patients it causes amnionitis, sepsis, and spontaneous abortion, and in the fetus and neonate it produces granulomatosis infantiseptica. Its ability to grow at refrigeration temperatures, called cold enrichment, is why refrigerated ready-to-eat foods are the classic vehicles.",
+  "explanation_incorrect": {
+    "A": "Listeria does not cause fetal loss through an ADP-ribosylating exotoxin; that mechanism belongs to diphtheria toxin and Pseudomonas exotoxin A, which are not listerial products.",
+    "B": "Listeria is a gram-positive rod, not a gram-negative mucosal organism, and its intracellular lifestyle is central to its placental tropism rather than a gram-negative endotoxin mechanism.",
+    "C": "Vaginal transmission during birth can occur but does not explain infection in the second trimester; transplacental spread from ingested contaminated food accounts for this presentation.",
+    "D": "Complement activation on trophoblasts is not described as the mechanism of listerial placentitis; the organism invades cells directly and spreads cell to cell while avoiding antibody."
+  },
+  "educationalObjective": "Listeria monocytogenes is acquired from unpasteurized dairy and cold deli meats, grows at refrigeration temperatures, and causes amnionitis and spontaneous abortion via transplacental spread.",
+  "source": "Generated from 3. Microbiology.pdf - Clinical Bacteriology: Listeria monocytogenes"
+}
+]

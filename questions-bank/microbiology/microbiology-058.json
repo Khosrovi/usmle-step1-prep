@@ -1,0 +1,207 @@
+[
+{
+  "id": "micro-176",
+  "subject": "Microbiology",
+  "major_topic": "Virology",
+  "subtopic": "Hepatitis A and B",
+  "difficulty": "medium",
+  "vignette": "A 27-year-old man presents with 5 days of fever, nausea, anorexia, and right upper quadrant discomfort, followed by dark urine and jaundice. ALT is 1450 U/L and bilirubin is 5.2 mg/dL. He returned 4 weeks ago from a trip to Central America and recalls eating raw shellfish at a beach restaurant. Serology is positive for IgM anti-HAV and negative for HBsAg.",
+  "question": "Which of the following best explains why hepatitis A is not destroyed by gastric acid and small bowel contents?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It establishes a chronic carrier state that shields it from digestive enzymes"
+    },
+    {
+      "id": "B",
+      "text": "It is a hepadnavirus whose DNA polymerase repairs acid-induced capsid damage"
+    },
+    {
+      "id": "C",
+      "text": "It enters through the respiratory tract and only later reaches the liver hematogenously"
+    },
+    {
+      "id": "D",
+      "text": "It is an enveloped picornavirus that is stabilized by the lipid bilayer at low pH"
+    },
+    {
+      "id": "E",
+      "text": "It is a naked virus that lacks an envelope, resisting the gut, whereas hepatitis B is parenterally transmitted"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Hepatitis A is a naked positive-sense ssRNA picornavirus, and naked viruses are not destroyed by the gut; the mnemonic is that the vowels (A and E) hit your bowels. Its transmission is fecal-oral, classically via shellfish, contaminated water, travelers, and day care outbreaks, and it causes acute self-limited hepatitis with IgM anti-HAV as the best acute marker and no carrier state.",
+  "explanation_incorrect": {
+    "A": "HAV has no carrier state; chronic carriage is a feature of hepatitis B and C, not A.",
+    "B": "HAV is a picornavirus, not a hepadnavirus; HAV has no DNA polymerase or reverse transcriptase.",
+    "C": "HAV transmission is fecal-oral; respiratory spread is not a described route.",
+    "D": "HAV is nonenveloped; a lipid envelope would make it more, not less, vulnerable to acid and detergents."
+  },
+  "educationalObjective": "Hepatitis A is a naked picornavirus transmitted fecal-orally with no carrier state and no chronic disease, unlike the parenterally spread hepatitis B hepadnavirus.",
+  "source": "Generated from 3. Microbiology.pdf - Virology: Hepatitis A and B"
+},
+{
+  "id": "micro-177",
+  "subject": "Microbiology",
+  "major_topic": "Virology",
+  "subtopic": "Hepatitis A and B",
+  "difficulty": "hard",
+  "vignette": "A 62-year-old man is seen for fatigue and mild jaundice. Laboratory studies show positive HBsAg, positive IgG anti-HBc, positive anti-HBe, and negative IgM anti-HBc. His ALT is mildly elevated. He has been followed for 3 years with persistently positive HBsAg.",
+  "question": "Which of the following best interprets this serologic pattern?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Chronic hepatitis B with low transmissibility, indicated by anti-HBe positivity"
+    },
+    {
+      "id": "B",
+      "text": "Resolved hepatitis B with no residual virus"
+    },
+    {
+      "id": "C",
+      "text": "Hepatitis D superinfection with suppressed HBV markers"
+    },
+    {
+      "id": "D",
+      "text": "Acute hepatitis B in the window period, with IgM anti-HBc pending"
+    },
+    {
+      "id": "E",
+      "text": "Immunity from prior hepatitis B vaccination alone"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Persistent HBsAg beyond 6 months indicates chronic infection, and IgG anti-HBc confirms prior exposure; IgM anti-HBc would mark acute infection. Anti-HBe appears when HBeAg is cleared and indicates low transmissibility with a better prognosis. The HBeAg/anti-HBe axis reflects active viral replication, since HBeAg is secreted into the circulation and is not part of the mature virion.",
+  "explanation_incorrect": {
+    "B": "Resolved infection would show anti-HBs and anti-HBc positivity with negative HBsAg; persistent HBsAg means ongoing infection.",
+    "C": "HDV superinfection would show HDV markers such as anti-HDV; it does not produce isolated anti-HBe positivity as the explanation for chronic HBsAg carriage.",
+    "D": "During the window period HBsAg has cleared and IgM anti-HBc may be the sole marker; here HBsAg and IgG anti-HBc are both positive and the pattern has persisted for years.",
+    "E": "Vaccination produces anti-HBs without anti-HBc, because anti-HBc requires infection with intact virus, not the surface antigen vaccine."
+  },
+  "educationalObjective": "Chronic hepatitis B is defined by HBsAg positivity beyond 6 months with IgG anti-HBc; anti-HBe positivity indicates low transmissibility and a better prognosis.",
+  "source": "Generated from 3. Microbiology.pdf - Virology: Hepatitis A and B"
+},
+{
+  "id": "micro-178",
+  "subject": "Microbiology",
+  "major_topic": "Virology",
+  "subtopic": "Hepatitis A and B",
+  "difficulty": "medium",
+  "vignette": "A 24-year-old woman who works as a nurse sustains a needlestick injury from a patient known to have chronic hepatitis B. She has no record of vaccination and her baseline serology shows negative HBsAg, negative anti-HBs, and negative anti-HBc.",
+  "question": "Which of the following serologic results would document successful hepatitis B vaccination rather than natural infection?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Positive anti-HBs with negative anti-HBc"
+    },
+    {
+      "id": "B",
+      "text": "Positive anti-HBc (IgG) with negative anti-HBs"
+    },
+    {
+      "id": "C",
+      "text": "Positive HBeAg with negative anti-HBs"
+    },
+    {
+      "id": "D",
+      "text": "Positive HBsAg with positive IgM anti-HBc"
+    },
+    {
+      "id": "E",
+      "text": "Positive IgM anti-HAV with negative anti-HBs"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Anti-HBs indicates immunity to hepatitis B from vaccination or from recovery after infection, and it protects against reinfection. Vaccination uses surface antigen only, so anti-HBc never appears; anti-HBc requires infection with whole virus. Isolated anti-HBs therefore marks vaccine-induced immunity, whereas anti-HBs plus anti-HBc marks recovery from natural infection.",
+  "explanation_incorrect": {
+    "B": "Anti-HBc positivity indicates infection with intact virions rather than vaccination, and without anti-HBs this pattern suggests remote or chronic infection rather than immunity.",
+    "C": "HBeAg reflects active viral replication and high transmissibility; it is never a marker of immunity from vaccine.",
+    "D": "HBsAg with IgM anti-HBc indicates acute hepatitis B infection, which is the outcome to be prevented, not evidence of protection.",
+    "E": "IgM anti-HAV is the best test for acute hepatitis A and says nothing about hepatitis B immunity."
+  },
+  "educationalObjective": "Anti-HBs alone indicates vaccine immunity, whereas anti-HBs plus anti-HBc indicates immunity from natural infection; the vaccine contains only surface antigen and never induces anti-HBc.",
+  "source": "Generated from 3. Microbiology.pdf - Virology: Hepatitis A and B"
+},
+{
+  "id": "micro-179",
+  "subject": "Microbiology",
+  "major_topic": "Virology",
+  "subtopic": "Hepatitis A and B",
+  "difficulty": "hard",
+  "vignette": "A 30-year-old woman presents with fever, arthralgias, and a urticarial rash, followed 1 week later by jaundice. Serology shows HBsAg positive, IgM anti-HBc positive, anti-HBs negative, and HBeAg positive. Liver biopsy shows hepatocytes with a granular eosinophilic ground-glass appearance.",
+  "question": "Which of the following best explains the ground-glass hepatocyte appearance and the high transmissibility in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Iron deposition in periportal hepatocytes secondary to chronic hemolysis"
+    },
+    {
+      "id": "B",
+      "text": "Accumulation of hepatitis B surface antigen within infected hepatocytes, with HBeAg indicating active replication"
+    },
+    {
+      "id": "C",
+      "text": "Macrovesicular steatosis with lymphoid aggregates typical of hepatitis C"
+    },
+    {
+      "id": "D",
+      "text": "Councilman bodies from hepatocyte apoptosis, which are specific to hepatitis A"
+    },
+    {
+      "id": "E",
+      "text": "Cytopathic destruction of hepatocytes directly by HBsAg, without a T-cell response"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "In hepatitis B, the ground-glass hepatocyte appearance results from accumulation of surface antigen within infected hepatocytes, and injury is mediated by cytotoxic T cells rather than direct cytopathic effect. HBeAg is secreted into the circulation, indicates active viral replication, and therefore predicts high transmissibility and a poorer prognosis. The serum-sickness-like prodrome of fever, arthralgias, and rash is a classic early HBV presentation.",
+  "explanation_incorrect": {
+    "A": "Iron deposition with periportal hepatocytes describes hemochromatosis, which is unrelated to acute icteric hepatitis B.",
+    "C": "Lymphoid aggregates with focal macrovesicular steatosis describe hepatitis C histology, not the ground-glass change of hepatitis B.",
+    "D": "Councilman bodies are eosinophilic apoptotic globules seen in hepatitis A and yellow fever; they are not the ground-glass finding.",
+    "E": "HBV is not directly cytopathic; cytotoxic T cells mediate the hepatocyte damage, which is why immunosuppression can produce high viral loads with little inflammation."
+  },
+  "educationalObjective": "Ground-glass hepatocytes reflect surface antigen accumulation in hepatitis B, damage is T-cell mediated, and HBeAg marks active replication with high transmissibility.",
+  "source": "Generated from 3. Microbiology.pdf - Virology: Hepatitis A and B"
+},
+{
+  "id": "micro-180",
+  "subject": "Microbiology",
+  "major_topic": "Virology",
+  "subtopic": "Hepatitis A and B",
+  "difficulty": "medium",
+  "vignette": "A 34-year-old man with chronic hepatitis B is evaluated for proteinuria and edema. Renal biopsy shows a membranous glomerulonephropathy pattern. He also reports episodes of myalgias and skin nodules, and biopsy of a small artery shows transmural inflammation consistent with polyarteritis nodosa.",
+  "question": "Which of the following best accounts for these extrahepatic findings?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Essential mixed cryoglobulinemia due to chronic hepatitis C"
+    },
+    {
+      "id": "B",
+      "text": "Immune complex deposition associated with chronic hepatitis B"
+    },
+    {
+      "id": "C",
+      "text": "Direct cytopathic infection of renal podocytes and medium arteries by HBV"
+    },
+    {
+      "id": "D",
+      "text": "Aplastic anemia caused by parvovirus B19 coinfection"
+    },
+    {
+      "id": "E",
+      "text": "Leukocytoclastic vasculitis related to hepatitis C with B-cell non-Hodgkin lymphoma"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Chronic hepatitis B is associated with membranous glomerulonephritis, which is more common than membranoproliferative GN, and with polyarteritis nodosa, a necrotizing vasculitis of medium vessels. These extrahepatic manifestations are immune complex mediated rather than a direct viral cytopathic effect. Hepatitis C shows the mirror-image pattern: membranoproliferative GN is more common than membranous and essential mixed cryoglobulinemia is classic.",
+  "explanation_incorrect": {
+    "A": "Essential mixed cryoglobulinemia and an increased risk of B-cell non-Hodgkin lymphoma are hepatitis C associations, not hepatitis B.",
+    "C": "These lesions reflect circulating immune complex deposition; HBV does not directly infect podocytes or medium-sized arteries to cause this pattern.",
+    "D": "Aplastic anemia is a described hematologic manifestation of hepatitis B, but it does not explain membranous nephropathy or polyarteritis nodosa.",
+    "E": "Leukocytoclastic vasculitis is listed under hepatitis C extrahepatic manifestations, along with the lymphoma risk."
+  },
+  "educationalObjective": "Hepatitis B causes membranous GN and polyarteritis nodosa by immune complex deposition, whereas hepatitis C causes membranoproliferative GN, mixed cryoglobulinemia, and B-cell lymphoma.",
+  "source": "Generated from 3. Microbiology.pdf - Virology: Hepatitis A and B"
+}
+]

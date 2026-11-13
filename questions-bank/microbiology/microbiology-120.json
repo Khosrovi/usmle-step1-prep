@@ -1,0 +1,125 @@
+[
+{
+  "id": "micro-362",
+  "subject": "Microbiology",
+  "major_topic": "Clinical Bacteriology",
+  "subtopic": "Vibrio cholerae",
+  "difficulty": "medium",
+  "vignette": "A 24-year-old man in a developing country with no access to clean water develops the sudden onset of profuse, painless, watery diarrhea that looks like cloudy rice water, followed by vomiting. Over 12 hours he produces more than 10 liters of stool and becomes profoundly dehydrated with sunken eyes, poor skin turgor, and hypovolemic shock. He is afebrile and has no blood in the stool.",
+  "question": "Which of the following best describes the mechanism of this diarrhea?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Direct damage of enterocytes by toxins A and B"
+    },
+    {
+      "id": "B",
+      "text": "Permanent activation of Gs with increased intracellular cAMP"
+    },
+    {
+      "id": "C",
+      "text": "Invasion of colonic mucosa with ulceration and bloody stools"
+    },
+    {
+      "id": "D",
+      "text": "Cleavage of SNARE proteins in enterocytes"
+    },
+    {
+      "id": "E",
+      "text": "ADP-ribosylation of elongation factor 2 in enterocytes"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Cholera toxin permanently activates Gs, raising intracellular cAMP and driving profuse rice-water secretory diarrhea. Vibrio cholerae is a comma-shaped, flagellated, oxidase-positive organism that grows in alkaline media and is sensitive to stomach acid, requiring a large inoculum unless gastric acidity is reduced. Prompt treatment with oral rehydration solution is the mainstay.",
+  "explanation_incorrect": {
+    "A": "Damage of enterocytes by toxins A and B is the mechanism of Clostridioides difficile, which produces colitis rather than painless watery diarrhea without inflammation.",
+    "C": "Mucosal invasion with ulceration and bloody stools describes Shigella and enteroinvasive E coli, whereas cholera is purely toxin mediated with no mucosal invasion.",
+    "D": "Cleavage of SNARE proteins is the mechanism of clostridial neurotoxins and does not occur in enterocytes, which are unaffected cytoplasmically in cholera.",
+    "E": "ADP-ribosylation of elongation factor 2 inhibits protein synthesis and belongs to diphtheria toxin and Pseudomonas exotoxin A, not to cholera toxin."
+  },
+  "educationalObjective": "Cholera toxin permanently activates Gs and raises cAMP, producing profuse rice-water diarrhea that is treated promptly with oral rehydration solution.",
+  "source": "Generated from 3. Microbiology.pdf - Clinical Bacteriology: Vibrio cholerae"
+},
+{
+  "id": "micro-363",
+  "subject": "Microbiology",
+  "major_topic": "Clinical Bacteriology",
+  "subtopic": "Vibrio cholerae",
+  "difficulty": "medium",
+  "vignette": "A 62-year-old man with alcohol-associated cirrhosis and hemochromatosis presents 2 days after wading in the Gulf of Mexico with a rapidly spreading, painful, bullous cellulitis of the lower leg, fever, and hypotension. Surgical exploration shows necrosis extending through the fascia, and cultures grow a gram-negative bacillus. He requires debridement and intensive care.",
+  "question": "Which of the following best explains his high risk for this severe infection?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Inhalation of aerosolized organisms from air conditioning systems"
+    },
+    {
+      "id": "B",
+      "text": "Elevated serum iron favoring a marine gram-negative organism"
+    },
+    {
+      "id": "C",
+      "text": "Acid-labile organisms surviving because of reduced gastric acidity"
+    },
+    {
+      "id": "D",
+      "text": "Antibiotic-associated loss of colonic colonization resistance"
+    },
+    {
+      "id": "E",
+      "text": "Reduced IgA after ingestion of contaminated shellfish"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "This is Vibrio vulnificus infection, a gram-negative bacillus found in marine environments that causes severe wound infection or septicemia after exposure to contaminated seawater. High-risk patients are those with high serum iron, such as patients with cirrhosis or hemochromatosis, and the cellulitis can progress to necrotizing fasciitis, requiring surgical debridement.",
+  "explanation_incorrect": {
+    "A": "Aerosol transmission from environmental water such as air conditioning systems describes Legionella pneumophila pneumonia, not a wound infection after seawater exposure.",
+    "C": "Reduced gastric acidity raises cholera risk by permitting survival of acid-labile Vibrio cholerae, but that mechanism explains gastrointestinal infection rather than this necrotizing wound.",
+    "D": "Loss of colonization resistance after antibiotics predisposes to Clostridioides difficile colitis, not to marine wound infection.",
+    "E": "Ingestion of contaminated shellfish can transmit cholera and other vibrios, but this patient's wound was from seawater, and high iron rather than low IgA explains the severe course."
+  },
+  "educationalObjective": "Vibrio vulnificus causes severe seawater wound infections and septicemia in patients with high serum iron such as cirrhosis or hemochromatosis.",
+  "source": "Generated from 3. Microbiology.pdf - Clinical Bacteriology: Vibrio cholerae"
+},
+{
+  "id": "micro-364",
+  "subject": "Microbiology",
+  "major_topic": "Clinical Bacteriology",
+  "subtopic": "Vibrio cholerae",
+  "difficulty": "easy",
+  "vignette": "An outbreak of profuse watery diarrhea affects dozens of residents of a coastal village where drinking water is drawn from a contaminated river. The public health team collects stool specimens to confirm the cause. In the laboratory, the organism grows best in an alkaline medium and is oxidase positive with a comma shape on Gram stain.",
+  "question": "Which of the following organisms is most likely responsible for this outbreak?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Entamoeba histolytica"
+    },
+    {
+      "id": "B",
+      "text": "Campylobacter jejuni"
+    },
+    {
+      "id": "C",
+      "text": "Shigella sonnei"
+    },
+    {
+      "id": "D",
+      "text": "Vibrio cholerae"
+    },
+    {
+      "id": "E",
+      "text": "Salmonella typhi"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Vibrio cholerae is a gram-negative, flagellated, comma-shaped, oxidase-positive organism that grows in alkaline media and is endemic to developing countries. It is transmitted by ingestion of contaminated water or uncooked food such as raw shellfish, and it produces profuse rice-water diarrhea through a toxin that raises cAMP.",
+  "explanation_incorrect": {
+    "A": "Entamoeba histolytica is a protozoan parasite that causes invasive amebic colitis with bloody stools and liver abscesses, not an oxidase-positive bacterial rod.",
+    "B": "Campylobacter jejuni is also curved with polar flagella and oxidase positive, but it characteristically grows at 42°C and causes bloody diarrhea rather than rice-water stool.",
+    "C": "Shigella sonnei is nonmotile, does not grow selectively in alkaline media, and causes bacillary dysentery with bloody mucoid stools and tenesmus.",
+    "E": "Salmonella typhi produces H2S, spreads hematogenously, and causes typhoid fever with a truncal rash rather than a cholera outbreak of rice-water diarrhea."
+  },
+  "educationalObjective": "Vibrio cholerae is a comma-shaped, oxidase-positive organism that grows in alkaline media and causes epidemic rice-water diarrhea.",
+  "source": "Generated from 3. Microbiology.pdf - Clinical Bacteriology: Vibrio cholerae"
+}
+]

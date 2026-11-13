@@ -1,0 +1,125 @@
+[
+{
+  "id": "micro-035",
+  "subject": "Microbiology",
+  "major_topic": "Antimicrobials",
+  "subtopic": "Beta-lactamase inhibitors and carbapenems",
+  "difficulty": "medium",
+  "vignette": "A 70-year-old man in the intensive care unit has septic shock from a carbapenemase-producing Klebsiella pneumoniae. The microbiology laboratory reports that the isolate is resistant to imipenem and meropenem. The infectious disease consultant explains that carbapenemases hydrolyze the beta-lactam ring and that combination agents with novel inhibitors may be required.",
+  "question": "Which of the following mechanisms explains the resistance observed?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Methylation of 23S rRNA-binding site preventing drug attachment"
+    },
+    {
+      "id": "B",
+      "text": "Modification of D-Ala-D-Ala to D-Ala-D-Lac in the cell wall precursor"
+    },
+    {
+      "id": "C",
+      "text": "Point mutation in ribosomal RNA that prevents drug binding"
+    },
+    {
+      "id": "D",
+      "text": "Carbapenemase hydrolysis of the beta-lactam ring"
+    },
+    {
+      "id": "E",
+      "text": "Reduced uptake of drug due to loss of the outer membrane porin alone"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Carbapenem resistance in this setting is due to carbapenemases such as KPC produced by K pneumoniae, E coli, and Klebsiella aerogenes, which hydrolyze the beta-lactam ring. First Aid lists this as the resistance mechanism for the carbapenem class. Beta-lactamase inhibitors were developed specifically to protect beta-lactams from this kind of enzymatic destruction.",
+  "explanation_incorrect": {
+    "A": "23S rRNA methylation confers macrolide resistance, not carbapenem resistance.",
+    "B": "Modification of D-Ala-D-Ala to D-Ala-D-Lac is the vancomycin resistance mechanism in enterococci, not a carbapenem resistance mechanism.",
+    "C": "Ribosomal RNA point mutation confers linezolid resistance, an entirely different drug class.",
+    "E": "Porin loss reduces drug entry but is not the mechanism emphasized for carbapenems; enzymatic hydrolysis by carbapenemases is the defining resistance mechanism for this class."
+  },
+  "educationalObjective": "Carbapenem resistance arises from carbapenemases such as KPC that hydrolyze the beta-lactam ring, which is why inhibitor combinations are used.",
+  "source": "Generated from 3. Microbiology.pdf - Antimicrobials: Beta-lactamase inhibitors and carbapenems"
+},
+{
+  "id": "micro-036",
+  "subject": "Microbiology",
+  "major_topic": "Antimicrobials",
+  "subtopic": "Beta-lactamase inhibitors and carbapenems",
+  "difficulty": "medium",
+  "vignette": "A 58-year-old woman requires treatment for a life-threatening mixed anaerobic and gram-negative intra-abdominal infection. She is given imipenem, and the pharmacist explains that it is always coadministered with cilastatin. Two days later she develops confusion and myoclonic jerks, and the team attributes this to drug accumulation.",
+  "question": "Why is imipenem always administered with cilastatin, and what is the reason for the neurologic symptoms?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Cilastatin blocks hepatic metabolism, and the seizures reflect hypoglycemia from hepatic failure"
+    },
+    {
+      "id": "B",
+      "text": "Cilastatin prevents nephrotoxicity by chelating the drug in the bladder, and the seizures are from hypocalcemia"
+    },
+    {
+      "id": "C",
+      "text": "Cilastatin blocks renal dehydropeptidase I; seizures occur at high levels"
+    },
+    {
+      "id": "D",
+      "text": "Cilastatin is an aminoglycoside given for synergy, and the seizures are due to ototoxicity"
+    },
+    {
+      "id": "E",
+      "text": "Cilastatin is a beta-lactamase inhibitor that extends imipenem's spectrum to MRSA and VRE"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Imipenem is a broad-spectrum beta-lactamase-resistant carbapenem that binds penicillin-binding proteins, and it is always given with cilastatin, an inhibitor of renal dehydropeptidase I, to reduce inactivation of the drug in renal tubules: \"the kill is lastin' with cilastatin.\" Carbapenem adverse effects are GI distress, rash, and CNS toxicity including seizures at high plasma levels, which is why meropenem, with a lower seizure risk and stability to dehydropeptidase I, may be preferred.",
+  "explanation_incorrect": {
+    "A": "Cilastatin acts in the kidney on dehydropeptidase I rather than blocking hepatic metabolism, and the neurologic findings reflect carbapenem CNS toxicity rather than hypoglycemia.",
+    "B": "Cilastatin is not a chelator, and carbapenem seizures are a direct CNS effect of high drug levels rather than a consequence of hypocalcemia.",
+    "D": "Cilastatin is a dehydropeptidase inhibitor, not an aminoglycoside, and aminoglycoside toxicity affects hearing and kidneys rather than causing seizures.",
+    "E": "Cilastatin is not a beta-lactamase inhibitor; AVIBACTAM, clavulanic acid, sulbactam, and tazobactam are the CAST inhibitors, and carbapenems do not cover MRSA or VRE."
+  },
+  "educationalObjective": "Imipenem is given with cilastatin to inhibit renal dehydropeptidase I; carbapenems can cause seizures at high plasma concentrations.",
+  "source": "Generated from 3. Microbiology.pdf - Antimicrobials: Beta-lactamase inhibitors and carbapenems"
+},
+{
+  "id": "micro-037",
+  "subject": "Microbiology",
+  "major_topic": "Antimicrobials",
+  "subtopic": "Beta-lactamase inhibitors and carbapenems",
+  "difficulty": "medium",
+  "vignette": "A 66-year-old man with a complicated diverticular abscess needs broad anaerobic and gram-negative coverage. The stewardship team recommends ertapenem instead of imipenem because of once-daily dosing and a specific spectrum limitation that is acceptable here. A medical student asks which beta-lactamase inhibitor combinations exist and what bacteria they target.",
+  "question": "Which of the following statements about beta-lactamase inhibitors and carbapenem coverage is most accurate?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Tazobactam is a cephalosporin that replaces piperacillin in the combination"
+    },
+    {
+      "id": "B",
+      "text": "CAST inhibitors protect partner drugs; ertapenem misses Pseudomonas"
+    },
+    {
+      "id": "C",
+      "text": "Clavulanate is a carbapenem used alone for Pseudomonas and MRSA"
+    },
+    {
+      "id": "D",
+      "text": "Ertapenem is the only carbapenem with reliable Pseudomonas coverage"
+    },
+    {
+      "id": "E",
+      "text": "Beta-lactamase inhibitors have intrinsic bactericidal activity and are used as monotherapy"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Beta-lactamase inhibitors include clavulanic acid, avibactam, sulbactam, and tazobactam, remembered as CAST and exemplified by amoxicillin-clavulanate, ceftazidime-avibactam, ampicillin-sulbactam, and piperacillin-tazobactam; they have little intrinsic activity and exist to protect the partner penicillin from destruction. Carbapenems cover gram-positive cocci, gram-negative rods, and anaerobes, but unlike the others, ertapenem lacks Pseudomonas activity, which is why it was acceptable for this abscess.",
+  "explanation_incorrect": {
+    "A": "Tazobactam is a beta-lactamase inhibitor, not a cephalosporin, and it is added to protect piperacillin rather than to replace it.",
+    "C": "Clavulanic acid is a beta-lactamase inhibitor, not a carbapenem, and it has no meaningful activity against Pseudomonas or MRSA on its own.",
+    "D": "It is the opposite: ertapenem is the carbapenem that does not cover Pseudomonas, whereas imipenem and meropenem do.",
+    "E": "Beta-lactamase inhibitors have negligible antibacterial activity by themselves and must be paired with a partner beta-lactam."
+  },
+  "educationalObjective": "CAST inhibitors (clavulanate, avibactam, sulbactam, tazobactam) protect partner beta-lactams, and ertapenem is the carbapenem without Pseudomonas coverage.",
+  "source": "Generated from 3. Microbiology.pdf - Antimicrobials: Beta-lactamase inhibitors and carbapenems"
+}
+]

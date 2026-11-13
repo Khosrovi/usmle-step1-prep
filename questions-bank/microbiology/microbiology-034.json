@@ -1,0 +1,166 @@
+[
+{
+  "id": "micro-108",
+  "subject": "Microbiology",
+  "major_topic": "Parasitology",
+  "subtopic": "Cestodes: Taenia, Diphyllobothrium, Echinococcus",
+  "difficulty": "medium",
+  "vignette": "A 52-year-old woman presents with 6 months of dull right upper quadrant discomfort and progressive abdominal fullness. She raises sheep on a family farm in rural Peru and lives with three herding dogs. Examination shows a palpable liver edge. Abdominal CT reveals a large, well-defined cystic lesion in the right hepatic lobe with internal septations and thin peripheral calcification. Enzyme immunoassay for the suspected organism is positive.",
+  "question": "Which of the following is the most appropriate medical therapy for this patient's condition?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Niclosamide"
+    },
+    {
+      "id": "B",
+      "text": "Surgical resection of the right hepatic lobe performed immediately"
+    },
+    {
+      "id": "C",
+      "text": "Praziquantel"
+    },
+    {
+      "id": "D",
+      "text": "Metronidazole plus paromomycin"
+    },
+    {
+      "id": "E",
+      "text": "Albendazole"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "The lesion is a hydatid cyst of Echinococcus granulosus, acquired by ingesting eggs from food contaminated with dog feces, with sheep serving as the intermediate host - precisely the farm exposure described. The eggshell calcification pattern and the liver or lung location are typical, and because cyst rupture can cause anaphylaxis, needle aspiration is avoided. First Aid lists albendazole as the medical agent, reserving surgery for complicated cysts.",
+  "explanation_incorrect": {
+    "A": "Niclosamide is paired with praziquantel for Diphyllobothrium latum, the tapeworm that competes for vitamin B12, so it targets a different cestode.",
+    "B": "Immediate resection risks puncturing the hydatid cyst and precipitating anaphylaxis, so the First Aid approach is albendazole with surgery limited to complicated cysts.",
+    "C": "Praziquantel is the treatment for the other cestodes Taenia and Diphyllobothrium and for Schistosoma and Clonorchis, but First Aid lists albendazole for Echinococcus.",
+    "D": "Metronidazole plus paromomycin are amebiasis drugs for Entamoeba histolytica, a different liver process showing anchovy paste exudate rather than a calcified hydatid cyst."
+  },
+  "educationalObjective": "A calcified liver hydatid cyst in a patient exposed to herding dogs and sheep is Echinococcus granulosus, managed with albendazole and surgery only if complicated.",
+  "source": "Generated from 3. Microbiology.pdf - Parasitology: Cestodes: Taenia, Diphyllobothrium, Echinococcus"
+},
+{
+  "id": "micro-109",
+  "subject": "Microbiology",
+  "major_topic": "Parasitology",
+  "subtopic": "Cestodes: Taenia, Diphyllobothrium, Echinococcus",
+  "difficulty": "easy",
+  "vignette": "A 29-year-old man presents to the emergency department after two generalized tonic-clonic seizures. He is afebrile and has no focal neurologic deficit. MRI of the brain shows multiple small cystic lesions with a central dot and surrounding edema in the cerebral cortex. He grew up in rural Oaxaca, Mexico, where he ate pork frequently and lived with dogs, and where sanitation was poor.",
+  "question": "Which of the following organisms most likely caused these lesions?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Diphyllobothrium latum"
+    },
+    {
+      "id": "B",
+      "text": "Taenia solium"
+    },
+    {
+      "id": "C",
+      "text": "Echinococcus granulosus"
+    },
+    {
+      "id": "D",
+      "text": "Trichuris trichiura"
+    },
+    {
+      "id": "E",
+      "text": "Schistosoma mansoni"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Neurocysticercosis arises when Taenia solium eggs are ingested from food contaminated with human feces, and First Aid lists brain cysts with seizures as the hint association for this organism. Eggs ingested by humans produce cysticercosis, whereas eating the larval cysts in undercooked pork produces only the intestinal tapeworm. Treatment is praziquantel, with albendazole used for neurocysticercosis, and seizures require anticonvulsant therapy.",
+  "explanation_incorrect": {
+    "A": "Diphyllobothrium latum competes for vitamin B12 in the intestine and causes megaloblastic anemia, not cortical cysts with a central dot and seizures.",
+    "C": "Echinococcus granulosus produces hydatid cysts in liver and lungs after ingestion of eggs from dog feces, and it does not form the classic small cerebral cysticercal lesions.",
+    "D": "Trichuris trichiura is a whipworm acquired by ingesting eggs and it colonizes the cecum, causing loose stools, anemia, and rectal prolapse rather than brain cysts.",
+    "E": "Schistosoma mansoni causes portal hypertension and intestinal disease after cercariae penetrate skin, and it does not form cystic CNS lesions."
+  },
+  "educationalObjective": "Seizures with multiple cystic brain lesions following exposure to human feces contamination suggest Taenia solium neurocysticercosis, treated with praziquantel or albendazole.",
+  "source": "Generated from 3. Microbiology.pdf - Parasitology: Cestodes: Taenia, Diphyllobothrium, Echinococcus"
+},
+{
+  "id": "micro-110",
+  "subject": "Microbiology",
+  "major_topic": "Parasitology",
+  "subtopic": "Cestodes: Taenia, Diphyllobothrium, Echinococcus",
+  "difficulty": "medium",
+  "vignette": "A 61-year-old man from Scandinavia presents with 4 months of fatigue, symmetric tingling in both hands and feet, and unsteady gait. He eats raw salmon as gravlax several times per week. Examination shows decreased vibratory sense and impaired proprioception in the lower extremities. Laboratory studies show hemoglobin 10.1 g/dL, mean corpuscular volume 114 fL, hypersegmented neutrophils, and a low serum vitamin B12 level. Stool examination shows a long tapeworm.",
+  "question": "Which of the following best explains this patient's presentation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It forms hydatid cysts in the liver and lungs with a risk of anaphylaxis"
+    },
+    {
+      "id": "B",
+      "text": "It converts to a cystic larval stage in the brain and causes seizures"
+    },
+    {
+      "id": "C",
+      "text": "It is acquired from undercooked pork and causes intestinal obstruction"
+    },
+    {
+      "id": "D",
+      "text": "It lives as a large intestinal tapeworm that competes for vitamin B12 and causes megaloblastic anemia"
+    },
+    {
+      "id": "E",
+      "text": "It competes for folate and causes a megaloblastic anemia with hypersegmented neutrophils"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "This is Diphyllobothrium latum, the broad tapeworm acquired by ingesting larvae in raw freshwater fish such as salmon. In the intestine the worm competes with the host for vitamin B12, which is why First Aid nicknames it DiphylloB12 latum and lists megaloblastic anemia as the clue. The cobalamin deficit affects the dorsal columns, producing the paresthesias and impaired proprioception. Treatment is praziquantel or niclosamide.",
+  "explanation_incorrect": {
+    "A": "Hydatid cysts in liver and lungs describe Echinococcus granulosus from ingested dog-fecal eggs, which produces mass lesions instead of a slow-onset neurologic syndrome.",
+    "B": "Conversion to a cystic larval stage in the brain describes Taenia solium cysticercosis, which causes seizures rather than the paresthesias and ataxia of cobalamin deficiency.",
+    "C": "Intestinal obstruction from a tapeworm is not the First Aid association for Taenia solium, which is linked to cysticercosis and neurocysticercosis rather than to obstruction.",
+    "E": "The tapeworm in question depletes vitamin B12, not folate, and the hypersegmented neutrophils here reflect the cobalamin deficit that also explains the neurologic findings."
+  },
+  "educationalObjective": "Diphyllobothrium latum from raw freshwater fish competes for vitamin B12 in the intestine and causes a megaloblastic anemia with neurologic findings.",
+  "source": "Generated from 3. Microbiology.pdf - Parasitology: Cestodes: Taenia, Diphyllobothrium, Echinococcus"
+},
+{
+  "id": "micro-111",
+  "subject": "Microbiology",
+  "major_topic": "Parasitology",
+  "subtopic": "Cestodes: Taenia, Diphyllobothrium, Echinococcus",
+  "difficulty": "hard",
+  "vignette": "A 44-year-old man in a rural Alaskan village who eats raw freshwater fish regularly presents with fatigue and paresthesias. Laboratory studies confirm macrocytic anemia with a low vitamin B12 level, and stool examination shows a large tapeworm.",
+  "question": "Which of the following parasite-disease associations best explains this patient's findings?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Taenia solium, for causing seizures through neurocysticercosis"
+    },
+    {
+      "id": "B",
+      "text": "Echinococcus granulosus, for producing hydatid cysts with eggshell calcification in the liver"
+    },
+    {
+      "id": "C",
+      "text": "Diphyllobothrium latum, for vitamin B12 deficiency with megaloblastic anemia"
+    },
+    {
+      "id": "D",
+      "text": "Taenia solium, for vitamin B12 deficiency from intestinal competition"
+    },
+    {
+      "id": "E",
+      "text": "Clonorchis sinensis, for biliary tract inflammation with pigmented gallstones"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Diphyllobothrium latum is the tapeworm acquired by ingesting larvae in raw freshwater fish, and it competes with the host for vitamin B12 in the intestine, producing megaloblastic anemia - the memory hook is DiphylloB12 latum. This association appears in the First Aid parasite hints table and is a frequent test point, so distinguishing it from the other cestode associations is essential. Treatment is praziquantel or niclosamide.",
+  "explanation_incorrect": {
+    "A": "Taenia solium does cause neurocysticercosis with seizures, but that mechanism does not involve vitamin B12, and the patient has no cystic CNS lesions.",
+    "B": "Echinococcus granulosus does produce calcified hydatid cysts in liver and lungs, but this patient has a macrocytic anemia from a different tapeworm.",
+    "D": "Taenia solium is linked to brain cysts and seizures in the First Aid hints table rather than to intestinal competition for cobalamin.",
+    "E": "Clonorchis sinensis causes biliary tract inflammation with pigmented gallstones and cholangiocarcinoma, and it is a trematode rather than a tapeworm."
+  },
+  "educationalObjective": "The hint association for Diphyllobothrium latum is vitamin B12 deficiency with megaloblastic anemia, while Taenia solium means brain cysts and seizures.",
+  "source": "Generated from 3. Microbiology.pdf - Parasitology: Cestodes: Taenia, Diphyllobothrium, Echinococcus"
+}
+]

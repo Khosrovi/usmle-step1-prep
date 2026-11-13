@@ -1,0 +1,166 @@
+[
+{
+  "id": "micro-090",
+  "subject": "Microbiology",
+  "major_topic": "Basic Bacteriology",
+  "subtopic": "Bacterial virulence factors: capsules, pili, biofilms",
+  "difficulty": "medium",
+  "vignette": "A 5-year-old boy with sickle cell disease and functional asplenia presents with fever and a stiff neck. Cerebrospinal fluid Gram stain shows gram-positive diplococci, and the organism is capsulated. The team emphasizes the need for vaccines against encapsulated organisms.",
+  "question": "Why is the capsule a major determinant of virulence for these organisms?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Capsule-mediated antiphagocytosis, which prevents clearance by neutrophils and macrophages"
+    },
+    {
+      "id": "B",
+      "text": "Superantigen production that cross-links the TCR and MHC class II molecules of host cells"
+    },
+    {
+      "id": "C",
+      "text": "A type III secretion system that injects toxins directly into the cytoplasm of host cells"
+    },
+    {
+      "id": "D",
+      "text": "Biofilm formation by adherent organisms on the surface of the prosthetic device"
+    },
+    {
+      "id": "E",
+      "text": "IgA protease secretion that cleaves secreted antibody at mucosal surfaces of the host"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "The capsule is a discrete layer of polysaccharides (rarely proteins) and is a major determinant of virulence: being highly charged and hydrophilic, it acts as a barrier to phagocytosis and complement-mediated lysis. Encapsulated organisms include Pseudomonas aeruginosa, S pneumoniae, H influenzae type b, N meningitidis, E coli, Salmonella, Klebsiella pneumoniae, and group B streptococci (Please SHiNE my SKiS). They are opsonized and then cleared by the spleen, so asplenic patients (No Spleen Here) have reduced opsonizing ability and increased risk of severe infection, requiring vaccines against N meningitidis, S pneumoniae, and H influenzae.",
+  "explanation_incorrect": {
+    "B": "Sequence homology with human cardiac myosin is a feature of M protein of group A streptococci, underlying molecular mimicry in rheumatic fever.",
+    "C": "Fibronectin cleavage is not a property described for these capsules; the capsule acts as a physical and electrostatic shield.",
+    "D": "Binding the Fc region of IgG is Protein A, expressed by S aureus, not a capsule.",
+    "E": "Cleaving secretory IgA is the IgA protease activity of S pneumoniae, H influenzae type b, and Neisseria (mnemonic SHiN) - notable here as a separate mechanism."
+  },
+  "educationalObjective": "Capsules are antiphagocytic hydrophilic barriers; encapsulated organisms require splenic clearance and are the target of conjugate vaccines in asplenic patients.",
+  "source": "Generated from 3. Microbiology.pdf - Basic Bacteriology: Bacterial virulence factors: capsules, pili, biofilms"
+},
+{
+  "id": "micro-091",
+  "subject": "Microbiology",
+  "major_topic": "Basic Bacteriology",
+  "subtopic": "Bacterial virulence factors: capsules, pili, biofilms",
+  "difficulty": "medium",
+  "vignette": "A 21-year-old woman with a central venous catheter for home parenteral nutrition has recurrent bloodstream infections with Staphylococcus epidermidis. Cultures are repeatedly positive, and the catheter must eventually be removed. Workup shows the organism grows as a thick adherent layer on the catheter surface.",
+  "question": "Which virulence process is most important in this catheter-associated infection?",
+  "options": [
+    {
+      "id": "A",
+      "text": "IgA protease secretion"
+    },
+    {
+      "id": "B",
+      "text": "Biofilm formation on the prosthetic surface"
+    },
+    {
+      "id": "C",
+      "text": "Superantigen production"
+    },
+    {
+      "id": "D",
+      "text": "Type III secretion system injection of toxins"
+    },
+    {
+      "id": "E",
+      "text": "Capsule-mediated antiphagocytosis"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "S epidermidis is the classic in vivo biofilm producer for catheter and prosthetic device infections, while viridans streptococci form dental plaques and cause infective endocarditis, Pseudomonas colonizes the respiratory tree in cystic fibrosis, nontypeable H influenzae causes otitis media, and Pseudomonas causes contact lens-associated keratitis. A biofilm is a community embedded in a polysaccharide matrix (contributed by the slime layer) that resists antibiotics and host clearance, which is why infected prosthetics usually require removal. Recognizing the device-organism pairing is as important as knowing the mechanism.",
+  "explanation_incorrect": {
+    "A": "IgA protease is produced by S pneumoniae, H influenzae type b, and Neisseria (SHiN) to colonize mucosa; it does not explain persistence on a plastic catheter.",
+    "C": "Superantigens such as TSST-1 and erythrogenic exotoxin A cause fever, rash, and shock by cross-linking TCR and MHC class II; this patient has no inflammatory shock syndrome.",
+    "D": "Toxin injection systems are not the described mechanism for coagulase-negative staphylococcal device infection; adhesion and matrix production are.",
+    "E": "Some organisms do use thick capsules to resist phagocytosis, but a smooth adherent layer on a device reflects the biofilm phenotype rather than capsule-driven immune evasion."
+  },
+  "educationalObjective": "S epidermidis biofilm formation on catheters and prostheses is the classic device-associated biofilm infection and often requires device removal.",
+  "source": "Generated from 3. Microbiology.pdf - Basic Bacteriology: Bacterial virulence factors: capsules, pili, biofilms"
+},
+{
+  "id": "micro-092",
+  "subject": "Microbiology",
+  "major_topic": "Basic Bacteriology",
+  "subtopic": "Bacterial virulence factors: capsules, pili, biofilms",
+  "difficulty": "hard",
+  "vignette": "A 67-year-old man with a prosthetic heart valve and poor dentition develops fever and a new murmur. Blood cultures grow alpha-hemolytic streptococci, later identified as S mutans, and echocardiography shows a vegetation.",
+  "question": "Which virulence mechanism most directly initiates colonization of the dental surface and damaged endocardium in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "M protein that extends from the cell wall and resists phagocytosis by host neutrophils"
+    },
+    {
+      "id": "B",
+      "text": "Pili (fimbriae) that extend from the bacterial surface and mediate adherence to host cells"
+    },
+    {
+      "id": "C",
+      "text": "Capsular polysaccharide that coats the outer surface of the organism and blocks phagocytosis"
+    },
+    {
+      "id": "D",
+      "text": "Protein A that binds the Fc region of IgG on the surface of the bacterial cell"
+    },
+    {
+      "id": "E",
+      "text": "Lipid A that anchors lipopolysaccharide in the outer leaflet of the outer membrane"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Viridans streptococci (S mutans, S sanguinis) are classic in vivo biofilm producers, causing dental plaques and infective endocarditis. The biofilm on the tooth seeds bacteremia during dental manipulation, and the organisms then adhere to damaged or prosthetic endocardium. First Aid's biofilm table pairs S epidermidis with catheters and prosthetic devices, viridans streptococci with dental plaque and endocarditis, Pseudomonas with cystic fibrosis and ventilator-associated pneumonia, nontypeable H influenzae with otitis media, and Pseudomonas again with contact lens keratitis. These pairings are the high-yield test targets.",
+  "explanation_incorrect": {
+    "A": "M protein is a group A streptococcal virulence factor with molecular mimicry to cardiac myosin; these are viridans streptococci, not group A streptococci.",
+    "B": "Protein A is expressed by S aureus and binds the Fc region of IgG to prevent opsonization and phagocytosis, which is not the mechanism here.",
+    "D": "A polypeptide capsule is characteristic of Bacillus anthracis; the viridans streptococci are not described this way.",
+    "E": "Lipid A drives endotoxin responses in gram-negative sepsis and plays no part in gram-positive dental plaque or vegetation formation."
+  },
+  "educationalObjective": "Viridans streptococci form biofilms on teeth and cause infective endocarditis; learn the biofilm-organism pairings from the First Aid table.",
+  "source": "Generated from 3. Microbiology.pdf - Basic Bacteriology: Bacterial virulence factors: capsules, pili, biofilms"
+},
+{
+  "id": "micro-093",
+  "subject": "Microbiology",
+  "major_topic": "Basic Bacteriology",
+  "subtopic": "Bacterial virulence factors: capsules, pili, biofilms",
+  "difficulty": "medium",
+  "vignette": "A 4-year-old child has recurrent ear infections. The organism isolated is nontypeable, unencapsulated Haemophilus influenzae. The pediatrician explains that the adherence of this organism to respiratory mucosa depends on a surface structure that determines its tissue tropism.",
+  "question": "Which virulence factor is most directly responsible for adherence of bacteria to the respiratory mucosa?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Lipid A"
+    },
+    {
+      "id": "B",
+      "text": "Capsular polysaccharide"
+    },
+    {
+      "id": "C",
+      "text": "M protein"
+    },
+    {
+      "id": "D",
+      "text": "Pili (fimbriae)"
+    },
+    {
+      "id": "E",
+      "text": "Protein A"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Pili (fimbriae) are glycoprotein appendages that mediate adherence of bacteria to cell surfaces, which is the first mechanistic step in colonization and tissue tropism. Nontypeable, unencapsulated H influenzae is the classic cause of otitis media in young children, illustrating that adherence can be more important than encapsulation for mucosal disease. The sex pilus is a specialized version of this structure dedicated to conjugation rather than host adherence. IgA protease, which cleaves secretory IgA, is a complementary mucosal virulence factor secreted by S pneumoniae, H influenzae type b, and Neisseria.",
+  "explanation_incorrect": {
+    "A": "Lipid A activates TLR4 and drives fever, shock, and DIC in gram-negative sepsis; it does not mediate attachment.",
+    "B": "The capsule protects against phagocytosis and complement lysis; notably, this organism is unencapsulated, and the encapsulated type b capsule is antigenic rather than the adherence factor.",
+    "C": "M protein helps group A streptococci resist phagocytosis and mimics cardiac myosin; it is not the general mucosal adhesin here.",
+    "E": "Protein A binds the Fc region of IgG and is expressed by S aureus; it is an immune-evasion factor, not an adhesin for respiratory epithelium."
+  },
+  "educationalObjective": "Pili (fimbriae) mediate adherence to host cell surfaces and are central to mucosal colonization and tissue tropism.",
+  "source": "Generated from 3. Microbiology.pdf - Basic Bacteriology: Bacterial virulence factors: capsules, pili, biofilms"
+}
+]

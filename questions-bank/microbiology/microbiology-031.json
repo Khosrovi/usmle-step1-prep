@@ -1,0 +1,125 @@
+[
+{
+  "id": "micro-101",
+  "subject": "Microbiology",
+  "major_topic": "Clinical Bacteriology",
+  "subtopic": "Borrelia burgdorferi",
+  "difficulty": "medium",
+  "vignette": "A 30-year-old man from Connecticut presents in July with 5 days of fever, myalgias, and fatigue. He noticed a slowly expanding red annular rash on his thigh that began 2 weeks after hiking in the woods. He recalls removing a small tick. Examination shows a 12-cm erythematous lesion with a central clearing at the site.",
+  "question": "Which of the following is the most appropriate first-line treatment?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Amoxicillin"
+    },
+    {
+      "id": "B",
+      "text": "Azithromycin"
+    },
+    {
+      "id": "C",
+      "text": "Penicillin G intramuscularly"
+    },
+    {
+      "id": "D",
+      "text": "Doxycycline"
+    },
+    {
+      "id": "E",
+      "text": "Ceftriaxone intravenously"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "This is stage 1 early localized Lyme disease with erythema migrans, the pathognomonic bull's-eye lesion, transmitted by the Ixodes deer tick. Doxycycline is first-line therapy. Amoxicillin is the alternative for pregnant patients and children younger than 8 years, and ceftriaxone is reserved for cases requiring intravenous therapy.",
+  "explanation_incorrect": {
+    "A": "Amoxicillin is the appropriate alternative for pregnant patients and children under 8, not the first-line choice for this adult.",
+    "B": "Azithromycin is not the recommended agent for Lyme disease; doxycycline is preferred.",
+    "C": "Intramuscular penicillin G is the treatment for syphilis, not Lyme disease.",
+    "E": "Intravenous ceftriaxone is used only when intravenous therapy is required, such as severe cardiac, neurologic, or refractory disease, not for early localized erythema migrans."
+  },
+  "educationalObjective": "Early localized Lyme disease with erythema migrans is treated first-line with doxycycline, reserving amoxicillin for pregnancy and young children and ceftriaxone for cases needing IV therapy.",
+  "source": "Generated from 3. Microbiology.pdf - Clinical Bacteriology: Borrelia burgdorferi"
+},
+{
+  "id": "micro-102",
+  "subject": "Microbiology",
+  "major_topic": "Clinical Bacteriology",
+  "subtopic": "Borrelia burgdorferi",
+  "difficulty": "medium",
+  "vignette": "A 45-year-old woman from Massachusetts was treated for erythema migrans 4 weeks ago. She now returns with new multiple smaller annular skin lesions on her trunk, intermittent palpitations, and drooping of the left side of her face. An ECG shows a first-degree atrioventricular block.",
+  "question": "Which of the following best describes this stage of disease and its manifestations?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Erythema migrans recurrence due to reinfection from a new tick bite"
+    },
+    {
+      "id": "B",
+      "text": "Post-treatment Lyme disease syndrome with persistent subjective symptoms only"
+    },
+    {
+      "id": "C",
+      "text": "Early disseminated Lyme disease with secondary lesions, carditis with AV block, and facial nerve palsy"
+    },
+    {
+      "id": "D",
+      "text": "Late disseminated Lyme disease with encephalopathy and chronic arthritis"
+    },
+    {
+      "id": "E",
+      "text": "A Jarisch-Herxheimer reaction from treatment of spirochetal infection"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Stage 2 early disseminated Lyme disease occurs days to weeks after the initial infection and is characterized by secondary skin lesions, carditis with AV block, facial nerve (Bell) palsy, and migratory myalgias or transient arthritis. The mnemonic for the classic findings is facial nerve palsy, arthritis, cardiac block, and erythema migrans. Patients at this stage may require intravenous therapy such as ceftriaxone.",
+  "explanation_incorrect": {
+    "A": "Reinfection would typically present with a new erythema migrans at a tick bite site rather than multiple secondary lesions plus carditis and facial palsy.",
+    "B": "Post-treatment syndrome is a diagnosis of persistent subjective symptoms without objective findings such as AV block or cranial nerve palsy.",
+    "D": "Late disseminated disease presents months to years later with encephalopathy, chronic arthritis, and peripheral neuropathy; this patient's findings are acute and disseminated early.",
+    "E": "A Jarisch-Herxheimer reaction is a transient flulike response within hours of starting antibiotics, not a new rash with AV block weeks later."
+  },
+  "educationalObjective": "Early disseminated Lyme disease presents with secondary skin lesions, carditis with AV block, and often bilateral facial nerve palsy.",
+  "source": "Generated from 3. Microbiology.pdf - Clinical Bacteriology: Borrelia burgdorferi"
+},
+{
+  "id": "micro-103",
+  "subject": "Microbiology",
+  "major_topic": "Clinical Bacteriology",
+  "subtopic": "Borrelia burgdorferi",
+  "difficulty": "medium",
+  "vignette": "A 33-year-old landscaper from a northeastern state develops fever, chills, headache, and myalgias within 12 hours of his first dose of doxycycline for newly diagnosed Lyme disease. He has no new rash and no focal neurologic findings. His symptoms resolve within a day without further intervention.",
+  "question": "Which of the following best explains this reaction?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Development of drug-induced lupus from the tetracycline"
+    },
+    {
+      "id": "B",
+      "text": "Progression to early disseminated Lyme disease with new spirochetemia"
+    },
+    {
+      "id": "C",
+      "text": "Host inflammatory response to the sudden release of bacterial antigens after antibiotics are started"
+    },
+    {
+      "id": "D",
+      "text": "An IgE-mediated immediate hypersensitivity reaction to doxycycline"
+    },
+    {
+      "id": "E",
+      "text": "A direct endotoxin-mediated cytokine storm from gram-negative bacteremia"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "A Jarisch-Herxheimer reaction is a flulike illness with fever, chills, headache, and myalgia that occurs shortly after antibiotics are started, caused by the host response to the sudden release of bacterial antigens. It classically occurs during treatment of spirochetal infections such as Lyme disease and syphilis. It is self-limited and managed supportively.",
+  "explanation_incorrect": {
+    "A": "Drug-induced lupus develops over weeks to months with autoantibodies, not within hours of the first dose.",
+    "B": "Disseminated disease develops days to weeks after infection, whereas this reaction begins within hours of starting antibiotics and resolves spontaneously.",
+    "D": "Anaphylaxis would present with urticaria, angioedema, wheezing, and hypotension rather than a self-limited flulike illness.",
+    "E": "Borrelia burgdorferi is a spirochete, not a gram-negative bacillus with classic endotoxin-mediated shock, and this presentation is the well-described treatment-associated reaction."
+  },
+  "educationalObjective": "The Jarisch-Herxheimer reaction is a self-limited flulike response to antigen release shortly after antibiotics are started for a spirochetal infection such as Lyme disease.",
+  "source": "Generated from 3. Microbiology.pdf - Clinical Bacteriology: Borrelia burgdorferi"
+}
+]

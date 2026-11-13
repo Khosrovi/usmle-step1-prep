@@ -1,0 +1,125 @@
+[
+{
+  "id": "micro-169",
+  "subject": "Microbiology",
+  "major_topic": "Clinical Bacteriology",
+  "subtopic": "Haemophilus influenzae",
+  "difficulty": "medium",
+  "vignette": "A 3-year-old unvaccinated child presents with high fever, drooling, and severe difficulty swallowing. He sits leaning forward with his neck extended and a muffled voice. Lateral neck radiograph shows a thickened epiglottis producing a thumb sign, and the epiglottis appears cherry red on endoscopy. Blood cultures grow a small gram-negative coccobacillary rod.",
+  "question": "Which of the following culture conditions is required to isolate this organism?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Eaton agar containing sterols"
+    },
+    {
+      "id": "B",
+      "text": "Chocolate agar, which supplies factors V (NAD+) and X (hematin)"
+    },
+    {
+      "id": "C",
+      "text": "Charcoal yeast extract medium with iron and cysteine"
+    },
+    {
+      "id": "D",
+      "text": "MacConkey agar incubated at 42 degrees Celsius"
+    },
+    {
+      "id": "E",
+      "text": "Alkaline media with a high pH"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Haemophilus influenzae is a small gram-negative coccobacillary rod that requires factors V (NAD+) and X (hematin), both provided by chocolate agar. It can also be grown with Staphylococcus aureus, which supplies factor V through red blood cell hemolysis. This organism causes epiglottitis with a cherry-red epiglottis and a thumb sign on lateral neck radiograph, as well as meningitis, otitis media, and pneumonia.",
+  "explanation_incorrect": {
+    "A": "Eaton agar with sterols is used for Mycoplasma pneumoniae, which lacks a cell wall.",
+    "C": "Charcoal yeast extract with iron and cysteine is the special medium for Legionella pneumophila.",
+    "D": "MacConkey agar at 42 degrees Celsius supports Campylobacter jejuni, a curved gram-negative rod causing bloody diarrhea.",
+    "E": "Alkaline media is used to select Vibrio cholerae, which grows at high pH."
+  },
+  "educationalObjective": "Haemophilus influenzae requires factors V (NAD+) and X (hematin), both of which are supplied by chocolate agar.",
+  "source": "Generated from 3. Microbiology.pdf - Clinical Bacteriology: Haemophilus influenzae"
+},
+{
+  "id": "micro-170",
+  "subject": "Microbiology",
+  "major_topic": "Clinical Bacteriology",
+  "subtopic": "Haemophilus influenzae",
+  "difficulty": "medium",
+  "vignette": "A 1-year-old child with a febrile illness is diagnosed with meningitis. Cerebrospinal fluid culture grows a small gram-negative coccobacillary rod. The child has received no routine immunizations. The organism produces IgA protease and is encapsulated.",
+  "question": "Which of the following components is included in the vaccine that prevents this infection?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Type b capsular polysaccharide, polyribosylribitol phosphate, conjugated to a protein carrier"
+    },
+    {
+      "id": "B",
+      "text": "Whole-cell heat-inactivated organism administered with alum"
+    },
+    {
+      "id": "C",
+      "text": "Type b capsular polysaccharide alone without any protein carrier"
+    },
+    {
+      "id": "D",
+      "text": "A toxoid directed against the lipopolysaccharide endotoxin"
+    },
+    {
+      "id": "E",
+      "text": "Purified pertussis toxin combined with filamentous hemagglutinin"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "The Haemophilus influenzae type b vaccine contains the type b capsular polysaccharide polyribosylribitol phosphate conjugated to diphtheria toxoid or another protein, which makes it immunogenic in young infants. It is given between 2 and 18 months of age. This is why encapsulated type b strains are no longer the leading cause of invasive Haemophilus disease and nontypeable strains predominate.",
+  "explanation_incorrect": {
+    "B": "Whole-cell inactivated vaccines are a historical pertussis formulation, not the Haemophilus vaccine, which is a conjugate polysaccharide vaccine.",
+    "C": "The polysaccharide alone is poorly immunogenic in infants, which is why it must be conjugated to a carrier protein.",
+    "D": "The vaccine targets the capsule rather than the lipopolysaccharide, and a toxoid against endotoxin is not how Haemophilus vaccine works.",
+    "E": "Pertussis toxin and filamentous hemagglutinin are components of pertussis vaccines, not of the Haemophilus vaccine."
+  },
+  "educationalObjective": "The Haemophilus influenzae type b vaccine is a conjugate of the polyribosylribitol phosphate capsular polysaccharide with a protein carrier, given between 2 and 18 months of age.",
+  "source": "Generated from 3. Microbiology.pdf - Clinical Bacteriology: Haemophilus influenzae"
+},
+{
+  "id": "micro-171",
+  "subject": "Microbiology",
+  "major_topic": "Clinical Bacteriology",
+  "subtopic": "Haemophilus influenzae",
+  "difficulty": "medium",
+  "vignette": "A 2-year-old child in daycare has had four episodes of acute otitis media in the past year and one episode of conjunctivitis. He is fully vaccinated, including with the Haemophilus influenzae type b conjugate vaccine. Ear fluid culture grows Haemophilus influenzae, and the laboratory reports the organism is unencapsulated.",
+  "question": "Which of the following best explains why this child developed this infection despite vaccination?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Nontypeable unencapsulated strains are now the most common cause of mucosal and invasive Haemophilus infections"
+    },
+    {
+      "id": "B",
+      "text": "The vaccine failed because it contains only killed whole organisms"
+    },
+    {
+      "id": "C",
+      "text": "The organism produces IgA protease, which directly degrades the capsular polysaccharide vaccine"
+    },
+    {
+      "id": "D",
+      "text": "Unencapsulated strains are resistant to the vaccine because they acquire the mecA gene"
+    },
+    {
+      "id": "E",
+      "text": "The child must have an underlying complement deficiency that prevents the vaccine response"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Nontypeable, unencapsulated strains are the most common cause of mucosal infections such as otitis media, conjunctivitis, and bronchitis, and they are also a common cause of invasive disease now that the type b capsular vaccine is in use. The vaccine targets only the type b capsule, so it does not protect against unencapsulated strains. Haemophilus also produces IgA protease, which facilitates mucosal colonization.",
+  "explanation_incorrect": {
+    "B": "The Haemophilus vaccine is a conjugate polysaccharide-protein vaccine, not a killed whole-organism vaccine.",
+    "C": "IgA protease cleaves mucosal antibody and aids colonization; it does not degrade the injected vaccine antigen.",
+    "D": "The mecA gene confers methicillin resistance in Staphylococcus aureus by producing an altered penicillin-binding protein and is unrelated to this organism.",
+    "E": "No complement deficiency is required; unencapsulated strains simply lack the target of the type b vaccine."
+  },
+  "educationalObjective": "Nontypeable unencapsulated Haemophilus influenzae strains remain common causes of otitis media and mucosal infection because the vaccine targets only the type b capsule.",
+  "source": "Generated from 3. Microbiology.pdf - Clinical Bacteriology: Haemophilus influenzae"
+}
+]

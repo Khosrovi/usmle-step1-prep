@@ -1,0 +1,125 @@
+[
+{
+  "id": "micro-044",
+  "subject": "Microbiology",
+  "major_topic": "Antimicrobials",
+  "subtopic": "Macrolides and ketolides",
+  "difficulty": "easy",
+  "vignette": "A 22-year-old college student has 2 weeks of persistent dry cough, sore throat, headache, and malaise. Chest radiograph shows bilateral patchy infiltrates that look worse than the patient feels. He is diagnosed with Mycoplasma pneumoniae pneumonia and prescribed azithromycin. He has a history of penicillin anaphylaxis.",
+  "question": "Which of the following best explains why a macrolide is appropriate here?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Macrolides cover Legionella only when combined with a beta-lactamase inhibitor"
+    },
+    {
+      "id": "B",
+      "text": "Macrolides cover MRSA and VRE, which is why they are chosen over penicillins"
+    },
+    {
+      "id": "C",
+      "text": "Macrolides are bactericidal 30S inhibitors that cover Mycoplasma and Legionella but not Chlamydia"
+    },
+    {
+      "id": "D",
+      "text": "Covers atypicals and streptococci in penicillin allergy"
+    },
+    {
+      "id": "E",
+      "text": "Macrolides are folate antagonists that cover atypical organisms including Mycoplasma"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Macrolides inhibit protein synthesis by blocking translocation at the 50S subunit and are bacteriostatic. Their clinical uses include atypical pneumonias caused by Mycoplasma, Chlamydia, and Legionella, STIs caused by Chlamydia, gram-positive coccal infections such as streptococcal pharyngitis in patients allergic to penicillin, and Bordetella pertussis. This patient's indolent atypical pneumonia with a normal-sounding examination is the classic macrolide indication.",
+  "explanation_incorrect": {
+    "A": "Beta-lactamase inhibitors protect beta-lactams and are irrelevant to macrolide activity, which is not susceptible to beta-lactamases.",
+    "B": "MRSA and VRE are covered by linezolid, vancomycin, daptomycin, or ceftaroline; macrolides are part of the LAME organisms' alternatives, not a resistant gram-positive solution.",
+    "C": "Macrolides do cover Chlamydia, and they are bacteriostatic rather than bactericidal; the 30S subunit belongs to aminoglycosides and tetracyclines.",
+    "E": "Folate antagonism describes sulfonamides and trimethoprim, which act on the folate pathway rather than the ribosome."
+  },
+  "educationalObjective": "Macrolides are bacteriostatic 50S translocation blockers used for atypical pneumonias (Mycoplasma, Chlamydia, Legionella), chlamydial STIs, pertussis, and streptococcal infection in penicillin-allergic patients.",
+  "source": "Generated from 3. Microbiology.pdf - Antimicrobials: Macrolides and ketolides"
+},
+{
+  "id": "micro-045",
+  "subject": "Microbiology",
+  "major_topic": "Antimicrobials",
+  "subtopic": "Macrolides and ketolides",
+  "difficulty": "medium",
+  "vignette": "A 71-year-old man is treated with erythromycin for a respiratory infection. He takes warfarin for atrial fibrillation and theophylline for COPD. Three days later he develops palpitations and lightheadedness, and the ECG shows a markedly prolonged QT interval. His INR has also risen. He reports nausea, abdominal cramping, and a new rash with eosinophilia.",
+  "question": "Which of the following adverse effects of macrolides best explains this constellation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Nephrotoxicity and ototoxicity from accumulation in cochlear and tubular cells"
+    },
+    {
+      "id": "B",
+      "text": "Aplastic anemia and gray baby syndrome from impaired glucuronidation"
+    },
+    {
+      "id": "C",
+      "text": "Optic neuritis with red-green color blindness from arabinosyltransferase inhibition"
+    },
+    {
+      "id": "D",
+      "text": "QT prolongation, GI motility, rash, and CYP450 inhibition"
+    },
+    {
+      "id": "E",
+      "text": "Tendon rupture from inhibition of DNA gyrase in tenocytes"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Macrolide toxicity is remembered as MACRO: GI Motility issues, Arrhythmia from prolonged QT interval, acute Cholestatic hepatitis, Rash, and eOsinophilia. Clarithromycin and erythromycin inhibit cytochrome P-450, which increases serum concentrations of theophylline and oral anticoagulants, explaining the elevated INR and theophylline toxicity. This patient demonstrates several MACRO features at once.",
+  "explanation_incorrect": {
+    "A": "Nephrotoxicity and ototoxicity are aminoglycoside effects worsened by loop diuretics.",
+    "B": "Aplastic anemia and gray baby syndrome are chloramphenicol toxicities related to hepatic glucuronidation, not to macrolides.",
+    "C": "Optic neuropathy with red-green color vision loss is ethambutol's toxicity.",
+    "E": "Tendinopathy and tendon rupture belong to fluoroquinolones, which inhibit DNA gyrase and topoisomerase IV."
+  },
+  "educationalObjective": "Macrolides cause MACRO toxicity (Motility, Arrhythmia from QT prolongation, Cholestatic hepatitis, Rash, eOsinophilia) and inhibit CYP450, raising theophylline and warfarin levels.",
+  "source": "Generated from 3. Microbiology.pdf - Antimicrobials: Macrolides and ketolides"
+},
+{
+  "id": "micro-046",
+  "subject": "Microbiology",
+  "major_topic": "Antimicrobials",
+  "subtopic": "Macrolides and ketolides",
+  "difficulty": "medium",
+  "vignette": "An 8-year-old child with a penicillin allergy develops a streptococcal pharyngitis and is prescribed azithromycin. After 5 days of therapy, the culture still grows Streptococcus pyogenes, and the laboratory reports that the isolate methylates the 23S rRNA binding site. The infectious disease physician switches therapy based on the resistance mechanism.",
+  "question": "Which of the following statements about macrolide resistance is most accurate?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Modification of D-Ala-D-Ala to D-Ala-D-Lac reduces drug affinity"
+    },
+    {
+      "id": "B",
+      "text": "Methylation of the 23S rRNA binding site"
+    },
+    {
+      "id": "C",
+      "text": "Decreased drug uptake and increased efflux through plasmid-encoded transport pumps"
+    },
+    {
+      "id": "D",
+      "text": "Plasmid-encoded acetyltransferase inactivates the drug by acetylation"
+    },
+    {
+      "id": "E",
+      "text": "Mutation in the gene encoding RNA polymerase prevents drug binding"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Macrolide resistance most commonly arises from methylation of the 23S rRNA-binding site, which prevents the drug from binding the 50S subunit and blocking translocation. Because this mechanism is ribosomal and affects the entire class, switching to another macrolide would not help. First Aid lists this ribosomal methylation as the mechanism of resistance for macrolides.",
+  "explanation_incorrect": {
+    "A": "D-Ala-D-Ala modification is the vancomycin resistance mechanism in enterococci.",
+    "C": "Altered uptake and increased efflux through plasmid-encoded pumps is the tetracycline resistance mechanism.",
+    "D": "Plasmid-encoded acetyltransferase is the resistance mechanism for chloramphenicol, which acts at the 50S peptidyltransferase center.",
+    "E": "Mutation in the RNA polymerase gene confers rifamycin resistance, an antimycobacterial class."
+  },
+  "educationalObjective": "Macrolide resistance occurs through methylation of the 23S rRNA-binding site, preventing binding to the 50S subunit.",
+  "source": "Generated from 3. Microbiology.pdf - Antimicrobials: Macrolides and ketolides"
+}
+]

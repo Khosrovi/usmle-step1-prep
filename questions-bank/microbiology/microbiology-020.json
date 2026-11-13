@@ -1,0 +1,84 @@
+[
+{
+  "id": "micro-071",
+  "subject": "Microbiology",
+  "major_topic": "Parasitology",
+  "subtopic": "Babesia",
+  "difficulty": "easy",
+  "vignette": "A 62-year-old man from Cape Cod, Massachusetts, presents in July with 6 days of high fever, drenching sweats, and fatigue after hiking in wooded areas. He recalls a tick bite 3 weeks earlier without a rash. Examination shows a temperature of 39.4 C and scleral icterus. Laboratory studies show hemoglobin 8.6 g/dL (baseline 14.2 g/dL), elevated indirect bilirubin and lactate dehydrogenase, and a low haptoglobin. Peripheral blood smear shows ring forms within RBCs and a tetrad configuration in one erythrocyte.",
+  "question": "Which of the following is the most likely causative organism?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Babesia microti"
+    },
+    {
+      "id": "B",
+      "text": "Plasmodium falciparum"
+    },
+    {
+      "id": "C",
+      "text": "Trypanosoma cruzi"
+    },
+    {
+      "id": "D",
+      "text": "Leishmania donovani"
+    },
+    {
+      "id": "E",
+      "text": "Toxoplasma gondii"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Babesiosis is caused by Babesia microti, which is endemic to the northeastern and north central United States, making a summer hike in New England the classic setting. The vector is the Ixodes tick, the same tick that transmits Borrelia burgdorferi and Anaplasma species. Diagnosis rests on ring forms with a Maltese cross tetrad on smear plus PCR, and treatment is atovaquone plus azithromycin, with asplenia increasing the risk of severe disease.",
+  "explanation_incorrect": {
+    "B": "Plasmodium falciparum produces intraerythrocytic rings but never forms Maltese crosses, requires travel to an endemic region, and is treated with chloroquine, mefloquine, or artesunate.",
+    "C": "Trypanosoma cruzi appears as extracellular trypomastigotes on a blood smear and causes Chagas cardiomyopathy, not an acute hemolytic anemia following a tick bite.",
+    "D": "Leishmania donovani is an intracellular parasite of macrophages causing hepatosplenomegaly and pancytopenia, and it is transmitted by the sandfly rather than a tick.",
+    "E": "Toxoplasma gondii causes ring-enhancing brain lesions or congenital disease and is diagnosed serologically or by biopsy of tachyzoites, not by an intraerythrocytic tetrad."
+  },
+  "educationalObjective": "An intraerythrocytic tetrad (Maltese cross) with hemolytic anemia after a New England tick bite indicates Babesia microti, treated with atovaquone plus azithromycin.",
+  "source": "Generated from 3. Microbiology.pdf - Parasitology: Babesia"
+},
+{
+  "id": "micro-072",
+  "subject": "Microbiology",
+  "major_topic": "Parasitology",
+  "subtopic": "Babesia",
+  "difficulty": "medium",
+  "vignette": "A 58-year-old man with a history of splenectomy after trauma presents with 2 weeks of fever to 39.5 C, worsening fatigue, and dark urine. He lives in Wisconsin and spent the summer at a lake cabin. Laboratory studies show hemoglobin 7.4 g/dL, indirect hyperbilirubinemia, a low haptoglobin, and parasites visible in more than 5% of RBCs. PCR confirms Babesia microti.",
+  "question": "Which of the following is the most appropriate treatment for this patient's infection?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Amphotericin B plus sodium stibogluconate"
+    },
+    {
+      "id": "B",
+      "text": "Metronidazole plus paromomycin"
+    },
+    {
+      "id": "C",
+      "text": "Chloroquine plus primaquine"
+    },
+    {
+      "id": "D",
+      "text": "Artesunate plus doxycycline"
+    },
+    {
+      "id": "E",
+      "text": "Atovaquone plus azithromycin"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Without a spleen, infected RBCs cannot be cleared efficiently, so babesiosis carries a high risk of severe disease. First Aid pairs atovaquone with azithromycin for Babesia, and that combination is the standard approach. Because Babesia can mimic Plasmodium on smear, matching the drug pair to the tick-borne parasite prevents the common error of starting antimalarial therapy.",
+  "explanation_incorrect": {
+    "A": "Amphotericin B plus sodium stibogluconate treats visceral leishmaniasis, an intracellular macrophage infection, rather than a parasite living inside RBCs.",
+    "B": "Metronidazole plus paromomycin combines tissue and luminal activity against Entamoeba histolytica, which causes colitis and liver abscess rather than hemolytic anemia.",
+    "C": "Chloroquine plus primaquine is a malaria regimen whose primaquine component targets Plasmodium hypnozoites, and neither drug is active against Babesia.",
+    "D": "Artesunate plus doxycycline is used for severe Plasmodium falciparum malaria, and this is not the First Aid regimen for a tick-borne erythrocyte parasite."
+  },
+  "educationalObjective": "Babesiosis in an asplenic patient can be severe and is treated with atovaquone plus azithromycin, not with antimalarial therapy.",
+  "source": "Generated from 3. Microbiology.pdf - Parasitology: Babesia"
+}
+]

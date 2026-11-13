@@ -1,0 +1,166 @@
+[
+{
+  "id": "micro-051",
+  "subject": "Microbiology",
+  "major_topic": "Antimicrobials",
+  "subtopic": "Protein synthesis inhibitors: chloramphenicol, clindamycin, tetracyclines",
+  "difficulty": "medium",
+  "vignette": "A 26-year-old woman with Rocky Mountain spotted fever is treated with chloramphenicol because of a severe allergy to doxycycline. Two weeks into therapy she develops a rising reticulocyte count followed by pancytopenia with aplastic anemia. She later asks why this drug is avoided in neonates, and the pharmacist explains it involves the same enzyme system.",
+  "question": "Which of the following best explains chloramphenicol's mechanism of action and hematologic toxicity?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It forms toxic free radicals that damage DNA in marrow stem cells, causing predictable pancytopenia"
+    },
+    {
+      "id": "B",
+      "text": "It binds the 30S subunit to prevent aminoacyl-tRNA attachment; anemia results from mitochondrial damage in marrow"
+    },
+    {
+      "id": "C",
+      "text": "It blocks translocation at the 50S subunit; aplastic anemia occurs because it is a folate antagonist"
+    },
+    {
+      "id": "D",
+      "text": "It inhibits dihydrofolate reductase, causing megaloblastic anemia that responds to leucovorin"
+    },
+    {
+      "id": "E",
+      "text": "Dose-dependent anemia, but aplastic anemia is dose independent"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Chloramphenicol blocks peptidyltransferase at the 50S ribosomal subunit and is bacteriostatic. Its hematologic adverse effects are split into a dose-dependent anemia and a dose-independent aplastic anemia, which is why its use is limited despite low cost and good CSF penetration. It also causes gray baby syndrome in premature infants because they lack hepatic UDP-glucuronosyltransferase needed for conjugation.",
+  "explanation_incorrect": {
+    "A": "Free radical DNA damage in bacterial cells describes metronidazole's mechanism, not the mechanism of chloramphenicol-associated aplastic anemia.",
+    "B": "Preventing aminoacyl-tRNA attachment at the 30S subunit is tetracycline's mechanism, not chloramphenicol's 50S peptidyltransferase action.",
+    "C": "Blocking translocation at the 50S subunit describes macrolides and clindamycin; chloramphenicol is not a folate antagonist.",
+    "D": "Dihydrofolate reductase inhibition with megaloblastic anemia responding to leucovorin is trimethoprim's profile."
+  },
+  "educationalObjective": "Chloramphenicol blocks 50S peptidyltransferase and causes dose-dependent anemia, dose-independent aplastic anemia, and gray baby syndrome in premature infants.",
+  "source": "Generated from 3. Microbiology.pdf - Antimicrobials: Protein synthesis inhibitors: chloramphenicol, clindamycin, tetracyclines"
+},
+{
+  "id": "micro-052",
+  "subject": "Microbiology",
+  "major_topic": "Antimicrobials",
+  "subtopic": "Protein synthesis inhibitors: chloramphenicol, clindamycin, tetracyclines",
+  "difficulty": "medium",
+  "vignette": "A 3-week-old premature infant born at 32 weeks develops sepsis and receives chloramphenicol because of limited alternatives. Within 3 days he becomes hypotensive, with abdominal distention, vomiting, and a striking grayish cyanotic discoloration of the skin. Laboratory studies show metabolic acidosis and no evidence of adrenal hemorrhage.",
+  "question": "Which of the following best explains this infant's clinical presentation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Immune-mediated hemolysis from maternal IgG produces the gray discoloration and shock"
+    },
+    {
+      "id": "B",
+      "text": "Immaturity of hepatic UDP-glucuronosyltransferase causes drug accumulation, producing gray baby syndrome"
+    },
+    {
+      "id": "C",
+      "text": "Immature renal tubular secretion of the drug causes crystalline nephropathy and uremic frost"
+    },
+    {
+      "id": "D",
+      "text": "Deficiency of hepatic catalase-peroxidase prevents activation of the drug, causing a toxic metabolite buildup"
+    },
+    {
+      "id": "E",
+      "text": "Immature bone marrow causes dose-independent aplastic anemia with secondary skin discoloration"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Gray baby syndrome occurs in premature infants because they lack adequate liver UDP-glucuronosyltransferase to conjugate and clear chloramphenicol, so the drug accumulates and produces cardiovascular collapse, abdominal distention, and a gray cyanotic appearance. This is a distinct toxic effect from the drug's dose-independent aplastic anemia, and it is part of why chloramphenicol use is limited and why it appears on the list of drugs to avoid in neonates.",
+  "explanation_incorrect": {
+    "A": "Hemolysis with gray discoloration would suggest an antibody-mediated process, but the presentation described follows directly from impaired hepatic conjugation of the drug.",
+    "C": "Crystalline nephropathy and acute kidney injury from inadequate hydration is acyclovir's toxicity, not a cause of gray discoloration in neonates.",
+    "D": "Catalase-peroxidase is required to activate isoniazid, an antimycobacterial drug, and does not apply to chloramphenicol.",
+    "E": "Aplastic anemia from chloramphenicol is a dose-independent idiosyncratic reaction that develops later and does not produce this acute shock with gray skin."
+  },
+  "educationalObjective": "Gray baby syndrome results from immature hepatic UDP-glucuronosyltransferase in premature infants given chloramphenicol.",
+  "source": "Generated from 3. Microbiology.pdf - Antimicrobials: Protein synthesis inhibitors: chloramphenicol, clindamycin, tetracyclines"
+},
+{
+  "id": "micro-053",
+  "subject": "Microbiology",
+  "major_topic": "Antimicrobials",
+  "subtopic": "Protein synthesis inhibitors: chloramphenicol, clindamycin, tetracyclines",
+  "difficulty": "medium",
+  "vignette": "A 19-year-old woman with a severe necrotizing infection of the tonsil and deep neck space grows Streptococcus pyogenes. She is treated with clindamycin plus penicillin because clindamycin is effective against invasive group A streptococcal infection. One week later she develops profuse watery diarrhea, cramping, and leukocytosis, and stool studies confirm Clostridioides difficile toxin.",
+  "question": "Which of the following best describes clindamycin's mechanism and its classic adverse effect?",
+  "options": [
+    {
+      "id": "A",
+      "text": "50S translocation blockade with C difficile colitis"
+    },
+    {
+      "id": "B",
+      "text": "It binds the 30S subunit and prevents aminoacyl-tRNA attachment; the classic adverse effect is photosensitivity"
+    },
+    {
+      "id": "C",
+      "text": "It inhibits DNA gyrase; the classic adverse effect is tendinopathy and tendon rupture"
+    },
+    {
+      "id": "D",
+      "text": "It inhibits the initiation complex at the 23S rRNA of the 50S subunit; the classic adverse effect is thrombocytopenia"
+    },
+    {
+      "id": "E",
+      "text": "It blocks peptidyltransferase at the 50S subunit; the classic adverse effect is aplastic anemia"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Clindamycin blocks peptide transfer and translocation at the 50S ribosomal subunit and is bacteriostatic. Its classic adverse effect is pseudomembranous colitis from C difficile overgrowth, presenting with fever and diarrhea, which is what occurred here. Clindamycin covers anaerobic infections such as Bacteroides and C perfringens in aspiration pneumonia, lung abscess, and oral infections, and is effective in invasive group A streptococcal disease; the metronidazole comparison is that clindamycin treats anaerobes above the diaphragm and metronidazole below.",
+  "explanation_incorrect": {
+    "B": "30S binding that prevents aminoacyl-tRNA attachment is tetracycline's mechanism, and its signature toxicity is teeth and bone effects.",
+    "C": "DNA gyrase inhibition with tendinopathy is the fluoroquinolone profile.",
+    "D": "Binding 23S rRNA to prevent initiation complex formation with thrombocytopenia is linezolid's mechanism and toxicity.",
+    "E": "Peptidyltransferase blockade with aplastic anemia belongs to chloramphenicol, a different 50S drug."
+  },
+  "educationalObjective": "Clindamycin blocks 50S translocation and is a classic cause of pseudomembranous colitis from C difficile overgrowth.",
+  "source": "Generated from 3. Microbiology.pdf - Antimicrobials: Protein synthesis inhibitors: chloramphenicol, clindamycin, tetracyclines"
+},
+{
+  "id": "micro-054",
+  "subject": "Microbiology",
+  "major_topic": "Antimicrobials",
+  "subtopic": "Protein synthesis inhibitors: chloramphenicol, clindamycin, tetracyclines",
+  "difficulty": "medium",
+  "vignette": "A 7-year-old boy with a tick bite develops fever, headache, myalgias, and a rash spreading from the wrists toward the trunk. Doxycycline is prescribed. His mother is concerned because she has heard that tetracyclines stain children's teeth, and she asks about the drug's target and how it should be taken.",
+  "question": "Which of the following statements about tetracyclines is most accurate?",
+  "options": [
+    {
+      "id": "A",
+      "text": "30S binding blocked by divalent cations"
+    },
+    {
+      "id": "B",
+      "text": "They bind the 30S subunit irreversibly and are bactericidal for anaerobes because uptake requires oxygen"
+    },
+    {
+      "id": "C",
+      "text": "They are activated by viral thymidine kinase and cause crystalline nephropathy"
+    },
+    {
+      "id": "D",
+      "text": "They inhibit arabinosyltransferase and require acidic gastric pH for absorption"
+    },
+    {
+      "id": "E",
+      "text": "They bind the 50S subunit and block peptidyltransferase; they are bactericidal against anaerobes"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Tetracyclines are bacteriostatic 30S binders that prevent attachment of aminoacyl-tRNA to the ribosomal acceptor site, and divalent cations such as Ca2+ and Mg2+ in milk, antacids, and iron preparations chelate them and inhibit gut absorption. They accumulate intracellularly, which makes them effective against Rickettsia and Chlamydia and Borrelia burgdorferi, and doxycycline is effective against community-acquired MRSA and is the exception that may be used in children. Doxycycline is fecally eliminated, so it can be used in renal failure.",
+  "explanation_incorrect": {
+    "B": "Oxygen-dependent uptake with bactericidal action and activity against anaerobes is contradicted by the facts: tetracyclines are bacteriostatic and divalent cations limit their absorption, and the oxygen requirement belongs to aminoglycosides.",
+    "C": "Activation by viral thymidine kinase is acyclovir's mechanism, and crystalline nephropathy is acyclovir's adverse effect.",
+    "D": "Arabinosyltransferase inhibition is ethambutol's mechanism; tetracycline absorption is limited by divalent cations, not enhanced by acidic pH.",
+    "E": "50S peptidyltransferase blockade describes chloramphenicol, and tetracyclines are bacteriostatic rather than bactericidal."
+  },
+  "educationalObjective": "Tetracyclines are bacteriostatic 30S inhibitors whose absorption is blocked by divalent cations in milk, antacids, and iron; they accumulate intracellularly and cover Rickettsia, Chlamydia, and Borrelia.",
+  "source": "Generated from 3. Microbiology.pdf - Antimicrobials: Protein synthesis inhibitors: chloramphenicol, clindamycin, tetracyclines"
+}
+]

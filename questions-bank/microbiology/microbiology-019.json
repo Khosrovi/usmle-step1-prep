@@ -1,0 +1,84 @@
+[
+{
+  "id": "micro-069",
+  "subject": "Microbiology",
+  "major_topic": "Mycology",
+  "subtopic": "Aspergillus fumigatus",
+  "difficulty": "medium",
+  "vignette": "A 24-year-old man with chronic granulomatous disease is admitted with three days of fever, pleuritic chest pain, and hemoptysis despite broad-spectrum antibacterial therapy. Chest CT shows a nodular lesion with surrounding ground-glass opacity. A lung biopsy demonstrates thin filaments with regular cross-walls and branches splitting at 45° angles.",
+  "question": "Which of the following best explains this patient's specific susceptibility to this organism?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Defective T-cell function with CD4+ lymphopenia"
+    },
+    {
+      "id": "B",
+      "text": "Absence of B cells and immunoglobulin production"
+    },
+    {
+      "id": "C",
+      "text": "Impaired macrophage phagosome acidification only"
+    },
+    {
+      "id": "D",
+      "text": "Diabetic ketoacidosis with acidic tissue pH"
+    },
+    {
+      "id": "E",
+      "text": "Defective neutrophil oxidative burst"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Aspergillus fumigatus is catalase-positive, so it is killed by the oxidative burst of neutrophils; patients with neutrophil dysfunction such as chronic granulomatous disease are therefore at high risk for invasive aspergillosis. The organism shows acute-angle, 45-degree branching of septate hyphae, which distinguishes it from the broad non-septate right-angle hyphae of Mucor. Treatment is voriconazole, with echinocandins as second-line therapy. Aspergillomas instead form in pre-existing lung cavities, especially after tuberculosis.",
+  "explanation_incorrect": {
+    "A": "CD4+ lymphopenia is the defect that predisposes to Pneumocystis pneumonia and cryptococcal disease, not specifically to invasive aspergillosis.",
+    "B": "Absent B cells cause agammaglobulinemia and recurrent infection with encapsulated bacteria such as Streptococcus pneumoniae, and this is not the classic Aspergillus risk.",
+    "C": "Isolated phagosome acidification failure does not describe chronic granulomatous disease, whose defect is in the NADPH oxidase respiratory burst.",
+    "D": "Diabetic ketoacidosis is the classic setting for Mucor and Rhizopus infections, not the specific susceptibility for Aspergillus."
+  },
+  "educationalObjective": "Aspergillus is catalase-positive, so patients with neutrophil dysfunction such as chronic granulomatous disease are at risk for invasive aspergillosis.",
+  "source": "Generated from 3. Microbiology.pdf - Mycology: Aspergillus fumigatus"
+},
+{
+  "id": "micro-070",
+  "subject": "Microbiology",
+  "major_topic": "Mycology",
+  "subtopic": "Aspergillus fumigatus",
+  "difficulty": "medium",
+  "vignette": "A 63-year-old man with a history of treated cavitary tuberculosis has a 4-cm cavitary lesion in the upper lobe. He has had recurrent hemoptysis and a chronic cough. Imaging shows a solid rounded fungal mass within the pre-existing cavity. He also has asthma with poorly controlled symptoms and newly documented bronchiectasis.",
+  "question": "Which of the following is the most appropriate first-line antifungal for invasive aspergillosis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Fluconazole"
+    },
+    {
+      "id": "B",
+      "text": "Nystatin"
+    },
+    {
+      "id": "C",
+      "text": "Griseofulvin"
+    },
+    {
+      "id": "D",
+      "text": "Terbinafine"
+    },
+    {
+      "id": "E",
+      "text": "Voriconazole"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Voriconazole is the treatment of choice for Aspergillus infections, with echinocandins reserved as second-line therapy. Voriconazole is an azole that inhibits the cytochrome P-450 enzyme converting lanosterol to ergosterol. In this patient the solid fungal mass occupying a pre-existing tuberculous cavity represents an aspergilloma, a classic complication emphasized after TB infection. Allergic bronchopulmonary aspergillosis, associated with asthma and cystic fibrosis, is a separate hypersensitivity phenomenon that can cause bronchiectasis and eosinophilia.",
+  "explanation_incorrect": {
+    "A": "Fluconazole has reliable activity against Candida but not against Aspergillus; it is used for candidal infections and chronic suppression of cryptococcal meningitis.",
+    "B": "Nystatin acts like amphotericin B but is used topically only, such as 'swish and swallow' therapy for oral candidiasis.",
+    "C": "Griseofulvin disrupts microtubules and mitosis and is limited to superficial dermatophyte infections such as tinea.",
+    "D": "Terbinafine inhibits squalene epoxidase and is used for dermatophytoses, especially onychomycosis, not for invasive aspergillosis."
+  },
+  "educationalObjective": "Voriconazole is first-line for Aspergillus, and aspergillomas classically occupy pre-existing lung cavities after tuberculosis.",
+  "source": "Generated from 3. Microbiology.pdf - Mycology: Aspergillus fumigatus"
+}
+]

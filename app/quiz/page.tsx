@@ -7,6 +7,8 @@ import { Button } from "@/components/ui/button";
 import { Progress } from "@/components/ui/progress";
 import { supabase } from "@/lib/supabase";
 import { ThemeToggle } from "@/components/theme-toggle";
+import { QuizSummary } from "@/components/QuizSummary";
+import { saveProgressLocally, markSynced } from "@/lib/progress";
 
 interface Question {
   id: number;
@@ -19,6 +21,13 @@ interface Question {
   correct_answer: string;
   explanation_correct: string;
   explanation_incorrect: Record<string, string>;
+}
+
+/** One graded answer, kept in memory so the summary can be shown at the end. */
+interface Attempt {
+  question: Question;
+  selectedAnswer: string;
+  isCorrect: boolean;
 }
 
 /** Length of a timed exam sitting, matching the "20 questions in 10 minutes" goal. */
@@ -62,6 +71,10 @@ function QuizContent() {
   const [timer, setTimer] = useState(0);
   const [timerEnabled, setTimerEnabled] = useState(false);
   const [progressSaveFailed, setProgressSaveFailed] = useState(false);
+  const [attempts, setAttempts] = useState<Attempt[]>([]);
+  const [showSummary, setShowSummary] = useState(false);
+  // Wall-clock length of the sitting, captured when it is finished.
+  const [elapsedSeconds, setElapsedSeconds] = useState(0);
   const timerRef = useRef<NodeJS.Timeout | null>(null);
 
   useEffect(() => {
@@ -153,8 +166,27 @@ function QuizContent() {
     }
 
     const currentQuestion = questions[currentIndex];
-    // Progress is best-effort: a rejected write (for example row-level security
-    // not yet configured for anonymous users) must not interrupt the session.
+    const answeredAt = new Date().toISOString();
+
+    setAttempts((prev) => [
+      ...prev.filter((a) => a.question.id !== currentQuestion.id),
+      { question: currentQuestion, selectedAnswer, isCorrect },
+    ]);
+
+    // 1. Local first: this always succeeds, so the session summary and the
+    //    difficult-questions list are never lost.
+    saveProgressLocally({
+      questionId: currentQuestion.id,
+      isCorrect,
+      selectedAnswer,
+      examId: isExam ? examId : null,
+      answeredAt,
+      pending: true,
+    });
+
+    // 2. Then mirror to the database. A rejection here (for example the anon
+    //    INSERT policy on user_progress not being configured) must not break
+    //    the session - the answer is already safely stored locally.
     const { error } = await supabase.from("user_progress").insert({
       question_id: currentQuestion.id,
       is_correct: isCorrect,
@@ -162,21 +194,24 @@ function QuizContent() {
       exam_id: isExam ? examId : null,
     });
     if (error) {
-      console.warn("Could not save progress:", error.message);
+      console.warn("Could not save progress to the database:", error.message);
       setProgressSaveFailed(true);
+    } else {
+      markSynced([currentQuestion.id]);
+      setProgressSaveFailed(false);
     }
   };
 
+  /** Ends the sitting and opens the in-page summary of this test. */
   const handleFinishExam = () => {
-    const params = new URLSearchParams({
-      examId,
-      subject,
-      total: String(questions.length),
-      answered: String(answeredCount),
-      correct: String(correctCount),
-      duration: String(Math.round((Date.now() - examStartedAt.current) / 1000)),
-    });
-    router.push(`/exam-results?${params.toString()}`);
+    setElapsedSeconds(
+      examStartedAt.current
+        ? Math.round((Date.now() - examStartedAt.current) / 1000)
+        : 0
+    );
+    setShowSummary(true);
+    if (timerRef.current) clearInterval(timerRef.current);
+    window.scrollTo({ top: 0, behavior: "smooth" });
   };
 
   const handlePrevious = () => {
@@ -201,6 +236,31 @@ function QuizContent() {
       <div className="min-h-screen flex items-center justify-center">
         <p className="text-muted-foreground">Loading questions...</p>
       </div>
+    );
+  }
+
+  if (showSummary) {
+    return (
+      <QuizSummary
+        attempts={attempts}
+        totalQuestions={questions.length}
+        subject={subject}
+        elapsedSeconds={elapsedSeconds}
+        progressSaveFailed={progressSaveFailed}
+        onGoToResults={() => {
+          const params = new URLSearchParams({
+            examId,
+            subject,
+            total: String(questions.length),
+            answered: String(answeredCount),
+            correct: String(correctCount),
+            duration: String(elapsedSeconds),
+          });
+          router.push(`/exam-results?${params.toString()}`);
+        }}
+        onReviewDifficult={() => router.push("/review")}
+        onBackToDashboard={handleBackToDashboard}
+      />
     );
   }
 
@@ -307,6 +367,8 @@ function QuizContent() {
             id: currentQuestion.id,
             subject: currentQuestion.subject,
             topic: `${currentQuestion.major_topic} • ${currentQuestion.subtopic}`,
+            majorTopic: currentQuestion.major_topic,
+            subtopic: currentQuestion.subtopic,
             vignette: currentQuestion.vignette,
             question: currentQuestion.question,
             options: currentQuestion.options,
@@ -344,6 +406,21 @@ function QuizContent() {
             </Button>
           )}
         </div>
+
+        {/* A practice session can also be ended early to see the summary; an
+            exam already exposes Finish Exam above. */}
+        {!isExam && answeredCount > 0 && (
+          <div className="mt-4 text-center">
+            <Button
+              onClick={handleFinishExam}
+              variant="outline"
+              size="sm"
+              className="text-muted-foreground"
+            >
+              Finish session and see summary ({answeredCount} answered)
+            </Button>
+          </div>
+        )}
       </div>
     </main>
   );

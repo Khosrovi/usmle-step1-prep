@@ -1,0 +1,84 @@
+[
+{
+  "id": "micro-096",
+  "subject": "Microbiology",
+  "major_topic": "Mycology",
+  "subtopic": "Blastomyces dermatitidis",
+  "difficulty": "medium",
+  "vignette": "A 52-year-old landscaper from Wisconsin presents with chronic cough, low-grade fever, and a slowly enlarging verrucous plaque on his forearm. He was initially told the skin lesion might be a squamous cell carcinoma. Biopsy of the lesion shows yeast forms surrounded by granulomatous inflammation.",
+  "question": "Which of the following microscopic findings would most likely be seen in the biopsy?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Narrow-based budding yeasts with a thick capsule"
+    },
+    {
+      "id": "B",
+      "text": "Small yeasts within macrophages, smaller than a red blood cell"
+    },
+    {
+      "id": "C",
+      "text": "Spherules containing endospores much larger than a red blood cell"
+    },
+    {
+      "id": "D",
+      "text": "Broad-based budding yeasts roughly the size of a red blood cell"
+    },
+    {
+      "id": "E",
+      "text": "Irregular nonseptate hyphae branching at wide angles"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Blastomyces dermatitidis is a dimorphic fungus endemic to the eastern and central United States and the Great Lakes region. It shows broad-based budding yeasts approximately the size of a red blood cell: blasto buds broadly. Infection begins as inflammatory lung disease and classically disseminates to bone and skin, producing verrucous lesions that may be mistaken for squamous cell carcinoma. Itraconazole can be used for local disease, and amphotericin B is used for systemic infection.",
+  "explanation_incorrect": {
+    "A": "Narrow-based budding with a prominent capsule is Cryptococcus neoformans, acquired from pigeon droppings and typically causing meningoencephalitis in immunocompromised patients.",
+    "B": "Intracellular yeasts smaller than a red blood cell are Histoplasma capsulatum, which hides inside macrophages and is linked to bird and bat droppings.",
+    "C": "Spherules filled with endospores are Coccidioides immitis, which is endemic to the southwestern United States and associated with dust exposure.",
+    "E": "Broad nonseptate hyphae branching at wide angles describe Mucor and Rhizopus, which produce rhinocerebral disease with black necrotic eschars rather than verrucous skin plaques."
+  },
+  "educationalObjective": "Blastomyces dermatitidis shows broad-based budding yeasts the size of a red blood cell and disseminates from the lungs to bone and skin in the eastern and central United States.",
+  "source": "Generated from 3. Microbiology.pdf - Mycology: Blastomyces dermatitidis"
+},
+{
+  "id": "micro-097",
+  "subject": "Microbiology",
+  "major_topic": "Mycology",
+  "subtopic": "Blastomyces dermatitidis",
+  "difficulty": "easy",
+  "vignette": "A 61-year-old man from the Great Lakes region is diagnosed with pulmonary blastomycosis. He has mild disease confined to the lungs and no evidence of dissemination. He asks about treatment and specifically wants to avoid intravenous therapy.",
+  "question": "Which of the following is the most appropriate treatment for his localized disease?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Flucytosine monotherapy"
+    },
+    {
+      "id": "B",
+      "text": "Amphotericin B"
+    },
+    {
+      "id": "C",
+      "text": "Itraconazole"
+    },
+    {
+      "id": "D",
+      "text": "Caspofungin"
+    },
+    {
+      "id": "E",
+      "text": "Griseofulvin"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "For systemic mycoses such as blastomycosis, fluconazole or itraconazole is used for local infection, while amphotericin B is reserved for systemic infection. Itraconazole is specifically listed for Blastomyces, Coccidioides, Histoplasma, and Sporothrix. Because this patient has disease confined to the lungs, an oral azole is appropriate and avoids the nephrotoxicity of amphotericin. Azoles work by inhibiting the cytochrome P-450 enzyme that converts lanosterol to ergosterol.",
+  "explanation_incorrect": {
+    "A": "Flucytosine is used in combination with amphotericin B for cryptococcal meningitis and is not used as monotherapy for blastomycosis.",
+    "B": "Amphotericin B is the right choice for systemic or severe disease, but it requires intravenous administration and carries fever, chills, and nephrotoxicity that are unnecessary here.",
+    "D": "Caspofungin is an echinocandin whose main indication is invasive aspergillosis and Candida infections; it is not standard therapy for blastomycosis.",
+    "E": "Griseofulvin only treats superficial dermatophyte infections such as tinea and has no role in a systemic dimorphic mycosis."
+  },
+  "educationalObjective": "Fluconazole or itraconazole treats localized systemic dimorphic mycoses such as blastomycosis, while amphotericin B is reserved for systemic disease.",
+  "source": "Generated from 3. Microbiology.pdf - Mycology: Blastomyces dermatitidis"
+}
+]

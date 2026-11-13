@@ -1,0 +1,125 @@
+[
+{
+  "id": "micro-198",
+  "subject": "Microbiology",
+  "major_topic": "Virology",
+  "subtopic": "Human papillomavirus",
+  "difficulty": "medium",
+  "vignette": "A 23-year-old woman presents with a cluster of soft, fleshy, cauliflower-like papules around the vaginal introitus. She is otherwise healthy and her cervical cytology is normal. The lesions are diagnosed clinically as condyloma acuminatum.",
+  "question": "Which HPV serotypes are most likely responsible for these lesions?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Serotypes 5 and 8"
+    },
+    {
+      "id": "B",
+      "text": "Serotypes 16 and 18"
+    },
+    {
+      "id": "C",
+      "text": "Serotypes 6 and 11"
+    },
+    {
+      "id": "D",
+      "text": "Serotypes 1 and 2"
+    },
+    {
+      "id": "E",
+      "text": "Serotypes 31, 33, and 45"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "HPV serotypes 6 and 11 are low-risk types associated with anogenital warts, condyloma acuminatum, whereas serotypes 16 and 18 are the high-risk types associated with cervical, anal, penile, and oropharyngeal cancer. HPV is a naked, circular dsDNA papillomavirus that infects squamous epithelium and produces koilocytes with perinuclear halos on cytology.",
+  "explanation_incorrect": {
+    "A": "Serotypes 5 and 8 are cutaneous types associated with epidermodysplasia-like lesions, not genital warts.",
+    "B": "Serotypes 16 and 18 are the high-risk oncogenic types associated with cervical and oropharyngeal cancer, not with condyloma acuminatum.",
+    "D": "Serotypes 1 and 2 are associated with common cutaneous warts, not the anogenital warts described here.",
+    "E": "Serotypes 31, 33, and 45 are additional high-risk oncogenic types rather than the wart-producing low-risk types."
+  },
+  "educationalObjective": "HPV 6 and 11 cause anogenital warts, whereas HPV 16 and 18 are the high-risk types associated with cervical and oropharyngeal cancer.",
+  "source": "Generated from 3. Microbiology.pdf - Virology: Human papillomavirus"
+},
+{
+  "id": "micro-199",
+  "subject": "Microbiology",
+  "major_topic": "Virology",
+  "subtopic": "Human papillomavirus",
+  "difficulty": "medium",
+  "vignette": "A 44-year-old woman with HIV infection has a CD4 count of 420/mm3. She presents for routine cervical cancer screening. Her most recent screening was 5 years ago and showed no abnormality. Her HIV disease is well controlled on antiretroviral therapy.",
+  "question": "Which of the following best explains why HPV-related malignancy risk is increased in HIV infection despite a CD4 count above 200/mm3?",
+  "options": [
+    {
+      "id": "A",
+      "text": "HPV causes Kaposi sarcoma in patients with HIV when the CD4 count falls below 500"
+    },
+    {
+      "id": "B",
+      "text": "HPV becomes oncogenic only after coinfection with HHV-8, which reactivates at CD4 counts below 500"
+    },
+    {
+      "id": "C",
+      "text": "HPV directly infects and depletes CD4+ T cells, so malignancy appears at any CD4 count"
+    },
+    {
+      "id": "D",
+      "text": "Squamous cell carcinoma at sites of sexual contact occurs with CD4 counts below 500/mm3, reflecting impaired cell-mediated control of HPV"
+    },
+    {
+      "id": "E",
+      "text": "HPV is an enveloped virus that integrates into host DNA more efficiently when CD4 cells are low"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "In the CD4 stratification of HIV-associated disease, HPV-related squamous cell carcinoma at sites of sexual contact (most commonly anus, cervix, oropharynx) appears in the CD4 less than 500/mm3 tier, alongside oral thrush, oral hairy leukoplakia, Kaposi sarcoma, and tuberculosis reactivation. The mechanism is loss of cell-mediated immune surveillance that normally contains HPV infection and its oncogenic effects. Higher-risk oncogenic serotypes such as 16 and 18 drive the malignant transformation.",
+  "explanation_incorrect": {
+    "A": "Kaposi sarcoma is caused by HHV-8, appearing as a separate CD4 less than 500 item, and is not an HPV lesion.",
+    "B": "HPV oncogenesis depends on high-risk serotypes and impaired immune surveillance, not on coinfection with HHV-8.",
+    "C": "HPV infects squamous epithelium; it is HIV, not HPV, that infects and depletes CD4+ T cells.",
+    "E": "HPV is a naked circular dsDNA virus; envelope status is unrelated to integration frequency, and HPV does not require an envelope for entry."
+  },
+  "educationalObjective": "HPV-related squamous cell carcinoma at sites of sexual contact occurs in the CD4 less than 500/mm3 tier of HIV-associated disease because of impaired cell-mediated control of HPV.",
+  "source": "Generated from 3. Microbiology.pdf - Virology: Human papillomavirus"
+},
+{
+  "id": "micro-200",
+  "subject": "Microbiology",
+  "major_topic": "Virology",
+  "subtopic": "Human papillomavirus",
+  "difficulty": "hard",
+  "vignette": "A 19-year-old woman has a routine cervical cytology specimen that shows squamous cells with enlarged, irregular nuclei surrounded by a clear perinuclear halo. HPV DNA testing is positive for a high-risk serotype. The clinician wishes to explain the biology behind the finding.",
+  "question": "Which of the following best describes the causative virus?",
+  "options": [
+    {
+      "id": "A",
+      "text": "An enveloped, linear dsDNA virus that latencies in sacral ganglia"
+    },
+    {
+      "id": "B",
+      "text": "A naked, linear ssDNA virus that infects RBC precursors"
+    },
+    {
+      "id": "C",
+      "text": "A partially dsDNA circular hepadnavirus with reverse transcriptase"
+    },
+    {
+      "id": "D",
+      "text": "A circular negative-sense ssRNA deltavirus requiring HBsAg"
+    },
+    {
+      "id": "E",
+      "text": "A naked, circular dsDNA virus that produces koilocytes and can cause cervical cancer"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Human papillomavirus is a naked, circular, dsDNA virus that infects squamous epithelium, producing koilocytes with perinuclear halos, and is associated with warts and with cervical, anal, penile, and oropharyngeal cancer. High-risk serotypes 16 and 18 carry the oncogenic risk, whereas 1, 2, 6, and 11 are associated with warts. Circularity places HPV among the three circular DNA families along with polyomavirus and hepadnavirus.",
+  "explanation_incorrect": {
+    "A": "This describes herpes simplex virus, an enveloped linear dsDNA virus that latencies in sensory ganglia and does not produce koilocytes.",
+    "B": "This describes parvovirus B19, the ssDNA virus that infects erythroid precursors; it does not transform cervical epithelium.",
+    "C": "This describes hepatitis B virus, which targets hepatocytes and is not the cause of koilocytic change on cervical cytology.",
+    "D": "This describes hepatitis D virus, which depends on HBV and infects the liver, not cervical squamous cells."
+  },
+  "educationalObjective": "HPV is a naked circular dsDNA virus with oncogenic serotypes 16 and 18, producing koilocytes with perinuclear halos on cytology.",
+  "source": "Generated from 3. Microbiology.pdf - Virology: Human papillomavirus"
+}
+]

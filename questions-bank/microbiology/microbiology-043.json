@@ -1,0 +1,84 @@
+[
+{
+  "id": "micro-130",
+  "subject": "Microbiology",
+  "major_topic": "Parasitology",
+  "subtopic": "Cryptosporidium and Cyclospora",
+  "difficulty": "medium",
+  "vignette": "A 34-year-old man with untreated HIV infection and a CD4+ count of 40 cells/mm3 presents with 5 weeks of profuse watery diarrhea and an 8-kg weight loss. He has no blood in the stool, no fever, and no abdominal pain. Stool cultures for Salmonella, Shigella, and Campylobacter are negative. His diarrhea began after he stopped filtering his drinking water.",
+  "question": "Which of the following stool findings would best confirm the diagnosis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Multinucleated trophozoites on stool microscopy"
+    },
+    {
+      "id": "B",
+      "text": "Motile trophozoites with punctate cervical hemorrhages"
+    },
+    {
+      "id": "C",
+      "text": "Oocysts visible on acid-fast staining of stool"
+    },
+    {
+      "id": "D",
+      "text": "Trophozoites containing engulfed red blood cells"
+    },
+    {
+      "id": "E",
+      "text": "Flask-shaped ulcers with an anchovy paste exudate"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Cryptosporidium causes severe, prolonged diarrhea in patients with AIDS, whereas immunocompetent hosts usually have a mild, self-limited watery diarrhea. The small round oocysts do not stand out on routine stool microscopy, so acid-fast staining of stool is the classic diagnostic method, supplemented by antigen detection and PCR. Prevention centers on filtering drinking water, and severe or immunocompromised disease is treated with nitazoxanide together with restoration of immune function.",
+  "explanation_incorrect": {
+    "A": "Multinucleated trophozoites on stool microscopy indicate Giardia lamblia, which causes malabsorptive fatty diarrhea in immunocompetent campers and hikers.",
+    "B": "Motile trophozoites on a wet mount with punctate cervical hemorrhages describe Trichomonas vaginalis and its strawberry cervix, a sexually transmitted vaginitis rather than a diarrheal illness.",
+    "D": "Trophozoites containing engulfed RBCs are diagnostic of Entamoeba histolytica, an invasive colonic ameba that produces bloody dysentery rather than profuse watery diarrhea.",
+    "E": "Flask-shaped ulcers with anchovy paste exudate describe amebic colitis and liver abscess, both features of Entamoeba histolytica rather than of a small-bowel coccidian parasite."
+  },
+  "educationalObjective": "In an AIDS patient with prolonged profuse watery diarrhea, acid-fast-stained oocysts in stool point to Cryptosporidium, which is managed with nitazoxanide and filtered water rather than antibacterials.",
+  "source": "Generated from 3. Microbiology.pdf - Parasitology: Cryptosporidium and Cyclospora"
+},
+{
+  "id": "micro-131",
+  "subject": "Microbiology",
+  "major_topic": "Parasitology",
+  "subtopic": "Cryptosporidium and Cyclospora",
+  "difficulty": "hard",
+  "vignette": "A 38-year-old woman with a kidney transplant on tacrolimus and prednisone presents in July with 2 weeks of watery diarrhea, nausea, and fatigue after returning from a resort in the Caribbean where she ate fresh salads and fruit rinsed in local water. Stool modified acid-fast stain shows small round acid-fast structures, and stool antigen testing for Cryptosporidium is negative. The organism identified is an acid-fast coccidian that does not respond well to metronidazole.",
+  "question": "Which of the following antimicrobials is the most appropriate therapy?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Amphotericin B"
+    },
+    {
+      "id": "B",
+      "text": "Trimethoprim-sulfamethoxazole"
+    },
+    {
+      "id": "C",
+      "text": "Metronidazole"
+    },
+    {
+      "id": "D",
+      "text": "Praziquantel"
+    },
+    {
+      "id": "E",
+      "text": "Diethylcarbamazine"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Among the acid-fast, oocyst-forming coccidia that cause watery diarrhea, Cyclospora (like Cystoisospora) responds to trimethoprim-sulfamethoxazole, the same sulfonamide-trimethoprim combination First Aid lists for Pneumocystis treatment and prophylaxis and for Toxoplasma prophylaxis in HIV. Cryptosporidium is the important exception: it is managed with nitazoxanide in severe or immunocompromised disease plus water filtration. Recognizing that the sulfa combination is the difference prevents a mistrial of metronidazole, which has no activity against these coccidia.",
+  "explanation_incorrect": {
+    "A": "Amphotericin B is used for severe systemic mycoses, for Naegleria fowleri, and for leishmaniasis, and it has no role against an intestinal coccidian.",
+    "C": "Metronidazole covers Giardia, Entamoeba, and Trichomonas, but the acid-fast oocyst-forming coccidia are the classic parasites that do not respond reliably to it.",
+    "D": "Praziquantel is an anthelmintic for trematodes and cestodes such as Schistosoma, Clonorchis, and Taenia, and it has no antiprotozoal activity.",
+    "E": "Diethylcarbamazine treats filarial worms such as Wuchereria bancrofti and Loa loa, and it plays no part in intestinal protozoan disease."
+  },
+  "educationalObjective": "An acid-fast coccidian causing prolonged watery diarrhea that does not respond to metronidazole is treated with trimethoprim-sulfamethoxazole, whereas Cryptosporidium relies on nitazoxanide and filtered water.",
+  "source": "Generated from 3. Microbiology.pdf - Parasitology: Cryptosporidium and Cyclospora"
+}
+]

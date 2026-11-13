@@ -1,0 +1,166 @@
+[
+{
+  "id": "micro-203",
+  "subject": "Microbiology",
+  "major_topic": "Virology",
+  "subtopic": "Influenza virus",
+  "difficulty": "medium",
+  "vignette": "In early spring a novel influenza A strain emerges that contains a mixture of gene segments from swine, avian, and human influenza viruses. It spreads globally within months, and mortality is far higher than in previous flu seasons. Epidemiologists attribute the emergence to an event in a coinfected host cell.",
+  "question": "Which of the following best describes the mechanism responsible for this pandemic strain?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Antigenic shift from reassortment of RNA segments when one cell is coinfected by two different segmented influenza viruses"
+    },
+    {
+      "id": "B",
+      "text": "Phenotypic mixing of influenza with an unrelated virus, changing the hemagglutinin coat"
+    },
+    {
+      "id": "C",
+      "text": "Complementation between a mutant influenza virus and a wild-type paramyxovirus"
+    },
+    {
+      "id": "D",
+      "text": "Recombination of homologous DNA segments within the host nucleus"
+    },
+    {
+      "id": "E",
+      "text": "Antigenic drift from random point mutations in hemagglutinin, producing minor changes and local seasonal outbreaks"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Influenza is an orthomyxovirus with a segmented negative-sense ssRNA genome, so coinfection of one cell by two different strains permits reassortment of whole RNA segments. This produces a dramatically different virus with major antigenic change, leading to global pandemics; sudden shift is more deadly than gradual drift. The 2009 novel H1N1 pandemic arose through complex reassortment of human, swine, and avian genes.",
+  "explanation_incorrect": {
+    "B": "Phenotypic mixing creates a virion with another virus's surface proteins without changing the genome, so the change would not be heritable or globally sustained.",
+    "C": "Complementation rescues a defective protein in one virus but does not generate a new pandemic strain with a mixed segment composition.",
+    "D": "Influenza has an RNA genome, so there are no DNA segments to recombine; recombination by crossing over applies to DNA viruses with homologous sequences.",
+    "E": "Antigenic drift is the accumulation of random mutations in hemagglutinin or neuraminidase that produces minor changes and local seasonal epidemics, not a pandemic with a novel segment constellation."
+  },
+  "educationalObjective": "Antigenic shift is reassortment of RNA segments in a cell coinfected by two influenza strains and causes pandemics, whereas antigenic drift is slow point mutation causing seasonal epidemics.",
+  "source": "Generated from 3. Microbiology.pdf - Virology: Influenza virus"
+},
+{
+  "id": "micro-204",
+  "subject": "Microbiology",
+  "major_topic": "Virology",
+  "subtopic": "Influenza virus",
+  "difficulty": "medium",
+  "vignette": "A 70-year-old man presents in January with 2 days of fever, myalgias, and a dry cough during a community outbreak of influenza A. He is otherwise healthy and is not severely ill. The clinician discusses antiviral therapy active against influenza.",
+  "question": "Which of the following drugs acts by blocking release of progeny virions from infected respiratory cells?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Palivizumab, a monoclonal antibody against the F protein"
+    },
+    {
+      "id": "B",
+      "text": "Acyclovir, which inhibits viral DNA polymerase"
+    },
+    {
+      "id": "C",
+      "text": "Oseltamivir, a neuraminidase inhibitor"
+    },
+    {
+      "id": "D",
+      "text": "Amantadine, which blocks uncoating and viral entry"
+    },
+    {
+      "id": "E",
+      "text": "Ribavirin, which inhibits RNA synthesis broadly"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Influenza virions carry two surface antigens: hemagglutinin binds sialic acid and promotes entry, and neuraminidase promotes release of progeny virions. Neuraminidase inhibitors such as oseltamivir and zanamivir therefore trap new virions at the cell surface. Remember hemagglutinin lets the virus in and neuraminidase sends the virus away; treatment of influenza is supportive with or without a neuraminidase inhibitor.",
+  "explanation_incorrect": {
+    "A": "Palivizumab is a monoclonal antibody against the RSV fusion protein used to prevent RSV pneumonia in premature infants.",
+    "B": "Acyclovir requires viral thymidine kinase and inhibits herpesvirus DNA polymerase; it has no activity against an RNA virus like influenza.",
+    "D": "Amantadine blocks uncoating of influenza A by interfering with the M2 ion channel, which acts at entry rather than at release, and resistance is widespread.",
+    "E": "Ribavirin is used for other viral infections such as RSV and hepatitis C, not as standard influenza therapy."
+  },
+  "educationalObjective": "Neuraminidase inhibitors such as oseltamivir and zanamivir block release of progeny influenza virions, whereas hemagglutinin mediates entry.",
+  "source": "Generated from 3. Microbiology.pdf - Virology: Influenza virus"
+},
+{
+  "id": "micro-205",
+  "subject": "Microbiology",
+  "major_topic": "Virology",
+  "subtopic": "Influenza virus",
+  "difficulty": "hard",
+  "vignette": "A 58-year-old woman with diabetes recovers from influenza but returns 6 days later with recurrent high fever, productive cough, and pleuritic chest pain. Chest imaging shows a new lobar consolidation. Sputum Gram stain shows gram-positive cocci in pairs and chains.",
+  "question": "Which of the following pathogens most commonly causes fatal bacterial superinfection after influenza?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Mycoplasma pneumoniae and Chlamydia pneumoniae"
+    },
+    {
+      "id": "B",
+      "text": "Pseudomonas aeruginosa and Stenotrophomonas maltophilia"
+    },
+    {
+      "id": "C",
+      "text": "Pneumocystis jirovecii and cytomegalovirus"
+    },
+    {
+      "id": "D",
+      "text": "Bordetella pertussis and Legionella pneumophila"
+    },
+    {
+      "id": "E",
+      "text": "Staphylococcus aureus, Streptococcus pneumoniae, and Haemophilus influenzae"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Patients with influenza are at risk for fatal bacterial superinfection, most commonly Staphylococcus aureus, Streptococcus pneumoniae, and Haemophilus influenzae. Influenza damages the respiratory epithelium and exposes adhesion sites that allow bacterial adherence and invasion, producing a biphasic illness with improvement followed by recrudescent fever and consolidation. This is the reason secondary bacterial pneumonia is a leading cause of influenza-associated death.",
+  "explanation_incorrect": {
+    "A": "Atypical organisms such as Mycoplasma and Chlamydia pneumoniae cause slowly progressive pneumonia in young adults and are not the classic post-influenza superinfection trio.",
+    "B": "Pseudomonas and Stenotrophomonas are nosocomial organisms in patients with prior antibiotic exposure or structural lung disease, not the classic post-influenza pathogens.",
+    "C": "Pneumocystis and CMV cause pneumonia in immunocompromised patients, not in an immunocompetent host recovering from influenza.",
+    "D": "Pertussis causes paroxysmal cough without fever, and Legionella causes a water-source-associated pneumonia with hyponatremia and GI symptoms."
+  },
+  "educationalObjective": "Influenza predisposes to fatal bacterial superinfection with Staphylococcus aureus, Streptococcus pneumoniae, and Haemophilus influenzae.",
+  "source": "Generated from 3. Microbiology.pdf - Virology: Influenza virus"
+},
+{
+  "id": "micro-206",
+  "subject": "Microbiology",
+  "major_topic": "Virology",
+  "subtopic": "Influenza virus",
+  "difficulty": "medium",
+  "vignette": "A public health official explains that the influenza vaccine must be reformulated each year. Two formulations are available: an intramuscular killed vaccine and an intranasal live attenuated vaccine containing a temperature-sensitive mutant that replicates in the nose but not in the lung.",
+  "question": "Which of the following best explains why annual reformulation is necessary?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The killed vaccine induces only innate immunity and must be readministered for that reason"
+    },
+    {
+      "id": "B",
+      "text": "Reassortment of influenza with paramyxoviruses creates a new virus every year"
+    },
+    {
+      "id": "C",
+      "text": "The vaccine loses potency during storage so a fresh batch must be produced each year"
+    },
+    {
+      "id": "D",
+      "text": "Frequent point mutations in hemagglutinin and neuraminidase genes cause antigenic drift, so the vaccine must match the strains likely to circulate"
+    },
+    {
+      "id": "E",
+      "text": "Influenza virus switches from RNA to DNA genomes each season"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "The influenza vaccine is reformulated annually to contain the viral strains most likely to appear during the upcoming season, because the virus undergoes rapid genetic change. Random mutation in hemagglutinin or neuraminidase genes produces minor antigenic changes that occur frequently and cause local seasonal outbreaks. Hemagglutinin binds sialic acid and promotes entry, whereas neuraminidase promotes release of progeny virions.",
+  "explanation_incorrect": {
+    "A": "The killed vaccine induces adaptive antibody responses against hemagglutinin and neuraminidase; the reason for annual dosing is antigenic change, not absence of adaptive immunity.",
+    "B": "Reassortment occurs among influenza strains with segmented genomes, not between influenza and paramyxoviruses.",
+    "C": "Annual reformulation reflects strain change rather than loss of potency during storage of a single vaccine composition.",
+    "E": "Influenza is an orthomyxovirus with a negative-sense, segmented ssRNA genome and does not switch to a DNA genome."
+  },
+  "educationalObjective": "Annual influenza vaccination is needed because antigenic drift from frequent point mutations in hemagglutinin and neuraminidase changes the circulating strains.",
+  "source": "Generated from 3. Microbiology.pdf - Virology: Influenza virus"
+}
+]

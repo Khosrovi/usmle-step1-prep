@@ -1,0 +1,84 @@
+[
+{
+  "id": "micro-094",
+  "subject": "Microbiology",
+  "major_topic": "Clinical Bacteriology",
+  "subtopic": "Bacteroides fragilis",
+  "difficulty": "medium",
+  "vignette": "A 61-year-old man undergoes emergency surgery for a perforated sigmoid colon. Four days postoperatively he develops fever, tachycardia, and hypotension. Abdominal CT shows a fluid collection with a thick rim in the pelvis. Anaerobic culture of the aspirated fluid grows a gram-negative rod that does not grow in room air.",
+  "question": "Which of the following organisms is most likely responsible, and what is the correct characterization of this organism?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Pseudomonas aeruginosa, an aerobic oxidase-positive gram-negative rod"
+    },
+    {
+      "id": "B",
+      "text": "Actinomyces israelii, an anaerobic gram-positive branching filamentous rod"
+    },
+    {
+      "id": "C",
+      "text": "Bacteroides fragilis, an anaerobic gram-negative rod, a common cause of intra-abdominal abscesses"
+    },
+    {
+      "id": "D",
+      "text": "Escherichia coli, a lactose-fermenting gram-negative rod that is not anaerobic"
+    },
+    {
+      "id": "E",
+      "text": "Clostridium difficile, a gram-positive anaerobic spore-forming rod"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Bacteroides fragilis is an anaerobic gram-negative rod and a normal component of colonic microbiota, so it seeds infection when the bowel is breached by perforation, producing intra-abdominal abscesses. It is the classic anaerobe implicated in abscesses arising from colonic sources. Perforation of the colon releases a polymicrobial flora in which anaerobes such as Bacteroides are prominent.",
+  "explanation_incorrect": {
+    "A": "Pseudomonas aeruginosa is a strict aerobe, oxidase positive, often nosocomial and linked to burns, catheters, and cystic fibrosis.",
+    "B": "Actinomyces is gram positive with branching filaments and typically causes oral and facial abscesses with sulfur granules, not this colonic-source anaerobic abscess.",
+    "D": "Escherichia coli is a lactose-fermenting facultative anaerobe usually associated with UTI, neonatal meningitis, and diarrhea syndromes rather than a strictly anaerobic isolate.",
+    "E": "Clostridium difficile is gram positive and spore-forming, and causes antibiotic-associated pseudomembranous colitis rather than a postoperative peritoneal abscess."
+  },
+  "educationalObjective": "Bacteroides fragilis is an anaerobic gram-negative rod of colonic microbiota that seeds intra-abdominal abscesses after bowel perforation.",
+  "source": "Generated from 3. Microbiology.pdf - Clinical Bacteriology: Bacteroides fragilis"
+},
+{
+  "id": "micro-095",
+  "subject": "Microbiology",
+  "major_topic": "Clinical Bacteriology",
+  "subtopic": "Bacteroides fragilis",
+  "difficulty": "medium",
+  "vignette": "A 55-year-old man with diverticulitis develops a pelvic abscess requiring drainage. Gram stain of the pus shows a mixed population of organisms, and the anaerobic culture grows Bacteroides fragilis in addition to coliforms. The surgical team is choosing empiric antibiotic coverage while awaiting final susceptibilities.",
+  "question": "Which of the following best explains why anaerobic coverage is essential in this infection?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Bacteroides fragilis is a spore-forming organism that survives routine disinfection of tissue"
+    },
+    {
+      "id": "B",
+      "text": "Bacteroides fragilis grows only in the presence of 6.5% sodium chloride"
+    },
+    {
+      "id": "C",
+      "text": "Bacteroides fragilis requires a urea-containing medium to grow"
+    },
+    {
+      "id": "D",
+      "text": "Bacteroides fragilis is a strict anaerobe from colonic microbiota, so aerobic-only regimens may miss it in abscesses"
+    },
+    {
+      "id": "E",
+      "text": "Bacteroides fragilis is a facultative anaerobe that rapidly develops beta-lactamase resistance to all drugs"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Bacteroides fragilis is an obligate anaerobe that is part of normal colonic microbiota, and it flourishes in the low-oxygen environment of an abscess. Because it will not be recovered on routine aerobic culture, empiric coverage must include anaerobic activity when a colonic-source abscess is suspected. The mixed growth described is typical of the polymicrobial flora released by bowel perforation.",
+  "explanation_incorrect": {
+    "A": "The key property here is anaerobic growth, and Bacteroides is a non-spore-forming rod.",
+    "B": "Growth in 6.5% sodium chloride is a test that distinguishes enterococci, not Bacteroides.",
+    "C": "Urease production is characteristic of Proteus mirabilis, which promotes struvite stone formation, and is not a growth requirement of Bacteroides.",
+    "E": "Bacteroides fragilis is a strict anaerobe rather than a facultative one, and the issue is lack of anaerobic coverage rather than universal resistance."
+  },
+  "educationalObjective": "Because Bacteroides fragilis is a strict anaerobe of colonic microbiota, empiric therapy for colonic-source abscesses must include adequate anaerobic coverage.",
+  "source": "Generated from 3. Microbiology.pdf - Clinical Bacteriology: Bacteroides fragilis"
+}
+]

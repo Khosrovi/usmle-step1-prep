@@ -1,0 +1,84 @@
+[
+{
+  "id": "micro-149",
+  "subject": "Microbiology",
+  "major_topic": "Parasitology",
+  "subtopic": "Entamoeba histolytica",
+  "difficulty": "medium",
+  "vignette": "A 41-year-old man who emigrated from Mexico 2 years ago presents with 3 weeks of bloody diarrhea, tenesmus, and right upper quadrant pain. He is febrile to 38.4 C. Abdominal CT shows a large hypodense lesion in the right hepatic lobe. Colonoscopy reveals discrete ulcers with undermined edges in the cecum, and a biopsy of the ulcer margin is obtained.",
+  "question": "Which of the following findings is most likely to be reported?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Multinucleated trophozoites on stool microscopy"
+    },
+    {
+      "id": "B",
+      "text": "Crescent-shaped gametocytes on a blood smear"
+    },
+    {
+      "id": "C",
+      "text": "Motile flagellated trophozoites on a wet mount of vaginal discharge"
+    },
+    {
+      "id": "D",
+      "text": "Flask-shaped ulcers on colon biopsy"
+    },
+    {
+      "id": "E",
+      "text": "Oocysts that stain with acid-fast dye in stool"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Entamoeba histolytica causes amebiasis with bloody diarrhea (dysentery) and liver abscess containing anchovy paste exudate, plus right upper quadrant pain. Histology of the colon biopsy classically shows flask-shaped ulcers, where trophozoites undermine the mucosa. The trophozoite may contain engulfed RBCs and cysts contain up to 4 nuclei - the mnemonic is that Entamoeba Eats Erythrocytes. Because E histolytica is easily confused with the nonpathogenic E dispar, antigen testing, serology, and PCR are also used.",
+  "explanation_incorrect": {
+    "A": "Multinucleated trophozoites in stool are the hallmark of Giardia lamblia, which colonizes the small bowel and produces malabsorptive fatty diarrhea rather than bloody dysentery.",
+    "B": "Crescent-shaped gametocytes are a blood-smear finding of Plasmodium falciparum, an intraerythrocytic parasite that does not form colonic ulcers or hepatic abscesses.",
+    "C": "Motile flagellated trophozoites on a wet mount of vaginal discharge describe Trichomonas vaginalis, which causes vaginitis with a strawberry cervix and never disseminates to the liver.",
+    "E": "Acid-fast staining of stool for oocysts identifies Cryptosporidium and the other acid-fast coccidia, which cause watery diarrhea without colonic ulceration or liver abscess."
+  },
+  "educationalObjective": "Bloody dysentery with a right hepatic lobe abscess in a patient from an endemic area is amebiasis, with flask-shaped colonic ulcers and trophozoites containing engulfed RBCs.",
+  "source": "Generated from 3. Microbiology.pdf - Parasitology: Entamoeba histolytica"
+},
+{
+  "id": "micro-150",
+  "subject": "Microbiology",
+  "major_topic": "Parasitology",
+  "subtopic": "Entamoeba histolytica",
+  "difficulty": "hard",
+  "vignette": "A 30-year-old man is evaluated during a refugee health screening. He feels entirely well, has formed bowel movements once daily, and has no fever, abdominal pain, or weight loss. Stool microscopy shows cysts of Entamoeba histolytica and stool antigen testing is positive. Liver enzymes are normal and abdominal ultrasound shows no abscess.",
+  "question": "Which of the following is the most appropriate treatment for this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Praziquantel"
+    },
+    {
+      "id": "B",
+      "text": "Sulfadiazine plus pyrimethamine"
+    },
+    {
+      "id": "C",
+      "text": "Paromomycin"
+    },
+    {
+      "id": "D",
+      "text": "Nitazoxanide"
+    },
+    {
+      "id": "E",
+      "text": "Ivermectin"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "An asymptomatic cyst passer is treated with paromomycin, a nonabsorbed luminal agent that clears cysts from the colon, prevents later invasive disease, and reduces onward transmission. Metronidazole is reserved for symptomatic invasive amebiasis such as bloody dysentery or a liver abscess, where it acts on tissue trophozoites. First Aid separates these two drugs precisely for this reason: paromomycin for asymptomatic cyst passers, metronidazole for symptomatic disease.",
+  "explanation_incorrect": {
+    "A": "Praziquantel treats trematodes and cestodes such as Schistosoma, Clonorchis, and Taenia, and has no effect on amebic cysts or trophozoites.",
+    "B": "Sulfadiazine plus pyrimethamine is the Toxoplasma regimen, targeting an intracellular protozoan of brain and muscle rather than a luminal intestinal ameba.",
+    "D": "Nitazoxanide is listed for Cryptosporidium (severe or immunocompromised disease) and giardiasis, and it is not the First Aid drug for an asymptomatic ameba cyst passer.",
+    "E": "Ivermectin is the treatment for Strongyloides, Onchocerca volvulus, and scabies, and it does not eradicate Entamoeba from the bowel."
+  },
+  "educationalObjective": "Asymptomatic Entamoeba histolytica cyst passers get the luminal agent paromomycin, whereas symptomatic invasive amebiasis (dysentery, liver abscess) is treated with metronidazole.",
+  "source": "Generated from 3. Microbiology.pdf - Parasitology: Entamoeba histolytica"
+}
+]

@@ -1,0 +1,125 @@
+[
+{
+  "id": "micro-001",
+  "subject": "Microbiology",
+  "major_topic": "Clinical Bacteriology",
+  "subtopic": "Actinomyces and Nocardia",
+  "difficulty": "medium",
+  "vignette": "A 35-year-old man presents with a slowly enlarging, hard swelling at the angle of the jaw with several small draining sinus tracts that express yellow granules. He had a dental extraction 6 weeks ago. The organism is a gram-positive branching filamentous rod that is not acid fast and grows only under anaerobic conditions. He has no pulmonary symptoms.",
+  "question": "Which of the following is the most appropriate treatment?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Penicillin"
+    },
+    {
+      "id": "B",
+      "text": "Trimethoprim-sulfamethoxazole"
+    },
+    {
+      "id": "C",
+      "text": "Isoniazid, rifampin, pyrazinamide, and ethambutol"
+    },
+    {
+      "id": "D",
+      "text": "Doxycycline"
+    },
+    {
+      "id": "E",
+      "text": "Vancomycin"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "This is actinomycosis, caused by Actinomyces, which forms long branching filaments, is an anaerobe, is catalase negative, is not acid fast, and is normal oral, reproductive, and GI microbiota. It produces oral and facial abscesses that drain through sinus tracts, often after dental caries or extraction, and forms yellow sulfur granules. The mnemonic SNAP applies: sulfonamides for Nocardia and penicillin for Actinomyces.",
+  "explanation_incorrect": {
+    "B": "TMP-SMX is the treatment for Nocardia, which is aerobic, catalase positive, and weakly acid fast, unlike this anaerobic organism.",
+    "C": "This multidrug regimen is for tuberculosis, and the source notes that Nocardia can mimic TB but with a negative PPD; neither organism is a mycobacterium.",
+    "D": "Doxycycline is used for atypical organisms such as Mycoplasma and Chlamydia and for Lyme disease, not for actinomycosis.",
+    "E": "Vancomycin targets gram-positive cocci such as MRSA and enterococci, not the treatment of choice for Actinomyces."
+  },
+  "educationalObjective": "Actinomyces is an anaerobic, non-acid-fast, branching filamentous organism that forms sulfur granules and is treated with penicillin.",
+  "source": "Generated from 3. Microbiology.pdf - Clinical Bacteriology: Actinomyces and Nocardia"
+},
+{
+  "id": "micro-002",
+  "subject": "Microbiology",
+  "major_topic": "Clinical Bacteriology",
+  "subtopic": "Actinomyces and Nocardia",
+  "difficulty": "medium",
+  "vignette": "A 62-year-old man receiving chronic high-dose corticosteroids for autoimmune disease presents with 3 weeks of productive cough, fever, and night sweats. Chest imaging shows a cavitary upper lobe lesion resembling tuberculosis, but a PPD is negative. Sputum culture grows a weakly acid-fast, branching, filamentous gram-positive rod that is catalase positive and grows aerobically. Brain MRI shows a ring-enhancing lesion.",
+  "question": "Which of the following best identifies the organism and its treatment?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Nocardia, treated with penicillin"
+    },
+    {
+      "id": "B",
+      "text": "Actinomyces, treated with sulfonamides"
+    },
+    {
+      "id": "C",
+      "text": "Nocardia, treated with sulfonamides such as trimethoprim-sulfamethoxazole"
+    },
+    {
+      "id": "D",
+      "text": "Actinomyces, treated with penicillin"
+    },
+    {
+      "id": "E",
+      "text": "Mycobacterium tuberculosis, treated with rifampin and isoniazid"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Nocardia is an aerobic, catalase-positive, weakly acid-fast branching filamentous gram-positive rod found in soil. It causes pulmonary infection in immunocompromised patients that can mimic TB but with a negative PPD, and it can spread to the CNS as a cerebral abscess. Treatment is with sulfonamides such as TMP-SMX, summarized by the mnemonic that treatment is a SNAP: Sulfonamides for Nocardia, Penicillin for Actinomyces.",
+  "explanation_incorrect": {
+    "A": "Although the organism is correctly identified as Nocardia, penicillin is the treatment for Actinomyces, not for Nocardia.",
+    "B": "Both the organism identity and the drug pairing are reversed here; Actinomyces is anaerobic, not acid fast, and treated with penicillin.",
+    "D": "Actinomyces is an anaerobe, catalase negative, and not acid fast, and it causes oral and facial disease with sulfur granules rather than this cavitary pulmonary and CNS picture.",
+    "E": "TB can produce cavitary upper lobe disease with CNS involvement, but it is acid-fast with a different morphology on culture and would show a strongly positive acid-fast stain rather than weakly acid-fast branching filaments."
+  },
+  "educationalObjective": "Nocardia is aerobic, catalase positive, weakly acid fast, and soil-dwelling, causing pulmonary and CNS abscesses in immunocompromised hosts and treating with sulfonamides.",
+  "source": "Generated from 3. Microbiology.pdf - Clinical Bacteriology: Actinomyces and Nocardia"
+},
+{
+  "id": "micro-003",
+  "subject": "Microbiology",
+  "major_topic": "Clinical Bacteriology",
+  "subtopic": "Actinomyces and Nocardia",
+  "difficulty": "medium",
+  "vignette": "Two organisms isolated in a hospital microbiology laboratory both appear as long, branching, filamentous gram-positive rods that resemble fungi under the microscope. One grew aerobically and was catalase positive; the other grew only under anaerobic conditions and was catalase negative.",
+  "question": "Which of the following best distinguishes these two organisms on staining?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The aerobic isolate is weakly acid fast, whereas the anaerobic isolate is not acid fast"
+    },
+    {
+      "id": "B",
+      "text": "The anaerobic isolate is weakly acid fast, whereas the aerobic isolate is not acid fast"
+    },
+    {
+      "id": "C",
+      "text": "Both isolates are strongly acid fast and are therefore classified as mycobacteria"
+    },
+    {
+      "id": "D",
+      "text": "The aerobic isolate is gram negative, whereas the anaerobic isolate is gram positive"
+    },
+    {
+      "id": "E",
+      "text": "Both isolates are candida species that form pseudohyphae"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Both Nocardia and Actinomyces are gram-positive and form long branching filaments resembling fungi, which is why they are often contrasted in a table. Nocardia is the aerobe, catalase positive, and weakly acid fast, found in soil. Actinomyces is the anaerobe, catalase negative, and not acid fast, and is normal oral, reproductive, and GI microbiota.",
+  "explanation_incorrect": {
+    "B": "This reverses the pair; acid fastness is a property of Nocardia, the aerobic organism.",
+    "C": "Neither is strongly acid fast; mycobacteria such as M tuberculosis are the acid-fast rods that grow slowly in culture.",
+    "D": "Both organisms are gram positive, which is part of why they are mistaken for fungi in tissue.",
+    "E": "Candida are true fungi with pseudohyphae and do not grow as the aerobic and anaerobic filamentous bacterial pair described."
+  },
+  "educationalObjective": "Nocardia is the aerobic, catalase-positive, weakly acid-fast branching rod, while Actinomyces is the anaerobic, catalase-negative, non-acid-fast one.",
+  "source": "Generated from 3. Microbiology.pdf - Clinical Bacteriology: Actinomyces and Nocardia"
+}
+]

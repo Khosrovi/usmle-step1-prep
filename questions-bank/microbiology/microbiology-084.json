@@ -1,0 +1,84 @@
+[
+{
+  "id": "micro-257",
+  "subject": "Microbiology",
+  "major_topic": "Mycology",
+  "subtopic": "Pneumocystis jirovecii",
+  "difficulty": "medium",
+  "vignette": "A 31-year-old man with untreated HIV infection presents with three weeks of progressive exertional dyspnea, dry cough, and fever. His oxygen saturation falls from 96% to 88% with ambulation, and his CD4+ count is 90 cells/mm3. Chest radiograph shows diffuse bilateral interstitial infiltrates, and high-resolution CT shows patchy ground-glass opacities.",
+  "question": "Which of the following is the most likely causative organism?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Pneumocystis jirovecii"
+    },
+    {
+      "id": "B",
+      "text": "Coccidioides immitis"
+    },
+    {
+      "id": "C",
+      "text": "Aspergillus fumigatus"
+    },
+    {
+      "id": "D",
+      "text": "Cryptococcus neoformans"
+    },
+    {
+      "id": "E",
+      "text": "Histoplasma capsulatum"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Pneumocystis jirovecii is a yeastlike fungus that causes Pneumocystis pneumonia, a diffuse interstitial pneumonia seen in immunosuppression, particularly AIDS with a low CD4+ count. It classically produces diffuse bilateral ground-glass opacities and pneumatoceles on chest imaging, with progressive dyspnea on exertion and marked exertional hypoxemia. It is diagnosed by bronchoalveolar lavage or lung biopsy showing disc-shaped yeasts with methenamine silver staining or fluorescent antibody. Treatment and prophylaxis use TMP-SMX.",
+  "explanation_incorrect": {
+    "B": "Coccidioides causes a focal pneumonitis or cavity in patients with dust exposure in the southwestern United States and shows spherules with endospores on biopsy.",
+    "C": "Aspergillus produces nodular or cavitary lesions in neutropenic patients and shows septate hyphae with acute-angle branching rather than diffuse ground-glass disease.",
+    "D": "Cryptococcus mainly causes meningitis and pneumonia in immunocompromised patients, and its hallmark is a thick capsule seen with India ink or mucicarmine.",
+    "E": "Histoplasma typically follows bird or bat droppings exposure in river valleys and shows macrophages stuffed with small yeasts and portal-of-entry pulmonary infiltrates."
+  },
+  "educationalObjective": "Pneumocystis jirovecii causes diffuse bilateral ground-glass pneumonia in AIDS patients with low CD4+ counts.",
+  "source": "Generated from 3. Microbiology.pdf - Mycology: Pneumocystis jirovecii"
+},
+{
+  "id": "micro-258",
+  "subject": "Microbiology",
+  "major_topic": "Mycology",
+  "subtopic": "Pneumocystis jirovecii",
+  "difficulty": "medium",
+  "vignette": "A 45-year-old man with HIV infection has a CD4+ count of 185 cells/mm3 and is asymptomatic. He takes no antiretroviral therapy and has had no opportunistic infections. His physician wants to start prophylaxis against Pneumocystis pneumonia at the correct threshold.",
+  "question": "Which of the following is the most appropriate prophylaxis for this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Trimethoprim-sulfamethoxazole"
+    },
+    {
+      "id": "B",
+      "text": "Aerosolized amphotericin B"
+    },
+    {
+      "id": "C",
+      "text": "Azithromycin"
+    },
+    {
+      "id": "D",
+      "text": "Isoniazid"
+    },
+    {
+      "id": "E",
+      "text": "Fluconazole"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Prophylaxis against Pneumocystis pneumonia should begin when the CD4+ cell count falls below 200 cells/mm3 in people living with HIV, and at a CD4+ count below 100 cells/mm3 TMP-SMX also covers toxoplasmosis. TMP-SMX is the preferred agent, with pentamidine, dapsone, and atovaquone as alternatives for treatment and prophylaxis. At 185 cells/mm3 this patient has crossed the treatment threshold and needs prophylaxis now. TMP-SMX is also the first-line treatment for active PCP.",
+  "explanation_incorrect": {
+    "B": "Inhaled or aerosolized pentamidine is an alternative agent, but amphotericin B is used for serious systemic mycoses such as mucormycosis and cryptococcal meningitis, not for PCP prophylaxis.",
+    "C": "Azithromycin is a macrolide used for atypical respiratory pathogens and Mycobacterium avium complex prophylaxis, not for Pneumocystis.",
+    "D": "Isoniazid is used to treat and prevent reactivation of latent tuberculosis infection, which is a separate consideration in HIV patients.",
+    "E": "Fluconazole is an azole used for Candida infections and chronic suppressive therapy for cryptococcal meningitis, not for Pneumocystis prophylaxis."
+  },
+  "educationalObjective": "TMP-SMX prophylaxis for Pneumocystis pneumonia starts when the CD4+ count falls below 200 cells/mm3 in HIV infection.",
+  "source": "Generated from 3. Microbiology.pdf - Mycology: Pneumocystis jirovecii"
+}
+]

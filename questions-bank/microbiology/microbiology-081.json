@@ -1,0 +1,84 @@
+[
+{
+  "id": "micro-248",
+  "subject": "Microbiology",
+  "major_topic": "Basic Bacteriology",
+  "subtopic": "Normal flora and opportunistic infections",
+  "difficulty": "medium",
+  "vignette": "A 72-year-old man has a witnessed aspiration event after a stroke, and 3 days later develops fever, productive cough, and a right lower lobe infiltrate with a foul-smelling sputum sample. Anaerobic culture grows organisms from the mouth.",
+  "question": "Which statement best explains why these organisms are pathogenic in this setting?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Clostridium perfringens, a catalase-negative spore-forming anaerobic bacillus"
+    },
+    {
+      "id": "B",
+      "text": "Listeria monocytogenes, a catalase-positive facultative intracellular rod"
+    },
+    {
+      "id": "C",
+      "text": "Burkholderia cepacia, a catalase-positive gram-negative rod forming biofilms"
+    },
+    {
+      "id": "D",
+      "text": "Corynebacterium diphtheriae, a catalase-positive gram-positive rod forming black colonies"
+    },
+    {
+      "id": "E",
+      "text": "Streptococcus pneumoniae, a catalase-negative alpha-hemolytic gram-positive diplococcus"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Anaerobes such as Clostridioides, Clostridium, Bacteroides, Fusobacterium, and Actinomyces israelii are normal microbiota of the GI tract and are typically pathogenic elsewhere; aspiration pneumonia is the classic example. They are often foul smelling from short-chain fatty acids, produce gas in tissue, are difficult to culture, and lack catalase and/or superoxide dismutase. Aminoglycosides are ineffective against them because these drugs require oxygen to enter the bacterial cell. The concept to carry forward is that many bacterial infections are opportunism by resident flora when a barrier is breached.",
+  "explanation_incorrect": {
+    "A": "Encapsulated organisms such as S pneumoniae, Klebsiella, and H influenzae are opsonized and cleared by the spleen; these anaerobes are not in that group and the mechanism does not match.",
+    "B": "Obligate intracellular organisms are Rickettsia, Chlamydia, and Coxiella (\"stay inside cells when it is Really Chilly and Cold\"); they are not oral anaerobes.",
+    "C": "The organisms here are commensals of the mouth and GI tract that cause disease only when they reach protected sites; aspiration gives them such access.",
+    "D": "Catalase positivity is a feature of organisms such as S aureus, Candia, Pseudomonas, Nocardia, and Aspergillus, and it protects against oxidative killing, not a mechanism of aspiration pathogenicity."
+  },
+  "educationalObjective": "Oral and GI anaerobes are normal microbiota that become pathogens when aspirated into the lung, and aminoglycosides do not cover them.",
+  "source": "Generated from 3. Microbiology.pdf - Basic Bacteriology: Normal flora and opportunistic infections"
+},
+{
+  "id": "micro-249",
+  "subject": "Microbiology",
+  "major_topic": "Basic Bacteriology",
+  "subtopic": "Normal flora and opportunistic infections",
+  "difficulty": "hard",
+  "vignette": "A 41-year-old woman with chronic granulomatous disease has recurrent infections including liver abscesses and pneumonia. The microbiology laboratory reports growth of a catalase-positive organism on buffered charcoal yeast extract agar with cysteine and iron.",
+  "question": "Which organism fits this pattern of catalase positivity and the described culture requirement?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Listeria monocytogenes"
+    },
+    {
+      "id": "B",
+      "text": "Burkholderia cepacia"
+    },
+    {
+      "id": "C",
+      "text": "Clostridium perfringens"
+    },
+    {
+      "id": "D",
+      "text": "Streptococcus pneumoniae"
+    },
+    {
+      "id": "E",
+      "text": "Legionella pneumophila"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Legionella is catalase positive (as are Candida, Pseudomonas, Nocardia, Bordetella pertussis, Burkholderia cepacia, H pylori, Aspergillus, staphylococci, Serratia, Listeria, and E coli, mnemonic \"Notoriously Big Bubbling HASSLE\") and it grows on buffered charcoal yeast extract agar with cysteine and iron. Patients with chronic granulomatous disease, who lack NADPH oxidase and cannot generate the oxidative burst, are particularly susceptible to catalase-positive organisms; mycobacterial and Legionella exposure are both described in that population. The methylotrophs here rely on cysteine, which is why the mnemonic hints at the Sistine chapel.",
+  "explanation_incorrect": {
+    "A": "Listeria is catalase positive and a facultative intracellular organism, but it grows on routine media as a motile gram-positive rod and needs no charcoal-yeast-extract medium.",
+    "B": "Burkholderia cepacia is catalase positive, but its classic association is with respiratory colonization in cystic fibrosis and hospital outbreaks, not the cysteine- and iron-supplemented medium named.",
+    "C": "Clostridium perfringens is an anaerobe that lacks catalase and grows on anaerobic media; it causes gas gangrene via phospholipase-laden alpha toxin, which is a separate pathogenesis.",
+    "D": "S pneumoniae is catalase negative and would be identified as a lancet-shaped gram-positive diplococcus causing pneumonia, sinusitis, and meningitis, not grown on BCYE."
+  },
+  "educationalObjective": "Legionella is a catalase-positive organism that grows on BCYE with cysteine and iron and infects CGD patients.",
+  "source": "Generated from 3. Microbiology.pdf - Basic Bacteriology: Normal flora and opportunistic infections"
+}
+]

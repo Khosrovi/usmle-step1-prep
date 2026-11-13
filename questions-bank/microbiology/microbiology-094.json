@@ -1,0 +1,84 @@
+[
+{
+  "id": "micro-281",
+  "subject": "Microbiology",
+  "major_topic": "Clinical Bacteriology",
+  "subtopic": "Shigella",
+  "difficulty": "medium",
+  "vignette": "A 32-year-old man develops high fever, crampy lower abdominal pain, and frequent small-volume stools containing blood and mucus, along with a persistent urge to defecate even when the rectum is empty. He ate at a restaurant where a food handler had diarrheal illness. Stool culture grows a gram-negative rod that is oxidase negative, non-lactose fermenting, and does not produce H2S or flagella.",
+  "question": "Which of the following best explains the small inoculum needed to transmit this infection?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Hematogenous spread before intestinal invasion"
+    },
+    {
+      "id": "B",
+      "text": "Urease production neutralizing gastric acid"
+    },
+    {
+      "id": "C",
+      "text": "Production of a Vi capsular polysaccharide"
+    },
+    {
+      "id": "D",
+      "text": "Acid stability allowing survival through the stomach"
+    },
+    {
+      "id": "E",
+      "text": "Formation of heat-resistant endospores"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "This is bacillary dysentery caused by Shigella, with crampy abdominal pain, tenesmus, and bloody mucoid stools. Shigella has a low infectious dose because it is acid stable and resistant to gastric acids, and invasion of M cells of Peyer patches is key to its pathogenicity. It spreads cell to cell without hematogenous dissemination, does not produce H2S or flagella, and its reservoir is humans only.",
+  "explanation_incorrect": {
+    "A": "Shigella spreads from cell to cell without hematogenous spread, which is the opposite of Salmonella; hematogenous spread would not explain the low infectious dose.",
+    "B": "Urease production is a feature of Proteus mirabilis and Helicobacter pylori; it is not how Shigella survives gastric acid, and H pylori creates local alkaline microenvironments rather than neutralizing the stomach.",
+    "C": "A Vi capsule belongs to Salmonella typhi, which has a high infectious dose because it is acid labile; Shigella has no such capsule.",
+    "E": "Shigella does not form spores; spore formation belongs to Bacillus and Clostridium species."
+  },
+  "educationalObjective": "Shigella causes bacillary dysentery with tenesmus and has a very low infectious dose because it is acid stable and resists gastric acid.",
+  "source": "Generated from 3. Microbiology.pdf - Clinical Bacteriology: Shigella"
+},
+{
+  "id": "micro-282",
+  "subject": "Microbiology",
+  "major_topic": "Clinical Bacteriology",
+  "subtopic": "Shigella",
+  "difficulty": "medium",
+  "vignette": "A 28-year-old man presents with 2 days of fever, abdominal cramps, tenesmus, and 10 to 12 bloody mucoid stools per day. He is otherwise healthy and well hydrated. Stool culture grows Shigella sonnei. The patient asks whether antibiotics will help him recover faster and whether they will affect how long he remains contagious.",
+  "question": "Which of the following statements about this infection is correct?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Antibiotics shorten the duration of fecal excretion and illness"
+    },
+    {
+      "id": "B",
+      "text": "Antibiotics eliminate the human carrier state in the gallbladder"
+    },
+    {
+      "id": "C",
+      "text": "Antibiotics are contraindicated because they precipitate hemolytic-uremic syndrome"
+    },
+    {
+      "id": "D",
+      "text": "Antibiotics are not indicated in immunocompetent individuals and only prolong shedding"
+    },
+    {
+      "id": "E",
+      "text": "Antibiotics lengthen fecal excretion, similar to Salmonella infection"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "In Shigella infection, antibiotics shorten the duration of fecal excretion, in contrast to Salmonella, where antibiotics prolong shedding. Shigella has humans as its only reservoir, requires a very small inoculum because it is acid stable, and causes bacillary dysentery through invasion of M cells; antibiotic treatment reduces both illness duration and transmission.",
+  "explanation_incorrect": {
+    "B": "Gallbladder carriage is a feature of Salmonella typhi; Shigella infection does not establish a chronic biliary carrier state.",
+    "C": "Antibiotic-precipitated hemolytic-uremic syndrome is a concern in enterohemorrhagic E coli O157:H7 infection, not a reason to withhold antibiotics in shigellosis.",
+    "D": "Antibiotics are not indicated in immunocompetent patients with uncomplicated Salmonella gastroenteritis, not with shigellosis, where treatment shortens illness and shedding.",
+    "E": "Lengthened fecal excretion with antibiotics is a feature of Salmonella infection, and the source text contrasts that directly with Shigella, in which shedding is shortened."
+  },
+  "educationalObjective": "Antibiotics shorten both illness and fecal shedding in Shigella infection, unlike Salmonella, in which they prolong shedding.",
+  "source": "Generated from 3. Microbiology.pdf - Clinical Bacteriology: Shigella"
+}
+]

@@ -1,0 +1,84 @@
+[
+{
+  "id": "micro-347",
+  "subject": "Microbiology",
+  "major_topic": "Basic Bacteriology",
+  "subtopic": "Transposons, insertion sequences, and antibiotic resistance genes",
+  "difficulty": "medium",
+  "vignette": "A 66-year-old man in intensive care is colonized with vancomycin-resistant Enterococcus faecium. Weeks later, vancomycin-resistant Staphylococcus aureus is isolated from a wound in the same unit. Molecular typing shows the vanA gene cluster is identical to that of the enterococcus and is carried on Tn1546.",
+  "question": "Which mechanism most likely explains the transfer of vanA resistance into the staphylococcal genome?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Specialized transduction by a lysogenic phage"
+    },
+    {
+      "id": "B",
+      "text": "Generalized transduction by a lytic phage"
+    },
+    {
+      "id": "C",
+      "text": "Transformation with naked chromosomal DNA"
+    },
+    {
+      "id": "D",
+      "text": "F+ x F- conjugation of the F plasmid"
+    },
+    {
+      "id": "E",
+      "text": "Transposition of a transposon carrying vanA"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Transposons are specialized DNA segments that can copy and excise themselves and insert into the same or an unrelated DNA molecule, including between plasmid and chromosome. Transposition is critical in creating plasmids with multiple drug resistance and in moving resistance across species lines, with Tn1546 carrying vanA from Enterococcus to S aureus as the textbook example. Unlike transduction, transposition needs no phage, and unlike simple conjugation it can move a block of resistance genes into an already existing plasmid. This is the mechanistic basis for multidrug-resistant hospital organisms.",
+  "explanation_incorrect": {
+    "A": "Specialized transduction moves genes flanking a prophage integration site, and Tn1546 is a transposon, not a prophage component.",
+    "B": "Generalized transduction requires a phage packaging error and typically transfers chromosomal genes; the vanA cluster here is a mobile element, not a phage-packaged fragment.",
+    "C": "Transformation requires competence and uptake of naked DNA, which would not reliably deliver an intact multi-gene transposon into a plasmid or chromosome.",
+    "D": "F+ x F- conjugation transfers the F plasmid between gram-negatives; conjugative plasmid transfer can move DNA, but the element identified here is a transposon."
+  },
+  "educationalObjective": "Transposons jump between DNA molecules and can move blocks of resistance genes such as Tn1546 (vanA) across species lines.",
+  "source": "Generated from 3. Microbiology.pdf - Basic Bacteriology: Transposons, insertion sequences, and antibiotic resistance genes"
+},
+{
+  "id": "micro-348",
+  "subject": "Microbiology",
+  "major_topic": "Basic Bacteriology",
+  "subtopic": "Transposons, insertion sequences, and antibiotic resistance genes",
+  "difficulty": "hard",
+  "vignette": "A 52-year-old woman treated for a urinary tract infection returns with a more resistant isolate. The laboratory reports a single plasmid now carrying resistance to three unrelated antibiotic classes, although the original isolate was susceptible to two of them. Restriction analysis suggests new DNA segments of a few kilobases were inserted into the plasmid.",
+  "question": "Which process best explains how the plasmid acquired this clustered multiple drug resistance?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Transposition of a mobile DNA segment into an unrelated DNA molecule"
+    },
+    {
+      "id": "B",
+      "text": "Generalized transduction of random chromosomal genes by a temperate phage"
+    },
+    {
+      "id": "C",
+      "text": "Generalized transduction by a lytic phage carrying a packaging error"
+    },
+    {
+      "id": "D",
+      "text": "Specialized transduction, following a site-specific excision event in a lysogenic prophage"
+    },
+    {
+      "id": "E",
+      "text": "Conjugation through the sex pilus between an F positive donor and an F minus cell"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Transposons can copy and excise and then insert into an unrelated DNA molecule, a plasmid here, which is exactly how plasmids with multiple drug resistance are created. The insertion of new segments into the plasmid map and the simultaneous appearance of resistance to unrelated drug classes are the fingerprints. Transposition also permits movement across species lines, unlike chromosome mutations, which stay in one lineage. This single-event block acquisition is why multidrug-resistant plasmids can appear abruptly in clinical isolates.",
+  "explanation_incorrect": {
+    "A": "Transformation imports short fragments of naked DNA and is DNase sensitive; an intact multi-class resistance cassette on a plasmid is not the typical product.",
+    "B": "Lysogenic conversion adds phage-encoded toxin genes (e.g., cholera, diphtheria, Shiga, botulinum, erythrogenic toxins), not antibiotic resistance cassettes.",
+    "D": "Decreased uptake via porin loss reduces entry of some drugs such as the tetracyclines and fluoroquinolones but does not insert new DNA or confer resistance to unrelated drug classes.",
+    "E": "Point mutations accumulate slowly and produce resistance to one drug family at a time; they do not create the multi-kilobase insertions or a coordinated resistance phenotype."
+  },
+  "educationalObjective": "Transposons insert blocks of resistance genes into plasmids, creating multidrug-resistance plasmids in a single event.",
+  "source": "Generated from 3. Microbiology.pdf - Basic Bacteriology: Transposons, insertion sequences, and antibiotic resistance genes"
+}
+]

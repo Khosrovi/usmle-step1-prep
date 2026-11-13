@@ -1,0 +1,248 @@
+[
+{
+  "id": "micro-029",
+  "subject": "Microbiology",
+  "major_topic": "Antimicrobials",
+  "subtopic": "Beta-lactam antibiotics: penicillin and cephalosporins",
+  "difficulty": "easy",
+  "vignette": "A 27-year-old woman presents with fever, headache, neck stiffness, and photophobia. CSF Gram stain shows gram-positive diplococci, and CSF culture grows Streptococcus pneumoniae. She has no drug allergies, and the team plans empiric therapy with ceftriaxone plus vancomycin while awaiting susceptibilities.",
+  "question": "Which of the following best describes the mechanism of action of the beta-lactam class to which both drugs belong?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Binding D-Ala-D-Ala to prevent incorporation of cell wall precursors into the nascent peptidoglycan"
+    },
+    {
+      "id": "B",
+      "text": "Transpeptidase blockade with activation of autolysins"
+    },
+    {
+      "id": "C",
+      "text": "Binding the 50S ribosomal subunit and blocking translocation during elongation"
+    },
+    {
+      "id": "D",
+      "text": "Inhibiting DNA gyrase and topoisomerase IV to cause double-strand breaks"
+    },
+    {
+      "id": "E",
+      "text": "Inhibiting dihydropteroate synthase to block bacterial folate synthesis"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Beta-lactams are D-Ala-D-Ala structural analogs that bind penicillin-binding proteins, the transpeptidases that cross-link peptidoglycan, and they also activate autolytic enzymes, so the cell wall cannot be maintained and the bacterium lyses. Ceftriaxone is a third-generation cephalosporin that crosses the blood-brain barrier and is used for meningitis, and vancomycin is added for resistant pneumococci. Neither cephalosporins nor vancomycin is degraded by beta-lactamases.",
+  "explanation_incorrect": {
+    "A": "Binding D-Ala-D-Ala describes vancomycin, a glycopeptide whose bulky structure prevents cross-linking, whereas beta-lactams are the structural analog that occupies the transpeptidase active site.",
+    "C": "Blocking translocation at the 50S subunit describes macrolides and clindamycin, which are protein synthesis inhibitors.",
+    "D": "Inhibiting DNA gyrase and topoisomerase IV describes fluoroquinolones, which target DNA integrity.",
+    "E": "Dihydropteroate synthase inhibition describes sulfonamides, which interrupt folate synthesis rather than cell wall cross-linking."
+  },
+  "educationalObjective": "Beta-lactams bind penicillin-binding proteins (transpeptidases) to block peptidoglycan cross-linking and activate autolysins, producing bactericidal cell death.",
+  "source": "Generated from 3. Microbiology.pdf - Antimicrobials: Beta-lactam antibiotics: penicillin and cephalosporins"
+},
+{
+  "id": "micro-030",
+  "subject": "Microbiology",
+  "major_topic": "Antimicrobials",
+  "subtopic": "Beta-lactam antibiotics: penicillin and cephalosporins",
+  "difficulty": "medium",
+  "vignette": "A 62-year-old man with a history of penicillin anaphylaxis requires elective dental extraction and has a prosthetic valve, so he needs infective endocarditis prophylaxis. His dentist wonders whether a first-generation cephalosporin would be safe. He later develops an infected prosthetic joint with a penicillinase-producing Staphylococcus aureus, and the team selects an antibiotic that is penicillinase resistant because of its bulky R group.",
+  "question": "Which of the following drugs is a penicillinase-resistant penicillin appropriate for this S aureus infection?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Penicillin G"
+    },
+    {
+      "id": "B",
+      "text": "Nafcillin"
+    },
+    {
+      "id": "C",
+      "text": "Amoxicillin"
+    },
+    {
+      "id": "D",
+      "text": "Piperacillin"
+    },
+    {
+      "id": "E",
+      "text": "Ampicillin"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Nafcillin, oxacillin, and dicloxacillin are penicillinase-resistant penicillins: their bulky R group blocks access of beta-lactamase to the beta-lactam ring, which is why they work against S aureus except MRSA. The First Aid mnemonic is \"use naf (nafcillin) for staph.\" Their spectrum is narrow, and adverse effects include hypersensitivity and interstitial nephritis.",
+  "explanation_incorrect": {
+    "A": "Penicillin G is the prototype beta-lactam and is beta-lactamase sensitive, so it fails against penicillinase-producing S aureus.",
+    "C": "Amoxicillin, like ampicillin, is penicillinase sensitive despite better oral bioavailability than ampicillin.",
+    "D": "Piperacillin is an antipseudomonal penicillin with an extended spectrum but is still penicillinase sensitive and requires a beta-lactamase inhibitor.",
+    "E": "Ampicillin is an aminopenicillin that is deliberately penicillinase sensitive and is used with clavulanate; it would be destroyed by the S aureus penicillinase."
+  },
+  "educationalObjective": "Penicillinase-resistant penicillins (nafcillin, oxacillin, dicloxacillin) have a bulky R group that blocks beta-lactamase and are used for methicillin-sensitive S aureus.",
+  "source": "Generated from 3. Microbiology.pdf - Antimicrobials: Beta-lactam antibiotics: penicillin and cephalosporins"
+},
+{
+  "id": "micro-031",
+  "subject": "Microbiology",
+  "major_topic": "Antimicrobials",
+  "subtopic": "Beta-lactam antibiotics: penicillin and cephalosporins",
+  "difficulty": "medium",
+  "vignette": "A 33-year-old man presents with a 1-week history of cough, fever, and right lower lobe consolidation. He is treated with ampicillin empirically. Two days later he develops watery diarrhea and cramping, and stool testing is positive for Clostridioides difficile toxin. His physician notes that the antibiotic was effective against his pneumonia but that the aminopenicillin spectrum explains both the benefit and the adverse effect.",
+  "question": "Which of the following sets of organisms is appropriate extended-spectrum coverage for ampicillin and amoxicillin?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Anaerobes below the diaphragm only, with no gram-negative activity"
+    },
+    {
+      "id": "B",
+      "text": "H influenzae, H pylori, E coli, enterococci, Listeria, Proteus"
+    },
+    {
+      "id": "C",
+      "text": "Gram-positive cocci only, with no gram-negative rods"
+    },
+    {
+      "id": "D",
+      "text": "Pseudomonas aeruginosa, Acinetobacter, and multidrug-resistant S aureus"
+    },
+    {
+      "id": "E",
+      "text": "MRSA, VRE, and atypical organisms such as Mycoplasma and Chlamydia"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Aminopenicillins have wider spectrum than penicillin and cover Haemophilus influenzae, H pylori, E coli, enterococci, Listeria monocytogenes, Proteus mirabilis, Salmonella, and Shigella; the First Aid mnemonic is HHEELPSS, with ampicillin and amoxicillin noted to kill enterococci. They remain penicillinase sensitive, which is why they are combined with clavulanic acid when beta-lactamase producers are possible. Adverse effects include hypersensitivity, rash, and pseudomembranous colitis, exactly what happened in this patient.",
+  "explanation_incorrect": {
+    "A": "Restricting activity to anaerobic organisms below the diaphragm describes metronidazole's clinical niche, not the broad aerobic gram-negative coverage of aminopenicillins.",
+    "C": "Plain penicillin G has a gram-positive predominance, but aminopenicillins specifically extend to gram-negative organisms including Salmonella, Shigella, and E coli.",
+    "D": "Coverage of Pseudomonas and multidrug-resistant S aureus requires antipseudomonal penicillins such as piperacillin with a beta-lactamase inhibitor, not plain ampicillin.",
+    "E": "MRSA and VRE require vancomycin, linezolid, or daptomycin; atypicals require macrolides or tetracyclines, and 1st-4th generation cephalosporins and aminopenicillins are all part of the LAME group that misses them."
+  },
+  "educationalObjective": "Ampicillin and amoxicillin cover HHEELPSS organisms (H influenzae, H pylori, E coli, enterococci, Listeria, Proteus, Salmonella, Shigella) but remain penicillinase sensitive.",
+  "source": "Generated from 3. Microbiology.pdf - Antimicrobials: Beta-lactam antibiotics: penicillin and cephalosporins"
+},
+{
+  "id": "micro-032",
+  "subject": "Microbiology",
+  "major_topic": "Antimicrobials",
+  "subtopic": "Beta-lactam antibiotics: penicillin and cephalosporins",
+  "difficulty": "medium",
+  "vignette": "A 45-year-old woman has a severe hospital-acquired pneumonia with Pseudomonas aeruginosa susceptible only to a beta-lactam plus an aminoglycoside. The team selects piperacillin-tazobactam and gentamicin. During rounds the pharmacist asks which penicillins reliably cover Pseudomonas and why such a penicillin must always be paired with a beta-lactamase inhibitor.",
+  "question": "Which penicillin provides antipseudomonal coverage and therefore requires a beta-lactamase inhibitor for reliable use?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Piperacillin"
+    },
+    {
+      "id": "B",
+      "text": "Cefazolin"
+    },
+    {
+      "id": "C",
+      "text": "Dicloxacillin"
+    },
+    {
+      "id": "D",
+      "text": "Penicillin V"
+    },
+    {
+      "id": "E",
+      "text": "Aztreonam"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Piperacillin is the antipseudomonal penicillin: it is an extended-spectrum penicillin with activity against Pseudomonas, gram-negative rods, and anaerobes, and because it is penicillinase sensitive it is used with a beta-lactamase inhibitor such as tazobactam. Its main adverse effect is hypersensitivity. The pairing of piperacillin and tazobactam is one of the CAST inhibitor combinations.",
+  "explanation_incorrect": {
+    "B": "Cefazolin is a first-generation cephalosporin used for gram-positive cocci, PEcK organisms, and surgical prophylaxis of S aureus wound infection; it has no antipseudomonal activity.",
+    "C": "Dicloxacillin is a penicillinase-resistant penicillin for S aureus with a narrow spectrum and no gram-negative or antipseudomonal coverage.",
+    "D": "Penicillin V is a penicillinase-sensitive oral penicillin with mostly gram-positive coverage.",
+    "E": "Aztreonam is a monobactam, not a penicillin; it covers gram-negative rods including Pseudomonas but is classified separately and is not combined with a beta-lactamase inhibitor here."
+  },
+  "educationalObjective": "Piperacillin is the antipseudomonal penicillin, is penicillinase sensitive, and is paired with a beta-lactamase inhibitor such as tazobactam.",
+  "source": "Generated from 3. Microbiology.pdf - Antimicrobials: Beta-lactam antibiotics: penicillin and cephalosporins"
+},
+{
+  "id": "micro-033",
+  "subject": "Microbiology",
+  "major_topic": "Antimicrobials",
+  "subtopic": "Beta-lactam antibiotics: penicillin and cephalosporins",
+  "difficulty": "medium",
+  "vignette": "A 29-year-old man has a purulent urethral discharge and is diagnosed with gonorrhea. He also has an uncomplicated outpatient infection for which his physician chooses a first-generation cephalosporin, cefazolin, before a knee arthroscopy to prevent an S aureus wound infection. A medical student asks how the generations differ in spectrum and what the LAME mnemonic means.",
+  "question": "Which of the following statements about cephalosporin coverage is most accurate?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Fifth-generation ceftaroline covers MRSA and Enterococcus faecalis and also covers Pseudomonas"
+    },
+    {
+      "id": "B",
+      "text": "Third-generation cephalosporins cannot cross the blood-brain barrier and are never used for meningitis"
+    },
+    {
+      "id": "C",
+      "text": "All cephalosporin generations reliably cover enterococci and Listeria monocytogenes"
+    },
+    {
+      "id": "D",
+      "text": "1st-4th generation cephalosporins miss LAME organisms"
+    },
+    {
+      "id": "E",
+      "text": "First-generation cephalosporins cover Pseudomonas aeruginosa and anaerobes well"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "The LAME mnemonic identifies the four categories missed by 1st through 4th generation cephalosporins: Listeria, atypicals such as Chlamydia and Mycoplasma, MRSA, and enterococci. Cephalosporins are beta-lactams that are less susceptible to penicillinases and are bactericidal. Their adverse effects include hypersensitivity, autoimmune hemolytic anemia, a disulfiram-like reaction, and vitamin K deficiency, with a low rate of cross-reactivity even in penicillin-allergic patients.",
+  "explanation_incorrect": {
+    "A": "Ceftaroline does cover MRSA and E faecalis unlike earlier generations, but it specifically does not cover Pseudomonas.",
+    "B": "Third-generation cephalosporins can cross the blood-brain barrier, which is why ceftriaxone is used for meningitis.",
+    "C": "Enterococci and Listeria are precisely the organisms that 1st-4th generation cephalosporins fail to cover, which is why ampicillin is added when Listeria is suspected in meningitis.",
+    "E": "First-generation agents such as cefazolin cover gram-positive cocci and PEcK organisms, and Pseudomonas coverage requires cefepime, ceftazidime, or piperacillin; anaerobes are not covered."
+  },
+  "educationalObjective": "Cephalosporins of generations 1-4 miss LAME (Listeria, atypicals, MRSA, enterococci); ceftaroline adds MRSA and E faecalis coverage but not Pseudomonas.",
+  "source": "Generated from 3. Microbiology.pdf - Antimicrobials: Beta-lactam antibiotics: penicillin and cephalosporins"
+},
+{
+  "id": "micro-034",
+  "subject": "Microbiology",
+  "major_topic": "Antimicrobials",
+  "subtopic": "Beta-lactam antibiotics: penicillin and cephalosporins",
+  "difficulty": "hard",
+  "vignette": "A 34-year-old woman with a penicillin allergy documented as anaphylaxis is diagnosed with gram-negative sepsis from a multidrug-resistant Pseudomonas aeruginosa urinary source. She also has chronic kidney disease, and the team wants to avoid aminoglycosides. The pharmacist recommends a monobactam, noting that it has no cross-allergenicity with penicillins and is less susceptible to beta-lactamases.",
+  "question": "Which of the following best describes the spectrum and mechanism of this recommended drug?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Binds PBP3 and covers gram-negative rods only"
+    },
+    {
+      "id": "B",
+      "text": "Aztreonam is a fluoroquinolone that inhibits DNA gyrase in gram-negative organisms"
+    },
+    {
+      "id": "C",
+      "text": "Aztreonam is a beta-lactamase inhibitor that has no intrinsic antibacterial activity"
+    },
+    {
+      "id": "D",
+      "text": "Aztreonam is a glycopeptide that binds D-Ala-D-Ala and covers gram-positive organisms only"
+    },
+    {
+      "id": "E",
+      "text": "Aztreonam is a carbapenem that covers gram-positive cocci, gram-negative rods, and anaerobes"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Aztreonam is a monobactam that prevents peptidoglycan cross-linking by binding penicillin-binding protein 3; it covers gram-negative rods only, with no activity against gram-positive rods or anaerobes, and it is synergistic with aminoglycosides. It has no cross-allergenicity with penicillins, making it valuable in penicillin-allergic patients and in those with renal insufficiency who cannot tolerate aminoglycosides. It is usually nontoxic, with occasional GI upset.",
+  "explanation_incorrect": {
+    "B": "Fluoroquinolones such as ciprofloxacin inhibit DNA gyrase and topoisomerase IV; aztreonam is a cell wall synthesis inhibitor.",
+    "C": "Beta-lactamase inhibitors such as clavulanic acid and tazobactam are CAST agents that protect partner drugs; aztreonam has intrinsic gram-negative activity and binds PBP3.",
+    "D": "Binding D-Ala-D-Ala is the mechanism of vancomycin, a glycopeptide with gram-positive activity, not of the monobactam aztreonam.",
+    "E": "Carbapenems such as imipenem and meropenem are broad-spectrum beta-lactams covering gram-positive cocci, gram-negative rods, and anaerobes; aztreonam is a monobactam with much narrower gram-negative coverage."
+  },
+  "educationalObjective": "Aztreonam is a monobactam that binds PBP3, covers gram-negative rods only, and has no cross-allergenicity with penicillins.",
+  "source": "Generated from 3. Microbiology.pdf - Antimicrobials: Beta-lactam antibiotics: penicillin and cephalosporins"
+}
+]

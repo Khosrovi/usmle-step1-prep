@@ -1,0 +1,84 @@
+[
+{
+  "id": "micro-084",
+  "subject": "Microbiology",
+  "major_topic": "Basic Bacteriology",
+  "subtopic": "Bacterial growth phases and growth requirements",
+  "difficulty": "medium",
+  "vignette": "A microbiology laboratory incubates a broth culture of E coli at 37 degrees C with continuous agitation and measures colony-forming units hourly. During the first few hours the counts rise, then the rate of rise slows as nutrients become limiting, then counts plateau while total cell mass remains constant.",
+  "question": "In the plateau phase described, which combination best explains the stable viable count?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Cells have lost their cell wall and converted into stable cell-wall-deficient L-forms in the broth"
+    },
+    {
+      "id": "B",
+      "text": "All the cells have entered lysogeny and stopped translating protein from messenger RNA"
+    },
+    {
+      "id": "C",
+      "text": "Cells have lost their cytoplasmic membrane and become obligate intracellular organisms"
+    },
+    {
+      "id": "D",
+      "text": "Spore formation has converted nearly every cell into a dormant, heat-resistant form in the culture"
+    },
+    {
+      "id": "E",
+      "text": "Cell division and cell death are balanced, with growth limited by nutrient depletion and waste"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Bacterial batch growth proceeds through lag, exponential (log), stationary, and death phases. In stationary phase, the rate of cell division equals the rate of cell death, so viable counts are stable because nutrients are depleted and inhibitory waste products accumulate. This matters clinically: cell wall-active antibiotics such as beta-lactams work on dividing cells, which is why organisms in stationary phase or in biofilms respond poorly. Some gram-positive genera respond to nutrient limitation by forming spores, a survival strategy rather than continued replication.",
+  "explanation_incorrect": {
+    "A": "L-form conversion to cell-wall-deficient states is not the normal response to nutrient limitation; wall synthesis simply slows.",
+    "B": "Lysogeny means a temperate phage is integrated, not that translation stops; it is unrelated to the plateau in plate counts.",
+    "C": "Loss of a cytoplasmic membrane is not a viable state, and obligate intracellular organisms such as Rickettsia, Chlamydia, and Coxiella rely on host ATP.",
+    "D": "Spores form in some gram-positive genera such as Bacillus and Clostridium when nutrients are limited, but not all E coli cells sporulate, and spores retain considerable viability rather than disappearing."
+  },
+  "educationalObjective": "Stationary phase reflects a balance between division and death under nutrient limitation; dividing cells are the ones beta-lactams target.",
+  "source": "Generated from 3. Microbiology.pdf - Basic Bacteriology: Bacterial growth phases and growth requirements"
+},
+{
+  "id": "micro-085",
+  "subject": "Microbiology",
+  "major_topic": "Basic Bacteriology",
+  "subtopic": "Bacterial growth phases and growth requirements",
+  "difficulty": "easy",
+  "vignette": "A 30-year-old man with a wound from a deep farm injury is suspected to have Clostridium perfringens infection. The laboratory attempts culture and notes that the organisms require anaerobic conditions; in the presence of oxygen the culture fails to grow.",
+  "question": "Which growth feature best explains why anaerobes such as this organism are killed in oxygen-rich environments?",
+  "options": [
+    {
+      "id": "A",
+      "text": "They require oxygen as the terminal electron acceptor in order to generate ATP aerobically"
+    },
+    {
+      "id": "B",
+      "text": "They lack catalase and/or superoxide dismutase, so they are susceptible to oxidative damage"
+    },
+    {
+      "id": "C",
+      "text": "They lack ribosomes and depend entirely on host cell ATP for protein synthesis"
+    },
+    {
+      "id": "D",
+      "text": "They grow only at temperatures above 121 degrees C under high-pressure saturated steam"
+    },
+    {
+      "id": "E",
+      "text": "They produce catalase but no superoxide dismutase, so peroxide accumulates within them"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Anaerobes such as Clostridioides, Clostridium, Bacteroides, Fusobacterium, and Actinomyces israelii lack catalase and/or superoxide dismutase, so they cannot detoxify the reactive oxygen intermediates produced in aerobic conditions, and they are thus susceptible to oxidative damage (mnemonic: Anaerobes Can't Breathe Fresh Air). They are normal microbiota in the GI tract and are typically pathogenic elsewhere, for example in aspiration pneumonia. Two practical consequences follow: culture requires anaerobic techniques, and aminoglycosides are ineffective against them because these drugs require oxygen-dependent uptake to enter the bacterial cell. Their cultures are often foul smelling from short-chain fatty acids and produce gas in tissue.",
+  "explanation_incorrect": {
+    "A": "Using oxygen as a terminal electron acceptor describes facultative (and obligate aerobic) organisms such as streptococci, staphylococci, and enteric gram-negatives, and it would not explain anaerobe death in oxygen.",
+    "C": "Lacking ribosomes is not the reason: obligate intracellular organisms such as Rickettsia, Chlamydia, and Coxiella rely on host ATP but still possess ribosomes.",
+    "D": "Growth above 121 degrees C is a property of extreme thermophiles, not clinically relevant anaerobes, which grow at body temperature.",
+    "E": "The statement is inverted: anaerobes lack catalase and/or superoxide dismutase, and catalase-positive organisms are the ones that survive oxidative stress."
+  },
+  "educationalObjective": "Anaerobes cannot detoxify reactive oxygen species because they lack catalase and/or superoxide dismutase, so aerobic conditions and aminoglycosides are both problematic.",
+  "source": "Generated from 3. Microbiology.pdf - Basic Bacteriology: Bacterial growth phases and growth requirements"
+}
+]

@@ -1,0 +1,84 @@
+[
+{
+  "id": "micro-161",
+  "subject": "Microbiology",
+  "major_topic": "Parasitology",
+  "subtopic": "Filarial worms and Toxocara",
+  "difficulty": "medium",
+  "vignette": "A 2-year-old boy is brought in after his mother noticed 2 months of pica with eating dirt and hair from the family dog. He was adopted from a rural area of Argentina. Examination shows mild hepatomegaly, and fundoscopy of the right eye shows a white retinal granuloma with reduced fixation. Laboratory studies show eosinophilia of 22% and a mildly elevated alkaline phosphatase level.",
+  "question": "Which of the following is the most likely diagnosis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Kala-azar with pancytopenia and massive splenomegaly"
+    },
+    {
+      "id": "B",
+      "text": "Lymphatic filariasis with lower extremity lymphedema"
+    },
+    {
+      "id": "C",
+      "text": "Cutaneous larva migrans with a serpiginous rash"
+    },
+    {
+      "id": "D",
+      "text": "Subcutaneous nodules with loss of visual acuity"
+    },
+    {
+      "id": "E",
+      "text": "Visceral larva migrans with hepatomegaly and a retinal granuloma"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Visceral larva migrans is caused by Toxocara canis, a dog roundworm whose eggs are ingested from soil contaminated with dog feces, which explains the pica in a toddler who lives with a dog. The larvae do not mature in humans but migrate through the blood and inflame the liver, eyes, central nervous system, and heart, producing visual impairment, seizures, or myocarditis while many patients remain asymptomatic. First Aid lists albendazole as the treatment.",
+  "explanation_incorrect": {
+    "A": "Kala-azar with pancytopenia and massive splenomegaly is Leishmania donovani, an intracellular parasite of macrophages spread by the sandfly.",
+    "B": "Lymphatic filariasis with lymphedema follows mosquito-borne Wuchereria bancrofti or Brugia malayi infection of lymph nodes, not ingestion of Toxocara eggs.",
+    "C": "Cutaneous larva migrans with a serpiginous rash comes from hookworm larvae penetrating the skin, and the eruption stays in the skin rather than producing a retinal granuloma or hepatomegaly.",
+    "D": "Subcutaneous nodules with loss of visual acuity describe Onchocerca volvulus river blindness, transmitted by a black fly bite rather than by ingestion of dog-fecal eggs."
+  },
+  "educationalObjective": "Toxocara canis eggs in soil cause visceral larva migrans, whose migrating larvae inflame liver, eye, CNS, and heart - think of a toddler with pica who lives with a dog.",
+  "source": "Generated from 3. Microbiology.pdf - Parasitology: Filarial worms and Toxocara"
+},
+{
+  "id": "micro-162",
+  "subject": "Microbiology",
+  "major_topic": "Parasitology",
+  "subtopic": "Filarial worms and Toxocara",
+  "difficulty": "hard",
+  "vignette": "A 45-year-old man who emigrated from Cameroon 3 months ago presents with years of episodic fever and now a progressive swelling of the right leg. He reports sleeping outdoors and being bitten by mosquitoes at night for decades in his home village. Examination shows edema and thickened, warty skin extending from the right thigh to the shin, with discrete inguinal lymph nodes. Laboratory studies show eosinophilia and high IgE, and a circulating filarial antigen test is positive.",
+  "question": "Which of the following is the most appropriate treatment for this patient's condition?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Metronidazole"
+    },
+    {
+      "id": "B",
+      "text": "Diethylcarbamazine"
+    },
+    {
+      "id": "C",
+      "text": "Ivermectin"
+    },
+    {
+      "id": "D",
+      "text": "Praziquantel"
+    },
+    {
+      "id": "E",
+      "text": "Albendazole"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Lymphatic filariasis from Wuchereria bancrofti or Brugia malayi occurs when adult worms lodge in lymph nodes, causing inflammation and then chronic lymphedema that can progress to elephantiasis, with symptom onset typically after 9 months to a year. The mosquito vector explains the nocturnal outdoor bites. First Aid lists diethylcarbamazine for this disease, the same drug used for Loa loa, whereas ivermectin is the drug for Onchocerca volvulus and Strongyloides.",
+  "explanation_incorrect": {
+    "A": "Metronidazole is a protozoal drug for Giardia, Entamoeba, and Trichomonas, and it has no anthelmintic activity against filariae.",
+    "C": "Ivermectin is the First Aid drug for Onchocerca volvulus river blindness and for Strongyloides, so it is the wrong filaricide for the elephantiasis-producing Wuchereria species.",
+    "D": "Praziquantel treats trematodes and cestodes such as Schistosoma, Clonorchis, and Taenia, and it has no effect on filarial nematodes.",
+    "E": "Albendazole is used for Echinococcus hydatid cysts and for neurocysticercosis, placing it with tissue cestodes rather than lymphatic filariasis in the First Aid table."
+  },
+  "educationalObjective": "Lymphatic filariasis from Wuchereria bancrofti or Brugia malayi causes lymphedema and elephantiasis after a mosquito bite and is treated with diethylcarbamazine.",
+  "source": "Generated from 3. Microbiology.pdf - Parasitology: Filarial worms and Toxocara"
+}
+]

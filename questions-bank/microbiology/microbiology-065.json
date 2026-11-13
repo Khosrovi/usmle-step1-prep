@@ -1,0 +1,84 @@
+[
+{
+  "id": "micro-201",
+  "subject": "Microbiology",
+  "major_topic": "Basic Bacteriology",
+  "subtopic": "Immunoglobulin and antibody responses to bacteria",
+  "difficulty": "medium",
+  "vignette": "A 30-year-old man with a history of untreated streptococcal pharyngitis presents 3 weeks later with migratory polyarthritis, carditis, and subcutaneous nodules. Anti-streptolysin O (ASO) titers are elevated, confirming recent infection.",
+  "question": "Which immunoglobulin-related mechanism best explains his acute rheumatic fever?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Polysaccharide-induced, T-cell-independent activation of B cells without T-cell help"
+    },
+    {
+      "id": "B",
+      "text": "Molecular mimicry between streptococcal M protein and human cardiac myosin heavy chains"
+    },
+    {
+      "id": "C",
+      "text": "IgE-mediated mast cell degranulation with release of histamine and other mediators"
+    },
+    {
+      "id": "D",
+      "text": "Cleavage of secretory IgA by a bacterial protease at the mucosal surface of the pharynx"
+    },
+    {
+      "id": "E",
+      "text": "Binding of the IgG Fc region by a protein displayed on the bacterial cell surface"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "M protein is a group A streptococcal surface protein that prevents phagocytosis and shares sequence homology with human cardiac myosin, so antibodies raised against it cross-react with the heart in a classic example of molecular mimicry underlying acute rheumatic fever. The present illness follows pharyngitis by weeks, which fits a post-infectious type II hypersensitivity mechanism rather than acute toxin injury. For diagnosis, antibodies against streptolysin O (ASO) indicate recent infection, and these should not be confused with the immune complexes that cause post-streptococcal glomerulonephritis.",
+  "explanation_incorrect": {
+    "A": "T-cell-independent polysaccharide responses explain why an unmodified polysaccharide antigen cannot be presented to T cells; conjugation to carrier protein fixes this, and it is unrelated to carditis.",
+    "C": "IgE-mediated mast cell degranulation is the basis of immediate-type hypersensitivity and anaphylaxis, not of rheumatic fever.",
+    "D": "IgA cleavage by bacterial proteases (S pneumoniae, H influenzae type b, Neisseria) promotes mucosal colonization but does not cause cardiac autoimmunity.",
+    "E": "Binding the Fc region of IgG describes Protein A of S aureus, an antiphagocytic strategy, not the post-streptococcal autoimmune process."
+  },
+  "educationalObjective": "M protein of group A streptococci is a phagocytosis-resisting protein whose homology to cardiac myosin drives molecular mimicry in acute rheumatic fever.",
+  "source": "Generated from 3. Microbiology.pdf - Basic Bacteriology: Immunoglobulin and antibody responses to bacteria"
+},
+{
+  "id": "micro-202",
+  "subject": "Microbiology",
+  "major_topic": "Basic Bacteriology",
+  "subtopic": "Immunoglobulin and antibody responses to bacteria",
+  "difficulty": "hard",
+  "vignette": "A 2-year-old child with recurrent pneumococcal meningitis is being considered for vaccination. He previously received a pure polysaccharide vaccine and mounted a poor, short-lived response without class switching. His physician proposes the conjugated vaccine instead.",
+  "question": "Why does conjugating the capsular polysaccharide to a carrier protein improve the immune response?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It allows the antigen to be presented to T cells, enabling T-cell help and immunologic memory"
+    },
+    {
+      "id": "B",
+      "text": "It converts the polysaccharide antigen into a toxoid that induces protective antitoxin in the host"
+    },
+    {
+      "id": "C",
+      "text": "It prevents opsonization of the bacteria so that the antigen persists longer in circulation"
+    },
+    {
+      "id": "D",
+      "text": "It converts the polysaccharide antigen into a superantigen that drives massive cytokine release"
+    },
+    {
+      "id": "E",
+      "text": "It degrades the capsule so that macrophages can no longer phagocytize the whole organisms"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "A polysaccharide antigen alone cannot be presented to T cells, so it stimulates a T-cell-independent response with limited class switching and memory, which is poor in this young child. Capsular polysaccharide plus or minus a protein carrier can serve as a vaccine antigen, and conjugating capsule antigens to a carrier protein enhances immunogenicity by recruiting T-cell help. This is exactly the logic behind conjugate vaccines against encapsulated organisms, which are also the vaccines needed by asplenic patients because such organisms are opsonized and then cleared by the spleen. The capsule itself functions as an antiphagocytic virulence factor, so antibody against it must be effective before disease.",
+  "explanation_incorrect": {
+    "B": "Toxoids are inactivated exotoxins used to induce antitoxins for tetanus and diphtheria; a polysaccharide is not a toxin.",
+    "C": "Preventing opsonization would impair clearance and is the effect of capsules as virulence factors, not of conjugation.",
+    "D": "Superantigens bypass antigen specificity by cross-linking TCR and MHC class II and cause shock; that is the opposite of the goal of a vaccine.",
+    "E": "The capsule is deliberately retained as the antigen; the conjugate design exploits, rather than destroys, the antiphagocytic polysaccharide."
+  },
+  "educationalObjective": "Conjugating capsular polysaccharide to a carrier protein recruits T-cell help, improving immunogenicity, memory, and protection in young children.",
+  "source": "Generated from 3. Microbiology.pdf - Basic Bacteriology: Immunoglobulin and antibody responses to bacteria"
+}
+]

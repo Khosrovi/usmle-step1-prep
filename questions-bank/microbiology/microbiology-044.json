@@ -1,0 +1,166 @@
+[
+{
+  "id": "micro-132",
+  "subject": "Microbiology",
+  "major_topic": "Basic Bacteriology",
+  "subtopic": "Culture media: selective and differential",
+  "difficulty": "easy",
+  "vignette": "A 24-year-old sexually active man has dysuria and a purulent urethral discharge. A nucleic acid test is positive for Neisseria gonorrhoeae. The laboratory also plates the specimen on a medium containing vancomycin, trimethoprim, colistin, and nystatin.",
+  "question": "Which medium is described, and what is its purpose?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Thayer-Martin agar, used to selectively culture Neisseria"
+    },
+    {
+      "id": "B",
+      "text": "Eosin-methylene blue agar, used to identify E coli"
+    },
+    {
+      "id": "C",
+      "text": "Buffered charcoal yeast extract agar, used for Legionella"
+    },
+    {
+      "id": "D",
+      "text": "MacConkey agar, used to make lactose fermenters pink"
+    },
+    {
+      "id": "E",
+      "text": "Chocolate agar, used to supply factors V and X"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Thayer-Martin agar is the classic selective medium for Neisseria: vancomycin inhibits gram-positive organisms, trimethoprim and colistin inhibit gram-negative organisms other than Neisseria, and nystatin inhibits fungi. It is described in First Aid as \"very typically\" culturing Neisseria. Chocolate agar, which supplies factors V and X, is the enriched base that lets the fastidious organism grow, while the antibiotics in Thayer-Martin suppress the abundant normal flora of mucosal sites. This layering of enrichment plus selection is the general pattern for culturing fastidious organisms from a colonized site.",
+  "explanation_incorrect": {
+    "B": "EMB agar uses eosin and methylene blue to inhibit gram-positive organisms and is used to identify E coli by a green metallic sheen, not for genital cultures.",
+    "C": "Buffered charcoal yeast extract agar with cysteine and iron grows the \"Ella\" siblings - Brucella, Francisella, Legionella, Pasteurella.",
+    "D": "MacConkey agar selects against gram-positive organisms with bile salts and crystal violet and differentiates lactose fermenters by a pink color; it is not designed for Neisseria.",
+    "E": "Chocolate agar provides factors V (NAD+) and X (hematin) and is used for H influenzae, and it is also used for Neisseria, but it has no antibiotics and is nonselective."
+  },
+  "educationalObjective": "Thayer-Martin agar uses vancomycin, trimethoprim, colistin, and nystatin to selectively culture Neisseria from mixed flora.",
+  "source": "Generated from 3. Microbiology.pdf - Basic Bacteriology: Culture media: selective and differential"
+},
+{
+  "id": "micro-133",
+  "subject": "Microbiology",
+  "major_topic": "Basic Bacteriology",
+  "subtopic": "Culture media: selective and differential",
+  "difficulty": "medium",
+  "vignette": "A 26-year-old woman has a urinary tract infection. A urine specimen is plated on a medium containing bile salts and crystal violet, and the colonies that grow are pink. The laboratory reports a lactose-fermenting gram-negative rod.",
+  "question": "Which medium is being described, and what does the pink color indicate?",
+  "options": [
+    {
+      "id": "A",
+      "text": "They cause lactose-fermenting colonies to turn pink for species identification in the lab"
+    },
+    {
+      "id": "B",
+      "text": "They inhibit gram-positive organisms, other gram-negative organisms, and fungi to favor Neisseria"
+    },
+    {
+      "id": "C",
+      "text": "They neutralize catalase produced by the organism and prevent oxidative damage to it"
+    },
+    {
+      "id": "D",
+      "text": "They provide factors V and X, which are required for growth of the organism on this plate"
+    },
+    {
+      "id": "E",
+      "text": "They inhibit Neisseria so that the abundant competing normal flora can be identified"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "MacConkey agar is selective and differential: bile salts and crystal violet inhibit gram-positive organisms, and lactose fermentation produces acid that turns the colonies pink once the pH indicator responds. Lactose-fermenting enterics are therefore pink, and nonfermenters remain pale. This single plate often supplies both the Gram-character inference and the sugar fermentation profile, which is why stool and urine workups lean on it. Predicting color requires knowing whether the organism ferments lactose, as E coli does.",
+  "explanation_incorrect": {
+    "A": "Lactose fermentation producing a pink color occurs on MacConkey agar through a pH indicator. No such indicator is the selective principle of Thayer-Martin agar.",
+    "C": "Catalase converts hydrogen peroxide into water and oxygen. These antibiotics do not neutralize it, and catalase production is not the reason competing flora is suppressed here.",
+    "D": "Factors V (NAD+) and X (hematin) are nutrients supplied by heated blood in chocolate agar. They support growth of fastidious organisms and are not the antibiotics that suppress competing flora.",
+    "E": "The purpose of the antibiotics is the opposite: they inhibit everything except Neisseria, so the organism is enriched rather than suppressed. Normal flora is not identified with this plate."
+  },
+  "educationalObjective": "On MacConkey agar bile salts and crystal violet select for gram-negative organisms, and lactose fermentation makes colonies pink.",
+  "source": "Generated from 3. Microbiology.pdf - Basic Bacteriology: Culture media: selective and differential"
+},
+{
+  "id": "micro-134",
+  "subject": "Microbiology",
+  "major_topic": "Basic Bacteriology",
+  "subtopic": "Culture media: selective and differential",
+  "difficulty": "hard",
+  "vignette": "A 68-year-old man with chronic obstructive pulmonary disease and recurrent pneumonia has a respiratory specimen plated. On eosin-methylene blue agar no growth appears; on blood and chocolate agar there is growth. The isolate is a fastidious gram-negative rod that grows best on buffered charcoal yeast extract agar supplemented with cysteine and iron.",
+  "question": "Which organism is most likely isolated by the medium described?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Haemophilus influenzae"
+    },
+    {
+      "id": "B",
+      "text": "Corynebacterium diphtheriae"
+    },
+    {
+      "id": "C",
+      "text": "Mycoplasma pneumoniae"
+    },
+    {
+      "id": "D",
+      "text": "Legionella pneumophila"
+    },
+    {
+      "id": "E",
+      "text": "Bordetella pertussis"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Buffered charcoal yeast extract agar with cysteine and iron grows Brucella, Francisella, Legionella, and Pasteurella, remembered as the Ella siblings, Bruce, Francis, a legionnaire, and a pasteur (pastor) who built the Sistine (cysteine) chapel of charcoal and iron. Legionella is a primarily intracellular organism that fails to Gram stain well, which is why silver staining and this medium feature in its identification. The negative EMB result is expected because EMB is a gram-negative enteric differential medium, not a medium for a fastidious respiratory organism.",
+  "explanation_incorrect": {
+    "A": "H influenzae requires chocolate agar with factors V (NAD+) and X (hematin); it does not require cysteine or iron in charcoal medium.",
+    "B": "C diphtheriae grows on tellurite agar or Löffler medium and produces black colonies from tellurite reduction.",
+    "C": "M pneumoniae requires Eaton agar containing cholesterol, and it lacks a cell wall; the mnemonic organism here is Legionella.",
+    "E": "B pertussis grows on Bordet-Gengou agar with potato extract or on Regan-Lowe medium with charcoal, blood, and antibiotic, not on BCYE."
+  },
+  "educationalObjective": "Buffered charcoal yeast extract agar with cysteine and iron isolates Brucella, Francisella, Legionella, and Pasteurella (\"the Ella siblings, Bruce, Francis, a legionnaire, and a pasteur\").",
+  "source": "Generated from 3. Microbiology.pdf - Basic Bacteriology: Culture media: selective and differential"
+},
+{
+  "id": "micro-135",
+  "subject": "Microbiology",
+  "major_topic": "Basic Bacteriology",
+  "subtopic": "Culture media: selective and differential",
+  "difficulty": "medium",
+  "vignette": "A 19-year-old college freshman is evaluated for fever and a stiff neck. Cerebrospinal fluid shows gram-negative diplococci. The laboratory plates CSF on chocolate agar, where colonies grow, and on a blood-agar-based medium with the antibiotics vancomycin, trimethoprim, colistin, and nystatin, where colonies also grow.",
+  "question": "What is the role of the antibiotics in the second medium?",
+  "options": [
+    {
+      "id": "A",
+      "text": "They are obligate intracellular organisms that depend entirely on the host cell for ATP"
+    },
+    {
+      "id": "B",
+      "text": "They are normal microbiota of the digestive tract and usually pathogenic only outside it"
+    },
+    {
+      "id": "C",
+      "text": "They are strict human pathogens that have no commensal reservoir anywhere in the body"
+    },
+    {
+      "id": "D",
+      "text": "They are catalase-positive organisms that evade killing by alveolar macrophages"
+    },
+    {
+      "id": "E",
+      "text": "They are encapsulated organisms that are opsonized and cleared by the spleen"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Thayer-Martin agar is chocolate agar base plus vancomycin to inhibit gram-positive organisms, trimethoprim and colistin to inhibit gram-negative organisms other than Neisseria, and nystatin to inhibit fungi. Because respiratory and genital secretions carry abundant normal flora, this antibiotic shield is essential to recover the fastidious diplococcus. CSF itself is sterile, but the same selective medium is used routinely when plating from mucosal or skin sites, and it is described as very typically culturing Neisseria.",
+  "explanation_incorrect": {
+    "A": "Obligate intracellular organisms are Rickettsia, Chlamydia, and Coxiella, remembered as staying inside cells when it is Really Chilly and Cold. Oral anaerobes are extracellular.",
+    "C": "These organisms are commensals of the mouth and GI tract, not strict pathogens without a commensal reservoir. That is precisely why the disease is described as opportunistic.",
+    "D": "Catalase positivity protects organisms such as S aureus and Aspergillus from oxidative killing by macrophages. These anaerobes characteristically lack catalase and superoxide dismutase.",
+    "E": "Encapsulated organisms such as S pneumoniae and Klebsiella are opsonized and cleared by the spleen, and asplenic patients are at risk from them. The organisms here are not in that group."
+  },
+  "educationalObjective": "In Thayer-Martin agar, vancomycin, trimethoprim, colistin, and nystatin suppress competing flora so Neisseria can be recovered.",
+  "source": "Generated from 3. Microbiology.pdf - Basic Bacteriology: Culture media: selective and differential"
+}
+]

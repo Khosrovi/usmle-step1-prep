@@ -1,0 +1,207 @@
+[
+{
+  "id": "micro-291",
+  "subject": "Microbiology",
+  "major_topic": "Clinical Bacteriology",
+  "subtopic": "Staphylococcus aureus",
+  "difficulty": "medium",
+  "vignette": "A 23-year-old woman presents with 2 days of fever to 39.8°C, diffuse erythematous rash, vomiting, and watery diarrhea. She is hypotensive with a systolic pressure of 78 mm Hg and appears confused. She has been using a superabsorbent vaginal tampon continuously for the past 5 days during a heavy menstrual period. Laboratories show AST and ALT above 200 U/L, an elevated bilirubin, and rising creatinine.",
+  "question": "Which of the following best describes the mechanism by which the responsible toxin produces this illness?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Permanent activation of Gs with accumulation of intracellular cAMP"
+    },
+    {
+      "id": "B",
+      "text": "Binding of MHC class II and the T-cell receptor with polyclonal T-cell activation"
+    },
+    {
+      "id": "C",
+      "text": "Proteolytic cleavage of SNARE proteins at the neuromuscular junction"
+    },
+    {
+      "id": "D",
+      "text": "ADP-ribosylation of elongation factor 2, halting protein synthesis"
+    },
+    {
+      "id": "E",
+      "text": "Sphingomyelinase activity that degrades keratinocyte desmosomes"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "This is staphylococcal toxic shock syndrome, classically associated with prolonged tampon use or nasal packing. TSST-1 is a superantigen: it bridges MHC class II on antigen-presenting cells and the T-cell receptor outside the normal peptide groove, causing massive polyclonal T-cell activation and cytokine release. The result is fever, vomiting, diarrhea, rash with desquamation, shock, and end-organ failure, with elevated AST, ALT, and bilirubin.",
+  "explanation_incorrect": {
+    "A": "Permanent activation of Gs with elevated cAMP is how cholera toxin and heat-labile enterotoxin of ETEC work, producing profuse secretory diarrhea rather than a superantigen-driven shock state.",
+    "C": "SNARE protein cleavage is the mechanism of the clostridial toxins, botulinum toxin (blocks acetylcholine release, flaccid paralysis) and tetanospasmin (blocks glycine and GABA release, spastic paralysis), not of TSST-1.",
+    "D": "ADP-ribosylation of elongation factor 2 halts protein synthesis and is the mechanism of diphtheria toxin and of Pseudomonas exotoxin A; it is not the mechanism of a superantigen.",
+    "E": "Degradation of desmosomes by a sphingomyelinase-like activity belongs to staphylococcal exfoliative toxin, which causes staphylococcal scalded skin syndrome, not the shock and multiorgan failure described here."
+  },
+  "educationalObjective": "Staphylococcal TSST-1 is a superantigen that cross-links MHC class II and the T-cell receptor, causing polyclonal T-cell activation, cytokine storm, and shock with hepatic and renal injury.",
+  "source": "Generated from 3. Microbiology.pdf - Clinical Bacteriology: Staphylococcus aureus"
+},
+{
+  "id": "micro-292",
+  "subject": "Microbiology",
+  "major_topic": "Clinical Bacteriology",
+  "subtopic": "Staphylococcus aureus",
+  "difficulty": "easy",
+  "vignette": "Several members of a family develop nausea, forceful vomiting, and nonbloody diarrhea about 3 hours after a church picnic where sliced ham sat unrefrigerated all afternoon. They have no fever and recover within a day. The ham was reheated thoroughly before being served, and Gram stain of the leftover meat shows gram-positive cocci in clusters.",
+  "question": "Which of the following best explains why reheating the food did not prevent the illness?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The toxin is a superantigen that requires host MHC class II for activity"
+    },
+    {
+      "id": "B",
+      "text": "The enterotoxin is heat stable and is not destroyed by cooking"
+    },
+    {
+      "id": "C",
+      "text": "The organism survives as heat-resistant endospores that germinate in the gut"
+    },
+    {
+      "id": "D",
+      "text": "The toxin is produced in the small intestine after ingestion of live bacteria"
+    },
+    {
+      "id": "E",
+      "text": "The toxin is inactivated by gastric acid, so it acts only in the colon"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "This is Staphylococcus aureus food poisoning. The enterotoxin is preformed in the food and is heat stable, so cooking or reheating does not destroy it. The short incubation period of about 2 to 6 hours followed by nonbloody diarrhea and prominent emesis reflects direct toxin action rather than infection.",
+  "explanation_incorrect": {
+    "A": "Superantigen activity against MHC class II describes TSST-1, the cause of toxic shock syndrome, which presents with shock and multiorgan failure rather than brief self-limited vomiting and diarrhea.",
+    "C": "Heat-resistant endospores that germinate after cooking are the mechanism of Bacillus cereus (reheated rice) and of Clostridium perfringens, not of this cluster-forming coccus.",
+    "D": "Toxin produced in the gut after ingestion of live organisms is the mechanism of Clostridium perfringens food poisoning, which has a longer incubation of about 10 to 12 hours and no prominent vomiting.",
+    "E": "Staphylococcal enterotoxin acts quickly after ingestion in the upper gut; the classic toxin that is acid labile and requires a large inoculum is Vibrio cholerae enterotoxin."
+  },
+  "educationalObjective": "Staphylococcal food poisoning is caused by ingestion of preformed heat-stable enterotoxin in contaminated food, giving a 2- to 6-hour onset of vomiting and nonbloody diarrhea.",
+  "source": "Generated from 3. Microbiology.pdf - Clinical Bacteriology: Staphylococcus aureus"
+},
+{
+  "id": "micro-293",
+  "subject": "Microbiology",
+  "major_topic": "Clinical Bacteriology",
+  "subtopic": "Staphylococcus aureus",
+  "difficulty": "medium",
+  "vignette": "A 26-year-old man injected heroin into his left arm 5 days ago. He now has fever and a fluctuant, tender, warm nodule at the injection site that drains thick pus. A wound culture grows catalase-positive, coagulase-positive gram-positive cocci in clusters. The laboratory reports that the isolate is resistant to methicillin.",
+  "question": "Which of the following best explains the mechanism of methicillin resistance in this organism?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Sequestration of the drug by a thickened polysaccharide capsule"
+    },
+    {
+      "id": "B",
+      "text": "Production of a β-lactamase that hydrolyzes the methicillin ring"
+    },
+    {
+      "id": "C",
+      "text": "Replacement of peptidoglycan cross-links with d-alanine–d-lactate"
+    },
+    {
+      "id": "D",
+      "text": "Altered penicillin-binding proteins encoded by the mecA gene"
+    },
+    {
+      "id": "E",
+      "text": "Porin mutations that exclude the drug from the periplasm"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "The organism is Staphylococcus aureus (catalase positive, coagulase positive, gram-positive cocci in clusters), and the abscess is a classic staphylococcal lesion formed because coagulase walls the organism off in a fibrin clot. MRSA resistance results from altered penicillin-binding proteins conferred by the mecA gene, a change that no β-lactam inhibitor can overcome.",
+  "explanation_incorrect": {
+    "A": "A polysaccharide capsule interferes with phagocytosis rather than drug access; encapsulated staphylococci remain fully susceptible to methicillin if their PBPs are unaltered.",
+    "B": "β-lactamase hydrolysis underlies penicillin resistance in most staphylococci, but methicillin was designed to resist this enzyme, so resistance to it requires a different target-based mechanism.",
+    "C": "Peptidoglycan cross-links built from d-alanine–d-lactate are the mechanism of vancomycin resistance in vancomycin-resistant enterococci (VRE) and in VRSA, not the mechanism of methicillin resistance.",
+    "E": "Porin loss is a gram-negative strategy for limiting entry of small hydrophilic drugs, relevant to carbapenem resistance in Enterobacteriaceae; staphylococci are gram-positive and lack an outer membrane."
+  },
+  "educationalObjective": "MRSA arises from the mecA gene encoding altered penicillin-binding proteins, which is why methicillin resistance often means resistance to nearly all β-lactams.",
+  "source": "Generated from 3. Microbiology.pdf - Clinical Bacteriology: Staphylococcus aureus"
+},
+{
+  "id": "micro-294",
+  "subject": "Microbiology",
+  "major_topic": "Clinical Bacteriology",
+  "subtopic": "Staphylococcus aureus",
+  "difficulty": "medium",
+  "vignette": "A 40-year-old man with acute myelogenous leukemia is neutropenic after chemotherapy. He develops high fever, chills, and rapidly enlarging, painful pustular skin lesions with surrounding erythema. Blood cultures grow gram-positive cocci in clusters, and the isolate shows zones of clearing that coalesce when placed near a meticillin-containing disk.",
+  "question": "Which of the following virulence factors of this organism most directly explains the severe necrotizing skin findings and neutropenia-related tissue damage?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Capsular hyaluronic acid inhibiting complement deposition"
+    },
+    {
+      "id": "B",
+      "text": "Protein A binding the Fc region of IgG"
+    },
+    {
+      "id": "C",
+      "text": "Coagulase converting fibrinogen to fibrin around the colony"
+    },
+    {
+      "id": "D",
+      "text": "Exfoliative toxin cleaving desmosomes in the stratum granulosum"
+    },
+    {
+      "id": "E",
+      "text": "Panton-Valentine leukocidin killing leukocytes and causing tissue necrosis"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Some Staphylococcus aureus strains release Panton-Valentine leukocidin (PVL), a pore-forming toxin that kills leukocytes and causes tissue necrosis. It is a marker of community-associated MRSA and is associated with recurrent necrotizing skin and soft-tissue infections, matching these rapidly enlarging necrotic lesions.",
+  "explanation_incorrect": {
+    "A": "Hyaluronic acid capsule is characteristic of Streptococcus pyogenes rather than S aureus, and it inhibits phagocytosis rather than lysing white cells.",
+    "B": "Protein A binds the Fc region of IgG to inhibit complement activation and phagocytosis, which promotes immune evasion but does not lyse leukocytes or directly produce necrosis.",
+    "C": "Coagulase generates the fibrin wall that turns a staphylococcal infection into a walled-off abscess; it is a defining diagnostic feature but not a cytolytic toxin.",
+    "D": "Exfoliative toxin causes staphylococcal scalded skin syndrome by targeting the superficial epidermis, producing diffuse peeling rather than focal necrotizing pustules."
+  },
+  "educationalObjective": "Panton-Valentine leukocidin, found in some community-associated MRSA strains, kills leukocytes and drives tissue necrosis in severe skin and soft-tissue infection.",
+  "source": "Generated from 3. Microbiology.pdf - Clinical Bacteriology: Staphylococcus aureus"
+},
+{
+  "id": "micro-295",
+  "subject": "Microbiology",
+  "major_topic": "Clinical Bacteriology",
+  "subtopic": "Staphylococcus aureus",
+  "difficulty": "easy",
+  "vignette": "A 2-year-old boy is brought in with 2 days of a tender, red, rapidly spreading rash with large flaccid bullae, multiple areas of superficial peeling, and fever. He has had no mucosal involvement and seems otherwise alert and hydrated. Petechiae and purpura are absent. Cultures taken from the unroofed bullae are sterile, but cultures of the nasopharynx grow coagulase-positive gram-positive cocci in clusters.",
+  "question": "Which of the following best explains the negative bulla culture in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The organism requires chocolate agar and factors V and X for growth"
+    },
+    {
+      "id": "B",
+      "text": "The disease is mediated by a toxin acting at a distant site rather than by infection at the bulla"
+    },
+    {
+      "id": "C",
+      "text": "The organism is cleared rapidly from the skin by neutrophil influx"
+    },
+    {
+      "id": "D",
+      "text": "The organism is an obligate anaerobe that fails to grow in routine culture"
+    },
+    {
+      "id": "E",
+      "text": "The bullae represent a superficial dermatophyte infection with secondary blistering"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "This is staphylococcal scalded skin syndrome. Colonization of the nasopharynx or umbilicus releases exfoliative toxin, which travels hematogenously to the skin and cleaves superficial desmosomes, producing flaccid bullae and diffuse peeling. Because the epidermis itself is not infected, fluid from the blisters is sterile, so the diagnosis rests on clinical findings plus cultures from the primary colonized site.",
+  "explanation_incorrect": {
+    "A": "Chocolate agar with factors V and X is required by Haemophilus influenzae, and this disease is far more consistent with toxin-mediated staphylococcal skin involvement than with Haemophilus.",
+    "C": "Neutrophil clearance would not render the blister fluid sterile; instead, the absence of organisms reflects a toxin-mediated mechanism in which bacteria are not present in the lesion.",
+    "D": "Staphylococci are facultative anaerobes that grow readily in routine culture; an obligate anaerobe in this clinical setting would suggest Clostridium, which does not produce this picture.",
+    "E": "A dermatophyte infection causes scaly, annular plaques with central clearing; it does not cause flaccid bullae or diffuse superficial peeling in a febrile toddler."
+  },
+  "educationalObjective": "Staphylococcal scalded skin syndrome is toxin-mediated, so blister cultures are sterile while nasopharyngeal or umbilical cultures grow S aureus.",
+  "source": "Generated from 3. Microbiology.pdf - Clinical Bacteriology: Staphylococcus aureus"
+}
+]

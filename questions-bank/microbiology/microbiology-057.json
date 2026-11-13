@@ -1,0 +1,166 @@
+[
+{
+  "id": "micro-172",
+  "subject": "Microbiology",
+  "major_topic": "Clinical Bacteriology",
+  "subtopic": "Helicobacter pylori",
+  "difficulty": "medium",
+  "vignette": "A 46-year-old man presents with a 3-month history of burning epigastric pain that wakes him at night and is relieved by eating. He takes no NSAIDs. Physical examination is notable only for mild epigastric tenderness. Upper endoscopy reveals a 1-cm clean-based ulcer in the duodenal bulb, and a gastric biopsy shows curved gram-negative rods colonizing the antral mucosa.",
+  "question": "Which of the following properties of this organism most directly allows it to establish persistent infection in the gastric mucosa?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Production of urease, which generates ammonia and buffers the local acidic environment"
+    },
+    {
+      "id": "B",
+      "text": "Production of an ADP-ribosylating exotoxin that permanently activates Gs and raises intracellular cAMP"
+    },
+    {
+      "id": "C",
+      "text": "A polysaccharide capsule that prevents opsonization and phagocytosis by neutrophils"
+    },
+    {
+      "id": "D",
+      "text": "An exotoxin that inhibits elongation factor 2 and halts host protein synthesis"
+    },
+    {
+      "id": "E",
+      "text": "The ability to form heat-resistant spores that survive gastric acid and reseed the mucosa"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Helicobacter pylori is a curved, flagellated, gram-negative rod that is catalase, oxidase and urease positive. Its urease splits urea into ammonia and carbon dioxide, and the ammonia neutralizes gastric acid in the immediate microenvironment, creating the alkaline niche the organism needs to survive in the stomach. The same enzyme is the basis of the urea breath test, and the fecal antigen test is the other noninvasive diagnostic option. H pylori colonizes mainly the gastric antrum and causes gastritis and peptic ulcer disease, especially duodenal ulcers, and it is a risk factor for gastric adenocarcinoma and MALT lymphoma.",
+  "explanation_incorrect": {
+    "B": "This describes the cholera toxin mechanism. Cholera toxin ADP-ribosylates the Gs alpha subunit, locking it in the active state and driving secretory diarrhea; H pylori does not produce it.",
+    "C": "H pylori does not rely on a polysaccharide capsule. Capsules are the antiphagocytic virulence factor of organisms such as Streptococcus pneumoniae, Klebsiella pneumoniae and Cryptococcus neoformans.",
+    "D": "Inhibition of elongation factor 2 is the mechanism of diphtheria toxin and of Pseudomonas exotoxin A, both of which halt protein synthesis and cause cell death rather than chronic mucosal colonization.",
+    "E": "H pylori is a non-spore-forming organism. Heat-resistant spores are characteristic of Bacillus and Clostridium species, not of this curved rod."
+  },
+  "educationalObjective": "H pylori survives gastric acid through urease-mediated ammonia production, which is why the urea breath test works and why it colonizes the antrum.",
+  "source": "Generated from 3. Microbiology.pdf - Clinical Bacteriology: Helicobacter pylori"
+},
+{
+  "id": "micro-173",
+  "subject": "Microbiology",
+  "major_topic": "Clinical Bacteriology",
+  "subtopic": "Helicobacter pylori",
+  "difficulty": "medium",
+  "vignette": "A 52-year-old woman with a duodenal ulcer is found to have Helicobacter pylori infection on biopsy. She has no medication allergies and has never received treatment for this infection. Her physician plans eradication therapy.",
+  "question": "Which of the following regimens is the most appropriate initial treatment?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Metronidazole monotherapy for 14 days"
+    },
+    {
+      "id": "B",
+      "text": "Bismuth subsalicylate alone until symptoms resolve"
+    },
+    {
+      "id": "C",
+      "text": "Doxycycline plus surgical ulcer plication"
+    },
+    {
+      "id": "D",
+      "text": "Amoxicillin, clarithromycin, and a proton pump inhibitor"
+    },
+    {
+      "id": "E",
+      "text": "Vancomycin plus ceftriaxone"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Standard initial therapy for H pylori is triple therapy: amoxicillin, clarithromycin, and a proton pump inhibitor. In penicillin-allergic patients metronidazole is substituted for amoxicillin. When there is concern about macrolide resistance, bismuth-based quadruple therapy is used instead. Eradication matters because persistent infection is a risk factor for recurrent peptic ulcer disease, gastric adenocarcinoma, and MALT lymphoma, and curing the infection substantially reduces ulcer recurrence.",
+  "explanation_incorrect": {
+    "A": "Metronidazole is a component of H pylori regimens rather than an effective single agent. Monotherapy reliably fails to eradicate the organism and promotes resistance.",
+    "B": "Bismuth subsalicylate alone does not eradicate H pylori. Bismuth is used as one component of quadruple therapy, always combined with two antibiotics and a proton pump inhibitor.",
+    "C": "Doxycycline is used in quadruple therapy for some resistant regimens and in rickettsial disease, but it is not a standard H pylori agent, and ulcer plication is not indicated for uncomplicated duodenal ulcer disease.",
+    "E": "Vancomycin plus ceftriaxone is a regimen for serious gram-positive and gram-negative systemic infections. It is not used for H pylori, an organism that responds to oral acid-suppressing triple therapy."
+  },
+  "educationalObjective": "First-line H pylori eradication is amoxicillin plus clarithromycin plus a proton pump inhibitor, with bismuth-based quadruple therapy reserved for macrolide-resistance concerns.",
+  "source": "Generated from 3. Microbiology.pdf - Clinical Bacteriology: Helicobacter pylori"
+},
+{
+  "id": "micro-174",
+  "subject": "Microbiology",
+  "major_topic": "Clinical Bacteriology",
+  "subtopic": "Helicobacter pylori",
+  "difficulty": "hard",
+  "vignette": "A 61-year-old man from Colombia presents with early satiety, weight loss, and epigastric pain. Endoscopy shows a large irregular ulcerated mass in the gastric body, and biopsy reveals adenocarcinoma with surrounding chronic gastritis and numerous curved gram-negative rods. He asks what the connection is between the infection and the tumor.",
+  "question": "Chronic infection with this organism is most strongly associated with which of the following malignancies?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Esophageal squamous cell carcinoma"
+    },
+    {
+      "id": "B",
+      "text": "Hepatocellular carcinoma"
+    },
+    {
+      "id": "C",
+      "text": "Colorectal adenocarcinoma"
+    },
+    {
+      "id": "D",
+      "text": "Pancreatic ductal adenocarcinoma"
+    },
+    {
+      "id": "E",
+      "text": "Gastric adenocarcinoma and MALT lymphoma"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Chronic H pylori infection drives persistent gastric mucosal inflammation and is a recognized risk factor for both gastric adenocarcinoma and gastric MALT lymphoma. The organism colonizes mainly the antrum and causes chronic gastritis and peptic ulcer disease, and long-standing infection can progress through atrophic gastritis and intestinal metaplasia to adenocarcinoma. Eradication of the organism can induce regression of low-grade MALT lymphoma, which illustrates how directly the infection drives that particular tumor.",
+  "explanation_incorrect": {
+    "A": "Esophageal squamous cell carcinoma is associated with tobacco and alcohol use, achalasia, and hot beverage consumption rather than with H pylori. In fact, gastric colonization may be inversely associated with esophageal adenocarcinoma.",
+    "B": "Hepatocellular carcinoma arises in the setting of chronic hepatitis B or C infection, aflatoxin exposure, or cirrhosis. H pylori is not a hepatic oncogen.",
+    "C": "Colorectal adenocarcinoma is linked to adenomatous polyposis syndromes, Lynch syndrome, and inflammatory bowel disease. The classic bacterial association for colonic malignancy is Streptococcus gallolyticus bacteremia, not H pylori.",
+    "D": "Pancreatic ductal adenocarcinoma is associated with smoking, chronic pancreatitis, and inherited syndromes such as BRCA and PALB2 mutations. H pylori is not an established cause."
+  },
+  "educationalObjective": "H pylori is a class I carcinogen for gastric adenocarcinoma and is causally linked to gastric MALT lymphoma, which can regress with eradication.",
+  "source": "Generated from 3. Microbiology.pdf - Clinical Bacteriology: Helicobacter pylori"
+},
+{
+  "id": "micro-175",
+  "subject": "Microbiology",
+  "major_topic": "Clinical Bacteriology",
+  "subtopic": "Helicobacter pylori",
+  "difficulty": "easy",
+  "vignette": "A 38-year-old woman undergoes evaluation for dyspepsia. Rather than proceed straight to endoscopy, her physician orders a noninvasive test in which she swallows a labeled substrate and exhaled breath is analyzed afterward. The result is positive, and she is treated for a gastric infection.",
+  "question": "This breath test detects which activity of the causative organism?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Hydrogen sulfide production on TSI agar"
+    },
+    {
+      "id": "B",
+      "text": "Urease-mediated cleavage of urea into ammonia and carbon dioxide"
+    },
+    {
+      "id": "C",
+      "text": "Oxidase activity in the respiratory chain"
+    },
+    {
+      "id": "D",
+      "text": "Catalase-mediated breakdown of hydrogen peroxide"
+    },
+    {
+      "id": "E",
+      "text": "Lactose fermentation with acid production"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "The urea breath test relies on the organism's high urease activity. The patient swallows urea labeled with carbon-13 or carbon-14, and if H pylori is present its urease splits the urea into ammonia and labeled carbon dioxide, which is absorbed and exhaled. Exhaled labeled CO2 therefore indicates active infection. The fecal antigen test is the other common noninvasive option. Both tests exploit features that make this organism uniquely adapted to the stomach.",
+  "explanation_incorrect": {
+    "A": "Hydrogen sulfide production on TSI agar identifies organisms such as Salmonella and Proteus. It has no role in breath testing and is not a feature of H pylori.",
+    "C": "H pylori is oxidase positive, but oxidase activity is not what a breath test measures; it is a laboratory characteristic used to help identify the organism in culture.",
+    "D": "H pylori is catalase positive, but catalase breaks down hydrogen peroxide rather than a swallowed labeled substrate, so it produces no detectable breath signal.",
+    "E": "H pylori does not ferment lactose. Lactose fermentation is the distinguishing feature of organisms such as Escherichia coli and Klebsiella on MacConkey agar."
+  },
+  "educationalObjective": "The urea breath test and fecal antigen test are the noninvasive H pylori diagnostics, both built on the organism's urease activity.",
+  "source": "Generated from 3. Microbiology.pdf - Clinical Bacteriology: Helicobacter pylori"
+}
+]

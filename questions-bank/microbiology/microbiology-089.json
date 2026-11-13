@@ -1,0 +1,84 @@
+[
+{
+  "id": "micro-268",
+  "subject": "Microbiology",
+  "major_topic": "Virology",
+  "subtopic": "Rhinovirus and coronaviruses",
+  "difficulty": "easy",
+  "vignette": "A 25-year-old woman presents in September with 3 days of clear rhinorrhea, sneezing, nasal congestion, and mild sore throat without fever. Her coworker recovered from an identical illness the previous week. There are more than 100 serologic types of the responsible virus.",
+  "question": "Which of the following explains why this virus causes only upper respiratory illness rather than infecting the GI tract like other viruses in its family?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It is acid labile and is destroyed by stomach acid, unlike the other picornaviruses"
+    },
+    {
+      "id": "B",
+      "text": "It is an enveloped virus that is destroyed by gastric detergent-like bile salts"
+    },
+    {
+      "id": "C",
+      "text": "It requires the P antigen on RBCs to enter cells"
+    },
+    {
+      "id": "D",
+      "text": "It replicates only in the nucleus, which is absent in intestinal cells"
+    },
+    {
+      "id": "E",
+      "text": "It is a dsRNA virus that is inactivated by intestinal proteases"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Rhinovirus is a picornavirus: a nonenveloped positive-sense ssRNA virus with more than 100 serologic types that uses ICAM-1 as its receptor, remembered as I came to see the rhino. It is acid labile and destroyed by stomach acid, so unlike other picornaviruses such as poliovirus, echovirus, and coxsackievirus, it does not infect the GI tract. It produces the common cold with rhinorrhea, hence rhino has a runny nose.",
+  "explanation_incorrect": {
+    "B": "Rhinovirus is nonenveloped, so a lipid bilayer is not present to be destroyed by bile salts; acid lability is the mechanism.",
+    "C": "The P antigen on RBCs is the parvovirus B19 receptor, not the rhinovirus receptor, which is ICAM-1.",
+    "D": "Rhinoviruses, like other RNA viruses, replicate in the cytoplasm; nuclear replication is the exception of influenza and retroviruses.",
+    "E": "Picornaviruses have single-stranded positive-sense RNA genomes, not dsRNA, which is the property of reoviruses."
+  },
+  "educationalObjective": "Rhinovirus is an acid-labile picornavirus that uses ICAM-1 and is destroyed by stomach acid, so it does not cause GI infection unlike other picornaviruses.",
+  "source": "Generated from 3. Microbiology.pdf - Virology: Rhinovirus and coronaviruses"
+},
+{
+  "id": "micro-269",
+  "subject": "Microbiology",
+  "major_topic": "Virology",
+  "subtopic": "Rhinovirus and coronaviruses",
+  "difficulty": "medium",
+  "vignette": "A 57-year-old man develops fever, myalgias, sore throat, and loss of smell and taste, followed by progressive dyspnea and hypoxemia. Chest imaging shows bilateral peripheral ground-glass opacities. He later develops a pulmonary embolism. Nasopharyngeal PCR is positive for SARS-CoV-2.",
+  "question": "Which of the following best describes the entry mechanism of this virus?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Binding to the nicotinic acetylcholine receptor at the neuromuscular junction"
+    },
+    {
+      "id": "B",
+      "text": "Spike protein binding to the ACE2 receptor, highly expressed in lungs, intestines, heart, and kidneys"
+    },
+    {
+      "id": "C",
+      "text": "gp120 binding to CD4 and a chemokine coreceptor on T cells"
+    },
+    {
+      "id": "D",
+      "text": "Hemagglutinin binding to sialic acid on respiratory epithelial cells"
+    },
+    {
+      "id": "E",
+      "text": "Attachment to ICAM-1 on nasal epithelial cells"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "SARS-CoV-2 is a positive-sense ssRNA coronavirus that enters host cells when its spike protein attaches to the ACE2 receptor, which is highly expressed in the lungs, intestines, heart, and kidneys. Clinical features include fever, myalgia, anosmia, and dysgeusia, and severe cases develop pneumonia, hypercoagulability with DVT, PE, or stroke, and organ failure. mRNA and viral vector vaccines work by presenting the spike protein to induce anti-spike antibodies.",
+  "explanation_incorrect": {
+    "A": "Nicotinic acetylcholine receptors mediate rabies virus binding at the neuromuscular junction before retrograde axonal transport.",
+    "C": "This describes HIV entry, with gp120 docking to CD4 and CCR5 or CXCR4; HIV is a retrovirus, not a coronavirus.",
+    "D": "Hemagglutinin binding to sialic acid is how influenza virus enters cells, using a different receptor entirely.",
+    "E": "ICAM-1 is the rhinovirus receptor, remembered as I came to see the rhino, and rhinovirus causes the common cold rather than COVID-19."
+  },
+  "educationalObjective": "SARS-CoV-2 uses the spike protein to bind ACE2, which is expressed in lungs, intestines, heart, and kidneys; severe disease features pneumonia and hypercoagulability.",
+  "source": "Generated from 3. Microbiology.pdf - Virology: Rhinovirus and coronaviruses"
+}
+]

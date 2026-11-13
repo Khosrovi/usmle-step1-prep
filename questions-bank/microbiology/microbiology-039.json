@@ -1,0 +1,84 @@
+[
+{
+  "id": "micro-121",
+  "subject": "Microbiology",
+  "major_topic": "Clinical Bacteriology",
+  "subtopic": "Clostridium tetani",
+  "difficulty": "medium",
+  "vignette": "A 45-year-old landscaper steps on a rusty nail and develops a small, dirty puncture wound. Ten days later he has difficulty opening his mouth, a grimacing facial expression with raised eyebrows, neck stiffness, and painful muscle spasms that arch his back. He is fully alert, and sensation is intact. The wound still contains a small amount of soil.",
+  "question": "Which of the following best describes the mechanism of the responsible toxin?",
+  "options": [
+    {
+      "id": "A",
+      "text": "ADP-ribosylates elongation factor 2 in motor neurons"
+    },
+    {
+      "id": "B",
+      "text": "Blocks glycine and GABA release from Renshaw cells after retrograde axonal transport"
+    },
+    {
+      "id": "C",
+      "text": "Permanently activates Gs with accumulation of cAMP in muscle"
+    },
+    {
+      "id": "D",
+      "text": "Inhibits MAP kinase and induces macrophage apoptosis"
+    },
+    {
+      "id": "E",
+      "text": "Cleaves SNARE proteins to prevent acetylcholine release at the neuromuscular junction"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Tetanus toxin, or tetanospasmin, spreads by retrograde axonal transport to the CNS and blocks release of GABA and glycine from Renshaw cells in the spinal cord, causing unopposed stimulation of motor neurons. The result is spastic paralysis with trismus (lockjaw), risus sardonicus (raised eyebrows and open grin), and opisthotonos. The organism is noninvasive and remains localized to the wound site.",
+  "explanation_incorrect": {
+    "A": "ADP-ribosylation of elongation factor 2 inhibits protein synthesis and is the mechanism of diphtheria toxin and Pseudomonas exotoxin A.",
+    "C": "Permanent Gs activation with elevated cAMP is the cholera toxin mechanism, causing secretory diarrhea rather than neuromuscular disease.",
+    "D": "MAP kinase inhibition with macrophage apoptosis is the action of lethal factor in anthrax toxin, which produces shock and necrosis rather than muscle spasms.",
+    "E": "Cleavage of SNARE proteins to prevent acetylcholine release is the mechanism of botulinum toxin, which produces descending flaccid paralysis rather than spastic paralysis."
+  },
+  "educationalObjective": "Tetanus toxin blocks glycine and GABA release from Renshaw cells, causing spastic paralysis with lockjaw, risus sardonicus, and opisthotonos.",
+  "source": "Generated from 3. Microbiology.pdf - Clinical Bacteriology: Clostridium tetani"
+},
+{
+  "id": "micro-122",
+  "subject": "Microbiology",
+  "major_topic": "Clinical Bacteriology",
+  "subtopic": "Clostridium tetani",
+  "difficulty": "medium",
+  "vignette": "A 70-year-old farmer who has not seen a physician in 30 years sustains a deep forearm laceration contaminated with soil and manure while repairing a fence. He presents 6 hours after injury. The wound is irrigated and debrided, and the wound edges are approximated. His immunization records cannot be located, and he reports no tetanus booster as an adult.",
+  "question": "Which of the following best describes management of tetanus risk in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Diphtheria antitoxin plus erythromycin"
+    },
+    {
+      "id": "B",
+      "text": "Tetanus antitoxin with or without a vaccine booster, antibiotics, diazepam for spasms, and wound debridement"
+    },
+    {
+      "id": "C",
+      "text": "Human botulinum immunoglobulin and plasmapheresis"
+    },
+    {
+      "id": "D",
+      "text": "Wound care only, since tetanus is not transmitted through wounds"
+    },
+    {
+      "id": "E",
+      "text": "Oral vancomycin and fidaxomicin"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Management of tetanus risk combines wound debridement to remove the anaerobic environment where spores germinate, tetanus antitoxin with or without a vaccine booster, antibiotics, and diazepam for muscle spasms. The pathogen is noninvasive and stays localized to the wound, so adequate surgical care of the wound is a central part of prevention, and tetanus is prevented by vaccination.",
+  "explanation_incorrect": {
+    "A": "Diphtheria antitoxin with erythromycin treats Corynebacterium diphtheriae pharyngeal toxin disease and would not neutralize tetanospasmin.",
+    "C": "Human botulinum immunoglobulin is the treatment of botulism, in which the toxin acts at the neuromuscular junction to produce flaccid paralysis.",
+    "D": "Tetanus is acquired through contaminated wounds, especially deep puncture wounds and devitalized tissue, so wound care alone without immunization is inadequate for an unvaccinated patient.",
+    "E": "Oral vancomycin with fidaxomicin is the treatment of Clostridioides difficile colitis, an antibiotic-associated diarrheal disease."
+  },
+  "educationalObjective": "Tetanus is prevented by vaccination and managed with wound debridement, antitoxin with or without a booster, antibiotics, and diazepam for spasms.",
+  "source": "Generated from 3. Microbiology.pdf - Clinical Bacteriology: Clostridium tetani"
+}
+]

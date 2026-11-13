@@ -1,0 +1,207 @@
+[
+{
+  "id": "micro-144",
+  "subject": "Microbiology",
+  "major_topic": "Basic Bacteriology",
+  "subtopic": "Endotoxin, exotoxin, and superantigens",
+  "difficulty": "medium",
+  "vignette": "A 6-year-old girl is brought to the emergency department with fever, a diffuse macular rash, hypotension, and vomiting during a summer camping trip. She has a retained tampon inserted several days earlier. Blood cultures grow Staphylococcus aureus, and blistering desquamation develops on her palms and soles.",
+  "question": "Which mechanism best explains the diffuse rash, hypotension, and cytokine storm in toxic shock syndrome?",
+  "options": [
+    {
+      "id": "A",
+      "text": "ADP-ribosylation of elongation factor 2, halting protein synthesis in the host cell"
+    },
+    {
+      "id": "B",
+      "text": "Cleavage of SNARE proteins at the presynaptic terminal, blocking neurotransmitter release"
+    },
+    {
+      "id": "C",
+      "text": "Cross-linking of the T-cell receptor beta region to MHC class II outside the antigen binding site"
+    },
+    {
+      "id": "D",
+      "text": "Overactivation of adenylate cyclase by permanent activation of the Gs protein subunit"
+    },
+    {
+      "id": "E",
+      "text": "Phospholipase degradation of host cell membranes, producing myonecrosis and hemolysis"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Toxic shock syndrome toxin-1 (TSST-1) is a superantigen: it cross-links the beta region of the T-cell receptor to MHC class II on antigen-presenting cells outside the antigen-binding site. This bypasses normal antigen specificity and causes overwhelming release of IL-1, IL-2, IFN-gamma, and TNF-alpha, producing fever, rash, and shock. The same organism's other toxins cause different syndromes: exfoliative toxin causes scalded skin syndrome, and a heat-stable enterotoxin causes food poisoning. S pyogenes erythrogenic exotoxin A produces an analogous toxic shock-like syndrome and scarlet fever.",
+  "explanation_incorrect": {
+    "A": "ADP-ribosylation of elongation factor 2 inactivates protein synthesis and belongs to diphtheria toxin and Pseudomonas exotoxin A. It does not produce a cytokine storm.",
+    "B": "SNARE cleavage is how tetanospasmin and botulinum toxin block neurotransmitter release, causing spastic and flaccid paralysis respectively. Neither acts as a superantigen.",
+    "D": "Permanent Gs activation raising cAMP is the cholera toxin mechanism, producing voluminous rice-water diarrhea rather than shock.",
+    "E": "Lecithinase (phospholipase) activity is the C perfringens alpha toxin effect, producing myonecrosis and hemolysis rather than superantigen-mediated cytokine release."
+  },
+  "educationalObjective": "Superantigens such as TSST-1 cross-link TCR beta to MHC class II outside the antigen-binding groove, causing massive cytokine release and shock.",
+  "source": "Generated from 3. Microbiology.pdf - Basic Bacteriology: Endotoxin, exotoxin, and superantigens"
+},
+{
+  "id": "micro-145",
+  "subject": "Microbiology",
+  "major_topic": "Basic Bacteriology",
+  "subtopic": "Endotoxin, exotoxin, and superantigens",
+  "difficulty": "medium",
+  "vignette": "A 30-year-old woman returns from a trip abroad with a mild sore throat that progresses to a grey pseudomembrane on the tonsils, marked neck swelling, and later myocarditis. The organism is a gram-positive rod, and the toxin responsible is encoded in a lysogenic phage and acts by inactivating elongation factor 2 via ADP-ribosylation.",
+  "question": "Which statement about this toxin is correct?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It is derived from the cell wall and cannot be made into a toxoid"
+    },
+    {
+      "id": "B",
+      "text": "It is heat stable at 100 degrees C for one hour"
+    },
+    {
+      "id": "C",
+      "text": "It is a lipid A moiety of lipopolysaccharide released only on bacterial lysis"
+    },
+    {
+      "id": "D",
+      "text": "It is poorly antigenic and induces no neutralizing antibodies"
+    },
+    {
+      "id": "E",
+      "text": "It is a polypeptide whose genes are located on a plasmid or bacteriophage"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "The vignette describes diphtheria toxin from Corynebacterium diphtheriae. Exotoxins are polypeptides secreted by certain gram-positive and gram-negative species, with genes located on plasmids or in bacteriophages and very high toxicity (fatal dose on the order of 1 microgram). They are heat labile, strongly antigenic, and convertible to toxoids that are used as vaccines. Diphtheria toxin ADP-ribosylates and inactivates EF-2, halting protein synthesis in host cells and producing the pseudomembrane, bull neck, and myocarditis.",
+  "explanation_incorrect": {
+    "A": "Exotoxins are secreted proteins that can be chemically inactivated into toxoids used as vaccines (e.g., tetanus and diphtheria toxoids); they are not cell wall components.",
+    "B": "Heat stability at 100 degrees C for an hour is characteristic of endotoxin (LPS); exotoxins are destroyed rapidly at 60 degrees C, with the exceptions of staphylococcal enterotoxin, E coli heat-stable toxin, and B cereus emetic toxin.",
+    "C": "Lipid A is the endotoxin of gram-negative outer membranes, released when cells lyse or by blebs; this toxin is actively secreted by a gram-positive organism.",
+    "D": "Exotoxins are strongly antigenic and induce high-titer antibodies called antitoxins; it is endotoxin that is poorly antigenic."
+  },
+  "educationalObjective": "Exotoxins are secreted, plasmid- or phage-encoded polypeptides that are heat labile, highly toxic, and antitoxin-inducing; endotoxin is the lipid A of gram-negative LPS.",
+  "source": "Generated from 3. Microbiology.pdf - Basic Bacteriology: Endotoxin, exotoxin, and superantigens"
+},
+{
+  "id": "micro-146",
+  "subject": "Microbiology",
+  "major_topic": "Basic Bacteriology",
+  "subtopic": "Endotoxin, exotoxin, and superantigens",
+  "difficulty": "easy",
+  "vignette": "During a laboratory review of a blood culture bottle with a gram-negative rod, the technician notes that the bacterial suspension remains toxic even after heating the lysate at 100 degrees C for an hour, and that the toxic component cannot be converted into a toxoid.",
+  "question": "Which feature of this toxic component best explains this observation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It is a small polypeptide organized into an active A subunit and a binding B subunit"
+    },
+    {
+      "id": "B",
+      "text": "It is an extremely heat-stable lipid structural component of the outer membrane"
+    },
+    {
+      "id": "C",
+      "text": "It is encoded by a bacteriophage gene carried in a lysogenic prophage"
+    },
+    {
+      "id": "D",
+      "text": "It is a superantigen that cross-links the TCR beta region to MHC class II"
+    },
+    {
+      "id": "E",
+      "text": "It is a secreted polypeptide whose activity is destroyed by gentle heating"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Endotoxin is the lipid A component of lipopolysaccharide in the outer membrane of most gram-negative bacteria, and its genes are on the bacterial chromosome. Because it is a structural lipid rather than a secreted protein, it is extremely heat stable - surviving 100 degrees C for one hour - and it is poorly antigenic, so no toxoid and no vaccine are formed against it. It is released when cells lyse, or from blebs detaching from living cells, and signals through TLR4/CD14 to raise TNF, IL-1, and IL-6.",
+  "explanation_incorrect": {
+    "A": "The A-B two-component toxin architecture belongs to many exotoxins (diphtheria, cholera, pertussis, tetanus, botulinum) whose A components are usually ADP ribosyltransferases.",
+    "C": "Lysogenic phage-encoded toxins include diphtheria, botulinum, cholera, Shiga, and group A streptococcal erythrogenic toxins, all proteins; LPS genes are chromosomal.",
+    "D": "Superantigen activity describes TSST-1 and erythrogenic exotoxin A, which are heat-labile proteins; endotoxin is not a superantigen.",
+    "E": "That describes exotoxins, which are destroyed rapidly at 60 degrees C; the lab findings show the opposite pattern."
+  },
+  "educationalObjective": "Endotoxin is heat-stable lipid A from the gram-negative outer membrane, is released on lysis or in blebs, is poorly antigenic, and forms no toxoid.",
+  "source": "Generated from 3. Microbiology.pdf - Basic Bacteriology: Endotoxin, exotoxin, and superantigens"
+},
+{
+  "id": "micro-147",
+  "subject": "Microbiology",
+  "major_topic": "Basic Bacteriology",
+  "subtopic": "Endotoxin, exotoxin, and superantigens",
+  "difficulty": "medium",
+  "vignette": "A 24-year-old man develops severe watery diarrhea after eating undercooked pork and rice; several hours later he has flushed skin, a scrotal rash with desquamation, and profound hypotension while afebrile early on. A food handler with a hand wound cultured a gram-positive coccus in clusters.",
+  "question": "Which toxin from this organism is heat stable, survives boiling, and causes food poisoning with early emesis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Heat-stable enterotoxin"
+    },
+    {
+      "id": "B",
+      "text": "Alpha toxin"
+    },
+    {
+      "id": "C",
+      "text": "Erythrogenic exotoxin A"
+    },
+    {
+      "id": "D",
+      "text": "Exfoliative toxin"
+    },
+    {
+      "id": "E",
+      "text": "Toxic shock syndrome toxin-1"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Staphylococcal enterotoxin is the classic heat-stable exotoxin, one of only three exotoxins that survive rapid heating at 60 degrees C (along with E coli heat-stable toxin and the B cereus emetic toxin). Because preformed toxin in food is heat stable, reheating contaminated food does not prevent illness, and vomiting begins rapidly after ingestion. TSST-1 and the other S aureus toxins are heat-labile proteins that cause different syndromes - toxic shock and scalded skin syndrome respectively - which is why knowing the exceptions to exotoxin heat lability is testable knowledge.",
+  "explanation_incorrect": {
+    "B": "Alpha toxin is the Clostridium perfringens lecithinase causing gas gangrene and double-zone hemolysis on blood agar.",
+    "C": "Erythrogenic exotoxin A is produced by group A Streptococcus and causes scarlet fever and a toxic shock-like syndrome.",
+    "D": "Exfoliative toxin causes staphylococcal scalded skin syndrome by splitting the epidermis, not a food poisoning emesis syndrome.",
+    "E": "TSST-1 is the superantigen of tampon-associated toxic shock; it is a heat-labile protein and not responsible for the rapid emesis of staphylococcal food poisoning."
+  },
+  "educationalObjective": "Staphylococcal enterotoxin is heat stable (as are E coli heat-stable toxin and B cereus emetic toxin) and causes rapid-onset food poisoning; most exotoxins are heat labile.",
+  "source": "Generated from 3. Microbiology.pdf - Basic Bacteriology: Endotoxin, exotoxin, and superantigens"
+},
+{
+  "id": "micro-148",
+  "subject": "Microbiology",
+  "major_topic": "Basic Bacteriology",
+  "subtopic": "Endotoxin, exotoxin, and superantigens",
+  "difficulty": "hard",
+  "vignette": "A 45-year-old woman has fever, rash, and hypotension with a skin infection caused by group A Streptococcus. She also reports a recent scarlet-fever-like illness in her child. The physician is contrasting this picture with the classic lipopolysaccharide response seen in gram-negative sepsis.",
+  "question": "Which pair of features distinguishes the streptococcal superantigen syndrome from endotoxin-mediated shock?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It is unrelated to lipopolysaccharide, is encoded in a lysogenic phage, is heat labile, and induces antitoxin antibodies"
+    },
+    {
+      "id": "B",
+      "text": "It is extremely heat stable at 100 degrees C and signals through TLR4 and CD14 on host macrophages"
+    },
+    {
+      "id": "C",
+      "text": "It is a lipid component of the outer membrane and produces DIC through tissue factor activation"
+    },
+    {
+      "id": "D",
+      "text": "It is poorly antigenic and so cannot induce the neutralizing antibodies that would protect her"
+    },
+    {
+      "id": "E",
+      "text": "It is a peptidoglycan derivative whose toxicity requires activation of the complement cascade"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Erythrogenic exotoxin A of S pyogenes is a phage-encoded exotoxin that acts as a superantigen, causing scarlet fever as well as a toxic shock-like syndrome with fever, rash, and shock. As an exotoxin it is a heat-labile polypeptide, is encoded on a bacteriophage (one of the ABCD'S toxins), and induces high-titer antitoxin antibodies. By contrast, endotoxin is a heat-stable lipid A of the gram-negative outer membrane, is poorly antigenic, is chromosome encoded, and produces its effects through macrophage, complement, and tissue factor activation. Both can produce shock, but the immunologic and biochemical properties separate them cleanly.",
+  "explanation_incorrect": {
+    "B": "Extreme heat stability and TLR4/CD14 signaling are properties of lipid A endotoxin. Endotoxin is a lipid of the outer membrane, not a phage-encoded protein.",
+    "C": "A lipid outer-membrane component activating tissue factor to cause DIC describes endotoxin. That is a different molecule with different genetics.",
+    "D": "Poor antigenicity with no neutralizing antibody is the handicap of endotoxin. Exotoxins are highly antigenic and toxoids are made from them.",
+    "E": "The toxin here is a secreted polypeptide exotoxin, not a peptidoglycan derivative, and its superantigen activity does not require complement."
+  },
+  "educationalObjective": "Group A streptococcal erythrogenic exotoxin A is a phage-encoded superantigen exotoxin; LPS is a heat-stable, poorly antigenic, chromosome-encoded lipid.",
+  "source": "Generated from 3. Microbiology.pdf - Basic Bacteriology: Endotoxin, exotoxin, and superantigens"
+}
+]

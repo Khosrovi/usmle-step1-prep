@@ -1,0 +1,84 @@
+[
+{
+  "id": "micro-264",
+  "subject": "Microbiology",
+  "major_topic": "Virology",
+  "subtopic": "Rabies",
+  "difficulty": "medium",
+  "vignette": "A 34-year-old hiker is bitten on the hand by a bat while camping. The bite is small and he washes it with soap and water. He has never received rabies vaccine. He presents to the emergency department 6 hours later and is otherwise asymptomatic.",
+  "question": "Which of the following is the most appropriate management?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Rabies immunoglobulin alone, because vaccine cannot be given after exposure"
+    },
+    {
+      "id": "B",
+      "text": "Observation only, because the long incubation period allows treatment once symptoms begin"
+    },
+    {
+      "id": "C",
+      "text": "Wound cleaning plus killed rabies vaccine and rabies immunoglobulin, an example of passive-active immunity"
+    },
+    {
+      "id": "D",
+      "text": "Wound cleaning alone, because bat bites rarely transmit rabies"
+    },
+    {
+      "id": "E",
+      "text": "Live attenuated rabies vaccine alone, without immunoglobulin"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Postexposure prophylaxis for rabies is wound cleaning plus immunization with killed vaccine and rabies immunoglobulin, which is an example of passive-active immunity. Rabies virus binds nicotinic acetylcholine receptors and travels to the CNS by retrograde axonal transport via dynein motors, with an incubation period of weeks to months, so prophylaxis must be given before symptoms appear. In the United States, infection is more commonly from bat, raccoon, and skunk bites than from dog bites.",
+  "explanation_incorrect": {
+    "A": "Vaccination is appropriate after exposure and must be combined with immunoglobulin in previously unvaccinated people to provide passive antibodies while active immunity develops.",
+    "B": "Once symptoms begin, rabies is almost universally fatal, so prophylaxis must be given during the incubation period rather than withheld.",
+    "D": "Bat exposure is a recognized rabies risk in the United States, and wound cleaning alone is inadequate after a bite from a potentially rabid animal.",
+    "E": "Rabies postexposure prophylaxis uses killed vaccine; a live attenuated rabies vaccine is not appropriate, and immunoglobulin is also indicated for previously unvaccinated patients."
+  },
+  "educationalObjective": "Rabies postexposure prophylaxis is wound cleaning plus killed vaccine and rabies immunoglobulin, giving passive-active immunity before the virus reaches the CNS.",
+  "source": "Generated from 3. Microbiology.pdf - Virology: Rabies"
+},
+{
+  "id": "micro-265",
+  "subject": "Microbiology",
+  "major_topic": "Virology",
+  "subtopic": "Rabies",
+  "difficulty": "hard",
+  "vignette": "A 47-year-old man from a rural area dies of an illness characterized by agitation, photophobia, hydrophobia, hypersalivation, and progressive paralysis leading to coma. He had been bitten by a stray dog 3 months earlier and never sought care. Autopsy examines the cerebellum and hippocampus.",
+  "question": "Which of the following findings is most characteristic at autopsy?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Negri bodies, cytoplasmic inclusions in Purkinje cells and hippocampal neurons"
+    },
+    {
+      "id": "B",
+      "text": "Owl's eye intranuclear inclusions in mononuclear cells"
+    },
+    {
+      "id": "C",
+      "text": "Cowdry A intranuclear inclusions with multinucleated giant cells"
+    },
+    {
+      "id": "D",
+      "text": "Councilman bodies in the liver"
+    },
+    {
+      "id": "E",
+      "text": "Warthin-Finkeldey giant cells in paracortical lymph node regions"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Rabies virus is a bullet-shaped rhabdovirus with a negative-sense ssRNA genome. Negri bodies are cytoplasmic inclusions commonly found in Purkinje cells of the cerebellum and in hippocampal neurons. The progression of disease is fever and malaise, then agitation, photophobia, hydrophobia, and hypersalivation, then paralysis, coma, and death.",
+  "explanation_incorrect": {
+    "B": "Owl's eye intranuclear inclusions are typical of cytomegalovirus infection, not rabies.",
+    "C": "Cowdry A inclusions with multinucleated giant cells are seen on Tzanck smears in HSV-1, HSV-2, and VZV infection.",
+    "D": "Councilman bodies are eosinophilic apoptotic globules seen in the liver in hepatitis A and yellow fever.",
+    "E": "Warthin-Finkeldey giant cells are fused lymphocytes in measles lymphadenitis, a different paramyxovirus infection."
+  },
+  "educationalObjective": "Rabies is a bullet-shaped rhabdovirus whose hallmark at autopsy is Negri bodies, cytoplasmic inclusions in cerebellar Purkinje cells and hippocampal neurons.",
+  "source": "Generated from 3. Microbiology.pdf - Virology: Rabies"
+}
+]

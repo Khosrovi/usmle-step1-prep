@@ -1,0 +1,125 @@
+[
+{
+  "id": "micro-004",
+  "subject": "Microbiology",
+  "major_topic": "Mycology",
+  "subtopic": "Antifungal drugs and mechanisms",
+  "difficulty": "medium",
+  "vignette": "A 66-year-old man with febrile neutropenia is started on an antifungal that his pharmacist explains targets a structure unique to fungi and forms pores in the membrane, allowing electrolytes to leak out. During infusion he develops fever, chills, hypotension, and later is noted to have rising creatinine and low potassium and magnesium.",
+  "question": "Which of the following drugs is described, and what is its mechanism of action?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Amphotericin B, which binds ergosterol and forms membrane pores"
+    },
+    {
+      "id": "B",
+      "text": "Flucytosine, which inhibits DNA and RNA synthesis"
+    },
+    {
+      "id": "C",
+      "text": "Terbinafine, which inhibits squalene epoxidase"
+    },
+    {
+      "id": "D",
+      "text": "Fluconazole, which inhibits ergosterol synthesis"
+    },
+    {
+      "id": "E",
+      "text": "Caspofungin, which inhibits beta-glucan synthesis"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Amphotericin B binds ergosterol, which is unique to fungi, and forms membrane pores that let electrolytes leak out; the mnemonic is that amphotericin 'tears' holes in the fungal membrane. Its classic adverse effects are fever and chills ('shake and bake'), hypotension, nephrotoxicity, arrhythmias, anemia, and IV phlebitis, which together earn it the name 'amphoterrible.' Because renal tubular permeability is altered, potassium and magnesium must be supplemented. Hydration reduces nephrotoxicity, and liposomal formulations are less toxic.",
+  "explanation_incorrect": {
+    "B": "Flucytosine is converted to 5-fluorouracil by fungal cytosine deaminase and inhibits DNA and RNA biosynthesis, and its hallmark toxicity is myelosuppression.",
+    "C": "Terbinafine inhibits the fungal enzyme squalene epoxidase, a different step in the sterol pathway, and it is used for dermatophytoses rather than serious systemic mycoses.",
+    "D": "Fluconazole inhibits the cytochrome P-450 enzyme that converts lanosterol to ergosterol, which is a synthesis step rather than pore formation in the completed membrane.",
+    "E": "Caspofungin is an echinocandin that inhibits cell wall synthesis by blocking beta-glucan production, not by interacting with membrane sterols."
+  },
+  "educationalObjective": "Amphotericin B binds ergosterol and forms membrane pores, causing fever and chills, nephrotoxicity, and electrolyte wasting.",
+  "source": "Generated from 3. Microbiology.pdf - Mycology: Antifungal drugs and mechanisms"
+},
+{
+  "id": "micro-005",
+  "subject": "Microbiology",
+  "major_topic": "Mycology",
+  "subtopic": "Antifungal drugs and mechanisms",
+  "difficulty": "medium",
+  "vignette": "A 59-year-old man with acute leukemia has prolonged neutropenia and develops invasive aspergillosis with a pulmonary nodule and halo sign. His team wants to choose a drug class that targets the fungal cell wall, keeping amphotericin B in reserve because of a rising creatinine.",
+  "question": "Which of the following correctly pairs an agent with its mechanism of action?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Amphotericin B interferes with microtubule function and mitosis"
+    },
+    {
+      "id": "B",
+      "text": "Fluconazole inhibits beta-glucan synthesis in the cell wall"
+    },
+    {
+      "id": "C",
+      "text": "Caspofungin binds ergosterol and forms membrane pores"
+    },
+    {
+      "id": "D",
+      "text": "Caspofungin inhibits synthesis of beta-glucan in the cell wall"
+    },
+    {
+      "id": "E",
+      "text": "Flucytosine inhibits squalene epoxidase and blocks sterol synthesis"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Echinocandins, including anidulafungin, caspofungin, and micafungin, inhibit cell wall synthesis by blocking beta-glucan production, and they are used for invasive aspergillosis and Candida infections as second-line or alternative therapy when amphotericin is undesirable. Their characteristic adverse effects are GI upset and flushing from histamine release. Because they target the cell wall, a structure with no human counterpart, they are attractive when amphotericin's nephrotoxicity must be avoided.",
+  "explanation_incorrect": {
+    "A": "Microtubule disruption and mitotic interference are the mechanisms of griseofulvin, whereas amphotericin B acts at the membrane sterol level.",
+    "B": "Fluconazole is an azole that inhibits the cytochrome P-450 enzyme converting lanosterol to ergosterol, and beta-glucan synthesis inhibition belongs to the echinocandins.",
+    "C": "Ergosterol binding with pore formation is the mechanism of amphotericin B and nystatin, not of the echinocandins, which act on the cell wall.",
+    "E": "Flucytosine works as an antimetabolite converted to 5-fluorouracil to inhibit DNA and RNA synthesis, and squalene epoxidase inhibition is the mechanism of terbinafine."
+  },
+  "educationalObjective": "Echinocandins such as caspofungin inhibit cell wall beta-glucan synthesis and are used for invasive aspergillosis and Candida infections.",
+  "source": "Generated from 3. Microbiology.pdf - Mycology: Antifungal drugs and mechanisms"
+},
+{
+  "id": "micro-006",
+  "subject": "Microbiology",
+  "major_topic": "Mycology",
+  "subtopic": "Antifungal drugs and mechanisms",
+  "difficulty": "hard",
+  "vignette": "A 38-year-old man with AIDS and cryptococcal meningitis is started on amphotericin B and a second agent that is converted to 5-fluorouracil within the fungus by cytosine deaminase, inhibiting DNA and RNA biosynthesis. Two weeks later he develops leukopenia and thrombocytopenia. A woman using an azole for a resistant fungal infection is noted to have gynecomastia and a prolonged QT interval.",
+  "question": "Which of the following is the most likely cause of the myelosuppression in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Fluconazole"
+    },
+    {
+      "id": "B",
+      "text": "Nystatin"
+    },
+    {
+      "id": "C",
+      "text": "Flucytosine"
+    },
+    {
+      "id": "D",
+      "text": "Voriconazole"
+    },
+    {
+      "id": "E",
+      "text": "Amphotericin B"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Flucytosine is converted to 5-fluorouracil by fungal cytosine deaminase, inhibiting DNA and RNA biosynthesis, and is used for systemic fungal infections, especially Cryptococcus meningitis, in combination with amphotericin B. Its characteristic adverse effect is myelosuppression, which explains the leukopenia and thrombocytopenia. Combining it with amphotericin B for cryptococcal meningitis is the classic regimen, with fluconazole then used for chronic suppression. Remember that its toxicity profile differs from that of amphotericin, which causes fever, chills, and nephrotoxicity.",
+  "explanation_incorrect": {
+    "A": "Fluconazole inhibits ergosterol synthesis and causes liver dysfunction and QT prolongation, and the gynecomastia mentioned in the stem is typical of azoles, especially ketoconazole, not of the drug causing cytopenias.",
+    "B": "Nystatin is a topical polyene used for oral candidiasis and diaper rash, and its minimal systemic absorption means it does not cause marrow suppression.",
+    "D": "Voriconazole is used for invasive aspergillosis and causes visual disturbances and QT prolongation, but the marrow suppression here belongs to the antimetabolite partner drug.",
+    "E": "Amphotericin B causes fever and chills, hypotension, nephrotoxicity, arrhythmias, and anemia, but not the classic myelosuppression described with this pyrimidine analog."
+  },
+  "educationalObjective": "Flucytosine inhibits fungal DNA and RNA synthesis after conversion to 5-fluorouracil and causes myelosuppression.",
+  "source": "Generated from 3. Microbiology.pdf - Mycology: Antifungal drugs and mechanisms"
+}
+]

@@ -113,3 +113,105 @@ passed through the shell environment, not stored in the repository.
 - User can complete a 20-question quiz in < 10 minutes
 - All explanations reference source PDF content
 - Platform is free to use (no paid APIs required)
+
+## 🔧 One-time setup: enable saving of study progress
+
+**Symptom if this step is skipped:** quizzes work, but answered / correct /
+accuracy stay at 0 and the Stats page shows the yellow banner *"Showing progress
+saved in this browser."*
+
+**Cause:** the app has no login, so every request reaches Supabase as the `anon`
+role. Row level security is enabled on `user_progress` with no policy allowing
+`anon` to insert, so every progress write is rejected:
+
+```
+401  {"code":"42501","message":"new row violates row-level security policy for table \"user_progress\""}
+```
+
+Reads still work, which is why the UI appears healthy while nothing accumulates.
+Exactly the same block applies to inserting questions into `questions` and plan
+rows into `topic_coverage`.
+
+**Fix (2 minutes, once):**
+
+1. Open <https://supabase.com/dashboard> and select the project
+   (`fkuqohcosijdbgatdqjm`).
+2. Left sidebar → **SQL Editor** → **New query**.
+3. Open the file
+   [`supabase/migrations/0002_disable_rls_for_anonymous_app.sql`](supabase/migrations/0002_disable_rls_for_anonymous_app.sql),
+   copy **everything**, paste it into the editor.
+4. Press **Run** (or Ctrl+Enter). It should report success; the script is
+   idempotent, so running it twice is harmless.
+5. Reload the app. The yellow banner disappears and the numbers move.
+
+The script disables row level security (and drops the leftover policies) on
+`user_progress`, `bookmarks`, `questions` and `topic_coverage`.
+
+> ⚠️ **What that trade-off means.** With RLS off, anyone holding the anon key —
+> which ships inside the browser bundle and is therefore effectively public —
+> can read *and modify* every row in those tables. Questions and the coverage
+> plan are public content, so that part is harmless. For `user_progress` and
+> `bookmarks` it means a visitor could read or wipe the study history. That is
+> fine for a personal study tool on a private URL; it is **not** fine once the
+> site is shared publicly or accounts are added. At that point re-enable RLS and
+> use the per-user policy variant documented at the bottom of the same file.
+
+**Verify it worked** — run in the SQL editor:
+
+```sql
+select tablename, rowsecurity
+from pg_tables
+where schemaname = 'public'
+  and tablename in ('user_progress','bookmarks','questions','topic_coverage');
+-- rowsecurity must be false for all four
+```
+
+Until this step is done the app is still fully usable: progress is stored in the
+browser (`localStorage`, keys `usmle:progress:v1` and `usmle:flags:v1`) and every
+page reads from that local copy first, so nothing is lost — it simply does not
+leave the device.
+
+## 📚 Loading a question bank into the database
+
+The bank in `questions-bank/` is the source of truth. Two ways to push it into
+Supabase; use whichever key you have.
+
+**Option A — service role key (no dashboard needed):**
+
+```powershell
+$env:SUPABASE_SERVICE_ROLE_KEY = "eyJ..."   # Project settings → API → service_role
+node scripts/import-questions.mjs            # add --dry-run to only report
+node scripts/import-questions.mjs --subject=Microbiology
+```
+
+**Option B — SQL editor (no service key needed):**
+
+1. Generate the file: `node scripts/export-microbiology-sql.mjs`
+2. SQL Editor → New query → paste
+   [`supabase/migrations/0003_seed_microbiology.sql`](supabase/migrations/0003_seed_microbiology.sql)
+   → Run.
+
+Both options are idempotent: questions are matched on vignette + question text
+and coverage rows on `(subject, major_topic, subtopic)`, so re-running after
+adding questions only inserts the new ones. Both also recalculate
+`topic_coverage.questions_generated` and flip each row to `completed` once its
+planned count is reached.
+
+After loading, the dashboard picks up the new subject automatically — subject
+cards are built from live question counts, so no code change is needed.
+
+## 🚩 Difficult-question review
+
+After answering a question you can press **Mark as hard**. Marked questions are
+collected on the **Review** page (`/review`, reachable from the dashboard), where
+each one can be expanded to read the vignette, the option-by-option
+explanations and to keep a free-text note for later discussion. The page also
+offers *Practise these topics again*, which starts a quiz limited to the
+subtopics behind the flagged questions.
+
+Finishing a session (the **Finish session and see summary** button, available
+whenever at least one question has been answered) shows a summary with the
+answered / correct / accuracy / time breakdown, a per-major-topic performance
+list and the questions you missed, each of which can be pushed straight onto the
+review list.
+

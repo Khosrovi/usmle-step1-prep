@@ -1,0 +1,84 @@
+[
+{
+  "id": "micro-299",
+  "subject": "Microbiology",
+  "major_topic": "Basic Bacteriology",
+  "subtopic": "Sterilization and disinfection",
+  "difficulty": "easy",
+  "vignette": "A hospital reprocessing unit must sterilize surgical instruments that may be contaminated with Clostridium perfringens spores from a wound debridement performed the night before. The staff is reviewing the parameters for reliable sterilization.",
+  "question": "Which condition is required to reliably kill bacterial spores on surgical equipment?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Washing the instruments with soap and hot water, then drying them fully"
+    },
+    {
+      "id": "B",
+      "text": "Boiling the instruments at 100 degrees C for 10 minutes in water"
+    },
+    {
+      "id": "C",
+      "text": "Soaking the instruments in 70% ethanol for 30 minutes at room temperature"
+    },
+    {
+      "id": "D",
+      "text": "Autoclaving by steaming at 121 degrees C for 15 minutes at 15 psi"
+    },
+    {
+      "id": "E",
+      "text": "Exposing the instruments to ultraviolet light for 20 minutes after cleaning"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Spores lack metabolic activity and are highly resistant to heat and chemicals because their core contains dipicolinic acid; routine disinfection and boiling will not reliably kill them. Autoclaving - steaming at 121 degrees C for 15 minutes at a pressure of 15 psi - is the standard method, summarized by the mnemonic abc (Autoclave to kill Bacillus and Clostridium). Hydrogen peroxide and iodine-based agents are also sporicidal, which is why they appear among chemical sterilization and high-level disinfection options. The pressure is essential because it raises the steam temperature above boiling.",
+  "explanation_incorrect": {
+    "A": "Soap and hot water achieve mechanical removal and detergent action but no microbial kill, and they have no effect on heat-resistant spore structures.",
+    "B": "Boiling at 100 degrees C kills vegetative bacteria but is not reliably sporicidal; the missing element is the pressure that raises steam temperature, which is exactly why autoclaving works.",
+    "C": "70% ethanol is a bactericidal alcohol that is active against many vegetative organisms but is not dependable against spores, so it cannot sterilize a contaminated instrument.",
+    "E": "UV irradiation damages nucleic acid on exposed surfaces only; it does not penetrate instruments and has no reliable sporicidal activity, so it cannot be used here."
+  },
+  "educationalObjective": "Spores are killed by autoclaving at 121 degrees C, 15 psi, 15 minutes; hydrogen peroxide and iodine agents are also sporicidal.",
+  "source": "Generated from 3. Microbiology.pdf - Basic Bacteriology: Sterilization and disinfection"
+},
+{
+  "id": "micro-300",
+  "subject": "Microbiology",
+  "major_topic": "Basic Bacteriology",
+  "subtopic": "Sterilization and disinfection",
+  "difficulty": "medium",
+  "vignette": "An endoscopy unit is choosing an agent for a heat-sensitive flexible endoscope that was exposed to a patient with inadequate bowel preparation and possible spore contamination. Chemical disinfection is required because the device cannot be autoclaved.",
+  "question": "Which chemical agent is sporicidal and appropriate for high-level disinfection of heat-sensitive instruments?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Isopropyl alcohol"
+    },
+    {
+      "id": "B",
+      "text": "Quaternary ammonium compounds"
+    },
+    {
+      "id": "C",
+      "text": "Glutaraldehyde"
+    },
+    {
+      "id": "D",
+      "text": "Soap and water"
+    },
+    {
+      "id": "E",
+      "text": "70% ethanol"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Because spores resist heat and chemicals through their dipicolinic acid-rich core, chemical killing requires intrinsically sporicidal agents. Glutaraldehyde provides so-called cold sterilization for heat-sensitive equipment such as endoscopes, and hydrogen peroxide and iodine-based agents are likewise sporicidal. Alcohols are effective against vegetative organisms including many mycobacteria but not against spores, which is why they cannot be substituted here. The distinction between disinfection and sterilization hinges on whether the method reliably destroys spores.",
+  "explanation_incorrect": {
+    "A": "Isopropyl alcohol shares the limitations of ethanol: rapid killing of vegetative forms but no dependable spore activity and no high-level disinfection claim.",
+    "B": "Quaternary ammonium compounds are low-level disinfectants that are active against many vegetative bacteria but do not kill spores and have limited mycobacterial activity.",
+    "D": "Soap and water performs mechanical removal and detergent action only; it is cleaning, not disinfection, and has no sporicidal action.",
+    "E": "Ethanol at 70% is a bactericidal alcohol that inactivates many vegetative organisms, but it is not reliably sporicidal and is not used for sterilization."
+  },
+  "educationalObjective": "Only truly sporicidal agents - such as glutaraldehyde, hydrogen peroxide, or iodine-based compounds - can high-level disinfect heat-sensitive equipment.",
+  "source": "Generated from 3. Microbiology.pdf - Basic Bacteriology: Sterilization and disinfection"
+}
+]

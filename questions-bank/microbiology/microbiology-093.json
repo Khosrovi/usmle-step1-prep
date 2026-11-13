@@ -1,0 +1,125 @@
+[
+{
+  "id": "micro-278",
+  "subject": "Microbiology",
+  "major_topic": "Clinical Bacteriology",
+  "subtopic": "Salmonella",
+  "difficulty": "medium",
+  "vignette": "A 31-year-old man returns from a 3-week trip to South Asia and presents with 10 days of stepwise rising fever, headache, abdominal pain, and constipation followed by diarrhea. His temperature is 39.4°C while his pulse is only 78/min. Examination shows a faint blanching pink rash over the trunk and hepatosplenomegaly. Blood culture grows a gram-negative rod that produces H2S.",
+  "question": "Which of the following organisms is most likely responsible?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Yersinia enterocolitica"
+    },
+    {
+      "id": "B",
+      "text": "Shigella sonnei"
+    },
+    {
+      "id": "C",
+      "text": "Campylobacter jejuni"
+    },
+    {
+      "id": "D",
+      "text": "Vibrio cholerae"
+    },
+    {
+      "id": "E",
+      "text": "Salmonella typhi"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "This is typhoid fever caused by Salmonella typhi, with a salmon-colored truncal macular rash, abdominal pain, fever with pulse-temperature dissociation, and later gastrointestinal ulceration and hemorrhage. S typhi has a human-only reservoir, spreads hematogenously, produces H2S, has flagella, and is treated with ceftriaxone or a fluoroquinolone.",
+  "explanation_incorrect": {
+    "A": "Yersinia enterocolitica is a pleomorphic rod with bipolar staining that causes pseudoappendicitis and reactive arthritis, typically acquired from pork or pet feces.",
+    "B": "Shigella sonnei does not produce H2S, has no flagella, does not spread hematogenously, and causes bacillary dysentery with tenesmus and bloody mucoid stools.",
+    "C": "Campylobacter jejuni is a curved organism that grows at 42°C with polar flagella, causes bloody diarrhea, and produces no H2S; it is linked to Guillain-Barré syndrome.",
+    "D": "Vibrio cholerae is a comma-shaped organism that grows in alkaline media and produces profuse rice-water diarrhea rather than a febrile systemic illness with a rash."
+  },
+  "educationalObjective": "Salmonella typhi causes typhoid fever with a salmon-colored truncal rash, pulse-temperature dissociation, and H2S production with hematogenous spread.",
+  "source": "Generated from 3. Microbiology.pdf - Clinical Bacteriology: Salmonella"
+},
+{
+  "id": "micro-279",
+  "subject": "Microbiology",
+  "major_topic": "Clinical Bacteriology",
+  "subtopic": "Salmonella",
+  "difficulty": "medium",
+  "vignette": "A 34-year-old woman has recovered from an acute diarrheal illness after a trip abroad, but she continues to have intermittent low-grade fevers and abdominal discomfort 6 months later. Stool cultures intermittently grow Salmonella typhi. Imaging shows gallstones, and she recalls having a similar febrile illness many years earlier.",
+  "question": "Which of the following best explains the site of her persistent organism carriage?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Renal pelvis colonization with struvite stone formation"
+    },
+    {
+      "id": "B",
+      "text": "Small intestinal colonization by organisms that produce enterotoxin"
+    },
+    {
+      "id": "C",
+      "text": "Gallbladder colonization"
+    },
+    {
+      "id": "D",
+      "text": "Colonic mucosal invasion with cell-to-cell spread"
+    },
+    {
+      "id": "E",
+      "text": "Peyer patch invasion with regional lymph node latency"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Salmonella typhi establishes a chronic carrier state with gallbladder colonization, which is why long-term shedding and intermittent bacteremia persist after acute illness. Unlike most other Salmonella, S typhi has humans as its only reservoir, and the 4 F's of fingers, flies, food, and feces describe its transmission.",
+  "explanation_incorrect": {
+    "A": "Renal pelvis colonization with struvite stones is the mechanism of Proteus mirabilis infection, driven by urease production and an alkaline urine pH.",
+    "B": "Enterotoxin-driven small intestinal colonization causes acute watery diarrhea and does not produce chronic carriage; S typhi does not use an enterotoxin to establish persistence.",
+    "D": "Cell-to-cell spread without hematogenous dissemination is the defining behavior of Shigella, not of Salmonella, which spreads hematogenously.",
+    "E": "Invasion of Peyer patches occurs in acute Salmonella infection, but chronic carriage persists in the gallbladder rather than in lymph nodes."
+  },
+  "educationalObjective": "Salmonella typhi can produce a chronic carrier state through gallbladder colonization, with humans as the only reservoir.",
+  "source": "Generated from 3. Microbiology.pdf - Clinical Bacteriology: Salmonella"
+},
+{
+  "id": "micro-280",
+  "subject": "Microbiology",
+  "major_topic": "Clinical Bacteriology",
+  "subtopic": "Salmonella",
+  "difficulty": "easy",
+  "vignette": "A 7-year-old boy presents with fever, abdominal cramps, and nonbloody diarrhea that began 2 days after his family bought a pet turtle for his terrarium. He handles the turtle daily and does not always wash his hands. Stool culture grows a gram-negative rod that produces H2S on TSI agar and is oxidase negative.",
+  "question": "Which of the following statements about the responsible organism is correct?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Antibiotics shorten the duration of fecal excretion"
+    },
+    {
+      "id": "B",
+      "text": "It requires a very low infectious dose because it is acid stable"
+    },
+    {
+      "id": "C",
+      "text": "It is a non-lactose fermenter that can be acquired from pets, poultry, and eggs"
+    },
+    {
+      "id": "D",
+      "text": "It is a non-lactose fermenter with humans as its only reservoir"
+    },
+    {
+      "id": "E",
+      "text": "It has no flagella and does not produce H2S"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "This is nontyphoidal Salmonella infection, and reptiles and poultry are common sources, so a pet turtle is a classic exposure. Salmonella species other than S typhi have both human and animal reservoirs, are non-lactose fermenters that produce H2S, are oxidase negative, are flagellated, and require a relatively high infectious dose because they are acid labile.",
+  "explanation_incorrect": {
+    "A": "Antibiotics in nontyphoidal Salmonella prolong rather than shorten the duration of fecal excretion; antibiotics shorten shedding in Shigella.",
+    "B": "A low infectious dose with acid stability is characteristic of Shigella; Salmonella requires a large inoculum because it is inactivated by gastric acid.",
+    "D": "Human-only reservoir is a feature of S typhi and Shigella; nontyphoidal Salmonella is zoonotic, as this turtle exposure illustrates.",
+    "E": "Nonflagellated, H2S-negative organisms describe Shigella, not Salmonella, which swims with flagella and produces H2S."
+  },
+  "educationalObjective": "Nontyphoidal Salmonella is a zoonotic non-lactose fermenter acquired from reptiles, poultry, and eggs, with a high infectious dose because it is acid labile.",
+  "source": "Generated from 3. Microbiology.pdf - Clinical Bacteriology: Salmonella"
+}
+]

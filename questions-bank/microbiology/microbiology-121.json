@@ -1,0 +1,84 @@
+[
+{
+  "id": "micro-365",
+  "subject": "Microbiology",
+  "major_topic": "Clinical Bacteriology",
+  "subtopic": "Viridans group streptococci and dental caries",
+  "difficulty": "medium",
+  "vignette": "A 29-year-old man with bicuspid aortic valve and poor dentition undergoes an uneventful dental extraction. Four weeks later he develops low-grade fever, fatigue, and a new diastolic murmur. Blood cultures grow α-hemolytic cocci that are optochin resistant and bile insoluble, and echocardiography shows a large vegetation on the aortic valve.",
+  "question": "Which of the following organisms is most likely responsible, and what is its characteristic virulence mechanism?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Streptococcus mutans producing exfoliative toxin"
+    },
+    {
+      "id": "B",
+      "text": "Enterococcus faecalis producing listeriolysin"
+    },
+    {
+      "id": "C",
+      "text": "Streptococcus gallolyticus producing Shiga toxin"
+    },
+    {
+      "id": "D",
+      "text": "Streptococcus sanguinis producing dextrans that bind fibrin-platelet aggregates"
+    },
+    {
+      "id": "E",
+      "text": "Streptococcus pneumoniae producing IgA protease"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Among the viridans group streptococci, S sanguinis makes dextrans that bind to fibrin-platelet aggregates on damaged heart valves, causing infective endocarditis. The mnemonic is that sanguinis means blood, and there is lots of blood in the heart. Viridans strep are α-hemolytic, optochin resistant, and bile insoluble, and are normal oropharyngeal microbiota that enter the bloodstream with dental manipulation.",
+  "explanation_incorrect": {
+    "A": "Exfoliative toxin is not a streptococcal product at all; it is a Staphylococcus aureus toxin that causes staphylococcal scalded skin syndrome.",
+    "B": "Listeriolysin is a pore-forming toxin of Listeria monocytogenes that allows escape from the phagosome; enterococci do not produce it and are typically nonhemolytic gut organisms.",
+    "C": "Shiga toxin is produced by Shigella dysenteriae and enterohemorrhagic E coli; S gallolyticus is a gut organism linked to colon cancer and endocarditis but not to Shiga toxin production.",
+    "E": "Streptococcus pneumoniae is also α-hemolytic, but it is optochin sensitive and bile soluble, and its classic diseases are meningitis, otitis media, pneumonia, and sinusitis rather than dental-procedure endocarditis."
+  },
+  "educationalObjective": "Viridans streptococci, especially S sanguinis, produce dextrans that adhere to damaged valves and cause infective endocarditis after dental procedures.",
+  "source": "Generated from 3. Microbiology.pdf - Clinical Bacteriology: Viridans group streptococci and dental caries"
+},
+{
+  "id": "micro-366",
+  "subject": "Microbiology",
+  "major_topic": "Clinical Bacteriology",
+  "subtopic": "Viridans group streptococci and dental caries",
+  "difficulty": "easy",
+  "vignette": "A 9-year-old boy has multiple deep, dark cavities in his primary molars. He drinks sugary juice frequently and rarely brushes. His dentist explains that a specific group of oral bacteria ferments dietary sugar into acid that demineralizes enamel. A swab of the carious lesion grows α-hemolytic cocci that are optochin resistant.",
+  "question": "Which of the following organisms is the principal cause of dental caries in this setting?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Streptococcus pyogenes"
+    },
+    {
+      "id": "B",
+      "text": "Staphylococcus epidermidis"
+    },
+    {
+      "id": "C",
+      "text": "Erysipelothrix rhusiopathiae"
+    },
+    {
+      "id": "D",
+      "text": "Streptococcus pneumoniae"
+    },
+    {
+      "id": "E",
+      "text": "Streptococcus mutans"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Streptococcus mutans, along with S mitis, is a viridans group streptococcus that causes dental caries. These organisms are normal oropharyngeal microbiota, are α-hemolytic, and are optochin resistant. They ferment dietary sugars into acid, which demineralizes enamel and produces the cavities seen here.",
+  "explanation_incorrect": {
+    "A": "Streptococcus pyogenes is a β-hemolytic group A organism whose dental relevance is nil; it causes pharyngitis, impetigo, and their immune sequelae.",
+    "B": "Staphylococcus epidermidis is a catalase-positive, coagulase-negative skin organism associated with device biofilms and blood culture contamination.",
+    "C": "Erysipelothrix rhusiopathiae is a zoonotic organism that causes erysipeloid in people who handle fish and meat, not a caries-forming oral organism.",
+    "D": "Streptococcus pneumoniae is α-hemolytic too but is optochin sensitive and bile soluble, and it causes MOPS disease rather than caries."
+  },
+  "educationalObjective": "Streptococcus mutans and S mitis of the viridans group are the principal acid-producing causes of dental caries.",
+  "source": "Generated from 3. Microbiology.pdf - Clinical Bacteriology: Viridans group streptococci and dental caries"
+}
+]

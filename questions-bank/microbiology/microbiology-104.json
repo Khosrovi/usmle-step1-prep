@@ -1,0 +1,84 @@
+[
+{
+  "id": "micro-313",
+  "subject": "Microbiology",
+  "major_topic": "Mycology",
+  "subtopic": "Systemic dimorphic mycoses overview",
+  "difficulty": "easy",
+  "vignette": "A 40-year-old man from the Ohio River Valley presents with fever, cough, and weight loss. A lung biopsy shows granulomas, and his physician considers a systemic dimorphic fungal infection rather than tuberculosis.",
+  "question": "Which of the following properties best explains why the systemic dimorphic fungi are considered dimorphic?",
+  "options": [
+    {
+      "id": "A",
+      "text": "They grow as a mold at 20°C and as a yeast at 37°C"
+    },
+    {
+      "id": "B",
+      "text": "They are strict molds in both the environment and human tissue"
+    },
+    {
+      "id": "C",
+      "text": "They grow as hyphae in soil and as spherules in tissue at every temperature"
+    },
+    {
+      "id": "D",
+      "text": "They grow as a yeast at 20°C and as a mold at 37°C"
+    },
+    {
+      "id": "E",
+      "text": "They are strict yeasts that form a capsule only at body temperature"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Dimorphism refers to temperature-dependent growth: at the cooler ambient temperature of 20°C these fungi grow as molds, and at the warmer 37°C of human tissue they convert to yeasts. Histoplasma, Blastomyces, Coccidioides, Paracoccidioides, and Sporothrix all follow this cold = mold, heat = yeast rule. Coccidioides is the classic exception, becoming a spherule rather than a yeast in tissue. Knowing the rule explains why the organism in soil or culture looks like a mold, while the organism seen on tissue histology is a yeast form.",
+  "explanation_incorrect": {
+    "B": "Numerous important fungi are molds only in the environment; the systemic fungi convert to yeast at body temperature, so a strict mold would describe non-dimorphic environmental fungi rather than these organisms.",
+    "C": "Spherules with endospores are characteristic of Coccidioides in tissue specifically; the other dimorphic fungi are yeasts at 37°C, and only Coccidioides uses a spherule as its tissue phase.",
+    "D": "This reverses the rule. The cooler environmental temperature produces the mold form, and the warmer host temperature produces the yeast form, not the other way around.",
+    "E": "A thick capsule and narrow-based budding describe Cryptococcus neoformans, which is not dimorphic and grows as a yeast at both temperatures."
+  },
+  "educationalObjective": "Systemic dimorphic fungi grow as molds at 20°C and yeasts at 37°C, with Coccidioides the exception because it forms spherules in tissue.",
+  "source": "Generated from 3. Microbiology.pdf - Mycology: Systemic dimorphic mycoses overview"
+},
+{
+  "id": "micro-314",
+  "subject": "Microbiology",
+  "major_topic": "Mycology",
+  "subtopic": "Systemic dimorphic mycoses overview",
+  "difficulty": "medium",
+  "vignette": "A 55-year-old man is diagnosed with disseminated histoplasmosis involving the lungs and liver. His wife asks whether she needs separate screening and whether he should be isolated from their children. He has no other diagnosed immune deficiency.",
+  "question": "Which of the following statements best describes the transmissibility and tissue response of systemic mycoses such as his?",
+  "options": [
+    {
+      "id": "A",
+      "text": "They cause diffuse necrosis without granuloma formation because they lack cell walls"
+    },
+    {
+      "id": "B",
+      "text": "They are transmitted by tick bite, similar to rickettsial diseases"
+    },
+    {
+      "id": "C",
+      "text": "They are acquired by direct skin inoculation, which is the only route of infection"
+    },
+    {
+      "id": "D",
+      "text": "They form granulomas but cannot be transmitted from person to person"
+    },
+    {
+      "id": "E",
+      "text": "They are spread person-to-person by respiratory droplets and require airborne isolation"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Systemic mycoses such as histoplasmosis, blastomycosis, and coccidioidomycosis produce granulomatous inflammation that histologically resembles tuberculosis. However, unlike tuberculosis, they are not transmitted from person to person; they are acquired from the environment by inhalation of spores or arthroconidia. This is why a patient with disseminated disease does not need respiratory isolation and does not pose a risk to household contacts. This parallel to tuberculosis, with a key difference in transmissibility, is exactly what First Aid emphasizes.",
+  "explanation_incorrect": {
+    "A": "Systemic fungi have chitin-containing cell walls and typically do produce granulomas, so this option wrongly excludes granulomatous inflammation, which is a key mimic of tuberculosis.",
+    "B": "Tick-borne transmission applies to rickettsial infections and Borrelia, while the systemic mycoses are acquired by inhaling spores from contaminated soil rather than by vector bite.",
+    "C": "Direct cutaneous inoculation is the route for Sporothrix schenckii (rose gardener's disease); the major systemic mycoses are inhaled rather than inoculated into the skin.",
+    "E": "Respiratory droplet spread with a need for airborne isolation describes Mycobacterium tuberculosis, not the systemic dimorphic fungi, which are acquired from environmental sources such as soil and dust."
+  },
+  "educationalObjective": "Systemic dimorphic mycoses form granulomas that mimic tuberculosis but are acquired from the environment, not transmitted person-to-person.",
+  "source": "Generated from 3. Microbiology.pdf - Mycology: Systemic dimorphic mycoses overview"
+}
+]

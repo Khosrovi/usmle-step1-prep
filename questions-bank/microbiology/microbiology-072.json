@@ -1,0 +1,84 @@
+[
+{
+  "id": "micro-221",
+  "subject": "Microbiology",
+  "major_topic": "Basic Bacteriology",
+  "subtopic": "Mechanisms of antibiotic resistance",
+  "difficulty": "medium",
+  "vignette": "A 33-year-old woman with a urinary tract infection from E coli is treated with ampicillin but does not improve. The laboratory confirms production of an enzyme that hydrolyzes the beta-lactam ring, and the organism is susceptible to a combination containing a beta-lactamase inhibitor.",
+  "question": "Which mechanism of resistance does this represent?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Target modification at the ribosomal level"
+    },
+    {
+      "id": "B",
+      "text": "Increased efflux with decreased uptake"
+    },
+    {
+      "id": "C",
+      "text": "Enzymatic inactivation (drug cleavage)"
+    },
+    {
+      "id": "D",
+      "text": "Bypass of a metabolic pathway"
+    },
+    {
+      "id": "E",
+      "text": "Reduced drug activation by a bacterial kinase"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Beta-lactamase (penicillinase) cleaves the beta-lactam ring of penicillin G and V, penicillinase-sensitive penicillins, cephalosporins, and carbapenems, a mechanism labeled enzymatic inactivation - drug cleavage in the resistance diagram. Because the enzyme is a secreted hydrolase, it can also protect neighboring organisms, and in gram-negative organisms it accumulates in the periplasm. Beta-lactamase inhibitors restore activity, while penicillinase-resistant penicillins, later-generation cephalosporins, and carbapenems evade hydrolysis structurally. This is why altered PBP affinity matters clinically too: it defeats even enzyme-resistant agents.",
+  "explanation_incorrect": {
+    "A": "Ribosomal target modification (e.g., rRNA methylation) affects macrolides and linezolid, not beta-lactam susceptibility.",
+    "B": "Increased efflux and decreased uptake apply to tetracyclines, sulfonamides, and fluoroquinolones; they do not hydrolyze a drug.",
+    "D": "Pathway bypass describes sulfonamide resistance through an alternative enzyme with low drug affinity.",
+    "E": "Reduced drug activation is not the operative mechanism here; aminoglycoside resistance more typically involves drug-modifying enzymes or altered uptake."
+  },
+  "educationalObjective": "Beta-lactamase-mediated hydrolysis is the archetypal enzymatic inactivation mechanism and is countered by beta-lactamase inhibitors or structurally resistant beta-lactams.",
+  "source": "Generated from 3. Microbiology.pdf - Basic Bacteriology: Mechanisms of antibiotic resistance"
+},
+{
+  "id": "micro-222",
+  "subject": "Microbiology",
+  "major_topic": "Basic Bacteriology",
+  "subtopic": "Mechanisms of antibiotic resistance",
+  "difficulty": "hard",
+  "vignette": "A 47-year-old man with a hospital-acquired pneumonia is treated with a fluoroquinolone but fails to improve. The isolate shows reduced intracellular drug accumulation and mutations in the gene encoding the drug's enzyme target. The laboratory describes resistance as multifactorial.",
+  "question": "Which two resistance mechanisms are described in this isolate?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Pathway bypass plus methylation of the ribosomal target site in the 50S subunit"
+    },
+    {
+      "id": "B",
+      "text": "Reduced drug activation by a bacterial kinase plus alteration of the outer membrane porin channels"
+    },
+    {
+      "id": "C",
+      "text": "Drug target modification of the drug's target enzyme, plus increased efflux and decreased uptake"
+    },
+    {
+      "id": "D",
+      "text": "Complete loss of the drug target from the genome plus spontaneous loss of the resistance plasmid"
+    },
+    {
+      "id": "E",
+      "text": "Drug cleavage by a hydrolyzing enzyme plus drug modification by acetylation inside the cell"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "First Aid's resistance diagram groups mechanisms as enzymatic inactivation (drug cleavage for beta-lactams; drug modification for aminoglycosides and chloramphenicol), drug target modification (rRNA methylation for linezolid and macrolides, altered PBPs for penicillinase-resistant penicillins and cephalosporins, altered enzymes for sulfonamides and fluoroquinolones), and increased efflux with decreased uptake (tetracyclines, sulfonamides, fluoroquinolones). This patient's isolate shows altered target plus reduced accumulation, the classic paired mechanism for fluoroquinolones. Because horizontal gene transfer - transformation, conjugation, transduction, and transposition - is the main route by which resistance spreads between bacteria, multidrug resistance often combines several of these mechanisms in one strain.",
+  "explanation_incorrect": {
+    "A": "Pathway bypass concerns folate synthesis and sulfonamides, and ribosome methylation concerns macrolides and linezolid; neither fits DNA gyrase-targeted drugs.",
+    "B": "Kinase-mediated reduced activation is not the fluoroquinolone mechanism described, and LPS change is not the relevant envelope effect here.",
+    "D": "Loss of target would remove the drug's effect but does not explain reduced accumulation, and plasmid curing is not a described resistance mechanism in the diagram.",
+    "E": "Enzymatic inactivation by cleavage or modification applies to beta-lactams and aminoglycosides/chloramphenicol, not to the fluoroquinolone case described."
+  },
+  "educationalObjective": "Fluoroquinolone resistance commonly combines target modification with increased efflux/decreased uptake; the three canonical resistance categories are enzymatic inactivation, target modification, and reduced accumulation.",
+  "source": "Generated from 3. Microbiology.pdf - Basic Bacteriology: Mechanisms of antibiotic resistance"
+}
+]

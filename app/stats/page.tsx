@@ -6,6 +6,7 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Progress } from "@/components/ui/progress";
 import { supabase } from "@/lib/supabase";
+import { readProgress } from "@/lib/progress";
 import { ThemeToggle } from "@/components/theme-toggle";
 
 interface TopicStats {
@@ -95,10 +96,13 @@ function StatsContent() {
   const [subjectStats, setSubjectStats] = useState<SubjectStats[]>([]);
   const [topicStats, setTopicStats] = useState<TopicStats[]>([]);
   const [loading, setLoading] = useState(true);
-  const [selectedSubject, setSelectedSubject] = useState("Biochemistry");
+  const [selectedSubject, setSelectedSubject] = useState("All subjects");
   const [availableSubjects, setAvailableSubjects] = useState<string[]>([]);
+  const [usingLocalOnly, setUsingLocalOnly] = useState(false);
 
   // Subjects with at least one question, so the selector only offers real ones.
+  // The selection is never forced here: "All subjects" is a real, stable choice
+  // and switching the user away from it silently hid answered questions.
   useEffect(() => {
     supabase
       .from("questions")
@@ -108,11 +112,7 @@ function StatsContent() {
           new Set((data || []).map((row: { subject: string }) => row.subject))
         ).sort();
         setAvailableSubjects(subjects);
-        if (subjects.length > 0 && !subjects.includes(selectedSubject)) {
-          setSelectedSubject(subjects[0]);
-        }
       });
-    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   useEffect(() => {
@@ -122,45 +122,68 @@ function StatsContent() {
   const loadStats = async () => {
     setLoading(true);
     try {
-      // 1. Получаем все вопросы по предмету
-      const { data: questions, error: qError } = await supabase
+      // 1. Получаем все вопросы (все предметы, если выбрано "All subjects").
+      let query = supabase
         .from("questions")
         .select("id, subject, major_topic, subtopic")
-        .ilike("subject", selectedSubject);
+        .order("id", { ascending: true })
+        .limit(20000);
+      if (selectedSubject !== "All subjects") {
+        query = query.ilike("subject", selectedSubject);
+      }
+
+      const { data: questions, error: qError } = await query;
 
       if (qError) throw qError;
 
-      // 2. Получаем весь прогресс
-      const { data: progress, error: pError } = await supabase
+      // 2. Получаем весь прогресс из базы. If the anon role is not allowed to
+      //    insert into user_progress this comes back empty (it can still read),
+      //    so the locally recorded answers are merged in below as a fallback.
+      const { data: progress } = await supabase
         .from("user_progress")
         .select("*");
 
-      if (pError) throw pError;
-
-      // 3. Создаём мапу прогресса по question_id
-      const progressMap = new Map();
-      (progress || []).forEach((p) => {
-        progressMap.set(p.question_id, p);
+      // 3. Создаём мапу прогресса по question_id: local answers first, then
+      //    anything the database knows about (database rows win on conflict).
+      const progressMap = new Map<number, { is_correct: boolean }>();
+      const localRecords = readProgress();
+      for (const [key, rec] of Object.entries(localRecords)) {
+        progressMap.set(Number(key), { is_correct: rec.isCorrect });
+      }
+      (progress || []).forEach((p: { question_id: number; is_correct: boolean }) => {
+        progressMap.set(p.question_id, { is_correct: p.is_correct });
       });
+      setUsingLocalOnly(Object.values(localRecords).some((r) => r.pending));
 
-      // 4. Считаем статистику по предмету
-      let totalAnswered = 0;
-      let totalCorrect = 0;
-
+      // 4. Считаем статистику: по каждой теме и по каждому предмету.
       const topicMap = new Map<string, TopicStats>();
+      const perSubject = new Map<string, SubjectStats>();
 
       (questions || []).forEach((q) => {
         const p = progressMap.get(q.id);
         const isAnswered = !!p;
         const isCorrect = p?.is_correct || false;
 
+        // По предметам
+        if (!perSubject.has(q.subject)) {
+          perSubject.set(q.subject, {
+            subject: q.subject,
+            total_questions: 0,
+            answered: 0,
+            correct: 0,
+            accuracy: 0,
+          });
+        }
+        const s = perSubject.get(q.subject)!;
+        s.total_questions++;
         if (isAnswered) {
-          totalAnswered++;
-          if (isCorrect) totalCorrect++;
+          s.answered++;
+          if (isCorrect) s.correct++;
         }
 
-        // Группируем по подтемам
-        const key = `${q.major_topic}|||${q.subtopic}`;
+        // Группируем по подтемам. Ключ включает предмет, чтобы одинаковые
+        // названия подтем в разных предметах не складывались в одну строку.
+        const key = `${q.subject}|||${q.major_topic}|||${q.subtopic}`;
         if (!topicMap.has(key)) {
           topicMap.set(key, {
             major_topic: q.major_topic,
@@ -180,18 +203,14 @@ function StatsContent() {
         }
       });
 
-      const subjectAccuracy =
-        totalAnswered > 0 ? Math.round((totalCorrect / totalAnswered) * 100) : 0;
+      const subjectList = Array.from(perSubject.values())
+        .map((s) => ({
+          ...s,
+          accuracy: s.answered > 0 ? Math.round((s.correct / s.answered) * 100) : 0,
+        }))
+        .sort((a, b) => b.total_questions - a.total_questions);
 
-      setSubjectStats([
-        {
-          subject: selectedSubject,
-          total_questions: questions?.length || 0,
-          answered: totalAnswered,
-          correct: totalCorrect,
-          accuracy: subjectAccuracy,
-        },
-      ]);
+      setSubjectStats(subjectList);
 
       setTopicStats(
         Array.from(topicMap.values()).sort((a, b) => {
@@ -216,12 +235,21 @@ function StatsContent() {
     return acc;
   }, {} as Record<string, TopicStats[]>);
 
-  const overallStats = subjectStats[0] || {
-    total_questions: 0,
-    answered: 0,
-    correct: 0,
-    accuracy: 0,
-  };
+  // Headline numbers cover everything currently in scope ("All subjects" by
+  // default), so a session in any subject is visible immediately.
+  const overallStats = subjectStats.reduce(
+    (acc, s) => ({
+      total_questions: acc.total_questions + s.total_questions,
+      answered: acc.answered + s.answered,
+      correct: acc.correct + s.correct,
+      accuracy: 0,
+    }),
+    { total_questions: 0, answered: 0, correct: 0, accuracy: 0 }
+  );
+  overallStats.accuracy =
+    overallStats.answered > 0
+      ? Math.round((overallStats.correct / overallStats.answered) * 100)
+      : 0;
 
   return (
     <main className="min-h-screen bg-background">
@@ -252,10 +280,24 @@ function StatsContent() {
       </header>
 
       <div className="max-w-6xl mx-auto p-8">
+        {usingLocalOnly && (
+          <div className="mb-6 rounded-lg border border-yellow-300 bg-yellow-50 px-4 py-3 text-sm text-yellow-900 dark:border-yellow-800 dark:bg-yellow-950/50 dark:text-yellow-200">
+            Showing progress saved in this browser. Cloud sync is off because the
+            database does not yet allow anonymous writes to{" "}
+            <code className="font-mono text-xs">user_progress</code>.
+          </div>
+        )}
         {/* Subject selector */}
         {availableSubjects.length > 1 && (
           <div className="flex flex-wrap items-center gap-2 mb-6">
             <span className="text-sm text-muted-foreground mr-1">Subject:</span>
+            <Button
+              size="sm"
+              variant={selectedSubject === "All subjects" ? "default" : "outline"}
+              onClick={() => setSelectedSubject("All subjects")}
+            >
+              All subjects
+            </Button>
             {availableSubjects.map((s) => (
               <Button
                 key={s}
@@ -336,12 +378,14 @@ function StatsContent() {
                   </span>
                   <span className="text-sm font-semibold">
                     {overallStats.total_questions > 0
-                      ? Math.round(
+                      ? // One decimal place: the bank has 800+ questions, so a
+                        // handful of answers would otherwise round down to 0%.
+                        (
                           (overallStats.answered /
                             overallStats.total_questions) *
-                            100
-                        )
-                      : 0}
+                          100
+                        ).toFixed(1)
+                      : "0"}
                     %
                   </span>
                 </div>
@@ -357,6 +401,46 @@ function StatsContent() {
                 />
               </CardContent>
             </Card>
+
+            {/* Per-subject breakdown, only meaningful across all subjects */}
+            {subjectStats.length > 1 && (
+              <Card className="mb-8">
+                <CardHeader>
+                  <CardTitle>Progress by Subject</CardTitle>
+                </CardHeader>
+                <CardContent className="space-y-4">
+                  {subjectStats.map((s) => (
+                    <button
+                      key={s.subject}
+                      onClick={() => setSelectedSubject(s.subject)}
+                      className="w-full text-left group"
+                    >
+                      <div className="flex justify-between mb-1">
+                        <span className="text-sm font-medium text-foreground group-hover:text-primary">
+                          {s.subject}
+                        </span>
+                        <span className="text-sm text-muted-foreground">
+                          {s.answered}/{s.total_questions} answered
+                          {s.answered > 0 && (
+                            <span className="ml-2 font-semibold text-foreground">
+                              {s.accuracy}%
+                            </span>
+                          )}
+                        </span>
+                      </div>
+                      <Progress
+                        value={
+                          s.total_questions > 0
+                            ? (s.answered / s.total_questions) * 100
+                            : 0
+                        }
+                        className="h-2"
+                      />
+                    </button>
+                  ))}
+                </CardContent>
+              </Card>
+            )}
 
             {/* Weak-area practice */}
             <WeakAreaCard

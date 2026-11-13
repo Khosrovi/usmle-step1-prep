@@ -1,0 +1,84 @@
+[
+{
+  "id": "micro-356",
+  "subject": "Microbiology",
+  "major_topic": "Parasitology",
+  "subtopic": "Trypanosoma brucei and leishmaniasis",
+  "difficulty": "medium",
+  "vignette": "A 44-year-old fisherman from a village on Lake Victoria in Uganda presents with 2 months of recurring fevers, enlarged cervical lymph nodes, daytime somnolence, and progressive confusion. He recalls several painful insect bites while working near cattle. A peripheral blood smear shows extracellular flagellated organisms with a kinetoplast and undulating membrane.",
+  "question": "Which of the following is the vector for this organism?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Tsetse fly"
+    },
+    {
+      "id": "B",
+      "text": "Triatomine insect"
+    },
+    {
+      "id": "C",
+      "text": "Ixodes tick"
+    },
+    {
+      "id": "D",
+      "text": "Female black fly"
+    },
+    {
+      "id": "E",
+      "text": "Sandfly"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "African sleeping sickness is caused by Trypanosoma brucei and is transmitted by the tsetse fly, whose painful bite is a classic historical clue. The disease produces enlarged lymph nodes, recurring fever from antigenic variation, somnolence, and ultimately coma, and the trypomastigote is identified on the blood smear. First Aid pairs suramin for blood-borne disease with melarsoprol when CNS penetration is needed.",
+  "explanation_incorrect": {
+    "B": "The triatomine (kissing) bug transmits Trypanosoma cruzi, which causes Chagas disease with dilated cardiomyopathy, megacolon, and megaesophagus in South America rather than African sleeping sickness.",
+    "C": "The Ixodes tick transmits Babesia, Borrelia burgdorferi, and Anaplasma species, pointing to hemolytic febrile illness or erythema migrans rather than a meningoencephalitic trypanosome.",
+    "D": "The female black fly transmits Onchocerca volvulus, producing black skin nodules and river blindness rather than circulating trypanosomes.",
+    "E": "The sandfly transmits Leishmania species, which cause kala-azar with hepatosplenomegaly and pancytopenia or cutaneous ulcers with amastigotes in macrophages, not a bloodstream trypomastigote."
+  },
+  "educationalObjective": "Trypanosoma brucei produces African sleeping sickness with recurring fever and somnolence after a painful tsetse fly bite, unlike Trypanosoma cruzi (reduviid bug) and Leishmania (sandfly).",
+  "source": "Generated from 3. Microbiology.pdf - Parasitology: Trypanosoma brucei and leishmaniasis"
+},
+{
+  "id": "micro-357",
+  "subject": "Microbiology",
+  "major_topic": "Parasitology",
+  "subtopic": "Trypanosoma brucei and leishmaniasis",
+  "difficulty": "medium",
+  "vignette": "A 36-year-old man presents with 4 months of drenching night sweats, weight loss, and progressive abdominal fullness. He moved from rural Bihar, India, 1 year ago. Examination shows a temperature spiking to 40 C for a few hours each day, a spleen palpable to the umbilicus, and hepatomegaly. Laboratory studies show pancytopenia with anemia, leukopenia, and thrombocytopenia. Bone marrow aspirate shows macrophages filled with small intracellular bodies containing a kinetoplast.",
+  "question": "Which of the following is the most appropriate treatment for this patient's diagnosis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Suramin followed by melarsoprol"
+    },
+    {
+      "id": "B",
+      "text": "Amphotericin B"
+    },
+    {
+      "id": "C",
+      "text": "Praziquantel with surgical excision"
+    },
+    {
+      "id": "D",
+      "text": "Sodium stibogluconate plus local wound care"
+    },
+    {
+      "id": "E",
+      "text": "Amphotericin B combined with sodium stibogluconate"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "This is visceral leishmaniasis, or kala-azar, which causes spiking fevers, hepatosplenomegaly, and pancytopenia. The diagnostic finding is macrophages containing amastigotes, a tissue form that helps distinguish Leishmania from blood-borne trypanosomes. First Aid lists amphotericin B and sodium stibogluconate as the treatments, and amphotericin B is the appropriate choice for disseminated visceral disease.",
+  "explanation_incorrect": {
+    "A": "Suramin and melarsoprol treat African trypanosomiasis, with suramin for blood-borne disease and melarsoprol for CNS penetration, so they target a different parasite.",
+    "C": "Praziquantel with excision applies to a cestode or trematode such as a complicated hydatid cyst, not to an intracellular protozoan of the reticuloendothelial system.",
+    "D": "Sodium stibogluconate is an antileishmanial agent, but combining it with local wound care describes management of a cutaneous ulcer rather than disseminated visceral disease with marrow involvement.",
+    "E": "Combining amphotericin B with an antimonial is not the First Aid approach, which lists monotherapy with either amphotericin B or sodium stibogluconate for leishmaniasis."
+  },
+  "educationalObjective": "Kala-azar is visceral leishmaniasis with spiking fevers, hepatosplenomegaly, pancytopenia, and macrophages containing amastigotes, treated with amphotericin B or sodium stibogluconate.",
+  "source": "Generated from 3. Microbiology.pdf - Parasitology: Trypanosoma brucei and leishmaniasis"
+}
+]

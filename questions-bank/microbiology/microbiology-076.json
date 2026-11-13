@@ -1,0 +1,125 @@
+[
+{
+  "id": "micro-233",
+  "subject": "Microbiology",
+  "major_topic": "Clinical Bacteriology",
+  "subtopic": "Mycoplasma pneumoniae",
+  "difficulty": "medium",
+  "vignette": "A 20-year-old college student living in a dormitory presents with 2 weeks of low-grade fever, headache, and a persistent dry nonproductive cough that has gradually worsened. He has not been ill enough to miss classes. Chest radiograph shows a patchy bilateral interstitial infiltrate that looks more severe than his overall appearance. Sputum Gram stain shows no organisms.",
+  "question": "Which of the following best explains the mechanism of action of the most appropriate treatment?",
+  "options": [
+    {
+      "id": "A",
+      "text": "An aminoglycoside that binds the 30S ribosomal subunit"
+    },
+    {
+      "id": "B",
+      "text": "A sulfonamide that inhibits folic acid synthesis"
+    },
+    {
+      "id": "C",
+      "text": "A macrolide that targets the 50S ribosomal subunit"
+    },
+    {
+      "id": "D",
+      "text": "A beta-lactam that binds penicillin-binding proteins to block cell wall synthesis"
+    },
+    {
+      "id": "E",
+      "text": "A glycopeptide that binds the cell wall D-Ala-D-Ala precursors"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Mycoplasma pneumoniae is a classic cause of atypical walking pneumonia with an insidious onset, headache, nonproductive cough, patchy interstitial infiltrate, and a chest radiograph that looks worse than the patient. It lacks a cell wall, so cell-wall drugs such as penicillins and cephalosporins are ineffective; macrolides, doxycycline, or fluoroquinolones are the treatments. Macrolides act by inhibiting bacterial protein synthesis at the 50S ribosome.",
+  "explanation_incorrect": {
+    "A": "Aminoglycosides are used for gram-negative aerobic infections and are not the recommended therapy for atypical pneumonia.",
+    "B": "Sulfonamides block folate synthesis and are used for Nocardia and as a pertussis alternative, not for Mycoplasma.",
+    "D": "Beta-lactams require a cell wall; Mycoplasma has none, so penicillins are ineffective despite being standard therapy for typical pneumonia pathogens such as Streptococcus pneumoniae.",
+    "E": "Glycopeptides such as vancomycin bind D-Ala-D-Ala precursors in the cell wall, which Mycoplasma lacks, so this drug class has no target."
+  },
+  "educationalObjective": "Mycoplasma pneumoniae causes atypical walking pneumonia and must be treated with protein synthesis inhibitors or fluoroquinolones because it has no cell wall.",
+  "source": "Generated from 3. Microbiology.pdf - Clinical Bacteriology: Mycoplasma pneumoniae"
+},
+{
+  "id": "micro-234",
+  "subject": "Microbiology",
+  "major_topic": "Clinical Bacteriology",
+  "subtopic": "Mycoplasma pneumoniae",
+  "difficulty": "medium",
+  "vignette": "A 17-year-old recruit at a military training camp develops fever, sore throat, and a nonproductive cough. Chest radiograph shows a diffuse interstitial infiltrate. Laboratory studies show a high titer of IgM autoantibodies that agglutinate red blood cells at cold temperatures, and a relative lymphocytosis. There is no growth on routine blood agar.",
+  "question": "Which of the following best explains this patient's laboratory findings?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Antibodies against the gram-negative cell wall lipopolysaccharide cross-react with red blood cells"
+    },
+    {
+      "id": "B",
+      "text": "IgG antibodies against chlamydial elementary bodies agglutinate erythrocytes"
+    },
+    {
+      "id": "C",
+      "text": "IgA protease produced by the organism cleaves erythrocyte surface antigens"
+    },
+    {
+      "id": "D",
+      "text": "The organism adsorbs to red cells through its capsule and causes hemagglutination"
+    },
+    {
+      "id": "E",
+      "text": "Cold agglutinins are IgM antibodies that agglutinate red blood cells in mycoplasma infection"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "A high titer of cold agglutinins, which are IgM antibodies that can agglutinate red blood cells, is a characteristic laboratory finding in Mycoplasma pneumoniae infection. Mycoplasma lacks a cell wall, so it is not seen on Gram stain and appears pleomorphic, and it is grown on Eaton agar because its membrane requires sterols for stability. Outbreaks occur in military recruits, prisons, and colleges.",
+  "explanation_incorrect": {
+    "A": "Mycoplasma has no cell wall or lipopolysaccharide, which is also why it does not stain with Gram stain.",
+    "B": "Cold agglutinins in this setting are IgM autoantibodies, and chlamydial infection is not the cause of this respiratory picture.",
+    "C": "IgA protease is produced by organisms such as Haemophilus influenzae and Neisseria to cleave secretory IgA, not to alter red cells.",
+    "D": "The agglutination is antibody-mediated autoimmune cross-reactivity, not direct bacterial adherence through a capsule."
+  },
+  "educationalObjective": "Mycoplasma pneumoniae infection is associated with high titers of cold agglutinins, which are IgM antibodies that agglutinate red blood cells.",
+  "source": "Generated from 3. Microbiology.pdf - Clinical Bacteriology: Mycoplasma pneumoniae"
+},
+{
+  "id": "micro-235",
+  "subject": "Microbiology",
+  "major_topic": "Clinical Bacteriology",
+  "subtopic": "Mycoplasma pneumoniae",
+  "difficulty": "medium",
+  "vignette": "A 22-year-old woman presents with a low-grade fever, a dry cough, and an erythematous macular rash over her trunk. Her chest radiograph shows patchy infiltrates. Sputum cultures on standard blood and MacConkey agar show no growth after 48 hours, and a Gram stain of respiratory secretions is unrevealing.",
+  "question": "Which of the following properties of the organism best explains why it is not identified by routine culture and Gram stain?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It requires cysteine and iron supplementation for growth"
+    },
+    {
+      "id": "B",
+      "text": "It grows only within the cytoplasm of host cells and cannot be cultured at all"
+    },
+    {
+      "id": "C",
+      "text": "It lacks a cell wall and requires sterols in its membrane, growing poorly on routine media"
+    },
+    {
+      "id": "D",
+      "text": "It is an obligate anaerobe that cannot survive atmospheric oxygen"
+    },
+    {
+      "id": "E",
+      "text": "It requires factors V and X that are absent from blood agar"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Mycoplasma pneumoniae has no cell wall, so it takes up neither Gram stain nor the cell-wall-directed antibiotics, and appears pleomorphic on specialized preparations. Its bacterial membrane contains sterols for stability, so it grows on specialized media such as Eaton agar rather than routine plates. This unusual structure is also why the chest radiograph commonly looks more severe than the patient's presentation.",
+  "explanation_incorrect": {
+    "A": "Charcoal yeast extract with iron and cysteine is the required medium for Legionella pneumophila, which also stains poorly with Gram stain but is a gram-negative rod.",
+    "B": "Unlike chlamydiae, Mycoplasma can be grown on cell-free media such as Eaton agar; it is not an obligate intracellular organism.",
+    "D": "Mycoplasma pneumoniae is aerobic and is not an obligate anaerobe; the poor growth reflects nutritional requirements rather than oxygen intolerance.",
+    "E": "Factors V and X are required by Haemophilus influenzae, which grows on chocolate agar and does appear on Gram stain as a small gram-negative coccobacillary rod."
+  },
+  "educationalObjective": "Mycoplasma pneumoniae lacks a cell wall and requires sterol-containing membranes, so it is not seen on Gram stain or recovered on routine media and needs specialized media such as Eaton agar.",
+  "source": "Generated from 3. Microbiology.pdf - Clinical Bacteriology: Mycoplasma pneumoniae"
+}
+]

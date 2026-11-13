@@ -1,0 +1,207 @@
+[
+{
+  "id": "micro-315",
+  "subject": "Microbiology",
+  "major_topic": "Systems Microbiology",
+  "subtopic": "Food-borne and water-borne pathogens",
+  "difficulty": "easy",
+  "vignette": "A 28-year-old man develops nausea, vomiting, and crampy abdominal pain 3 hours after a church picnic where he ate potato salad that had sat unrefrigerated in the sun for several hours. He has no fever and no diarrhea. His symptoms resolve completely within 6 hours without treatment. Stool cultures are negative, but the public health team suspects a preformed toxin in the mayonnaise-based food.",
+  "question": "Which organism most likely produced the toxin responsible for this illness?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Listeria monocytogenes"
+    },
+    {
+      "id": "B",
+      "text": "Salmonella species"
+    },
+    {
+      "id": "C",
+      "text": "Clostridium perfringens"
+    },
+    {
+      "id": "D",
+      "text": "Staphylococcus aureus"
+    },
+    {
+      "id": "E",
+      "text": "Vibrio parahaemolyticus"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "This is classic Staphylococcus aureus food poisoning: a preformed exotoxin in mayonnaise-containing food produces vomiting and cramps within a few hours, and the illness resolves quickly on its own. First Aid's rule is that S aureus and B cereus food poisoning start quickly and end quickly because they are exotoxin-mediated rather than requiring infection and replication. Meats, mayonnaise, and custard are the classic S aureus vehicles.",
+  "explanation_incorrect": {
+    "A": "Listeria comes from deli meats and soft cheeses and causes invasive disease in pregnant, elderly, and immunocompromised patients rather than self-limited explosive vomiting.",
+    "B": "Salmonella comes from poultry, meat, and eggs and produces an inflammatory diarrheal illness with fever over days, not a 3-hour toxin syndrome.",
+    "C": "C perfringens is linked to reheated meat and causes a later-onset diarrheal illness, not an explosive vomiting illness a few hours after mayonnaise-based food.",
+    "E": "V parahaemolyticus comes from raw or undercooked seafood, not from a mayonnaise potato salad, and typically causes diarrheal illness."
+  },
+  "educationalObjective": "S aureus food poisoning is a preformed exotoxin illness from meats, mayonnaise, and custard that starts quickly and ends quickly.",
+  "source": "Generated from 3. Microbiology.pdf - Systems Microbiology: Food-borne and water-borne pathogens"
+},
+{
+  "id": "micro-316",
+  "subject": "Microbiology",
+  "major_topic": "Systems Microbiology",
+  "subtopic": "Food-borne and water-borne pathogens",
+  "difficulty": "medium",
+  "vignette": "A 4-year-old girl is brought to the emergency department with 2 days of bloody diarrhea and severe abdominal cramps after a family barbecue. She develops pallor, oliguria, and petechiae. Laboratory studies show anemia, thrombocytopenia, and acute kidney injury with schistocytes on the peripheral smear. Stool culture grows a lactose-negative, sorbitol-negative E coli.",
+  "question": "Which of the following best explains this patient's renal failure?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Shiga toxin-mediated endothelial injury causing microangiopathy"
+    },
+    {
+      "id": "B",
+      "text": "Preformed exotoxin in undercooked meat causing vomiting within 2 hours of ingestion"
+    },
+    {
+      "id": "C",
+      "text": "Production of a toxin that ADP-ribosylates Gs and increases intestinal cAMP"
+    },
+    {
+      "id": "D",
+      "text": "Invasion of the colonic mucosa with subsequent bacteremia and renal abscess formation"
+    },
+    {
+      "id": "E",
+      "text": "Heat-labile and heat-stable enterotoxins causing secretory diarrhea without mucosal invasion"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "This is hemolytic-uremic syndrome caused by enterohemorrhagic E coli O157:H7, which is acquired from undercooked meat and produces Shiga toxin. Shiga toxin damages endothelium, producing the triad of microangiopathic hemolytic anemia, thrombocytopenia, and acute kidney injury. First Aid lists EHEC O157:H7 under the bloody diarrhea causes as the Shiga toxin producer that can cause HUS, and the organism is a lactose-negative, sorbitol-negative E coli.",
+  "explanation_incorrect": {
+    "B": "A preformed exotoxin with vomiting within a couple hours describes S aureus or B cereus food poisoning, which are self-limited and do not cause renal failure.",
+    "C": "ADP-ribosylation of Gs with increased cAMP describes cholera toxin from V cholerae, which produces profuse rice-water diarrhea, not bloody diarrhea with HUS.",
+    "D": "Invasion of colonic mucosa describes enteroinvasive E coli, which causes a dysentery-like illness without Shiga toxin-mediated HUS.",
+    "E": "The LT and ST enterotoxins describe enterotoxigenic E coli, the cause of travelers' diarrhea, which is watery and nonbloody and does not cause HUS."
+  },
+  "educationalObjective": "Enterohemorrhagic E coli O157:H7 from undercooked meat produces Shiga toxin and can cause HUS with hemolytic anemia, thrombocytopenia, and acute kidney injury.",
+  "source": "Generated from 3. Microbiology.pdf - Systems Microbiology: Food-borne and water-borne pathogens"
+},
+{
+  "id": "micro-317",
+  "subject": "Microbiology",
+  "major_topic": "Systems Microbiology",
+  "subtopic": "Food-borne and water-borne pathogens",
+  "difficulty": "medium",
+  "vignette": "A 34-year-old woman presents in the third trimester of pregnancy with fever, myalgias, and a blood culture that grows a gram-positive rod. She reports eating soft queso fresco and deli turkey throughout pregnancy. The fetus shows decreased movement, and an ultrasound reveals hydrops. In addition to the maternal illness, the neonatology team is concerned about transmission of this organism to the newborn.",
+  "question": "Which of the following is the most likely organism in this case?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Clostridium botulinum and raw honey spores"
+    },
+    {
+      "id": "B",
+      "text": "Salmonella and undercooked poultry or eggs"
+    },
+    {
+      "id": "C",
+      "text": "Vibrio vulnificus and shellfish wounds"
+    },
+    {
+      "id": "D",
+      "text": "Listeria monocytogenes from soft cheese"
+    },
+    {
+      "id": "E",
+      "text": "Staphylococcus aureus and preformed toxin"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Listeria monocytogenes from soft cheese is acquired from deli meats and soft cheeses, is a gram-positive rod, and has a special predilection for pregnant patients, in whom it can cause bacteremia and fetal infection or loss. First Aid lists Listeria among the organisms causing food-borne illness and also among the causes of neonatal meningitis along with group B streptococci and E coli. Pregnancy-associated invasion is a signature association for this organism.",
+  "explanation_incorrect": {
+    "A": "V vulnificus causes wound infection and sepsis after contact with contaminated water or shellfish, typically in patients with liver disease.",
+    "B": "C botulinum comes from improperly canned foods or raw honey spores and causes symmetric descending flaccid paralysis, not a febrile bacteremia in pregnancy.",
+    "C": "Salmonella comes from poultry, meat, and eggs and causes a diarrheal illness with fever; it is not the characteristic soft-cheese organism of pregnancy.",
+    "E": "S aureus food poisoning is a preformed toxin illness with rapid vomiting and no bacteremia, and it is not associated with soft cheese in pregnancy."
+  },
+  "educationalObjective": "Listeria monocytogenes comes from deli meats and soft cheeses and is a classic cause of bacteremia and fetal infection in pregnancy, as well as neonatal meningitis.",
+  "source": "Generated from 3. Microbiology.pdf - Systems Microbiology: Food-borne and water-borne pathogens"
+},
+{
+  "id": "micro-318",
+  "subject": "Microbiology",
+  "major_topic": "Systems Microbiology",
+  "subtopic": "Food-borne and water-borne pathogens",
+  "difficulty": "medium",
+  "vignette": "A 52-year-old man with cirrhosis develops fever, bullous skin lesions on both legs, and septic shock 1 day after wading in the Gulf of Mexico and cleaning crabs with a cut on his hand. Blood cultures grow a curved gram-negative rod that is oxidase positive and requires salt for growth. He has no diarrhea.",
+  "question": "Which organism best fits this presentation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Vibrio cholerae"
+    },
+    {
+      "id": "B",
+      "text": "Vibrio parahaemolyticus"
+    },
+    {
+      "id": "C",
+      "text": "Aeromonas hydrophila"
+    },
+    {
+      "id": "D",
+      "text": "Vibrio vulnificus"
+    },
+    {
+      "id": "E",
+      "text": "Campylobacter jejuni"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Vibrio vulnificus predominantly causes wound infections after contact with contaminated water or shellfish and can produce rapidly progressive bullous cellulitis and fulminant sepsis in patients with chronic liver disease. First Aid lists V parahaemolyticus and V vulnificus together as raw or undercooked seafood organisms but specifically notes that V vulnificus predominantly causes wound infections from contact with contaminated water or shellfish. Cirrhosis is the classic host risk factor for severe disease.",
+  "explanation_incorrect": {
+    "A": "V cholerae produces the classic rice-water diarrhea from an enterotoxin that raises cAMP; it does not typically cause bullous wound infection with sepsis.",
+    "B": "V parahaemolyticus is associated with diarrheal gastroenteritis after raw or undercooked seafood rather than rapidly progressive wound infection in cirrhosis.",
+    "C": "Aeromonas is a freshwater gram-negative rod that can cause wound infection, but the marine shellfish exposure, bullous lesions, and cirrhosis point to Vibrio vulnificus.",
+    "E": "Campylobacter jejuni causes bloody diarrhea from poultry and pets and is a curved organism, but it is not associated with saltwater wounds or cirrhosis-related sepsis."
+  },
+  "educationalObjective": "Vibrio vulnificus causes severe wound infection and sepsis after shellfish or saltwater exposure, especially in patients with liver disease.",
+  "source": "Generated from 3. Microbiology.pdf - Systems Microbiology: Food-borne and water-borne pathogens"
+},
+{
+  "id": "micro-319",
+  "subject": "Microbiology",
+  "major_topic": "Systems Microbiology",
+  "subtopic": "Food-borne and water-borne pathogens",
+  "difficulty": "easy",
+  "vignette": "A 30-year-old medical student returns from a 2-week trip with 4 days of profuse watery diarrhea. She has no fever, no blood in the stool, and no leukocytes on stool smear. She drank tap water and ate street food. Stool culture grows a comma-shaped organism, and the laboratory notes that the organism produces toxins that increase intestinal cyclic AMP and cyclic GMP.",
+  "question": "Which of the following organisms produces the heat-labile and heat-stable enterotoxins described?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Entamoeba histolytica"
+    },
+    {
+      "id": "B",
+      "text": "Clostridioides difficile"
+    },
+    {
+      "id": "C",
+      "text": "Enterotoxigenic Escherichia coli"
+    },
+    {
+      "id": "D",
+      "text": "Enterohemorrhagic E coli O157:H7"
+    },
+    {
+      "id": "E",
+      "text": "Shigella species"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Enterotoxigenic E coli is the classic cause of travelers' diarrhea and produces a heat-labile toxin (LT) and a heat-stable toxin (ST) that drive secretory, noninflammatory watery diarrhea without fever or blood. First Aid lists ETEC under watery diarrhea with exactly this toxin description. The absence of fecal leukocytes and of systemic symptoms fits a purely enterotoxin-mediated process.",
+  "explanation_incorrect": {
+    "A": "E histolytica is a protozoan that causes amebic dysentery and liver abscess, not a toxigenic watery diarrhea of travelers.",
+    "B": "C difficile causes pseudomembranous colitis with watery diarrhea in patients exposed to antibiotics or proton pump inhibitors, not classic travelers' diarrhea.",
+    "D": "EHEC O157:H7 is a bloody diarrhea pathogen that produces Shiga toxin and can cause HUS; it does not produce the LT and ST enterotoxins.",
+    "E": "Shigella is a lactose-negative organism with a very low infectious dose that invades colonic mucosa and causes bacillary dysentery with blood and pus, not toxin-only watery diarrhea."
+  },
+  "educationalObjective": "Enterotoxigenic E coli causes travelers' diarrhea via heat-labile and heat-stable enterotoxins producing noninflammatory watery diarrhea.",
+  "source": "Generated from 3. Microbiology.pdf - Systems Microbiology: Food-borne and water-borne pathogens"
+}
+]

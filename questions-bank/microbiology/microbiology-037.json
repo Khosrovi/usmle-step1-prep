@@ -1,0 +1,84 @@
+[
+{
+  "id": "micro-117",
+  "subject": "Microbiology",
+  "major_topic": "Clinical Bacteriology",
+  "subtopic": "Clostridium botulinum",
+  "difficulty": "medium",
+  "vignette": "A 3-month-old infant is brought in because of poor feeding, weak cry, constipation, and progressive floppiness. He appears alert and has symmetric weakness, ptosis, and reduced gag reflex; his pupils are dilated and react sluggishly. He was fed honey sweetened on a pacifier by a relative. Deep tendon reflexes are reduced, and sensation appears intact.",
+  "question": "Which of the following best explains the weakness in this infant?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Blocking of glycine and GABA release in the spinal cord"
+    },
+    {
+      "id": "B",
+      "text": "Antibodies to the presynaptic calcium channel at the motor terminal"
+    },
+    {
+      "id": "C",
+      "text": "Loss of the acetylcholine receptor at the postsynaptic membrane"
+    },
+    {
+      "id": "D",
+      "text": "Direct invasion of anterior horn cells by the organism"
+    },
+    {
+      "id": "E",
+      "text": "Inhibition of acetylcholine release at the neuromuscular junction"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "This is infant botulism, a floppy baby syndrome caused by ingestion of Clostridium botulinum spores, classically in honey. The organism colonizes the infant gut and produces a heat-labile toxin that damages SNARE proteins, preventing acetylcholine release at the neuromuscular junction and causing descending flaccid paralysis with bulbar weakness. Sensory deficits are characteristically absent, and the 5 D's are diplopia, dysarthria, dysphagia, dyspnea, and descending flaccid paralysis.",
+  "explanation_incorrect": {
+    "A": "Blocking glycine and GABA release in the spinal cord produces spastic paralysis with lockjaw and opisthotonos, which is tetanus rather than this flaccid picture.",
+    "B": "Antibodies against presynaptic voltage-gated calcium channels cause Lambert-Eaton myasthenic syndrome, which improves with repeated effort and is associated with small cell lung cancer in adults.",
+    "C": "Loss of postsynaptic acetylcholine receptors causes myasthenia gravis, with fatigable weakness involving ocular muscles; it is immune mediated rather than toxin mediated.",
+    "D": "Anterior horn cell invasion occurs with poliovirus, causing asymmetric flaccid paralysis with fever and meningitis, not this afebrile bulbar weakness."
+  },
+  "educationalObjective": "Infant botulism follows ingestion of spores (classically honey); the toxin blocks acetylcholine release, causing descending flaccid paralysis without sensory deficits.",
+  "source": "Generated from 3. Microbiology.pdf - Clinical Bacteriology: Clostridium botulinum"
+},
+{
+  "id": "micro-118",
+  "subject": "Microbiology",
+  "major_topic": "Clinical Bacteriology",
+  "subtopic": "Clostridium botulinum",
+  "difficulty": "medium",
+  "vignette": "A 52-year-old man attends a family gathering where home-canned green beans from bulging jars were served. Within 36 hours he develops double vision, slurred speech, difficulty swallowing, and progressive weakness that began in the extraocular and bulbar muscles and has moved downward to the limbs. He is afebrile and mentally clear. His sensory examination is completely normal, and he reports no diarrhea.",
+  "question": "Which of the following is the most appropriate management for this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Erythromycin eye ointment to the eyes"
+    },
+    {
+      "id": "B",
+      "text": "Human botulinum immunoglobulin"
+    },
+    {
+      "id": "C",
+      "text": "Diazepam for muscle spasms and wound debridement"
+    },
+    {
+      "id": "D",
+      "text": "Ciprofloxacin or doxycycline prophylaxis"
+    },
+    {
+      "id": "E",
+      "text": "Oral vancomycin or fidaxomicin"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "This is food-borne botulism from preformed toxin in improperly canned food that was not adequately sterilized, producing the classic 5 D's with descending flaccid paralysis and no sensory deficits. Treatment is human botulinum immunoglobulin, which neutralizes circulating toxin before it binds nerve terminals, plus intensive supportive care for respiratory failure. The toxin is heat labile, though the canned food itself should be discarded.",
+  "explanation_incorrect": {
+    "A": "Erythromycin eye ointment is used in neonates to prevent gonococcal and chlamydial ophthalmia neonatorum, unrelated to systemic intoxication.",
+    "C": "Diazepam for muscle spasms with wound debridement is part of tetanus management, where the toxin produces spastic rather than flaccid paralysis.",
+    "D": "Ciprofloxacin or doxycycline prophylaxis is used after exposure to aerosolized Bacillus anthracis spores, not for botulinum intoxication.",
+    "E": "Oral vancomycin or fidaxomicin treats Clostridioides difficile pseudomembranous colitis, which presents with watery diarrhea and colitis rather than cranial nerve palsies."
+  },
+  "educationalObjective": "Food-borne botulism from preformed toxin is treated with human botulinum immunoglobulin and respiratory support; it causes descending flaccid paralysis without sensory loss.",
+  "source": "Generated from 3. Microbiology.pdf - Clinical Bacteriology: Clostridium botulinum"
+}
+]

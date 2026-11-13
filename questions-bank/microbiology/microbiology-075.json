@@ -1,0 +1,207 @@
+[
+{
+  "id": "micro-228",
+  "subject": "Microbiology",
+  "major_topic": "Clinical Bacteriology",
+  "subtopic": "Mycobacterium tuberculosis",
+  "difficulty": "medium",
+  "vignette": "A 42-year-old man who recently emigrated from a country with a high burden of tuberculosis presents with 3 months of low-grade fevers, drenching night sweats, an 8-kg weight loss, and a productive cough with blood-streaked sputum. Chest radiograph shows a cavitary lesion in the apex of the right upper lobe. Sputum is processed for acid-fast staining and culture.",
+  "question": "Which of the following properties of Mycobacterium tuberculosis best explains its detection by the acid-fast stain but not by routine Gram stain?",
+  "options": [
+    {
+      "id": "A",
+      "text": "An outer membrane with lipopolysaccharide that takes up the safranin counterstain"
+    },
+    {
+      "id": "B",
+      "text": "A polysaccharide capsule that prevents penetration of both crystal violet and carbol fuchsin"
+    },
+    {
+      "id": "C",
+      "text": "A deficiency of muramic acid that renders the organism unable to retain any stain"
+    },
+    {
+      "id": "D",
+      "text": "A waxy lipid-rich cell wall containing mycolic acids that retains carbol fuchsin despite acid-alcohol decolorization"
+    },
+    {
+      "id": "E",
+      "text": "A thick peptidoglycan layer with teichoic acids that traps crystal violet-iodine complexes"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Mycobacteria are acid-fast rods: their cell wall is rich in mycolic acids and other waxy lipids, so once carbol fuchsin is driven in with heat it resists decolorization by acid-alcohol and the bacilli appear as pink rods. Gram stain does not reliably demonstrate them for the same reason. This waxy wall also makes the organisms slow-growing. Cord factor and sulfatides are additional surface lipids important for virulence.",
+  "explanation_incorrect": {
+    "A": "A lipopolysaccharide-containing outer membrane is the gram-negative arrangement and is why gram-negative organisms decolorize and take up safranin, the opposite of what is described here.",
+    "B": "Although mycobacteria possess surface glycolipids, it is the waxy mycolic acid wall that is stained, not a capsule that excludes stain; a capsule is not the basis of acid-fast staining.",
+    "C": "Reduced muramic acid with no classic peptidoglycan describes the chlamydial cell wall, which is why beta-lactams fail against Chlamydia, not why mycobacteria stain with carbol fuchsin.",
+    "E": "That describes a classic gram-positive wall; thick peptidoglycan with teichoic acids retains crystal violet in the Gram stain but has nothing to do with acid-fastness."
+  },
+  "educationalObjective": "Mycobacteria are acid-fast because their waxy mycolic acid-rich cell wall retains carbol fuchsin after acid-alcohol decolorization, making them poor subjects for Gram stain.",
+  "source": "Generated from 3. Microbiology.pdf - Clinical Bacteriology: Mycobacterium tuberculosis"
+},
+{
+  "id": "micro-229",
+  "subject": "Microbiology",
+  "major_topic": "Clinical Bacteriology",
+  "subtopic": "Mycobacterium tuberculosis",
+  "difficulty": "medium",
+  "vignette": "A 29-year-old woman with a positive tuberculin skin test and an abnormal chest radiograph is diagnosed with active pulmonary tuberculosis. She is started on a multidrug regimen. Two weeks later she reports that her medications are making her urine and other secretions orange, and she asks whether this is dangerous.",
+  "question": "Which of the following changes in her regimen would most seriously undermine the principle that tuberculosis must be treated with multiple agents simultaneously?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Advising her to take the medications on an empty stomach"
+    },
+    {
+      "id": "B",
+      "text": "Eliminating the agent that causes orange discoloration of body fluids and continuing the other drugs"
+    },
+    {
+      "id": "C",
+      "text": "Adding pyridoxine to prevent peripheral neuropathy during therapy"
+    },
+    {
+      "id": "D",
+      "text": "Continuing the regimen for a minimum of several months after sputum conversion"
+    },
+    {
+      "id": "E",
+      "text": "Monitoring liver enzymes and visual acuity while on treatment"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "The source emphasizes that M tuberculosis is often resistant to multiple drugs, which is why it is treated with combination therapy rather than a single agent; stopping one drug of a combination leaves the organism exposed to fewer agents and selects for resistance. The orange discoloration is a benign, expected effect of rifampin and is not a reason to modify therapy. Rifampin is a cornerstone of TB treatment, so removing it would both weaken the regimen and risk resistance.",
+  "explanation_incorrect": {
+    "A": "Empty-stomach dosing helps absorption and is appropriate; it is a pharmacokinetic instruction, not a change in the number of active agents.",
+    "C": "Pyridoxine is given to prevent isoniazid-related peripheral neuropathy, an appropriate adjunct that does not weaken the regimen.",
+    "D": "Prolonging therapy well past culture and symptom resolution is standard for TB because the organism is slow-growing and persisting bacilli are difficult to eradicate; it strengthens rather than undermines treatment.",
+    "E": "Hepatotoxicity from isoniazid and rifampin and ethambutol-related optic neuritis are real adverse effects that warrant monitoring, which supports safe multi-agent therapy."
+  },
+  "educationalObjective": "Because M tuberculosis is frequently multidrug resistant and slow-growing, it requires prolonged therapy with multiple simultaneous agents; benign side effects such as rifampin-induced orange secretions should not prompt cessation of a single drug.",
+  "source": "Generated from 3. Microbiology.pdf - Clinical Bacteriology: Mycobacterium tuberculosis"
+},
+{
+  "id": "micro-230",
+  "subject": "Microbiology",
+  "major_topic": "Clinical Bacteriology",
+  "subtopic": "Mycobacterium tuberculosis",
+  "difficulty": "medium",
+  "vignette": "A 55-year-old man with psoriasis has been treated with a TNF-alpha inhibitor for 2 years. He now presents with fever, night sweats, weight loss, and hemoptysis. Chest radiograph reveals a fibrocaseous cavitary lesion in the lung apices. Sputum grows Mycobacterium tuberculosis.",
+  "question": "Which of the following best explains why this patient developed disease in the lung apices?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Aerophilic bacteria deposited selectively on the pleural surface"
+    },
+    {
+      "id": "B",
+      "text": "Resistance of mycobacteria to alveolar macrophage killing in the lower lobes only"
+    },
+    {
+      "id": "C",
+      "text": "Loss of cell-mediated immunity together with the organism's preference for the most highly oxygenated lung tissue"
+    },
+    {
+      "id": "D",
+      "text": "Direct spread of bacteria from the hilar lymph nodes into the upper lobes"
+    },
+    {
+      "id": "E",
+      "text": "Preferential lymphatic drainage of the upper lobes into the thoracic duct"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "TB reactivation risk is highest in immunocompromised patients, including those on TNF-alpha inhibitors, HIV, and transplant immunosuppression. The source attributes the apical predilection of reactivation disease to the bacteria being highly aerobic, so the well-ventilated apices are the favored site of cavitary disease. Blocking TNF-alpha also impairs granuloma maintenance, allowing dormant organisms to resume growth.",
+  "explanation_incorrect": {
+    "A": "The location is not pleural-directed deposition but intraparenchymal growth in highly oxygenated apical tissue.",
+    "B": "Organisms are not confined to lower lobes; primary infection typically involves the mid-to-lower lobes and the apices are the site of reactivation, the opposite of this statement.",
+    "D": "Hilar node involvement is part of the primary Ghon complex; secondary reactivation arises from endogenous reseeding, not from contiguous nodal spread into the apices.",
+    "E": "Regional lymphatic drainage does not explain the apical location of reactivation lesions and is not the mechanism cited."
+  },
+  "educationalObjective": "Reactivation tuberculosis favors the lung apices because M tuberculosis is highly aerobic, and it occurs chiefly in immunocompromised hosts such as those on TNF-alpha inhibitors.",
+  "source": "Generated from 3. Microbiology.pdf - Clinical Bacteriology: Mycobacterium tuberculosis"
+},
+{
+  "id": "micro-231",
+  "subject": "Microbiology",
+  "major_topic": "Clinical Bacteriology",
+  "subtopic": "Mycobacterium tuberculosis",
+  "difficulty": "medium",
+  "vignette": "A 38-year-old man with untreated HIV infection and a CD4+ count of 60 cells/mm3 has fever and weight loss. Chest radiograph shows diffuse small nodules throughout both lungs, and biopsy of a cervical lymph node shows caseating granulomas with multinucleated giant cells whose nuclei are arranged in a horseshoe pattern at the periphery. A tuberculin skin test is negative.",
+  "question": "Which of the following best explains the negative tuberculin skin test in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Depletion of CD4+ T cells prevents the delayed hypersensitivity reaction required for a positive test"
+    },
+    {
+      "id": "B",
+      "text": "Prior BCG vaccination neutralized the purified protein derivative"
+    },
+    {
+      "id": "C",
+      "text": "The organism has switched from an acid-fast to a non-acid-fast form"
+    },
+    {
+      "id": "D",
+      "text": "Miliary spread produces tuberculin antigen that is neutralized in the bloodstream"
+    },
+    {
+      "id": "E",
+      "text": "TNF-alpha release prevents induration at the injection site"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "A positive PPD reflects prior or current infection and is a delayed-type hypersensitivity reaction requiring functional CD4+ T cells. In profoundly immunocompromised patients, especially those with low CD4+ counts, the test is falsely negative, so a negative PPD cannot exclude infection. The enormous bacterial burden with hematogenous dissemination in miliary tuberculosis also reflects failed cellular immunity.",
+  "explanation_incorrect": {
+    "B": "BCG vaccination causes false-positive PPDs, not false negatives; the interferon-gamma release assay is the test noted for fewer false positives from BCG.",
+    "C": "Mycobacteria remain acid-fast; failure of the host response, not a change in staining, explains the negative test.",
+    "D": "There is no neutralization of antigen by circulating tuberculin; the problem is an absent T-cell response.",
+    "E": "TNF-alpha promotes granuloma formation and is part of the normal response; it does not suppress induration in this setting."
+  },
+  "educationalObjective": "A positive PPD depends on intact CD4+ T-cell function, so tuberculin skin testing is frequently falsely negative in immunocompromised patients with low CD4+ counts.",
+  "source": "Generated from 3. Microbiology.pdf - Clinical Bacteriology: Mycobacterium tuberculosis"
+},
+{
+  "id": "micro-232",
+  "subject": "Microbiology",
+  "major_topic": "Clinical Bacteriology",
+  "subtopic": "Mycobacterium tuberculosis",
+  "difficulty": "medium",
+  "vignette": "A 6-year-old girl who recently moved from a country with endemic tuberculosis has a positive tuberculin skin test performed as part of screening. She has no fever, cough, weight loss, or night sweats, and her chest radiograph is normal. Records show she received the BCG vaccine as an infant. The public health clinic is choosing the next confirmatory test.",
+  "question": "Which of the following is the main advantage of the interferon-gamma release assay over the tuberculin skin test in this child?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It identifies multidrug-resistant strains of M tuberculosis"
+    },
+    {
+      "id": "B",
+      "text": "It remains reliable in patients with profound CD4+ depletion"
+    },
+    {
+      "id": "C",
+      "text": "It quantifies the size of the induration at 48 to 72 hours"
+    },
+    {
+      "id": "D",
+      "text": "It has fewer false-positive results attributable to prior BCG vaccination"
+    },
+    {
+      "id": "E",
+      "text": "It detects active cavitary disease before symptoms begin"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "The source states that the interferon-gamma release assay has fewer false positives from BCG vaccination than the PPD, because it uses antigens more specific to M tuberculosis rather than purified protein derivative that cross-reacts with BCG. Both tests reflect immunologic memory of infection and do not distinguish latent from active disease. Confirmation of active disease still requires imaging, microbiology, and clinical assessment.",
+  "explanation_incorrect": {
+    "A": "Neither test characterizes drug susceptibility; that requires culture with susceptibility testing or molecular resistance testing of the isolate.",
+    "B": "Both tests rely on T-cell responses and can be falsely negative in severe immunosuppression, so this is not a relative advantage.",
+    "C": "Induration measurement is specific to the tuberculin skin test; the IGRA is a blood assay without a skin reaction.",
+    "E": "Neither test distinguishes latent infection from active disease; active disease is diagnosed by symptoms, imaging, and microbiologic studies such as sputum culture."
+  },
+  "educationalObjective": "The interferon-gamma release assay is preferred when BCG vaccination confounds the tuberculin skin test because it has fewer false-positive results.",
+  "source": "Generated from 3. Microbiology.pdf - Clinical Bacteriology: Mycobacterium tuberculosis"
+}
+]

@@ -1,0 +1,166 @@
+[
+{
+  "id": "micro-025",
+  "subject": "Microbiology",
+  "major_topic": "Antimicrobials",
+  "subtopic": "Antiviral drugs: acyclovir, ganciclovir, foscarnet",
+  "difficulty": "medium",
+  "vignette": "A 44-year-old man with a kidney transplant develops fever, worsening vision, and floaters 4 months after transplant. Fundoscopy shows a necrotizing retinitis with a classic brushfire border, and vitreous PCR is positive for cytomegalovirus. The team chooses oral valganciclovir, noting the need to monitor blood counts.",
+  "question": "Which of the following best explains ganciclovir's activation and toxicity relative to acyclovir?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It inhibits influenza neuraminidase and prevents release of progeny virus"
+    },
+    {
+      "id": "B",
+      "text": "It is a pyrophosphate analog that binds the pyrophosphate-binding site of viral polymerase"
+    },
+    {
+      "id": "C",
+      "text": "It is monophosphorylated by cellular kinases only, which makes it less toxic than acyclovir and free of marrow effects"
+    },
+    {
+      "id": "D",
+      "text": "It requires no kinase activation, which is why it is effective against acyclovir-resistant HSV"
+    },
+    {
+      "id": "E",
+      "text": "CMV kinase activation with myelosuppression"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Ganciclovir is a guanosine analog whose 5'-monophosphate is formed by a CMV viral kinase, with the triphosphate then formed by cellular kinases to preferentially inhibit viral DNA polymerase; valganciclovir is a prodrug with better oral bioavailability. Its adverse effects are myelosuppression with leukopenia, neutropenia, and thrombocytopenia, plus renal toxicity, making it more toxic to host enzymes than acyclovir. Mutated viral kinase underlies ganciclovir resistance.",
+  "explanation_incorrect": {
+    "A": "Neuraminidase inhibition describes oseltamivir and zanamivir, which act against influenza rather than CMV.",
+    "B": "The pyrophosphate analog that binds the pyrophosphate site is foscarnet, not ganciclovir.",
+    "C": "Activation requires the CMV viral kinase for the first phosphorylation step, and ganciclovir is more toxic, with significant myelosuppression.",
+    "D": "Requiring no kinase activation describes foscarnet and cidofovir, which are used for acyclovir-resistant HSV and CMV retinitis when ganciclovir fails."
+  },
+  "educationalObjective": "Ganciclovir is activated by a CMV viral kinase, inhibits viral DNA polymerase, and causes myelosuppression and renal toxicity.",
+  "source": "Generated from 3. Microbiology.pdf - Antimicrobials: Antiviral drugs: acyclovir, ganciclovir, foscarnet"
+},
+{
+  "id": "micro-026",
+  "subject": "Microbiology",
+  "major_topic": "Antimicrobials",
+  "subtopic": "Antiviral drugs: acyclovir, ganciclovir, foscarnet",
+  "difficulty": "medium",
+  "vignette": "A 47-year-old woman with AIDS has CMV retinitis that progressed despite ganciclovir, and her virus is also resistant to acyclovir with a documented mutation in viral thymidine kinase. She has normal renal function at baseline. She receives foscarnet and is monitored for kidney injury and electrolyte disturbance, and on day 6 she has a seizure with hypocalcemia and hypomagnesemia.",
+  "question": "Which of the following best describes foscarnet's mechanism and toxicity?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It inhibits neuraminidase and causes neuropsychiatric events"
+    },
+    {
+      "id": "B",
+      "text": "Pyrophosphate analog needing no kinase, causing nephrotoxicity"
+    },
+    {
+      "id": "C",
+      "text": "It inhibits IMP dehydrogenase and causes hemolytic anemia"
+    },
+    {
+      "id": "D",
+      "text": "It is a guanosine analog requiring viral thymidine kinase and causes crystalline nephropathy if not hydrated"
+    },
+    {
+      "id": "E",
+      "text": "It is a nucleoside reverse transcriptase inhibitor requiring phosphorylation, and its main toxicity is myelosuppression"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Foscarnet is a pyrophosphate analog that binds the pyrophosphate-binding site of viral DNA and RNA polymerases and HIV reverse transcriptase, and it does not require any kinase activation, which is why it remains active against thymidine kinase-deficient acyclovir-resistant HSV. It is used for CMV retinitis when ganciclovir fails and for acyclovir-resistant HSV. Its adverse effects are nephrotoxicity and multiple electrolyte abnormalities that can lead to seizures. Resistance maps to mutated DNA polymerase.",
+  "explanation_incorrect": {
+    "A": "Neuraminidase inhibition describes oseltamivir and zanamivir for influenza.",
+    "C": "IMP dehydrogenase inhibition with hemolytic anemia describes ribavirin.",
+    "D": "Requiring viral thymidine kinase describes acyclovir, whose resistance arises from mutated thymidine kinase; foscarnet bypasses that step entirely.",
+    "E": "Foscarnet is not a nucleoside reverse transcriptase inhibitor and is not dependent on phosphorylation; myelosuppression is ganciclovir toxicity."
+  },
+  "educationalObjective": "Foscarnet is a pyrophosphate analog requiring no kinase activation, used for acyclovir-resistant HSV and refractory CMV retinitis, and causes nephrotoxicity with electrolyte-driven seizures.",
+  "source": "Generated from 3. Microbiology.pdf - Antimicrobials: Antiviral drugs: acyclovir, ganciclovir, foscarnet"
+},
+{
+  "id": "micro-027",
+  "subject": "Microbiology",
+  "major_topic": "Antimicrobials",
+  "subtopic": "Antiviral drugs: acyclovir, ganciclovir, foscarnet",
+  "difficulty": "easy",
+  "vignette": "A 33-year-old woman presents with a painful cluster of vesicles on the labia and bilateral tender inguinal lymphadenopathy. She is prescribed valacyclovir for 7 days, and she asks whether the medicine will prevent future outbreaks and whether she can take it with her usual fluid intake. Her creatinine is normal.",
+  "question": "Which of the following best explains the pharmacology of valacyclovir?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It is a prodrug of ganciclovir requiring a CMV viral kinase for activation"
+    },
+    {
+      "id": "B",
+      "text": "It is a pyrophosphate analog that does not require kinase activation"
+    },
+    {
+      "id": "C",
+      "text": "It inhibits viral RNA-dependent RNA polymerase and is used for influenza"
+    },
+    {
+      "id": "D",
+      "text": "It inhibits the influenza cap-snatching endonuclease"
+    },
+    {
+      "id": "E",
+      "text": "Acyclovir prodrug requiring viral thymidine kinase"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Valacyclovir is a prodrug of acyclovir with better oral bioavailability; acyclovir is a guanosine analog monophosphorylated by HSV/VZV thymidine kinase and therefore only activated in infected cells, after which the triphosphate preferentially inhibits viral DNA polymerase by chain termination. It is used for mucocutaneous and genital HSV lesions, HSV encephalitis, and prophylaxis in immunocompromised patients, but it has no effect on latent virus. Its adverse effect is obstructive crystalline nephropathy and acute kidney injury if patients are not adequately hydrated, which answers her question about fluid intake.",
+  "explanation_incorrect": {
+    "A": "A prodrug of ganciclovir with CMV kinase dependence is valganciclovir, used for CMV.",
+    "B": "The pyrophosphate analog without kinase activation is foscarnet.",
+    "C": "Inhibition of viral RNA-dependent RNA polymerase describes remdesivir, which is used for COVID-19 requiring hospitalization.",
+    "D": "Inhibiting cap snatching describes baloxavir, used for influenza within 48 hours of symptom onset."
+  },
+  "educationalObjective": "Valacyclovir is a better-absorbed prodrug of acyclovir, requires viral thymidine kinase for activation, is inactive against latent HSV, and can cause crystalline nephropathy without hydration.",
+  "source": "Generated from 3. Microbiology.pdf - Antimicrobials: Antiviral drugs: acyclovir, ganciclovir, foscarnet"
+},
+{
+  "id": "micro-028",
+  "subject": "Microbiology",
+  "major_topic": "Antimicrobials",
+  "subtopic": "Antiviral drugs: acyclovir, ganciclovir, foscarnet",
+  "difficulty": "medium",
+  "vignette": "A 29-year-old man with a history of recurrent genital herpes develops a severe, nonhealing perianal ulceration despite high-dose acyclovir. He is HIV positive with a CD4+ count of 120 cells/mm3. Viral sequencing shows a stop codon in the thymidine kinase gene. The team selects an agent that does not require thymidine kinase activation.",
+  "question": "Which of the following is the mechanism by which acyclovir fails in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Methylation of the viral 23S rRNA binding site prevents drug attachment"
+    },
+    {
+      "id": "B",
+      "text": "Production of a plasmid-encoded acetyltransferase inactivates the drug"
+    },
+    {
+      "id": "C",
+      "text": "Modification of D-Ala-D-Ala to D-Ala-D-Lac reduces drug binding"
+    },
+    {
+      "id": "D",
+      "text": "Mutation of viral DNA polymerase prevents chain termination by the drug"
+    },
+    {
+      "id": "E",
+      "text": "Thymidine kinase mutation blocks activation"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Acyclovir is monophosphorylated by HSV/VZV thymidine kinase, so a mutation in that viral enzyme prevents activation of guanosine analogs and produces acyclovir resistance. The alternative in this situation is foscarnet, which binds the pyrophosphate site of the viral polymerase without requiring kinase activation. Foscarnet resistance instead arises from mutated DNA polymerase.",
+  "explanation_incorrect": {
+    "A": "23S rRNA methylation is a bacterial (macrolide) resistance mechanism and is irrelevant to a viral guanosine analog.",
+    "B": "Plasmid-encoded acetyltransferase inactivation applies to chloramphenicol, a bacterial drug.",
+    "C": "D-Ala-D-Lac modification of cell wall precursors is the enterococcal vancomycin resistance mechanism.",
+    "D": "Mutated DNA polymerase is the resistance mechanism for foscarnet and cidofovir, not the classic mechanism by which acyclovir fails; the sequencing here shows a thymidine kinase defect."
+  },
+  "educationalObjective": "Acyclovir resistance most often results from mutated viral thymidine kinase, which prevents activation; foscarnet remains active because it needs no kinase.",
+  "source": "Generated from 3. Microbiology.pdf - Antimicrobials: Antiviral drugs: acyclovir, ganciclovir, foscarnet"
+}
+]

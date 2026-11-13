@@ -1,0 +1,84 @@
+[
+{
+  "id": "micro-119",
+  "subject": "Microbiology",
+  "major_topic": "Clinical Bacteriology",
+  "subtopic": "Clostridium perfringens",
+  "difficulty": "medium",
+  "vignette": "A 58-year-old man with poorly controlled diabetes sustains a deep puncture wound of the thigh while gardening. Two days later he has severe thigh pain, bronze discoloration of the skin, tense swelling, crepitus on palpation, and rapid hemodynamic deterioration. Imaging shows gas within the muscle planes, and surgical exploration reveals necrotic, foul-smelling muscle.",
+  "question": "Which of the following toxins most directly explains the myonecrosis in this condition?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Tetanospasmin blocking glycine release"
+    },
+    {
+      "id": "B",
+      "text": "Toxin A damaging enterocytes"
+    },
+    {
+      "id": "C",
+      "text": "Erythrogenic exotoxin activating T cells"
+    },
+    {
+      "id": "D",
+      "text": "Edema factor acting as adenylyl cyclase"
+    },
+    {
+      "id": "E",
+      "text": "Alpha-toxin, a lecithinase (phospholipase)"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "This is gas gangrene caused by Clostridium perfringens. Its α-toxin is a lecithinase, a phospholipase that causes myonecrosis and hemolysis, producing soft tissue crepitus and rapid tissue destruction. The mnemonic is that perfringens perforates a gangrenous leg, and spontaneous gas gangrene after hematogenous seeding in a patient with colonic malignancy is caused most often by Clostridium septicum.",
+  "explanation_incorrect": {
+    "A": "Tetanospasmin spreads by retrograde axonal transport to block GABA and glycine release from Renshaw cells, producing spastic paralysis such as trismus and opisthotonos, not tissue gas and myonecrosis.",
+    "B": "Toxin A is a Clostridioides difficile toxin that damages enterocytes and causes pseudomembranous colitis, an intestinal disease rather than a wound disease.",
+    "C": "Erythrogenic exotoxin is a Streptococcus pyogenes product responsible for the scarlet fever rash, not for gas within muscle planes.",
+    "D": "Edema factor is a component of anthrax toxin that raises intracellular cAMP and produces edema; it does not cause gas-forming myonecrosis."
+  },
+  "educationalObjective": "Clostridium perfringens α-toxin is a lecithinase that produces myonecrosis and hemolysis in gas gangrene.",
+  "source": "Generated from 3. Microbiology.pdf - Clinical Bacteriology: Clostridium perfringens"
+},
+{
+  "id": "micro-120",
+  "subject": "Microbiology",
+  "major_topic": "Clinical Bacteriology",
+  "subtopic": "Clostridium perfringens",
+  "difficulty": "easy",
+  "vignette": "A group of 12 people attending a catered luncheon develop watery diarrhea and abdominal cramping about 11 hours after eating beef stew that had been cooked in a large pot and left to cool slowly at room temperature before serving. None has fever or vomiting. Symptoms resolve within 24 hours in all affected people. Cultures from the stew grow anaerobic gram-positive rods.",
+  "question": "Which of the following best explains the mechanism of this food poisoning?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Direct invasion of the small intestinal mucosa with ulceration"
+    },
+    {
+      "id": "B",
+      "text": "Heat-labile enterotoxins activating adenylate cyclase"
+    },
+    {
+      "id": "C",
+      "text": "Ingestion of preformed heat-stable enterotoxin in the food"
+    },
+    {
+      "id": "D",
+      "text": "Ingestion of vegetative bacteria that produce enterotoxin in the intestine"
+    },
+    {
+      "id": "E",
+      "text": "Production of alpha-toxin during intestinal colonization"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "In Clostridium perfringens food poisoning, heavily spore-contaminated food is cooked but left standing too long at below 60°C, allowing spores to germinate into vegetative bacteria that are then ingested. The enterotoxin is produced in the intestine, giving late-onset symptoms at about 10 to 12 hours with resolution in 24 hours.",
+  "explanation_incorrect": {
+    "A": "Invasion with mucosal ulceration is characteristic of Shigella and enteroinvasive E coli, which produce fever, tenesmus, and bloody stools.",
+    "B": "Heat-labile toxins that activate adenylate cyclase belong to enterotoxigenic E coli and Vibrio cholerae, producing traveler's diarrhea and rice-water stools respectively.",
+    "C": "Preformed heat-stable toxin explains Staphylococcus aureus food poisoning with its 2- to 6-hour onset and prominent vomiting, not this delayed diarrheal illness.",
+    "E": "Alpha-toxin causes myonecrosis and hemolysis in gas gangrene, not a self-limited diarrheal illness, and it is not the food poisoning toxin."
+  },
+  "educationalObjective": "Clostridium perfringens food poisoning arises from ingested vegetative bacteria that make enterotoxin in the gut, giving late-onset diarrhea at 10–12 hours.",
+  "source": "Generated from 3. Microbiology.pdf - Clinical Bacteriology: Clostridium perfringens"
+}
+]

@@ -1,0 +1,84 @@
+[
+{
+  "id": "micro-115",
+  "subject": "Microbiology",
+  "major_topic": "Clinical Bacteriology",
+  "subtopic": "Clostridioides difficile",
+  "difficulty": "medium",
+  "vignette": "A 66-year-old woman is hospitalized for aspiration pneumonia and receives 7 days of clindamycin. On day 10 she develops 8 to 10 episodes of watery diarrhea daily, lower abdominal cramping, fever to 38.6°C, and a white blood cell count of 19,000/µL. She is on a proton pump inhibitor. Stool testing by PCR is positive for an organism's toxin genes, and colonoscopy shows raised yellow-white plaques.",
+  "question": "Which of the following organisms is most likely responsible for this presentation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Clostridioides difficile"
+    },
+    {
+      "id": "B",
+      "text": "Bacillus cereus"
+    },
+    {
+      "id": "C",
+      "text": "Clostridium botulinum"
+    },
+    {
+      "id": "D",
+      "text": "Staphylococcus aureus"
+    },
+    {
+      "id": "E",
+      "text": "Clostridium perfringens"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Clostridioides difficile produces toxins A and B, which damage enterocytes and lead to watery diarrhea with pseudomembranous colitis. Infection is typically secondary to antibiotic use, especially clindamycin, ampicillin, cephalosporins, and fluoroquinolones, and it is also associated with proton pump inhibitors. Fulminant infection can cause toxic megacolon, ileus, and shock, and diagnosis is by PCR or antigen detection of one or both toxins in stool.",
+  "explanation_incorrect": {
+    "B": "Bacillus cereus causes reheated-rice food poisoning with a brief emetic or diarrheal illness, and it does not produce pseudomembranes.",
+    "C": "Clostridium botulinum produces a neurotoxin causing descending flaccid paralysis, with constipation rather than profuse diarrhea.",
+    "D": "Staphylococcus aureus food poisoning causes brief vomiting after preformed toxin ingestion, and its antibiotic-associated diarrhea is not the classic pseudomembranous colitis.",
+    "E": "Clostridium perfringens causes gas gangrene through α-toxin and a late-onset food poisoning, neither of which produces pseudomembranous colitis after antibiotics."
+  },
+  "educationalObjective": "Clostridioides difficile toxins A and B cause pseudomembranous colitis after antibiotic use, especially clindamycin, and are associated with proton pump inhibitors.",
+  "source": "Generated from 3. Microbiology.pdf - Clinical Bacteriology: Clostridioides difficile"
+},
+{
+  "id": "micro-116",
+  "subject": "Microbiology",
+  "major_topic": "Clinical Bacteriology",
+  "subtopic": "Clostridioides difficile",
+  "difficulty": "medium",
+  "vignette": "A 74-year-old man in the hospital after hip surgery develops watery diarrhea, abdominal distention, and hypotension on day 12 of a cephalosporin course. Abdominal radiograph shows a dilated colon, and stool is positive for C difficile toxin by PCR. He has had two prior episodes treated with oral vancomycin in the past 6 months, and this is now his third recurrence.",
+  "question": "Which of the following is the most appropriate treatment for this patient's recurrent infection?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Intravenous ceftriaxone"
+    },
+    {
+      "id": "B",
+      "text": "Oral ciprofloxacin with metronidazole"
+    },
+    {
+      "id": "C",
+      "text": "Oral vancomycin or fidaxomicin, with fecal microbiota transplant considered for repeated recurrence"
+    },
+    {
+      "id": "D",
+      "text": "Antiperistaltic agents to reduce diarrhea"
+    },
+    {
+      "id": "E",
+      "text": "Loperamide plus a proton pump inhibitor"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Treatment of Clostridioides difficile colitis is oral vancomycin or fidaxomicin. For recurrent cases, treatment options are to repeat the prior regimen or to perform fecal microbiota transplant, which restores colonization resistance after repeated antibiotic courses have destroyed the normal colonic flora.",
+  "explanation_incorrect": {
+    "A": "Intravenous ceftriaxone is not effective therapy for colonic C difficile infection and is itself among the antibiotics that predispose to it.",
+    "B": "Fluoroquinolones are one of the antibiotic classes associated with C difficile infection, so adding ciprofloxacin with metronidazole is not the recommended regimen.",
+    "D": "Antiperistaltic agents can precipitate toxic megacolon by trapping toxin in the colon and are contraindicated in severe colitis.",
+    "E": "Loperamide and a proton pump inhibitor would worsen risk, since proton pump inhibitor use is associated with C difficile infection and antimotility drugs risk ileus and megacolon."
+  },
+  "educationalObjective": "Clostridioides difficile is treated with oral vancomycin or fidaxomicin, and recurrent disease may require fecal microbiota transplant.",
+  "source": "Generated from 3. Microbiology.pdf - Clinical Bacteriology: Clostridioides difficile"
+}
+]

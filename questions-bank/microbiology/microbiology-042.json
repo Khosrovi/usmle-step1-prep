@@ -1,0 +1,84 @@
+[
+{
+  "id": "micro-128",
+  "subject": "Microbiology",
+  "major_topic": "Mycology",
+  "subtopic": "Cryptococcus neoformans",
+  "difficulty": "medium",
+  "vignette": "A 36-year-old man with untreated HIV infection and a CD4+ count of 55 cells/mm3 presents with two weeks of worsening headache, low-grade fever, and confusion. A lumbar puncture shows elevated opening pressure, lymphocytic pleocytosis, and a clear halo surrounding yeast cells on India ink preparation of the cerebrospinal fluid.",
+  "question": "Which of the following best describes the structure responsible for the halo seen on this preparation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A germ tube extending from a yeast cell"
+    },
+    {
+      "id": "B",
+      "text": "A cholesterol-rich cell membrane"
+    },
+    {
+      "id": "C",
+      "text": "A beta-glucan-rich cell wall"
+    },
+    {
+      "id": "D",
+      "text": "A spherule containing endospores"
+    },
+    {
+      "id": "E",
+      "text": "A thick polysaccharide capsule"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Cryptococcus neoformans is a heavily encapsulated yeast measuring 5-10 μm with narrow-based budding, and it is not dimorphic. The capsule is made of polysaccharide and appears as a clear halo on India ink staining; it can also be highlighted red by mucicarmine staining of the inner capsule. Latex agglutination for capsular polysaccharide antigen is more sensitive and specific than India ink. The organism is found in soil and pigeon droppings and spreads by inhalation with hematogenous dissemination to the meninges.",
+  "explanation_incorrect": {
+    "A": "Germ tube formation at 37°C is the diagnostic test for Candida albicans and has no role in identifying Cryptococcus, which is identified by its capsule.",
+    "B": "The fungal membrane contains ergosterol, which is the target of amphotericin B, but the unstained halo on India ink reflects a capsule outside the membrane rather than the membrane itself.",
+    "C": "Beta-glucan is a cell wall component targeted by echinocandins, but echinocandins have poor activity against Cryptococcus precisely because the capsule is the key structure here.",
+    "D": "Spherules containing endospores are the tissue form of Coccidioides immitis, which is a dimorphic fungus acquired from desert dust rather than pigeon droppings."
+  },
+  "educationalObjective": "Cryptococcus neoformans is an encapsulated yeast whose thick polysaccharide capsule appears as a clear halo on India ink and can be detected by latex agglutination.",
+  "source": "Generated from 3. Microbiology.pdf - Mycology: Cryptococcus neoformans"
+},
+{
+  "id": "micro-129",
+  "subject": "Microbiology",
+  "major_topic": "Mycology",
+  "subtopic": "Cryptococcus neoformans",
+  "difficulty": "medium",
+  "vignette": "A 42-year-old man with AIDS is diagnosed with cryptococcal meningitis after presenting with headache, fever, and altered mental status. His neurologist explains that induction therapy requires two drugs used in combination before transitioning to a single agent for long-term suppression.",
+  "question": "Which of the following is the most appropriate induction regimen for his meningitis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Voriconazole plus caspofungin"
+    },
+    {
+      "id": "B",
+      "text": "Fluconazole plus itraconazole"
+    },
+    {
+      "id": "C",
+      "text": "Nystatin plus griseofulvin"
+    },
+    {
+      "id": "D",
+      "text": "Terbinafine"
+    },
+    {
+      "id": "E",
+      "text": "Amphotericin B plus flucytosine"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Cryptococcal meningitis is treated with amphotericin B plus flucytosine, followed by fluconazole for chronic suppression, which is the regimen specifically emphasized for cryptococcal disease. Amphotericin B binds ergosterol and creates membrane pores, while flucytosine is converted by fungal cytosine deaminase to 5-fluorouracil, inhibiting DNA and RNA synthesis; its main toxicity is myelosuppression. Fluconazole is then used for chronic suppression in people living with HIV. Amphotericin B requires hydration and electrolyte monitoring because of nephrotoxicity.",
+  "explanation_incorrect": {
+    "A": "Voriconazole is used for Aspergillus, and caspofungin is an echinocandin for invasive aspergillosis and Candida; neither has a standard role in cryptococcal meningitis induction.",
+    "B": "Fluconazole is correct later as chronic suppressive therapy, but combining two azoles is not the recommended induction regimen.",
+    "C": "Nystatin is a topical polyene used for oral thrush, and griseofulvin treats only superficial dermatophyte infections.",
+    "D": "Terbinafine inhibits squalene epoxidase and is used for onychomycosis and other dermatophyte infections; it is not part of the regimen for cryptococcal meningitis."
+  },
+  "educationalObjective": "Induction therapy for cryptococcal meningitis is amphotericin B plus flucytosine, followed by fluconazole for chronic suppression.",
+  "source": "Generated from 3. Microbiology.pdf - Mycology: Cryptococcus neoformans"
+}
+]

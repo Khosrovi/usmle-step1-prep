@@ -182,6 +182,44 @@ if (!DRY_RUN) {
 
   const topicsResponse = await fetch(`${url}/rest/v1/topic_coverage?select=*&limit=1000`, { headers });
   const topics = topicsResponse.ok ? await topicsResponse.json() : [];
+
+  // A subject whose plan rows do not exist yet (Microbiology, for example) is
+  // created from .cache/topic-coverage-<subject>.json, so the dashboard can
+  // show planned vs generated coverage without a manual SQL step.
+  const subjectsInBank = new Set(questions.map((q) => q.subject));
+  for (const subject of subjectsInBank) {
+    if (topics.some((t) => t.subject === subject)) continue;
+    const planFile = path.resolve(
+      process.cwd(),
+      `.cache/topic-coverage-${subject.toLowerCase()}.json`
+    );
+    if (!fs.existsSync(planFile)) {
+      console.warn(`  ${subject}: no coverage rows and no plan file ${planFile} — skipping coverage bootstrap.`);
+      continue;
+    }
+    const plan = JSON.parse(fs.readFileSync(planFile, "utf8"));
+    const rows = plan.map((row) => ({
+      subject: row.subject ?? subject,
+      major_topic: row.major_topic,
+      subtopic: row.subtopic,
+      questions_planned: row.questions_planned ?? 0,
+      questions_generated: 0,
+      status: "pending",
+    }));
+    const created = await fetch(`${url}/rest/v1/topic_coverage`, {
+      method: "POST",
+      headers: { ...headers, Prefer: "return=representation" },
+      body: JSON.stringify(rows),
+    });
+    if (!created.ok) {
+      console.error(`topic_coverage bootstrap failed for ${subject}:`, await created.text());
+      process.exit(1);
+    }
+    const createdRows = await created.json();
+    topics.push(...createdRows);
+    console.log(`Created ${createdRows.length} topic_coverage row(s) for ${subject}.`);
+  }
+
   let updated = 0;
   for (const topic of topics) {
     if (SUBJECT_FILTER && topic.subject !== SUBJECT_FILTER) continue;

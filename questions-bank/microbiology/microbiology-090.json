@@ -1,0 +1,125 @@
+[
+{
+  "id": "micro-270",
+  "subject": "Microbiology",
+  "major_topic": "Clinical Bacteriology",
+  "subtopic": "Rickettsia and Ehrlichia",
+  "difficulty": "medium",
+  "vignette": "A 9-year-old boy from North Carolina presents in June with 4 days of high fever, severe headache, and myalgias. His mother reports a tick bite 1 week ago. Examination shows a blanching erythematous rash on the wrists and ankles that has begun to spread toward the trunk, and several petechiae on the palms.",
+  "question": "Which of the following is the most appropriate empiric treatment while awaiting confirmatory serology?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Ceftriaxone"
+    },
+    {
+      "id": "B",
+      "text": "Trimethoprim-sulfamethoxazole"
+    },
+    {
+      "id": "C",
+      "text": "Doxycycline"
+    },
+    {
+      "id": "D",
+      "text": "Amoxicillin"
+    },
+    {
+      "id": "E",
+      "text": "Azithromycin"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "This is Rocky Mountain spotted fever due to Rickettsia rickettsii, transmitted by the Dermacentor tick and most common in the South Atlantic states including North Carolina. The classic triad is headache, fever, and rash from vasculitis, with the rash starting at the wrists and ankles and spreading to the trunk, palms, and soles. Rickettsial diseases are treated with doxycycline.",
+  "explanation_incorrect": {
+    "A": "Ceftriaxone is a cephalosporin used for meningitis and gonorrhea, not for rickettsial infection.",
+    "B": "TMP-SMX is used for Nocardia and as an alternative for pertussis in macrolide allergy, and sulfonamides may worsen rickettsial disease.",
+    "D": "Amoxicillin is a cell-wall active beta-lactam and does not cover Rickettsia, which is an obligate intracellular organism.",
+    "E": "Azithromycin is used for atypical organisms such as Mycoplasma and Chlamydia, not as first-line therapy for rickettsial disease."
+  },
+  "educationalObjective": "Rocky Mountain spotted fever presents with the triad of headache, fever, and a vasculitic rash starting at the wrists and ankles, and is treated with doxycycline.",
+  "source": "Generated from 3. Microbiology.pdf - Clinical Bacteriology: Rickettsia and Ehrlichia"
+},
+{
+  "id": "micro-271",
+  "subject": "Microbiology",
+  "major_topic": "Clinical Bacteriology",
+  "subtopic": "Rickettsia and Ehrlichia",
+  "difficulty": "medium",
+  "vignette": "A 63-year-old man from a rural area presents with fever and headache after a tick bite. Peripheral blood smear shows inclusion bodies within monocytes. A separate patient with a similar febrile illness after a tick bite has inclusions within granulocytes on smear.",
+  "question": "Which of the following correctly matches the organisms to these findings?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Ehrlichia chaffeensis infects monocytes, whereas Anaplasma phagocytophilum infects granulocytes"
+    },
+    {
+      "id": "B",
+      "text": "Ehrlichia chaffeensis infects granulocytes, whereas Anaplasma phagocytophilum infects monocytes"
+    },
+    {
+      "id": "C",
+      "text": "Both organisms infect erythrocytes and produce hemolytic anemia"
+    },
+    {
+      "id": "D",
+      "text": "Both organisms infect lymphocytes, and the inclusions are viral nucleocapsids"
+    },
+    {
+      "id": "E",
+      "text": "Ehrlichia chaffeensis infects monocytes, whereas Anaplasma forms inclusions in platelets only"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "The mnemonic MEGA distinguishes the two: monocytes indicate ehrlichiosis, and granulocytes indicate anaplasmosis. Ehrlichia chaffeensis produces morulae, which are mulberrylike inclusions, in monocytes, while Anaplasma phagocytophilum produces morulae in granulocytes. Both are tick-borne and treated with doxycycline.",
+  "explanation_incorrect": {
+    "B": "This reverses the correct pairing; the source explicitly assigns monocytes to Ehrlichia and granulocytes to Anaplasma.",
+    "C": "Neither organism infects erythrocytes; the intracellular targets are monocytes and granulocytes respectively.",
+    "D": "The morulae are bacterial microcolonies within leukocytes, not viral inclusions in lymphocytes.",
+    "E": "Anaplasma infects granulocytes, including neutrophils, not platelets."
+  },
+  "educationalObjective": "Ehrlichia chaffeensis forms morulae in monocytes, whereas Anaplasma phagocytophilum forms morulae in granulocytes.",
+  "source": "Generated from 3. Microbiology.pdf - Clinical Bacteriology: Rickettsia and Ehrlichia"
+},
+{
+  "id": "micro-272",
+  "subject": "Microbiology",
+  "major_topic": "Clinical Bacteriology",
+  "subtopic": "Rickettsia and Ehrlichia",
+  "difficulty": "medium",
+  "vignette": "A 40-year-old veterinarian presents with 2 weeks of fever, severe headache, dry cough, and right upper quadrant discomfort. She reports assisting with calving on a dairy farm. Chest radiograph shows a patchy infiltrate and liver enzymes are elevated. Blood cultures are negative, but echocardiography reveals a vegetation, and serology for a fastidious gram-negative coccobacillus is positive.",
+  "question": "Which of the following best describes the organism responsible?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Rickettsia prowazekii, transmitted person to person by the human body louse"
+    },
+    {
+      "id": "B",
+      "text": "Ehrlichia chaffeensis, transmitted by the Lone Star tick, infecting monocytes"
+    },
+    {
+      "id": "C",
+      "text": "Brucella abortus, ingested in unpasteurized dairy products from cattle"
+    },
+    {
+      "id": "D",
+      "text": "Coxiella burnetii, inhaled in aerosols from cattle or sheep amniotic fluid, with no arthropod vector"
+    },
+    {
+      "id": "E",
+      "text": "Rickettsia rickettsii, transmitted by the Dermacentor tick, causing a palm-and-sole rash"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Q fever is caused by Coxiella burnetii, which has no arthropod vector and is inhaled as aerosols from cattle or sheep amniotic fluid, classically in farmers and veterinarians assisting with parturition. It presents with headache, cough, flulike symptoms, pneumonia, and hepatitis, and is a common cause of culture-negative endocarditis. Its mnemonic emphasizes a Quite Complicated bug with no rash and no vector.",
+  "explanation_incorrect": {
+    "A": "Epidemic typhus is louse-borne and human-to-human, producing a centrally starting rash that spares the palms and soles.",
+    "B": "Ehrlichiosis is tick-borne, does not have a cattle amniotic fluid reservoir, and is not a classic cause of endocarditis.",
+    "C": "Brucellosis is acquired mainly from unpasteurized dairy and causes undulant fever, but it is not the classic cause of culture-negative endocarditis described here.",
+    "E": "Rocky Mountain spotted fever is tick-borne and produces a characteristic palm-and-sole vasculitic rash, which is absent here."
+  },
+  "educationalObjective": "Q fever is caused by Coxiella burnetii, inhaled from cattle or sheep amniotic fluid, and typically presents with pneumonia or hepatitis and culture-negative endocarditis without a rash or vector.",
+  "source": "Generated from 3. Microbiology.pdf - Clinical Bacteriology: Rickettsia and Ehrlichia"
+}
+]

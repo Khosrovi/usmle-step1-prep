@@ -1,0 +1,166 @@
+[
+{
+  "id": "micro-055",
+  "subject": "Microbiology",
+  "major_topic": "Antimicrobials",
+  "subtopic": "Sulfonamides and folate antagonist pathways",
+  "difficulty": "medium",
+  "vignette": "A 24-year-old woman has uncomplicated cystitis with dysuria and frequency. She is prescribed trimethoprim-sulfamethoxazole. A medical student asks why the combination is preferred, given that either drug alone is bacteriostatic.",
+  "question": "Which of the following best explains the mechanism and rationale of the combination?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Sulfamethoxazole inhibits dihydrofolate reductase and trimethoprim inhibits dihydropteroate synthase, giving a sequential block"
+    },
+    {
+      "id": "B",
+      "text": "Both drugs inhibit the 50S ribosomal subunit at sequential steps of protein synthesis"
+    },
+    {
+      "id": "C",
+      "text": "Sequential folate blockade gives bactericidal synergy"
+    },
+    {
+      "id": "D",
+      "text": "Both drugs inhibit dihydrofolate reductase and therefore produce dose-dependent synergy"
+    },
+    {
+      "id": "E",
+      "text": "Sulfamethoxazole inhibits DNA gyrase and trimethoprim inhibits folate synthesis, giving synergy"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Sulfonamides inhibit dihydropteroate synthase and thus folate synthesis, and trimethoprim inhibits bacterial dihydrofolate reductase; the two act sequentially in the folate pathway, converting a bacteriostatic effect into a bactericidal one. TMP-SMX is used for simple UTI, for Shigella and Salmonella infection, and for Pneumocystis jirovecii treatment and prophylaxis. Either agent alone is only bacteriostatic.",
+  "explanation_incorrect": {
+    "A": "The order is reversed: sulfonamides act earlier at dihydropteroate synthase, and trimethoprim acts downstream at dihydrofolate reductase.",
+    "B": "Neither drug acts on the ribosome; the folate pathway supplies thymidine and purines needed for DNA and RNA synthesis, not protein synthesis directly.",
+    "D": "Only trimethoprim inhibits dihydrofolate reductase; sulfonamides act one step earlier, which is what makes the sequential block synergistic.",
+    "E": "DNA gyrase inhibition is the fluoroquinolone mechanism, and the folate pathway antagonism is not mediated through gyrase."
+  },
+  "educationalObjective": "Sulfonamides inhibit dihydropteroate synthase and trimethoprim inhibits dihydrofolate reductase, producing a sequential bactericidal block used for UTI and P jirovecii.",
+  "source": "Generated from 3. Microbiology.pdf - Antimicrobials: Sulfonamides and folate antagonist pathways"
+},
+{
+  "id": "micro-056",
+  "subject": "Microbiology",
+  "major_topic": "Antimicrobials",
+  "subtopic": "Sulfonamides and folate antagonist pathways",
+  "difficulty": "medium",
+  "vignette": "A 31-year-old man with HIV and a CD4+ count of 80 cells/mm3 is prescribed trimethoprim-sulfamethoxazole for prophylaxis. On routine labs he has a potassium of 5.9 mEq/L, and a peripheral smear shows macroovalocytes with hypersegmented neutrophils consistent with megaloblastic anemia. His physician reduces the dose and considers adding leucovorin.",
+  "question": "Which of the following best explains these laboratory findings?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Folate deficiency with megaloblastic anemia and hyperkalemia"
+    },
+    {
+      "id": "B",
+      "text": "Trimethoprim causes aplastic anemia through dose-independent idiosyncratic mechanisms"
+    },
+    {
+      "id": "C",
+      "text": "Trimethoprim inhibits dihydropteroate synthase, causing hemolysis in G6PD deficiency and hyperkalemia"
+    },
+    {
+      "id": "D",
+      "text": "Sulfamethoxazole inhibits dihydrofolate reductase, causing megaloblastic anemia and hyperkalemia"
+    },
+    {
+      "id": "E",
+      "text": "Trimethoprim causes myelosuppression through mitochondrial toxicity that reverses only with G-CSF"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Trimethoprim inhibits bacterial dihydrofolate reductase and causes megaloblastic anemia, leukopenia, and granulocytopenia, which can be avoided by coadministering leucovorin (folinic acid); the mnemonic is that TMP Treats Marrow Poorly. At high doses it also causes hyperkalemia by a mechanism similar to potassium-sparing diuretics. Sulfonamides contribute the earlier blockade at dihydropteroate synthase, and this patient's CD4 count of 80 is the indication for TMP-SMX prophylaxis.",
+  "explanation_incorrect": {
+    "B": "Dose-independent aplastic anemia is chloramphenicol's idiosyncratic toxicity, and trimethoprim causes dose-related folate deficiency instead.",
+    "C": "Dihydropteroate synthase is the sulfonamide target, and G6PD-related hemolysis is a sulfonamide and dapsone toxicity rather than a trimethoprim effect.",
+    "D": "The enzymes are reversed: trimethoprim, not sulfamethoxazole, inhibits dihydrofolate reductase and is responsible for the hematologic and potassium effects.",
+    "E": "Linezolid causes myelosuppression through ribosomal and mitochondrial effects, whereas trimethoprim's marrow effect is folate-mediated and reverses with leucovorin."
+  },
+  "educationalObjective": "Trimethoprim causes megaloblastic anemia (prevented by leucovorin) and hyperkalemia at high doses; sulfonamides act at dihydropteroate synthase.",
+  "source": "Generated from 3. Microbiology.pdf - Antimicrobials: Sulfonamides and folate antagonist pathways"
+},
+{
+  "id": "micro-057",
+  "subject": "Microbiology",
+  "major_topic": "Antimicrobials",
+  "subtopic": "Sulfonamides and folate antagonist pathways",
+  "difficulty": "hard",
+  "vignette": "A 28-year-old woman at 38 weeks gestation presents in labor with a fever of 38.6 C and ruptured membranes for 18 hours. She is treated with antibiotics and delivers a jaundiced neonate 2 days later. The infant has a high indirect bilirubin and is at risk for kernicterus. The neonatology team reviews the list of drugs to avoid in pregnancy and in neonates.",
+  "question": "Which of the following drug classes is contraindicated in this setting because of kernicterus?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Fluoroquinolones"
+    },
+    {
+      "id": "B",
+      "text": "Tetracyclines"
+    },
+    {
+      "id": "C",
+      "text": "Chloramphenicol"
+    },
+    {
+      "id": "D",
+      "text": "Sulfonamides"
+    },
+    {
+      "id": "E",
+      "text": "Aminoglycosides"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Sulfonamides are among the antimicrobials to avoid in pregnancy because they cause kernicterus; they displace bilirubin from albumin and, in the neonate, permit bilirubin to cross into the basal ganglia. First Aid's pregnancy mnemonic groups sulfonamides for kernicterus, aminoglycosides for ototoxicity, fluoroquinolones for cartilage damage, clarithromycin as embryotoxic, tetracyclines for discolored teeth and inhibited bone growth, ribavirin and griseofulvin as teratogens, and chloramphenicol for gray baby syndrome.",
+  "explanation_incorrect": {
+    "A": "Fluoroquinolones are avoided in pregnancy and in children under 18 because of possible cartilage damage.",
+    "B": "Tetracyclines are avoided because they cause discolored teeth and inhibition of bone growth by chelating calcium.",
+    "C": "Chloramphenicol is avoided because it causes gray baby syndrome in premature infants lacking hepatic glucuronidation, not kernicterus.",
+    "E": "Aminoglycosides are avoided in pregnancy because of ototoxicity to the fetal eighth nerve, not because they cause kernicterus."
+  },
+  "educationalObjective": "Sulfonamides cause kernicterus and are avoided in pregnancy and the neonatal period; each antimicrobial on the pregnancy-avoid list has a distinct toxicity.",
+  "source": "Generated from 3. Microbiology.pdf - Antimicrobials: Sulfonamides and folate antagonist pathways"
+},
+{
+  "id": "micro-058",
+  "subject": "Microbiology",
+  "major_topic": "Antimicrobials",
+  "subtopic": "Sulfonamides and folate antagonist pathways",
+  "difficulty": "medium",
+  "vignette": "A 22-year-old man from Southeast Asia with a new diagnosis of lepromatous leprosy is treated with multidrug therapy. He develops darkening of the skin lesions, mild hemolytic anemia, and a methemoglobin level of 8%. He is G6PD deficient. The team reviews alternatives among folate-pathway agents, including dapsone, which is structurally related to sulfonamides.",
+  "question": "Which of the following best describes dapsone and its role?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It is a sulfonamide that inhibits dihydrofolate reductase and is used only for tuberculoid leprosy"
+    },
+    {
+      "id": "B",
+      "text": "Sulfonamide-like drug for leprosy that causes hemolysis and methemoglobinemia"
+    },
+    {
+      "id": "C",
+      "text": "It is a rifamycin that inhibits RNA polymerase and causes orange-red body fluids"
+    },
+    {
+      "id": "D",
+      "text": "It is a tetracycline derivative that causes photosensitivity and tooth discoloration"
+    },
+    {
+      "id": "E",
+      "text": "It is an antipseudomonal penicillin used with a beta-lactamase inhibitor for leprosy"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Dapsone is similar to sulfonamides in mechanism but structurally distinct; it is used for both lepromatous and tuberculoid leprosy, for Pneumocystis jirovecii prophylaxis, and in combination with trimethoprim for treatment. First Aid lists hemolysis in G6PD deficiency, methemoglobinemia, and agranulocytosis as its adverse effects. Long-term therapy for leprosy also includes rifampin, with clofazimine added for the lepromatous form.",
+  "explanation_incorrect": {
+    "A": "Dapsone is used for both lepromatous and tuberculoid leprosy, and its mechanism mirrors sulfonamides in the folate pathway rather than dihydrofolate reductase inhibition.",
+    "C": "Rifampin is the rifamycin used with dapsone in leprosy, and the orange secretions and RNA polymerase inhibition describe rifampin itself.",
+    "D": "Tetracyclines cause photosensitivity and tooth discoloration; dapsone's toxicity is hemolysis and methemoglobinemia.",
+    "E": "Antipseudomonal penicillins are irrelevant to leprosy, which is treated with dapsone, rifampin, and clofazimine."
+  },
+  "educationalObjective": "Dapsone is used for both tuberculoid and lepromatous leprosy and causes G6PD-related hemolysis, methemoglobinemia, and agranulocytosis.",
+  "source": "Generated from 3. Microbiology.pdf - Antimicrobials: Sulfonamides and folate antagonist pathways"
+}
+]

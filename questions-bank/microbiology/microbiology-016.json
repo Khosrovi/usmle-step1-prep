@@ -1,0 +1,166 @@
+[
+{
+  "id": "micro-059",
+  "subject": "Microbiology",
+  "major_topic": "Antimicrobials",
+  "subtopic": "Vancomycin and cell wall inhibitors",
+  "difficulty": "medium",
+  "vignette": "A 64-year-old man with MRSA bacteremia is receiving intravenous vancomycin. During the first infusion he develops flushing of the face, neck, and upper chest with pruritus and mild hypotension, but no urticaria and no wheezing. The infusion has been running at the standard rate for only 15 minutes.",
+  "question": "Which of the following best explains this reaction and its management?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Infusion-related histamine release; slow the rate and give antihistamines"
+    },
+    {
+      "id": "B",
+      "text": "A DRESS syndrome presenting within minutes because of prior sensitization"
+    },
+    {
+      "id": "C",
+      "text": "An aminoglycoside ototoxic effect, managed by audiometry before the next dose"
+    },
+    {
+      "id": "D",
+      "text": "Nephrotoxicity from accumulation of the drug in renal tubules, requiring immediate dialysis"
+    },
+    {
+      "id": "E",
+      "text": "IgE-mediated anaphylaxis requiring permanent discontinuation of all glycopeptides"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "This is the vancomycin infusion reaction, formerly called red man syndrome: diffuse flushing and pruritus from idiopathic histamine release driven by rapid infusion. It is not a true allergy, and it is largely preventable by pretreating with antihistamines and slowing the infusion rate. Vancomycin's other adverse effects are nephrotoxicity, ototoxicity, thrombophlebitis, and DRESS syndrome.",
+  "explanation_incorrect": {
+    "B": "DRESS syndrome is a delayed hypersensitivity reaction with rash, eosinophilia, and organ involvement that appears days to weeks after exposure, not within minutes.",
+    "C": "Ototoxicity is a complication of aminoglycosides or prolonged vancomycin use rather than an immediate flushing reaction during infusion.",
+    "D": "Nephrotoxicity from vancomycin is a cumulative renal effect that does not present as acute flushing and pruritus during the first minutes of an infusion.",
+    "E": "Because the mechanism is non-IgE histamine release, it does not mandate permanent discontinuation, and many patients tolerate the drug when it is infused more slowly."
+  },
+  "educationalObjective": "Vancomycin infusion reaction (red man syndrome) is histamine-mediated flushing prevented by slower infusion and antihistamine pretreatment, not a true allergy.",
+  "source": "Generated from 3. Microbiology.pdf - Antimicrobials: Vancomycin and cell wall inhibitors"
+},
+{
+  "id": "micro-060",
+  "subject": "Microbiology",
+  "major_topic": "Antimicrobials",
+  "subtopic": "Vancomycin and cell wall inhibitors",
+  "difficulty": "medium",
+  "vignette": "A 55-year-old woman has an Enterococcus faecium bloodstream infection. The laboratory reports that the isolate is resistant to vancomycin and that the resistance was acquired through a modified cell wall precursor. The team switches to linezolid. A medical student asks how vancomycin works and how resistance develops in enterococci.",
+  "question": "Which of the following best describes vancomycin's mechanism and the mechanism of resistance in enterococci?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Binds D-Ala-D-Ala; resistance modifies the target to D-Ala-D-Lac"
+    },
+    {
+      "id": "B",
+      "text": "It inhibits arabinosyltransferase; resistance arises from mutations in katG"
+    },
+    {
+      "id": "C",
+      "text": "It inhibits peptidyltransferase at the 50S subunit; resistance arises from a plasmid-encoded acetyltransferase"
+    },
+    {
+      "id": "D",
+      "text": "It binds penicillin-binding proteins and activates autolysins; resistance arises from an altered PBP target"
+    },
+    {
+      "id": "E",
+      "text": "It disrupts the cell membrane by forming pores; resistance arises from reduced ergosterol content"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Vancomycin inhibits cell wall peptidoglycan formation by binding the D-Ala-D-Ala portion of cell wall precursors, and it is bactericidal for most bacteria though bacteriostatic against C difficile. Vancomycin resistance occurs through amino acid modification of the target from D-Ala-D-Ala to D-Ala-D-Lac; the mnemonic is that if you lack a D-Ala (dollar), you can't ride the van (vancomycin). It is not susceptible to beta-lactamases.",
+  "explanation_incorrect": {
+    "B": "Arabinosyltransferase inhibition is ethambutol's mechanism, and katG mutations underlie isoniazid resistance.",
+    "C": "Peptidyltransferase inhibition at the 50S subunit is chloramphenicol's mechanism, and plasmid-encoded acetyltransferase is chloramphenicol's resistance mechanism.",
+    "D": "Binding penicillin-binding proteins and activating autolysins is the beta-lactam mechanism, and an altered PBP is the basis of MRSA resistance, not vancomycin resistance in enterococci.",
+    "E": "Pore formation in the cell membrane is how amphotericin B and nystatin bind ergosterol, a completely different target."
+  },
+  "educationalObjective": "Vancomycin binds D-Ala-D-Ala to block peptidoglycan cross-linking; VRE resistance modifies the target to D-Ala-D-Lac.",
+  "source": "Generated from 3. Microbiology.pdf - Antimicrobials: Vancomycin and cell wall inhibitors"
+},
+{
+  "id": "micro-061",
+  "subject": "Microbiology",
+  "major_topic": "Antimicrobials",
+  "subtopic": "Vancomycin and cell wall inhibitors",
+  "difficulty": "medium",
+  "vignette": "A 71-year-old hospitalized man develops watery diarrhea 6 days after receiving clindamycin for a dental infection. Stool studies confirm Clostridioides difficile toxin. He is treated with oral vancomycin, and the pharmacist explains why the oral route is chosen, noting that the drug is not absorbed and is only bacteriostatic against this organism.",
+  "question": "Which of the following best explains the use of oral vancomycin in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Oral vancomycin is used because it is bactericidal against anaerobes below the diaphragm"
+    },
+    {
+      "id": "B",
+      "text": "Oral vancomycin is preferred because it has no effect on normal colonic flora"
+    },
+    {
+      "id": "C",
+      "text": "Unabsorbed drug reaches high luminal colonic levels"
+    },
+    {
+      "id": "D",
+      "text": "Oral vancomycin is given to cover gram-negative rods in the gut that drive colitis"
+    },
+    {
+      "id": "E",
+      "text": "Oral vancomycin achieves high serum levels that sterilize the bloodstream in pseudomembranous colitis"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Vancomycin is used against gram-positive organisms only, and for C difficile the oral route is specified because the drug is not absorbed from the gut, so it reaches high concentrations in the colonic lumen where the organism resides. First Aid notes vancomycin is bactericidal against most bacteria but bacteriostatic against C difficile. Intravenous vancomycin is used for serious multidrug-resistant systemic infections such as MRSA and sensitive enterococci.",
+  "explanation_incorrect": {
+    "A": "The bactericidal anaerobic coverage below the diaphragm is metronidazole's niche, and vancomycin is actually bacteriostatic against C difficile.",
+    "B": "Vancomycin does alter colonic flora, which is part of why it is effective, and the claim of no effect on flora is the opposite of its action.",
+    "D": "Vancomycin has no gram-negative activity at all; it covers gram-positive bacteria including gram-positive anaerobes such as C difficile.",
+    "E": "Oral vancomycin is poorly absorbed, so it does not achieve the serum levels needed for bloodstream infection; systemic gram-positive infections require the intravenous route."
+  },
+  "educationalObjective": "Oral vancomycin is unabsorbed and acts in the colonic lumen against C difficile, for which it is bacteriostatic.",
+  "source": "Generated from 3. Microbiology.pdf - Antimicrobials: Vancomycin and cell wall inhibitors"
+},
+{
+  "id": "micro-062",
+  "subject": "Microbiology",
+  "major_topic": "Antimicrobials",
+  "subtopic": "Vancomycin and cell wall inhibitors",
+  "difficulty": "hard",
+  "vignette": "A 48-year-old woman with vancomycin-resistant Enterococcus faecium bacteremia from an infected central line has renal insufficiency, so the team wants to avoid nephrotoxic agents. They choose a lipopeptide that disrupts bacterial membranes and note that it would be inappropriate if she had pneumonia. The pharmacist asks how daptomycin differs from vancomycin and polymyxins in mechanism.",
+  "question": "Which of the following best describes daptomycin's mechanism of action and limitation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It binds D-Ala-D-Ala precursors of the cell wall and is inactivated by pulmonary surfactant"
+    },
+    {
+      "id": "B",
+      "text": "It binds ergosterol in the membrane and causes leakage of electrolytes, which is why it fails in pneumonia"
+    },
+    {
+      "id": "C",
+      "text": "It disrupts membranes of gram-negative organisms by binding phospholipids, acting as a polymyxin analog"
+    },
+    {
+      "id": "D",
+      "text": "It inhibits protein synthesis at the 50S subunit by blocking the initiation complex"
+    },
+    {
+      "id": "E",
+      "text": "Transmembrane channels; inactivated by surfactant"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Daptomycin is a lipopeptide that disrupts gram-positive coccal cell membranes by creating transmembrane channels, and it is used for S aureus skin infections especially MRSA, bacteremia, infective endocarditis, and VRE. It is not used for pneumonia because it avidly binds to and is inactivated by surfactant. It can cause myopathy and rhabdomyolysis, which is the basis of the mnemonic \"dapto-myo-skin.\"",
+  "explanation_incorrect": {
+    "A": "Binding D-Ala-D-Ala is vancomycin's cell wall mechanism; daptomycin acts on the membrane, and its surfactant inactivation is unrelated to cell wall binding.",
+    "B": "Ergosterol binding with electrolyte leakage is amphotericin B's antifungal mechanism; daptomycin targets bacterial membrane phospholipids rather than a sterol.",
+    "C": "Disrupting gram-negative membranes by binding phospholipids describes the polymyxins such as colistin and polymyxin B, which cover gram-negative organisms; daptomycin is gram-positive only.",
+    "D": "Blocking formation of the initiation complex at the 50S subunit is linezolid's mechanism, not daptomycin's."
+  },
+  "educationalObjective": "Daptomycin is a lipopeptide that creates transmembrane channels in gram-positive membranes, is inactivated by surfactant so is not used for pneumonia, and can cause myopathy.",
+  "source": "Generated from 3. Microbiology.pdf - Antimicrobials: Vancomycin and cell wall inhibitors"
+}
+]
