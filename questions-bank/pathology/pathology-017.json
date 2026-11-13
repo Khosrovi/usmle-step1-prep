@@ -1,0 +1,125 @@
+[
+{
+  "id": "path-055",
+  "subject": "Pathology",
+  "major_topic": "Inflammation",
+  "subtopic": "Complement in inflammation",
+  "difficulty": "easy",
+  "vignette": "A 26-year-old man with serous otitis media has aspirated middle ear fluid sent for analysis. A separate patient with sepsis has widespread edema and hypotension. In both settings complement activation generates small cleavage fragments that increase vascular permeability and attract leukocytes.",
+  "question": "Which of the following complement fragments are the anaphylatoxins that drive this vascular response?",
+  "options": [
+    {
+      "id": "A",
+      "text": "C3a and C5a"
+    },
+    {
+      "id": "B",
+      "text": "C1q and C1r"
+    },
+    {
+      "id": "C",
+      "text": "C3b and iC3b"
+    },
+    {
+      "id": "D",
+      "text": "C5b, C6, C7, and C8"
+    },
+    {
+      "id": "E",
+      "text": "C1 esterase inhibitor"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "C3a and C5a are the small complement cleavage fragments that act as anaphylatoxins, recruiting and activating inflammatory cells and increasing vascular permeability. C5a is specifically listed among the chemotactic factors that guide neutrophils through the interstitium to the site of injury, along with IL-8, leukotriene B4, 5-HETE, kallikrein, platelet-activating factor, and N-formylmethionyl peptides. This is why complement is named as one of the mediators of acute inflammation alongside histamine, prostaglandins, and mast cell products.",
+  "explanation_incorrect": {
+    "B": "C1q and C1r are the recognition components of the classical pathway and initiate the cascade rather than acting as diffusible anaphylatoxins.",
+    "C": "C3b and its breakdown product iC3b serve as opsonins that facilitate phagocytosis, not as anaphylatoxins.",
+    "D": "C5b through C8 assemble with multiple C9 molecules into the membrane attack complex, which forms a lytic pore.",
+    "E": "C1 esterase inhibitor is a regulatory protein that restrains the classical pathway; its deficiency causes hereditary angioedema."
+  },
+  "educationalObjective": "C3a and C5a are the complement anaphylatoxins, and C5a is also a neutrophil chemoattractant.",
+  "source": "Generated from 4. Pathology.pdf - Inflammation: Complement in inflammation"
+},
+{
+  "id": "path-056",
+  "subject": "Pathology",
+  "major_topic": "Inflammation",
+  "subtopic": "Complement in inflammation",
+  "difficulty": "medium",
+  "vignette": "A 7-year-old boy has had multiple episodes of Neisseria meningitidis bacteremia, and his serum complement testing reveals an inability to form the terminal complement complex. His opsonization capacity is normal, and his neutrophils function normally.",
+  "question": "Which of the following is the most likely consequence of this defect?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Failure to generate C3a and C5a, causing absent inflammation"
+    },
+    {
+      "id": "B",
+      "text": "Impaired opsonization of encapsulated bacteria by C3b"
+    },
+    {
+      "id": "C",
+      "text": "Loss of the C5b-9 membrane attack complex with failure of direct bacterial lysis"
+    },
+    {
+      "id": "D",
+      "text": "Uncontrolled C1 esterase activity causing episodic angioedema"
+    },
+    {
+      "id": "E",
+      "text": "Absent neutrophil NADPH oxidase activity"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "The terminal complement components C5b, C6, C7, C8, and multiple C9 molecules assemble into the C5b-9 membrane attack complex, which creates a pore that lyses target organisms. A defect confined to this terminal sequence leaves anaphylatoxin generation and C3b-mediated opsonization intact but abolishes direct lysis, which is why encapsulated organisms of the Neisseria genus cause recurrent invasive disease. The intact opsonization and normal neutrophil function described are what focus the defect on the lytic arm.",
+  "explanation_incorrect": {
+    "A": "C3a and C5a are produced upstream of the terminal components, and normal opsonization in this patient implies the cascade is functioning to at least C3.",
+    "B": "C3b opsonization is explicitly preserved here, so encapsulated organisms can still be phagocytosed even though they are not lysed.",
+    "D": "Hereditary angioedema reflects deficiency of C1 esterase inhibitor and presents with swelling rather than recurrent neisserial bacteremia.",
+    "E": "Oxidative burst failure would cause abscesses from catalase-positive organisms such as Staphylococcus aureus and Aspergillus, not recurrent meningococcemia."
+  },
+  "educationalObjective": "The C5b-9 membrane attack complex lyses targets directly, and terminal complement defects cause recurrent Neisseria infections despite intact opsonization.",
+  "source": "Generated from 4. Pathology.pdf - Inflammation: Complement in inflammation"
+},
+{
+  "id": "path-057",
+  "subject": "Pathology",
+  "major_topic": "Inflammation",
+  "subtopic": "Complement in inflammation",
+  "difficulty": "hard",
+  "vignette": "A 60-year-old woman is admitted with gram-negative sepsis and develops a purpuric rash with microthrombi on biopsy. A laboratory test measures her serum C-reactive protein, which is described as an opsonin that fixes complement and facilitates phagocytosis.",
+  "question": "Which of the following best describes the relationship between this acute-phase protein and complement in inflammation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "C-reactive protein is a complement component produced by the liver as part of the membrane attack complex"
+    },
+    {
+      "id": "B",
+      "text": "C-reactive protein is a nonspecific marker of ongoing inflammation that fixes complement and facilitates phagocytosis"
+    },
+    {
+      "id": "C",
+      "text": "C-reactive protein is an anaphylatoxin that increases vascular permeability"
+    },
+    {
+      "id": "D",
+      "text": "C-reactive protein is a negative acute-phase reactant whose concentration falls during inflammation"
+    },
+    {
+      "id": "E",
+      "text": "C-reactive protein is more specific than the erythrocyte sedimentation rate because it directly reflects the fibrinogen concentration"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "C-reactive protein is a positive acute-phase reactant produced by the liver, measured clinically as a nonspecific sign of ongoing inflammation. It acts as an opsonin that fixes complement and facilitates phagocytosis, which is exactly why it links the acute-phase response to the complement arm of innate immunity. The text also notes that CRP is more specific for inflammation than the ESR and that the two are often co-tested.",
+  "explanation_incorrect": {
+    "A": "CRP is not a component of the membrane attack complex, which is assembled from C5b through C9.",
+    "C": "The anaphylatoxins are the complement fragments C3a and C5a; CRP has no such vasoactive activity.",
+    "D": "CRP is a positive reactant that rises during inflammation, whereas albumin, transferrin, and transthyretin are the negatively regulated ones.",
+    "E": "CRP is indeed more specific for inflammation than ESR, but it does not reflect fibrinogen concentration directly; fibrinogen is the acute-phase reactant that correlates with the ESR."
+  },
+  "educationalObjective": "C-reactive protein is a positive acute-phase opsonin that fixes complement and serves as a nonspecific marker of ongoing inflammation.",
+  "source": "Generated from 4. Pathology.pdf - Inflammation: Complement in inflammation"
+}
+]

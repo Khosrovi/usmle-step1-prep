@@ -1,0 +1,207 @@
+[
+{
+  "id": "path-022",
+  "subject": "Pathology",
+  "major_topic": "Cellular Injury",
+  "subtopic": "Apoptosis vs necrosis",
+  "difficulty": "medium",
+  "vignette": "A 7-year-old boy develops a self-limited viral infection. During recovery, lymphocytes that have completed an immune response are cleared without any surrounding swelling or inflammation. Histology of a concurrently biopsied lymph node shows individual cells with deeply eosinophilic cytoplasm, condensed basophilic nuclei, and fragmented nuclei, with the cell membrane still intact. No neutrophils are present.",
+  "question": "Which of the following best describes this process?",
+  "options": [
+    {
+      "id": "A",
+      "text": "ATP-dependent programmed cell death without significant inflammation"
+    },
+    {
+      "id": "B",
+      "text": "Enzymatic degradation after plasma membrane damage with local inflammation"
+    },
+    {
+      "id": "C",
+      "text": "Ischemic necrosis with denaturation of enzymes and preserved cell outlines"
+    },
+    {
+      "id": "D",
+      "text": "Neutrophil-mediated liquefaction of tissue forming a cystic cavity"
+    },
+    {
+      "id": "E",
+      "text": "Irreversible injury with leakage of cytosolic enzymes into serum"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Apoptosis is ATP-dependent programmed cell death mediated by caspases and characterized by cell shrinkage, chromatin condensation, membrane blebbing, and formation of apoptotic bodies that are phagocytosed. The deeply eosinophilic cytoplasm, basophilic condensed nucleus, pyknosis, and karyorrhexis described here are the classic appearance, and because the membrane remains intact there is no significant inflammation. Withdrawal of a regulating factor such as IL-2 after a completed immunologic reaction is a classic trigger of the intrinsic apoptotic pathway.",
+  "explanation_incorrect": {
+    "A": "That description defines necrosis: exogenous injury damages the plasma membrane, intracellular components leak, and the cell undergoes enzymatic degradation with a local inflammatory reaction.",
+    "B": "Coagulative necrosis with preserved cell outlines is a response to ischemia in solid organs; it provokes inflammation and is not a programmed, membrane-limited process.",
+    "C": "Liquefactive necrosis is produced by neutrophils releasing lysosomal enzymes that digest tissue into debris and cavitation, which is not the picture of single dying cells with intact membranes.",
+    "E": "Troponin-style leakage of cytosolic enzymes follows plasma membrane breakdown in necrosis; an intact apoptotic membrane does not release cell contents."
+  },
+  "educationalObjective": "Apoptosis is ATP-dependent programmed cell death with an intact cell membrane, cell shrinkage, nuclear condensation, and apoptotic body formation, and it incites no significant inflammation.",
+  "source": "Generated from 4. Pathology.pdf - Cellular Injury: Apoptosis vs necrosis"
+},
+{
+  "id": "path-023",
+  "subject": "Pathology",
+  "major_topic": "Cellular Injury",
+  "subtopic": "Apoptosis vs necrosis",
+  "difficulty": "medium",
+  "vignette": "A 61-year-old man with a prior treated infection returns with painless cervical and axillary lymphadenopathy, hepatosplenomegaly, and immune thrombocytopenia with a low platelet count. He has no fever or night sweats. Biopsy of a lymph node shows a monotonous population of small B lymphocytes with coexpression of BCL2 protein by immunohistochemistry.",
+  "question": "Which of the following best explains the mechanism of his lymphadenopathy?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Loss of Fas-mediated apoptosis permitting survival of self-reacting lymphocytes"
+    },
+    {
+      "id": "B",
+      "text": "Overexpression of Bcl-2 preventing cytochrome c release and caspase activation"
+    },
+    {
+      "id": "C",
+      "text": "Defective perforin and granzyme B release from cytotoxic T cells"
+    },
+    {
+      "id": "D",
+      "text": "Enhanced Bax and Bak pore formation in the mitochondrial membrane"
+    },
+    {
+      "id": "E",
+      "text": "Coagulative necrosis of lymphocytes with preserved cell outlines"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Bcl-2 normally keeps the mitochondrial membrane impermeable and prevents cytochrome c release, thereby blocking caspase activation. In follicular lymphoma, the t(14;18) translocation causes Bcl-2 overexpression, so cytochrome c is not released, caspases are not activated, and the neoplastic lymphocytes fail to undergo apoptosis and accumulate. This is why BCL2 positivity in a lymph node is a classic finding and why the tumor cells survive despite their genetic damage.",
+  "explanation_incorrect": {
+    "A": "Defective Fas-FasL interaction causes autoimmune lymphoproliferative syndrome, which presents with lymphadenopathy, hepatosplenomegaly, and autoimmune cytopenias, but it reflects a failure of peripheral clonal deletion rather than t(14;18) Bcl-2 overexpression in a monoclonal B-cell population.",
+    "B": "Impaired perforin/granzyme B delivery is the defect in disorders such as familial hemophagocytic lymphohistiocytosis; it affects killing of target cells by cytotoxic T cells and natural killer cells, not lymph node accumulation of long-lived B cells.",
+    "C": "Bax and Bak are proapoptotic and form pores that promote cytochrome c release; such pore formation would increase, not prevent, apoptosis of the lymphocytes.",
+    "D": "Coagulative necrosis denotes ischemic enzymatic injury with loss of nuclei and inflammation, which does not describe the small monotonous lymphocytes seen here."
+  },
+  "educationalObjective": "Bcl-2 blocks cytochrome c release and caspase activation, and Bcl-2 overexpression from t(14;18) in follicular lymphoma prevents apoptosis and promotes tumorigenesis.",
+  "source": "Generated from 4. Pathology.pdf - Cellular Injury: Apoptosis vs necrosis"
+},
+{
+  "id": "path-024",
+  "subject": "Pathology",
+  "major_topic": "Cellular Injury",
+  "subtopic": "Apoptosis vs necrosis",
+  "difficulty": "medium",
+  "vignette": "A 30-year-old woman with autoimmune disease receives a monoclonal antibody that binds the Fas receptor (CD95) on activated T cells. Within hours she develops massive hepatic necrosis rather than the intended selective deletion of self-reactive lymphocytes. Her physicians explain that the antibody's effect mirrors the physiologic extrinsic apoptotic pathway in a tissue where apoptosis cannot be tolerated.",
+  "question": "Which of the following best describes the physiologic extrinsic pathway being mimicked?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Bax and Bak pore formation releasing cytochrome c"
+    },
+    {
+      "id": "B",
+      "text": "Perforin pore formation with granzyme B entry into the target cell"
+    },
+    {
+      "id": "C",
+      "text": "Ligand binding to a death receptor with caspase activation"
+    },
+    {
+      "id": "D",
+      "text": "Pyknosis and karyorrhexis after neutrophils release lysosomal enzymes"
+    },
+    {
+      "id": "E",
+      "text": "DNA laddering in multiples of 180 base pairs after lysosomal rupture"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "The extrinsic, or death receptor, pathway works through ligand-receptor interactions: FasL binding to Fas (CD95) or TNF-alpha binding to its receptor, followed by activation of executioner caspases and cellular breakdown. Fas-FasL interaction is necessary for thymic medullary negative selection, which deletes self-reactive T cells during development. Directly cross-linking Fas on a large population of activated T cells bypasses immune regulation and triggers widespread caspase activation, giving diffuse hepatic apoptosis.",
+  "explanation_incorrect": {
+    "B": "Bax and Bak pore formation is the intrinsic or mitochondrial pathway, which begins with cytochrome c release in response to radiation, toxins, or hypoxia rather than with a death receptor ligand.",
+    "C": "Perforin and granzyme B constitute the separate perforin/granzyme B pathway in which cytotoxic T cells and natural killer cells pore-form the target, not the Fas-FasL death receptor mechanism.",
+    "D": "Pyknosis and karyorrhexis are morphologic markers that accompany apoptosis, but the neutrophil-driven lysosomal enzymatic digestion described is liquefactive necrosis, not the extrinsic pathway.",
+    "E": "DNA laddering in multiples of about 180 base pairs is indeed a sensitive indicator of apoptosis, but it is a downstream measurement, and lysosomal rupture is a feature of necrosis rather than of the death receptor pathway."
+  },
+  "educationalObjective": "The extrinsic apoptotic pathway operates via ligand-receptor pairs such as FasL-Fas and TNF-alpha-TNF receptor, with Fas-FasL being essential for thymic medullary negative selection.",
+  "source": "Generated from 4. Pathology.pdf - Cellular Injury: Apoptosis vs necrosis"
+},
+{
+  "id": "path-025",
+  "subject": "Pathology",
+  "major_topic": "Cellular Injury",
+  "subtopic": "Apoptosis vs necrosis",
+  "difficulty": "medium",
+  "vignette": "A 50-year-old woman is started on a new medication and develops a widespread, severe blistering rash one week later. On biopsy, keratinocytes in the basal layer have sharply demarcated nuclei with intensely eosinophilic cytoplasm, and apoptotic bodies are scattered along the basal layer. Minimal inflammation is present. A pathologist calls this pattern of apoptotic cell death in the skin.",
+  "question": "Which of the following findings is most directly involved in this form of cell death?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Perforin and granzyme B released by cytotoxic cells"
+    },
+    {
+      "id": "B",
+      "text": "Activation of executioner caspases after cytochrome c release"
+    },
+    {
+      "id": "C",
+      "text": "Swelling of the entire epidermis with preserved cell outlines"
+    },
+    {
+      "id": "D",
+      "text": "Neutrophil infiltration with tissue digestion and cavitation"
+    },
+    {
+      "id": "E",
+      "text": "Cellular swelling from failure of the sodium/potassium ATPase"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Drug-induced apoptotic keratinocyte death, classically described in erythema multiforme and Stevens-Johnson-type reactions, proceeds by the intrinsic mitochondrial pathway triggered by injurious stimuli such as drugs and toxins. Bax and Bak form pores in the mitochondrial membrane, cytochrome c is released from the inner mitochondrial membrane into the cytoplasm, and caspases are activated to dismantle the cell. Caspases are cytosolic proteases and are the central executioners of all three apoptotic pathways.",
+  "explanation_incorrect": {
+    "A": "The perforin/granzyme B pathway is used by cytotoxic T cells and natural killer cells to kill virus-infected or tumor target cells, and the biopsy here shows minimal inflammation rather than a cytotoxic infiltrate.",
+    "C": "Swelling of cells with preserved outlines is the morphology of reversible injury and coagulative necrosis, the opposite of the shrinkage and fragmentation seen in apoptosis.",
+    "D": "Neutrophil infiltration with liquefactive tissue digestion describes necrosis, which provokes inflammation; the lack of inflammation here points to apoptosis.",
+    "E": "Failure of the sodium/potassium pump produces cellular swelling, the earliest sign of reversible injury, and does not lead to the apoptotic bodies described."
+  },
+  "educationalObjective": "All apoptotic pathways converge on caspase activation; in the intrinsic pathway Bax and Bak pores release cytochrome c from mitochondria to initiate the caspase cascade.",
+  "source": "Generated from 4. Pathology.pdf - Cellular Injury: Apoptosis vs necrosis"
+},
+{
+  "id": "path-026",
+  "subject": "Pathology",
+  "major_topic": "Cellular Injury",
+  "subtopic": "Apoptosis vs necrosis",
+  "difficulty": "medium",
+  "vignette": "A 21-year-old woman presents with symmetric lymphadenopathy, massive hepatosplenomegaly, and Coombs-positive hemolytic anemia with thrombocytopenia. Serum electrophoresis shows polyclonal immunoglobulin and there is no monoclonal band. Genetic testing demonstrates a defect in the Fas-FasL interaction.",
+  "question": "Which of the following best explains her findings?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Bcl-2 overexpression from a t(14;18) translocation"
+    },
+    {
+      "id": "B",
+      "text": "Failure of thymic medullary negative selection with self-reactive T cells"
+    },
+    {
+      "id": "C",
+      "text": "Deficiency of perforin with uncontrolled macrophage activation"
+    },
+    {
+      "id": "D",
+      "text": "Acute coagulative necrosis of the autoimmune cytopenias"
+    },
+    {
+      "id": "E",
+      "text": "Apoptotic fragmentation indicated by DNA laddering"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Autoimmune lymphoproliferative syndrome is caused by defective Fas-FasL interaction, which is normally required for thymic medullary negative selection and for peripheral clonal deletion. Failure of clonal deletion permits increased numbers of self-reacting lymphocytes to survive, producing lymphadenopathy, hepatosplenomegaly, and autoimmune cytopenias such as hemolytic anemia and thrombocytopenia. The polyclonal pattern here distinguishes this disorder from a clonal lymphoma.",
+  "explanation_incorrect": {
+    "A": "t(14;18) with Bcl-2 overexpression is the lesion of follicular lymphoma, which is a clonal B-cell neoplasm and typically shows a monoclonal population rather than the polyclonal expansion seen in this patient.",
+    "B": "Perforin deficiency impairs killing of infected cells, and macrophage activation syndromes do not require a Fas-FasL defect; this patient's disease is defined by failed receptor-mediated lymphocyte deletion.",
+    "D": "Coagulative necrosis is an ischemic injury pattern and has no relationship to the defective programmed cell death causing these lymphocyte accumulations.",
+    "E": "DNA laddering in multiples of 180 base pairs is a laboratory marker of apoptosis, not its cause, and it does not explain failure of clonal deletion."
+  },
+  "educationalObjective": "Defective Fas-FasL interaction causes autoimmune lymphoproliferative syndrome, with failure of clonal deletion leading to expanded self-reactive lymphocyte populations and autoimmune cytopenias.",
+  "source": "Generated from 4. Pathology.pdf - Cellular Injury: Apoptosis vs necrosis"
+}
+]

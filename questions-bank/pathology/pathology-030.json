@@ -1,0 +1,84 @@
+[
+{
+  "id": "path-099",
+  "subject": "Pathology",
+  "major_topic": "Cellular Injury",
+  "subtopic": "Ionizing radiation injury",
+  "difficulty": "medium",
+  "vignette": "A 58-year-old woman with breast cancer receives external beam radiation therapy to the breast and regional lymph nodes. During treatment she develops erythema of the overlying skin, and a complete blood count shows a falling white blood cell count and platelet count. She also notices hair loss over the treated area and intermittent diarrhea.",
+  "question": "Which of the following best explains why these particular tissues are affected?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Stem cells of rapidly regenerating tissues are most susceptible to radiation injury"
+    },
+    {
+      "id": "B",
+      "text": "Adipose tissue is the most radiosensitive tissue in the body"
+    },
+    {
+      "id": "C",
+      "text": "Mature neurons and cardiac myocytes are most susceptible to radiation"
+    },
+    {
+      "id": "D",
+      "text": "Only tissues with pre-existing fibrosis react to radiation"
+    },
+    {
+      "id": "E",
+      "text": "Radiation affects tissue only through direct DNA damage with no other mechanism"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Ionizing radiation damages DNA, including through double-strand breaks, and other cellular components both directly and indirectly by producing free radicals. The stem cells of rapidly regenerating tissues such as skin, bone marrow, the gastrointestinal tract, and the gonads are the most susceptible, which is why this patient developed skin erythema, cytopenias, hair loss, and diarrhea. Radiotherapy is still tolerable because cancer cells are damaged more than healthy cells: they have high replicative rates together with dysfunctional DNA repair mechanisms.",
+  "explanation_incorrect": {
+    "B": "Adipose tissue has low cell turnover and is not radiosensitive; the injured tissues here are those with rapid stem cell renewal.",
+    "C": "Mature neurons and cardiac myocytes are postmitotic and relatively radioresistant, in contrast with rapidly dividing stem cell populations.",
+    "D": "Radiation injury does not require pre-existing fibrosis; it produces localized inflammation and fibrosis as a late complication of significant exposure.",
+    "E": "Free radical production is a major indirect mechanism of ionizing radiation damage in addition to direct DNA injury, so the statement that there is no other mechanism is wrong."
+  },
+  "educationalObjective": "Stem cells of rapidly regenerating tissues such as skin, bone marrow, GI tract, and gonads are the most radiosensitive, and radiation damages cells both directly and via free radicals.",
+  "source": "Generated from 4. Pathology.pdf - Cellular Injury: Ionizing radiation injury"
+},
+{
+  "id": "path-100",
+  "subject": "Pathology",
+  "major_topic": "Cellular Injury",
+  "subtopic": "Ionizing radiation injury",
+  "difficulty": "medium",
+  "vignette": "A 34-year-old man is a worker at a nuclear reactor site during an accident involving a large, sudden whole-body release of radiation. He is brought in with severe nausea, vomiting, and diarrhea, widespread hair loss and skin erythema, a headache with confusion, and laboratory studies showing pancytopenia.",
+  "question": "Which of the following best describes this patient's condition and its long-term risk?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Acute radiation syndrome after whole-body high-dose exposure, with a risk of leukemia"
+    },
+    {
+      "id": "B",
+      "text": "Chronic localized radiation dermatitis with no systemic effects"
+    },
+    {
+      "id": "C",
+      "text": "Metastatic calcification from radiation-induced hypercalcemia"
+    },
+    {
+      "id": "D",
+      "text": "Caseous necrosis of the bone marrow with granuloma formation"
+    },
+    {
+      "id": "E",
+      "text": "Nephrogenic diabetes insipidus from radiation nephrocalcinosis"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Sudden whole-body exposure to a high dose of ionizing radiation produces acute radiation syndrome, with nausea, vomiting, diarrhea, hair loss, erythema, cytopenias, headache, and altered mental status, exactly the constellation this patient shows. Significant radiation exposure can also cause localized inflammation and fibrosis and predisposes to neoplasia, classically leukemia and thyroid cancer. The cytopenias reflect destruction of the radiosensitive bone marrow stem cells.",
+  "explanation_incorrect": {
+    "A": "Localized dermatitis does not account for the pancytopenia, diarrhea, and altered mental status of a whole-body exposure; those indicate a systemic syndrome.",
+    "B": "Metastatic calcification arises from hypercalcemia or hyperphosphatemia, as in primary hyperparathyroidism, sarcoidosis, or chronic kidney disease, not from radiation-induced injury.",
+    "D": "Caseous necrosis with granuloma formation follows infection with tuberculosis or systemic fungi, and radiation injures bone marrow cells directly rather than through caseation.",
+    "E": "Nephrogenic diabetes insipidus results from nephrocalcinosis of renal collecting ducts in metastatic calcification, which is not the mechanism of radiation injury described here."
+  },
+  "educationalObjective": "Acute radiation syndrome follows sudden whole-body high-dose exposure, with GI, skin, mucosal, and marrow toxicity, and long-term risk of neoplasia such as leukemia and thyroid cancer.",
+  "source": "Generated from 4. Pathology.pdf - Cellular Injury: Ionizing radiation injury"
+}
+]

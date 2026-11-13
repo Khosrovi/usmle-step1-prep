@@ -1,0 +1,125 @@
+[
+{
+  "id": "path-049",
+  "subject": "Pathology",
+  "major_topic": "Inflammation",
+  "subtopic": "Chronic inflammation",
+  "difficulty": "easy",
+  "vignette": "A 38-year-old woman has a 6-month history of a nonhealing ulcer at the gingival margin with a firm, indurated base. Biopsy shows a dense infiltrate of mononuclear cells with ongoing tissue destruction alongside new blood vessel formation and fibrosis.",
+  "question": "Which of the following cell types predominates in this lesion?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Macrophages, lymphocytes, and plasma cells"
+    },
+    {
+      "id": "B",
+      "text": "Neutrophils"
+    },
+    {
+      "id": "C",
+      "text": "Eosinophils"
+    },
+    {
+      "id": "D",
+      "text": "Mast cells and basophils"
+    },
+    {
+      "id": "E",
+      "text": "Platelets and erythrocytes"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Chronic inflammation is a prolonged response characterized by mononuclear infiltration, meaning macrophages, lymphocytes, and plasma cells, and it proceeds with simultaneous tissue destruction and repair including angiogenesis and fibrosis. Macrophages are the dominant cell type and their interaction with T cells sustains the process, with Th1 cells secreting interferon gamma for classical proinflammatory activation and Th2 cells secreting IL-4 and IL-13 for repair and anti-inflammatory activation. The mixed destruction and fibrosis in this ulcer is the morphologic signature of that dual process.",
+  "explanation_incorrect": {
+    "B": "Neutrophils characterize the transient, early acute response, which lasts minutes to days, whereas chronic inflammation is dominated by mononuclear cells.",
+    "C": "Eosinophils are prominent in parasitic infection and allergic disease rather than being the dominant cell of chronic inflammatory infiltrates.",
+    "D": "Mast cells and basophils are major sources of histamine in acute inflammation and are not the defining mononuclear cells of chronic inflammation.",
+    "E": "Platelets and erythrocytes participate in clot formation and hemostasis rather than forming the inflammatory infiltrate."
+  },
+  "educationalObjective": "Chronic inflammation is characterized by mononuclear infiltration of macrophages, lymphocytes, and plasma cells, with simultaneous destruction and repair.",
+  "source": "Generated from 4. Pathology.pdf - Inflammation: Chronic inflammation"
+},
+{
+  "id": "path-050",
+  "subject": "Pathology",
+  "major_topic": "Inflammation",
+  "subtopic": "Chronic inflammation",
+  "difficulty": "medium",
+  "vignette": "A 55-year-old man with chronic hepatitis C infection has had persistently elevated transaminases for 20 years. His liver biopsy shows portal mononuclear inflammation with fibrosis. His hepatologist explains that the ongoing inflammatory state itself carries a malignant risk.",
+  "question": "Which of the following best explains the increased cancer risk in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Chronic inflammation always resolves without sequelae after 10 years"
+    },
+    {
+      "id": "B",
+      "text": "Chronic inflammation causes amyloidosis only and has no association with malignancy"
+    },
+    {
+      "id": "C",
+      "text": "Chronic inflammation leads to neoplastic transformation, as in chronic hepatitis C progressing to hepatocellular carcinoma"
+    },
+    {
+      "id": "D",
+      "text": "Chronic inflammation reduces the risk of neoplastic transformation by increasing apoptosis"
+    },
+    {
+      "id": "E",
+      "text": "The risk is explained entirely by direct viral integration into p53 with no inflammatory contribution"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "The outcomes of chronic inflammation listed in the text include scarring, amyloidosis, and neoplastic transformation, with chronic hepatitis C infection progressing through chronic inflammation to hepatocellular carcinoma as the classic example. Helicobacter pylori infection progressing through chronic gastritis to gastric adenocarcinoma is the parallel example from the gastrointestinal tract. The mechanism is the sustained cycle of tissue destruction, regeneration, and fibrosis that accompanies prolonged inflammation.",
+  "explanation_incorrect": {
+    "A": "Chronic inflammation is by definition prolonged and does not spontaneously resolve in the way described; this patient still has active disease at 20 years.",
+    "B": "Amyloidosis is one outcome of chronic inflammation through prolonged serum amyloid A elevation, but the text explicitly also lists neoplastic transformation.",
+    "D": "Chronic inflammation is associated with increased rather than reduced neoplastic transformation.",
+    "E": "The teaching point in the text is the link between chronic inflammation and carcinoma, which would be undermined by attributing the entire risk to direct viral integration."
+  },
+  "educationalObjective": "Chronic inflammation can cause scarring, amyloidosis, and neoplastic transformation, as in hepatitis C leading to hepatocellular carcinoma.",
+  "source": "Generated from 4. Pathology.pdf - Inflammation: Chronic inflammation"
+},
+{
+  "id": "path-051",
+  "subject": "Pathology",
+  "major_topic": "Inflammation",
+  "subtopic": "Chronic inflammation",
+  "difficulty": "hard",
+  "vignette": "A research group studies how macrophages are instructed by T cells in a chronic inflammatory lesion. In one arm, macrophages show proinflammatory gene expression with enhanced microbial killing; in another arm, they express genes that favor repair and dampen inflammation.",
+  "question": "Which of the following cytokine pairs correctly matches each activation state?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Th1-derived IL-4 gives classical activation, whereas Th2-derived interferon gamma gives alternative activation"
+    },
+    {
+      "id": "B",
+      "text": "Both activation states are driven by IL-12 released from macrophages"
+    },
+    {
+      "id": "C",
+      "text": "Th1-derived interferon gamma gives classical proinflammatory activation, whereas Th2-derived IL-4 and IL-13 give alternative repair-oriented activation"
+    },
+    {
+      "id": "D",
+      "text": "Classical activation requires IL-10, and alternative activation requires TNF"
+    },
+    {
+      "id": "E",
+      "text": "Classical activation requires transforming growth factor beta, and alternative activation requires IL-6"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "The text pairs the two macrophage activation states with their T cell drivers: Th1 cells secrete interferon gamma, producing classical activation that is proinflammatory, and Th2 cells secrete IL-4 and IL-13, producing alternative activation that supports repair and is anti-inflammatory. The balance between these programs determines whether a chronic inflammatory lesion progressively destroys tissue or heals with fibrosis. IL-12 upstream drives the Th1 arm by promoting CD4+ T cell differentiation during granuloma formation.",
+  "explanation_incorrect": {
+    "A": "The cytokines are assigned backwards here; IL-4 comes from Th2 cells and interferon gamma from Th1 cells.",
+    "B": "IL-12 is produced by antigen-presenting cells and drives Th1 differentiation rather than directly specifying either macrophage program.",
+    "D": "IL-10 is a resolving cytokine that dampens inflammation, while TNF is a proinflammatory product of activated macrophages rather than an inducer of alternative activation.",
+    "E": "TGF-beta supports fibrosis and angiogenesis, and IL-6 drives the hepatic acute-phase response; neither defines classical or alternative activation."
+  },
+  "educationalObjective": "Th1 interferon gamma drives classical proinflammatory macrophage activation, while Th2 IL-4 and IL-13 drive alternative repair-oriented activation.",
+  "source": "Generated from 4. Pathology.pdf - Inflammation: Chronic inflammation"
+}
+]

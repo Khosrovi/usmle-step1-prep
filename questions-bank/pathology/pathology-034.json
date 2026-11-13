@@ -1,0 +1,166 @@
+[
+{
+  "id": "path-112",
+  "subject": "Pathology",
+  "major_topic": "Neoplasia",
+  "subtopic": "Tumor markers and liquid biopsy",
+  "difficulty": "medium",
+  "vignette": "A 62-year-old man with a 40-pack-year smoking history and known cirrhosis from chronic hepatitis B presents with weight loss and a new right upper quadrant mass. Serum alpha-fetoprotein is 1,200 ng/mL. Liver biopsy confirms hepatocellular carcinoma. His oncologist orders serial alpha-fetoprotein levels to follow therapy.",
+  "question": "Which of the following statements about his tumor marker is most accurate?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Alpha-fetoprotein is the definitive diagnostic test for hepatocellular carcinoma and biopsy is unnecessary"
+    },
+    {
+      "id": "B",
+      "text": "Alpha-fetoprotein is produced by syncytiotrophoblasts of the placenta"
+    },
+    {
+      "id": "C",
+      "text": "Alpha-fetoprotein that is abnormally low in a pregnant woman suggests a neural tube defect"
+    },
+    {
+      "id": "D",
+      "text": "Alpha-fetoprotein is also elevated in endodermal sinus tumors and mixed germ cell tumors and is normally made by the fetus"
+    },
+    {
+      "id": "E",
+      "text": "Alpha-fetoprotein is a specific marker for pancreatic adenocarcinoma"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Alpha-fetoprotein is associated with hepatocellular carcinoma, endodermal sinus (yolk sac) tumor, and mixed germ cell tumors, and it can also be elevated in ataxia-telangiectasia. It is normally made by the fetus and is transiently elevated in pregnancy. In pregnancy, high levels are associated with neural tube and abdominal wall defects, and low levels with Down syndrome; in adults it is used to monitor recurrence and treatment response rather than as a primary diagnostic tool.",
+  "explanation_incorrect": {
+    "A": "Tumor markers should never be the primary tool for cancer diagnosis or screening; definitive diagnosis is made by biopsy.",
+    "C": "The relationship is inverted: abnormally low alpha-fetoprotein in pregnancy is associated with Down syndrome, whereas high levels suggest neural tube defects.",
+    "E": "Pancreatic adenocarcinoma is associated with CA 19-9 and CEA, not alpha-fetoprotein.",
+    "B": "Syncytiotrophoblasts of the placenta produce human chorionic gonadotropin, not alpha-fetoprotein."
+  },
+  "educationalObjective": "AFP marks hepatocellular carcinoma and yolk sac tumors; in pregnancy high levels indicate neural tube defects and low levels indicate Down syndrome.",
+  "source": "Generated from 4. Pathology.pdf - Neoplasia: Tumor markers and liquid biopsy"
+},
+{
+  "id": "path-113",
+  "subject": "Pathology",
+  "major_topic": "Neoplasia",
+  "subtopic": "Tumor markers and liquid biopsy",
+  "difficulty": "medium",
+  "vignette": "A 56-year-old woman completes resection and adjuvant chemotherapy for a stage III colon adenocarcinoma. Her oncologist orders a serum tumor marker that was elevated preoperatively to follow her for recurrence. Another patient in the clinic has a pancreatic head mass and is being monitored with the same category of marker. A third patient is being followed for breast cancer.",
+  "question": "Which of the following correctly pairs tumor markers with their classic associations?",
+  "options": [
+    {
+      "id": "A",
+      "text": "CEA for colorectal and pancreatic cancer, CA 19-9 for pancreatic adenocarcinoma, and CA 15-3 for breast cancer"
+    },
+    {
+      "id": "B",
+      "text": "CA 19-9 for breast cancer and CA 15-3 for pancreatic adenocarcinoma"
+    },
+    {
+      "id": "C",
+      "text": "CA 125 for colorectal cancer and CEA for epithelial ovarian cancer"
+    },
+    {
+      "id": "D",
+      "text": "Calcitonin for colorectal cancer and CEA for medullary thyroid carcinoma only"
+    },
+    {
+      "id": "E",
+      "text": "Beta-hCG for colorectal cancer and CA 125 for pancreatic cancer"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "CEA (carcinoembryonic antigen) is associated with colorectal and pancreatic cancers, with minor associations in gastric, breast, and medullary thyroid carcinomas, and it is very nonspecific. CA 19-9 marks pancreatic adenocarcinoma and CA 15-3 (with CA 27-29) marks breast cancer. CA 125 is the marker for epithelial ovarian cancer, so pairing it with the colonic and pancreatic cases would be a misassignment.",
+  "explanation_incorrect": {
+    "B": "Both are misplaced; CA 19-9 belongs to pancreatic adenocarcinoma and CA 15-3 to breast cancer.",
+    "D": "Calcitonin is the marker for medullary thyroid carcinoma, while CEA has broader associations including colorectal and pancreatic cancer, so both halves of the statement are wrong.",
+    "E": "Beta-hCG marks gestational trophoblastic disease, testicular cancer, and mixed germ cell tumors, while CA 125 marks ovarian rather than pancreatic cancer.",
+    "C": "The two markers are swapped; CA 125 is for epithelial ovarian cancer and CEA for colorectal pancreatic tumors."
+  },
+  "educationalObjective": "CEA: colorectal/pancreatic; CA 19-9: pancreatic; CA 15-3: breast; CA 125: epithelial ovarian.",
+  "source": "Generated from 4. Pathology.pdf - Neoplasia: Tumor markers and liquid biopsy"
+},
+{
+  "id": "path-114",
+  "subject": "Pathology",
+  "major_topic": "Neoplasia",
+  "subtopic": "Tumor markers and liquid biopsy",
+  "difficulty": "hard",
+  "vignette": "A 70-year-old man with advanced non-small cell lung cancer undergoes treatment with a targeted tyrosine kinase inhibitor. His oncologist obtains a blood sample to detect EGFR mutations and to track tumor burden noninvasively, avoiding a repeat biopsy. A separate sample is used to monitor his colorectal cancer history after treatment.",
+  "question": "Which of the following best describes the technique described and its limitations?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Liquid biopsy is a tissue-based method requiring a core needle biopsy specimen"
+    },
+    {
+      "id": "B",
+      "text": "Liquid biopsy uses circulating tumor DNA, RNA, or circulating tumor cells in body fluids for profiling, treatment monitoring, and surveillance"
+    },
+    {
+      "id": "C",
+      "text": "Liquid biopsy is used only to measure serum LDH as a marker of tumor burden"
+    },
+    {
+      "id": "D",
+      "text": "Liquid biopsy replaces the need for confirmatory pathology in all solid tumors"
+    },
+    {
+      "id": "E",
+      "text": "Liquid biopsy detects circulating tumor cells only after the primary tumor has been resected"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Liquid biopsy is a noninvasive diagnostic test performed on body fluids such as blood or urine, using circulating tumor DNA, circulating tumor RNA, or circulating tumor cells. It supports cancer profiling such as EGFR testing in lung cancer, treatment monitoring, and post-treatment surveillance such as in colorectal cancer, and it aids early metastatic detection and personalized therapy. It is still supplementary to tissue diagnosis and molecular confirmation.",
+  "explanation_incorrect": {
+    "C": "LDH serves as an indicator of tumor burden in germ cell tumors and other cancers, but liquid biopsy refers to circulating tumor material, not to LDH measurement.",
+    "D": "Definitive diagnosis is still made by biopsy with histopathology, and liquid biopsy does not replace that requirement.",
+    "E": "Circulating tumor cells can be detected while the primary tumor is present and are used to aid early metastatic detection, so resection is not a prerequisite.",
+    "A": "That describes conventional tissue biopsy; liquid biopsy is by definition performed on body fluids rather than on a tissue core."
+  },
+  "educationalObjective": "Liquid biopsy analyzes ctDNA, ctRNA, or circulating tumor cells in body fluids for profiling, monitoring, and surveillance.",
+  "source": "Generated from 4. Pathology.pdf - Neoplasia: Tumor markers and liquid biopsy"
+},
+{
+  "id": "path-115",
+  "subject": "Pathology",
+  "major_topic": "Neoplasia",
+  "subtopic": "Tumor markers and liquid biopsy",
+  "difficulty": "medium",
+  "vignette": "A 58-year-old man presents with urinary hesitancy and nocturia, and his prostate is enlarged and nodular on digital rectal examination. Serum prostate-specific antigen is 9 ng/mL. Transrectal ultrasound-guided biopsy shows benign prostatic hyperplasia and focal prostatitis with no evidence of carcinoma. His brother asks whether the elevated PSA proves cancer.",
+  "question": "Which of the following statements about prostate-specific antigen is most accurate?",
+  "options": [
+    {
+      "id": "A",
+      "text": "PSA is elevated only in prostatic adenocarcinoma and is therefore diagnostic"
+    },
+    {
+      "id": "B",
+      "text": "PSA is produced by syncytiotrophoblasts and rises with gestational trophoblastic disease"
+    },
+    {
+      "id": "C",
+      "text": "PSA is the marker for medullary thyroid carcinoma and its specificity for prostate cancer is high"
+    },
+    {
+      "id": "D",
+      "text": "PSA is a serum antibody directed against prostatic epithelial cells and disappears after treatment"
+    },
+    {
+      "id": "E",
+      "text": "PSA is also elevated in benign prostatic hyperplasia and prostatitis, screening risk/benefit is questionable, and it is chiefly used to monitor recurrence after treatment"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Prostate-specific antigen is elevated in prostate cancer but also in benign prostatic hyperplasia and prostatitis, which is why it cannot be interpreted as a diagnostic result on its own. The risk/benefit of PSA-based screening is questionable because of overdiagnosis, and its most established use is as a marker of recurrence after treatment. Definitive diagnosis requires biopsy and histologic confirmation.",
+  "explanation_incorrect": {
+    "A": "Elevations in benign prostatic hyperplasia and prostatitis mean PSA cannot distinguish cancer from non-neoplastic causes by itself.",
+    "B": "Syncytiotrophoblastic production of human chorionic gonadotropin occurs in hydatidiform moles and choriocarcinomas, not with PSA.",
+    "C": "Medullary thyroid carcinoma is marked by calcitonin and CEA, and PSA is a prostate antigen rather than a thyroid marker.",
+    "D": "PSA is a serine protease antigen produced by prostatic epithelium, not an antibody, and its usefulness as a recurrence marker assumes it falls after definitive therapy."
+  },
+  "educationalObjective": "PSA rises in BPH and prostatitis as well as prostate cancer; it is best used for monitoring recurrence, not as a standalone screen.",
+  "source": "Generated from 4. Pathology.pdf - Neoplasia: Tumor markers and liquid biopsy"
+}
+]

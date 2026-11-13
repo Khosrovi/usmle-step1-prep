@@ -1,0 +1,166 @@
+[
+{
+  "id": "path-075",
+  "subject": "Pathology",
+  "major_topic": "Neoplasia",
+  "subtopic": "Hallmarks of cancer",
+  "difficulty": "medium",
+  "vignette": "A 58-year-old man with metastatic melanoma is treated with an immune checkpoint inhibitor. His tumor cells strongly express a ligand for an inhibitory receptor on tumor-infiltrating T cells, and the drug blocks that interaction.",
+  "question": "Which mechanism of immune evasion is being targeted?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Loss of MHC class I expression by tumor cells"
+    },
+    {
+      "id": "B",
+      "text": "Secretion of TGF-beta with recruitment of regulatory T cells"
+    },
+    {
+      "id": "C",
+      "text": "Reactivation of telomerase in tumor cells"
+    },
+    {
+      "id": "D",
+      "text": "Engagement of PD-1 on T cells by tumor PD-L1"
+    },
+    {
+      "id": "E",
+      "text": "Autocrine activation of growth factor receptors"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Tumor cells upregulate immune checkpoint molecules that dampen T-cell responses. Binding of PD-L1 on tumor cells to PD-1 on T cells causes T-cell dysfunction and exhaustion, which antibodies against PD-1 (nivolumab, pembrolizumab, cemiplimab) or PD-L1 (atezolizumab, durvalumab, avelumab) block. This is a distinct immune-evasion mechanism from antigen-presentation loss.",
+  "explanation_incorrect": {
+    "A": "Reduced MHC class I expression prevents cytotoxic T cells from recognizing tumor cells, but it is not reversed by checkpoint blockade.",
+    "B": "Secreting TGF-beta and recruiting regulatory T cells is a separate immunosuppressive strategy that checkpoint inhibitors do not directly target.",
+    "C": "Telomerase reactivation supports limitless replicative potential and is unrelated to immune surveillance.",
+    "E": "Autocrine growth factor signaling drives growth signal self-sufficiency, one of the proliferative hallmarks, not immune evasion."
+  },
+  "educationalObjective": "PD-L1 on tumor cells engaging PD-1 on T cells causes exhaustion; anti-PD-1/PD-L1 antibodies restore T-cell function.",
+  "source": "Generated from 4. Pathology.pdf - Neoplasia: Hallmarks of cancer"
+},
+{
+  "id": "path-076",
+  "subject": "Pathology",
+  "major_topic": "Neoplasia",
+  "subtopic": "Hallmarks of cancer",
+  "difficulty": "medium",
+  "vignette": "A 45-year-old woman has a high-grade glioma. Molecular studies show that the tumor cells have reactivated telomerase, and imaging shows a large, highly vascular mass with leaky, dilated vessels.",
+  "question": "Reactivation of telomerase in this tumor most directly contributes to which hallmark of cancer?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Sustained angiogenesis"
+    },
+    {
+      "id": "B",
+      "text": "Limitless replicative potential"
+    },
+    {
+      "id": "C",
+      "text": "Tissue invasion and metastasis"
+    },
+    {
+      "id": "D",
+      "text": "Genomic instability"
+    },
+    {
+      "id": "E",
+      "text": "Evasion of growth suppressors"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Reactivation of telomerase maintains and lengthens telomeres, preventing chromosome shortening and cellular senescence, which confers limitless replicative potential. Normal somatic cells progressively shorten their telomeres with each division and eventually arrest. This is why telomerase reactivation is a hallmark of most cancers and a target of cancer vaccine strategies.",
+  "explanation_incorrect": {
+    "A": "Angiogenesis depends on increased pro-angiogenic factors such as VEGF or decreased inhibitors, not on telomere maintenance.",
+    "C": "Invasion requires loss of E-cadherin and metalloproteinase activity, which is independent of telomerase status.",
+    "D": "Genomic instability arises from defective DNA repair and checkpoint loss, not from telomerase reactivation itself.",
+    "E": "Evading growth suppressors requires loss of tumor suppressor function such as RB or TP53, not telomere elongation."
+  },
+  "educationalObjective": "Telomerase reactivation prevents telomere shortening and crisis, granting limitless replicative potential.",
+  "source": "Generated from 4. Pathology.pdf - Neoplasia: Hallmarks of cancer"
+},
+{
+  "id": "path-077",
+  "subject": "Pathology",
+  "major_topic": "Neoplasia",
+  "subtopic": "Hallmarks of cancer",
+  "difficulty": "hard",
+  "vignette": "A 67-year-old man has a pancreatic adenocarcinoma. The tumor cells are found to shift glucose metabolism away from mitochondrial oxidative phosphorylation toward glycolysis, even though oxygen is plentiful, and the tumor microenvironment is acidic.",
+  "question": "This metabolic reprogramming is best described as which of the following?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The Warburg effect"
+    },
+    {
+      "id": "B",
+      "text": "Activation of the Cori cycle"
+    },
+    {
+      "id": "C",
+      "text": "Hepatic ketogenesis"
+    },
+    {
+      "id": "D",
+      "text": "Hepatic gluconeogenesis"
+    },
+    {
+      "id": "E",
+      "text": "Oxidative burst"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "The Warburg effect is the shift of glucose metabolism from oxidative phosphorylation to glycolysis even in the presence of oxygen. Aerobic glycolysis supplies rapidly dividing cancer cells with the carbon skeletons needed to synthesize cellular structures, and it produces increased lactic acid, which contributes to the acidic microenvironment. This metabolic hallmark supports biosynthesis rather than maximal ATP yield.",
+  "explanation_incorrect": {
+    "B": "The Cori cycle describes the recycling of lactate from peripheral tissue to hepatic gluconeogenesis, not a cancer-specific metabolic shift.",
+    "C": "Ketogenesis is hepatic production of ketone bodies during fasting and has no role in this tumor's phenotype.",
+    "D": "Gluconeogenesis is the synthesis of glucose from non-carbohydrate precursors and does not describe intratumoral glucose handling.",
+    "E": "An oxidative burst refers to reactive oxygen species generation by phagocytes during inflammation, not to tumor metabolism."
+  },
+  "educationalObjective": "The Warburg effect is aerobic glycolysis: glycolysis despite oxygen, providing biosynthetic carbon and increased lactate.",
+  "source": "Generated from 4. Pathology.pdf - Neoplasia: Hallmarks of cancer"
+},
+{
+  "id": "path-078",
+  "subject": "Pathology",
+  "major_topic": "Neoplasia",
+  "subtopic": "Hallmarks of cancer",
+  "difficulty": "medium",
+  "vignette": "A 61-year-old man with a colorectal carcinoma and hepatic metastases is being discussed at tumor board. The resident is asked to place the tumor's molecular features into the accepted hallmarks of cancer.",
+  "question": "Which of the following best matches a hallmark of cancer with its mechanism?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Sustained angiogenesis due to loss of E-cadherin function"
+    },
+    {
+      "id": "B",
+      "text": "Immune evasion due to reactivation of telomerase enzyme"
+    },
+    {
+      "id": "C",
+      "text": "Evasion of apoptosis due to pro-angiogenic factor excess"
+    },
+    {
+      "id": "D",
+      "text": "Autocrine growth loops from extra growth factor receptors"
+    },
+    {
+      "id": "E",
+      "text": "Limitless replicative potential due to lost contact inhibition"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Growth signal self-sufficiency results from mutations that convert proto-oncogenes into oncogenes, affecting growth factors, growth factor receptors (eg, HER2), signaling molecules (eg, RAS), transcription factors (eg, MYC), or cell cycle regulators such as cyclins and CDKs. Mutation of a single allele can suffice. Each hallmark has a specific mechanistic route, and this pairing is correct.",
+  "explanation_incorrect": {
+    "A": "Sustained angiogenesis reflects increased VEGF or decreased anti-angiogenic factors, not loss of E-cadherin, which drives invasion.",
+    "B": "Immune evasion involves reduced MHC class I, immunosuppressive cytokines, regulatory T cells, and checkpoint molecules, not telomerase.",
+    "C": "Evasion of apoptosis follows mutation of apoptosis regulators such as TP53 or overexpression of BCL2, not angiogenic factors.",
+    "E": "Lost contact inhibition following E-cadherin loss belongs to anti-growth signal insensitivity, not to replicative immortality."
+  },
+  "educationalObjective": "Growth signal self-sufficiency comes from proto-oncogene activation; each other hallmark has its own distinct mechanism.",
+  "source": "Generated from 4. Pathology.pdf - Neoplasia: Hallmarks of cancer"
+}
+]

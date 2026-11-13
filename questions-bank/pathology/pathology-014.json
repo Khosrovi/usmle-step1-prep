@@ -1,0 +1,125 @@
+[
+{
+  "id": "path-046",
+  "subject": "Pathology",
+  "major_topic": "Neoplasia",
+  "subtopic": "Chemotherapy principles and tumor lysis",
+  "difficulty": "medium",
+  "vignette": "A 34-year-old man with newly diagnosed Burkitt lymphoma and bulky abdominal disease begins induction chemotherapy. Forty-eight hours later he develops oliguria, muscle cramps, and paresthesias. Laboratory studies show potassium 6.4 mEq/L, phosphate 7.8 mg/dL, calcium 7.2 mg/dL, uric acid 11 mg/dL, and creatinine rising from 0.9 to 2.6 mg/dL.",
+  "question": "Which of the following best explains this complication and its classic electrolyte pattern?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Syndrome of inappropriate antidiuretic hormone secretion producing the hyperkalemia"
+    },
+    {
+      "id": "B",
+      "text": "Tumor lysis syndrome with hypokalemia, hypophosphatemia, hypercalcemia, and hypouricemia"
+    },
+    {
+      "id": "C",
+      "text": "Acute tubular necrosis from direct nephrotoxicity of the chemotherapy alone, with hypercalcemia as the hallmark"
+    },
+    {
+      "id": "D",
+      "text": "Tumor lysis syndrome with hyperkalemia, hyperphosphatemia, hypocalcemia, and hyperuricemia from massive tumor cell destruction"
+    },
+    {
+      "id": "E",
+      "text": "Paraneoplastic ectopic ACTH secretion causing hyperuricemia"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Tumor lysis syndrome follows rapid destruction of a large tumor burden, classically after starting chemotherapy in bulky Burkitt lymphoma. Intracellular contents spill into the circulation, producing hyperkalemia, hyperphosphatemia, secondary hypocalcemia as phosphate binds calcium, and hyperuricemia from nucleic acid breakdown. The uric acid and calcium phosphate crystals cause acute kidney injury with oliguria and rising creatinine.",
+  "explanation_incorrect": {
+    "B": "This reverses every electrolyte direction; tumor lysis causes hyperkalemia, hyperphosphatemia, hypocalcemia, and hyperuricemia.",
+    "C": "The pattern here is a full tumor lysis constellation rather than isolated drug nephrotoxicity, and hypercalcemia is the opposite of the expected hypocalcemia.",
+    "E": "Ectopic ACTH produces hypercortisolism, and while hypercortisolism can raise uric acid slightly, it does not generate this rapid electrolyte constellation.",
+    "A": "SIADH causes euvolemic hypotonic hyponatremia and does not account for hyperkalemia, hyperuricemia, or hyperphosphatemia."
+  },
+  "educationalObjective": "Tumor lysis syndrome causes hyperkalemia, hyperphosphatemia, hypocalcemia, and hyperuricemia with acute kidney injury.",
+  "source": "Generated from 4. Pathology.pdf - Neoplasia: Chemotherapy principles and tumor lysis"
+},
+{
+  "id": "path-047",
+  "subject": "Pathology",
+  "major_topic": "Neoplasia",
+  "subtopic": "Chemotherapy principles and tumor lysis",
+  "difficulty": "hard",
+  "vignette": "A 58-year-old woman with metastatic ovarian carcinoma is started on paclitaxel, a taxane that acts during mitosis. A second patient with a slow-growing, low-fraction-growth lymphoma is started on an alkylating agent. Her oncologist explains that drug selection depends on how the tumor's cells are distributed through the cell cycle as well as on the fraction of cells actively dividing.",
+  "question": "Which of the following best describes the principle being applied?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Cell-cycle specificity is determined solely by the route of administration of the drug"
+    },
+    {
+      "id": "B",
+      "text": "Cell-cycle-nonspecific agents kill only cells arrested in G0 and spare proliferating cells"
+    },
+    {
+      "id": "C",
+      "text": "Chemotherapeutic agents are equally effective regardless of a tumor's growth fraction"
+    },
+    {
+      "id": "D",
+      "text": "Slow-growing tumors with a low growth fraction respond best to cell-cycle-specific agents"
+    },
+    {
+      "id": "E",
+      "text": "Cell-cycle-specific agents act on cells in a particular phase and are most useful against tumors with a high growth fraction"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Cell-cycle-specific agents act on cells traversing a particular phase of the cycle, so their activity depends on the fraction of cells actively dividing; tumors with a high growth fraction are therefore most responsive. Cell-cycle-nonspecific agents such as alkylating agents can kill cells in any phase, including resting cells, and are less dependent on growth fraction. This distinction underlies the use of taxanes in rapidly dividing tumors and of alkylators where many cells are not cycling.",
+  "explanation_incorrect": {
+    "B": "The distinction is reversed; cell-cycle-nonspecific agents act across all phases including G0 rather than exclusively on resting cells.",
+    "C": "Growth fraction is a central determinant of chemotherapeutic response, which is why kinetic considerations guide regimen choice.",
+    "D": "Cell-cycle-specific agents depend on cells cycling through a target phase, so tumors with a high growth fraction rather than a low one respond best.",
+    "A": "Cell-cycle specificity is an intrinsic property of the drug's mechanism of action, not a function of how it is administered."
+  },
+  "educationalObjective": "Cell-cycle-specific agents act in a particular phase and work best against tumors with a high growth fraction; nonspecific agents act in any phase.",
+  "source": "Generated from 4. Pathology.pdf - Neoplasia: Chemotherapy principles and tumor lysis"
+},
+{
+  "id": "path-048",
+  "subject": "Pathology",
+  "major_topic": "Neoplasia",
+  "subtopic": "Chemotherapy principles and tumor lysis",
+  "difficulty": "medium",
+  "vignette": "A 66-year-old woman with metastatic ovarian carcinoma has an initial response to chemotherapy, but after several cycles her tumor begins to grow again despite continued treatment. Biopsy of a progressive lesion shows increased expression of an ATP-dependent efflux pump on the tumor cell membranes. Her oncologist refers to this as acquired multidrug resistance.",
+  "question": "Which of the following best explains this phenomenon?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Reduced expression of the efflux pump increases intracellular drug concentrations over time"
+    },
+    {
+      "id": "B",
+      "text": "Tumor cells activate p53, which exports drugs from the cytoplasm"
+    },
+    {
+      "id": "C",
+      "text": "P-glycoprotein, also called multidrug resistance protein 1, pumps chemotherapeutic agents out of cancer cells"
+    },
+    {
+      "id": "D",
+      "text": "Increased MHC class I expression allows T cells to pump drugs out of tumor cells"
+    },
+    {
+      "id": "E",
+      "text": "The tumor becomes resistant only by acquiring new oncogene amplifications that directly degrade the drug"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "P-glycoprotein, also called multidrug resistance protein 1 (MDR1), is an ATP-dependent efflux pump expressed by some cancer cells to pump out toxins, including chemotherapeutic agents. Its expression is one mechanism of decreased responsiveness or resistance to chemotherapy over time. This explains the pattern of initial response followed by progression despite continued therapy.",
+  "explanation_incorrect": {
+    "B": "p53 is a transcription factor and tumor suppressor that activates p21 to block the G1-to-S transition; it is not a drug efflux pump.",
+    "D": "MHC class I expression is relevant to cytotoxic T-cell recognition and has no role in drug efflux.",
+    "E": "The classic mechanism described is an ATP-dependent efflux pump that lowers intracellular drug concentration, not direct drug degradation.",
+    "A": "Decreased efflux activity would increase intracellular drug and restore sensitivity, which is the opposite of what is described."
+  },
+  "educationalObjective": "P-glycoprotein (MDR1) is an ATP-dependent efflux pump mediating multidrug resistance to chemotherapy.",
+  "source": "Generated from 4. Pathology.pdf - Neoplasia: Chemotherapy principles and tumor lysis"
+}
+]

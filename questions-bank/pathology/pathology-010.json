@@ -1,0 +1,166 @@
+[
+{
+  "id": "path-031",
+  "subject": "Pathology",
+  "major_topic": "Neoplasia",
+  "subtopic": "Carcinogens",
+  "difficulty": "medium",
+  "vignette": "A 47-year-old man from a rural farming community presents with right upper quadrant pain, weight loss, and progressively worsening ascites. He reports eating home-stored maize and groundnuts that were often moldy during a poor harvest season. Imaging shows a large, solitary liver mass. Serum alpha-fetoprotein is markedly elevated, and the liver is cirrhotic.",
+  "question": "Which of the following carcinogens is most directly responsible for this patient's tumor?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Vinyl chloride"
+    },
+    {
+      "id": "B",
+      "text": "Arsenic"
+    },
+    {
+      "id": "C",
+      "text": "Nitrosamines"
+    },
+    {
+      "id": "D",
+      "text": "Aflatoxin B1"
+    },
+    {
+      "id": "E",
+      "text": "Aromatic amines"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Aflatoxins are produced by Aspergillus species that contaminate improperly stored grains and nuts, and the liver is the target organ; the classic tumor is hepatocellular carcinoma. Aflatoxin B1 undergoes hepatic activation to a reactive epoxide that forms DNA adducts, and it synergizes with chronic hepatitis B infection, which explains why the tumor arises in a cirrhotic liver. This is the archetypal diet-derived hepatocarcinogen tested on Step 1.",
+  "explanation_incorrect": {
+    "A": "Vinyl chloride, used to manufacture PVC pipes, is also hepatotoxic but causes hepatic angiosarcoma, a vascular tumor arising from sinusoidal endothelial cells, rather than hepatocellular carcinoma.",
+    "C": "Nitrosamines form in smoked and nitrite-preserved foods and are linked to gastric cancer of the intestinal type, not to liver cancer.",
+    "E": "Aromatic amines such as benzidine and 2-naphthylamine cause transitional (urothelial) cell carcinoma of the bladder in dye-industry workers.",
+    "B": "Arsenic exposure (vineyard herbicides, metal smelting, wood preservation) causes hepatic angiosarcoma, lung cancer, and squamous cell carcinoma of skin, not hepatocellular carcinoma."
+  },
+  "educationalObjective": "Aflatoxin B1 from moldy stored grains and nuts causes hepatocellular carcinoma.",
+  "source": "Generated from 4. Pathology.pdf - Neoplasia: Carcinogens"
+},
+{
+  "id": "path-032",
+  "subject": "Pathology",
+  "major_topic": "Neoplasia",
+  "subtopic": "Carcinogens",
+  "difficulty": "medium",
+  "vignette": "A 54-year-old man who worked for 25 years in a plastics manufacturing plant that produced polyvinyl chloride pipes presents with fatigue, abdominal pain, and a palpable liver. Imaging reveals a bulky, hemorrhagic hepatic mass composed of malignant endothelial cells lining irregular vascular channels. There is no evidence of chronic hepatitis B or C infection.",
+  "question": "Which of the following best explains the development of this patient's tumor?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Chronic infection with Schistosoma haematobium"
+    },
+    {
+      "id": "B",
+      "text": "Chronic exposure to aflatoxin from stored grain"
+    },
+    {
+      "id": "C",
+      "text": "Occupational exposure to asbestos fibers"
+    },
+    {
+      "id": "D",
+      "text": "Chronic ethanol consumption"
+    },
+    {
+      "id": "E",
+      "text": "Occupational exposure to vinyl chloride"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Vinyl chloride is a gas used to make polyvinyl chloride (PVC) pipes, and exposure in plastics workers causes hepatic angiosarcoma, a malignant vascular tumor of endothelial origin. The hemorrhagic, channel-forming histology is typical, and the tumor is not tied to viral hepatitis or cirrhosis. Inorganic arsenic is the other classic cause of hepatic angiosarcoma.",
+  "explanation_incorrect": {
+    "B": "Aflatoxin from moldy grains and nuts targets the liver but produces hepatocellular carcinoma, a tumor of hepatocytes, and it typically arises in a cirrhotic liver.",
+    "C": "Asbestos exposure is associated with bronchogenic carcinoma and mesothelioma of the pleura, not with vascular tumors of the liver.",
+    "D": "Ethanol is a carcinogen for the esophagus (squamous cell carcinoma), liver (hepatocellular carcinoma), and breast, but it does not cause angiosarcoma.",
+    "A": "Schistosoma haematobium infection causes squamous cell carcinoma of the urinary bladder, not a hepatic tumor."
+  },
+  "educationalObjective": "Vinyl chloride (PVC pipe manufacturing) causes hepatic angiosarcoma.",
+  "source": "Generated from 4. Pathology.pdf - Neoplasia: Carcinogens"
+},
+{
+  "id": "path-033",
+  "subject": "Pathology",
+  "major_topic": "Neoplasia",
+  "subtopic": "Carcinogens",
+  "difficulty": "easy",
+  "vignette": "A 63-year-old man with a 40-pack-year smoking history and employment in a textile dye factory presents with painless gross hematuria. Cystoscopy demonstrates a papillary, friable mass on the bladder wall, and biopsy confirms carcinoma arising from the urothelium. He reports that several coworkers at the same plant developed similar tumors.",
+  "question": "Which of the following carcinogens is most strongly implicated in this malignancy?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Nickel and chromium compounds"
+    },
+    {
+      "id": "B",
+      "text": "Aromatic amines such as 2-naphthylamine"
+    },
+    {
+      "id": "C",
+      "text": "Beryllium dust"
+    },
+    {
+      "id": "D",
+      "text": "Aflatoxin B1"
+    },
+    {
+      "id": "E",
+      "text": "Radon gas"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Aromatic amines such as benzidine and 2-naphthylamine are found in textile dyes and also in tobacco smoke, and they are excreted renally, concentrating in the bladder where they cause transitional (urothelial) cell carcinoma. Occupational clusters among dye workers are the classic clue. Tobacco smoke is the most common cause of this same tumor in the general population.",
+  "explanation_incorrect": {
+    "A": "Nickel, chromium, beryllium, and silica are occupational lung carcinogens that produce bronchogenic carcinoma, not bladder tumors.",
+    "D": "Aflatoxin B1 contaminates stored grains and nuts and causes hepatocellular carcinoma after hepatic metabolic activation.",
+    "C": "Beryllium dust causes lung cancer and chronic beryllium disease, a granulomatous lung disorder, rather than urothelial carcinoma.",
+    "E": "Radon, a byproduct of uranium decay that accumulates in basements, is the second leading cause of lung cancer after tobacco smoke."
+  },
+  "educationalObjective": "Aromatic amines (benzidine, 2-naphthylamine) in textile dyes and tobacco smoke cause bladder transitional cell carcinoma.",
+  "source": "Generated from 4. Pathology.pdf - Neoplasia: Carcinogens"
+},
+{
+  "id": "path-034",
+  "subject": "Pathology",
+  "major_topic": "Neoplasia",
+  "subtopic": "Carcinogens",
+  "difficulty": "medium",
+  "vignette": "A 68-year-old retired shipyard worker with a long history of asbestos insulation work presents with progressive dyspnea, dull right-sided chest pain, and a unilateral pleural effusion. Chest imaging shows diffuse nodular thickening encasing the right lung with no discrete parenchymal mass. Thoracentesis yields malignant mesothelial cells.",
+  "question": "Which of the following statements about this patient's exposure is most accurate?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Asbestos most commonly causes this pleural tumor rather than lung cancer"
+    },
+    {
+      "id": "B",
+      "text": "The tumor is caused by radon accumulating in basement work areas"
+    },
+    {
+      "id": "C",
+      "text": "Bronchogenic carcinoma is more common than mesothelioma after asbestos exposure"
+    },
+    {
+      "id": "D",
+      "text": "The latency from exposure to tumor development is typically under 2 years"
+    },
+    {
+      "id": "E",
+      "text": "Asbestos causes hepatic angiosarcoma in exposed workers"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Asbestos exposure carries a markedly increased risk of bronchogenic (lung) carcinoma, which is more common than mesothelioma; the mesothelioma risk is greatly amplified in smokers as well. Asbestos fibers are inhaled and cause both pleural mesothelioma and lung cancer, with a latency measured in decades from first exposure. Question stems that ask about the relative frequency of asbestos-related tumors are testing exactly this ranking.",
+  "explanation_incorrect": {
+    "A": "Mesothelioma is the feared but less frequent asbestos-related malignancy; bronchogenic carcinoma is the more common one, illustrating how a vivid association can outshine the true incidence.",
+    "B": "Radon is a radioactive decay product of uranium that accumulates in basements and causes lung cancer; it is unrelated to pleural mesothelial tumors.",
+    "E": "Hepatic angiosarcoma follows exposure to vinyl chloride or inorganic arsenic, and asbestos has not been implicated in hepatic vascular tumors.",
+    "D": "Asbestos-related malignancies characteristically arise decades after exposure (often 20-40 years), which is why retired workers are affected rather than current employees."
+  },
+  "educationalObjective": "Asbestos causes bronchogenic carcinoma (more common) and mesothelioma, with a latency of decades.",
+  "source": "Generated from 4. Pathology.pdf - Neoplasia: Carcinogens"
+}
+]

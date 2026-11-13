@@ -1,0 +1,166 @@
+[
+{
+  "id": "path-061",
+  "subject": "Pathology",
+  "major_topic": "Neoplasia",
+  "subtopic": "DNA repair gene defects and cancer syndromes",
+  "difficulty": "medium",
+  "vignette": "A 58-year-old man has a right-sided colon cancer. His brother was diagnosed with colorectal cancer at age 42, and his mother had endometrial carcinoma at 45. Tumor testing shows loss of mismatch repair protein expression with high microsatellite instability.",
+  "question": "Which of the following syndromes and defective repair process does this patient most likely have?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Xeroderma pigmentosum, with defective nucleotide excision repair of UV damage"
+    },
+    {
+      "id": "B",
+      "text": "Lynch syndrome, with defective mismatch repair"
+    },
+    {
+      "id": "C",
+      "text": "Li-Fraumeni syndrome, with defective p53-mediated cell cycle arrest"
+    },
+    {
+      "id": "D",
+      "text": "Familial adenomatous polyposis, with defective beta-catenin degradation"
+    },
+    {
+      "id": "E",
+      "text": "von Hippel-Lindau disease, with defective HIF-1 alpha degradation"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Lynch syndrome is caused by defective DNA mismatch repair (MSI-H/MMR deficient) and presents with right-sided colorectal cancer, early age of onset, a family history including endometrial carcinoma, and high microsatellite instability. The mismatch repair genes are tumor suppressors, so both alleles must be lost. Recognition matters because Lynch tumors respond to immune checkpoint blockade.",
+  "explanation_incorrect": {
+    "A": "Xeroderma pigmentosum involves defective nucleotide excision repair of ultraviolet-induced pyrimidine dimers and causes skin cancers, not colorectal cancer with microsatellite instability.",
+    "C": "Li-Fraumeni involves germline TP53 loss with multiple early malignancies such as sarcoma, breast, and adrenal tumors, and is not a mismatch repair defect.",
+    "D": "Familial adenomatous polyposis is caused by APC loss, which permits beta-catenin accumulation and hundreds of adenomas, without microsatellite instability as its signature.",
+    "E": "von Hippel-Lindau disease follows VHL loss with HIF stabilization, causing hemangioblastoma and renal cell carcinoma rather than colon cancer."
+  },
+  "educationalObjective": "Lynch syndrome = mismatch repair defect with microsatellite instability, right-sided colon cancer, and endometrial cancer.",
+  "source": "Generated from 4. Pathology.pdf - Neoplasia: DNA repair gene defects and cancer syndromes"
+},
+{
+  "id": "path-062",
+  "subject": "Pathology",
+  "major_topic": "Neoplasia",
+  "subtopic": "DNA repair gene defects and cancer syndromes",
+  "difficulty": "medium",
+  "vignette": "A 9-year-old girl who lived in a sunny climate has had multiple freckle-like pigmented lesions on sun-exposed skin since infancy, along with photophobia and keratitis. At age 8 she had a squamous cell carcinoma of the face excised, and she now has a second skin malignancy.",
+  "question": "Which of the following best describes the underlying defect in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Defective mismatch repair producing microsatellite instability"
+    },
+    {
+      "id": "B",
+      "text": "Overexpression of BCL2 via a translocation"
+    },
+    {
+      "id": "C",
+      "text": "Constitutive activation of a non-receptor tyrosine kinase"
+    },
+    {
+      "id": "D",
+      "text": "Loss of NMDA receptor function in the liver"
+    },
+    {
+      "id": "E",
+      "text": "Defective nucleotide excision repair of UV-induced DNA"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Xeroderma pigmentosum is an autosomal recessive defect in nucleotide excision repair of DNA damaged by ultraviolet radiation, such as pyrimidine dimers. Patients have extreme photosensitivity, pigmentary skin changes, and multiple skin cancers (basal cell, squamous cell, and melanoma) beginning in childhood. The defect is in a DNA repair pathway, so it belongs with the cancer syndromes caused by repair failure.",
+  "explanation_incorrect": {
+    "A": "Mismatch repair deficiency causes microsatellite instability and Lynch syndrome colorectal and endometrial cancers, not UV-driven skin cancers.",
+    "B": "BCL2 translocation t(14;18) drives follicular lymphoma and has no photosensitivity or skin cancer phenotype.",
+    "C": "Constitutive non-receptor tyrosine kinase activation describes BCR-ABL in CML, which is a hematologic disease.",
+    "D": "The described finding concerns the liver and neurotransmission and has no relationship to this patient's photosensitivity."
+  },
+  "educationalObjective": "Xeroderma pigmentosum is defective nucleotide excision repair; patients get multiple UV-induced skin cancers in childhood.",
+  "source": "Generated from 4. Pathology.pdf - Neoplasia: DNA repair gene defects and cancer syndromes"
+},
+{
+  "id": "path-063",
+  "subject": "Pathology",
+  "major_topic": "Neoplasia",
+  "subtopic": "DNA repair gene defects and cancer syndromes",
+  "difficulty": "hard",
+  "vignette": "A 44-year-old woman with ovarian carcinoma is found to have a germline BRCA2 mutation. She is told that her tumor cells cannot faithfully repair double-strand breaks by homologous recombination, which has therapeutic implications.",
+  "question": "Which of the following best explains the cancer predisposition conferred by this defect?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Defective mismatch repair allows expansions and contractions of microsatellite repeats"
+    },
+    {
+      "id": "B",
+      "text": "Defective nucleotide excision repair leaves pyrimidine dimers unrepaired"
+    },
+    {
+      "id": "C",
+      "text": "Defective homologous recombination allows error-prone repair and accumulation of mutations"
+    },
+    {
+      "id": "D",
+      "text": "Constitutive RAS activation drives uncontrolled proliferation"
+    },
+    {
+      "id": "E",
+      "text": "Overexpression of BCL2 prevents apoptosis of damaged cells"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Homologous recombination is the high-fidelity pathway for repairing DNA double-strand breaks, and BRCA1 and BRCA2 are central to it. When it fails, cells fall back on error-prone repair, so mutations accumulate and genomic instability ensues, predisposing to breast, ovarian, prostate, and pancreatic cancers. The same defect underlies the concept of synthetic lethality exploited by PARP inhibitors in these tumors.",
+  "explanation_incorrect": {
+    "A": "Mismatch repair defects produce microsatellite instability and Lynch syndrome cancers, which is a different repair pathway.",
+    "B": "Nucleotide excision repair removes UV-induced pyrimidine dimers, and its failure causes xeroderma pigmentosum.",
+    "D": "Constitutive RAS activation is a proto-oncogene point mutation mechanism and is unrelated to the BRCA proteins.",
+    "E": "Blocking apoptosis of damaged cells describes BCL2 overexpression, an apoptosis-regulating oncogene."
+  },
+  "educationalObjective": "Loss of BRCA-mediated homologous recombination forces error-prone double-strand break repair and causes genomic instability.",
+  "source": "Generated from 4. Pathology.pdf - Neoplasia: DNA repair gene defects and cancer syndromes"
+},
+{
+  "id": "path-064",
+  "subject": "Pathology",
+  "major_topic": "Neoplasia",
+  "subtopic": "DNA repair gene defects and cancer syndromes",
+  "difficulty": "medium",
+  "vignette": "A 31-year-old man presents with a soft tissue sarcoma of the forearm. His mother died of breast cancer at 35, and his sister was treated for a brain tumor at 20. Genetic testing is obtained after counseling.",
+  "question": "Before the result returns, the team reasons about which defect best fits a cancer syndrome that causes multiple diverse early tumors including sarcoma, breast cancer, and brain tumors.",
+  "options": [
+    {
+      "id": "A",
+      "text": "Germline TP53 mutation"
+    },
+    {
+      "id": "B",
+      "text": "Germline APC mutation"
+    },
+    {
+      "id": "C",
+      "text": "Biallelic loss of NF1"
+    },
+    {
+      "id": "D",
+      "text": "Constitutional t(9;22) translocation"
+    },
+    {
+      "id": "E",
+      "text": "Germline CDKN2A mutation"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Li-Fraumeni syndrome is caused by a germline TP53 mutation and produces multiple malignancies at an early age, remembered as SBLA: Sarcoma, Breast and Brain tumors, Lung and Leukemia, and Adrenal gland carcinoma. A young sarcoma with early breast cancer and a childhood brain tumor in the family is the classic pedigree. p53 normally arrests the cell cycle at G1 via p21 and triggers apoptosis when DNA damage is irreparable.",
+  "explanation_incorrect": {
+    "B": "Germline APC mutation causes familial adenomatous polyposis with colorectal adenomas and colon cancer, not a sarcoma-breast-brain spectrum.",
+    "C": "NF1 loss causes neurofibromatosis type 1 with neurofibromas and optic gliomas, which does not account for early breast cancer or sarcoma in the family.",
+    "D": "Constitutional t(9;22) is not an inherited syndrome; the translocation is somatic in CML and predisposes only to leukemia.",
+    "E": "CDKN2A germline loss predisposes mainly to melanoma and pancreatic cancer and does not produce this multi-tumor pediatric pattern."
+  },
+  "educationalObjective": "Li-Fraumeni (SBLA) is the germline TP53 syndrome: Sarcoma, Breast/Brain, Lung/Leukemia, Adrenal cancers at early ages.",
+  "source": "Generated from 4. Pathology.pdf - Neoplasia: DNA repair gene defects and cancer syndromes"
+}
+]

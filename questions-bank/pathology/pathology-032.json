@@ -1,0 +1,84 @@
+[
+{
+  "id": "path-104",
+  "subject": "Pathology",
+  "major_topic": "Inflammation",
+  "subtopic": "Leukocyte transmigration and chemotaxis",
+  "difficulty": "medium",
+  "vignette": "A 27-year-old woman has a 2-day-old surgical incision that is erythematous with a small collection of pus at one end. A biopsy of the wound edge shows neutrophils that have crossed the venular wall and are interspersed through the dermal interstitium between collagen bundles.",
+  "question": "Which of the following molecules most directly permits neutrophils to pass between adjacent endothelial cells during this process?",
+  "options": [
+    {
+      "id": "A",
+      "text": "ICAM-1 (CD54)"
+    },
+    {
+      "id": "B",
+      "text": "Sialyl Lewis X"
+    },
+    {
+      "id": "C",
+      "text": "E-selectin"
+    },
+    {
+      "id": "D",
+      "text": "PECAM-1 (CD31)"
+    },
+    {
+      "id": "E",
+      "text": "GlyCAM-1"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Diapedesis, the third step of leukocyte extravasation, requires homophilic interaction of PECAM-1 (CD31) expressed on both the leukocyte and the interendothelial junction, which lets the cell squeeze between endothelial cells and exit the vessel. Margination and rolling come first, mediated by selectins engaging sialyl Lewis X, then tight binding through integrins before transmigration. Extravasation occurs predominantly at postcapillary venules, which is why the neutrophils in this wound are found in the interstitium rather than the vessel lumen.",
+  "explanation_incorrect": {
+    "A": "ICAM-1 on endothelium binds CD11/18 integrins to establish firm adhesion, one step before the cell can move between endothelial cells.",
+    "B": "Sialyl Lewis X is the leukocyte carbohydrate ligand for selectins and supports rolling rather than transmigration.",
+    "C": "E-selectin is an endothelial selectin that slows rolling leukocytes after TNF and IL-1 stimulation.",
+    "E": "GlyCAM-1 is an endothelial ligand for L-selectin during the rolling step in high endothelial venules."
+  },
+  "educationalObjective": "Diapedesis is mediated by homophilic PECAM-1 (CD31) on leukocytes and endothelial junction, occurring mainly at postcapillary venules.",
+  "source": "Generated from 4. Pathology.pdf - Inflammation: Leukocyte transmigration and chemotaxis"
+},
+{
+  "id": "path-105",
+  "subject": "Pathology",
+  "major_topic": "Inflammation",
+  "subtopic": "Leukocyte transmigration and chemotaxis",
+  "difficulty": "medium",
+  "vignette": "A 62-year-old man develops a localized abscess at an intravenous catheter site. Neutrophils entering the tissue are observed moving in a directed, nonrandom fashion toward a zone of bacterial growth at the center of the lesion.",
+  "question": "Which of the following substances most directly guides the directed movement of these neutrophils?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Interleukin-10"
+    },
+    {
+      "id": "B",
+      "text": "Interleukin-12"
+    },
+    {
+      "id": "C",
+      "text": "C-reactive protein"
+    },
+    {
+      "id": "D",
+      "text": "Transforming growth factor beta"
+    },
+    {
+      "id": "E",
+      "text": "Leukotriene B4"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Leukotriene B4 is one of the classic chemotactic factors of acute inflammation, along with C5a, IL-8, 5-HETE, kallikrein, platelet-activating factor, and the N-formylmethionyl peptides derived from bacteria. Chemotaxis is the fourth and final step of leukocyte extravasation, in which the cell travels through the interstitium toward a gradient of these signals after margination, adhesion, and transmigration are complete. Directed accumulation at the bacterial focus is thus driven by chemoattractants rather than by random diffusion.",
+  "explanation_incorrect": {
+    "A": "Interleukin-10 is a resolving cytokine that favors resolution and healing rather than recruiting neutrophils to a stimulus.",
+    "B": "Interleukin-12 drives the Th1 arm and macrophage activation during granuloma formation, not neutrophil chemoattraction.",
+    "C": "C-reactive protein is an acute-phase opsonin that fixes complement and facilitates phagocytosis but is not itself a chemoattractant.",
+    "D": "Transforming growth factor beta supports angiogenesis, fibrosis, and resolution and does not attract neutrophils."
+  },
+  "educationalObjective": "Chemotactic factors for neutrophils include C5a, IL-8, LTB4, 5-HETE, kallikrein, platelet-activating factor, and N-formylmethionyl peptides.",
+  "source": "Generated from 4. Pathology.pdf - Inflammation: Leukocyte transmigration and chemotaxis"
+}
+]

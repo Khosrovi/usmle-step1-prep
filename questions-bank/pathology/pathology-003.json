@@ -1,0 +1,125 @@
+[
+{
+  "id": "path-008",
+  "subject": "Pathology",
+  "major_topic": "Aging",
+  "subtopic": "Physiologic changes of aging by organ system",
+  "difficulty": "medium",
+  "vignette": "A 78-year-old woman is admitted with community-acquired pneumonia and is started on an antibiotic regimen. Her renal function is estimated at a creatinine clearance of 38 mL/min, and serum albumin is low. Two days later she develops confusion and myoclonus. Her physician notes that age-related physiologic changes altered the pharmacokinetics of the drug and contributed to the toxicity.",
+  "question": "Which of the following age-related changes most directly explains her drug accumulation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Increased gastric acid secretion and accelerated gastric emptying"
+    },
+    {
+      "id": "B",
+      "text": "Increased lean body mass and total body water expanding the volume of distribution"
+    },
+    {
+      "id": "C",
+      "text": "Increased hepatic mass with enhanced phase I metabolism"
+    },
+    {
+      "id": "D",
+      "text": "Decreased glomerular filtration rate from reduced nephron number and decreased renal blood flow"
+    },
+    {
+      "id": "E",
+      "text": "Increased serum albumin binding the majority of circulating drug"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Renal aging reduces glomerular filtration rate because of reduced nephron number and reduced renal blood flow, and it also reduces hormonal function. For renally cleared drugs this means slower elimination and accumulation, which predisposes older adults to toxicity at standard doses. Reduced hepatic clearance and reduced lean body mass further shift drug levels in this population.",
+  "explanation_incorrect": {
+    "A": "Gastric acid secretion decreases with age, and colonic motility decreases, so neither accelerated emptying nor increased acid production is an age-related change.",
+    "C": "Hepatic clearance decreases with age because of reduced hepatic mass and blood flow, which raises rather than lowers drug levels.",
+    "E": "Serum albumin tends to fall with age and illness, so more unbound and pharmacologically active drug circulates, not less.",
+    "B": "Lean body mass and total body water both decrease with age, and the resulting smaller volume of distribution increases the concentration of water-soluble drugs."
+  },
+  "educationalObjective": "Aging reduces GFR through nephron loss and reduced renal blood flow, slowing elimination of renally cleared drugs.",
+  "source": "Generated from 4. Pathology.pdf - Aging: Physiologic changes of aging by organ system"
+},
+{
+  "id": "path-009",
+  "subject": "Pathology",
+  "major_topic": "Aging",
+  "subtopic": "Physiologic changes of aging by organ system",
+  "difficulty": "medium",
+  "vignette": "An 80-year-old man receives the annual influenza vaccine and the new recombinant zoster vaccine series. His titers after vaccination are substantially lower than those of his 30-year-old grandson, and he develops a mild upper respiratory infection later that winter. Laboratory evaluation shows reduced numbers of naive B cells and naive T cells, with preserved memory B and T cell populations.",
+  "question": "Which of the following age-related changes best accounts for his impaired vaccine response?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Immunosenescence affecting adaptive immunity with reduced naive B and T cells but preserved memory cells, impairing responses to new antigens"
+    },
+    {
+      "id": "B",
+      "text": "Predominant impairment of innate immunity with preservation of all adaptive responses"
+    },
+    {
+      "id": "C",
+      "text": "Generalized depletion of both naive and memory lymphocytes with complete loss of adaptive immunity"
+    },
+    {
+      "id": "D",
+      "text": "Increased marrow mass with enhanced production of B and T cell precursors"
+    },
+    {
+      "id": "E",
+      "text": "Increased serum immunoglobulins causing suppression of vaccine antigen processing"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Aging has its predominant immune effect on adaptive immunity, with decreased naive B cells and T cells but preserved memory B and T cells. This immunosenescence impairs the response to new antigens such as novel pathogens and vaccines, which is why vaccine titers and efficacy decline. The preserved memory compartment is why prior exposures and established immunity are relatively maintained.",
+  "explanation_incorrect": {
+    "B": "The predominant age-related effect is on adaptive immunity, so innate preservation with all adaptive responses intact is the reverse of the finding.",
+    "D": "Bone marrow mass decreases with age while marrow fat increases, and precursor production falls rather than rises.",
+    "E": "Immunoglobulin patterns do not cause immune suppression of this kind, and the described defect is in naive lymphocyte number rather than in antigen processing.",
+    "C": "Adaptive immunity is impaired rather than absent, and the memory compartment is characteristically preserved in aging."
+  },
+  "educationalObjective": "Immunosenescence reduces naive B and T cells while preserving memory cells, impairing the response to new antigens and vaccines.",
+  "source": "Generated from 4. Pathology.pdf - Aging: Physiologic changes of aging by organ system"
+},
+{
+  "id": "path-010",
+  "subject": "Pathology",
+  "major_topic": "Aging",
+  "subtopic": "Physiologic changes of aging by organ system",
+  "difficulty": "hard",
+  "vignette": "A 74-year-old woman undergoes pulmonary function testing as part of a preoperative evaluation. Spirometry shows a reduced FEV1 and reduced FVC with an increased residual volume, while total lung capacity is unchanged. Her chest wall feels stiff on examination, and her arterial blood gas shows an increased A-a gradient. She has never smoked and has no respiratory symptoms.",
+  "question": "Which of the following best explains these findings?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Decreased lung compliance with increased elastic recoil and decreased chest wall compliance"
+    },
+    {
+      "id": "B",
+      "text": "Enhanced ventilatory response to hypoxia and hypercapnia with faster mucociliary clearance"
+    },
+    {
+      "id": "C",
+      "text": "Increased total lung capacity with reduced residual volume from airway collapse"
+    },
+    {
+      "id": "D",
+      "text": "Increased FEV1 and FVC with decreased A-a gradient reflecting enhanced gas exchange"
+    },
+    {
+      "id": "E",
+      "text": "Increased lung compliance from decreased elastic recoil with decreased chest wall compliance, plus reduced respiratory muscle strength"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Respiratory aging increases lung compliance because of decreased elastic recoil while decreasing chest wall compliance (increased stiffness) and reducing respiratory muscle strength. The result is decreased FEV1 and FVC with increased residual volume while total lung capacity is unchanged, and the A-a gradient and ventilation-perfusion mismatch increase. Ventilatory response to hypoxia and hypercapnia is blunted, and cough and mucociliary clearance are less vigorous.",
+  "explanation_incorrect": {
+    "A": "Lung compliance rises with age because elastic recoil falls, while it is the chest wall that becomes stiffer.",
+    "C": "Residual volume rises rather than falls, and total lung capacity is characteristically unchanged in aging.",
+    "D": "Both FEV1 and FVC decline with age, and the A-a gradient widens rather than narrows.",
+    "B": "The ventilatory response to hypoxia and hypercapnia is blunted with age, and mucociliary clearance slows."
+  },
+  "educationalObjective": "Aging increases lung compliance and chest wall stiffness, lowering FEV1 and FVC, raising residual volume, and widening the A-a gradient.",
+  "source": "Generated from 4. Pathology.pdf - Aging: Physiologic changes of aging by organ system"
+}
+]

@@ -1,0 +1,84 @@
+[
+{
+  "id": "path-011",
+  "subject": "Pathology",
+  "major_topic": "Aging",
+  "subtopic": "Theories and mechanisms of aging",
+  "difficulty": "medium",
+  "vignette": "A research group studies fibroblasts cultured from donors of increasing age. In older donor cells they observe progressive shortening of chromosome ends with each cell division until the cells stop dividing and assume a flattened, enlarged appearance. By contrast, cells from a cancer line show reactivation of a ribonucleoprotein enzyme that maintains and lengthens these chromosome ends, allowing indefinite replication.",
+  "question": "Which of the following best describes the mechanism illustrated in the older donor cells?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Increased telomerase activity causing unlimited replication in the aging donor cells"
+    },
+    {
+      "id": "B",
+      "text": "Telomere shortening leading to cellular senescence, whereas cancer cells reactivate telomerase to prevent chromosome shortening and cell aging"
+    },
+    {
+      "id": "C",
+      "text": "Loss-of-function mutation in a proto-oncogene causing uncontrolled proliferation in the aging cells"
+    },
+    {
+      "id": "D",
+      "text": "Apoptosis triggered by E-cadherin loss rather than by replicative limits"
+    },
+    {
+      "id": "E",
+      "text": "Genomic instability from loss of vascular endothelial growth factor signaling"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Normal aging is a time-dependent progressive decline in organ function associated with genetic alterations including telomere shortening. Each division shortens chromosome ends, and after sufficient attrition cells enter senescence and stop dividing. Cancer cells circumvent this by reactivating telomerase, which maintains and lengthens telomeres and thereby prevents chromosome shortening and cell aging, supporting limitless replicative potential.",
+  "explanation_incorrect": {
+    "C": "Loss-of-function mutations in proto-oncogenes do not drive proliferation, and the growth arrest described is senescence rather than transformation.",
+    "D": "E-cadherin loss relates to invasion and metastasis, and the described arrest reflects a replicative limit rather than apoptosis.",
+    "E": "VEGF signaling governs angiogenesis; genomic instability in aging is not attributed to loss of VEGF signaling.",
+    "A": "Telomerase activity is low in normal somatic cells and declines further with age; it is reactivated in cancers, not in the aging donor fibroblasts."
+  },
+  "educationalObjective": "Telomere shortening drives cellular senescence in aging, while cancer cells reactivate telomerase to achieve limitless replication.",
+  "source": "Generated from 4. Pathology.pdf - Aging: Theories and mechanisms of aging"
+},
+{
+  "id": "path-012",
+  "subject": "Pathology",
+  "major_topic": "Aging",
+  "subtopic": "Theories and mechanisms of aging",
+  "difficulty": "hard",
+  "vignette": "An 81-year-old woman with a lifetime of substantial sun exposure has deeply wrinkled facial skin with scattered purpuric patches on her forearms. A skin biopsy shows accumulation of degraded collagen and elastin breakdown products in the dermis, plus flattening of the dermal-epidermal junction. Compared with an age-matched woman with minimal sun exposure, her changes are much more pronounced.",
+  "question": "Which of the following best explains the difference between her findings and those of intrinsic aging?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Intrinsic aging causes the degradation of dermal collagen and elastin by ultraviolet exposure, while photoaging reflects only decreased fibroblast biosynthetic capacity"
+    },
+    {
+      "id": "B",
+      "text": "Intrinsic aging reflects decreased biosynthetic capacity of dermal fibroblasts, while extrinsic photoaging reflects degradation of dermal collagen and elastin from ultraviolet A exposure with solar elastosis"
+    },
+    {
+      "id": "C",
+      "text": "Both patterns result from increased dermal collagen synthesis and increased elastin production"
+    },
+    {
+      "id": "D",
+      "text": "Intrinsic aging increases sweat and sebaceous gland activity, causing wrinkles"
+    },
+    {
+      "id": "E",
+      "text": "Aging of skin is independent of dermal extracellular matrix and depends only on the dermal-epidermal junction"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Intrinsic (chronological) aging produces decreased biosynthetic capacity of dermal fibroblasts. Extrinsic aging, or photoaging, comes from sun exposure with ultraviolet A degradation of dermal collagen and elastin, and the degradation products accumulate in the dermis as solar elastosis. Aging skin also shows atrophy with flattening of the dermal-epidermal junction, decreased sweat glands predisposing to heat stroke, and decreased sebaceous glands causing xerosis cutis.",
+  "explanation_incorrect": {
+    "A": "This swaps the two processes; collagen and elastin degradation from ultraviolet exposure is the extrinsic pattern, while decreased fibroblast biosynthetic capacity is intrinsic.",
+    "C": "Aging skin shows decreased dermal collagen and decreased elastin, so increased synthesis of both is the opposite of the observed change.",
+    "D": "Sweat glands decrease with age, which impairs thermoregulation and predisposes to heat stroke, and sebaceous glands decrease causing dry skin.",
+    "E": "The dermal extracellular matrix is central to both intrinsic and extrinsic skin aging, and flattening of the junction is only one component."
+  },
+  "educationalObjective": "Intrinsic aging reduces fibroblast biosynthetic capacity; photoaging degrades dermal collagen and elastin via UVA, yielding solar elastosis.",
+  "source": "Generated from 4. Pathology.pdf - Aging: Theories and mechanisms of aging"
+}
+]

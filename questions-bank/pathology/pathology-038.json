@@ -1,0 +1,166 @@
+[
+{
+  "id": "path-131",
+  "subject": "Pathology",
+  "major_topic": "Inflammation",
+  "subtopic": "Phagocytosis and killing mechanisms",
+  "difficulty": "medium",
+  "vignette": "A 3-year-old boy has recurrent suppurative lymphadenitis and hepatic abscesses caused by Staphylococcus aureus and by catalase-positive organisms such as Aspergillus and Burkholderia. Nitroblue tetrazolium testing is abnormal, and the diagnosis is established by demonstrating a defect in the respiratory burst.",
+  "question": "Which of the following is the most likely underlying defect in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Absence of the CD18 integrin subunit on phagocytes"
+    },
+    {
+      "id": "B",
+      "text": "Deficiency of myeloperoxidase in neutrophil granules"
+    },
+    {
+      "id": "C",
+      "text": "Deficiency of NADPH oxidase in phagocytes"
+    },
+    {
+      "id": "D",
+      "text": "Deficiency of adenosine deaminase in lymphocytes"
+    },
+    {
+      "id": "E",
+      "text": "Deficiency of C1 esterase inhibitor"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Chronic granulomatous disease results from defective NADPH oxidase, the enzyme complex that reduces oxygen to superoxide and initiates the respiratory burst. Neutrophils can ingest catalase-positive organisms but cannot generate the reactive oxygen species needed to kill them, so infections recur with the catalase-positive organisms listed in the text, and granulomas form as the organism is walled off without being eradicated. The disease is a phagocyte killing defect rather than an adhesion or complement defect, and it is one of the two classic inherited forms of defective microbial killing.",
+  "explanation_incorrect": {
+    "A": "Absent CD18 produces leukocyte adhesion deficiency type 1, in which neutrophils cannot firmly adhere to endothelium and pus fails to form.",
+    "B": "Myeloperoxidase deficiency also impairs killing, but it is usually clinically silent because alternative pathways still generate oxidants, and it does not cause the catalase-positive organism susceptibility shown here.",
+    "D": "Adenosine deaminase deficiency ablates lymphocyte development and causes severe combined immunodeficiency with viral and fungal infections rather than abscesses from catalase-positive bacteria.",
+    "E": "C1 esterase inhibitor deficiency causes hereditary angioedema from unchecked complement and kinin generation, not recurrent pyogenic abscesses."
+  },
+  "educationalObjective": "Chronic granulomatous disease is caused by NADPH oxidase deficiency, giving susceptibility to catalase-positive organisms despite preserved phagocytosis.",
+  "source": "Generated from 4. Pathology.pdf - Inflammation: Phagocytosis and killing mechanisms"
+},
+{
+  "id": "path-132",
+  "subject": "Pathology",
+  "major_topic": "Inflammation",
+  "subtopic": "Phagocytosis and killing mechanisms",
+  "difficulty": "hard",
+  "vignette": "A 45-year-old woman has acute inflammation in the lung after aspiration of gastric contents. The text lists complement fixation and opsonization as key steps that precede ingestion of organisms by phagocytes.",
+  "question": "In an opsonin-deficient host, which step of phagocyte function would be most impaired while oxidative killing machinery remains intact?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Recognition and engulfment of the target particle"
+    },
+    {
+      "id": "B",
+      "text": "Generation of superoxide by NADPH oxidase"
+    },
+    {
+      "id": "C",
+      "text": "Fusion of lysosomes with the phagosome"
+    },
+    {
+      "id": "D",
+      "text": "Release of myeloperoxidase into the phagolysosome"
+    },
+    {
+      "id": "E",
+      "text": "Rolling of neutrophils on activated endothelium"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Opsonins such as C-reactive protein coat the target and fix complement, which facilitates phagocytosis by providing ligands that phagocytes recognize before ingestion. The text lists opsonins exactly this way, and C-reactive protein is measured clinically as a nonspecific sign of ongoing inflammation that also fixes complement. Without adequate opsonization, recognition and engulfment fail even though the oxidase system and granular killing machinery are normal.",
+  "explanation_incorrect": {
+    "B": "Superoxide generation by NADPH oxidase is an intracellular killing step that follows phagocytosis and does not require opsonin coating.",
+    "C": "Phagosome-lysosome fusion occurs after the particle is internalized, so it is a killing event, not a recognition event.",
+    "D": "Myeloperoxidase release into the phagolysosome is part of the killing cascade and is independent of opsonin availability.",
+    "E": "Rolling is governed by selectin interactions during extravasation and has nothing to do with opsonin-mediated recognition."
+  },
+  "educationalObjective": "Opsonins such as C-reactive protein and complement facilitate recognition and engulfment by phagocytes; they do not generate oxidants.",
+  "source": "Generated from 4. Pathology.pdf - Inflammation: Phagocytosis and killing mechanisms"
+},
+{
+  "id": "path-133",
+  "subject": "Pathology",
+  "major_topic": "Inflammation",
+  "subtopic": "Phagocytosis and killing mechanisms",
+  "difficulty": "medium",
+  "vignette": "A 19-year-old man is admitted with a cavity in the upper lobe of the lung, night sweats, and weight loss. Examination of the excised tissue shows a walled-off rounded structure composed of activated macrophages with abundant pink cytoplasm, surrounded by lymphocytes and a few multinucleated giant cells, with central necrosis and acid-fast bacilli nearby.",
+  "question": "Which of the following phagocyte-derived signals most directly activates macrophages to form the epithelioid and giant cell components of this lesion?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Interleukin-4 and interleukin-13 from Th2 cells"
+    },
+    {
+      "id": "B",
+      "text": "Interleukin-10 from alternatively activated macrophages"
+    },
+    {
+      "id": "C",
+      "text": "Tumor necrosis factor from macrophages"
+    },
+    {
+      "id": "D",
+      "text": "Interferon gamma from Th1 cells"
+    },
+    {
+      "id": "E",
+      "text": "Histamine from mast cells"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "In granulomatous inflammation, antigen-presenting cells secrete IL-12, which drives CD4+ T cells to differentiate into Th1 cells. Th1 cells then secrete interferon gamma, which classically activates macrophages so they enlarge into epithelioid cells and fuse into multinucleated giant cells, while macrophage TNF secretion propagates the process. This IFN-gamma driven classical activation is the proinflammatory arm, in contrast to the IL-4 and IL-13 driven alternative activation that supports repair.",
+  "explanation_incorrect": {
+    "A": "IL-4 and IL-13 from Th2 cells produce alternative macrophage activation aimed at repair and anti-inflammatory signaling, not formation of epithelioid cells.",
+    "B": "IL-10 is a resolving cytokine that dampens inflammation and promotes healing rather than generating epithelioid macrophages.",
+    "C": "TNF from macrophages amplifies granuloma formation and is why anti-TNF therapy can dismantle protective granulomas, but the IFN-gamma signal from Th1 cells is the direct macrophage-activating step described.",
+    "E": "Histamine is a vasoactive mediator of acute inflammation that increases permeability and dilates arterioles, with no role in epithelioid cell differentiation."
+  },
+  "educationalObjective": "In granulomatous inflammation, IL-12 from antigen-presenting cells induces Th1 cells, whose interferon gamma activates macrophages to become epithelioid and giant cells.",
+  "source": "Generated from 4. Pathology.pdf - Inflammation: Phagocytosis and killing mechanisms"
+},
+{
+  "id": "path-134",
+  "subject": "Pathology",
+  "major_topic": "Inflammation",
+  "subtopic": "Phagocytosis and killing mechanisms",
+  "difficulty": "hard",
+  "vignette": "A 9-month-old girl with a history of recurrent candida infections and a soft tissue abscess has a nitroblue tetrazolium test performed. After stimulation, phagocytes from the control sample turn deep blue, whereas those from the patient remain colorless.",
+  "question": "Which statement best explains the principle underlying this test?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Nitroblue tetrazolium binds CD18 integrin, so the test measures adhesion rather than killing"
+    },
+    {
+      "id": "B",
+      "text": "Nitroblue tetrazolium measures serum complement fixing capacity"
+    },
+    {
+      "id": "C",
+      "text": "Nitroblue tetrazolium is reduced to a blue precipitate by the superoxide generated during the respiratory burst"
+    },
+    {
+      "id": "D",
+      "text": "Nitroblue tetrazolium identifies P-selectin on the endothelial surface"
+    },
+    {
+      "id": "E",
+      "text": "Nitroblue tetrazolium detects hydrogen peroxide produced by myeloperoxidase deficiency"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "The nitroblue tetrazolium test assesses the respiratory burst: phagocytes with intact NADPH oxidase reduce the dye to a blue formazan precipitate, while cells from patients with chronic granulomatous disease do not. Failure of NADPH oxidase means that superoxide and downstream reactive oxygen species are not produced, so catalase-positive organisms are ingested but never killed. The clinical correlate is recurrent infection with catalase-positive organisms such as Aspergillus and catalase-positive bacteria, which is why the text links those organisms to chronic granulomatous disease.",
+  "explanation_incorrect": {
+    "A": "CD18 expression is quantified by flow cytometry for adhesion defects, not by a dye reduction assay for oxidant generation.",
+    "B": "Serum complement is measured by hemolytic assays such as CH50 rather than by incubating cells with nitroblue tetrazolium.",
+    "D": "P-selectin is identified immunologically on endothelium after Weibel-Palade body exocytosis and has no reducing capacity.",
+    "E": "Myeloperoxidase deficiency impairs hypochlorous acid production, but the respiratory burst and therefore dye reduction remain intact and the condition is usually clinically silent."
+  },
+  "educationalObjective": "The nitroblue tetrazolium test confirms chronic granulomatous disease by showing failure to generate superoxide during the respiratory burst.",
+  "source": "Generated from 4. Pathology.pdf - Inflammation: Phagocytosis and killing mechanisms"
+}
+]

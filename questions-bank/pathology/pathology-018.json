@@ -1,0 +1,125 @@
+[
+{
+  "id": "path-058",
+  "subject": "Pathology",
+  "major_topic": "Inflammation",
+  "subtopic": "Cytokines in inflammation: TNF, IL-1, IL-6",
+  "difficulty": "medium",
+  "vignette": "A 44-year-old man with a hip prosthesis develops a gram-negative bacteremia. Within hours he has a temperature of 39.6 degrees Celsius, shaking chills, and a rising peripheral white blood cell count. A clinician explains that bacterial lipopolysaccharide is triggering pyrogenic cytokines and a hepatic response.",
+  "question": "Which of the following best describes the sequence that produces fever in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Lipopolysaccharide directly raises the hypothalamic temperature set point by binding neurons"
+    },
+    {
+      "id": "B",
+      "text": "Fever results from increased production of acute-phase proteins by the liver"
+    },
+    {
+      "id": "C",
+      "text": "Fever is produced by histamine-induced vasodilation in the hypothalamus"
+    },
+    {
+      "id": "D",
+      "text": "Pyrogens induce macrophages to release IL-1 and TNF, which increase cyclooxygenase activity in perivascular cells of the anterior hypothalamus and increase prostaglandin E2, raising the temperature set point"
+    },
+    {
+      "id": "E",
+      "text": "Lipopolysaccharide reduces cyclooxygenase activity in the hypothalamus, lowering the threshold for shivering"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Pyrogens such as lipopolysaccharide act indirectly: they induce macrophages to release the pyrogenic cytokines IL-1 and TNF, which raise cyclooxygenase activity in perivascular cells of the anterior hypothalamus. The increased COX activity drives prostaglandin E2 synthesis, and PGE2 elevates the hypothalamic temperature set point, producing fever. This is why antipyretics that inhibit cyclooxygenase lower fever, and why the bacterial infection here also produces leukocytosis with a neutrophilia.",
+  "explanation_incorrect": {
+    "A": "Lipopolysaccharide is a pyrogen that acts through macrophage-derived cytokines, not by directly binding hypothalamic neurons to reset the set point.",
+    "B": "Acute-phase reactants are downstream consequences of inflammation and are not the mechanism by which the set point is raised.",
+    "C": "Histamine produces the vasodilation of the redness and warmth of local inflammation, and is not a pyrogenic hypothalamic mediator.",
+    "E": "Fever reflects increased rather than decreased cyclooxygenase activity, which is why COX inhibition terminates the response."
+  },
+  "educationalObjective": "Fever arises when pyrogens induce macrophage IL-1 and TNF, which raise hypothalamic COX activity and PGE2, elevating the temperature set point.",
+  "source": "Generated from 4. Pathology.pdf - Inflammation: Cytokines in inflammation: TNF, IL-1, IL-6"
+},
+{
+  "id": "path-059",
+  "subject": "Pathology",
+  "major_topic": "Inflammation",
+  "subtopic": "Cytokines in inflammation: TNF, IL-1, IL-6",
+  "difficulty": "medium",
+  "vignette": "A 52-year-old woman with a poorly controlled autoimmune condition is hospitalized with infected skin lesions and a deep soft tissue abscess. Laboratory studies show a markedly elevated C-reactive protein, a high ESR, and mildly reduced hemoglobin, with normal iron stores on marrow examination.",
+  "question": "Which cytokine most directly drives the hepatic production of these acute-phase reactants?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Interleukin-4"
+    },
+    {
+      "id": "B",
+      "text": "Interleukin-10"
+    },
+    {
+      "id": "C",
+      "text": "Interleukin-6"
+    },
+    {
+      "id": "D",
+      "text": "Interferon gamma"
+    },
+    {
+      "id": "E",
+      "text": "Interleukin-12"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Acute-phase reactants are serum proteins produced by the liver whose concentrations change significantly in acute and chronic inflammation, and the text specifically states that their production is notably induced by IL-6. Positive reactants include C-reactive protein, ferritin, fibrinogen, haptoglobin, hepcidin, procalcitonin, and serum amyloid A, while albumin, transferrin, and transthyretin fall. Hepcidin is a good example of the mechanism behind the mild anemia here, since it degrades ferroportin and reduces both iron absorption and macrophage iron release, producing anemia of chronic disease.",
+  "explanation_incorrect": {
+    "A": "IL-4 from Th2 cells drives alternative macrophage activation for repair and does not induce acute-phase reactants.",
+    "B": "IL-10 is a key resolution cytokine listed as favoring resolution and healing rather than driving the acute-phase reaction.",
+    "D": "Interferon gamma from Th1 cells activates macrophages in classical, proinflammatory fashion but is not the cytokine named for hepatic acute-phase induction.",
+    "E": "IL-12 from antigen-presenting cells drives Th1 differentiation and granuloma formation without stimulating the liver."
+  },
+  "educationalObjective": "IL-6 is the principal inducer of hepatic acute-phase reactants such as C-reactive protein, fibrinogen, and hepcidin.",
+  "source": "Generated from 4. Pathology.pdf - Inflammation: Cytokines in inflammation: TNF, IL-1, IL-6"
+},
+{
+  "id": "path-060",
+  "subject": "Pathology",
+  "major_topic": "Inflammation",
+  "subtopic": "Cytokines in inflammation: TNF, IL-1, IL-6",
+  "difficulty": "hard",
+  "vignette": "A 39-year-old man with Crohn disease is scheduled to start an anti-TNF monoclonal antibody. Before the first infusion, his physician orders a tuberculin skin test and an interferon gamma release assay, and both are positive, so treatment is deferred. The same type of drug is also used to treat rheumatoid arthritis, psoriasis, and ankylosing spondylitis.",
+  "question": "Which of the following is the most important reason for screening this patient before starting therapy?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Anti-TNF therapy induces NADPH oxidase deficiency and susceptibility to catalase-positive organisms"
+    },
+    {
+      "id": "B",
+      "text": "Anti-TNF therapy can break down sequestering granulomas and cause disseminated tuberculosis"
+    },
+    {
+      "id": "C",
+      "text": "Anti-TNF therapy blocks PECAM-1 and prevents diapedesis of leukocytes"
+    },
+    {
+      "id": "D",
+      "text": "Anti-TNF therapy depletes complement components and causes C5b-9 deposition in tissues"
+    },
+    {
+      "id": "E",
+      "text": "Anti-TNF therapy prevents hepatic synthesis of acute-phase reactants"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Granulomas wall off a resistant stimulus without eradicating it, and maintaining their structure depends on ongoing macrophage cytokine signaling including TNF. When anti-TNF therapy removes that signal, sequestering granulomas can break down and latent infection can disseminate. The text states this explicitly and draws the practical conclusion that latent tuberculosis must always be tested for before anti-TNF therapy is begun, which is precisely what prevented this patient from being treated.",
+  "explanation_incorrect": {
+    "A": "NADPH oxidase deficiency is the genetic basis of chronic granulomatous disease and is not acquired from cytokine blockade.",
+    "C": "PECAM-1 mediated diapedesis is not targeted by antibodies against TNF, which acts on cytokine signaling rather than on junctional adhesion molecules.",
+    "D": "Complement depletion is not the mechanism of anti-TNF therapy, and membrane attack complex deposition characterizes complement-mediated injury such as that in granulomatosis with polyangiitis.",
+    "E": "IL-6 rather than TNF is the principal inducer of hepatic acute-phase reactants, and suppressed acute-phase protein production would not cause disseminated tuberculosis."
+  },
+  "educationalObjective": "TNF is required to maintain containment of latent tuberculosis, so anti-TNF therapy can break down granulomas and cause disseminated disease; screening is mandatory.",
+  "source": "Generated from 4. Pathology.pdf - Inflammation: Cytokines in inflammation: TNF, IL-1, IL-6"
+}
+]

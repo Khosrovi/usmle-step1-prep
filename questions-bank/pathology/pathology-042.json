@@ -1,0 +1,125 @@
+[
+{
+  "id": "path-147",
+  "subject": "Pathology",
+  "major_topic": "Neoplasia",
+  "subtopic": "Tumor staging and grading",
+  "difficulty": "medium",
+  "vignette": "A 58-year-old woman undergoes resection of a 3-cm breast carcinoma. The pathologist reports that the tumor shows well-formed glands resembling normal breast ducts, with a low mitotic rate, and is designated low grade. However, two of nine axillary lymph nodes contain metastatic carcinoma, and staging is designated pT2N2M0.",
+  "question": "Which of the following best describes the relationship between these two assessments?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Grade describes the degree of invasion and spread, while stage describes cellular differentiation"
+    },
+    {
+      "id": "B",
+      "text": "A low-grade tumor is always associated with a worse outcome than a high-grade tumor"
+    },
+    {
+      "id": "C",
+      "text": "Grade and stage are interchangeable terms for the same pathologic assessment"
+    },
+    {
+      "id": "D",
+      "text": "Grade describes differentiation and mitotic activity on histology, whereas stage describes the degree of invasion and spread and has greater prognostic value"
+    },
+    {
+      "id": "E",
+      "text": "Staging is based solely on the histologic appearance of the primary tumor"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Grade reflects the degree of differentiation and mitotic activity on histology, ranging from low grade (well differentiated) to high grade (poorly differentiated or anaplastic). Stage reflects the degree of invasion and spread and is determined by TNM findings, with importance ranked M greater than N greater than T. Stage generally carries more prognostic value than grade, so a high-stage low-grade tumor is usually worse than a low-stage high-grade tumor.",
+  "explanation_incorrect": {
+    "A": "This reverses the definitions; grade is the histologic differentiation assessment and stage is the anatomic extent of disease.",
+    "C": "They are distinct concepts assessed from different information, one histologic and one anatomic, and they can diverge in a single patient.",
+    "E": "Staging incorporates regional lymph node status and distant metastasis in addition to primary tumor size and invasion.",
+    "B": "Higher grade generally correlates with greater aggressiveness, so the statement inverts the usual relationship."
+  },
+  "educationalObjective": "Grade is histologic differentiation; stage is anatomic extent (TNM, importance M > N > T) and carries greater prognostic value.",
+  "source": "Generated from 4. Pathology.pdf - Neoplasia: Tumor staging and grading"
+},
+{
+  "id": "path-148",
+  "subject": "Pathology",
+  "major_topic": "Neoplasia",
+  "subtopic": "Tumor staging and grading",
+  "difficulty": "hard",
+  "vignette": "Two patients undergo oncologic resection on the same day. Patient 1 has a poorly differentiated high-grade sarcoma confined to its site of origin with no nodal or distant spread. Patient 2 has a well-differentiated low-grade carcinoma that has metastasized to a distant organ. The tumor board compares their predicted outcomes using stage and grade.",
+  "question": "Which of the following conclusions is most consistent with standard staging and grading principles?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Patient 1 has the worse prognosis because high grade always outweighs stage"
+    },
+    {
+      "id": "B",
+      "text": "Both patients have equivalent prognoses because grade and stage cancel each other out"
+    },
+    {
+      "id": "C",
+      "text": "Patient 1 has the worse prognosis because sarcoma is always more aggressive than carcinoma"
+    },
+    {
+      "id": "D",
+      "text": "Prognosis cannot be estimated without knowing the tumor's color and consistency"
+    },
+    {
+      "id": "E",
+      "text": "Patient 2 has the worse prognosis because distant metastasis carries more prognostic weight than grade"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Stage generally has more prognostic value than grade: a high-stage yet low-grade tumor is usually worse than a low-stage yet high-grade tumor, because stage reflects spread and stage determines survival. Distant metastasis is the most heavily weighted element of TNM (M greater than N greater than T). Patient 2 therefore has the worse prognosis despite favorable histology.",
+  "explanation_incorrect": {
+    "A": "Grade correlates with aggressiveness, but stage outweighs grade in prognostic importance, so this overstates the value of grade.",
+    "B": "The two measures are not equivalent and do not cancel; stage dominates the prognostic estimate.",
+    "D": "Prognosis is estimated from grade, stage, and tumor type, not from gross color or consistency.",
+    "C": "Sarcomas are not categorically more aggressive than carcinomas, and the decisive factor here is the presence of distant metastasis."
+  },
+  "educationalObjective": "Stage generally outweighs grade prognostically; distant metastasis is the most important element of TNM.",
+  "source": "Generated from 4. Pathology.pdf - Neoplasia: Tumor staging and grading"
+},
+{
+  "id": "path-149",
+  "subject": "Pathology",
+  "major_topic": "Neoplasia",
+  "subtopic": "Tumor staging and grading",
+  "difficulty": "medium",
+  "vignette": "A 61-year-old man undergoes colectomy for an adenocarcinoma of the sigmoid colon. The pathology report describes the tumor as moderately differentiated with invasion through the muscularis propria into the subserosa, three of fourteen pericolic lymph nodes positive for metastatic carcinoma, and no hepatic or pulmonary lesions on staging imaging. The report assigns a TNM stage.",
+  "question": "Which of the following correctly matches the TNM categories with the findings in this report?",
+  "options": [
+    {
+      "id": "A",
+      "text": "T describes the lymph node involvement, N describes the depth of invasion, and M describes grade"
+    },
+    {
+      "id": "B",
+      "text": "T describes distant metastasis, N describes the primary tumor, and M describes nodal involvement"
+    },
+    {
+      "id": "C",
+      "text": "T describes primary tumor size and invasion, N describes regional lymph node metastasis, and M describes distant metastasis"
+    },
+    {
+      "id": "D",
+      "text": "T describes tumor grade, N describes tumor stage, and M describes mitotic index"
+    },
+    {
+      "id": "E",
+      "text": "T, N, and M are weighted equally with no hierarchy of prognostic importance"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "In the TNM system, T refers to the size and extent of invasion of the primary tumor, N to regional lymph node metastasis, and M to distant metastasis. The categories are ranked in prognostic importance as M greater than N greater than T, so distant spread dominates. Here the depth of invasion defines T, the three positive nodes define N, and the absence of hepatic or pulmonary lesions defines M0.",
+  "explanation_incorrect": {
+    "A": "This scrambles the definitions and also substitutes grade, which is a separate histologic assessment, for the M category.",
+    "D": "Grade, stage, and mitotic index are not the meanings of T, N, and M.",
+    "E": "The system explicitly ranks importance as M greater than N greater than T rather than weighting all three equally.",
+    "B": "This assigns the three categories to the wrong findings; distant metastasis is M, not T."
+  },
+  "educationalObjective": "TNM stands for primary tumor invasion (T), regional nodes (N), and distant metastasis (M), weighted M > N > T.",
+  "source": "Generated from 4. Pathology.pdf - Neoplasia: Tumor staging and grading"
+}
+]

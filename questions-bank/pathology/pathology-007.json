@@ -1,0 +1,125 @@
+[
+{
+  "id": "path-019",
+  "subject": "Pathology",
+  "major_topic": "Neoplasia",
+  "subtopic": "Apoptosis-regulating genes in cancer",
+  "difficulty": "medium",
+  "vignette": "A 59-year-old man has painless, generalized lymphadenopathy. Biopsy shows a nodular proliferation of small centroblasts and centrocytes, and cytogenetics demonstrates t(14;18) with BCL2 overexpression and constitutive inhibition of apoptosis.",
+  "question": "Which of the following best describes the consequence of BCL2 overexpression in this tumor?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Increased proliferation driven by a transcription factor such as MYC"
+    },
+    {
+      "id": "B",
+      "text": "Reduced cell death, so cells accumulate despite normal division"
+    },
+    {
+      "id": "C",
+      "text": "Constitutive ligand-independent tyrosine kinase signaling activity"
+    },
+    {
+      "id": "D",
+      "text": "Loss of contact inhibition from a defective cytoskeletal linker"
+    },
+    {
+      "id": "E",
+      "text": "Telomere lengthening from reactivation of telomerase activity"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "BCL2 is an antiapoptotic molecule on the mitochondrial membrane that inhibits apoptosis, and its translocation t(14;18) in follicular lymphoma places it under immunoglobulin control so it is overexpressed. The result is failure of programmed cell death rather than accelerated proliferation, so neoplastic follicles accumulate. It is a classic example of an oncogene acting through evasion of apoptosis.",
+  "explanation_incorrect": {
+    "A": "Increased proliferation via a transcription factor is the effect of MYC in Burkitt lymphoma, which acts by driving growth rather than by blocking death.",
+    "C": "Ligand-independent kinase signaling comes from a receptor or non-receptor tyrosine kinase oncogene such as HER2 or BCR-ABL.",
+    "D": "Loss of contact inhibition relates to E-cadherin or merlin (NF2) dysfunction, not to BCL2.",
+    "E": "Telomere lengthening by telomerase supports replicative immortality and is not a BCL2 function."
+  },
+  "educationalObjective": "t(14;18) overexpresses BCL2 in follicular lymphoma, blocking apoptosis so cells accumulate without increased proliferation.",
+  "source": "Generated from 4. Pathology.pdf - Neoplasia: Apoptosis-regulating genes in cancer"
+},
+{
+  "id": "path-020",
+  "subject": "Pathology",
+  "major_topic": "Neoplasia",
+  "subtopic": "Apoptosis-regulating genes in cancer",
+  "difficulty": "hard",
+  "vignette": "A 63-year-old woman with a stage IV lung adenocarcinoma is discussed in the context of apoptosis-regulating genes. Her tumor has sustained a TP53 mutation, and the resident explains why the tumor cells survive despite extensive DNA damage.",
+  "question": "Which of the following is the normal role of p53 that is lost in this tumor?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Inhibiting E2F to block the G1 to S transition without affecting cell death"
+    },
+    {
+      "id": "B",
+      "text": "Blocking cytochrome c release from mitochondria so caspases never activate"
+    },
+    {
+      "id": "C",
+      "text": "Dimerizing with BAX to open the mitochondrial permeability pore"
+    },
+    {
+      "id": "D",
+      "text": "Activating p21 to block G1 to S and trigger apoptosis"
+    },
+    {
+      "id": "E",
+      "text": "Acting as a Ras GTPase activating protein"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "TP53 encodes p53, which is activated by DNA damage, then activates p21 to arrest the cell cycle at G1 and, when damage is irreparable, promotes apoptosis. Loss of p53 therefore allows cells with damaged DNA to survive and divide, driving genomic instability, which is why TP53 is the most commonly mutated tumor suppressor. The apoptosis axis is centered on BAX and the release of cytochrome c and other proapoptotic factors.",
+  "explanation_incorrect": {
+    "A": "E2F inhibition without any role in apoptosis is the function of RB, and the loss of RB underlies retinoblastoma and osteosarcoma.",
+    "B": "Blocking cytochrome c release is the antiapoptotic action of BCL2, which opposes rather than promotes apoptosis.",
+    "C": "BAX is a proapoptotic effector whose activation promotes the mitochondrial pore; it does not dimerize with p53, and its loss reduces apoptosis.",
+    "E": "Ras GTPase activating activity resides in neurofibromin (NF1), whose loss leaves RAS in the active state."
+  },
+  "educationalObjective": "p53 activates p21 to arrest G1 and promotes apoptosis of irreparably damaged cells; BCL2 blocks cytochrome c release, BAX promotes it.",
+  "source": "Generated from 4. Pathology.pdf - Neoplasia: Apoptosis-regulating genes in cancer"
+},
+{
+  "id": "path-021",
+  "subject": "Pathology",
+  "major_topic": "Neoplasia",
+  "subtopic": "Apoptosis-regulating genes in cancer",
+  "difficulty": "medium",
+  "vignette": "A 55-year-old man with a chemotherapy-refractory melanoma is found to have a tumor with reduced expression of a proapoptotic BCL2-family effector, limiting release of cytochrome c and activation of caspases.",
+  "question": "Which of the following genes and functions best represents the proapoptotic side of this balance?",
+  "options": [
+    {
+      "id": "A",
+      "text": "BAX, which opens the mitochondrial pore to release cytochrome c"
+    },
+    {
+      "id": "B",
+      "text": "BCL2, which inhibits cytochrome c release from mitochondria"
+    },
+    {
+      "id": "C",
+      "text": "CDKN2A, which encodes p16 and blocks the G1 to S transition"
+    },
+    {
+      "id": "D",
+      "text": "ABL, which encodes a non-receptor tyrosine kinase driving CML"
+    },
+    {
+      "id": "E",
+      "text": "PTEN, which negatively regulates the PI3K/AKT pathway"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Apoptosis is governed by a balance between antiapoptotic proteins such as BCL2, which blocks cytochrome c release, and proapoptotic effectors such as BAX and BAK, which permeabilize the mitochondrial outer membrane so cytochrome c escapes and activates the caspase cascade. Loss of the BAX side tips the balance toward survival, so the malignant clone resists therapy. This is why evasion of apoptosis is a hallmark of cancer.",
+  "explanation_incorrect": {
+    "B": "BCL2 inhibits rather than promotes cytochrome c release, so it sits on the antiapoptotic side of the balance.",
+    "C": "CDKN2A encodes p16, a cyclin-dependent kinase inhibitor at the G1 checkpoint, which is a cell cycle rather than apoptotic regulator.",
+    "D": "ABL encodes a non-receptor tyrosine kinase whose fusion with BCR drives CML, which is unrelated to mitochondrial apoptosis.",
+    "E": "PTEN is a lipid phosphatase opposing PI3K/AKT signaling and is not an apoptosis effector protein."
+  },
+  "educationalObjective": "Apoptosis balance: BCL2 blocks cytochrome c release while BAX promotes it and activates caspases; tumors shift toward survival.",
+  "source": "Generated from 4. Pathology.pdf - Neoplasia: Apoptosis-regulating genes in cancer"
+}
+]

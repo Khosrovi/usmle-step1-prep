@@ -1,0 +1,166 @@
+[
+{
+  "id": "path-143",
+  "subject": "Pathology",
+  "major_topic": "Neoplasia",
+  "subtopic": "Tumor progression and metastatic spread",
+  "difficulty": "medium",
+  "vignette": "A 59-year-old woman undergoes resection of a colon adenocarcinoma confined to the mucosa. The pathologist notes that the tumor cells have lost membranous expression of E-cadherin and show strong expression of matrix metalloproteinases at the invasive front. Over the next 2 years she develops multiple hepatic lesions. The pathologist explains that the tumor cells had begun to invade and travel.",
+  "question": "Which of the following best describes the sequence of events required for these hepatic lesions to develop?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Loss of intercellular junctions, basement membrane degradation, attachment to extracellular matrix proteins, migration, and vascular dissemination"
+    },
+    {
+      "id": "B",
+      "text": "Increased MHC class I expression allowing cytotoxic T cells to escort tumor cells to distant organs"
+    },
+    {
+      "id": "C",
+      "text": "Reactivation of telomerase alone, which directly seeds distant capillary beds"
+    },
+    {
+      "id": "D",
+      "text": "Secretion of vascular endothelial growth factor causing tumor cells to float freely into the peritoneal cavity"
+    },
+    {
+      "id": "E",
+      "text": "Shift of glucose metabolism toward glycolysis, which allows cells to enter lymphatics"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Tissue invasion begins with loss of E-cadherin function, loosening intercellular junctions and releasing contact inhibition. Metalloproteinases then degrade the basement membrane and extracellular matrix, and cells attach to matrix proteins such as laminin and fibronectin before migrating through the degraded matrix (locomotion) and disseminating via lymphatics or blood. Metastasis requires subsequent adhesion to endothelium, extravasation, and homing to the target organ.",
+  "explanation_incorrect": {
+    "B": "Tumor cells typically decrease MHC class I expression so cytotoxic T cells cannot recognize them; increased MHC class I would make immune clearance more likely, not spread more efficient.",
+    "C": "Telomerase reactivation supports limitless replicative potential and immortalization, but it is not a mechanism that seeds distant capillary beds.",
+    "D": "VEGF drives sustained angiogenesis, producing leaky and dilated tumor vessels; it does not directly propel cells into the peritoneum.",
+    "E": "The Warburg effect supplies carbon for biosynthesis and generates lactate, supporting rapid growth but not explaining basement membrane breakdown and vascular travel."
+  },
+  "educationalObjective": "Invasion proceeds from E-cadherin loss through metalloproteinase degradation of basement membrane, matrix attachment, locomotion, and vascular dissemination.",
+  "source": "Generated from 4. Pathology.pdf - Neoplasia: Tumor progression and metastatic spread"
+},
+{
+  "id": "path-144",
+  "subject": "Pathology",
+  "major_topic": "Neoplasia",
+  "subtopic": "Tumor progression and metastatic spread",
+  "difficulty": "easy",
+  "vignette": "A 61-year-old man undergoes resection of a 6-cm soft tissue mass in the thigh. Pathology shows a high-grade sarcoma with pleomorphic spindle cells and numerous atypical mitoses. Staging workup reveals several nodules in the lung parenchyma bilaterally, with no lymph node involvement identified.",
+  "question": "Which of the following best explains the pattern of spread observed in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Carcinomas typically spread hematogenously while sarcomas use lymphatics"
+    },
+    {
+      "id": "B",
+      "text": "Metastatic spread occurs only after the primary tumor exceeds 10 cm"
+    },
+    {
+      "id": "C",
+      "text": "All sarcomas spread through the cerebrospinal fluid"
+    },
+    {
+      "id": "D",
+      "text": "Most sarcomas spread hematogenously while most carcinomas spread via lymphatics"
+    },
+    {
+      "id": "E",
+      "text": "Lung involvement indicates direct extension from the primary tumor"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "The classic mnemonic is that most Carcinomas spread via Lymphatics and most Sarcomas spread Hematogenously (CLaSH). Sarcomas therefore characteristically seed the lungs through the bloodstream, which is exactly the bilateral pulmonary nodule pattern described. Four carcinomas are the notable exceptions that also spread hematogenously: follicular thyroid carcinoma, choriocarcinoma, renal cell carcinoma, and hepatocellular carcinoma.",
+  "explanation_incorrect": {
+    "A": "This reverses the rule; it is carcinomas that preferentially use lymphatics and sarcomas that preferentially use the bloodstream.",
+    "C": "Cerebrospinal fluid seeding is characteristic of tumors that shed into the subarachnoid space such as medulloblastoma or some germ cell tumors, not the general behavior of sarcomas.",
+    "E": "Bilateral pulmonary nodules represent distant hematogenous dissemination rather than local extension from a thigh primary.",
+    "B": "Metastatic potential relates to tumor biology, invasion, and vascular access rather than a fixed size threshold, and small tumors can metastasize."
+  },
+  "educationalObjective": "Most carcinomas metastasize via lymphatics and most sarcomas hematogenously (CLaSH).",
+  "source": "Generated from 4. Pathology.pdf - Neoplasia: Tumor progression and metastatic spread"
+},
+{
+  "id": "path-145",
+  "subject": "Pathology",
+  "major_topic": "Neoplasia",
+  "subtopic": "Tumor progression and metastatic spread",
+  "difficulty": "hard",
+  "vignette": "A 66-year-old woman with a known lung adenocarcinoma undergoes surveillance imaging that reveals a solitary 1-cm lesion in the right hepatic lobe in addition to her primary tumor. Two months later, imaging shows multiple new lesions scattered throughout both liver lobes and the adrenal glands. Her oncologist comments that the pattern of spread reflects both vascular anatomy and organ tropism.",
+  "question": "Which of the following statements about her disease is most accurate?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Distant spread requires that the primary tumor first seed regional lymph nodes before any vascular dissemination"
+    },
+    {
+      "id": "B",
+      "text": "Metastatic deposits characteristically appear as solitary lesions while primary tumors appear as multiple lesions"
+    },
+    {
+      "id": "C",
+      "text": "Vascular dissemination requires the primary tumor to secrete VEGF, which directly lodges cells in the liver"
+    },
+    {
+      "id": "D",
+      "text": "Metastases cannot occur in organs that are themselves common primary sites"
+    },
+    {
+      "id": "E",
+      "text": "The target organ for metastasis is often the first capillary bed encountered, and lung cancer is tropic for the adrenal glands"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Metastasis follows vascular dissemination with adhesion to endothelium, extravasation, and homing, and the target organ is often the first capillary bed the tumor emboli encounter. Some cancers display organ tropism beyond passive trapping, and lung cancers classically metastasize to the adrenal glands. Metastases to bone, liver, lung, and brain are more common than primary malignancies in those organs.",
+  "explanation_incorrect": {
+    "B": "The pattern is inverted: metastases often appear as multiple lesions whereas primary tumors generally appear as solitary lesions, which is exactly what the interval imaging shows.",
+    "C": "VEGF drives sustained angiogenesis and produces leaky, dilated tumor vessels; it does not determine where emboli lodge.",
+    "D": "Bone, liver, lung, and brain are simultaneously common primary sites and common metastatic sites, which is precisely why metastatic disease is statistically more frequent there than primary disease.",
+    "A": "Hematogenous dissemination can occur without prior lymph node involvement, and sarcomas commonly spread via blood while bypassing nodes entirely."
+  },
+  "educationalObjective": "Metastatic site is predicted by the first capillary bed encountered plus organ tropism, and lung cancer commonly metastasizes to the adrenals.",
+  "source": "Generated from 4. Pathology.pdf - Neoplasia: Tumor progression and metastatic spread"
+},
+{
+  "id": "path-146",
+  "subject": "Pathology",
+  "major_topic": "Neoplasia",
+  "subtopic": "Tumor progression and metastatic spread",
+  "difficulty": "medium",
+  "vignette": "A 57-year-old woman with a 1.2-cm breast mass undergoes wide local excision. Histology shows ductal carcinoma in situ in part of the specimen, but elsewhere tumor cells have breached the basement membrane and infiltrate the surrounding stroma. Sentinel lymph node biopsy is performed and one of three nodes contains a microscopic deposit of tumor cells. The oncology team explains the significance of basement membrane breach to the patient.",
+  "question": "Which of the following features most directly distinguishes this patient's invasive component from her in situ disease?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Presence of nuclear pleomorphism and increased mitotic figures"
+    },
+    {
+      "id": "B",
+      "text": "Loss of normal tissue orientation, which is the defining feature of invasion"
+    },
+    {
+      "id": "C",
+      "text": "Penetration of the basement membrane by tumor cells using collagenases and hydrolases"
+    },
+    {
+      "id": "D",
+      "text": "Presence of a desmoplastic stromal response, which only occurs with in situ disease"
+    },
+    {
+      "id": "E",
+      "text": "Occurrence of lymphatic spread, which requires intact basement membrane"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Carcinoma in situ is severe dysplasia involving the full thickness of the epithelium that does not penetrate the intact basement membrane. Invasive carcinoma is defined by cells that have breached the basement membrane using collagenases and hydrolases (metalloproteinases), with cell-cell contacts lost through inactivation of E-cadherin. Once the basement membrane is breached, access to lymphatics and blood vessels permits nodal and distant spread.",
+  "explanation_incorrect": {
+    "A": "Pleomorphism and mitotic activity are features of dysplasia and are already fully expressed in severe dysplasia and carcinoma in situ, so they do not define invasion.",
+    "D": "Desmoplasia is a stromal reaction seen with invasive carcinoma, so this statement both misattributes the finding and reverses the association.",
+    "E": "Lymphatic dissemination requires breach of the basement membrane, so it cannot occur while the membrane remains intact.",
+    "B": "Loss of tissue orientation is part of dysplasia and, like pleomorphism, is fully present in carcinoma in situ, which by definition respects the basement membrane."
+  },
+  "educationalObjective": "The defining feature of invasive carcinoma is penetration of the basement membrane by metalloproteinases; carcinoma in situ respects the membrane.",
+  "source": "Generated from 4. Pathology.pdf - Neoplasia: Tumor progression and metastatic spread"
+}
+]

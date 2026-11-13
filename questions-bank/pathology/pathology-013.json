@@ -1,0 +1,125 @@
+[
+{
+  "id": "path-043",
+  "subject": "Pathology",
+  "major_topic": "Cellular Injury",
+  "subtopic": "Cellular aging and telomeres",
+  "difficulty": "medium",
+  "vignette": "A 91-year-old woman is brought in for a routine visit. She has no chronic illness but reports needing reading glasses for decades, reduced hearing at high frequencies, and a gradual decline in exercise tolerance with a lower maximum heart rate on a treadmill test. She has no cognitive impairment and no evidence of organ-specific disease.",
+  "question": "Which of the following best describes the process underlying these findings?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Time-dependent progressive decline in organ function with increased susceptibility to disease"
+    },
+    {
+      "id": "B",
+      "text": "Irreversible coagulative necrosis of multiple organ systems"
+    },
+    {
+      "id": "C",
+      "text": "Widespread malignant transformation with metastatic spread"
+    },
+    {
+      "id": "D",
+      "text": "Amyloid deposition producing multisystem failure"
+    },
+    {
+      "id": "E",
+      "text": "Chronic granulomatous inflammation of each organ"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Normal aging is a time-dependent progressive decline in organ function that increases susceptibility to disease, and it is associated with genetic changes such as telomere shortening, epigenetic changes such as DNA methylation, and metabolic changes such as mitochondrial dysfunction. The findings here match the expected physiologic changes: impaired accommodation (presbyopia), reduced hearing (presbycusis), reduced arterial compliance with a lower maximum heart rate, and preserved cognition despite mild decline. None of this represents a specific disease state.",
+  "explanation_incorrect": {
+    "A": "Coagulative necrosis is an ischemic injury pattern affecting a region of tissue, not a gradual multisystem physiologic decline.",
+    "B": "Malignant transformation produces a clonal neoplasm with invasion and metastasis, whereas this patient has no mass lesion or malignancy and her changes are age-appropriate.",
+    "C": "Amyloidosis is extracellular deposition of beta-pleated sheet protein causing organ-specific dysfunction such as nephrotic syndrome or restrictive cardiomyopathy; it is a disease, not normal aging.",
+    "E": "Granulomatous inflammation reflects a response to organisms such as tuberculosis or Histoplasma and would produce caseous necrosis, which is absent here."
+  },
+  "educationalObjective": "Normal aging is a time-dependent progressive decline in organ function, driven by genetic, epigenetic, and metabolic alterations, that increases susceptibility to disease without being a disease itself.",
+  "source": "Generated from 4. Pathology.pdf - Cellular Injury: Cellular aging and telomeres"
+},
+{
+  "id": "path-044",
+  "subject": "Pathology",
+  "major_topic": "Cellular Injury",
+  "subtopic": "Cellular aging and telomeres",
+  "difficulty": "medium",
+  "vignette": "Researchers studying a highly aggressive human cancer find that the tumor cells maintain their chromosome ends indefinitely and divide without the progressive shortening that limits the replicative capacity of normal somatic cells. They identify reactivation of a ribonucleoprotein enzyme in the tumor cells that is largely inactive in most adult somatic tissues.",
+  "question": "Which of the following best describes this enzyme and its effect in the tumor?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Bax activation causing release of cytochrome c and apoptosis"
+    },
+    {
+      "id": "B",
+      "text": "Telomerase reactivation maintaining telomere length and preventing cell aging"
+    },
+    {
+      "id": "C",
+      "text": "Superoxide dismutase scavenging free radicals in the tumor cells"
+    },
+    {
+      "id": "D",
+      "text": "Ubiquitin-proteasome degradation of the cytoskeleton"
+    },
+    {
+      "id": "E",
+      "text": "Caspase activation triggered by Fas-FasL ligation"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Reactivation of telomerase allows maintenance and lengthening of telomeres, preventing chromosome shortening and cell aging, which contributes to the unlimited replicative potential of cancer cells. Telomere shortening is also one of the genetic alterations associated with normal aging, so tumors that restore telomerase escape this clock. This is a hallmark of malignant transformation distinct from the proapoptotic and antioxidant mechanisms listed in the other options.",
+  "explanation_incorrect": {
+    "A": "Bax is a proapoptotic member of the Bcl-2 family that forms mitochondrial pores and releases cytochrome c, which would promote rather than prevent tumor cell survival.",
+    "B": "Superoxide dismutase is a free radical scavenging enzyme that protects against oxidant injury; it does not maintain chromosome ends or grant replicative immortality.",
+    "C": "Ubiquitin-proteasome degradation of the cytoskeleton produces atrophy by shrinking cells, the opposite of sustained proliferative capacity.",
+    "D": "Fas-FasL ligation activates the extrinsic apoptotic pathway through caspases, which would cause cell death rather than unlimited division."
+  },
+  "educationalObjective": "Telomerase reactivation maintains and lengthens telomeres, preventing chromosome shortening and cell aging, and contributes to the immortalization of cancer cells.",
+  "source": "Generated from 4. Pathology.pdf - Cellular Injury: Cellular aging and telomeres"
+},
+{
+  "id": "path-045",
+  "subject": "Pathology",
+  "major_topic": "Cellular Injury",
+  "subtopic": "Cellular aging and telomeres",
+  "difficulty": "hard",
+  "vignette": "A 70-year-old woman is enrolled in a study of aging. Investigators compare her forearm skin with sun-protected skin from a younger donor. Her sun-exposed skin shows deep wrinkles and senile purpura. They also study a separate process, characterized by reduced biosynthetic capacity of dermal fibroblasts, that contributes to chronological skin aging independent of sun exposure.",
+  "question": "Which of the following best distinguishes the two aging processes described?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Intrinsic aging reflects reduced fibroblast biosynthetic capacity, while extrinsic aging results from sun exposure degrading collagen and elastin"
+    },
+    {
+      "id": "B",
+      "text": "Intrinsic aging is caused by UVA-induced solar elastosis, while extrinsic aging is due to reduced fibroblast biosynthesis"
+    },
+    {
+      "id": "C",
+      "text": "Both processes are caused by repeated radiation injury from cancer therapy"
+    },
+    {
+      "id": "D",
+      "text": "Intrinsic aging is caused by metastatic calcification of the dermis"
+    },
+    {
+      "id": "E",
+      "text": "Extrinsic aging results only from reduced sex hormone production"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Intrinsic aging, also called chronological aging, is characterized by reduced biosynthetic capacity of dermal fibroblasts. Extrinsic aging, also called photoaging, results from sun exposure, particularly UVA, which degrades dermal collagen and elastin, and the degradation products accumulate in the dermis as solar elastosis. Both processes thin the dermis, but only photoaging depends on external radiation exposure and produces the characteristic sun-damaged appearance.",
+  "explanation_incorrect": {
+    "B": "The definitions are reversed: solar elastosis and UVA damage define extrinsic photoaging, while reduced fibroblast biosynthetic capacity defines intrinsic chronological aging.",
+    "C": "Therapeutic radiation can cause localized inflammation and fibrosis, but the skin changes of aging here stem from chronological age and sun exposure rather than cancer therapy.",
+    "D": "Metastatic calcification deposits calcium in normal tissues such as kidney, lung, and gastric mucosa because of hypercalcemia or hyperphosphatemia; it does not describe dermal aging.",
+    "E": "Reduced sex hormone production explains vulvovaginal atrophy and other reproductive changes, not photoaging, which requires degradation of collagen and elastin by sun exposure."
+  },
+  "educationalObjective": "Intrinsic aging reflects reduced biosynthetic capacity of dermal fibroblasts, whereas extrinsic photoaging reflects UVA-mediated degradation of dermal collagen and elastin with solar elastosis.",
+  "source": "Generated from 4. Pathology.pdf - Cellular Injury: Cellular aging and telomeres"
+}
+]

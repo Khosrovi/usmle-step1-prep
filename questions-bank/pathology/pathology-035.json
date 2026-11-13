@@ -1,0 +1,248 @@
+[
+{
+  "id": "path-116",
+  "subject": "Pathology",
+  "major_topic": "Neoplasia",
+  "subtopic": "Oncogenes",
+  "difficulty": "medium",
+  "vignette": "A 12-year-old boy from equatorial Africa has a rapidly enlarging, painless jaw mass. Biopsy shows a 'starry sky' pattern of macrophages scattered among intermediate-size B cells, and cytogenetics demonstrates t(8;14). An oncogene is brought under control of immunoglobulin regulatory elements.",
+  "question": "Which gene is translocated in this tumor, and what is its product?",
+  "options": [
+    {
+      "id": "A",
+      "text": "RAS, a GTPase"
+    },
+    {
+      "id": "B",
+      "text": "BCL2, an antiapoptotic protein"
+    },
+    {
+      "id": "C",
+      "text": "ABL, a non-receptor tyrosine kinase"
+    },
+    {
+      "id": "D",
+      "text": "MYC, a transcription factor"
+    },
+    {
+      "id": "E",
+      "text": "WT1, a developmental transcription factor"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Burkitt lymphoma carries t(8;14), which places MYC (c-myc), a transcription factor on chromosome 8, under the control of immunoglobulin heavy chain enhancers on chromosome 14. The result is MYC overexpression, driving relentless transcription and proliferation, giving the starry sky appearance with tingible body macrophages. MYC is an oncogene, so a single allele's deregulation is sufficient.",
+  "explanation_incorrect": {
+    "A": "RAS is a GTPase mutated by point mutation, classically in pancreatic and colorectal cancers, and has no role in the t(8;14) of Burkitt lymphoma.",
+    "B": "BCL2 is an antiapoptotic molecule translocated in follicular lymphoma as t(14;18), not in Burkitt lymphoma.",
+    "C": "ABL is a non-receptor tyrosine kinase that forms BCR-ABL in the t(9;22) of chronic myeloid leukemia.",
+    "E": "WT1 is a tumor suppressor and developmental transcription factor whose loss causes Wilms tumor."
+  },
+  "educationalObjective": "Burkitt lymphoma = t(8;14) placing MYC, a transcription factor, under immunoglobulin promoter control.",
+  "source": "Generated from 4. Pathology.pdf - Neoplasia: Oncogenes"
+},
+{
+  "id": "path-117",
+  "subject": "Pathology",
+  "major_topic": "Neoplasia",
+  "subtopic": "Oncogenes",
+  "difficulty": "medium",
+  "vignette": "A 54-year-old man has fatigue, night sweats, and marked splenomegaly. The leukocyte count is 68,000 with a left shift, and bone marrow is hypercellular. Cytogenetics shows t(9;22), producing a fusion protein with constitutive tyrosine kinase activity that is targeted by imatinib.",
+  "question": "This fusion protein is best identified as which of the following?",
+  "options": [
+    {
+      "id": "A",
+      "text": "MYC"
+    },
+    {
+      "id": "B",
+      "text": "BCR-ABL"
+    },
+    {
+      "id": "C",
+      "text": "HER2 (ERBB2)"
+    },
+    {
+      "id": "D",
+      "text": "JAK2"
+    },
+    {
+      "id": "E",
+      "text": "APC"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "The Philadelphia chromosome t(9;22) fuses BCR and ABL to create BCR-ABL, a non-receptor tyrosine kinase with constitutive activity. It is the driver of chronic myeloid leukemia and is also found in some acute lymphoblastic leukemias. Imatinib is a tyrosine kinase inhibitor that binds the fusion protein. ABL alone, without the BCR partner, is not the oncogenic form here.",
+  "explanation_incorrect": {
+    "A": "MYC is a transcription factor deregulated by t(8;14) in Burkitt lymphoma and does not have constitutive kinase activity.",
+    "C": "HER2 is a receptor tyrosine kinase overexpressed by amplification in breast and gastric carcinoma, not a translocation product.",
+    "D": "JAK2 is a non-receptor tyrosine kinase activated by point mutation in myeloproliferative neoplasms, produced without a t(9;22) fusion.",
+    "E": "APC is a tumor suppressor and negative regulator of the WNT pathway, mutated by loss of function in colorectal cancer."
+  },
+  "educationalObjective": "t(9;22) creates BCR-ABL, a constitutively active non-receptor tyrosine kinase driving CML; imatinib targets it.",
+  "source": "Generated from 4. Pathology.pdf - Neoplasia: Oncogenes"
+},
+{
+  "id": "path-118",
+  "subject": "Pathology",
+  "major_topic": "Neoplasia",
+  "subtopic": "Oncogenes",
+  "difficulty": "hard",
+  "vignette": "A 52-year-old woman has a 3 cm invasive breast carcinoma. Tumor profiling reports HER2 (ERBB2) gene amplification, and the oncologist selects a monoclonal antibody directed against the receptor.",
+  "question": "Which of the following best explains how HER2 contributes to this tumor's growth?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A point mutation in one allele activates a GTPase"
+    },
+    {
+      "id": "B",
+      "text": "A reciprocal translocation deregulating a transcription factor"
+    },
+    {
+      "id": "C",
+      "text": "Constitutive receptor tyrosine kinase signaling, independent of ligand"
+    },
+    {
+      "id": "D",
+      "text": "Biallelic loss of a gene that inhibits E2F"
+    },
+    {
+      "id": "E",
+      "text": "Reactivation of telomerase with telomere elongation and immortalization"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "HER2 (ERBB2) is a receptor tyrosine kinase that becomes an oncogene through gene amplification, producing constitutive ligand-independent signaling. Amplification is an oncogenic mechanism distinct from translocation and point mutation, and it requires that only one allele be affected. HER2 defines breast and gastric carcinomas responsive to trastuzumab and other HER2-directed therapy.",
+  "explanation_incorrect": {
+    "A": "Point mutation activating a GTPase describes KRAS, the mutation mechanism of pancreatic, colorectal, and lung cancers.",
+    "B": "Translocation deregulating a transcription factor describes MYC in Burkitt lymphoma, which is a different oncogenic mechanism.",
+    "D": "Biallelic loss of a gene inhibiting E2F describes the RB tumor suppressor, a recessive mechanism rather than amplification.",
+    "E": "Telomerase reactivation supports replicative immortality and is not the oncogenic mechanism of HER2 amplification."
+  },
+  "educationalObjective": "HER2/ERBB2 is amplified rather than mutated, producing ligand-independent receptor tyrosine kinase signaling in breast and gastric cancer.",
+  "source": "Generated from 4. Pathology.pdf - Neoplasia: Oncogenes"
+},
+{
+  "id": "path-119",
+  "subject": "Pathology",
+  "major_topic": "Neoplasia",
+  "subtopic": "Oncogenes",
+  "difficulty": "medium",
+  "vignette": "A 63-year-old woman has newly diagnosed pancreatic adenocarcinoma. Genotyping is sent, and a point mutation is found in KRAS that locks the protein in its active, GTP-bound state.",
+  "question": "Which of the following best characterizes this class of oncogenic mechanism?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Point mutation activating one allele of a proto-oncogene"
+    },
+    {
+      "id": "B",
+      "text": "Rearrangement that fuses two genes into a hybrid kinase"
+    },
+    {
+      "id": "C",
+      "text": "Gene amplification producing many extra copies"
+    },
+    {
+      "id": "D",
+      "text": "Deletion of both alleles of a tumor suppressor gene"
+    },
+    {
+      "id": "E",
+      "text": "Promoter methylation silencing a DNA repair gene"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Activation of a proto-oncogene to an oncogene is a gain-of-function event that requires damage to only one allele. KRAS is the classic example, with point mutations that impair GTP hydrolysis and lock the protein in the active state, found in pancreatic, colorectal, lung, and endometrial cancers. Other oncogenic mechanisms include amplification (HER2, MYCN) and translocation (BCR-ABL, MYC).",
+  "explanation_incorrect": {
+    "B": "Rearrangement fusing two genes into a hybrid kinase describes BCR-ABL in CML, not KRAS activation.",
+    "C": "Gene amplification describes HER2 in breast cancer or MYCN in neuroblastoma, which is distinct from a point mutation.",
+    "D": "Deletion of both suppressor alleles is a recessive loss-of-function mechanism, the opposite of oncogene activation.",
+    "E": "Promoter methylation silencing a DNA repair gene, such as MLH1 in Lynch syndrome, is an epigenetic mechanism of repair loss."
+  },
+  "educationalObjective": "Oncogenes are gain-of-function single-allele events; KRAS activation is by point mutation locking the GTPase in its active state.",
+  "source": "Generated from 4. Pathology.pdf - Neoplasia: Oncogenes"
+},
+{
+  "id": "path-120",
+  "subject": "Pathology",
+  "major_topic": "Neoplasia",
+  "subtopic": "Oncogenes",
+  "difficulty": "medium",
+  "vignette": "A 71-year-old man has a persistently elevated hematocrit of 60% and a platelet count of 900,000. Bone marrow shows panmyelosis with no increase in blasts. Molecular testing demonstrates a point mutation in JAK2.",
+  "question": "Which of the following best describes the JAK2 oncoprotein and its associated neoplasms?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A transcription factor activated by t(8;14)"
+    },
+    {
+      "id": "B",
+      "text": "A receptor tyrosine kinase amplified in breast cancer"
+    },
+    {
+      "id": "C",
+      "text": "An antiapoptotic mitochondrial membrane protein blocking pores"
+    },
+    {
+      "id": "D",
+      "text": "A GTPase activating protein"
+    },
+    {
+      "id": "E",
+      "text": "A non-receptor tyrosine kinase in myeloproliferative neoplasms"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "JAK2 encodes a non-receptor tyrosine kinase whose activating point mutation is characteristic of myeloproliferative neoplasms, including polycythemia vera, essential thrombocythemia, and primary myelofibrosis. Constitutive JAK2 signaling drives growth of myeloid lineages, giving the panmyelosis and elevated hematocrit. Naming it a non-receptor tyrosine kinase distinguishes it from receptor tyrosine kinases such as HER2 or from non-kinase oncogenes.",
+  "explanation_incorrect": {
+    "A": "A transcription factor activated by t(8;14) describes MYC and Burkitt lymphoma, not JAK2.",
+    "B": "A receptor tyrosine kinase amplified in breast cancer describes HER2, which signals at the cell membrane rather than through JAK-STAT activation.",
+    "C": "An antiapoptotic mitochondrial protein describes BCL2, implicated in follicular and diffuse large B-cell lymphomas.",
+    "D": "A GTPase activating protein describes neurofibromin (NF1), whose loss permits RAS to remain active."
+  },
+  "educationalObjective": "JAK2 is a non-receptor tyrosine kinase; its point mutation drives polycythemia vera and other myeloproliferative neoplasms.",
+  "source": "Generated from 4. Pathology.pdf - Neoplasia: Oncogenes"
+},
+{
+  "id": "path-121",
+  "subject": "Pathology",
+  "major_topic": "Neoplasia",
+  "subtopic": "Oncogenes",
+  "difficulty": "hard",
+  "vignette": "A pathology resident is preparing a table that links each oncogene with its exact genetic mechanism and associated tumor.",
+  "question": "Which of the following gene-mechanism-tumor groupings is correct?",
+  "options": [
+    {
+      "id": "A",
+      "text": "MYC gene amplification as the driver in Burkitt lymphoma"
+    },
+    {
+      "id": "B",
+      "text": "KRAS gene translocation as the driver in chronic myeloid leukemia"
+    },
+    {
+      "id": "C",
+      "text": "BCL2 gene point mutation as the driver in Burkitt lymphoma"
+    },
+    {
+      "id": "D",
+      "text": "MYCN gene amplification in neuroblastoma"
+    },
+    {
+      "id": "E",
+      "text": "RAS gene translocation as the driver in neuroblastoma"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "MYCN (N-myc) is amplified in a subset of neuroblastomas, where copy number gain correlates with aggressive behavior and poor prognosis. The classification of oncogene mechanisms is a classic exam point: amplification for HER2 and MYCN, translocation for BCR-ABL, MYC, and BCL2, and point mutation for KRAS, BRAF, and JAK2. Only the MYCN-neuroblastoma pairing is correct here.",
+  "explanation_incorrect": {
+    "A": "MYC is deregulated by the t(8;14) translocation in Burkitt lymphoma, not by amplification.",
+    "B": "KRAS is activated by point mutation; the t(9;22) translocation producing BCR-ABL is the CML mechanism.",
+    "C": "BCL2 is activated by the t(14;18) translocation in follicular lymphoma, whereas Burkitt lymphoma is driven by MYC translocation.",
+    "E": "RAS family genes are activated by point mutation, and neither RAS nor a RAS translocation is the mechanism in neuroblastoma."
+  },
+  "educationalObjective": "Amplification drives HER2 and MYCN; translocations drive MYC, BCL2, and BCR-ABL; point mutations drive KRAS, BRAF, and JAK2.",
+  "source": "Generated from 4. Pathology.pdf - Neoplasia: Oncogenes"
+}
+]

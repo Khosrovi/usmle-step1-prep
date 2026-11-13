@@ -1,0 +1,125 @@
+[
+{
+  "id": "path-085",
+  "subject": "Pathology",
+  "major_topic": "Neoplasia",
+  "subtopic": "Immune checkpoint inhibitors and tumor immunology",
+  "difficulty": "medium",
+  "vignette": "A 68-year-old man with metastatic melanoma is started on ipilimumab, an antibody directed against an inhibitory receptor on T cells. Four weeks later he develops profuse watery diarrhea, abdominal cramping, and a pruritic maculopapular rash. Stool studies are negative for pathogens. His oncologist attributes these symptoms to the mechanism of the drug rather than to infection.",
+  "question": "Which of the following best explains both the antitumor effect and the adverse effects of this drug?",
+  "options": [
+    {
+      "id": "A",
+      "text": "CTLA-4 on T cells outcompetes CD28 for B7 on antigen-presenting cells, and blocking it restores T-cell costimulation, which can also attack normal tissue"
+    },
+    {
+      "id": "B",
+      "text": "The drug blocks PD-L1 on tumor cells, preventing PD-1 engagement and T-cell exhaustion"
+    },
+    {
+      "id": "C",
+      "text": "The drug depletes regulatory T cells by binding CD25 and causes autoimmunity through interleukin-2 deficiency"
+    },
+    {
+      "id": "D",
+      "text": "The drug directly kills tumor cells by cross-linking B7 on the tumor surface"
+    },
+    {
+      "id": "E",
+      "text": "The drug increases MHC class I expression on tumor cells, allowing cytotoxic T-cell recognition"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Immune checkpoint interactions modulate T-cell activation and normally decrease the immune response against tumor cells. CTLA-4 on T cells outcompetes CD28 for B7 on antigen-presenting cells, producing loss of the T-cell costimulatory signal; ipilimumab blocks CTLA-4 and restores costimulation. Because checkpoint blockade unleashes the immune response nonselectively, immune-related adverse events such as colitis, dermatitis, and endocrinopathies occur.",
+  "explanation_incorrect": {
+    "B": "That describes antibodies against PD-L1 such as atezolizumab, durvalumab, or avelumab, or antibodies against PD-1 such as nivolumab and pembrolizumab, not a CTLA-4 antibody.",
+    "C": "Regulatory T-cell depletion via CD25 binding describes agents such as basiliximab used in transplantation, and interleukin-2 deficiency is not the checkpoint mechanism.",
+    "D": "Checkpoint inhibitors work by modulating T-cell signaling rather than by directly killing tumor cells through B7 cross-linking.",
+    "E": "Inducing MHC class I expression is not the mechanism, and tumor cells typically decrease MHC class I to escape cytotoxic T cells."
+  },
+  "educationalObjective": "Ipilimumab blocks CTLA-4, restoring T-cell costimulation by preventing CTLA-4 from outcompeting CD28 for B7.",
+  "source": "Generated from 4. Pathology.pdf - Neoplasia: Immune checkpoint inhibitors and tumor immunology"
+},
+{
+  "id": "path-086",
+  "subject": "Pathology",
+  "major_topic": "Neoplasia",
+  "subtopic": "Immune checkpoint inhibitors and tumor immunology",
+  "difficulty": "medium",
+  "vignette": "A 71-year-old woman with metastatic lung adenocarcinoma receives pembrolizumab, an antibody directed against PD-1. Her scans show significant tumor regression. After several cycles she develops fatigue, proximal muscle weakness, and an elevated TSH with low free T4, along with a mild diffuse skin rash. Her oncologist explains that these are immune-related effects rather than metastatic spread.",
+  "question": "Which of the following best describes the interaction targeted by this therapy?",
+  "options": [
+    {
+      "id": "A",
+      "text": "CTLA-4 binding B7 on the T cell, preventing CD28 signaling"
+    },
+    {
+      "id": "B",
+      "text": "PD-1 on T cells interacting with PD-L1 or PD-L2 on tumor cells or immune cells in the tumor microenvironment, causing T-cell dysfunction or exhaustion"
+    },
+    {
+      "id": "C",
+      "text": "MHC class II on antigen-presenting cells interacting with the T-cell receptor to trigger apoptosis"
+    },
+    {
+      "id": "D",
+      "text": "B7 on the antigen-presenting cell engaging CD28 to inhibit T-cell activation"
+    },
+    {
+      "id": "E",
+      "text": "Tumor cells secreting transforming growth factor beta to recruit regulatory T cells"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "PD-1 on T cells engages PD-L1 or PD-L2 expressed by tumor cells or immune cells in the tumor microenvironment, producing T-cell dysfunction known as exhaustion and reducing the immune response against tumor cells. Antibodies against PD-1 (cemiplimab, nivolumab, pembrolizumab) or against PD-L1 (atezolizumab, durvalumab, avelumab) block this interaction. Because the blockade is systemic, immune-related adverse effects such as endocrinopathy, dermatitis, and colitis can emerge.",
+  "explanation_incorrect": {
+    "A": "This describes the CTLA-4 pathway targeted by ipilimumab, and the geometry in the option wrongly places B7 on the T cell.",
+    "C": "MHC class II presents antigen to the T-cell receptor to activate CD4-positive T cells rather than to trigger apoptosis, and it is not the checkpoint targeted here.",
+    "D": "B7 engaging CD28 normally provides a positive costimulatory signal, so it is the opposite of an inhibitory checkpoint.",
+    "E": "TGF-beta secretion and regulatory T-cell recruitment are genuine tumor escape mechanisms but are not the interaction blocked by anti-PD-1 therapy."
+  },
+  "educationalObjective": "Anti-PD-1 and anti-PD-L1 agents block PD-1/PD-L1 signaling that otherwise exhausts T cells against the tumor.",
+  "source": "Generated from 4. Pathology.pdf - Neoplasia: Immune checkpoint inhibitors and tumor immunology"
+},
+{
+  "id": "path-087",
+  "subject": "Pathology",
+  "major_topic": "Neoplasia",
+  "subtopic": "Immune checkpoint inhibitors and tumor immunology",
+  "difficulty": "hard",
+  "vignette": "A 60-year-old man with metastatic renal cell carcinoma has progressed despite checkpoint inhibitor therapy. Analysis of his tumor tissue shows markedly reduced membranous MHC class I expression on the tumor cells, a dense infiltrate of regulatory T cells, and high stromal levels of transforming growth factor beta. His oncologist explains that these findings represent immune escape.",
+  "question": "Which of the following best explains why this tumor escapes immune-mediated destruction?",
+  "options": [
+    {
+      "id": "A",
+      "text": "High MHC class I expression prevents cytotoxic T cells from recognizing the tumor"
+    },
+    {
+      "id": "B",
+      "text": "Reactivation of telomerase directly suppresses T-cell function in the tumor microenvironment"
+    },
+    {
+      "id": "C",
+      "text": "Reduced MHC class I expression prevents recognition by cytotoxic T cells, and immunosuppressive factors plus regulatory T cells dampen the response"
+    },
+    {
+      "id": "D",
+      "text": "The Warburg effect produces lactate that specifically activates cytotoxic T cells against benign tissue"
+    },
+    {
+      "id": "E",
+      "text": "Loss of E-cadherin enables tumor cells to present tumor antigens more efficiently to T cells"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Tumor cells must evade immune destruction for successful tumorigenesis, and they do so by several mechanisms: decreased MHC class I expression so cytotoxic T cells cannot recognize them, secretion of immunosuppressive factors such as transforming growth factor beta, recruitment of regulatory T cells to downregulate the immune response, and upregulation of immune checkpoint molecules. All three findings in this vignette are classic escape mechanisms.",
+  "explanation_incorrect": {
+    "A": "The relationship is inverted; reduced rather than high MHC class I expression is the escape mechanism, and high expression would make recognition easier.",
+    "D": "The Warburg effect supplies carbon for biosynthesis and increases lactic acid production, but it does not activate cytotoxic T cells.",
+    "E": "Loss of E-cadherin promotes invasion and metastasis rather than improving antigen presentation, which is a feature of antigen-presenting cells.",
+    "B": "Telomerase reactivation confers limitless replicative potential and does not suppress T-cell function in the microenvironment."
+  },
+  "educationalObjective": "Tumors escape immunity by decreasing MHC class I, secreting immunosuppressive TGF-beta, recruiting regulatory T cells, and upregulating checkpoints.",
+  "source": "Generated from 4. Pathology.pdf - Neoplasia: Immune checkpoint inhibitors and tumor immunology"
+}
+]

@@ -1,0 +1,248 @@
+[
+{
+  "id": "path-150",
+  "subject": "Pathology",
+  "major_topic": "Neoplasia",
+  "subtopic": "Tumor suppressor genes",
+  "difficulty": "medium",
+  "vignette": "A 14-month-old boy is brought in because his parents noticed a white reflex in his right eye. Funduscopy shows a white mass in the retina. Genetic testing of the tumor demonstrates loss of both copies of the RB1 gene, confirmed as a somatic second hit in a child who inherited one mutant allele.",
+  "question": "Which statement best reflects the genetic mechanism underlying this tumor?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Activation of a proto-oncogene by a single point mutation of one allele"
+    },
+    {
+      "id": "B",
+      "text": "Amplification of a receptor tyrosine kinase gene producing constitutive signaling"
+    },
+    {
+      "id": "C",
+      "text": "Inheritance of a gain-of-function mutation with dominant transmission"
+    },
+    {
+      "id": "D",
+      "text": "Constitutional loss of only one allele is sufficient to produce the tumor"
+    },
+    {
+      "id": "E",
+      "text": "Loss of both alleles of a tumor suppressor gene is required, per the two-hit hypothesis"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Knudson's two-hit hypothesis states that both alleles of a tumor suppressor gene must be lost before disease is expressed. In hereditary retinoblastoma the child inherits one mutant RB1 allele and acquires a somatic second hit, so disease appears early and often bilaterally. In sporadic disease both hits occur somatically, so tumors are later and unilateral. Tumor suppressor loss of function is recessive at the cellular level.",
+  "explanation_incorrect": {
+    "A": "Proto-oncogene activation is a gain-of-function event that requires damage to only one allele, which is the mechanism of oncogenes such as RAS.",
+    "B": "Gene amplification of a receptor tyrosine kinase, such as HER2, is an oncogenic amplification mechanism and not how RB1 mediates disease.",
+    "C": "Tumor suppressor mutations are loss-of-function and recessive at the cell level, so they are not inherited in a dominant gain-of-function pattern.",
+    "D": "A single constitutional allele loss is not sufficient; the second allele must also be lost for the tumor to develop."
+  },
+  "educationalObjective": "Knudson two-hit hypothesis: tumor suppressor genes require loss of both alleles; heritable cases inherit one hit already.",
+  "source": "Generated from 4. Pathology.pdf - Neoplasia: Tumor suppressor genes"
+},
+{
+  "id": "path-151",
+  "subject": "Pathology",
+  "major_topic": "Neoplasia",
+  "subtopic": "Tumor suppressor genes",
+  "difficulty": "medium",
+  "vignette": "A 27-year-old man has a soft tissue sarcoma of the thigh. His family history is notable for a sister with breast cancer at age 31, his father with lung cancer at 40, and a paternal aunt with an adrenal cortical carcinoma. Genetic testing reveals a germline TP53 mutation.",
+  "question": "This patient's syndrome is best described by which of the following?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Neurofibromatosis type 1 (neurofibromin loss)"
+    },
+    {
+      "id": "B",
+      "text": "Familial adenomatous polyposis (APC loss)"
+    },
+    {
+      "id": "C",
+      "text": "Li-Fraumeni syndrome (SBLA syndrome)"
+    },
+    {
+      "id": "D",
+      "text": "von Hippel-Lindau disease"
+    },
+    {
+      "id": "E",
+      "text": "Tuberous sclerosis complex"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Li-Fraumeni syndrome results from germline loss of TP53, which encodes p53, the guardian of the genome that activates p21 and blocks the G1 to S transition. Affected families develop multiple malignancies at an early age, remembered by SBLA: Sarcoma, Breast and Brain tumors, Lung and Leukemia, and Adrenal gland carcinoma. A young sarcoma with this family history is classic.",
+  "explanation_incorrect": {
+    "A": "Neurofibromatosis type 1 involves loss of NF1 neurofibromin, a Ras GTPase activating protein, and causes nerve sheath tumors and cafe-au-lait macules.",
+    "B": "Familial adenomatous polyposis follows APC loss and produces hundreds of colorectal adenomas, not this multi-tumor spectrum.",
+    "D": "von Hippel-Lindau disease is caused by VHL loss, leading to hemangioblastoma and renal cell carcinoma through HIF stabilization.",
+    "E": "Tuberous sclerosis complex results from TSC1 or TSC2 loss and causes hamartomatous lesions of brain, skin, and kidney."
+  },
+  "educationalObjective": "Li-Fraumeni (SBLA) = germline TP53: Sarcoma, Breast/Brain, Lung/Leukemia, Adrenal; multiple cancers at an early age.",
+  "source": "Generated from 4. Pathology.pdf - Neoplasia: Tumor suppressor genes"
+},
+{
+  "id": "path-152",
+  "subject": "Pathology",
+  "major_topic": "Neoplasia",
+  "subtopic": "Tumor suppressor genes",
+  "difficulty": "medium",
+  "vignette": "A 19-year-old woman has a painless, slow-growing, bilateral temporal field defect and is found to have a sacral spinal mass on imaging. She undergoes resection of an intracranial tumor. Her mother had a similar operation in her 30s. Genetic testing confirms a mutation in NF2.",
+  "question": "Which of the following is the product of the NF2 gene and its function?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Neurofibromin, a Ras GTPase activating protein"
+    },
+    {
+      "id": "B",
+      "text": "Merlin (schwannomin), a cytoskeletal linker protein"
+    },
+    {
+      "id": "C",
+      "text": "Tuberin, an inhibitor of mTOR"
+    },
+    {
+      "id": "D",
+      "text": "p16, an inhibitor of cyclin-dependent kinases at the G1 checkpoint"
+    },
+    {
+      "id": "E",
+      "text": "Menin, a nuclear protein mutated in endocrine neoplasia"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "NF2 encodes merlin (schwannomin), which links the membrane to the cytoskeleton and supports contact inhibition. Loss of NF2 therefore produces loss of contact inhibition in addition to permitting tumor formation, and is the molecular basis of bilateral vestibular schwannomas (often with meningiomas and ependymomas) in neurofibromatosis type 2. NF1 is the related but distinct gene encoding neurofibromin.",
+  "explanation_incorrect": {
+    "A": "Neurofibromin is the NF1 product, a Ras GTPase activating protein, and its loss causes neurofibromatosis type 1.",
+    "C": "Tuberin is encoded by TSC2 and inhibits mTOR; its loss causes tuberous sclerosis complex.",
+    "D": "p16 is encoded by CDKN2A and blocks the G1 to S transition; it is unrelated to neurofibromatosis type 2.",
+    "E": "Menin is the MEN1 product, and its loss causes multiple endocrine neoplasia type 1."
+  },
+  "educationalObjective": "NF2 encodes merlin (schwannomin); its loss abolishes contact inhibition and causes bilateral vestibular schwannomas.",
+  "source": "Generated from 4. Pathology.pdf - Neoplasia: Tumor suppressor genes"
+},
+{
+  "id": "path-153",
+  "subject": "Pathology",
+  "major_topic": "Neoplasia",
+  "subtopic": "Tumor suppressor genes",
+  "difficulty": "hard",
+  "vignette": "A 34-year-old man has blood pressure 210/120 mm Hg, episodic headaches, and palpitations. Imaging shows a cerebellar mass and multiple cysts in the pancreas and kidneys. A renal cyst is biopsied and shows clear cell renal cell carcinoma. Genetic testing identifies a VHL mutation.",
+  "question": "The VHL gene product normally acts by which mechanism?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Degrading beta-catenin in the WNT pathway"
+    },
+    {
+      "id": "B",
+      "text": "Blocking the G1 to S transition by inhibiting E2F"
+    },
+    {
+      "id": "C",
+      "text": "Activating p21 to arrest the cell cycle"
+    },
+    {
+      "id": "D",
+      "text": "Dephosphorylating the PI3K/AKT pathway"
+    },
+    {
+      "id": "E",
+      "text": "Inhibiting hypoxia-inducible factor 1 alpha"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "VHL encodes a protein that normally targets hypoxia-inducible factor 1 alpha for degradation, so loss of VHL allows HIF to accumulate and drive transcription of VEGF, erythropoietin, and other hypoxia-responsive genes. This explains the hypervascular tumors of von Hippel-Lindau disease: hemangioblastoma, clear cell renal cell carcinoma, pheochromocytoma, and pancreatic and renal cysts. The polycythemia sometimes seen reflects the erythropoietin effect.",
+  "explanation_incorrect": {
+    "A": "Beta-catenin degradation is the function of APC, whose loss causes familial adenomatous polyposis.",
+    "B": "Blocking G1 to S via E2F inhibition is the action of RB; the same checkpoint is guarded by p53 acting through p21.",
+    "C": "Activating p21 to arrest the cell cycle is a function of p53, not of the VHL protein.",
+    "D": "PI3K/AKT is negatively regulated by PTEN, a lipid phosphatase lost in prostate, breast, and endometrial cancers."
+  },
+  "educationalObjective": "VHL normally degrades HIF-1 alpha; loss stabilizes HIF and drives VEGF and erythropoietin, producing hypervascular tumors.",
+  "source": "Generated from 4. Pathology.pdf - Neoplasia: Tumor suppressor genes"
+},
+{
+  "id": "path-154",
+  "subject": "Pathology",
+  "major_topic": "Neoplasia",
+  "subtopic": "Tumor suppressor genes",
+  "difficulty": "medium",
+  "vignette": "A 4-year-old girl has a large, firm, asymptomatic abdominal mass that her mother noticed while bathing her. Imaging shows a renal mass arising from the kidney, and histology shows a triphasic tumor with blastemal, stromal, and epithelial elements. Genetic analysis shows loss of function of WT1.",
+  "question": "WT1 is best characterized as which of the following?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A urogenital development transcription factor"
+    },
+    {
+      "id": "B",
+      "text": "A receptor tyrosine kinase overexpressed in breast carcinoma"
+    },
+    {
+      "id": "C",
+      "text": "An antiapoptotic molecule that blocks cytochrome c release"
+    },
+    {
+      "id": "D",
+      "text": "A GTPase that transduces signals from growth factor receptors"
+    },
+    {
+      "id": "E",
+      "text": "A negative regulator of the PI3K/AKT pathway"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "WT1 encodes a transcription factor important in urogenital development, and its loss is associated with Wilms tumor (nephroblastoma), the classic pediatric renal malignancy. Wilms tumor is a pediatric tumor suppressor paradigm alongside retinoblastoma. The triphasic histology with blastema, stroma, and epithelium is characteristic.",
+  "explanation_incorrect": {
+    "B": "HER2 (ERBB2) is the overexpressed receptor tyrosine kinase of breast and gastric carcinoma, not of Wilms tumor.",
+    "C": "Blocking cytochrome c release describes BCL2, the antiapoptotic oncoprotein overexpressed in follicular lymphoma.",
+    "D": "A GTPase transducing growth signals describes RAS, which is mutated in pancreatic, colorectal, lung, and endometrial cancers.",
+    "E": "Negative regulation of PI3K/AKT describes PTEN, whose loss is associated with prostate, breast, and endometrial cancers."
+  },
+  "educationalObjective": "WT1 is a urogenital developmental transcription factor whose loss causes Wilms tumor (nephroblastoma).",
+  "source": "Generated from 4. Pathology.pdf - Neoplasia: Tumor suppressor genes"
+},
+{
+  "id": "path-155",
+  "subject": "Pathology",
+  "major_topic": "Neoplasia",
+  "subtopic": "Tumor suppressor genes",
+  "difficulty": "hard",
+  "vignette": "A 39-year-old woman with a strong maternal family history of breast cancer at a young age undergoes genetic counseling. Testing identifies a pathogenic BRCA1 mutation, and she is counseled about the associated tumor spectrum.",
+  "question": "Which of the following best describes the role of BRCA1 and BRCA2 proteins and the cancers linked to their loss?",
+  "options": [
+    {
+      "id": "A",
+      "text": "They are oncogenes whose gene amplification drives breast cancer"
+    },
+    {
+      "id": "B",
+      "text": "They degrade beta-catenin and thereby prevent colorectal adenomas"
+    },
+    {
+      "id": "C",
+      "text": "DNA repair proteins acting in homologous recombination"
+    },
+    {
+      "id": "D",
+      "text": "They inhibit E2F and thereby block the G1 to S transition"
+    },
+    {
+      "id": "E",
+      "text": "They suppress apoptosis by stabilizing mitochondrial membranes"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "BRCA1 and BRCA2 are tumor suppressor genes involved in homologous recombination DNA repair, so loss of function causes genomic instability and predisposes to breast, ovarian, prostate, and pancreatic cancers. They are loss-of-function tumor suppressors, not oncogenes, which means both alleles must be inactivated. The connection between BRCA status and both cancer risk and therapeutic targeting is a frequent exam point.",
+  "explanation_incorrect": {
+    "A": "BRCA1/2 are tumor suppressors, so the relevant change is loss of function; amplification of an oncogene is a different mechanism entirely.",
+    "B": "Degrading beta-catenin describes APC, whose loss leads to familial adenomatous polyposis rather than to breast and ovarian cancer.",
+    "D": "E2F inhibition with G1 to S blockade is the action of RB, not of the BRCA proteins.",
+    "E": "Stabilizing mitochondrial membranes to block apoptosis resembles BCL2 activity, not BRCA protein function."
+  },
+  "educationalObjective": "BRCA1/2 are homologous recombination repair tumor suppressors; loss gives breast, ovarian, prostate, and pancreatic cancer risk.",
+  "source": "Generated from 4. Pathology.pdf - Neoplasia: Tumor suppressor genes"
+}
+]

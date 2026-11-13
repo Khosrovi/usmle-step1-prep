@@ -1,0 +1,125 @@
+[
+{
+  "id": "path-088",
+  "subject": "Pathology",
+  "major_topic": "Inflammation",
+  "subtopic": "Inflammation: clinical correlates and lab markers",
+  "difficulty": "easy",
+  "vignette": "A 68-year-old woman has new-onset headache, jaw claudication, and an elevated erythrocyte sedimentation rate of 92 mm per hour. A temporal artery biopsy confirms giant cell arteritis. Her physician explains why the sedimentation rate rises in this inflammatory disease.",
+  "question": "Which of the following best explains her elevated erythrocyte sedimentation rate?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Red blood cells lose their negative surface charge because of iron deficiency"
+    },
+    {
+      "id": "B",
+      "text": "Elevated serum albumin increases red blood cell aggregation in the pipette"
+    },
+    {
+      "id": "C",
+      "text": "Products of inflammation such as fibrinogen coat red blood cells, reducing their negative charge and increasing aggregation so they fall faster"
+    },
+    {
+      "id": "D",
+      "text": "Elevated erythrocyte counts increase the density of the cell column"
+    },
+    {
+      "id": "E",
+      "text": "Increased numbers of platelets increase red blood cell density"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Red blood cells normally remain separated because of their negative surface charges. Products of inflammation, notably fibrinogen, coat the cells, which reduces that negative charge, increases red blood cell aggregation, and makes denser aggregates fall faster in a pipette. The ESR is listed as elevated in inflammation such as giant cell (temporal) arteritis and polymyalgia rheumatica, in infections and most anemias, in cancer including metastases and multiple myeloma, in renal disease, and in pregnancy, and it is often co-tested with C-reactive protein, which is the more specific marker of inflammation.",
+  "explanation_incorrect": {
+    "A": "Iron deficiency increases rather than decreases the ESR, and the elevated sedimentation rate in this patient is driven by acute-phase proteins rather than by altered cell charge from iron status.",
+    "B": "Albumin is a negative acute-phase reactant that falls during inflammation, and it is not the protein that coats red cells to raise the ESR.",
+    "D": "Polycythemia lowers the ESR because more red cells dilute the aggregation factors, the opposite of what is described.",
+    "E": "Platelet count is not the mechanism of sedimentation; the listed variables are red cell charge, aggregation, cell shape, and plasma proteins."
+  },
+  "educationalObjective": "Inflammation raises the ESR by fibrinogen and other acute-phase proteins coating red cells, reducing their negative charge and increasing aggregation.",
+  "source": "Generated from 4. Pathology.pdf - Inflammation: Inflammation: clinical correlates and lab markers"
+},
+{
+  "id": "path-089",
+  "subject": "Pathology",
+  "major_topic": "Inflammation",
+  "subtopic": "Inflammation: clinical correlates and lab markers",
+  "difficulty": "medium",
+  "vignette": "A 74-year-old man has a 6-month history of fatigue, a microcytic anemia, and a normal-to-low reticulocyte count despite adequate dietary iron. Laboratory studies show a low serum iron with normal iron stores, and his history includes long-standing rheumatoid arthritis.",
+  "question": "Which acute-phase reactant best explains his anemia?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Ferritin, which sequesters iron to inhibit microbial scavenging but falls in inflammation"
+    },
+    {
+      "id": "B",
+      "text": "Transferrin, which rises during inflammation and delivers excess iron to erythroid precursors"
+    },
+    {
+      "id": "C",
+      "text": "Transthyretin, which binds and transports iron from the gut to the marrow"
+    },
+    {
+      "id": "D",
+      "text": "Procalcitonin, which blocks hemoglobin synthesis in erythroid cells"
+    },
+    {
+      "id": "E",
+      "text": "Hepcidin, which decreases iron absorption by degrading ferroportin and decreases iron release from macrophages, causing anemia of chronic disease"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Hepcidin is a positive acute-phase reactant that decreases iron absorption by degrading ferroportin and decreases iron release from macrophages, which together produce anemia of chronic disease. This explains the low serum iron with preserved iron stores and the failure to mount a reticulocyte response despite adequate intake. The text lists ferritin as another positive reactant that binds and sequesters iron to inhibit microbial iron scavenging, and transferrin as a negative reactant that is internalized by macrophages to sequester iron.",
+  "explanation_incorrect": {
+    "A": "Ferritin does sequester iron, but it rises rather than falls during inflammation, which is why a high ferritin in an inflamed patient does not exclude iron deficiency.",
+    "B": "Transferrin is a negative acute-phase reactant that falls in inflammation, and it is internalized by macrophages to sequester iron rather than to deliver extra iron to the marrow.",
+    "C": "Transthyretin, also called prealbumin, is a negative acute-phase reactant whose decline conserves amino acids for positive reactants and has no iron transport role.",
+    "D": "Procalcitonin increases in bacterial infections and is used as an infection marker, not as a mediator of iron restriction."
+  },
+  "educationalObjective": "Hepcidin is an IL-6 induced acute-phase reactant that degrades ferroportin, restricting iron absorption and release and causing anemia of chronic disease.",
+  "source": "Generated from 4. Pathology.pdf - Inflammation: Inflammation: clinical correlates and lab markers"
+},
+{
+  "id": "path-090",
+  "subject": "Pathology",
+  "major_topic": "Inflammation",
+  "subtopic": "Inflammation: clinical correlates and lab markers",
+  "difficulty": "hard",
+  "vignette": "A 6-year-old girl has a temperature of 39.5 degrees Celsius and a white blood cell count of 19,000 per microliter with 85 percent neutrophils 1 day after the onset of a bacterial pneumonia. A second patient with the same fever and cough 1 week later has a white blood cell count of 11,000 per microliter with 35 percent neutrophils and 55 percent macrophages on a bronchoalveolar sample.",
+  "question": "Which of the following best explains the difference in the predominant cell type between these two time points?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Bacterial infection cannot produce a neutrophil predominance at any stage"
+    },
+    {
+      "id": "B",
+      "text": "Macrophages are the first cells recruited and are replaced by neutrophils over days"
+    },
+    {
+      "id": "C",
+      "text": "Neutrophils predominate early in acute inflammation, while macrophages predominate in the later stages and peak 2 to 3 days after onset"
+    },
+    {
+      "id": "D",
+      "text": "The neutrophil count falls because anti-TNF therapy depletes circulating neutrophils"
+    },
+    {
+      "id": "E",
+      "text": "The macrophage predominance indicates a primary complement deficiency"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Acute inflammation is characterized by neutrophils in tissue, often with associated edema, and the type of predominant cell depends on the inciting agent, so bacterial infection classically gives neutrophilia. Macrophages predominate in the late stages of acute inflammation, peaking 2 to 3 days after onset, and they influence the outcome by secreting cytokines. The shifting predominance between the first day and the second week is the expected evolution of the response rather than a new disease.",
+  "explanation_incorrect": {
+    "A": "Bacterial infection is the classic setting for a neutrophil-predominant acute response, which is exactly what the first patient shows.",
+    "B": "The sequence is the reverse: neutrophils arrive first from postcapillary venules and macrophages follow and peak later.",
+    "D": "No anti-TNF therapy is described, and the shift reflects the normal timing of the inflammatory response.",
+    "E": "A shift toward macrophages 1 week into pneumonia is the normal late phase rather than evidence of complement deficiency, which would present with recurrent encapsulated organism infections."
+  },
+  "educationalObjective": "Neutrophils dominate the early acute inflammatory response, whereas macrophages peak 2 to 3 days after onset and dominate later stages.",
+  "source": "Generated from 4. Pathology.pdf - Inflammation: Inflammation: clinical correlates and lab markers"
+}
+]

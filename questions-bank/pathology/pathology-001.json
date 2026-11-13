@@ -1,0 +1,166 @@
+[
+{
+  "id": "path-001",
+  "subject": "Pathology",
+  "major_topic": "Inflammation",
+  "subtopic": "Acute inflammation: leukocyte recruitment and adhesion",
+  "difficulty": "easy",
+  "vignette": "A 3-week-old boy is evaluated because his umbilical cord stump has never separated. He is now febrile with a draining periumbilical wound, and his peripheral blood leukocyte count is markedly elevated even without infection. Flow cytometry of his neutrophils shows normal expression of CD18 and a normal oxidative burst.",
+  "question": "Which of the following steps of leukocyte extravasation is most likely defective in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Tight binding to ICAM-1"
+    },
+    {
+      "id": "B",
+      "text": "Rolling along the endothelium"
+    },
+    {
+      "id": "C",
+      "text": "Diapedesis between endothelial cells"
+    },
+    {
+      "id": "D",
+      "text": "Migration toward C5a along the interstitium"
+    },
+    {
+      "id": "E",
+      "text": "Translocation of P-selectin from Weibel-Palade bodies"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Leukocyte adhesion deficiency type 2 is caused by defective fucosylation of sialyl Lewis X, the carbohydrate ligand that selectins engage, so rolling along the endothelium fails and neutrophils cannot even begin extravasation. The result is a peripheral leukocytosis with recurrent bacterial infections and the classic delayed separation of the umbilical cord, since neutrophils are needed to detach the necrotic stump. Because CD18 integrin expression is normal, tight binding, the step defective in type 1 disease, is preserved and flow cytometry for CD18 is unremarkable.",
+  "explanation_incorrect": {
+    "A": "Tight binding to ICAM-1 is defective in leukocyte adhesion deficiency type 1, which reflects absent CD18 integrin and would have been confirmed by the normal CD18 flow cytometry.",
+    "C": "Diapedesis is mediated by PECAM-1 (CD31) on both leukocyte and endothelium; no classic deficiency state is taught in this way, and it occurs after the step that is failing here.",
+    "D": "Migration along chemotactic gradients is a later step and would present with a failure to localize neutrophils at the injury site rather than with defective endothelial interaction.",
+    "E": "P-selectin translocation from Weibel-Palade bodies is an endothelial event that provides one ligand for the rolling step; in this disorder the rolling failure lies in the leukocyte ligand, not the vessel."
+  },
+  "educationalObjective": "Leukocyte adhesion deficiency type 2 is a defect of sialyl Lewis X that blocks rolling and produces delayed umbilical cord separation with neutrophilia.",
+  "source": "Generated from 4. Pathology.pdf - Inflammation: Acute inflammation: leukocyte recruitment and adhesion"
+},
+{
+  "id": "path-002",
+  "subject": "Pathology",
+  "major_topic": "Inflammation",
+  "subtopic": "Acute inflammation: leukocyte recruitment and adhesion",
+  "difficulty": "medium",
+  "vignette": "A 4-year-old boy has had recurrent pyogenic skin and periodontal infections since infancy, and his wounds often fail to form pus. His peripheral blood shows a white blood cell count of 45,000 per microliter even between infections. Flow cytometry shows absent CD18 on the neutrophil surface, and a wound biopsy taken during a recent cellulitis contains almost no neutrophils.",
+  "question": "Which of the following molecular events is most likely impaired in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Interaction of L-selectin with GlyCAM-1 and CD34 on the endothelium"
+    },
+    {
+      "id": "B",
+      "text": "Homophilic engagement of PECAM-1 during transmigration"
+    },
+    {
+      "id": "C",
+      "text": "Binding of VLA-4 to VCAM-1 on the endothelium"
+    },
+    {
+      "id": "D",
+      "text": "Activation of complement via the classical pathway"
+    },
+    {
+      "id": "E",
+      "text": "Firm adhesion of CD11/18 integrins to ICAM-1"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "This is leukocyte adhesion deficiency type 1, caused by absence of the CD18 beta-2 integrin subunit, so the CD11/18 heterodimers such as LFA-1 and Mac-1 cannot mediate tight binding to ICAM-1 (CD54) on activated endothelium. Neutrophils can roll but cannot arrest, so they never reach the tissue, which explains recurrent pyogenic infection, absent pus, and persistent peripheral neutrophilia. Affected patients also develop severe early periodontal disease, and delayed umbilical cord separation is described in both types of the disease.",
+  "explanation_incorrect": {
+    "A": "L-selectin with GlyCAM-1 and CD34 mediates rolling, the step that is preserved in type 1 disease because selectins are unaffected.",
+    "B": "PECAM-1 engagement permits diapedesis and is not the molecule missing here; the CD18 defect arrests extravasation before transmigration can occur.",
+    "C": "VLA-4 binding to VCAM-1 is an integrin interaction used by mononuclear cells, and the deficient beta-2 chain is what is measured in this syndrome rather than VLA-4 deficiency.",
+    "D": "Classical complement pathway activation is unrelated to CD18 expression and would not explain absent CD18 or the intractable neutrophilia."
+  },
+  "educationalObjective": "Leukocyte adhesion deficiency type 1 results from absent CD18, preventing tight binding of LFA-1 and Mac-1 to ICAM-1.",
+  "source": "Generated from 4. Pathology.pdf - Inflammation: Acute inflammation: leukocyte recruitment and adhesion"
+},
+{
+  "id": "path-003",
+  "subject": "Pathology",
+  "major_topic": "Inflammation",
+  "subtopic": "Acute inflammation: leukocyte recruitment and adhesion",
+  "difficulty": "medium",
+  "vignette": "An investigator studies neutrophil capture in postcapillary venules using intravital microscopy of tissue 30 minutes after a thermal burn. Immediately after injury, neutrophils begin to roll, but this first transient interaction is abolished when an antibody against a presynthesized endothelial ligand is infused.",
+  "question": "Which endothelial molecule was most likely neutralized in this experiment?",
+  "options": [
+    {
+      "id": "A",
+      "text": "E-selectin, synthesized after TNF and IL-1 stimulation"
+    },
+    {
+      "id": "B",
+      "text": "Intercellular adhesion molecule 1 (CD54)"
+    },
+    {
+      "id": "C",
+      "text": "PECAM-1 (CD31)"
+    },
+    {
+      "id": "D",
+      "text": "Vascular cell adhesion molecule 1 (CD106)"
+    },
+    {
+      "id": "E",
+      "text": "P-selectin, exocytosed from Weibel-Palade bodies"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "P-selectin is stored preformed in endothelial Weibel-Palade bodies and is translocated to the surface by exocytosis within minutes of histamine, thrombin, or injury, so it is the selectin responsible for the earliest rolling interactions. E-selectin is also a rolling ligand, but it must be newly transcribed after TNF and IL-1 stimulation and therefore appears hours later. Blocking tight binding and transmigration would leave rolling intact, which is why the correct answer is a selectin rather than a ligand for integrins.",
+  "explanation_incorrect": {
+    "A": "E-selectin is upregulated by TNF and IL-1 over hours, so it cannot explain a rolling defect eliminated at 30 minutes with an antibody to a preformed molecule.",
+    "B": "ICAM-1 supports firm adhesion of CD11/18 integrins and is not involved in rolling; blocking it would reduce arrest rather than early capture.",
+    "C": "PECAM-1 is expressed on both leukocyte and endothelium and mediates diapedesis after cells have already adhered.",
+    "D": "VCAM-1 binds VLA-4 during the tight binding step and is irrelevant to the rolling behavior being examined."
+  },
+  "educationalObjective": "P-selectin, released from Weibel-Palade bodies, mediates the earliest leukocyte rolling, whereas E-selectin requires TNF and IL-1 induced transcription.",
+  "source": "Generated from 4. Pathology.pdf - Inflammation: Acute inflammation: leukocyte recruitment and adhesion"
+},
+{
+  "id": "path-004",
+  "subject": "Pathology",
+  "major_topic": "Inflammation",
+  "subtopic": "Acute inflammation: leukocyte recruitment and adhesion",
+  "difficulty": "hard",
+  "vignette": "A 46-year-old woman with rheumatoid arthritis begins infliximab and develops a rapidly enlarging, nonhealing ulcer with undermined edges on the neck. Biopsy shows necrotizing granulomas with acid-fast bacilli. The immunologist explains that the drug disrupted a weak point in the cytokine network that keeps her latent infection contained.",
+  "question": "Which of the following best explains how the drug altered leukocyte-endothelial interactions at sites of granuloma formation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Loss of CD18 integrin expression on circulating neutrophils"
+    },
+    {
+      "id": "B",
+      "text": "Blockade of the cytokine that upregulates E-selectin on endothelium, reducing leukocyte recruitment to the granuloma"
+    },
+    {
+      "id": "C",
+      "text": "Failure of P-selectin exocytosis from Weibel-Palade bodies"
+    },
+    {
+      "id": "D",
+      "text": "Inhibition of COX activity in the anterior hypothalamus"
+    },
+    {
+      "id": "E",
+      "text": "Impaired fucosylation of sialyl Lewis X on leukocytes"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "TNF and IL-1 are the cytokines that upregulate E-selectin on endothelium, so anti-TNF therapy reduces the endothelial activation required for fresh leukocyte recruitment into granulomas. The text states this explicitly as the reason sequestering granulomas can break down and latent tuberculosis can disseminate; latent TB is therefore always tested for before starting anti-TNF therapy. The same principle matters clinically, because cytokines both sustain granuloma architecture and control enteric inflammation.",
+  "explanation_incorrect": {
+    "A": "Loss of CD18 would cause a congenital leukocyte adhesion deficiency pattern with neutrophilia and delayed umbilical cord separation, not a therapy-induced ulcer.",
+    "C": "P-selectin release from Weibel-Palade bodies is a rapid histamine and thrombin-driven event and is not the target of anti-TNF antibodies.",
+    "D": "COX inhibition in the hypothalamus reduces fever, which is an effect of antipyretics such as NSAIDs rather than of infliximab.",
+    "E": "Impaired sialyl Lewis X fucosylation is the mechanism of congenital leukocyte adhesion deficiency type 2."
+  },
+  "educationalObjective": "TNF and IL-1 upregulate endothelial E-selectin, and blocking TNF can dismantle protective granulomas, so latent tuberculosis must be excluded before anti-TNF therapy.",
+  "source": "Generated from 4. Pathology.pdf - Inflammation: Acute inflammation: leukocyte recruitment and adhesion"
+}
+]
