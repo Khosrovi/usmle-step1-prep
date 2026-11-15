@@ -1,0 +1,207 @@
+[
+{
+  "id": "pharm-125",
+  "subject": "Pharmacology",
+  "major_topic": "Autonomic Drugs",
+  "subtopic": "Organophosphate poisoning",
+  "difficulty": "easy",
+  "vignette": "A 41-year-old farm worker is brought to the emergency department after spraying fields all day. He reports profuse diarrhea, frequent urination, tearing, and drooling. On examination he is bradycardic with pinpoint pupils and audible wheezing. Which of the following is the most likely diagnosis?",
+  "question": "Which of the following is the most likely diagnosis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Organophosphate (anticholinesterase) poisoning"
+    },
+    {
+      "id": "B",
+      "text": "Anticholinergic toxicity"
+    },
+    {
+      "id": "C",
+      "text": "Opioid overdose"
+    },
+    {
+      "id": "D",
+      "text": "Sympathomimetic toxicity"
+    },
+    {
+      "id": "E",
+      "text": "Serotonin syndrome"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Organophosphates (eg, fenthion, parathion, malathion) irreversibly inhibit acetylcholinesterase and are commonly used as insecticides, so poisoning is classically seen in farmers. The muscarinic effects form the DUMBBELSS syndrome: Diarrhea, Urination, Miosis, Bronchospasm, Bradycardia, Emesis, Lacrimation, Sweating, Salivation — all present in this patient.",
+  "explanation_incorrect": {
+    "B": "Anticholinergic toxicity produces mydriasis, dry skin, tachycardia, urinary retention, and constipation — the opposite of this patient's cholinergic findings.",
+    "C": "Opioid overdose causes miosis and respiratory depression, but not diarrhea, urination, lacrimation, sweating, and salivation.",
+    "D": "Sympathomimetic toxicity causes mydriasis, tachycardia, hypertension, and diaphoresis, not bronchospasm, bradycardia, and salivation.",
+    "E": "Serotonin syndrome features hyperthermia, clonus, hyperreflexia, and agitation, which are absent here."
+  },
+  "educationalObjective": "Organophosphate insecticide poisoning in farmers causes the muscarinic DUMBBELSS syndrome (Diarrhea, Urination, Miosis, Bronchospasm, Bradycardia, Emesis, Lacrimation, Sweating, Salivation).",
+  "source": "Generated from 5. Pharmacology.pdf - Autonomic Drugs: Organophosphate poisoning"
+},
+{
+  "id": "pharm-126",
+  "subject": "Pharmacology",
+  "major_topic": "Autonomic Drugs",
+  "subtopic": "Organophosphate poisoning",
+  "difficulty": "medium",
+  "vignette": "A 55-year-old farmer presents 2 hours after organophosphate exposure with salivation, lacrimation, diarrhea, wheezing, bradycardia, and pinpoint pupils. The medical team prepares an agent that competes with acetylcholine at muscarinic receptors to reverse these findings. Which of the following drugs is being prepared?",
+  "question": "Which of the following drugs is being prepared to treat the muscarinic findings?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Pralidoxime"
+    },
+    {
+      "id": "B",
+      "text": "Physostigmine"
+    },
+    {
+      "id": "C",
+      "text": "Pilocarpine"
+    },
+    {
+      "id": "D",
+      "text": "Atropine"
+    },
+    {
+      "id": "E",
+      "text": "Donepezil"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Atropine is a competitive muscarinic antagonist that reverses the muscarinic (DUMBBELSS) effects of anticholinesterase poisoning. It can also cross the blood-brain barrier to relieve CNS symptoms of organophosphate poisoning.",
+  "explanation_incorrect": {
+    "A": "Pralidoxime addresses the nicotinic effects (neuromuscular blockade) by regenerating acetylcholinesterase; it does not compete at muscarinic receptors.",
+    "B": "Physostigmine further inhibits acetylcholinesterase and would worsen cholinergic toxicity; it is the antidote for anticholinergic toxicity, the opposite scenario.",
+    "C": "Pilocarpine is a direct muscarinic agonist that would exacerbate salivation, bronchospasm, and bradycardia.",
+    "E": "Donepezil inhibits acetylcholinesterase to treat Alzheimer disease and would worsen this presentation."
+  },
+  "educationalObjective": "Atropine reverses the muscarinic (DUMBBELSS) effects of organophosphate poisoning as a competitive muscarinic antagonist and crosses the blood-brain barrier to relieve CNS symptoms.",
+  "source": "Generated from 5. Pharmacology.pdf - Autonomic Drugs: Organophosphate poisoning"
+},
+{
+  "id": "pharm-127",
+  "subject": "Pharmacology",
+  "major_topic": "Autonomic Drugs",
+  "subtopic": "Organophosphate poisoning",
+  "difficulty": "medium",
+  "vignette": "A farmer exposed to an insecticide develops diffuse muscle fasciculations and progressive skeletal muscle weakness in addition to salivation and tearing. The team recognizes the nicotinic component of his anticholinesterase poisoning and administers an agent that restores acetylcholinesterase activity. Which of the following best describes this agent?",
+  "question": "Which of the following best describes the agent used to treat his neuromuscular findings?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It competitively blocks muscarinic receptors and crosses the blood-brain barrier"
+    },
+    {
+      "id": "B",
+      "text": "It regenerates acetylcholinesterase via dephosphorylation if given early, and must be coadministered with atropine"
+    },
+    {
+      "id": "C",
+      "text": "It acts as a depolarizing neuromuscular blocker similar to succinylcholine"
+    },
+    {
+      "id": "D",
+      "text": "It irreversibly inhibits acetylcholinesterase to outlast the toxin"
+    },
+    {
+      "id": "E",
+      "text": "It directly activates nicotinic receptors to overcome the blockade"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Pralidoxime reverses the nicotinic effects of organophosphate poisoning (neuromuscular blockade, similar in mechanism to succinylcholine) by regenerating acetylcholinesterase via dephosphorylation — but only if given early. It must be coadministered with atropine to prevent transient worsening of symptoms, and it does not readily cross the blood-brain barrier.",
+  "explanation_incorrect": {
+    "A": "Competitive muscarinic blockade with CNS penetration describes atropine, which treats the muscarinic — not the nicotinic — effects.",
+    "C": "The neuromuscular blockade produced by organophosphates is similar to succinylcholine, but pralidoxime reverses it rather than acting as another depolarizing blocker.",
+    "D": "It is the organophosphate itself that irreversibly inhibits acetylcholinesterase; pralidoxime removes that inhibition.",
+    "E": "Pralidoxime works indirectly by regenerating acetylcholinesterase, not by directly stimulating nicotinic receptors."
+  },
+  "educationalObjective": "Pralidoxime treats the nicotinic effects of organophosphate poisoning by regenerating acetylcholinesterase if given early, and must be coadministered with atropine.",
+  "source": "Generated from 5. Pharmacology.pdf - Autonomic Drugs: Organophosphate poisoning"
+},
+{
+  "id": "pharm-128",
+  "subject": "Pharmacology",
+  "major_topic": "Autonomic Drugs",
+  "subtopic": "Organophosphate poisoning",
+  "difficulty": "hard",
+  "vignette": "Two farmers are brought in after the same organophosphate insecticide exposure. The first arrives within 1 hour and receives full therapy; the second is found a day later, and the team notes that the regimen designed to regenerate acetylcholinesterase will be far less effective in him. Which of the following best explains why the regimen's efficacy depends on early administration?",
+  "question": "Which of the following best explains why the antidotal regimen depends on early administration?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The toxin is only absorbed during the first hour after exposure"
+    },
+    {
+      "id": "B",
+      "text": "Atropine blocks muscarinic receptors only transiently"
+    },
+    {
+      "id": "C",
+      "text": "Pralidoxime rapidly crosses the blood-brain barrier only shortly after exposure"
+    },
+    {
+      "id": "D",
+      "text": "Organophosphates induce hepatic enzymes that degrade the antidote over time"
+    },
+    {
+      "id": "E",
+      "text": "Pralidoxime regenerates acetylcholinesterase via dephosphorylation only if given early"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Pralidoxime works by regenerating acetylcholinesterase via dephosphorylation of the enzyme that the organophosphate has irreversibly inhibited, and this regeneration is effective only if pralidoxime is given early. Delayed administration leaves the enzyme inhibited, so nicotinic neuromuscular effects persist despite therapy.",
+  "explanation_incorrect": {
+    "A": "Absorption timing is not the key issue; the antidote's limited window reflects its enzymatic mechanism, not toxin absorption kinetics.",
+    "B": "Atropine's competitive muscarinic blockade duration is unrelated to why pralidoxime must be given early.",
+    "C": "Pralidoxime does not readily cross the blood-brain barrier at any time point.",
+    "D": "Hepatic enzyme induction of the antidote's degradation is not part of this mechanism."
+  },
+  "educationalObjective": "Pralidoxime regenerates organophosphate-inhibited acetylcholinesterase via dephosphorylation only when given early, which is why timing is critical.",
+  "source": "Generated from 5. Pharmacology.pdf - Autonomic Drugs: Organophosphate poisoning"
+},
+{
+  "id": "pharm-129",
+  "subject": "Pharmacology",
+  "major_topic": "Autonomic Drugs",
+  "subtopic": "Organophosphate poisoning",
+  "difficulty": "medium",
+  "vignette": "A 47-year-old farm worker with organophosphate poisoning develops lethargy and a generalized seizure. The team selects an antidotal agent capable of reaching the central nervous system to help relieve CNS symptoms, while a second agent is given for the neuromuscular findings. Which property of the first agent explains its ability to act centrally?",
+  "question": "Which property of the antidotal agent explains its ability to relieve CNS symptoms?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It is highly protein-bound in plasma, forcing CNS uptake"
+    },
+    {
+      "id": "B",
+      "text": "It regenerates acetylcholinesterase within the brain after dephosphorylation"
+    },
+    {
+      "id": "C",
+      "text": "It is a competitive inhibitor that can cross the blood-brain barrier"
+    },
+    {
+      "id": "D",
+      "text": "It is uncharged but does not cross the blood-brain barrier"
+    },
+    {
+      "id": "E",
+      "text": "It binds the toxin directly in the CNS extracellular fluid"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Atropine, a competitive muscarinic inhibitor, can cross the blood-brain barrier to relieve CNS symptoms of anticholinesterase poisoning such as respiratory depression, lethargy, seizures, and coma. Pralidoxime, which handles the nicotinic effects, does not readily cross the blood-brain barrier.",
+  "explanation_incorrect": {
+    "A": "Plasma protein binding would limit, not promote, CNS distribution, and it is not the basis of atropine's central action.",
+    "B": "Regeneration of acetylcholinesterase via dephosphorylation is pralidoxime's mechanism, and pralidoxime does not readily cross the blood-brain barrier.",
+    "D": "This confusingly combines physostigmine's uncharged nature with pralidoxime's lack of CNS penetration; the agent used centrally for organophosphate poisoning is atropine, a competitive inhibitor that crosses the barrier.",
+    "E": "Direct binding of the toxin in the CNS is not a described mechanism of any agent here."
+  },
+  "educationalObjective": "Atropine crosses the blood-brain barrier to relieve the CNS effects of organophosphate poisoning, whereas pralidoxime does not readily cross.",
+  "source": "Generated from 5. Pharmacology.pdf - Autonomic Drugs: Organophosphate poisoning"
+}
+]

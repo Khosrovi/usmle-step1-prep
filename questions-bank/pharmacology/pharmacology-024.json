@@ -1,0 +1,207 @@
+[
+{
+  "id": "pharm-136",
+  "subject": "Pharmacology",
+  "major_topic": "Autonomic Drugs",
+  "subtopic": "Atropine pharmacology and anticholinergic toxidrome",
+  "difficulty": "easy",
+  "vignette": "A 62-year-old man on the telemetry unit develops symptomatic sinus bradycardia with a heart rate of 38/min, hypotension, and lightheadedness. Intravenous therapy is ordered to rapidly increase his heart rate while pacing pads are placed. Which of the following drugs is most appropriate?",
+  "question": "Which of the following drugs is most appropriate for this patient's heart rate?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Metoprolol"
+    },
+    {
+      "id": "B",
+      "text": "Atropine"
+    },
+    {
+      "id": "C",
+      "text": "Adenosine"
+    },
+    {
+      "id": "D",
+      "text": "Edrophonium"
+    },
+    {
+      "id": "E",
+      "text": "Digoxin"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Atropine is a muscarinic antagonist used to treat bradycardia: by blocking muscarinic receptors at the heart, it removes vagal inhibition and increases heart rate. It is also used for ophthalmic applications.",
+  "explanation_incorrect": {
+    "A": "Metoprolol is a beta-1 blocker that decreases heart rate and would worsen bradycardia.",
+    "C": "Adenosine is used to terminate supraventricular tachycardias by transiently slowing AV conduction; it does not treat sinus bradycardia.",
+    "D": "Edrophonium is an anticholinesterase that increases acetylcholine, which would deepen bradycardia via muscarinic stimulation.",
+    "E": "Digoxin increases vagal tone and slows AV conduction, potentially worsening bradycardia."
+  },
+  "educationalObjective": "Atropine, a muscarinic antagonist, increases heart rate and is the classic treatment for symptomatic bradycardia.",
+  "source": "Generated from 5. Pharmacology.pdf - Autonomic Drugs: Atropine pharmacology and anticholinergic toxidrome"
+},
+{
+  "id": "pharm-137",
+  "subject": "Pharmacology",
+  "major_topic": "Autonomic Drugs",
+  "subtopic": "Atropine pharmacology and anticholinergic toxidrome",
+  "difficulty": "medium",
+  "vignette": "A 70-year-old woman started a new medication for irritable bowel syndrome 3 days ago. Her family brings her in because she is confused, and examination reveals a temperature of 38.4°C, heart rate of 112/min, dry flushed skin, absent bowel sounds, and dilated pupils. Which of the following mechanisms best explains her presentation?",
+  "question": "Which of the following mechanisms best explains her presentation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Muscarinic agonism producing increased sweating and GI motility"
+    },
+    {
+      "id": "B",
+      "text": "Beta-1 agonism producing tachycardia and increased contractility"
+    },
+    {
+      "id": "C",
+      "text": "Muscarinic antagonism producing decreased sweating, decreased gut motility, and disorientation"
+    },
+    {
+      "id": "D",
+      "text": "Alpha-1 agonism producing vasoconstriction and hypertension"
+    },
+    {
+      "id": "E",
+      "text": "Nicotinic blockade producing muscle weakness and respiratory failure"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Her antispasmodic (eg, hyoscyamine or dicyclomine) caused the anticholinergic toxidrome: increased body temperature due to decreased sweating, increased heart rate, dry mouth, dry flushed skin, cycloplegia/mydriasis, constipation from decreased gut motility, and disorientation — summarized as \"hot as a hare, fast as a fiddle, dry as a bone, red as a beet, blind as a bat, mad as a hatter, full as a flask.\"",
+  "explanation_incorrect": {
+    "A": "Muscarinic agonism would cause sweating, diarrhea, miosis, and bradycardia — the opposite of her findings.",
+    "B": "Beta-1 agonism causes tachycardia but does not explain dry skin, constipation, mydriasis, or delirium.",
+    "D": "Alpha-1 agonism causes hypertension and reflex bradycardia, not the full anticholinergic toxidrome.",
+    "E": "Nicotinic blockade produces neuromuscular weakness, not hyperthermia with dry skin and disorientation."
+  },
+  "educationalObjective": "The anticholinergic toxidrome is \"hot as a hare, fast as a fiddle, dry as a bone, red as a beet, blind as a bat, mad as a hatter, full as a flask\" — hyperthermia, tachycardia, dry skin/mouth, flushing, mydriasis, delirium, and urinary retention/constipation.",
+  "source": "Generated from 5. Pharmacology.pdf - Autonomic Drugs: Atropine pharmacology and anticholinergic toxidrome"
+},
+{
+  "id": "pharm-138",
+  "subject": "Pharmacology",
+  "major_topic": "Autonomic Drugs",
+  "subtopic": "Atropine pharmacology and anticholinergic toxidrome",
+  "difficulty": "medium",
+  "vignette": "A 74-year-old woman receives ophthalmic atropine drops before an eye procedure. Hours later she develops severe eye pain, blurred vision, halos around lights, a red eye, and a firm, mid-dilated pupil. The ophthalmologist diagnoses acute glaucoma. Which of the following best explains how atropine precipitated this complication?",
+  "question": "Which of the following best explains how atropine precipitated this complication?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It contracted the ciliary muscle, blocking aqueous outflow"
+    },
+    {
+      "id": "B",
+      "text": "It increased aqueous humor production"
+    },
+    {
+      "id": "C",
+      "text": "It caused miosis, bowing the iris forward"
+    },
+    {
+      "id": "D",
+      "text": "It inflamed the trabecular meshwork directly"
+    },
+    {
+      "id": "E",
+      "text": "Its mydriatic effect can precipitate acute angle-closure glaucoma in older adults"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Atropine causes increased pupil dilation (mydriasis), and in older adults the bulky lens and shallow anterior chamber mean mydriasis can crowd the iridocorneal angle, precipitating acute angle-closure glaucoma — a recognized adverse effect of anticholinergics in this age group.",
+  "explanation_incorrect": {
+    "A": "Atropine blocks, rather than contracts, the ciliary muscle (cycloplegia); contraction of the ciliary muscle is the muscarinic agonist effect that improves outflow.",
+    "B": "Atropine does not increase aqueous production; the problem is obstruction of outflow by the dilated iris.",
+    "C": "Atropine causes mydriasis, not miosis; miosis from pilocarpine is actually used to treat angle closure.",
+    "D": "Direct trabecular inflammation is not the mechanism; mechanical angle crowding by the mydriatic pupil is."
+  },
+  "educationalObjective": "Anticholinergic mydriasis can precipitate acute angle-closure glaucoma in older adults.",
+  "source": "Generated from 5. Pharmacology.pdf - Autonomic Drugs: Atropine pharmacology and anticholinergic toxidrome"
+},
+{
+  "id": "pharm-139",
+  "subject": "Pharmacology",
+  "major_topic": "Autonomic Drugs",
+  "subtopic": "Atropine pharmacology and anticholinergic toxidrome",
+  "difficulty": "medium",
+  "vignette": "A 66-year-old man with benign prostatic hyperplasia is given an anticholinergic medication for chronic diarrhea. The next day he reports severe suprapubic discomfort and an inability to urinate, requiring catheterization. Which of the following best explains this adverse effect?",
+  "question": "Which of the following best explains this adverse effect?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Muscarinic antagonism decreases bladder contractility and can precipitate urinary retention in men with prostatic hyperplasia"
+    },
+    {
+      "id": "B",
+      "text": "Muscarinic agonism causes detrusor overactivity and urge incontinence"
+    },
+    {
+      "id": "C",
+      "text": "The drug caused urethral smooth muscle constriction via alpha-1 stimulation"
+    },
+    {
+      "id": "D",
+      "text": "The drug increased urine output, overwhelming bladder capacity"
+    },
+    {
+      "id": "E",
+      "text": "The drug caused nephrolithiasis obstructing the ureterovesical junction"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Atropine-like muscarinic antagonism decreases detrusor (bladder) contractility — one of its organ actions is decreased urgency in cystitis — and can precipitate urinary retention, particularly in men with prostatic hyperplasia whose outflow is already compromised (\"full as a flask\").",
+  "explanation_incorrect": {
+    "B": "Muscarinic agonism contracts the bladder; this patient received an antagonist, and agonists cause urgency rather than retention.",
+    "C": "Alpha-1 stimulation of the urethra describes tamsulosin's target in reverse; the drug given is a muscarinic antagonist, not an alpha-agonist.",
+    "D": "Increased urine production does not explain his inability to void; decreased detrusor contraction is the mechanism.",
+    "E": "Nephrolithiasis causes renal colic, not acute painless-to-painful urinary retention after anticholinergic exposure."
+  },
+  "educationalObjective": "Anticholinergics reduce bladder contractility and can precipitate urinary retention, especially in men with prostatic hyperplasia.",
+  "source": "Generated from 5. Pharmacology.pdf - Autonomic Drugs: Atropine pharmacology and anticholinergic toxidrome"
+},
+{
+  "id": "pharm-140",
+  "subject": "Pharmacology",
+  "major_topic": "Autonomic Drugs",
+  "subtopic": "Atropine pharmacology and anticholinergic toxidrome",
+  "difficulty": "hard",
+  "vignette": "A 16-year-old amateur gardener is brought in with dilated, sluggish pupils, tachycardia, dry flushed skin, and confusion after drinking a homemade tea brewed from a flowering plant in his garden. His friends note he had recently picked white trumpet-shaped flowers. Which of the following best describes the pharmacologic basis of his presentation?",
+  "question": "Which of the following best describes the pharmacologic basis of his presentation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Ingestion of jimson weed (Datura), an anticholinergic plant producing mydriasis — the \"gardener's pupil\""
+    },
+    {
+      "id": "B",
+      "text": "Ingestion of an organophosphate insecticide residue causing miosis and secretions"
+    },
+    {
+      "id": "C",
+      "text": "Ingestion of a sympathomimetic herb causing mydriasis and hypertension with hyperreflexia"
+    },
+    {
+      "id": "D",
+      "text": "Ingestion of opioids causing pinpoint pupils and respiratory depression"
+    },
+    {
+      "id": "E",
+      "text": "Ingestion of a cholinergic mushroom causing diarrhea and salivation"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Jimson weed (Datura) contains antimuscarinic alkaloids; ingestion produces the anticholinergic toxidrome with mydriasis classically called the \"gardener's pupil.\" The presentation matches atropine-like toxicity: hyperthermia, tachycardia, dry flushed skin, mydriasis, and delirium.",
+  "explanation_incorrect": {
+    "B": "Organophosphate poisoning produces miosis, bradycardia, and secretions (DUMBBELSS) — the mirror image of his toxidrome.",
+    "C": "Sympathomimetic ingestion causes mydriasis but also hypertension, hyperreflexia, and sweating rather than dry skin and hypoactive delirium.",
+    "D": "Opioids cause pinpoint pupils and sedation, not mydriasis, tachycardia, and dry skin.",
+    "E": "Cholinergic mushroom toxicity causes muscarinic excess (diarrhea, salivation, bradycardia), not anticholinergic findings."
+  },
+  "educationalObjective": "Jimson weed (Datura) ingestion causes an anticholinergic toxidrome with mydriasis — the \"gardener's pupil.\"",
+  "source": "Generated from 5. Pharmacology.pdf - Autonomic Drugs: Atropine pharmacology and anticholinergic toxidrome"
+}
+]

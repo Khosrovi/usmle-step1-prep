@@ -1,0 +1,207 @@
+[
+{
+  "id": "pharm-051",
+  "subject": "Pharmacology",
+  "major_topic": "Pharmacokinetics and Pharmacodynamics",
+  "subtopic": "Zero-order vs first-order elimination",
+  "difficulty": "medium",
+  "vignette": "A pharmacokinetic study measures the plasma concentration of a drug over time and finds that it declines by a fixed amount, for example 2 units per hour, no matter how high or low the concentration is.",
+  "question": "Which statement characterizes this elimination pattern?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A constant amount of drug is eliminated per unit time, and the plasma concentration declines linearly"
+    },
+    {
+      "id": "B",
+      "text": "A constant fraction of drug is eliminated per unit time, and the plasma concentration declines exponentially"
+    },
+    {
+      "id": "C",
+      "text": "The rate of elimination is directly proportional to the plasma concentration"
+    },
+    {
+      "id": "D",
+      "text": "Elimination is flow-dependent"
+    },
+    {
+      "id": "E",
+      "text": "The plasma concentration declines exponentially with a constant half-life"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Zero-order elimination removes a constant amount of drug per unit time regardless of the plasma concentration, so the plasma concentration declines linearly with time. This pattern reflects capacity-limited elimination, in which the elimination machinery is saturated.",
+  "explanation_incorrect": {
+    "B": "A constant fraction eliminated per unit time with exponential decline defines first-order, not zero-order, elimination.",
+    "C": "An elimination rate directly proportional to plasma concentration is the definition of first-order elimination.",
+    "D": "Flow-dependent elimination characterizes first-order kinetics, in which delivery of drug to the eliminating organ governs the rate.",
+    "E": "Exponential decline with constant half-life describes first-order elimination."
+  },
+  "educationalObjective": "Zero-order elimination removes a constant amount of drug per unit time (capacity-limited), so plasma concentration declines linearly.",
+  "source": "Generated from 5. Pharmacology.pdf - Pharmacokinetics and Pharmacodynamics: Zero-order vs first-order elimination"
+},
+{
+  "id": "pharm-052",
+  "subject": "Pharmacology",
+  "major_topic": "Pharmacokinetics and Pharmacodynamics",
+  "subtopic": "Zero-order vs first-order elimination",
+  "difficulty": "easy",
+  "vignette": "A medical student is quizzed on which drugs exhibit zero-order, capacity-limited elimination, particularly at high or toxic concentrations.",
+  "question": "Which set of drugs is correct?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Penicillin, erythromycin, and azithromycin"
+    },
+    {
+      "id": "B",
+      "text": "Phenytoin, ethanol, and acetaminophen"
+    },
+    {
+      "id": "C",
+      "text": "Phenytoin, ethanol, and aspirin"
+    },
+    {
+      "id": "D",
+      "text": "Phenytoin, ethanol, and ibuprofen"
+    },
+    {
+      "id": "E",
+      "text": "Procainamide, enalapril, and amiodarone"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Zero-order elimination at high or toxic concentrations is classically seen with Phenytoin, Ethanol, and Aspirin, remembered by the mnemonic 'A PEA is round, shaped like the 0 in zero-order.' These drugs saturate their elimination pathways, so a constant amount is eliminated per unit time.",
+  "explanation_incorrect": {
+    "A": "These antibiotics are not the classic zero-order drugs; at therapeutic concentrations they follow first-order elimination.",
+    "B": "Acetaminophen is not part of the classic zero-order triad, although its toxicity involves saturation of metabolic pathways.",
+    "D": "Ibuprofen is not one of the classic capacity-limited examples; aspirin, not ibuprofen, belongs in the triad.",
+    "E": "None of these agents belongs to the classic zero-order elimination mnemonic."
+  },
+  "educationalObjective": "Phenytoin, ethanol, and aspirin (at high or toxic concentrations) exhibit zero-order, capacity-limited elimination.",
+  "source": "Generated from 5. Pharmacology.pdf - Pharmacokinetics and Pharmacodynamics: Zero-order vs first-order elimination"
+},
+{
+  "id": "pharm-053",
+  "subject": "Pharmacology",
+  "major_topic": "Pharmacokinetics and Pharmacodynamics",
+  "subtopic": "Zero-order vs first-order elimination",
+  "difficulty": "medium",
+  "vignette": "Most drugs a physician prescribes share a common elimination pattern: the plasma concentration declines exponentially with time, and the amount eliminated per hour changes as the concentration changes.",
+  "question": "Which statement correctly describes this pattern?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Zero-order elimination, which applies chiefly at toxic drug concentrations"
+    },
+    {
+      "id": "B",
+      "text": "Zero-order elimination, which is capacity-limited"
+    },
+    {
+      "id": "C",
+      "text": "First-order elimination, which is capacity-limited"
+    },
+    {
+      "id": "D",
+      "text": "First-order elimination, which applies to most drugs, with a rate directly proportional to drug concentration"
+    },
+    {
+      "id": "E",
+      "text": "First-order elimination, with a rate that is constant regardless of concentration"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "First-order elimination applies to most drugs: the rate of elimination is directly proportional to the drug concentration, meaning a constant fraction of drug is eliminated per unit time and the plasma concentration declines exponentially. This contrasts with zero-order kinetics, in which a constant amount is removed.",
+  "explanation_incorrect": {
+    "A": "Zero-order elimination produces a linear, not exponential, decline and is the exception rather than the rule.",
+    "B": "Capacity-limited elimination is zero-order, which contradicts the exponential decline described.",
+    "C": "First-order elimination is not capacity-limited; saturation of elimination pathways is what produces zero-order kinetics.",
+    "E": "A rate constant regardless of concentration defines zero-order elimination, not first-order."
+  },
+  "educationalObjective": "First-order elimination, in which the rate of elimination is directly proportional to drug concentration, applies to most drugs.",
+  "source": "Generated from 5. Pharmacology.pdf - Pharmacokinetics and Pharmacodynamics: Zero-order vs first-order elimination"
+},
+{
+  "id": "pharm-054",
+  "subject": "Pharmacology",
+  "major_topic": "Pharmacokinetics and Pharmacodynamics",
+  "subtopic": "Zero-order vs first-order elimination",
+  "difficulty": "hard",
+  "vignette": "Two plasma concentration-time curves are compared: one from a drug with zero-order elimination and one from a drug with first-order elimination. The examiner asks about the time required for each successive halving of the plasma concentration.",
+  "question": "How do the successive half-lives behave for each drug?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Zero-order: successive half-lives are equal; first-order: successive half-lives lengthen"
+    },
+    {
+      "id": "B",
+      "text": "Zero-order: successive half-lives shorten as the concentration falls; first-order: the half-life is constant"
+    },
+    {
+      "id": "C",
+      "text": "Successive half-lives shorten for both drugs"
+    },
+    {
+      "id": "D",
+      "text": "Zero-order: successive half-lives lengthen; first-order: successive half-lives shorten"
+    },
+    {
+      "id": "E",
+      "text": "The half-life is constant for both drugs"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "In zero-order elimination the same amount is removed per unit time, so halving a lower concentration takes less time than halving a higher one: the first half-life is longer than subsequent ones. In first-order elimination the rate is proportional to concentration, so the time of each half-life is constant regardless of the starting concentration.",
+  "explanation_incorrect": {
+    "A": "This reverses the patterns: constant half-lives belong to first-order elimination, and zero-order half-lives are not constant.",
+    "C": "Only the zero-order drug shows changing (shortening) half-lives; the first-order drug's half-life never changes.",
+    "D": "Lengthening half-lives do not occur for either pattern: zero-order half-lives shorten as concentration falls, and first-order half-lives stay constant.",
+    "E": "Only first-order elimination has a constant half-life; zero-order half-life varies with the concentration."
+  },
+  "educationalObjective": "In zero-order elimination successive half-lives shorten as concentration falls, whereas in first-order elimination the half-life is constant.",
+  "source": "Generated from 5. Pharmacology.pdf - Pharmacokinetics and Pharmacodynamics: Zero-order vs first-order elimination"
+},
+{
+  "id": "pharm-055",
+  "subject": "Pharmacology",
+  "major_topic": "Pharmacokinetics and Pharmacodynamics",
+  "subtopic": "Zero-order vs first-order elimination",
+  "difficulty": "medium",
+  "vignette": "A 24-year-old man is treated in the emergency department for severe ethanol intoxication with a very high blood ethanol concentration. The clinical team observes that ethanol is eliminated at a fixed rate per hour that does not accelerate even as the blood concentration remains dangerously elevated.",
+  "question": "Why does ethanol behave this way?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It undergoes extensive first-pass metabolism after oral ingestion"
+    },
+    {
+      "id": "B",
+      "text": "It has a large volume of distribution"
+    },
+    {
+      "id": "C",
+      "text": "Its elimination is flow-dependent"
+    },
+    {
+      "id": "D",
+      "text": "It follows first-order elimination kinetics"
+    },
+    {
+      "id": "E",
+      "text": "Its elimination is capacity-limited, so the rate is constant regardless of concentration"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Ethanol is a classic zero-order drug: its elimination pathways are saturated at intoxicating concentrations, making elimination capacity-limited. A constant amount is metabolized per unit time regardless of the plasma concentration, so raising the concentration does not speed clearance.",
+  "explanation_incorrect": {
+    "A": "First-pass metabolism influences oral bioavailability but does not explain the fixed elimination rate at high concentrations.",
+    "B": "A large volume of distribution describes how ethanol distributes in the body, not the constancy of its elimination rate.",
+    "C": "Flow-dependent elimination is characteristic of first-order kinetics, the opposite of ethanol's saturated, capacity-limited elimination.",
+    "D": "First-order elimination would accelerate in proportion to concentration, exactly what is not observed here."
+  },
+  "educationalObjective": "Ethanol elimination is capacity-limited (zero-order): a constant amount is eliminated per unit time regardless of blood concentration.",
+  "source": "Generated from 5. Pharmacology.pdf - Pharmacokinetics and Pharmacodynamics: Zero-order vs first-order elimination"
+}
+]

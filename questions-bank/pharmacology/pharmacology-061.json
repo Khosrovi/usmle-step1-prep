@@ -1,0 +1,166 @@
+[
+{
+  "id": "pharm-152",
+  "subject": "Pharmacology",
+  "major_topic": "Autonomic Drugs",
+  "subtopic": "Physiologic effects of sympathomimetics and epinephrine reversal",
+  "difficulty": "easy",
+  "vignette": "A healthy research volunteer receives an intravenous infusion of norepinephrine as part of a physiology experiment. Continuous arterial line monitoring is performed throughout the infusion.",
+  "question": "Which of the following hemodynamic patterns is expected during the norepinephrine infusion?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Decreased systolic and diastolic pressures with reflex tachycardia"
+    },
+    {
+      "id": "B",
+      "text": "Unchanged mean arterial pressure with a widened pulse pressure"
+    },
+    {
+      "id": "C",
+      "text": "Increased systolic and diastolic pressures with reflex bradycardia"
+    },
+    {
+      "id": "D",
+      "text": "Decreased mean arterial pressure with increased heart rate"
+    },
+    {
+      "id": "E",
+      "text": "Increased diastolic but decreased systolic pressure with no heart-rate change"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Norepinephrine (α > β) causes α1-mediated vasoconstriction, raising both systolic and diastolic pressures and increasing mean arterial pressure. The resulting baroreceptor-mediated reflex bradycardia offsets norepinephrine's direct β1 chronotropic effect, so heart rate shows little or no increase. Norepinephrine is used clinically for hypotension and septic shock.",
+  "explanation_incorrect": {
+    "A": "Decreased pressures with tachycardia describes isoproterenol's profile (β2-mediated vasodilation lowering MAP with increased heart rate), not norepinephrine.",
+    "B": "A widened pulse pressure with unchanged MAP is characteristic of isoproterenol-like vasodilation patterns; norepinephrine raises both systolic and diastolic pressures.",
+    "D": "Decreased MAP with increased heart rate is the classic isoproterenol pattern, not the pressor response of norepinephrine.",
+    "E": "Norepinephrine raises systolic as well as diastolic pressure, and reflex bradycardia (not a completely unchanged heart rate) is the expected response to the MAP rise."
+  },
+  "educationalObjective": "Norepinephrine increases systolic and diastolic pressures via α1-mediated vasoconstriction, producing reflex bradycardia.",
+  "source": "Generated from 5. Pharmacology.pdf - Autonomic Drugs: Physiologic effects of sympathomimetics and epinephrine reversal"
+},
+{
+  "id": "pharm-153",
+  "subject": "Pharmacology",
+  "major_topic": "Autonomic Drugs",
+  "subtopic": "Physiologic effects of sympathomimetics and epinephrine reversal",
+  "difficulty": "medium",
+  "vignette": "During an electrophysiologic evaluation of tachyarrhythmias, a 59-year-old man receives a rarely used intravenous agent that has essentially no α-adrenergic effect but strongly stimulates β1 and β2 receptors. He notes palpitations, and blood pressure drifts downward while heart rate rises.",
+  "question": "Which drug did this patient receive, and what explains the observed blood pressure response?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Isoproterenol; β2-mediated vasodilation lowers mean arterial pressure while β1 increases heart rate"
+    },
+    {
+      "id": "B",
+      "text": "Norepinephrine; α1-mediated vasoconstriction lowers mean arterial pressure through baroreflex vasodilation"
+    },
+    {
+      "id": "C",
+      "text": "Midodrine; α1-mediated vasodilation lowers blood pressure despite peripheral vasoconstriction"
+    },
+    {
+      "id": "D",
+      "text": "Fenoldopam; D1-mediated renal vasoconstriction decreases urinary sodium excretion"
+    },
+    {
+      "id": "E",
+      "text": "Albuterol; β1-selective stimulation of the sinoatrial node lowers cardiac output"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Isoproterenol (β1 = β2, negligible α effect) causes β2-mediated vasodilation, which decreases peripheral resistance and mean arterial pressure, while β1 stimulation directly increases heart rate and reflex activity further raises it. Its clinical use is electrophysiologic evaluation of tachyarrhythmias; it can worsen ischemia.",
+  "explanation_incorrect": {
+    "B": "Norepinephrine raises mean arterial pressure through α1-mediated vasoconstriction and produces reflex bradycardia — the opposite of what was observed.",
+    "C": "Midodrine is an α1 agonist that raises blood pressure through vasoconstriction; it does not cause vasodilation or tachycardia.",
+    "D": "Fenoldopam is a D1 agonist causing vasodilation and natriuresis (increased sodium excretion), not renal vasoconstriction.",
+    "E": "Albuterol is β2-selective (bronchodilator), not β1-selective, and is not used for electrophysiologic evaluation."
+  },
+  "educationalObjective": "Isoproterenol (β1 = β2, negligible α) lowers mean arterial pressure via β2 vasodilation and increases heart rate; it is used in electrophysiologic studies.",
+  "source": "Generated from 5. Pharmacology.pdf - Autonomic Drugs: Physiologic effects of sympathomimetics and epinephrine reversal"
+},
+{
+  "id": "pharm-154",
+  "subject": "Pharmacology",
+  "major_topic": "Autonomic Drugs",
+  "subtopic": "Physiologic effects of sympathomimetics and epinephrine reversal",
+  "difficulty": "hard",
+  "vignette": "A 40-year-old woman is accidentally given a dose of an irreversible α-blocking agent, then receives an intravenous bolus of epinephrine. Before the α-blocker, her mean arterial pressure rose; after the blockade, her blood pressure falls instead of rising, while heart rate increases.",
+  "question": "Which of the following best explains the altered response to epinephrine after α-blockade?",
+  "options": [
+    {
+      "id": "A",
+      "text": "α-blockade prevents epinephrine from reaching its receptors, so no adrenergic effect occurs"
+    },
+    {
+      "id": "B",
+      "text": "α-blockade converts epinephrine's effect to pure β2-mediated vasodilation, reversing mean arterial pressure from a net increase to a net decrease"
+    },
+    {
+      "id": "C",
+      "text": "α-blockade potentiates β1 chronotropy so strongly that cardiac output falls and blood pressure drops"
+    },
+    {
+      "id": "D",
+      "text": "α-blockade destroys norepinephrine stores, eliminating all catecholamine action on blood vessels"
+    },
+    {
+      "id": "E",
+      "text": "α-blockade stimulates the baroreflex to vasodilate, an effect unrelated to which catecholamine is given"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Epinephrine stimulates both α (vasoconstriction) and β2 (vasodilation) receptors. When α receptors are blocked, the unopposed β2 vasodilation dominates: the epinephrine response exhibits reversal of mean arterial pressure from a net increase (the α response) to a net decrease (the β2 response). This is the classic phenomenon of epinephrine reversal.",
+  "explanation_incorrect": {
+    "A": "Epinephrine still reaches β receptors (which are not blocked); the reversal occurs because the α component of its action is eliminated while β2 vasodilation persists.",
+    "C": "The blood pressure drop is driven by unopposed β2-mediated vasodilation lowering peripheral resistance, not by excessive β1 chronotropy reducing cardiac output.",
+    "D": "α-blockade does not deplete catecholamine stores; epinephrine's β effects continue, which is precisely why the response reverses rather than disappears.",
+    "E": "The reversal is specific to catecholamines with both α and β2 activity; a pure α-agonist's response is suppressed but not reversed under the same conditions."
+  },
+  "educationalObjective": "Epinephrine reversal: after α-blockade, epinephrine's net pressor effect flips to a β2-mediated depressor effect.",
+  "source": "Generated from 5. Pharmacology.pdf - Autonomic Drugs: Physiologic effects of sympathomimetics and epinephrine reversal"
+},
+{
+  "id": "pharm-155",
+  "subject": "Pharmacology",
+  "major_topic": "Autonomic Drugs",
+  "subtopic": "Physiologic effects of sympathomimetics and epinephrine reversal",
+  "difficulty": "medium",
+  "vignette": "In an experimental preparation, an irreversible α-blocking drug is administered, after which intravenous phenylephrine is given. Blood pressure rises far less than before the blocker, but no net decrease in mean arterial pressure occurs.",
+  "question": "Why is phenylephrine's pressor response suppressed but not reversed after α-blockade, unlike epinephrine's?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Phenylephrine is a \"pure\" α-agonist and lacks β-agonist properties that could mediate vasodilation"
+    },
+    {
+      "id": "B",
+      "text": "Phenylephrine is metabolized by the same enzyme as the α-blocker, producing a vasodilatory metabolite"
+    },
+    {
+      "id": "C",
+      "text": "Phenylephrine stimulates β2 receptors more strongly than epinephrine, masking reversal"
+    },
+    {
+      "id": "D",
+      "text": "Phenylephrine acts centrally to increase sympathetic outflow, which opposes peripheral reversal"
+    },
+    {
+      "id": "E",
+      "text": "Phenylephrine releases stored norepinephrine, which continues to activate α receptors despite blockade"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Phenylephrine is a \"pure\" α-agonist (α1 > α2) with no meaningful β-agonist properties. α-blockade removes essentially all of its vascular effect, so the response is suppressed; but because there is no β2-mediated vasodilatory component to unmask, the response cannot reverse — unlike epinephrine, whose unopposed β2 effect produces reversal.",
+  "explanation_incorrect": {
+    "B": "No metabolic interaction accounts for this; the difference is purely pharmacologic — phenylephrine has no β-agonist activity.",
+    "C": "Phenylephrine does not stimulate β2 receptors; strong β2 stimulation is what causes epinephrine reversal after α-blockade.",
+    "D": "Phenylephrine is a peripherally acting direct agonist; central sympathetic outflow plays no role in the blocked-response pattern.",
+    "E": "Phenylephrine is a direct-acting agonist and does not release stored norepinephrine; indirect agents such as amphetamine and ephedrine do."
+  },
+  "educationalObjective": "Pure α-agonists like phenylephrine are suppressed (not reversed) by α-blockade because they lack β2-mediated vasodilation.",
+  "source": "Generated from 5. Pharmacology.pdf - Autonomic Drugs: Physiologic effects of sympathomimetics and epinephrine reversal"
+}
+]

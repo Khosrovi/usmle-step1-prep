@@ -1,0 +1,248 @@
+[
+{
+  "id": "pharm-026",
+  "subject": "Pharmacology",
+  "major_topic": "Pharmacokinetics and Pharmacodynamics",
+  "subtopic": "Effects of enzyme inhibition: competitive vs noncompetitive",
+  "difficulty": "easy",
+  "vignette": "During a pharmacology laboratory session, students add a reversible inhibitor that structurally resembles the substrate of a metabolic enzyme. Substrate concentration can be increased without limit in the assay.",
+  "question": "Which set of characteristics corresponds to this type of inhibition?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Binds the active site; Vmax unchanged; inhibition overcome by increased substrate concentration"
+    },
+    {
+      "id": "B",
+      "text": "Does not bind the active site; Vmax decreased; inhibition overcome by increased substrate concentration"
+    },
+    {
+      "id": "C",
+      "text": "Binds the active site; Vmax decreased; inhibition overcome by increased substrate concentration"
+    },
+    {
+      "id": "D",
+      "text": "Does not resemble the substrate; Km increased; Vmax unchanged"
+    },
+    {
+      "id": "E",
+      "text": "Binds the active site; Km unchanged; inhibition overcome by increased substrate concentration"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Reversible competitive inhibitors resemble the substrate, bind the active site, and can be overcome by increasing substrate concentration. Vmax is unchanged because enough substrate can eventually displace the inhibitor, while the apparent Km increases because more substrate is needed to reach half of Vmax.",
+  "explanation_incorrect": {
+    "B": "Not binding the active site and a decreased Vmax describe noncompetitive inhibition, which also cannot be overcome by increased substrate concentration.",
+    "C": "Although a competitive inhibitor binds the active site, Vmax is unchanged rather than decreased in reversible competitive inhibition.",
+    "D": "Competitive inhibitors do resemble the substrate; an inhibitor that does not resemble the substrate with an increased Km is not a defined pattern.",
+    "E": "A competitive inhibitor increases Km; an unchanged Km with active-site binding describes irreversible competitive inhibition, which is not overcome by increased substrate."
+  },
+  "educationalObjective": "Reversible competitive inhibitors resemble the substrate, bind the active site, are overcome by increased substrate concentration, leave Vmax unchanged, and increase Km.",
+  "source": "Generated from 5. Pharmacology.pdf - Pharmacokinetics and Pharmacodynamics: Effects of enzyme inhibition: competitive vs noncompetitive"
+},
+{
+  "id": "pharm-027",
+  "subject": "Pharmacology",
+  "major_topic": "Pharmacokinetics and Pharmacodynamics",
+  "subtopic": "Effects of enzyme inhibition: competitive vs noncompetitive",
+  "difficulty": "medium",
+  "vignette": "An inhibitor is tested against a purified enzyme. It decreases the maximal velocity of the reaction, does not structurally resemble the substrate, and increasing the substrate concentration 100-fold fails to restore the original velocity.",
+  "question": "Which type of inhibition does this inhibitor exhibit?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Reversible competitive inhibition"
+    },
+    {
+      "id": "B",
+      "text": "Irreversible competitive inhibition"
+    },
+    {
+      "id": "C",
+      "text": "Noncompetitive inhibition"
+    },
+    {
+      "id": "D",
+      "text": "Allosteric activation"
+    },
+    {
+      "id": "E",
+      "text": "Enzyme induction"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Noncompetitive inhibitors do not resemble the substrate, do not bind the active site, and cannot be overcome by increasing substrate concentration. They decrease Vmax while leaving Km unchanged, exactly matching the decreased maximal velocity that persists despite a 100-fold rise in substrate concentration.",
+  "explanation_incorrect": {
+    "A": "Reversible competitive inhibition is overcome by increased substrate concentration, which was not the case here.",
+    "B": "Irreversible competitive inhibitors do resemble the substrate and bind the active site; this inhibitor does neither.",
+    "D": "Allosteric activation would increase, not decrease, enzyme activity.",
+    "E": "Enzyme induction increases the amount of enzyme and therefore raises Vmax rather than lowering it."
+  },
+  "educationalObjective": "Noncompetitive inhibitors do not resemble the substrate, are not overcome by increased substrate concentration, and decrease Vmax with unchanged Km.",
+  "source": "Generated from 5. Pharmacology.pdf - Pharmacokinetics and Pharmacodynamics: Effects of enzyme inhibition: competitive vs noncompetitive"
+},
+{
+  "id": "pharm-028",
+  "subject": "Pharmacology",
+  "major_topic": "Pharmacokinetics and Pharmacodynamics",
+  "subtopic": "Effects of enzyme inhibition: competitive vs noncompetitive",
+  "difficulty": "easy",
+  "vignette": "During a laboratory exercise, a reversible competitive inhibitor is added to an enzyme assay in which the substrate concentration can be raised as high as needed.",
+  "question": "What effect does this inhibitor have on the measured Km of the reaction?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Km decreases, indicating increased apparent affinity"
+    },
+    {
+      "id": "B",
+      "text": "Km increases, indicating decreased apparent affinity"
+    },
+    {
+      "id": "C",
+      "text": "Km is unchanged"
+    },
+    {
+      "id": "D",
+      "text": "Km increases and Vmax decreases"
+    },
+    {
+      "id": "E",
+      "text": "Km decreases and Vmax decreases"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "A competitive inhibitor competes with substrate for the active site, so a higher substrate concentration is needed to reach one half of Vmax. The apparent Km therefore increases, which corresponds to a decreased apparent affinity of the enzyme for its substrate. Vmax remains unchanged because the inhibition can be overcome by enough substrate.",
+  "explanation_incorrect": {
+    "A": "A decreased Km would mean less substrate is needed for half-maximal velocity, the opposite of what competitive inhibition produces.",
+    "C": "Km is unchanged in noncompetitive and irreversible competitive inhibition, but a reversible competitive inhibitor raises the apparent Km.",
+    "D": "Although Km increases, Vmax is unchanged in reversible competitive inhibition; a decreased Vmax is not overcome by more substrate.",
+    "E": "Neither Km nor Vmax decreases with reversible competitive inhibition."
+  },
+  "educationalObjective": "Reversible competitive inhibition increases the apparent Km (decreased apparent affinity) while leaving Vmax unchanged.",
+  "source": "Generated from 5. Pharmacology.pdf - Pharmacokinetics and Pharmacodynamics: Effects of enzyme inhibition: competitive vs noncompetitive"
+},
+{
+  "id": "pharm-029",
+  "subject": "Pharmacology",
+  "major_topic": "Pharmacokinetics and Pharmacodynamics",
+  "subtopic": "Effects of enzyme inhibition: competitive vs noncompetitive",
+  "difficulty": "medium",
+  "vignette": "A new enzyme inhibitor is under development. The project team must predict how the inhibitor will alter the dose-response relationship of the substrate before running animal studies.",
+  "question": "What effect does a reversible competitive inhibitor have on the pharmacodynamic relationship between substrate concentration and reaction velocity?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Decreased efficacy with unchanged potency"
+    },
+    {
+      "id": "B",
+      "text": "Decreased both potency and efficacy"
+    },
+    {
+      "id": "C",
+      "text": "Increased potency"
+    },
+    {
+      "id": "D",
+      "text": "Increased efficacy"
+    },
+    {
+      "id": "E",
+      "text": "Decreased potency with unchanged efficacy"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Competitive inhibition decreases apparent potency: more substrate (or drug) is required to achieve the same effect, equivalent to an increased Km. Because sufficiently high substrate concentrations overcome the inhibition, maximal effect (efficacy, corresponding to Vmax) is unchanged. Noncompetitive inhibition, in contrast, decreases efficacy.",
+  "explanation_incorrect": {
+    "A": "Decreased efficacy with unchanged potency describes noncompetitive inhibition, in which the maximal velocity falls.",
+    "B": "A decrease in both potency and efficacy is not produced by a reversible competitive inhibitor; efficacy is preserved.",
+    "C": "A competitive inhibitor makes the enzyme require more substrate, which is a loss of potency, not a gain.",
+    "D": "Efficacy (Vmax) is unchanged by a reversible competitive inhibitor and certainly does not increase."
+  },
+  "educationalObjective": "Competitive inhibition reduces apparent potency, whereas noncompetitive inhibition reduces efficacy.",
+  "source": "Generated from 5. Pharmacology.pdf - Pharmacokinetics and Pharmacodynamics: Effects of enzyme inhibition: competitive vs noncompetitive"
+},
+{
+  "id": "pharm-030",
+  "subject": "Pharmacology",
+  "major_topic": "Pharmacokinetics and Pharmacodynamics",
+  "subtopic": "Effects of enzyme inhibition: competitive vs noncompetitive",
+  "difficulty": "medium",
+  "vignette": "An experimental inhibitor covalently binds the active site of an enzyme and structurally resembles the substrate. Even a 1000-fold increase in substrate concentration does not restore enzyme activity, and the reaction now plateaus at a lower maximal velocity with Km unchanged.",
+  "question": "Which type of inhibitor is this?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Reversible competitive inhibitor"
+    },
+    {
+      "id": "B",
+      "text": "Noncompetitive inhibitor"
+    },
+    {
+      "id": "C",
+      "text": "Enzyme inducer"
+    },
+    {
+      "id": "D",
+      "text": "Irreversible competitive inhibitor"
+    },
+    {
+      "id": "E",
+      "text": "Allosteric activator"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Irreversible competitive inhibitors resemble the substrate and bind the active site, but the binding is permanent (covalent), so increasing substrate concentration cannot overcome the inhibition. Vmax is decreased because functional enzyme is irreversibly lost, while Km is unchanged for the remaining enzyme molecules.",
+  "explanation_incorrect": {
+    "A": "A reversible competitive inhibitor is overcome by increased substrate concentration and leaves Vmax unchanged; neither applies here.",
+    "B": "Noncompetitive inhibitors decrease Vmax but do not resemble the substrate and do not bind the active site.",
+    "C": "An enzyme inducer increases the amount of active enzyme and would raise, not lower, Vmax.",
+    "E": "An allosteric activator would increase enzyme activity rather than permanently reduce the maximal velocity."
+  },
+  "educationalObjective": "Irreversible competitive inhibitors bind the active site permanently: Vmax decreases, Km is unchanged, and increased substrate concentration cannot restore activity.",
+  "source": "Generated from 5. Pharmacology.pdf - Pharmacokinetics and Pharmacodynamics: Effects of enzyme inhibition: competitive vs noncompetitive"
+},
+{
+  "id": "pharm-031",
+  "subject": "Pharmacology",
+  "major_topic": "Pharmacokinetics and Pharmacodynamics",
+  "subtopic": "Effects of enzyme inhibition: competitive vs noncompetitive",
+  "difficulty": "hard",
+  "vignette": "Double-reciprocal (Lineweaver-Burk) plots are generated for an enzyme assay run alone and in the presence of an inhibitor. The line obtained with the inhibitor intersects the uninhibited line on the y-axis, while the two lines have different x-intercepts.",
+  "question": "Which conclusion is supported by this pattern?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The inhibitor is noncompetitive"
+    },
+    {
+      "id": "B",
+      "text": "The inhibitor decreases Km"
+    },
+    {
+      "id": "C",
+      "text": "The inhibitor is a reversible competitive inhibitor"
+    },
+    {
+      "id": "D",
+      "text": "The inhibitor decreases Vmax"
+    },
+    {
+      "id": "E",
+      "text": "The inhibitor does not bind the active site"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "On a Lineweaver-Burk plot, the y-intercept corresponds to 1/Vmax and the x-intercept to -1/Km. Reversible competitive inhibitors leave Vmax unchanged, so their line crosses the uninhibited line at the same y-intercept, while the increased Km produces a different x-intercept. This intersection on the y-axis is the classic graphic signature of reversible competitive inhibition.",
+  "explanation_incorrect": {
+    "A": "Noncompetitive inhibitors do not cross the uninhibited line at the y-axis because they decrease Vmax, changing the y-intercept.",
+    "B": "The differing x-intercepts indicate an increased Km, since a competitive inhibitor raises the apparent Km.",
+    "D": "An unchanged y-intercept means Vmax is unchanged, not decreased; a decreased Vmax is characteristic of noncompetitive or irreversible inhibition.",
+    "E": "Competitive inhibitors bind the active site; an inhibitor that does not bind the active site is noncompetitive."
+  },
+  "educationalObjective": "On Lineweaver-Burk plots, reversible competitive inhibitors intersect the uninhibited line on the y-axis (same Vmax), whereas noncompetitive inhibitors do not.",
+  "source": "Generated from 5. Pharmacology.pdf - Pharmacokinetics and Pharmacodynamics: Effects of enzyme inhibition: competitive vs noncompetitive"
+}
+]

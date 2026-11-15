@@ -1,0 +1,207 @@
+[
+{
+  "id": "pharm-245",
+  "subject": "Pharmacology",
+  "major_topic": "Miscellaneous",
+  "subtopic": "Drug name endings: antimicrobial and antineoplastic",
+  "difficulty": "medium",
+  "vignette": "A pharmaceutical company develops a new antiretroviral agent for HIV named \"bictetegravir,\" which ends in the suffix -tegravir. A physician reviewing the drug's package insert wants to predict its mechanism of action before reading further.",
+  "question": "Based on the drug name ending, what is the most likely mechanism of action of this agent?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Inhibition of viral DNA polymerase, terminating DNA chain elongation"
+    },
+    {
+      "id": "B",
+      "text": "Inhibition of viral integrase, preventing integration of HIV DNA into the host genome"
+    },
+    {
+      "id": "C",
+      "text": "Inhibition of viral protease, preventing cleavage of polyprotein precursors"
+    },
+    {
+      "id": "D",
+      "text": "Inhibition of viral neuraminidase, preventing release of progeny virions"
+    },
+    {
+      "id": "E",
+      "text": "Inhibition of the CCR5 co-receptor, preventing viral entry into CD4+ cells"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Drugs ending in -tegravir (eg, dolutegravir) are HIV integrase strand transfer inhibitors. They block the viral integrase enzyme that inserts HIV's proviral DNA into the host genome, an essential step in the retroviral life cycle. Recognizing the -tegravir suffix allows prediction of the mechanism from the drug name alone.",
+  "explanation_incorrect": {
+    "A": "Inhibition of viral DNA polymerase describes drugs ending in -ovir (eg, acyclovir), which are used for herpesviruses, not HIV.",
+    "C": "Protease inhibition describes drugs ending in -navir (eg, ritonavir); these prevent cleavage of HIV polyproteins into mature virions.",
+    "D": "Neuraminidase inhibition describes drugs ending in -mivir (eg, oseltamivir), which are used against influenza, not HIV.",
+    "E": "CCR5 antagonism (eg, maraviroc) is a viral entry inhibitor; its name carries no -tegravir ending and it acts at the cell surface rather than on a viral enzyme."
+  },
+  "educationalObjective": "The suffix -tegravir identifies HIV integrase strand transfer inhibitors.",
+  "source": "Generated from 5. Pharmacology.pdf - Miscellaneous: Drug name endings: antimicrobial and antineoplastic"
+},
+{
+  "id": "pharm-246",
+  "subject": "Pharmacology",
+  "major_topic": "Miscellaneous",
+  "subtopic": "Drug name endings: antimicrobial and antineoplastic",
+  "difficulty": "easy",
+  "vignette": "A 52-year-old woman with chronic hepatitis C infection is started on a combination antiviral regimen that includes a drug ending in -buvir. She asks her physician how the new medication works.",
+  "question": "Which of the following best describes the mechanism of action of this agent?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Inhibition of the hepatitis C NS5A protein required for viral replication"
+    },
+    {
+      "id": "B",
+      "text": "Inhibition of hepatitis C NS3/4A serine protease, blocking viral polyprotein processing"
+    },
+    {
+      "id": "C",
+      "text": "Inhibition of influenza neuraminidase, preventing viral release"
+    },
+    {
+      "id": "D",
+      "text": "Inhibition of viral DNA polymerase in herpesvirus-infected cells"
+    },
+    {
+      "id": "E",
+      "text": "Inhibition of the hepatitis C NS5B RNA-dependent RNA polymerase"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Drugs ending in -buvir, such as sofosbuvir, inhibit the hepatitis C virus NS5B RNA-dependent RNA polymerase, the enzyme that replicates the viral RNA genome. Blocking NS5B halts viral replication and is a cornerstone of modern interferon-free HCV therapy.",
+  "explanation_incorrect": {
+    "A": "NS5A inhibition is the mechanism of drugs ending in -asvir (eg, ledipasvir), a different HCV target commonly combined with -buvir agents.",
+    "B": "NS3/4A protease inhibition is the mechanism of drugs ending in -previr (eg, grazoprevir), which target viral polyprotein cleavage.",
+    "C": "Neuraminidase inhibitors end in -mivir (eg, oseltamivir) and are used for influenza, not hepatitis C.",
+    "D": "Viral DNA polymerase inhibitors end in -ovir (eg, acyclovir); hepatitis C is an RNA virus and has no DNA polymerase phase targeted by these agents."
+  },
+  "educationalObjective": "The suffix -buvir identifies HCV NS5B RNA polymerase inhibitors such as sofosbuvir.",
+  "source": "Generated from 5. Pharmacology.pdf - Miscellaneous: Drug name endings: antimicrobial and antineoplastic"
+},
+{
+  "id": "pharm-247",
+  "subject": "Pharmacology",
+  "major_topic": "Miscellaneous",
+  "subtopic": "Drug name endings: antimicrobial and antineoplastic",
+  "difficulty": "medium",
+  "vignette": "A 58-year-old woman receiving chemotherapy for breast cancer develops a declining ejection fraction on echocardiography. Her medication list shows a chemotherapeutic agent whose name ends in -rubicin. The physician recalls that the drug class name often predicts both mechanism and characteristic toxicity.",
+  "question": "Which of the following best characterizes the agent this patient is receiving?",
+  "options": [
+    {
+      "id": "A",
+      "text": "An anthracycline that intercalates DNA, inhibits topoisomerase II, and generates free radicals"
+    },
+    {
+      "id": "B",
+      "text": "A taxane that hyperstabilizes polymerized microtubules and blocks mitosis"
+    },
+    {
+      "id": "C",
+      "text": "A platinum compound that forms cross-links between DNA strands"
+    },
+    {
+      "id": "D",
+      "text": "A vinca alkaloid that prevents microtubule polymerization"
+    },
+    {
+      "id": "E",
+      "text": "An antifolate that inhibits dihydrofolate reductase and impairs thymidine synthesis"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Drugs ending in -rubicin (eg, doxorubicin) are anthracyclines. They intercalate into DNA, inhibit topoisomerase II, and generate cytotoxic free radicals. Free radical–mediated injury to cardiac myocytes explains the dose-dependent cardiomyopathy seen in this patient.",
+  "explanation_incorrect": {
+    "B": "Microtubule hyperstabilization describes taxanes, which end in -taxel (eg, paclitaxel), not -rubicin agents.",
+    "C": "DNA cross-linking with platinum compounds describes drugs ending in -platin (eg, cisplatin), whose classic toxicities are nephrotoxicity and ototoxicity rather than cardiomyopathy.",
+    "D": "Vinca alkaloids inhibit microtubule polymerization but do not end in -rubicin and are associated with neuropathy, not cardiac injury.",
+    "E": "Antifolates such as methotrexate inhibit dihydrofolate reductase and carry neither the -rubicin ending nor the cardiomyopathy risk."
+  },
+  "educationalObjective": "The suffix -rubicin identifies anthracyclines, whose free radical generation underlies dose-dependent cardiotoxicity.",
+  "source": "Generated from 5. Pharmacology.pdf - Miscellaneous: Drug name endings: antimicrobial and antineoplastic"
+},
+{
+  "id": "pharm-248",
+  "subject": "Pharmacology",
+  "major_topic": "Miscellaneous",
+  "subtopic": "Drug name endings: antimicrobial and antineoplastic",
+  "difficulty": "hard",
+  "vignette": "A 6-year-old boy with newly diagnosed acute lymphoblastic leukemia presents with lethargy, flank pain, and a serum uric acid of 18 mg/dL despite allopurinol prophylaxis. The oncology team orders an intravenous agent whose name ends in -case to rapidly lower his uric acid level.",
+  "question": "What is the mechanism of action of this agent?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Inhibition of xanthine oxidase, blocking uric acid formation"
+    },
+    {
+      "id": "B",
+      "text": "Conversion of uric acid into the more soluble metabolite allantoin by recombinant uricase"
+    },
+    {
+      "id": "C",
+      "text": "Inhibition of urate reabsorption in the proximal tubule via URAT1 blockade"
+    },
+    {
+      "id": "D",
+      "text": "Interleukin-1 receptor antagonism, reducing inflammatory urate crystal signaling"
+    },
+    {
+      "id": "E",
+      "text": "Lysis of lymphoblasts, reducing the total body purine pool"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Drugs ending in -case (eg, rasburicase) are recombinant uricase enzymes. Humans lack uricase, which converts uric acid to allantoin, a far more soluble compound excreted renally. Rasburicase is used for rapid lowering of uric acid in tumor lysis syndrome, especially in pediatric leukemia when allopurinol is insufficient.",
+  "explanation_incorrect": {
+    "A": "Xanthine oxidase inhibition describes allopurinol, which this patient is already receiving; it is not the -case agent.",
+    "C": "Blocking urate reabsorption (eg, probenecid, lesinurad) raises urinary uric acid and is inappropriate during active tumor lysis, and these agents do not end in -case.",
+    "D": "Interleukin-1 receptor antagonism (anakinra) treats gouty inflammation, not urate burden, and is a biologic agent, not a -case drug.",
+    "E": "Lysis of lymphoblasts is the effect of the chemotherapy that caused tumor lysis; the -case agent acts directly on uric acid chemistry."
+  },
+  "educationalObjective": "The suffix -case identifies recombinant uricase (rasburicase), which converts uric acid to allantoin for tumor lysis syndrome.",
+  "source": "Generated from 5. Pharmacology.pdf - Miscellaneous: Drug name endings: antimicrobial and antineoplastic"
+},
+{
+  "id": "pharm-249",
+  "subject": "Pharmacology",
+  "major_topic": "Miscellaneous",
+  "subtopic": "Drug name endings: antimicrobial and antineoplastic",
+  "difficulty": "medium",
+  "vignette": "A 61-year-old man with a high-grade glioma is treated with an intravenous chemotherapeutic agent whose name ends in -mustine. The oncologist selects this agent because of a property that makes it useful for intracranial tumors.",
+  "question": "Which of the following best describes this drug?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A platinum compound that cross-links DNA but does not penetrate the blood-brain barrier"
+    },
+    {
+      "id": "B",
+      "text": "A cell cycle–specific antimetabolite acting only in S phase"
+    },
+    {
+      "id": "C",
+      "text": "A nitrosourea alkylating agent with high lipid solubility that crosses the blood-brain barrier"
+    },
+    {
+      "id": "D",
+      "text": "A topoisomerase I inhibitor that causes DNA single-strand breaks"
+    },
+    {
+      "id": "E",
+      "text": "An antihelminthic agent that paralyzes parasites by disrupting microtubules"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Drugs ending in -mustine (eg, carmustine) are nitrosourea alkylating agents. Their high lipid solubility allows them to cross the blood-brain barrier, which makes them classic choices for CNS tumors such as gliomas.",
+  "explanation_incorrect": {
+    "A": "DNA cross-linking with platinum describes drugs ending in -platin (eg, cisplatin); these penetrate the CNS poorly, which is why -mustine agents are preferred for brain tumors.",
+    "B": "S-phase–specific antimetabolites (eg, methotrexate, 5-FU) are a different class and do not carry the -mustine ending.",
+    "D": "Topoisomerase I inhibition describes drugs ending in -tecan (eg, irinotecan), used mainly in colorectal cancer.",
+    "E": "Antihelminthics that disrupt microtubules end in -bendazole (eg, mebendazole) and are used for parasitic infections, not brain tumors."
+  },
+  "educationalObjective": "The suffix -mustine identifies nitrosourea alkylators (carmustine) that cross the blood-brain barrier for CNS tumors.",
+  "source": "Generated from 5. Pharmacology.pdf - Miscellaneous: Drug name endings: antimicrobial and antineoplastic"
+}
+]

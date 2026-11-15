@@ -1,0 +1,207 @@
+[
+{
+  "id": "pharm-171",
+  "subject": "Pharmacology",
+  "major_topic": "Autonomic Drugs",
+  "subtopic": "Phosphodiesterase inhibitors",
+  "difficulty": "easy",
+  "vignette": "A 66-year-old man with severe COPD exacerbation is admitted and given an intravenous bronchodilator that inhibits phosphodiesterase, increasing cAMP and relaxing bronchial smooth muscle. Shortly after the infusion, he develops palpitations and a run of supraventricular tachycardia.",
+  "question": "Which of the following drugs did this patient most likely receive, and what toxicity does his arrhythmia illustrate?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Roflumilast; weight loss and depression"
+    },
+    {
+      "id": "B",
+      "text": "Sildenafil; cyanopia (blue-tinted vision)"
+    },
+    {
+      "id": "C",
+      "text": "Theophylline; cardiotoxicity (tachycardia, arrhythmia)"
+    },
+    {
+      "id": "D",
+      "text": "Milrinone; hypotension and ventricular arrhythmias"
+    },
+    {
+      "id": "E",
+      "text": "Dipyridamole; nausea and facial flushing"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Theophylline is a nonspecific PDE inhibitor: decreased cAMP hydrolysis leads to increased cAMP, relaxation of bronchial smooth muscle, and bronchodilation. It is used (rarely) for COPD/asthma. Its toxicities are cardiotoxicity (tachycardia, arrhythmia) and neurotoxicity (seizures, headache), plus abdominal pain — matching the new arrhythmia.",
+  "explanation_incorrect": {
+    "A": "Roflumilast is a PDE-4 inhibitor for severe COPD whose adverse effects are abdominal pain, weight loss, depression, anxiety, and insomnia — not acute cardiotoxicity.",
+    "B": "Sildenafil is a PDE-5 inhibitor; cyanopia via PDE-6 inhibition is its characteristic adverse effect, and it does not treat COPD.",
+    "D": "Milrinone is a PDE-3 inotrope used for acute decompensated heart failure with cardiogenic shock; tachycardia and ventricular arrhythmias are its adverse effects, but it is not a COPD bronchodilator.",
+    "E": "Dipyridamole is a platelet inhibitor used for stress testing and stroke prevention; nausea, headache, and flushing are its adverse effects, not bronchodilation."
+  },
+  "educationalObjective": "Theophylline is a nonspecific PDE inhibitor that bronchodilates via increased cAMP; its toxicities are cardiotoxicity and neurotoxicity (seizures).",
+  "source": "Generated from 5. Pharmacology.pdf - Autonomic Drugs: Phosphodiesterase inhibitors"
+},
+{
+  "id": "pharm-172",
+  "subject": "Pharmacology",
+  "major_topic": "Autonomic Drugs",
+  "subtopic": "Phosphodiesterase inhibitors",
+  "difficulty": "hard",
+  "vignette": "A 58-year-old man with erectile dysfunction takes a PDE-5 inhibitor before a romantic evening. Several hours later he develops chest pain and self-administers his wife's sublingual nitroglycerin. He is found pale and diaphoretic with a blood pressure of 76/40 mm Hg. He later reports that his vision has a blue tint.",
+  "question": "Which of the following best explains the two adverse effects observed in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Nitrate-induced PDE-6 inhibition caused profound hypotension, while the PDE-5 inhibitor blocked cGMP hydrolysis in the retina"
+    },
+    {
+      "id": "B",
+      "text": "PDE-5 inhibition decreases cGMP hydrolysis and enhances NO activity, so combining with nitrates causes severe hypotension; PDE-6 inhibition in the retina causes blue-tinted vision"
+    },
+    {
+      "id": "C",
+      "text": "PDE-5 inhibition increases cAMP in vascular smooth muscle causing vasodilation, and cAMP accumulation in the retina causes blue vision"
+    },
+    {
+      "id": "D",
+      "text": "The PDE-5 inhibitor caused neurotoxicity with seizures that acutely lowered blood pressure; nitrates caused the retinal effect"
+    },
+    {
+      "id": "E",
+      "text": "PDE-5 inhibitors inhibit MLCK directly, and the blue vision reflects PDE-3 inhibition in retinal photoreceptors"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "PDE-5 inhibitors (sildenafil, vardenafil, tadalafil, avanafil) decrease hydrolysis of cGMP, increasing cGMP and smooth muscle relaxation by enhancing NO activity — producing pulmonary vasodilation and increased blood flow in the corpus cavernosum. Because nitrates also raise cGMP through NO donation, the combination causes profound hypotension. Sildenafil specifically causes cyanopia (blue-tinted vision) via inhibition of PDE-6 (\"six\") in the retina.",
+  "explanation_incorrect": {
+    "A": "This reverses the assignments: nitrates do not inhibit PDE-6, and retinal PDE-6 inhibition by sildenafil — not nitrates — causes cyanopia.",
+    "C": "PDE-5 inhibition raises cGMP, not cAMP, and the retinal effect is PDE-6 inhibition, not cAMP accumulation.",
+    "D": "Neurotoxicity (seizures, headache) is a theophylline toxicity; nitrates do not cause blue-tinted vision.",
+    "E": "MLCK inhibition is part of milrinone's mechanism in vascular smooth muscle (via cAMP), and retinal vision changes come from PDE-6, not PDE-3."
+  },
+  "educationalObjective": "PDE-5 inhibitors enhance cGMP/NO signaling (severe hypotension with nitrates); sildenafil's cyanopia comes from retinal PDE-6 inhibition.",
+  "source": "Generated from 5. Pharmacology.pdf - Autonomic Drugs: Phosphodiesterase inhibitors"
+},
+{
+  "id": "pharm-173",
+  "subject": "Pharmacology",
+  "major_topic": "Autonomic Drugs",
+  "subtopic": "Phosphodiesterase inhibitors",
+  "difficulty": "medium",
+  "vignette": "A 69-year-old man with severe COPD is started on an oral PDE-4 inhibitor that increases cAMP in neutrophils, granulocytes, and bronchial epithelium. At his 2-month follow-up, he reports a 5-kg unintentional weight loss, low mood, and trouble sleeping.",
+  "question": "Which of the following best describes this drug's principal clinical use and adverse effects?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Acute decompensated heart failure; hypotension and ventricular arrhythmias"
+    },
+    {
+      "id": "B",
+      "text": "Erectile dysfunction; headache and dyspepsia"
+    },
+    {
+      "id": "C",
+      "text": "Intermittent claudication; nausea and facial flushing"
+    },
+    {
+      "id": "D",
+      "text": "Asthma exacerbations; bronchospasm and tremor"
+    },
+    {
+      "id": "E",
+      "text": "Severe COPD; abdominal pain, weight loss, depression, and insomnia"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Roflumilast is a PDE-4 inhibitor that increases cAMP in neutrophils, granulocytes, and bronchial epithelium; it is used for severe COPD. Its adverse effects — abdominal pain, weight loss, depression, anxiety, and insomnia — match this patient's presentation exactly.",
+  "explanation_incorrect": {
+    "A": "Acute decompensated heart failure with cardiogenic shock is treated with milrinone (PDE-3), whose adverse effects are tachycardia, ventricular arrhythmias, and hypotension.",
+    "B": "Erectile dysfunction is treated with PDE-5 inhibitors, causing facial flushing, headache, dyspepsia, and hypotension with nitrates.",
+    "C": "Intermittent claudication is treated with cilostazol (a PDE-3 platelet inhibitor), causing nausea, headache, facial flushing, hypotension, and abdominal pain.",
+    "D": "Bronchodilation for COPD/asthma is the role of theophylline, a nonspecific PDE inhibitor with cardiotoxicity and neurotoxicity."
+  },
+  "educationalObjective": "Roflumilast (PDE-4) treats severe COPD; watch for weight loss, depression, anxiety, and insomnia.",
+  "source": "Generated from 5. Pharmacology.pdf - Autonomic Drugs: Phosphodiesterase inhibitors"
+},
+{
+  "id": "pharm-174",
+  "subject": "Pharmacology",
+  "major_topic": "Autonomic Drugs",
+  "subtopic": "Phosphodiesterase inhibitors",
+  "difficulty": "medium",
+  "vignette": "A 73-year-old woman with acute decompensated heart failure and cardiogenic shock has persistent hypoperfusion despite dobutamine. The team adds an intravenous PDE-3 inhibitor to augment cardiac output while also reducing preload and afterload.",
+  "question": "Which of the following best describes this drug's mechanism of action?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Decreases cAMP hydrolysis in bronchial epithelium, increasing cAMP in neutrophils and granulocytes"
+    },
+    {
+      "id": "B",
+      "text": "Inhibits cGMP hydrolysis, enhancing NO activity in the corpus cavernosum"
+    },
+    {
+      "id": "C",
+      "text": "Inhibits adenosine reuptake by platelets, increasing extracellular adenosine and vasodilation"
+    },
+    {
+      "id": "D",
+      "text": "In cardiomyocytes, increased cAMP leads to increased Ca2+ influx, increasing inotropy and chronotropy; in vascular smooth muscle, increased cAMP inhibits MLCK, causing vasodilation"
+    },
+    {
+      "id": "E",
+      "text": "Nonspecifically inhibits cAMP and cGMP hydrolysis, relaxing bronchial smooth muscle"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Milrinone is a PDE-3 inhibitor. In cardiomyocytes, increased cAMP leads to increased Ca2+ influx, increasing inotropy and chronotropy; in vascular smooth muscle, increased cAMP inhibits MLCK, causing vasodilation with decreased preload and afterload. It is used as an inotrope in acute decompensated heart failure with cardiogenic shock, with tachycardia, ventricular arrhythmias, and hypotension as adverse effects.",
+  "explanation_incorrect": {
+    "A": "Increasing cAMP in neutrophils, granulocytes, and bronchial epithelium describes roflumilast (PDE-4) for severe COPD.",
+    "B": "Inhibiting cGMP hydrolysis and enhancing NO activity describes PDE-5 inhibitors such as sildenafil and tadalafil.",
+    "C": "Preventing adenosine reuptake by platelets describes dipyridamole, a platelet inhibitor used for stress testing and stroke prevention.",
+    "E": "Nonspecific PDE inhibition with bronchodilation describes theophylline, used in COPD/asthma."
+  },
+  "educationalObjective": "Milrinone (PDE-3) raises cAMP to increase cardiac inotropy/chronotropy and vasodilate via MLCK inhibition; used in cardiogenic shock.",
+  "source": "Generated from 5. Pharmacology.pdf - Autonomic Drugs: Phosphodiesterase inhibitors"
+},
+{
+  "id": "pharm-175",
+  "subject": "Pharmacology",
+  "major_topic": "Autonomic Drugs",
+  "subtopic": "Phosphodiesterase inhibitors",
+  "difficulty": "hard",
+  "vignette": "A 64-year-old man with peripheral artery disease has calf pain after walking one block that resolves with rest. His physician considers a drug that increases cAMP in platelets and inhibits platelet aggregation. A colleague mentions that a related drug in the same \"platelet inhibitor\" category is used in institutions for cardiac stress testing because of its coronary vasodilation.",
+  "question": "Which pair correctly matches each drug with its key clinical use?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Cilostazol for intermittent claudication; dipyridamole for cardiac stress testing"
+    },
+    {
+      "id": "B",
+      "text": "Cilostazol for cardiac stress testing; dipyridamole for intermittent claudication"
+    },
+    {
+      "id": "C",
+      "text": "Cilostazol for erectile dysfunction; dipyridamole for pulmonary hypertension"
+    },
+    {
+      "id": "D",
+      "text": "Cilostazol for severe COPD; dipyridamole for acute decompensated heart failure"
+    },
+    {
+      "id": "E",
+      "text": "Cilostazol for stroke prevention as monotherapy; dipyridamole for BPH"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Cilostazol (PDE-3) and dipyridamole (nonspecific PDE inhibitor) both increase cAMP in platelets and inhibit platelet aggregation. Cilostazol is used for intermittent claudication; dipyridamole (with its coronary vasodilation) is used for cardiac stress testing, and both are used for stroke or TIA prevention (with aspirin) and prevention of coronary stent restenosis.",
+  "explanation_incorrect": {
+    "B": "This reverses the pairing: cilostazol treats claudication, while dipyridamole — due to coronary vasodilation — is the stress-testing agent.",
+    "C": "Erectile dysfunction and pulmonary hypertension are uses of PDE-5 inhibitors (sildenafil, tadalafil), not these platelet inhibitors.",
+    "D": "Severe COPD is treated with roflumilast (PDE-4) and acute decompensated heart failure with milrinone (PDE-3 inotrope).",
+    "E": "Stroke/TIA prevention with these agents is combined with aspirin rather than used as monotherapy, and BPH is treated with α1-blockers or tadalafil."
+  },
+  "educationalObjective": "Cilostazol treats intermittent claudication; dipyridamole is used for cardiac stress testing; both prevent stroke/TIA (with aspirin) and stent restenosis.",
+  "source": "Generated from 5. Pharmacology.pdf - Autonomic Drugs: Phosphodiesterase inhibitors"
+}
+]

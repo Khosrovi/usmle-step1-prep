@@ -1,0 +1,207 @@
+[
+{
+  "id": "pharm-225",
+  "subject": "Pharmacology",
+  "major_topic": "Toxicities and Adverse Effects",
+  "subtopic": "Drug reactions-hematologic",
+  "difficulty": "medium",
+  "vignette": "A 27-year-old man with treatment-resistant schizophrenia was recently switched to a new antipsychotic medication. He now presents with fever, chills, and a painful throat ulcer. His absolute neutrophil count is 200/µL, hemoglobin and platelet counts are normal, and a bone marrow biopsy shows a marked paucity of myeloid precursors.",
+  "question": "Which drug-specific adverse effect best explains his presentation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Thrombocytopenia with platelet consumption"
+    },
+    {
+      "id": "B",
+      "text": "Aplastic anemia affecting all three cell lines"
+    },
+    {
+      "id": "C",
+      "text": "Agranulocytosis from myeloid precursor suppression"
+    },
+    {
+      "id": "D",
+      "text": "Megaloblastic anemia from folate antagonism"
+    },
+    {
+      "id": "E",
+      "text": "Direct Coombs–positive hemolytic anemia"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Clozapine is a classic cause of agranulocytosis, presenting with fever and mucosal infections and requiring routine neutrophil count monitoring. Other causative agents include dapsone, carbamazepine, propylthiouracil, methimazole, ganciclovir, and colchicine. The normal hemoglobin and platelets distinguish this isolated granulocyte collapse from generalized marrow failure.",
+  "explanation_incorrect": {
+    "A": "Thrombocytopenia causes bleeding and petechiae, not fever and neutropenic ulcers, and this patient's platelet count is normal.",
+    "B": "Aplastic anemia causes pancytopenia affecting red cells, white cells, and platelets together; this patient has an isolated neutropenia.",
+    "D": "Megaloblastic anemia from folate antagonism causes macrocytic anemia and hypersegmented neutrophils, with low rather than absent neutrophil counts from impaired granulocyte maturation, not isolated agranulocytosis.",
+    "E": "Coombs-positive hemolytic anemia presents with jaundice, anemia, and a positive direct antiglobulin test — unrelated to the isolated neutropenia seen here."
+  },
+  "educationalObjective": "Clozapine, dapsone, carbamazepine, propylthiouracil, methimazole, ganciclovir, and colchicine cause agranulocytosis.",
+  "source": "Generated from 5. Pharmacology.pdf - Toxicities and Adverse Effects: Drug reactions-hematologic"
+},
+{
+  "id": "pharm-226",
+  "subject": "Pharmacology",
+  "major_topic": "Toxicities and Adverse Effects",
+  "subtopic": "Drug reactions-hematologic",
+  "difficulty": "easy",
+  "vignette": "A 24-year-old man was treated with nitrofurantoin for a urinary tract infection. Three days later he develops fatigue, dark brown urine, and scleral icterus. Hemoglobin has fallen from 14 to 9 g/dL, the direct antiglobulin test is negative, and a peripheral blood smear shows bite cells and Heinz bodies. His younger brother had a similar episode after taking an antimalarial drug.",
+  "question": "Which of the following predisposing conditions best explains his hemolysis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Hereditary spherocytosis"
+    },
+    {
+      "id": "B",
+      "text": "G6PD deficiency"
+    },
+    {
+      "id": "C",
+      "text": "Paroxysmal nocturnal hemoglobinuria"
+    },
+    {
+      "id": "D",
+      "text": "Pyruvate kinase deficiency"
+    },
+    {
+      "id": "E",
+      "text": "Autoimmune warm hemolytic anemia"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Nitrofurantoin is one of the classic oxidative drugs causing hemolysis in G6PD deficiency, along with sulfonamides, dapsone, primaquine, and aspirin. Oxidant stress in the absence of G6PD damages hemoglobin, producing Heinz bodies and bite cells with intravascular hemolysis, as seen here. The family history (X-linked) further supports this diagnosis.",
+  "explanation_incorrect": {
+    "A": "Hereditary spherocytosis causes chronic hemolysis with spherocytes and a positive osmotic fragility test; it is not triggered specifically by oxidative drugs and shows spherocytes rather than bite cells.",
+    "C": "PNH is a complement-mediated hemolysis that presents with episodic dark urine, but it is not precipitated by oxidative drugs and would show CD55/CD59-negative cells rather than Heinz bodies.",
+    "D": "Pyruvate kinase deficiency causes chronic nonspherocytic hemolytic anemia with rigid cells, not drug-triggered Heinz body formation.",
+    "E": "Warm autoimmune hemolysis gives a positive direct antiglobulin (Coombs) test, which is explicitly negative in this patient."
+  },
+  "educationalObjective": "Sulfonamides, dapsone, primaquine, aspirin, and nitrofurantoin cause oxidative hemolysis in G6PD deficiency (bite cells, Heinz bodies).",
+  "source": "Generated from 5. Pharmacology.pdf - Toxicities and Adverse Effects: Drug reactions-hematologic"
+},
+{
+  "id": "pharm-227",
+  "subject": "Pharmacology",
+  "major_topic": "Toxicities and Adverse Effects",
+  "subtopic": "Drug reactions-hematologic",
+  "difficulty": "hard",
+  "vignette": "A 19-year-old man started a new antiseizure medication three weeks ago. He now presents with high fever and a confluent erythematous rash covering most of his body surface. Examination also reveals facial swelling, and laboratory studies show eosinophils at 25% of the leukocyte count and elevated aminotransferases. There is no mucosal sloughing or blistering.",
+  "question": "What is the most likely diagnosis and underlying mechanism?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Stevens-Johnson syndrome from blistering epidermal necrolysis"
+    },
+    {
+      "id": "B",
+      "text": "Serum sickness from circulating immune complexes"
+    },
+    {
+      "id": "C",
+      "text": "Anaphylaxis from IgE-mediated mast cell degranulation"
+    },
+    {
+      "id": "D",
+      "text": "T cell–mediated drug reaction with eosinophilia and systemic symptoms"
+    },
+    {
+      "id": "E",
+      "text": "Drug-induced lupus from antinuclear antibody formation"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "This is DRESS — Drug Reaction with Eosinophilia and Systemic Symptoms, also called drug-induced hypersensitivity syndrome (DIHS). It is a T cell–mediated hypersensitivity reaction appearing 2–4 weeks after starting the drug, with fever, widespread rash, eosinophilia, and visceral (especially hepatic) involvement. Classic causative agents include phenytoin, carbamazepine, minocycline, sulfa drugs, allopurinol, and vancomycin.",
+  "explanation_incorrect": {
+    "A": "SJS requires detachment and sloughing of the epidermis with mucosal involvement; this rash is confluent but without blistering or mucosal sloughing, and eosinophilia points to DRESS instead.",
+    "B": "Serum sickness is a type III reaction with rash, arthralgias, and fever days after exposure, but eosinophilia with hepatitis after a drug started three weeks ago fits DRESS better.",
+    "C": "Anaphylaxis is an immediate IgE reaction with urticaria, wheezing, and hypotension within minutes to hours, not a delayed fever, rash, eosinophilia, and hepatitis picture.",
+    "E": "Drug-induced lupus presents with arthralgias, rash, and positive ANA from drugs such as hydralazine and procainamide, without eosinophilia or hepatitis three weeks after starting a new drug."
+  },
+  "educationalObjective": "DRESS is a T cell–mediated reaction (phenytoin, carbamazepine, minocycline, sulfa drugs, allopurinol, vancomycin) with fever, rash, eosinophilia, and organ involvement.",
+  "source": "Generated from 5. Pharmacology.pdf - Toxicities and Adverse Effects: Drug reactions-hematologic"
+},
+{
+  "id": "pharm-228",
+  "subject": "Pharmacology",
+  "major_topic": "Toxicities and Adverse Effects",
+  "subtopic": "Drug reactions-hematologic",
+  "difficulty": "medium",
+  "vignette": "A 60-year-old woman is receiving unfractionated heparin for a deep venous thrombosis. On hospital day 7, her platelet count has fallen from 250,000/µL to 58,000/µL, and she develops acute shortness of breath with a new segmental perfusion defect on imaging. Plasma PF4 antibody testing is positive.",
+  "question": "What is the mechanism of her thrombocytopenia?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Antibodies against heparin–platelet factor 4 complexes that activate platelets"
+    },
+    {
+      "id": "B",
+      "text": "Direct toxic suppression of megakaryocytes in the bone marrow"
+    },
+    {
+      "id": "C",
+      "text": "Dilutional loss of platelets from massive fluid resuscitation"
+    },
+    {
+      "id": "D",
+      "text": "Splenic sequestration of circulating platelets"
+    },
+    {
+      "id": "E",
+      "text": "Folate antagonism impairing thrombopoiesis"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Heparin-induced thrombocytopenia is an immune reaction in which antibodies form against complexes of heparin and platelet factor 4; these antibodies activate platelets, causing both a falling platelet count and a paradoxical prothrombotic state — here, a new pulmonary embolism despite thrombocytopenia. Other drugs causing thrombocytopenia include quinidine, ganciclovir, vancomycin, and linezolid.",
+  "explanation_incorrect": {
+    "B": "Heparin does not directly poison megakaryocytes; HIT is an immune-mediated process in which platelets are consumed after activation, not simply suppressed.",
+    "C": "The abrupt fall on day 7 with new thrombosis and positive PF4 antibodies is characteristic of HIT, not dilution from fluids.",
+    "D": "Splenic sequestration produces chronic mild thrombocytopenia with splenomegaly and does not cause new thrombotic events.",
+    "E": "Folate antagonists such as methotrexate cause megaloblastic anemia affecting all lineages; they do not produce an isolated platelet fall with thrombosis on heparin therapy."
+  },
+  "educationalObjective": "Heparin (also quinidine, ganciclovir, vancomycin, linezolid) causes thrombocytopenia; HIT is PF4-antibody mediated and prothrombotic.",
+  "source": "Generated from 5. Pharmacology.pdf - Toxicities and Adverse Effects: Drug reactions-hematologic"
+},
+{
+  "id": "pharm-229",
+  "subject": "Pharmacology",
+  "major_topic": "Toxicities and Adverse Effects",
+  "subtopic": "Drug reactions-hematologic",
+  "difficulty": "hard",
+  "vignette": "A 31-year-old woman with rheumatoid arthritis has been taking low-dose weekly methotrexate. Routine testing now shows a macrocytic anemia with a mean corpuscular volume of 112 µm³ and hypersegmented neutrophils on blood smear. Serum folate is low, and vitamin B12 levels are normal.",
+  "question": "Which of the following additional drugs is also classically associated with causing this type of anemia?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Ibuprofen"
+    },
+    {
+      "id": "B",
+      "text": "Chloramphenicol"
+    },
+    {
+      "id": "C",
+      "text": "Quinidine"
+    },
+    {
+      "id": "D",
+      "text": "Heparin"
+    },
+    {
+      "id": "E",
+      "text": "Phenytoin"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Methotrexate inhibits dihydrofolate reductase, and the drugs classically causing megaloblastic anemia can be remembered as those giving a \"mega blast with PMS\" — Phenytoin, Methotrexate, and Sulfa drugs, along with hydroxyurea. Phenytoin impairs folate absorption and metabolism, producing macrocytic anemia with hypersegmented neutrophils, the same morphology seen in this patient.",
+  "explanation_incorrect": {
+    "A": "NSAIDs such as ibuprofen are associated with aplastic anemia (and GI bleeding with blood loss anemia), not megaloblastic anemia.",
+    "B": "Chloramphenicol classically causes dose-related marrow suppression and aplastic anemia, not macrocytic anemia from folate impairment.",
+    "C": "Quinidine is associated with thrombocytopenia and direct Coombs–positive hemolytic anemia, not megaloblastic anemia.",
+    "D": "Heparin causes thrombocytopenia (including HIT), and chronic use contributes to osteoporosis — not megaloblastic anemia."
+  },
+  "educationalObjective": "Hydroxyurea, Phenytoin, Methotrexate, and Sulfa drugs cause megaloblastic anemia (\"mega blast with PMS\").",
+  "source": "Generated from 5. Pharmacology.pdf - Toxicities and Adverse Effects: Drug reactions-hematologic"
+}
+]

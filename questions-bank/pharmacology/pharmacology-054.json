@@ -1,0 +1,207 @@
+[
+{
+  "id": "pharm-095",
+  "subject": "Pharmacology",
+  "major_topic": "Autonomic Drugs",
+  "subtopic": "Micturition control and bladder drugs",
+  "difficulty": "easy",
+  "vignette": "A 38-year-old woman with stress urinary incontinence leaks urine when coughing and is referred for pelvic floor (Kegel) muscle exercises to strengthen her external urethral sphincter.",
+  "question": "Which nerve provides the somatic innervation that controls the external urethral sphincter?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Pelvic splanchnic nerves via muscarinic receptors on the sphincter"
+    },
+    {
+      "id": "B",
+      "text": "Pudendal nerve via nicotinic receptors at the neuromuscular junction of the sphincter"
+    },
+    {
+      "id": "C",
+      "text": "Hypogastric nerve via alpha-1 receptors on the sphincter"
+    },
+    {
+      "id": "D",
+      "text": "Pudendal nerve via muscarinic receptors on the sphincter"
+    },
+    {
+      "id": "E",
+      "text": "Pelvic nerve via beta-3 receptors on the sphincter"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "The external urethral sphincter is skeletal muscle under voluntary control via the pudendal nerve, a somatic pathway. Like the neuromuscular junction, it uses acetylcholine acting on nicotinic receptors, which is why it can be consciously contracted to interrupt voiding. The pontine micturition center coordinates this somatic control with the autonomic supply to the detrusor and internal sphincter.",
+  "explanation_incorrect": {
+    "A": "Pelvic splanchnic nerves are parasympathetic preganglionic fibers supplying the detrusor via M3 receptors; they do not provide somatic control of the external sphincter.",
+    "C": "The hypogastric nerve is the sympathetic supply that contracts the internal urethral sphincter via alpha-1 receptors, promoting urine retention.",
+    "D": "The pudendal nerve is the correct nerve, but the external sphincter, being skeletal muscle, uses nicotinic rather than muscarinic receptors.",
+    "E": "Beta-3 receptors mediate detrusor relaxation and are sympathetically modulated; the pelvic nerve carries parasympathetic input, and neither controls the external sphincter."
+  },
+  "educationalObjective": "Recall that the pudendal nerve provides somatic, nicotinic control of the external urethral sphincter.",
+  "source": "Generated from 5. Pharmacology.pdf - Autonomic Drugs: Micturition control and bladder drugs"
+},
+{
+  "id": "pharm-096",
+  "subject": "Pharmacology",
+  "major_topic": "Autonomic Drugs",
+  "subtopic": "Micturition control and bladder drugs",
+  "difficulty": "easy",
+  "vignette": "A 71-year-old man develops urinary retention after hip arthroplasty. A catheter is placed, and bethanechol is prescribed to promote bladder emptying before the trial of voiding.",
+  "question": "Which mechanism explains the therapeutic effect of bethanechol in postoperative urinary retention?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Antagonism of alpha-1 receptors relaxing the smooth muscle of the bladder neck"
+    },
+    {
+      "id": "B",
+      "text": "Agonism of beta-3 receptors increasing bladder capacity"
+    },
+    {
+      "id": "C",
+      "text": "Inhibition of M3 receptors relaxing the detrusor smooth muscle"
+    },
+    {
+      "id": "D",
+      "text": "Inhibition of nicotinic receptors relaxing the external urethral sphincter"
+    },
+    {
+      "id": "E",
+      "text": "Activation of M3 receptors contracting detrusor smooth muscle and promoting bladder emptying"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Bethanechol is a muscarinic agonist. Activation of M3 receptors contracts detrusor smooth muscle, increasing bladder emptying, which makes it useful for postoperative and neurogenic urinary retention. Parasympathetic activation promotes voiding, and bethanechol pharmacologically mimics that pathway.",
+  "explanation_incorrect": {
+    "A": "Alpha-1 antagonists such as tamsulosin relax bladder neck smooth muscle and are used for obstruction in BPH, not to stimulate detrusor contraction.",
+    "B": "Beta-3 agonists such as mirabegron relax the detrusor and increase bladder capacity, which would worsen retention rather than relieve it.",
+    "C": "Blocking M3 receptors (muscarinic antagonists such as oxybutynin) relaxes the detrusor and is used for urgency incontinence, the opposite goal.",
+    "D": "Nicotinic blockade at the external sphincter is not the mechanism of bethanechol; bethanechol acts on muscarinic receptors."
+  },
+  "educationalObjective": "Know that bethanechol activates M3 receptors to contract the detrusor and treat urinary retention.",
+  "source": "Generated from 5. Pharmacology.pdf - Autonomic Drugs: Micturition control and bladder drugs"
+},
+{
+  "id": "pharm-097",
+  "subject": "Pharmacology",
+  "major_topic": "Autonomic Drugs",
+  "subtopic": "Micturition control and bladder drugs",
+  "difficulty": "medium",
+  "vignette": "A 55-year-old woman with urgency incontinence and urinary frequency is started on mirabegron after an anticholinergic medication caused bothersome dry mouth and constipation.",
+  "question": "Which mechanism underlies the benefit of mirabegron in urgency incontinence?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Sympathomimetic activation of beta-3 receptors, relaxing detrusor smooth muscle and increasing bladder capacity"
+    },
+    {
+      "id": "B",
+      "text": "Muscarinic antagonism at M3 receptors relaxing detrusor smooth muscle"
+    },
+    {
+      "id": "C",
+      "text": "Alpha-1 antagonism relaxing smooth muscle of the bladder neck"
+    },
+    {
+      "id": "D",
+      "text": "Muscarinic agonism at M3 receptors contracting the detrusor"
+    },
+    {
+      "id": "E",
+      "text": "Inhibition of nicotinic receptors relaxing the external urethral sphincter"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Mirabegron is a sympathomimetic that activates beta-3 receptors, relaxing detrusor smooth muscle and increasing bladder capacity, which reduces urgency incontinence. This exploits the sympathetic limb of micturition control, in which sympathetic activation promotes urine storage.",
+  "explanation_incorrect": {
+    "B": "M3 antagonism (for example, oxybutynin) also relaxes the detrusor and treats urgency incontinence, but it describes the anticholinergic drugs this patient could not tolerate, not mirabegron.",
+    "C": "Alpha-1 antagonists such as tamsulosin relax bladder neck and prostatic smooth muscle and are used for BPH, not for detrusor overactivity.",
+    "D": "M3 agonists such as bethanechol contract the detrusor and treat urinary retention, worsening urgency symptoms.",
+    "E": "The external urethral sphincter is somatic skeletal muscle controlled by the pudendal nerve; mirabegron does not act there."
+  },
+  "educationalObjective": "Recognize mirabegron as a beta-3 agonist that relaxes the detrusor and increases bladder capacity.",
+  "source": "Generated from 5. Pharmacology.pdf - Autonomic Drugs: Micturition control and bladder drugs"
+},
+{
+  "id": "pharm-098",
+  "subject": "Pharmacology",
+  "major_topic": "Autonomic Drugs",
+  "subtopic": "Micturition control and bladder drugs",
+  "difficulty": "medium",
+  "vignette": "A 27-year-old man sustains a spinal cord injury above the sacral segments. During the acute phase, unopposed sympathetic input to the bladder leaves him with a full bladder and minimal urine output per void.",
+  "question": "Which combination of sympathetic effects on the bladder promotes urinary retention?",
+  "options": [
+    {
+      "id": "A",
+      "text": "M3-mediated contraction of the detrusor with relaxation of the internal urethral sphincter"
+    },
+    {
+      "id": "B",
+      "text": "Beta-3-mediated contraction of the detrusor with alpha-1-mediated relaxation of the internal sphincter"
+    },
+    {
+      "id": "C",
+      "text": "Alpha-1-mediated contraction of the internal urethral sphincter with beta-3-mediated relaxation of the detrusor"
+    },
+    {
+      "id": "D",
+      "text": "Nicotinic-mediated contraction of the external urethral sphincter with M3-mediated detrusor relaxation"
+    },
+    {
+      "id": "E",
+      "text": "Activation of pelvic nerve parasympathetic fibers contracting the detrusor"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Sympathetic input to the bladder travels via the hypogastric nerve: alpha-1 receptors contract the internal urethral sphincter and beta-3 receptors relax the detrusor. Together these effects promote urine storage and increased urinary retention. The micturition center in the pons coordinates this sympathetic storage phase with the parasympathetic voiding phase.",
+  "explanation_incorrect": {
+    "A": "This combination (M3 detrusor contraction with internal sphincter relaxation) is the parasympathetic voiding pattern, opposite to the sympathetic storage state.",
+    "B": "Beta-3 receptors relax the detrusor and alpha-1 contracts the internal sphincter; this option reverses both effects.",
+    "D": "The external urethral sphincter is somatic via the pudendal nerve and nicotinic receptors, and M3 activation contracts, not relaxes, the detrusor.",
+    "E": "Parasympathetic activation via the pelvic nerve contracts the detrusor and promotes voiding, the opposite of sympathetic-mediated retention."
+  },
+  "educationalObjective": "Understand that sympathetic activity (alpha-1 internal sphincter contraction, beta-3 detrusor relaxation) promotes urinary retention.",
+  "source": "Generated from 5. Pharmacology.pdf - Autonomic Drugs: Micturition control and bladder drugs"
+},
+{
+  "id": "pharm-099",
+  "subject": "Pharmacology",
+  "major_topic": "Autonomic Drugs",
+  "subtopic": "Micturition control and bladder drugs",
+  "difficulty": "hard",
+  "vignette": "A 74-year-old man with benign prostatic hyperplasia reports a weak urinary stream, hesitancy, and post-void dribbling. He is prescribed tamsulosin, and his urologist considers adding oxybutynin for coexisting urgency incontinence.",
+  "question": "Which pairing correctly matches each drug with its receptor target and bladder effect?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Tamsulosin: M3 agonism contracting the detrusor; oxybutynin: alpha-1 antagonism relaxing the bladder neck"
+    },
+    {
+      "id": "B",
+      "text": "Tamsulosin: beta-3 agonism increasing bladder capacity; oxybutynin: M3 antagonism relaxing the detrusor"
+    },
+    {
+      "id": "C",
+      "text": "Tamsulosin: alpha-1 antagonism relaxing the bladder neck; oxybutynin: beta-3 agonism relaxing the detrusor"
+    },
+    {
+      "id": "D",
+      "text": "Tamsulosin: alpha-1 antagonism relaxing bladder neck and prostatic smooth muscle; oxybutynin: M3 antagonism relaxing the detrusor and reducing detrusor overactivity"
+    },
+    {
+      "id": "E",
+      "text": "Tamsulosin: M3 antagonism relaxing the detrusor; oxybutynin: alpha-1 antagonism decreasing urinary obstruction"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Tamsulosin is an alpha-1 antagonist that relaxes smooth muscle of the bladder neck and prostate, decreasing urinary obstruction in BPH. Oxybutynin is a muscarinic antagonist that blocks M3 receptors, relaxing detrusor smooth muscle and reducing detrusor overactivity, which treats urgency incontinence. Correctly separating the receptor and indication for each drug is the point of this comparison.",
+  "explanation_incorrect": {
+    "A": "The mechanisms are swapped: tamsulosin acts on alpha-1 receptors, not M3, and oxybutynin blocks M3 receptors, not alpha-1.",
+    "B": "Beta-3 agonism describes mirabegron, not tamsulosin; only the oxybutynin half is correctly described.",
+    "C": "Tamsulosin is correctly paired, but beta-3 agonism describes mirabegron rather than the muscarinic antagonist oxybutynin.",
+    "E": "Both halves are swapped: tamsulosin is the alpha-1 antagonist for obstruction and oxybutynin is the M3 antagonist for detrusor overactivity."
+  },
+  "educationalObjective": "Differentiate tamsulosin (alpha-1 antagonism for BPH obstruction) from oxybutynin (M3 antagonism for detrusor overactivity).",
+  "source": "Generated from 5. Pharmacology.pdf - Autonomic Drugs: Micturition control and bladder drugs"
+}
+]

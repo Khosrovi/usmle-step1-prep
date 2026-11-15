@@ -1,0 +1,166 @@
+[
+{
+  "id": "pharm-104",
+  "subject": "Pharmacology",
+  "major_topic": "Autonomic Drugs",
+  "subtopic": "Presynaptic modulation and monoamine transporters",
+  "difficulty": "easy",
+  "vignette": "In an isolated sympathetic nerve preparation, applying norepinephrine to the nerve terminal reduces further release of norepinephrine from that same terminal.",
+  "question": "Which receptor mediates this negative feedback on norepinephrine release?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Presynaptic alpha-2 autoreceptors on the sympathetic nerve terminal"
+    },
+    {
+      "id": "B",
+      "text": "Presynaptic beta-1 receptors on the sympathetic nerve terminal"
+    },
+    {
+      "id": "C",
+      "text": "Postsynaptic alpha-1 receptors on the vascular smooth muscle"
+    },
+    {
+      "id": "D",
+      "text": "Presynaptic M2 receptors on the sympathetic nerve terminal"
+    },
+    {
+      "id": "E",
+      "text": "Nicotinic receptors on the postganglionic neuronal cell body"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Release of norepinephrine from a sympathetic nerve ending is modulated by norepinephrine itself acting on presynaptic alpha-2 autoreceptors, producing negative feedback. When synaptic norepinephrine concentrations are high, alpha-2 activation suppresses further release, a key site of autoregulation in the noradrenergic synapse.",
+  "explanation_incorrect": {
+    "B": "Beta-1 receptors mediate increased heart rate, contractility, and renin release on the heart and kidney; they do not provide presynaptic negative feedback in the terminal.",
+    "C": "Postsynaptic alpha-1 receptors on vascular smooth muscle mediate vasoconstriction; the feedback described is presynaptic and mediated by alpha-2 receptors.",
+    "D": "M2 receptors are muscarinic receptors of the cholinergic system (heart, smooth muscle); the norepinephrine feedback loop uses alpha-2 adrenergic receptors.",
+    "E": "Nicotinic receptors mediate ganglionic transmission from preganglionic to postganglionic neurons; they are not the autoreceptor on the sympathetic terminal."
+  },
+  "educationalObjective": "Recall that presynaptic alpha-2 autoreceptors provide negative feedback inhibition of norepinephrine release.",
+  "source": "Generated from 5. Pharmacology.pdf - Autonomic Drugs: Presynaptic modulation and monoamine transporters"
+},
+{
+  "id": "pharm-105",
+  "subject": "Pharmacology",
+  "major_topic": "Autonomic Drugs",
+  "subtopic": "Presynaptic modulation and monoamine transporters",
+  "difficulty": "medium",
+  "vignette": "A 21-year-old college student who took a large dose of amphetamine presents with agitation, mydriasis, hypertension, and tachycardia. The emergency physician reviews how amphetamine acts at the sympathetic nerve terminal.",
+  "question": "Which sequence best describes the mechanism of amphetamine at the noradrenergic nerve terminal?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It blocks the norepinephrine transporter from the extracellular side, preventing reuptake while leaving vesicular stores intact"
+    },
+    {
+      "id": "B",
+      "text": "It inhibits the vesicular monoamine transporter, depleting vesicular monoamine storage"
+    },
+    {
+      "id": "C",
+      "text": "It stimulates presynaptic alpha-2 autoreceptors, increasing negative feedback and reducing release"
+    },
+    {
+      "id": "D",
+      "text": "It enters the terminal via NET, displaces norepinephrine from vesicles via VMAT, and causes NET to reverse and expel norepinephrine into the synaptic cleft"
+    },
+    {
+      "id": "E",
+      "text": "It acts as a direct agonist at postsynaptic alpha-1 and beta-1 receptors without affecting transmitter handling"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Amphetamines use the norepinephrine transporter (NET) to enter the presynaptic terminal, then use the vesicular monoamine transporter (VMAT) to enter neurosecretory vesicles, displacing norepinephrine from the vesicles into the terminal cytoplasm. Once cytosolic norepinephrine reaches a concentration threshold, NET is reversed and norepinephrine is expelled into the synaptic cleft, producing the classic sympathomimetic effects of elevated norepinephrine.",
+  "explanation_incorrect": {
+    "A": "Blocking NET from the extracellular side without transporter reversal describes cocaine-like reuptake inhibition, not the amphetamine mechanism of NET-mediated entry and reversal.",
+    "B": "Inhibiting VMAT describes tetrabenazine, which depletes vesicular monoamine stores; amphetamine uses VMAT as a route into vesicles to displace norepinephrine rather than blocking it.",
+    "C": "Stimulating alpha-2 autoreceptors would decrease norepinephrine release through negative feedback, the opposite of the amphetamine-induced norepinephrine surge.",
+    "E": "Amphetamine is an indirect sympathomimetic acting through transporter-mediated norepinephrine release, not a direct postsynaptic receptor agonist."
+  },
+  "educationalObjective": "Describe the amphetamine sequence: NET entry, VMAT-mediated vesicular displacement, and NET reversal expelling norepinephrine.",
+  "source": "Generated from 5. Pharmacology.pdf - Autonomic Drugs: Presynaptic modulation and monoamine transporters"
+},
+{
+  "id": "pharm-106",
+  "subject": "Pharmacology",
+  "major_topic": "Autonomic Drugs",
+  "subtopic": "Presynaptic modulation and monoamine transporters",
+  "difficulty": "medium",
+  "vignette": "A psychiatry resident reviews the classification of transmitter-class stimulants and inhibitors while preparing to manage a patient with narcolepsy and excessive daytime sleepiness.",
+  "question": "Which of the following correctly lists the dopaminergic stimulants?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Amphetamine and donepezil"
+    },
+    {
+      "id": "B",
+      "text": "Cocaine and botulinum toxin"
+    },
+    {
+      "id": "C",
+      "text": "Amphetamine, methylphenidate, and cocaine"
+    },
+    {
+      "id": "D",
+      "text": "Methylphenidate and tetrabenazine"
+    },
+    {
+      "id": "E",
+      "text": "SSRIs, SNRIs, and MDMA"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "The dopaminergic stimulant class consists of amphetamine, methylphenidate, and cocaine. These agents increase dopaminergic transmission at the synapse, contrasting with the noradrenergic stimulants (amphetamine, ephedrine, cocaine, SNRIs, TCAs, MDMA) and serotonergic stimulants (amphetamine, SSRIs, cocaine, SNRIs).",
+  "explanation_incorrect": {
+    "A": "Donepezil is a cholinergic stimulant (an acetylcholinesterase inhibitor), not a dopaminergic stimulant.",
+    "B": "Cocaine is a dopaminergic stimulant, but botulinum toxin is a cholinergic inhibitor that prevents acetylcholine release.",
+    "D": "Methylphenidate is a dopaminergic stimulant, but tetrabenazine is a vesicular monoamine transporter (VMAT) inhibitor that depletes monoamines.",
+    "E": "SSRIs, SNRIs, and MDMA are classified as serotonergic stimulants (they also appear in the noradrenergic stimulant list), not the dopaminergic stimulant class."
+  },
+  "educationalObjective": "Memorize the transmitter-class table: dopaminergic stimulants are amphetamine, methylphenidate, and cocaine.",
+  "source": "Generated from 5. Pharmacology.pdf - Autonomic Drugs: Presynaptic modulation and monoamine transporters"
+},
+{
+  "id": "pharm-107",
+  "subject": "Pharmacology",
+  "major_topic": "Autonomic Drugs",
+  "subtopic": "Presynaptic modulation and monoamine transporters",
+  "difficulty": "hard",
+  "vignette": "A 46-year-old man with Huntington disease is prescribed tetrabenazine to reduce his choreiform movements, and his spouse asks how the medication works.",
+  "question": "Which mechanism underlies the effect of tetrabenazine?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Inhibition of acetylcholinesterase, increasing cholinergic transmission"
+    },
+    {
+      "id": "B",
+      "text": "Inhibition of the vesicular monoamine transporter (VMAT), decreasing storage and release of monoamines"
+    },
+    {
+      "id": "C",
+      "text": "Prevention of acetylcholine release from cholinergic nerve terminals"
+    },
+    {
+      "id": "D",
+      "text": "Reversal of the norepinephrine transporter to expel norepinephrine into the synaptic cleft"
+    },
+    {
+      "id": "E",
+      "text": "Displacement of dopamine from synaptic vesicles with subsequent transporter-mediated efflux"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Tetrabenazine is a vesicular monoamine transporter (VMAT) inhibitor. By blocking VMAT, it prevents monoamines from being packaged into neurosecretory vesicles, reducing their storage and release, and thereby decreasing choreiform movements in Huntington disease.",
+  "explanation_incorrect": {
+    "A": "Acetylcholinesterase inhibition (for example, donepezil) is a cholinergic stimulant mechanism, not the VMAT inhibition that defines tetrabenazine.",
+    "C": "Preventing acetylcholine release from cholinergic terminals describes botulinum toxin, a cholinergic inhibitor, not a VMAT inhibitor.",
+    "D": "NET reversal is the mechanism of amphetamine, which increases norepinephrine output; tetrabenazine decreases monoamine release instead.",
+    "E": "Displacing dopamine from vesicles with transporter-mediated efflux describes amphetamine-like dopaminergic stimulation, which would worsen hyperkinesia rather than reduce it."
+  },
+  "educationalObjective": "Identify tetrabenazine as a VMAT inhibitor that depletes stored monoamines.",
+  "source": "Generated from 5. Pharmacology.pdf - Autonomic Drugs: Presynaptic modulation and monoamine transporters"
+}
+]

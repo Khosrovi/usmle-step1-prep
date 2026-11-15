@@ -1,0 +1,166 @@
+[
+{
+  "id": "pharm-192",
+  "subject": "Pharmacology",
+  "major_topic": "Toxicities and Adverse Effects",
+  "subtopic": "Drug reactions-multiorgan",
+  "difficulty": "easy",
+  "vignette": "A 57-year-old man is being treated with an antibiotic for a dental infection. Two hours after drinking several beers at a reunion, he develops intense facial flushing, throbbing headache, nausea, vomiting, and tachycardia. He has never reacted to alcohol before, and his dentist did not warn him about drinking while taking the medication.",
+  "question": "Which of the following drugs most likely caused this reaction?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Ciprofloxacin"
+    },
+    {
+      "id": "B",
+      "text": "Metronidazole"
+    },
+    {
+      "id": "C",
+      "text": "Amoxicillin"
+    },
+    {
+      "id": "D",
+      "text": "Metformin"
+    },
+    {
+      "id": "E",
+      "text": "Acyclovir"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Metronidazole belongs to the group of agents that cause a disulfiram-like reaction with alcohol, producing flushing, headache, nausea, vomiting, and tachycardia. The same interaction is seen with certain cephalosporins, 1st-generation sulfonylureas, procarbazine, and griseofulvin.",
+  "explanation_incorrect": {
+    "A": "Ciprofloxacin is a fluoroquinolone; its classic toxicity concerns include CYP450 inhibition and tendon or cartilage damage, not a disulfiram-like alcohol reaction.",
+    "C": "Amoxicillin causes hypersensitivity and rash reactions but is not among the disulfiram-like agents.",
+    "D": "Metformin causes gastrointestinal upset and lactic acidosis concerns, but it does not interact with alcohol to cause flushing and vomiting in this pattern.",
+    "E": "Acyclovir is associated with crystalluria and neurotoxicity at high doses; it is not a disulfiram-like drug."
+  },
+  "educationalObjective": "Metronidazole is a classic cause of a disulfiram-like reaction when combined with alcohol.",
+  "source": "Generated from 5. Pharmacology.pdf - Toxicities and Adverse Effects: Drug reactions-multiorgan"
+},
+{
+  "id": "pharm-193",
+  "subject": "Pharmacology",
+  "major_topic": "Toxicities and Adverse Effects",
+  "subtopic": "Drug reactions-multiorgan",
+  "difficulty": "medium",
+  "vignette": "A 68-year-old woman taking amitriptyline for chronic pain develops dry mouth, blurred vision, constipation, urinary hesitancy, and worsening confusion. Her physician explains that these findings reflect a well-known multiorgan drug reaction that occurs with several unrelated drug classes, and asks the team to identify the receptor system involved.",
+  "question": "This patient's constellation of symptoms results from blockade of which of the following receptors?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Beta-1 adrenergic receptors"
+    },
+    {
+      "id": "B",
+      "text": "Alpha-1 adrenergic receptors"
+    },
+    {
+      "id": "C",
+      "text": "Muscarinic receptors"
+    },
+    {
+      "id": "D",
+      "text": "Nicotinic receptors"
+    },
+    {
+      "id": "E",
+      "text": "Histamine-2 receptors"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "The antimuscarinic (anticholinergic) drug reaction — dry mouth, constipation, urinary retention, blurred vision, hyperthermia, and delirium — results from blockade of muscarinic receptors. It is shared by atropine, tricyclic antidepressants such as amitriptyline, H1-blockers, and antipsychotics.",
+  "explanation_incorrect": {
+    "A": "Beta-1 receptor blockade produces bradycardia, decreased contractility, and hypotension, not the secretory, urinary, and ocular findings seen here.",
+    "B": "Alpha-1 receptor blockade causes orthostatic hypotension, reflex tachycardia, and miosis rather than dry mouth and urinary retention.",
+    "D": "Nicotinic receptor blockade causes neuromuscular weakness and ganglionic effects, not the classic antimuscarinic toxidrome.",
+    "E": "H2 blockade reduces gastric acid secretion; H1-blockers cause antimuscarinic effects through their anticholinergic properties, not through H2 receptor antagonism."
+  },
+  "educationalObjective": "The antimuscarinic drug reaction (atropine, TCAs, H1-blockers, antipsychotics) is mediated by muscarinic receptor blockade.",
+  "source": "Generated from 5. Pharmacology.pdf - Toxicities and Adverse Effects: Drug reactions-multiorgan"
+},
+{
+  "id": "pharm-194",
+  "subject": "Pharmacology",
+  "major_topic": "Toxicities and Adverse Effects",
+  "subtopic": "Drug reactions-multiorgan",
+  "difficulty": "medium",
+  "vignette": "A 72-year-old man with allergic rhinitis has been taking large doses of an over-the-counter sedating antihistamine. He now presents with flushed dry skin, mydriasis, urinary retention, and disorientation. His physician explains that other drugs on his home regimen could produce this same multiorgan toxidrome.",
+  "question": "Which of the following additional medications could cause the same reaction?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Metoprolol"
+    },
+    {
+      "id": "B",
+      "text": "Lisinopril"
+    },
+    {
+      "id": "C",
+      "text": "Warfarin"
+    },
+    {
+      "id": "D",
+      "text": "Amitriptyline"
+    },
+    {
+      "id": "E",
+      "text": "Hydrochlorothiazide"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Tricyclic antidepressants such as amitriptyline are a classic cause of the antimuscarinic drug reaction. This toxidrome is shared by atropine, TCAs, H1-blockers, and antipsychotics, and includes dry skin, mydriasis, urinary retention, constipation, hyperthermia, and delirium.",
+  "explanation_incorrect": {
+    "A": "Metoprolol is a beta-blocker that causes bradycardia and fatigue; it has no antimuscarinic properties.",
+    "B": "Lisinopril is an ACE inhibitor associated with dry cough, hyperkalemia, and angioedema, not an anticholinergic toxidrome.",
+    "C": "Warfarin causes bleeding and requires vitamin K or PCC/FFP for reversal; it does not block muscarinic receptors.",
+    "E": "Hydrochlorothiazide causes hypokalemia, hypercalcemia, and gout flares; it is not associated with antimuscarinic toxicity."
+  },
+  "educationalObjective": "The antimuscarinic reaction is shared by atropine, TCAs, H1-blockers, and antipsychotics.",
+  "source": "Generated from 5. Pharmacology.pdf - Toxicities and Adverse Effects: Drug reactions-multiorgan"
+},
+{
+  "id": "pharm-195",
+  "subject": "Pharmacology",
+  "major_topic": "Toxicities and Adverse Effects",
+  "subtopic": "Drug reactions-multiorgan",
+  "difficulty": "hard",
+  "vignette": "A 63-year-old man with type 2 diabetes, hypertension, and gout is counseled before discharge that he must avoid alcohol while taking several of his medications because of a disulfiram-like reaction risk. The pharmacist is double-checking which of his medications carry this warning and which are safe with moderate alcohol intake.",
+  "question": "Which of the following medications does NOT cause a disulfiram-like reaction with alcohol?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Metformin"
+    },
+    {
+      "id": "B",
+      "text": "Procarbazine"
+    },
+    {
+      "id": "C",
+      "text": "Certain cephalosporins"
+    },
+    {
+      "id": "D",
+      "text": "Griseofulvin"
+    },
+    {
+      "id": "E",
+      "text": "First-generation sulfonylureas"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "The disulfiram-like reaction list comprises 1st-generation sulfonylureas, procarbazine, certain cephalosporins, griseofulvin, and metronidazole. Metformin, a biguanide, is not on this list; its alcohol concern is limited to general GI effects and lactic acidosis risk, not a disulfiram-like interaction.",
+  "explanation_incorrect": {
+    "B": "Procarbazine, a chemotherapy agent, is one of the classic disulfiram-like drugs and must be avoided with alcohol.",
+    "C": "Certain cephalosporins cause a disulfiram-like reaction with alcohol due to inhibition of aldehyde metabolism.",
+    "D": "Griseofulvin, an antifungal, causes a disulfiram-like reaction with alcohol ingestion.",
+    "E": "First-generation sulfonylureas such as chlorpropamide are well known to cause flushing and headache with alcohol."
+  },
+  "educationalObjective": "Disulfiram-like reactions occur with 1st-generation sulfonylureas, procarbazine, certain cephalosporins, griseofulvin, and metronidazole — not metformin.",
+  "source": "Generated from 5. Pharmacology.pdf - Toxicities and Adverse Effects: Drug reactions-multiorgan"
+}
+]

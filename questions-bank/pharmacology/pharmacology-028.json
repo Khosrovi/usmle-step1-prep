@@ -1,0 +1,207 @@
+[
+{
+  "id": "pharm-260",
+  "subject": "Pharmacology",
+  "major_topic": "Miscellaneous",
+  "subtopic": "Biologic agents: monoclonal antibodies, small molecule inhibitors, interleukin modulators",
+  "difficulty": "easy",
+  "vignette": "A 67-year-old man with CD20-positive B-cell lymphoma receives rituximab, an agent whose name ends in -ximab, as part of his chemotherapy regimen.",
+  "question": "What does the -ximab ending and this agent's composition indicate?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A chimeric human-mouse monoclonal antibody"
+    },
+    {
+      "id": "B",
+      "text": "A humanized monoclonal antibody with only murine complementarity-determining regions"
+    },
+    {
+      "id": "C",
+      "text": "A fully human monoclonal antibody"
+    },
+    {
+      "id": "D",
+      "text": "A small molecule inhibitor targeting intracellular tyrosine kinases"
+    },
+    {
+      "id": "E",
+      "text": "A proteasome inhibitor used in plasma cell dyscrasias"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Drugs ending in -ximab (eg, rituximab) are chimeric human-mouse monoclonal antibodies, meaning their constant regions are human while the variable regions are murine. Rituximab targets the CD20 antigen on B cells and is used in CD20-positive B-cell lymphomas. This nomenclature is a mnemonic for how much of the molecule is of murine origin.",
+  "explanation_incorrect": {
+    "B": "Humanized monoclonal antibodies end in -zumab (eg, bevacizumab), with only the antigen-binding loops of murine origin.",
+    "C": "Fully human monoclonal antibodies end in -umab (eg, denosumab).",
+    "D": "Small molecule kinase inhibitors end in -tinib (eg, imatinib) and are not antibodies.",
+    "E": "Proteasome inhibitors end in -zomib (eg, bortezomib), used in multiple myeloma."
+  },
+  "educationalObjective": "Monoclonal antibody suffixes encode origin: -ximab is chimeric, -zumab humanized, and -umab fully human.",
+  "source": "Generated from 5. Pharmacology.pdf - Miscellaneous: Biologic agents: monoclonal antibodies, small molecule inhibitors, interleukin modulators"
+},
+{
+  "id": "pharm-261",
+  "subject": "Pharmacology",
+  "major_topic": "Miscellaneous",
+  "subtopic": "Biologic agents: monoclonal antibodies, small molecule inhibitors, interleukin modulators",
+  "difficulty": "medium",
+  "vignette": "A 44-year-old man presents with a markedly elevated leukocyte count and basophilia. Bone marrow testing reveals the BCR-ABL fusion transcript. He is started on imatinib, an oral agent whose name ends in -tinib.",
+  "question": "Which of the following best describes this class of agents?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Monoclonal antibodies that target overexpressed cell surface receptors"
+    },
+    {
+      "id": "B",
+      "text": "Proteasome inhibitors that cause accumulation of misfolded proteins in malignant plasma cells"
+    },
+    {
+      "id": "C",
+      "text": "Small molecule inhibitors of tyrosine kinases that target intracellular signaling molecules"
+    },
+    {
+      "id": "D",
+      "text": "Poly(ADP-ribose) polymerase inhibitors that exploit defects in homologous recombination repair"
+    },
+    {
+      "id": "E",
+      "text": "BRAF kinase inhibitors used in melanoma with activating BRAF mutations"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Drugs ending in -tinib (eg, imatinib) are small molecule tyrosine kinase inhibitors that target intracellular molecules. Imatinib specifically inhibits the constitutively active BCR-ABL tyrosine kinase produced by the Philadelphia chromosome fusion in chronic myeloid leukemia, explaining this patient's presentation.",
+  "explanation_incorrect": {
+    "A": "Monoclonal antibodies end in -mab (ximab/zumab/umab) and act on cell surface targets; their large size prevents intracellular access.",
+    "B": "Proteasome inhibitors end in -zomib (eg, bortezomib) and are used in multiple myeloma.",
+    "D": "PARP inhibitors end in -parib (eg, olaparib), used in BRCA-mutated tumors.",
+    "E": "BRAF inhibitors end in -rafenib (eg, vemurafenib); imatinib targets BCR-ABL, not BRAF."
+  },
+  "educationalObjective": "The suffix -tinib identifies small molecule tyrosine kinase inhibitors such as imatinib against BCR-ABL.",
+  "source": "Generated from 5. Pharmacology.pdf - Miscellaneous: Biologic agents: monoclonal antibodies, small molecule inhibitors, interleukin modulators"
+},
+{
+  "id": "pharm-262",
+  "subject": "Pharmacology",
+  "major_topic": "Miscellaneous",
+  "subtopic": "Biologic agents: monoclonal antibodies, small molecule inhibitors, interleukin modulators",
+  "difficulty": "easy",
+  "vignette": "A 71-year-old postmenopausal woman with severe osteoporosis and contraindications to bisphosphonates is prescribed denosumab, a subcutaneous injection whose name ends in -umab.",
+  "question": "Which of the following best describes this medication?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A bisphosphonate that binds hydroxyapatite and inhibits osteoclast activity"
+    },
+    {
+      "id": "B",
+      "text": "A fully human monoclonal antibody against RANKL that inhibits osteoclast formation"
+    },
+    {
+      "id": "C",
+      "text": "A selective estrogen receptor modulator that reduces bone resorption"
+    },
+    {
+      "id": "D",
+      "text": "A recombinant human parathyroid hormone analog that stimulates bone formation"
+    },
+    {
+      "id": "E",
+      "text": "A humanized monoclonal antibody against vascular endothelial growth factor"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Drugs ending in -umab are fully human monoclonal antibodies. Denosumab is a fully human monoclonal antibody against RANKL; blocking RANKL prevents osteoclast differentiation and activation, decreasing bone resorption and fracture risk in osteoporosis.",
+  "explanation_incorrect": {
+    "A": "Bisphosphonates end in -dronate (eg, alendronate) and act directly on osteoclasts bound to hydroxyapatite; this patient could not take them.",
+    "C": "SERMs such as raloxifene reduce bone resorption via estrogen receptor agonism in bone and are not monoclonal antibodies.",
+    "D": "Recombinant PTH analogs such as teriparatide are anabolic agents, not -umab antibodies.",
+    "E": "Anti-VEGF activity describes bevacizumab, a humanized (-zumab) antibody used in oncology."
+  },
+  "educationalObjective": "The suffix -umab identifies fully human monoclonal antibodies such as denosumab (anti-RANKL).",
+  "source": "Generated from 5. Pharmacology.pdf - Miscellaneous: Biologic agents: monoclonal antibodies, small molecule inhibitors, interleukin modulators"
+},
+{
+  "id": "pharm-263",
+  "subject": "Pharmacology",
+  "major_topic": "Miscellaneous",
+  "subtopic": "Biologic agents: monoclonal antibodies, small molecule inhibitors, interleukin modulators",
+  "difficulty": "medium",
+  "vignette": "A 52-year-old woman with a germline BRCA1 mutation completes platinum-based chemotherapy for ovarian cancer and is placed on maintenance therapy with an oral agent whose name ends in -parib.",
+  "question": "What is the mechanism of action of this maintenance agent?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Formation of DNA cross-links between adjacent guanine residues"
+    },
+    {
+      "id": "B",
+      "text": "Stabilization of microtubules, blocking mitotic spindle disassembly"
+    },
+    {
+      "id": "C",
+      "text": "Inhibition of aromatase, lowering peripheral estrogen production"
+    },
+    {
+      "id": "D",
+      "text": "Inhibition of cyclin-dependent kinases, arresting tumor cells in G1 phase"
+    },
+    {
+      "id": "E",
+      "text": "Inhibition of poly(ADP-ribose) polymerase, exploiting defective homologous recombination repair"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Drugs ending in -parib (eg, olaparib) are PARP inhibitors. PARP repairs single-strand DNA breaks; inhibiting it in cells with BRCA-mutated, defective homologous recombination repair creates synthetic lethality, making PARP inhibitors effective maintenance therapy for BRCA-mutated ovarian cancer after platinum response.",
+  "explanation_incorrect": {
+    "A": "DNA cross-linking describes platinum compounds ending in -platin (eg, cisplatin), the chemotherapy just completed.",
+    "B": "Microtubule stabilization describes taxanes ending in -taxel (eg, paclitaxel).",
+    "C": "Aromatase inhibition describes drugs ending in -trozole (eg, anastrozole), used in estrogen receptor–positive breast cancer.",
+    "D": "CDK inhibition describes drugs ending in -ciclib (eg, palbociclib), used in hormone receptor–positive breast cancer."
+  },
+  "educationalObjective": "The suffix -parib identifies PARP inhibitors, which are synthetically lethal in homologous recombination repair–deficient (BRCA-mutated) tumors.",
+  "source": "Generated from 5. Pharmacology.pdf - Miscellaneous: Biologic agents: monoclonal antibodies, small molecule inhibitors, interleukin modulators"
+},
+{
+  "id": "pharm-264",
+  "subject": "Pharmacology",
+  "major_topic": "Miscellaneous",
+  "subtopic": "Biologic agents: monoclonal antibodies, small molecule inhibitors, interleukin modulators",
+  "difficulty": "hard",
+  "vignette": "A 58-year-old man with metastatic renal cell carcinoma is treated with aldesleukin, a recombinant agent whose name ends in -leukin. He develops marked capillary leak and hypotension during therapy but shows tumor regression.",
+  "question": "Which of the following best describes the mechanism of this agent?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Antagonism of the interleukin-1 receptor, suppressing systemic inflammation"
+    },
+    {
+      "id": "B",
+      "text": "Neutralization of tumor necrosis factor-alpha in the peripheral circulation"
+    },
+    {
+      "id": "C",
+      "text": "Blockade of the interleukin-6 receptor, reducing B-cell activation"
+    },
+    {
+      "id": "D",
+      "text": "Interleukin-2 agonism, stimulating proliferation and activation of T lymphocytes"
+    },
+    {
+      "id": "E",
+      "text": "Inhibition of the proteasome, causing death of malignant plasma cells"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Drugs ending in -leukin (eg, aldesleukin) are interleukin-2 agonists/analogues. Aldesleukin is recombinant IL-2 that activates T lymphocytes and natural killer cells, producing an antitumor immune response in metastatic renal cell carcinoma and melanoma. Its profound immune activation explains the capillary leak syndrome observed here.",
+  "explanation_incorrect": {
+    "A": "Interleukin-1 receptor antagonism describes anakinra, which ends in -kinra and is used in autoinflammatory disease, not renal cell carcinoma.",
+    "B": "TNF-alpha neutralization describes monoclonal antibodies such as infliximab (a chimeric -ximab), used in autoimmune disease.",
+    "C": "Interleukin-6 receptor blockade describes tocilizumab, an -umab antibody used in rheumatoid arthritis.",
+    "E": "Proteasome inhibition describes -zomib drugs (eg, bortezomib), used in multiple myeloma."
+  },
+  "educationalObjective": "The suffix -leukin identifies interleukin-2 agonists (aldesleukin); -kinra identifies interleukin receptor antagonists (anakinra).",
+  "source": "Generated from 5. Pharmacology.pdf - Miscellaneous: Biologic agents: monoclonal antibodies, small molecule inhibitors, interleukin modulators"
+}
+]

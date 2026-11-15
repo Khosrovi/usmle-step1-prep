@@ -1,0 +1,207 @@
+[
+{
+  "id": "pharm-108",
+  "subject": "Pharmacology",
+  "major_topic": "Autonomic Drugs",
+  "subtopic": "Drug effect modifications",
+  "difficulty": "easy",
+  "vignette": "A 42-year-old woman with fever and myalgias takes acetaminophen and aspirin together. Her physician notes that the combined analgesic and antipyretic effect equals the sum of the effects of each drug taken alone.",
+  "question": "Which term describes this type of drug interaction?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Synergistic"
+    },
+    {
+      "id": "B",
+      "text": "Permissive"
+    },
+    {
+      "id": "C",
+      "text": "Potentiation"
+    },
+    {
+      "id": "D",
+      "text": "Additive"
+    },
+    {
+      "id": "E",
+      "text": "Antagonistic"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "An additive effect occurs when the effect of substances A and B together equals the sum of their individual effects ('2 + 2 = 4'). The classic example is aspirin plus acetaminophen. Each drug contributes its own independent effect and the results simply add.",
+  "explanation_incorrect": {
+    "A": "Synergism means the combined effect is greater than the sum of individual effects ('2 + 2 > 4'), as with clopidogrel plus aspirin.",
+    "B": "A permissive effect means the presence of substance A is required for the full effect of substance B, as with cortisol on catecholamine responsiveness.",
+    "C": "Potentiation requires that one drug (B) has no therapeutic action alone yet enhances drug A, as with carbidopa enhancing levodopa.",
+    "E": "An antagonistic effect means the combined effect is less than the sum of individual effects, as with morphine plus naloxone."
+  },
+  "educationalObjective": "Define additive drug interactions as the simple sum of individual effects (aspirin plus acetaminophen).",
+  "source": "Generated from 5. Pharmacology.pdf - Autonomic Drugs: Drug effect modifications"
+},
+{
+  "id": "pharm-109",
+  "subject": "Pharmacology",
+  "major_topic": "Autonomic Drugs",
+  "subtopic": "Drug effect modifications",
+  "difficulty": "easy",
+  "vignette": "A 34-year-old woman has used an intranasal oxymetazoline decongestant spray several times daily for 3 weeks for nasal congestion. She now reports that her congestion has returned and is worse than ever, prompting even more frequent use.",
+  "question": "Which pharmacologic phenomenon best explains this patient's worsening congestion?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Antagonistic drug interaction"
+    },
+    {
+      "id": "B",
+      "text": "Tachyphylaxis with rebound congestion"
+    },
+    {
+      "id": "C",
+      "text": "Permissive drug effect"
+    },
+    {
+      "id": "D",
+      "text": "Synergistic drug interaction"
+    },
+    {
+      "id": "E",
+      "text": "Potentiation"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Tachyphylaxis is an acute decrease in response to a drug after initial or repeated administration. With repeated intranasal decongestant use (for example, oxymetazoline), the therapeutic vasoconstrictive response declines and rebound congestion develops, driving escalating use. This is the classic example cited for tachyphylaxis.",
+  "explanation_incorrect": {
+    "A": "An antagonistic interaction involves two drugs whose combined effect is less than the sum of individual effects, as with morphine plus naloxone; no second drug is involved here.",
+    "C": "A permissive effect requires one substance for the full effect of another, as with cortisol and catecholamines.",
+    "D": "Synergism describes a combined effect greater than the sum of individual effects of two agents, which does not apply to a single agent's waning effect.",
+    "E": "Potentiation requires a second drug with no therapeutic action alone that enhances the first drug, as with carbidopa and levodopa."
+  },
+  "educationalObjective": "Recognize tachyphylaxis as acute loss of drug response with repeated use, exemplified by intranasal decongestant rebound congestion.",
+  "source": "Generated from 5. Pharmacology.pdf - Autonomic Drugs: Drug effect modifications"
+},
+{
+  "id": "pharm-110",
+  "subject": "Pharmacology",
+  "major_topic": "Autonomic Drugs",
+  "subtopic": "Drug effect modifications",
+  "difficulty": "medium",
+  "vignette": "A 68-year-old man with Parkinson disease takes carbidopa-levodopa with notable improvement in his bradykinesia and rigidity. His neurologist explains that carbidopa has no benefit for his motor symptoms when given alone but markedly increases the benefit of levodopa by blocking its peripheral conversion.",
+  "question": "Which term describes carbidopa's contribution to this drug combination?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Additive effect"
+    },
+    {
+      "id": "B",
+      "text": "Permissive effect"
+    },
+    {
+      "id": "C",
+      "text": "Antagonistic effect"
+    },
+    {
+      "id": "D",
+      "text": "Tachyphylactic effect"
+    },
+    {
+      "id": "E",
+      "text": "Potentiation"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Potentiation is similar to synergism, but drug B has no therapeutic action alone and yet enhances the therapeutic action of drug A ('2 + 0 > 2'). Carbidopa only blocks the enzyme responsible for peripheral conversion of levodopa, has no antiparkinsonian effect by itself, and potentiates levodopa's central benefit.",
+  "explanation_incorrect": {
+    "A": "Additive effects require both drugs to contribute therapeutic action whose effects sum ('2 + 2 = 4'); carbidopa has no therapeutic action alone.",
+    "B": "A permissive effect means substance A is required for the full effects of substance B, as with cortisol enabling catecholamine responsiveness, which is not the relationship here.",
+    "C": "An antagonistic effect would mean the combination works less than the sum of individual effects, as with morphine plus naloxone.",
+    "D": "Tachyphylaxis is an acute decrease in response after repeated administration, not a between-drug interaction."
+  },
+  "educationalObjective": "Define potentiation as enhancement of drug A by drug B that has no therapeutic action alone (carbidopa with levodopa).",
+  "source": "Generated from 5. Pharmacology.pdf - Autonomic Drugs: Drug effect modifications"
+},
+{
+  "id": "pharm-111",
+  "subject": "Pharmacology",
+  "major_topic": "Autonomic Drugs",
+  "subtopic": "Drug effect modifications",
+  "difficulty": "medium",
+  "vignette": "A 57-year-old man in septic shock remains hypotensive despite escalating norepinephrine infusion. He is found to have adrenal insufficiency, and after hydrocortisone replacement is started, his vasopressor requirement falls substantially.",
+  "question": "Which term describes cortisol's role in catecholamine responsiveness?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Permissive effect"
+    },
+    {
+      "id": "B",
+      "text": "Synergistic effect"
+    },
+    {
+      "id": "C",
+      "text": "Potentiation"
+    },
+    {
+      "id": "D",
+      "text": "Additive effect"
+    },
+    {
+      "id": "E",
+      "text": "Antagonistic effect"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "A permissive effect means the presence of substance A is required for the full effects of substance B. Cortisol is required for the full vasopressor responsiveness to catecholamines, which is why catecholamine refractory shock improves after hydrocortisone in adrenal insufficiency.",
+  "explanation_incorrect": {
+    "B": "Synergism describes a combined effect greater than the sum of individual effects, as with clopidogrel plus aspirin; cortisol alone is not an additional vasoactive agent producing a super-additive effect.",
+    "C": "Potentiation requires one drug with no therapeutic action alone enhancing another, as with carbidopa and levodopa; cortisol's role is as a required permissive presence.",
+    "D": "Additive effects sum two independently active drugs, as with aspirin plus acetaminophen.",
+    "E": "An antagonistic effect would reduce the combined effect below the sum of individual effects, as with morphine plus naloxone."
+  },
+  "educationalObjective": "Recognize the permissive relationship of cortisol to catecholamine responsiveness.",
+  "source": "Generated from 5. Pharmacology.pdf - Autonomic Drugs: Drug effect modifications"
+},
+{
+  "id": "pharm-112",
+  "subject": "Pharmacology",
+  "major_topic": "Autonomic Drugs",
+  "subtopic": "Drug effect modifications",
+  "difficulty": "hard",
+  "vignette": "A 62-year-old man takes aspirin and clopidogrel after coronary stent placement. His cardiologist notes that the antiplatelet effect of the combination is greater than the sum of either drug alone, and that clopidogrel clearly has its own antiplatelet activity as monotherapy.",
+  "question": "Which term best describes the combined effect of aspirin and clopidogrel?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Additive, because the effects of the two drugs simply sum"
+    },
+    {
+      "id": "B",
+      "text": "Antagonistic, because the combined effect is less than the sum of individual effects"
+    },
+    {
+      "id": "C",
+      "text": "Synergistic, because the combined effect is greater than the sum of individual effects"
+    },
+    {
+      "id": "D",
+      "text": "Permissive, because aspirin must be present for clopidogrel to have any effect"
+    },
+    {
+      "id": "E",
+      "text": "Potentiation, because clopidogrel has no therapeutic action alone"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Synergism is defined as a combined effect greater than the sum of individual effects ('2 + 2 > 4'), and clopidogrel with aspirin is the textbook example. Because clopidogrel has clear antiplatelet activity alone, the combination is synergistic rather than potentiation.",
+  "explanation_incorrect": {
+    "A": "Additive interactions ('2 + 2 = 4') equal the sum of individual effects, exemplified by aspirin plus acetaminophen, which understates this super-additive antiplatelet combination.",
+    "B": "An antagonistic interaction ('2 + 2 < 4') is exemplified by morphine plus naloxone; here the drugs enhance one another rather than cancel out.",
+    "D": "A permissive effect requires substance A for the full effect of substance B, as with cortisol and catecholamines; clopidogrel has antiplatelet activity without aspirin.",
+    "E": "Potentiation ('2 + 0 > 2') requires that drug B have no therapeutic action alone, as with carbidopa enhancing levodopa; clopidogrel is therapeutic as monotherapy."
+  },
+  "educationalObjective": "Distinguish synergism (clopidogrel plus aspirin, 2 + 2 > 4) from additive, permissive, and potentiation interactions.",
+  "source": "Generated from 5. Pharmacology.pdf - Autonomic Drugs: Drug effect modifications"
+}
+]

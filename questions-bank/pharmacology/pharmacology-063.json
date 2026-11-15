@@ -1,0 +1,248 @@
+[
+{
+  "id": "pharm-066",
+  "subject": "Pharmacology",
+  "major_topic": "Pharmacokinetics and Pharmacodynamics",
+  "subtopic": "Receptor binding: agonists and antagonists",
+  "difficulty": "medium",
+  "vignette": "A 62-year-old woman remains heavily sedated 4 hours after receiving intravenous diazepam for alcohol withdrawal. The team administers flumazenil, a competitive antagonist at the GABAA receptor where diazepam acts. A pharmacology fellow is asked to predict how the diazepam dose-response curve changes in the presence of flumazenil.",
+  "question": "Which change in the dose-response curve best describes the effect of adding a competitive antagonist such as flumazenil?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A downward shift with a reduced maximal effect that cannot be overcome by increasing the agonist dose"
+    },
+    {
+      "id": "B",
+      "text": "No change in either the position or the height of the curve"
+    },
+    {
+      "id": "C",
+      "text": "A leftward shift with an increased maximal effect"
+    },
+    {
+      "id": "D",
+      "text": "A rightward shift with no change in the maximal effect, which can be overcome by increasing the agonist concentration"
+    },
+    {
+      "id": "E",
+      "text": "A rightward shift with a reduced maximal effect, representing both reduced potency and reduced efficacy"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "A competitive antagonist competes with the agonist for the same binding site, reducing apparent potency — seen as a rightward shift of the agonist dose-response curve — while leaving efficacy unchanged (no change in maximal effect). Because the antagonism is surmountable, raising the agonist concentration (more diazepam) can overcome the block. This is the classic diazepam–flumazenil interaction at the GABAA receptor.",
+  "explanation_incorrect": {
+    "A": "A downward shift with reduced maximal effect that is not surmountable describes a noncompetitive antagonist such as phenoxybenzamine.",
+    "B": "A competitive antagonist does change the curve — it decreases apparent potency, producing a rightward shift at the same Emax.",
+    "C": "Nothing shifts the agonist curve leftward; a left shift represents increased potency, which is not produced by a competing antagonist.",
+    "E": "A combined rightward shift with reduced maximal effect is not a pattern produced by either antagonist type: competitive antagonism changes potency only, noncompetitive changes efficacy only."
+  },
+  "educationalObjective": "Competitive antagonists (eg, flumazenil vs diazepam) shift the agonist curve rightward with unchanged Emax and are surmountable by ↑ agonist concentration.",
+  "source": "Generated from 5. Pharmacology.pdf - Pharmacokinetics and Pharmacodynamics: Receptor binding"
+},
+{
+  "id": "pharm-067",
+  "subject": "Pharmacology",
+  "major_topic": "Pharmacokinetics and Pharmacodynamics",
+  "subtopic": "Receptor binding: agonists and antagonists",
+  "difficulty": "medium",
+  "vignette": "An experimental preparation of vascular smooth muscle is preincubated with phenoxybenzamine, an irreversible antagonist at α-receptors, before escalating doses of norepinephrine are added. Even when the norepinephrine concentration is raised far above the level that previously produced maximal vasoconstriction, the maximal contractile response remains blunted.",
+  "question": "Which change in the norepinephrine dose-response curve is produced by phenoxybenzamine?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A rightward shift of the curve with no change in maximal effect"
+    },
+    {
+      "id": "B",
+      "text": "A downward shift with reduced maximal effect that cannot be overcome by increasing agonist concentration"
+    },
+    {
+      "id": "C",
+      "text": "A leftward shift of the curve with an unchanged maximal effect"
+    },
+    {
+      "id": "D",
+      "text": "A rightward shift with a reduced maximal effect that normalizes once the agonist dose is sufficiently high"
+    },
+    {
+      "id": "E",
+      "text": "An upward shift of the curve to a higher maximal effect due to receptor upregulation"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Phenoxybenzamine is the classic noncompetitive antagonist at α-receptors. Noncompetitive antagonism reduces the maximal response (efficacy) — the curve shifts downward — and cannot be overcome by increasing agonist concentration, which distinguishes it from the rightward, surmountable shift of competitive antagonists. Norepinephrine plus phenoxybenzamine is the textbook pair for this curve.",
+  "explanation_incorrect": {
+    "A": "A rightward shift with unchanged Emax is the signature of a competitive (surmountable) antagonist, such as flumazenil with diazepam.",
+    "C": "Antagonists do not shift the agonist curve leftward; a left shift indicates increased potency, the opposite of antagonism.",
+    "D": "No antagonist produces a combined rightward-plus-lowered curve that normalizes at high agonist doses; a surmountable block (competitive) lowers nothing, and an insurmountable block (noncompetitive) never normalizes.",
+    "E": "Receptor upregulation is a chronic adaptive phenomenon, not an acute effect of antagonist binding in this experimental setting."
+  },
+  "educationalObjective": "Noncompetitive antagonists (eg, phenoxybenzamine vs norepinephrine) reduce Emax, and their effect cannot be overcome by increasing agonist concentration.",
+  "source": "Generated from 5. Pharmacology.pdf - Pharmacokinetics and Pharmacodynamics: Receptor binding"
+},
+{
+  "id": "pharm-068",
+  "subject": "Pharmacology",
+  "major_topic": "Pharmacokinetics and Pharmacodynamics",
+  "subtopic": "Receptor binding: agonists and antagonists",
+  "difficulty": "medium",
+  "vignette": "In a teaching exercise, a drug is administered alone in escalating doses in an isolated tissue preparation. It binds at the same receptor site as the reference full agonist. Its dose-response curve rises with its own independent potency, but its plateau — even at very high concentrations — remains below the plateau achieved by the full agonist.",
+  "question": "Which pharmacologic class does this drug belong to, and what curve features define it?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Competitive antagonist — rightward shift, unchanged Emax, surmountable"
+    },
+    {
+      "id": "B",
+      "text": "Noncompetitive antagonist — reduced Emax, not overcome by ↑ agonist concentration"
+    },
+    {
+      "id": "C",
+      "text": "Inverse agonist — opposite effect of an agonist at a constitutively active receptor"
+    },
+    {
+      "id": "D",
+      "text": "Full agonist — higher efficacy and unchanged potency compared with the reference drug"
+    },
+    {
+      "id": "E",
+      "text": "Partial agonist — acts at the same site as the full agonist, with independent potency and reduced efficacy"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "A partial agonist (curve C in the receptor-binding panel) binds at the same site as the full agonist but has less intrinsic activity, so its curve plateaus at a lower maximal effect (reduced efficacy). Its potency is independent — the x-axis position (EC50) is its own and does not predict the plateau. Morphine (full agonist) versus buprenorphine (partial agonist) at opioid μ-receptors is the classic example.",
+  "explanation_incorrect": {
+    "A": "A competitive antagonist does not generate its own effect curve; it only displaces the agonist curve rightward without changing Emax.",
+    "B": "A noncompetitive antagonist does not act as an agonist producing its own dose-dependent effect; it lowers the agonist's maximal response from a separate interaction.",
+    "C": "An inverse agonist produces the opposite of the agonist effect at constitutively active receptors (eg, H1 antihistamines); it is not defined by a submaximal positive plateau.",
+    "D": "A full agonist reaches the same maximal effect as the reference drug; the reduced plateau described here excludes this class."
+  },
+  "educationalObjective": "Partial agonists act at the same site as full agonists but with independent potency and reduced efficacy (lower plateau).",
+  "source": "Generated from 5. Pharmacology.pdf - Pharmacokinetics and Pharmacodynamics: Receptor binding"
+},
+{
+  "id": "pharm-069",
+  "subject": "Pharmacology",
+  "major_topic": "Pharmacokinetics and Pharmacodynamics",
+  "subtopic": "Receptor binding: agonists and antagonists",
+  "difficulty": "hard",
+  "vignette": "A laboratory studies a receptor population that is constitutively active, producing measurable signaling even in the complete absence of any ligand. A test compound is added, binds the receptor, and the baseline signaling activity falls below the ligand-free level — an effect opposite in direction to that produced by a standard full agonist at this receptor.",
+  "question": "Which class of drug best describes this test compound, and what is a clinically relevant example?",
+  "options": [
+    {
+      "id": "A",
+      "text": "An inverse agonist — such as an H1 antihistamine like diphenhydramine"
+    },
+    {
+      "id": "B",
+      "text": "A competitive antagonist — such as flumazenil at the GABAA receptor"
+    },
+    {
+      "id": "C",
+      "text": "A noncompetitive antagonist — such as phenoxybenzamine at α-receptors"
+    },
+    {
+      "id": "D",
+      "text": "A partial agonist — such as buprenorphine at opioid μ-receptors"
+    },
+    {
+      "id": "E",
+      "text": "A full agonist — such as morphine at opioid μ-receptors"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "An inverse agonist binds to a constitutively active receptor and reduces its activity below the ligand-free baseline — it has the opposite effect of an agonist. First Aid lists H1 antihistamines such as diphenhydramine as the example. This differs from a neutral antagonist, which blocks agonist binding but leaves constitutive receptor activity unchanged.",
+  "explanation_incorrect": {
+    "B": "A competitive antagonist prevents agonist binding but does not push constitutively active receptor signaling below its ligand-free baseline.",
+    "C": "A noncompetitive antagonist reduces the maximal response to agonist stimulation; it does not characterize suppression of constitutive receptor activity as an opposite-direction effect.",
+    "D": "A partial agonist produces a response in the same direction as the full agonist, only with a lower maximal effect.",
+    "E": "A full agonist increases receptor activity above baseline — the opposite of the observed fall in signaling."
+  },
+  "educationalObjective": "Inverse agonists (eg, diphenhydramine at H1 receptors) bind constitutively active receptors and reduce their baseline activity — the opposite of an agonist.",
+  "source": "Generated from 5. Pharmacology.pdf - Pharmacokinetics and Pharmacodynamics: Receptor binding"
+},
+{
+  "id": "pharm-070",
+  "subject": "Pharmacology",
+  "major_topic": "Pharmacokinetics and Pharmacodynamics",
+  "subtopic": "Receptor binding: agonists and antagonists",
+  "difficulty": "medium",
+  "vignette": "A pharmacology fellow explains to a medical student why flumazenil, a competitive antagonist at the GABAA receptor, can reverse the sedation from diazepam — yet if the patient has received an extremely large dose of diazepam, the sedation can reappear even after flumazenil is given.",
+  "question": "Which property of competitive antagonism best explains this reappearance of the agonist effect?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The antagonist reduces the maximal effect of the agonist regardless of agonist concentration"
+    },
+    {
+      "id": "B",
+      "text": "The antagonist permanently inactivates the receptor, and newly synthesized receptors restore the agonist effect"
+    },
+    {
+      "id": "C",
+      "text": "The antagonism is surmountable — increasing the agonist concentration can displace the antagonist from the shared binding site"
+    },
+    {
+      "id": "D",
+      "text": "The antagonist is an inverse agonist that suppresses constitutive GABAA receptor activity"
+    },
+    {
+      "id": "E",
+      "text": "The antagonist increases the intrinsic activity (efficacy) of the agonist at high doses"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Competitive antagonism is surmountable: antagonist and agonist compete for the same binding site, so a sufficiently high agonist concentration outcompetes the antagonist and restores the full agonist effect (rightward shift, unchanged Emax). With a massive diazepam dose, plasma diazepam remains high enough to displace flumazenil once flumazenil levels fall, and sedation returns.",
+  "explanation_incorrect": {
+    "A": "Reducing the maximal effect regardless of agonist concentration describes noncompetitive, not competitive, antagonism.",
+    "B": "Competitive antagonists bind reversibly and do not permanently inactivate receptors; irreversibility is a feature of noncompetitive antagonists such as phenoxybenzamine.",
+    "D": "Flumazenil is a competitive antagonist, not an inverse agonist; suppressing constitutive activity below baseline is a different mechanism.",
+    "E": "Antagonists do not increase the agonist's intrinsic activity; efficacy is an intrinsic property of the agonist–receptor interaction."
+  },
+  "educationalObjective": "Competitive antagonism is surmountable: enough agonist can displace the antagonist from the shared binding site.",
+  "source": "Generated from 5. Pharmacology.pdf - Pharmacokinetics and Pharmacodynamics: Receptor binding"
+},
+{
+  "id": "pharm-071",
+  "subject": "Pharmacology",
+  "major_topic": "Pharmacokinetics and Pharmacodynamics",
+  "subtopic": "Receptor binding: agonists and antagonists",
+  "difficulty": "medium",
+  "vignette": "During a physiology seminar, students are shown two dose-response curves for an agonist alone and an agonist plus a fixed dose of an antagonist. The antagonist curve is shifted to the right of the agonist-alone curve, but both curves reach the same maximal plateau. The presenter asks which pharmacodynamic parameter of the agonist curve the antagonist has altered.",
+  "question": "Adding this type of antagonist alters which parameter of the agonist dose-response curve?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Efficacy (Emax), which is decreased"
+    },
+    {
+      "id": "B",
+      "text": "Potency (EC50), which is decreased — a rightward shift reflecting reduced apparent potency with unchanged maximal effect"
+    },
+    {
+      "id": "C",
+      "text": "Neither potency nor efficacy, because antagonists act on different receptors"
+    },
+    {
+      "id": "D",
+      "text": "Efficacy (Emax), which is increased above the agonist-alone plateau"
+    },
+    {
+      "id": "E",
+      "text": "Potency (EC50), which is increased — the apparent EC50 is higher, reflecting reduced potency with unchanged maximal effect"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "A competitive antagonist reduces the agonist's apparent potency: more agonist is needed to achieve any given effect, so the EC50 increases and the curve shifts rightward. The maximal effect (Emax) is unchanged because, at a high enough agonist concentration, the antagonist is fully displaced. Note the direction: a rightward shift means MORE drug is needed — decreased potency, increased EC50.",
+  "explanation_incorrect": {
+    "A": "Emax is unchanged in competitive antagonism; a decreased maximal effect would indicate noncompetitive antagonism.",
+    "B": "The direction is reversed: a rightward shift means a HIGHER EC50 (less potent), not a lower one. Decreased EC50 would be a leftward shift, which antagonists do not produce.",
+    "C": "Competitive antagonists act at the same receptor as the agonist, which is exactly how they alter the agonist's apparent potency.",
+    "D": "No antagonist raises the agonist curve above its own maximal plateau; efficacy is a property of the agonist–receptor interaction."
+  },
+  "educationalObjective": "Competitive antagonism increases the apparent EC50 (decreased potency) with unchanged Emax — a rightward shift, not a downward one.",
+  "source": "Generated from 5. Pharmacology.pdf - Pharmacokinetics and Pharmacodynamics: Receptor binding"
+}
+]

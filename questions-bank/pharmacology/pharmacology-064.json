@@ -1,0 +1,330 @@
+[
+{
+  "id": "pharm-184",
+  "subject": "Pharmacology",
+  "major_topic": "Toxicities and Adverse Effects",
+  "subtopic": "Specific antidotes and toxicity treatments",
+  "difficulty": "easy",
+  "vignette": "A 17-year-old girl is brought to the emergency department 8 hours after ingesting an unknown quantity of acetaminophen in a suicide attempt. She has right upper quadrant tenderness, and laboratory studies show markedly elevated aminotransferases and prolonged prothrombin time. The physician orders a therapy that replenishes the hepatic stores depleted by the toxic metabolite.",
+  "question": "Which of the following is the most appropriate treatment?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Leucovorin"
+    },
+    {
+      "id": "B",
+      "text": "Flumazenil"
+    },
+    {
+      "id": "C",
+      "text": "Naloxone"
+    },
+    {
+      "id": "D",
+      "text": "N-acetylcysteine"
+    },
+    {
+      "id": "E",
+      "text": "Fomepizole"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Acetaminophen toxicity is treated with N-acetylcysteine, which replenishes glutathione stores consumed by the toxic metabolite NAPQI, preventing focal to massive hepatic necrosis.",
+  "explanation_incorrect": {
+    "A": "Leucovorin is the antidote for methotrexate toxicity, rescuing healthy cells from folate antagonism; it has no role in acetaminophen hepatotoxicity.",
+    "B": "Flumazenil reverses benzodiazepine overdose; it does not protect the liver from NAPQI injury.",
+    "C": "Naloxone is the antidote for opioid overdose, reversing respiratory depression and miosis; it is inactive against acetaminophen.",
+    "E": "Fomepizole is the treatment for methanol and ethylene glycol poisoning; it does not restore glutathione stores."
+  },
+  "educationalObjective": "Acetaminophen toxicity is treated with N-acetylcysteine, which replenishes glutathione.",
+  "source": "Generated from 5. Pharmacology.pdf - Toxicities and Adverse Effects: Specific antidotes and toxicity treatments"
+},
+{
+  "id": "pharm-185",
+  "subject": "Pharmacology",
+  "major_topic": "Toxicities and Adverse Effects",
+  "subtopic": "Specific antidotes and toxicity treatments",
+  "difficulty": "medium",
+  "vignette": "A 74-year-old woman with atrial fibrillation is brought to the emergency department after a fall. She is taking warfarin and her INR is markedly supratherapeutic; a head CT shows an acute intracranial hemorrhage. The team plans immediate reversal while a slower-acting agent restores hepatic synthesis of clotting factors.",
+  "question": "Which of the following best describes the correct management?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Protamine sulfate alone provides immediate reversal"
+    },
+    {
+      "id": "B",
+      "text": "Vitamin K for delayed effect plus PCC or FFP for immediate effect"
+    },
+    {
+      "id": "C",
+      "text": "Idarucizumab reverses this anticoagulant within minutes"
+    },
+    {
+      "id": "D",
+      "text": "Andexanet alfa is the specific reversal agent for this drug"
+    },
+    {
+      "id": "E",
+      "text": "Methylene blue corrects the coagulopathy by acting as a reducing agent"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Warfarin toxicity is treated with vitamin K, which has a delayed effect because it must resynthesize clotting factors II, VII, IX, and X. Prothrombin complex concentrate (PCC) or fresh frozen plasma (FFP) provides immediate reversal by directly replacing the factors, which is essential in life-threatening bleeding such as intracranial hemorrhage.",
+  "explanation_incorrect": {
+    "A": "Protamine sulfate reverses heparin, not warfarin; warfarin acts by inhibiting vitamin K–dependent factor synthesis, which protamine cannot restore.",
+    "C": "Idarucizumab is the monoclonal antibody antidote for dabigatran; this patient takes warfarin, a vitamin K antagonist.",
+    "D": "Andexanet alfa reverses direct factor Xa inhibitors such as apixaban; it is not an antidote for warfarin.",
+    "E": "Methylene blue (with vitamin C) treats methemoglobinemia by reducing ferric iron back to ferrous iron; it does not reverse warfarin anticoagulation."
+  },
+  "educationalObjective": "Warfarin reversal uses vitamin K for delayed effect and PCC or FFP for immediate effect.",
+  "source": "Generated from 5. Pharmacology.pdf - Toxicities and Adverse Effects: Specific antidotes and toxicity treatments"
+},
+{
+  "id": "pharm-186",
+  "subject": "Pharmacology",
+  "major_topic": "Toxicities and Adverse Effects",
+  "subtopic": "Specific antidotes and toxicity treatments",
+  "difficulty": "medium",
+  "vignette": "A 46-year-old man with alcohol use disorder is found disoriented after drinking antifreeze from his garage. He is ataxic and vomiting, and laboratory studies show a metabolic acidosis with a high anion gap. The physician selects an agent that halts further formation of the acid metabolites responsible for his presentation.",
+  "question": "Which of the following is the most appropriate first-line treatment?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Flumazenil"
+    },
+    {
+      "id": "B",
+      "text": "Deferoxamine"
+    },
+    {
+      "id": "C",
+      "text": "Methylene blue"
+    },
+    {
+      "id": "D",
+      "text": "N-acetylcysteine"
+    },
+    {
+      "id": "E",
+      "text": "Fomepizole"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Methanol and ethylene glycol (antifreeze) poisoning is treated with fomepizole, which is preferred over ethanol; dialysis may also be used to remove the toxin and its metabolites.",
+  "explanation_incorrect": {
+    "A": "Flumazenil is the antidote for benzodiazepine overdose; it does not block the metabolism of alcohols such as ethylene glycol.",
+    "B": "Deferoxamine (with deferasirox and deferiprone) chelates iron in iron overdose; it does not treat alcohol poisoning.",
+    "C": "Methylene blue reduces methemoglobin back to normal hemoglobin and has no role in ethylene glycol ingestion.",
+    "D": "N-acetylcysteine replenishes glutathione in acetaminophen toxicity; it is not an antidote for antifreeze ingestion."
+  },
+  "educationalObjective": "Methanol and ethylene glycol poisoning is treated with fomepizole (preferred over ethanol) plus dialysis.",
+  "source": "Generated from 5. Pharmacology.pdf - Toxicities and Adverse Effects: Specific antidotes and toxicity treatments"
+},
+{
+  "id": "pharm-187",
+  "subject": "Pharmacology",
+  "major_topic": "Toxicities and Adverse Effects",
+  "subtopic": "Specific antidotes and toxicity treatments",
+  "difficulty": "hard",
+  "vignette": "A 55-year-old farm worker is brought in after spraying his orchard without protective equipment. He has profuse salivation and tearing, pinpoint pupils, bradycardia, wheezing, and diarrhea. The physician is selecting the antidotal regimen for acetylcholinesterase inhibitor poisoning and must decide on the order of agents.",
+  "question": "Which of the following should be administered first?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Atropine"
+    },
+    {
+      "id": "B",
+      "text": "Pralidoxime"
+    },
+    {
+      "id": "C",
+      "text": "Physostigmine"
+    },
+    {
+      "id": "D",
+      "text": "Naloxone"
+    },
+    {
+      "id": "E",
+      "text": "Flumazenil"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Poisoning by acetylcholinesterase inhibitors and organophosphates is treated with atropine given before pralidoxime. Atropine competitively blocks muscarinic receptors, immediately correcting the life-threatening cholinergic excess (bronchorrhea, bronchospasm, bradycardia, salivation); pralidoxime then regenerates the inhibited enzyme.",
+  "explanation_incorrect": {
+    "B": "Pralidoxime regenerates acetylcholinesterase but is given after atropine; it does not rapidly counteract muscarinic receptor overstimulation at airway and cardiac sites.",
+    "C": "Physostigmine is an acetylcholinesterase inhibitor used for antimuscarinic and anticholinergic toxicity — giving it here would worsen the cholinergic crisis dramatically.",
+    "D": "Naloxone reverses opioid overdose; this patient has miosis from organophosphate toxicity, not opioid ingestion.",
+    "E": "Flumazenil reverses benzodiazepine sedation and has no role in cholinergic poisoning."
+  },
+  "educationalObjective": "In acetylcholinesterase inhibitor and organophosphate poisoning, atropine is given before pralidoxime.",
+  "source": "Generated from 5. Pharmacology.pdf - Toxicities and Adverse Effects: Specific antidotes and toxicity treatments"
+},
+{
+  "id": "pharm-188",
+  "subject": "Pharmacology",
+  "major_topic": "Toxicities and Adverse Effects",
+  "subtopic": "Specific antidotes and toxicity treatments",
+  "difficulty": "medium",
+  "vignette": "A 31-year-old woman is brought to the emergency department unresponsive after ingesting her mother's medication. ECG shows widening of the QRS interval, and she has had one generalized seizure. Her sister mentions that the medicine was prescribed for depression years ago and caused dry mouth and constipation.",
+  "question": "Which of the following is the most appropriate treatment?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Flumazenil"
+    },
+    {
+      "id": "B",
+      "text": "Physostigmine"
+    },
+    {
+      "id": "C",
+      "text": "Sodium bicarbonate"
+    },
+    {
+      "id": "D",
+      "text": "N-acetylcysteine"
+    },
+    {
+      "id": "E",
+      "text": "Digoxin-specific antibody fragments"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Tricyclic antidepressant overdose is treated with sodium bicarbonate, which stabilizes the cardiac cell membrane and narrows the QRS interval, countering the sodium channel blockade responsible for seizures and conduction abnormalities.",
+  "explanation_incorrect": {
+    "A": "Flumazenil is the benzodiazepine antidote; TCAs are not benzodiazepines and reversing sedation does not address the cardiac toxicity.",
+    "B": "Physostigmine treats antimuscarinic and anticholinergic toxicity, but it can precipitate seizures and conduction block in TCA overdose and does not stabilize the myocardium.",
+    "D": "N-acetylcysteine replenishes glutathione for acetaminophen toxicity; it has no effect on sodium channel blockade from TCAs.",
+    "E": "Digoxin-specific antibody fragments bind digoxin in digoxin toxicity; TCA cardiotoxicity is mediated by sodium channel blockade, not digitalis effect."
+  },
+  "educationalObjective": "TCA overdose with wide QRS and seizures is treated with sodium bicarbonate to stabilize cardiac membranes.",
+  "source": "Generated from 5. Pharmacology.pdf - Toxicities and Adverse Effects: Specific antidotes and toxicity treatments"
+},
+{
+  "id": "pharm-189",
+  "subject": "Pharmacology",
+  "major_topic": "Toxicities and Adverse Effects",
+  "subtopic": "Specific antidotes and toxicity treatments",
+  "difficulty": "easy",
+  "vignette": "A 24-year-old man is found unresponsive with a respiratory rate of 6/min and pinpoint pupils. His friends report he took several pills of an unknown pain medication. The physician administers a short-acting receptor antagonist to reverse the respiratory depression and restore ventilation.",
+  "question": "Which of the following agents was most likely administered?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Naloxone"
+    },
+    {
+      "id": "B",
+      "text": "Flumazenil"
+    },
+    {
+      "id": "C",
+      "text": "Atropine"
+    },
+    {
+      "id": "D",
+      "text": "Protamine sulfate"
+    },
+    {
+      "id": "E",
+      "text": "Hydroxocobalamin"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Opioid overdose presents with respiratory depression, sedation, and miosis, and is treated with naloxone, an opioid receptor antagonist that rapidly reverses the respiratory depression.",
+  "explanation_incorrect": {
+    "B": "Flumazenil reverses benzodiazepine overdose; benzodiazepine sedation typically spares pupils and breathing to this degree, so naloxone is the correct agent for this triad.",
+    "C": "Atropine is the antidote for acetylcholinesterase inhibitor and organophosphate poisoning; it would not restore respiration in opioid overdose.",
+    "D": "Protamine sulfate reverses heparin anticoagulation and is irrelevant to opioid toxicity.",
+    "E": "Hydroxocobalamin is an antidote for cyanide poisoning; it does not reverse opioid receptor activation."
+  },
+  "educationalObjective": "Opioid overdose with respiratory depression and miosis is treated with naloxone.",
+  "source": "Generated from 5. Pharmacology.pdf - Toxicities and Adverse Effects: Specific antidotes and toxicity treatments"
+},
+{
+  "id": "pharm-190",
+  "subject": "Pharmacology",
+  "major_topic": "Toxicities and Adverse Effects",
+  "subtopic": "Specific antidotes and toxicity treatments",
+  "difficulty": "medium",
+  "vignette": "A family of four is brought to the emergency department during a winter power outage with headache, nausea, confusion, and dizziness after running a gasoline generator inside their home. Several are flushed in appearance, and one requires endotracheal intubation for obtundation. Pulse oximetry readings are deceptively normal.",
+  "question": "Which of the following is the most appropriate treatment?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Hydroxocobalamin"
+    },
+    {
+      "id": "B",
+      "text": "N-acetylcysteine"
+    },
+    {
+      "id": "C",
+      "text": "Methylene blue"
+    },
+    {
+      "id": "D",
+      "text": "100% oxygen, with hyperbaric oxygen for severe cases"
+    },
+    {
+      "id": "E",
+      "text": "Leucovorin"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Carbon monoxide poisoning from combustion sources such as generators is treated with 100% oxygen, which displaces carbon monoxide from hemoglobin; hyperbaric oxygen is added for severe poisoning.",
+  "explanation_incorrect": {
+    "A": "Hydroxocobalamin (or nitrites plus sodium thiosulfate) is the antidote for cyanide poisoning; carbon monoxide binds hemoglobin directly rather than poisoning cytochrome oxidase in a way cobalamin reverses.",
+    "B": "N-acetylcysteine replenishes glutathione in acetaminophen toxicity and has no role in carbon monoxide exposure.",
+    "C": "Methylene blue reduces methemoglobin to hemoglobin; carbon monoxide forms carboxyhemoglobin, which oxygen therapy displaces instead.",
+    "E": "Leucovorin rescues cells from methotrexate toxicity; it does not remove carbon monoxide from hemoglobin."
+  },
+  "educationalObjective": "Carbon monoxide poisoning is treated with 100% oxygen, with hyperbaric oxygen for severe cases.",
+  "source": "Generated from 5. Pharmacology.pdf - Toxicities and Adverse Effects: Specific antidotes and toxicity treatments"
+},
+{
+  "id": "pharm-191",
+  "subject": "Pharmacology",
+  "major_topic": "Toxicities and Adverse Effects",
+  "subtopic": "Specific antidotes and toxicity treatments",
+  "difficulty": "hard",
+  "vignette": "An 81-year-old woman with heart failure presents with several days of anorexia, nausea, and vividly yellow-tinged vision. Heart rate is irregularly irregular, ECG shows atrioventricular block with frequent premature ventricular contractions, and serum potassium is 5.9 mEq/L. Her medication list was recently adjusted upward for better rate control.",
+  "question": "Which of the following is the most appropriate antidote?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Protamine sulfate"
+    },
+    {
+      "id": "B",
+      "text": "Andexanet alfa"
+    },
+    {
+      "id": "C",
+      "text": "Idarucizumab"
+    },
+    {
+      "id": "D",
+      "text": "Digoxin-specific antibody fragments"
+    },
+    {
+      "id": "E",
+      "text": "Flumazenil"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Digoxin toxicity presents with nausea, anorexia, yellow-tinged vision, and arrhythmias such as AV block and premature ventricular contractions, often with hyperkalemia. The antidote is digoxin-specific antibody fragments, which bind the drug and promote its elimination.",
+  "explanation_incorrect": {
+    "A": "Protamine sulfate is the antidote for heparin and would not affect a digitalis glycoside.",
+    "B": "Andexanet alfa reverses direct factor Xa inhibitors such as apixaban; it has no binding activity against digoxin.",
+    "C": "Idarucizumab is the monoclonal antibody antidote for dabigatran, a direct thrombin inhibitor; digoxin requires its own specific Fab fragments.",
+    "E": "Flumazenil reverses benzodiazepine overdose and would not correct digoxin-induced arrhythmias or hyperkalemia."
+  },
+  "educationalObjective": "Digoxin toxicity (nausea, yellow vision, arrhythmias, hyperkalemia) is treated with digoxin-specific antibody fragments.",
+  "source": "Generated from 5. Pharmacology.pdf - Toxicities and Adverse Effects: Specific antidotes and toxicity treatments"
+}
+]

@@ -1,0 +1,166 @@
+[
+{
+  "id": "pharm-100",
+  "subject": "Pharmacology",
+  "major_topic": "Autonomic Drugs",
+  "subtopic": "Tissue distribution of adrenergic receptors",
+  "difficulty": "easy",
+  "vignette": "In a physiology experiment, a healthy volunteer receives an infusion of a highly selective beta-1 adrenergic agonist while cardiovascular and renal parameters are monitored.",
+  "question": "Which of the following effects is expected from beta-1 receptor activation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Bronchodilation"
+    },
+    {
+      "id": "B",
+      "text": "Increased insulin secretion from the pancreas"
+    },
+    {
+      "id": "C",
+      "text": "Increased renin secretion from the kidney"
+    },
+    {
+      "id": "D",
+      "text": "Decreased salivary secretion"
+    },
+    {
+      "id": "E",
+      "text": "Vasoconstriction of vascular smooth muscle"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Beta-1 receptors are located in the heart (increasing heart rate and contractility) and in the kidney (increasing renin secretion). Beta-1 activation of juxtaglomerular cells raises renin release, which feeds into the renin-angiotensin-aldosterone axis, explaining why beta-1 blockade lowers blood pressure.",
+  "explanation_incorrect": {
+    "A": "Bronchodilation is a beta-2 effect on bronchial smooth muscle, not beta-1.",
+    "B": "Stimulation of insulin secretion from the pancreas is a beta-2 effect; alpha-2 activation instead inhibits insulin secretion.",
+    "D": "Decreased salivary secretion is an alpha-2 effect on salivary glands, not a beta-1 effect.",
+    "E": "Vasoconstriction of vascular smooth muscle is an alpha-1 effect; arterial smooth muscle responds to beta-2 with vasodilation."
+  },
+  "educationalObjective": "Localize beta-1 receptors to the heart (rate, contractility) and kidney (renin secretion).",
+  "source": "Generated from 5. Pharmacology.pdf - Autonomic Drugs: Tissue distribution of adrenergic receptors"
+},
+{
+  "id": "pharm-101",
+  "subject": "Pharmacology",
+  "major_topic": "Autonomic Drugs",
+  "subtopic": "Tissue distribution of adrenergic receptors",
+  "difficulty": "medium",
+  "vignette": "A 58-year-old man with type 2 diabetes enrolls in a study of an experimental drug that selectively stimulates alpha-2 adrenergic receptors on pancreatic cells. His blood glucose monitoring is intensified for the trial.",
+  "question": "Which effect on insulin secretion is expected from alpha-2 activation, and which receptor subtype produces the opposite effect?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Increased insulin secretion via beta-2 receptors"
+    },
+    {
+      "id": "B",
+      "text": "Increased insulin secretion via alpha-2 receptors"
+    },
+    {
+      "id": "C",
+      "text": "No change, because alpha-2 receptors are not found in the pancreas"
+    },
+    {
+      "id": "D",
+      "text": "Decreased insulin secretion via beta-3 receptors"
+    },
+    {
+      "id": "E",
+      "text": "Decreased insulin secretion via alpha-2 receptors"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Alpha-2 receptors are located in the pancreas, presynaptic nerve terminals, and salivary glands. In the pancreas, alpha-2 activation inhibits insulin secretion, which can worsen hyperglycemia. The opposite effect, stimulation of insulin secretion, is mediated by beta-2 receptors on pancreatic cells, making the alpha-2/beta-2 pairing a classic contrast.",
+  "explanation_incorrect": {
+    "A": "This reverses both elements: alpha-2 activation decreases insulin secretion, and beta-2 (not alpha-2) activation increases it.",
+    "B": "Alpha-2 receptors inhibit rather than stimulate insulin secretion; stimulation is a beta-2 effect.",
+    "C": "Alpha-2 receptors are indeed found in the pancreas, where they inhibit insulin secretion.",
+    "D": "Beta-3 receptors are found in adipose tissue promoting lipolysis, not in pancreatic regulation of insulin secretion; the decreased secretion is an alpha-2 effect."
+  },
+  "educationalObjective": "Contrast alpha-2-mediated inhibition of insulin secretion with beta-2-mediated stimulation.",
+  "source": "Generated from 5. Pharmacology.pdf - Autonomic Drugs: Tissue distribution of adrenergic receptors"
+},
+{
+  "id": "pharm-102",
+  "subject": "Pharmacology",
+  "major_topic": "Autonomic Drugs",
+  "subtopic": "Tissue distribution of adrenergic receptors",
+  "difficulty": "medium",
+  "vignette": "A researcher administers a highly selective beta-2 adrenergic agonist systemically to a study subject and records respiratory, cardiovascular, metabolic, and pancreatic responses.",
+  "question": "Which combination of effects is expected from systemic beta-2 receptor activation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Vasoconstriction, hepatic glycogenolysis, and decreased insulin secretion"
+    },
+    {
+      "id": "B",
+      "text": "Bronchodilation, arterial vasodilation, hepatic glycogenolysis, and increased insulin secretion"
+    },
+    {
+      "id": "C",
+      "text": "Increased renin secretion, bronchodilation, and vasoconstriction"
+    },
+    {
+      "id": "D",
+      "text": "Decreased heart rate, bronchodilation, and decreased blood glucose"
+    },
+    {
+      "id": "E",
+      "text": "Increased salivary secretion and contraction of the bladder detrusor"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Beta-2 receptors are distributed to bronchioles (bronchodilation), arterial smooth muscle (vasodilation), liver (glycogenolysis with glucose release), pancreas (stimulation of insulin secretion), and cardiac muscle (increased heart rate and contractility). A pure beta-2 agonist would therefore combine airway and vascular relaxation with hepatic glucose output and increased insulin.",
+  "explanation_incorrect": {
+    "A": "Vasoconstriction and decreased insulin secretion are alpha-1 and alpha-2 effects respectively; beta-2 produces vasodilation and increased insulin secretion.",
+    "C": "Increased renin secretion is a beta-1 effect on the kidney, and vasoconstriction is an alpha-1 effect; beta-2 causes vasodilation.",
+    "D": "Beta-2 activation does not decrease heart rate (it increases heart rate and contractility via cardiac beta-2 receptors) and raises, not lowers, blood glucose through glycogenolysis.",
+    "E": "Increased salivary secretion is not an adrenergic effect (alpha-2 decreases salivary secretion), and detrusor contraction is an M3 effect; beta-3 relaxes the detrusor."
+  },
+  "educationalObjective": "Recall the beta-2 tissue distribution: bronchioles, arterial smooth muscle, liver, pancreas, and cardiac muscle.",
+  "source": "Generated from 5. Pharmacology.pdf - Autonomic Drugs: Tissue distribution of adrenergic receptors"
+},
+{
+  "id": "pharm-103",
+  "subject": "Pharmacology",
+  "major_topic": "Autonomic Drugs",
+  "subtopic": "Tissue distribution of adrenergic receptors",
+  "difficulty": "hard",
+  "vignette": "A 38-year-old man receives a pure alpha-1 adrenergic agonist in a research setting, and a full set of physiologic responses is recorded.",
+  "question": "Which set of effects follows from alpha-1 receptor activation in its target tissues?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Vascular smooth muscle vasoconstriction, mydriasis, and contraction of intestinal and bladder sphincters"
+    },
+    {
+      "id": "B",
+      "text": "Bronchodilation, uterine relaxation (tocolysis), and increased aqueous humor production"
+    },
+    {
+      "id": "C",
+      "text": "Decreased sympathetic outflow, decreased insulin release, and increased platelet aggregation"
+    },
+    {
+      "id": "D",
+      "text": "Increased heart rate and contractility with increased renin release"
+    },
+    {
+      "id": "E",
+      "text": "Increased lipolysis with relaxation of the bladder"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Alpha-1 activation causes contraction of vascular smooth muscle (vasoconstriction), the pupillary dilator muscle (mydriasis), and intestinal and bladder sphincter muscles, producing urine and fecal retention during stress. These Gq-mediated contractile effects define the alpha-1 tissue profile.",
+  "explanation_incorrect": {
+    "B": "Bronchodilation, tocolysis, and increased aqueous humor production are beta-2 effects; alpha-1 would cause contraction rather than relaxation in those tissues.",
+    "C": "These are alpha-2 effects (decreased adrenergic outflow, decreased insulin release, increased platelet aggregation), not alpha-1 effects.",
+    "D": "Increased heart rate, contractility, and renin release are beta-1 effects on the heart and kidney.",
+    "E": "Increased lipolysis and bladder relaxation are beta-3 effects in adipose tissue and bladder."
+  },
+  "educationalObjective": "Associate alpha-1 activation with vasoconstriction, mydriasis, and sphincter contraction.",
+  "source": "Generated from 5. Pharmacology.pdf - Autonomic Drugs: Tissue distribution of adrenergic receptors"
+}
+]

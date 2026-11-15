@@ -1,0 +1,166 @@
+[
+{
+  "id": "pharm-148",
+  "subject": "Pharmacology",
+  "major_topic": "Autonomic Drugs",
+  "subtopic": "Indirect sympathomimetics",
+  "difficulty": "medium",
+  "vignette": "A 9-year-old boy is started on a medication for attention-deficit/hyperactivity disorder. The drug acts as an indirect general agonist that inhibits catecholamine reuptake and also releases stored catecholamines from nerve terminals.",
+  "question": "Which of the following additional indications is associated with this drug?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Acute bronchospasm in asthma"
+    },
+    {
+      "id": "B",
+      "text": "Ischemic priapism"
+    },
+    {
+      "id": "C",
+      "text": "Postoperative hypertension"
+    },
+    {
+      "id": "D",
+      "text": "Narcolepsy and obesity"
+    },
+    {
+      "id": "E",
+      "text": "Overactive bladder"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Amphetamine is an indirect sympathomimetic that acts as a general agonist, inhibits catecholamine reuptake, and releases stored catecholamines. Its indications are narcolepsy, obesity, and ADHD. Ephedrine shares the catecholamine-releasing mechanism but is used for nasal decongestion, urinary incontinence, and hypotension.",
+  "explanation_incorrect": {
+    "A": "Acute bronchospasm is treated with direct β2-agonists such as albuterol and terbutaline, not amphetamine.",
+    "B": "Ischemic priapism is treated with the α1-agonist phenylephrine, which promotes vasoconstriction and penile blood outflow.",
+    "C": "Postoperative hypertension is managed with the D1-agonist vasodilator fenoldopam.",
+    "E": "Overactive bladder is treated with the β3-agonist mirabegron (\"mirab3gron\")."
+  },
+  "educationalObjective": "Amphetamine is an indirect sympathomimetic (reuptake inhibitor + catecholamine release) used for narcolepsy, obesity, and ADHD.",
+  "source": "Generated from 5. Pharmacology.pdf - Autonomic Drugs: Indirect sympathomimetics"
+},
+{
+  "id": "pharm-149",
+  "subject": "Pharmacology",
+  "major_topic": "Autonomic Drugs",
+  "subtopic": "Indirect sympathomimetics",
+  "difficulty": "hard",
+  "vignette": "A 31-year-old man presents with chest pain, agitation, and a blood pressure of 190/110 mm Hg shortly after using an intranasal recreational drug. The treating physician considers whether to administer a β-blocker for rate and blood pressure control.",
+  "question": "Why is caution advised when giving β-blockers to patients suspected of intoxication with this drug?",
+  "options": [
+    {
+      "id": "A",
+      "text": "β-blockade impairs hepatic metabolism of the drug, raising its serum concentration"
+    },
+    {
+      "id": "B",
+      "text": "β-blockade leaves α-mediated vasoconstriction unopposed, increasing blood pressure and coronary vasospasm"
+    },
+    {
+      "id": "C",
+      "text": "β-blockade prevents the drug's local anesthetic action and worsens pain"
+    },
+    {
+      "id": "D",
+      "text": "β-blockade induces catecholamine release from the adrenal medulla, causing arrhythmias"
+    },
+    {
+      "id": "E",
+      "text": "β-blockade antagonizes the drug's reuptake inhibition, causing prolonged mydriasis"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Cocaine is an indirect general agonist and reuptake inhibitor that causes vasoconstriction and provides local anesthesia. If β-blockers are given during cocaine intoxication, α1-mediated vasoconstriction is left unopposed, leading to increased blood pressure and coronary vasospasm (unopposed α activation → increased BP). This is why caution is advised, and use of β-blockers for acute cocaine-associated chest pain remains controversial.",
+  "explanation_incorrect": {
+    "A": "β-blockers do not slow cocaine's metabolism; the concern is pharmacodynamic (unopposed α vasoconstriction), not altered drug levels.",
+    "C": "The concern is unopposed α-mediated vasoconstriction and coronary vasospasm, not interference with the drug's local anesthetic properties.",
+    "D": "β-blockade does not cause catecholamine release from the adrenal medulla; the danger arises from blocking β2-mediated vasodilation while α1 vasoconstriction persists.",
+    "E": "The clinically feared consequence is hypertension and coronary vasospasm, not prolonged mydriasis; cocaine causes mydriasis in eyes with intact sympathetic innervation."
+  },
+  "educationalObjective": "In cocaine intoxication, β-blockers can leave α-mediated vasoconstriction unopposed, raising blood pressure and causing coronary vasospasm.",
+  "source": "Generated from 5. Pharmacology.pdf - Autonomic Drugs: Indirect sympathomimetics"
+},
+{
+  "id": "pharm-150",
+  "subject": "Pharmacology",
+  "major_topic": "Autonomic Drugs",
+  "subtopic": "Indirect sympathomimetics",
+  "difficulty": "medium",
+  "vignette": "A 48-year-old woman has anisocoria suspected to be due to Horner syndrome (loss of sympathetic innervation to one eye). To confirm the diagnosis, a topical indirect sympathomimetic is instilled into both eyes.",
+  "question": "Which of the following best explains the expected finding and the drug used?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Clonidine dilates the normal eye but constricts the denervated pupil"
+    },
+    {
+      "id": "B",
+      "text": "Albuterol dilates the normal eye and the affected eye equally"
+    },
+    {
+      "id": "C",
+      "text": "Fenoldopam dilates only the normal eye by increasing local blood flow"
+    },
+    {
+      "id": "D",
+      "text": "Prazosin constricts the normal pupil while leaving the affected pupil unchanged"
+    },
+    {
+      "id": "E",
+      "text": "Cocaine causes mydriasis only in eyes with intact sympathetic innervation"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Cocaine is an indirect general agonist and reuptake inhibitor: it raises norepinephrine levels at the neuromuscular junction of the dilator pupillae only where sympathetic neurons are intact and store/release norepinephrine. Thus cocaine causes mydriasis in eyes with intact sympathetic innervation, so the pupil fails to dilate in the eye affected by Horner syndrome — a classic diagnostic confirmation.",
+  "explanation_incorrect": {
+    "A": "Clonidine is a central α2-agonist sympatholytic; it is not used to test pupils and would not produce differential mydriasis.",
+    "B": "Albuterol is a β2 bronchodilator and is not used ophthalmologically; the test relies on norepinephrine release at the pupil's sympathetic nerve terminals.",
+    "C": "Fenoldopam is a D1 vasodilator used for hypertensive emergencies and has no role in pupillary testing.",
+    "D": "Prazosin is an α1-blocker used for BPH and PTSD; it would produce miosis-like effects rather than the diagnostic mydriasis test described."
+  },
+  "educationalObjective": "Cocaine confirms Horner syndrome: as an indirect sympathomimetic it dilates only pupils with intact sympathetic innervation.",
+  "source": "Generated from 5. Pharmacology.pdf - Autonomic Drugs: Indirect sympathomimetics"
+},
+{
+  "id": "pharm-151",
+  "subject": "Pharmacology",
+  "major_topic": "Autonomic Drugs",
+  "subtopic": "Indirect sympathomimetics",
+  "difficulty": "easy",
+  "vignette": "A 35-year-old woman with a viral upper respiratory infection asks a pharmacist for an oral agent to relieve her nasal congestion. The recommended drug acts by releasing stored catecholamines and is an indirect general agonist.",
+  "question": "Which of the following pairs correctly matches this drug with an additional approved use?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Ephedrine — urinary incontinence and hypotension"
+    },
+    {
+      "id": "B",
+      "text": "Amphetamine — urinary incontinence and hypotension"
+    },
+    {
+      "id": "C",
+      "text": "Cocaine — urinary incontinence and hypotension"
+    },
+    {
+      "id": "D",
+      "text": "Fenoldopam — nasal decongestion"
+    },
+    {
+      "id": "E",
+      "text": "Phentolamine — nasal decongestion"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Ephedrine (and its stereoisomer pseudoephedrine) is an indirect general agonist that releases stored catecholamines. It is used for nasal decongestion (pseudoephedrine), urinary incontinence, and hypotension. This matches the stem's mechanism and decongestant use.",
+  "explanation_incorrect": {
+    "B": "Amphetamine releases catecholamines too, but its indications are narcolepsy, obesity, and ADHD — not urinary incontinence or hypotension.",
+    "C": "Cocaine is an indirect reuptake inhibitor causing vasoconstriction and local anesthesia; it is not used for incontinence or hypotension.",
+    "D": "Fenoldopam is a direct D1 agonist vasodilator for postoperative hypertension and hypertensive crisis, not a decongestant.",
+    "E": "Phentolamine is a reversible α-blocker used for tyramine reactions in patients on MAO inhibitors, severe cocaine-induced hypertension (2nd line), and norepinephrine extravasation."
+  },
+  "educationalObjective": "Ephedrine/pseudoephedrine releases stored catecholamines and is used for nasal decongestion, urinary incontinence, and hypotension.",
+  "source": "Generated from 5. Pharmacology.pdf - Autonomic Drugs: Indirect sympathomimetics"
+}
+]

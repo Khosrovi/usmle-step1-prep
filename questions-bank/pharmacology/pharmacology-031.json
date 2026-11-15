@@ -1,0 +1,207 @@
+[
+{
+  "id": "pharm-037",
+  "subject": "Pharmacology",
+  "major_topic": "Pharmacokinetics and Pharmacodynamics",
+  "subtopic": "Clearance, half-life, and steady state",
+  "difficulty": "medium",
+  "vignette": "A 68-year-old man with heart failure has reduced renal perfusion and low cardiac output. His medical team must adjust his chronic medication doses and reviews the pharmacokinetic parameter that will change.",
+  "question": "Which statement best defines clearance?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The fraction of administered drug reaching the systemic circulation"
+    },
+    {
+      "id": "B",
+      "text": "The amount of drug in the body divided by the plasma drug concentration"
+    },
+    {
+      "id": "C",
+      "text": "The time required to eliminate one half of the drug from the body"
+    },
+    {
+      "id": "D",
+      "text": "The target plasma concentration of a drug"
+    },
+    {
+      "id": "E",
+      "text": "The volume of plasma cleared of drug per unit time"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Clearance (CL) is the volume of plasma cleared of drug per unit time. It is calculated as the rate of elimination of drug divided by the plasma drug concentration, and it also equals Vd multiplied by the elimination constant (Ke). Clearance may be impaired by defects in cardiac, hepatic, or renal function, so reduced cardiac output or renal perfusion lowers it.",
+  "explanation_incorrect": {
+    "A": "The fraction of administered drug reaching the systemic circulation defines bioavailability (F), not clearance.",
+    "B": "The amount of drug in the body divided by the plasma concentration defines the volume of distribution (Vd).",
+    "C": "The time required to eliminate half of the drug defines the half-life (t1/2).",
+    "D": "The target plasma concentration (Cp) is a dosing target used in loading and maintenance dose equations, not clearance."
+  },
+  "educationalObjective": "Clearance is the volume of plasma cleared of drug per unit time (rate of elimination ÷ plasma concentration, or Vd × Ke) and is impaired in cardiac, hepatic, or renal dysfunction.",
+  "source": "Generated from 5. Pharmacology.pdf - Pharmacokinetics and Pharmacodynamics: Clearance, half-life, and steady state"
+},
+{
+  "id": "pharm-038",
+  "subject": "Pharmacology",
+  "major_topic": "Pharmacokinetics and Pharmacodynamics",
+  "subtopic": "Clearance, half-life, and steady state",
+  "difficulty": "easy",
+  "vignette": "A hospitalized patient begins a constant intravenous infusion of a drug that follows first-order kinetics and has a half-life of 12 hours. The team wants to know when the plasma concentration will plateau.",
+  "question": "Approximately when will steady state be reached, and what determines it?",
+  "options": [
+    {
+      "id": "A",
+      "text": "About 2 days; time to steady state depends primarily on half-life and is independent of dose and dosing frequency"
+    },
+    {
+      "id": "B",
+      "text": "About 6 hours; time to steady state is determined by the size of each dose"
+    },
+    {
+      "id": "C",
+      "text": "About 6 hours; time to steady state is determined by the infusion rate"
+    },
+    {
+      "id": "D",
+      "text": "About 12 hours; time to steady state equals one half-life for any drug"
+    },
+    {
+      "id": "E",
+      "text": "About 5 days; time to steady state is determined by the loading dose"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "In first-order kinetics, a drug infused at a constant rate takes 4-5 half-lives to reach steady state, the dynamic equilibrium at which the rate of drug elimination equals the rate of drug administration. With a 12-hour half-life, 4-5 half-lives is 48-60 hours, roughly 2 days. Time to steady state depends primarily on t1/2 and is independent of dose and dosing frequency.",
+  "explanation_incorrect": {
+    "B": "Six hours is only half a half-life, far short of the 4-5 half-lives required, and dose size does not determine time to steady state.",
+    "C": "The infusion rate changes the eventual steady-state concentration, not the time needed to approach it.",
+    "D": "One half-life achieves only 50% of the way toward steady state; 4-5 half-lives are needed.",
+    "E": "A loading dose raises the concentration quickly but does not extend the time to steady state; 5 days exceeds the expected 48-60 hours."
+  },
+  "educationalObjective": "Steady state is reached in 4-5 half-lives during constant infusion, and time to steady state depends on half-life, not on dose or dosing frequency.",
+  "source": "Generated from 5. Pharmacology.pdf - Pharmacokinetics and Pharmacodynamics: Clearance, half-life, and steady state"
+},
+{
+  "id": "pharm-039",
+  "subject": "Pharmacology",
+  "major_topic": "Pharmacokinetics and Pharmacodynamics",
+  "subtopic": "Clearance, half-life, and steady state",
+  "difficulty": "medium",
+  "vignette": "A single intravenous bolus of a drug with a half-life of 4 hours is administered to a patient whose elimination follows first-order kinetics.",
+  "question": "What percentage of the original dose remains in the body 12 hours after administration?",
+  "options": [
+    {
+      "id": "A",
+      "text": "50%"
+    },
+    {
+      "id": "B",
+      "text": "25%"
+    },
+    {
+      "id": "C",
+      "text": "12.5%"
+    },
+    {
+      "id": "D",
+      "text": "6.25%"
+    },
+    {
+      "id": "E",
+      "text": "87.5%"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Twelve hours equals three half-lives of a 4-hour drug. Each half-life removes half of the drug remaining: after one half-life, 50% remains; after two, 25%; after three, 12.5%. This constant halving is the defining feature of first-order elimination.",
+  "explanation_incorrect": {
+    "A": "50% remains after only one half-life (4 hours), not after three.",
+    "B": "25% remains after two half-lives (8 hours), not after the 12 hours stated.",
+    "D": "6.25% remains after four half-lives (16 hours), one half-life beyond the time asked.",
+    "E": "87.5% is the amount eliminated after three half-lives, not the amount remaining."
+  },
+  "educationalObjective": "In first-order elimination, each half-life removes half of the remaining drug: 50% remains after 1, 25% after 2, 12.5% after 3, and 6.25% after 4 half-lives.",
+  "source": "Generated from 5. Pharmacology.pdf - Pharmacokinetics and Pharmacodynamics: Clearance, half-life, and steady state"
+},
+{
+  "id": "pharm-040",
+  "subject": "Pharmacology",
+  "major_topic": "Pharmacokinetics and Pharmacodynamics",
+  "subtopic": "Clearance, half-life, and steady state",
+  "difficulty": "medium",
+  "vignette": "A patient begins a fixed-dose oral regimen of a drug that follows first-order kinetics, taken at regular intervals. The physician explains how the plasma concentration will accumulate toward its plateau.",
+  "question": "How many half-lives are required to reach 90% of the steady-state concentration?",
+  "options": [
+    {
+      "id": "A",
+      "text": "1.5 half-lives"
+    },
+    {
+      "id": "B",
+      "text": "3.3 half-lives"
+    },
+    {
+      "id": "C",
+      "text": "4 to 5 half-lives"
+    },
+    {
+      "id": "D",
+      "text": "7 half-lives"
+    },
+    {
+      "id": "E",
+      "text": "10 half-lives"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "For a drug following first-order kinetics, it takes 3.3 half-lives to reach 90% of the steady-state level, and approximately 4-5 half-lives to reach steady state in practice. This accumulation occurs because each successive dose adds to drug not yet eliminated, until the rate of elimination equals the rate of administration.",
+  "explanation_incorrect": {
+    "A": "1.5 half-lives leaves the concentration far below 90% of steady state; roughly 65% of the plateau has been reached at that point.",
+    "C": "4-5 half-lives corresponds to reaching (essentially 100% of) steady state, the more complete plateau beyond the 90% mark.",
+    "D": "7 half-lives would leave the concentration well above 90% of steady state, approaching complete equilibration.",
+    "E": "10 half-lives represents essentially complete steady state and far exceeds the 3.3 half-lives needed for 90%."
+  },
+  "educationalObjective": "In first-order kinetics, 3.3 half-lives are required to reach 90% of the steady-state concentration, and about 4-5 half-lives to reach steady state.",
+  "source": "Generated from 5. Pharmacology.pdf - Pharmacokinetics and Pharmacodynamics: Clearance, half-life, and steady state"
+},
+{
+  "id": "pharm-041",
+  "subject": "Pharmacology",
+  "major_topic": "Pharmacokinetics and Pharmacodynamics",
+  "subtopic": "Clearance, half-life, and steady state",
+  "difficulty": "hard",
+  "vignette": "Population pharmacokinetic data for a drug show a volume of distribution of 50 L and a clearance of 10 L/h. The drug is eliminated by first-order kinetics.",
+  "question": "What is the half-life of this drug?",
+  "options": [
+    {
+      "id": "A",
+      "text": "0.35 hours"
+    },
+    {
+      "id": "B",
+      "text": "1.4 hours"
+    },
+    {
+      "id": "C",
+      "text": "7 hours"
+    },
+    {
+      "id": "D",
+      "text": "3.5 hours"
+    },
+    {
+      "id": "E",
+      "text": "35 hours"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "In first-order elimination, the half-life is calculated as t1/2 = 0.7 × Vd/CL. Substituting: 0.7 × (50 L / 10 L/h) = 0.7 × 5 h = 3.5 hours. This relationship shows that a larger volume of distribution prolongs the half-life, while higher clearance shortens it.",
+  "explanation_incorrect": {
+    "A": "0.35 hours would result from using a Vd of 5 L instead of 50 L in the equation.",
+    "B": "1.4 hours would result from using 0.7 × Vd/(2 × CL), an incorrect manipulation of the formula.",
+    "C": "7 hours results from using Vd/CL without the 0.7 factor, doubling the correct value.",
+    "E": "35 hours would result from multiplying Vd × CL rather than dividing, a misapplication of the formula."
+  },
+  "educationalObjective": "In first-order elimination, half-life is calculated as t1/2 = 0.7 × Vd/CL.",
+  "source": "Generated from 5. Pharmacology.pdf - Pharmacokinetics and Pharmacodynamics: Clearance, half-life, and steady state"
+}
+]

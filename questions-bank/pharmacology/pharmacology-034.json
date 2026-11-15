@@ -1,0 +1,166 @@
+[
+{
+  "id": "pharm-042",
+  "subject": "Pharmacology",
+  "major_topic": "Pharmacokinetics and Pharmacodynamics",
+  "subtopic": "Dosage calculations: loading vs maintenance dose",
+  "difficulty": "medium",
+  "vignette": "A 45-year-old woman requires a target plasma drug concentration (Cp) of 2 mg/L. The drug has a volume of distribution of 100 L, and its oral bioavailability is 0.5. The physician decides to administer an oral loading dose.",
+  "question": "What oral loading dose achieves the target plasma concentration?",
+  "options": [
+    {
+      "id": "A",
+      "text": "200 mg"
+    },
+    {
+      "id": "B",
+      "text": "400 mg"
+    },
+    {
+      "id": "C",
+      "text": "100 mg"
+    },
+    {
+      "id": "D",
+      "text": "800 mg"
+    },
+    {
+      "id": "E",
+      "text": "50 mg"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Loading dose = Cp × Vd / F. Substituting: (2 mg/L × 100 L) / 0.5 = 400 mg. The loading dose accounts for both the volume into which the drug distributes and the fraction of the administered dose that actually reaches the systemic circulation.",
+  "explanation_incorrect": {
+    "A": "200 mg results from omitting the bioavailability term (2 × 100 = 200) and ignores that only half the oral dose reaches the circulation.",
+    "C": "100 mg would leave the plasma concentration well below the 2 mg/L target for this volume of distribution.",
+    "D": "800 mg results from multiplying by bioavailability instead of dividing (2 × 100 × 0.5 × 2 × 2), doubling the correct dose twice.",
+    "E": "50 mg results from an inverted formula (Vd/F × Cp mishandled), giving a tenth of the required dose."
+  },
+  "educationalObjective": "Loading dose = (Cp × Vd) / F, where F is bioavailability.",
+  "source": "Generated from 5. Pharmacology.pdf - Pharmacokinetics and Pharmacodynamics: Dosage calculations: loading vs maintenance dose"
+},
+{
+  "id": "pharm-043",
+  "subject": "Pharmacology",
+  "major_topic": "Pharmacokinetics and Pharmacodynamics",
+  "subtopic": "Dosage calculations: loading vs maintenance dose",
+  "difficulty": "easy",
+  "vignette": "A patient with significant renal failure requires chronic therapy with a drug that is normally dosed by standard maintenance regimens. The clinical pharmacist is asked how the dosing should be adjusted.",
+  "question": "Which dose adjustment is appropriate in renal or liver disease?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Both loading and maintenance doses are usually reduced"
+    },
+    {
+      "id": "B",
+      "text": "The loading dose is reduced and the maintenance dose is unchanged"
+    },
+    {
+      "id": "C",
+      "text": "Neither dose requires adjustment"
+    },
+    {
+      "id": "D",
+      "text": "The maintenance dose is reduced and the loading dose is usually unchanged"
+    },
+    {
+      "id": "E",
+      "text": "The loading dose is increased and the maintenance dose is unchanged"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "In renal or liver disease, clearance falls, so the maintenance dose (which depends on clearance) is reduced. The loading dose depends on the volume of distribution and target concentration rather than clearance, so it is usually unchanged in these conditions.",
+  "explanation_incorrect": {
+    "A": "Reducing both doses is overly conservative; the loading dose, which is independent of clearance, does not usually need adjustment.",
+    "B": "This reverses the correct adjustment: the maintenance, not the loading, dose is reduced.",
+    "C": "Leaving both doses unchanged risks drug accumulation and toxicity because clearance is impaired.",
+    "E": "Increasing the loading dose is not indicated; its determinants (Cp and Vd) are not systematically altered by reduced clearance."
+  },
+  "educationalObjective": "In renal or liver disease, the maintenance dose is reduced while the loading dose is usually unchanged.",
+  "source": "Generated from 5. Pharmacology.pdf - Pharmacokinetics and Pharmacodynamics: Dosage calculations: loading vs maintenance dose"
+},
+{
+  "id": "pharm-044",
+  "subject": "Pharmacology",
+  "major_topic": "Pharmacokinetics and Pharmacodynamics",
+  "subtopic": "Dosage calculations: loading vs maintenance dose",
+  "difficulty": "hard",
+  "vignette": "A patient requires a target plasma concentration (Cp) of 10 mg/L of a drug given orally every 12 hours (τ). The drug has a clearance of 5 L/h and a bioavailability of 1.0.",
+  "question": "What maintenance dose achieves the target plasma concentration at steady state?",
+  "options": [
+    {
+      "id": "A",
+      "text": "50 mg"
+    },
+    {
+      "id": "B",
+      "text": "100 mg"
+    },
+    {
+      "id": "C",
+      "text": "300 mg"
+    },
+    {
+      "id": "D",
+      "text": "1200 mg"
+    },
+    {
+      "id": "E",
+      "text": "600 mg"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Maintenance dose = Cp × CL × τ / F. Substituting: (10 mg/L × 5 L/h × 12 h) / 1.0 = 600 mg per dose. This amount replaces the drug eliminated between doses (τ, the dosage interval) so that the plasma concentration stays constant at steady state.",
+  "explanation_incorrect": {
+    "A": "50 mg results from omitting the dosage interval τ and dividing incorrectly, ignoring drug eliminated over the 12 hours between doses.",
+    "B": "100 mg results from using Cp × CL alone (10 × 5) without accounting for the 12-hour dosing interval.",
+    "C": "300 mg results from using a 6-hour interval instead of the prescribed 12-hour interval.",
+    "D": "1200 mg results from doubling the product of Cp, CL, and τ, an arithmetic error that would overshoot the target twofold."
+  },
+  "educationalObjective": "Maintenance dose = (Cp × CL × τ) / F, where τ is the time between doses.",
+  "source": "Generated from 5. Pharmacology.pdf - Pharmacokinetics and Pharmacodynamics: Dosage calculations: loading vs maintenance dose"
+},
+{
+  "id": "pharm-045",
+  "subject": "Pharmacology",
+  "major_topic": "Pharmacokinetics and Pharmacodynamics",
+  "subtopic": "Dosage calculations: loading vs maintenance dose",
+  "difficulty": "medium",
+  "vignette": "A patient with a life-threatening arrhythmia is started on an antiarrhythmic drug that follows first-order kinetics. The physician orders an initial intravenous dose several times larger than the subsequent maintenance doses.",
+  "question": "What is the rationale for this initial large dose?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A loading dose based on volume of distribution rapidly achieves the target plasma concentration, since reaching steady state with maintenance dosing alone takes 4-5 half-lives"
+    },
+    {
+      "id": "B",
+      "text": "The loading dose compensates for the reduced bioavailability of the intravenous formulation"
+    },
+    {
+      "id": "C",
+      "text": "The loading dose increases the drug's clearance"
+    },
+    {
+      "id": "D",
+      "text": "The loading dose shortens the drug's half-life"
+    },
+    {
+      "id": "E",
+      "text": "The loading dose prevents the drug from switching to zero-order elimination"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "The loading dose is calculated as Cp × Vd / F and is designed to fill the volume of distribution, achieving the target plasma concentration immediately. This is critical in emergencies because, with maintenance dosing alone, a drug following first-order kinetics needs 4-5 half-lives to reach steady state, which may be too slow for a life-threatening condition.",
+  "explanation_incorrect": {
+    "B": "Intravenous dosing has 100% bioavailability, so there is no bioavailability deficit to compensate for.",
+    "C": "Clearance is a property of the patient's cardiac, hepatic, and renal function and is not increased by giving a larger initial dose.",
+    "D": "Half-life is determined by Vd and clearance (t1/2 = 0.7 × Vd/CL) and does not change because of the dose given.",
+    "E": "The order of elimination kinetics is a property of the drug's capacity-limited metabolism, not of the size of an initial dose."
+  },
+  "educationalObjective": "A loading dose (Cp × Vd / F) rapidly achieves the target plasma concentration because steady state alone would otherwise require 4-5 half-lives.",
+  "source": "Generated from 5. Pharmacology.pdf - Pharmacokinetics and Pharmacodynamics: Dosage calculations: loading vs maintenance dose"
+}
+]

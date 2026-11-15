@@ -1,0 +1,166 @@
+[
+{
+  "id": "pharm-072",
+  "subject": "Pharmacology",
+  "major_topic": "Pharmacokinetics and Pharmacodynamics",
+  "subtopic": "Therapeutic index and therapeutic window",
+  "difficulty": "medium",
+  "vignette": "During preclinical testing, a new anticoagulant shows a median toxic dose (TD50) of 100 mg/kg and a median effective dose (ED50) of 10 mg/kg in animal studies. The development team must calculate a standard measure of the drug's safety before deciding whether routine serum monitoring will be required in patients.",
+  "question": "What is this drug's therapeutic index, and what does it imply about its safety?",
+  "options": [
+    {
+      "id": "A",
+      "text": "0.1 — a very high value, indicating an exceptionally safe drug"
+    },
+    {
+      "id": "B",
+      "text": "1 — a high value, indicating an acceptably safe drug"
+    },
+    {
+      "id": "C",
+      "text": "90 — the difference between the toxic and effective doses, indicating wide safety margins"
+    },
+    {
+      "id": "D",
+      "text": "5 — half the ratio of TD50 to ED50, indicating moderate safety"
+    },
+    {
+      "id": "E",
+      "text": "10 — the ratio of TD50 to ED50; higher values indicate greater safety"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Therapeutic Index = TD50 / ED50 (mnemonic: TITE — Therapeutic Index = TD50/ED50). Here 100 ÷ 10 = 10. Safer drugs have higher TI values, because the toxic dose lies farther above the effective dose. Drugs with low TI values require monitoring (eg, warfarin, theophylline, digoxin, antiepileptic drugs, lithium).",
+  "explanation_incorrect": {
+    "A": "0.1 is ED50/TD50 — the ratio inverted — and even then the interpretation is backwards, since lower TI values mean less safety.",
+    "B": "1 would mean the median toxic dose equals the median effective dose — a dangerously narrow margin, not a safe drug.",
+    "C": "The safety margin is not calculated by subtracting ED50 from TD50; the therapeutic index is the ratio TD50/ED50.",
+    "D": "Halving the TD50/ED50 ratio has no pharmacologic meaning; the index is the full ratio, which here equals 10."
+  },
+  "educationalObjective": "Therapeutic Index = TD50/ED50; higher values indicate safer drugs, and low-TI drugs require serum level monitoring.",
+  "source": "Generated from 5. Pharmacology.pdf - Pharmacokinetics and Pharmacodynamics: Therapeutic index and therapeutic window"
+},
+{
+  "id": "pharm-073",
+  "subject": "Pharmacology",
+  "major_topic": "Pharmacokinetics and Pharmacodynamics",
+  "subtopic": "Therapeutic index and therapeutic window",
+  "difficulty": "medium",
+  "vignette": "A 51-year-old woman with bipolar disorder is started on a psychotropic medication. Her psychiatrist orders baseline renal function tests, thyroid studies, and a serum drug level, and schedules periodic level checks — explaining that small increases above the target concentration can cause serious toxicity, while levels that drift too low leave the patient unprotected against relapse.",
+  "question": "Which pharmacologic property of this medication most likely necessitates the routine serum level monitoring described?",
+  "options": [
+    {
+      "id": "A",
+      "text": "First-order elimination, which is shared by the majority of drugs"
+    },
+    {
+      "id": "B",
+      "text": "A high therapeutic index, giving a wide margin between effective and toxic doses"
+    },
+    {
+      "id": "C",
+      "text": "A low therapeutic index, giving a narrow range between effective and toxic concentrations"
+    },
+    {
+      "id": "D",
+      "text": "Purely zero-order elimination, which makes toxicity impossible to predict"
+    },
+    {
+      "id": "E",
+      "text": "Complete plasma protein binding, which prevents the drug from reaching its receptor"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Lithium is one of the classic low-therapeutic-index drugs, along with warfarin, theophylline, digoxin, and antiepileptic drugs. Low-TI drugs have toxic doses lying close to effective doses, so their concentrations must be monitored to stay within the therapeutic window — the range of drug concentrations that can safely and effectively treat disease.",
+  "explanation_incorrect": {
+    "A": "First-order elimination applies to most drugs and does not by itself mandate monitoring; it is the narrow margin between effective and toxic levels that does.",
+    "B": "A high therapeutic index would mean a wide safety margin, making routine level monitoring unnecessary rather than essential.",
+    "D": "Lithium is not a purely zero-order drug; and zero-order kinetics alone does not make toxicity unpredictable — the narrow therapeutic index is the key property.",
+    "E": "Extensive protein binding reduces the free fraction but does not explain the need for level monitoring; the narrow therapeutic index does."
+  },
+  "educationalObjective": "Low therapeutic index drugs — warfarin, theophylline, digoxin, antiepileptics, lithium — require routine serum level monitoring.",
+  "source": "Generated from 5. Pharmacology.pdf - Pharmacokinetics and Pharmacodynamics: Therapeutic index and therapeutic window"
+},
+{
+  "id": "pharm-074",
+  "subject": "Pharmacology",
+  "major_topic": "Pharmacokinetics and Pharmacodynamics",
+  "subtopic": "Therapeutic index and therapeutic window",
+  "difficulty": "easy",
+  "vignette": "A 19-year-old man with epilepsy takes a commonly monitored antiseizure medication. When his serum trough level falls below his target range, he has a breakthrough seizure; when a dose adjustment pushes the level above the range, he develops marked ataxia and nystagmus. His neurologist describes the target concentrations that fall between these two extremes.",
+  "question": "What is the pharmacologic term for the range of drug concentrations that can safely and effectively treat disease?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Therapeutic window"
+    },
+    {
+      "id": "B",
+      "text": "Volume of distribution"
+    },
+    {
+      "id": "C",
+      "text": "Effective half-life"
+    },
+    {
+      "id": "D",
+      "text": "Loading dose"
+    },
+    {
+      "id": "E",
+      "text": "First-pass metabolism"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "The therapeutic window is the range of drug concentrations that can safely and effectively treat disease: below it the drug is ineffective (breakthrough seizures), above it toxicity emerges (ataxia, nystagmus with antiepileptics). Narrow-window drugs such as antiepileptics, digoxin, warfarin, theophylline, and lithium require serum monitoring to stay within this range.",
+  "explanation_incorrect": {
+    "B": "Volume of distribution describes how a drug distributes between plasma and tissues; it does not define a safe and effective concentration range.",
+    "C": "Effective half-life describes the time course of drug elimination, not a range of safe concentrations.",
+    "D": "A loading dose is an initial dose given to rapidly achieve a target plasma concentration; it is not a range of concentrations.",
+    "E": "First-pass metabolism describes hepatic inactivation of orally absorbed drug before it reaches the systemic circulation."
+  },
+  "educationalObjective": "The therapeutic window is the concentration range that is both effective and safe; drug levels above it cause toxicity and below it cause therapeutic failure.",
+  "source": "Generated from 5. Pharmacology.pdf - Pharmacokinetics and Pharmacodynamics: Therapeutic index and therapeutic window"
+},
+{
+  "id": "pharm-075",
+  "subject": "Pharmacology",
+  "major_topic": "Pharmacokinetics and Pharmacodynamics",
+  "subtopic": "Therapeutic index and therapeutic window",
+  "difficulty": "hard",
+  "vignette": "In an animal toxicity study, a new anticonvulsant has a median lethal dose (LD50) of 500 mg/kg and a median effective dose (ED50) of 25 mg/kg. A regulatory reviewer assesses the drug's calculated safety measure to predict whether therapeutic serum monitoring will be needed in humans.",
+  "question": "Which statement about this drug's therapeutic index is correct?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The therapeutic index is 0.05 (ED50/LD50), and values below 1 indicate a very safe drug"
+    },
+    {
+      "id": "B",
+      "text": "The therapeutic index is 475 (LD50 minus ED50), and larger differences indicate safer drugs"
+    },
+    {
+      "id": "C",
+      "text": "The therapeutic index is 20, but lower values indicate greater safety"
+    },
+    {
+      "id": "D",
+      "text": "The therapeutic index is 20 (LD50/ED50), and higher values indicate greater drug safety"
+    },
+    {
+      "id": "E",
+      "text": "The therapeutic index cannot be calculated without first defining the therapeutic window in humans"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Therapeutic Index = TD50/ED50; in animal studies the lethal median dose (LD50) often replaces the TD50. Here LD50/ED50 = 500/25 = 20. Safer drugs have higher TI values, because the toxic (or lethal) dose lies many-fold above the effective dose. Drugs with low TI values — warfarin, theophylline, digoxin, antiepileptic drugs, lithium — require monitoring.",
+  "explanation_incorrect": {
+    "A": "0.05 is the ratio inverted (ED50/LD50), and the interpretation is backwards — lower TI values indicate less safety.",
+    "B": "The index is a ratio, not a difference; subtracting ED50 from LD50 (475 mg/kg) is not the therapeutic index.",
+    "C": "The value 20 is correct, but the interpretation is reversed: higher TI values, not lower ones, indicate greater safety.",
+    "E": "The therapeutic index is calculated from the median toxic (or lethal) and effective doses in the tested population; a human therapeutic window is not required to compute it."
+  },
+  "educationalObjective": "In animal studies, TI is calculated as LD50/ED50 (replacing TD50/ED50); higher values mean safer drugs.",
+  "source": "Generated from 5. Pharmacology.pdf - Pharmacokinetics and Pharmacodynamics: Therapeutic index and therapeutic window"
+}
+]

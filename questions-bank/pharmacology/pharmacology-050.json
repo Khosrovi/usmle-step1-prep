@@ -1,0 +1,248 @@
+[
+{
+  "id": "pharm-085",
+  "subject": "Pharmacology",
+  "major_topic": "Autonomic Drugs",
+  "subtopic": "G-protein-linked second messengers",
+  "difficulty": "easy",
+  "vignette": "A 45-year-old woman with nasal congestion uses an intranasal decongestant that stimulates alpha-1 adrenergic receptors on nasal vascular smooth muscle, producing vasoconstriction and shrinkage of swollen mucosa.",
+  "question": "Which G-protein class and second-messenger cascade mediate the effect of alpha-1 receptor activation in vascular smooth muscle?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Gs protein activating adenylyl cyclase to increase cAMP"
+    },
+    {
+      "id": "B",
+      "text": "Gi protein inhibiting adenylyl cyclase to decrease cAMP"
+    },
+    {
+      "id": "C",
+      "text": "Gq protein activating phospholipase C, generating IP3 and DAG with increased intracellular Ca2+"
+    },
+    {
+      "id": "D",
+      "text": "Gi protein activating guanylyl cyclase to increase cGMP"
+    },
+    {
+      "id": "E",
+      "text": "A ligand-gated ion channel allowing direct Na+ influx and K+ efflux"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Alpha-1 receptors are Gq-coupled. Gq activates phospholipase C, which cleaves membrane PIP2 into IP3 and DAG; IP3 releases intracellular Ca2+, and Ca2+-calmodulin activates myosin light-chain kinase, producing smooth muscle contraction such as vasoconstriction. The other classic Gq members are V1, H1, M1, and M3.",
+  "explanation_incorrect": {
+    "A": "Gs-coupled receptors (beta-1, beta-2, beta-3, D1, H2, V2) increase cAMP; alpha-1 belongs to the Gq family.",
+    "B": "Gi-coupled receptors (alpha-2, M2, D2) inhibit adenylyl cyclase and decrease cAMP; this is not the alpha-1 pathway.",
+    "D": "Alpha-1 signaling does not involve cGMP; cGMP elevation is the mechanism of nitrate- and PDE5-mediated vasodilation, opposite to alpha-1 vasoconstriction.",
+    "E": "Alpha-1 receptors are G-protein-coupled receptors, not ligand-gated ion channels; direct ion flux is the nicotinic receptor mechanism."
+  },
+  "educationalObjective": "Recall that alpha-1 receptors signal through Gq, phospholipase C, IP3/DAG, and increased intracellular Ca2+.",
+  "source": "Generated from 5. Pharmacology.pdf - Autonomic Drugs: G-protein-linked second messengers"
+},
+{
+  "id": "pharm-086",
+  "subject": "Pharmacology",
+  "major_topic": "Autonomic Drugs",
+  "subtopic": "G-protein-linked second messengers",
+  "difficulty": "easy",
+  "vignette": "A 19-year-old woman with asthma uses an inhaled beta-2 adrenergic agonist that promptly relieves her acute bronchospasm before a soccer match.",
+  "question": "Activation of which receptor-G-protein pair increases cAMP to produce bronchodilation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Beta-2 receptor coupled to Gs"
+    },
+    {
+      "id": "B",
+      "text": "Alpha-2 receptor coupled to Gi"
+    },
+    {
+      "id": "C",
+      "text": "M3 receptor coupled to Gq"
+    },
+    {
+      "id": "D",
+      "text": "Beta-1 receptor coupled to Gi"
+    },
+    {
+      "id": "E",
+      "text": "Alpha-1 receptor coupled to Gs"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Beta-2 receptors are Gs-coupled; activation stimulates adenylyl cyclase, raising cAMP and activating protein kinase A, which produces bronchodilation (the 'two lungs' of the classic mnemonic), vasodilation, and relaxation of uterine smooth muscle.",
+  "explanation_incorrect": {
+    "B": "Alpha-2 receptors couple to Gi, which inhibits adenylyl cyclase and decreases cAMP; they also decrease sympathetic outflow rather than bronchodilate.",
+    "C": "M3 receptors couple to Gq and produce bronchoconstriction (the opposite of the desired effect), along with gland secretion and detrusor contraction.",
+    "D": "Beta-1 receptors couple to Gs, not Gi, and their effects are on the heart (heart rate, contractility) and kidney (renin release), not bronchodilation.",
+    "E": "Alpha-1 receptors couple to Gq, not Gs, and produce smooth muscle contraction such as vasoconstriction."
+  },
+  "educationalObjective": "Know that beta-2 receptors couple to Gs and raise cAMP to cause bronchodilation.",
+  "source": "Generated from 5. Pharmacology.pdf - Autonomic Drugs: G-protein-linked second messengers"
+},
+{
+  "id": "pharm-087",
+  "subject": "Pharmacology",
+  "major_topic": "Autonomic Drugs",
+  "subtopic": "G-protein-linked second messengers",
+  "difficulty": "medium",
+  "vignette": "A 66-year-old woman with glaucoma develops symptomatic bradycardia after starting an ophthalmic cholinergic agonist. Her cardiologist reviews which muscarinic receptor subtype on cardiac tissue suppresses sinoatrial and atrioventricular nodal function.",
+  "question": "Which muscarinic receptor subtype, coupled to which G-protein, decreases heart rate and AV node conduction velocity?",
+  "options": [
+    {
+      "id": "A",
+      "text": "M1 receptors coupled to Gq"
+    },
+    {
+      "id": "B",
+      "text": "M3 receptors coupled to Gq"
+    },
+    {
+      "id": "C",
+      "text": "M2 receptors coupled to Gs"
+    },
+    {
+      "id": "D",
+      "text": "M1 receptors coupled to Gi"
+    },
+    {
+      "id": "E",
+      "text": "M2 receptors coupled to Gi"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "M2 receptors are the cardiac muscarinic subtype. They couple to Gi, which inhibits adenylyl cyclase and lowers cAMP, decreasing heart rate, AV node conduction velocity, and atrial contractility. The 'M2 = heart, Gi' pairing is a high-yield autonomic association.",
+  "explanation_incorrect": {
+    "A": "M1 receptors couple to Gq and mediate higher cognitive functions, enteric nervous system stimulation, and exocrine gland secretion, not cardiac slowing.",
+    "B": "M3 receptors couple to Gq and mediate gland secretion, bladder contraction, and bronchoconstriction, not the cardiac conduction effect described.",
+    "C": "M2 is the correct subtype, but it couples to Gi, which inhibits adenylyl cyclase rather than stimulating it.",
+    "D": "M1 couples to Gq, not Gi, and does not mediate the cardiac effects listed."
+  },
+  "educationalObjective": "Pair M2 receptors with Gi signaling to explain muscarinic slowing of heart rate and AV conduction.",
+  "source": "Generated from 5. Pharmacology.pdf - Autonomic Drugs: G-protein-linked second messengers"
+},
+{
+  "id": "pharm-088",
+  "subject": "Pharmacology",
+  "major_topic": "Autonomic Drugs",
+  "subtopic": "G-protein-linked second messengers",
+  "difficulty": "medium",
+  "vignette": "A 9-year-old boy with central diabetes insipidus presents with polyuria and polydipsia and is treated with a vasopressin analog that selectively acts on V2 receptors in the kidney. His urine output falls and urine osmolality rises.",
+  "question": "Activation of V2 receptors increases renal water reabsorption through which signaling pathway?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Gq-mediated increase in intracellular Ca2+ causing contraction of collecting duct cells"
+    },
+    {
+      "id": "B",
+      "text": "Gs-mediated increase in cAMP leading to upregulation and insertion of aquaporin-2 channels in the collecting tubules"
+    },
+    {
+      "id": "C",
+      "text": "Gi-mediated decrease in cAMP leading to reduced aquaporin-2 expression"
+    },
+    {
+      "id": "D",
+      "text": "Gq-mediated IP3 signaling that promotes release of von Willebrand factor from endothelium"
+    },
+    {
+      "id": "E",
+      "text": "Direct ligand-gated Ca2+ channel opening in the luminal membrane of collecting ducts"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "V2 receptors are Gs-coupled. Activation raises cAMP, which upregulates aquaporin-2 channels in the collecting tubules of the kidney, increasing water permeability and reabsorption. This is the pathway exploited by desmopressin in central diabetes insipidus. V2 receptors also promote release of von Willebrand factor, but that is not the antidiuretic mechanism.",
+  "explanation_incorrect": {
+    "A": "V2 is a Gs-coupled receptor, and collecting duct cells do not contract to reabsorb water; water movement is via aquaporin-2 channels.",
+    "C": "Decreasing cAMP through Gi would reduce, not increase, aquaporin-2 insertion; V2 couples to Gs.",
+    "D": "V2 receptors do promote von Willebrand factor release, but this is a Gs-cAMP effect, not Gq-IP3 signaling, and it does not mediate water reabsorption.",
+    "E": "V2 receptors are G-protein-coupled receptors, not ligand-gated ion channels."
+  },
+  "educationalObjective": "Recall that V2 receptors couple to Gs and increase water reabsorption via aquaporin-2 upregulation in the collecting tubules.",
+  "source": "Generated from 5. Pharmacology.pdf - Autonomic Drugs: G-protein-linked second messengers"
+},
+{
+  "id": "pharm-089",
+  "subject": "Pharmacology",
+  "major_topic": "Autonomic Drugs",
+  "subtopic": "G-protein-linked second messengers",
+  "difficulty": "medium",
+  "vignette": "A 70-year-old man with acute kidney injury complicating cardiogenic shock is given low-dose dopamine in the intensive care unit to maintain renal perfusion, and his urine output improves.",
+  "question": "Which receptor and G-protein class mediate the desired vasodilation of renal vascular smooth muscle with low-dose dopamine?",
+  "options": [
+    {
+      "id": "A",
+      "text": "D2 receptors coupled to Gs"
+    },
+    {
+      "id": "B",
+      "text": "Alpha-2 receptors coupled to Gi"
+    },
+    {
+      "id": "C",
+      "text": "D1 receptors coupled to Gq"
+    },
+    {
+      "id": "D",
+      "text": "D1 receptors coupled to Gs"
+    },
+    {
+      "id": "E",
+      "text": "Beta-1 receptors coupled to Gs"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "D1 receptors are Gs-coupled; activation relaxes renal vascular smooth muscle, increasing renal blood flow. Low-dose dopamine exploits this pathway, which is why it is used to support renal perfusion. D1 receptors also activate the direct pathway of the striatum in the brain.",
+  "explanation_incorrect": {
+    "A": "D2 receptors couple to Gi (inhibiting adenylyl cyclase) and modulate transmitter release, especially in the brain; they do not relax renal vasculature.",
+    "B": "Alpha-2 receptors are Gi-coupled inhibitory autoreceptors; they decrease sympathetic outflow and do not mediate renal vasodilation by dopamine.",
+    "C": "D1 is the correct receptor, but it couples to Gs, not Gq; Gq signaling would cause contraction, the opposite of vasodilation.",
+    "E": "Beta-1 receptors are Gs-coupled but located in the heart and kidney (renin release); they increase heart rate and contractility rather than producing renal vasodilation."
+  },
+  "educationalObjective": "Associate D1 receptors with Gs coupling and low-dose dopamine-mediated renal vasodilation.",
+  "source": "Generated from 5. Pharmacology.pdf - Autonomic Drugs: G-protein-linked second messengers"
+},
+{
+  "id": "pharm-090",
+  "subject": "Pharmacology",
+  "major_topic": "Autonomic Drugs",
+  "subtopic": "G-protein-linked second messengers",
+  "difficulty": "hard",
+  "vignette": "A second-year medical student is preparing a summary table of autonomic receptor signaling before a pharmacology examination covering the G-protein-linked second messengers.",
+  "question": "Which of the following groups of receptors all signal through the Gq pathway (phospholipase C activation with IP3 and DAG formation and increased intracellular Ca2+)?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Beta-1, beta-2, and D1"
+    },
+    {
+      "id": "B",
+      "text": "Alpha-1, V1, M1, M3, and H1"
+    },
+    {
+      "id": "C",
+      "text": "Alpha-2, M2, and D2"
+    },
+    {
+      "id": "D",
+      "text": "V2, H2, and beta-3"
+    },
+    {
+      "id": "E",
+      "text": "Beta-2, M2, and H1"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "The Gq family consists of alpha-1, V1, M1, M3, and H1 receptors. Gq activates phospholipase C, cleaving PIP2 into IP3 and DAG and raising intracellular Ca2+, producing effects such as vascular smooth muscle contraction (alpha-1, V1), bronchoconstriction and mucus secretion (H1), and gland secretion and detrusor contraction (M3).",
+  "explanation_incorrect": {
+    "A": "Beta-1, beta-2, and D1 are all Gs-coupled receptors that increase cAMP, not Gq-coupled receptors.",
+    "C": "Alpha-2, M2, and D2 are the Gi-coupled family; they inhibit adenylyl cyclase and decrease cAMP.",
+    "D": "V2, H2, and beta-3 are Gs-coupled receptors that raise cAMP; for example, V2 increases aquaporin-2-mediated water reabsorption and H2 increases gastric acid secretion.",
+    "E": "This group mixes Gs (beta-2), Gi (M2), and Gq (H1) receptors, so it is not a single G-protein class."
+  },
+  "educationalObjective": "Memorize the Gq family (alpha-1, V1, M1, M3, H1) as distinct from the Gs (beta-1/2/3, D1, H2, V2) and Gi (alpha-2, M2, D2) families.",
+  "source": "Generated from 5. Pharmacology.pdf - Autonomic Drugs: G-protein-linked second messengers"
+}
+]

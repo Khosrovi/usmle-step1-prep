@@ -1,0 +1,207 @@
+[
+{
+  "id": "pharm-046",
+  "subject": "Pharmacology",
+  "major_topic": "Pharmacokinetics and Pharmacodynamics",
+  "subtopic": "Phase I and phase II drug metabolism",
+  "difficulty": "easy",
+  "vignette": "A medical student reviews a diagram of drug metabolism that classifies reactions into two phases converting lipophilic drugs toward water-soluble, excretable products.",
+  "question": "Which set of reactions characterizes phase I metabolism?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Glucuronidation, acetylation, sulfation, and methylation"
+    },
+    {
+      "id": "B",
+      "text": "Glucuronidation, oxidation, and hydrolysis"
+    },
+    {
+      "id": "C",
+      "text": "Oxidation, reduction, and hydrolysis"
+    },
+    {
+      "id": "D",
+      "text": "Acetylation, methylation, and reduction"
+    },
+    {
+      "id": "E",
+      "text": "Sulfation, methylation, and acetylation"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Phase I metabolism consists of reduction, oxidation, and hydrolysis, reactions that are predominantly cytochrome P450 (CYP450)-dependent. These reactions convert lipophilic drugs into slightly polar metabolites that may be active or inactive. Phase II reactions are the conjugation reactions: methylation, glucuronidation, acetylation, and sulfation.",
+  "explanation_incorrect": {
+    "A": "Glucuronidation, acetylation, sulfation, and methylation are all phase II conjugation reactions.",
+    "B": "Glucuronidation is a phase II reaction, so this mixed list is incorrect despite containing two true phase I reactions.",
+    "D": "Acetylation and methylation are phase II reactions; only reduction belongs to phase I.",
+    "E": "All three reactions listed here are phase II conjugation reactions."
+  },
+  "educationalObjective": "Phase I metabolism comprises oxidation, reduction, and hydrolysis, predominantly CYP450-dependent, yielding slightly polar active or inactive metabolites.",
+  "source": "Generated from 5. Pharmacology.pdf - Pharmacokinetics and Pharmacodynamics: Phase I and phase II drug metabolism"
+},
+{
+  "id": "pharm-047",
+  "subject": "Pharmacology",
+  "major_topic": "Pharmacokinetics and Pharmacodynamics",
+  "subtopic": "Phase I and phase II drug metabolism",
+  "difficulty": "medium",
+  "vignette": "A patient placed on standard-dose therapy for tuberculosis develops unusually prominent adverse effects from isoniazid. Genotyping reveals that she metabolizes acetylatable drugs slowly.",
+  "question": "How does slow acetylator status affect this patient's risk from isoniazid?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It decreases therapeutic effect because the drug is cleared too rapidly"
+    },
+    {
+      "id": "B",
+      "text": "It has no effect because phase II metabolism is not involved in isoniazid elimination"
+    },
+    {
+      "id": "C",
+      "text": "It bypasses first-pass metabolism, lowering drug exposure"
+    },
+    {
+      "id": "D",
+      "text": "It speeds conversion of the drug to a polar inactive metabolite"
+    },
+    {
+      "id": "E",
+      "text": "It increases adverse effects because of a decreased rate of metabolism"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Patients who are slow acetylators have an increased risk of adverse effects from certain drugs, such as isoniazid, because the rate of phase II acetylation is reduced. The drug and its effects persist longer, so standard doses produce exaggerated toxicity in these individuals.",
+  "explanation_incorrect": {
+    "A": "Slow acetylation slows, rather than accelerates, metabolism, so drug exposure and toxicity increase rather than the therapeutic effect being lost.",
+    "B": "Acetylation is a phase II reaction and is directly relevant to isoniazid metabolism.",
+    "C": "First-pass metabolism is a matter of oral bioavailability and is not bypassed by acetylator phenotype.",
+    "D": "Slow acetylators convert acetylatable drugs to metabolites more slowly, not faster."
+  },
+  "educationalObjective": "Slow acetylators have increased adverse effects from drugs such as isoniazid because of a decreased rate of phase II metabolism.",
+  "source": "Generated from 5. Pharmacology.pdf - Pharmacokinetics and Pharmacodynamics: Phase I and phase II drug metabolism"
+},
+{
+  "id": "pharm-048",
+  "subject": "Pharmacology",
+  "major_topic": "Pharmacokinetics and Pharmacodynamics",
+  "subtopic": "Phase I and phase II drug metabolism",
+  "difficulty": "hard",
+  "vignette": "An 82-year-old man takes a drug whose elimination depends almost entirely on phase I, CYP450-mediated oxidation. Compared with a young adult, he requires a substantially lower dose to avoid toxicity.",
+  "question": "Which age-related change best explains this increased drug sensitivity?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Phase II conjugation capacity is lost first with age"
+    },
+    {
+      "id": "B",
+      "text": "Phase I metabolism is lost first, so the drug is cleared more slowly"
+    },
+    {
+      "id": "C",
+      "text": "Bioavailability of oral drugs decreases with age"
+    },
+    {
+      "id": "D",
+      "text": "Volume of distribution always decreases with age"
+    },
+    {
+      "id": "E",
+      "text": "Elderly patients universally become slow acetylators"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Geriatric patients lose phase I metabolism first. A drug cleared almost entirely by phase I oxidation therefore accumulates in elderly patients because its rate of metabolism declines, necessitating lower doses to avoid toxicity. Phase II reactions are relatively preserved early in aging.",
+  "explanation_incorrect": {
+    "A": "Phase I, not phase II, is the metabolism lost first in geriatric patients.",
+    "C": "A decreased bioavailability would lower drug exposure and reduce toxicity risk, the opposite of the clinical problem described.",
+    "D": "Volume of distribution does not uniformly decrease with age; in any case, reduced clearance of a phase I-dependent drug is the relevant mechanism.",
+    "E": "Slow acetylator status is a genetic polymorphism affecting phase II acetylation, not a universal feature of aging."
+  },
+  "educationalObjective": "Geriatric patients lose phase I metabolism first, slowing clearance of CYP450-dependent drugs and increasing toxicity risk.",
+  "source": "Generated from 5. Pharmacology.pdf - Pharmacokinetics and Pharmacodynamics: Phase I and phase II drug metabolism"
+},
+{
+  "id": "pharm-049",
+  "subject": "Pharmacology",
+  "major_topic": "Pharmacokinetics and Pharmacodynamics",
+  "subtopic": "Phase I and phase II drug metabolism",
+  "difficulty": "medium",
+  "vignette": "A pharmacology instructor asks the class to identify the phase II reaction that is the exception to the general rule that phase II products are very polar, hydrophilic metabolites suitable for excretion.",
+  "question": "Which phase II reaction produces a metabolite that is characteristically not very polar and hydrophilic?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Glucuronidation"
+    },
+    {
+      "id": "B",
+      "text": "Sulfation"
+    },
+    {
+      "id": "C",
+      "text": "Methylation"
+    },
+    {
+      "id": "D",
+      "text": "Acetylation"
+    },
+    {
+      "id": "E",
+      "text": "Oxidation"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Phase II reactions (methylation, glucuronidation, acetylation, and sulfation) generally produce very polar, hydrophilic metabolites that are readily excreted. Acetylation is the exception: acetylated metabolites are not very polar and hydrophilic compared with the other conjugation products.",
+  "explanation_incorrect": {
+    "A": "Glucuronidation yields very polar, hydrophilic metabolites that follow the general rule.",
+    "B": "Sulfation yields very polar, hydrophilic metabolites and is not the exception.",
+    "C": "Methylation produces very polar, hydrophilic metabolites under the general phase II rule.",
+    "E": "Oxidation is a phase I reaction, not a phase II conjugation, and produces only slightly polar metabolites."
+  },
+  "educationalObjective": "Phase II reactions produce very polar hydrophilic metabolites, except for acetylation.",
+  "source": "Generated from 5. Pharmacology.pdf - Pharmacokinetics and Pharmacodynamics: Phase I and phase II drug metabolism"
+},
+{
+  "id": "pharm-050",
+  "subject": "Pharmacology",
+  "major_topic": "Pharmacokinetics and Pharmacodynamics",
+  "subtopic": "Phase I and phase II drug metabolism",
+  "difficulty": "easy",
+  "vignette": "A student reviewing drug metabolism states that every drug must first undergo a phase I reaction followed by a phase II reaction before it can be excreted.",
+  "question": "Which statement about the relationship between phase I and phase II metabolism is correct?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The reactions do not have to take place sequentially; phase I can follow phase II, or a single reaction may occur alone"
+    },
+    {
+      "id": "B",
+      "text": "Phase II reactions must always precede phase I reactions"
+    },
+    {
+      "id": "C",
+      "text": "Phase I reactions always deactivate drugs and can never bioactivate them"
+    },
+    {
+      "id": "D",
+      "text": "Phase II reactions are predominantly cytochrome P450-dependent"
+    },
+    {
+      "id": "E",
+      "text": "Every drug must undergo both phases before any excretion is possible"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Drugs can be metabolized by either or both phase I and phase II reactions. These reactions serve to bioactivate or deactivate substances, and they do not have to take place sequentially: phase I can follow phase II, or a drug may undergo a single reaction alone before excretion.",
+  "explanation_incorrect": {
+    "B": "There is no required ordering; the phases do not have to occur sequentially, and phase I commonly precedes phase II.",
+    "C": "Phase I reactions serve to bioactivate or deactivate substances; they can produce active as well as inactive metabolites.",
+    "D": "Phase I, not phase II, is predominantly CYP450-dependent.",
+    "E": "A drug may undergo either phase I or phase II alone, or a single reaction, so both phases are not required."
+  },
+  "educationalObjective": "Phase I and phase II metabolism do not have to occur sequentially; either can occur alone, and phase I can follow phase II.",
+  "source": "Generated from 5. Pharmacology.pdf - Pharmacokinetics and Pharmacodynamics: Phase I and phase II drug metabolism"
+}
+]

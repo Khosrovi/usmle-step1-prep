@@ -1,0 +1,166 @@
+[
+{
+  "id": "pharm-081",
+  "subject": "Pharmacology",
+  "major_topic": "Autonomic Drugs",
+  "subtopic": "Nicotinic and muscarinic ACh receptors",
+  "difficulty": "easy",
+  "vignette": "A first-year medical student is reviewing acetylcholine receptor pharmacology before an examination on autonomic drugs.",
+  "question": "Which of the following correctly distinguishes nicotinic from muscarinic acetylcholine receptors?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Nicotinic receptors are G-protein-coupled; muscarinic receptors are ligand-gated ion channels"
+    },
+    {
+      "id": "B",
+      "text": "Nicotinic receptors are ligand-gated ion channels; muscarinic receptors are G-protein-coupled receptors acting through second messengers"
+    },
+    {
+      "id": "C",
+      "text": "Both receptor families are G-protein-coupled and signal exclusively through cAMP"
+    },
+    {
+      "id": "D",
+      "text": "Nicotinic receptors act only through intracellular second messengers; muscarinic receptors directly pass ions across the membrane"
+    },
+    {
+      "id": "E",
+      "text": "Muscarinic receptors are located only at the neuromuscular junction of skeletal muscle"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Nicotinic ACh receptors are ligand-gated ion channels that open to allow influx of Na+ (and in some cases Ca2+) and efflux of K+. Muscarinic ACh receptors are G-protein-coupled receptors that usually act through intracellular second messengers. This structural and signaling distinction underlies every pharmacologic difference between the two receptor families.",
+  "explanation_incorrect": {
+    "A": "This reverses the correct pairing; nicotinic receptors are the ion channels and muscarinic receptors are the GPCRs.",
+    "C": "Nicotinic receptors are not G-protein-coupled, and muscarinic receptors signal through more than one second-messenger class (Gq, Gi, and Gq-type pathways), not exclusively cAMP.",
+    "D": "This reverses the correct assignment; the ion-channel receptors are nicotinic and the second-messenger receptors are muscarinic.",
+    "E": "The neuromuscular junction of skeletal muscle contains nicotinic (NM) receptors; muscarinic receptors are found in the heart, smooth muscle, brain, and exocrine glands."
+  },
+  "educationalObjective": "Recall that nicotinic receptors are ligand-gated ion channels while muscarinic receptors are G-protein-coupled.",
+  "source": "Generated from 5. Pharmacology.pdf - Autonomic Drugs: Nicotinic and muscarinic ACh receptors"
+},
+{
+  "id": "pharm-082",
+  "subject": "Pharmacology",
+  "major_topic": "Autonomic Drugs",
+  "subtopic": "Nicotinic and muscarinic ACh receptors",
+  "difficulty": "medium",
+  "vignette": "A 29-year-old woman with recurrent panic attacks has episodes of palpitations and hypertension caused by sudden release of epinephrine from the adrenal medulla. Her physician reviews which receptor must be activated for preganglionic sympathetic fibers to trigger this catecholamine release.",
+  "question": "Chromaffin cells of the adrenal medulla release epinephrine when preganglionic sympathetic fibers release acetylcholine onto which receptor subtype?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Muscarinic M3 receptors on the chromaffin cell membrane"
+    },
+    {
+      "id": "B",
+      "text": "Nicotinic receptors at the skeletal muscle neuromuscular junction (NM)"
+    },
+    {
+      "id": "C",
+      "text": "Muscarinic M1 receptors mediating higher cognitive functions"
+    },
+    {
+      "id": "D",
+      "text": "Nicotinic receptors found in autonomic ganglia and the adrenal medulla (NN)"
+    },
+    {
+      "id": "E",
+      "text": "Beta-2 adrenergic receptors on the chromaffin cell surface"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Nicotinic receptors have two subtypes: NN, found in autonomic ganglia and the adrenal medulla, and NM, found at the neuromuscular junction of skeletal muscle. Preganglionic sympathetic fibers release acetylcholine onto NN receptors on adrenal chromaffin cells, causing secretion of epinephrine into the blood.",
+  "explanation_incorrect": {
+    "A": "Muscarinic receptors (M1-M5) are found in the heart, smooth muscle, brain, and exocrine glands, but the adrenal medulla signal is nicotinic (NN), not muscarinic.",
+    "B": "The NM subtype is confined to the neuromuscular junction of skeletal muscle and does not mediate adrenal catecholamine release.",
+    "C": "M1 receptors mediate higher cognitive functions and exocrine gland secretion; they are not the receptor on chromaffin cells.",
+    "E": "Beta-2 adrenergic receptors are effector receptors for catecholamines on bronchial and vascular smooth muscle; they do not trigger epinephrine secretion from chromaffin cells."
+  },
+  "educationalObjective": "Localize the NN nicotinic subtype to autonomic ganglia and the adrenal medulla.",
+  "source": "Generated from 5. Pharmacology.pdf - Autonomic Drugs: Nicotinic and muscarinic ACh receptors"
+},
+{
+  "id": "pharm-083",
+  "subject": "Pharmacology",
+  "major_topic": "Autonomic Drugs",
+  "subtopic": "Nicotinic and muscarinic ACh receptors",
+  "difficulty": "medium",
+  "vignette": "A 63-year-old woman with severe dry mouth from radiation therapy is prescribed a muscarinic agonist that increases salivary and lacrimal gland secretion. Her pharmacist explains that the target receptor is a muscarinic subtype on exocrine gland cells.",
+  "question": "Activation of M3 receptors on exocrine gland cells increases secretion through which intracellular pathway?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Gq protein activating phospholipase C, generating IP3 and DAG and increasing intracellular Ca2+"
+    },
+    {
+      "id": "B",
+      "text": "Gs protein activating adenylyl cyclase, increasing cAMP and protein kinase A activity"
+    },
+    {
+      "id": "C",
+      "text": "Gi protein inhibiting adenylyl cyclase, decreasing cAMP generation"
+    },
+    {
+      "id": "D",
+      "text": "A ligand-gated ion channel allowing Na+ influx and K+ efflux across the cell membrane"
+    },
+    {
+      "id": "E",
+      "text": "Gs protein activating phospholipase C, decreasing IP3 and DAG formation"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Muscarinic ACh receptors are G-protein-coupled receptors that act through second messengers. The M3 subtype couples to Gq, which activates phospholipase C; phospholipase C cleaves PIP2 into IP3 and DAG, raising intracellular Ca2+ and driving effects such as exocrine gland secretion, bladder detrusor contraction, and bronchoconstriction.",
+  "explanation_incorrect": {
+    "B": "The Gs-adenylyl cyclase-cAMP pathway is used by Gs-coupled receptors such as beta-adrenergic, D1, H2, and V2 receptors, not by M3.",
+    "C": "Gi-coupled receptors such as M2, alpha-2, and D2 inhibit adenylyl cyclase; M3 is a Gq-coupled receptor.",
+    "D": "Ligand-gated ion channels allowing Na+ influx and K+ efflux describe nicotinic receptors, which are not G-protein-coupled and do not use second messengers.",
+    "E": "Gq activates, rather than inhibits, phospholipase C, and Gq is the class coupled to M3; Gs does not activate phospholipase C."
+  },
+  "educationalObjective": "Know that M3 receptors couple to Gq, activating phospholipase C and increasing intracellular Ca2+.",
+  "source": "Generated from 5. Pharmacology.pdf - Autonomic Drugs: Nicotinic and muscarinic ACh receptors"
+},
+{
+  "id": "pharm-084",
+  "subject": "Pharmacology",
+  "major_topic": "Autonomic Drugs",
+  "subtopic": "Nicotinic and muscarinic ACh receptors",
+  "difficulty": "hard",
+  "vignette": "A 26-year-old man enrolls in a pharmacology experiment and receives an investigational drug that selectively activates nicotinic receptors in autonomic ganglia and the adrenal medulla (NN) while having no effect on muscarinic receptors or NM receptors.",
+  "question": "Which of the following is the most likely combination of effects of this drug?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Skeletal muscle fasciculations and weakness with no autonomic effects"
+    },
+    {
+      "id": "B",
+      "text": "Bradycardia and bronchoconstriction from direct activation of M2 and M3 receptors"
+    },
+    {
+      "id": "C",
+      "text": "Simultaneous activation of both sympathetic and parasympathetic ganglia together with catecholamine release from the adrenal medulla"
+    },
+    {
+      "id": "D",
+      "text": "Decreased sweating caused by inhibition of sympathetic cholinergic fibers"
+    },
+    {
+      "id": "E",
+      "text": "Selective activation of only the sympathetic division with sparing of the parasympathetic division"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "NN receptors are located in the ganglia of BOTH autonomic divisions and on adrenal medullary chromaffin cells. A selective NN agonist therefore activates sympathetic and parasympathetic ganglia simultaneously, producing a confusing mixture of adrenergic and cholinergic effects, and also drives epinephrine release from the adrenal medulla. This nonselective, mixed activation is the hallmark of ganglionic stimulation.",
+  "explanation_incorrect": {
+    "A": "Skeletal muscle contraction uses NM receptors at the neuromuscular junction, which the drug does not affect, so there would be no fasciculations.",
+    "B": "The drug is selective for nicotinic receptors and has no muscarinic activity, so direct M2 and M3 effects such as bradycardia and bronchoconstriction would not occur.",
+    "D": "Sweating requires sympathetic ganglionic transmission through NN receptors, so it would be stimulated (via downstream muscarinic activation), not inhibited.",
+    "E": "Because NN receptors are present in ganglia of both divisions, both sympathetic and parasympathetic pathways would be activated; neither is spared."
+  },
+  "educationalObjective": "Recognize that NN stimulation activates both autonomic divisions and the adrenal medulla because NN receptors sit in all autonomic ganglia.",
+  "source": "Generated from 5. Pharmacology.pdf - Autonomic Drugs: Nicotinic and muscarinic ACh receptors"
+}
+]

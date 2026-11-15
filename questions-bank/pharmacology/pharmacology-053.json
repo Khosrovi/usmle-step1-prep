@@ -1,0 +1,207 @@
+[
+{
+  "id": "pharm-021",
+  "subject": "Pharmacology",
+  "major_topic": "Pharmacokinetics and Pharmacodynamics",
+  "subtopic": "Michaelis-Menten kinetics and Lineweaver-Burk plots",
+  "difficulty": "easy",
+  "vignette": "A researcher measures the reaction velocity of a purified enzyme at increasing substrate concentrations. The substrate concentration required for the enzyme to reach one half of its maximal velocity is 2 mmol/L. Maximal velocity is achieved at a substrate concentration of 20 mmol/L.",
+  "question": "Which property of the enzyme is inversely related to the substrate concentration needed to reach one half of Vmax?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Enzyme concentration"
+    },
+    {
+      "id": "B",
+      "text": "Affinity of the enzyme for its substrate"
+    },
+    {
+      "id": "C",
+      "text": "Maximal reaction velocity"
+    },
+    {
+      "id": "D",
+      "text": "Rate of elimination of the substrate"
+    },
+    {
+      "id": "E",
+      "text": "Degree of positive cooperativity in substrate binding"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "The substrate concentration needed to reach one half of Vmax is the Michaelis constant (Km). Km is inversely related to the affinity of the enzyme for its substrate, so a lower Km means the enzyme reaches half-maximal velocity at a lower substrate concentration and therefore has higher affinity. Vmax, by contrast, is directly proportional to enzyme concentration and reflects how fast the reaction can go at saturating substrate.",
+  "explanation_incorrect": {
+    "A": "Enzyme concentration determines Vmax, to which it is directly proportional; it does not determine the substrate concentration needed for half-maximal velocity.",
+    "C": "Vmax is the maximal reaction velocity reached at saturating substrate concentration; it reflects enzyme concentration rather than affinity.",
+    "D": "The rate of substrate elimination is not a Michaelis-Menten parameter and is not defined by the velocity at one half of Vmax.",
+    "E": "Positive cooperativity is indicated by a sigmoidal rather than hyperbolic velocity curve, not by the numerical value of Km."
+  },
+  "educationalObjective": "Km is the substrate concentration needed for an enzyme to reach one half of Vmax and is inversely related to the enzyme's affinity for its substrate.",
+  "source": "Generated from 5. Pharmacology.pdf - Pharmacokinetics and Pharmacodynamics: Michaelis-Menten kinetics and Lineweaver-Burk plots"
+},
+{
+  "id": "pharm-022",
+  "subject": "Pharmacology",
+  "major_topic": "Pharmacokinetics and Pharmacodynamics",
+  "subtopic": "Michaelis-Menten kinetics and Lineweaver-Burk plots",
+  "difficulty": "medium",
+  "vignette": "An enzyme involved in pyrimidine biosynthesis, aspartate transcarbamoylase, is studied in the laboratory. When reaction velocity is plotted against substrate concentration, the resulting curve is sigmoidal rather than hyperbolic.",
+  "question": "What does the sigmoidal shape of this velocity curve most likely indicate?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The enzyme follows standard Michaelis-Menten kinetics"
+    },
+    {
+      "id": "B",
+      "text": "The enzyme has an unusually low Vmax"
+    },
+    {
+      "id": "C",
+      "text": "A competitive inhibitor is present in the assay"
+    },
+    {
+      "id": "D",
+      "text": "Positive cooperativity in substrate binding"
+    },
+    {
+      "id": "E",
+      "text": "The enzyme has a very high affinity for its substrate"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Most enzymatic reactions follow a hyperbolic velocity curve (Michaelis-Menten kinetics). A sigmoidal curve usually indicates positive cooperativity in substrate binding, in which binding of one substrate molecule increases the affinity of the enzyme for subsequent substrate molecules. The classic example is aspartate transcarbamoylase in pyrimidine biosynthesis.",
+  "explanation_incorrect": {
+    "A": "Standard Michaelis-Menten kinetics produce a hyperbolic, not sigmoidal, velocity curve.",
+    "B": "The overall shape of the curve (hyperbolic vs sigmoidal) does not indicate the absolute value of Vmax.",
+    "C": "A competitive inhibitor changes the substrate concentration needed to approach Vmax but does not convert a hyperbolic curve into a sigmoidal one.",
+    "E": "A high-affinity enzyme has a low Km, but its velocity curve remains hyperbolic as long as binding shows no cooperativity."
+  },
+  "educationalObjective": "A sigmoidal velocity-versus-substrate curve indicates positive cooperativity in substrate binding (eg, aspartate transcarbamoylase), whereas a hyperbolic curve indicates Michaelis-Menten kinetics.",
+  "source": "Generated from 5. Pharmacology.pdf - Pharmacokinetics and Pharmacodynamics: Michaelis-Menten kinetics and Lineweaver-Burk plots"
+},
+{
+  "id": "pharm-023",
+  "subject": "Pharmacology",
+  "major_topic": "Pharmacokinetics and Pharmacodynamics",
+  "subtopic": "Michaelis-Menten kinetics and Lineweaver-Burk plots",
+  "difficulty": "hard",
+  "vignette": "An enzyme is analyzed on a double-reciprocal (Lineweaver-Burk) plot, with 1/velocity on the y-axis and 1/substrate concentration on the x-axis. Data are collected for the uninhibited enzyme and plotted as a straight line.",
+  "question": "Which feature of this plot indicates an enzyme with a lower affinity for its substrate?",
+  "options": [
+    {
+      "id": "A",
+      "text": "An x-intercept located closer to zero"
+    },
+    {
+      "id": "B",
+      "text": "A y-intercept located closer to zero"
+    },
+    {
+      "id": "C",
+      "text": "A line that intersects the y-axis at a value equal to 1/Km"
+    },
+    {
+      "id": "D",
+      "text": "A slope equal to Km multiplied by Vmax"
+    },
+    {
+      "id": "E",
+      "text": "An x-intercept located farther from zero"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "On a Lineweaver-Burk plot the x-intercept equals -1/Km, so the closer the x-intercept lies to zero, the higher the Km. Because Km is inversely related to affinity, a higher Km indicates a lower affinity of the enzyme for its substrate. The y-intercept equals 1/Vmax, and the slope equals Km/Vmax.",
+  "explanation_incorrect": {
+    "B": "The y-intercept equals 1/Vmax, so a y-intercept closer to zero indicates a higher Vmax, not a change in substrate affinity.",
+    "C": "The y-axis intercept is 1/Vmax, not 1/Km; this option misassigns the intercept.",
+    "D": "The slope of a Lineweaver-Burk line equals Km/Vmax, not the product of Km and Vmax.",
+    "E": "An x-intercept farther from zero means a larger -1/Km magnitude, hence a lower Km and higher substrate affinity."
+  },
+  "educationalObjective": "On a Lineweaver-Burk plot, the closer the x-intercept is to zero the higher the Km and the lower the enzyme's affinity for its substrate.",
+  "source": "Generated from 5. Pharmacology.pdf - Pharmacokinetics and Pharmacodynamics: Michaelis-Menten kinetics and Lineweaver-Burk plots"
+},
+{
+  "id": "pharm-024",
+  "subject": "Pharmacology",
+  "major_topic": "Pharmacokinetics and Pharmacodynamics",
+  "subtopic": "Michaelis-Menten kinetics and Lineweaver-Burk plots",
+  "difficulty": "medium",
+  "vignette": "A laboratory assay measures the reaction velocity of a purified enzyme across a range of substrate concentrations. The experiment is then repeated after doubling the amount of enzyme in the reaction mixture, with all other conditions unchanged.",
+  "question": "What change is expected in the velocity-versus-substrate concentration curve?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Km will double"
+    },
+    {
+      "id": "B",
+      "text": "Km will decrease by half"
+    },
+    {
+      "id": "C",
+      "text": "The affinity of the enzyme for its substrate will double"
+    },
+    {
+      "id": "D",
+      "text": "The curve will become sigmoidal"
+    },
+    {
+      "id": "E",
+      "text": "Vmax will double"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Vmax is directly proportional to the enzyme concentration. Doubling the amount of enzyme doubles the maximal velocity, so the plateau of the velocity curve rises to twice its original height. Km, which reflects the affinity of the enzyme for its substrate, is unchanged because the nature of the enzyme-substrate interaction has not altered.",
+  "explanation_incorrect": {
+    "A": "Km is determined by the enzyme-substrate interaction, not by how much enzyme is present.",
+    "B": "Halving Km would imply doubled affinity, which does not result simply from increasing enzyme concentration.",
+    "C": "Affinity (the inverse of Km) is a property of the enzyme-substrate interaction and is not changed by adding more enzyme molecules.",
+    "D": "A sigmoidal curve indicates positive cooperativity in substrate binding, which adding more enzyme does not create."
+  },
+  "educationalObjective": "Vmax is directly proportional to enzyme concentration, while Km (affinity) is unchanged when enzyme amount changes.",
+  "source": "Generated from 5. Pharmacology.pdf - Pharmacokinetics and Pharmacodynamics: Michaelis-Menten kinetics and Lineweaver-Burk plots"
+},
+{
+  "id": "pharm-025",
+  "subject": "Pharmacology",
+  "major_topic": "Pharmacokinetics and Pharmacodynamics",
+  "subtopic": "Michaelis-Menten kinetics and Lineweaver-Burk plots",
+  "difficulty": "hard",
+  "vignette": "Reaction velocity is plotted against substrate concentration for a purified enzyme, first without any additions and then in the presence of a reversible competitive inhibitor. Both curves are hyperbolic.",
+  "question": "Which description best compares the inhibited curve with the uninhibited curve?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The inhibited curve plateaus at a lower maximal velocity"
+    },
+    {
+      "id": "B",
+      "text": "The inhibited curve is completely unchanged from the uninhibited curve"
+    },
+    {
+      "id": "C",
+      "text": "The inhibited curve reaches the same maximal velocity but requires a higher substrate concentration to reach one half of it"
+    },
+    {
+      "id": "D",
+      "text": "The inhibited curve becomes sigmoidal in shape"
+    },
+    {
+      "id": "E",
+      "text": "The inhibited curve reaches one half of maximal velocity at a lower substrate concentration"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "A reversible competitive inhibitor competes with substrate for the active site, so sufficiently high substrate concentrations can overcome the inhibition. Vmax therefore remains unchanged, and the curve still plateaus at the same maximal velocity. However, more substrate is needed to displace the inhibitor, so the apparent Km increases and half-maximal velocity is reached at a higher substrate concentration.",
+  "explanation_incorrect": {
+    "A": "A lower maximal velocity plateau is the hallmark of noncompetitive inhibition, which cannot be overcome by increasing substrate concentration.",
+    "B": "A competitive inhibitor raises the apparent Km, so the curve visibly shifts; it is not identical to the uninhibited curve.",
+    "D": "A sigmoidal curve indicates positive cooperativity in substrate binding, which competitive inhibition does not produce.",
+    "E": "Half-maximal velocity at a lower substrate concentration would mean a decreased Km, the opposite of the effect of a competitive inhibitor."
+  },
+  "educationalObjective": "A reversible competitive inhibitor leaves Vmax unchanged but increases the substrate concentration needed to reach one half of Vmax (increased apparent Km).",
+  "source": "Generated from 5. Pharmacology.pdf - Pharmacokinetics and Pharmacodynamics: Michaelis-Menten kinetics and Lineweaver-Burk plots"
+}
+]

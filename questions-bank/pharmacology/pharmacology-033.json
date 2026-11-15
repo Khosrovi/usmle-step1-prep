@@ -1,0 +1,289 @@
+[
+{
+  "id": "pharm-141",
+  "subject": "Pharmacology",
+  "major_topic": "Autonomic Drugs",
+  "subtopic": "Direct sympathomimetics",
+  "difficulty": "medium",
+  "vignette": "A 29-year-old woman with persistent mild asthma uses an albuterol inhaler 4–5 times per week and reports nocturnal awakenings twice weekly. Her physician decides to add a long-acting agent for serial (long-term) asthma control.",
+  "question": "Which of the following properties best characterizes the drug most appropriate for this patient's long-term control therapy?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Selective α1-agonism producing bronchial vasoconstriction"
+    },
+    {
+      "id": "B",
+      "text": "Nonselective β-agonism causing tachycardia and tremor"
+    },
+    {
+      "id": "C",
+      "text": "β2 > β1 agonism with little effect on heart rate"
+    },
+    {
+      "id": "D",
+      "text": "β1 > β2 agonism increasing cardiac contractility"
+    },
+    {
+      "id": "E",
+      "text": "α2-agonism reducing sympathetic outflow"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Salmeterol is a long-acting direct sympathomimetic with β2 > β1 selectivity, used for serial (long-term) asthma/COPD control. β2 activation relaxes bronchial smooth muscle while producing little effect on heart rate because β1 (cardiac) receptors are only weakly stimulated. Albuterol has the same receptor profile but is used for acute asthma/COPD, and terbutaline is used for acute bronchospasm and tocolysis.",
+  "explanation_incorrect": {
+    "A": "α1-agonism describes drugs such as phenylephrine and midodrine, which vasoconstrict vessels and would not bronchodilate; bronchial smooth muscle relaxation is mediated by β2 receptors.",
+    "B": "Nonselective β-agonists such as isoproterenol stimulate both β1 and β2 and would cause tachycardia; asthma long-term control agents are deliberately β2-selective to limit cardiac effects.",
+    "D": "β1 > β2 agonism describes dobutamine, an inotrope used in cardiac stress testing and cardiogenic shock, not bronchodilation.",
+    "E": "α2-agonism describes sympatholytics such as clonidine and guanfacine, which decrease sympathetic outflow and are not bronchodilators."
+  },
+  "educationalObjective": "Albuterol (acute), salmeterol (long-term), and terbutaline (acute bronchospasm/tocolysis) are β2 > β1 agonists with little effect on heart rate.",
+  "source": "Generated from 5. Pharmacology.pdf - Autonomic Drugs: Direct sympathomimetics"
+},
+{
+  "id": "pharm-142",
+  "subject": "Pharmacology",
+  "major_topic": "Autonomic Drugs",
+  "subtopic": "Direct sympathomimetics",
+  "difficulty": "easy",
+  "vignette": "A 67-year-old man with an extensive prior myocardial infarction and limited exercise tolerance cannot reach a diagnostic workload on a standard treadmill. The cardiologist orders a pharmacologic stress test using an intravenous agent.",
+  "question": "Which of the following drugs is most appropriate for this patient's cardiac stress testing?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Dobutamine"
+    },
+    {
+      "id": "B",
+      "text": "Albuterol"
+    },
+    {
+      "id": "C",
+      "text": "Fenoldopam"
+    },
+    {
+      "id": "D",
+      "text": "Phenylephrine"
+    },
+    {
+      "id": "E",
+      "text": "Guanfacine"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Dobutamine is a direct sympathomimetic with β1 > β2, α agonism that increases heart rate and cardiac output while decreasing systolic blood pressure. This β1-mediated increase in myocardial oxygen demand simulates exercise, making it the standard agent for pharmacologic (dobutamine) cardiac stress testing. It is also used as an inotrope in acute decompensated heart failure with cardiogenic shock.",
+  "explanation_incorrect": {
+    "B": "Albuterol is a β2-selective agonist used for acute asthma and COPD; it does not increase cardiac workload in the way needed for stress testing.",
+    "C": "Fenoldopam is a D1 agonist vasodilator used for postoperative hypertension and hypertensive crisis; it lowers blood pressure rather than stressing the myocardium.",
+    "D": "Phenylephrine is an α1 agonist used as a vasoconstrictor, mydriatic, and decongestant; it increases afterload but is not used to stress the myocardium.",
+    "E": "Guanfacine is a central α2-agonist sympatholytic used for ADHD and hypertension; it decreases sympathetic activity."
+  },
+  "educationalObjective": "Dobutamine (β1 > β2, α) is the direct sympathomimetic used for cardiac stress testing and as an inotrope in cardiogenic shock.",
+  "source": "Generated from 5. Pharmacology.pdf - Autonomic Drugs: Direct sympathomimetics"
+},
+{
+  "id": "pharm-143",
+  "subject": "Pharmacology",
+  "major_topic": "Autonomic Drugs",
+  "subtopic": "Direct sympathomimetics",
+  "difficulty": "medium",
+  "vignette": "A 74-year-old woman in the ICU with urosepsis has a heart rate of 40/min and a blood pressure of 82/50 mm Hg with poor urine output. The team starts an intravenous drug known to have receptor affinity ordered D1 = D2 > β > α.",
+  "question": "Which of the following best describes how this drug's hemodynamic effects change as the dose is increased?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Vasoconstriction predominates at low doses, with inotropy appearing only at high doses"
+    },
+    {
+      "id": "B",
+      "text": "Natriuresis predominates at high doses, with pure chronotropy at low doses"
+    },
+    {
+      "id": "C",
+      "text": "Its effects are dose-independent because receptor affinity does not vary with concentration"
+    },
+    {
+      "id": "D",
+      "text": "β-mediated vasodilation predominates at high doses, lowering systemic vascular resistance"
+    },
+    {
+      "id": "E",
+      "text": "Inotropic and chronotropic effects predominate at lower doses, with vasoconstriction at high doses"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Dopamine has affinity ordered D1 = D2 > β > α. At lower doses it exerts inotropic and chronotropic effects through β-receptor agonism, raising heart rate and cardiac output — useful in unstable bradycardia and shock. At high doses, α-receptor agonism causes vasoconstriction and raises blood pressure. This dose-dependent shift in receptor engagement is the classic teaching point.",
+  "explanation_incorrect": {
+    "A": "This reverses the dose-response relationship: dopamine constricts vessels at high (not low) doses, while inotropy/chronotropy appear at lower doses via β receptors.",
+    "B": "Natriuresis is a feature of fenoldopam (a D1 agonist), not dopamine; dopamine produces chronotropy/inotropy at low doses, not natriuresis.",
+    "C": "Dopamine's effects are classically dose-dependent because progressively higher plasma concentrations engage lower-affinity α receptors.",
+    "D": "β-mediated vasodilation is not dopamine's high-dose effect; high-dose dopamine constricts vessels via α receptors, increasing blood pressure."
+  },
+  "educationalObjective": "Dopamine (D1 = D2 > β > α) gives inotropy/chronotropy at low doses via β receptors and vasoconstriction at high doses via α receptors.",
+  "source": "Generated from 5. Pharmacology.pdf - Autonomic Drugs: Direct sympathomimetics"
+},
+{
+  "id": "pharm-144",
+  "subject": "Pharmacology",
+  "major_topic": "Autonomic Drugs",
+  "subtopic": "Direct sympathomimetics",
+  "difficulty": "easy",
+  "vignette": "A 22-year-old man stung by a bee develops diffuse urticaria, lip swelling, wheezing, and a blood pressure of 78/48 mm Hg. Intramuscular epinephrine is administered immediately.",
+  "question": "Which of the following best describes the receptor pharmacology of the drug just given?",
+  "options": [
+    {
+      "id": "A",
+      "text": "β1 > β2, α agonism used to increase myocardial contractility selectively"
+    },
+    {
+      "id": "B",
+      "text": "α > β agonism in which β effects predominate at high doses and β2 effects are stronger than those of norepinephrine"
+    },
+    {
+      "id": "C",
+      "text": "D1 agonism producing renal and splanchnic vasodilation"
+    },
+    {
+      "id": "D",
+      "text": "β3 agonism relaxing detrusor smooth muscle"
+    },
+    {
+      "id": "E",
+      "text": "α1 > α2 > β1 agonism producing intense vasoconstriction"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Epinephrine is a direct sympathomimetic with α > β agonism; it increases blood pressure (at high doses), heart rate, and cardiac output, and is first-line in anaphylaxis. Its β effects predominate at high doses, and it has a stronger effect at the β2 receptor than norepinephrine does — supporting bronchodilation in asthma as well as vasopressor support in shock.",
+  "explanation_incorrect": {
+    "A": "β1 > β2, α agonism describes dobutamine, an inotrope used in stress testing and cardiogenic shock, not first-line anaphylaxis therapy.",
+    "C": "D1 agonism describes fenoldopam, a vasodilator used for postoperative hypertension and hypertensive crisis.",
+    "D": "β3 agonism describes mirabegron, used for overactive bladder and urinary urgency/incontinence.",
+    "E": "α1 > α2 > β1 agonism describes norepinephrine, the vasopressor of choice in septic shock; it lacks the strong β2 effect that makes epinephrine ideal in anaphylaxis."
+  },
+  "educationalObjective": "Epinephrine (α > β) is first-line for anaphylaxis; its β2 effect is stronger than that of norepinephrine and β effects predominate at high doses.",
+  "source": "Generated from 5. Pharmacology.pdf - Autonomic Drugs: Direct sympathomimetics"
+},
+{
+  "id": "pharm-145",
+  "subject": "Pharmacology",
+  "major_topic": "Autonomic Drugs",
+  "subtopic": "Direct sympathomimetics",
+  "difficulty": "medium",
+  "vignette": "Two days after an uncomplicated cholecystectomy, a 61-year-old woman develops a blood pressure of 190/105 mm Hg. She is given an intravenous agent that dilates coronary, peripheral, renal, and splanchnic vessels and promotes natriuresis.",
+  "question": "Through which receptor does this antihypertensive drug act, and which adverse effect should be anticipated?",
+  "options": [
+    {
+      "id": "A",
+      "text": "D1 receptor; hypotension, tachycardia, flushing, and headache"
+    },
+    {
+      "id": "B",
+      "text": "β1 receptor; bradycardia and atrioventricular block"
+    },
+    {
+      "id": "C",
+      "text": "α1 receptor; reflex bradycardia and miosis"
+    },
+    {
+      "id": "D",
+      "text": "α2 receptor; rebound hypertension on discontinuation"
+    },
+    {
+      "id": "E",
+      "text": "β2 receptor; hypokalemia and tremor"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Fenoldopam is a selective D1 agonist used for postoperative hypertension and hypertensive crisis. D1 activation produces vasodilation of coronary, peripheral, renal, and splanchnic beds, lowers blood pressure, and promotes natriuresis. Its recognized adverse effects include hypotension, tachycardia, flushing, and headache, along with increased heart rate and cardiac output.",
+  "explanation_incorrect": {
+    "B": "β1 receptors mediate cardiac inotropy and chronotropy (as with dobutamine); fenoldopam does not act at β1 and would not cause bradycardia or AV block.",
+    "C": "α1 activation (phenylephrine, midodrine) causes vasoconstriction with reflex bradycardia — the opposite of fenoldopam's vasodilator action.",
+    "D": "α2-agonists such as clonidine lower blood pressure centrally but classically cause rebound hypertension with abrupt cessation, an effect unrelated to fenoldopam.",
+    "E": "β2 activation relaxes bronchial and uterine smooth muscle (albuterol, terbutaline); tremor and hypokalemia are β2 effects, not D1 effects."
+  },
+  "educationalObjective": "Fenoldopam is a D1 agonist for postoperative hypertension/hypertensive crisis that causes vasodilation and natriuresis; watch for hypotension, tachycardia, flushing, and headache.",
+  "source": "Generated from 5. Pharmacology.pdf - Autonomic Drugs: Direct sympathomimetics"
+},
+{
+  "id": "pharm-146",
+  "subject": "Pharmacology",
+  "major_topic": "Autonomic Drugs",
+  "subtopic": "Direct sympathomimetics",
+  "difficulty": "medium",
+  "vignette": "A 55-year-old man in the medical ICU with septic shock and warm extremities is started on a norepinephrine infusion, which raises his blood pressure with little change in heart rate.",
+  "question": "Which of the following best describes norepinephrine's receptor selectivity and its hemodynamic profile?",
+  "options": [
+    {
+      "id": "A",
+      "text": "β1 > β2, α; increases heart rate and cardiac output while decreasing systolic pressure"
+    },
+    {
+      "id": "B",
+      "text": "α1 > α2; raises blood pressure with pronounced reflex tachycardia"
+    },
+    {
+      "id": "C",
+      "text": "α1 > α2 > β1; raises blood pressure with minimal change in heart rate due to β1 agonism offsetting reflex slowing"
+    },
+    {
+      "id": "D",
+      "text": "D1 = D2 > β; raises blood pressure at high doses with vasodilation at low doses"
+    },
+    {
+      "id": "E",
+      "text": "β2 > β1; lowers mean arterial pressure through vasodilation"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Norepinephrine has affinity ordered α1 > α2 > β1. It raises systolic and diastolic blood pressure (and mean arterial pressure). Heart rate shows little or no increase because the β1-mediated direct chronotropic effect is largely offset by baroreceptor-mediated reflex slowing driven by the rise in blood pressure; cardiac output may decrease or increase slightly. Norepinephrine is used for hypotension and septic shock.",
+  "explanation_incorrect": {
+    "A": "This profile (β1 > β2, α with increased HR and CO and decreased systolic BP) describes dobutamine, not norepinephrine.",
+    "B": "Norepinephrine's order is α1 > α2 > β1, not α1 > α2 alone, and its net heart-rate change is minimal rather than a pronounced reflex tachycardia; strong reflex tachycardia follows pure α1 agonists such as phenylephrine.",
+    "D": "D1 = D2 > β is dopamine's affinity order, not norepinephrine's.",
+    "E": "β2 > β1 agonism with vasodilation and lowered MAP describes isoproterenol, which is used in electrophysiologic evaluation of tachyarrhythmias."
+  },
+  "educationalObjective": "Norepinephrine (α1 > α2 > β1) raises blood pressure with minimal heart-rate change because direct β1 chronotropy and reflex bradycardia offset each other.",
+  "source": "Generated from 5. Pharmacology.pdf - Autonomic Drugs: Direct sympathomimetics"
+},
+{
+  "id": "pharm-147",
+  "subject": "Pharmacology",
+  "major_topic": "Autonomic Drugs",
+  "subtopic": "Direct sympathomimetics",
+  "difficulty": "easy",
+  "vignette": "A 45-year-old man undergoing a dilated fundus examination receives topical drops that dilate his pupils. The same drug class is also found in over-the-counter nasal decongestant sprays and is used intravenously for ischemic priapism.",
+  "question": "Which receptor mediates the actions of this drug?",
+  "options": [
+    {
+      "id": "A",
+      "text": "β2 receptors"
+    },
+    {
+      "id": "B",
+      "text": "D1 receptors"
+    },
+    {
+      "id": "C",
+      "text": "α2 receptors"
+    },
+    {
+      "id": "D",
+      "text": "β3 receptors"
+    },
+    {
+      "id": "E",
+      "text": "α1 receptors"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Phenylephrine is a direct sympathomimetic with α1 > α2 selectivity. α1-mediated vasoconstriction supports its uses as a mydriatic for ocular procedures, a nasal decongestant in rhinitis, a vasopressor in hypotension, and a treatment for ischemic priapism. Vasoconstriction also lowers heart rate reflexively.",
+  "explanation_incorrect": {
+    "A": "β2 receptors mediate bronchodilation (albuterol, salmeterol, terbutaline) and would not produce mydriasis or vasoconstriction.",
+    "B": "D1 receptors mediate vasodilation and natriuresis (fenoldopam), the opposite of the vasoconstriction needed for decongestion and mydriasis.",
+    "C": "α2 receptors are the target of central sympatholytics such as clonidine and guanfacine, which decrease sympathetic outflow.",
+    "D": "β3 receptors relax detrusor smooth muscle and are targeted by mirabegron for overactive bladder."
+  },
+  "educationalObjective": "Phenylephrine is an α1 agonist used as a mydriatic, decongestant, vasopressor, and treatment for ischemic priapism.",
+  "source": "Generated from 5. Pharmacology.pdf - Autonomic Drugs: Direct sympathomimetics"
+}
+]

@@ -1,0 +1,166 @@
+[
+{
+  "id": "pharm-256",
+  "subject": "Pharmacology",
+  "major_topic": "Miscellaneous",
+  "subtopic": "Drug name endings: metabolic and other categories",
+  "difficulty": "easy",
+  "vignette": "A 59-year-old woman with type 2 diabetes mellitus is switched to a new oral agent whose name ends in -gliptin. Her HbA1c improves without significant weight gain or hypoglycemia.",
+  "question": "Which of the following best describes the mechanism of this medication?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Direct analog of glucagon-like peptide-1 that stimulates insulin secretion"
+    },
+    {
+      "id": "B",
+      "text": "Inhibition of dipeptidyl peptidase-4, increasing levels of endogenous incretin hormones"
+    },
+    {
+      "id": "C",
+      "text": "Blockade of sodium-glucose cotransporter-2 in the proximal tubule, increasing urinary glucose loss"
+    },
+    {
+      "id": "D",
+      "text": "Activation of PPAR-gamma, increasing peripheral insulin sensitivity"
+    },
+    {
+      "id": "E",
+      "text": "Closure of ATP-dependent potassium channels in pancreatic beta cells"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Drugs ending in -gliptin (eg, sitagliptin) are DPP-4 inhibitors. DPP-4 normally degrades the incretin hormones GLP-1 and GIP; inhibiting it prolongs the activity of endogenous incretins, enhancing glucose-dependent insulin secretion and suppressing glucagon with a low risk of hypoglycemia.",
+  "explanation_incorrect": {
+    "A": "Injectable GLP-1 analogs end in -glutide (eg, liraglutide), which directly activate the receptor rather than protecting endogenous incretins.",
+    "C": "SGLT-2 inhibition describes -gliflozin drugs (eg, dapagliflozin), which cause glycosuria rather than incretin enhancement.",
+    "D": "PPAR-gamma activation describes -glitazone drugs (eg, pioglitazone), which are associated with weight gain and edema.",
+    "E": "Closing ATP-dependent potassium channels describes sulfonylureas and meglitinides (-glinide), which carry a greater hypoglycemia risk."
+  },
+  "educationalObjective": "The suffix -gliptin identifies DPP-4 inhibitors that prolong endogenous incretin activity.",
+  "source": "Generated from 5. Pharmacology.pdf - Miscellaneous: Drug name endings: metabolic and other categories"
+},
+{
+  "id": "pharm-257",
+  "subject": "Pharmacology",
+  "major_topic": "Miscellaneous",
+  "subtopic": "Drug name endings: metabolic and other categories",
+  "difficulty": "hard",
+  "vignette": "A 62-year-old man with small cell lung cancer is admitted with confusion and a serum sodium of 121 mEq/L. Urine osmolality is high and the clinical picture is consistent with the syndrome of inappropriate ADH secretion. He is prescribed an oral agent whose name ends in -vaptan, and his sodium normalizes over several days.",
+  "question": "What is the mechanism of action of this medication?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Synthetic analog of ADH that stimulates V2 receptors in the collecting duct"
+    },
+    {
+      "id": "B",
+      "text": "Antagonism of vasopressin V2 receptors, promoting excretion of free water (aquaretic effect)"
+    },
+    {
+      "id": "C",
+      "text": "Induction of nephrogenic diabetes insipidus by inhibiting ADH release from the posterior pituitary"
+    },
+    {
+      "id": "D",
+      "text": "Inhibition of carbonic anhydrase, producing alkaline diuresis"
+    },
+    {
+      "id": "E",
+      "text": "Blockade of aldosterone receptors in the collecting duct, increasing sodium excretion"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Drugs ending in -vaptan (eg, tolvaptan) are vasopressin (ADH) receptor antagonists. By blocking V2 receptors in the collecting duct, they impair water reabsorption and promote excretion of electrolyte-free water, correcting euvolemic hyponatremia in SIADH without losing sodium.",
+  "explanation_incorrect": {
+    "A": "V2 receptor stimulation describes ADH analogs such as desmopressin, which retain water and would worsen hyponatremia.",
+    "C": "No drug induces nephrogenic DI by inhibiting posterior pituitary ADH release; lithium causes nephrogenic DI by impairing renal response to ADH, and it does not end in -vaptan.",
+    "D": "Carbonic anhydrase inhibition describes -zolamide/-azolamide agents (eg, acetazolamide), used for glaucoma and altitude sickness.",
+    "E": "Aldosterone receptor blockade describes spironolactone and eplerenone, which promote sodium and water excretion but do not specifically correct dilutional hyponatremia."
+  },
+  "educationalObjective": "The suffix -vaptan identifies ADH (vasopressin) receptor antagonists used for SIADH-associated hyponatremia.",
+  "source": "Generated from 5. Pharmacology.pdf - Miscellaneous: Drug name endings: metabolic and other categories"
+},
+{
+  "id": "pharm-258",
+  "subject": "Pharmacology",
+  "major_topic": "Miscellaneous",
+  "subtopic": "Drug name endings: metabolic and other categories",
+  "difficulty": "medium",
+  "vignette": "A 64-year-old man with hyperlipidemia has been taking a medication whose name ends in -statin for two years. He presents with bilateral thigh pain and dark urine after adding a new exercise regimen; laboratory studies show a markedly elevated creatine kinase level.",
+  "question": "Which of the following best describes the mechanism of action of his medication?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Inhibition of cholesterol absorption at the intestinal brush border"
+    },
+    {
+      "id": "B",
+      "text": "Inhibition of PCSK9, increasing hepatic LDL receptor recycling"
+    },
+    {
+      "id": "C",
+      "text": "Inhibition of HMG-CoA reductase, the rate-limiting enzyme of hepatic cholesterol synthesis"
+    },
+    {
+      "id": "D",
+      "text": "Binding bile acids in the gut, interrupting their enterohepatic recirculation"
+    },
+    {
+      "id": "E",
+      "text": "Activation of PPAR-alpha, increasing lipoprotein lipase activity"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Drugs ending in -statin (eg, atorvastatin) are HMG-CoA reductase inhibitors. They block the rate-limiting step of hepatic cholesterol synthesis, upregulating LDL receptors and lowering LDL. Muscle toxicity, ranging from myalgia to rhabdomyolysis with elevated creatine kinase, is their characteristic adverse effect, as seen here.",
+  "explanation_incorrect": {
+    "A": "Blocking intestinal cholesterol absorption describes ezetimibe, not a -statin agent.",
+    "B": "PCSK9 inhibition describes -mab biologic agents (eg, alirocumab), given by injection.",
+    "D": "Bile acid binding describes resins such as cholestyramine, which cause constipation rather than myopathy.",
+    "E": "PPAR-alpha activation describes fibrates (eg, gemfibrozil); notably, fibrates plus statins increase the risk of the rhabdomyolysis seen here."
+  },
+  "educationalObjective": "The suffix -statin identifies HMG-CoA reductase inhibitors, whose classic adverse effect is myopathy to rhabdomyolysis.",
+  "source": "Generated from 5. Pharmacology.pdf - Miscellaneous: Drug name endings: metabolic and other categories"
+},
+{
+  "id": "pharm-259",
+  "subject": "Pharmacology",
+  "major_topic": "Miscellaneous",
+  "subtopic": "Drug name endings: metabolic and other categories",
+  "difficulty": "medium",
+  "vignette": "A 55-year-old woman is about to begin cisplatin-based chemotherapy for ovarian cancer. Her oncologist prescribes an antiemetic given before each infusion whose name ends in -setron; she experiences markedly reduced nausea during treatment.",
+  "question": "Which of the following best describes the mechanism of this antiemetic?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Blockade of 5-HT3 receptors on vagal afferents and in the chemoreceptor trigger zone"
+    },
+    {
+      "id": "B",
+      "text": "Blockade of dopamine D2 receptors in the chemoreceptor trigger zone"
+    },
+    {
+      "id": "C",
+      "text": "Blockade of substance P (NK1) receptors in the brainstem emetic centers"
+    },
+    {
+      "id": "D",
+      "text": "Blockade of central H1 and muscarinic receptors"
+    },
+    {
+      "id": "E",
+      "text": "Activation of cannabinoid CB1 receptors in the central nervous system"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Drugs ending in -setron (eg, ondansetron) are 5-HT3 receptor antagonists. Serotonin released from enterochromaffin cells during chemotherapy (especially cisplatin) stimulates vagal afferents and the chemoreceptor trigger zone; blocking 5-HT3 receptors there makes these agents first-line prophylaxis against chemotherapy-induced emesis.",
+  "explanation_incorrect": {
+    "B": "D2 blockade describes agents such as metoclopramide and prochlorperazine, which carry extrapyramidal risks and do not end in -setron.",
+    "C": "NK1 (substance P) blockade describes drugs ending in -pitant (eg, aprepitant), often added to -setron agents in combination regimens.",
+    "D": "H1 and muscarinic blockade describes first-generation antihistamines such as dimenhydrinate, used for motion sickness.",
+    "E": "CB1 activation describes cannabinoids such as dronabinol, used for refractory chemotherapy nausea but not identified by the -setron ending."
+  },
+  "educationalObjective": "The suffix -setron identifies 5-HT3 blockers, first-line prophylaxis for cisplatin-induced nausea and vomiting.",
+  "source": "Generated from 5. Pharmacology.pdf - Miscellaneous: Drug name endings: metabolic and other categories"
+}
+]

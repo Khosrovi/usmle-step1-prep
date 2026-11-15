@@ -1,0 +1,248 @@
+[
+{
+  "id": "pharm-113",
+  "subject": "Pharmacology",
+  "major_topic": "Autonomic Drugs",
+  "subtopic": "Cholinomimetic agents: direct agonists",
+  "difficulty": "medium",
+  "vignette": "A 74-year-old man is admitted after a hip fracture and placed on bed rest. Two days later he is unable to void, and bladder ultrasound shows significant urinary retention. The care team wants to avoid an indwelling catheter to reduce infection risk. Which of the following drugs is most appropriate to stimulate bladder emptying?",
+  "question": "Which of the following drugs should be administered?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Oxybutynin"
+    },
+    {
+      "id": "B",
+      "text": "Bethanechol"
+    },
+    {
+      "id": "C",
+      "text": "Neostigmine"
+    },
+    {
+      "id": "D",
+      "text": "Tamsulosin"
+    },
+    {
+      "id": "E",
+      "text": "Pilocarpine"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Bethanechol is a direct muscarinic agonist that activates bladder smooth muscle, promoting detrusor contraction and voiding; it is classically used for postoperative and neurogenic urinary retention. It is resistant to acetylcholinesterase, giving it a sustained effect, and it acts on muscarinic receptors with no nicotinic activity. The mnemonic is \"Bethany, call me to activate your bladder.\"",
+  "explanation_incorrect": {
+    "A": "Oxybutynin is a muscarinic antagonist used for overactive bladder and urge incontinence; it would relax the bladder and worsen urinary retention.",
+    "C": "Neostigmine is an indirect agonist (anticholinesterase) used for postoperative ileus, urinary retention, myasthenia gravis, and neuromuscular junction blockade reversal; it does not penetrate the blood-brain barrier, but a direct agonist is the classic first choice tested for activating the bladder.",
+    "D": "Tamsulosin is an alpha-1 antagonist used for benign prostatic hyperplasia; it relaxes the prostatic urethra but does not activate detrusor smooth muscle.",
+    "E": "Pilocarpine is a direct muscarinic agonist used for glaucoma and xerostomia; it contracts the ciliary muscle and pupillary sphincter of the eye rather than being the classic drug for urinary retention."
+  },
+  "educationalObjective": "Bethanechol is a direct muscarinic agonist resistant to acetylcholinesterase that activates bladder smooth muscle for postoperative and neurogenic urinary retention.",
+  "source": "Generated from 5. Pharmacology.pdf - Autonomic Drugs: Cholinomimetic agents: direct agonists"
+},
+{
+  "id": "pharm-114",
+  "subject": "Pharmacology",
+  "major_topic": "Autonomic Drugs",
+  "subtopic": "Cholinomimetic agents: direct agonists",
+  "difficulty": "medium",
+  "vignette": "During cataract surgery, an ophthalmologist administers an agent that rapidly constricts the pupil to maintain adequate miosis for the procedure. The drug used is described as a \"carbon copy of acetylcholine\" but produces a longer-lasting pupillary constriction. Which of the following properties best explains this longer duration of action?",
+  "question": "Which of the following properties best explains the prolonged pupillary constriction?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It is a nicotinic agonist at autonomic ganglia"
+    },
+    {
+      "id": "B",
+      "text": "It crosses the blood-brain barrier and causes sedation"
+    },
+    {
+      "id": "C",
+      "text": "It is rapidly hydrolyzed by acetylcholinesterase"
+    },
+    {
+      "id": "D",
+      "text": "It activates alpha-1 receptors, causing vasoconstriction"
+    },
+    {
+      "id": "E",
+      "text": "It is resistant to degradation by acetylcholinesterase"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Carbachol is described as a \"carbon copy of acetylcholine\" but is resistant to acetylcholinesterase, so it is not rapidly broken down and produces sustained muscarinic effects. It constricts the pupil and is used for intraoperative miosis induction during ophthalmic surgery.",
+  "explanation_incorrect": {
+    "A": "Carbachol acts on muscarinic receptors of the pupillary sphincter; the miosis tested here is a muscarinic effect, not a nicotinic ganglionic effect.",
+    "B": "Carbachol is used topically in the eye for miosis; crossing the blood-brain barrier to cause sedation is not a feature of this drug.",
+    "C": "Rapid hydrolysis by acetylcholinesterase describes acetylcholine itself, which is exactly why carbachol was designed to resist degradation and last longer.",
+    "D": "Alpha-1 activation would dilate the radial muscle of the iris (mydriasis) and vasoconstrict; it does not produce miosis."
+  },
+  "educationalObjective": "Carbachol is an acetylcholine analog resistant to acetylcholinesterase that constricts the pupil and is used for intraoperative miosis induction.",
+  "source": "Generated from 5. Pharmacology.pdf - Autonomic Drugs: Cholinomimetic agents: direct agonists"
+},
+{
+  "id": "pharm-115",
+  "subject": "Pharmacology",
+  "major_topic": "Autonomic Drugs",
+  "subtopic": "Cholinomimetic agents: direct agonists",
+  "difficulty": "medium",
+  "vignette": "A 28-year-old woman has 3 months of episodic coughing and chest tightness, particularly with exercise and cold air. Office spirometry is normal. She undergoes an inhaled bronchoprovocation test with an agent that stimulates muscarinic receptors in the airway; her FEV1 drops more than 20%, confirming the diagnosis. Which of the following mechanisms mediated her bronchoconstriction during the test?",
+  "question": "Which of the following mechanisms mediated the bronchoconstriction observed during the test?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Direct stimulation of beta-2 receptors in airway smooth muscle"
+    },
+    {
+      "id": "B",
+      "text": "Inhibition of acetylcholinesterase at the neuromuscular junction"
+    },
+    {
+      "id": "C",
+      "text": "Stimulation of muscarinic receptors in the airway"
+    },
+    {
+      "id": "D",
+      "text": "Blockade of muscarinic receptors on airway smooth muscle"
+    },
+    {
+      "id": "E",
+      "text": "Activation of alpha-1 receptors causing airway mucosal edema"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Methacholine stimulates muscarinic receptors in the airway when inhaled, producing bronchoconstriction in hyperresponsive airways. The methacholine challenge test is used to diagnose asthma when baseline spirometry is normal, and a significant drop in FEV1 supports the diagnosis.",
+  "explanation_incorrect": {
+    "A": "Beta-2 stimulation causes bronchodilation, which is the basis of asthma treatment with albuterol, not of a bronchoprovocation challenge.",
+    "B": "Methacholine is a direct muscarinic agonist; inhibiting acetylcholinesterase at the neuromuscular junction describes indirect anticholinesterase agents such as neostigmine.",
+    "D": "Muscarinic blockade produces bronchodilation and is the mechanism of ipratropium and tiotropium, the opposite of the challenge test.",
+    "E": "Alpha-1 activation causes vasoconstriction, not the muscarinic bronchoconstriction elicited by methacholine."
+  },
+  "educationalObjective": "Inhaled methacholine stimulates airway muscarinic receptors and is used as a bronchoprovocation challenge test to diagnose asthma.",
+  "source": "Generated from 5. Pharmacology.pdf - Autonomic Drugs: Cholinomimetic agents: direct agonists"
+},
+{
+  "id": "pharm-116",
+  "subject": "Pharmacology",
+  "major_topic": "Autonomic Drugs",
+  "subtopic": "Cholinomimetic agents: direct agonists",
+  "difficulty": "easy",
+  "vignette": "A 52-year-old woman with dry eyes and a dry mouth has a lip biopsy showing lymphocytic sialadenitis, consistent with Sjögren syndrome. Her ophthalmologist recommends artificial tears, and a medication is prescribed to increase her saliva production. The drug is resistant to acetylcholinesterase and can cross the blood-brain barrier. Which of the following drugs was most likely prescribed?",
+  "question": "Which of the following drugs was most likely prescribed?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Pilocarpine"
+    },
+    {
+      "id": "B",
+      "text": "Bethanechol"
+    },
+    {
+      "id": "C",
+      "text": "Methacholine"
+    },
+    {
+      "id": "D",
+      "text": "Carbachol"
+    },
+    {
+      "id": "E",
+      "text": "Glycopyrrolate"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Pilocarpine is a direct muscarinic agonist that is resistant to acetylcholinesterase and can cross the blood-brain barrier. It is a potent stimulator of sweat, tears, and saliva, making it useful for xerostomia in Sjögren syndrome as well as for glaucoma. The mnemonic is \"You cry, drool, and sweat on your 'pilow.'\"",
+  "explanation_incorrect": {
+    "B": "Bethanechol activates bladder smooth muscle for urinary retention and is not used to stimulate salivation in Sjögren syndrome.",
+    "C": "Methacholine is used exclusively as an inhaled challenge test for the diagnosis of asthma, not for secretory stimulation.",
+    "D": "Carbachol is used to constrict the pupil for intraoperative miosis induction, not to treat xerostomia.",
+    "E": "Glycopyrrolate is a muscarinic antagonist used to reduce secretions, drooling, and peptic ulcer symptoms — the opposite of what this patient needs."
+  },
+  "educationalObjective": "Pilocarpine, a direct muscarinic agonist that crosses the blood-brain barrier and resists acetylcholinesterase, potently stimulates sweat, tears, and saliva and treats glaucoma and Sjögren-related xerostomia.",
+  "source": "Generated from 5. Pharmacology.pdf - Autonomic Drugs: Cholinomimetic agents: direct agonists"
+},
+{
+  "id": "pharm-117",
+  "subject": "Pharmacology",
+  "major_topic": "Autonomic Drugs",
+  "subtopic": "Cholinomimetic agents: direct agonists",
+  "difficulty": "hard",
+  "vignette": "A 66-year-old man with open-angle glaucoma is prescribed pilocarpine eye drops. His intraocular pressure improves over the following weeks. Which of the following actions of pilocarpine best explains the reduction in intraocular pressure in this type of glaucoma?",
+  "question": "Which of the following actions best explains the reduction in intraocular pressure?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Contraction of the radial muscle of the iris"
+    },
+    {
+      "id": "B",
+      "text": "Relaxation of the ciliary muscle, opening the trabecular meshwork"
+    },
+    {
+      "id": "C",
+      "text": "Inhibition of aqueous humor production by the ciliary epithelium"
+    },
+    {
+      "id": "D",
+      "text": "Contraction of the ciliary muscle, improving aqueous humor outflow"
+    },
+    {
+      "id": "E",
+      "text": "Mydriasis that pulls the iris away from the anterior chamber angle"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Pilocarpine contracts the ciliary muscle of the eye in open-angle glaucoma, which increases the outflow of aqueous humor through the trabecular meshwork and lowers intraocular pressure. It also contracts the pupillary sphincter (miosis) in closed-angle glaucoma, pulling the peripheral iris away from the angle.",
+  "explanation_incorrect": {
+    "A": "The radial muscle of the iris is dilated by alpha-1 activation, producing mydriasis; pilocarpine instead constricts the pupillary sphincter.",
+    "B": "Pilocarpine contracts — not relaxes — the ciliary muscle; ciliary muscle contraction opens the trabecular meshwork to improve outflow.",
+    "C": "Reducing aqueous production is the mechanism of beta-blockers and alpha-agonists used in glaucoma; pilocarpine works by increasing outflow.",
+    "E": "Mydriasis is a muscarinic antagonist effect and can actually precipitate acute angle-closure glaucoma in older adults."
+  },
+  "educationalObjective": "Pilocarpine contracts the ciliary muscle (open-angle glaucoma) and the pupillary sphincter (closed-angle glaucoma) to improve aqueous humor outflow.",
+  "source": "Generated from 5. Pharmacology.pdf - Autonomic Drugs: Cholinomimetic agents: direct agonists"
+},
+{
+  "id": "pharm-118",
+  "subject": "Pharmacology",
+  "major_topic": "Autonomic Drugs",
+  "subtopic": "Cholinomimetic agents: direct agonists",
+  "difficulty": "easy",
+  "vignette": "A 70-year-old man with a long history of COPD is prescribed bethanechol for neurogenic urinary retention. The prescribing clinician must consider his comorbidities before starting the drug. For which of the following reasons is caution warranted in this patient?",
+  "question": "For which of the following reasons is caution warranted in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Cholinomimetic agents cause tachycardia and hypertension"
+    },
+    {
+      "id": "B",
+      "text": "Cholinomimetic agents worsen urinary retention"
+    },
+    {
+      "id": "C",
+      "text": "Cholinomimetic agents cause mydriasis and cycloplegia"
+    },
+    {
+      "id": "D",
+      "text": "Cholinomimetic agents increase intraocular pressure in open-angle glaucoma"
+    },
+    {
+      "id": "E",
+      "text": "Cholinomimetic agents can exacerbate bronchospasm in asthma and COPD"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Muscarinic stimulation causes bronchoconstriction, so cholinomimetic agents such as bethanechol can exacerbate asthma and COPD (as well as peptic ulcers) in susceptible patients. This patient's COPD makes bronchospasm the key risk when activating muscarinic receptors systemically.",
+  "explanation_incorrect": {
+    "A": "Muscarinic activation causes bradycardia and vasodilation, not tachycardia and hypertension.",
+    "B": "Bethanechol is specifically used to treat urinary retention by activating bladder smooth muscle, not to worsen it.",
+    "C": "Mydriasis and cycloplegia are muscarinic antagonist (anticholinergic) effects; muscarinic agonists cause miosis.",
+    "D": "Pilocarpine lowers intraocular pressure in open-angle glaucoma by contracting the ciliary muscle; cholinomimetics are used to treat, not cause, this condition."
+  },
+  "educationalObjective": "Cholinomimetic agents should be used cautiously — or avoided — in patients with COPD, asthma, or peptic ulcer disease because muscarinic activation causes bronchospasm and acid secretion.",
+  "source": "Generated from 5. Pharmacology.pdf - Autonomic Drugs: Cholinomimetic agents: direct agonists"
+}
+]

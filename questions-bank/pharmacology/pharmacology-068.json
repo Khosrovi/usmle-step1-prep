@@ -1,0 +1,207 @@
+[
+{
+  "id": "pharm-056",
+  "subject": "Pharmacology",
+  "major_topic": "Pharmacokinetics and Pharmacodynamics",
+  "subtopic": "Urine pH, pKa, and drug elimination",
+  "difficulty": "easy",
+  "vignette": "A 17-year-old girl is brought to the emergency department 3 hours after ingesting a large quantity of her mother's aspirin tablets. She is anxious and hyperventilating, and complains of ringing in her ears. Arterial blood gas analysis shows a primary respiratory alkalosis with a concurrent metabolic acidosis. The treating physician plans to administer intravenous sodium bicarbonate with the goal of enhancing urinary salicylate elimination.",
+  "question": "Which of the following characteristics of aspirin best explains why alkalinizing the urine enhances its elimination?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It is a weak base that becomes trapped in its protonated, lipid-soluble form at alkaline pH"
+    },
+    {
+      "id": "B",
+      "text": "It is a weak acid; at alkaline pH it is converted largely to its ionized, lipid-insoluble form, which is trapped in the tubular lumen"
+    },
+    {
+      "id": "C",
+      "text": "It undergoes zero-order elimination, so alkalinization reduces plasma concentration at a constant rate"
+    },
+    {
+      "id": "D",
+      "text": "Alkalinization increases its binding to plasma proteins, preventing filtration at the glomerulus"
+    },
+    {
+      "id": "E",
+      "text": "It is completely ionized at every urinary pH, so reabsorption is normally negligible"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Aspirin (salicylate) is the prototypic weak acid (RCOOH ⇌ RCOO– + H+). In an alkaline urine, the equilibrium shifts toward the deprotonated, ionized RCOO– species. Ionized species cannot passively diffuse back across the lipid tubular epithelium, so they are trapped in the urine and cleared quickly, whereas the neutral, lipid-soluble form can be reabsorbed. This 'ion trapping' is the classic rationale for treating salicylate (and phenobarbital, methotrexate) overdose with sodium bicarbonate.",
+  "explanation_incorrect": {
+    "A": "This describes weak bases such as amphetamines and tricyclic antidepressants, which are trapped in acidic urine. Aspirin is a weak acid, not a weak base.",
+    "C": "Aspirin does exhibit zero-order kinetics at high (toxic) concentrations, but that is a capacity-limited property of its metabolism and is unrelated to urinary pH; alkalinization does not change the elimination order.",
+    "D": "Protein binding occurs in the plasma and actually reduces glomerular filtration. The benefit of alkalinization is ion trapping of secreted drug in the tubular lumen, not altered plasma binding.",
+    "E": "Weak acids are only partially ionized; the fraction ionized depends on urinary pH relative to the drug's pKa. The neutral fraction that is normally reabsorbed is exactly what alkalinization eliminates."
+  },
+  "educationalObjective": "Weak acids (eg, salicylates, phenobarbital) are trapped and eliminated faster in alkalinized urine because the ionized species cannot be reabsorbed.",
+  "source": "Generated from 5. Pharmacology.pdf - Pharmacokinetics and Pharmacodynamics: Urine pH, pKa, and drug elimination"
+},
+{
+  "id": "pharm-057",
+  "subject": "Pharmacology",
+  "major_topic": "Pharmacokinetics and Pharmacodynamics",
+  "subtopic": "Urine pH, pKa, and drug elimination",
+  "difficulty": "medium",
+  "vignette": "A 22-year-old man is brought to the emergency department by friends after taking an unknown quantity of amphetamine tablets at a party. He is agitated, diaphoretic, and hypertensive, with a temperature of 39.2°C. The consulting toxicologist notes that, unlike some overdoses, manipulations of urinary pH can meaningfully accelerate elimination of this drug. Amphetamine is a weakly basic drug that exists in equilibrium between a protonated and an unprotonated species.",
+  "question": "Which form of amphetamine predominates in acidic urine, and why does that favor its excretion?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The neutral (unprotonated) form, which is lipid soluble and freely reabsorbed across the tubular epithelium"
+    },
+    {
+      "id": "B",
+      "text": "The neutral (unprotonated) form, which becomes trapped because of its large molecular size"
+    },
+    {
+      "id": "C",
+      "text": "The deprotonated anionic form, which carries a negative charge and is trapped in the lumen"
+    },
+    {
+      "id": "D",
+      "text": "The protonated cationic form (RNH3+), which is ionized, lipid insoluble, and trapped in the urine"
+    },
+    {
+      "id": "E",
+      "text": "The drug is equally ionized at any urinary pH, so urinary acidification has no effect on its excretion"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Amphetamines (and tricyclic antidepressants) are weak bases (RNH3+ ⇌ RNH2 + H+). In an acidic environment the equilibrium shifts toward the protonated, charged RNH3+ species. This ionized form is lipid insoluble, cannot diffuse back through the tubular epithelium, and is therefore trapped and cleared rapidly. This is the basis for treating severe alkalosis/weak-base overdose with urinary acidification (eg, ammonium chloride).",
+  "explanation_incorrect": {
+    "A": "The neutral RNH2 form does pass back across the tubular epithelium readily — which is precisely why it is the reabsorbed, not the excreted, species.",
+    "B": "Molecular size is not the determinant of trapping here; the relevant property is ionization, which prevents passive lipid membrane diffusion.",
+    "C": "Weak bases protonate to cations (RNH3+), not anions. The anionic trapped species is characteristic of weak acids such as aspirin.",
+    "E": "Weak bases are only partially ionized, and the ionized fraction depends directly on luminal pH; acidifying the urine substantially increases the trapped fraction."
+  },
+  "educationalObjective": "Weak bases such as amphetamines are trapped in their protonated, ionized form in acidic urine, which is why acidification enhances their elimination.",
+  "source": "Generated from 5. Pharmacology.pdf - Pharmacokinetics and Pharmacodynamics: Urine pH, pKa, and drug elimination"
+},
+{
+  "id": "pharm-058",
+  "subject": "Pharmacology",
+  "major_topic": "Pharmacokinetics and Pharmacodynamics",
+  "subtopic": "Urine pH, pKa, and drug elimination",
+  "difficulty": "medium",
+  "vignette": "A pharmacology fellow is studying the renal handling of a new weakly acidic drug with a pKa of 7.4 in an animal model. She collects tubular fluid samples and manipulates the luminal pH experimentally. Her mentor reminds her that the relationship between a drug's pKa and the surrounding pH determines what fraction of the drug exists in the ionized, 'trappable' form.",
+  "question": "When this drug (pKa 7.4) is dissolved in tubular fluid at a pH of exactly 7.4, what percentage of the drug is ionized?",
+  "options": [
+    {
+      "id": "A",
+      "text": "50%"
+    },
+    {
+      "id": "B",
+      "text": "10%"
+    },
+    {
+      "id": "C",
+      "text": "90%"
+    },
+    {
+      "id": "D",
+      "text": "Greater than 99%"
+    },
+    {
+      "id": "E",
+      "text": "It cannot be determined without knowing the drug's molecular weight"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "The pKa is defined as the pH at which a weak acid or weak base is 50% ionized and 50% nonionized; it reflects the strength of the weak acid or base. When the surrounding pH equals the pKa, the Henderson-Hasselbalch relationship dictates an equal split between the ionized and nonionized species, regardless of the molecule's size or the direction of its ionization.",
+  "explanation_incorrect": {
+    "B": "A 10% ionized fraction would occur for a weak acid when the pH is 1 unit below its pKa (pH 6.4), not at pH equal to pKa.",
+    "C": "A 90% ionized fraction would occur for a weak acid when the pH is 1 unit above its pKa (pH 8.4), not at pH equal to pKa.",
+    "D": "Near-complete ionization occurs only when the pH is 2 or more units above a weak acid's pKa; at pH = pKa exactly half the drug is ionized.",
+    "E": "Ionization fraction is determined by the Henderson-Hasselbalch relationship using pH and pKa; molecular weight is irrelevant to this calculation."
+  },
+  "educationalObjective": "pKa is the pH at which a drug is 50% ionized and 50% nonionized — the pH–pKa relationship determines the ion-trapping fraction.",
+  "source": "Generated from 5. Pharmacology.pdf - Pharmacokinetics and Pharmacodynamics: Urine pH, pKa, and drug elimination"
+},
+{
+  "id": "pharm-059",
+  "subject": "Pharmacology",
+  "major_topic": "Pharmacokinetics and Pharmacodynamics",
+  "subtopic": "Urine pH, pKa, and drug elimination",
+  "difficulty": "hard",
+  "vignette": "A 34-year-old woman with a history of depression is found unresponsive after an apparent overdose of her tricyclic antidepressant. In the emergency department she is hypotensive, and the ECG shows a QRS interval of 150 msec with a terminal R wave in lead aVR. She is immediately given intravenous sodium bicarbonate, and the QRS interval narrows over the next several minutes.",
+  "question": "What is the primary therapeutic rationale for administering sodium bicarbonate in this patient, and how does it differ from its use in salicylate poisoning?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It acidifies the urine, trapping the weakly basic drug in its ionized form and accelerating its elimination"
+    },
+    {
+      "id": "B",
+      "text": "It enhances hepatic phase II conjugation of the tricyclic ring, rapidly inactivating the drug"
+    },
+    {
+      "id": "C",
+      "text": "It adsorbs the drug remaining in the gastrointestinal lumen, preventing further absorption"
+    },
+    {
+      "id": "D",
+      "text": "It reverses the anticholinergic effects of the drug by increasing acetylcholine release at muscarinic receptors"
+    },
+    {
+      "id": "E",
+      "text": "It raises extracellular pH to overcome the drug's sodium channel–blocking activity and treat cardiac toxicity, but does not accelerate drug elimination"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Tricyclic antidepressant toxicity is initially treated with sodium bicarbonate because the resulting alkalemia overcomes the TCAs' fast sodium channel–blocking activity, which is responsible for the conduction delay (wide QRS) and cardiac toxicity. Critically — and unlike in salicylate poisoning, where alkalinization traps the weak acid in urine — bicarbonate in TCA toxicity treats the cardiac effects but does not accelerate elimination of the drug.",
+  "explanation_incorrect": {
+    "A": "Urinary trapping by acidification is a strategy for weak bases, but it is not achieved with bicarbonate, and in TCA toxicity alkalinization does not meaningfully speed elimination.",
+    "B": "Sodium bicarbonate has no effect on hepatic conjugation reactions; the benefit is on cardiac conduction, not metabolism.",
+    "C": "Adsorption of drug in the gut is the mechanism of activated charcoal, not bicarbonate.",
+    "D": "The anticholinergic features of TCA toxicity are not the target of bicarbonate therapy; it acts on sodium channel blockade, not acetylcholine release."
+  },
+  "educationalObjective": "Sodium bicarbonate in TCA overdose reverses sodium channel blockade and treats cardiac toxicity, but — unlike in salicylate poisoning — it does not accelerate drug elimination.",
+  "source": "Generated from 5. Pharmacology.pdf - Pharmacokinetics and Pharmacodynamics: Urine pH, pKa, and drug elimination"
+},
+{
+  "id": "pharm-060",
+  "subject": "Pharmacology",
+  "major_topic": "Pharmacokinetics and Pharmacodynamics",
+  "subtopic": "Urine pH, pKa, and drug elimination",
+  "difficulty": "medium",
+  "vignette": "A 45-year-old man with epilepsy is admitted after taking several times his prescribed dose of phenobarbital. He is lethargic but hemodynamically stable. The team initiates urinary alkalinization with sodium bicarbonate to promote elimination. A medical student asks why the drug lingers in the body at all, given that it is filtered and secreted into the tubular lumen at normal urine pH.",
+  "question": "Which property of the filtered phenobarbital molecules allows them to be reabsorbed back into the circulation, thereby prolonging elimination?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Their positive charge, which attracts them to the negatively charged tubular epithelium"
+    },
+    {
+      "id": "B",
+      "text": "Their binding to albumin within the tubular lumen, which concentrates them for active uptake"
+    },
+    {
+      "id": "C",
+      "text": "Their nonionized, lipid-soluble state, which permits passive diffusion back across the tubular epithelium"
+    },
+    {
+      "id": "D",
+      "text": "Their rapid conversion to glucuronide metabolites within the tubular cell"
+    },
+    {
+      "id": "E",
+      "text": "Their complete resistance to ionization, which keeps every molecule available for reabsorption"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "In the renal tubule, neutral (nonionized) forms of drugs are lipid soluble and can passively diffuse back into the circulation, slowing elimination; ionized species are trapped in the urine and cleared quickly. Phenobarbital is a weak acid, so at normal (acidic) urine pH a substantial fraction remains in its nonionized RCOOH form and is reabsorbed — which is why alkalinizing the urine, which converts it to the trapped RCOO– form, accelerates its elimination.",
+  "explanation_incorrect": {
+    "A": "Ionized, charged species — whether positive or negative — are the ones that cannot diffuse back and are trapped; attraction to the epithelium is not the mechanism of reabsorption.",
+    "B": "Phenobarbital is not concentrated in the lumen by albumin binding for reabsorption; reabsorption occurs by passive diffusion of the unbound neutral species.",
+    "D": "Phase II glucuronidation occurs primarily in the liver, not within the renal tubular cell, and conjugated metabolites are excreted rather than reabsorbed.",
+    "E": "No drug is completely resistant to ionization; the ionized fraction varies with pH, and only the nonionized fraction is available for reabsorption."
+  },
+  "educationalObjective": "Neutral, lipid-soluble drug forms are reabsorbed from the tubule, while ionized species are trapped in urine and cleared quickly.",
+  "source": "Generated from 5. Pharmacology.pdf - Pharmacokinetics and Pharmacodynamics: Urine pH, pKa, and drug elimination"
+}
+]

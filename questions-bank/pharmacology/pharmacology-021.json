@@ -1,0 +1,166 @@
+[
+{
+  "id": "pharm-180",
+  "subject": "Pharmacology",
+  "major_topic": "Toxicities and Adverse Effects",
+  "subtopic": "Age-related changes in pharmacokinetics",
+  "difficulty": "easy",
+  "vignette": "An 82-year-old woman is admitted after her family found her excessively sedated at home. She takes a single hydrophilic medication at the same standard dose prescribed to her at age 65, and she has not changed her routine in years. Her physician explains that aging has altered the way the drug distributes through her body, increasing her plasma concentration and her risk of toxicity.",
+  "question": "Which of the following age-related changes best explains the elevated plasma concentration of this hydrophilic drug?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Increased total body fat increasing the volume of distribution"
+    },
+    {
+      "id": "B",
+      "text": "Increased total body water increasing the volume of distribution"
+    },
+    {
+      "id": "C",
+      "text": "Decreased total body water decreasing the volume of distribution"
+    },
+    {
+      "id": "D",
+      "text": "Decreased hepatic mass impairing first-pass metabolism"
+    },
+    {
+      "id": "E",
+      "text": "Impaired gastrointestinal absorption increasing bioavailability"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Aging decreases total body water, which decreases the volume of distribution of hydrophilic drugs and leads to increased plasma concentrations when standard adult doses are used. Older patients often require reduced doses of hydrophilic agents to prevent toxicity.",
+  "explanation_incorrect": {
+    "A": "Increased total body fat occurs with aging but increases the volume of distribution of lipophilic drugs, prolonging half-life rather than raising plasma concentration by shrinkage of the aqueous compartment.",
+    "B": "Total body water decreases rather than increases with age; an increased aqueous volume would dilute a hydrophilic drug and lower, not raise, its plasma concentration.",
+    "D": "Reduced hepatic mass and blood flow decrease first-pass metabolism and hepatic clearance, but the question targets distribution of a hydrophilic drug, which is driven by total body water.",
+    "E": "Gastrointestinal absorption is mostly unaffected by aging, so altered absorption does not explain the elevated drug concentration."
+  },
+  "educationalObjective": "In older adults, decreased total body water shrinks the volume of distribution of hydrophilic drugs, raising plasma concentrations.",
+  "source": "Generated from 5. Pharmacology.pdf - Toxicities and Adverse Effects: Age-related changes in pharmacokinetics"
+},
+{
+  "id": "pharm-181",
+  "subject": "Pharmacology",
+  "major_topic": "Toxicities and Adverse Effects",
+  "subtopic": "Age-related changes in pharmacokinetics",
+  "difficulty": "medium",
+  "vignette": "A 78-year-old man receives a single standard dose of a lipophilic sedative-hypnotic before a procedure. The clinical team is surprised that he remains drowsy for much longer than younger patients given the same dose. His renal function and hepatic enzyme activity are within expected limits for his age, and his weight has not changed significantly in decades except for a shift in body composition.",
+  "question": "Which of the following age-related pharmacokinetic changes most likely accounts for his prolonged drug effect?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Decreased total body water concentrating the drug in plasma"
+    },
+    {
+      "id": "B",
+      "text": "Decreased phase II metabolism delaying conjugation of the drug"
+    },
+    {
+      "id": "C",
+      "text": "Decreased renal clearance delaying elimination of the drug"
+    },
+    {
+      "id": "D",
+      "text": "Decreased absorption slowing entry of the drug into plasma"
+    },
+    {
+      "id": "E",
+      "text": "Increased total body fat increasing the drug's volume of distribution"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Aging increases total body fat, which increases the volume of distribution of lipophilic drugs and prolongs their half-life. Drug that partitions into the expanded fat compartment is released slowly, extending sedation well beyond what is seen in younger adults.",
+  "explanation_incorrect": {
+    "A": "Decreased total body water affects hydrophilic drugs by increasing their plasma concentration; it does not explain prolonged effects of a lipophilic drug.",
+    "B": "Phase II metabolism is relatively preserved in aging, so impaired conjugation is not the explanation.",
+    "C": "Decreased renal clearance does occur with aging, but the question asks for the change tied to increased body fat and volume of distribution of a lipophilic agent.",
+    "D": "Absorption is mostly unaffected by aging, so delayed absorption does not account for the prolonged sedation."
+  },
+  "educationalObjective": "Increased total body fat in the elderly increases the volume of distribution of lipophilic drugs, prolonging their half-life.",
+  "source": "Generated from 5. Pharmacology.pdf - Toxicities and Adverse Effects: Age-related changes in pharmacokinetics"
+},
+{
+  "id": "pharm-182",
+  "subject": "Pharmacology",
+  "major_topic": "Toxicities and Adverse Effects",
+  "subtopic": "Age-related changes in pharmacokinetics",
+  "difficulty": "medium",
+  "vignette": "A 76-year-old man is enrolled in a study of hepatic drug metabolism. Compared with a healthy 25-year-old volunteer, his hepatic mass and blood flow are reduced. The investigators are characterizing which enzymatic phase of his drug metabolism has changed and which has remained relatively intact.",
+  "question": "Which of the following best describes hepatic drug metabolism in this patient compared with the young volunteer?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Phase I reactions decreased, phase II reactions relatively preserved"
+    },
+    {
+      "id": "B",
+      "text": "Phase I reactions increased, phase II reactions decreased"
+    },
+    {
+      "id": "C",
+      "text": "Phase I reactions unchanged, phase II reactions decreased"
+    },
+    {
+      "id": "D",
+      "text": "Both phase I and phase II reactions proportionally decreased"
+    },
+    {
+      "id": "E",
+      "text": "Both phase I and phase II reactions relatively preserved"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Aging decreases hepatic mass and blood flow, reducing first-pass metabolism and hepatic clearance. Within the hepatocyte, phase I (oxidation, reduction, hydrolysis) reactions are decreased while phase II conjugation reactions are relatively preserved — an important pattern when predicting drug behavior in elderly patients.",
+  "explanation_incorrect": {
+    "B": "Phase I reactions are reduced, not increased, with age; increased phase I activity is the opposite of the documented age-related change.",
+    "C": "Phase I reactions are the ones that decline; phase II conjugation is the component that is relatively preserved, so this reverses the actual pattern.",
+    "D": "The decline is not proportional across both phases — phase II conjugation is relatively preserved while phase I is decreased.",
+    "E": "Hepatic drug handling does change with age; ignoring the phase I decline would lead to over-dosing drugs cleared by oxidative metabolism."
+  },
+  "educationalObjective": "Aging decreases phase I drug metabolism while phase II conjugation remains relatively preserved.",
+  "source": "Generated from 5. Pharmacology.pdf - Toxicities and Adverse Effects: Age-related changes in pharmacokinetics"
+},
+{
+  "id": "pharm-183",
+  "subject": "Pharmacology",
+  "major_topic": "Toxicities and Adverse Effects",
+  "subtopic": "Age-related changes in pharmacokinetics",
+  "difficulty": "hard",
+  "vignette": "A first-year resident is reviewing an 88-year-old patient's medications and asks which pharmacokinetic processes typically change with aging and therefore require dose adjustment. The attending lists the four classic pharmacokinetic domains — absorption, distribution, metabolism, and excretion — and asks the resident to identify the one that is mostly spared.",
+  "question": "Which of the following pharmacokinetic processes is mostly unaffected by aging and therefore least likely to require dose adjustment?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Distribution of hydrophilic drugs"
+    },
+    {
+      "id": "B",
+      "text": "Gastrointestinal absorption of oral drugs"
+    },
+    {
+      "id": "C",
+      "text": "Hepatic first-pass metabolism"
+    },
+    {
+      "id": "D",
+      "text": "Renal clearance of renally eliminated drugs"
+    },
+    {
+      "id": "E",
+      "text": "Volume of distribution of lipophilic drugs"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "In aging, absorption is mostly unaffected, whereas the other domains change: distribution shifts because total body water falls and body fat rises, hepatic mass and blood flow decline (reducing first-pass metabolism and hepatic clearance, with phase I decreased and phase II preserved), and renal mass and blood flow decrease GFR, lowering renal clearance. Standard doses can therefore produce increased plasma concentrations, and reduced dosing is often needed.",
+  "explanation_incorrect": {
+    "A": "Decreased total body water decreases the volume of distribution of hydrophilic drugs and raises their concentration, so distribution requires dose consideration.",
+    "C": "Decreased hepatic mass and blood flow reduce first-pass metabolism and hepatic clearance, so hepatically cleared drugs may accumulate.",
+    "D": "Decreased renal mass and blood flow reduce GFR and renal clearance, a major reason renally eliminated drugs require dose reduction in the elderly.",
+    "E": "Increased body fat increases the volume of distribution of lipophilic drugs and prolongs their half-life, so this distribution change also requires dose consideration."
+  },
+  "educationalObjective": "Gastrointestinal absorption is the pharmacokinetic process mostly unaffected by aging; distribution, metabolism, and excretion all change.",
+  "source": "Generated from 5. Pharmacology.pdf - Toxicities and Adverse Effects: Age-related changes in pharmacokinetics"
+}
+]

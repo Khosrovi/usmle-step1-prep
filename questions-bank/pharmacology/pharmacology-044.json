@@ -1,0 +1,207 @@
+[
+{
+  "id": "pharm-230",
+  "subject": "Pharmacology",
+  "major_topic": "Toxicities and Adverse Effects",
+  "subtopic": "Drug reactions-musculoskeletal/skin/connective tissue",
+  "difficulty": "medium",
+  "vignette": "A 47-year-old woman with severe hypertension refractory to two first-line agents was started on an additional vasodilating antihypertensive 6 months ago. She now reports fatigue, fever, and aching pain in her hands, shoulders, and knees. Examination shows a maculopapular rash over the sun-exposed areas of her face and chest, but no oral ulcers or renal involvement. Serology is positive for antinuclear antibodies with high-titer anti-histone antibodies.",
+  "question": "Which of the following medications is most likely responsible for this patient's presentation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Amlodipine"
+    },
+    {
+      "id": "B",
+      "text": "Hydralazine"
+    },
+    {
+      "id": "C",
+      "text": "Losartan"
+    },
+    {
+      "id": "D",
+      "text": "Furosemide"
+    },
+    {
+      "id": "E",
+      "text": "Atenolol"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "This patient has drug-induced lupus, characterized by arthralgias, rash, fever, positive ANA with anti-histone antibodies, and typically milder organ involvement than idiopathic SLE. The classic causal agents are hydralazine, procainamide, and quinidine. Hydralazine is a direct arteriolar vasodilator commonly used as add-on therapy for resistant hypertension, matching the vignette's refractory hypertension. Symptoms usually resolve after discontinuing the drug.",
+  "explanation_incorrect": {
+    "A": "Amlodipine is a dihydropyridine calcium channel blocker; its classic adverse effects are peripheral edema, flushing, and dizziness, not a lupus-like syndrome.",
+    "C": "Losartan is an angiotensin receptor blocker and is not associated with drug-induced lupus; it is generally well tolerated, though it would be avoided in idiopathic SLE with nephritis for unrelated reasons.",
+    "D": "Furosemide is a loop diuretic whose notable adverse effects include ototoxicity, hypokalemia, and hyperuricemia, but it does not cause drug-induced lupus.",
+    "E": "Atenolol is a beta-1 selective blocker associated with bradycardia, fatigue, and bronchospasm, not with anti-histone antibody-positive lupus."
+  },
+  "educationalObjective": "Drug-induced lupus presents with arthralgias, rash, and anti-histone antibodies and is classically caused by hydralazine, procainamide, and quinidine.",
+  "source": "Generated from 5. Pharmacology.pdf - Toxicities and Adverse Effects: Drug reactions-musculoskeletal/skin/connective tissue"
+},
+{
+  "id": "pharm-231",
+  "subject": "Pharmacology",
+  "major_topic": "Toxicities and Adverse Effects",
+  "subtopic": "Drug reactions-musculoskeletal/skin/connective tissue",
+  "difficulty": "hard",
+  "vignette": "A 22-year-old man with no significant past medical history undergoes emergency appendectomy under general inhalational anesthesia. Twenty minutes after induction, his heart rate rises to 150/min, end-tidal CO2 climbs despite increased ventilation, and his temperature reaches 41°C (105.8°F). The surgeon notes that the abdominal wall musculature is rigid, making closure difficult. An intravenous agent is administered and the episode resolves.",
+  "question": "An inherited defect in which of the following most likely predisposed this patient to this complication?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Dihydropyridine receptor of the skeletal muscle sarcolemma"
+    },
+    {
+      "id": "B",
+      "text": "Sarcolemmal Na+-K+-ATPase"
+    },
+    {
+      "id": "C",
+      "text": "Nicotinic acetylcholine receptor at the motor end plate"
+    },
+    {
+      "id": "D",
+      "text": "Ca2+-ATPase of the sarcoplasmic reticulum (SERCA)"
+    },
+    {
+      "id": "E",
+      "text": "Ryanodine receptor of the sarcoplasmic reticulum"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "This is malignant hyperthermia, a hypermetabolic crisis triggered by inhaled anesthetics such as isoflurane, presenting with muscle rigidity, tachycardia, hypercarbia, and rapid hyperthermia. It occurs in individuals with a mutation of the ryanodine receptor, which causes unregulated release of Ca2+ from the sarcoplasmic reticulum, sustained muscle contraction, and massive heat generation. The antidote is dantrolene, which blocks ryanodine receptor–mediated Ca2+ release.",
+  "explanation_incorrect": {
+    "A": "The dihydropyridine receptor is the voltage-gated L-type calcium channel that couples depolarization to the ryanodine receptor, but the malignant hyperthermia susceptibility defect lies in the ryanodine receptor itself.",
+    "B": "The Na+-K+-ATPase maintains resting membrane potential and is poisoned by cardiac glycoside-like agents; it is not the target of the inherited mutation in malignant hyperthermia.",
+    "C": "Nicotinic acetylcholine receptor dysfunction produces myasthenic weakness or, with depolarizing blockade, prolonged paralysis—but not the hypermetabolic rigidity of malignant hyperthermia.",
+    "D": "SERCA pumps Ca2+ back into the sarcoplasmic reticulum to relax muscle; the uncontrolled Ca2+ release in malignant hyperthermia occurs through the ryanodine receptor channel, not loss of SERCA function."
+  },
+  "educationalObjective": "Malignant hyperthermia from inhaled anesthetics is due to a ryanodine receptor mutation and is treated with dantrolene.",
+  "source": "Generated from 5. Pharmacology.pdf - Toxicities and Adverse Effects: Drug reactions-musculoskeletal/skin/connective tissue"
+},
+{
+  "id": "pharm-232",
+  "subject": "Pharmacology",
+  "major_topic": "Toxicities and Adverse Effects",
+  "subtopic": "Drug reactions-musculoskeletal/skin/connective tissue",
+  "difficulty": "easy",
+  "vignette": "A 33-year-old man is evaluated at a routine visit 8 months after kidney transplantation. He feels well and has stable allograft function. On oral examination, the gingiva around his teeth is diffusely enlarged, swollen, and overgrowing the tooth crowns, making brushing difficult. He takes several daily medications to prevent graft rejection.",
+  "question": "Which of the following medications is the most likely cause of this patient's gingival overgrowth?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Cyclosporine"
+    },
+    {
+      "id": "B",
+      "text": "Mycophenolate mofetil"
+    },
+    {
+      "id": "C",
+      "text": "Tacrolimus"
+    },
+    {
+      "id": "D",
+      "text": "Azathioprine"
+    },
+    {
+      "id": "E",
+      "text": "Prednisone"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Gingival hyperplasia is a classic adverse effect of cyclosporine, calcium channel blockers, and phenytoin. Cyclosporine is a calcineurin inhibitor used widely as the cornerstone immunosuppressant after solid organ transplantation, fitting this patient's regimen. Good dental hygiene and drug dose adjustment or substitution are used to manage the overgrowth.",
+  "explanation_incorrect": {
+    "B": "Mycophenolate mofetil's characteristic adverse effects are gastrointestinal upset and bone marrow suppression, especially leukopenia, not gingival overgrowth.",
+    "C": "Tacrolimus is also a calcineurin inhibitor, but its classic toxicities are nephrotoxicity, hyperkalemia, hypertension, and neurotoxicity; it is not the prototypical cause of gum enlargement.",
+    "D": "Azathioprine primarily causes myelosuppression and hepatotoxicity and is not associated with gingival hyperplasia.",
+    "E": "Prednisone causes hyperglycemia, fat redistribution, osteoporosis, and adrenal suppression, but diffuse gingival overgrowth is not a feature."
+  },
+  "educationalObjective": "Gingival hyperplasia is classically caused by cyclosporine, calcium channel blockers, and phenytoin.",
+  "source": "Generated from 5. Pharmacology.pdf - Toxicities and Adverse Effects: Drug reactions-musculoskeletal/skin/connective tissue"
+},
+{
+  "id": "pharm-233",
+  "subject": "Pharmacology",
+  "major_topic": "Toxicities and Adverse Effects",
+  "subtopic": "Drug reactions-musculoskeletal/skin/connective tissue",
+  "difficulty": "medium",
+  "vignette": "A 19-year-old woman with new-onset focal seizures recently began a slow titration of an antiseizure medication. Two weeks into therapy she develops fever, malaise, and a painful rash that progresses to dusky targetoid lesions and blisters on her trunk. She has erosions of her lips and oral mucosa and injected, painful eyes. Her vital signs are stable but the skin lesions are exquisitely tender.",
+  "question": "Which of the following medications is most likely responsible for this patient's presentation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Levetiracetam"
+    },
+    {
+      "id": "B",
+      "text": "Topiramate"
+    },
+    {
+      "id": "C",
+      "text": "Lamotrigine"
+    },
+    {
+      "id": "D",
+      "text": "Gabapentin"
+    },
+    {
+      "id": "E",
+      "text": "Ethosuximide"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "This patient has Stevens-Johnson syndrome, a life-threatening mucocutaneous reaction with targetoid lesions, blistering, and mucosal involvement of the lips, mouth, and eyes. Anti-epileptic drugs are classic causes, and lamotrigine is especially implicated; rapid titration increases risk. Other causal agents listed include allopurinol, sulfa drugs, and penicillin. Management requires immediate drug discontinuation and supportive care.",
+  "explanation_incorrect": {
+    "A": "Levetiracetam is generally well tolerated; its most common adverse effects are behavioral or psychiatric symptoms and dizziness, not severe mucocutaneous blistering.",
+    "B": "Topiramate is associated with weight loss, paresthesias, word-finding difficulty, and visual field effects, but it is not the anti-epileptic classically tied to Stevens-Johnson syndrome.",
+    "D": "Gabapentin causes sedation and dizziness and is renally cleared without hepatic metabolism; it is not linked to severe mucocutaneous reactions.",
+    "E": "Ethosuximide, used for absence seizures, typically causes gastrointestinal upset and blood dyscrasias, but it is not the classic Stevens-Johnson syndrome offender."
+  },
+  "educationalObjective": "Stevens-Johnson syndrome is classically caused by anti-epileptics (especially lamotrigine), allopurinol, sulfa drugs, and penicillin.",
+  "source": "Generated from 5. Pharmacology.pdf - Toxicities and Adverse Effects: Drug reactions-musculoskeletal/skin/connective tissue"
+},
+{
+  "id": "pharm-234",
+  "subject": "Pharmacology",
+  "major_topic": "Toxicities and Adverse Effects",
+  "subtopic": "Drug reactions-musculoskeletal/skin/connective tissue",
+  "difficulty": "medium",
+  "vignette": "A 64-year-old man was treated with a 7-day oral course of a broad-spectrum antibiotic for pyelonephritis. He now returns with 2 days of progressive pain, swelling, and warmth over his right posterior heel, which worsens with walking. He denies prior trauma or similar episodes, and he has no history of gout or seronegative spondyloarthropathy.",
+  "question": "Which of the following drug classes is most likely responsible for this patient's presentation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Tetracyclines"
+    },
+    {
+      "id": "B",
+      "text": "Macrolides"
+    },
+    {
+      "id": "C",
+      "text": "Aminoglycosides"
+    },
+    {
+      "id": "D",
+      "text": "Fluoroquinolones"
+    },
+    {
+      "id": "E",
+      "text": "Penicillins"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Fluoroquinolones such as ciprofloxacin and levofloxacin — commonly used for pyelonephritis — cause tendinopathy and tendon rupture, most classically involving the Achilles tendon; older adults are at greatest risk. Patients should stop the drug and rest the affected limb at the first sign of tendon pain. Fluoroquinolones also cause cartilage damage and photosensitivity.",
+  "explanation_incorrect": {
+    "A": "Tetracyclines cause teeth discoloration in children, photosensitivity, and (when expired) Fanconi syndrome, but they are not associated with tendon rupture.",
+    "B": "Macrolides such as azithromycin and clarithromycin can prolong the QT interval and cause GI upset, but they do not cause tendinopathy.",
+    "C": "Aminoglycosides are notable for nephrotoxicity, ototoxicity, and neuromuscular blockade, not tendon injury.",
+    "E": "Penicillins can cause hypersensitivity reactions, hemolytic anemia with positive Coombs test, and interstitial nephritis, but not Achilles tendon damage."
+  },
+  "educationalObjective": "Fluoroquinolones are the antibiotic class classically associated with tendon damage and rupture, especially of the Achilles tendon in older patients.",
+  "source": "Generated from 5. Pharmacology.pdf - Toxicities and Adverse Effects: Drug reactions-musculoskeletal/skin/connective tissue"
+}
+]

@@ -1,0 +1,207 @@
+[
+{
+  "id": "pharm-061",
+  "subject": "Pharmacology",
+  "major_topic": "Pharmacokinetics and Pharmacodynamics",
+  "subtopic": "Efficacy vs potency",
+  "difficulty": "medium",
+  "vignette": "Two new oral antihypertensive agents are tested in healthy volunteers. Dose-response curves are constructed for the fall in mean arterial pressure. Drug X produces a maximal fall in blood pressure identical to that of Drug Y, but Drug X achieves any given level of blood pressure reduction at one-tenth the concentration required for Drug Y.",
+  "question": "Which pharmacologic property best distinguishes Drug X from Drug Y in these curves?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Drug X has greater efficacy, because its curve reaches a higher maximal effect"
+    },
+    {
+      "id": "B",
+      "text": "Drug X is a partial agonist at the target receptor"
+    },
+    {
+      "id": "C",
+      "text": "Drug X is more potent, because a smaller amount of drug is needed for a given effect"
+    },
+    {
+      "id": "D",
+      "text": "Drug X has greater intrinsic activity, reflected by a higher Emax"
+    },
+    {
+      "id": "E",
+      "text": "Drug X undergoes zero-order elimination, so it accumulates to higher plasma concentrations"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Potency is the amount of drug needed for a given effect and is represented by the x-value (EC50) of the dose-response curve. A leftward shift (lower EC50) means less drug is needed — greater potency. Because both drugs reach the same maximal effect, their efficacy (Emax, the y-value) is identical; the curves differ only in horizontal position. Potency and efficacy are independent properties: efficacious drugs can have high or low potency.",
+  "explanation_incorrect": {
+    "A": "Efficacy is the maximal effect a drug can produce (the y-value). Both drugs have the same maximal effect, so their efficacy is equal.",
+    "B": "A partial agonist produces a lower maximal effect than a full agonist at the same receptor; Drug X reaches the same Emax as Drug Y, so it is not a partial agonist in this comparison.",
+    "D": "Intrinsic activity is reflected in the maximal effect (Emax). Since both drugs share the same Emax, intrinsic activity does not distinguish them.",
+    "E": "Elimination kinetics govern plasma concentration over time, not the horizontal position of a dose-response curve; the observed difference is pharmacodynamic (EC50), not pharmacokinetic."
+  },
+  "educationalObjective": "A lower EC50 (leftward curve shift) indicates greater potency; equal Emax means equal efficacy — the two are independent.",
+  "source": "Generated from 5. Pharmacology.pdf - Pharmacokinetics and Pharmacodynamics: Efficacy vs potency"
+},
+{
+  "id": "pharm-062",
+  "subject": "Pharmacology",
+  "major_topic": "Pharmacokinetics and Pharmacodynamics",
+  "subtopic": "Efficacy vs potency",
+  "difficulty": "easy",
+  "vignette": "A second-year medical student is reviewing dose-response curves before her pharmacology examination. She reads that one property of a drug is 'represented by the y-value' of the graded dose-response curve, while another is 'represented by the x-value (EC50)'. She wants to be certain which term corresponds to which axis.",
+  "question": "Which property of a drug is represented by the y-value (Emax) of its dose-response curve?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Efficacy — the maximal effect a drug can produce (intrinsic activity)"
+    },
+    {
+      "id": "B",
+      "text": "Potency — the amount of drug needed for a given effect"
+    },
+    {
+      "id": "C",
+      "text": "Bioavailability — the fraction of administered drug reaching the systemic circulation"
+    },
+    {
+      "id": "D",
+      "text": "Half-life — the time required for the plasma concentration to fall by 50%"
+    },
+    {
+      "id": "E",
+      "text": "Clearance — the volume of plasma cleared of drug per unit time"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Efficacy is the maximal effect a drug can produce (its intrinsic activity) and is represented by the y-value (Emax) of the dose-response curve: an increase in the y-value equals an increase in Emax, which equals greater efficacy. Partial agonists have less efficacy than full agonists, reflected in a lower plateau. It is unrelated to potency, which is read from the x-axis (EC50).",
+  "explanation_incorrect": {
+    "B": "Potency is the amount of drug needed for a given effect and is represented by the x-value (EC50), not the y-value.",
+    "C": "Bioavailability describes systemic absorption of an administered dose and does not appear as the plateau of a graded pharmacodynamic dose-response curve.",
+    "D": "Half-life is a pharmacokinetic parameter describing the time course of plasma concentration; it is not plotted as the maximal effect on a dose-response curve.",
+    "E": "Clearance is a pharmacokinetic measure of drug removal from plasma and has no representation as the y-value of a pharmacodynamic curve."
+  },
+  "educationalObjective": "Emax on the y-axis reflects efficacy (maximal effect/intrinsic activity); EC50 on the x-axis reflects potency.",
+  "source": "Generated from 5. Pharmacology.pdf - Pharmacokinetics and Pharmacodynamics: Efficacy vs potency"
+},
+{
+  "id": "pharm-063",
+  "subject": "Pharmacology",
+  "major_topic": "Pharmacokinetics and Pharmacodynamics",
+  "subtopic": "Efficacy vs potency",
+  "difficulty": "hard",
+  "vignette": "A 28-year-old man with opioid use disorder is being transitioned from full-dose morphine to a maintenance agent that acts at the same opioid μ-receptors. When the new drug is titrated upward well beyond its usual analgesic doses, its maximal analgesic effect plateaus at a level clearly below that achievable with morphine, even though the concentration at which it begins to act is similar to that of morphine.",
+  "question": "Which pharmacologic property of the new drug best explains this ceiling in maximal analgesia?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It is a competitive antagonist, so its effect is overcome by high agonist concentrations"
+    },
+    {
+      "id": "B",
+      "text": "It is a noncompetitive antagonist, so the morphine curve is shifted downward in its presence"
+    },
+    {
+      "id": "C",
+      "text": "It is an inverse agonist that suppresses constitutive μ-receptor activity"
+    },
+    {
+      "id": "D",
+      "text": "It is a full agonist with lower potency than morphine, so it simply requires higher doses"
+    },
+    {
+      "id": "E",
+      "text": "It is a partial agonist, so its maximal effect (efficacy) is lower than that of a full agonist like morphine"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Buprenorphine is the classic partial agonist at opioid μ-receptors, acting at the same site as the full agonist morphine. Partial agonists have less efficacy than full agonists: their dose-response curve plateaus at a lower maximal effect (lower Emax) no matter how high the dose, producing a 'ceiling effect.' Its potency, in contrast, is independent — a partial agonist can be equipotent or even more potent than a full agonist while still having lower efficacy.",
+  "explanation_incorrect": {
+    "A": "A competitive antagonist reduces apparent potency (rightward shift) without changing the maximal effect, and by definition it does not itself produce analgesia.",
+    "B": "A noncompetitive antagonist lowers the maximal response of the agonist's curve, but the drug in question produces its own (lower) plateau when given alone, which is the signature of a partial agonist.",
+    "C": "An inverse agonist has the opposite effect of an agonist at a constitutively active receptor; it does not describe a lower plateau of partial pain relief.",
+    "D": "A full agonist with lower potency would still reach morphine's maximal effect at sufficiently high doses — exactly what is not observed with this ceiling."
+  },
+  "educationalObjective": "Partial agonists (eg, buprenorphine at μ-receptors) act at the same site as full agonists but have lower efficacy — a dose-independent ceiling on maximal effect.",
+  "source": "Generated from 5. Pharmacology.pdf - Pharmacokinetics and Pharmacodynamics: Efficacy vs potency"
+},
+{
+  "id": "pharm-064",
+  "subject": "Pharmacology",
+  "major_topic": "Pharmacokinetics and Pharmacodynamics",
+  "subtopic": "Efficacy vs potency",
+  "difficulty": "medium",
+  "vignette": "Two antihypertensive drugs acting at the same receptor are plotted on the same graded dose-response axes. Drug A's curve lies entirely to the left of Drug B's curve, but the two curves rise to the same maximal plateau. A resident is asked to interpret the graph without any visual aid, using only the relative positions of the curves.",
+  "question": "What does the leftward position of Drug A's curve indicate?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Drug A has a lower maximal effect than Drug B"
+    },
+    {
+      "id": "B",
+      "text": "Drug A has greater potency than Drug B, since a lower concentration achieves the same effect"
+    },
+    {
+      "id": "C",
+      "text": "Drug A has a higher maximal effect than Drug B, reflecting greater intrinsic activity"
+    },
+    {
+      "id": "D",
+      "text": "Drug A is a noncompetitive antagonist acting at a separate site on the receptor"
+    },
+    {
+      "id": "E",
+      "text": "Drug A is cleared more slowly, so it accumulates with repeated dosing"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "On a graded dose-response plot, the horizontal (x-axis) position reflects potency: a left shift means a lower EC50, so less drug is needed for a given effect — greater potency. Because both curves reach the same plateau, efficacy (Emax) is identical for the two drugs. The exam commonly tests graphs by asking the student to translate curve position into the potency-versus-efficacy distinction.",
+  "explanation_incorrect": {
+    "A": "Maximal effect is read from the height of the plateau (y-axis), and both curves reach the same plateau — the leftward shift says nothing about Emax.",
+    "C": "A higher maximal effect would require a taller plateau; here the plateaus are equal, so intrinsic activity does not differ.",
+    "D": "A noncompetitive antagonist reduces the maximal response rather than producing a parallel leftward curve of its own, and it would not rise to the same plateau as the full agonist.",
+    "E": "Slower clearance is a pharmacokinetic property affecting plasma concentration over time, not the horizontal position of a pharmacodynamic dose-response curve."
+  },
+  "educationalObjective": "A leftward-shifted dose-response curve at equal Emax means greater potency (lower EC50) with unchanged efficacy.",
+  "source": "Generated from 5. Pharmacology.pdf - Pharmacokinetics and Pharmacodynamics: Efficacy vs potency"
+},
+{
+  "id": "pharm-065",
+  "subject": "Pharmacology",
+  "major_topic": "Pharmacokinetics and Pharmacodynamics",
+  "subtopic": "Efficacy vs potency",
+  "difficulty": "medium",
+  "vignette": "A hospital formulary committee is selecting an analgesic for a patient with severe cancer pain who requires the greatest possible degree of symptom relief. One candidate drug is described in the literature as 'highly potent' but with a modest maximal effect, while another is described as 'less potent' but capable of a substantially greater maximal effect.",
+  "question": "Which pharmacologic property is most important when the goal is maximal symptom relief for this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Potency, as measured by EC50, because a potent drug works at smaller doses"
+    },
+    {
+      "id": "B",
+      "text": "Potency, because potent drugs always have higher maximal effects"
+    },
+    {
+      "id": "C",
+      "text": "Half-life, because a longer half-life guarantees a higher plateau of effect"
+    },
+    {
+      "id": "D",
+      "text": "Efficacy (Emax), because it determines the maximal effect the drug can produce"
+    },
+    {
+      "id": "E",
+      "text": "Volume of distribution, because a larger volume guarantees greater tissue effect"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "When the clinical goal is the greatest achievable effect, the relevant property is efficacy — the maximal effect a drug can produce (Emax, its intrinsic activity). Potency is unrelated to efficacy: potent drugs can have high or low efficacy, and a highly potent drug with a modest Emax cannot relieve symptoms beyond its own ceiling, no matter how the dose is increased.",
+  "explanation_incorrect": {
+    "A": "Potency (EC50) only tells you how much drug is needed for a given effect; it sets no limit on how large that maximal effect can be.",
+    "B": "This is a common misconception — potency and efficacy are independent, and potent drugs can have high or low maximal effects.",
+    "C": "Half-life determines how long effect persists between doses, not the height of the maximal effect achievable.",
+    "E": "Volume of distribution is a pharmacokinetic parameter describing drug distribution in the body; it does not determine the maximal pharmacodynamic effect."
+  },
+  "educationalObjective": "For maximal clinical effect, choose based on efficacy (Emax); potency (EC50) only determines the dose required.",
+  "source": "Generated from 5. Pharmacology.pdf - Pharmacokinetics and Pharmacodynamics: Efficacy vs potency"
+}
+]

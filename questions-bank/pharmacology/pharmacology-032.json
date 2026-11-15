@@ -1,0 +1,248 @@
+[
+{
+  "id": "pharm-200",
+  "subject": "Pharmacology",
+  "major_topic": "Toxicities and Adverse Effects",
+  "subtopic": "Cytochrome P-450 interactions",
+  "difficulty": "easy",
+  "vignette": "A 29-year-old woman with latent tuberculosis is started on a multidrug regimen including rifampin. She has been reliably taking a combined oral contraceptive for 3 years. Six months later she presents for routine care and is found to be pregnant despite consistent pill use and no missed doses.",
+  "question": "Which of the following best explains the failure of her oral contraceptive?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Inhibition of hepatic CYP450 increasing contraceptive hormone levels"
+    },
+    {
+      "id": "B",
+      "text": "Direct antagonism of progesterone receptors by rifampin"
+    },
+    {
+      "id": "C",
+      "text": "Displacement of contraceptive hormones from plasma proteins"
+    },
+    {
+      "id": "D",
+      "text": "Decreased absorption of the contraceptive from the gut"
+    },
+    {
+      "id": "E",
+      "text": "Induction of CYP450 increasing metabolism of the contraceptive"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Rifampin is a classic CYP450 inducer. Oral contraceptives are CYP450 substrates, so induction increases their metabolism and lowers hormone levels, causing contraceptive failure — a classic interaction requiring backup contraception.",
+  "explanation_incorrect": {
+    "A": "CYP450 inhibition would raise contraceptive levels and increase side effects, not reduce efficacy; rifampin induces rather than inhibits the enzyme.",
+    "B": "Rifampin does not antagonize intracellular steroid hormone receptors; its effect is on hepatic drug metabolism.",
+    "C": "Protein-binding displacement raises the free fraction transiently and does not explain sustained contraceptive failure.",
+    "D": "Decreased absorption is not the mechanism; rifampin acts systemically by inducing hepatic oxidative metabolism."
+  },
+  "educationalObjective": "Rifampin, a CYP450 inducer, accelerates metabolism of oral contraceptives and causes contraceptive failure.",
+  "source": "Generated from 5. Pharmacology.pdf - Toxicities and Adverse Effects: Cytochrome P-450 interactions"
+},
+{
+  "id": "pharm-201",
+  "subject": "Pharmacology",
+  "major_topic": "Toxicities and Adverse Effects",
+  "subtopic": "Cytochrome P-450 interactions",
+  "difficulty": "medium",
+  "vignette": "A 71-year-old man with atrial fibrillation on a chronic anticoagulant develops a respiratory infection and is prescribed a macrolide antibiotic. One week later he presents with gum bleeding and a spontaneous ecchymosis on his flank, and laboratory studies show a markedly elevated INR.",
+  "question": "Which of the following best explains this patient's presentation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The antibiotic induced CYP450 and lowered the anticoagulant level"
+    },
+    {
+      "id": "B",
+      "text": "The antibiotic inhibited CYP450 metabolism of the anticoagulant"
+    },
+    {
+      "id": "C",
+      "text": "The antibiotic competitively displaced the anticoagulant from albumin"
+    },
+    {
+      "id": "D",
+      "text": "The antibiotic impaired gut flora synthesis of clotting factors"
+    },
+    {
+      "id": "E",
+      "text": "The antibiotic was itself a CYP450 substrate of the anticoagulant"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Macrolides such as erythromycin and clarithromycin are classic CYP450 inhibitors, listed in the SICK FACES mnemonic. Warfarin is a CYP450 substrate, so inhibition raises its levels and causes bleeding with an elevated INR.",
+  "explanation_incorrect": {
+    "A": "Induction would lower warfarin levels and raise the thrombotic risk, not cause bleeding; macrolides are inhibitors, not inducers.",
+    "C": "Protein-binding displacement is not the classic mechanism for this interaction and would not produce a sustained INR rise of this degree.",
+    "D": "Antibiotic gut-sterilization reduces vitamin K synthesis and can potentiate warfarin, but the classic high-yield mechanism for macrolides is CYP450 inhibition.",
+    "E": "Being a substrate does not change warfarin levels; the macrolide acts as an inhibitor of the enzyme that metabolizes warfarin."
+  },
+  "educationalObjective": "Macrolides (erythromycin/clarithromycin) inhibit CYP450 and potentiate warfarin toxicity.",
+  "source": "Generated from 5. Pharmacology.pdf - Toxicities and Adverse Effects: Cytochrome P-450 interactions"
+},
+{
+  "id": "pharm-202",
+  "subject": "Pharmacology",
+  "major_topic": "Toxicities and Adverse Effects",
+  "subtopic": "Cytochrome P-450 interactions",
+  "difficulty": "medium",
+  "vignette": "A medical student is preparing a pharmacology review session on CYP450 and must sort a list of drugs into inducers and inhibitors. The attending reminds the class that a patient on a chronic antiepileptic who needs a new medication may have its levels markedly lowered depending on which category the new agent falls into.",
+  "question": "Which of the following drugs is a CYP450 inducer?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Cimetidine"
+    },
+    {
+      "id": "B",
+      "text": "Ketoconazole"
+    },
+    {
+      "id": "C",
+      "text": "Carbamazepine"
+    },
+    {
+      "id": "D",
+      "text": "Erythromycin"
+    },
+    {
+      "id": "E",
+      "text": "Grapefruit juice"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Carbamazepine is a classic CYP450 inducer, part of the inducer mnemonic (St. John's wort, phenytoin, phenobarbital, modafinil, nevirapine, rifampin, griseofulvin, carbamazepine, chronic alcohol). Inducers lower the levels of CYP450 substrates such as warfarin, oral contraceptives, theophylline, and antiepileptics.",
+  "explanation_incorrect": {
+    "A": "Cimetidine is a CYP450 inhibitor (the C in SICK FACES), which would raise substrate drug levels.",
+    "B": "Ketoconazole is a classic CYP450 inhibitor and is included in the SICK FACES mnemonic.",
+    "D": "Erythromycin inhibits CYP450 and potentiates substrates such as warfarin.",
+    "E": "Grapefruit juice inhibits CYP450 in the gut wall and liver, raising levels of substrate drugs."
+  },
+  "educationalObjective": "Carbamazepine is a CYP450 inducer; cimetidine, ketoconazole, erythromycin, and grapefruit juice are inhibitors.",
+  "source": "Generated from 5. Pharmacology.pdf - Toxicities and Adverse Effects: Cytochrome P-450 interactions"
+},
+{
+  "id": "pharm-203",
+  "subject": "Pharmacology",
+  "major_topic": "Toxicities and Adverse Effects",
+  "subtopic": "Cytochrome P-450 interactions",
+  "difficulty": "hard",
+  "vignette": "A 34-year-old man with epilepsy takes a chronic antiepileptic and recently began taking an herbal supplement for low mood. Over the next several weeks he has two breakthrough seizures for the first time in years, and a drug level confirms the antiepileptic concentration is below the therapeutic range.",
+  "question": "Which of the following best explains his subtherapeutic antiepileptic level?",
+  "options": [
+    {
+      "id": "A",
+      "text": "CYP450 inhibition by the herbal supplement"
+    },
+    {
+      "id": "B",
+      "text": "Competitive displacement of the antiepileptic from plasma proteins"
+    },
+    {
+      "id": "C",
+      "text": "Reduced intestinal absorption of the antiepileptic"
+    },
+    {
+      "id": "D",
+      "text": "CYP450 induction by the herbal supplement"
+    },
+    {
+      "id": "E",
+      "text": "Antagonism at the antiepileptic's receptor site of action"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "St. John's wort is a classic CYP450 inducer. Antiepileptics are CYP450 substrates, so induction increases their metabolism, lowers levels, and causes breakthrough seizures — the clinical consequence captured by the inducer mnemonic (St. John's funny funny phen-phen mom never refuses greasy carbs and chronic alcohol).",
+  "explanation_incorrect": {
+    "A": "Inhibition would increase antiepileptic levels and risk toxicity, the opposite of the low level and seizures observed.",
+    "B": "Protein-binding displacement briefly raises the free fraction of a drug and does not cause a sustained fall in total drug concentration.",
+    "C": "Absorption is not reduced by this supplement; the effect is on hepatic oxidative metabolism.",
+    "E": "The supplement does not block the receptor target of the antiepileptic; the problem is accelerated metabolic clearance."
+  },
+  "educationalObjective": "St. John's wort induces CYP450 and can lower antiepileptic levels, causing breakthrough seizures.",
+  "source": "Generated from 5. Pharmacology.pdf - Toxicities and Adverse Effects: Cytochrome P-450 interactions"
+},
+{
+  "id": "pharm-204",
+  "subject": "Pharmacology",
+  "major_topic": "Toxicities and Adverse Effects",
+  "subtopic": "Cytochrome P-450 interactions",
+  "difficulty": "medium",
+  "vignette": "A patient stabilized on a chronic anticoagulant begins eating large amounts of a particular fruit with breakfast. Several days later he returns with bruising and bleeding gums, and his INR is found to be well above the therapeutic range. The physician explains that a dietary substance altered the hepatic handling of his medication.",
+  "question": "Which of the following dietary substances most likely caused this interaction?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Grapefruit juice"
+    },
+    {
+      "id": "B",
+      "text": "St. John's wort"
+    },
+    {
+      "id": "C",
+      "text": "Phenobarbital"
+    },
+    {
+      "id": "D",
+      "text": "Nevirapine"
+    },
+    {
+      "id": "E",
+      "text": "Modafinil"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Grapefruit juice is a classic CYP450 inhibitor (the final item of the SICK FACES mnemonic). By inhibiting metabolism of substrates such as warfarin, it raises drug levels and causes toxicity such as bleeding.",
+  "explanation_incorrect": {
+    "B": "St. John's wort is a CYP450 inducer that would lower anticoagulant levels and increase thrombotic risk, not cause bleeding.",
+    "C": "Phenobarbital is a classic CYP450 inducer and would reduce, not raise, warfarin levels.",
+    "D": "Nevirapine is a CYP450 inducer included in the inducer mnemonic.",
+    "E": "Modafinil is a CYP450 inducer and would not potentiate warfarin toxicity."
+  },
+  "educationalObjective": "Grapefruit juice inhibits CYP450 and can raise levels of substrate drugs such as warfarin.",
+  "source": "Generated from 5. Pharmacology.pdf - Toxicities and Adverse Effects: Cytochrome P-450 interactions"
+},
+{
+  "id": "pharm-205",
+  "subject": "Pharmacology",
+  "major_topic": "Toxicities and Adverse Effects",
+  "subtopic": "Cytochrome P-450 interactions",
+  "difficulty": "hard",
+  "vignette": "A 41-year-old man with asthma on a chronic xanthine bronchodilator goes on a 3-day drinking binge during which he is intoxicated continuously. He returns with nausea, vomiting, palpitations, and a tremor, and his bronchodilator level is markedly above the therapeutic range. His routine daily alcohol use is typically only a few drinks.",
+  "question": "Which of the following best explains the difference between his usual intake and the binge's effect on his drug level?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Chronic alcohol use induces CYP450, while binge drinking inhibits it"
+    },
+    {
+      "id": "B",
+      "text": "Alcohol has no effect on hepatic drug metabolism in any pattern of use"
+    },
+    {
+      "id": "C",
+      "text": "Both chronic and acute alcohol use inhibit CYP450 identically"
+    },
+    {
+      "id": "D",
+      "text": "Both chronic and acute alcohol use induce CYP450 identically"
+    },
+    {
+      "id": "E",
+      "text": "Alcohol acts as a CYP450 substrate but never changes enzyme activity"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Alcohol appears on both sides of the CYP450 table: chronic alcohol overuse is a classic CYP450 inducer, while acute alcohol overuse is a classic inhibitor (included in the SICK FACES mnemonic). During the binge, inhibition of CYP450 raised his bronchodilator levels and caused toxicity.",
+  "explanation_incorrect": {
+    "B": "Alcohol clearly affects CYP450 activity; ignoring it would miss both the induction and inhibition interactions.",
+    "C": "Chronic use induces the enzyme; claiming both patterns inhibit reverses the effect of long-term intake.",
+    "D": "Acute intoxication inhibits the enzyme; claiming both patterns induce misses the mechanism behind the acute toxicity here.",
+    "E": "While ethanol is metabolized hepatically, the clinically tested point is its dose- and duration-dependent modulation of CYP450 activity."
+  },
+  "educationalObjective": "Chronic alcohol overuse induces CYP450 while acute alcohol overuse inhibits it.",
+  "source": "Generated from 5. Pharmacology.pdf - Toxicities and Adverse Effects: Cytochrome P-450 interactions"
+}
+]

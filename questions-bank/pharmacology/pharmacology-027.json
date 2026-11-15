@@ -1,0 +1,207 @@
+[
+{
+  "id": "pharm-032",
+  "subject": "Pharmacology",
+  "major_topic": "Pharmacokinetics and Pharmacodynamics",
+  "subtopic": "Bioavailability and volume of distribution",
+  "difficulty": "medium",
+  "vignette": "A new oral drug is studied in healthy volunteers. A 100-mg oral dose produces an area under the plasma concentration-time curve (AUC) of 25 mg·h/L. A 50-mg intravenous dose of the same drug produces an AUC of 25 mg·h/L.",
+  "question": "What is the bioavailability of the oral formulation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "100%"
+    },
+    {
+      "id": "B",
+      "text": "75%"
+    },
+    {
+      "id": "C",
+      "text": "25%"
+    },
+    {
+      "id": "D",
+      "text": "50%"
+    },
+    {
+      "id": "E",
+      "text": "12.5%"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Bioavailability (F) is the fraction of administered drug that reaches the systemic circulation and is calculated as F = (AUCoral × DoseIV) / (Doseoral × AUCIV). Substituting: (25 × 50) / (100 × 25) = 1250 / 2500 = 0.5, or 50%. Intravenous dosing always gives F = 100%, and oral F is typically lower because of incomplete absorption and first-pass metabolism.",
+  "explanation_incorrect": {
+    "A": "100% bioavailability applies to an intravenous dose; the oral AUC would equal the IV AUC after dose correction, which it does not.",
+    "B": "75% would require an oral AUC of 37.5 mg·h/L for the given doses, not 25.",
+    "C": "25% would require the oral AUC to be half of the IV AUC after dose correction; here the corrected oral exposure is half of IV, giving 50%.",
+    "E": "12.5% would require an oral AUC of 6.25 mg·h/L, which is far below the measured value."
+  },
+  "educationalObjective": "Oral bioavailability is calculated from the area under the plasma concentration-time curve: F = (AUCoral × DoseIV) / (Doseoral × AUCIV), with IV dosing always F = 100%.",
+  "source": "Generated from 5. Pharmacology.pdf - Pharmacokinetics and Pharmacodynamics: Bioavailability and volume of distribution"
+},
+{
+  "id": "pharm-033",
+  "subject": "Pharmacology",
+  "major_topic": "Pharmacokinetics and Pharmacodynamics",
+  "subtopic": "Bioavailability and volume of distribution",
+  "difficulty": "easy",
+  "vignette": "A patient notices that a drug given by mouth reaches much lower blood concentrations than the same dose injected intravenously, and asks her physician why.",
+  "question": "Which factors most commonly account for oral bioavailability being below 100%?",
+  "options": [
+    {
+      "id": "A",
+      "text": "High volume of distribution and extensive plasma protein binding"
+    },
+    {
+      "id": "B",
+      "text": "Incomplete absorption and first-pass metabolism"
+    },
+    {
+      "id": "C",
+      "text": "Zero-order elimination and reduced clearance"
+    },
+    {
+      "id": "D",
+      "text": "Enterohepatic recirculation and a long half-life"
+    },
+    {
+      "id": "E",
+      "text": "Extensive tissue binding and a small volume of distribution"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Bioavailability is the fraction of administered drug reaching the systemic circulation, and it is 100% only for an intravenous dose. Orally administered drugs typically have F below 100% because the dose may be incompletely absorbed from the gut and because a portion is metabolized by first-pass hepatic metabolism before reaching the systemic circulation.",
+  "explanation_incorrect": {
+    "A": "Volume of distribution and protein binding determine how an absorbed drug distributes in the body, not how much of the oral dose reaches the circulation.",
+    "C": "Elimination order and clearance describe how drug is removed after it reaches the plasma; they do not explain the loss of an oral dose before it arrives there.",
+    "D": "Enterohepatic recirculation and long half-life tend to prolong drug exposure rather than explain reduced systemic delivery of an oral dose.",
+    "E": "Tissue binding increases the apparent volume of distribution but does not prevent the absorbed fraction from entering the circulation."
+  },
+  "educationalObjective": "Oral bioavailability is typically below 100% because of incomplete absorption and first-pass metabolism, whereas intravenous bioavailability is always 100%.",
+  "source": "Generated from 5. Pharmacology.pdf - Pharmacokinetics and Pharmacodynamics: Bioavailability and volume of distribution"
+},
+{
+  "id": "pharm-034",
+  "subject": "Pharmacology",
+  "major_topic": "Pharmacokinetics and Pharmacodynamics",
+  "subtopic": "Bioavailability and volume of distribution",
+  "difficulty": "medium",
+  "vignette": "A patient is brought to the emergency department after an overdose of a small lipophilic drug that distributes widely into tissues, including fat, and binds to tissue protein. The toxicology team considers hemodialysis to enhance elimination.",
+  "question": "Why is hemodialysis expected to be relatively ineffective for removing this drug?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Because the drug undergoes extensive first-pass metabolism"
+    },
+    {
+      "id": "B",
+      "text": "Because the drug is small and hydrophilic"
+    },
+    {
+      "id": "C",
+      "text": "Because the drug has a low volume of distribution"
+    },
+    {
+      "id": "D",
+      "text": "Because the drug is eliminated only through the bile"
+    },
+    {
+      "id": "E",
+      "text": "Because the drug has a high volume of distribution with extensive tissue distribution"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Hemodialysis is most effective for drugs with a low volume of distribution, because such drugs remain largely in the intravascular compartment where the dialyzer can access them. Small lipophilic molecules that distribute into all tissues, especially when bound to tissue protein, have a high volume of distribution, so only a small fraction of the total body burden is present in plasma at any moment and dialysis removes little drug per session.",
+  "explanation_incorrect": {
+    "A": "First-pass metabolism affects oral bioavailability before the drug reaches the systemic circulation; it does not determine the effectiveness of hemodialysis.",
+    "B": "Small hydrophilic molecules distribute in the extracellular fluid with a medium Vd and are generally good candidates for dialysis, the opposite of this drug.",
+    "C": "A low volume of distribution would make the drug highly dialyzable, not ineffective.",
+    "D": "Biliary elimination is a route of excretion; the limited effectiveness of dialysis here is explained by extensive tissue distribution, not the excretory route."
+  },
+  "educationalObjective": "Hemodialysis is most effective for drugs with a low volume of distribution and least effective for small lipophilic drugs that distribute widely into tissues.",
+  "source": "Generated from 5. Pharmacology.pdf - Pharmacokinetics and Pharmacodynamics: Bioavailability and volume of distribution"
+},
+{
+  "id": "pharm-035",
+  "subject": "Pharmacology",
+  "major_topic": "Pharmacokinetics and Pharmacodynamics",
+  "subtopic": "Bioavailability and volume of distribution",
+  "difficulty": "hard",
+  "vignette": "A patient with advanced liver disease and marked hypoalbuminemia is started on a drug that is normally highly bound to plasma proteins. The treating physician reviews how the reduced protein binding will alter the drug's pharmacokinetic profile.",
+  "question": "How does the decreased plasma protein binding affect this drug's distribution?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Volume of distribution increases"
+    },
+    {
+      "id": "B",
+      "text": "Volume of distribution decreases"
+    },
+    {
+      "id": "C",
+      "text": "Bioavailability of the oral form decreases"
+    },
+    {
+      "id": "D",
+      "text": "The drug becomes restricted to the intravascular compartment"
+    },
+    {
+      "id": "E",
+      "text": "The drug becomes more effectively removed by hemodialysis"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Volume of distribution is the theoretical value relating the amount of drug in the body to the plasma concentration. Liver and kidney disease reduce protein binding, and reduced protein binding increases Vd because less drug is sequestered in the vascular compartment and more diffuses into tissues. Vd = amount of drug in the body divided by plasma drug concentration.",
+  "explanation_incorrect": {
+    "B": "A decreased Vd would require more drug to be held within the plasma, which is the effect of increased rather than decreased protein binding.",
+    "C": "Bioavailability describes the fraction of the administered dose reaching the systemic circulation and is not determined by plasma protein binding.",
+    "D": "Restriction to the intravascular compartment (low Vd) characterizes large or charged, highly protein-bound molecules; reduced binding has the opposite effect.",
+    "E": "Increased Vd with greater tissue distribution makes hemodialysis less, not more, effective at clearing the drug."
+  },
+  "educationalObjective": "Liver and kidney disease reduce protein binding, which increases the volume of distribution.",
+  "source": "Generated from 5. Pharmacology.pdf - Pharmacokinetics and Pharmacodynamics: Bioavailability and volume of distribution"
+},
+{
+  "id": "pharm-036",
+  "subject": "Pharmacology",
+  "major_topic": "Pharmacokinetics and Pharmacodynamics",
+  "subtopic": "Bioavailability and volume of distribution",
+  "difficulty": "medium",
+  "vignette": "A newly developed therapeutic agent consists of large, charged molecules that are extensively bound to plasma proteins. The development team characterizes its distribution before first-in-human trials.",
+  "question": "Where does this drug primarily distribute?",
+  "options": [
+    {
+      "id": "A",
+      "text": "All tissues including fat, giving a high volume of distribution"
+    },
+    {
+      "id": "B",
+      "text": "The extracellular fluid, giving a medium volume of distribution"
+    },
+    {
+      "id": "C",
+      "text": "The intravascular compartment, giving a low volume of distribution"
+    },
+    {
+      "id": "D",
+      "text": "Preferentially into adipose tissue, giving a high volume of distribution"
+    },
+    {
+      "id": "E",
+      "text": "The intracellular compartment of all cells"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Large or charged molecules and drugs that are bound to plasma protein stay within the intravascular compartment, corresponding to a low volume of distribution. Small hydrophilic molecules distribute in the extracellular fluid (medium Vd), and small lipophilic molecules, especially those bound to tissue protein, distribute into all tissues including fat (high Vd).",
+  "explanation_incorrect": {
+    "A": "Distribution into all tissues including fat is typical of small lipophilic molecules, not large, charged, plasma protein-bound ones.",
+    "B": "Extracellular fluid distribution with a medium Vd applies to small hydrophilic molecules, not large charged protein-bound agents.",
+    "D": "Adipose tissue accumulation is characteristic of small lipophilic drugs; large charged molecules cannot enter tissues readily.",
+    "E": "Widespread intracellular distribution implies a high Vd, which large plasma protein-bound molecules do not achieve."
+  },
+  "educationalObjective": "Large or charged molecules and plasma protein-bound drugs distribute mainly in the intravascular compartment with a low volume of distribution.",
+  "source": "Generated from 5. Pharmacology.pdf - Pharmacokinetics and Pharmacodynamics: Bioavailability and volume of distribution"
+}
+]
