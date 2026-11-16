@@ -1,0 +1,166 @@
+[
+{
+  "id": "phs-085",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Normal, skewed, and bimodal distributions",
+  "difficulty": "medium",
+  "vignette": "Birth weights in a large, healthy newborn population follow a normal (Gaussian) distribution with a mean of 3400 g and a standard deviation of 400 g.",
+  "question": "Approximately what percentage of newborns in this population weigh between 2600 g and 4200 g?",
+  "options": [
+    {
+      "id": "A",
+      "text": "95%"
+    },
+    {
+      "id": "B",
+      "text": "68%"
+    },
+    {
+      "id": "C",
+      "text": "50%"
+    },
+    {
+      "id": "D",
+      "text": "84%"
+    },
+    {
+      "id": "E",
+      "text": "99.7%"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "For a normal distribution, 68% of values fall within 1 SD of the mean, 95% within 2 SDs, and 99.7% within 3 SDs. The range 2600–4200 g corresponds to 3400 ± 800 g, which is exactly ±2 SD, so approximately 95% of newborns fall within it.",
+  "explanation_incorrect": {
+    "B": "68% corresponds to ±1 SD (3000–3800 g), a much narrower range than the one asked about.",
+    "C": "50% is the proportion of a symmetric distribution lying on either side of the mean, not within ±2 SD.",
+    "D": "84% would approximate the proportion below +1 SD (or above −1 SD), not the proportion within ±2 SD.",
+    "E": "99.7% corresponds to ±3 SD (2200–4600 g), which is wider than the ±2 SD range in the question."
+  },
+  "educationalObjective": "In a normal distribution, 68% of values fall within 1 SD, 95% within 2 SDs, and 99.7% within 3 SDs of the mean.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Normal, skewed, and bimodal distributions"
+},
+{
+  "id": "phs-086",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Normal, skewed, and bimodal distributions",
+  "difficulty": "easy",
+  "vignette": "A pharmacogenetics study plots the rate of drug metabolism across a large cohort and finds two distinct peaks — one cluster of rapid metabolizers and another cluster of slow metabolizers — with relatively few individuals between the peaks.",
+  "question": "Which of the following best describes this distribution and its most likely explanation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A positive skew, because the two peaks drag the mean to the right"
+    },
+    {
+      "id": "B",
+      "text": "A bimodal distribution, suggesting two different populations such as fast versus slow acetylators"
+    },
+    {
+      "id": "C",
+      "text": "A normal distribution, because mean = median = mode in the cohort"
+    },
+    {
+      "id": "D",
+      "text": "A negative skew, because slow metabolizers form the lower tail"
+    },
+    {
+      "id": "E",
+      "text": "A uniformly distributed cohort, because values are spread evenly across the range"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "A bimodal distribution shows two distinct peaks and suggests two different populations. The classic examples are metabolic polymorphisms such as fast versus slow acetylators, age at onset of Hodgkin lymphoma, and suicide rate by age. Two peaks indicate the cohort is better analyzed as separate subgroups rather than summarized by a single mean.",
+  "explanation_incorrect": {
+    "A": "Skew describes a single-peaked distribution with an elongated tail, not two separate peaks.",
+    "C": "A normal distribution is unimodal and bell-shaped; mean = median = mode describes one central peak, not two.",
+    "D": "Negative skew is a one-peak asymmetry with a longer left tail; the described pattern has two genuine peaks.",
+    "E": "A uniform distribution has roughly equal frequencies across all values, not two clusters with few individuals in between."
+  },
+  "educationalObjective": "A bimodal distribution suggests two different populations, classically fast vs slow acetylators, age of onset of Hodgkin lymphoma, or suicide rate by age.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Normal, skewed, and bimodal distributions"
+},
+{
+  "id": "phs-087",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Normal, skewed, and bimodal distributions",
+  "difficulty": "hard",
+  "vignette": "A hospital reviews total charges per admission. Most admissions incur low charges, but a few catastrophic admissions create a long tail stretching to the right; the peak of the distribution lies at the low-charge end.",
+  "question": "Which of the following best describes the relationship among the mean, median, and mode for these data?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Mean = median = mode, all at the peak of the distribution"
+    },
+    {
+      "id": "B",
+      "text": "Mean < median < mode"
+    },
+    {
+      "id": "C",
+      "text": "Median < mean < mode"
+    },
+    {
+      "id": "D",
+      "text": "Mean > median > mode"
+    },
+    {
+      "id": "E",
+      "text": "Median > mean > mode"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "This is a positively skewed distribution: asymmetry with a longer tail on the right and the mean falling closer to the tail. The typical ordering is mean > median > mode — the few very large charges pull the mean rightward, the median resists the outliers, and the mode remains at the peak among the many low-charge admissions.",
+  "explanation_incorrect": {
+    "A": "Mean = median = mode holds only for a normal (Gaussian) distribution, which these right-tailed charges are not.",
+    "B": "Mean < median < mode with the tail on the left describes a negatively skewed distribution, the opposite of these data.",
+    "C": "An ordering with the mode largest (median < mean < mode) does not fit either skew pattern; for positive skew the mode is the smallest of the three.",
+    "E": "Median > mean > mode places the mean below the median with the smallest mode, which does not match a right tail pulling the mean above both."
+  },
+  "educationalObjective": "Positive skew: mean > median > mode, with a longer right tail and the mean falling closer to the tail.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Normal, skewed, and bimodal distributions"
+},
+{
+  "id": "phs-088",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Normal, skewed, and bimodal distributions",
+  "difficulty": "medium",
+  "vignette": "A residency program reviews the scores of a final examination on which most students performed very well, while a small number of unprepared students scored very low, stretching the distribution with a long tail to the left.",
+  "question": "Which of the following best describes this distribution?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It is normally distributed, with mean = median = mode at the center"
+    },
+    {
+      "id": "B",
+      "text": "It is positively skewed, with mean > median > mode and the mean closest to the tail"
+    },
+    {
+      "id": "C",
+      "text": "It is negatively skewed, with mean < median < mode and the tail extending to the left"
+    },
+    {
+      "id": "D",
+      "text": "It is bimodal, with two peaks corresponding to two student populations"
+    },
+    {
+      "id": "E",
+      "text": "It is uniformly distributed, with scores spread evenly across the range"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "A distribution with a long left tail is negatively skewed: typically mean < median < mode, and the mean falls closer to the (left) tail. The few very low scores pull the mean below the median, while the mode remains at the high-score peak where most students cluster.",
+  "explanation_incorrect": {
+    "A": "The long left tail destroys the symmetry required for a normal distribution, where mean = median = mode.",
+    "B": "Positive skew has the longer tail on the right with mean > median > mode — the mirror image of these data.",
+    "D": "There is one cluster of well-prepared students with a thin tail of low scorers, not two distinct peaks.",
+    "E": "Scores cluster at the high end with a thin tail rather than being spread evenly across all values."
+  },
+  "educationalObjective": "Negative skew: mean < median < mode, with a longer left tail and the mean falling closer to the tail.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Normal, skewed, and bimodal distributions"
+}
+]

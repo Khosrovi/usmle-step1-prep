@@ -1,0 +1,166 @@
+[
+{
+  "id": "phs-201",
+  "subject": "PHS",
+  "major_topic": "Healthcare Delivery",
+  "subtopic": "Healthcare payment models",
+  "difficulty": "medium",
+  "vignette": "A hospital system agrees with a payer to receive one fixed amount for a total knee replacement service, regardless of the ultimate cost of the episode. This amount is then divided among the orthopedic surgeon, the anesthesiologist, the hospital, and the rehabilitation facility that all participate in the patient's care.",
+  "question": "Which of the following payment models does this arrangement best represent?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Fee-for-service"
+    },
+    {
+      "id": "B",
+      "text": "Capitation"
+    },
+    {
+      "id": "C",
+      "text": "Global payment"
+    },
+    {
+      "id": "D",
+      "text": "Bundled payment"
+    },
+    {
+      "id": "E",
+      "text": "Discounted fee-for-service"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "In a bundled payment, the healthcare organization receives a set amount per service, regardless of ultimate cost, and that amount is divided among all providers and facilities involved. The vignette shows exactly this: a fixed price for one service shared among the surgeon, hospital, anesthesiologist, and rehab facility. The risk of cost overruns is shifted to the participating group, which then internalizes coordination incentives.",
+  "explanation_incorrect": {
+    "A": "Fee-for-service pays for each individual service separately; it does not involve a single fixed amount divided among all participants in one episode.",
+    "B": "Capitation pays physicians a set amount per patient assigned to them per period of time regardless of how much the patient uses the system — a population-based payment, not a per-service divided payment.",
+    "C": "A global payment is a single payment covering all expenses associated with a single incident of care; the distinguishing feature of bundled payment is that the set amount is apportioned among multiple providers and facilities for one service.",
+    "E": "Discounted fee-for-service pays for each individual service at a predetermined discounted rate (as in PPOs); each service is still billed separately rather than bundled into one shared amount."
+  },
+  "educationalObjective": "Bundled payment = one set amount per service, divided among all providers and facilities involved, regardless of ultimate cost.",
+  "source": "Generated from 6. PHS.pdf - Healthcare Delivery: Healthcare payment models"
+},
+{
+  "id": "phs-202",
+  "subject": "PHS",
+  "major_topic": "Healthcare Delivery",
+  "subtopic": "Healthcare payment models",
+  "difficulty": "medium",
+  "vignette": "A primary care physician participates in a plan used by some HMOs in which she receives a fixed payment each month for every patient assigned to her panel. She receives this same amount whether a patient never schedules a visit or is seen weekly, and her compensation does not change with the number of tests she orders.",
+  "question": "Which of the following payment models does this physician's plan use?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Fee-for-service"
+    },
+    {
+      "id": "B",
+      "text": "Capitation"
+    },
+    {
+      "id": "C",
+      "text": "Bundled payment"
+    },
+    {
+      "id": "D",
+      "text": "Discounted fee-for-service"
+    },
+    {
+      "id": "E",
+      "text": "Global payment"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Capitation pays physicians a set amount per patient assigned to them per period of time, regardless of how much the patient uses the healthcare system; it is used by some HMOs. The vignette's monthly per-panel-member payment independent of visit volume is the defining structure. This model shifts utilization risk to the physician and incentivizes prevention and efficiency.",
+  "explanation_incorrect": {
+    "A": "Fee-for-service pays for each individual service delivered, so income would rise with every visit and test ordered — the opposite of the fixed per-patient payment described.",
+    "C": "Bundled payment is a set amount per service divided among all providers and facilities involved in that service; it is tied to a service episode, not to a per-patient monthly payment.",
+    "D": "Discounted fee-for-service still pays per individual service, just at a predetermined discounted rate negotiated between providers and payers (as in PPOs); utilization still drives income.",
+    "E": "A global payment is a single payment for all expenses of a single incident of care (eg, elective surgery with pre- and postoperative visits), not a recurring per-patient payment."
+  },
+  "educationalObjective": "Capitation = a set amount per patient per time period regardless of utilization, a model used by some HMOs.",
+  "source": "Generated from 6. PHS.pdf - Healthcare Delivery: Healthcare payment models"
+},
+{
+  "id": "phs-203",
+  "subject": "PHS",
+  "major_topic": "Healthcare Delivery",
+  "subtopic": "Healthcare payment models",
+  "difficulty": "easy",
+  "vignette": "A dermatologist bills the insurer separately for each office visit, each biopsy performed, and each pathology interpretation rendered. At the end of the month, her reimbursement reflects precisely the number and type of individual services she delivered, with no fixed per-patient or per-episode component.",
+  "question": "Which of the following payment models is this dermatologist using?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Fee-for-service"
+    },
+    {
+      "id": "B",
+      "text": "Capitation"
+    },
+    {
+      "id": "C",
+      "text": "Bundled payment"
+    },
+    {
+      "id": "D",
+      "text": "Global payment"
+    },
+    {
+      "id": "E",
+      "text": "Discounted fee-for-service"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "In fee-for-service, the insurer and/or patient pays for each individual service delivered. Billing separately for each visit, biopsy, and interpretation, with income tracking the number of services, is the textbook pattern. This model rewards volume of services and contrasts with all per-episode or per-patient models.",
+  "explanation_incorrect": {
+    "B": "Capitation pays a set amount per patient per period of time regardless of utilization; this physician's income varies directly with services delivered, not with panel membership.",
+    "C": "Bundled payment gives a set amount per service that is divided among all providers and facilities involved; this physician is billing her own individual services independently.",
+    "D": "A global payment covers all expenses of a single incident of care with one payment; no single incident-level payment appears in this billing pattern.",
+    "E": "Discounted fee-for-service pays per individual service at a discounted rate predetermined by providers and payers (eg, PPOs); nothing in the vignette indicates a negotiated discount — it is the standard per-service model."
+  },
+  "educationalObjective": "Fee-for-service = payment for each individual service delivered, with reimbursement tracking service volume.",
+  "source": "Generated from 6. PHS.pdf - Healthcare Delivery: Healthcare payment models"
+},
+{
+  "id": "phs-204",
+  "subject": "PHS",
+  "major_topic": "Healthcare Delivery",
+  "subtopic": "Healthcare payment models",
+  "difficulty": "hard",
+  "vignette": "A patient schedules an elective laparoscopic cholecystectomy. Her insurer issues one payment that covers the surgeon's fee, the operating room and anesthesia costs, the preoperative evaluation performed the week before, and the postoperative follow-up visits — all associated with this single incident of care.",
+  "question": "Which of the following payment models does this arrangement best represent?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Fee-for-service"
+    },
+    {
+      "id": "B",
+      "text": "Bundled payment"
+    },
+    {
+      "id": "C",
+      "text": "Global payment"
+    },
+    {
+      "id": "D",
+      "text": "Capitation"
+    },
+    {
+      "id": "E",
+      "text": "Discounted fee-for-service"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "A global payment is a single payment from the insurer and/or patient for all expenses associated with a single incident of care. First Aid notes it is most commonly used during elective surgeries, where it covers the cost of the surgery itself as well as the necessary pre- and postoperative visits — precisely the arrangement described. The unit of payment is the entire incident of care, not each service or each patient-period.",
+  "explanation_incorrect": {
+    "A": "Fee-for-service pays separately for each individual service, whereas here one payment subsumes the preoperative evaluation, surgery, and postoperative visits.",
+    "B": "Bundled payment is a set amount per service that is divided among all providers and facilities involved; the defining global-payment feature — one payment covering the whole incident of care including pre- and postoperative visits — distinguishes it.",
+    "D": "Capitation is a set amount per patient per period of time regardless of utilization; it is a recurring panel-based payment, not an incident-based one.",
+    "E": "Discounted fee-for-service pays for each individual service at a predetermined discounted rate; services are still billed individually rather than consolidated into one incident-level payment."
+  },
+  "educationalObjective": "Global payment = one payment covering all expenses of a single incident of care, most commonly for elective surgeries including pre- and postoperative visits.",
+  "source": "Generated from 6. PHS.pdf - Healthcare Delivery: Healthcare payment models"
+}
+]

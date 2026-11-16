@@ -1,0 +1,207 @@
+[
+{
+  "id": "phs-109",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Common statistical tests",
+  "difficulty": "medium",
+  "vignette": "A researcher wants to compare the mean systolic blood pressure between men and women in a cohort of 500 adults.",
+  "question": "Which of the following statistical tests is most appropriate for this comparison?",
+  "options": [
+    {
+      "id": "A",
+      "text": "ANOVA"
+    },
+    {
+      "id": "B",
+      "text": "t-test"
+    },
+    {
+      "id": "C",
+      "text": "Chi-square (χ²) test"
+    },
+    {
+      "id": "D",
+      "text": "Fisher's exact test"
+    },
+    {
+      "id": "E",
+      "text": "Pearson correlation coefficient"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "The t-test checks differences between the means of 2 groups—recalled by the mnemonic 'Tea is meant for 2.' Comparing mean blood pressure between men and women (two groups, a numerical outcome) is the classic example from First Aid. ANOVA would apply to three or more group means, and the chi-square test applies to categorical outcomes such as proportions.",
+  "explanation_incorrect": {
+    "A": "ANOVA compares the means of 3 or more groups, but here only 2 groups (men and women) are being compared.",
+    "C": "The chi-square test compares percentages or proportions of categorical outcomes, not mean values of a numerical variable such as blood pressure.",
+    "D": "Fisher's exact test is used instead of chi-square for small samples with categorical outcomes; the outcome here is a continuous mean with a large sample.",
+    "E": "The Pearson correlation coefficient measures the linear correlation between two numerical variables, not a difference in means between two groups."
+  },
+  "educationalObjective": "Use a t-test to compare the means of 2 groups ('Tea is meant for 2').",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Common statistical tests"
+},
+{
+  "id": "phs-110",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Common statistical tests",
+  "difficulty": "medium",
+  "vignette": "An epidemiologist wants to compare the mean systolic blood pressure among members of 3 different ethnic groups in a community health survey.",
+  "question": "Which of the following statistical tests is most appropriate for this comparison?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Fisher's exact test"
+    },
+    {
+      "id": "B",
+      "text": "t-test"
+    },
+    {
+      "id": "C",
+      "text": "ANOVA"
+    },
+    {
+      "id": "D",
+      "text": "Chi-square (χ²) test"
+    },
+    {
+      "id": "E",
+      "text": "Pearson correlation coefficient"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "ANOVA (ANalysis Of VAriance) checks differences between the means of 3 or more groups. Comparing mean blood pressure across members of 3 different ethnic groups is First Aid's own example of when ANOVA is indicated: the outcome is numerical (a mean) and there are more than two groups. A t-test would be appropriate only if there were exactly two groups.",
+  "explanation_incorrect": {
+    "A": "Fisher's exact test compares proportions of categorical outcomes in small samples, not means across several groups.",
+    "B": "A t-test compares the means of exactly 2 groups; three groups are being compared here.",
+    "D": "The chi-square test compares percentages or proportions of categorical outcomes (not mean values) across 2 or more groups.",
+    "E": "The Pearson correlation coefficient quantifies the linear association between two continuous variables, not mean differences among multiple groups."
+  },
+  "educationalObjective": "Use ANOVA to compare the means of 3 or more groups (ANalysis Of VAriance).",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Common statistical tests"
+},
+{
+  "id": "phs-111",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Common statistical tests",
+  "difficulty": "easy",
+  "vignette": "A public health student wants to compare the proportion of members of 3 age groups who have essential hypertension in a large national survey.",
+  "question": "Which of the following statistical tests is most appropriate for this comparison?",
+  "options": [
+    {
+      "id": "A",
+      "text": "t-test"
+    },
+    {
+      "id": "B",
+      "text": "Fisher's exact test"
+    },
+    {
+      "id": "C",
+      "text": "ANOVA"
+    },
+    {
+      "id": "D",
+      "text": "Pearson correlation coefficient"
+    },
+    {
+      "id": "E",
+      "text": "Chi-square (χ²) test"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "The chi-square (χ²) test checks differences between 2 or more percentages or proportions of categorical outcomes—not mean values. Comparing the proportion of members of 3 age groups who have essential hypertension is the exact example given in First Aid; the mnemonic is 'chi-tegorical' (chi-square for categorical data).",
+  "explanation_incorrect": {
+    "A": "A t-test compares the means of 2 groups; here the data are proportions of a categorical outcome across 3 groups.",
+    "B": "Fisher's exact test is reserved for small samples with categorical outcomes; this is a large national survey.",
+    "C": "ANOVA compares the means of 3 or more groups, but hypertension status is a categorical outcome measured as a proportion, not a mean.",
+    "D": "The Pearson correlation coefficient assesses the linear relationship between two numerical variables, not differences in proportions among groups."
+  },
+  "educationalObjective": "Use the chi-square test to compare percentages or proportions of categorical outcomes across 2 or more groups ('chi-tegorical').",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Common statistical tests"
+},
+{
+  "id": "phs-112",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Common statistical tests",
+  "difficulty": "medium",
+  "vignette": "A resident wants to compare the percentage of 20 men and 20 women with hypertension at a small community clinic. The expected cell counts in the 2×2 table are very small.",
+  "question": "Which of the following statistical tests is most appropriate for this comparison?",
+  "options": [
+    {
+      "id": "A",
+      "text": "ANOVA"
+    },
+    {
+      "id": "B",
+      "text": "t-test"
+    },
+    {
+      "id": "C",
+      "text": "Chi-square (χ²) test"
+    },
+    {
+      "id": "D",
+      "text": "Fisher's exact test"
+    },
+    {
+      "id": "E",
+      "text": "Pearson correlation coefficient"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Fisher's exact test checks differences between 2 percentages or proportions of categorical, nominal outcomes and is used instead of the chi-square test with small samples—First Aid's example is exactly comparing the percentage of 20 men and 20 women with hypertension. The chi-square approximation is unreliable when cell counts are small, so the exact test is preferred.",
+  "explanation_incorrect": {
+    "A": "ANOVA compares the means of 3 or more groups; the outcome here is a proportion in a small sample, not a group mean.",
+    "B": "A t-test compares the means of 2 groups and does not apply to categorical proportions.",
+    "C": "Chi-square is the correct family of test for proportions, but with small samples Fisher's exact test should be used instead.",
+    "E": "The Pearson correlation coefficient measures the linear association between two numerical variables, not a difference between two proportions."
+  },
+  "educationalObjective": "Use Fisher's exact test instead of chi-square when comparing proportions of categorical outcomes in small samples.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Common statistical tests"
+},
+{
+  "id": "phs-113",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Common statistical tests",
+  "difficulty": "hard",
+  "vignette": "A large smoking-cessation trial (n = 500) wants to test whether the proportion of participants who achieved sustained abstinence at 1 year differs between the drug arm and the placebo arm. The outcome is binary (abstinent vs not abstinent).",
+  "question": "Which of the following statistical tests is most appropriate for analyzing this outcome?",
+  "options": [
+    {
+      "id": "A",
+      "text": "t-test"
+    },
+    {
+      "id": "B",
+      "text": "ANOVA"
+    },
+    {
+      "id": "C",
+      "text": "Chi-square (χ²) test"
+    },
+    {
+      "id": "D",
+      "text": "Fisher's exact test"
+    },
+    {
+      "id": "E",
+      "text": "Pearson correlation coefficient"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "The outcome is a categorical (binary) outcome compared as a percentage or proportion between 2 groups in a large sample—the defining indication for the chi-square (χ²) test, which handles differences between 2 or more proportions ('chi-tegorical'). With a large sample size, the chi-square approximation is valid and Fisher's exact test is unnecessary.",
+  "explanation_incorrect": {
+    "A": "A t-test compares group means of a numerical variable; abstinence is a binary categorical outcome, not a mean.",
+    "B": "ANOVA compares the means of 3 or more groups and is inapplicable to a binary proportion in 2 groups.",
+    "D": "Fisher's exact test substitutes for chi-square only with small samples; with n = 500 the chi-square test is appropriate.",
+    "E": "The Pearson correlation coefficient describes the linear relationship between two continuous variables, not the difference between two proportions."
+  },
+  "educationalObjective": "For large samples comparing proportions of a categorical outcome between 2 or more groups, use the chi-square test; reserve Fisher's exact test for small samples.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Common statistical tests"
+}
+]

@@ -1,0 +1,166 @@
+[
+{
+  "id": "phs-061",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Kaplan-Meier and survival analysis",
+  "difficulty": "easy",
+  "vignette": "A surgical oncology team follows 120 patients for 5 years after pancreatectomy and constructs a graphic display in which the estimated probability of remaining alive is shown on the y-axis and the length of time since surgery on the x-axis, with stepwise downward ticks each time a death occurs.",
+  "question": "Which of the following best describes this graphic representation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It plots the number of new cases of disease over time on the y-axis, estimating incidence."
+    },
+    {
+      "id": "B",
+      "text": "It is restricted to mortality outcomes and cannot be used for any other type of event."
+    },
+    {
+      "id": "C",
+      "text": "It estimates the proportion of the population with the disease at each point in time, estimating prevalence."
+    },
+    {
+      "id": "D",
+      "text": "It is a Kaplan-Meier curve estimating the probability of survival over time for time-to-event data, where survival probability = 1 − event probability."
+    },
+    {
+      "id": "E",
+      "text": "It plots the instantaneous hazard of death on the y-axis, and the curve can only descend toward zero."
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "This is a Kaplan-Meier curve, used to estimate the probability of survival over time: the y-axis shows survival probabilities and the x-axis shows the length of time, making it the standard display for time-to-event data. The survival probability equals 1 − event probability. Although the event is frequently mortality, outcomes examined may include any event, such as recurrence or graft failure.",
+  "explanation_incorrect": {
+    "A": "Counting new cases over time measures incidence, not survival; the Kaplan-Meier y-axis is a probability of remaining event-free, not a case count.",
+    "B": "Although mortality is the most frequent outcome examined, a Kaplan-Meier analysis can be used for any defined event, including recurrence or cure.",
+    "C": "Estimating the proportion of a population with disease at a point in time measures prevalence; the Kaplan-Meier curve estimates the probability of surviving (remaining event-free) over follow-up time.",
+    "E": "The y-axis of a Kaplan-Meier curve is the survival probability (starting at 1.0 and stepping downward), not the instantaneous hazard, and the description of an ascending-only constraint is incorrect."
+  },
+  "educationalObjective": "A Kaplan-Meier curve displays survival probability (y-axis) versus time (x-axis) for time-to-event data, with survival probability = 1 − event probability.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Kaplan-Meier and survival analysis"
+},
+{
+  "id": "phs-062",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Kaplan-Meier and survival analysis",
+  "difficulty": "medium",
+  "vignette": "A cohort study of patients with heart failure with reduced ejection fraction reports that over 3 years of follow-up, the probability of the composite event (death or transplant) is 1 in 4. The investigators now wish to display these data as a Kaplan-Meier survival curve.",
+  "question": "What value should be plotted as the 3-year survival probability on the y-axis of the curve?",
+  "options": [
+    {
+      "id": "A",
+      "text": "75%"
+    },
+    {
+      "id": "B",
+      "text": "25%"
+    },
+    {
+      "id": "C",
+      "text": "33%"
+    },
+    {
+      "id": "D",
+      "text": "67%"
+    },
+    {
+      "id": "E",
+      "text": "50%"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "On a Kaplan-Meier curve, survival probability = 1 − event probability. An event probability of 1 in 4 (25%) therefore corresponds to a 3-year survival probability of 1 − 0.25 = 0.75, or 75%, which is the value plotted at the 3-year time point on the y-axis.",
+  "explanation_incorrect": {
+    "B": "25% is the event probability itself, not the survival probability; the curve plots the complement.",
+    "C": "33% results from inverting the event fraction (1/3), which is not related to either the event or the survival probability.",
+    "D": "67% comes from subtracting the inverted fraction (1 − 33%), compounding the inversion error; the survival probability is 1 − 25%.",
+    "E": "50% has no basis in the reported event probability; it neither follows from 1 − 25% nor from the event rate itself."
+  },
+  "educationalObjective": "Survival probability = 1 − event probability, the value plotted on the y-axis of a Kaplan-Meier curve.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Kaplan-Meier and survival analysis"
+},
+{
+  "id": "phs-063",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Kaplan-Meier and survival analysis",
+  "difficulty": "medium",
+  "vignette": "A randomized trial compares two anticoagulation regimens after mechanical heart valve replacement and displays the freedom-from-embolism probability for each group as Kaplan-Meier curves over 4 years. The curves visibly diverge, and the investigators want to report a p value for the difference in survival between the two groups.",
+  "question": "Which of the following statistical approaches is appropriate for calculating this p value?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A paired t-test comparing the mean event-free times of the two groups."
+    },
+    {
+      "id": "B",
+      "text": "The log-rank test comparing the two survival curves."
+    },
+    {
+      "id": "C",
+      "text": "A Pearson correlation coefficient between time and event status."
+    },
+    {
+      "id": "D",
+      "text": "A one-way ANOVA comparing mean survival across the treatment groups."
+    },
+    {
+      "id": "E",
+      "text": "A chi-square test comparing the 4-year incidence rates only."
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "The p value for the difference between two Kaplan-Meier survival curves is calculated using the log-rank test (or Cox regression). These methods use the full time-to-event information, including censored observations, rather than collapsing follow-up to a single time point or a mean.",
+  "explanation_incorrect": {
+    "A": "A paired t-test requires paired, normally distributed measurements and ignores censoring; it is not the method for comparing two survival curves.",
+    "C": "A Pearson correlation quantifies the linear association between two continuous variables; it does not test the difference between two survival distributions with censored data.",
+    "D": "ANOVA compares means among groups and is unsuitable for time-to-event data subject to censoring, which survival methods are designed to handle.",
+    "E": "Comparing incidence rates at a single 4-year time point discards the timing of events and the censored follow-up; survival comparison uses the log-rank test or Cox regression."
+  },
+  "educationalObjective": "The p value for the difference between survival curves is calculated using the log-rank test or Cox regression.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Kaplan-Meier and survival analysis"
+},
+{
+  "id": "phs-064",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Kaplan-Meier and survival analysis",
+  "difficulty": "hard",
+  "vignette": "In a trial of a new drug versus placebo after myocardial infarction, the drug group's Kaplan-Meier curve remains above the placebo curve at every time point during 2 years of follow-up. During the study, several patients in both groups move away and are lost to follow-up, and some are still alive and event-free when the study ends.",
+  "question": "Which of the following statements is most accurate regarding the interpretation of these Kaplan-Meier curves?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Patients lost to follow-up should be counted as deaths at the time they leave the study."
+    },
+    {
+      "id": "B",
+      "text": "The analysis cannot be completed unless every patient experiences the event before the study ends."
+    },
+    {
+      "id": "C",
+      "text": "The downward steps in the curve represent the prevalence of the disease at each time point."
+    },
+    {
+      "id": "D",
+      "text": "Because patients were censored, the difference between the curves cannot be formally tested."
+    },
+    {
+      "id": "E",
+      "text": "Censored patients contribute follow-up time until their last observation, and the sustained separation of the curves can be tested with the log-rank test."
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Kaplan-Meier analysis is designed for time-to-event data with censored observations: patients who are lost to follow-up or event-free at study end contribute survival time up to their last known observation and are then removed from further risk, without being counted as events. A curve that remains above another at all time points indicates a higher survival probability in that group, and the difference can be formally tested with the log-rank test or Cox regression.",
+  "explanation_incorrect": {
+    "A": "Censored patients are not assumed to have had the event; counting losses as deaths would falsely inflate mortality and violate the method's handling of incomplete follow-up.",
+    "B": "A Kaplan-Meier curve can be constructed with censored data — that is precisely its purpose; requiring every subject to reach the endpoint would eliminate the need for survival analysis.",
+    "C": "The downward steps represent event occurrences that lower the survival probability; prevalence is the number of existing cases in a population and is not plotted on this curve.",
+    "D": "Censoring is routinely handled by survival methods; the log-rank test (or Cox regression) formally tests the difference between curves despite censored observations."
+  },
+  "educationalObjective": "In Kaplan-Meier analysis, censored patients contribute survival time until their last observation, and curve differences are tested with the log-rank test or Cox regression.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Kaplan-Meier and survival analysis"
+}
+]

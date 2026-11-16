@@ -1,0 +1,125 @@
+[
+{
+  "id": "phs-099",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Statistical vs clinical significance",
+  "difficulty": "easy",
+  "vignette": "A study of 10,000 patients with type 2 diabetes evaluates a new glucose-lowering agent. The treatment group's fasting blood sugar is 1 mg/dL lower than placebo, and this difference is highly statistically significant (p < 0.001).",
+  "question": "Which of the following best characterizes this result?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The result is clinically significant but not statistically significant"
+    },
+    {
+      "id": "B",
+      "text": "The result is statistically significant but may have limited clinical significance"
+    },
+    {
+      "id": "C",
+      "text": "The result represents a type I error and should be disregarded"
+    },
+    {
+      "id": "D",
+      "text": "The result is invalid because the sample size was too small to detect such a small difference"
+    },
+    {
+      "id": "E",
+      "text": "The result proves that the intervention improves meaningful patient outcomes"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Statistical significance is defined by the likelihood that the study results are due to chance: with p < 0.001, there is a very low probability the finding is due to chance. Clinical significance, however, is a measure of the effect on treatment outcomes. Lowering blood sugar by 1 mg/dL—though highly statistically significant with a large sample—is the classic First Aid example of an intervention whose clinical impact may be minimal. Statistical significance does not equal clinical significance.",
+  "explanation_incorrect": {
+    "A": "This inverts the concepts: the tiny 1 mg/dL reduction has questionable clinical importance, while the p < 0.001 result is clearly statistically significant.",
+    "C": "A very small p value does not indicate a type I error; it simply means the result is unlikely under the null hypothesis.",
+    "D": "Large sample sizes are precisely what allow tiny differences to reach statistical significance; n = 10,000 is not too small.",
+    "E": "Statistical significance alone does not prove a meaningful benefit; a 1 mg/dL glucose change is unlikely to be clinically important."
+  },
+  "educationalObjective": "Statistical significance (low probability results are due to chance) does not equal clinical significance (meaningful effect on patient outcomes), as in the 1 mg/dL blood sugar example.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Statistical vs clinical significance"
+},
+{
+  "id": "phs-100",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Statistical vs clinical significance",
+  "difficulty": "medium",
+  "vignette": "During a journal club, residents debate how to interpret a trial of a new inhaled therapy for COPD. One resident points out the result was statistically significant (p = 0.01), while another questions whether the magnitude of the effect matters to patients.",
+  "question": "Which of the following best defines clinical significance as distinct from statistical significance?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The likelihood that the study results are due to chance"
+    },
+    {
+      "id": "B",
+      "text": "A p value below the conventional threshold of 0.05"
+    },
+    {
+      "id": "C",
+      "text": "A 95% confidence interval that excludes the null value"
+    },
+    {
+      "id": "D",
+      "text": "A measure of the effect on treatment outcomes, where a highly significant intervention has a large impact on patient outcomes"
+    },
+    {
+      "id": "E",
+      "text": "The probability of rejecting the null hypothesis when it is false"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Clinical significance is a measure of the effect on treatment outcomes: an intervention with high clinical significance is likely to have a large impact on patient outcomes or measures. This contrasts with statistical significance, which concerns only the likelihood that the results arose by chance. A treatment can lower a laboratory value significantly in the statistical sense yet change it by too little to matter to patients.",
+  "explanation_incorrect": {
+    "A": "This is the definition of statistical significance, not clinical significance.",
+    "B": "p < 0.05 is the conventional criterion for statistical significance and says nothing about whether the effect size matters clinically.",
+    "C": "A confidence interval excluding the null value indicates statistical significance; clinical significance depends on the magnitude and importance of the effect.",
+    "E": "This defines statistical power (1 - beta), which is unrelated to whether an effect is large enough to matter for patients."
+  },
+  "educationalObjective": "Clinical significance measures the impact of an intervention on patient outcomes, whereas statistical significance only reflects the likelihood that results are due to chance.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Statistical vs clinical significance"
+},
+{
+  "id": "phs-101",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Statistical vs clinical significance",
+  "difficulty": "hard",
+  "vignette": "A pharmaceutical company reports that in a trial of 20,000 patients, its new antihypertensive lowered mean systolic blood pressure by 2 mm Hg compared with placebo (p < 0.001). A primary care physician must decide whether to switch her patients to this new drug.",
+  "question": "Which of the following is the most appropriate interpretation of these findings for clinical decision-making?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The finding is statistically significant, but the magnitude of the effect is so small that its clinical importance is questionable"
+    },
+    {
+      "id": "B",
+      "text": "Because p < 0.001, the effect is both statistically and clinically significant and patients should be switched"
+    },
+    {
+      "id": "C",
+      "text": "The p value indicates there is a 0.1% chance that the drug has any effect on blood pressure"
+    },
+    {
+      "id": "D",
+      "text": "The result most likely represents a type II error, since the observed difference is so small"
+    },
+    {
+      "id": "E",
+      "text": "The result is uninterpretable without also knowing the p value for the placebo group"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "The trial shows high statistical significance (a low probability that results are due to chance) but the proposed intervention may have limited clinical impact: a 2 mm Hg systolic reduction, though reliably detected in 20,000 patients, may not meaningfully change outcomes. Statistical significance is defined by the likelihood of results being due to chance, while clinical significance is a measure of the effect on treatment outcomes; the two must be weighed separately when deciding whether to adopt a therapy.",
+  "explanation_incorrect": {
+    "B": "A small p value establishes statistical significance only; it cannot establish that a 2 mm Hg difference is important enough to change practice.",
+    "C": "The p value is the probability of results at least as extreme as those observed assuming the null hypothesis is correct, not the chance the drug has no effect.",
+    "D": "A type II error is a false negative—failing to find an effect that exists. Here an effect was found; the concern is its magnitude, not a missed effect.",
+    "E": "The reported p value and effect size fully allow interpretation; a separate p value for placebo is not needed to assess clinical importance."
+  },
+  "educationalObjective": "When applying trial results, weigh the magnitude of the effect (clinical significance) separately from its statistical significance.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Statistical vs clinical significance"
+}
+]

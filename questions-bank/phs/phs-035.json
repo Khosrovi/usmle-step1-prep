@@ -1,0 +1,289 @@
+[
+{
+  "id": "phs-001",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Observational study designs",
+  "difficulty": "easy",
+  "vignette": "A dermatologist encounters five patients over one year who each developed diffuse skin thickening after using the same cosmetic cream. She publishes a detailed report describing the clinical findings, symptom timeline, and outcomes of these five patients. She did not enroll any patients who used the cream and did not develop skin thickening.",
+  "question": "Which of the following best characterizes this report?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A cross-sectional study that establishes the prevalence of skin thickening in the exposed patients"
+    },
+    {
+      "id": "B",
+      "text": "A case-control study that can estimate the odds ratio for cream exposure in skin thickening"
+    },
+    {
+      "id": "C",
+      "text": "A case series that cannot test the association between the cream and skin thickening because it has no comparison group"
+    },
+    {
+      "id": "D",
+      "text": "A prospective cohort study that can estimate the relative risk of skin thickening from cream use"
+    },
+    {
+      "id": "E",
+      "text": "An ecological study that is appropriate for monitoring population health"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "A case series describes several individual patients with the same diagnosis, treatment, or outcome, such as these five patients with skin thickening after the same exposure. Because it includes no comparison group, a case series cannot show an association between a risk factor (the cream) and the disease (skin thickening). The giveaway on Step 1 is a detailed description of a handful of similar patients without any disease-free comparison group.",
+  "explanation_incorrect": {
+    "A": "A cross-sectional study assesses the frequency of disease and risk factors in the present across a defined population and measures prevalence; this report describes a handful of selected patients, not a population surveyed at one point in time.",
+    "B": "A case-control study retrospectively compares people with the disease to people without the disease; since no disease-free (cream-exposed, unaffected) comparison group was enrolled, no odds ratio can be calculated.",
+    "D": "A cohort study compares an exposed group with an unexposed group and follows them for disease incidence, yielding relative risk; no unexposed group exists here, so relative risk cannot be estimated.",
+    "E": "An ecological study compares the frequency of disease and risk factors across populations, not across individually described patients; this report is a description of individual clinical cases."
+  },
+  "educationalObjective": "A case series describes several similar patients but has no comparison group, so it cannot demonstrate an association between a risk factor and disease.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Observational study designs"
+},
+{
+  "id": "phs-002",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Observational study designs",
+  "difficulty": "easy",
+  "vignette": "Researchers administer a survey to all residents of a county during a single month, recording for each person whether chronic obstructive pulmonary disease is currently present and whether the person currently smokes. They report that 6% of respondents currently have COPD, and that current smoking is more frequent among those with COPD.",
+  "question": "Which of the following is the most appropriate characterization of this study?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A cross-sectional study measuring disease prevalence that can show an association between smoking and COPD but cannot establish causality"
+    },
+    {
+      "id": "B",
+      "text": "A case-control study measuring the odds ratio of smoking among COPD cases versus controls"
+    },
+    {
+      "id": "C",
+      "text": "A prospective cohort study measuring the incidence of COPD among smokers and nonsmokers over time"
+    },
+    {
+      "id": "D",
+      "text": "A twin concordance study measuring the heritability of COPD"
+    },
+    {
+      "id": "E",
+      "text": "An ecological study that is subject to the ecological fallacy"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "The frequency of disease (COPD) and of risk-related factors (current smoking) are both assessed in the present, which is the defining feature of a cross-sectional study — it asks, \"What is happening?\" Its measure is disease prevalence (6% here). A cross-sectional study can show an association between a risk factor and disease, but because exposure and disease are measured simultaneously, it cannot establish causality.",
+  "explanation_incorrect": {
+    "B": "A case-control study retrospectively compares people with disease to people without disease and asks \"What happened?\"; here subjects were not selected by disease status and exposure was assessed in the present, not in the past.",
+    "C": "A cohort study classifies subjects by exposure and follows them forward (or reviews records) to compare disease incidence; this survey captured only the present moment, so incidence and relative risk cannot be computed.",
+    "D": "A twin concordance study compares disease concordance in monozygotic versus dizygotic twins to measure heritability; no twins were studied.",
+    "E": "An ecological study compares disease and exposure frequencies across populations rather than individuals; this survey assessed individuals directly, so the ecological fallacy is not the relevant limitation."
+  },
+  "educationalObjective": "Cross-sectional studies assess disease and exposure simultaneously in the present, measure prevalence, and can show association without establishing causality.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Observational study designs"
+},
+{
+  "id": "phs-003",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Observational study designs",
+  "difficulty": "medium",
+  "vignette": "An investigator identifies 80 patients newly diagnosed with pancreatic cancer and 160 hospitalized patients without pancreatic cancer. She then reviews the medical records of both groups to determine whether each subject had a history of chronic pancreatitis diagnosed before the cancer was detected.",
+  "question": "Which measure is most appropriate for expressing the association found in this study?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Relative risk calculated as the incidence of pancreatic cancer in the exposed group divided by the incidence in the unexposed group"
+    },
+    {
+      "id": "B",
+      "text": "Attributable risk calculated as the difference in pancreatic cancer incidence between the exposed and unexposed groups"
+    },
+    {
+      "id": "C",
+      "text": "Prevalence of chronic pancreatitis in the entire study population"
+    },
+    {
+      "id": "D",
+      "text": "Odds ratio comparing the odds of prior chronic pancreatitis in cases versus controls"
+    },
+    {
+      "id": "E",
+      "text": "Number needed to treat calculated from the absolute risk reduction"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "This is a case-control study: the investigator retrospectively compares a group of people with disease (pancreatic cancer cases) to a group without disease (controls), looking back to see whether the odds of prior exposure (chronic pancreatitis) differ by disease state — it asks, \"What happened?\" The measure of a case-control study is the odds ratio; a memory aid is \"You take a case to the OR.\" Because subjects were sampled by disease status rather than followed for incidence, incidence-based measures cannot be computed.",
+  "explanation_incorrect": {
+    "A": "Relative risk requires comparing disease incidence between exposed and unexposed groups over time, as in a cohort study; this study sampled by disease status and looked backward, so incidence is not available.",
+    "B": "Attributable risk is the difference in incidence between exposed and unexposed groups, which again requires cohort-style incidence data that a case-control study does not provide.",
+    "C": "Prevalence is the proportion of a population with disease at a point in time and is the measure of a cross-sectional study; sampling 80 cases and 160 controls by design over-represents cases and yields no valid population prevalence.",
+    "E": "Number needed to treat is 1/ARR and applies to therapeutic trials comparing an intervention with a control; this is an observational etiology study with no treatment assigned."
+  },
+  "educationalObjective": "A case-control study is retrospective, samples subjects by disease status, asks \"What happened?\", and yields an odds ratio.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Observational study designs"
+},
+{
+  "id": "phs-004",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Observational study designs",
+  "difficulty": "medium",
+  "vignette": "A researcher enrolls 5,000 adults without diabetes, classifies them by self-reported sugar-sweetened beverage consumption, and follows them forward for 10 years to compare the incidence of type 2 diabetes between the consumption groups.",
+  "question": "Which of the following best describes this study and its primary measure?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Cross-sectional study, which measures disease prevalence at a single point in time"
+    },
+    {
+      "id": "B",
+      "text": "Prospective cohort study, which measures disease incidence and relative risk"
+    },
+    {
+      "id": "C",
+      "text": "Retrospective cohort study, which reviews previous records to compare incidence"
+    },
+    {
+      "id": "D",
+      "text": "Case-control study, which compares people with disease to people without disease"
+    },
+    {
+      "id": "E",
+      "text": "Randomized controlled trial, in which the investigator assigns the exposure"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "A cohort study compares a group with a given exposure (high beverage consumption) to a group without it and looks to see whether the exposure is associated with later development of disease. Because the investigator classifies exposure first and then follows subjects forward in real time, this is a prospective cohort study; its measures are disease incidence and relative risk — \"Cohort = relative risk.\" The exposure must be present prior to disease development, which the 10-year follow-up satisfies.",
+  "explanation_incorrect": {
+    "A": "A cross-sectional study measures disease and exposure simultaneously in the present and yields prevalence; this study follows subjects for 10 years to compare incidence, not prevalence at one time point.",
+    "C": "A retrospective cohort study identifies exposure groups by reviewing previous records rather than enrolling and following subjects forward in real time, as done here.",
+    "D": "A case-control study begins with people who already have the disease and looks backward for exposure; here subjects without diabetes were classified by exposure and followed for new disease.",
+    "E": "In a randomized controlled trial the investigator assigns the intervention; here beverage consumption is self-selected by the participants, making it an observational design."
+  },
+  "educationalObjective": "A prospective cohort classifies subjects by exposure and follows them forward, yielding disease incidence and relative risk.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Observational study designs"
+},
+{
+  "id": "phs-005",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Observational study designs",
+  "difficulty": "easy",
+  "vignette": "A study compares the frequency with which both members of a twin pair develop the same psychiatric illness between monozygotic twin pairs and dizygotic twin pairs, and finds that concordance is substantially higher among monozygotic pairs raised apart.",
+  "question": "Which of the following does this study design measure?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Prevalence of the illness in the twin population"
+    },
+    {
+      "id": "B",
+      "text": "Relative risk of the illness attributable solely to the shared household environment"
+    },
+    {
+      "id": "C",
+      "text": "Odds of prior exposure differing by disease state"
+    },
+    {
+      "id": "D",
+      "text": "Population-level association subject to the ecological fallacy"
+    },
+    {
+      "id": "E",
+      "text": "Heritability and the influence of environmental factors (\"nature vs nurture\")"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "A twin concordance study compares the frequency with which both monozygotic twins versus both dizygotic twins develop the same disease. Because monozygotic twins share essentially all their genes and dizygotic twins share about half, higher concordance in monozygotic pairs indicates a genetic contribution, allowing the study to measure heritability and the influence of environmental factors — the classic \"nature vs nurture\" question.",
+  "explanation_incorrect": {
+    "A": "Prevalence is the proportion of a population with disease at a point in time, the measure of a cross-sectional study; twin concordance compares disease concordance between twin types, not population prevalence.",
+    "B": "The comparison of monozygotic versus dizygotic concordance is designed to detect genetic contributions, not to isolate a purely environmental relative risk; neither relative risk nor incidence is the measure produced.",
+    "C": "Comparing odds of prior exposure by disease state is the logic of a case-control study, not a twin concordance study.",
+    "D": "The ecological fallacy arises in ecological studies that compare disease and exposure across populations; twins are compared as individuals within pairs."
+  },
+  "educationalObjective": "Twin concordance studies compare disease concordance in monozygotic versus dizygotic twins to measure heritability and environmental influence.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Observational study designs"
+},
+{
+  "id": "phs-006",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Observational study designs",
+  "difficulty": "hard",
+  "vignette": "Public health investigators find that annual COPD mortality is higher in cities with higher average particulate air pollution levels. A city councilman cites this finding and argues that an individual resident who moves to the least polluted city will necessarily lower his personal risk of dying of COPD — even though that city's population includes many lifelong miners with severe COPD from occupational dust exposure.",
+  "question": "Which study design is described, and what is the flaw in the councilman's reasoning?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Cross-sectional study; the flaw is lead-time bias"
+    },
+    {
+      "id": "B",
+      "text": "Case-control study; the flaw is recall bias regarding pollution exposure"
+    },
+    {
+      "id": "C",
+      "text": "Ecological study; the flaw is the ecological fallacy — population-level associations are not necessarily applicable to individuals"
+    },
+    {
+      "id": "D",
+      "text": "Prospective cohort study; the flaw is confounding by individual smoking status"
+    },
+    {
+      "id": "E",
+      "text": "Case series; the flaw is the absence of a comparison group"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "An ecological study compares the frequency of disease and the frequency of risk-related factors across populations (here, COPD mortality across cities with different pollution levels); it is used to monitor population health. The councilman commits the ecological fallacy by assuming that a population-level association (polluted cities have more COPD) applies to any individual, ignoring individual characteristics such as the miners' occupational dust exposure that can overwhelm the city-level pattern.",
+  "explanation_incorrect": {
+    "A": "A cross-sectional study measures disease and exposure frequency within individuals at present; lead-time bias concerns screening detecting disease earlier without changing survival, which is unrelated to this population-level comparison.",
+    "B": "A case-control study samples by disease status and looks back at exposure in individuals; no cases or controls were selected here, and the flaw is at the population-versus-individual level, not recall of exposure.",
+    "D": "No individuals were classified by exposure and followed for incidence, so this is not a cohort study; the reasoning error described is not confounding by smoking but extrapolation from populations to individuals.",
+    "E": "A case series describes several individual patients without a comparison group; this analysis compared disease frequency across entire populations, which is the hallmark of an ecological study."
+  },
+  "educationalObjective": "Ecological studies compare disease and exposure across populations to monitor population health, but population-level associations cannot be applied to individuals (ecological fallacy).",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Observational study designs"
+},
+{
+  "id": "phs-007",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Observational study designs",
+  "difficulty": "hard",
+  "vignette": "To study the relationship between occupational asbestos exposure and mesothelioma, investigators open the personnel records of a shipyard covering 1950–1960, classify each worker as exposed or unexposed, and then use death certificates to determine how many workers in each exposure group subsequently died of mesothelioma. No worker is contacted or followed going forward from today.",
+  "question": "Which study design is this?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Retrospective cohort study"
+    },
+    {
+      "id": "B",
+      "text": "Case-control study"
+    },
+    {
+      "id": "C",
+      "text": "Cross-sectional study"
+    },
+    {
+      "id": "D",
+      "text": "Prospective cohort study"
+    },
+    {
+      "id": "E",
+      "text": "Clinical therapeutic trial"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "This is a cohort study because subjects are first classified by exposure (asbestos exposure vs no exposure) and the later incidence of disease (mesothelioma death) is then compared between the two groups. It is retrospective because the investigators review previous records rather than following workers forward in real time; a cohort study can be prospective or retrospective as long as the risk factor was present prior to disease development, which is satisfied here by the decades-old exposure records.",
+  "explanation_incorrect": {
+    "B": "A case-control study would begin with mesothelioma cases and disease-free controls and look backward for asbestos exposure; here both exposure groups were assembled first and disease incidence was compared between them.",
+    "C": "A cross-sectional study assesses exposure and disease simultaneously in the present and measures prevalence; this study reconstructs past exposure and subsequent disease incidence from historical records.",
+    "D": "A prospective cohort study enrolls subjects and follows them forward in time from the present; the investigators here work entirely from decades-old records.",
+    "E": "A clinical therapeutic trial is an experimental study in which the investigator assigns an intervention; no exposure or treatment was assigned by the investigators."
+  },
+  "educationalObjective": "A retrospective cohort study classifies exposure groups from previous records and compares disease incidence between them — the key distinction from a case-control study, which samples by disease status.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Observational study designs"
+}
+]

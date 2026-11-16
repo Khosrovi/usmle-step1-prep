@@ -1,0 +1,166 @@
+[
+{
+  "id": "phs-081",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Measures of central tendency and dispersion",
+  "difficulty": "easy",
+  "vignette": "Hospital discharge data list lengths of stay for 10 patients (in days): 2, 2, 3, 3, 3, 4, 4, 5, 6, and 45. A student computes all three measures of central tendency for this dataset.",
+  "question": "Which of the following measures of central tendency is most affected by the extreme value?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Median, because it depends on the middle value of the sorted list"
+    },
+    {
+      "id": "B",
+      "text": "Mean, because it incorporates every value in the sum and is most affected by outliers"
+    },
+    {
+      "id": "C",
+      "text": "Mode, because it counts how often each value occurs"
+    },
+    {
+      "id": "D",
+      "text": "Standard deviation, because it measures variability around the mean"
+    },
+    {
+      "id": "E",
+      "text": "Standard error, because it decreases as the sample size increases"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "The mean — the sum of values divided by the total number of values — is the measure of central tendency most affected by outliers. In this dataset the single 45-day stay raises the mean to 7.7 days, well above both the median (3.5 days) and the mode (3 days). This is why the median is preferred for describing skewed data such as hospital length of stay.",
+  "explanation_incorrect": {
+    "A": "The median, the middle value of the sorted data, is relatively resistant to the outlier; it changes only slightly (from 3.0 to 3.5 days) with the extreme value.",
+    "C": "The mode is the least affected by outliers — the most common value (3 days) is unchanged by the 45-day stay.",
+    "D": "The standard deviation is a measure of dispersion, not a measure of central tendency, and it does not answer which average is outlier-sensitive.",
+    "E": "The standard error is a measure of variability of sample means around the population mean, not a measure of central tendency."
+  },
+  "educationalObjective": "Of the three measures of central tendency, the mean is the most affected by outliers.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Measures of central tendency and dispersion"
+},
+{
+  "id": "phs-082",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Measures of central tendency and dispersion",
+  "difficulty": "medium",
+  "vignette": "A report describes annual household income in a county where a small number of very high earners stretch the distribution with a long right tail. The report must present a single 'typical income' figure that is not pulled upward by the highest earners.",
+  "question": "Which measure of central tendency is most appropriate for these data, and why?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The mean, because it equals the sum of values divided by the number of values and reflects every earner"
+    },
+    {
+      "id": "B",
+      "text": "The mode, because the most common value is unaffected by any single observation"
+    },
+    {
+      "id": "C",
+      "text": "The mean, because for normal distributions mean = median = mode"
+    },
+    {
+      "id": "D",
+      "text": "The range, because it captures the full spread of incomes"
+    },
+    {
+      "id": "E",
+      "text": "The median, because for skewed data the median is a better measure of central tendency than the mean"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "For skewed data, the median is a better measure of central tendency than the mean, because the mean is dragged toward the tail by extreme values. Income distributions are classically right-skewed, so the median better represents the typical household. The mean is preferred only when the distribution is normal, where mean = median = mode.",
+  "explanation_incorrect": {
+    "A": "Precisely because the mean incorporates every value, extreme high earners pull it toward the tail, misrepresenting the typical household.",
+    "B": "Although the mode is least affected by outliers, it may not represent a typical income at all in continuous data and is not the standard choice for skewed distributions.",
+    "C": "The equality mean = median = mode holds for normal, not skewed, distributions; these income data are explicitly right-skewed.",
+    "D": "The range is a crude description of spread, not a measure of central tendency."
+  },
+  "educationalObjective": "For skewed data, the median is a better measure of central tendency than the mean; the mean is best only for normal distributions.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Measures of central tendency and dispersion"
+},
+{
+  "id": "phs-083",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Measures of central tendency and dispersion",
+  "difficulty": "medium",
+  "vignette": "In a study of fasting glucose, the population standard deviation is 20 mg/dL and the initial sample size is 100, giving a standard error of 2 mg/dL. The investigators then quadruple the sample size to 400 while the standard deviation remains unchanged.",
+  "question": "What is the new standard error?",
+  "options": [
+    {
+      "id": "A",
+      "text": "0.5 mg/dL"
+    },
+    {
+      "id": "B",
+      "text": "2 mg/dL"
+    },
+    {
+      "id": "C",
+      "text": "1 mg/dL"
+    },
+    {
+      "id": "D",
+      "text": "4 mg/dL"
+    },
+    {
+      "id": "E",
+      "text": "10 mg/dL"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "SE = σ/√n, and SE decreases as n increases. Quadrupling the sample size doubles the square root of n (from √100 = 10 to √400 = 20), so the standard error is halved: 20/20 = 1 mg/dL.",
+  "explanation_incorrect": {
+    "A": "0.5 mg/dL would result from dividing the original SE by 4 — as if SE fell in proportion to n rather than to √n.",
+    "B": "2 mg/dL is the original standard error; it ignores the effect of the larger sample size entirely.",
+    "D": "4 mg/dL doubles the original SE, reversing the correct relationship — larger samples reduce, not increase, the standard error.",
+    "E": "10 mg/dL equals σ/2 (20/2), an arithmetic slip of treating the quadrupling as a factor of 2 in the denominator rather than computing 20/√400."
+  },
+  "educationalObjective": "SE = SD/√n; the standard error decreases as the square root of the sample size increases.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Measures of central tendency and dispersion"
+},
+{
+  "id": "phs-084",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Measures of central tendency and dispersion",
+  "difficulty": "medium",
+  "vignette": "A biostatistics fellow reviews a dataset of fasting glucose values for which the standard deviation is 15 mg/dL and asks what the variance of the dataset is.",
+  "question": "Which of the following is the variance?",
+  "options": [
+    {
+      "id": "A",
+      "text": "3.9 mg/dL"
+    },
+    {
+      "id": "B",
+      "text": "15 mg/dL"
+    },
+    {
+      "id": "C",
+      "text": "30 mg/dL"
+    },
+    {
+      "id": "D",
+      "text": "225 mg/dL"
+    },
+    {
+      "id": "E",
+      "text": "It cannot be determined from the standard deviation alone"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Variance = (SD)², so with SD = 15 mg/dL the variance is 15² = 225 (mg/dL)². The standard deviation describes how much variability exists in a set of values around the mean, and the variance is simply its square.",
+  "explanation_incorrect": {
+    "A": "3.9 ≈ √15 is the square root of the standard deviation — the reverse of the required operation.",
+    "B": "15 mg/dL is the standard deviation itself, not its square.",
+    "C": "30 mg/dL would double the standard deviation rather than squaring it.",
+    "E": "The variance is directly determined from the standard deviation by squaring it; no additional data are needed."
+  },
+  "educationalObjective": "Variance = (SD)²; with an SD of 15 mg/dL the variance is 225 (mg/dL)².",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Measures of central tendency and dispersion"
+}
+]

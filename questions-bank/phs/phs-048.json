@@ -1,0 +1,207 @@
+[
+{
+  "id": "phs-212",
+  "subject": "PHS",
+  "major_topic": "Healthcare Delivery",
+  "subtopic": "Types of medical errors",
+  "difficulty": "easy",
+  "vignette": "A nurse on a medical ward intends to program an intravenous infusion pump to deliver heparin at 800 units/hour but mistakenly enters 8000 units/hour. The infusion is delivered at the erroneous rate for 45 minutes before another nurse notices the display. The patient's aPTT is markedly prolonged, but no bleeding has occurred.",
+  "question": "Which of the following best characterizes this event?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Active error"
+    },
+    {
+      "id": "B",
+      "text": "Latent error"
+    },
+    {
+      "id": "C",
+      "text": "Near miss"
+    },
+    {
+      "id": "D",
+      "text": "Never event"
+    },
+    {
+      "id": "E",
+      "text": "Sentinel event"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "An active error occurs at the level of the frontline operator and has immediate impact; First Aid's example is programming the wrong IV pump dose, which is exactly what happened here. The nurse directly operating the pump made the error, and the harm (prolonged aPTT from excess heparin) was immediate. Frontline operator errors are contrasted with latent errors that arise from indirect system processes.",
+  "explanation_incorrect": {
+    "B": "A latent error occurs in processes indirect from the operator that impact patient care, such as different types of IV pumps used within the same hospital; the error here was made directly by the frontline operator, not by an indirect process.",
+    "C": "A near miss is an unplanned event that does not result in harm but has the potential to do so, such as a pharmacist catching a drug interaction; actual heparin was delivered at an unsafe rate and altered the patient's coagulation status, so harm occurred.",
+    "D": "A never event is an adverse event that is identifiable, serious, and usually preventable, such as a scalpel retained in a surgical patient's abdomen; a heparin dosing error, while serious, is not one of these major events that should never occur.",
+    "E": "A sentinel event is a never event that leads to death, permanent harm, or severe temporary harm; this patient experienced a transient laboratory abnormality without death or permanent harm."
+  },
+  "educationalObjective": "Active errors occur at the level of the frontline operator (eg, wrong IV pump dose programmed) and have immediate impact.",
+  "source": "Generated from 6. PHS.pdf - Healthcare Delivery: Types of medical errors"
+},
+{
+  "id": "phs-213",
+  "subject": "PHS",
+  "major_topic": "Healthcare Delivery",
+  "subtopic": "Types of medical errors",
+  "difficulty": "medium",
+  "vignette": "A hospital purchases intravenous infusion pumps from two different manufacturers, and the two models have different control layouts and alarm conventions. A float nurse accustomed to one model is assigned to a unit using the other, and while programming a medication infusion she enters the rate in the wrong field. A colleague catches the error after 10 minutes, and the patient is unharmed.",
+  "question": "Which of the following best characterizes the hazard represented by the two different pump models?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Active error"
+    },
+    {
+      "id": "B",
+      "text": "Near miss"
+    },
+    {
+      "id": "C",
+      "text": "Latent error"
+    },
+    {
+      "id": "D",
+      "text": "Never event"
+    },
+    {
+      "id": "E",
+      "text": "Sentinel event"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "A latent error occurs in processes indirect from the operator but impacts patient care; First Aid's example is different types of IV pumps used within the same hospital, and it is described as an 'accident waiting to happen.' The purchasing and standardization decision created a system in which an operator could be pushed toward error, even though the mistake was executed at the bedside. Addressing latent errors means fixing the underlying process rather than retraining individuals.",
+  "explanation_incorrect": {
+    "A": "The active error would be the nurse's specific wrong entry at the pump; the question asks about the hazard of having two different pump models, which is a system-level, indirect process problem.",
+    "B": "A near miss describes the outcome of an event (no harm despite potential for harm), not the system hazard of inconsistent equipment; the question targets the classification of the underlying hazard.",
+    "D": "A never event is an identifiable, serious, usually preventable adverse event that should never occur (eg, retained scalpel); inconsistent pump models have not produced such an event.",
+    "E": "A sentinel event is a never event leading to death, permanent harm, or severe temporary harm; no such outcome occurred in this scenario."
+  },
+  "educationalObjective": "Latent errors arise from processes indirect from the operator (eg, different types of IV pumps in the same hospital) and are 'accidents waiting to happen.'",
+  "source": "Generated from 6. PHS.pdf - Healthcare Delivery: Types of medical errors"
+},
+{
+  "id": "phs-214",
+  "subject": "PHS",
+  "major_topic": "Healthcare Delivery",
+  "subtopic": "Types of medical errors",
+  "difficulty": "hard",
+  "vignette": "Three days after an exploratory laparotomy, a patient develops fever and peritonitis. Imaging reveals a scalpel retained in the surgical patient's abdomen, and the patient dies of sepsis despite reoperation. The incident review confirms the count discrepancy was overlooked at the end of the case.",
+  "question": "Which of the following terms most specifically characterizes this event?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Active error"
+    },
+    {
+      "id": "B",
+      "text": "Latent error"
+    },
+    {
+      "id": "C",
+      "text": "Near miss"
+    },
+    {
+      "id": "D",
+      "text": "Never event"
+    },
+    {
+      "id": "E",
+      "text": "Sentinel event"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "A sentinel event is a never event that leads to death, permanent harm, or severe temporary harm. This event is first a never event — an identifiable, serious, usually preventable adverse event exemplified by a scalpel retained in a surgical patient's abdomen — but because it resulted in the patient's death, the most specific classification is sentinel event. These major errors should never occur, and their occurrence triggers intense scrutiny.",
+  "explanation_incorrect": {
+    "A": "An active error occurs at the frontline operator level with immediate impact (eg, wrong IV pump dose programmed); while individual lapses contributed, the question asks for the classification of the event itself, which is defined by its catastrophic outcome.",
+    "B": "A latent error is an indirect process problem, such as different IV pump types within one hospital; an overlooked instrument count leading to a retained scalpel and death is best classified by its outcome, not as a latent process issue.",
+    "C": "A near miss is an unplanned event that does not result in harm but has the potential to do so (eg, a pharmacist cancels a dangerous order); this event caused the patient's death, the opposite of a near miss.",
+    "D": "Although a retained scalpel is the classic never event, 'never event' is the broader category; because this one led to death, the most specific term is sentinel event."
+  },
+  "educationalObjective": "A sentinel event is a never event (eg, retained scalpel) that leads to death, permanent harm, or severe temporary harm.",
+  "source": "Generated from 6. PHS.pdf - Healthcare Delivery: Types of medical errors"
+},
+{
+  "id": "phs-215",
+  "subject": "PHS",
+  "major_topic": "Healthcare Delivery",
+  "subtopic": "Types of medical errors",
+  "difficulty": "medium",
+  "vignette": "A pharmacist reviewing a new prescription for a 68-year-old woman recognizes that the newly ordered medication has a serious interaction with her outpatient warfarin. She cancels the order before it is dispensed and calls the prescriber to arrange an alternative agent. The patient never receives the interacting medication and suffers no adverse effects.",
+  "question": "Which of the following best characterizes this event?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Active error"
+    },
+    {
+      "id": "B",
+      "text": "Near miss"
+    },
+    {
+      "id": "C",
+      "text": "Latent error"
+    },
+    {
+      "id": "D",
+      "text": "Never event"
+    },
+    {
+      "id": "E",
+      "text": "Sentinel event"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "A near miss is an unplanned event that does not result in harm but has the potential to do so; First Aid's example is a pharmacist recognizing a medication interaction and canceling the order. The dangerous order existed and could have caused serious bleeding, but interception prevented any harm. Near misses are valuable because their prevention of harm exposes dangers in the prescribing process.",
+  "explanation_incorrect": {
+    "A": "An active error occurs at the frontline operator level with immediate impact, such as a wrong IV pump dose actually programmed and delivered; here the potential error was intercepted before reaching the patient.",
+    "C": "A latent error is an indirect system or process issue that impacts patient care (eg, different IV pump types in one hospital); this was a specific order-interception event, not a system design flaw.",
+    "D": "A never event is an identifiable, serious, usually preventable adverse event that actually occurs (eg, retained scalpel); no adverse event occurred because the order was canceled.",
+    "E": "A sentinel event is a never event leading to death, permanent harm, or severe temporary harm; the patient experienced no harm at all."
+  },
+  "educationalObjective": "A near miss is an unplanned event that does not result in harm but has the potential to do so — eg, a pharmacist cancels an order after recognizing a medication interaction.",
+  "source": "Generated from 6. PHS.pdf - Healthcare Delivery: Types of medical errors"
+},
+{
+  "id": "phs-216",
+  "subject": "PHS",
+  "major_topic": "Healthcare Delivery",
+  "subtopic": "Types of medical errors",
+  "difficulty": "medium",
+  "vignette": "A resident realizes that she administered intravenous ceftriaxone at twice the ordered dose to a hospitalized patient. The patient's renal function and neurologic examination remain normal, and no adverse effect has occurred. A fellow resident suggests there is no need to say anything to the patient since the patient was not harmed.",
+  "question": "Which of the following is the most appropriate next step?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Disclose the error to the patient, independent of the absence of immediate harm."
+    },
+    {
+      "id": "B",
+      "text": "Document the error in the chart but withhold disclosure from the patient because no harm resulted."
+    },
+    {
+      "id": "C",
+      "text": "Wait until the attending physician returns in 2 days and let the attending decide whether to inform the patient."
+    },
+    {
+      "id": "D",
+      "text": "Present the case only at the next morbidity and mortality conference without informing the patient."
+    },
+    {
+      "id": "E",
+      "text": "File an anonymous incident report as a substitute for speaking with the patient."
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Medical errors should be disclosed to patients, independent of immediate outcome — whether harmful or not. The duty of disclosure is triggered by the error itself, not by whether the patient was damaged, so the resident should inform the patient promptly and honestly even though no adverse effect occurred. This upholds patient autonomy and trust and aligns with error-reporting culture.",
+  "explanation_incorrect": {
+    "B": "Documentation alone does not satisfy the disclosure obligation; withholding information from the patient because the outcome was benign directly contradicts the standard that errors are disclosed regardless of outcome.",
+    "C": "Disclosure is the responsibility of the clinician involved and should occur promptly; deferring for days while the patient remains unaware is inconsistent with timely disclosure.",
+    "D": "Presenting the case at a conference serves institutional learning but does not replace the patient's right to be told about an error involving their own care.",
+    "E": "An incident report is an internal safety mechanism and is not a substitute for direct, transparent communication with the patient about the error."
+  },
+  "educationalObjective": "Medical errors must be disclosed to patients independent of immediate outcome — harmful or not.",
+  "source": "Generated from 6. PHS.pdf - Healthcare Delivery: Types of medical errors"
+}
+]

@@ -1,0 +1,166 @@
+[
+{
+  "id": "phs-018",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Bradford Hill criteria for causation",
+  "difficulty": "easy",
+  "vignette": "Investigators studying the association between smoking and bladder cancer find that disease risk rises progressively with the amount smoked: the relative risk is 1.2 among light smokers, 2.1 among moderate smokers, and 4.5 among the heaviest smokers in the cohort.",
+  "question": "Which of the following Bradford Hill criteria is best illustrated by this finding?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Biological gradient, a dose-response relationship between exposure and effect"
+    },
+    {
+      "id": "B",
+      "text": "Consistency, repeated observations of the findings in multiple distinct samples"
+    },
+    {
+      "id": "C",
+      "text": "Specificity, the presumed cause being specific to the effect"
+    },
+    {
+      "id": "D",
+      "text": "Analogy, comparability to a similar, established cause and effect"
+    },
+    {
+      "id": "E",
+      "text": "Coherence, nonconflict with existing scientific consensus"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "The biological gradient criterion is satisfied when a greater effect is observed with greater exposure to the presumed cause — a dose-response relationship. The stepwise rise in bladder cancer risk as cigarettes per day increases (1.2 → 2.1 → 4.5) is the classic dose-response pattern supporting a causal link.",
+  "explanation_incorrect": {
+    "B": "Consistency refers to observing the same association repeatedly across multiple distinct samples or studies; the vignette describes graded risk within a single cohort, not replication across samples.",
+    "C": "Specificity concerns how specific the presumed cause is to the particular effect; the graded relationship shown is about dose, not about whether smoking leads only to bladder cancer.",
+    "D": "Analogy requires the cause-effect pair to resemble an already established cause and effect; no comparison to another established association is presented.",
+    "E": "Coherence requires that the cause and effect not conflict with existing scientific consensus; the vignette provides quantitative risk data rather than a statement about consistency with prior knowledge."
+  },
+  "educationalObjective": "Biological gradient (dose-response) is present when the effect increases with greater exposure to the presumed cause.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Bradford Hill criteria for causation"
+},
+{
+  "id": "phs-019",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Bradford Hill criteria for causation",
+  "difficulty": "medium",
+  "vignette": "A cross-sectional study finds that patients with pancreatic cancer are more likely than controls to report recent-onset depression. Critics argue that subclinical cancer (eg, through paraneoplastic effects) may have caused the depression, rather than depression contributing to cancer development, so the observed association may not reflect a causal direction.",
+  "question": "Which Bradford Hill criterion is at issue, and what type of finding would address it?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Strength — a larger odds ratio would resolve the concern about causal direction"
+    },
+    {
+      "id": "B",
+      "text": "Consistency — repeating the survey in other hospitals would resolve the concern about causal direction"
+    },
+    {
+      "id": "C",
+      "text": "Specificity — showing that depression occurs only in patients with pancreatic cancer would resolve the concern about causal direction"
+    },
+    {
+      "id": "D",
+      "text": "Temporality — demonstrating that the presumed cause precedes the effect by an expected amount of time would resolve the concern about causal direction"
+    },
+    {
+      "id": "E",
+      "text": "Experiment — animal and in vitro studies of depression and cancer would resolve the concern about causal direction"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "The dispute is about which came first — the classic question of temporality, the criterion that the presumed cause must precede the effect by an expected amount of time. Because a cross-sectional study measures depression and cancer at the same moment, it cannot establish that depression preceded the cancer; a study showing that depression antedates the cancer diagnosis by an appropriate interval would satisfy temporality.",
+  "explanation_incorrect": {
+    "A": "Strength of association concerns the magnitude of the association; a larger odds ratio would not establish which condition developed first.",
+    "B": "Consistency concerns replication of the finding in multiple distinct samples; repeating the same simultaneously-measured survey elsewhere would not fix the ambiguity about sequence.",
+    "C": "Specificity concerns how specific the presumed cause is to the particular effect; restricting depression to pancreatic cancer does not establish that depression came first.",
+    "E": "Experiment refers to empirical evidence such as animal or in vitro studies supporting the association; such evidence alone would not demonstrate that depression preceded the cancer in patients."
+  },
+  "educationalObjective": "Temporality requires the presumed cause to precede the effect by an expected amount of time — a criterion cross-sectional studies cannot satisfy.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Bradford Hill criteria for causation"
+},
+{
+  "id": "phs-020",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Bradford Hill criteria for causation",
+  "difficulty": "hard",
+  "vignette": "An initial study in Scandinavia reports an association between a specific dietary factor and colon cancer. Three subsequent studies conducted in Japan, Brazil, and the United States — using different populations, dietary assessment methods, and analytic teams — each reproduce the same association with similar magnitude.",
+  "question": "Which of the following Bradford Hill criteria is best exemplified by these findings?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Strength of the association between exposure and outcome"
+    },
+    {
+      "id": "B",
+      "text": "Biological gradient in the exposure-outcome relationship"
+    },
+    {
+      "id": "C",
+      "text": "Plausibility of a mechanism linking the exposure to the outcome"
+    },
+    {
+      "id": "D",
+      "text": "Coherence of the association with existing scientific consensus"
+    },
+    {
+      "id": "E",
+      "text": "Consistency — repeated observations of the findings in multiple distinct samples"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Consistency is the criterion of repeated observations of the same findings in multiple distinct samples. The original Scandinavian association being reproduced in Japanese, Brazilian, and American populations using different methods is the textbook illustration: when different populations, settings, and measurement approaches yield the same result, chance, bias, and local confounding become less likely explanations.",
+  "explanation_incorrect": {
+    "A": "Strength refers to the magnitude of the association itself (eg, a large relative risk); the vignette emphasizes replication across samples, not the size of the effect.",
+    "B": "Biological gradient requires a dose-response relationship in which greater exposure produces a greater effect; no graded exposure levels are described.",
+    "C": "Plausibility requires a conceivable mechanism by which the cause could lead to the effect; the vignette offers no mechanistic explanation for the dietary factor.",
+    "D": "Coherence requires that the presumed cause and effect not conflict with existing scientific consensus; the vignette describes replication, not agreement or disagreement with prior knowledge."
+  },
+  "educationalObjective": "Consistency means the same association is repeatedly observed across multiple distinct samples and settings.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Bradford Hill criteria for causation"
+},
+{
+  "id": "phs-021",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Bradford Hill criteria for causation",
+  "difficulty": "medium",
+  "vignette": "An investigator argues that a certain viral infection causes a chronic neurologic syndrome. Supporting evidence includes a strong association between infection and syndrome, a conceivable mechanism, empirical support from animal and in vitro studies, and reproduction of the association in several independent samples.",
+  "question": "Which of the following statements about these principles is most accurate?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Together they constitute sufficient proof that the infection causes the syndrome"
+    },
+    {
+      "id": "B",
+      "text": "They provide limited support for causation, because the Bradford Hill criteria are necessary but not sufficient for establishing a causal relationship"
+    },
+    {
+      "id": "C",
+      "text": "They are applicable only to randomized experimental studies and not to observational data"
+    },
+    {
+      "id": "D",
+      "text": "They establish causation only when every criterion is fully satisfied within a single study"
+    },
+    {
+      "id": "E",
+      "text": "They are criteria for evaluating the performance of diagnostic tests rather than causation"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "The Bradford Hill criteria (strength, consistency, specificity, temporality, biological gradient, plausibility, coherence, experiment, analogy) are a group of principles that provide limited support — they are necessary but not sufficient criteria — for establishing evidence of a causal relationship between a presumed cause and effect. Satisfying several criteria, as in the vignette, strengthens the case for causation but does not prove it conclusively.",
+  "explanation_incorrect": {
+    "A": "The criteria provide limited support for causation; meeting them does not amount to sufficient proof of a causal relationship.",
+    "C": "The criteria are routinely applied to observational evidence — the classic setting in which causation must be inferred without randomization — so this restriction is false.",
+    "D": "Causation is supported by the overall pattern across criteria and across studies; no single study must satisfy every criterion perfectly for causation to be supported.",
+    "E": "The criteria concern causal inference between a presumed cause and effect, not diagnostic test performance measures such as sensitivity and specificity of a test."
+  },
+  "educationalObjective": "The Bradford Hill criteria provide necessary but not sufficient support for a causal relationship between a presumed cause and effect.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Bradford Hill criteria for causation"
+}
+]

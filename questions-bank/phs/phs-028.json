@@ -1,0 +1,166 @@
+[
+{
+  "id": "phs-043",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Likelihood ratios and pretest/posttest probability",
+  "difficulty": "easy",
+  "vignette": "A newly developed rapid immunoassay for detecting chlamydial infection has a sensitivity of 90% and a specificity of 80%. A clinician wants to know how much a positive result changes the odds that a patient is infected.",
+  "question": "What is the positive likelihood ratio (LR+) of this test?",
+  "options": [
+    {
+      "id": "A",
+      "text": "0.125"
+    },
+    {
+      "id": "B",
+      "text": "4.5"
+    },
+    {
+      "id": "C",
+      "text": "9.0"
+    },
+    {
+      "id": "D",
+      "text": "0.20"
+    },
+    {
+      "id": "E",
+      "text": "0.90"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "LR+ = probability of a positive result in a patient with the disorder divided by the probability of a positive result in a patient without the disorder = sensitivity ÷ (1 − specificity) = 0.90 ÷ 0.20 = 4.5. This means a positive result makes chlamydial infection about 4.5 times more likely than it was before testing. LR+ > 10 would indicate a highly specific test; 4.5 is moderately convincing evidence.",
+  "explanation_incorrect": {
+    "A": "0.125 is the negative likelihood ratio (LR−) = (1 − sensitivity) ÷ specificity = (1 − 0.90) ÷ 0.80 = 0.10 ÷ 0.80, not the LR+.",
+    "C": "9.0 results from dividing the sensitivity by the false-negative rate (0.90 ÷ 0.10) instead of by the false-positive rate (1 − specificity).",
+    "D": "0.20 is simply 1 − specificity (the false-positive rate); the LR+ must divide the sensitivity by this value, not report it alone.",
+    "E": "0.90 is the sensitivity alone, which ignores the false-positive rate and therefore does not describe how much a positive result raises the odds of disease."
+  },
+  "educationalObjective": "LR+ = sensitivity ÷ (1 − specificity); it quantifies how many times more likely a positive test is in diseased versus nondiseased individuals.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Likelihood ratios and pretest/posttest probability"
+},
+{
+  "id": "phs-044",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Likelihood ratios and pretest/posttest probability",
+  "difficulty": "medium",
+  "vignette": "A serum assay proposed for the diagnosis of a rheumatologic disease has a sensitivity of 95% and a specificity of 60%. A rheumatologist is deciding whether a negative result can be used to reassure a patient with a moderate pretest probability of disease.",
+  "question": "Which of the following is the negative likelihood ratio (LR−) of this assay?",
+  "options": [
+    {
+      "id": "A",
+      "text": "2.4"
+    },
+    {
+      "id": "B",
+      "text": "0.60"
+    },
+    {
+      "id": "C",
+      "text": "0.05"
+    },
+    {
+      "id": "D",
+      "text": "0.083"
+    },
+    {
+      "id": "E",
+      "text": "12"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "LR− = probability of a negative result in a patient with the disorder ÷ probability of a negative result in a patient without the disorder = (1 − sensitivity) ÷ specificity = (1 − 0.95) ÷ 0.60 = 0.05 ÷ 0.60 ≈ 0.083. A negative result reduces the odds of disease by a factor of about 12 (1/0.083); however, because LR− < 0.1 is the threshold for a highly sensitive test, this assay falls just short of that mark for definitively ruling out disease.",
+  "explanation_incorrect": {
+    "A": "2.4 is the positive likelihood ratio for this test (sensitivity ÷ (1 − specificity) = 0.95 ÷ 0.40), not the LR−.",
+    "B": "0.60 is the specificity alone; the LR− requires dividing the false-negative rate (1 − sensitivity) by the specificity.",
+    "C": "0.05 is only the false-negative rate (1 − sensitivity) and was never divided by the specificity, so it is not the LR−.",
+    "E": "12 results from inverting the ratio (0.60 ÷ 0.05), which describes how much less likely a negative result is in a diseased patient rather than the LR− itself."
+  },
+  "educationalObjective": "LR− = (1 − sensitivity) ÷ specificity; an LR− < 0.1 indicates a highly sensitive test that is useful for ruling out disease.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Likelihood ratios and pretest/posttest probability"
+},
+{
+  "id": "phs-045",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Likelihood ratios and pretest/posttest probability",
+  "difficulty": "medium",
+  "vignette": "A 32-year-old man is evaluated for pulmonary tuberculosis. Based on his symptoms and exposure history, his pretest probability of disease is estimated at 10%. He undergoes a nucleic acid amplification test with a positive likelihood ratio (LR+) of 6, and the result is positive.",
+  "question": "Which of the following best represents his posttest probability of pulmonary tuberculosis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "40%"
+    },
+    {
+      "id": "B",
+      "text": "60%"
+    },
+    {
+      "id": "C",
+      "text": "67%"
+    },
+    {
+      "id": "D",
+      "text": "11%"
+    },
+    {
+      "id": "E",
+      "text": "1.8%"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Convert the pretest probability to odds: 0.10/(1 − 0.10) = 1/9 ≈ 0.111. Apply the likelihood ratio: pretest odds × LR = 0.111 × 6 = 0.667 (posttest odds). Convert back to probability: 0.667/(0.667 + 1) = 0.40, or 40%. Likelihood ratios operate on odds, not directly on probabilities, so both conversions are required.",
+  "explanation_incorrect": {
+    "B": "60% results from multiplying the pretest probability directly by the LR (0.10 × 6) without converting probability to odds first and back again.",
+    "C": "67% is the posttest odds (0.667) mistakenly reported as a probability; odds must be converted with posttest odds/(posttest odds + 1).",
+    "D": "11% is the pretest odds (1/9 = 0.111) reported as a percentage; no likelihood ratio was ever applied, so testing did not move the estimate.",
+    "E": "1.8% results from dividing by the LR as though it were the negative likelihood ratio (0.111 ÷ 6 ≈ 0.019), which would apply only to a negative test result."
+  },
+  "educationalObjective": "Pretest odds × LR = posttest odds, and posttest probability = posttest odds/(posttest odds + 1).",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Likelihood ratios and pretest/posttest probability"
+},
+{
+  "id": "phs-046",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Likelihood ratios and pretest/posttest probability",
+  "difficulty": "hard",
+  "vignette": "During influenza season, a point-of-care antigen test is evaluated and reported to have a positive likelihood ratio (LR+) of 12 and a negative likelihood ratio (LR−) of 0.4. Clinicians in an urgent care clinic with a high volume of influenza-like illness want to know how to interpret the results.",
+  "question": "Which of the following statements best characterizes this test?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The LR− of 0.4 indicates a highly sensitive test that can be used to rule out influenza when the result is negative."
+    },
+    {
+      "id": "B",
+      "text": "The LR+ greater than 10 indicates that the test is highly sensitive."
+    },
+    {
+      "id": "C",
+      "text": "The posttest probability of influenza is determined by the LR alone and does not depend on the pretest probability."
+    },
+    {
+      "id": "D",
+      "text": "The LR+ represents the probability that a patient with influenza will have a negative test result."
+    },
+    {
+      "id": "E",
+      "text": "A positive result substantially increases the odds of influenza, because an LR+ greater than 10 indicates a highly specific test."
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "LR+ = sensitivity ÷ (1 − specificity), so a value greater than 10 indicates a highly specific test: a positive result is many times more likely in patients with influenza than in those without it, and it substantially raises the posttest odds (pretest odds × LR = posttest odds). This makes a positive result strong evidence for confirming influenza, consistent with the principle that highly specific tests are used to rule in disease (SP-P-IN).",
+  "explanation_incorrect": {
+    "A": "An LR− < 0.1, not 0.4, indicates a highly sensitive test useful for ruling out disease; this test's LR− is too high to exclude influenza with confidence.",
+    "B": "The LR+ reflects the specificity component of a test (sensitivity ÷ (1 − specificity)); an LR+ > 10 indicates a highly specific, not highly sensitive, test.",
+    "C": "The LR is always applied to a pretest estimate (pretest odds × LR = posttest odds), so the same LR produces different posttest probabilities depending on pretest probability.",
+    "D": "The LR+ is the probability of a positive result in a patient with the disorder divided by that probability in a patient without the disorder; the probability of a negative result in diseased patients relates to the LR− (1 − sensitivity)."
+  },
+  "educationalObjective": "LR+ > 10 indicates a highly specific test useful for ruling in disease; LR− < 0.1 indicates a highly sensitive test useful for ruling out disease.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Likelihood ratios and pretest/posttest probability"
+}
+]

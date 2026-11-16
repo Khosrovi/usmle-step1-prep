@@ -1,0 +1,248 @@
+[
+{
+  "id": "phs-028",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Risk measures: RRR, ARR, NNT, NNH",
+  "difficulty": "easy",
+  "vignette": "A randomized trial evaluates a new influenza vaccine. Among patients who receive the vaccine, 2% develop influenza during the season, while 8% of unvaccinated patients develop influenza. The investigators wish to report the proportion of risk reduction attributable to the vaccine.",
+  "question": "Which of the following is the relative risk reduction for influenza associated with vaccination in this trial?",
+  "options": [
+    {
+      "id": "A",
+      "text": "0.06"
+    },
+    {
+      "id": "B",
+      "text": "0.25"
+    },
+    {
+      "id": "C",
+      "text": "4"
+    },
+    {
+      "id": "D",
+      "text": "0.75"
+    },
+    {
+      "id": "E",
+      "text": "0.02"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Relative risk reduction is the proportion of risk reduction attributable to the intervention compared with the control: RRR = 1 − RR. Here RR = risk in treated group ÷ risk in control group = 2%/8% = 0.25, so RRR = 1 − 0.25 = 0.75. Equivalently, RRR = (ARC − ART)/ARC = (8% − 2%)/8% = 0.75, meaning the vaccine reduces the risk of influenza by 75% relative to no vaccination.",
+  "explanation_incorrect": {
+    "A": "0.06 is the absolute risk reduction, the difference in risk between the control and treated groups (8% − 2% = 6% = 0.06). The question asks for the proportion of risk reduction, which is the relative measure.",
+    "B": "0.25 is the relative risk itself (2%/8%), not the reduction. Relative risk reduction is calculated as 1 − RR.",
+    "C": "4 results from inverting the risk ratio (8%/2%), which reverses the direction of the comparison; the relative risk is defined as the risk in the treated group divided by the risk in the control group.",
+    "E": "0.02 is the risk of influenza in the vaccinated group itself. A proportion of risk reduction must be calculated by comparing the treated risk with the control risk, not from the treated group's risk alone."
+  },
+  "educationalObjective": "Relative risk reduction equals 1 − RR, or equivalently (ARC − ART)/ARC, and expresses the proportion of baseline risk eliminated by the intervention.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Risk measures: RRR, ARR, NNT, NNH"
+},
+{
+  "id": "phs-029",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Risk measures: RRR, ARR, NNT, NNH",
+  "difficulty": "medium",
+  "vignette": "A pharmaceutical company completes a randomized controlled trial of an investigational drug for heart failure. Mortality during 2 years of follow-up is 20% in the placebo group and 10% in the drug-treated group. The medical director asks how many patients need to be treated with the drug to prevent 1 death.",
+  "question": "Which of the following is the number needed to treat for this drug?",
+  "options": [
+    {
+      "id": "A",
+      "text": "10"
+    },
+    {
+      "id": "B",
+      "text": "2"
+    },
+    {
+      "id": "C",
+      "text": "5"
+    },
+    {
+      "id": "D",
+      "text": "0.1"
+    },
+    {
+      "id": "E",
+      "text": "100"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "The number needed to treat is the number of patients who need to be treated for 1 patient to benefit, calculated as NNT = 1/ARR. The absolute risk reduction is the difference in risk between the control and treatment groups: ARR = 20% − 10% = 10% = 0.10. Therefore NNT = 1/0.10 = 10, meaning 10 patients must be treated for 1 death to be prevented. A lower NNT indicates a better treatment.",
+  "explanation_incorrect": {
+    "B": "2 results from inverting the relative risk (RR = 10%/20% = 0.5, so 1/0.5 = 2). The number needed to treat is derived from the absolute risk reduction, not from the relative risk.",
+    "C": "5 comes from inverting the control group's mortality rate alone (1/0.20). NNT requires the difference between the control and treated risks, not the control risk by itself.",
+    "D": "0.1 is the absolute risk reduction itself (10% = 0.10). NNT is the reciprocal of the ARR, not the ARR expressed directly.",
+    "E": "100 results from a decimal-place error in which the ARR was treated as 0.01 instead of 0.10. The ARR here is 20% − 10% = 10% = 0.10, giving an NNT of 10."
+  },
+  "educationalObjective": "NNT = 1/ARR, where ARR = ARC − ART; a lower NNT indicates a more effective treatment.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Risk measures: RRR, ARR, NNT, NNH"
+},
+{
+  "id": "phs-030",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Risk measures: RRR, ARR, NNT, NNH",
+  "difficulty": "medium",
+  "vignette": "A randomized trial of a new antiepileptic drug finds that 15% of patients receiving the drug develop a serious rash compared with 5% of patients receiving placebo. The safety officer must report the number needed to harm and explain its meaning to the review board.",
+  "question": "Which of the following is the correct number needed to harm for this drug and its appropriate interpretation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "5; for every 5 patients exposed to the drug, 1 experiences the adverse event"
+    },
+    {
+      "id": "B",
+      "text": "20; for every 20 patients exposed to the drug, 1 experiences the adverse event"
+    },
+    {
+      "id": "C",
+      "text": "100; for every 100 patients exposed to the drug, 1 experiences the adverse event"
+    },
+    {
+      "id": "D",
+      "text": "10; for every 10 patients exposed to the drug, 1 experiences the adverse event, and a higher NNH indicates a more dangerous exposure"
+    },
+    {
+      "id": "E",
+      "text": "10; for every 10 patients exposed to the drug, 1 experiences the adverse event, and a higher NNH indicates a safer exposure"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "The number needed to harm is the number of patients who need to be exposed to a risk factor for 1 patient to be harmed, calculated as NNH = 1/AR, where AR is the attributable risk (the difference in adverse event rates: 15% − 5% = 10% = 0.10). Thus NNH = 1/0.10 = 10. A higher NNH corresponds to a smaller excess risk and therefore indicates a safer exposure.",
+  "explanation_incorrect": {
+    "A": "5 results from miscomputing the attributable risk as 0.20 (for example, adding the two rates, 15% + 5%) rather than subtracting them (15% − 5% = 10%), which yields an NNH of 10.",
+    "B": "20 comes from inverting the placebo group's event rate (1/0.05). NNH is based on the attributable risk, the excess harm in the drug group beyond placebo, not on the background placebo rate.",
+    "C": "100 results from a decimal-place error in which the attributable risk was treated as 0.01 instead of 0.10. With AR = 15% − 5% = 10% = 0.10, the NNH is 10.",
+    "D": "The number is correct, but the direction of the interpretation is reversed: a higher number needed to harm means more patients must be exposed for 1 to be harmed, which indicates a safer exposure, not a more dangerous one."
+  },
+  "educationalObjective": "NNH = 1/AR; a higher number needed to harm indicates a safer exposure, whereas a lower NNH indicates greater harm potential.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Risk measures: RRR, ARR, NNT, NNH"
+},
+{
+  "id": "phs-031",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Risk measures: RRR, ARR, NNT, NNH",
+  "difficulty": "hard",
+  "vignette": "Drug A reduces 5-year mortality from 4% to 2% in patients with mild disease. Drug B reduces 5-year mortality from 20% to 10% in patients with severe disease. Both trials are large and well designed, and a resident is asked to compare the two drugs using relative and absolute measures of effect.",
+  "question": "Which of the following statements best compares the effectiveness of drug A and drug B?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Drug A produces the greater relative risk reduction because its baseline mortality risk is lower."
+    },
+    {
+      "id": "B",
+      "text": "The two drugs produce the same relative risk reduction (50%), but drug B has the larger absolute risk reduction and the lower number needed to treat."
+    },
+    {
+      "id": "C",
+      "text": "The two drugs produce the same absolute risk reduction of 2 percentage points."
+    },
+    {
+      "id": "D",
+      "text": "Drug B's number needed to treat is 50, compared with 10 for drug A."
+    },
+    {
+      "id": "E",
+      "text": "The relative risk reduction is 2% for drug A and 10% for drug B."
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "For drug A, RR = 2%/4% = 0.5, so RRR = 1 − 0.5 = 0.5, ARR = 4% − 2% = 2% = 0.02, and NNT = 1/0.02 = 50. For drug B, RR = 10%/20% = 0.5, so RRR = 0.5, ARR = 20% − 10% = 10% = 0.10, and NNT = 1/0.10 = 10. Both drugs halve the mortality risk (identical relative risk reduction of 50%), but because drug B is given to a higher-risk population, its absolute benefit is 5-fold greater and its number needed to treat is lower. This illustrates why RRR can exaggerate the apparent benefit in low-risk populations compared with ARR and NNT.",
+  "explanation_incorrect": {
+    "A": "The relative risk reductions are identical (both RRR = 0.5, since each drug halves mortality). Baseline risk affects the absolute risk reduction and NNT, not the relative risk reduction.",
+    "C": "The absolute risk reductions differ: 2 percentage points (0.02) for drug A versus 10 percentage points (0.10) for drug B. Confusing the two ARRs ignores the different baseline risks of the two populations.",
+    "D": "The NNT values are swapped. Drug A, with ARR = 0.02, has NNT = 50, whereas drug B, with ARR = 0.10, has NNT = 10; the lower-risk population requires treating more patients to benefit 1.",
+    "E": "This confuses the absolute risk reduction with the relative risk reduction. The RRR is 50% (0.5) for both drugs; 2% and 10% are the absolute risk reductions."
+  },
+  "educationalObjective": "Relative risk reduction can be identical across populations with different baseline risks, whereas ARR and NNT capture the clinically meaningful difference in absolute benefit.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Risk measures: RRR, ARR, NNT, NNH"
+},
+{
+  "id": "phs-032",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Risk measures: RRR, ARR, NNT, NNH",
+  "difficulty": "medium",
+  "vignette": "A randomized controlled trial evaluates a new vaccine against a gastrointestinal infection. During 1 year of follow-up, 6% of placebo recipients and 2% of vaccine recipients acquire the infection. The institutional review board asks how many patients must be vaccinated to prevent 1 infection.",
+  "question": "Which of the following is the number needed to treat (vaccinate) for this vaccine?",
+  "options": [
+    {
+      "id": "A",
+      "text": "0.33"
+    },
+    {
+      "id": "B",
+      "text": "0.67"
+    },
+    {
+      "id": "C",
+      "text": "25"
+    },
+    {
+      "id": "D",
+      "text": "3"
+    },
+    {
+      "id": "E",
+      "text": "100"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "The number needed to treat is calculated as NNT = 1/ARR. The absolute risk reduction is the difference in infection risk between the control and vaccinated groups: ARR = 6% − 2% = 4% = 0.04. Therefore NNT = 1/0.04 = 25, meaning 25 patients must be vaccinated for 1 infection to be prevented. A lower NNT indicates a better (more effective) treatment.",
+  "explanation_incorrect": {
+    "A": "0.33 is the relative risk (2%/6%), a proportional measure. NNT is computed from the absolute risk reduction, which is 6% − 2% = 4%.",
+    "B": "0.67 is the relative risk reduction (1 − 0.33). It describes the proportion of risk eliminated by vaccination but is not used directly to compute the number needed to treat.",
+    "D": "3 results from inverting the ratio of risks (6%/2%), reversing the direction of the comparison; the relative risk is defined as risk in the treated group divided by risk in the control group.",
+    "E": "100 results from a decimal-place error in which the ARR was treated as 0.01 instead of 0.04. With ARR = 6% − 2% = 4% = 0.04, the NNT is 25."
+  },
+  "educationalObjective": "Compute NNT as the reciprocal of the absolute risk reduction (ARC − ART); lower NNT means a more effective intervention.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Risk measures: RRR, ARR, NNT, NNH"
+},
+{
+  "id": "phs-033",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Risk measures: RRR, ARR, NNT, NNH",
+  "difficulty": "easy",
+  "vignette": "During a journal club, a resident presents two antihypertensive trials. In the first trial, the number needed to treat is 8; in the second, it is 45. A medical student asks how to interpret these values when comparing the effectiveness of the two drugs.",
+  "question": "Which of the following statements about the number needed to treat is correct?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A lower number needed to treat indicates a more effective treatment."
+    },
+    {
+      "id": "B",
+      "text": "A higher number needed to treat indicates a more effective treatment."
+    },
+    {
+      "id": "C",
+      "text": "The number needed to treat is a proportion of patients who benefit from treatment."
+    },
+    {
+      "id": "D",
+      "text": "The number needed to treat quantifies patients harmed by exposure to a risk factor."
+    },
+    {
+      "id": "E",
+      "text": "The number needed to treat is calculated as the reciprocal of the relative risk."
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "The number needed to treat is the number of patients who need to be treated for 1 patient to benefit, calculated as NNT = 1/ARR. A lower number therefore means fewer patients must be treated to achieve 1 benefit, indicating a better treatment; the trial with NNT = 8 is more effective per patient treated than the trial with NNT = 45.",
+  "explanation_incorrect": {
+    "B": "This reverses the correct interpretation. A higher NNT means more patients must be treated for 1 to benefit, which indicates a less effective treatment.",
+    "C": "The NNT is a count of patients, not a proportion. It is derived from the absolute risk reduction, which is the difference in risk attributable to the intervention.",
+    "D": "Quantifying patients harmed by exposure to a risk factor describes the number needed to harm (NNH = 1/AR), a related but distinct measure of adverse effects.",
+    "E": "NNT is calculated as 1/ARR (the reciprocal of the absolute risk reduction), not as the reciprocal of the relative risk. Using the relative risk ignores the baseline risk of the population."
+  },
+  "educationalObjective": "NNT = 1/ARR, and a lower NNT signifies a more effective treatment because fewer patients must be treated for 1 to benefit.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Risk measures: RRR, ARR, NNT, NNH"
+}
+]

@@ -1,0 +1,166 @@
+[
+{
+  "id": "phs-192",
+  "subject": "PHS",
+  "major_topic": "Healthcare Delivery",
+  "subtopic": "Levels of disease prevention",
+  "difficulty": "easy",
+  "vignette": "A 48-year-old man with prediabetes (hemoglobin A1c 6.0%) and BMI 31 kg/m2 is seen for a routine visit. He is asymptomatic and takes no medications. The physician recommends a Mediterranean diet and 150 minutes of moderate aerobic activity per week.",
+  "question": "Which level of disease prevention does this recommendation represent?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Secondary prevention"
+    },
+    {
+      "id": "B",
+      "text": "Tertiary prevention"
+    },
+    {
+      "id": "C",
+      "text": "Primary prevention"
+    },
+    {
+      "id": "D",
+      "text": "Quaternary prevention"
+    },
+    {
+      "id": "E",
+      "text": "Palliative care"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Primary prevention aims to prevent disease onset by reducing risk factors or increasing immunity in the susceptible, general population. Healthy diet and exercise to prevent diabetes is First Aid's canonical example: the patient does not yet have symptomatic disease, and the intervention stops it from ever beginning. Prediabetes is a risk state, not clinical diabetes, so acting on it with lifestyle change is still prevention of onset.",
+  "explanation_incorrect": {
+    "A": "Secondary prevention involves screening for early detection and treatment of presymptomatic disease in a subclinical, asymptomatic population — for example, glucose screening. No screening test is being ordered here; a risk-reducing behavior is being prescribed.",
+    "B": "Tertiary prevention treats symptomatic disease to prevent clinical progression and sequelae such as morbidity, mortality, and disability — for example, hemoglobin A1c monitoring to guide treatment. This patient has no symptomatic disease being treated.",
+    "D": "Quaternary prevention protects patients from overtreatment and iatrogenic harm, such as discontinuing a sulfonylurea after repeated hypoglycemic events. Nothing is being withdrawn or de-intensified in this vignette.",
+    "E": "Palliative care aims to provide comfort and improve quality of life in patients with complex or life-threatening illness; it is not a prevention level and does not apply to an asymptomatic man with prediabetes."
+  },
+  "educationalObjective": "Primary prevention prevents disease onset by reducing risk (eg, healthy diet and exercise to prevent diabetes) in the susceptible general population.",
+  "source": "Generated from 6. PHS.pdf - Healthcare Delivery: Levels of disease prevention"
+},
+{
+  "id": "phs-193",
+  "subject": "PHS",
+  "major_topic": "Healthcare Delivery",
+  "subtopic": "Levels of disease prevention",
+  "difficulty": "medium",
+  "vignette": "A 52-year-old woman with obesity and a strong family history of type 2 diabetes mellitus presents for a periodic health examination. She feels well, has no polyuria, polydipsia, or weight loss, and a random glucose last year was normal. The physician orders a fasting plasma glucose test.",
+  "question": "Which level of disease prevention is represented by ordering this fasting glucose test?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Secondary prevention"
+    },
+    {
+      "id": "B",
+      "text": "Primary prevention"
+    },
+    {
+      "id": "C",
+      "text": "Tertiary prevention"
+    },
+    {
+      "id": "D",
+      "text": "Quaternary prevention"
+    },
+    {
+      "id": "E",
+      "text": "Palliative care"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Secondary prevention screens for early detection and treatment of presymptomatic disease in a subclinical, asymptomatic population. Glucose screening for type 2 diabetes mellitus is First Aid's explicit example: the patient is asymptomatic but at increased risk, and the test seeks disease before symptom onset. Detecting and treating diabetes at this stage prevents progression to the clinical, symptomatic phase.",
+  "explanation_incorrect": {
+    "B": "Primary prevention reduces risks or increases immunity to prevent disease onset — such as counseling on healthy diet and exercise. Ordering a screening test does not itself change risk; it detects existing subclinical disease.",
+    "C": "Tertiary prevention treats symptomatic disease to prevent progression and sequelae, exemplified by hemoglobin A1c monitoring to guide treatment. This patient has no symptoms and is not known to have diabetes.",
+    "D": "Quaternary prevention aims to prevent overtreatment and iatrogenic harm, such as stopping a sulfonylurea after repeated hypoglycemia. A screening test in an asymptomatic at-risk patient is not a de-intervention.",
+    "E": "Palliative care provides comfort and quality-of-life support for complex or life-threatening illness regardless of prognosis; it is not one of the four levels of disease prevention and does not fit this well, asymptomatic patient."
+  },
+  "educationalObjective": "Secondary prevention screens asymptomatic, subclinical populations for early detection and treatment — eg, glucose screening for type 2 diabetes.",
+  "source": "Generated from 6. PHS.pdf - Healthcare Delivery: Levels of disease prevention"
+},
+{
+  "id": "phs-194",
+  "subject": "PHS",
+  "major_topic": "Healthcare Delivery",
+  "subtopic": "Levels of disease prevention",
+  "difficulty": "hard",
+  "vignette": "A 74-year-old man with type 2 diabetes mellitus has been taking glipizide for 3 years. Over the past 2 months he has had four documented hypoglycemic episodes, two of which required assistance from his wife. The physician discontinues the sulfonylurea and transitions him to an agent with a lower hypoglycemia risk, despite the modest increase in pill cost.",
+  "question": "Which level of disease prevention does discontinuing the sulfonylurea best represent?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Primary prevention"
+    },
+    {
+      "id": "B",
+      "text": "Secondary prevention"
+    },
+    {
+      "id": "C",
+      "text": "Tertiary prevention"
+    },
+    {
+      "id": "D",
+      "text": "Primordial prevention"
+    },
+    {
+      "id": "E",
+      "text": "Quaternary prevention"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Quaternary prevention protects symptomatic patients from overtreatment and iatrogenic harm. First Aid's stated example is discontinuing a sulfonylurea after multiple hypoglycemic events: the medication itself has become the hazard, and the intervention is to quit an unnecessary medical intervention. The target population is the symptomatic patient who is overmedicalized, and the goal is to prevent harm caused by care.",
+  "explanation_incorrect": {
+    "A": "Primary prevention prevents disease onset in the susceptible population — eg, diet and exercise to prevent diabetes. This patient already has symptomatic diabetes, and the action removes a harmful treatment rather than a risk factor.",
+    "B": "Secondary prevention screens asymptomatic, subclinical people for early detection — eg, glucose screening. No screening is occurring, and this patient's disease is long established.",
+    "C": "Tertiary prevention treats symptomatic disease to prevent progression and sequelae — eg, hemoglobin A1c monitoring to guide treatment. Although diabetes is being managed, the specific act of withdrawing an overtreatment that causes hypoglycemia is the hallmark of quaternary prevention.",
+    "D": "Primordial prevention is not one of the four levels described in this framework; the correct fourth level, quaternary prevention, specifically targets overmedicalization and iatrogenic harm."
+  },
+  "educationalObjective": "Quaternary prevention prevents overtreatment and iatrogenic harm in symptomatic patients — eg, discontinuing a sulfonylurea after repeated hypoglycemic events.",
+  "source": "Generated from 6. PHS.pdf - Healthcare Delivery: Levels of disease prevention"
+},
+{
+  "id": "phs-195",
+  "subject": "PHS",
+  "major_topic": "Healthcare Delivery",
+  "subtopic": "Levels of disease prevention",
+  "difficulty": "medium",
+  "vignette": "A 61-year-old woman with established type 2 diabetes mellitus presents for quarterly follow-up. She has symptomatic peripheral neuropathy and early nephropathy. The physician reviews her log, orders a hemoglobin A1c, and intensifies her regimen to keep her glucose controlled and slow further kidney damage.",
+  "question": "Which level of disease prevention does this hemoglobin A1c monitoring and treatment adjustment represent?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Primary prevention"
+    },
+    {
+      "id": "B",
+      "text": "Tertiary prevention"
+    },
+    {
+      "id": "C",
+      "text": "Secondary prevention"
+    },
+    {
+      "id": "D",
+      "text": "Quaternary prevention"
+    },
+    {
+      "id": "E",
+      "text": "Palliative care"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Tertiary prevention treats symptomatic disease to prevent clinical disease progression and the sequelae of associated morbidity, mortality, and disability. First Aid's example is hemoglobin A1c monitoring to guide treatment and prevent complications: the patient already has symptomatic disease, and the intervention aims to stop it from worsening. Intensifying therapy to slow nephropathy fits this goal exactly.",
+  "explanation_incorrect": {
+    "A": "Primary prevention reduces risk before disease onset — eg, healthy diet and exercise to prevent diabetes. This patient already has symptomatic diabetes, so onset cannot be prevented.",
+    "C": "Secondary prevention screens a subclinical, asymptomatic population — eg, glucose screening for type 2 diabetes. This patient is symptomatic and already diagnosed, so screening for presymptomatic disease no longer applies.",
+    "D": "Quaternary prevention prevents overtreatment and iatrogenic harm — eg, discontinuing a sulfonylurea after multiple hypoglycemic events. Here the treatment is being intensified appropriately, not withdrawn as excessive.",
+    "E": "Palliative care focuses on comfort and quality of life in complex or life-threatening illness; it is not a prevention level, and this patient is receiving active disease-modifying care rather than comfort-focused care."
+  },
+  "educationalObjective": "Tertiary prevention treats symptomatic disease to prevent progression and sequelae — eg, hemoglobin A1c monitoring to guide treatment and prevent complications.",
+  "source": "Generated from 6. PHS.pdf - Healthcare Delivery: Levels of disease prevention"
+}
+]

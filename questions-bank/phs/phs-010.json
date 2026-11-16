@@ -1,0 +1,166 @@
+[
+{
+  "id": "phs-102",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Confidence intervals",
+  "difficulty": "hard",
+  "vignette": "A study reports that a new ACE inhibitor lowers mean systolic blood pressure by 10 mm Hg relative to placebo, with a standard error (SE) of the difference of 2 mm Hg.",
+  "question": "What is the 95% confidence interval for the mean blood pressure difference?",
+  "options": [
+    {
+      "id": "A",
+      "text": "8 to 12 mm Hg"
+    },
+    {
+      "id": "B",
+      "text": "4.8 to 15.2 mm Hg"
+    },
+    {
+      "id": "C",
+      "text": "9 to 11 mm Hg"
+    },
+    {
+      "id": "D",
+      "text": "0 to 20 mm Hg"
+    },
+    {
+      "id": "E",
+      "text": "6.1 to 13.9 mm Hg"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "The confidence interval for a sample mean (or mean difference) is calculated as x ± Z(SE). For a 95% CI, Z = 1.96, so the interval is 10 ± 1.96 × 2 = 10 ± 3.92, or approximately 6.1 to 13.9 mm Hg. Because this interval excludes 0, the null hypothesis of no difference is rejected and the result is statistically significant. The 99% CI would instead use Z = 2.58, producing a wider interval.",
+  "explanation_incorrect": {
+    "A": "8 to 12 mm Hg comes from adding and subtracting the SE (±2) without multiplying by Z = 1.96, a common error that yields an interval far too narrow for a 95% CI.",
+    "B": "4.8 to 15.2 mm Hg results from using Z = 2.58, which corresponds to a 99% confidence interval, not a 95% one.",
+    "C": "9 to 11 mm Hg uses half of the SE in each direction (±1) and does not correspond to any standard Z multiplier.",
+    "D": "0 to 20 mm Hg arbitrarily uses ±10 (the point estimate itself) and does not apply the Z(SE) formula at all."
+  },
+  "educationalObjective": "The CI for a mean difference is x ± Z(SE), with Z = 1.96 for a 95% CI and Z = 2.58 for a 99% CI.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Confidence intervals"
+},
+{
+  "id": "phs-103",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Confidence intervals",
+  "difficulty": "medium",
+  "vignette": "A case-control study examines smoking and lung cancer and reports an odds ratio of 2.5 with a 95% confidence interval of 1.2 to 5.0.",
+  "question": "Which of the following is the most appropriate conclusion about the null hypothesis in this study?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The null hypothesis is not rejected, because the confidence interval is wider than 1.0 in both directions"
+    },
+    {
+      "id": "B",
+      "text": "The null hypothesis is not rejected, because a case-control study cannot produce a significant odds ratio"
+    },
+    {
+      "id": "C",
+      "text": "The null hypothesis is rejected and the association is statistically significant, because the 95% CI for the odds ratio excludes 1"
+    },
+    {
+      "id": "D",
+      "text": "The result establishes statistical significance but cannot be evaluated for the null hypothesis without a chi-square test"
+    },
+    {
+      "id": "E",
+      "text": "The result is statistically significant but not clinically significant, since the odds ratio is less than 5"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "For an odds ratio or relative risk, the null value is 1 (no association). H0 is rejected—and the results are statistically significant—when the 95% CI for the OR or RR excludes 1. Here the interval of 1.2 to 5.0 lies entirely above 1, so the study rejects the null hypothesis of no association between smoking and lung cancer.",
+  "explanation_incorrect": {
+    "A": "The CI does not include 1.0 in either direction; it is entirely above 1, which is the condition for rejecting H0.",
+    "B": "Case-control studies routinely produce odds ratios that can be tested against the null; study design does not preclude significance.",
+    "D": "The CI criterion itself is sufficient to judge significance; no additional chi-square test is required once the CI excludes 1.",
+    "E": "Clinical significance concerns the magnitude and importance of the effect, not a numeric cutoff such as 5; the CI question asked about is the null hypothesis."
+  },
+  "educationalObjective": "H0 is rejected when the 95% CI for an odds ratio or relative risk excludes 1 (and for a mean difference, excludes 0).",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Confidence intervals"
+},
+{
+  "id": "phs-104",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Confidence intervals",
+  "difficulty": "medium",
+  "vignette": "Two studies each estimate the mean serum cholesterol of a population as 200 mg/dL. Study A (n = 100) reports a 95% CI of 180 to 220 mg/dL, while Study B (n = 1,600) reports a 95% CI of 190 to 210 mg/dL.",
+  "question": "Which of the following best explains why the confidence interval is narrower in Study B?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Larger samples have larger standard deviations, which tightens the interval"
+    },
+    {
+      "id": "B",
+      "text": "As sample size increases, the standard error decreases and the confidence interval narrows"
+    },
+    {
+      "id": "C",
+      "text": "A narrower interval indicates a less precise estimate of the true mean"
+    },
+    {
+      "id": "D",
+      "text": "Study B must have used a 99% confidence interval, which is always narrower than a 95% interval"
+    },
+    {
+      "id": "E",
+      "text": "Confidence interval width depends only on the point estimate, not on the sample size"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "The confidence interval is x ± Z(SE), and the standard error is SE = sigma/sqrt(n). Quadrupling the sample size from 100 to 1,600 cuts the standard error (and thus the CI width) by half, exactly as shown by the two intervals. As sample size increases, the CI narrows, reflecting a more precise estimate of the true population mean.",
+  "explanation_incorrect": {
+    "A": "Sample size does not change the population standard deviation; the quantity that shrinks with larger n is the standard error, sigma/sqrt(n).",
+    "C": "A narrower confidence interval indicates a more precise estimate, not a less precise one.",
+    "D": "A 99% confidence interval is wider than a 95% interval (Z = 2.58 vs 1.96), and both studies state they used 95% CIs.",
+    "E": "The interval width depends directly on the standard error and therefore on the sample size, not only on the point estimate."
+  },
+  "educationalObjective": "Confidence intervals narrow as sample size increases because the standard error (sigma/sqrt(n)) decreases.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Confidence intervals"
+},
+{
+  "id": "phs-105",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Confidence intervals",
+  "difficulty": "easy",
+  "vignette": "A cross-sectional study reports that the mean daily sodium intake in a community is 3,400 mg with a 95% confidence interval of 3,250 to 3,550 mg. A medical student asks the attending how to interpret the '95%' in this interval.",
+  "question": "Which of the following statements about the 95% confidence interval is most accurate?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It corresponds to an alpha of 0.05 and represents the range of values within which the true population mean is expected to fall with a specified probability"
+    },
+    {
+      "id": "B",
+      "text": "It means that 95% of the individual sodium measurements in the sample fall between 3,250 and 3,550 mg"
+    },
+    {
+      "id": "C",
+      "text": "It means there is a 95% probability that the null hypothesis is true"
+    },
+    {
+      "id": "D",
+      "text": "It uses Z = 2.58 as the multiplier for the standard error"
+    },
+    {
+      "id": "E",
+      "text": "It would become wider if the sample size were increased"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "A confidence interval is the range of values within which the true mean of the population is expected to fall, with a specified probability; CI = 1 - alpha, so a 95% CI corresponds to alpha = 0.05. For a 95% CI the multiplier is Z = 1.96, giving x ± 1.96(SE). It is a statement about where the population mean lies, not about the spread of individual observations.",
+  "explanation_incorrect": {
+    "B": "The CI describes the plausible location of the population mean, not the range containing 95% of individual data points.",
+    "C": "A confidence interval is not a statement about the probability that the null hypothesis is true; significance is judged by whether the interval excludes the null value.",
+    "D": "Z = 2.58 corresponds to a 99% confidence interval; the 95% CI uses Z = 1.96.",
+    "E": "As sample size increases, the standard error shrinks and the confidence interval narrows, not widens."
+  },
+  "educationalObjective": "A 95% CI (CI = 1 - alpha, Z = 1.96) is the range within which the true population mean is expected to fall with the specified probability and narrows as n increases.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Confidence intervals"
+}
+]

@@ -1,0 +1,166 @@
+[
+{
+  "id": "phs-034",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Attributable risk, case fatality, attack rate, mortality rate",
+  "difficulty": "hard",
+  "vignette": "A cohort study follows 500 workers exposed to asbestos dust and 1000 unexposed workers for 20 years. Among the exposed workers, 45 develop mesothelioma (a = 45, b = 455); among the unexposed workers, 15 develop mesothelioma (c = 15, d = 985). The epidemiologist wishes to express how much of the disease risk in the exposed group is due to the exposure.",
+  "question": "Which of the following is the attributable risk of mesothelioma associated with asbestos exposure in this study?",
+  "options": [
+    {
+      "id": "A",
+      "text": "6%"
+    },
+    {
+      "id": "B",
+      "text": "7.5%"
+    },
+    {
+      "id": "C",
+      "text": "83%"
+    },
+    {
+      "id": "D",
+      "text": "9%"
+    },
+    {
+      "id": "E",
+      "text": "1.5%"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Attributable risk is the difference in risk between exposed and unexposed groups: AR = [a/(a+b)] − [c/(c+d)]. The risk in exposed workers is 45/500 = 9% and the risk in unexposed workers is 15/1000 = 1.5%, so AR = 9% − 1.5% = 7.5%. This represents the amount of disease risk in the exposed group attributable to the exposure itself.",
+  "explanation_incorrect": {
+    "A": "6% is the relative risk expressed as a percentage (RR = 9%/1.5% = 6). Relative risk is a ratio of risks, whereas attributable risk is the difference in risks between the two groups.",
+    "C": "83% is the attributable risk percentage, AR% = (RR − 1)/RR × 100 = (6 − 1)/6 × 100 ≈ 83%. This expresses the proportion of disease in the exposed group attributable to the exposure, not the absolute difference in risk.",
+    "D": "9% is the total risk of mesothelioma in the exposed group (45/500). Attributable risk subtracts the background risk in the unexposed group from this value.",
+    "E": "1.5% is the risk of mesothelioma in the unexposed group (15/1000), which is the background risk that must be subtracted from the exposed group's risk to obtain the attributable risk."
+  },
+  "educationalObjective": "Attributable risk is the difference in disease risk between exposed and unexposed groups: AR = [a/(a+b)] − [c/(c+d)].",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Attributable risk, case fatality, attack rate, mortality rate"
+},
+{
+  "id": "phs-035",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Attributable risk, case fatality, attack rate, mortality rate",
+  "difficulty": "easy",
+  "vignette": "An outbreak of bacterial meningitis occurs in a town of 300 people. Over the course of the outbreak, 30 cases of meningitis are identified, and 12 of these patients die. The county health department reports the percentage of deaths occurring among those with the disease.",
+  "question": "Which of the following is the case fatality rate for this meningitis outbreak?",
+  "options": [
+    {
+      "id": "A",
+      "text": "2.5%"
+    },
+    {
+      "id": "B",
+      "text": "0.4%"
+    },
+    {
+      "id": "C",
+      "text": "60%"
+    },
+    {
+      "id": "D",
+      "text": "40%"
+    },
+    {
+      "id": "E",
+      "text": "4%"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "The case fatality rate is the percentage of deaths occurring among those with the disease: CFR% = deaths/cases × 100. Here 12 patients died among 30 cases, so CFR = 12/30 × 100 = 40%. It measures the severity or virulence of the disease among the people it affects, not the burden of death in the whole population.",
+  "explanation_incorrect": {
+    "A": "2.5% results from inverting the ratio (cases/deaths = 30/12). The case fatality rate is deaths divided by cases, not cases divided by deaths.",
+    "B": "0.4% is a decimal-place error: the correct proportion is 0.40, which equals 40%, not 0.40%.",
+    "C": "60% is the proportion of cases who survived (18/30). The case fatality rate counts deaths among cases, not survivors.",
+    "E": "4% comes from dividing the deaths by the entire town population (12/300), which is the approach used for a mortality rate. The case fatality rate uses only the diseased cases as the denominator."
+  },
+  "educationalObjective": "Case fatality rate = deaths/cases × 100, the percentage of people with a disease who die from it.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Attributable risk, case fatality, attack rate, mortality rate"
+},
+{
+  "id": "phs-036",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Attributable risk, case fatality, attack rate, mortality rate",
+  "difficulty": "medium",
+  "vignette": "After a wedding reception attended by 230 guests, an outbreak of gastroenteritis is investigated. Of the 120 guests who ate the potato salad, 80 became ill; of the 100 guests who did not eat the potato salad, 10 became ill. The health department calculates the proportion of exposed people who became ill.",
+  "question": "Which of the following is the attack rate of gastroenteritis among guests who ate the potato salad?",
+  "options": [
+    {
+      "id": "A",
+      "text": "10%"
+    },
+    {
+      "id": "B",
+      "text": "6.7"
+    },
+    {
+      "id": "C",
+      "text": "34.8%"
+    },
+    {
+      "id": "D",
+      "text": "58.3%"
+    },
+    {
+      "id": "E",
+      "text": "66.7%"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "The attack rate is the proportion of exposed people who become ill: attack rate = people who become ill / total people exposed × 100. Among the 120 guests exposed to the potato salad, 80 became ill, so the attack rate is 80/120 × 100 = 66.7%. The attack rate is used in outbreak investigations to identify the source of infection by comparing attack rates among people exposed and unexposed to a suspect vehicle.",
+  "explanation_incorrect": {
+    "A": "10% is the attack rate among the unexposed guests (10/100). It does not describe the group that ate the potato salad, although the contrast between 66.7% and 10% is what implicates the potato salad.",
+    "B": "6.7 is the relative risk computed from this outbreak table, (80/120)/(10/100) = 0.667/0.10. The question asks for a proportion of exposed people who became ill, not a ratio of risks.",
+    "C": "34.8% results from using the wrong denominator, dividing the 80 ill guests by all 230 attendees. The attack rate denominator is only the people exposed to the suspected vehicle.",
+    "D": "58.3% comes from subtracting the ill unexposed guests from the numerator ((80 − 10)/120). The attack rate counts all illness among the exposed group, without adjusting for background illness."
+  },
+  "educationalObjective": "Attack rate = (people who become ill)/(total people exposed) × 100, and comparing attack rates between exposed and unexposed groups helps identify the source of an outbreak.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Attributable risk, case fatality, attack rate, mortality rate"
+},
+{
+  "id": "phs-037",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Attributable risk, case fatality, attack rate, mortality rate",
+  "difficulty": "hard",
+  "vignette": "A rural county monitors vital statistics in a town of 20,000 residents. Over a 3-year surveillance period, 150 residents die from all causes. A public health student is asked to express this as a mortality rate in the standard epidemiologic units.",
+  "question": "Which of the following is the correct mortality rate for this town?",
+  "options": [
+    {
+      "id": "A",
+      "text": "2.5 deaths per 1000 people per year"
+    },
+    {
+      "id": "B",
+      "text": "7.5 deaths per 1000 people per year"
+    },
+    {
+      "id": "C",
+      "text": "25 deaths per 1000 people per year"
+    },
+    {
+      "id": "D",
+      "text": "0.25 deaths per 1000 people per year"
+    },
+    {
+      "id": "E",
+      "text": "1.25 deaths per 1000 people per year"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "The mortality rate is the number of deaths within a population over a defined period, expressed as deaths per 1000 people per year. First, the annual deaths are 150 ÷ 3 years = 50 deaths per year. Then 50 ÷ 20,000 people = 0.0025 deaths per person per year = 2.5 deaths per 1000 people per year. This mirrors the classic example in which 80 deaths in a town of 10,000 over 2 years yield a mortality rate of 4 per 1000 per year.",
+  "explanation_incorrect": {
+    "B": "7.5 per 1000 per year results from forgetting to divide by the 3-year period, computing 150/20,000 = 7.5 per 1000 as if all deaths occurred in a single year. The rate must be normalized to 1 year.",
+    "C": "25 per 1000 per year is a decimal-place error: the correct value of 2.5 per 1000 per year has been shifted one place too large.",
+    "D": "0.25 per 1000 per year is a decimal-place error: the correct value of 2.5 per 1000 per year has been shifted one place too small.",
+    "E": "1.25 per 1000 per year results from dividing by twice the correct time period (6 years instead of 3), halving the true annual rate."
+  },
+  "educationalObjective": "Mortality rate = deaths per 1000 people per year; both the population size and the time period must be accounted for in the calculation.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Attributable risk, case fatality, attack rate, mortality rate"
+}
+]

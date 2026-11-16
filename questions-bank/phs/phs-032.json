@@ -1,0 +1,125 @@
+[
+{
+  "id": "phs-106",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Meta-analysis",
+  "difficulty": "easy",
+  "vignette": "A research team is asked to summarize the evidence on a new anticoagulant. Rather than conducting a new trial, they combine the summary statistics (means, relative risks) reported in 15 previously published studies into a single statistical analysis.",
+  "question": "Which of the following best describes the method this team is using?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A cross-sectional survey that measures exposure and outcome simultaneously in one population"
+    },
+    {
+      "id": "B",
+      "text": "A narrative literature review that summarizes published articles without statistical pooling"
+    },
+    {
+      "id": "C",
+      "text": "A single randomized controlled trial that enrolls all of the participants from the original studies"
+    },
+    {
+      "id": "D",
+      "text": "A meta-analysis, which pools summary data from multiple studies for a more precise estimate of the size of an effect"
+    },
+    {
+      "id": "E",
+      "text": "A sensitivity analysis restricted to the largest individual study in the literature"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Meta-analysis is a method of statistical analysis that pools summary data (eg, means, relative risks) from multiple studies to obtain a more precise estimate of the size of an effect. It also estimates the heterogeneity of effect sizes between studies. This is distinct from a narrative review (no statistical pooling) and from a new primary study.",
+  "explanation_incorrect": {
+    "A": "A cross-sectional survey is a primary observational study design measuring exposure and outcome at one time point, not a pooling of existing studies' results.",
+    "B": "A narrative review describes the literature qualitatively and does not statistically combine effect estimates, which is the defining feature here.",
+    "C": "No new trial is being conducted; the team is combining data that already exist, which is the essence of meta-analysis.",
+    "E": "Restricting the analysis to the single largest study would discard information and is not a pooled analysis of multiple studies."
+  },
+  "educationalObjective": "Meta-analysis statistically pools summary data from multiple studies to yield a more precise estimate of effect size and to assess heterogeneity between studies.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Meta-analysis"
+},
+{
+  "id": "phs-107",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Meta-analysis",
+  "difficulty": "medium",
+  "vignette": "An investigator defends a planned meta-analysis of 8 small trials of a new asthma inhaler to the institutional review board, explaining what the pooled analysis will achieve beyond any single small trial.",
+  "question": "Which of the following is an established benefit of meta-analysis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It improves the power, strength of evidence, and generalizability (external validity) of study findings"
+    },
+    {
+      "id": "B",
+      "text": "It eliminates the need to appraise the quality of the individual studies being pooled"
+    },
+    {
+      "id": "C",
+      "text": "It guarantees that publication bias among the included studies is absent"
+    },
+    {
+      "id": "D",
+      "text": "It increases the internal validity of each of the individual studies included in the pool"
+    },
+    {
+      "id": "E",
+      "text": "It allows the null hypothesis to be proven true when most pooled studies are negative"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "By pooling multiple studies, a meta-analysis improves power, the strength of the evidence, and generalizability (external validity), producing a more precise estimate of effect size than any single small trial. It also estimates heterogeneity of effect sizes between studies. However, its conclusions remain constrained by the quality of the included studies and by bias in study selection.",
+  "explanation_incorrect": {
+    "B": "Meta-analysis is limited by the quality of the individual studies; appraising study quality remains essential to interpreting the pooled result.",
+    "C": "Bias in study selection (including publication bias) remains a limitation of meta-analysis and is not eliminated by pooling.",
+    "D": "Pooling does not change the design or conduct of the original studies, so their internal validity is unaffected.",
+    "E": "Hypothesis testing never proves the null hypothesis; meta-analysis estimates effect size, it does not 'prove' H0 true."
+  },
+  "educationalObjective": "Meta-analysis improves power, strength of evidence, and generalizability, but is limited by the quality of the individual studies and by selection bias.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Meta-analysis"
+},
+{
+  "id": "phs-108",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Meta-analysis",
+  "difficulty": "hard",
+  "vignette": "A meta-analysis pools 12 small trials of a supplemental therapy for sepsis and reports a statistically significant mortality benefit (pooled RR = 0.75, 95% CI 0.60–0.94). A critical appraisal reveals that several of the included trials used unblinded outcome assessment and had high attrition.",
+  "question": "Which of the following is the most appropriate interpretation of this meta-analysis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The pooled result is definitive, because the large combined sample size overcomes the weaknesses of individual studies"
+    },
+    {
+      "id": "B",
+      "text": "The pooled confidence interval excludes 1, so study quality is irrelevant to the validity of the conclusion"
+    },
+    {
+      "id": "C",
+      "text": "The result should be interpreted cautiously, because a meta-analysis is limited by the quality of the individual studies it pools"
+    },
+    {
+      "id": "D",
+      "text": "The result is invalid, because meta-analyses are prohibited from pooling studies with heterogeneous designs"
+    },
+    {
+      "id": "E",
+      "text": "The pooled relative risk of 0.75 means mortality is increased by 75% with the therapy"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Although meta-analysis improves power, strength of evidence, and generalizability, it is limited by the quality of the individual studies and by bias in study selection. Pooled estimates cannot rise above the quality of the underlying trials: if the included studies used unblinded assessment and had high attrition, the pooled RR of 0.75 may be biased. The CI excluding 1 shows statistical significance only, not freedom from bias.",
+  "explanation_incorrect": {
+    "A": "A large pooled sample increases power and precision but cannot repair systematic flaws such as unblinding and attrition in the source trials.",
+    "B": "Statistical significance (CI excluding 1) addresses only the role of chance; bias and study quality remain relevant limitations.",
+    "D": "Heterogeneity between studies is expected and is itself estimated in meta-analysis; it does not make pooling prohibited.",
+    "E": "RR = 0.75 indicates a 25% relative reduction in mortality (RRR = 1 - RR), not a 75% increase."
+  },
+  "educationalObjective": "A meta-analysis is only as good as the studies it pools: the quality of individual studies and bias in study selection limit its conclusions.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Meta-analysis"
+}
+]

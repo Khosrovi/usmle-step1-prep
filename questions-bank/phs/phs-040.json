@@ -1,0 +1,125 @@
+[
+{
+  "id": "phs-058",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Precision vs accuracy",
+  "difficulty": "easy",
+  "vignette": "A reference laboratory evaluates a new assay for serum potassium by measuring the same standard sample repeatedly. Every measurement returns a value of 5.8 mEq/L with essentially no variation between runs; however, the true potassium concentration of the standard is 4.8 mEq/L.",
+  "question": "Which of the following best characterizes this assay?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It is both precise and accurate, because repeated values are identical and near the reference range."
+    },
+    {
+      "id": "B",
+      "text": "It is precise (reliable) but not accurate, because the consistent overestimation reflects systematic error or bias."
+    },
+    {
+      "id": "C",
+      "text": "It is accurate but not precise, because the value is close to the true concentration of the standard."
+    },
+    {
+      "id": "D",
+      "text": "It is neither precise nor accurate, because a shifted value cannot be reproduced."
+    },
+    {
+      "id": "E",
+      "text": "It has poor precision due to random variation between repeated measurements."
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Precision (reliability) is the consistency and reproducibility of a test — the absence of random variation — and this assay reproduces the same value every time. Accuracy (validity) is the closeness of test results to the true value — the absence of systematic error or bias — and here every result is 1.0 mEq/L above the true concentration, a constant systematic shift that degrades accuracy while leaving precision intact.",
+  "explanation_incorrect": {
+    "A": "Reproducibility demonstrates precision, but the results consistently miss the true value by 1.0 mEq/L, so accuracy is absent.",
+    "C": "The measured value (5.8 mEq/L) is not close to the true value (4.8 mEq/L), so accuracy is not present even though consistency is.",
+    "D": "The shifted value is in fact perfectly reproducible, which is the definition of precision; only accuracy is compromised.",
+    "E": "Random variation is the absence of consistency, and the repeated measurements are identical — the problem is systematic error, not random error."
+  },
+  "educationalObjective": "Precision (reliability) is the absence of random variation, while accuracy (validity) is the absence of systematic error or bias — a test can be precise without being accurate.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Precision vs accuracy"
+},
+{
+  "id": "phs-059",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Precision vs accuracy",
+  "difficulty": "medium",
+  "vignette": "A research nurse measures seated blood pressure in a study subject with the same device on five occasions over one hour. The readings are 128, 142, 121, 136, and 118 mm Hg, scattering widely in both directions with no consistent pattern, while the subject's true blood pressure is approximately 130 mm Hg.",
+  "question": "Which of the following best describes the error pattern in these measurements?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Systematic error, which decreases the accuracy of the test."
+    },
+    {
+      "id": "B",
+      "text": "Measurement bias, which consistently shifts the values in one direction."
+    },
+    {
+      "id": "C",
+      "text": "Confounding, which distorts the observed association between exposure and outcome."
+    },
+    {
+      "id": "D",
+      "text": "Random error, which decreases the accuracy of the test."
+    },
+    {
+      "id": "E",
+      "text": "Random error, which decreases the precision of the test."
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Scatter in unpredictable directions across repeated measurements of the same subject is the hallmark of random variation. Random error decreases precision (reliability) in a test — the consistency and reproducibility of results — so these widely varying readings are imprecise even though they do not systematically overestimate or underestimate the true value.",
+  "explanation_incorrect": {
+    "A": "Systematic error produces a consistent directional shift (bias) in results and decreases accuracy; these readings scatter in both directions with no consistent trend.",
+    "B": "Measurement bias is a form of systematic error with a reproducible directional distortion of results, which is not present in this bidirectional scatter.",
+    "C": "Confounding is a distortion of an estimated association by another variable related to both exposure and outcome; it is not an error pattern within repeated measurements of one subject.",
+    "D": "The error type is correctly identified as random, but random error decreases precision, not accuracy; systematic error is what decreases accuracy."
+  },
+  "educationalObjective": "Random error decreases precision (reliability), whereas systematic error (bias) decreases accuracy (validity).",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Precision vs accuracy"
+},
+{
+  "id": "phs-060",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Precision vs accuracy",
+  "difficulty": "hard",
+  "vignette": "A clinical investigator designs a study of a new antihypertensive drug and takes steps to increase the precision of the primary outcome measurement, including standardizing the measurement protocol across centers and increasing the number of repeated readings per patient. A biostatistics consultant is asked what consequences this improved precision will have for the study's statistics.",
+  "question": "Which of the following is an expected consequence of increased precision in this study?",
+  "options": [
+    {
+      "id": "A",
+      "text": "An increased standard deviation of the measurements and increased statistical power."
+    },
+    {
+      "id": "B",
+      "text": "A decreased standard deviation of the measurements and decreased statistical power."
+    },
+    {
+      "id": "C",
+      "text": "A decreased standard deviation of the measurements and increased statistical power (1 − β)."
+    },
+    {
+      "id": "D",
+      "text": "A decreased amount of systematic error and improved accuracy of the results."
+    },
+    {
+      "id": "E",
+      "text": "An increased amount of random variation between repeated measurements."
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Increased precision leads to a decreased standard deviation — the readings cluster more tightly around the mean — and to increased statistical power (1 − β), because less random noise makes it easier to detect a true effect of the drug. Precision and its downstream statistical properties are distinct from accuracy, which concerns systematic error.",
+  "explanation_incorrect": {
+    "A": "Greater precision narrows, rather than widens, the spread of measurements; the standard deviation decreases with increased precision.",
+    "B": "The standard deviation correctly decreases, but precision increases power; less random variation makes type II error (β) less likely, not more.",
+    "D": "Reducing systematic error improves accuracy, which is a separate property from precision; standardizing against bias would address accuracy, not the statistical consequences of precision.",
+    "E": "Increased precision means the absence of random variation, so random variation between repeated measurements is decreased, not increased."
+  },
+  "educationalObjective": "Increased precision → decreased standard deviation and increased statistical power (1 − β); it is distinct from accuracy, which is degraded by systematic error.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Precision vs accuracy"
+}
+]

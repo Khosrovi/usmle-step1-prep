@@ -1,0 +1,166 @@
+[
+{
+  "id": "phs-095",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Statistical power",
+  "difficulty": "easy",
+  "vignette": "A biostatistician reviews the design of a trial of a new oral anticoagulant. She notes that the probability of a type II error (beta) for the planned analysis is 0.20.",
+  "question": "Which of the following best describes the statistical power of this trial?",
+  "options": [
+    {
+      "id": "A",
+      "text": "0.20, the probability that the study will fail to detect a true effect"
+    },
+    {
+      "id": "B",
+      "text": "The probability of making a type I error, conventionally 0.05"
+    },
+    {
+      "id": "C",
+      "text": "0.80, the probability of rejecting the null hypothesis when it is false"
+    },
+    {
+      "id": "D",
+      "text": "0.95, the probability that the confidence interval excludes the null value"
+    },
+    {
+      "id": "E",
+      "text": "The probability that the null hypothesis is true"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Statistical power is 1 - beta, the probability of rejecting the null hypothesis when it is false—that is, the probability of correctly detecting a real effect or difference. With beta = 0.20, power = 1 - 0.20 = 0.80, which is the conventional target for trial design. Power is improved by increasing sample size, expected effect size, precision of measurement, and the alpha level.",
+  "explanation_incorrect": {
+    "A": "0.20 is beta, the probability of a type II (false-negative) error, which is the complement of power, not power itself.",
+    "B": "The probability of a type I error is alpha, not power; power concerns failing to reject a false null hypothesis.",
+    "D": "1 - alpha = 0.95 corresponds to the confidence level of a 95% confidence interval, a separate concept from power.",
+    "E": "Power is defined only in terms of the behavior of the test when the null hypothesis is false; it says nothing about whether the null hypothesis is true."
+  },
+  "educationalObjective": "Statistical power = 1 - beta, the probability of rejecting the null hypothesis when it is false, with 80% a common design target.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Statistical power"
+},
+{
+  "id": "phs-096",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Statistical power",
+  "difficulty": "hard",
+  "vignette": "A pilot study of a new diuretic for heart failure fails to detect a benefit on hospitalization rates, and the principal investigator is told that the study was underpowered. She asks her team which design change would most improve the study's ability to detect a real effect in the definitive trial.",
+  "question": "Which of the following changes would most directly increase the statistical power of the definitive trial?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Decreasing the expected effect size of the intervention"
+    },
+    {
+      "id": "B",
+      "text": "Lowering the alpha level from 0.05 to 0.01"
+    },
+    {
+      "id": "C",
+      "text": "Decreasing the precision of the outcome measurement"
+    },
+    {
+      "id": "D",
+      "text": "Increasing the tolerated probability of a type II error"
+    },
+    {
+      "id": "E",
+      "text": "Increasing the sample size of enrolled participants"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Power increases with larger sample size—'there is power in numbers'—as well as with a larger expected effect size, greater precision of measurement, and a higher alpha level. Enrolling more participants reduces the standard error, making a true difference easier to detect and decreasing beta (the type II error rate).",
+  "explanation_incorrect": {
+    "A": "A smaller expected effect size is harder to detect, so power decreases rather than increases.",
+    "B": "Lowering alpha makes the significance threshold more stringent, which decreases power; raising alpha would increase it.",
+    "C": "Less precise measurements add noise to the data, making true differences harder to detect and lowering power.",
+    "D": "Accepting a higher probability of a type II error is the same as accepting lower power (power = 1 - beta)."
+  },
+  "educationalObjective": "Power rises with increased sample size, larger expected effect size, greater precision of measurement, and a higher alpha level.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Statistical power"
+},
+{
+  "id": "phs-097",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Statistical power",
+  "difficulty": "medium",
+  "vignette": "A biostatistics consultant is asked to review a completed study of a new smoking-cessation program before publication. She determines that the study had a 20% probability of committing a type II error.",
+  "question": "What is the probability that this study correctly rejected the null hypothesis when it was false?",
+  "options": [
+    {
+      "id": "A",
+      "text": "80%"
+    },
+    {
+      "id": "B",
+      "text": "20%"
+    },
+    {
+      "id": "C",
+      "text": "95%"
+    },
+    {
+      "id": "D",
+      "text": "5%"
+    },
+    {
+      "id": "E",
+      "text": "It cannot be determined without knowing the sample size"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "The probability of correctly rejecting a false null hypothesis is the statistical power, which equals 1 - beta. With a 20% probability of a type II error (beta = 0.20), power = 1 - 0.20 = 0.80, or 80%. This means that if the smoking-cessation program truly works, the study had an 80% chance of demonstrating a statistically significant difference.",
+  "explanation_incorrect": {
+    "B": "20% is beta, the probability of a type II error (failing to detect a real effect), not the probability of correctly detecting one.",
+    "C": "95% is 1 - alpha, the confidence level corresponding to a 95% confidence interval, not statistical power.",
+    "D": "5% is the conventional alpha level, the tolerated probability of a type I error.",
+    "E": "Power is fully determined by beta, which was given directly; sample size is only one of the factors that influences beta."
+  },
+  "educationalObjective": "Statistical power = 1 - beta and represents the probability of rejecting the null hypothesis when it is false.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Statistical power"
+},
+{
+  "id": "phs-098",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Statistical power",
+  "difficulty": "medium",
+  "vignette": "A small pilot trial enrolls 25 patients per arm and finds no significant difference between a new neuropathic pain drug and placebo (p = 0.30). The drug is actually effective, and the investigators plan a follow-up study.",
+  "question": "Which of the following modifications would most likely help the follow-up study avoid the same false-negative conclusion?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Repeat the study with the same methods but half as many participants per group"
+    },
+    {
+      "id": "B",
+      "text": "Lower the significance threshold to alpha = 0.01 to reduce the risk of a false positive"
+    },
+    {
+      "id": "C",
+      "text": "Use a less precise instrument to measure pain so that the outcome variability increases"
+    },
+    {
+      "id": "D",
+      "text": "Recruit substantially more participants to increase the probability of detecting a true difference"
+    },
+    {
+      "id": "E",
+      "text": "Assume a smaller expected treatment effect in the sample size calculation"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "A p value of 0.30 in a tiny trial with a truly effective drug is the classic picture of a type II (false-negative) error caused by inadequate sample size. Because power increases with increased sample size ('there is power in numbers'), recruiting more participants is the most direct fix: it lowers the standard error and raises the probability of rejecting a false null hypothesis.",
+  "explanation_incorrect": {
+    "A": "Halving the sample size further decreases power and makes a false-negative result even more likely.",
+    "B": "Tightening alpha from 0.05 to 0.01 makes rejection of H0 harder, decreasing power and increasing the type II error rate.",
+    "C": "Increasing outcome variability (lower measurement precision) reduces power, since noisier data obscure real differences.",
+    "E": "Planning around a smaller effect size makes the study less able to detect the (real, but modest) treatment effect; power increases with larger expected effect size."
+  },
+  "educationalObjective": "Increasing sample size increases power and is the primary safeguard against type II (false-negative) errors in underpowered trials.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Statistical power"
+}
+]

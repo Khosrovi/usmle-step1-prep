@@ -1,0 +1,207 @@
+[
+{
+  "id": "phs-038",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Incidence vs prevalence",
+  "difficulty": "easy",
+  "vignette": "A survey of a stable community of 20,000 people identifies 500 residents with physician-diagnosed asthma at the time of the survey. Community health records show that 100 new cases of asthma were diagnosed among the population during the past year. A public health officer must report the burden of existing disease in the community.",
+  "question": "Which of the following is the prevalence of asthma in this community at the time of the survey?",
+  "options": [
+    {
+      "id": "A",
+      "text": "0.5%"
+    },
+    {
+      "id": "B",
+      "text": "5%"
+    },
+    {
+      "id": "C",
+      "text": "2.5%"
+    },
+    {
+      "id": "D",
+      "text": "25%"
+    },
+    {
+      "id": "E",
+      "text": "0.025%"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Prevalence is the number of existing cases in a population at a point in time divided by the total number of people in the population: 500/20,000 = 0.025 = 2.5%. Prevalence looks at all current cases (existing disease burden), whereas incidence counts only new cases occurring during a defined time period among people at risk.",
+  "explanation_incorrect": {
+    "A": "0.5% is the incidence of asthma during the year (100 new cases/20,000 people). Incidence counts new cases over a time period, whereas the question asks about all existing cases at a point in time.",
+    "B": "5% results from using a denominator of 10,000 (half the population) or otherwise doubling the true proportion. The correct calculation is 500 divided by the total population of 20,000.",
+    "D": "25% results from dividing by 2000 instead of 20,000, a denominator error of a factor of 10. The survey covered 20,000 people.",
+    "E": "0.025% is a decimal-place error: the correct proportion is 0.025, which equals 2.5%, not 0.025%."
+  },
+  "educationalObjective": "Prevalence = number of existing cases ÷ total population at a point in time, whereas incidence = number of new cases ÷ number of people at risk per unit of time.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Incidence vs prevalence"
+},
+{
+  "id": "phs-039",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Incidence vs prevalence",
+  "difficulty": "medium",
+  "vignette": "A new drug is introduced for a chronic disease. The drug does not prevent the disease from developing and does not cure it, but it markedly prolongs survival time after diagnosis. Public health officials must anticipate how the introduction of this drug will affect disease statistics in the population.",
+  "question": "How will the widespread use of this drug most likely affect the incidence and prevalence of the disease?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Incidence will increase and prevalence will increase."
+    },
+    {
+      "id": "B",
+      "text": "Incidence will decrease and prevalence will decrease."
+    },
+    {
+      "id": "C",
+      "text": "Incidence will increase and prevalence will remain unchanged."
+    },
+    {
+      "id": "D",
+      "text": "Incidence will remain unchanged and prevalence will increase."
+    },
+    {
+      "id": "E",
+      "text": "Incidence will decrease and prevalence will increase."
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Increased survival time with a disease that is neither prevented nor cured means patients live longer with the condition, so the number of existing cases in the population at any point in time (prevalence) increases. Because the drug does not affect the occurrence of new cases, the incidence remains unchanged. Per the standard situation table, increased survival time increases prevalence with no effect on incidence.",
+  "explanation_incorrect": {
+    "A": "Nothing in the intervention prevents new cases from developing, so incidence does not increase. Only prevalence rises, because patients live longer with the disease.",
+    "B": "Decreased prevalence would occur with faster recovery or increased mortality, both of which remove patients from the pool of existing cases. Prolonged survival has the opposite effect.",
+    "C": "An intervention that prolongs survival does not create new cases; incidence is unaffected. Only prevalence changes.",
+    "E": "A decrease in incidence would require an intervention that prevents new disease, such as vaccination or risk factor reduction. Prolonging survival time does not reduce the occurrence of new cases."
+  },
+  "educationalObjective": "Increased survival time in an uncured disease increases prevalence while leaving incidence unchanged.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Incidence vs prevalence"
+},
+{
+  "id": "phs-040",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Incidence vs prevalence",
+  "difficulty": "easy",
+  "vignette": "A nationwide program begins extensive administration of a new vaccine against a common viral illness. The vaccine prevents vaccinated individuals from developing the disease. Epidemiologists at the ministry of health are asked to predict the effect of the program on disease statistics over the following years.",
+  "question": "How will extensive vaccine administration most likely affect the incidence and prevalence of this viral illness?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Incidence will decrease and prevalence will decrease."
+    },
+    {
+      "id": "B",
+      "text": "Incidence will remain unchanged and prevalence will decrease."
+    },
+    {
+      "id": "C",
+      "text": "Incidence will increase and prevalence will increase."
+    },
+    {
+      "id": "D",
+      "text": "Incidence will decrease and prevalence will increase."
+    },
+    {
+      "id": "E",
+      "text": "Incidence will remain unchanged and prevalence will increase."
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Extensive vaccine administration decreases both incidence and prevalence. By preventing new infections, vaccination directly reduces the number of new cases (incidence). Fewer new cases entering the population in turn shrink the pool of existing cases over time (prevalence). This is one of the situations in the standard incidence/prevalence table in which both measures decrease.",
+  "explanation_incorrect": {
+    "B": "An intervention that prevents new disease cannot leave incidence unchanged; vaccination directly stops new cases from occurring, which then also lowers prevalence.",
+    "C": "Vaccination prevents disease rather than causing it, so neither measure increases. Increases in both occur with increased diagnostic sensitivity, not with vaccination.",
+    "D": "Prevalence cannot increase when fewer new cases are occurring. The pool of existing cases shrinks as new infections are prevented and existing cases resolve.",
+    "E": "Leaving incidence unchanged while prevalence increases describes a situation such as prolonged survival time in an incurable disease, which is the opposite of what vaccination does."
+  },
+  "educationalObjective": "Extensive vaccine administration decreases both the incidence and the prevalence of a vaccine-preventable disease.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Incidence vs prevalence"
+},
+{
+  "id": "phs-041",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Incidence vs prevalence",
+  "difficulty": "hard",
+  "vignette": "A relatively stable chronic disease has an incidence of 50 new cases per 100,000 people per year. Affected patients survive with the disease for an average of 4 years, and the disease neither quickly resolves nor is rapidly fatal. The health department estimates the disease burden in the population without performing a new survey.",
+  "question": "Which of the following is the best estimate of the prevalence of this disease?",
+  "options": [
+    {
+      "id": "A",
+      "text": "12.5 per 100,000"
+    },
+    {
+      "id": "B",
+      "text": "200 per 100,000"
+    },
+    {
+      "id": "C",
+      "text": "50 per 100,000"
+    },
+    {
+      "id": "D",
+      "text": "800 per 100,000"
+    },
+    {
+      "id": "E",
+      "text": "0.8 per 100,000"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Prevalence is approximately equal to the incidence multiplied by the average duration of the disease: prevalence ≈ incidence × duration. Here 50 per 100,000 per year × 4 years = 200 per 100,000. This relationship works well for chronic, stable diseases; for short-duration diseases such as the common cold, prevalence is approximately equal to incidence.",
+  "explanation_incorrect": {
+    "A": "12.5 per 100,000 results from dividing the incidence by the duration (50/4) instead of multiplying. The relationship is prevalence ≈ incidence × duration.",
+    "C": "50 per 100,000 is the incidence itself, left unchanged. Ignoring duration is appropriate only for very short-duration diseases such as the common cold, not for a chronic disease lasting 4 years.",
+    "D": "800 per 100,000 results from multiplying by the wrong duration (8 years instead of 4), doubling the true prevalence estimate.",
+    "E": "0.8 per 100,000 is a decimal-place error arising from mishandling the per-100,000 units during the multiplication."
+  },
+  "educationalObjective": "Prevalence ≈ incidence × average duration of disease; prevalence exceeds incidence for chronic diseases and approximates incidence for short-duration diseases.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Incidence vs prevalence"
+},
+{
+  "id": "phs-042",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Incidence vs prevalence",
+  "difficulty": "medium",
+  "vignette": "A medical student notices that for diabetes, the prevalence in the population is many times higher than the annual incidence, whereas for the common cold, the prevalence and incidence are approximately equal. The student asks the attending physician to explain this difference.",
+  "question": "Which of the following best explains why the prevalence of diabetes greatly exceeds its incidence?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Diabetes has a high case fatality rate, which inflates the count of existing cases."
+    },
+    {
+      "id": "B",
+      "text": "Incidence counts all existing cases of diabetes in the population, including long-standing ones."
+    },
+    {
+      "id": "C",
+      "text": "Prevalence counts only the new cases of diabetes diagnosed each year."
+    },
+    {
+      "id": "D",
+      "text": "The short duration of diabetes causes cases to accumulate in the population."
+    },
+    {
+      "id": "E",
+      "text": "Prevalence reflects the large number of existing cases accumulated because of the long duration of the disease."
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Prevalence ≈ incidence × duration of the disease. Diabetes is a chronic disease with a long average duration, so cases accumulate over many years and prevalence is much greater than incidence, as seen in the classic example of diabetes. By contrast, for short-duration diseases such as the common cold, cases resolve quickly and prevalence is approximately equal to incidence.",
+  "explanation_incorrect": {
+    "A": "A high case fatality rate would shorten the time patients live with the disease, tending to lower prevalence. Diabetes is chronic and long-lasting, which is what drives up prevalence.",
+    "B": "This reverses the definitions. Incidence counts only new cases arising during a time period among people at risk; prevalence counts all existing cases at a point in time.",
+    "C": "This also reverses the definitions. Prevalence looks at all current cases in the population, whereas incidence looks at new cases (incidents).",
+    "D": "Diabetes is a chronic disease with a long duration, not a short one. It is short-duration diseases, such as the common cold, for which prevalence approximates incidence."
+  },
+  "educationalObjective": "Prevalence exceeds incidence in chronic diseases because prevalence ≈ incidence × duration, whereas prevalence ≈ incidence for short-duration diseases such as the common cold.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Incidence vs prevalence"
+}
+]

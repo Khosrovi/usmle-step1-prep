@@ -1,0 +1,248 @@
+[
+{
+  "id": "phs-089",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Hypothesis testing, p value, and type I/II errors",
+  "difficulty": "easy",
+  "vignette": "A randomized trial compares a new antihypertensive drug with placebo in 400 adults. After 12 weeks, the mean systolic blood pressure is 12 mm Hg lower in the treatment group, and the reported p value is 0.03.",
+  "question": "Which of the following best describes the meaning of the p value in this study?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The probability of obtaining test results at least as extreme as those observed, assuming that the null hypothesis is correct"
+    },
+    {
+      "id": "B",
+      "text": "The probability that the null hypothesis is true"
+    },
+    {
+      "id": "C",
+      "text": "The probability that the study committed a type II error"
+    },
+    {
+      "id": "D",
+      "text": "The probability that the observed difference is clinically significant"
+    },
+    {
+      "id": "E",
+      "text": "The probability that the alternative hypothesis is correct"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "The p value is the probability of obtaining results at least as extreme as those observed in the sample, assuming the null hypothesis (H0: no difference between groups) is correct. A p value of 0.03 means that if there were truly no effect of the drug, fewer than 5% of repeated samples would show a difference this large by chance alone. Because 0.03 is less than the conventional alpha of 0.05, H0 is rejected in favor of the alternative hypothesis. The p value says nothing about the truth of either hypothesis or about clinical importance.",
+  "explanation_incorrect": {
+    "B": "The p value is not the probability that H0 is true; it is calculated by assuming H0 is already correct and asks how unusual the data would be under that assumption.",
+    "C": "The probability of a type II error (false negative) is beta, a separate quantity related to statistical power, not the p value.",
+    "D": "Statistical significance (the p value) is distinct from clinical significance, which concerns the size and importance of the treatment effect on patient outcomes.",
+    "E": "A p value cannot be the probability that H1 is true; hypothesis testing never proves H1, it only allows H0 to be rejected as unlikely."
+  },
+  "educationalObjective": "The p value is the probability of results at least as extreme as those observed assuming the null hypothesis is correct, with 0.05 conventionally accepted as statistically significant.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Hypothesis testing, p value, and type I/II errors"
+},
+{
+  "id": "phs-090",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Hypothesis testing, p value, and type I/II errors",
+  "difficulty": "medium",
+  "vignette": "A randomized controlled trial evaluates a new thrombolytic agent for acute ischemic stroke. The analysis finds no statistically significant difference in 90-day mortality between the drug and placebo groups (p = 0.20), so the investigators conclude the drug has no effect. In reality, the drug does reduce mortality.",
+  "question": "Which of the following best characterizes the error made by the investigators?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A type I error, because the null hypothesis was incorrectly rejected in favor of the alternative"
+    },
+    {
+      "id": "B",
+      "text": "Alpha, the preselected probability threshold for declaring significance"
+    },
+    {
+      "id": "C",
+      "text": "Statistical power, because the study failed to detect a real difference"
+    },
+    {
+      "id": "D",
+      "text": "A type II error, because the null hypothesis was not rejected even though it is false"
+    },
+    {
+      "id": "E",
+      "text": "Selection bias, because the enrolled patients did not represent the target population"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Stating that there is no effect when one actually exists is a type II (false-negative) error: the study did not reject H0 when H0 is in fact false. Its probability is beta, and beta is inversely related to statistical power (1 - beta). Small sample sizes are a common cause, because inadequate numbers of participants reduce the chance of detecting a true difference. This is the 'second time the boy cries wolf': the town (the investigators) believes there is no wolf (no effect), but there is one.",
+  "explanation_incorrect": {
+    "A": "A type I error is the opposite mistake: rejecting H0 and declaring an effect exists when none does. Here the investigators failed to find an effect that does exist.",
+    "B": "Alpha is the significance threshold chosen in advance (usually 0.05) and is the probability of a type I error; it is not the error committed in this scenario.",
+    "C": "Power (1 - beta) is the probability of correctly rejecting H0 when it is false. Low power explains why the error occurred, but power itself is not the name of the error.",
+    "E": "Selection bias concerns how patients were chosen and affects validity, but the described problem is a statistical inference error about detecting a true difference, not a sampling or enrollment flaw."
+  },
+  "educationalObjective": "A type II (false-negative) error occurs when a study fails to reject the null hypothesis even though a real effect or difference exists.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Hypothesis testing, p value, and type I/II errors"
+},
+{
+  "id": "phs-091",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Hypothesis testing, p value, and type I/II errors",
+  "difficulty": "medium",
+  "vignette": "A clinical trial tests an unproven herbal supplement for lowering LDL cholesterol. The analysis yields p = 0.04, and the investigators announce that the supplement works. Subsequent replication attempts show the supplement has, in fact, no effect on LDL cholesterol.",
+  "question": "The investigators' original conclusion best represents which of the following?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A type II error, in which the null hypothesis was not rejected when it was false"
+    },
+    {
+      "id": "B",
+      "text": "A type I (false-positive) error, in which the null hypothesis was incorrectly rejected in favor of the alternative"
+    },
+    {
+      "id": "C",
+      "text": "High statistical power, because the study detected a significant difference"
+    },
+    {
+      "id": "D",
+      "text": "A p value error, in which the significance level was set too high before the trial"
+    },
+    {
+      "id": "E",
+      "text": "A correct result, because the p value was below the conventional alpha of 0.05"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Concluding that an effect exists when none actually exists is a type I (false-positive) error: H0 (no difference) was incorrectly rejected in favor of H1. Alpha is the probability of making this error, usually set at 0.05; because p = 0.04 < alpha, the investigators rejected H0, but the supplement truly has no effect, so the rejection was wrong. This mirrors the first time the boy cries wolf: the town believes there is a wolf when there is not. Note that a low p value alone does not prove H1; you can only reject H0 as very unlikely, never 'prove' the alternative.",
+  "explanation_incorrect": {
+    "A": "A type II error is failing to detect an effect that exists (false negative); here the investigators claimed an effect that does not exist.",
+    "C": "Power is the probability of correctly rejecting a false H0; since the supplement truly has no effect, this result represents an incorrect rejection, not power.",
+    "D": "The alpha level chosen (0.05) was conventional and not itself the problem; the error lies in the conclusion that a nonexistent effect is real.",
+    "E": "Although the procedure followed the p < alpha decision rule, the conclusion turned out to be false, which is precisely what a type I error is."
+  },
+  "educationalObjective": "A type I (false-positive) error occurs when a study incorrectly rejects the null hypothesis and states an effect exists when none does.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Hypothesis testing, p value, and type I/II errors"
+},
+{
+  "id": "phs-092",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Hypothesis testing, p value, and type I/II errors",
+  "difficulty": "hard",
+  "vignette": "A journal reviewer is evaluating a trial of a new statin in which the primary outcome yielded p = 0.04 and the prespecified significance level (alpha) was 0.05. The reviewer asks the investigators to justify their decision to reject the null hypothesis.",
+  "question": "Which statement provides the most accurate justification for rejecting the null hypothesis in this study?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A p value of 0.04 means there is a 4% probability that the null hypothesis is true, which is small enough to discard it"
+    },
+    {
+      "id": "B",
+      "text": "The p value is smaller than alpha, so the alternative hypothesis has been proven correct"
+    },
+    {
+      "id": "C",
+      "text": "The p value indicates that only 4% of the patients in the sample responded to treatment"
+    },
+    {
+      "id": "D",
+      "text": "The p value is the probability of having made a type II error, which is below the acceptable limit"
+    },
+    {
+      "id": "E",
+      "text": "Assuming the null hypothesis is true, the probability of obtaining results this extreme is less than the probability of a type I error, so the null hypothesis is rejected as false"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Alpha is the probability of a type I error (usually 0.05). When p < alpha, then—assuming H0 is true—the probability of obtaining the observed test results would be less than the probability of making a type I error; H0 is therefore rejected as false. This is the formal logic connecting the p value to the significance threshold. Importantly, this is a probabilistic argument: H0 is rejected as very unlikely, but H1 is never 'proven,' and a type I error remains possible.",
+  "explanation_incorrect": {
+    "A": "The p value is computed assuming H0 is true; it cannot itself be the probability that H0 is true.",
+    "B": "Hypothesis testing never proves H1; it only allows H0 to be rejected as being very unlikely, and a type I error can still have occurred.",
+    "C": "The p value is a statement about how extreme the results would be by chance under H0, not the fraction of patients who responded.",
+    "D": "The probability of a type II error is beta, a quantity related to statistical power (1 - beta), and it is not what the p value measures."
+  },
+  "educationalObjective": "H0 is rejected when p < alpha, because under a true null hypothesis the chance of results this extreme would be smaller than the tolerated risk of a type I error.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Hypothesis testing, p value, and type I/II errors"
+},
+{
+  "id": "phs-093",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Hypothesis testing, p value, and type I/II errors",
+  "difficulty": "medium",
+  "vignette": "An investigator designs a case-control study to examine the relationship between coffee consumption and pancreatic cancer. Before analyzing the data, she must formally state the null and alternative hypotheses for the association being tested.",
+  "question": "Which of the following statements represents the null hypothesis (H0) for this study?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Coffee consumption is associated with an increased risk of pancreatic cancer in the study sample"
+    },
+    {
+      "id": "B",
+      "text": "There is at least some association between coffee consumption and pancreatic cancer in the population"
+    },
+    {
+      "id": "C",
+      "text": "There is zero association between coffee consumption and pancreatic cancer in the population"
+    },
+    {
+      "id": "D",
+      "text": "Coffee consumption protects against pancreatic cancer, and this protection will reach statistical significance"
+    },
+    {
+      "id": "E",
+      "text": "The probability of observing the study data under the assumption of no association is less than 0.05"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "The null hypothesis (H0) is the hypothesis of no difference or no association—for example, that there is zero association between disease and risk factor in the population. Statistical testing begins from this position, and the p value is computed assuming H0 is correct. Only if the data are sufficiently extreme (p < alpha) is H0 rejected in favor of the alternative hypothesis.",
+  "explanation_incorrect": {
+    "A": "An increased risk in the study sample is an observed finding, not the null hypothesis; the null is a statement about the population assumed true before testing.",
+    "B": "This is the alternative hypothesis (H1), which states that at least one difference or relationship exists.",
+    "D": "A protective effect is a specific directional alternative hypothesis, not the hypothesis of no association being tested.",
+    "E": "This describes a p value threshold decision rule, not the null hypothesis itself."
+  },
+  "educationalObjective": "The null hypothesis (H0) states there is no difference or association in the population, while the alternative hypothesis (H1) states that at least one difference or relationship exists.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Hypothesis testing, p value, and type I/II errors"
+},
+{
+  "id": "phs-094",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Hypothesis testing, p value, and type I/II errors",
+  "difficulty": "medium",
+  "vignette": "A research team plans a phase III drug trial and debates the significance threshold. To be extra conservative about declaring a false-positive result, the investigators lower alpha from 0.05 to 0.001 before the trial begins.",
+  "question": "Which of the following is the most likely consequence of lowering alpha from 0.05 to 0.001?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The type II error rate will decrease"
+    },
+    {
+      "id": "B",
+      "text": "The type II error rate will increase"
+    },
+    {
+      "id": "C",
+      "text": "The statistical power of the study will increase"
+    },
+    {
+      "id": "D",
+      "text": "The type I and type II error rates will both remain unchanged, since they are independent"
+    },
+    {
+      "id": "E",
+      "text": "The type I error rate will increase"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Generally, when the type I error rate increases, the type II error rate decreases—and conversely, tightening alpha (making type I error less likely, as from 0.05 to 0.001) makes it harder to reject H0, so the type II error rate increases. This is the trade-off at the heart of hypothesis testing: a more stringent standard for declaring significance protects against false positives at the cost of more false negatives.",
+  "explanation_incorrect": {
+    "A": "Lowering alpha makes rejection of H0 less likely, so failures to reject a false H0 become more common; the type II error rate rises rather than falls.",
+    "C": "Power (1 - beta) increases when alpha is raised, not lowered; tightening alpha reduces power.",
+    "D": "The two error rates are not independent: they trade off against each other, with an increase in one generally accompanying a decrease in the other.",
+    "E": "Lowering alpha by definition reduces the probability of a type I (false-positive) error."
+  },
+  "educationalObjective": "Type I and type II errors generally move in opposite directions: lowering alpha decreases false positives but increases beta, and increasing alpha does the reverse.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Hypothesis testing, p value, and type I/II errors"
+}
+]

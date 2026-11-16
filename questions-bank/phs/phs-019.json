@@ -1,0 +1,207 @@
+[
+{
+  "id": "phs-196",
+  "subject": "PHS",
+  "major_topic": "Healthcare Delivery",
+  "subtopic": "Health insurance plans",
+  "difficulty": "easy",
+  "vignette": "A 29-year-old woman is selecting an insurance plan on the marketplace. She is healthy, wants the lowest monthly premium and lowest out-of-pocket costs, and does not mind that she must choose physicians within a specified network and obtain a referral from her primary care physician to see a specialist.",
+  "question": "Which of the following plans best matches this patient's priorities?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Exclusive provider organization (EPO)"
+    },
+    {
+      "id": "B",
+      "text": "Health maintenance organization (HMO)"
+    },
+    {
+      "id": "C",
+      "text": "Preferred provider organization (PPO)"
+    },
+    {
+      "id": "D",
+      "text": "High deductible health plan (HDHP)"
+    },
+    {
+      "id": "E",
+      "text": "Accountable care organization (ACO)"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "A health maintenance organization (HMO) is characterized by lower premiums, care limited to in-network providers, a requirement for primary care referral to see specialists, and lower out-of-pocket cost. This patient explicitly accepts network restriction and referral requirements in exchange for low premium and low out-of-pocket cost, which is the HMO trade-off. Every listed feature maps directly onto the HMO definition.",
+  "explanation_incorrect": {
+    "A": "An EPO requires in-network care with out-of-network coverage reserved for emergencies, but it is not characterized by the referral requirement and is not the plan defined by lowest out-of-pocket cost paired with gatekeeping.",
+    "C": "A PPO offers flexibility with both in-network and out-of-network care and requires no referral, but it carries higher costs — the opposite of this patient's low-premium, low-out-of-pocket priority.",
+    "D": "An HDHP has low premiums but deliberately high out-of-pocket costs and is designed to pair with a health savings account. This patient wants low out-of-pocket spending, so an HDHP is a mismatch.",
+    "E": "An ACO is a group of providers who voluntarily coordinate care for Medicare patients — it is a provider arrangement, not an individual insurance plan selected on a marketplace."
+  },
+  "educationalObjective": "HMOs trade flexibility for cost: lower premiums and lower out-of-pocket costs, in-network providers only, and a primary care referral requirement for specialists.",
+  "source": "Generated from 6. PHS.pdf - Healthcare Delivery: Health insurance plans"
+},
+{
+  "id": "phs-197",
+  "subject": "PHS",
+  "major_topic": "Healthcare Delivery",
+  "subtopic": "Health insurance plans",
+  "difficulty": "medium",
+  "vignette": "A 46-year-old consultant who travels frequently wants a plan that lets her see an out-of-network rheumatologist she has trusted for years without obtaining a referral from a primary care physician. She understands she will pay more for out-of-network services and is willing to accept that trade-off.",
+  "question": "Which of the following plans best matches this patient's priorities?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Health maintenance organization (HMO)"
+    },
+    {
+      "id": "B",
+      "text": "Exclusive provider organization (EPO)"
+    },
+    {
+      "id": "C",
+      "text": "Point of service (PoS) plan"
+    },
+    {
+      "id": "D",
+      "text": "Accountable care organization (ACO)"
+    },
+    {
+      "id": "E",
+      "text": "Preferred provider organization (PPO)"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "A preferred provider organization (PPO) provides flexibility to use both in-network and out-of-network care, charges higher cost for out-of-network services, and has no referral requirement. This patient wants exactly that package: out-of-network access without gatekeeping, accepting the higher cost. The PPO is defined by flexibility at a price rather than by restriction at a discount.",
+  "explanation_incorrect": {
+    "A": "An HMO limits care to in-network providers and requires primary care referrals for specialists, which directly contradicts both of this patient's requirements.",
+    "B": "An EPO requires in-network care and covers out-of-network services only for emergencies, so routine out-of-network rheumatology visits would not be covered.",
+    "C": "A PoS plan allows out-of-network care at higher cost but requires primary care referrals; because this patient refuses the referral requirement, PoS only half-fits.",
+    "D": "An ACO is a group of providers voluntarily coordinating care for Medicare patients, not an insurance product an individual consultant would purchase for out-of-network flexibility."
+  },
+  "educationalObjective": "PPOs offer maximal flexibility — in- and out-of-network care with no referral needed — in exchange for higher out-of-network costs.",
+  "source": "Generated from 6. PHS.pdf - Healthcare Delivery: Health insurance plans"
+},
+{
+  "id": "phs-198",
+  "subject": "PHS",
+  "major_topic": "Healthcare Delivery",
+  "subtopic": "Health insurance plans",
+  "difficulty": "hard",
+  "vignette": "A 38-year-old man reviews his employer's benefit summary. His plan requires him to obtain a referral from his primary care physician before seeing a specialist. However, unlike his previous plan, it permits him to self-refer to an out-of-network dermatologist if he pays a substantially higher share of the cost.",
+  "question": "Which type of insurance plan is this patient most likely enrolled in?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Exclusive provider organization (EPO)"
+    },
+    {
+      "id": "B",
+      "text": "Health maintenance organization (HMO)"
+    },
+    {
+      "id": "C",
+      "text": "Point of service (PoS) plan"
+    },
+    {
+      "id": "D",
+      "text": "Preferred provider organization (PPO)"
+    },
+    {
+      "id": "E",
+      "text": "High deductible health plan (HDHP)"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "A point of service (PoS) plan is a combination of HMO and PPO features: it requires primary care referrals (the HMO element) while allowing out-of-network care at higher cost (the PPO element). This patient's plan has both hallmarks simultaneously — mandatory referral plus permitted but costlier out-of-network access — which is the defining PoS signature. Neither pure HMO nor pure PPO shows this exact combination.",
+  "explanation_incorrect": {
+    "A": "An EPO requires in-network care, with out-of-network coverage available only for emergencies; it does not permit routine out-of-network dermatology care at a higher patient share.",
+    "B": "An HMO is limited to in-network providers and requires referrals, but it does not allow out-of-network care at higher cost — the out-of-network allowance rules it out.",
+    "D": "A PPO permits out-of-network care at higher cost but does not require a referral; the mandatory primary care referral in this vignette excludes PPO.",
+    "E": "An HDHP is defined by low premiums and high out-of-pocket costs with health savings account compatibility; the vignette describes network and referral features, not deductible structure."
+  },
+  "educationalObjective": "A PoS plan mixes HMO and PPO features: primary care referrals are required, but out-of-network care is allowed at higher cost.",
+  "source": "Generated from 6. PHS.pdf - Healthcare Delivery: Health insurance plans"
+},
+{
+  "id": "phs-199",
+  "subject": "PHS",
+  "major_topic": "Healthcare Delivery",
+  "subtopic": "Health insurance plans",
+  "difficulty": "medium",
+  "vignette": "A 34-year-old woman with an exclusive provider organization (EPO) plan is injured in a motor vehicle collision while traveling out of state. She is taken to the nearest community hospital, which is out of network, and receives emergency surgery. She calls her plan's service line afterward, worried about the bills.",
+  "question": "Which of the following is the most appropriate response regarding her coverage?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Her emergency out-of-network care will be covered, because EPO plans make an exception for emergencies."
+    },
+    {
+      "id": "B",
+      "text": "Her claims will be denied, because EPO plans never cover out-of-network services under any circumstances."
+    },
+    {
+      "id": "C",
+      "text": "She will be covered only if her primary care physician had preauthorized the emergency department visit."
+    },
+    {
+      "id": "D",
+      "text": "She will be covered only if she transfers her care to an accountable care organization within 72 hours."
+    },
+    {
+      "id": "E",
+      "text": "She must pay the entire bill personally and seek reimbursement from a preferred provider organization."
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "EPO plans require in-network care, with out-of-network coverage available for emergencies. Because this patient had a true emergency that forced her to an out-of-network hospital, her emergency care falls squarely within the EPO's stated exception. This is the single carve-out that distinguishes EPO from absolute in-network restriction.",
+  "explanation_incorrect": {
+    "B": "EPO plans do cover out-of-network services in one defined circumstance — emergencies — so an absolute denial is incorrect. Routine, nonemergent out-of-network care is what EPOs exclude.",
+    "C": "Preauthorization by a primary care physician is not part of the EPO framework, and requiring preauthorization for emergency care would defeat the purpose of the emergency exception.",
+    "D": "An accountable care organization is a group of providers that voluntarily coordinates care for Medicare patients; it is not a coverage mechanism a patient can transfer into within a time window to rescue a claim.",
+    "E": "A preferred provider organization is a different plan type that this patient never enrolled in; a PPO has no obligation to reimburse an EPO member's costs."
+  },
+  "educationalObjective": "EPO plans require in-network care except for emergencies, when out-of-network coverage is available.",
+  "source": "Generated from 6. PHS.pdf - Healthcare Delivery: Health insurance plans"
+},
+{
+  "id": "phs-200",
+  "subject": "PHS",
+  "major_topic": "Healthcare Delivery",
+  "subtopic": "Health insurance plans",
+  "difficulty": "medium",
+  "vignette": "A healthy 27-year-old software engineer is choosing a health plan during open enrollment. He wants to minimize his monthly premium, is comfortable paying more out of pocket if he does need care, and would like to pair his plan with a tax-advantaged savings account he can invest in over time.",
+  "question": "Which of the following plans best matches this patient's priorities?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Health maintenance organization (HMO)"
+    },
+    {
+      "id": "B",
+      "text": "Preferred provider organization (PPO)"
+    },
+    {
+      "id": "C",
+      "text": "Exclusive provider organization (EPO)"
+    },
+    {
+      "id": "D",
+      "text": "High deductible health plan (HDHP)"
+    },
+    {
+      "id": "E",
+      "text": "Accountable care organization (ACO)"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "A high deductible health plan (HDHP) features low premiums and high out-of-pocket cost, and is compatible with a health savings account (HSA) — the tax-advantaged savings vehicle this patient wants. For a young, healthy enrollee who expects little utilization, trading high out-of-pocket exposure for low premiums and HSA eligibility is the classic HDHP use case. All three of his stated priorities map onto the HDHP definition.",
+  "explanation_incorrect": {
+    "A": "An HMO has lower premiums and lower out-of-pocket cost but restricts care to in-network providers and requires primary care referrals; it is not characterized by health savings account compatibility.",
+    "B": "A PPO prioritizes flexibility with no referral requirement but carries higher costs; it does not specifically offer the low-premium, HSA-compatible structure the patient seeks.",
+    "C": "An EPO requires in-network care except for emergencies and is defined by network restriction, not by premium level or health savings account compatibility.",
+    "E": "An ACO is a group of providers who voluntarily coordinate care for Medicare patients — a provider-side arrangement, not an individual market plan with an HSA option."
+  },
+  "educationalObjective": "HDHPs pair low premiums and high out-of-pocket costs with health savings account (HSA) compatibility, suiting young, healthy enrollees.",
+  "source": "Generated from 6. PHS.pdf - Healthcare Delivery: Health insurance plans"
+}
+]

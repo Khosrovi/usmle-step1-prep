@@ -1,0 +1,248 @@
+[
+{
+  "id": "phs-022",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Odds ratio and relative risk (2x2 tables)",
+  "difficulty": "easy",
+  "vignette": "Investigators conduct a case-control study of lung cancer. Among 30 patients with lung cancer, 20 report a history of smoking. Among 25 healthy controls, 5 report a history of smoking. Using the 2x2 table with a = exposed cases (20), b = exposed controls (5), c = unexposed cases (10), and d = unexposed controls (20), the investigators calculate the odds ratio.",
+  "question": "Which of the following is the correct odds ratio for the association between smoking and lung cancer in this study?",
+  "options": [
+    {
+      "id": "A",
+      "text": "0.5"
+    },
+    {
+      "id": "B",
+      "text": "1.67"
+    },
+    {
+      "id": "C",
+      "text": "8"
+    },
+    {
+      "id": "D",
+      "text": "2"
+    },
+    {
+      "id": "E",
+      "text": "0.125"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "In a case-control study, the odds ratio is calculated as OR = ad/bc, the cross-product ratio of the 2x2 table. Here OR = (20 × 20)/(5 × 10) = 400/50 = 8. An OR of 8 means that patients with lung cancer have 8 times greater odds of having a history of smoking than controls. Case-control studies use the odds ratio because participants are recruited on the basis of disease status, so disease risk cannot be computed directly.",
+  "explanation_incorrect": {
+    "A": "0.5 results from multiplying the wrong cells, (a × b)/(c × d) = 100/200. The odds ratio requires the cross-products ad/bc, not the product of the cells within each row divided by the product within each column pair.",
+    "B": "1.67 comes from incorrectly applying the relative risk formula, [a/(a+b)] ÷ [c/(c+d)] = (20/30) ÷ (10/25) = 0.67 ÷ 0.40. Relative risk cannot be calculated in a case-control study because participants are sampled by disease status, not exposure.",
+    "D": "2 is the odds of exposure among cases alone (a/c = 20/10). The odds ratio must compare the odds of exposure in cases to the odds of exposure in controls, not report the cases' odds in isolation.",
+    "E": "0.125 is the inverse of the correct answer, computed as bc/ad = 50/400. Inverting the cross-products reverses the direction of the association; the correct orientation places the exposed cases and unexposed controls in the numerator."
+  },
+  "educationalObjective": "In case-control studies, compute the odds ratio as ad/bc from the 2x2 table and interpret it as the odds of exposure in cases relative to controls.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Odds ratio and relative risk (2x2 tables)"
+},
+{
+  "id": "phs-023",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Odds ratio and relative risk (2x2 tables)",
+  "difficulty": "medium",
+  "vignette": "A cohort study follows 100 workers exposed to an industrial solvent and 200 unexposed workers for 10 years. During follow-up, 40 of the exposed workers (a = 40, b = 60) and 20 of the unexposed workers (c = 20, d = 180) develop liver disease. The investigators report the measure of association appropriate for this study design.",
+  "question": "Which of the following is the relative risk for developing liver disease associated with solvent exposure in this cohort?",
+  "options": [
+    {
+      "id": "A",
+      "text": "4"
+    },
+    {
+      "id": "B",
+      "text": "6"
+    },
+    {
+      "id": "C",
+      "text": "0.25"
+    },
+    {
+      "id": "D",
+      "text": "0.3"
+    },
+    {
+      "id": "E",
+      "text": "0.4"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "In a cohort study, the relative risk is the incidence of disease in the exposed group divided by the incidence in the unexposed group: RR = [a/(a+b)] ÷ [c/(c+d)]. Here the risk in exposed workers is 40/100 = 0.4 and the risk in unexposed workers is 20/200 = 0.1, so RR = 0.4/0.1 = 4. Exposed workers have a 4 times greater risk of developing liver disease than unexposed workers.",
+  "explanation_incorrect": {
+    "B": "6 is the odds ratio, ad/bc = (40 × 180)/(60 × 20) = 7200/1200. The odds ratio is the measure for case-control studies; for this cohort study the appropriate measure is the ratio of the two disease risks, which is 4.",
+    "C": "0.25 is the inverted ratio, the risk in unexposed workers divided by the risk in exposed workers (0.1/0.4). Relative risk is defined as risk in the exposed divided by risk in the unexposed, so inverting it reverses the direction of the association.",
+    "D": "0.3 is the attributable risk, the difference in risk between the two groups (0.4 − 0.1). Attributable risk is an absolute difference in incidence, whereas the question asks for the ratio of risks.",
+    "E": "0.4 is the risk of liver disease in the exposed group alone (40/100). Relative risk requires comparing this risk with the risk in the unexposed group, not reporting the exposed group's risk by itself."
+  },
+  "educationalObjective": "In cohort studies, compute relative risk as the disease incidence in the exposed group divided by the incidence in the unexposed group.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Odds ratio and relative risk (2x2 tables)"
+},
+{
+  "id": "phs-024",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Odds ratio and relative risk (2x2 tables)",
+  "difficulty": "medium",
+  "vignette": "A case-control study examines pesticide exposure and non-Hodgkin lymphoma. The calculated odds ratio is 0.4. The investigators must describe what this value means when they present their findings.",
+  "question": "Which of the following is the most appropriate interpretation of an odds ratio of 0.4 in this case-control study?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The odds of exposure are equal in cases and controls."
+    },
+    {
+      "id": "B",
+      "text": "The odds of exposure are greater among cases than among controls."
+    },
+    {
+      "id": "C",
+      "text": "Cases have 40% higher odds of pesticide exposure than controls."
+    },
+    {
+      "id": "D",
+      "text": "The risk of lymphoma is 0.4 times greater in exposed versus unexposed individuals."
+    },
+    {
+      "id": "E",
+      "text": "The odds of exposure are greater among controls than among cases."
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "An OR < 1 means the odds of exposure are greater in controls than in cases, indicating that the exposure is associated with decreased occurrence of disease (a negative or apparently protective association). An OR of exactly 1 would indicate equal odds of exposure in cases and controls, and an OR > 1 would indicate greater odds of exposure among cases. Because this is a case-control study, the correct interpretation is framed in terms of the odds of exposure, not the risk of disease.",
+  "explanation_incorrect": {
+    "A": "Equal odds of exposure in cases and controls corresponds to OR = 1, which indicates no association. The observed value of 0.4 is well below 1.",
+    "B": "Greater odds of exposure among cases corresponds to an OR > 1, indicating a positive association between exposure and disease. This is the opposite direction of the observed value.",
+    "C": "An OR of 0.4 does not mean cases have higher odds; it means cases have lower odds of exposure than controls (specifically, 0.4 times the odds of controls).",
+    "D": "Framing the result as the risk of disease in exposed versus unexposed individuals is the interpretation of a relative risk from a cohort study. In a case-control study, participants are selected by disease status, so only the odds of exposure can be compared."
+  },
+  "educationalObjective": "Interpret OR < 1 as greater odds of exposure among controls (decreased disease occurrence), OR = 1 as no association, and OR > 1 as greater odds of exposure among cases.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Odds ratio and relative risk (2x2 tables)"
+},
+{
+  "id": "phs-025",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Odds ratio and relative risk (2x2 tables)",
+  "difficulty": "medium",
+  "vignette": "A case-control study evaluates a newly described exposure and a disease that occurs in only 0.02% of the population. The study finds an odds ratio of 9 for the association between the exposure and the disease. A colleague asks what value this odds ratio approximates for the general population.",
+  "question": "For this rare disease, the odds ratio of 9 from the case-control study best approximates which of the following values?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A relative risk of 0.11"
+    },
+    {
+      "id": "B",
+      "text": "A relative risk of 9"
+    },
+    {
+      "id": "C",
+      "text": "A relative risk of 81"
+    },
+    {
+      "id": "D",
+      "text": "A relative risk of 0.89"
+    },
+    {
+      "id": "E",
+      "text": "No estimate of relative risk can be derived from a case-control study"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "For rare diseases (low prevalence), the odds ratio approximates the relative risk. This is because when the disease is rare, the odds of disease among the exposed (a/b) and unexposed (c/d) are very close to the risks of disease [a/(a+b) and c/(c+d)], so ad/bc ≈ [a/(a+b)] ÷ [c/(c+d)]. Therefore, an OR of 9 in this study of a rare disease corresponds to a relative risk of approximately 9, meaning exposed individuals have about 9 times the risk of disease.",
+  "explanation_incorrect": {
+    "A": "0.11 (1/9) is the reciprocal of the correct value. Inverting the ratio reverses the direction of the association; the exposure is associated with increased, not decreased, risk.",
+    "C": "81 (9 squared) has no basis in the relationship between odds ratio and relative risk. The approximation is direct, not exponential.",
+    "D": "0.89 (1 − 1/9) confuses the odds ratio with relative risk reduction, which is calculated as 1 − RR for an intervention effect, not as a transformation of a case-control odds ratio.",
+    "E": "Although a cohort study is needed to measure relative risk directly, First Aid and standard epidemiology hold that for rare diseases the OR approximates the RR, so an estimate can be derived from this case-control result."
+  },
+  "educationalObjective": "For rare diseases (low prevalence), the odds ratio from a case-control study approximates the relative risk that would be obtained from a cohort study.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Odds ratio and relative risk (2x2 tables)"
+},
+{
+  "id": "phs-026",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Odds ratio and relative risk (2x2 tables)",
+  "difficulty": "hard",
+  "vignette": "Investigators recruit 30 patients with pancreatic cancer and 30 matched controls without pancreatic cancer. They interview all participants about prior occupational asbestos exposure: 12 of the cases and 6 of the controls report exposure (a = 12, b = 6, c = 18, d = 24). The team must choose the correct measure and compute it.",
+  "question": "Which of the following is the most appropriate measure of the association between asbestos exposure and pancreatic cancer in this study?",
+  "options": [
+    {
+      "id": "A",
+      "text": "0.375"
+    },
+    {
+      "id": "B",
+      "text": "2.0"
+    },
+    {
+      "id": "C",
+      "text": "0.25"
+    },
+    {
+      "id": "D",
+      "text": "2.67"
+    },
+    {
+      "id": "E",
+      "text": "1.5"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Because participants were selected on the basis of disease status (cases and controls) and exposure was ascertained retrospectively, this is a case-control study, and the appropriate measure is the odds ratio. OR = ad/bc = (12 × 24)/(6 × 18) = 288/108 = 2.67. Patients with pancreatic cancer have approximately 2.7 times greater odds of prior asbestos exposure than controls.",
+  "explanation_incorrect": {
+    "A": "0.375 is the inverse of the correct answer, bc/ad = 108/288. Inverting the cross-products reverses the direction of the association and places the wrong cells in the numerator and denominator.",
+    "B": "2.0 comes from applying the relative risk formula, [a/(a+b)] ÷ [c/(c+d)] = (12/30) ÷ (6/30). Relative risk is inappropriate here because the disease status of participants was fixed at enrollment in a case-control design, so disease risks cannot be computed.",
+    "C": "0.25 is the odds of exposure among controls alone (b/d = 6/24). The odds ratio must compare the odds of exposure in cases with the odds in controls, not report the controls' odds in isolation.",
+    "E": "1.5 results from multiplying the wrong cells, (a × c)/(b × d) = 216/144. The odds ratio uses the cross-products of the 2x2 table (ad and bc), not the products of the cells within each row and column."
+  },
+  "educationalObjective": "When participants are recruited by disease status (case-control design), the odds ratio (OR = ad/bc) is the appropriate measure of association, not the relative risk.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Odds ratio and relative risk (2x2 tables)"
+},
+{
+  "id": "phs-027",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Odds ratio and relative risk (2x2 tables)",
+  "difficulty": "medium",
+  "vignette": "A case-control study of childhood leukemia examines residential pesticide exposure. Among 50 children with leukemia, 35 had prior household pesticide exposure; among 60 children without leukemia, 24 had such exposure. The calculated odds ratio is 2.5, and a student must state what this finding means.",
+  "question": "Which of the following statements is the most accurate interpretation of the odds ratio of 2.5 reported in this case-control study?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Children without leukemia have 2.5 times greater odds of pesticide exposure than children with leukemia."
+    },
+    {
+      "id": "B",
+      "text": "Pesticide exposure increases the risk of childhood leukemia by 250%."
+    },
+    {
+      "id": "C",
+      "text": "Children with leukemia have 2.5 times greater odds of prior pesticide exposure than children without leukemia."
+    },
+    {
+      "id": "D",
+      "text": "There is no association between pesticide exposure and childhood leukemia."
+    },
+    {
+      "id": "E",
+      "text": "The risk of leukemia is 2.5 times greater in pesticide-exposed children than in unexposed children."
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "An OR > 1 means the odds of exposure are greater in cases, indicating that the exposure is associated with increased occurrence of disease. Because the odds ratio in a case-control study compares the odds of exposure among cases (a/c) with the odds of exposure among controls (b/d), the correct statement is that children with leukemia have 2.5 times greater odds of prior pesticide exposure than controls. The odds ratio is used rather than relative risk because participants are sampled by disease status.",
+  "explanation_incorrect": {
+    "A": "This reverses the direction of the association. Greater odds of exposure among controls would require an OR < 1; the observed OR of 2.5 indicates greater odds of exposure among the cases.",
+    "B": "An odds ratio of 2.5 does not translate to a 250% increase in risk. It compares odds of exposure between cases and controls, and percentage increases in risk are statements about relative risk, not the case-control odds ratio.",
+    "D": "An odds ratio of 1 would indicate no association. The observed value of 2.5 is well above 1, indicating a positive association between exposure and disease.",
+    "E": "Expressing the result as a risk in exposed versus unexposed children is the interpretation of a relative risk from a cohort study. In a case-control study, only the odds of exposure can be compared because participants are selected by disease status."
+  },
+  "educationalObjective": "OR > 1 indicates greater odds of exposure among cases (increased disease occurrence), and the interpretation of a case-control odds ratio must be framed in terms of odds of exposure, not risk of disease.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Odds ratio and relative risk (2x2 tables)"
+}
+]

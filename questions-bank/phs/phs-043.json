@@ -1,0 +1,289 @@
+[
+{
+  "id": "phs-047",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Sensitivity, specificity, PPV, and NPV",
+  "difficulty": "easy",
+  "vignette": "A new rapid diagnostic test for a viral infection is evaluated in a cohort of 200 patients. Among the 100 patients who have the infection, the test is positive in 80 and negative in 20. Among the 100 patients without the infection, the test is positive in 10 and negative in 90.",
+  "question": "What is the sensitivity of this test?",
+  "options": [
+    {
+      "id": "A",
+      "text": "80%"
+    },
+    {
+      "id": "B",
+      "text": "90%"
+    },
+    {
+      "id": "C",
+      "text": "89%"
+    },
+    {
+      "id": "D",
+      "text": "82%"
+    },
+    {
+      "id": "E",
+      "text": "20%"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Sensitivity = TP/(TP + FN), the proportion of all people with disease who test positive. Here TP = 80 and FN = 20, so sensitivity = 80/100 = 80%. It is a fixed property of the test and equals 1 − the false-negative rate.",
+  "explanation_incorrect": {
+    "B": "90% is the specificity of this test, TN/(TN + FP) = 90/100, which measures how well the test identifies people without disease.",
+    "C": "89% is the positive predictive value, TP/(TP + FP) = 80/90, the probability that a patient with a positive test actually has the disease.",
+    "D": "82% is the negative predictive value, TN/(TN + FN) = 90/110, the probability that a patient with a negative test is truly disease-free.",
+    "E": "20% is the false-negative rate (FN/[TP + FN] = 20/100); sensitivity is 1 − this value, not the value itself."
+  },
+  "educationalObjective": "Sensitivity = TP/(TP + FN) = 1 − FN rate, the ability of a test to correctly identify those with the disease.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Sensitivity, specificity, PPV, and NPV"
+},
+{
+  "id": "phs-048",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Sensitivity, specificity, PPV, and NPV",
+  "difficulty": "easy",
+  "vignette": "Public health officials are designing a screening program to identify early pancreatic neuroendocrine tumors in a large asymptomatic population. Because the disease is potentially fatal but treatable when detected early, officials want to minimize the number of missed cases, accepting that some healthy individuals will undergo unnecessary confirmatory testing.",
+  "question": "Which test property is most desirable for this screening application?",
+  "options": [
+    {
+      "id": "A",
+      "text": "High specificity"
+    },
+    {
+      "id": "B",
+      "text": "High positive predictive value"
+    },
+    {
+      "id": "C",
+      "text": "High sensitivity"
+    },
+    {
+      "id": "D",
+      "text": "High negative predictive value"
+    },
+    {
+      "id": "E",
+      "text": "High test efficiency"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "A highly sensitive test, when negative, rules out disease (SN-N-OUT): a value approaching 100% sensitivity indicates a low false-negative rate, so few true cases are missed. This is why high-sensitivity tests are used for screening, where the priority is detecting every possible case and accepting false positives that will be clarified by subsequent confirmatory testing.",
+  "explanation_incorrect": {
+    "A": "High specificity is desirable for ruling in disease (SP-P-IN) and is used for confirmation after a positive screening test, but it does not minimize missed cases during screening.",
+    "B": "A high positive predictive value reflects a low false-positive rate, which matters for confirmatory tests in high-prevalence settings, not for a screening test whose goal is to catch all cases.",
+    "D": "A high negative predictive value also supports reassurance after a negative result, but the mnemonic property that defines a test suitable for screening and rule-out is high sensitivity; NPV additionally varies with disease prevalence, whereas sensitivity is a fixed test property.",
+    "E": "Test efficiency, (TP + TN)/(all results), measures the overall proportion of correct results but does not specifically protect against missing diseased individuals."
+  },
+  "educationalObjective": "SN-N-OUT: a highly SeNsitive test, when Negative, rules OUT disease — high-sensitivity tests are used for screening.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Sensitivity, specificity, PPV, and NPV"
+},
+{
+  "id": "phs-049",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Sensitivity, specificity, PPV, and NPV",
+  "difficulty": "medium",
+  "vignette": "A screening test with a sensitivity of 90% and a specificity of 80% is applied to a cross-sectional sample of 1,000 people in a community in which the prevalence of the target disease is 10%. All results are confirmed with a reference standard.",
+  "question": "What is the positive predictive value of this screening test in this population?",
+  "options": [
+    {
+      "id": "A",
+      "text": "90%"
+    },
+    {
+      "id": "B",
+      "text": "80%"
+    },
+    {
+      "id": "C",
+      "text": "11%"
+    },
+    {
+      "id": "D",
+      "text": "99%"
+    },
+    {
+      "id": "E",
+      "text": "33%"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "With 10% prevalence, 100 of 1,000 people have disease: TP = 0.90 × 100 = 90 and FN = 10. Of the 900 without disease, TN = 0.80 × 900 = 720 and FP = 180. PPV = TP/(TP + FP) = 90/270 = 33%. PPV varies directly with pretest probability (prevalence), so even a test with good sensitivity and specificity yields a low PPV in a low-prevalence population.",
+  "explanation_incorrect": {
+    "A": "90% is the sensitivity, TP/(TP + FN); it is a fixed property of the test and does not describe the probability that a positive result indicates disease.",
+    "B": "80% is the specificity, TN/(TN + FP); it describes correct identification of people without disease, not the meaning of a positive result.",
+    "C": "11% results from using the wrong denominator, TP/(TP + TN) = 90/810, which mixes diseased test-positives with nondiseased test-negatives.",
+    "D": "99% approximates the negative predictive value, TN/(TN + FN) = 720/730 = 98.6%, which describes the meaning of a negative result, not a positive one."
+  },
+  "educationalObjective": "PPV = TP/(TP + FP) and varies directly with pretest probability (prevalence) — low prevalence drives PPV down even for accurate tests.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Sensitivity, specificity, PPV, and NPV"
+},
+{
+  "id": "phs-050",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Sensitivity, specificity, PPV, and NPV",
+  "difficulty": "medium",
+  "vignette": "A serum biomarker assay with a sensitivity of 85% and a specificity of 90% is used both by primary care physicians for a disease with a community prevalence of 2% and by a referral oncology clinic where the prevalence among tested patients is 25%. The assay itself is unchanged between the two settings.",
+  "question": "How do the predictive values of this assay differ between the oncology clinic and the primary care setting?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Both the PPV and the NPV are higher in the oncology clinic."
+    },
+    {
+      "id": "B",
+      "text": "The PPV is higher and the NPV is lower in the oncology clinic."
+    },
+    {
+      "id": "C",
+      "text": "The PPV is lower and the NPV is higher in the oncology clinic."
+    },
+    {
+      "id": "D",
+      "text": "Both the PPV and the NPV are lower in the oncology clinic."
+    },
+    {
+      "id": "E",
+      "text": "The PPV and NPV are unchanged, but the sensitivity and specificity are higher in the oncology clinic."
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Sensitivity and specificity are fixed properties of a test, but PPV and NPV vary with disease prevalence in the population being tested. Higher prevalence (higher pretest probability) directly increases PPV (high pretest probability → high PPV) and inversely decreases NPV. Therefore the same assay performs as a stronger rule-in tool in the high-prevalence oncology clinic and as a weaker source of reassurance after a negative result.",
+  "explanation_incorrect": {
+    "A": "PPV and NPV move in opposite directions when prevalence changes; both cannot rise together, and NPV specifically falls as prevalence rises.",
+    "C": "This reverses the direction of both effects: higher prevalence raises PPV and lowers NPV, not the reverse.",
+    "D": "PPV cannot fall when prevalence rises; higher pretest probability means a positive result is more, not less, likely to reflect true disease.",
+    "E": "Sensitivity and specificity are fixed properties of the test and do not change with the population in which it is used; it is PPV and NPV that vary with prevalence."
+  },
+  "educationalObjective": "Sensitivity and specificity are fixed test properties, whereas PPV varies directly and NPV varies inversely with disease prevalence.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Sensitivity, specificity, PPV, and NPV"
+},
+{
+  "id": "phs-051",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Sensitivity, specificity, PPV, and NPV",
+  "difficulty": "medium",
+  "vignette": "A confirmatory enzyme immunoassay for HIV is evaluated in 1,000 patients. Among the 100 patients with HIV, 95 test positive and 5 test negative. Among the 900 patients without HIV, 897 test negative and 3 test positive. The test is intended to establish the diagnosis after an abnormal screening result.",
+  "question": "What is the specificity of this confirmatory assay?",
+  "options": [
+    {
+      "id": "A",
+      "text": "95%"
+    },
+    {
+      "id": "B",
+      "text": "97%"
+    },
+    {
+      "id": "C",
+      "text": "99.4%"
+    },
+    {
+      "id": "D",
+      "text": "99.7%"
+    },
+    {
+      "id": "E",
+      "text": "0.3%"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Specificity = TN/(TN + FP), the proportion of all people without disease who test negative. Here TN = 897 and FP = 3, so specificity = 897/900 = 99.7%. A value approaching 100% specificity indicates a low false-positive rate, which is exactly why highly specific tests are used for confirmation after a positive screening test (SP-P-IN).",
+  "explanation_incorrect": {
+    "A": "95% is the sensitivity of this assay, TP/(TP + FN) = 95/100, which describes detection of people with disease rather than correct identification of the disease-free.",
+    "B": "97% is the positive predictive value, TP/(TP + FP) = 95/98, the probability that a positive result is a true positive.",
+    "C": "99.4% is the negative predictive value, TN/(TN + FN) = 897/902, the probability that a negative result truly indicates no disease.",
+    "E": "0.3% is the false-positive rate (FP/[TN + FP] = 3/900); specificity equals 1 − the false-positive rate, not the rate itself."
+  },
+  "educationalObjective": "Specificity = TN/(TN + FP) = 1 − FP rate; highly specific tests are used to confirm disease after a positive screen (SP-P-IN).",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Sensitivity, specificity, PPV, and NPV"
+},
+{
+  "id": "phs-052",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Sensitivity, specificity, PPV, and NPV",
+  "difficulty": "hard",
+  "vignette": "A screening program for a chronic endocrine disease tests 200 individuals and confirms final disease status with a reference standard. Of the 50 individuals with disease, 40 test positive. Of the 150 individuals without disease, 125 test negative and 25 test positive.",
+  "question": "What is the test efficiency of this screening test?",
+  "options": [
+    {
+      "id": "A",
+      "text": "80%"
+    },
+    {
+      "id": "B",
+      "text": "83.3%"
+    },
+    {
+      "id": "C",
+      "text": "82.5%"
+    },
+    {
+      "id": "D",
+      "text": "61.5%"
+    },
+    {
+      "id": "E",
+      "text": "92.6%"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Test efficiency = (TP + TN)/(TP + FN + FP + TN), the proportion of all tested individuals correctly classified by the test. Here TP = 40, TN = 125, FN = 10, and FP = 25, so efficiency = (40 + 125)/200 = 165/200 = 82.5%. Efficiency summarizes overall correct classification across the entire 2×2 table rather than performance in diseased or nondiseased individuals alone.",
+  "explanation_incorrect": {
+    "A": "80% is the sensitivity, TP/(TP + FN) = 40/50, which ignores the correct classification of the 150 disease-free individuals.",
+    "B": "83.3% is the specificity, TN/(TN + FP) = 125/150, which counts only the nondiseased and omits the true positives from the numerator.",
+    "D": "61.5% is the positive predictive value, TP/(TP + FP) = 40/65, the probability that a positive result indicates disease rather than overall accuracy.",
+    "E": "92.6% is the negative predictive value, TN/(TN + FN) = 125/135, which describes the reliability of a negative result, not overall correct classification."
+  },
+  "educationalObjective": "Test efficiency = (TP + TN)/(TP + FN + FP + TN), the overall proportion of all tested individuals correctly classified.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Sensitivity, specificity, PPV, and NPV"
+},
+{
+  "id": "phs-053",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Sensitivity, specificity, PPV, and NPV",
+  "difficulty": "hard",
+  "vignette": "A monoclonal antibody test for a parasitic infection has a sensitivity of 90% and a specificity of 95%. It is deployed in two populations: in a rural region the prevalence is 2% (10,000 people tested), whereas in a hospital ward treating returning travelers the prevalence is 20% (10,000 people tested).",
+  "question": "What is the approximate positive predictive value of this test in the high-prevalence hospital population?",
+  "options": [
+    {
+      "id": "A",
+      "text": "27%"
+    },
+    {
+      "id": "B",
+      "text": "82%"
+    },
+    {
+      "id": "C",
+      "text": "90%"
+    },
+    {
+      "id": "D",
+      "text": "95%"
+    },
+    {
+      "id": "E",
+      "text": "97%"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "At 20% prevalence, 2,000 of 10,000 people are infected: TP = 0.90 × 2,000 = 1,800 and FN = 200. Of the 8,000 uninfected, FP = 0.05 × 8,000 = 400 and TN = 7,600. PPV = TP/(TP + FP) = 1,800/2,200 ≈ 82%. This illustrates that PPV varies directly with pretest probability: in the low-prevalence rural region the identical test yields a PPV of only 180/670 ≈ 27%, because false positives vastly outnumber true positives when disease is rare.",
+  "explanation_incorrect": {
+    "A": "27% is the PPV in the low-prevalence rural population (180/670); it is what happens when the same test is applied where prevalence is 2%.",
+    "C": "90% is the sensitivity, a fixed property of the test, and it does not change between populations even though PPV does.",
+    "D": "95% is the specificity, also a fixed property of the test that does not vary with prevalence.",
+    "E": "97% is the negative predictive value in the high-prevalence population, TN/(TN + FN) = 7,600/7,800 = 97.4%; NPV falls as prevalence rises and describes negative, not positive, results."
+  },
+  "educationalObjective": "The same test can have a very different PPV in different populations because PPV varies directly with disease prevalence while sensitivity and specificity stay fixed.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Sensitivity, specificity, PPV, and NPV"
+}
+]

@@ -1,0 +1,207 @@
+[
+{
+  "id": "phs-076",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Confounding vs effect modification",
+  "difficulty": "easy",
+  "vignette": "An observational study finds that people who drink coffee have a significantly higher risk of lung cancer. When the data are stratified by cigarette smoking, coffee drinkers smoke substantially more than non–coffee drinkers, and the coffee–lung cancer association disappears entirely within both strata.",
+  "question": "Which of the following best explains the observed association between coffee and lung cancer?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Effect modification, because coffee affects smokers and nonsmokers differently"
+    },
+    {
+      "id": "B",
+      "text": "Selection bias from nonrandom enrollment of coffee drinkers"
+    },
+    {
+      "id": "C",
+      "text": "Confounding by smoking, a factor related to both the exposure and the outcome but not on the causal pathway"
+    },
+    {
+      "id": "D",
+      "text": "Lead-time bias from earlier detection among coffee drinkers"
+    },
+    {
+      "id": "E",
+      "text": "Measurement bias from systematically distorted coffee intake reporting"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "This is the classic confounding example: coffee appears linked to lung cancer, but smoking is the true cause, as coffee drinkers tend to smoke more. Smoking is related to both the exposure (coffee drinking) and the outcome (lung cancer) while not being on the causal pathway. The hallmark is that no association remains after stratification; confounding can be reduced with crossover studies, matching, and analytic techniques such as regression analysis.",
+  "explanation_incorrect": {
+    "A": "Effect modification requires a true association that differs by subgroup; here the association vanishes in every stratum, indicating a distorted (not real) effect.",
+    "B": "The association disappeared after stratification within the same study, which is the signature of confounding rather than of how participants were recruited.",
+    "D": "No screening or earlier detection is involved in this observational exposure–outcome association.",
+    "E": "The coffee intake data are not described as systematically distorted; the spurious link is explained by the smokers' distribution."
+  },
+  "educationalObjective": "Confounding: a factor related to both exposure and outcome (not on the causal pathway) distorts the effect; the association disappears after stratification (classic example: coffee, smoking, and lung cancer).",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Confounding vs effect modification"
+},
+{
+  "id": "phs-077",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Confounding vs effect modification",
+  "difficulty": "medium",
+  "vignette": "A study among women using oral contraceptive pills shows a significant overall risk of deep venous thrombosis. When the data are stratified by smoking habits, there is a very strong association between OCP use and DVT among smokers, but no such association among women who do not smoke.",
+  "question": "Which of the following best characterizes these findings and the appropriate analysis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Confounding, because smoking distorts the OCP–DVT effect; pool the strata into a single summary estimate"
+    },
+    {
+      "id": "B",
+      "text": "Confounding, because the association disappears after stratification; use a crossover design"
+    },
+    {
+      "id": "C",
+      "text": "Selection bias, because only smoking women were recruited; enroll community controls"
+    },
+    {
+      "id": "D",
+      "text": "Measurement bias, because smoking status was self-reported; use medical records"
+    },
+    {
+      "id": "E",
+      "text": "Effect modification, a true association that differs by subgroup; analyze the risk among smokers and nonsmokers separately after testing for interaction"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Effect modification occurs when the exposure leads to different outcomes in subgroups stratified by a factor — a true association exists. The OCP–DVT example is the canonical case: a very strong OCP–DVT association among smokers but none among nonsmokers. The correct approach is stratified analysis, after testing for interaction between OCP use and smoking and reporting the risk separately for smokers and nonsmokers.",
+  "explanation_incorrect": {
+    "A": "Confounding is indicated by an association that disappears after stratification, not one that is strong in one subgroup and absent in the other; pooling would obscure the real interaction.",
+    "B": "The association did not disappear after stratification — it changed direction of strength between strata, which is effect modification, and crossover designs address confounding.",
+    "C": "No nonrandom sampling is described; the subgroup pattern is an effect measure difference, not a recruitment artifact.",
+    "D": "Self-reported smoking status is not the issue; the subgroup-specific associations are the central finding to analyze."
+  },
+  "educationalObjective": "Effect modification: the exposure produces different outcomes in subgroups (strong association in one stratum, none in the other); analyze with stratified analysis after testing for interaction.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Confounding vs effect modification"
+},
+{
+  "id": "phs-078",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Confounding vs effect modification",
+  "difficulty": "medium",
+  "vignette": "A cohort study reports that regular aspirin use is associated with a lower risk of pancreatic cancer (crude RR = 0.7). When the investigators stratify the cohort by body mass index, the aspirin–pancreatic cancer association is no longer present within either BMI stratum, and the stratum-specific estimates are nearly identical to each other.",
+  "question": "Which of the following is the most likely explanation for the crude association, and what is the corresponding hallmark of this phenomenon?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Effect modification; the hallmark is a strong association in one subgroup with a weak or no association in the other"
+    },
+    {
+      "id": "B",
+      "text": "Confounding; the hallmark is that the association disappears after stratification"
+    },
+    {
+      "id": "C",
+      "text": "Effect modification; the hallmark is that the association is similar in both subgroups and persists after stratification"
+    },
+    {
+      "id": "D",
+      "text": "Lead-time bias; the hallmark is apparent prolonged survival after earlier diagnosis"
+    },
+    {
+      "id": "E",
+      "text": "Procedure bias; the hallmark is unequal co-treatment of the compared groups"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Confounding is a distortion of the effect by a third factor related to both the exposure and the outcome but not on the causal pathway; its hallmark is that no association remains after stratification, exactly as described with stratum-specific estimates nearly identical to each other. Confounding can be addressed with crossover studies (subject as self-control), matching, and analytic techniques such as regression when the confounder is known and measured.",
+  "explanation_incorrect": {
+    "A": "Effect modification would show a strong association in one subgroup and a weak or absent association in the other — not near-identical, null estimates in both strata.",
+    "C": "This reverses both parts: a persistent, similar association across strata does not define effect modification, and persistence after stratification argues against confounding rather than for it.",
+    "D": "Lead-time bias concerns screening studies in which survival appears longer because diagnosis occurred earlier; no screening is involved here.",
+    "E": "Procedure bias arises when subjects in different groups are not treated the same during the study; it is not diagnosed by the behavior of stratified estimates."
+  },
+  "educationalObjective": "When a crude association disappears after stratification with similar stratum-specific estimates, confounding is present; when subgroup-specific associations differ, effect modification is present.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Confounding vs effect modification"
+},
+{
+  "id": "phs-079",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Confounding vs effect modification",
+  "difficulty": "hard",
+  "vignette": "An investigator proposes an observational study of a dietary supplement and blood pressure. A colleague objects that physical activity level could drive the result: it is plausibly related to both supplement use and blood pressure, but the supplement is not thought to act through activity level.",
+  "question": "Which of the following best explains the colleague's concern?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Physical activity is an effect modifier, because the supplement would produce different blood pressure outcomes in active and sedentary subgroups"
+    },
+    {
+      "id": "B",
+      "text": "Physical activity is a mediator, because the supplement acts through activity level to lower blood pressure"
+    },
+    {
+      "id": "C",
+      "text": "Physical activity creates procedure bias, because supplement users would receive more clinical attention"
+    },
+    {
+      "id": "D",
+      "text": "Physical activity would be a confounder, because it is related to both the exposure and the outcome while not being on the causal pathway"
+    },
+    {
+      "id": "E",
+      "text": "Physical activity creates recall bias, because supplement users would remember their activity levels differently"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "The colleague's description matches the definition of a confounder: a factor related to both the exposure and the outcome (but not on a causal pathway) that distorts the measured effect. The vignette explicitly states the supplement is not thought to act through activity level, ruling out a mediator role. Confounding is addressed by crossover studies, matching, or analytic techniques such as regression analysis when the confounder is known and measured.",
+  "explanation_incorrect": {
+    "A": "Effect modification requires observed subgroup-specific outcomes; no differential effect across activity strata has been proposed, and the concern is a distorted, not subgroup-specific, effect.",
+    "B": "A mediator lies on the causal pathway between exposure and outcome; the vignette explicitly denies that the supplement acts through activity level.",
+    "C": "Procedure bias involves groups being treated differently during the study, which is not what the colleague described.",
+    "E": "Recall bias concerns subjects' awareness of a disorder altering recall of past exposures; no such mechanism is described."
+  },
+  "educationalObjective": "A confounder is related to both exposure and outcome but is NOT on the causal pathway; a factor on the causal pathway is a mediator instead.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Confounding vs effect modification"
+},
+{
+  "id": "phs-080",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Confounding vs effect modification",
+  "difficulty": "easy",
+  "vignette": "A pharmacology student reads a paper in which the effect of an anticoagulant on bleeding risk differed substantially between patients with normal and impaired renal function — a large effect in one subgroup and almost no effect in the other — and the authors conclude a genuine differential effect exists.",
+  "question": "Which of the following terms best describes this finding?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Effect modification, in which exposure leads to different outcomes in subgroups stratified by a factor and a true association exists"
+    },
+    {
+      "id": "B",
+      "text": "Confounding, in which a third variable related to both exposure and outcome distorts the effect"
+    },
+    {
+      "id": "C",
+      "text": "Lead-time bias, in which earlier detection exaggerates measured survival"
+    },
+    {
+      "id": "D",
+      "text": "Recall bias, in which awareness of the disorder alters reported exposures"
+    },
+    {
+      "id": "E",
+      "text": "Selection bias, in which nonrandom sampling makes the study population unrepresentative"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Effect modification is present when the exposure leads to different outcomes in subgroups stratified by a factor — a true association exists — such as the OCP–DVT association being strong among smokers and absent among nonsmokers. Here renal function defines subgroups with genuinely different drug effects. The recommended approach is stratified analysis (after testing for interaction) rather than pooling.",
+  "explanation_incorrect": {
+    "B": "Confounding distorts a single overall effect and disappears after stratification; it does not describe genuine subgroup-specific effects.",
+    "C": "Lead-time bias involves screening and survival measured from an earlier diagnosis, not subgroup-differentiated treatment effects.",
+    "D": "No altered recall of exposures is described in this scenario.",
+    "E": "Nothing in the vignette concerns how patients were enrolled or allocated."
+  },
+  "educationalObjective": "Effect modification: exposure leads to different outcomes in subgroups stratified by a factor, representing a true association to be analyzed stratified by subgroup.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Confounding vs effect modification"
+}
+]

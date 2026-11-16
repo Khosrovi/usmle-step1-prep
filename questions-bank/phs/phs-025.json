@@ -1,0 +1,166 @@
+[
+{
+  "id": "phs-014",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Intention-to-treat, crossover, and analysis methods",
+  "difficulty": "medium",
+  "vignette": "In a randomized trial of two antihypertensive drugs, 10% of patients randomized to drug A begin taking drug B midway through the study, and 5% of patients in each arm are lost to follow-up. At the end of the trial, the investigators analyze every randomized patient in the group to which he or she was originally assigned, including those who switched and those who were lost.",
+  "question": "Which of the following best describes this analysis and its key property?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Per-protocol analysis, which increases bias by excluding patients who did not complete treatment as assigned"
+    },
+    {
+      "id": "B",
+      "text": "As-treated analysis, which classifies each patient by the treatment actually received"
+    },
+    {
+      "id": "C",
+      "text": "Crossover analysis, in which each patient receives both treatments in random order with a washout period"
+    },
+    {
+      "id": "D",
+      "text": "Intention-to-treat analysis, which preserves the randomization but may dilute the true effect of the intervention"
+    },
+    {
+      "id": "E",
+      "text": "Stratified analysis, which adjusts for imbalances between the two treatment groups"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Intention-to-treat analysis means all subjects are analyzed according to their original, randomly assigned treatment — no one is excluded (\"once randomized, always analyzed\"). It attempts to avoid bias from attrition, crossover, and nonrandom noncompliance, thereby preserving the benefits of randomization; the trade-off is that including noncompliant and lost patients may dilute the true effect of the intervention.",
+  "explanation_incorrect": {
+    "A": "A per-protocol analysis excludes subjects who fail to complete treatment as originally assigned; here no one was excluded, and per-protocol analysis carries an increased risk of bias.",
+    "B": "An as-treated analysis assigns patients to groups according to the treatment they actually received, which would place the drug-A patients who switched to drug B in the drug-B group; that did not happen.",
+    "C": "A crossover design is a trial design in which each subject receives a series of treatments in randomized order with a washout period, allowing subjects to serve as their own controls; the description concerns how already-randomized patients were analyzed, not a treatment sequencing design.",
+    "E": "A stratified analysis separates patients into subgroups for comparison; the description instead concerns keeping all patients in their original randomized groups."
+  },
+  "educationalObjective": "Intention-to-treat analysis analyzes all subjects in their originally assigned groups — \"once randomized, always analyzed\" — avoiding attrition and compliance bias at the cost of possibly diluting the treatment effect.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Intention-to-treat, crossover, and analysis methods"
+},
+{
+  "id": "phs-015",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Intention-to-treat, crossover, and analysis methods",
+  "difficulty": "hard",
+  "vignette": "After randomization in a trial comparing two anticoagulants, several patients assigned to drug X discontinue it and begin drug Y outside the protocol. The investigators decide to classify and analyze each patient according to the anticoagulant actually taken during the study, regardless of the original assignment.",
+  "question": "Which of the following statements is most accurate about this analytic choice?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It is an intention-to-treat analysis and fully preserves the benefits of randomization"
+    },
+    {
+      "id": "B",
+      "text": "It is a per-protocol analysis and is free of bias because only patients who adhere to the protocol are counted"
+    },
+    {
+      "id": "C",
+      "text": "It is an as-treated analysis and carries an increased risk of bias"
+    },
+    {
+      "id": "D",
+      "text": "It is an intention-to-treat analysis that dilutes the true effect of the intervention"
+    },
+    {
+      "id": "E",
+      "text": "It is a crossover design in which each patient receives both treatments in random order"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "As-treated analysis analyzes all subjects according to the treatment they actually received, regardless of the original random assignment — exactly what these investigators are doing. Because patients who switch treatments are not switching at random, this approach carries an increased risk of bias, unlike intention-to-treat analysis, which preserves randomization.",
+  "explanation_incorrect": {
+    "A": "Intention-to-treat analysis assigns patients to their original randomized groups; reclassifying switchers into the group of the drug they actually received breaks that rule.",
+    "B": "A per-protocol analysis excludes patients who fail to complete treatment as originally assigned rather than reclassifying them, and it increases — not eliminates — the risk of bias.",
+    "D": "This is not an intention-to-treat analysis; the dilution drawback belongs to intention-to-treat, whereas as-treated analysis has the opposite problem of increased bias.",
+    "E": "A crossover design is a trial design in which each subject receives both treatments in randomized order with a washout period; the described issue is how nonrandom treatment switching is handled at analysis."
+  },
+  "educationalObjective": "As-treated analysis groups patients by the treatment actually received and carries an increased risk of bias, in contrast to intention-to-treat analysis, which preserves randomization.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Intention-to-treat, crossover, and analysis methods"
+},
+{
+  "id": "phs-016",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Intention-to-treat, crossover, and analysis methods",
+  "difficulty": "medium",
+  "vignette": "A trial compares two analgesic regimens for chronic migraine. Each enrolled patient receives both regimens, one after the other, in an order determined by chance. Between the two treatment periods, every patient spends 2 weeks taking no study medication at all before switching to the other regimen.",
+  "question": "Which of the following best describes the intervening medication-free period and the main design advantage of this trial?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The period is for dose titration; the advantage is a reduced need for blinding"
+    },
+    {
+      "id": "B",
+      "text": "The period is for randomization; the advantage is elimination of confounding by indication"
+    },
+    {
+      "id": "C",
+      "text": "The period is for recruitment; the advantage is longer total follow-up than parallel-group designs"
+    },
+    {
+      "id": "D",
+      "text": "The period is a placebo run-in; the advantage is masking the investigators to the treatment order"
+    },
+    {
+      "id": "E",
+      "text": "The period is a washout period; the advantage is that each subject serves as his or her own control"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "This is a crossover clinical trial, which compares the effect of a series of two or more treatments on a subject, with the order of treatments randomized. The medication-free interval between treatments is the washout period, designed to eliminate carryover of the first treatment into the second period. Because every subject receives both treatments, subjects serve as their own controls.",
+  "explanation_incorrect": {
+    "A": "The medication-free interval is not titration of a drug dose, and blinding is not the advantage gained; the benefit is within-subject comparison after eliminating carryover effects.",
+    "B": "Randomization in a crossover trial determines the order of treatments and occurs when treatment sequences are assigned; the intervening period itself is the washout, and confounding by indication is not the design's stated advantage.",
+    "C": "The period is not a recruitment interval, and a longer follow-up is not the rationale; the rationale is to allow each patient to be compared with himself or herself.",
+    "D": "A placebo run-in is a preliminary period used to assess or improve adherence before randomization; it does not separate two active treatment periods, and masking treatment order is not the described advantage."
+  },
+  "educationalObjective": "In a crossover trial, treatments are given in randomized order with a washout period between them so that each subject serves as his or her own control.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Intention-to-treat, crossover, and analysis methods"
+},
+{
+  "id": "phs-017",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Intention-to-treat, crossover, and analysis methods",
+  "difficulty": "hard",
+  "vignette": "In a randomized trial of a new heart failure medication, patients who discontinued their assigned medication early, switched regimens, or otherwise failed to complete the treatment course as originally randomly assigned are removed from the data set before the primary analysis is performed.",
+  "question": "Which of the following best describes this analysis and its main drawback?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Intention-to-treat analysis; its drawback is dilution of the true intervention effect"
+    },
+    {
+      "id": "B",
+      "text": "Per-protocol analysis; its drawback is an increased risk of bias because restricting the analysis to completers breaks the randomization"
+    },
+    {
+      "id": "C",
+      "text": "As-treated analysis; its drawback is that it ignores the treatment each patient actually received"
+    },
+    {
+      "id": "D",
+      "text": "Crossover analysis; its drawback is carryover effects between treatment periods"
+    },
+    {
+      "id": "E",
+      "text": "Intention-to-treat analysis; its drawback is an artificially reduced sample size"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Per-protocol analysis includes only subjects who complete treatment as originally, randomly assigned and excludes those who fail to do so — precisely the exclusion described. Its main drawback is an increased risk of bias: patients who drop out or switch often differ systematically (eg, worse prognosis, intolerable side effects), so restricting to completers undermines the balance created by randomization.",
+  "explanation_incorrect": {
+    "A": "Intention-to-treat analysis keeps every randomized patient in his or her original group — \"once randomized, always analyzed\" — which is the opposite of excluding noncompleters; dilution is the drawback of intention-to-treat, not of this approach.",
+    "C": "An as-treated analysis classifies patients by the treatment they actually received rather than excluding them; it also does not ignore actual treatment — actual treatment is its organizing principle.",
+    "D": "A crossover design is a trial design in which each subject receives multiple treatments in randomized order with a washout period; the issue described concerns analytic exclusion of noncompleters, not carryover between treatment periods.",
+    "E": "This is not an intention-to-treat analysis, and intention-to-treat has the opposite property of retaining — not reducing — the full randomized sample."
+  },
+  "educationalObjective": "Per-protocol analysis excludes subjects who fail to complete treatment as originally assigned, which increases the risk of bias by breaking the randomization.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Intention-to-treat, crossover, and analysis methods"
+}
+]

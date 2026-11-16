@@ -1,0 +1,166 @@
+[
+{
+  "id": "phs-217",
+  "subject": "PHS",
+  "major_topic": "Healthcare Delivery",
+  "subtopic": "Medical error analysis and causes",
+  "difficulty": "medium",
+  "vignette": "After a patient undergoes surgery on the wrong knee, the hospital's quality team conducts a review of the event. The team examines operative records, schedules participant interviews, repeatedly asks 'why' at each step, and constructs a fishbone (cause-and-effect) diagram and process maps to identify all underlying problems in process, people, environment, and equipment.",
+  "question": "Which of the following best describes the methodology the team is using?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Failure mode and effects analysis, because the team is enumerating ways a process might fail"
+    },
+    {
+      "id": "B",
+      "text": "Failure mode and effects analysis, because the review is conducted retrospectively after the event"
+    },
+    {
+      "id": "C",
+      "text": "Root cause analysis, because it is a retrospective approach applied after a failure event to prevent recurrence"
+    },
+    {
+      "id": "D",
+      "text": "Root cause analysis, because it is a forward-looking approach applied before process implementation"
+    },
+    {
+      "id": "E",
+      "text": "Sentinel event reporting, because the error resulted in permanent harm to the patient"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Root cause analysis is a retrospective approach applied after a failure event to prevent recurrence; it uses records and participant interviews — including the 5 whys approach, fishbone/cause-and-effect diagrams, and process maps — to identify all the underlying problems (process, people, environment, equipment, materials, management) that led to an error. Every tool named in the vignette is an RCA instrument, and the timing (after the event) confirms it.",
+  "explanation_incorrect": {
+    "A": "Failure mode and effects analysis is a forward-looking approach applied before process implementation; this review was conducted after the wrong-site surgery occurred.",
+    "B": "This option combines the wrong methodology with the wrong attribute: FMEA is not retrospective, and its purpose is to prevent failure occurrence before implementation, not to analyze an event that already happened.",
+    "D": "This option pairs the correct methodology name with the wrong attribute: root cause analysis is retrospective, applied after the failure event, not forward-looking before implementation (which describes FMEA).",
+    "E": "Sentinel event reporting is a classification and notification concept for never events causing death or severe harm; the described activity of interviews, 5 whys, fishbone diagrams, and process maps is root cause analysis."
+  },
+  "educationalObjective": "Root cause analysis is retrospective, applied after a failure event, using records, interviews, 5 whys, fishbone diagrams, and process maps to find underlying causes.",
+  "source": "Generated from 6. PHS.pdf - Healthcare Delivery: Medical error analysis and causes"
+},
+{
+  "id": "phs-218",
+  "subject": "PHS",
+  "major_topic": "Healthcare Delivery",
+  "subtopic": "Medical error analysis and causes",
+  "difficulty": "hard",
+  "vignette": "A hospital is designing a new chemotherapy ordering process before it goes live in the oncology ward. The safety committee uses inductive reasoning to identify all the ways the new process might fail, then ranks each potential failure by its probability of occurrence and its impact on patients so that the highest-priority risks receive safeguards first.",
+  "question": "Which of the following methodologies is the committee applying?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Failure mode and effects analysis"
+    },
+    {
+      "id": "B",
+      "text": "Root cause analysis"
+    },
+    {
+      "id": "C",
+      "text": "Morbidity and mortality conference review"
+    },
+    {
+      "id": "D",
+      "text": "Sentinel event investigation"
+    },
+    {
+      "id": "E",
+      "text": "Pay-for-performance evaluation"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Failure mode and effects analysis is a forward-looking approach applied before process implementation to prevent failure occurrence. It uses inductive reasoning to identify all the ways a process might fail and prioritizes them by probability of occurrence and impact on patients — each element of which is stated in the vignette (pre-implementation, enumeration of failure modes, ranking by probability and impact). It is the prospective counterpart to root cause analysis.",
+  "explanation_incorrect": {
+    "B": "Root cause analysis is a retrospective approach applied after a failure event to prevent recurrence; this committee is working prospectively before implementation, so RCA is the wrong direction of analysis.",
+    "C": "A morbidity and mortality conference reviews complications and deaths that have already occurred; it cannot be applied to a process that has not yet gone live.",
+    "D": "A sentinel event investigation examines a never event that has already led to death, permanent harm, or severe temporary harm; no event has occurred in this pre-implementation setting.",
+    "E": "Pay-for-performance is a reimbursement arrangement linking payment to quality metrics; it is not a prospective process-failure analysis method and does not rank failure modes by probability and impact."
+  },
+  "educationalObjective": "Failure mode and effects analysis is forward-looking, applied before implementation, using inductive reasoning to rank potential failures by probability and impact.",
+  "source": "Generated from 6. PHS.pdf - Healthcare Delivery: Medical error analysis and causes"
+},
+{
+  "id": "phs-219",
+  "subject": "PHS",
+  "major_topic": "Healthcare Delivery",
+  "subtopic": "Medical error analysis and causes",
+  "difficulty": "medium",
+  "vignette": "An intensivist has been working under sustained, excessive stress for months. She reports feeling emotionally drained, finds herself detached and cynical toward her patients, and believes she is no longer effective clinically. During this period, she makes several prescribing and documentation errors.",
+  "question": "Which of the following is the most likely contributor to this physician's medical errors?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Fatigue from sleep and rest deprivation"
+    },
+    {
+      "id": "B",
+      "text": "Latent system error"
+    },
+    {
+      "id": "C",
+      "text": "Active error at the frontline level"
+    },
+    {
+      "id": "D",
+      "text": "Burnout"
+    },
+    {
+      "id": "E",
+      "text": "Near miss reporting failure"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Burnout is prolonged, excessive stress leading to emotional exhaustion and depersonalization, which in turn leads to reduced professional efficacy. The vignette's triad — feeling emotionally drained, detached and cynical toward patients, and doubting her clinical effectiveness — maps onto all three components exactly. Burnout is a recognized cause of medical errors, alongside fatigue.",
+  "explanation_incorrect": {
+    "A": "Fatigue results from sleep or rest deprivation and produces cognitive impairment and decreased attention to detail; this vignette emphasizes chronic emotional exhaustion and cynicism, the burnout triad, rather than acute sleep loss.",
+    "B": "A latent error is a system or process problem indirect from the operator (eg, different IV pump types in one hospital); the source of this physician's errors lies within her own psychological state, not an equipment or process design flaw.",
+    "C": "Active error describes the classification of an error that occurs at the frontline operator level with immediate impact; it names the error type, not the underlying cause of her errors.",
+    "E": "Near miss refers to an unplanned event that does not result in harm but has the potential to do so; it is an event classification, not a cause of the errors she has been making."
+  },
+  "educationalObjective": "Burnout — prolonged excessive stress producing emotional exhaustion and depersonalization with reduced professional efficacy — is a recognized cause of medical errors.",
+  "source": "Generated from 6. PHS.pdf - Healthcare Delivery: Medical error analysis and causes"
+},
+{
+  "id": "phs-220",
+  "subject": "PHS",
+  "major_topic": "Healthcare Delivery",
+  "subtopic": "Medical error analysis and causes",
+  "difficulty": "easy",
+  "vignette": "A second-year resident has just completed a 28-hour overnight call with only 90 minutes of sleep. While reviewing morning laboratory results, he skims past a subtly rising creatinine value and a mildly decreased hemoglobin, and signs off on the list without ordering follow-up. He later admits he simply could not keep his attention on the details of the numbers.",
+  "question": "Which of the following is the most likely cause of this resident's oversight?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Burnout"
+    },
+    {
+      "id": "B",
+      "text": "Fatigue"
+    },
+    {
+      "id": "C",
+      "text": "Latent error"
+    },
+    {
+      "id": "D",
+      "text": "Never event"
+    },
+    {
+      "id": "E",
+      "text": "Depersonalization"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Fatigue is sleep/rest deprivation resulting in cognitive impairment and decreased attention to detail. This resident's 28-hour call with minimal sleep and his own report of being unable to attend to the details of the numbers is the direct picture of fatigue-driven error. Decreased attention to detail is precisely the mechanism by which sleep deprivation causes missed laboratory abnormalities.",
+  "explanation_incorrect": {
+    "A": "Burnout develops from prolonged, excessive stress and manifests as emotional exhaustion, depersonalization, and reduced professional efficacy; the vignette describes acute sleep deprivation, not chronic emotional exhaustion.",
+    "C": "A latent error is a process or system issue indirect from the operator (eg, different IV pump types within one hospital); the failure here lies in the sleep-deprived resident's cognition, not in an indirect process.",
+    "D": "A never event is an identifiable, serious, usually preventable adverse event that should never occur (eg, retained scalpel); overlooking laboratory values does not constitute such a major event, and no outcome classification was established.",
+    "E": "Depersonalization is one component of burnout, involving detachment and cynicism toward patients; the vignette describes impaired attention from sleep loss rather than emotional detachment."
+  },
+  "educationalObjective": "Fatigue — sleep/rest deprivation causing cognitive impairment and decreased attention to detail — is a leading cause of medical errors.",
+  "source": "Generated from 6. PHS.pdf - Healthcare Delivery: Medical error analysis and causes"
+}
+]

@@ -1,0 +1,166 @@
+[
+{
+  "id": "phs-205",
+  "subject": "PHS",
+  "major_topic": "Healthcare Delivery",
+  "subtopic": "Medicare and Medicaid",
+  "difficulty": "medium",
+  "vignette": "A clinic manager is screening patients to determine which federal social healthcare program each qualifies for. She reviews four patients: a 57-year-old man who is unemployed with low income, a 64-year-old woman planning early retirement next year, a 42-year-old man with end-stage renal disease requiring hemodialysis, and a 60-year-old woman with hypertension and employer-sponsored insurance.",
+  "question": "Which of these patients is eligible for Medicare based on the eligibility criteria?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The 57-year-old man who is unemployed with low income"
+    },
+    {
+      "id": "B",
+      "text": "The 64-year-old woman planning early retirement next year"
+    },
+    {
+      "id": "C",
+      "text": "The 42-year-old man with end-stage renal disease requiring hemodialysis"
+    },
+    {
+      "id": "D",
+      "text": "The 60-year-old woman with hypertension and employer-sponsored insurance"
+    },
+    {
+      "id": "E",
+      "text": "None of these patients qualifies for Medicare"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Medicare is available to patients ≥65 years old, those <65 with certain disabilities, and patients with end-stage renal disease. The 42-year-old on hemodialysis qualifies through the end-stage renal disease pathway despite being far below age 65. Medicare and Medicaid both originated from amendments to the Social Security Act, but Medicare eligibility is keyed to age, certain disabilities, and ESRD — not to income.",
+  "explanation_incorrect": {
+    "A": "Low income and limited resources are the eligibility criteria for Medicaid, the joint federal and state assistance program, not for Medicare.",
+    "B": "Medicare eligibility begins at age ≥65; at 64, this patient does not yet qualify on the age criterion and has no described disability or ESRD.",
+    "D": "Hypertension is not a qualifying disability for Medicare, and at 60 with employer-sponsored insurance this patient meets none of the three eligibility criteria.",
+    "E": "This is incorrect because the 42-year-old with end-stage renal disease on hemodialysis explicitly qualifies for Medicare under the ESRD pathway, regardless of his age."
+  },
+  "educationalObjective": "Medicare covers patients ≥65 years old, those <65 with certain disabilities, and patients with end-stage renal disease — remember 'MedicarE is for Elderly.'",
+  "source": "Generated from 6. PHS.pdf - Healthcare Delivery: Medicare and Medicaid"
+},
+{
+  "id": "phs-206",
+  "subject": "PHS",
+  "major_topic": "Healthcare Delivery",
+  "subtopic": "Medicare and Medicaid",
+  "difficulty": "hard",
+  "vignette": "A 72-year-old woman with advanced pancreatic cancer enrolled in original Medicare has elected hospice after her prognosis was estimated at less than 6 months. Her family asks which component of the program will cover her hospice admission, nursing care, and bereavement services.",
+  "question": "Which component of Medicare covers this patient's hospice care?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Part B"
+    },
+    {
+      "id": "B",
+      "text": "Part C"
+    },
+    {
+      "id": "C",
+      "text": "Part D"
+    },
+    {
+      "id": "D",
+      "text": "Medicaid"
+    },
+    {
+      "id": "E",
+      "text": "Part A"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Medicare Part A covers hospital Admissions, including hospice and skilled nursing facility care — the capital 'A' mnemonic signals this scope. Hospice care is explicitly listed under Part A, so this patient's end-of-life services fall under it. This fits the framework of the four Medicare parts: A for admissions including hospice, B for basic medical bills, C as the combination delivered by private companies, and D for drugs.",
+  "explanation_incorrect": {
+    "A": "Part B covers Basic medical bills such as physician fees and diagnostic testing; hospice facility and program coverage is not within Part B's scope.",
+    "B": "Part C is the combination of parts A and B delivered by approved private companies (Medicare Advantage); while it bundles A's benefits, the specific component responsible for hospice coverage is Part A itself.",
+    "C": "Part D covers prescription Drugs; it does not pay for hospice admissions or hospice nursing services.",
+    "D": "Medicaid is the joint federal and state assistance program for people with limited income and/or resources; this patient's coverage question concerns Medicare, for which she is age-eligible."
+  },
+  "educationalObjective": "Medicare Part A covers hospital Admissions, including hospice and skilled nursing care.",
+  "source": "Generated from 6. PHS.pdf - Healthcare Delivery: Medicare and Medicaid"
+},
+{
+  "id": "phs-207",
+  "subject": "PHS",
+  "major_topic": "Healthcare Delivery",
+  "subtopic": "Medicare and Medicaid",
+  "difficulty": "hard",
+  "vignette": "A 70-year-old man enrolled in original Medicare sees his primary care physician quarterly and undergoes annual lipid panels, an electrocardiogram, and imaging studies. At checkout, he asks the front-desk staff which component of the program is responsible for paying his physician fees and these diagnostic tests.",
+  "question": "Which component of Medicare covers physician fees and outpatient diagnostic testing?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Part A"
+    },
+    {
+      "id": "B",
+      "text": "Part B"
+    },
+    {
+      "id": "C",
+      "text": "Part C"
+    },
+    {
+      "id": "D",
+      "text": "Part D"
+    },
+    {
+      "id": "E",
+      "text": "Medicaid"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Medicare Part B covers Basic medical bills, with physician fees and diagnostic testing given as the explicit examples — the capital 'B' for Basic. This patient's quarterly office visits and diagnostic studies are exactly Part B's domain. Knowing the four parts is high-yield: A for hospital Admissions (including hospice and skilled nursing), B for Basic medical bills, C as the Combo of A+B delivered by approved private companies, and D for prescription Drugs.",
+  "explanation_incorrect": {
+    "A": "Part A covers hospital Admissions, including hospice and skilled nursing care — inpatient institutional services, not outpatient physician fees and diagnostic testing.",
+    "C": "Part C (parts A + B = Combo) delivers Medicare benefits through approved private companies; it combines the parts but does not itself denote the component that specifically covers physician fees and diagnostic testing.",
+    "D": "Part D covers prescription Drugs only; office visits and diagnostic tests are outside its scope.",
+    "E": "Medicaid is the joint federal-state assistance program for people with limited income and/or resources; this age-eligible Medicare beneficiary's question concerns Medicare's structure."
+  },
+  "educationalObjective": "Medicare Part B covers Basic medical bills, such as physician fees and diagnostic testing.",
+  "source": "Generated from 6. PHS.pdf - Healthcare Delivery: Medicare and Medicaid"
+},
+{
+  "id": "phs-208",
+  "subject": "PHS",
+  "major_topic": "Healthcare Delivery",
+  "subtopic": "Medicare and Medicaid",
+  "difficulty": "easy",
+  "vignette": "A 34-year-old single mother works part-time, has no employer-sponsored insurance, and supports two children on an income well below the federal poverty level. She has no disabilities and requires assistance obtaining coverage for herself and her children.",
+  "question": "Which federal social healthcare program is this patient most likely eligible for?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Medicaid"
+    },
+    {
+      "id": "B",
+      "text": "Medicare"
+    },
+    {
+      "id": "C",
+      "text": "Medicare Part D"
+    },
+    {
+      "id": "D",
+      "text": "An accountable care organization (ACO)"
+    },
+    {
+      "id": "E",
+      "text": "A high deductible health plan (HDHP)"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Medicaid provides joint federal and state health assistance for people with limited income and/or resources — the 'MedicaiD is for Disadvantaged' mnemonic. This patient's part-time employment and income below the poverty level, without age or disability qualifiers, is the classic Medicaid profile. Both Medicare and Medicaid originated from amendments to the Social Security Act, but only Medicaid is means-tested.",
+  "explanation_incorrect": {
+    "B": "Medicare requires age ≥65, certain disabilities in those <65, or end-stage renal disease; this 34-year-old meets none of these criteria.",
+    "C": "Medicare Part D is the prescription drug component of Medicare and presupposes Medicare eligibility, which this patient lacks.",
+    "D": "An ACO is a group of providers who voluntarily coordinate care for Medicare patients — it is a care-delivery arrangement within Medicare, not an assistance program for which she could qualify.",
+    "E": "An HDHP is a private insurance product with low premiums and high out-of-pocket costs, compatible with a health savings account; it is not a federal social healthcare program for low-income individuals."
+  },
+  "educationalObjective": "Medicaid is joint federal and state assistance for people with limited income and/or resources — 'MedicaiD is for Disadvantaged.'",
+  "source": "Generated from 6. PHS.pdf - Healthcare Delivery: Medicare and Medicaid"
+}
+]

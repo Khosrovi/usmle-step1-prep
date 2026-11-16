@@ -1,0 +1,125 @@
+[
+{
+  "id": "phs-114",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Pearson correlation coefficient",
+  "difficulty": "medium",
+  "vignette": "A researcher plots average weekly hours of aerobic exercise (x-axis) against body mass index (y-axis) for 200 adults and computes a Pearson correlation coefficient of r = −0.8.",
+  "question": "Which of the following best describes this result?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A strong negative linear correlation, in which as one variable increases the other decreases"
+    },
+    {
+      "id": "B",
+      "text": "A weak negative correlation, in which as one variable increases the other decreases"
+    },
+    {
+      "id": "C",
+      "text": "No linear correlation between the two variables"
+    },
+    {
+      "id": "D",
+      "text": "A strong positive linear correlation, in which as one variable increases the other increases"
+    },
+    {
+      "id": "E",
+      "text": "A value outside the permissible range for a correlation coefficient, so the analysis must be repeated"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "The Pearson correlation coefficient r is always between −1 and +1, and the closer the absolute value of r is to 1, the stronger the linear correlation. A negative r value indicates a negative correlation: as one variable increases, the other decreases. With |r| = 0.8, this is a strong negative linear correlation—consistent with more exercise being associated with lower BMI. For comparison, r = −0.4 would be a weak negative correlation and r = 0 would indicate no correlation.",
+  "explanation_incorrect": {
+    "B": "r = −0.8 is far from 0 and close to −1, indicating a strong—not weak—negative correlation; r = −0.4 is the example of a weak negative correlation.",
+    "C": "No correlation corresponds to r = 0, not r = −0.8.",
+    "D": "A positive r value would indicate that both variables move in the same direction; the sign here is negative.",
+    "E": "r = −0.8 lies within the permissible range of −1 to +1, so no repetition of the analysis is needed."
+  },
+  "educationalObjective": "Pearson r ranges from −1 to +1: the sign gives the direction of the linear correlation and |r| close to 1 indicates a strong one.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Pearson correlation coefficient"
+},
+{
+  "id": "phs-115",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Pearson correlation coefficient",
+  "difficulty": "hard",
+  "vignette": "A study of 150 patients finds a Pearson correlation coefficient of r = 0.6 between serum uric acid level and systolic blood pressure.",
+  "question": "What proportion of the variance in one of these variables is explained by the variance in the other?",
+  "options": [
+    {
+      "id": "A",
+      "text": "60%"
+    },
+    {
+      "id": "B",
+      "text": "6%"
+    },
+    {
+      "id": "C",
+      "text": "40%"
+    },
+    {
+      "id": "D",
+      "text": "64%"
+    },
+    {
+      "id": "E",
+      "text": "36%"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "The coefficient of determination is r², the proportion of variance in one variable that can be explained by variance in the other. Squaring r = 0.6 gives 0.36, so 36% of the variance is shared between uric acid level and systolic blood pressure. Correlation, however, does not necessarily imply causation, and this shared variance may reflect confounding.",
+  "explanation_incorrect": {
+    "A": "60% confuses the correlation coefficient r with the coefficient of determination r²; variance explained is r squared.",
+    "B": "6% is not a meaningful transformation of r = 0.6 and misplaces the decimal point.",
+    "C": "40% is 1 − r, a calculation with no defined meaning; the unexplained proportion would be 1 − r² = 64%.",
+    "D": "64% is 1 − r², the proportion of variance NOT explained by the other variable—the inverse of the correct answer."
+  },
+  "educationalObjective": "The coefficient of determination r² gives the proportion of variance in one variable explained by variance in the other; square r to obtain it.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Pearson correlation coefficient"
+},
+{
+  "id": "phs-116",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Pearson correlation coefficient",
+  "difficulty": "easy",
+  "vignette": "An epidemiologic study computes a Pearson correlation coefficient of r = +0.9 between monthly ice cream sales and the number of drowning deaths in a coastal county. A newspaper headline claims that ice cream causes drowning.",
+  "question": "Which of the following is the most appropriate interpretation of this finding?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The correlation proves that ice cream consumption causes drowning deaths"
+    },
+    {
+      "id": "B",
+      "text": "The correlation is weak, so no conclusion about any relationship can be drawn"
+    },
+    {
+      "id": "C",
+      "text": "The value of r = +0.9 falls outside the valid range for a correlation coefficient"
+    },
+    {
+      "id": "D",
+      "text": "The variables show a strong positive linear correlation, but correlation does not necessarily imply causation"
+    },
+    {
+      "id": "E",
+      "text": "The negative sign of the relationship indicates that as ice cream sales rise, drowning deaths fall"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "A positive r value indicates a positive correlation—as one variable increases, the other increases—and |r| = 0.9 is close to 1, indicating a strong linear correlation. However, correlation does not necessarily imply causation; a third factor (such as hot summer weather, which drives both ice cream sales and swimming) may explain the association. Statistical association alone cannot establish a causal mechanism.",
+  "explanation_incorrect": {
+    "A": "Correlation does not imply causation; a confounding variable such as warm weather plausibly explains both rising sales and more drownings.",
+    "B": "r = 0.9 is very close to +1, indicating a strong correlation, not a weak one.",
+    "C": "r is always between −1 and +1, so r = +0.9 is a perfectly valid value.",
+    "E": "A positive r indicates both variables increase together; the claim that drowning deaths fall as sales rise describes a negative correlation."
+  },
+  "educationalObjective": "A strong positive r indicates a strong positive linear correlation, but correlation does not necessarily imply causation.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Pearson correlation coefficient"
+}
+]

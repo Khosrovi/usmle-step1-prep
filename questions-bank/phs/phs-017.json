@@ -1,0 +1,125 @@
+[
+{
+  "id": "phs-065",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Demographic transition and population pyramids",
+  "difficulty": "medium",
+  "vignette": "A public health student compares census data from the same developing country across 50 years. In the earliest data, both birth and mortality rates were high and the population was young. In the most recent data, infant mortality has fallen dramatically, birth rates have also declined (though more slowly), and the proportion of older adults has increased.",
+  "question": "Which of the following best describes the process illustrated by these data?",
+  "options": [
+    {
+      "id": "A",
+      "text": "As development proceeds, birth rates decline but mortality rates remain constant, so the population grows exponentially"
+    },
+    {
+      "id": "B",
+      "text": "As development proceeds, mortality rates decline but birth rates remain constant, producing a pyramid with a narrower base"
+    },
+    {
+      "id": "C",
+      "text": "As a country proceeds to higher levels of development, birth and mortality rates decline to varying degrees, changing the age composition of the population"
+    },
+    {
+      "id": "D",
+      "text": "As a country develops, birth rates rise while mortality rates fall, shifting the population pyramid toward a broad base of children"
+    },
+    {
+      "id": "E",
+      "text": "As a country develops, both birth and mortality rates rise in parallel, leaving the age composition of the population unchanged"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Demographic transition is defined as the process by which, as a country proceeds to higher levels of development, birth and mortality rates decline to varying degrees, thereby changing the age composition of the population. The vignette's key findings — falling mortality, falling (but lagging) birth rates, and a growing share of older adults — are the classic profile. Population pyramids track this shift: declining birth rates narrow the base of the pyramid while improved survival lengthens the upper bars.",
+  "explanation_incorrect": {
+    "A": "Mortality rates also decline with development; a constant mortality rate with falling births would not describe the observed aging of the population.",
+    "B": "Birth rates decline as well during demographic transition; saying they remain constant contradicts both the definition and the change in age composition described.",
+    "D": "Rising birth rates would broaden the pyramid's base and grow the population; the opposite occurs as development proceeds.",
+    "E": "Both rates decline rather than rise, and the age composition changes substantially — that change is the defining feature of demographic transition."
+  },
+  "educationalObjective": "Demographic transition: as countries develop, birth and mortality rates decline to varying degrees, changing the age composition of the population.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Demographic transition and population pyramids"
+},
+{
+  "id": "phs-066",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Demographic transition and population pyramids",
+  "difficulty": "easy",
+  "vignette": "A demographer reviews a population pyramid for a country in sub-Saharan Africa. The graph shows a very wide base among children 0–4 years of age, with each successive age bar substantially narrower, so the shape tapers steeply toward the oldest age groups at the top.",
+  "question": "Which of the following best characterizes this population?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A growing population with a high birth rate and short life expectancy"
+    },
+    {
+      "id": "B",
+      "text": "A stable population with a low birth rate and long life expectancy"
+    },
+    {
+      "id": "C",
+      "text": "A declining population with a low birth rate and long life expectancy"
+    },
+    {
+      "id": "D",
+      "text": "A stable population with a rising birth rate and short life expectancy"
+    },
+    {
+      "id": "E",
+      "text": "A declining population with a high birth rate and long life expectancy"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "A pyramid with a broad base and steep taper represents a growing population: the wide base reflects a high birth rate, and the rapid narrowing toward older ages reflects relatively short life expectancy and high mortality at younger ages. In the First Aid population pyramid table, growing populations combine an increased birth rate, increased mortality rate, and short life expectancy.",
+  "explanation_incorrect": {
+    "B": "A stable population shows a roughly straight-sided pyramid with a low birth rate and long life expectancy, not a broad, steeply tapering base.",
+    "C": "A declining population has a narrower base than the middle age groups (more older than young people) with a low birth rate, which is the opposite of the shape described.",
+    "D": "Stable populations have a low, not rising, birth rate, and the described taper reflects short life expectancy only in a growing population.",
+    "E": "A high birth rate produces a broad base and a growing, not declining, population."
+  },
+  "educationalObjective": "A broad-based, steeply tapering population pyramid indicates a growing population (high birth rate, short life expectancy).",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Demographic transition and population pyramids"
+},
+{
+  "id": "phs-067",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Demographic transition and population pyramids",
+  "difficulty": "hard",
+  "vignette": "A national census office displays its country's population pyramid. The base among children 0–4 years is narrower than the bars for adults aged 40–60 years, and the bars for those older than 80 years are comparatively large, reflecting long survival into advanced age.",
+  "question": "Which of the following statements about this population is most likely correct?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Birth rate is high and the population is growing"
+    },
+    {
+      "id": "B",
+      "text": "Birth rate is decreasing, mortality rate is increasing, and life expectancy is short"
+    },
+    {
+      "id": "C",
+      "text": "Birth rate and mortality rate are both stable at high levels"
+    },
+    {
+      "id": "D",
+      "text": "Life expectancy is short and the population is stable"
+    },
+    {
+      "id": "E",
+      "text": "Birth rate is decreasing, mortality rate is decreasing, and the population is declining"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "A pyramid whose base is narrower than the middle age groups, with substantial representation among the very old, is the signature of a declining population. Per the population pyramid table, declining populations combine a decreasing birth rate, decreasing mortality rate, and long life expectancy — few children are born, and those who are born survive into old age, so each successive birth cohort is smaller than the one before it.",
+  "explanation_incorrect": {
+    "A": "A high birth rate produces a wide base and a growing population; this pyramid has a narrow base relative to older cohorts.",
+    "B": "Declining populations have a decreasing (not increasing) mortality rate and long (not short) life expectancy.",
+    "C": "High, stable birth and mortality rates correspond to a young, growing population with a broad base, not the top-heavy pyramid described.",
+    "D": "Short life expectancy thins the upper bars of the pyramid; here the older bars are comparatively large, indicating long life expectancy in a declining population."
+  },
+  "educationalObjective": "A population pyramid with a narrow base and large older cohorts indicates a declining population: decreased birth rate, decreased mortality rate, and long life expectancy.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Demographic transition and population pyramids"
+}
+]

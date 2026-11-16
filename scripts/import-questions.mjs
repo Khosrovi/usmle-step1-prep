@@ -132,15 +132,30 @@ console.log(
     "."
 );
 
-const existingResponse = await fetch(
-  `${url}/rest/v1/questions?select=id,subject,vignette,question&limit=10000`,
-  { headers }
-);
-if (!existingResponse.ok) {
-  console.error("Failed to read existing questions:", existingResponse.status, await existingResponse.text());
-  process.exit(1);
+// PostgREST caps one response at 1000 rows regardless of the requested limit,
+// so the existing set is fetched page by page until a short page arrives.
+// A single limit=10000 request would silently truncate the dedupe baseline and
+// make a re-run re-insert everything past the first 1000 rows.
+async function fetchExistingQuestions() {
+  const PAGE = 1000;
+  const existing = [];
+  for (let offset = 0; ; offset += PAGE) {
+    const response = await fetch(
+      `${url}/rest/v1/questions?select=id,subject,vignette,question&limit=${PAGE}&offset=${offset}`,
+      { headers }
+    );
+    if (!response.ok) {
+      console.error("Failed to read existing questions:", response.status, await response.text());
+      process.exit(1);
+    }
+    const page = await response.json();
+    existing.push(...page);
+    if (page.length < PAGE) break;
+  }
+  return existing;
 }
-const existing = await existingResponse.json();
+
+const existing = await fetchExistingQuestions();
 const existingKeys = new Set(existing.map((q) => `${q.vignette}\u0000${q.question}`));
 console.log(`Database already has ${existing.length} question(s).`);
 

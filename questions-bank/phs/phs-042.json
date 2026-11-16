@@ -1,0 +1,166 @@
+[
+{
+  "id": "phs-054",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "ROC curves and diagnostic test cutoffs",
+  "difficulty": "easy",
+  "vignette": "Two serum biomarkers are compared for their ability to distinguish patients with pancreatic adenocarcinoma from healthy controls. For each biomarker, a receiver operating characteristic (ROC) curve is constructed by plotting sensitivity against 1 − specificity across all possible cutoff values. Biomarker X has an area under the curve (AUC) of 0.85, and biomarker Y has an AUC of 0.65.",
+  "question": "Which of the following conclusions is best supported by these findings?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Biomarker Y is superior because its lower AUC indicates fewer false positives at any given sensitivity."
+    },
+    {
+      "id": "B",
+      "text": "An AUC of 0.5 would represent the ideal diagnostic test."
+    },
+    {
+      "id": "C",
+      "text": "Biomarker X distinguishes the two groups better, because a higher AUC indicates a curve closer to the upper left corner of the plot."
+    },
+    {
+      "id": "D",
+      "text": "Biomarker X should be rejected because any AUC below 1.0 indicates no diagnostic value."
+    },
+    {
+      "id": "E",
+      "text": "The ROC curve plots the positive predictive value against the negative predictive value at successive cutoffs."
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "An ROC curve demonstrates how well a diagnostic test can distinguish between two groups (eg, disease vs healthy) by plotting the true-positive rate (sensitivity) against the false-positive rate (1 − specificity). The better performing test has a higher area under the curve, with the curve closer to the upper left corner; biomarker X (AUC = 0.85) therefore outperforms biomarker Y (AUC = 0.65).",
+  "explanation_incorrect": {
+    "A": "A lower AUC indicates poorer discrimination between diseased and healthy groups, not fewer false positives; a better test has a higher AUC.",
+    "B": "An AUC of 0.5 represents a test with no predictive value, in which the ROC follows the diagonal line of chance; the ideal test has an AUC of 1.",
+    "D": "An AUC of 1 is the theoretical ideal for a perfect test, but real tests fall between 0.5 and 1, and an AUC of 0.85 still indicates good diagnostic performance.",
+    "E": "The ROC curve plots the true-positive rate (sensitivity) against the false-positive rate (1 − specificity), not PPV against NPV, which vary with prevalence."
+  },
+  "educationalObjective": "ROC curves plot true-positive rate (sensitivity) versus false-positive rate (1 − specificity); better tests have a higher AUC, with the ideal at AUC = 1 and no predictive value at AUC = 0.5.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: ROC curves and diagnostic test cutoffs"
+},
+{
+  "id": "phs-055",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "ROC curves and diagnostic test cutoffs",
+  "difficulty": "medium",
+  "vignette": "Investigators are developing a serum screening test for gestational diabetes and are choosing the glucose threshold above which the test is considered positive. As part of the evaluation, they move the diagnostic cutoff value from point B to a lower value (toward point A on the ROC curve analysis), increasing the number of positive test results.",
+  "question": "What effect does lowering the cutoff value have on the test characteristics?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Sensitivity and NPV increase, while specificity and PPV decrease."
+    },
+    {
+      "id": "B",
+      "text": "Sensitivity and NPV decrease, while specificity and PPV increase."
+    },
+    {
+      "id": "C",
+      "text": "Sensitivity and specificity both increase."
+    },
+    {
+      "id": "D",
+      "text": "Sensitivity and specificity both decrease."
+    },
+    {
+      "id": "E",
+      "text": "No characteristic changes, because sensitivity and specificity are fixed properties of a test."
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Lowering the cutoff value classifies more people as test-positive: more true cases are captured (↑ sensitivity, fewer false negatives, so ↑ NPV) but more healthy people are incorrectly labeled positive (↑ false positives, so ↓ specificity and ↓ PPV). This trade-off is appropriate for screening, where missing cases is the greater harm.",
+  "explanation_incorrect": {
+    "B": "This describes raising the cutoff value, not lowering it: raising a cutoff increases specificity and PPV while decreasing sensitivity and NPV.",
+    "C": "Sensitivity and specificity move in opposite directions when a single cutoff is shifted along a continuous measure; both cannot increase together.",
+    "D": "Both cannot decrease together either; shifting the cutoff trades sensitivity against specificity rather than changing both in the same direction.",
+    "E": "Sensitivity and specificity are fixed properties of a given test at a given cutoff; changing the cutoff creates a different operating point with different test characteristics."
+  },
+  "educationalObjective": "Lowering a diagnostic cutoff increases sensitivity and NPV while decreasing specificity and PPV.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: ROC curves and diagnostic test cutoffs"
+},
+{
+  "id": "phs-056",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "ROC curves and diagnostic test cutoffs",
+  "difficulty": "medium",
+  "vignette": "A positive result on an initial screening test for a liver lesion is followed by an invasive, costly confirmatory procedure. To limit the number of patients without disease who undergo the procedure, clinicians propose recalibrating the confirmatory imaging test by moving its diagnostic cutoff from point B to a higher value (toward point C on the ROC curve analysis).",
+  "question": "Which of the following best describes the expected effect of raising the cutoff value of this confirmatory test?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Sensitivity and NPV increase, while specificity and PPV decrease."
+    },
+    {
+      "id": "B",
+      "text": "Sensitivity increases while specificity decreases, with no change in the predictive values."
+    },
+    {
+      "id": "C",
+      "text": "The test characteristics do not change, because sensitivity and specificity are fixed properties of a test."
+    },
+    {
+      "id": "D",
+      "text": "Specificity and PPV decrease, while sensitivity and NPV increase."
+    },
+    {
+      "id": "E",
+      "text": "Specificity and PPV increase, while sensitivity and NPV decrease."
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Raising the cutoff value from B toward C makes a positive result harder to achieve: fewer disease-free individuals are mislabeled (↑ specificity, ↓ false positives, so ↑ PPV), but some true cases now fall below the threshold (↑ false negatives, so ↓ sensitivity and ↓ NPV). This trade-off is appropriate for a confirmatory test preceding an invasive procedure, where avoiding false positives is the priority (SP-P-IN).",
+  "explanation_incorrect": {
+    "A": "This is the effect of lowering the cutoff value; raising it moves test performance in the opposite direction.",
+    "B": "The predictive values do change along with the underlying rates: raising the cutoff raises specificity and PPV and lowers sensitivity and NPV, rather than leaving predictive values untouched.",
+    "C": "Sensitivity and specificity are fixed for a test at a given cutoff; deliberately changing the cutoff changes the operating characteristics of the test.",
+    "D": "This reverses the actual effect: raising the cutoff increases specificity and PPV while decreasing sensitivity and NPV."
+  },
+  "educationalObjective": "Raising a diagnostic cutoff increases specificity and PPV while decreasing sensitivity and NPV — the preferred trade-off for confirmatory testing.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: ROC curves and diagnostic test cutoffs"
+},
+{
+  "id": "phs-057",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "ROC curves and diagnostic test cutoffs",
+  "difficulty": "hard",
+  "vignette": "Anemia is diagnosed when a hemoglobin value falls below a defined threshold, so unlike most diseases, lower test values indicate disease. A national laboratory committee decides to lower the hemoglobin cutoff used to define a positive screening test (from point B to point A on the cutoff graph).",
+  "question": "What is the expected effect of lowering this cutoff on the screening test's performance?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Sensitivity and NPV increase, while specificity and PPV decrease."
+    },
+    {
+      "id": "B",
+      "text": "Sensitivity increases while specificity also increases."
+    },
+    {
+      "id": "C",
+      "text": "No characteristic changes, because sensitivity and specificity are fixed properties of a test."
+    },
+    {
+      "id": "D",
+      "text": "Sensitivity and NPV decrease, while specificity and PPV increase."
+    },
+    {
+      "id": "E",
+      "text": "Sensitivity decreases while NPV increases."
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "For diseases diagnosed on the basis of lower values (eg, anemia), the true-positive and true-negative quadrants are switched compared with the standard graph, so the usual cutoff rules are reversed. Lowering the hemoglobin threshold means only more severely affected patients test positive (more false negatives, ↓ sensitivity and ↓ NPV), while fewer healthy individuals fall below the threshold (fewer false positives, ↑ specificity and ↑ PPV).",
+  "explanation_incorrect": {
+    "A": "This is the standard rule for lowering a cutoff when higher values indicate disease; it does not apply to anemia, where lower values are abnormal and the TP/TN positions are switched.",
+    "B": "Sensitivity and specificity always trade off against each other when a single cutoff is shifted; they cannot both increase from the same change.",
+    "C": "Sensitivity and specificity are fixed properties of a test at a given cutoff; changing the cutoff defines a new operating point with new characteristics.",
+    "E": "Sensitivity and NPV move in the same direction for a cutoff shift; here both decrease, because fewer anemic patients are detected and a negative result becomes less reassuring."
+  },
+  "educationalObjective": "For diseases diagnosed by lower values (eg, anemia), the TP and TN relationships are switched, so lowering the cutoff decreases sensitivity and NPV while increasing specificity and PPV.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: ROC curves and diagnostic test cutoffs"
+}
+]

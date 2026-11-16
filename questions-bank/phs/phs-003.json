@@ -1,0 +1,330 @@
+[
+{
+  "id": "phs-068",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Bias and study errors",
+  "difficulty": "easy",
+  "vignette": "A retrospective case-control study examines prenatal exposures among children who later developed leukemia. After the diagnosis was publicized in the local news, mothers of affected children reported detailed recall of pesticide exposure in early pregnancy, whereas mothers of unaffected children reported minimal exposure.",
+  "question": "Which of the following biases best explains the difference in reported exposures between the two groups of mothers?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Selection bias from nonrandom sampling of participants"
+    },
+    {
+      "id": "B",
+      "text": "Recall bias, because awareness of the disorder alters recall by subjects"
+    },
+    {
+      "id": "C",
+      "text": "Measurement bias from a systematically distorted data-collection instrument"
+    },
+    {
+      "id": "D",
+      "text": "Procedure bias, because the two groups were not treated the same"
+    },
+    {
+      "id": "E",
+      "text": "Lead-time bias from earlier detection in the exposed group"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Recall bias occurs when awareness of a disorder alters what subjects recall — mothers of children with disease recall exposures after learning of similar cases. It is common in retrospective studies such as case-control studies, because exposure information is collected after the outcome is already known. Reducing the time from exposure to follow-up and using medical records as the data source are the recommended strategies.",
+  "explanation_incorrect": {
+    "A": "Selection bias would involve how mothers were recruited into the study, not how much of a past exposure they remember after a diagnosis.",
+    "C": "The problem is the subjects' memory, not a faulty instrument or distorted method of information gathering on the researchers' side.",
+    "D": "Both groups of mothers were asked the same questions; there is no indication that the groups received different procedures or attention.",
+    "E": "Lead-time bias concerns screening tests detecting disease earlier without changing the course of disease, which does not apply to recalled prenatal exposures."
+  },
+  "educationalObjective": "Recall bias: awareness of the disorder alters recall by subjects and is common in retrospective studies; reduce it by shortening exposure-to-follow-up time and using medical records.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Bias and study errors"
+},
+{
+  "id": "phs-069",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Bias and study errors",
+  "difficulty": "medium",
+  "vignette": "A nutrition study enrolls employees to evaluate a new cafeteria labeling system. During the 12 weeks when investigators were on site recording eating habits, employees chose markedly more fruits and vegetables than during the pre-study baseline audit, then reverted afterward.",
+  "question": "Which of the following best explains the improved dietary choices during the observation period?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Procedure bias, because the labeled foods were placed in more convenient locations"
+    },
+    {
+      "id": "B",
+      "text": "Observer-expectancy bias, because the researchers believed the labels would work"
+    },
+    {
+      "id": "C",
+      "text": "Selection bias, because only health-conscious employees agreed to enroll"
+    },
+    {
+      "id": "D",
+      "text": "Measurement bias due to the Hawthorne effect"
+    },
+    {
+      "id": "E",
+      "text": "Recall bias, because employees overestimated their fruit and vegetable intake"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "The Hawthorne effect is a form of measurement bias in which participants change their behavior upon awareness of being observed. The employees' temporary improvement only while investigators were watching — with reversion afterward — is the classic pattern. Objective, standardized, and previously tested methods of data collection planned ahead of time (and use of a placebo group) reduce this bias.",
+  "explanation_incorrect": {
+    "A": "Procedure bias requires that subjects in different groups be treated differently; all employees here were observed the same way.",
+    "B": "Observer-expectancy (Pygmalion) bias is the researcher's belief changing the recorded outcome; here the participants themselves changed behavior because they knew they were watched.",
+    "C": "Selection bias concerns how participants were recruited or allocated; enrollment of health-conscious employees would not explain behavior that changed only during the observation period.",
+    "E": "The food choices were directly observed, not recalled from memory, so recall bias does not apply."
+  },
+  "educationalObjective": "Hawthorne effect: participants change behavior when they know they are being observed, classified as a measurement bias.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Bias and study errors"
+},
+{
+  "id": "phs-070",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Bias and study errors",
+  "difficulty": "hard",
+  "vignette": "A city introduces a mammography screening program. Five-year survival measured from the date of diagnosis rises from 75% to 90% after implementation. However, breast cancer–specific mortality rates in the city are unchanged, and women are simply diagnosed at an earlier point in the same disease course.",
+  "question": "Which of the following biases best explains the apparent increase in survival?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Lead-time bias, because early detection increases survival time measured from diagnosis without changing the disease course"
+    },
+    {
+      "id": "B",
+      "text": "Length-time bias, because screening preferentially detects rapidly progressive cancers"
+    },
+    {
+      "id": "C",
+      "text": "Recall bias, because screened women more accurately remember prior mammograms"
+    },
+    {
+      "id": "D",
+      "text": "Measurement bias, because the cause of death was classified incorrectly"
+    },
+    {
+      "id": "E",
+      "text": "Attrition bias, because more women were lost to follow-up before screening began"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Lead-time bias occurs when early detection is interpreted as increased survival even though the disease course has not changed — patients simply live longer with the diagnosis. This is the classic example of breast cancer diagnosed early by mammography appearing to exaggerate survival time. The remedy is to measure 'back-end' survival, adjusting survival according to the severity of disease at the time of diagnosis.",
+  "explanation_incorrect": {
+    "B": "Length-time bias is the preferential detection of slowly progressive disease, not a survival benefit from earlier calendar-time detection; it would not explain an unchanged mortality rate with longer measured survival from diagnosis.",
+    "C": "Recall bias involves subjects' awareness of a disorder altering recall of past exposures, which is irrelevant to survival statistics after diagnosis.",
+    "D": "Misclassification of cause of death is a measurement error, but the stated mechanism — diagnosis earlier in an unchanged disease course — is lead-time bias.",
+    "E": "There is no differential loss to follow-up described; both eras' survival figures come from diagnosed cases."
+  },
+  "educationalObjective": "Lead-time bias: earlier detection inflates survival measured from diagnosis without changing disease course; reduce it by measuring back-end survival adjusted for severity.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Bias and study errors"
+},
+{
+  "id": "phs-071",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Bias and study errors",
+  "difficulty": "easy",
+  "vignette": "An investigator studies the association between heavy coffee consumption and pancreatitis. Because hospitalized patients are easier to contact, both cases and controls are recruited from hospital wards. Hospitalized patients are less healthy overall and have systematically different exposures (including coffee and alcohol habits) than the community.",
+  "question": "Which of the following best describes the primary threat to this study's validity?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Recall bias from differential memory of coffee intake"
+    },
+    {
+      "id": "B",
+      "text": "Observer-expectancy bias from the investigator's beliefs"
+    },
+    {
+      "id": "C",
+      "text": "Lead-time bias from earlier case detection in the hospital"
+    },
+    {
+      "id": "D",
+      "text": "Procedure bias from unequal treatment of the two groups"
+    },
+    {
+      "id": "E",
+      "text": "Selection bias from recruiting only hospitalized patients (Berkson bias)"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Recruiting both cases and controls from hospitals — so-called Berkson bias or 'bedside bias' — is a form of selection bias: hospitalized patients are less healthy and have different exposures than the target population, so the study population is not representative. Randomization and ensuring the choice of the right comparison group (here, community-based controls) are the recommended remedies.",
+  "explanation_incorrect": {
+    "A": "Recall bias would require the patients' awareness of the disorder to distort their memory of coffee intake, which is not the issue described.",
+    "B": "The investigator's expectations are not said to influence how outcomes are documented; the problem lies in who was sampled.",
+    "C": "Lead-time bias applies to screening tests that detect disease earlier without changing its course, not to where controls are recruited.",
+    "D": "Both groups are recruited the same way from the hospital; the groups are not being managed differently during the study."
+  },
+  "educationalObjective": "Berkson (bedside) bias: selecting cases and controls from hospitals is a form of selection bias because hospitalized patients have different exposures and health status.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Bias and study errors"
+},
+{
+  "id": "phs-072",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Bias and study errors",
+  "difficulty": "medium",
+  "vignette": "In a trial of a new postoperative rehabilitation program, patients assigned to the intervention recover on a highly specialized hospital unit with daily physiotherapist contact, while patients assigned to standard care recover on general wards with routine check-ups. The intervention arm shows better mobility scores at discharge.",
+  "question": "Which of the following biases best explains the apparent benefit of the new program?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Recall bias from better memory of therapy sessions in the intervention group"
+    },
+    {
+      "id": "B",
+      "text": "Measurement bias from a faulty mobility assessment scale"
+    },
+    {
+      "id": "C",
+      "text": "Procedure bias, because subjects in the different groups were not treated the same"
+    },
+    {
+      "id": "D",
+      "text": "Attrition bias, because more control patients dropped out of the study"
+    },
+    {
+      "id": "E",
+      "text": "Length-time bias, because slower-recovering patients were preferentially enrolled"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Procedure bias occurs when subjects in different groups are not treated the same — the classic example being patients in the treatment group spending more time in highly specialized hospital units. The mobility benefit here may reflect the enhanced unit care rather than the rehabilitation program itself. Blinding (masking) and use of a placebo reduce the influence of participants and researchers on procedures and outcome interpretation.",
+  "explanation_incorrect": {
+    "A": "Mobility was measured directly at discharge; the differential memory of past events that defines recall bias plays no role.",
+    "B": "The scale is not described as systematically distorted; the same outcome measure is presumably applied to both arms.",
+    "D": "No differential loss to follow-up is described; the bias arises from unequal co-treatment, not dropout.",
+    "E": "Length-time bias concerns screening tests preferentially detecting slowly progressive disease, not unequal ward-based care in a treatment trial."
+  },
+  "educationalObjective": "Procedure bias: unequal treatment of study groups (eg, specialized units for the treatment arm); reduce with blinding and placebo.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Bias and study errors"
+},
+{
+  "id": "phs-073",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Bias and study errors",
+  "difficulty": "medium",
+  "vignette": "A clinical trial of an experimental stroke rehabilitation drug is conducted by its inventor, who openly describes the compound as a breakthrough. Although recovery is scored from standardized videos, the unblinded scorers, expecting the treatment group to show signs of recovery, document more positive outcomes in that arm than independent later review supports.",
+  "question": "Which of the following biases best explains the inflated outcomes in the treatment group?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Selection bias from nonrandom allocation to the treatment group"
+    },
+    {
+      "id": "B",
+      "text": "Observer-expectancy bias (Pygmalion effect)"
+    },
+    {
+      "id": "C",
+      "text": "Recall bias from treatment participants recalling improvement"
+    },
+    {
+      "id": "D",
+      "text": "Lead-time bias from earlier detection of recovery"
+    },
+    {
+      "id": "E",
+      "text": "Confounding by severity of stroke at enrollment"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Observer-expectancy bias (also called the Pygmalion effect) occurs when a researcher's belief in the efficacy of a treatment changes the outcome of that treatment — an observer expecting the treatment group to show signs of recovery is more likely to document positive outcomes. Blinding (masking) of both participants and researchers is the recommended strategy to reduce this influence on outcome interpretation.",
+  "explanation_incorrect": {
+    "A": "No nonrandom allocation is described; the distortion arises during outcome assessment, not enrollment.",
+    "C": "The inflated outcomes come from the scorers' documentation, not from subjects' memory of their own improvement.",
+    "D": "Lead-time bias relates to screening that diagnoses disease earlier without changing its course, not to outcome scoring in a treatment trial.",
+    "E": "Confounding by baseline severity is a third-variable problem at the design level; the described distortion stems from the researchers' expectations."
+  },
+  "educationalObjective": "Observer-expectancy (Pygmalion) effect: the researcher's belief changes the documented outcome; reduce with blinding.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Bias and study errors"
+},
+{
+  "id": "phs-074",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Bias and study errors",
+  "difficulty": "hard",
+  "vignette": "A new serum biomarker screening test for prostate cancer is evaluated in a volunteer program. Among cancers detected by the screen, most are slow-growing, indolent tumors with long latency periods, whereas rapidly progressive cancers tend to declare themselves symptomatically between screening rounds and are proportionately underrepresented among screen-detected cases.",
+  "question": "Which of the following biases best explains the overrepresentation of indolent tumors among screen-detected cancers, and which study design would best quantify the screening program's true benefit?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Lead-time bias; measure back-end survival adjusted for severity at diagnosis"
+    },
+    {
+      "id": "B",
+      "text": "Recall bias; use medical records as the source of exposure data"
+    },
+    {
+      "id": "C",
+      "text": "Measurement bias; standardize and pretest the data-collection methods"
+    },
+    {
+      "id": "D",
+      "text": "Length-time bias; a randomized controlled trial assigning subjects to screening versus no screening"
+    },
+    {
+      "id": "E",
+      "text": "Attrition bias; shorten the time from exposure to follow-up"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Length-time bias occurs because screening tests preferentially detect diseases with long latency periods (slowly progressive cancers), while rapidly progressive cancers become symptomatic earlier and are missed between screens — so screen-detected cases have a better prognosis on average even if screening helps no one. The corrective is a randomized controlled trial assigning subjects to the screening program or to no screening.",
+  "explanation_incorrect": {
+    "A": "Back-end survival addresses lead-time bias, where survival appears longer solely because diagnosis occurred earlier in an unchanged disease course; here the issue is which tumors the screen finds, not when they are found.",
+    "B": "Recall bias concerns awareness of a disorder altering subjects' recollection of exposures and is not involved in which tumors are detected.",
+    "C": "No systematically distorted information gathering is described; the biomarker simply preferentially finds slow tumors.",
+    "E": "Shortening exposure-to-follow-up time addresses recall bias; attrition bias requires participants lost to follow-up to have a different prognosis."
+  },
+  "educationalObjective": "Length-time bias: screening preferentially detects slowly progressive disease; quantify screening's true benefit with an RCT of screening versus no screening.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Bias and study errors"
+},
+{
+  "id": "phs-075",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Bias and study errors",
+  "difficulty": "hard",
+  "vignette": "A 5-year cohort study of a new diabetes drug reports strong cardiovascular benefit. On audit, 30% of participants assigned to the drug who developed the most severe side effects transferred to community physicians and were lost to follow-up, while almost all control participants remained in the study through completion.",
+  "question": "Which of the following best describes the principal study error?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Attrition bias, because participants lost to follow-up have a different prognosis than those who complete the study"
+    },
+    {
+      "id": "B",
+      "text": "Recall bias, because dropouts recall their medication history differently"
+    },
+    {
+      "id": "C",
+      "text": "Lead-time bias, because drug-arm events are detected earlier"
+    },
+    {
+      "id": "D",
+      "text": "Observer-expectancy bias, because the sponsor expects the drug to succeed"
+    },
+    {
+      "id": "E",
+      "text": "Hawthorne effect, because enrolled patients improve when monitored"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Attrition bias is a form of selection bias in which participants lost to follow-up have a different prognosis than those who complete the study. Here the sickest drug-treated participants left the cohort, so the remaining completers overstate the drug's benefit. Randomization (which creates groups with similar distributions of known and unknown variables) and ensuring the choice of the right comparison group are the strategies listed to reduce such bias.",
+  "explanation_incorrect": {
+    "B": "No participant's memory of exposure is being recorded; the problem is that adverse outcomes left the denominator.",
+    "C": "Lead-time bias concerns earlier diagnosis by screening inflating survival, not loss of the sickest participants to follow-up.",
+    "D": "Observer-expectancy bias would require the researchers' beliefs to alter documented outcomes; the dropout pattern is the stated problem.",
+    "E": "The Hawthorne effect describes behavior change from awareness of being observed, which does not explain why severe side-effect cases left the study."
+  },
+  "educationalObjective": "Attrition bias: participants lost to follow-up carry a different prognosis than completers, distorting measured benefit; a selection bias reduced by randomization and proper comparison groups.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Bias and study errors"
+}
+]

@@ -1,0 +1,248 @@
+[
+{
+  "id": "phs-008",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Clinical trials and study phases",
+  "difficulty": "easy",
+  "vignette": "In a new antihypertensive drug trial, patients receive identically appearing numbered bottles, and neither the patients nor the clinicians who interact with them and assess outcomes knows who is receiving active drug. The statisticians who later analyze the data are additionally kept unaware of the group assignments until the analysis is complete.",
+  "question": "Which of the following terms describes the additional step involving the data analysts?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Randomization"
+    },
+    {
+      "id": "B",
+      "text": "Triple-blinding"
+    },
+    {
+      "id": "C",
+      "text": "Crossover design"
+    },
+    {
+      "id": "D",
+      "text": "Intention-to-treat analysis"
+    },
+    {
+      "id": "E",
+      "text": "Stratification"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "A clinical trial is double-blinded when neither the subject nor the researcher (those interacting with the subject) knows whether the subject is in the treatment or control group. Triple-blind refers to the additional blinding of the researchers analyzing the data, which is exactly the step described for the statisticians. Blinding reduces bias in outcome assessment and reporting.",
+  "explanation_incorrect": {
+    "A": "Randomization is the process of allocating subjects to treatment or control groups by chance; it does not refer to keeping the data analysts unaware of group assignments.",
+    "C": "A crossover design is one in which each subject receives a series of treatments in randomized order with a washout period between them; it describes treatment sequencing, not blinding of analysts.",
+    "D": "Intention-to-treat analysis means all randomized subjects are analyzed in their originally assigned groups regardless of compliance or attrition; it concerns analysis groups, not knowledge of assignments.",
+    "E": "Stratification is the separation of subjects into subgroups (eg, by age or disease severity) for analysis; it has nothing to do with who knows the treatment assignments."
+  },
+  "educationalObjective": "Double-blinding means neither subject nor researcher knows group assignment; triple-blinding additionally blinds the researchers analyzing the data.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Clinical trials and study phases"
+},
+{
+  "id": "phs-009",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Clinical trials and study phases",
+  "difficulty": "medium",
+  "vignette": "After completing laboratory animal testing and in vitro experiments of an investigational kinase inhibitor, a pharmaceutical company administers sequentially increasing doses to 40 healthy volunteers, stopping at the maximum dose that subjects can tolerate, to characterize the drug's safety. There is no comparison group, and both investigators and subjects know the drug is active.",
+  "question": "Which of the following best describes this study?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A phase 0 study using microdosing for pharmacokinetic assessment"
+    },
+    {
+      "id": "B",
+      "text": "A phase 2 trial assessing efficacy in patients with the disease of interest"
+    },
+    {
+      "id": "C",
+      "text": "A phase 3 trial comparing the drug with the current standard of care"
+    },
+    {
+      "id": "D",
+      "text": "A phase 4 postmarketing surveillance program"
+    },
+    {
+      "id": "E",
+      "text": "A phase 1 trial assessing safety via dose escalation to determine the maximum tolerable dose"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Phase 1 trials follow preclinical testing and consist of safety assessment via dose escalation, determining the maximum tolerable dose. They involve a small number of healthy volunteers (or patients with the disease of interest) and are open label, matching the small sample, the healthy volunteers, and the absence of blinding described. The memory aid is \"Can I SWIM?\" — phase 1 is about whether the drug is Safe.",
+  "explanation_incorrect": {
+    "A": "Phase 0 involves microdosing for initial pharmacokinetic and pharmacodynamic assessment and is often skipped; it precedes phase 1 and is not aimed at finding the maximum tolerable dose through dose escalation.",
+    "B": "Phase 2 enrolls a moderate number of patients with the disease of interest and assesses whether the drug works (efficacy); healthy volunteers and dose escalation for safety are phase 1 features.",
+    "C": "Phase 3 assesses effectiveness by comparing the drug with the current standard of care or placebo in a large number of patients; no comparator group exists in the study described.",
+    "D": "Phase 4 is postmarketing surveillance of patients taking an already FDA-approved drug; this investigational inhibitor has not yet been approved and is still in first-in-human testing."
+  },
+  "educationalObjective": "Phase 1 trials assess safety through dose escalation in a small number of healthy volunteers to determine the maximum tolerable dose.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Clinical trials and study phases"
+},
+{
+  "id": "phs-010",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Clinical trials and study phases",
+  "difficulty": "medium",
+  "vignette": "Following initial human safety testing, an investigational agent is given to 300 patients with the disease of interest in a randomized, controlled trial designed to determine whether the drug has any beneficial effect and to gather additional data on short-term adverse effects.",
+  "question": "Which clinical trial phase is described, and what question does it answer?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Phase 1 — \"Is it safe?\""
+    },
+    {
+      "id": "B",
+      "text": "Phase 0 — \"Can I measure pharmacokinetics?\""
+    },
+    {
+      "id": "C",
+      "text": "Phase 2 — \"Does it Work?\""
+    },
+    {
+      "id": "D",
+      "text": "Phase 3 — \"Is there any Improvement over standard of care?\""
+    },
+    {
+      "id": "E",
+      "text": "Phase 4 — \"Can it stay on the Market?\""
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Phase 2 trials enroll a moderate number of patients with the disease of interest in randomized, controlled studies to assess efficacy — \"does it Work?\" — and provide additional data on short-term adverse effects. The moderate sample size (300 patients), the randomized controlled design, and the explicit focus on short-term adverse effects all point to phase 2.",
+  "explanation_incorrect": {
+    "A": "Phase 1 is the safety/dose-escalation stage performed in a small number of healthy volunteers to find the maximum tolerable dose; it precedes efficacy testing and is not randomized and controlled in this way.",
+    "B": "Phase 0 uses microdosing for initial pharmacokinetic and pharmacodynamic assessment, is often skipped, and involves a very small number of subjects with open labeling — not 300 randomized patients.",
+    "D": "Phase 3 assesses effectiveness by comparison with the current standard of care or placebo in a large number of patients; the trial described compares the drug's benefit without an established-therapy benchmark and at a moderate scale.",
+    "E": "Phase 4 is postmarketing surveillance conducted after FDA approval to detect long-term or rare adverse effects; this investigational agent is still in preapproval efficacy testing."
+  },
+  "educationalObjective": "Phase 2 trials use a moderate number of patients with the disease of interest to assess whether the drug works (efficacy) and collect short-term adverse effect data.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Clinical trials and study phases"
+},
+{
+  "id": "phs-011",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Clinical trials and study phases",
+  "difficulty": "medium",
+  "vignette": "An investigational lipid-lowering agent is tested in 12,000 patients with established atherosclerotic disease. Patients are randomized to receive the new agent or the current standard-of-care regimen, and the primary outcome is the rate of major cardiovascular events over 4 years. Successful completion of this trial typically precedes FDA approval of a new drug.",
+  "question": "Which clinical trial phase is described?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Phase 3, which assesses effectiveness by comparison with the current standard of care or placebo"
+    },
+    {
+      "id": "B",
+      "text": "Phase 2, which assesses efficacy in a moderate number of patients"
+    },
+    {
+      "id": "C",
+      "text": "Phase 1, which determines the maximum tolerable dose in healthy volunteers"
+    },
+    {
+      "id": "D",
+      "text": "Phase 0, which uses microdosing for pharmacokinetic assessment"
+    },
+    {
+      "id": "E",
+      "text": "Phase 4, which provides postmarketing surveillance after approval"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Phase 3 trials enroll a large number of patients with the disease of interest and assess effectiveness — \"any Improvement?\" — via comparison with the current standard of care or placebo. The very large sample (12,000 patients), the active comparator being the standard-of-care regimen, and the statement that FDA approval typically follows successful completion are all hallmark features of phase 3.",
+  "explanation_incorrect": {
+    "B": "Phase 2 trials involve a moderate number of patients and ask whether the drug works at all; they do not benchmark against the current standard of care as the registered comparison.",
+    "C": "Phase 1 trials use a small number of healthy volunteers in open-label dose escalation for safety; this trial involves thousands of diseased patients against a comparator.",
+    "D": "Phase 0 microdosing studies are often skipped, involve a very small number of subjects, and assess pharmacokinetics and pharmacodynamics rather than clinical cardiovascular outcomes.",
+    "E": "Phase 4 occurs after FDA approval and consists of postmarketing surveillance in routine clinical practice; this trial is the preapproval comparison that gates approval."
+  },
+  "educationalObjective": "Phase 3 trials compare a new drug with the current standard of care or placebo in a large number of patients to assess improvement (effectiveness) before FDA approval.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Clinical trials and study phases"
+},
+{
+  "id": "phs-012",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Clinical trials and study phases",
+  "difficulty": "easy",
+  "vignette": "Two years after a new oral anticoagulant receives FDA approval, the manufacturer begins systematically collecting data from patients taking the drug in routine clinical practice. The goal is to detect adverse effects that occur rarely or only after prolonged use, which were not seen in the preapproval trials.",
+  "question": "Which of the following best describes this activity?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A phase 1 trial evaluating dose escalation in healthy volunteers"
+    },
+    {
+      "id": "B",
+      "text": "A phase 2 trial evaluating efficacy in a moderate number of patients"
+    },
+    {
+      "id": "C",
+      "text": "A phase 3 trial comparing the drug with the current standard of care"
+    },
+    {
+      "id": "D",
+      "text": "A phase 4 postmarketing surveillance program"
+    },
+    {
+      "id": "E",
+      "text": "A phase 0 microdosing study"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Phase 4 trials provide data on long-term or rare adverse effects — can the drug stay on the Market? — through postmarketing surveillance of patients with the disease of interest in routine practice. Because preapproval trials involve limited numbers of patients and finite follow-up, uncommon or delayed adverse effects are often first detected in this phase, as described here.",
+  "explanation_incorrect": {
+    "A": "Phase 1 trials are preapproval safety studies using dose escalation in a small number of healthy volunteers, not surveillance of patients already using an approved drug.",
+    "B": "Phase 2 trials are preapproval efficacy studies in a moderate number of patients with the disease of interest, not postmarket data collection.",
+    "C": "Phase 3 trials are preapproval comparisons with the standard of care or placebo before FDA approval; the drug here was already approved two years ago.",
+    "E": "Phase 0 studies involve microdosing for pharmacokinetic and pharmacodynamic assessment before the other phases and are often skipped; they have no role in detecting rare late adverse effects."
+  },
+  "educationalObjective": "Phase 4 is postmarketing surveillance that detects long-term or rare adverse effects after FDA approval.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Clinical trials and study phases"
+},
+{
+  "id": "phs-013",
+  "subject": "PHS",
+  "major_topic": "Epidemiology and Biostatistics",
+  "subtopic": "Clinical trials and study phases",
+  "difficulty": "medium",
+  "vignette": "A physician prescribes a tricyclic antidepressant for a patient with painful diabetic neuropathy. The drug is not specifically approved by the FDA for neuropathic pain, but published evidence supports benefit, and the patient has not responded to the approved pharmacologic options. The physician documents the rationale and counsels the patient.",
+  "question": "Which of the following terms best describes this prescribing decision?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Experimental use permitted only under an investigational new drug exemption"
+    },
+    {
+      "id": "B",
+      "text": "Off-label use, which is appropriate for treating an illness with no approved pharmacologic treatment or after failure of approved options"
+    },
+    {
+      "id": "C",
+      "text": "Mandatory phase 4 postmarketing use"
+    },
+    {
+      "id": "D",
+      "text": "Compassionate use of an unapproved investigational drug"
+    },
+    {
+      "id": "E",
+      "text": "Unethical prescribing, because use outside the labeled indication is prohibited"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Off-label drug use is the use of a drug to treat a disease in a form, population group, or dosage that is not specifically approved by the FDA. Recognized reasons include treatment of an illness with no approved pharmacologic treatment and exploring alternative treatments after failure of approved options; the classic example is the use of tricyclic antidepressants for treating neuropathic/chronic pain, exactly as in this vignette.",
+  "explanation_incorrect": {
+    "A": "An investigational new drug exemption applies to unapproved experimental agents in research, not to an approved drug such as a tricyclic antidepressant being prescribed in routine care.",
+    "C": "Phase 4 refers to postmarketing surveillance activities conducted by manufacturers and regulators, not to a category of individual prescribing decisions.",
+    "D": "Compassionate use refers to access to investigational drugs that are not yet FDA approved for any indication; the prescribed antidepressant is an approved medication.",
+    "E": "Off-label prescribing is a legitimate and common practice when evidence supports it and approved options are lacking or have failed; it is not prohibited or inherently unethical."
+  },
+  "educationalObjective": "Off-label use means prescribing an approved drug for an unapproved indication, population, form, or dose — classically tricyclic antidepressants for neuropathic pain.",
+  "source": "Generated from 6. PHS.pdf - Epidemiology and Biostatistics: Clinical trials and study phases"
+}
+]
