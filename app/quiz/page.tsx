@@ -52,6 +52,9 @@ function QuizContent() {
   // "Practice weakest topics" passes a comma-separated set of subtopics.
   const subtopicsParam = searchParams.get("subtopics") || "";
   const isExam = mode === "exam";
+  // subject=all is the dashboard's Mixed Practice banner: no subject filter.
+  const isAllSubjects = subject === "all";
+  const subjectLabel = isAllSubjects ? "Mixed (all subjects)" : subject;
 
   // Every exam attempt gets its own id so /exam-results can regroup the
   // answers later. Generated once per mounted quiz, not per render.
@@ -109,33 +112,40 @@ function QuizContent() {
 
   const loadQuestions = async () => {
     try {
-      let query = supabase
-        .from("questions")
-        .select("*")
-        .ilike("subject", subject);
+      const buildQuery = () => {
+        let q = supabase.from("questions").select("*");
+        if (!isAllSubjects) {
+          q = q.ilike("subject", subject);
+        }
+        if (subtopic && mode === "topic") {
+          q = q.eq("subtopic", subtopic);
+        }
+        // Weak-area practice: a set of subtopics chosen from /stats.
+        const weakTopics = subtopicsParam
+          .split(",")
+          .map((s) => s.trim())
+          .filter(Boolean);
+        if (mode === "weak" && weakTopics.length > 0) {
+          q = q.in("subtopic", weakTopics);
+        }
+        return q;
+      };
 
-      if (subtopic && mode === "topic") {
-        query = query.eq("subtopic", subtopic);
+      // PostgREST caps one response at 1000 rows no matter what the range
+      // asks for, so the load pages until a short page arrives. With the
+      // mixed-across-all-subjects mode the pool is larger than 1000 and a
+      // single .range(0, 4999) request would silently truncate it.
+      const PAGE = 1000;
+      let loadedQuestions: Question[] = [];
+      for (let from = 0; ; from += PAGE) {
+        const { data, error } = await buildQuery()
+          .order("id", { ascending: true })
+          .range(from, from + PAGE - 1);
+        if (error) throw error;
+        const page = (data || []) as Question[];
+        loadedQuestions = loadedQuestions.concat(page);
+        if (page.length < PAGE) break;
       }
-
-      // Weak-area practice: a set of subtopics chosen from /stats.
-      const weakTopics = subtopicsParam
-        .split(",")
-        .map((s) => s.trim())
-        .filter(Boolean);
-      if (mode === "weak" && weakTopics.length > 0) {
-        query = query.in("subtopic", weakTopics);
-      }
-
-      // PostgREST caps a response at 1000 rows unless a range is explicit, so
-      // biology-sized banks stay intact regardless of how big a subject grows.
-      const { data, error } = await query
-        .order("id", { ascending: true })
-        .range(0, 4999);
-
-      if (error) throw error;
-
-      let loadedQuestions = data || [];
       if (mode === "mixed" || isExam || mode === "weak") {
         loadedQuestions = shuffle(loadedQuestions);
       }
@@ -244,7 +254,7 @@ function QuizContent() {
       <QuizSummary
         attempts={attempts}
         totalQuestions={questions.length}
-        subject={subject}
+        subject={subjectLabel}
         elapsedSeconds={elapsedSeconds}
         progressSaveFailed={progressSaveFailed}
         onGoToResults={() => {
@@ -269,7 +279,7 @@ function QuizContent() {
       <div className="min-h-screen flex items-center justify-center">
         <div className="text-center">
           <p className="text-muted-foreground mb-2">
-            No questions found for {subject}
+            No questions found for {subjectLabel}
             {subtopic && ` • ${subtopic}`}
           </p>
           <Button onClick={handleBackToDashboard} className="mt-4">
@@ -298,7 +308,7 @@ function QuizContent() {
                 ← Dashboard
               </Button>
               <div>
-                <h1 className="text-xl font-bold text-foreground">{subject}</h1>
+                <h1 className="text-xl font-bold text-foreground">{subjectLabel}</h1>
                 <p className="text-xs text-muted-foreground">
                   Mode: {mode}
                   {subtopic && ` • ${subtopic}`}

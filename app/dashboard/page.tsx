@@ -6,6 +6,7 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { supabase } from "@/lib/supabase";
 import { ThemeToggle } from "@/components/theme-toggle";
+import { SUBJECTS } from "@/lib/subjects";
 
 interface Topic {
   id: number;
@@ -19,38 +20,7 @@ interface Topic {
 // Subjects are progressively filled: a card becomes playable as soon as the
 // questions table actually holds questions for it, so the UI never advertises
 // an empty subject and never hides a ready one.
-const subjects = [
-  {
-    id: "Biochemistry",
-    name: "Biochemistry",
-    icon: "🧪",
-    blurb: "Metabolism, enzymes, molecular biology",
-  },
-  {
-    id: "Immunology",
-    name: "Immunology",
-    icon: "🛡️",
-    blurb: "Immunodeficiencies, hypersensitivity, complement",
-  },
-  {
-    id: "Microbiology",
-    name: "Microbiology",
-    icon: "🦠",
-    blurb: "Bacteriology, virology, mycology",
-  },
-  {
-    id: "Pathology",
-    name: "Pathology",
-    icon: "🔬",
-    blurb: "Cell injury, neoplasia, systemic pathology",
-  },
-  {
-    id: "Pharmacology",
-    name: "Pharmacology",
-    icon: "💊",
-    blurb: "Drug mechanisms, toxicities, antidotes",
-  },
-];
+const subjects = SUBJECTS;
 
 export default function DashboardPage() {
   const router = useRouter();
@@ -183,6 +153,44 @@ export default function DashboardPage() {
 
       {/* Content */}
       <div className="max-w-6xl mx-auto p-8">
+        {/* Mixed practice across every subject that has questions */}
+        <div className="mb-8">
+          <Card className="border-primary/40 bg-primary/5">
+            <CardContent className="p-6">
+              <div className="flex flex-col md:flex-row md:items-center md:justify-between gap-4">
+                <div className="flex items-center gap-4">
+                  <span className="text-4xl">🎲</span>
+                  <div>
+                    <h3 className="font-semibold text-lg text-foreground">
+                      Mixed Practice
+                    </h3>
+                    <p className="text-sm text-muted-foreground">
+                      Questions drawn from all subjects together — biochemistry,
+                      microbiology, pharmacology and the rest in one sitting
+                    </p>
+                  </div>
+                </div>
+                <div className="flex gap-3">
+                  <Button
+                    onClick={() =>
+                      router.push("/quiz?subject=all&mode=mixed")
+                    }
+                    className="bg-green-600 hover:bg-green-700"
+                  >
+                    Start Mixed Session
+                  </Button>
+                  <Button
+                    onClick={() => router.push("/quiz?subject=all&mode=exam")}
+                    className="bg-purple-600 hover:bg-purple-700"
+                  >
+                    Mixed Exam
+                  </Button>
+                </div>
+              </div>
+            </CardContent>
+          </Card>
+        </div>
+
         {/* Subject Selection */}
         <div className="mb-8">
           <h2 className="text-xl font-semibold text-foreground mb-4">
