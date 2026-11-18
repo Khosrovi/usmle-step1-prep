@@ -1,0 +1,125 @@
+[
+{
+  "id": "cardio-196",
+  "subject": "Cardiovascular",
+  "major_topic": "Pathology",
+  "subtopic": "Acute coronary syndrome treatment",
+  "difficulty": "medium",
+  "vignette": "A 59-year-old man is admitted with a non-ST-segment elevation myocardial infarction. His regimen includes intravenous heparin, aspirin, clopidogrel, an oral β-blocker, and a high-intensity statin. He remains pain-free, and his blood pressure is 138/84 mm Hg with an LDL cholesterol of 74 mg/dL. He has no contraindications to any standard post-MI therapy.",
+  "question": "Which of the following medications should also be included in this patient's long-term management?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Dipyridamole to dilate coronary collateral vessels"
+    },
+    {
+      "id": "B",
+      "text": "Fibrinolytic therapy to dissolve the occlusive thrombus"
+    },
+    {
+      "id": "C",
+      "text": "An ACE inhibitor to reduce adverse cardiac remodeling"
+    },
+    {
+      "id": "D",
+      "text": "Digoxin to improve ventricular contractility"
+    },
+    {
+      "id": "E",
+      "text": "Recombinant tissue plasminogen activator plus heparin"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Standard management of unstable angina/NSTEMI includes anticoagulation (eg, heparin), antiplatelet therapy (eg, aspirin) plus ADP receptor inhibitors (eg, clopidogrel), β-blockers, ACE inhibitors, and statins. This patient is already on the antithrombotic and β-blocker/statin components, so an ACE inhibitor should be added to complete the guideline regimen.",
+  "explanation_incorrect": {
+    "A": "Dipyridamole is a vasodilator used in stress testing (and can cause coronary steal); it is not part of the ACS regimen.",
+    "B": "Fibrinolysis is a reperfusion strategy for STEMI when PCI is unavailable; it is not indicated in NSTEMI, where there is no complete occlusion.",
+    "D": "Digoxin is an inotrope for atrial arrhythmias and heart failure; it has no role in routine NSTEMI management.",
+    "E": "This duplicates the fibrinolysis error: tPA-based reperfusion therapy is reserved for STEMI, not added to NSTEMI anticoagulation."
+  },
+  "educationalObjective": "UA/NSTEMI therapy: heparin (anticoagulation) + aspirin and clopidogrel (antiplatelets) + β-blocker + ACE inhibitor + statin; symptom control with nitroglycerin ± morphine.",
+  "source": "Generated from 7. Cardiovascular.pdf - Pathology: Acute coronary syndrome treatment"
+},
+{
+  "id": "cardio-197",
+  "subject": "Cardiovascular",
+  "major_topic": "Pathology",
+  "subtopic": "Acute coronary syndrome treatment",
+  "difficulty": "easy",
+  "vignette": "A 55-year-old woman presents to a PCI-capable hospital 70 minutes after the onset of severe chest pain. ECG shows ST-segment elevation in leads V2-V4, and troponin I is elevated. She has no contraindications to any reperfusion strategy, and the cardiac catheterization laboratory team can take her immediately.",
+  "question": "Which of the following is the most appropriate next step in management?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Immediate percutaneous coronary intervention"
+    },
+    {
+      "id": "B",
+      "text": "Intravenous fibrinolysis followed by admission to the cardiac care unit"
+    },
+    {
+      "id": "C",
+      "text": "Observation with serial troponins and a stress test in the morning"
+    },
+    {
+      "id": "D",
+      "text": "Aspirin and clopidogrel alone, with reperfusion deferred until biomarkers peak"
+    },
+    {
+      "id": "E",
+      "text": "Coronary artery bypass grafting as the initial revascularization strategy"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "In STEMI, reperfusion therapy is the most important treatment in addition to the standard antithrombotic regimen, and percutaneous coronary intervention is preferred over fibrinolysis. This patient is at a PCI-capable center within 90 minutes of presentation, so immediate PCI is the correct choice.",
+  "explanation_incorrect": {
+    "B": "Fibrinolysis is the fallback when timely PCI is unavailable; it is not preferred when the catheterization laboratory is immediately accessible.",
+    "C": "Serial troponins and nonurgent stress testing are for undifferentiated or low-risk chest pain, not for an ongoing ST-elevation infarct in which every delay costs myocardium.",
+    "D": "Antiplatelet therapy alone does not restore perfusion; reperfusion is the priority in STEMI and must not be deferred.",
+    "E": "CABG is not the initial reperfusion strategy for an acute STEMI; emergent PCI opens the culprit artery fastest."
+  },
+  "educationalObjective": "STEMI requires reperfusion in addition to the UA/NSTEMI regimen; PCI is preferred over fibrinolysis when promptly available.",
+  "source": "Generated from 7. Cardiovascular.pdf - Pathology: Acute coronary syndrome treatment"
+},
+{
+  "id": "cardio-198",
+  "subject": "Cardiovascular",
+  "major_topic": "Pathology",
+  "subtopic": "Acute coronary syndrome treatment",
+  "difficulty": "hard",
+  "vignette": "A 63-year-old man is being treated for an inferior ST-elevation myocardial infarction with ST elevation in leads II, III, and aVF. Shortly after receiving sublingual nitroglycerin for ongoing chest pain, his blood pressure falls from 132/80 to 78/50 mm Hg. Examination now shows elevated jugular venous pulsation with clear lung fields, and echocardiography demonstrates akinesis of the right ventricular free wall.",
+  "question": "Which of the following is the most appropriate next step in management?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Administer additional sublingual nitroglycerin to reduce preload"
+    },
+    {
+      "id": "B",
+      "text": "Begin aggressive diuresis to reduce pulmonary congestion"
+    },
+    {
+      "id": "C",
+      "text": "Administer a loop diuretic and an ACE inhibitor for afterload reduction"
+    },
+    {
+      "id": "D",
+      "text": "Give intravenous fluids to support venous return and preload, and avoid further nitroglycerin"
+    },
+    {
+      "id": "E",
+      "text": "Perform emergent pericardiocentesis for suspected tamponade"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Inferior STEMI suggests RCA occlusion, and hypotension after nitroglycerin with elevated JVP, clear lungs, and RV free wall akinesis indicates right ventricular infarction. The RV is preload dependent and preload sensitive: when RV output falls, nitroglycerin's venodilation drops filling pressure and cardiac output collapses. Management is to support venous return/preload with IV fluids and to avoid nitroglycerin.",
+  "explanation_incorrect": {
+    "A": "More nitroglycerin would further reduce preload in a preload-dependent right ventricle and worsen the hypotension — this is exactly the drug that precipitated the collapse.",
+    "B": "The lungs are clear because the left-sided filling pressures are not elevated; aggressive diuresis would remove the preload the RV needs to maintain output.",
+    "C": "Diuretics and afterload reduction are appropriate for left-sided failure with congestion, but here they would exacerbate the underfilled RV physiology.",
+    "E": "Tamponade can cause hypotension with elevated JVP, but the trigger (nitroglycerin), the inferior infarct, and RV free wall akinesis establish RV infarction; there is no pericardial effusion to drain."
+  },
+  "educationalObjective": "RV infarct (RCA occlusion) is preload dependent: hypotension after nitroglycerin is treated with IV fluids to support preload and by avoiding nitroglycerin.",
+  "source": "Generated from 7. Cardiovascular.pdf - Pathology: Acute coronary syndrome treatment"
+}
+]

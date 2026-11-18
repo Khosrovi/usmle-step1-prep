@@ -1,0 +1,248 @@
+[
+{
+  "id": "cardio-205",
+  "subject": "Cardiovascular",
+  "major_topic": "Pathology",
+  "subtopic": "Wide complex tachycardias and hereditary channelopathies",
+  "difficulty": "easy",
+  "vignette": "A 63-year-old man with a myocardial infarction 6 months ago presents with palpitations and lightheadedness. His heart rate is 160/min and regular, and blood pressure is 96/60 mm Hg. ECG shows a regular tachycardia with wide QRS complexes measuring 150 msec and no discernible P waves. A prior echocardiogram documented a region of scar in the left ventricle.",
+  "question": "Which of the following is the most likely diagnosis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Ventricular fibrillation"
+    },
+    {
+      "id": "B",
+      "text": "Torsades de pointes"
+    },
+    {
+      "id": "C",
+      "text": "Ventricular tachycardia"
+    },
+    {
+      "id": "D",
+      "text": "Atrial flutter with aberrant conduction"
+    },
+    {
+      "id": "E",
+      "text": "Wolff-Parkinson-White syndrome"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Ventricular tachycardia is a wide-complex (QRS ≥120 msec) tachycardia with slow ventricular activation outside the normal conduction system, originating below the AV node. It is typically regular with a rate >100 and is most commonly due to structural heart disease, such as cardiomyopathy or scarring after myocardial infarction — as in this patient. Ventricular tachycardia carries a high risk of sudden cardiac death.",
+  "explanation_incorrect": {
+    "A": "Ventricular fibrillation is a disorganized rhythm with no identifiable waves, not a regular wide-complex tachycardia.",
+    "B": "Torsades de pointes is polymorphic ventricular tachycardia with shifting sinusoidal waveforms, classically in the setting of a prolonged QT interval; this rhythm is regular and monomorphic.",
+    "D": "Atrial flutter produces rapid, identical, sawtooth atrial waves; with conduction through the normal system the QRS is narrow, and the scar-related regular wide complex here points to ventricular tachycardia.",
+    "E": "Wolff-Parkinson-White syndrome shows a delta wave, widened QRS, and shortened PR interval in sinus rhythm; it is not a scar-associated regular wide-complex tachycardia after infarction."
+  },
+  "educationalObjective": "A regular wide-complex tachycardia in a patient with structural heart disease (post-MI scar, cardiomyopathy) is ventricular tachycardia, which carries a high risk of sudden cardiac death.",
+  "source": "Generated from 7. Cardiovascular.pdf - Pathology: Wide complex tachycardias and hereditary channelopathies"
+},
+{
+  "id": "cardio-206",
+  "subject": "Cardiovascular",
+  "major_topic": "Pathology",
+  "subtopic": "Wide complex tachycardias and hereditary channelopathies",
+  "difficulty": "medium",
+  "vignette": "A 55-year-old woman hospitalized with community-acquired pneumonia develops runs of ventricular tachycardia on telemetry in which the QRS complexes appear to twist around the baseline in shifting sinusoidal waveforms. She is alert with a blood pressure of 108/70 mm Hg. Review of the strip shows a prolonged QT interval before the arrhythmia. Medications include azithromycin, and laboratory studies show K+ of 3.1 mEq/L and Mg2+ of 1.5 mEq/L.",
+  "question": "Which of the following is the most appropriate treatment for this patient's arrhythmia at this time?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Intravenous magnesium sulfate"
+    },
+    {
+      "id": "B",
+      "text": "Immediate unsynchronized defibrillation"
+    },
+    {
+      "id": "C",
+      "text": "Intravenous amiodarone infusion"
+    },
+    {
+      "id": "D",
+      "text": "Intravenous lidocaine bolus"
+    },
+    {
+      "id": "E",
+      "text": "Oral potassium replacement alone"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "This patient has torsades de pointes, a polymorphic ventricular tachycardia with shifting sinusoidal waveforms that may progress to ventricular fibrillation. Long QT interval — here promoted by a macrolide antibiotic and by low K+ and Mg2+ — predisposes to torsades. Treatment is defibrillation for unstable patients and magnesium sulfate for stable patients, as she is now.",
+  "explanation_incorrect": {
+    "B": "Defibrillation is reserved for unstable patients; this patient is hemodynamically stable, so magnesium sulfate is the appropriate treatment.",
+    "C": "Amiodarone is a class III antiarrhythmic that prolongs repolarization and the QT interval, so it is not the treatment for torsades de pointes.",
+    "D": "Lidocaine is a class IB agent used for ventricular arrhythmias in ischemic contexts; it is not the specific therapy for torsades de pointes.",
+    "E": "Correcting the hypokalemia is a supportive measure, but the established treatment for stable torsades de pointes is intravenous magnesium sulfate."
+  },
+  "educationalObjective": "Torsades de pointes is polymorphic VT with shifting sinusoidal waveforms; treat stable patients with magnesium sulfate and unstable patients with defibrillation.",
+  "source": "Generated from 7. Cardiovascular.pdf - Pathology: Wide complex tachycardias and hereditary channelopathies"
+},
+{
+  "id": "cardio-207",
+  "subject": "Cardiovascular",
+  "major_topic": "Pathology",
+  "subtopic": "Wide complex tachycardias and hereditary channelopathies",
+  "difficulty": "medium",
+  "vignette": "A 48-year-old woman undergoing chemotherapy for breast cancer has several episodes of near-syncope. Telemetry shows a QTc of 540 msec with an intermittent polymorphic ventricular tachycardia whose QRS complexes twist around the baseline. She is hemodynamically stable. Her supportive care regimen includes an antiemetic that is known to affect myocardial repolarization.",
+  "question": "Which of the following medications most likely contributed to this patient's prolonged QT interval?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Metoprolol"
+    },
+    {
+      "id": "B",
+      "text": "Amoxicillin"
+    },
+    {
+      "id": "C",
+      "text": "Amlodipine"
+    },
+    {
+      "id": "D",
+      "text": "Ondansetron"
+    },
+    {
+      "id": "E",
+      "text": "Ibuprofen"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Ondansetron is an antiemetic and one of the classic causes of drug-induced long QT (mnemonic ABCDEF+NO: anti-Arrhythmics Ia and III plus Arsenic, anti-Biotics such as macrolides and fluoroquinolones, anti-Cychotics such as haloperidol plus Chloroquine, anti-Depressants such as TCAs plus thiazide Diuretics, anti-Emetics such as ondansetron, anti-Fungals such as fluconazole, Navir protease inhibitors, and Opioids such as methadone). Drug-induced long QT predisposes to torsades de pointes.",
+  "explanation_incorrect": {
+    "A": "Metoprolol is a β-blocker used for rate control and is not among the drug classes associated with drug-induced long QT.",
+    "B": "Amoxicillin is not implicated; the antibiotic classes associated with QT prolongation are macrolides and fluoroquinolones.",
+    "C": "Amlodipine is a dihydropyridine calcium channel blocker with no recognized association with drug-induced long QT.",
+    "E": "Ibuprofen, an NSAID, is not associated with prolongation of the QT interval."
+  },
+  "educationalObjective": "Drug-induced long QT (antiarrhythmics, macrolides, fluoroquinolones, haloperidol, chloroquine, TCAs, thiazides, ondansetron, fluconazole, -navir agents, methadone, arsenic) predisposes to torsades de pointes.",
+  "source": "Generated from 7. Cardiovascular.pdf - Pathology: Wide complex tachycardias and hereditary channelopathies"
+},
+{
+  "id": "cardio-208",
+  "subject": "Cardiovascular",
+  "major_topic": "Pathology",
+  "subtopic": "Wide complex tachycardias and hereditary channelopathies",
+  "difficulty": "easy",
+  "vignette": "A 71-year-old man collapses at a bus stop, and a bystander begins chest compressions. Paramedics arrive 4 minutes later and find him pulseless and apneic. The monitor shows a completely disorganized rhythm with no identifiable waves.",
+  "question": "Which of the following is the most appropriate immediate management?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Synchronized cardioversion"
+    },
+    {
+      "id": "B",
+      "text": "Chest compressions (CPR) and immediate unsynchronized defibrillation"
+    },
+    {
+      "id": "C",
+      "text": "Intravenous amiodarone followed by rhythm reassessment"
+    },
+    {
+      "id": "D",
+      "text": "Vagal maneuvers"
+    },
+    {
+      "id": "E",
+      "text": "Transcutaneous pacing"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Ventricular fibrillation is a disorganized rhythm with no identifiable waves and is fatal without immediate CPR and defibrillation. Because there is no organized rhythm to synchronize to, unsynchronized defibrillation combined with CPR is the immediate, life-saving intervention.",
+  "explanation_incorrect": {
+    "A": "Synchronized cardioversion requires an organized, identifiable rhythm to sync on; ventricular fibrillation has no identifiable waves, so unsynchronized defibrillation is required.",
+    "C": "Antiarrhythmic drugs may be adjuncts during resuscitation, but they are not the initial definitive step; immediate CPR and defibrillation are required.",
+    "D": "Vagal maneuvers are used to slow AV nodal conduction in paroxysmal supraventricular tachycardia in stable patients and have no role in cardiac arrest.",
+    "E": "Transcutaneous pacing treats bradyarrhythmias and heart blocks; it provides no organized pacing capture in a disorganized fibrillating ventricle."
+  },
+  "educationalObjective": "Ventricular fibrillation is a disorganized, pulseless rhythm that is fatal without immediate CPR and defibrillation.",
+  "source": "Generated from 7. Cardiovascular.pdf - Pathology: Wide complex tachycardias and hereditary channelopathies"
+},
+{
+  "id": "cardio-209",
+  "subject": "Cardiovascular",
+  "major_topic": "Pathology",
+  "subtopic": "Wide complex tachycardias and hereditary channelopathies",
+  "difficulty": "medium",
+  "vignette": "A 34-year-old man originally from the Philippines presents after a syncopal episode that occurred while at rest. His father died suddenly at age 40. ECG shows a pattern resembling right bundle branch block with ST-segment elevations in leads V1–V2. Echocardiography is normal, and electrolytes are within normal limits.",
+  "question": "Which of the following is the most likely diagnosis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Romano-Ward syndrome"
+    },
+    {
+      "id": "B",
+      "text": "Jervell and Lange-Nielsen syndrome"
+    },
+    {
+      "id": "C",
+      "text": "Wolff-Parkinson-White syndrome"
+    },
+    {
+      "id": "D",
+      "text": "Sick sinus syndrome"
+    },
+    {
+      "id": "E",
+      "text": "Brugada syndrome"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Brugada syndrome is an autosomal dominant hereditary channelopathy, most commonly due to a loss of function mutation of Na+ channels, with increased prevalence in Asian males. Its characteristic ECG pattern is pseudo-right bundle branch block with ST-segment elevations in leads V1–V2, and affected patients are at increased risk of ventricular tachyarrhythmias and sudden cardiac death. Prevention of sudden cardiac death is with an implantable cardioverter-defibrillator.",
+  "explanation_incorrect": {
+    "A": "Romano-Ward syndrome is an autosomal dominant congenital long QT syndrome with a pure cardiac phenotype; its hallmark is QT prolongation, not pseudo-RBBB with V1–V2 ST elevations.",
+    "B": "Jervell and Lange-Nielsen syndrome is an autosomal recessive congenital long QT syndrome with sensorineural deafness; again, the ECG hallmark is prolonged QT.",
+    "C": "Wolff-Parkinson-White syndrome shows a delta wave with widened QRS and shortened PR interval due to the bundle of Kent bypassing the AV node.",
+    "D": "Sick sinus syndrome is age-related degeneration of the SA node showing bradycardia, sinus pauses, sinus arrests, and junctional escape beats — not V1–V2 ST elevations."
+  },
+  "educationalObjective": "Brugada syndrome is an autosomal dominant Na+ channel loss-of-function channelopathy with pseudo-RBBB and V1–V2 ST elevations, most prevalent in Asian males, prevented from causing sudden death with an ICD.",
+  "source": "Generated from 7. Cardiovascular.pdf - Pathology: Wide complex tachycardias and hereditary channelopathies"
+},
+{
+  "id": "cardio-210",
+  "subject": "Cardiovascular",
+  "major_topic": "Pathology",
+  "subtopic": "Wide complex tachycardias and hereditary channelopathies",
+  "difficulty": "hard",
+  "vignette": "A 7-year-old girl is brought to the clinic after a syncopal episode during a school race. An audiogram confirms sensorineural deafness. ECG shows a QTc of 530 msec with no structural abnormalities on echocardiography. Her parents are first cousins; neither parent has hearing loss or a prolonged QT interval on ECG.",
+  "question": "Which of the following best characterizes the underlying defect in this patient's condition?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Autosomal recessive loss of function of K+ channels, associated with sensorineural deafness"
+    },
+    {
+      "id": "B",
+      "text": "Autosomal dominant loss of function of K+ channels with a pure cardiac phenotype"
+    },
+    {
+      "id": "C",
+      "text": "Autosomal dominant loss of function of Na+ channels with ST-segment elevations in V1–V2"
+    },
+    {
+      "id": "D",
+      "text": "Autosomal recessive gain of function of Na+ channels causing shortened repolarization"
+    },
+    {
+      "id": "E",
+      "text": "X-linked mutation of the cardiac Na+ channel causing prolonged depolarization"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Congenital long QT syndrome is most commonly due to loss of function mutations of K+ channels, which affect myocardial repolarization and predispose to ventricular tachyarrhythmias. Jervell and Lange-Nielsen syndrome is the autosomal recessive form, associated with sensorineural deafness — consistent with this child's deafness, prolonged QTc, and unaffected (consanguineous) parents. The autosomal dominant form, Romano-Ward syndrome, has a pure cardiac phenotype without deafness.",
+  "explanation_incorrect": {
+    "B": "This describes Romano-Ward syndrome, the autosomal dominant form of congenital long QT with a pure cardiac phenotype and no sensorineural deafness.",
+    "C": "This describes Brugada syndrome, an autosomal dominant Na+ channel loss-of-function disorder with pseudo-RBBB and V1–V2 ST elevations, not prolonged QT with deafness.",
+    "D": "Congenital long QT results from loss of function of K+ channels affecting repolarization, not a Na+ channel gain of function, and the classic associated inheritance is as described for Jervell and Lange-Nielsen syndrome.",
+    "E": "Congenital long QT syndrome is not X-linked and is primarily a disease of K+ channel (repolarization) dysfunction rather than the cardiac Na+ channel."
+  },
+  "educationalObjective": "Congenital long QT syndrome is usually a loss of function of K+ channels: Romano-Ward is autosomal dominant with a pure cardiac phenotype, while Jervell and Lange-Nielsen is autosomal recessive with sensorineural deafness.",
+  "source": "Generated from 7. Cardiovascular.pdf - Pathology: Wide complex tachycardias and hereditary channelopathies"
+}
+]

@@ -1,0 +1,248 @@
+[
+{
+  "id": "cardio-039",
+  "subject": "Cardiovascular",
+  "major_topic": "Physiology",
+  "subtopic": "Stroke volume determinants: preload, afterload, contractility",
+  "difficulty": "medium",
+  "vignette": "A 26-year-old healthy woman is in her first trimester of pregnancy and notices that her resting heart rate and the strength of her peripheral pulses have increased. Her physician explains that her stroke volume has risen as part of the normal cardiovascular adaptation to pregnancy.",
+  "question": "Which of the following hemodynamic changes is the primary determinant of the increased stroke volume in this patient's pregnancy?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Increased preload from increased venous return"
+    },
+    {
+      "id": "B",
+      "text": "Decreased myocardial contractility from β1-receptor downregulation"
+    },
+    {
+      "id": "C",
+      "text": "Increased afterload from chronic systemic hypertension"
+    },
+    {
+      "id": "D",
+      "text": "Decreased circulating blood volume from placental shunting"
+    },
+    {
+      "id": "E",
+      "text": "Venous vasodilation from administration of nitroglycerin"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Stroke volume is affected by Contractility, Afterload, and Preload (SV CAP). Stroke volume increases with increased contractility, increased preload, and decreased afterload. Early pregnancy increases preload (eg, increased blood volume and venous return), which raises stroke volume, contributing to the physiologic high-output state of pregnancy.",
+  "explanation_incorrect": {
+    "B": "Decreased contractility lowers stroke volume; the question stem describes increased pulses and stroke volume, and pregnancy is associated with increased, not decreased, cardiac output.",
+    "C": "Increased afterload (approximated by mean arterial pressure) decreases stroke volume; pregnancy is instead characterized by decreased systemic vascular resistance.",
+    "D": "Decreased circulating blood volume would reduce venous return and preload, thereby decreasing preload and stroke volume; pregnancy increases blood volume.",
+    "E": "Venous vasodilators such as nitroglycerin decrease preload and would lower stroke volume, the opposite of the change seen in pregnancy."
+  },
+  "educationalObjective": "Stroke volume increases with increased contractility, increased preload (eg, early pregnancy), and decreased afterload (SV CAP).",
+  "source": "Generated from 7. Cardiovascular.pdf - Physiology: Stroke volume determinants: preload, afterload, contractility"
+},
+{
+  "id": "cardio-040",
+  "subject": "Cardiovascular",
+  "major_topic": "Physiology",
+  "subtopic": "Stroke volume determinants: preload, afterload, contractility",
+  "difficulty": "easy",
+  "vignette": "A second-year medical student is reviewing the determinants of stroke volume — contractility, afterload, and preload — and wants to know which measured quantity is used clinically to approximate each variable.",
+  "question": "Which of the following measurements best approximates ventricular preload?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Mean arterial pressure"
+    },
+    {
+      "id": "B",
+      "text": "End-systolic volume"
+    },
+    {
+      "id": "C",
+      "text": "Peak systolic pressure"
+    },
+    {
+      "id": "D",
+      "text": "Ventricular end-diastolic volume"
+    },
+    {
+      "id": "E",
+      "text": "Ejection fraction"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Preload is approximated by ventricular end-diastolic volume (EDV), which depends on venous tone and circulating blood volume — both of which affect venous return. This is why venous vasodilators (eg, nitroglycerin) decrease preload, and why increased venous return (eg, early pregnancy) increases preload and stroke volume.",
+  "explanation_incorrect": {
+    "A": "Mean arterial pressure approximates afterload, not preload; increased pressure increases wall tension per Laplace's law.",
+    "B": "End-systolic volume is the volume remaining after ejection; it relates inversely to stroke volume and contractility, not to preload.",
+    "C": "Peak systolic pressure reflects the pressure generated during ejection and correlates more with afterload and contractility than with ventricular filling.",
+    "E": "Ejection fraction is an index of ventricular contractility (SV/EDV), not a measure of preload."
+  },
+  "educationalObjective": "Preload is approximated by ventricular end-diastolic volume, which depends on venous tone and circulating blood volume.",
+  "source": "Generated from 7. Cardiovascular.pdf - Physiology: Stroke volume determinants: preload, afterload, contractility"
+},
+{
+  "id": "cardio-041",
+  "subject": "Cardiovascular",
+  "major_topic": "Physiology",
+  "subtopic": "Stroke volume determinants: preload, afterload, contractility",
+  "difficulty": "hard",
+  "vignette": "A healthy volunteer receives an intravenous infusion of a β1-adrenergic agonist. Within minutes, heart rate and stroke volume rise, and echocardiography shows increased myocardial shortening velocity without any change in preload or afterload.",
+  "question": "Which intracellular sequence best explains the increased contractility observed in this volunteer?",
+  "options": [
+    {
+      "id": "A",
+      "text": "β1 stimulation → decreased cAMP → dephosphorylation of phospholamban → increased Ca2+ storage in sarcoplasmic reticulum"
+    },
+    {
+      "id": "B",
+      "text": "β1 stimulation → protein kinase A activation → phospholamban phosphorylation → increased Ca2+ ATPase activity → increased Ca2+ storage in sarcoplasmic reticulum"
+    },
+    {
+      "id": "C",
+      "text": "β1 stimulation → Gi activation → decreased Ca2+ channel phosphorylation → decreased Ca2+ entry"
+    },
+    {
+      "id": "D",
+      "text": "β1 stimulation → blockade of the Na+/K+ pump → increased intracellular Na+ → decreased Na+/Ca2+ exchanger activity → increased intracellular Ca2+"
+    },
+    {
+      "id": "E",
+      "text": "β1 stimulation → phosphodiesterase inhibition → dephosphorylation of the L-type Ca2+ channel → increased Ca2+ storage in sarcoplasmic reticulum"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Catecholamine stimulation of β1 receptors activates protein kinase A (PKA) via cAMP. PKA phosphorylates phospholamban, which activates the sarcoplasmic reticulum Ca2+ ATPase and increases Ca2+ storage in the sarcoplasmic reticulum. PKA also phosphorylates Ca2+ channels, increasing Ca2+ entry and promoting Ca2+-induced Ca2+ release; the net rise in intracellular Ca2+ increases contractility and stroke volume.",
+  "explanation_incorrect": {
+    "A": "β1 stimulation increases, not decreases, cAMP, and it is phosphorylation (not dephosphorylation) of phospholamban that activates Ca2+ ATPase.",
+    "C": "β1 receptors signal through Gs (increasing cAMP), not Gi, and decreased Ca2+ entry would reduce contractility, the opposite of the observed effect.",
+    "D": "Blocking the Na+/K+ pump with resultant increased intracellular Na+ and Ca2+ is the mechanism of digoxin, not of β1-adrenergic stimulation.",
+    "E": "Phosphodiesterase inhibition is the mechanism of agents such as milrinone, and β1 signaling phosphorylates (not dephosphorylates) target proteins to increase contractility."
+  },
+  "educationalObjective": "β1 stimulation raises contractility via PKA-mediated phospholamban phosphorylation → increased SR Ca2+ ATPase activity → increased SR Ca2+ stores, plus increased Ca2+ entry and Ca2+-induced Ca2+ release.",
+  "source": "Generated from 7. Cardiovascular.pdf - Physiology: Stroke volume determinants: preload, afterload, contractility"
+},
+{
+  "id": "cardio-042",
+  "subject": "Cardiovascular",
+  "major_topic": "Physiology",
+  "subtopic": "Stroke volume determinants: preload, afterload, contractility",
+  "difficulty": "medium",
+  "vignette": "A 68-year-old man with heart failure is being counseled about his medications. His physician explains that several of his drugs and comorbidities affect myocardial contractility and therefore his stroke volume.",
+  "question": "Which of the following decreases myocardial contractility?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Catecholamine stimulation of β1 receptors"
+    },
+    {
+      "id": "B",
+      "text": "Digoxin"
+    },
+    {
+      "id": "C",
+      "text": "Anxiety or exercise"
+    },
+    {
+      "id": "D",
+      "text": "Early pregnancy"
+    },
+    {
+      "id": "E",
+      "text": "Nondihydropyridine calcium channel blockers"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Nondihydropyridine calcium channel blockers (eg, verapamil, diltiazem) reduce Ca2+ influx and depress myocardial contractility. Contractility (and stroke volume) decreases with β1-blockade, systolic heart failure, acidosis, hypoxia/hypercapnia, and nondihydropyridine calcium channel blockers.",
+  "explanation_incorrect": {
+    "A": "Catecholamine stimulation of β1 receptors increases intracellular Ca2+ via PKA-mediated phosphorylation and increases contractility (eg, anxiety, exercise).",
+    "B": "Digoxin blocks the Na+/K+ pump, increasing intracellular Na+ and Ca2+ and thereby increasing contractility.",
+    "C": "Anxiety and exercise raise sympathetic tone and catecholamine stimulation, increasing contractility and stroke volume.",
+    "D": "Early pregnancy increases preload, which increases stroke volume; it does not depress myocardial contractility."
+  },
+  "educationalObjective": "Contractility decreases with β1-blockade, systolic heart failure, acidosis, hypoxia/hypercapnia, and nondihydropyridine calcium channel blockers.",
+  "source": "Generated from 7. Cardiovascular.pdf - Physiology: Stroke volume determinants: preload, afterload, contractility"
+},
+{
+  "id": "cardio-043",
+  "subject": "Cardiovascular",
+  "major_topic": "Physiology",
+  "subtopic": "Stroke volume determinants: preload, afterload, contractility",
+  "difficulty": "medium",
+  "vignette": "A 60-year-old woman with heart failure and preserved renal function is started on hydralazine as part of her regimen. Her physician reviews the expected hemodynamic effects of her vasodilator medications before follow-up.",
+  "question": "Which hemodynamic change is the expected effect of hydralazine?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Decreased preload only"
+    },
+    {
+      "id": "B",
+      "text": "Decreased preload and decreased afterload"
+    },
+    {
+      "id": "C",
+      "text": "Decreased afterload with little effect on preload"
+    },
+    {
+      "id": "D",
+      "text": "Increased preload via venoconstriction"
+    },
+    {
+      "id": "E",
+      "text": "Increased afterload via arterial constriction"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Hydralazine is an arterial (resistance-vessel) vasodilator, so it decreases afterload (which is approximated by mean arterial pressure) with relatively little effect on venous capacitance and preload. By contrast, venous vasodilators such as nitroglycerin decrease preload, and ACE inhibitors and ARBs decrease both preload and afterload.",
+  "explanation_incorrect": {
+    "A": "Decreasing preload is the effect of venous vasodilators such as nitroglycerin, not of the arterial vasodilator hydralazine.",
+    "B": "Decreasing both preload and afterload is characteristic of ACE inhibitors and ARBs; hydralazine acts predominantly on arteries.",
+    "D": "Hydralazine is a vasodilator, not a venoconstrictor, and does not increase preload.",
+    "E": "Hydralazine dilates arteries, which lowers (not raises) afterload and mean arterial pressure."
+  },
+  "educationalObjective": "Arterial vasodilators (eg, hydralazine) decrease afterload; venous vasodilators (eg, nitroglycerin) decrease preload; ACE inhibitors and ARBs decrease both.",
+  "source": "Generated from 7. Cardiovascular.pdf - Physiology: Stroke volume determinants: preload, afterload, contractility"
+},
+{
+  "id": "cardio-044",
+  "subject": "Cardiovascular",
+  "major_topic": "Physiology",
+  "subtopic": "Stroke volume determinants: preload, afterload, contractility",
+  "difficulty": "hard",
+  "vignette": "A 72-year-old woman with atrial fibrillation and reduced ejection fraction takes digoxin. On her follow-up visit, her heart rate is better controlled and her physician notes improved myocardial contractility on examination.",
+  "question": "Which mechanism best explains the positive inotropic effect of digoxin?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Direct activation of β1 receptors with increased cAMP"
+    },
+    {
+      "id": "B",
+      "text": "Inhibition of the Na+/K+ pump → increased intracellular Na+ → decreased Na+/Ca2+ exchanger activity → increased intracellular Ca2+"
+    },
+    {
+      "id": "C",
+      "text": "Blockade of L-type Ca2+ channels with decreased Ca2+-induced Ca2+ release"
+    },
+    {
+      "id": "D",
+      "text": "Inhibition of phosphodiesterase with increased cAMP"
+    },
+    {
+      "id": "E",
+      "text": "Phospholamban dephosphorylation with decreased sarcoplasmic reticulum Ca2+ storage"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Digoxin blocks the Na+/K+ pump, increasing intracellular Na+. This reduces the activity of the Na+/Ca2+ exchanger, so less Ca2+ is extruded from the myocyte, increasing intracellular Ca2+ and enhancing contractility (a positive inotropic effect). Digoxin also slows AV nodal conduction, which helps rate control in atrial fibrillation.",
+  "explanation_incorrect": {
+    "A": "Digoxin does not bind β1 receptors; sympathetic stimulation is the β1-mediated route to increased contractility.",
+    "C": "L-type Ca2+ channel blockade is the action of nondihydropyridine calcium channel blockers, which decrease contractility rather than increase it.",
+    "D": "Phosphodiesterase inhibition (eg, milrinone) increases cAMP and contractility, but that is a different mechanism from digoxin's Na+/K+ pump blockade.",
+    "E": "Dephosphorylation of phospholamban would reduce SR Ca2+ storage and lower contractility; digoxin raises intracellular Ca2+ through pump blockade instead."
+  },
+  "educationalObjective": "Digoxin increases contractility by blocking the Na+/K+ pump, raising intracellular Na+, reducing Na+/Ca2+ exchange, and increasing intracellular Ca2+.",
+  "source": "Generated from 7. Cardiovascular.pdf - Physiology: Stroke volume determinants: preload, afterload, contractility"
+}
+]

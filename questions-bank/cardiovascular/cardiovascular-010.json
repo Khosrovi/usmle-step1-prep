@@ -1,0 +1,207 @@
+[
+{
+  "id": "cardio-122",
+  "subject": "Cardiovascular",
+  "major_topic": "Physiology",
+  "subtopic": "Baroreceptors and chemoreceptors",
+  "difficulty": "easy",
+  "vignette": "A neuroanatomy instructor describes two stretch-sensitive receptors that monitor blood pressure: one in the aortic arch and one in a dilated region superior to the bifurcation of the carotid arteries. Both send afferent information to the nucleus tractus solitarius of the medulla.",
+  "question": "Which cranial nerve transmits baroreceptor afferent information from the carotid sinus?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Vagus nerve (CN X)"
+    },
+    {
+      "id": "B",
+      "text": "Glossopharyngeal nerve (CN IX)"
+    },
+    {
+      "id": "C",
+      "text": "Hypoglossal nerve (CN XII)"
+    },
+    {
+      "id": "D",
+      "text": "Facial nerve (CN VII)"
+    },
+    {
+      "id": "E",
+      "text": "Accessory nerve (CN XI)"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "The carotid sinus, a dilated region superior to the bifurcation of the carotid arteries, transmits baroreceptor information via the glossopharyngeal nerve (CN IX) to the nucleus tractus solitarius of the medulla. The aortic arch baroreceptors, in contrast, transmit via the vagus nerve (CN X).",
+  "explanation_incorrect": {
+    "A": "The vagus nerve carries afferents from the aortic arch baroreceptors, not from the carotid sinus.",
+    "C": "The hypoglossal nerve is a pure motor nerve to the tongue and carries no baroreceptor afferents.",
+    "D": "The facial nerve mediates taste and facial expression and does not transmit carotid sinus baroreceptor input.",
+    "E": "The accessory nerve innervates sternocleidomastoid and trapezius and carries no vascular stretch information."
+  },
+  "educationalObjective": "Carotid sinus baroreceptors signal via CN IX (glossopharyngeal), while aortic arch baroreceptors signal via CN X (vagus), both to the nucleus tractus solitarius.",
+  "source": "Generated from 7. Cardiovascular.pdf - Physiology: Baroreceptors and chemoreceptors"
+},
+{
+  "id": "cardio-123",
+  "subject": "Cardiovascular",
+  "major_topic": "Physiology",
+  "subtopic": "Baroreceptors and chemoreceptors",
+  "difficulty": "medium",
+  "vignette": "A 19-year-old college student donates a unit of whole blood and then stands up quickly. He feels lightheaded. His heart rate and peripheral vascular tone promptly rise, restoring his blood pressure. This reflex is particularly important in the response to hypovolemic shock.",
+  "question": "What sequence of baroreceptor events produced his compensatory response?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Increased arterial pressure leading to increased afferent firing and increased parasympathetic output"
+    },
+    {
+      "id": "B",
+      "text": "Decreased stretch leading to increased afferent firing and increased sympathetic output"
+    },
+    {
+      "id": "C",
+      "text": "Increased stretch leading to decreased afferent firing and decreased sympathetic output"
+    },
+    {
+      "id": "D",
+      "text": "Decreased arterial pressure leading to decreased stretch, decreased afferent firing, increased sympathetic, and decreased parasympathetic output"
+    },
+    {
+      "id": "E",
+      "text": "Unchanged afferent firing with a direct medullary response to low blood volume"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Hypotension causes decreased arterial pressure, which leads to decreased baroreceptor stretch and decreased afferent firing to the nucleus tractus solitarius. This triggers increased efferent sympathetic firing and decreased parasympathetic stimulation, producing vasoconstriction, increased heart rate, increased contractility, and restored blood pressure. This reflex is important in the response to hypovolemic shock.",
+  "explanation_incorrect": {
+    "A": "This describes the opposite situation (hypertension), where increased stretch increases firing and promotes parasympathetic, not sympathetic, output.",
+    "B": "Decreased stretch decreases — not increases — afferent baroreceptor firing; the sympathetic rise is the central response to that fall.",
+    "C": "Increased stretch accompanies hypertension and increases (not decreases) afferent firing, driving reduced sympathetic tone.",
+    "E": "Baroreceptor afferent firing does change with pressure; the medulla responds to the altered afferent input rather than to blood volume directly."
+  },
+  "educationalObjective": "Hypotension decreases baroreceptor stretch and afferent firing, which reflexively increases sympathetic and decreases parasympathetic output to restore blood pressure.",
+  "source": "Generated from 7. Cardiovascular.pdf - Physiology: Baroreceptors and chemoreceptors"
+},
+{
+  "id": "cardio-124",
+  "subject": "Cardiovascular",
+  "major_topic": "Physiology",
+  "subtopic": "Baroreceptors and chemoreceptors",
+  "difficulty": "hard",
+  "vignette": "A 78-year-old man with a history of carotid atherosclerosis and prior neck surgery reports recurrent lightheadedness while shaving and when wearing a tight shirt collar. During carotid massage in the clinic, he becomes presyncopal. Evaluation shows a profound slowing of his heart rate during the episode.",
+  "question": "Which mechanism best explains his episodes?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Decreased afferent baroreceptor firing with a compensatory increase in sympathetic tone"
+    },
+    {
+      "id": "B",
+      "text": "Increased carotid sinus pressure leading to decreased afferent firing and increased heart rate"
+    },
+    {
+      "id": "C",
+      "text": "Increased carotid sinus pressure leading to increased afferent firing, prolonged AV node refractory period, decreased heart rate, and peripheral vasodilation"
+    },
+    {
+      "id": "D",
+      "text": "Stimulation of peripheral chemoreceptors by decreased arterial oxygen content during neck compression"
+    },
+    {
+      "id": "E",
+      "text": "Direct mechanical compression of the vagus nerve trunk within the carotid sheath"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "In carotid sinus hypersensitivity, carotid massage or pressure from shaving, a tight necktie, or shirt collar increases carotid sinus pressure, increasing afferent baroreceptor firing. This increases the AV node refractory period, decreasing heart rate and cardiac output, and also causes peripheral vasodilation — together causing presyncope or syncope. The condition is exaggerated in underlying atherosclerosis, prior neck surgery, and older age, all present in this patient.",
+  "explanation_incorrect": {
+    "A": "This describes the baroreceptor response to hypotension; in carotid sinus hypersensitivity afferent firing is increased, not decreased.",
+    "B": "Increased carotid sinus pressure increases afferent firing and slows — not accelerates — the heart rate.",
+    "D": "Peripheral chemoreceptors respond to hypoxia, hypercapnia, and acidemia in the blood; neck pressure here triggers baroreceptors, not chemoreceptors.",
+    "E": "The reflex operates through the carotid sinus stretch receptors and central processing, not direct mechanical compression of the vagus nerve."
+  },
+  "educationalObjective": "Carotid sinus hypersensitivity causes increased afferent firing, prolonged AV nodal refractory period, bradycardia, and vasodilation, leading to syncope.",
+  "source": "Generated from 7. Cardiovascular.pdf - Physiology: Baroreceptors and chemoreceptors"
+},
+{
+  "id": "cardio-125",
+  "subject": "Cardiovascular",
+  "major_topic": "Physiology",
+  "subtopic": "Baroreceptors and chemoreceptors",
+  "difficulty": "medium",
+  "vignette": "A 70-year-old man with severe COPD and chronic CO2 retention is evaluated for chronic hypoxemia. His physician notes that the sensors in his brain interstitial fluid have become less sensitive, increasing his reliance on peripheral sensors to detect low oxygen and drive respiration.",
+  "question": "Which statement correctly characterizes the central chemoreceptors in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "They are stimulated primarily by arterial Po2 below 60 mm Hg"
+    },
+    {
+      "id": "B",
+      "text": "They respond directly to H+ arriving from the systemic circulation across the blood-brain barrier"
+    },
+    {
+      "id": "C",
+      "text": "They become more sensitive with chronically increased Pco2, restoring normal control"
+    },
+    {
+      "id": "D",
+      "text": "They are located in the carotid and aortic bodies"
+    },
+    {
+      "id": "E",
+      "text": "They respond to changes in pH and Pco2 of brain interstitial fluid but do not respond to Po2"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Central chemoreceptors are stimulated by changes in pH and Pco2 of brain interstitial fluid, which are in turn influenced by arterial CO2 because H+ cannot cross the blood-brain barrier. They do not respond to Po2. With chronically increased Pco2 (eg, COPD), central chemoreceptors become less sensitive, increasing dependence on peripheral chemoreceptors to detect decreased O2 and drive respiration.",
+  "explanation_incorrect": {
+    "A": "Sensitivity to low Po2 (< 60 mm Hg) is a property of the peripheral carotid and aortic bodies, not the central chemoreceptors.",
+    "B": "H+ cannot cross the blood-brain barrier; central chemoreceptors respond to locally produced pH changes in brain interstitial fluid, not to circulating H+.",
+    "C": "Central chemoreceptors become less — not more — sensitive with chronic hypercapnia, which is why peripheral chemoreceptors take on greater importance.",
+    "D": "The carotid and aortic bodies are the peripheral chemoreceptors; central chemoreceptors are located in the brain."
+  },
+  "educationalObjective": "Central chemoreceptors sense pH and Pco2 of brain interstitial fluid (not Po2), and become less sensitive with chronic hypercapnia, shifting respiratory drive to peripheral chemoreceptors.",
+  "source": "Generated from 7. Cardiovascular.pdf - Physiology: Baroreceptors and chemoreceptors"
+},
+{
+  "id": "cardio-126",
+  "subject": "Cardiovascular",
+  "major_topic": "Physiology",
+  "subtopic": "Baroreceptors and chemoreceptors",
+  "difficulty": "hard",
+  "vignette": "A patient with a traumatic brain injury develops progressively elevated intracranial pressure. He is found to be hypertensive with a blood pressure of 210/110 mm Hg, bradycardic at 42/min, with irregular respirations. The examining physician recognizes this triad and elevates the head of the bed while preparing for urgent intervention.",
+  "question": "What sequence of events links his elevated intracranial pressure to the bradycardia component of this reflex?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Increased intracranial pressure constricts arterioles leading to cerebral ischemia, increased Pco2 and decreased pH, central reflex sympathetic increase in perfusion pressure, then increased arterial stretch triggering baroreceptor-induced bradycardia"
+    },
+    {
+      "id": "B",
+      "text": "Increased intracranial pressure directly stimulates the vagus nerve nuclei, causing bradycardia without any blood pressure change"
+    },
+    {
+      "id": "C",
+      "text": "Cerebral ischemia activates peripheral chemoreceptors, causing bradycardia directly through the glossopharyngeal nerve"
+    },
+    {
+      "id": "D",
+      "text": "Elevated intracranial pressure decreases sympathetic output, lowering blood pressure and secondarily slowing the heart rate"
+    },
+    {
+      "id": "E",
+      "text": "Increased intracranial pressure stretches the aortic arch directly, increasing vagal afferent firing and slowing the heart"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "This is the Cushing reflex. Increased intracranial pressure constricts cerebral arterioles, causing cerebral ischemia, which raises Pco2 and lowers pH. A central reflex sympathetic response increases perfusion pressure (hypertension); the resulting increased arterial stretch then triggers a peripheral reflex baroreceptor-induced bradycardia. Together with respiratory depression, this forms the classic triad of hypertension, bradycardia, and respiratory depression.",
+  "explanation_incorrect": {
+    "B": "The bradycardia is a secondary baroreceptor response to the sympathetic-driven hypertension, not a direct vagal nuclear effect; blood pressure rises markedly first.",
+    "C": "The ischemia is cerebral and acts through a central sympathetic reflex; peripheral chemoreceptors do not directly produce the bradycardia here.",
+    "D": "Sympathetic output increases — not decreases — to raise perfusion pressure; the hypertension precedes and causes the bradycardia.",
+    "E": "Intracranial pressure does not mechanically stretch the aortic arch; the afferent signal arises from the raised systemic pressure acting on intact baroreceptors."
+  },
+  "educationalObjective": "The Cushing reflex triad of hypertension, bradycardia, and respiratory depression arises when increased ICP causes cerebral ischemia, central sympathetic hypertension, and secondary baroreceptor bradycardia.",
+  "source": "Generated from 7. Cardiovascular.pdf - Physiology: Baroreceptors and chemoreceptors"
+}
+]

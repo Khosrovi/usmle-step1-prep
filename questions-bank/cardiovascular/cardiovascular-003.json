@@ -1,0 +1,207 @@
+[
+{
+  "id": "cardio-181",
+  "subject": "Cardiovascular",
+  "major_topic": "Pathology",
+  "subtopic": "Angina syndromes and chronic ischemic heart disease",
+  "difficulty": "easy",
+  "vignette": "A 44-year-old man comes to the emergency department with a 2-week history of crushing chest pain that wakes him from sleep at around 3 AM. Each episode lasts 10-15 minutes. He has smoked one pack of cigarettes daily for 20 years. ECG during an episode shows transient ST-segment elevation that resolves when the pain subsides. Cardiac troponin I is within normal limits, and stress testing is negative for inducible ischemia.",
+  "question": "Which of the following is the most likely mechanism of this patient's chest pain?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Rupture of an atherosclerotic plaque with acute complete thrombotic occlusion of a coronary artery"
+    },
+    {
+      "id": "B",
+      "text": "Fixed atherosclerotic narrowing of a coronary artery producing ischemia only during exertion"
+    },
+    {
+      "id": "C",
+      "text": "Coronary artery spasm causing ischemia without myocardial necrosis"
+    },
+    {
+      "id": "D",
+      "text": "Thrombosis with incomplete coronary occlusion accompanied by cardiac biomarker release"
+    },
+    {
+      "id": "E",
+      "text": "Vasodilator-induced diversion of blood flow away from a myocardium perfused by a stenosed vessel"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "This patient has vasospastic (formerly Prinzmetal or variant) angina: chest pain at rest due to coronary artery spasm, with transient ischemic ST-segment changes on ECG, no biomarker elevation, and no necrosis by definition. Tobacco smoking is a major risk factor, and his episodes classically occur at rest and at night. Triggers include cocaine, amphetamines, alcohol, and triptans. Treatment is with Ca2+ channel blockers, nitrates, and smoking cessation.",
+  "explanation_incorrect": {
+    "A": "Plaque rupture with acute thrombosis is the mechanism of most myocardial infarctions, which would produce myocardial necrosis and cardiac biomarker elevation; this patient's troponin is normal.",
+    "B": "Fixed ≥70% atherosclerotic occlusion with exertional pain relieved by rest or nitroglycerin describes stable angina, but this patient's pain occurs at rest and awakens him from sleep.",
+    "D": "Thrombosis with incomplete coronary occlusion plus biomarker elevation describes NSTEMI, a myocardial infarction with subendocardial necrosis; here troponin I is normal and there is no necrosis.",
+    "E": "Vasodilator-induced coronary steal describes ischemia produced when vasodilators (eg, dipyridamole, adenosine, regadenoson) dilate normal vessels and divert blood away from a stenosed territory; it is a mechanism invoked during stress testing, not spontaneous nocturnal pain."
+  },
+  "educationalObjective": "Vasospastic (Prinzmetal) angina is rest chest pain from coronary artery spasm with transient ST changes, no necrosis, strong association with tobacco, and treatment with calcium channel blockers and nitrates.",
+  "source": "Generated from 7. Cardiovascular.pdf - Pathology: Angina syndromes and chronic ischemic heart disease"
+},
+{
+  "id": "cardio-182",
+  "subject": "Cardiovascular",
+  "major_topic": "Pathology",
+  "subtopic": "Angina syndromes and chronic ischemic heart disease",
+  "difficulty": "medium",
+  "vignette": "A 61-year-old woman with a 3-year history of chest tightness that reliably occurs after walking two blocks and resolves within minutes of stopping comes to the clinic. Over the past week the chest tightness has begun occurring after walking only a few meters and has twice awakened her from sleep. She has hypertension and dyslipidemia. Today's ECG shows 1-mm ST-segment depression in leads V4-V6. Cardiac troponin I measured at presentation and 3 hours later is within normal limits.",
+  "question": "Which of the following is the most likely diagnosis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Unstable angina"
+    },
+    {
+      "id": "B",
+      "text": "NSTEMI"
+    },
+    {
+      "id": "C",
+      "text": "Stable angina"
+    },
+    {
+      "id": "D",
+      "text": "Vasospastic angina"
+    },
+    {
+      "id": "E",
+      "text": "STEMI"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Crescendo angina — an increase in the frequency or intensity of previously stable exertional chest pain, or any chest pain at rest — defines unstable angina, which results from thrombosis with incomplete coronary artery occlusion. By definition there is no cardiac biomarker elevation (which distinguishes it from NSTEMI), even though ST depression and/or T-wave inversion may be present on ECG.",
+  "explanation_incorrect": {
+    "B": "NSTEMI also presents with rest pain and ST depression/T-wave inversion, but it produces myocardial necrosis with elevated troponin; serial troponins here are normal.",
+    "C": "Stable angina is exertional chest pain from ≥70% atherosclerotic occlusion that resolves with rest or nitroglycerin; this patient's pattern has progressed to rest pain and increasing frequency, which is no longer stable.",
+    "D": "Vasospastic angina occurs at rest due to coronary artery spasm with transient ST changes, but it is not characterized by a crescendo pattern in a patient with classic chronic exertional angina, and spasm is typically not preceded by a stable exertional pattern for years.",
+    "E": "STEMI presents with rest pain, elevated troponin, and ST elevation with pathologic Q waves reflecting transmural infarction; none of these is present."
+  },
+  "educationalObjective": "Unstable angina is crescendo or rest chest pain from incomplete thrombotic occlusion without troponin elevation; troponin elevation with the same presentation indicates NSTEMI.",
+  "source": "Generated from 7. Cardiovascular.pdf - Pathology: Angina syndromes and chronic ischemic heart disease"
+},
+{
+  "id": "cardio-183",
+  "subject": "Cardiovascular",
+  "major_topic": "Pathology",
+  "subtopic": "Angina syndromes and chronic ischemic heart disease",
+  "difficulty": "medium",
+  "vignette": "A 68-year-old man with known three-vessel coronary artery disease undergoes a pharmacologic stress test with a vasodilator agent. Several minutes after administration of the drug he develops chest pain, and the ECG shows new ST-segment depression in the inferior leads. The cardiologist explains that although the drug dilates coronary arteries everywhere, it has paradoxically reduced perfusion to the territory supplied by his most stenosed vessel.",
+  "question": "Which of the following best explains the paradoxical reduction in flow to the stenosed territory?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Drug-induced spasm of the stenosed coronary artery at the site of the atherosclerotic plaque"
+    },
+    {
+      "id": "B",
+      "text": "Drug-induced increase in myocardial oxygen demand that outpaces maximal coronary oxygen delivery"
+    },
+    {
+      "id": "C",
+      "text": "Acute thrombotic occlusion of the already stenosed coronary artery triggered by the vasodilator"
+    },
+    {
+      "id": "D",
+      "text": "Dilation of normal coronary vessels, which decreases hydrostatic pressure in those arteries and shunts blood toward well-perfused areas"
+    },
+    {
+      "id": "E",
+      "text": "Reflex tachycardia shortening the diastolic interval during which the coronary arteries are perfused"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "In the coronary steal syndrome, vessels distal to a stenosis are already maximally dilated at baseline to compensate for reduced flow. When a vasodilator (eg, dipyridamole, adenosine, regadenoson) is given, only the normal vessels can dilate further; this decreases hydrostatic pressure in the normal coronary arteries, so blood is shunted toward the well-perfused areas and flow to myocardium supplied by the stenosed vessel falls (\"steal\"), producing ischemia. Vasodilator stress tests exploit this differential in flow, and rarely it causes true ischemia.",
+  "explanation_incorrect": {
+    "A": "Vasospastic angina is caused by spasm at rest (triggers include cocaine, amphetamines, alcohol, triptans), but the steal mechanism involves redistribution of flow, not drug-induced spasm of the stenosed segment.",
+    "B": "Increasing oxygen demand (eg, with exercise or dobutamine) is a mechanism of demand-ischemia in stable angina, but vasodilators act by redistributing flow, not by raising demand.",
+    "C": "Acute plaque rupture with thrombosis is the mechanism of acute coronary syndromes; vasodilator agents used in stress testing do not trigger acute thrombotic occlusion.",
+    "E": "Tachycardia shortens diastole, when coronary perfusion occurs, but that is not the mechanism by which vasodilators steal flow; the steal occurs through differential dilation and pressure fall-off in normal vessels."
+  },
+  "educationalObjective": "Coronary steal: vasodilators dilate only normal vessels (vessels distal to a stenosis are already maximally dilated), shunting blood to well-perfused areas and reducing flow to the stenosed territory.",
+  "source": "Generated from 7. Cardiovascular.pdf - Pathology: Angina syndromes and chronic ischemic heart disease"
+},
+{
+  "id": "cardio-184",
+  "subject": "Cardiovascular",
+  "major_topic": "Pathology",
+  "subtopic": "Angina syndromes and chronic ischemic heart disease",
+  "difficulty": "hard",
+  "vignette": "A 19-year-old man is evaluated after an episode of syncope while lifting weights. His father died suddenly at age 35 while driving. ECG shows coved ST-segment elevation in leads V1-V2 with no pathologic Q waves. Echocardiogram shows normal ventricular size and function, coronary CT angiography shows no atherosclerosis or anomalies, and serial troponins are normal.",
+  "question": "Which of the following interventions would most likely prevent sudden cardiac death in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Coronary angiography with stent placement in the affected artery"
+    },
+    {
+      "id": "B",
+      "text": "Implantation of a cardioverter-defibrillator"
+    },
+    {
+      "id": "C",
+      "text": "Initiation of a graded aerobic exercise training program"
+    },
+    {
+      "id": "D",
+      "text": "Verapamil to reduce myocardial oxygen demand"
+    },
+    {
+      "id": "E",
+      "text": "Aspirin and a high-intensity statin"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "The coved ST-segment elevation in V1-V2 with a family history of sudden death and normal coronaries and troponin indicates a hereditary channelopathy (Brugada syndrome). Sudden cardiac death is unexpected death from cardiac causes within 1 hour of symptom onset (or within 24 hours in someone without prior symptoms), most commonly from a lethal ventricular arrhythmia such as ventricular fibrillation. Channelopathies are an established cause, and an implantable cardioverter-defibrillator prevents sudden cardiac death.",
+  "explanation_incorrect": {
+    "A": "Coronary stenting addresses atherosclerotic CAD, which accounts for up to 70% of sudden cardiac death cases but has been excluded here by CT angiography in a young patient with a channelopathy.",
+    "C": "Exercise training does not prevent the lethal ventricular arrhythmia of a channelopathy and, in conditions such as long QT syndrome, exertion can itself trigger the fatal event.",
+    "D": "Verapamil reduces demand and is used in vasospastic angina or hypertrophic cardiomyopathy, but it does not protect against the ventricular fibrillation of an inherited channelopathy.",
+    "E": "Aspirin and statins treat atherosclerotic disease; this patient has no coronary atherosclerosis, so they would not prevent his arrhythmic sudden death."
+  },
+  "educationalObjective": "Sudden cardiac death is usually lethal ventricular arrhythmia (eg, VF); causes include CAD (up to 70%), cardiomyopathy, myocarditis, coronary anomalies, and channelopathies such as long QT and Brugada — prevention is with an implantable cardioverter-defibrillator.",
+  "source": "Generated from 7. Cardiovascular.pdf - Pathology: Angina syndromes and chronic ischemic heart disease"
+},
+{
+  "id": "cardio-185",
+  "subject": "Cardiovascular",
+  "major_topic": "Pathology",
+  "subtopic": "Angina syndromes and chronic ischemic heart disease",
+  "difficulty": "medium",
+  "vignette": "A 66-year-old man with chronic stable angina and no prior myocardial infarction presents with progressive exertional dyspnea. Echocardiogram shows reduced left ventricular systolic function with global hypokinesis. The cardiologist explains that the chronically underperfused myocardium has been contracting poorly to conserve energy, and that function could improve if blood flow to the territory were restored by revascularization.",
+  "question": "Which of the following terms best describes this reversible state of left ventricular systolic dysfunction?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Myocardial stunning"
+    },
+    {
+      "id": "B",
+      "text": "Completed myocardial infarction with fibrous scar"
+    },
+    {
+      "id": "C",
+      "text": "Myocardial hibernation"
+    },
+    {
+      "id": "D",
+      "text": "Coronary steal phenomenon"
+    },
+    {
+      "id": "E",
+      "text": "Postcardiac injury syndrome"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Myocardial hibernation is LV systolic dysfunction in the setting of chronic ischemia; it is potentially reversible with myocardial reperfusion. It is seen in stable angina, acute MI, or heart failure, and explains why revascularization can restore contractile function in chronically ischemic, still-viable myocardium.",
+  "explanation_incorrect": {
+    "A": "Myocardial stunning is transient, reversible LV systolic dysfunction after brief, acute ischemia — not the chronic, flow-restoration-dependent state described here.",
+    "B": "A completed infarct with contracted scar represents irreversible necrosis and fibrosis; the myocardium here is viable and dysfunctional only because of chronic underperfusion.",
+    "D": "Coronary steal is the shunting of blood from a stenosed territory to well-perfused areas during vasodilator administration, a hemodynamic phenomenon rather than a state of the myocardium.",
+    "E": "The postcardiac injury syndrome is a late (2 weeks to several months) complication after infarction involving pericardial inflammation, not chronic ischemic LV dysfunction."
+  },
+  "educationalObjective": "Myocardial hibernation is chronic-ischemia LV systolic dysfunction reversible with reperfusion; contrast with myocardial stunning, the transient dysfunction after brief acute ischemia.",
+  "source": "Generated from 7. Cardiovascular.pdf - Pathology: Angina syndromes and chronic ischemic heart disease"
+}
+]

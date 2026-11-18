@@ -1,0 +1,166 @@
+[
+{
+  "id": "cardio-289",
+  "subject": "Cardiovascular",
+  "major_topic": "Pharmacology",
+  "subtopic": "Nitrates",
+  "difficulty": "easy",
+  "vignette": "A 63-year-old man with coronary artery disease presents with substernal chest pressure that occurs when he climbs two flights of stairs and resolves within minutes of rest. Sublingual nitroglycerin is prescribed and promptly relieves his symptoms.",
+  "question": "Which of the following best describes the mechanism of action of nitroglycerin?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Inhibition of phosphodiesterase-5, increasing cGMP in vascular smooth muscle"
+    },
+    {
+      "id": "B",
+      "text": "Increased nitric oxide in vascular smooth muscle, increasing cGMP and preferentially dilating veins"
+    },
+    {
+      "id": "C",
+      "text": "Blockade of L-type calcium channels in vascular smooth muscle"
+    },
+    {
+      "id": "D",
+      "text": "Selective alpha1-adrenergic blockade of arterioles"
+    },
+    {
+      "id": "E",
+      "text": "Activation of beta2 receptors in the coronary arteries"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Nitrates vasodilate by increasing nitric oxide in vascular smooth muscle, which increases cGMP and causes smooth muscle relaxation. They dilate veins much more than arteries, thereby decreasing preload, which reduces myocardial oxygen demand and relieves angina. This makes them clinically useful in angina, acute coronary syndrome, and pulmonary edema.",
+  "explanation_incorrect": {
+    "A": "Phosphodiesterase-5 inhibition is the mechanism of drugs such as sildenafil; nitrates instead increase nitric oxide production. Combining the two is contraindicated because both raise cGMP.",
+    "C": "L-type calcium channel blockade is the mechanism of calcium channel blockers such as amlodipine and verapamil, not of nitrates.",
+    "D": "Selective alpha1 blockade is the mechanism of alpha-blockers such as prazosin; nitrates do not act through adrenergic receptors.",
+    "E": "Nitrates do not activate beta2 receptors; their vasodilation is mediated by the nitric oxide-cGMP pathway in smooth muscle."
+  },
+  "educationalObjective": "Nitrates vasodilate by increasing NO and cGMP in vascular smooth muscle, dilating veins more than arteries and decreasing preload.",
+  "source": "Generated from 7. Cardiovascular.pdf - Pharmacology: Nitrates"
+},
+{
+  "id": "cardio-290",
+  "subject": "Cardiovascular",
+  "major_topic": "Pharmacology",
+  "subtopic": "Nitrates",
+  "difficulty": "hard",
+  "vignette": "A 47-year-old man works in an industrial plant where he is exposed to nitrate compounds Monday through Friday. Over the past several months, he has felt well by the end of each workweek, but every Monday morning he develops a throbbing headache, dizziness, and palpitations that resolve by midday. Physical examination between episodes is normal.",
+  "question": "Which of the following is the most likely explanation for this patient's Monday symptoms?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Accumulation of methemoglobin over the weekend"
+    },
+    {
+      "id": "B",
+      "text": "An allergic vasculitis to the nitrate compounds"
+    },
+    {
+      "id": "C",
+      "text": "Development of tolerance during the work week with loss of tolerance over the weekend"
+    },
+    {
+      "id": "D",
+      "text": "Cumulative cyanide toxicity from nitrate metabolism"
+    },
+    {
+      "id": "E",
+      "text": "A weekly cycle of catecholamine secretion unrelated to nitrate exposure"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "This is Monday disease from industrial nitrate exposure: tolerance to the vasodilating action develops during the work week, and the tolerance is lost over the weekend. On reexposure Monday, the vasodilation (and the compensatory tachycardia that vasodilation triggers) recurs, producing headache, dizziness, and palpitations.",
+  "explanation_incorrect": {
+    "A": "Methemoglobinemia is a possible nitrate adverse effect, but it causes cyanosis and dyspnea that would accumulate with exposure during the week, not resolve on weekends and reappear each Monday.",
+    "B": "An allergic vasculitis would produce rash, purpura, or systemic symptoms that persist or worsen with cumulative exposure, not symptoms confined to the first day of reexposure each week.",
+    "D": "Cyanide toxicity is an adverse effect of nitroprusside, not industrial nitrate exposure, and it causes lactic acidosis rather than a Monday-predominant headache pattern.",
+    "E": "Catecholamine secretion does not follow a weekly cycle; the symptoms track precisely with resumption of nitrate exposure after a drug-free weekend."
+  },
+  "educationalObjective": "Monday disease describes nitrate tolerance developing during the work week and lost over the weekend, causing tachycardia, dizziness, and headache upon reexposure.",
+  "source": "Generated from 7. Cardiovascular.pdf - Pharmacology: Nitrates"
+},
+{
+  "id": "cardio-291",
+  "subject": "Cardiovascular",
+  "major_topic": "Pharmacology",
+  "subtopic": "Nitrates",
+  "difficulty": "medium",
+  "vignette": "A 58-year-old man takes sildenafil for erectile dysfunction. While at dinner he develops severe substernal chest pain, and he takes a sublingual nitroglycerin tablet a friend gives him. Twenty minutes later he is found pale and diaphoretic; his blood pressure is 76/44 mm Hg and his heart rate is 118/min.",
+  "question": "Which of the following best explains this patient's severe hypotension?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Sildenafil prevented the hepatic metabolism of nitroglycerin, raising nitrate levels"
+    },
+    {
+      "id": "B",
+      "text": "Nitroglycerin converted sildenafil into a long-acting toxic metabolite"
+    },
+    {
+      "id": "C",
+      "text": "The combination caused reflex bradycardia and cardiogenic shock"
+    },
+    {
+      "id": "D",
+      "text": "Sildenafil antagonized nitrate-induced venodilation, shifting blood into the splanchnic circulation"
+    },
+    {
+      "id": "E",
+      "text": "Both drugs increased cGMP signaling in vascular smooth muscle, causing excessive vasodilation"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Nitrates increase nitric oxide and thereby increase cGMP production, while PDE-5 inhibitors block the degradation of cGMP. Concurrent use produces excessive cGMP-mediated vasodilation with profound hypotension, which is why nitrates are contraindicated with PDE-5 inhibitors. Nitrates are also contraindicated in right ventricular infarction and hypertrophic cardiomyopathy.",
+  "explanation_incorrect": {
+    "A": "Sildenafil does not inhibit nitrate metabolism; the interaction is pharmacodynamic, mediated through additive cGMP signaling, not pharmacokinetic.",
+    "B": "Nitroglycerin does not alter sildenafil's structure or generate a toxic metabolite; there is no such conversion.",
+    "C": "The patient is tachycardic, not bradycardic; the hypotension is from excessive vasodilation rather than pump failure or reflex bradycardia.",
+    "D": "Sildenafil does not antagonize venodilation; both drugs act in the same direction on cGMP, producing vasodilation, not opposing effects."
+  },
+  "educationalObjective": "Nitrates are contraindicated with PDE-5 inhibitors because both increase cGMP, causing severe hypotension; nitrates are also contraindicated in RV infarction and HCM.",
+  "source": "Generated from 7. Cardiovascular.pdf - Pharmacology: Nitrates"
+},
+{
+  "id": "cardio-292",
+  "subject": "Cardiovascular",
+  "major_topic": "Pharmacology",
+  "subtopic": "Nitrates",
+  "difficulty": "hard",
+  "vignette": "A 58-year-old man presents with crushing substernal chest pain. ECG shows ST-segment elevation in leads II, III, and aVF with ST-segment elevation in lead V4R. Blood pressure is 88/60 mm Hg, jugular venous distention is present, and the lungs are clear to auscultation. A resident prepares to administer sublingual nitroglycerin for the pain.",
+  "question": "Which of the following best explains why nitroglycerin is contraindicated in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Nitrates increase myocardial oxygen demand by increasing contractility"
+    },
+    {
+      "id": "B",
+      "text": "Nitrates constrict the right coronary artery and extend the infarction"
+    },
+    {
+      "id": "C",
+      "text": "Nitrates rapidly cause methemoglobinemia at the doses used in acute coronary syndrome"
+    },
+    {
+      "id": "D",
+      "text": "Right ventricular infarction is preload-dependent; nitrate-induced venodilation decreases preload and cardiac output"
+    },
+    {
+      "id": "E",
+      "text": "Nitrates increase pulmonary capillary hydrostatic pressure and worsen pulmonary congestion"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "The ECG findings indicate an inferior STEMI with right ventricular involvement. Right ventricular infarction depends on adequate preload to maintain cardiac output, and nitrates dilate veins much more than arteries, decreasing preload and precipitating severe hypotension. This is why nitrates are contraindicated in right ventricular infarction (and in hypertrophic cardiomyopathy and with PDE-5 inhibitors).",
+  "explanation_incorrect": {
+    "A": "Nitrates do not increase contractility; by decreasing preload they reduce myocardial oxygen demand, which is why they help typical left-sided ischemia.",
+    "B": "Nitrates vasodilate; they do not constrict the right coronary artery or extend the infarction.",
+    "C": "Methemoglobinemia is a potential nitrate adverse effect but develops with prolonged or high exposure, not acutely with a single sublingual dose, and is not the specific reason for contraindication here.",
+    "E": "By decreasing preload, nitrates reduce pulmonary capillary pressures; increasing pulmonary congestion is the opposite of their venodilating effect."
+  },
+  "educationalObjective": "Nitrates are contraindicated in right ventricular infarction because venodilation decreases preload in a preload-dependent right ventricle, dropping cardiac output.",
+  "source": "Generated from 7. Cardiovascular.pdf - Pharmacology: Nitrates"
+}
+]

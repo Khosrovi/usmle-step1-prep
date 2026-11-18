@@ -1,0 +1,207 @@
+[
+{
+  "id": "cardio-114",
+  "subject": "Cardiovascular",
+  "major_topic": "Physiology",
+  "subtopic": "ECG waves, intervals, and conduction system",
+  "difficulty": "easy",
+  "vignette": "A first-year medical student examines a standard 12-lead ECG recorded from a healthy classmate. The tracing shows a small, rounded, upright deflection immediately preceding the larger QRS complex in each beat.",
+  "question": "What does this initial deflection represent?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Ventricular depolarization"
+    },
+    {
+      "id": "B",
+      "text": "Atrial depolarization"
+    },
+    {
+      "id": "C",
+      "text": "Ventricular repolarization"
+    },
+    {
+      "id": "D",
+      "text": "Atrial repolarization"
+    },
+    {
+      "id": "E",
+      "text": "Ventricular contraction"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "The P wave represents atrial depolarization. It is generated as the impulse spreads from the SA node through the atria and appears as a small rounded deflection because atrial muscle mass is small. Conduction then passes through the AV node before ventricular depolarization produces the QRS complex.",
+  "explanation_incorrect": {
+    "A": "Ventricular depolarization produces the QRS complex, which follows the P wave and is much larger in amplitude.",
+    "C": "Ventricular repolarization produces the T wave, which follows the QRS complex and points in the same direction as it.",
+    "D": "Atrial repolarization is normally buried within the QRS complex and is not seen as a distinct deflection on the ECG.",
+    "E": "Contraction of the ventricles is a mechanical event corresponding roughly to the QT interval, not a specific surface deflection preceding the QRS."
+  },
+  "educationalObjective": "The P wave on the ECG represents atrial depolarization.",
+  "source": "Generated from 7. Cardiovascular.pdf - Physiology: ECG waves, intervals, and conduction system"
+},
+{
+  "id": "cardio-115",
+  "subject": "Cardiovascular",
+  "major_topic": "Physiology",
+  "subtopic": "ECG waves, intervals, and conduction system",
+  "difficulty": "medium",
+  "vignette": "A cardiology fellow reviews a patient's ECG and measures the interval from the beginning of the P wave to the beginning of the QRS complex, reporting it as 170 msec.",
+  "question": "This measured interval best reflects which of the following?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Duration of ventricular depolarization"
+    },
+    {
+      "id": "B",
+      "text": "Duration of ventricular depolarization, contraction, and repolarization"
+    },
+    {
+      "id": "C",
+      "text": "Time from end of atrial depolarization to end of ventricular depolarization"
+    },
+    {
+      "id": "D",
+      "text": "Time from the start of atrial depolarization to the start of ventricular depolarization"
+    },
+    {
+      "id": "E",
+      "text": "Duration of ventricular repolarization alone"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "The PR interval is the time from the start of atrial depolarization to the start of ventricular depolarization, normally 120-200 msec. The measured 170 msec falls within this normal range and mostly represents the deliberate 100-msec delay in the AV node that allows time for ventricular filling before contraction.",
+  "explanation_incorrect": {
+    "A": "Ventricular depolarization duration is the QRS interval, normally ≤ 100 msec, measured from Q wave to the end of the S wave.",
+    "B": "Ventricular depolarization, contraction, and repolarization together make up the QT interval, which is measured from the start of the QRS to the end of the T wave.",
+    "C": "The interval runs from the start of the P wave (not its end) to the start of the QRS (not its end).",
+    "E": "Ventricular repolarization alone corresponds to the T wave, which is much shorter than the PR interval and occurs after the QRS."
+  },
+  "educationalObjective": "The PR interval (120-200 msec) spans from the start of atrial depolarization to the start of ventricular depolarization, reflecting AV nodal delay.",
+  "source": "Generated from 7. Cardiovascular.pdf - Physiology: ECG waves, intervals, and conduction system"
+},
+{
+  "id": "cardio-116",
+  "subject": "Cardiovascular",
+  "major_topic": "Physiology",
+  "subtopic": "ECG waves, intervals, and conduction system",
+  "difficulty": "easy",
+  "vignette": "A 42-year-old woman receiving a thiazide-like diuretic presents with muscle weakness. Her serum potassium is 2.8 mEq/L and her ECG shows a small deflection appearing just after the T wave, which was not present on her prior tracing.",
+  "question": "This newly appearing deflection is characteristically prominent in which settings?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Hypokalemia and bradycardia"
+    },
+    {
+      "id": "B",
+      "text": "Hyperkalemia and tachycardia"
+    },
+    {
+      "id": "C",
+      "text": "Hypocalcemia and QT shortening"
+    },
+    {
+      "id": "D",
+      "text": "Ischemia and recent myocardial infarction"
+    },
+    {
+      "id": "E",
+      "text": "Hypercalcemia and digoxin effect"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "The deflection described is a U wave, seen just after the T wave. U waves are prominent in hypokalemia (mnemonic: hyp\"U\"kalemia) and in bradycardia. This patient's diuretic-induced hypokalemia explains both her low potassium and the new U waves on her ECG.",
+  "explanation_incorrect": {
+    "B": "Hyperkalemia classically produces peaked T waves and conduction abnormalities, not prominent U waves.",
+    "C": "Hypocalcemia prolongs the QT interval; it is not associated with prominent U waves.",
+    "D": "Ischemia or recent myocardial infarction produces T wave inversion, not new U waves.",
+    "E": "Hypercalcemia shortens the QT interval and digoxin effect causes ST changes, neither of which produces prominent U waves."
+  },
+  "educationalObjective": "Prominent U waves on the ECG are characteristic of hypokalemia and bradycardia.",
+  "source": "Generated from 7. Cardiovascular.pdf - Physiology: ECG waves, intervals, and conduction system"
+},
+{
+  "id": "cardio-117",
+  "subject": "Cardiovascular",
+  "major_topic": "Physiology",
+  "subtopic": "ECG waves, intervals, and conduction system",
+  "difficulty": "hard",
+  "vignette": "An anatomy instructor reviews the conduction pathway with her class: SA node to atria, then AV node, bundle of His, right and left bundle branches (the left dividing into anterior and posterior fascicles), Purkinje fibers, and finally the ventricles. She asks which segment conducts the impulse most rapidly and which most slowly.",
+  "question": "Which option correctly ranks conduction velocity along this pathway?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Fastest: AV node; Slowest: His-Purkinje fibers"
+    },
+    {
+      "id": "B",
+      "text": "Fastest: Ventricles; Slowest: His-Purkinje fibers"
+    },
+    {
+      "id": "C",
+      "text": "Fastest: Atria; Slowest: AV node"
+    },
+    {
+      "id": "D",
+      "text": "Fastest: Purkinje fibers; Slowest: Ventricles"
+    },
+    {
+      "id": "E",
+      "text": "Fastest: His-Purkinje fibers; Slowest: AV node"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Conduction speed follows: His-Purkinje > Atria > Ventricles > AV node (mnemonic: \"He Parks At Ventura AVenue\"). The His-Purkinje system conducts fastest, enabling near-simultaneous activation of both ventricles, while the AV node conducts slowest, due to its Ca2+ channel-dependent upstroke, providing the 100-msec delay needed for ventricular filling.",
+  "explanation_incorrect": {
+    "A": "This reverses the true gradient; the AV node is the slowest conductor and the His-Purkinje system the fastest.",
+    "B": "Ventricles conduct more slowly than both the atria and the His-Purkinje system, so they cannot be the fastest.",
+    "C": "The atria do not conduct fastest; His-Purkinje fibers are faster, though the AV node is correctly identified as slowest.",
+    "D": "Purkinje fibers are indeed the fastest, but ventricular muscle conducts faster than the AV node, which is the true slowest segment."
+  },
+  "educationalObjective": "Conduction velocity ranks His-Purkinje > atria > ventricles > AV node (\"He Parks At Ventura AVenue\").",
+  "source": "Generated from 7. Cardiovascular.pdf - Physiology: ECG waves, intervals, and conduction system"
+},
+{
+  "id": "cardio-118",
+  "subject": "Cardiovascular",
+  "major_topic": "Physiology",
+  "subtopic": "ECG waves, intervals, and conduction system",
+  "difficulty": "medium",
+  "vignette": "A 61-year-old man presents with crushing substernal chest pain. The ECG shows that the broad, upright deflection normally following the QRS complex in several precordial leads is now inverted.",
+  "question": "This abnormal deflection corresponds to which cardiac electrical event, and what does its inversion suggest?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Atrial depolarization; right atrial enlargement"
+    },
+    {
+      "id": "B",
+      "text": "Ventricular depolarization; bundle branch block"
+    },
+    {
+      "id": "C",
+      "text": "Ventricular repolarization; possible ischemia or recent myocardial infarction"
+    },
+    {
+      "id": "D",
+      "text": "Ventricular depolarization; ventricular hypertrophy"
+    },
+    {
+      "id": "E",
+      "text": "Atrial repolarization; atrial ischemia"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "The inverted deflection is the T wave, which represents ventricular repolarization. T wave inversion may indicate ischemia or a recent myocardial infarction, consistent with this patient's presentation of acute chest pain.",
+  "explanation_incorrect": {
+    "A": "Atrial depolarization is the P wave, which precedes the QRS complex and is unrelated to ischemia in this pattern.",
+    "B": "Ventricular depolarization is the QRS complex; bundle branch block widens the QRS, it does not invert the T wave.",
+    "D": "The deflection follows the QRS and is a repolarization event; ventricular hypertrophy alters QRS voltage, not T wave polarity in this classic pattern.",
+    "E": "Atrial repolarization is normally hidden within the QRS complex and does not produce a distinct surface deflection."
+  },
+  "educationalObjective": "The T wave represents ventricular repolarization, and T wave inversion may indicate ischemia or recent myocardial infarction.",
+  "source": "Generated from 7. Cardiovascular.pdf - Physiology: ECG waves, intervals, and conduction system"
+}
+]

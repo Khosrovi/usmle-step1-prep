@@ -1,0 +1,125 @@
+[
+{
+  "id": "cardio-302",
+  "subject": "Cardiovascular",
+  "major_topic": "Pharmacology",
+  "subtopic": "Antianginal therapy",
+  "difficulty": "easy",
+  "vignette": "A 61-year-old man with chronic stable angina has persistent exertional chest pain despite maximally tolerated doses of his current antianginal regimen. His cardiologist adds a second drug class to lower myocardial oxygen consumption. At follow-up, his blood pressure has fallen, his heart rate and blood pressure-derived workload are stable, and he reports no new dizziness with standing.",
+  "question": "Which of the following best describes the combined hemodynamic effect of adding a beta-blocker to nitrate therapy on the determinants of myocardial oxygen consumption?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Little or no change in end-diastolic volume, a markedly decreased blood pressure, and little or no change in contractility and heart rate"
+    },
+    {
+      "id": "B",
+      "text": "Decreased end-diastolic volume, decreased blood pressure, and reflex increases in contractility and heart rate"
+    },
+    {
+      "id": "C",
+      "text": "No effect or increased end-diastolic volume, decreased blood pressure, and decreased contractility and heart rate with prolonged ejection time"
+    },
+    {
+      "id": "D",
+      "text": "A fall in heart rate and contractility with little or no change in blood pressure or end-diastolic volume"
+    },
+    {
+      "id": "E",
+      "text": "Increased end-diastolic volume, increased blood pressure, and prolonged ejection time"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "The goal of antianginal therapy is to reduce myocardial O2 consumption (MVO2) by decreasing one or more of its determinants: end-diastolic volume, blood pressure, heart rate, and contractility. Nitrates alone decrease EDV and blood pressure but provoke reflex tachycardia and increased contractility; beta-blockers blunt these reflexes. Combined therapy therefore produces little or no change in EDV, a markedly decreased blood pressure, little or no change in contractility and heart rate, and the greatest reduction in MVO2.",
+  "explanation_incorrect": {
+    "B": "This describes beta-blockers alone: they have no effect on or increase end-diastolic volume, decrease blood pressure, decrease contractility and heart rate, and prolong ejection time.",
+    "C": "Beta-blockers do lower blood pressure, and a heart-rate fall without any blood pressure change does not match either agent or the combination; the combination's hallmark is the marked blood pressure fall.",
+    "D": "The opposite pattern is expected: end-diastolic volume and blood pressure both fall (not rise), and beta-blockers prolong, not shorten, ejection time.",
+    "E": "Increased end-diastolic volume and blood pressure with prolonged ejection time is the opposite of what these drugs do together: nitrates reduce preload and lower blood pressure while beta-blockers lower blood pressure and heart rate. Neither agent raises end-diastolic volume or blood pressure."
+  },
+  "educationalObjective": "Combined nitrate plus beta-blocker therapy lowers MVO2 more than either agent alone by producing a marked blood pressure fall while the beta-blocker abolishes the nitrate-induced reflex tachycardia and increased contractility.",
+  "source": "Generated from 7. Cardiovascular.pdf - Pharmacology: Antianginal therapy"
+},
+{
+  "id": "cardio-303",
+  "subject": "Cardiovascular",
+  "major_topic": "Pharmacology",
+  "subtopic": "Antianginal therapy",
+  "difficulty": "medium",
+  "vignette": "A 66-year-old woman with chronic stable angina takes an oral antianginal medication. Over the following weeks she develops constipation, and a follow-up ECG shows the PR interval has lengthened from 150 to 210 msec with a slightly decreased heart rate. Her physician notes that this drug's pattern of effects on the determinants of myocardial oxygen consumption closely mirrors that of beta-blockers.",
+  "question": "Which of the following is the most likely medication?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Amlodipine"
+    },
+    {
+      "id": "B",
+      "text": "Isosorbide mononitrate"
+    },
+    {
+      "id": "C",
+      "text": "Verapamil"
+    },
+    {
+      "id": "D",
+      "text": "Hydralazine"
+    },
+    {
+      "id": "E",
+      "text": "Nifedipine"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Nondihydropyridine calcium channel blockers (verapamil, diltiazem) act on the heart and have hemodynamic effects on the determinants of myocardial oxygen consumption similar to beta-blockers: they slow heart rate, decrease contractility, and slow AV nodal conduction (prolonging the PR interval). Verapamil classically causes constipation and cardiac depression, matching this vignette.",
+  "explanation_incorrect": {
+    "A": "Amlodipine is a dihydropyridine that acts mainly on vascular smooth muscle; it dilates arteries, causing reflex tachycardia, flushing, and peripheral edema rather than PR prolongation and constipation.",
+    "B": "Nitrates decrease end-diastolic volume and blood pressure and cause reflex tachycardia; they do not slow AV conduction or cause constipation.",
+    "D": "Hydralazine vasodilates arterioles and reduces afterload, provoking compensatory tachycardia and fluid retention; it is frequently coadministered with a beta-blocker to prevent reflex tachycardia and is contraindicated in angina/CAD.",
+    "E": "Nifedipine is a dihydropyridine acting predominantly on vascular smooth muscle; it would more likely increase heart rate reflexively and cause edema than prolong the PR interval."
+  },
+  "educationalObjective": "Nondihydropyridine calcium channel blockers (verapamil, diltiazem) lower myocardial oxygen consumption with a hemodynamic profile similar to beta-blockers, and verapamil classically causes constipation and PR prolongation.",
+  "source": "Generated from 7. Cardiovascular.pdf - Pharmacology: Antianginal therapy"
+},
+{
+  "id": "cardio-304",
+  "subject": "Cardiovascular",
+  "major_topic": "Pharmacology",
+  "subtopic": "Antianginal therapy",
+  "difficulty": "medium",
+  "vignette": "During a cardiology lecture, a medical student is asked to name the physiologic determinants of myocardial oxygen consumption that antianginal therapy aims to reduce in order to relieve angina. The instructor lists four variables on the board and asks the class to identify the intravascular filling pressure that is NOT one of them.",
+  "question": "Which of the following is NOT one of the determinants of myocardial oxygen consumption that antianginal drugs target?",
+  "options": [
+    {
+      "id": "A",
+      "text": "End-diastolic volume"
+    },
+    {
+      "id": "B",
+      "text": "Heart rate"
+    },
+    {
+      "id": "C",
+      "text": "Blood pressure"
+    },
+    {
+      "id": "D",
+      "text": "Contractility"
+    },
+    {
+      "id": "E",
+      "text": "Pulmonary capillary wedge pressure"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Antianginal therapy reduces myocardial O2 consumption (MVO2) by decreasing one or more of four determinants: end-diastolic volume, blood pressure, heart rate, and contractility. Pulmonary capillary wedge pressure is a hemodynamic measure of left atrial pressure used in assessing volume status and heart failure, not one of the listed MVO2 determinants.",
+  "explanation_incorrect": {
+    "A": "End-diastolic volume is one of the four listed determinants; nitrates decrease it via venodilation, and beta-blockers have no effect on it or increase it.",
+    "B": "Heart rate is one of the four listed determinants; nitrates increase it reflexively, while beta-blockers and the combination decrease it.",
+    "C": "Blood pressure is one of the four listed determinants; nitrates, beta-blockers, and the combination all decrease it.",
+    "D": "Contractility is one of the four listed determinants; nitrates increase it reflexively, beta-blockers decrease it, and the combination has little or no effect."
+  },
+  "educationalObjective": "The four determinants of myocardial oxygen consumption targeted by antianginal drugs are end-diastolic volume, blood pressure, heart rate, and contractility.",
+  "source": "Generated from 7. Cardiovascular.pdf - Pharmacology: Antianginal therapy"
+}
+]

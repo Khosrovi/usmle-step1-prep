@@ -1,0 +1,207 @@
+[
+{
+  "id": "cardio-087",
+  "subject": "Cardiovascular",
+  "major_topic": "Physiology",
+  "subtopic": "Pressure-volume loops in valvular disease",
+  "difficulty": "easy",
+  "vignette": "A 78-year-old man presents with exertional syncope and a harsh crescendo-decrescendo murmur radiating to the carotids. His radial pulse is weak and has a delayed peak. A pressure-volume loop recorded from his left ventricle shows the left ventricular pressure rising above the aortic pressure trace during ejection, an elevated end-systolic volume, an unchanged end-diastolic volume, and a reduced stroke volume.",
+  "question": "Which valvular lesion is most consistent with this patient's pressure-volume loop?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Aortic regurgitation"
+    },
+    {
+      "id": "B",
+      "text": "Mitral regurgitation"
+    },
+    {
+      "id": "C",
+      "text": "Aortic stenosis"
+    },
+    {
+      "id": "D",
+      "text": "Mitral stenosis"
+    },
+    {
+      "id": "E",
+      "text": "Tricuspid regurgitation"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "In aortic stenosis, the narrowed valve forces the left ventricle to generate a pressure higher than the aortic pressure during systole to eject blood. Chronic pressure overload causes concentric hypertrophy, increased end-systolic volume, decreased stroke volume, and (if disease is mild) unchanged end-diastolic volume. The clinical triad of Syncope, Angina, and Dyspnea on exertion (SAD), the crescendo-decrescendo murmur radiating to the carotids, and pulsus parvus et tardus all support aortic stenosis.",
+  "explanation_incorrect": {
+    "A": "Aortic regurgitation produces increased end-diastolic volume and no true isovolumetric phase, not an increased end-systolic volume with unchanged end-diastolic volume.",
+    "B": "Mitral regurgitation decreases end-systolic volume because blood escapes into the low-pressure left atrium, and it eliminates the true isovolumetric phases.",
+    "D": "Mitral stenosis decreases both end-diastolic and end-systolic volumes because impaired filling reduces stroke volume; left ventricular pressure does not exceed aortic pressure.",
+    "E": "Tricuspid regurgitation is a right-sided lesion with a fused c-v wave on the JVP; it is not associated with this left ventricular pressure-volume pattern."
+  },
+  "educationalObjective": "Aortic stenosis produces a pressure-volume loop with LV pressure exceeding aortic pressure during systole, increased ESV, decreased SV, and unchanged EDV if mild.",
+  "source": "Generated from 7. Cardiovascular.pdf - Physiology: Pressure-volume loops in valvular disease"
+},
+{
+  "id": "cardio-088",
+  "subject": "Cardiovascular",
+  "major_topic": "Physiology",
+  "subtopic": "Pressure-volume loops in valvular disease",
+  "difficulty": "medium",
+  "vignette": "A 55-year-old man with a known bicuspid aortic valve presents for evaluation. Blood pressure is 180/50 mm Hg, and a high-pitched diastolic blowing murmur is heard at the left sternal border. His pressure-volume loop shows an increased end-diastolic volume, an increased stroke volume, and no portion of the loop in which ventricular volume stays constant while pressure changes before ejection.",
+  "question": "Which of the following best explains why this patient's pressure-volume loop lacks a true isovolumetric phase?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Impeded transit of blood through a stenotic mitral valve keeps ventricular filling volume constant"
+    },
+    {
+      "id": "B",
+      "text": "Blood continues to escape from the ventricle into the left atrium while pressure builds before ejection"
+    },
+    {
+      "id": "C",
+      "text": "Prolonged ventricular depolarization allows passive filling to continue into early systole"
+    },
+    {
+      "id": "D",
+      "text": "Elevated aortic impedance keeps ventricular volume fixed during the ejection phase"
+    },
+    {
+      "id": "E",
+      "text": "Blood returns from the aorta into the ventricle during diastole, so ventricular volume changes throughout the cardiac cycle"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "In aortic regurgitation, the incompetent aortic valve allows blood to flow back from the aorta into the left ventricle during diastole. Ventricular volume therefore rises continuously through diastole (increased EDV) and the ventricle starts ejecting as soon as pressure begins to fall during relaxation is incomplete—there is no period of constant volume, hence no true isovolumetric phase. The added diastolic volume increases stroke volume and produces the wide pulse pressure and hyperdynamic circulation described in this patient.",
+  "explanation_incorrect": {
+    "A": "A stenotic mitral valve reduces, rather than maintains, ventricular filling volume and produces mitral stenosis physiology, with reduced EDV and SV.",
+    "B": "Escape of blood into the left atrium during systole describes mitral regurgitation, which eliminates isovolumetric phases but reduces ESV and tallies with a tall LA v wave, not the aortic backflow of this patient.",
+    "C": "Conduction delay does not create continuous diastolic volume change; the loop abnormality in aortic regurgitation stems from diastolic backflow across the aortic valve.",
+    "D": "Elevated aortic impedance would hinder, not allow, the continuous volume shifts; in aortic regurgitation the low diastolic aortic pressure actually facilitates backflow and loss of the dicrotic notch."
+  },
+  "educationalObjective": "Aortic regurgitation eliminates the true isovolumetric phase because blood regurgitates from the aorta into the LV throughout diastole, increasing EDV and stroke volume.",
+  "source": "Generated from 7. Cardiovascular.pdf - Physiology: Pressure-volume loops in valvular disease"
+},
+{
+  "id": "cardio-089",
+  "subject": "Cardiovascular",
+  "major_topic": "Physiology",
+  "subtopic": "Pressure-volume loops in valvular disease",
+  "difficulty": "medium",
+  "vignette": "A 42-year-old woman who had rheumatic fever as a child presents with dyspnea and palpitations. She has a diastolic rumbling murmur that follows an opening snap, and her ECG shows an irregularly irregular rhythm without P waves. A pressure-volume loop of her left ventricle shows a decreased end-diastolic volume, a decreased end-systolic volume, and a reduced stroke volume, with left atrial pressure exceeding left ventricular pressure during diastole.",
+  "question": "Which valvular lesion best explains this patient's pressure-volume loop?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Aortic stenosis"
+    },
+    {
+      "id": "B",
+      "text": "Mitral stenosis"
+    },
+    {
+      "id": "C",
+      "text": "Mitral regurgitation"
+    },
+    {
+      "id": "D",
+      "text": "Aortic regurgitation"
+    },
+    {
+      "id": "E",
+      "text": "Tricuspid stenosis"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Rheumatic mitral stenosis obstructs flow from the left atrium to the left ventricle, so left atrial pressure rises and exceeds left ventricular pressure during diastole. Impaired ventricular filling reduces end-diastolic volume, which in turn reduces end-systolic volume and stroke volume. The diastolic rumble following an opening snap, the late sequela of rheumatic fever, and atrial fibrillation from chronic left atrial dilation are all classic features of mitral stenosis.",
+  "explanation_incorrect": {
+    "A": "Aortic stenosis increases end-systolic volume and does not make left atrial pressure exceed left ventricular pressure; it impairs ejection, not filling.",
+    "C": "Mitral regurgitation increases end-diastolic volume and stroke volume, the opposite of this patient's reduced volumes, and is associated with a holosystolic rather than a diastolic murmur.",
+    "D": "Aortic regurgitation increases end-diastolic volume and stroke volume and lacks a true isovolumetric phase; it is an early diastolic decrescendo murmur, not a rumble after an opening snap.",
+    "E": "Tricuspid stenosis would elevate right atrial pressure, not left atrial pressure, and would not produce these left ventricular loop changes or the left-sided findings."
+  },
+  "educationalObjective": "Mitral stenosis raises LA pressure above LV pressure in diastole, reducing EDV, ESV, and stroke volume through impaired ventricular filling.",
+  "source": "Generated from 7. Cardiovascular.pdf - Physiology: Pressure-volume loops in valvular disease"
+},
+{
+  "id": "cardio-090",
+  "subject": "Cardiovascular",
+  "major_topic": "Physiology",
+  "subtopic": "Pressure-volume loops in valvular disease",
+  "difficulty": "hard",
+  "vignette": "Six days after an anterior myocardial infarction, a 66-year-old man develops a new holosystolic, high-pitched blowing murmur at the apex radiating to the axilla. Cardiac catheterization shows a tall left atrial v wave, an increased end-diastolic volume, a decreased end-systolic volume, and a total stroke volume greater than the volume ejected into the aorta.",
+  "question": "Which of the following best explains why this patient's total left ventricular stroke volume exceeds his forward stroke volume?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Regurgitant flow across the aortic valve during diastole is added to the forward ejection"
+    },
+    {
+      "id": "B",
+      "text": "Impaired ventricular filling increases residual volume that is ejected on the next beat"
+    },
+    {
+      "id": "C",
+      "text": "Elevated aortic impedance drives more blood out of the ventricle with each contraction"
+    },
+    {
+      "id": "D",
+      "text": "Each beat ejects blood both forward into the aorta and backward into the left atrium, and the loop's stroke volume includes both"
+    },
+    {
+      "id": "E",
+      "text": "Reduced ventricular compliance raises filling pressure, augmenting ejection fraction above normal"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "This patient has acute mitral regurgitation from post-MI papillary muscle dysfunction or chordal injury. In mitral regurgitation there is no true isovolumetric phase because blood flows from the ventricle into the low-pressure left atrium as soon as systole begins (producing the tall v wave). End-systolic volume falls because the ventricle ejects against reduced resistance plus the regurgitant path, while end-diastolic volume rises from the increased left atrial volume and pressure augmenting filling. The pressure-volume loop's stroke volume (EDV minus ESV) therefore represents both forward flow into the aorta and backflow into the left atrium.",
+  "explanation_incorrect": {
+    "A": "Diastolic backflow across the aortic valve describes aortic regurgitation; this patient's tall v wave, holosystolic murmur, and post-MI timing indicate the mitral valve instead.",
+    "B": "Mitral regurgitation decreases, not increases, end-systolic volume because of the low-pressure escape path; the excess stroke volume is not from residual volume carried to the next beat.",
+    "C": "Elevated aortic impedance would reduce ejection; mitral regurgitation actually lowers effective afterload, which is one reason ESV falls.",
+    "E": "Reduced compliance raising filling pressure describes hypertrophic or restrictive physiology; the augmented loop stroke volume here comes from the regurgitant pathway, not from an increased ejection fraction."
+  },
+  "educationalObjective": "In mitral regurgitation the loop stroke volume equals forward flow plus regurgitant backflow into the LA, with decreased ESV, increased EDV, and no true isovolumetric phase.",
+  "source": "Generated from 7. Cardiovascular.pdf - Physiology: Pressure-volume loops in valvular disease"
+},
+{
+  "id": "cardio-091",
+  "subject": "Cardiovascular",
+  "major_topic": "Physiology",
+  "subtopic": "Pressure-volume loops in valvular disease",
+  "difficulty": "hard",
+  "vignette": "A 72-year-old man with a long history of a harsh crescendo-decrescendo murmur radiating to the carotids now reports dyspnea on exertion. Echocardiography shows concentric left ventricular hypertrophy with normal systolic function; his left ventricular end-diastolic pressure is 25 mm Hg despite a normal end-diastolic volume. His pressure-volume loop shows increased end-systolic volume and left ventricular pressure exceeding aortic pressure during ejection.",
+  "question": "Which of the following best explains this patient's elevated left ventricular end-diastolic pressure?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Concentric hypertrophy from chronic pressure overload has reduced ventricular compliance, so a given end-diastolic volume now requires a higher filling pressure"
+    },
+    {
+      "id": "B",
+      "text": "Volume overload from diastolic backflow across the aortic valve has stretched the ventricle beyond its operating range"
+    },
+    {
+      "id": "C",
+      "text": "Impaired mitral inflow from a stenotic valve has raised left atrial pressure and secondarily raised ventricular diastolic pressure"
+    },
+    {
+      "id": "D",
+      "text": "Systolic escape of blood into the left atrium has lowered ejection fraction, causing chamber dilation and elevated filling pressure"
+    },
+    {
+      "id": "E",
+      "text": "Depressed contractility has shifted the end-systolic pressure-volume relationship downward, causing ventricular dilation"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Long-standing aortic stenosis imposes a chronic pressure overload that drives concentric hypertrophy. Ventricular hypertrophy decreases ventricular compliance, so for any given end-diastolic volume a higher end-diastolic pressure is required—this is the mechanism of dyspnea in aortic stenosis with preserved systolic function. The loop findings of increased ESV and LV pressure exceeding aortic pressure during systole confirm the aortic stenosis physiology.",
+  "explanation_incorrect": {
+    "B": "Diastolic backflow across the aortic valve is aortic regurgitation, a volume-overload lesion causing eccentric hypertrophy and increased EDV; this patient's EDV is normal and his lesion is stenotic.",
+    "C": "Mitral stenosis impairs inflow and reduces end-diastolic volume, the opposite of this patient's normal EDV with high filling pressure.",
+    "D": "Systolic escape into the left atrium is mitral regurgitation, which decreases ESV and increases EDV; it does not produce concentric hypertrophy or a normal-EDV/high-EDP pattern.",
+    "E": "Depressed contractility describes systolic dysfunction, but the vignette specifies normal systolic function; the elevated filling pressure here is a compliance problem, not a contractility problem."
+  },
+  "educationalObjective": "In aortic stenosis, ventricular hypertrophy decreases compliance, so a given end-diastolic volume is reached at a higher end-diastolic pressure.",
+  "source": "Generated from 7. Cardiovascular.pdf - Physiology: Pressure-volume loops in valvular disease"
+}
+]

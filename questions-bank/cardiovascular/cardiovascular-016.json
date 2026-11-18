@@ -1,0 +1,166 @@
+[
+{
+  "id": "cardio-001",
+  "subject": "Cardiovascular",
+  "major_topic": "Embryology",
+  "subtopic": "Cardiac morphogenesis and looping",
+  "difficulty": "easy",
+  "vignette": "A developmental biologist is comparing the timing of organ maturation across several vertebrate embryos. She records that one organ has already begun to contract spontaneously and circulate fluid before any other organ system has become functional.",
+  "question": "Which of the following is the first functional organ in the vertebrate embryo, and when does it begin to beat spontaneously?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The lung, beginning to beat by week 2"
+    },
+    {
+      "id": "B",
+      "text": "The liver, beginning to function by week 6"
+    },
+    {
+      "id": "C",
+      "text": "The kidney, beginning to produce filtrate by week 8"
+    },
+    {
+      "id": "D",
+      "text": "The heart, beginning to beat by week 4"
+    },
+    {
+      "id": "E",
+      "text": "The neural tube, beginning to conduct impulses by week 5"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "The heart is the first functional organ in vertebrate embryos and begins to beat spontaneously by week 4 of development. Because the embryo grows rapidly beyond the range of simple diffusion, a functioning circulatory system is required earlier than any other organ system, which is why the heart becomes functional first.",
+  "explanation_incorrect": {
+    "A": "The lungs are among the last organs to become functional; they are not the first, and they do not contract spontaneously in early embryogenesis.",
+    "B": "The liver is a major site of fetal hematopoiesis, but it does not become the first functional organ, and its timing is later than week 4.",
+    "C": "The kidney begins functional activity well after the heart; metanephric function is not first among organ systems.",
+    "E": "The neural tube develops early as a structure, but it is not the first functional organ and does not beat; the question tests organ-level function, not morphogenesis alone."
+  },
+  "educationalObjective": "The heart is the first functional organ in the embryo and beats spontaneously by week 4 of development.",
+  "source": "Generated from 7. Cardiovascular.pdf - Embryology: Cardiac morphogenesis and looping"
+},
+{
+  "id": "cardio-002",
+  "subject": "Cardiovascular",
+  "major_topic": "Embryology",
+  "subtopic": "Cardiac morphogenesis and looping",
+  "difficulty": "medium",
+  "vignette": "A newborn infant is examined shortly after delivery. The point of maximal impulse is palpated on the right side of the chest, and the cardiac apex is directed to the right. The infant is otherwise asymptomatic, and an echocardiogram confirms the heart is positioned with its apex pointing rightward.",
+  "question": "Which of the following embryologic defects best explains the position of this infant's heart?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A defect in left-right dynein disrupting establishment of left-right polarity during cardiac looping"
+    },
+    {
+      "id": "B",
+      "text": "Failure of neural crest cells to migrate into the truncal and bulbar ridges"
+    },
+    {
+      "id": "C",
+      "text": "Abnormal growth of the endocardial cushions separating the atria from the ventricles"
+    },
+    {
+      "id": "D",
+      "text": "Failure of septum primum to fuse with septum secundum after birth"
+    },
+    {
+      "id": "E",
+      "text": "Failure of the aorticopulmonary septum to fuse with the muscular interventricular septum"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Dextrocardia reflects abnormal establishment of left-right polarity. The primary heart tube loops during week 4 to set the left-right axis of the body; a defect in left-right dynein, a protein involved in left-right asymmetry, can lead to dextrocardia as seen in Kartagener syndrome.",
+  "explanation_incorrect": {
+    "B": "Failed neural crest migration causes conotruncal abnormalities such as transposition of the great arteries, tetralogy of Fallot, and persistent truncus arteriosus, not malposition of the heart.",
+    "C": "Abnormal endocardial cushion growth produces atrioventricular septal defects (AV canal defects), not dextrocardia.",
+    "D": "Failure of septum primum to fuse with septum secundum produces a patent foramen ovale, which affects interatrial septation rather than cardiac position.",
+    "E": "Failure of the aorticopulmonary septum to fuse with the muscular septum leaves a patent interventricular foramen (membranous ventricular septal defect), not a rightward-pointing apex."
+  },
+  "educationalObjective": "Dextrocardia in Kartagener syndrome results from defective left-right dynein during cardiac looping, the process that establishes left-right polarity in week 4.",
+  "source": "Generated from 7. Cardiovascular.pdf - Embryology: Cardiac morphogenesis and looping"
+},
+{
+  "id": "cardio-003",
+  "subject": "Cardiovascular",
+  "major_topic": "Embryology",
+  "subtopic": "Cardiac morphogenesis and looping",
+  "difficulty": "medium",
+  "vignette": "A medical student reviewing embryology notes that a particular event in heart development both begins during a specific week and establishes the left-right polarity of the cardiovascular system.",
+  "question": "Which of the following correctly pairs the embryologic event with its timing and consequence?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Septation of the atria begins in week 2 and establishes left-right polarity"
+    },
+    {
+      "id": "B",
+      "text": "Neural crest migration occurs in week 8 and establishes left-right polarity"
+    },
+    {
+      "id": "C",
+      "text": "Formation of the membranous interventricular septum occurs in week 10 and establishes left-right polarity"
+    },
+    {
+      "id": "D",
+      "text": "Development of the sinus venosus horns occurs in week 6 and establishes left-right polarity"
+    },
+    {
+      "id": "E",
+      "text": "Cardiac looping begins in week 4 and establishes left-right polarity"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Cardiac looping is the process in which the primary heart tube loops to establish left-right polarity, and it begins in week 4 of development. A defect in left-right dynein during this process can lead to dextrocardia, as seen in Kartagener syndrome.",
+  "explanation_incorrect": {
+    "A": "Atrial septation (septum primum and septum secundum) partitions the atria; it does not establish left-right polarity and does not begin in week 2.",
+    "B": "Neural crest cell migration contributes the truncal and bulbar ridges and the aorticopulmonary septum; it does not establish left-right polarity and its timing is not week 8 for looping.",
+    "C": "The membranous interventricular septum closes the interventricular foramen; ventricular septation does not establish the left-right axis.",
+    "D": "The sinus venosus horns contribute to the venous inflow and later the smooth right atrium and coronary sinus; they do not establish left-right polarity."
+  },
+  "educationalObjective": "Cardiac looping begins in week 4 and establishes the left-right polarity of the heart.",
+  "source": "Generated from 7. Cardiovascular.pdf - Embryology: Cardiac morphogenesis and looping"
+},
+{
+  "id": "cardio-004",
+  "subject": "Cardiovascular",
+  "major_topic": "Embryology",
+  "subtopic": "Cardiac morphogenesis and looping",
+  "difficulty": "hard",
+  "vignette": "A 24-year-old man presents with a lifelong history of recurrent sinusitis, chronic productive cough, and bronchiectasis. On examination his point of maximal impulse is on the right side of the chest, and imaging confirms complete mirror-image reversal of the thoracic and abdominal organs. He and his wife have been unable to conceive despite 2 years of unprotected intercourse.",
+  "question": "Which of the following embryologic defects best explains the position of this patient's heart?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Mutation of the CFTR chloride channel causing abnormal viscous secretions"
+    },
+    {
+      "id": "B",
+      "text": "Failure of neural crest cells to migrate into the truncal and bulbar ridges"
+    },
+    {
+      "id": "C",
+      "text": "Defective left-right dynein, impairing establishment of left-right polarity during cardiac looping"
+    },
+    {
+      "id": "D",
+      "text": "Abnormal fusion of the endocardial cushions of the atrioventricular canal"
+    },
+    {
+      "id": "E",
+      "text": "Persistence of the left anterior cardinal vein as a major systemic venous channel"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "This patient has Kartagener syndrome (primary ciliary dyskinesia with situs inversus, bronchiectasis, and sinusitis, plus infertility from immotile sperm). The underlying defect is in dynein; defective left-right dynein, which is involved in establishing left-right asymmetry, can lead to dextrocardia because cardiac looping fails to orient the heart normally.",
+  "explanation_incorrect": {
+    "A": "CFTR mutations cause cystic fibrosis, which produces bronchiectasis and infertility from obstructive azoospermia, but not situs inversus or dextrocardia.",
+    "B": "Failed neural crest migration causes conotruncal abnormalities such as transposition of the great arteries, tetralogy of Fallot, and persistent truncus arteriosus, not situs inversus.",
+    "D": "Abnormal endocardial cushion fusion produces atrioventricular septal defects, which are associated with Down syndrome, maternal diabetes, and obesity.",
+    "E": "Persistent left cardinal venous structures produce a persistent left superior vena cava, a venous anomaly that does not reverse organ situs."
+  },
+  "educationalObjective": "Kartagener syndrome combines dextrocardia/situs inversus, bronchiectasis, and sinusitis due to a dynein defect that disrupts left-right polarity during cardiac looping.",
+  "source": "Generated from 7. Cardiovascular.pdf - Embryology: Cardiac morphogenesis and looping"
+}
+]

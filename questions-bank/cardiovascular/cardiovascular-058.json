@@ -1,0 +1,166 @@
+[
+{
+  "id": "cardio-127",
+  "subject": "Cardiovascular",
+  "major_topic": "Physiology",
+  "subtopic": "Normal cardiac pressures and autoregulation",
+  "difficulty": "medium",
+  "vignette": "A 52-year-old woman with rheumatic heart disease and a diastolic rumble at the apex undergoes right- and left-heart catheterization. The wedge pressure recorded with a balloon-tipped catheter in the pulmonary artery is noticeably higher than the pressure measured at end-diastole within the left ventricle.",
+  "question": "Which of the following correctly explains this catheterization finding?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Pulmonary capillary wedge pressure always exceeds LV end-diastolic pressure in normal hearts"
+    },
+    {
+      "id": "B",
+      "text": "Pulmonary capillary wedge pressure approximates right atrial pressure rather than left atrial pressure"
+    },
+    {
+      "id": "C",
+      "text": "In mitral stenosis, pulmonary capillary wedge pressure exceeds LV end-diastolic pressure because of obstruction at the mitral valve"
+    },
+    {
+      "id": "D",
+      "text": "The wedge pressure overestimates LV end-diastolic pressure because the Swan-Ganz catheter measures pulmonary arterial systolic pressure"
+    },
+    {
+      "id": "E",
+      "text": "LV end-diastolic pressure normally exceeds pulmonary capillary wedge pressure due to active ventricular relaxation"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Pulmonary capillary wedge pressure (PCWP) is a good approximation of left atrial pressure, except in mitral stenosis, where PCWP > LV end-diastolic pressure. The stenotic mitral valve obstructs flow from the left atrium to the left ventricle, so left atrial (and thus wedge) pressure rises above the LV end-diastolic pressure. PCWP is measured with a pulmonary artery (Swan-Ganz) catheter.",
+  "explanation_incorrect": {
+    "A": "Normally PCWP approximates left atrial pressure and closely tracks LV end-diastolic pressure; a sustained gap is abnormal and points to mitral stenosis.",
+    "B": "PCWP approximates left atrial pressure, not right atrial pressure; right atrial pressure is measured directly from the right heart chambers.",
+    "D": "PCWP is obtained by balloon occlusion of a pulmonary artery branch and reflects left atrial pressure downstream of the occlusion, not pulmonary arterial systolic pressure.",
+    "E": "In a normal heart, LV end-diastolic and wedge pressures track each other closely; the documented wedge-to-LV gradient in this patient reflects mitral obstruction, not ventricular relaxation dynamics."
+  },
+  "educationalObjective": "PCWP approximates left atrial pressure; in mitral stenosis, PCWP exceeds LV end-diastolic pressure because of obstruction at the mitral valve.",
+  "source": "Generated from 7. Cardiovascular.pdf - Physiology: Normal cardiac pressures and autoregulation"
+},
+{
+  "id": "cardio-128",
+  "subject": "Cardiovascular",
+  "major_topic": "Physiology",
+  "subtopic": "Normal cardiac pressures and autoregulation",
+  "difficulty": "medium",
+  "vignette": "A pulmonologist explains regional blood flow regulation to a class. She notes that within a portion of the lung with poor ventilation, the local vessels constrict and redirect blood toward better-ventilated regions, and she emphasizes that this response is unique to the pulmonary circulation.",
+  "question": "Why is this pulmonary response described as unique among the organs?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Because the lungs use myogenic stretch responses of the afferent arteriole"
+    },
+    {
+      "id": "B",
+      "text": "Because in other organs, hypoxia causes vasodilation rather than vasoconstriction"
+    },
+    {
+      "id": "C",
+      "text": "Because the lungs rely on sympathetic vasoconstriction for temperature regulation"
+    },
+    {
+      "id": "D",
+      "text": "Because alveolar hypoxia causes vasodilation, matching perfusion to ventilation"
+    },
+    {
+      "id": "E",
+      "text": "Because the lungs autoregulate via tubuloglomerular feedback"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "The pulmonary vasculature is unique in that alveolar hypoxia causes vasoconstriction, so that only well-ventilated areas are perfused. In other organs, hypoxia causes vasodilation. This reversed response redirects blood flow away from poorly ventilated alveoli toward better-oxygenated regions of the lung.",
+  "explanation_incorrect": {
+    "A": "Myogenic stretch-dependent responses of the afferent arteriole are a kidney autoregulation mechanism, not a pulmonary one.",
+    "C": "Sympathetic vasoconstriction for temperature control is the key skin mechanism, unrelated to alveolar hypoxia.",
+    "D": "This reverses the pulmonary response: alveolar hypoxia constricts pulmonary vessels so perfusion matches ventilation.",
+    "E": "Tubuloglomerular feedback is a renal autoregulation mechanism and has no pulmonary counterpart."
+  },
+  "educationalObjective": "Alveolar hypoxia causes pulmonary vasoconstriction — a unique response, since hypoxia vasodilates vessels in other organs.",
+  "source": "Generated from 7. Cardiovascular.pdf - Physiology: Normal cardiac pressures and autoregulation"
+},
+{
+  "id": "cardio-129",
+  "subject": "Cardiovascular",
+  "major_topic": "Physiology",
+  "subtopic": "Normal cardiac pressures and autoregulation",
+  "difficulty": "easy",
+  "vignette": "A 60-year-old man with progressive dyspnea undergoes right-heart catheterization with a Swan-Ganz catheter. The balloon is inflated in a distal branch of the pulmonary artery, and a wedge pressure is recorded.",
+  "question": "Which value represents the normal resting range for pulmonary capillary wedge pressure?",
+  "options": [
+    {
+      "id": "A",
+      "text": "4-12 mm Hg"
+    },
+    {
+      "id": "B",
+      "text": "Less than 5 mm Hg"
+    },
+    {
+      "id": "C",
+      "text": "Less than 8 mm Hg"
+    },
+    {
+      "id": "D",
+      "text": "Approximately 25 mm Hg"
+    },
+    {
+      "id": "E",
+      "text": "120/80 mm Hg"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "The normal pulmonary capillary wedge pressure is 4-12 mm Hg, reflecting its role as a good approximation of left atrial pressure. It is measured with a pulmonary artery (Swan-Ganz) catheter. Values above this range suggest elevated left-sided filling pressures, as seen in left heart failure or mitral stenosis.",
+  "explanation_incorrect": {
+    "B": "A pressure below 5 mm Hg corresponds to a right atrial value on the normal pressure diagram, far below the normal wedge range.",
+    "C": "Less than 8 mm Hg corresponds to the right ventricular diastolic value, not the wedge pressure.",
+    "D": "Approximately 25 mm Hg corresponds to normal pulmonary artery systolic pressure, well above the wedge range.",
+    "E": "120/80 mm Hg is the normal systemic arterial blood pressure, several-fold higher than cardiac filling pressures."
+  },
+  "educationalObjective": "Normal pulmonary capillary wedge pressure is 4-12 mm Hg and approximates left atrial pressure.",
+  "source": "Generated from 7. Cardiovascular.pdf - Physiology: Normal cardiac pressures and autoregulation"
+},
+{
+  "id": "cardio-130",
+  "subject": "Cardiovascular",
+  "major_topic": "Physiology",
+  "subtopic": "Normal cardiac pressures and autoregulation",
+  "difficulty": "hard",
+  "vignette": "A renal physiologist measures blood flow to an organ while varying perfusion pressure over a wide range and finds that flow remains nearly constant. She attributes this autoregulation to two distinct intrarenal mechanisms acting at the level of the afferent arteriole and the tubule.",
+  "question": "Which factors determine autoregulation in this organ?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Local vasodilatory metabolites: NO, CO2, and decreased O2"
+    },
+    {
+      "id": "B",
+      "text": "Local metabolites during exercise: CO2, H+, adenosine, lactate, and K+"
+    },
+    {
+      "id": "C",
+      "text": "Sympathetic vasoconstriction as the most important mechanism"
+    },
+    {
+      "id": "D",
+      "text": "Myogenic (stretch-dependent) response of the afferent arteriole and tubuloglomerular feedback"
+    },
+    {
+      "id": "E",
+      "text": "Alveolar hypoxia-induced vasoconstriction"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Renal blood flow is autoregulated by two mechanisms: the myogenic (stretch-dependent) response of the afferent arteriole and tubuloglomerular feedback. Together they keep renal blood flow and glomerular filtration rate nearly constant over a wide range of perfusion pressures.",
+  "explanation_incorrect": {
+    "A": "Vasodilatory local metabolites NO, CO2, and decreased O2 determine autoregulation in the heart, not the kidney.",
+    "B": "CO2, H+, adenosine, lactate, and K+ are the exercise-related metabolites that regulate skeletal muscle blood flow.",
+    "C": "Sympathetic vasoconstriction is the dominant mechanism for temperature control in the skin, not the kidney's autoregulation.",
+    "E": "Alveolar hypoxia-induced vasoconstriction is the unique pulmonary autoregulatory response, not a renal mechanism."
+  },
+  "educationalObjective": "Renal autoregulation depends on the myogenic response of the afferent arteriole and tubuloglomerular feedback.",
+  "source": "Generated from 7. Cardiovascular.pdf - Physiology: Normal cardiac pressures and autoregulation"
+}
+]

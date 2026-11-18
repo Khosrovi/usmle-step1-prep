@@ -1,0 +1,166 @@
+[
+{
+  "id": "cardio-323",
+  "subject": "Cardiovascular",
+  "major_topic": "Pharmacology",
+  "subtopic": "Class II and IV antiarrhythmics",
+  "difficulty": "medium",
+  "vignette": "A 68-year-old woman with atrial fibrillation presents with palpitations and a ventricular rate of 148/min. Her blood pressure is stable. The physician wants a drug that suppresses abnormal pacemaker activity by reducing the slope of phase 4 depolarization and prolonging AV nodal refractoriness, and chooses metoprolol.",
+  "question": "Which of the following best describes the mechanism by which metoprolol slows the ventricular response in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Strong sodium channel blockade that reduces the slope of phase 0 depolarization in ventricular myocytes"
+    },
+    {
+      "id": "B",
+      "text": "Blockade of the funny current (If) in the sinoatrial node, prolonging slow diastolic depolarization"
+    },
+    {
+      "id": "C",
+      "text": "Potassium channel blockade that prolongs the action potential duration and effective refractory period"
+    },
+    {
+      "id": "D",
+      "text": "Reduced cAMP and calcium currents in the SA and AV nodes, decreasing phase 4 slope and slowing AV conduction"
+    },
+    {
+      "id": "E",
+      "text": "Direct inhibition of Na+/K+-ATPase, indirectly increasing intracellular calcium and vagal tone"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Metoprolol is a class II antiarrhythmic. Beta-blockade lowers cAMP and calcium currents in the SA and AV nodes, suppressing abnormal pacemakers by decreasing the slope of phase 4 depolarization. The AV node is particularly sensitive, so the PR interval increases and the ventricular response in atrial fibrillation slows.",
+  "explanation_incorrect": {
+    "A": "Reducing the phase 0 upstroke is the mechanism of class I sodium channel blockers, not beta-blockers; class II agents act on nodal phase 4 and calcium currents.",
+    "B": "Inhibition of the funny current is the mechanism of ivabradine, used in chronic HFrEF. Beta-blockers reduce cAMP-mediated calcium currents rather than blocking HCN channels directly.",
+    "C": "Prolonging the action potential and refractory period through potassium channel blockade is the class III mechanism (eg, amiodarone, sotalol), not class II.",
+    "E": "Inhibition of Na+/K+-ATPase with increased intracellular calcium and vagal stimulation is the mechanism of digoxin, which is also used for rate control but is not a beta-blocker."
+  },
+  "educationalObjective": "Class II beta-blockers slow nodal conduction by reducing cAMP and calcium currents, flattening phase 4 and increasing the PR interval.",
+  "source": "Generated from 7. Cardiovascular.pdf - Pharmacology: Class II and IV antiarrhythmics"
+},
+{
+  "id": "cardio-324",
+  "subject": "Cardiovascular",
+  "major_topic": "Pharmacology",
+  "subtopic": "Class II and IV antiarrhythmics",
+  "difficulty": "medium",
+  "vignette": "A 72-year-old man Develops rapid atrial fibrillation immediately after coronary artery bypass surgery. He is borderline hypotensive, and the team wants a beta-blocker whose effect can be stopped within minutes if his blood pressure falls further.",
+  "question": "Which of the following is the most appropriate antiarrhythmic choice?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Metoprolol, because it is the longest-acting beta-blocker and provides sustained rate control"
+    },
+    {
+      "id": "B",
+      "text": "Propranolol, because its beta-2 effects provide vasodilation that protects the blood pressure"
+    },
+    {
+      "id": "C",
+      "text": "Carvedilol, because its alpha-blocking activity prevents any fall in blood pressure"
+    },
+    {
+      "id": "D",
+      "text": "Atenolol, because its renal elimination makes its effect immediately reversible"
+    },
+    {
+      "id": "E",
+      "text": "Esmolol, because it is very short acting and its effect can be titrated or stopped rapidly"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Esmolol is a class II beta-blocker distinguished by a very short duration of action, making it useful when rate control is needed but the hemodynamic consequences of beta-blockade must be rapidly reversible, such as immediately after cardiac surgery in a borderline-hypotensive patient.",
+  "explanation_incorrect": {
+    "A": "Metoprolol is not an ultra-short-acting agent; a long duration of action would be a disadvantage, not a benefit, in a patient whose blood pressure may not tolerate beta-blockade.",
+    "B": "Propranolol is nonselective and can worsen bronchospasm and vasospasm; it does not provide protective vasodilation through beta-2 stimulation.",
+    "C": "Carvedilol also blocks alpha-1 receptors, which can lower blood pressure rather than protect against it; it is not a rapidly titratable intravenous agent.",
+    "D": "Atenolol is renally eliminated and relatively long acting; renal elimination does not make its effect immediately reversible."
+  },
+  "educationalObjective": "Esmolol is the ultra-short-acting class II beta-blocker preferred when rapidly reversible rate control is needed.",
+  "source": "Generated from 7. Cardiovascular.pdf - Pharmacology: Class II and IV antiarrhythmics"
+},
+{
+  "id": "cardio-325",
+  "subject": "Cardiovascular",
+  "major_topic": "Pharmacology",
+  "subtopic": "Class II and IV antiarrhythmics",
+  "difficulty": "hard",
+  "vignette": "A 24-year-old man is brought to the emergency department after taking an excessive number of his prescribed propranolol tablets. He is bradycardic and hypotensive. The resident prepares the correct antidote regimen for beta-blocker overdose.",
+  "question": "Which of the following combinations is the appropriate treatment for this patient's beta-blocker toxicity?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Naloxone, flumazenil, and activated charcoal"
+    },
+    {
+      "id": "B",
+      "text": "Atropine, physostigmine, and sodium bicarbonate"
+    },
+    {
+      "id": "C",
+      "text": "Glucagon, atropine, and saline"
+    },
+    {
+      "id": "D",
+      "text": "Digoxin immune Fab, magnesium, and potassium"
+    },
+    {
+      "id": "E",
+      "text": "Protamine, vitamin K, and fresh frozen plasma"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "The mnemonic for beta-blocker overdose is GAS: Glucagon, Atropine, Saline. Glucagon bypasses the blocked beta receptor and increases cAMP, atropine treats bradycardia, and saline supports blood pressure.",
+  "explanation_incorrect": {
+    "A": "Naloxone and flumazenil reverse opioid and benzodiazepine toxicity; they do not restore cAMP signaling after beta-receptor blockade.",
+    "B": "Physostigmine and sodium bicarbonate are used in anticholinergic toxicity and tricyclic antidepressant overdose, not in isolated beta-blocker overdose.",
+    "D": "Digoxin immune Fab, magnesium, and potassium are used for digoxin toxicity; propranolol overdose is not treated with digoxin-specific antibody.",
+    "E": "Protamine, vitamin K, and fresh frozen plasma reverse anticoagulation; they have no role in beta-blocker toxicity."
+  },
+  "educationalObjective": "Beta-blocker overdose is treated with Glucagon, Atropine, and Saline (GAS).",
+  "source": "Generated from 7. Cardiovascular.pdf - Pharmacology: Class II and IV antiarrhythmics"
+},
+{
+  "id": "cardio-326",
+  "subject": "Cardiovascular",
+  "major_topic": "Pharmacology",
+  "subtopic": "Class II and IV antiarrhythmics",
+  "difficulty": "easy",
+  "vignette": "A 61-year-old man with atrial fibrillation and a rapid ventricular response is started on diltiazem. His physician explains that the drug is a class IV antiarrhythmic that acts primarily on the AV node.",
+  "question": "Which of the following is the expected effect of diltiazem on the electrocardiogram and cardiac tissue?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Shortened PR interval and increased AV nodal conduction velocity"
+    },
+    {
+      "id": "B",
+      "text": "Widened QRS complex and prolonged phase 0 depolarization in ventricular myocytes"
+    },
+    {
+      "id": "C",
+      "text": "Shortened QT interval with increased potassium conductance in ventricular myocytes"
+    },
+    {
+      "id": "D",
+      "text": "Decreased conduction velocity, increased effective refractory period, and prolonged PR interval"
+    },
+    {
+      "id": "E",
+      "text": "Increased slope of phase 4 depolarization in the sinoatrial node with reflex tachycardia"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Diltiazem and verapamil are class IV antiarrhythmics. By blocking L-type calcium channels in the AV node they decrease conduction velocity, increase the effective refractory period, and prolong the PR interval, making them useful for rate control in atrial fibrillation and flutter and for prevention of nodal arrhythmias.",
+  "explanation_incorrect": {
+    "A": "Class IV agents prolong, not shorten, AV nodal conduction time and refractoriness; a shortened PR interval would suggest enhanced conduction.",
+    "B": "Nondihydropyridine calcium channel blockers act on nodal calcium channels; they do not slow phase 0 in ventricular myocytes, which is the class I sodium channel effect.",
+    "C": "Shortening the QT interval is not an effect of class IV agents; class III potassium channel blockers prolong repolarization and the QT interval.",
+    "E": "Phase 4 slope is reduced by beta-blockers and ivabradine; diltiazem slows nodal conduction rather than increasing automaticity."
+  },
+  "educationalObjective": "Class IV calcium channel blockers slow AV nodal conduction, increase refractoriness, and prolong the PR interval.",
+  "source": "Generated from 7. Cardiovascular.pdf - Pharmacology: Class II and IV antiarrhythmics"
+}
+]

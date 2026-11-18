@@ -1,0 +1,125 @@
+[
+{
+  "id": "cardio-054",
+  "subject": "Cardiovascular",
+  "major_topic": "Physiology",
+  "subtopic": "Pulse pressure determinants",
+  "difficulty": "easy",
+  "vignette": "A 45-year-old man has his blood pressure measured during a routine visit: 130/90 mm Hg. His physician notes the systolic and diastolic values while discussing arterial mechanics.",
+  "question": "What is this patient's pulse pressure?",
+  "options": [
+    {
+      "id": "A",
+      "text": "110 mm Hg"
+    },
+    {
+      "id": "B",
+      "text": "1.44"
+    },
+    {
+      "id": "C",
+      "text": "220 mm Hg"
+    },
+    {
+      "id": "D",
+      "text": "20 mm Hg"
+    },
+    {
+      "id": "E",
+      "text": "40 mm Hg"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Pulse pressure = systolic blood pressure − diastolic blood pressure = 130 − 90 = 40 mm Hg. Pulse pressure is directly proportional to stroke volume and inversely proportional to arterial compliance.",
+  "explanation_incorrect": {
+    "A": "110 mm Hg is the unweighted average of the systolic and diastolic pressures — that approximates mean arterial pressure, not pulse pressure.",
+    "B": "1.44 is the systolic-to-diastolic ratio (130/90); pulse pressure is a difference, not a ratio.",
+    "C": "220 mm Hg is the sum of the systolic and diastolic pressures; pulse pressure is their difference.",
+    "D": "20 mm Hg results from halving the systolic-diastolic difference; the pulse pressure is the full difference (130 − 90 = 40)."
+  },
+  "educationalObjective": "Pulse pressure = SBP − DBP, and it is directly proportional to stroke volume and inversely proportional to arterial compliance.",
+  "source": "Generated from 7. Cardiovascular.pdf - Physiology: Pulse pressure determinants"
+},
+{
+  "id": "cardio-055",
+  "subject": "Cardiovascular",
+  "major_topic": "Physiology",
+  "subtopic": "Pulse pressure determinants",
+  "difficulty": "medium",
+  "vignette": "A 24-year-old tall, thin man presents with dyspnea. His pulses are bounding and rapidly rising ('water-hammer' quality), and his blood pressure is 170/50 mm Hg. Auscultation reveals a blowing, early-diastolic decrescendo murmur along the left sternal border.",
+  "question": "Which mechanism best explains this patient's wide pulse pressure?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Decreased arterial compliance from age-related aortic stiffening"
+    },
+    {
+      "id": "B",
+      "text": "Decreased stroke volume from advanced heart failure"
+    },
+    {
+      "id": "C",
+      "text": "Increased stroke volume ejected through an incompetent aortic valve with diastolic runoff back into the left ventricle"
+    },
+    {
+      "id": "D",
+      "text": "Impeded systolic ejection across a stenotic aortic valve"
+    },
+    {
+      "id": "E",
+      "text": "Increased systemic vascular resistance elevating diastolic pressure"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Pulse pressure is directly proportional to stroke volume and inversely proportional to arterial compliance. In aortic regurgitation, the left ventricle ejects a large stroke volume in systole, and in diastole blood regurgitates back through the incompetent valve into the ventricle, causing diastolic pressure to fall precipitously — producing a wide pulse pressure (170/50) with bounding, water-hammer pulses.",
+  "explanation_incorrect": {
+    "A": "Aortic stiffening decreases compliance and raises pulse pressure in older adults with isolated systolic hypertension, but this young patient has a normal-compliance aorta and valvular regurgitation instead.",
+    "B": "Decreased stroke volume lowers pulse pressure, as in advanced heart failure, cardiogenic shock, or tamponade — the opposite of this patient's wide pulse pressure.",
+    "D": "Impeded ejection across a stenotic aortic valve decreases stroke volume and narrows pulse pressure (aortic stenosis); this patient's murmur is diastolic, not systolic.",
+    "E": "Elevated systemic vascular resistance raises diastolic pressure and would narrow, not widen, the pulse pressure."
+  },
+  "educationalObjective": "Pulse pressure widens in aortic regurgitation because a large stroke volume is ejected while diastolic runoff lowers DBP; PP ∝ SV and ∝ 1/arterial compliance.",
+  "source": "Generated from 7. Cardiovascular.pdf - Physiology: Pulse pressure determinants"
+},
+{
+  "id": "cardio-056",
+  "subject": "Cardiovascular",
+  "major_topic": "Physiology",
+  "subtopic": "Pulse pressure determinants",
+  "difficulty": "hard",
+  "vignette": "An 80-year-old man is evaluated for exertional syncope. His carotid upstroke is slow and delayed (pulsus parvus et tardus), a harsh systolic ejection murmur is heard at the right second intercostal space radiating to the carotids, and his blood pressure is 110/95 mm Hg.",
+  "question": "Which mechanism best explains this patient's narrow pulse pressure?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Age-related aortic stiffening decreasing arterial compliance"
+    },
+    {
+      "id": "B",
+      "text": "Reduced stroke volume from obstructed ejection across the stenotic aortic valve"
+    },
+    {
+      "id": "C",
+      "text": "Increased sympathetic tone raising diastolic pressure"
+    },
+    {
+      "id": "D",
+      "text": "A high-output state such as anemia increasing stroke volume"
+    },
+    {
+      "id": "E",
+      "text": "Diastolic runoff into the left ventricle lowering diastolic pressure"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Pulse pressure is directly proportional to stroke volume. In aortic stenosis, ejection across the narrowed valve is impeded, stroke volume falls, and the pulse pressure narrows (110/95 here), accompanied by the slow, delayed carotid upstroke of pulsus parvus et tardus. Narrow pulse pressure also occurs in cardiogenic shock, cardiac tamponade, and advanced heart failure — all states of reduced effective stroke volume.",
+  "explanation_incorrect": {
+    "A": "Decreased arterial compliance (aortic stiffening) increases pulse pressure, producing isolated systolic hypertension in older adults — the opposite finding.",
+    "C": "Increased sympathetic tone (eg, obstructive sleep apnea) is a mechanism of widened, not narrowed, pulse pressure.",
+    "D": "High-output states (eg, anemia, hyperthyroidism) increase stroke volume and widen pulse pressure.",
+    "E": "Diastolic runoff through an incompetent valve lowers DBP and widens pulse pressure (aortic regurgitation); this patient has stenosis, not regurgitation."
+  },
+  "educationalObjective": "Pulse pressure narrows in aortic stenosis, cardiogenic shock, cardiac tamponade, and advanced heart failure — all states of reduced stroke volume.",
+  "source": "Generated from 7. Cardiovascular.pdf - Physiology: Pulse pressure determinants"
+}
+]

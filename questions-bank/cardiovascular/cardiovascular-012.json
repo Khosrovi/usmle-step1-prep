@@ -1,0 +1,166 @@
+[
+{
+  "id": "cardio-131",
+  "subject": "Cardiovascular",
+  "major_topic": "Physiology",
+  "subtopic": "Capillary fluid exchange: Starling forces",
+  "difficulty": "easy",
+  "vignette": "During a physiology lecture on capillary fluid exchange, students learn that net fluid flow across the capillary wall, Jv = Kf[(Pc − Pi) − σ(πc − πi)], is determined by four Starling forces acting in different directions.",
+  "question": "Which Starling force pulls fluid into the capillary?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Plasma oncotic pressure (πc)"
+    },
+    {
+      "id": "B",
+      "text": "Capillary hydrostatic pressure (Pc)"
+    },
+    {
+      "id": "C",
+      "text": "Interstitial fluid oncotic pressure (πi)"
+    },
+    {
+      "id": "D",
+      "text": "Interstitial hydrostatic pressure (Pi)"
+    },
+    {
+      "id": "E",
+      "text": "Capillary permeability to fluid (Kf)"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Plasma oncotic pressure (πc) pulls fluid into the capillary, opposing filtration. In contrast, capillary hydrostatic pressure (Pc) pushes fluid out, interstitial hydrostatic pressure (Pi) pushes fluid in, and interstitial fluid oncotic pressure (πi) pulls fluid out. The net driving force in the Starling equation, (Pc − Pi) − σ(πc − πi), determines whether filtration or reabsorption predominates.",
+  "explanation_incorrect": {
+    "B": "Capillary hydrostatic pressure pushes fluid out of the capillary, driving filtration rather than reabsorption.",
+    "C": "Interstitial fluid oncotic pressure pulls fluid out of the capillary, promoting edema formation when elevated.",
+    "D": "Interstitial hydrostatic pressure pushes fluid into the capillary, but it is a hydrostatic (pushing) force, not an oncotic (pulling) force.",
+    "E": "Kf is the capillary permeability coefficient that scales the net driving force; it is not itself a directional Starling pressure."
+  },
+  "educationalObjective": "Plasma oncotic pressure (πc) is the Starling force that pulls fluid into the capillary, promoting reabsorption.",
+  "source": "Generated from 7. Cardiovascular.pdf - Physiology: Capillary fluid exchange: Starling forces"
+},
+{
+  "id": "cardio-132",
+  "subject": "Cardiovascular",
+  "major_topic": "Physiology",
+  "subtopic": "Capillary fluid exchange: Starling forces",
+  "difficulty": "medium",
+  "vignette": "A 6-year-old boy presents with periorbital swelling and progressive pitting edema of the lower extremities. Urinalysis shows 4+ proteinuria with no hematuria, and his serum albumin is markedly decreased.",
+  "question": "Which Starling force alteration explains his edema?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Increased capillary hydrostatic pressure (Pc)"
+    },
+    {
+      "id": "B",
+      "text": "Increased capillary permeability (Kf)"
+    },
+    {
+      "id": "C",
+      "text": "Increased interstitial fluid oncotic pressure (πi)"
+    },
+    {
+      "id": "D",
+      "text": "Decreased interstitial hydrostatic pressure (Pi)"
+    },
+    {
+      "id": "E",
+      "text": "Decreased plasma oncotic pressure (πc) due to loss of plasma proteins"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Nephrotic syndrome causes massive proteinuria with loss of plasma proteins, decreasing plasma oncotic pressure (πc). Because πc is the force pulling fluid into the capillary, its reduction shifts the Starling balance toward net filtration, producing edema. Other classic causes of decreased πc include liver failure and protein malnutrition.",
+  "explanation_incorrect": {
+    "A": "Increased capillary hydrostatic pressure causes edema in heart failure; this child's protein-losing nephropathy points instead to reduced oncotic pull.",
+    "B": "Increased capillary permeability (Kf) causes edema from toxins, infections, or burns, not from urinary protein loss.",
+    "C": "Increased interstitial oncotic pressure (πi) is the mechanism in lymphatic blockage, not nephrotic syndrome.",
+    "D": "Decreased interstitial hydrostatic pressure is not the mechanism here; nephrotic edema is driven by reduced plasma oncotic pressure."
+  },
+  "educationalObjective": "Nephrotic syndrome reduces plasma oncotic pressure (πc) through urinary protein loss, shifting Starling forces toward edema.",
+  "source": "Generated from 7. Cardiovascular.pdf - Physiology: Capillary fluid exchange: Starling forces"
+},
+{
+  "id": "cardio-133",
+  "subject": "Cardiovascular",
+  "major_topic": "Physiology",
+  "subtopic": "Capillary fluid exchange: Starling forces",
+  "difficulty": "hard",
+  "vignette": "A 58-year-old woman develops progressive swelling of her left arm three months after a radical mastectomy with axillary lymph node dissection. The arm is diffusely enlarged without pitting on deep palpation, and infection and venous thrombosis have been excluded.",
+  "question": "Which change in Starling forces accounts for the fluid accumulation in her arm?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Elevated capillary hydrostatic pressure (Pc) from venous obstruction"
+    },
+    {
+      "id": "B",
+      "text": "Decreased plasma oncotic pressure (πc) from hypoalbuminemia"
+    },
+    {
+      "id": "C",
+      "text": "Increased interstitial fluid oncotic pressure (πi) due to impaired lymphatic drainage"
+    },
+    {
+      "id": "D",
+      "text": "Increased capillary permeability (Kf) from radiation injury"
+    },
+    {
+      "id": "E",
+      "text": "Decreased reflection coefficient (σ), increasing capillary protein leak"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Lymphatic blockage after axillary node dissection impairs clearance of interstitial fluid and protein. Protein accumulates in the interstitium, increasing interstitial fluid oncotic pressure (πi), which pulls more fluid out of the capillary and produces the edema. In the Starling equation, elevated πi increases the term −σ(πc − πi), favoring net filtration.",
+  "explanation_incorrect": {
+    "A": "Venous obstruction would raise capillary hydrostatic pressure, but venous thrombosis was excluded; the mechanism here is protein accumulation from failed lymphatic drainage.",
+    "B": "Hypoalbuminemia would cause generalized, dependent edema rather than isolated swelling of one arm after node dissection.",
+    "D": "Burns, toxins, and infections raise Kf through capillary injury; there is no such insult to the capillary wall in post-surgical lymphedema.",
+    "E": "A decreased reflection coefficient reflects increased capillary protein permeability, which accompanies burns and toxins, not lymphatic obstruction."
+  },
+  "educationalObjective": "Lymphatic blockage increases interstitial oncotic pressure (πi) as interstitial protein accumulates, driving localized edema.",
+  "source": "Generated from 7. Cardiovascular.pdf - Physiology: Capillary fluid exchange: Starling forces"
+},
+{
+  "id": "cardio-134",
+  "subject": "Cardiovascular",
+  "major_topic": "Physiology",
+  "subtopic": "Capillary fluid exchange: Starling forces",
+  "difficulty": "medium",
+  "vignette": "A 30-year-old man sustains partial-thickness burns over 20% of his body surface area. Within hours, marked edema forms in the burned tissue. His plasma albumin concentration has not yet fallen, and his cardiac output is adequate.",
+  "question": "Which parameter in the Starling equation has increased to produce this localized edema?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Interstitial hydrostatic pressure (Pi)"
+    },
+    {
+      "id": "B",
+      "text": "Capillary hydrostatic pressure (Pc)"
+    },
+    {
+      "id": "C",
+      "text": "Plasma oncotic pressure (πc)"
+    },
+    {
+      "id": "D",
+      "text": "Reflection coefficient (σ)"
+    },
+    {
+      "id": "E",
+      "text": "Capillary permeability to fluid (Kf)"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Burns damage the capillary endothelium, increasing capillary permeability (Kf), which directly amplifies net fluid outflow (Jv = Kf[(Pc − Pi) − σ(πc − πi)]). Toxins and infections similarly raise Kf. The result is rapid edema formation in the injured region even before any fall in plasma oncotic pressure occurs.",
+  "explanation_incorrect": {
+    "A": "An increase in interstitial hydrostatic pressure would push fluid into the capillary and oppose edema; it is not the burned-tissue mechanism.",
+    "B": "Elevated capillary hydrostatic pressure is the edema mechanism of heart failure; this patient's cardiac output is adequate and the edema is confined to burned areas.",
+    "C": "Plasma oncotic pressure falls late in burns as protein leaks out, and a decrease (not increase) in πc would promote edema; the prompt, localized edema points to the permeability term.",
+    "D": "The reflection coefficient measures capillary impermeability to protein; it decreases — not increases — with endothelial injury."
+  },
+  "educationalObjective": "Burns, toxins, and infections increase capillary permeability (Kf), directly increasing net fluid filtration and edema.",
+  "source": "Generated from 7. Cardiovascular.pdf - Physiology: Capillary fluid exchange: Starling forces"
+}
+]

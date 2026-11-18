@@ -1,0 +1,248 @@
+[
+{
+  "id": "cardio-190",
+  "subject": "Cardiovascular",
+  "major_topic": "Pathology",
+  "subtopic": "Myocardial infarction: diagnosis and ECG localization",
+  "difficulty": "easy",
+  "vignette": "A 62-year-old woman comes to the clinic 5 days after the onset of severe retrosternal chest pain that she did not report at the time. An ECG shows pathologic Q waves in leads V1-V4. Her physician wants to confirm that she suffered a myocardial infarction during that episode.",
+  "question": "Which of the following laboratory findings would be expected at this time?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Elevated cardiac troponin I, since it remains increased for 7-10 days after infarction"
+    },
+    {
+      "id": "B",
+      "text": "Elevated CK-MB, since it peaks 7 days after infarction"
+    },
+    {
+      "id": "C",
+      "text": "Normal cardiac troponin I, since it returns to baseline within 48 hours"
+    },
+    {
+      "id": "D",
+      "text": "Normal CK-MB with elevated creatine kinase fractions from skeletal muscle injury"
+    },
+    {
+      "id": "E",
+      "text": "Elevated CK-MB only if the infarct was subendocardial rather than transmural"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Cardiac troponin I rises after 4 hours, peaks at 24 hours, and remains elevated for 7-10 days, making it the most specific protein marker and still detectable 5 days after infarction. The pathologic Q waves in V1-V4 are consistent with an evolving or old transmural infarct.",
+  "explanation_incorrect": {
+    "B": "CK-MB rises 6-12 hours after onset, peaks at 16-24 hours, and returns to normal by 48 hours — it would not peak at 7 days nor remain elevated at day 5.",
+    "C": "Troponin I stays elevated for 7-10 days, not 48 hours; the 48-hour return-to-baseline applies to CK-MB.",
+    "D": "CK-MB is predominantly found in myocardium but can also be released from skeletal muscle; that caveat does not make it normal at day 5 — it has already normalized by 48 hours regardless.",
+    "E": "CK-MB and troponin rise in both subendocardial and transmural infarcts; infarct type does not determine marker elevation at day 5."
+  },
+  "educationalObjective": "Troponin I rises after 4 hours, peaks at 24 hours, and stays elevated 7-10 days — the most specific marker for MI even days after the event.",
+  "source": "Generated from 7. Cardiovascular.pdf - Pathology: Myocardial infarction: diagnosis and ECG localization"
+},
+{
+  "id": "cardio-191",
+  "subject": "Cardiovascular",
+  "major_topic": "Pathology",
+  "subtopic": "Myocardial infarction: diagnosis and ECG localization",
+  "difficulty": "easy",
+  "vignette": "A 64-year-old man was admitted 3 days ago for a non-ST-segment elevation myocardial infarction. His troponin I has been steadily declining and the ECG has stabilized. On the third hospital day he develops recurrent severe retrosternal chest pain with new ST-segment depression.",
+  "question": "Which of the following is the most appropriate biomarker to detect reinfarction in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Cardiac troponin I, since it is more specific than other protein markers"
+    },
+    {
+      "id": "B",
+      "text": "Myoglobin, since it rises the fastest of the cardiac proteins"
+    },
+    {
+      "id": "C",
+      "text": "Total creatine kinase, since it reflects total myocardial cell death"
+    },
+    {
+      "id": "D",
+      "text": "CK-MB, since its levels return to normal within 48 hours after the initial infarct"
+    },
+    {
+      "id": "E",
+      "text": "LDH, since it peaks later than the other markers"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "CK-MB increases 6-12 hours after infarction, peaks at 16-24 hours, and returns to normal by 48 hours, which makes it uniquely useful for diagnosing reinfarction: a new rise from a normalized baseline indicates fresh myocardial necrosis. Although troponin I is the more specific marker for the initial event, its persistence for 7-10 days obscures a second injury.",
+  "explanation_incorrect": {
+    "A": "Troponin I remains elevated for 7-10 days after the initial MI, so a new injury cannot be distinguished from the still-elevated baseline, despite its superior specificity for the first event.",
+    "B": "Myoglobin kinetics are not part of the MI diagnostic panel described here, and speed of rise does not solve the baseline problem in reinfarction.",
+    "C": "Total creatine kinase includes non-cardiac sources and has no advantage over CK-MB for detecting a second infarct.",
+    "E": "LDH is an outdated, nonspecific marker; late peaking does not help identify reinfarction against a persistent baseline."
+  },
+  "educationalObjective": "CK-MB normalizes by 48 hours, so it is the marker of choice for detecting reinfarction; troponin's 7-10 day elevation makes it poorly suited for that purpose.",
+  "source": "Generated from 7. Cardiovascular.pdf - Pathology: Myocardial infarction: diagnosis and ECG localization"
+},
+{
+  "id": "cardio-192",
+  "subject": "Cardiovascular",
+  "major_topic": "Pathology",
+  "subtopic": "Myocardial infarction: diagnosis and ECG localization",
+  "difficulty": "medium",
+  "vignette": "A 58-year-old man presents with 1 hour of severe retrosternal chest pain radiating to his left arm and jaw, with diaphoresis and nausea. ECG shows ST-segment elevation in leads II, III, and aVF, with reciprocal ST depression in lead aVL. Cardiac troponin I is elevated.",
+  "question": "Occlusion of which of the following coronary arteries is the most likely cause of this patient's myocardial infarction?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Left anterior descending artery"
+    },
+    {
+      "id": "B",
+      "text": "Right coronary artery"
+    },
+    {
+      "id": "C",
+      "text": "Left circumflex artery"
+    },
+    {
+      "id": "D",
+      "text": "Posterior descending artery supplying the posterior wall"
+    },
+    {
+      "id": "E",
+      "text": "Distal left anterior descending artery supplying the apex"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "ST-segment elevations or Q waves in leads II, III, and aVF localize an inferior wall infarct, which is supplied by the right coronary artery. It is the second most commonly occluded coronary artery (after the LAD, before the circumflex).",
+  "explanation_incorrect": {
+    "A": "The left anterior descending artery supplies the anteroseptal wall (V1-V2) and, distally, the anteroapical wall (V3-V4); ST elevation would be in the anterior precordial leads, not II, III, and aVF.",
+    "C": "The left circumflex artery supplies the lateral wall, which is localized to leads I and aVL — not the inferior lead group.",
+    "D": "A posterior infarct is suggested by ST depression in V1-V3 with tall R waves, and confirmatory ST elevation would be sought in V7-V9, not the inferior leads alone.",
+    "E": "The distal LAD serves the anteroapical region (V3-V4); this patient's findings are strictly inferior."
+  },
+  "educationalObjective": "ECG localization of STEMI: II, III, aVF = inferior = right coronary artery; V1-V2 = anteroseptal (LAD); V3-V4 = anteroapical (distal LAD); I, aVL = lateral (LCX); V5-V6 = anterolateral (LAD or LCX).",
+  "source": "Generated from 7. Cardiovascular.pdf - Pathology: Myocardial infarction: diagnosis and ECG localization"
+},
+{
+  "id": "cardio-193",
+  "subject": "Cardiovascular",
+  "major_topic": "Pathology",
+  "subtopic": "Myocardial infarction: diagnosis and ECG localization",
+  "difficulty": "medium",
+  "vignette": "A 66-year-old woman presents with 2 hours of crushing chest pain and diaphoresis. ECG shows 3-mm ST-segment elevation in leads V1 and V2, and cardiac troponin I is elevated. Emergent coronary angiography is planned.",
+  "question": "Which of the following coronary arteries is most likely occluded in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Right coronary artery"
+    },
+    {
+      "id": "B",
+      "text": "Left circumflex artery"
+    },
+    {
+      "id": "C",
+      "text": "Posterior descending artery"
+    },
+    {
+      "id": "D",
+      "text": "Distal left anterior descending artery"
+    },
+    {
+      "id": "E",
+      "text": "Proximal left anterior descending artery"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "ST elevation in V1-V2 localizes an anteroseptal infarct, which is supplied by the left anterior descending artery — the most commonly occluded coronary artery (more often than RCA and circumflex). Proximal LAD occlusion threatens a large myocardial territory.",
+  "explanation_incorrect": {
+    "A": "The right coronary artery causes inferior infarcts with ST elevation in leads II, III, and aVF.",
+    "B": "The left circumflex artery causes lateral infarcts with ST elevation in leads I and aVL.",
+    "C": "The posterior descending artery supplies the posterior wall; that infarct shows ST depression in V1-V3 with tall R waves and is confirmed with ST elevation in V7-V9.",
+    "D": "The distal LAD supplies the anteroapical wall, which localizes to leads V3-V4 rather than V1-V2."
+  },
+  "educationalObjective": "Anteroseptal STEMI (ST elevation in V1-V2) indicates proximal LAD occlusion, the most commonly occluded coronary artery (LAD > RCA > circumflex).",
+  "source": "Generated from 7. Cardiovascular.pdf - Pathology: Myocardial infarction: diagnosis and ECG localization"
+},
+{
+  "id": "cardio-194",
+  "subject": "Cardiovascular",
+  "major_topic": "Pathology",
+  "subtopic": "Myocardial infarction: diagnosis and ECG localization",
+  "difficulty": "medium",
+  "vignette": "A 64-year-old man with type 2 diabetes presents with 40 minutes of rest chest pain that began while watching television. ECG shows diffuse ST-segment depression in leads V4-V6 with T-wave inversion, and no ST-segment elevation or pathologic Q waves. Cardiac troponin I drawn 4 hours after symptom onset is elevated.",
+  "question": "Which of the following best characterizes this patient's myocardial infarction?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Transmural infarct with ST elevation in the affected leads"
+    },
+    {
+      "id": "B",
+      "text": "No infarction, since troponin cannot rise without ST elevation"
+    },
+    {
+      "id": "C",
+      "text": "Subendocardial infarct with ST depression and/or T-wave inversion"
+    },
+    {
+      "id": "D",
+      "text": "Infarct confined to the right ventricle with tall R waves in V1-V3"
+    },
+    {
+      "id": "E",
+      "text": "Subendocardial infarct with ST elevation and pathologic Q waves"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Rest chest pain with elevated troponin establishes myocardial infarction, and ST-segment depression with T-wave inversion indicates a subendocardial (non–ST-elevation) infarct — NSTEMI. The subendocardium is the region most vulnerable to ischemia, and in the IHD manifestation table NSTEMI is defined by rest pain, troponin elevation, subendocardial infarction, and ST depression/T-wave inversion.",
+  "explanation_incorrect": {
+    "A": "ST elevation with a transmural (full-thickness) infarct defines STEMI; this ECG shows the opposite lead changes.",
+    "B": "Troponin elevation indicates myocardial necrosis; the absence of ST elevation distinguishes NSTEMI from STEMI but does not exclude infarction.",
+    "D": "Tall R waves in V1-V3 with ST depression in those leads suggest posterior involvement; there is no basis for confining the infarct to the right ventricle from these findings.",
+    "E": "ST elevation and pathologic Q waves are the signature of transmural infarction, not of a subendocardial infarct."
+  },
+  "educationalObjective": "ST depression (±T-wave inversion) with elevated troponin = NSTEMI = subendocardial infarct; ST elevation with pathologic Q waves = STEMI = transmural infarct.",
+  "source": "Generated from 7. Cardiovascular.pdf - Pathology: Myocardial infarction: diagnosis and ECG localization"
+},
+{
+  "id": "cardio-195",
+  "subject": "Cardiovascular",
+  "major_topic": "Pathology",
+  "subtopic": "Myocardial infarction: diagnosis and ECG localization",
+  "difficulty": "hard",
+  "vignette": "A 60-year-old man presents with 2 hours of severe retrosternal pressure and diaphoresis. The initial ECG is read as showing ST-segment depression in leads V1-V3 with prominent tall R waves in those same leads and no ST elevation in the standard limb or precordial leads. Troponin I is elevated, and echocardiography shows a wall motion abnormality of the posterior wall.",
+  "question": "Which of the following best describes the localization of this patient's infarct and the most appropriate additional ECG leads to record?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Anteroseptal infarct; record V3-V4 to confirm the extent"
+    },
+    {
+      "id": "B",
+      "text": "Posterior infarct; record V7-V9 looking for ST elevation"
+    },
+    {
+      "id": "C",
+      "text": "Inferior infarct; record leads II, III, and aVF to confirm the extent"
+    },
+    {
+      "id": "D",
+      "text": "Lateral infarct; record leads I and aVL to confirm the extent"
+    },
+    {
+      "id": "E",
+      "text": "Anteroapical infarct; record V5-V6 to confirm the extent"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "ST depression in V1-V3 with tall R waves in those leads is the mirror-image signature of a posterior infarct, which is supplied by the posterior descending artery (PDA). Because the posterior wall faces away from the standard precordial leads, the injury pattern appears as reciprocal ST depression anteriorly; direct confirmation requires posterior leads V7-V9, where ST elevation should be seen.",
+  "explanation_incorrect": {
+    "A": "An anteroseptal infarct produces ST elevation in V1-V2 (LAD), not ST depression with tall R waves; V3-V4 would add anteroapical information only.",
+    "C": "An inferior infarct shows ST elevation in II, III, and aVF (RCA); the reciprocal changes of inferior infarcts appear in I/aVL, not as tall R waves with ST depression in V1-V3.",
+    "D": "A lateral infarct shows ST elevation in I and aVL (LCX); V1-V3 ST depression with tall R waves is not its pattern.",
+    "E": "An anteroapical infarct localizes to V3-V4 (distal LAD) with ST elevation; V5-V6 correspond to the anterolateral region (LAD or LCX)."
+  },
+  "educationalObjective": "ST depression in V1-V3 with tall R waves suggests posterior MI (PDA); confirm with ST elevation in posterior leads V7-V9.",
+  "source": "Generated from 7. Cardiovascular.pdf - Pathology: Myocardial infarction: diagnosis and ECG localization"
+}
+]

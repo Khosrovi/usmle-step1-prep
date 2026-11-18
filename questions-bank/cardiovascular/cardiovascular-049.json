@@ -1,0 +1,248 @@
+[
+{
+  "id": "cardio-308",
+  "subject": "Cardiovascular",
+  "major_topic": "Pharmacology",
+  "subtopic": "Lipid-lowering agents",
+  "difficulty": "easy",
+  "vignette": "A 58-year-old man with type 2 diabetes mellitus and an LDL of 148 mg/dL is started on atorvastatin. At his three-month follow-up visit, his LDL cholesterol has fallen to 78 mg/dL and he reports no muscle pain.",
+  "question": "Which of the following best describes the mechanism by which statins lower LDL cholesterol?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Activation of PPAR-alpha with upregulation of lipoprotein lipase and increased triglyceride clearance"
+    },
+    {
+      "id": "B",
+      "text": "Disruption of the enterohepatic circulation of bile acids, forcing compensatory conversion of cholesterol to bile"
+    },
+    {
+      "id": "C",
+      "text": "Inhibition of HMG-CoA reductase, decreasing intrahepatic cholesterol and increasing LDL receptor recycling and LDL catabolism"
+    },
+    {
+      "id": "D",
+      "text": "Prevention of cholesterol absorption at the small intestine brush border"
+    },
+    {
+      "id": "E",
+      "text": "Inactivation of LDL-receptor degradation, increasing removal of LDL from the bloodstream"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Statins (atorvastatin, lovastatin, pravastatin, rosuvastatin, simvastatin) inhibit HMG-CoA reductase, decreasing cholesterol synthesis. The resulting decrease in intrahepatic cholesterol increases LDL receptor recycling, which increases LDL catabolism and produces a marked LDL reduction; statins also decrease mortality in patients with CAD.",
+  "explanation_incorrect": {
+    "A": "PPAR-alpha activation with lipoprotein lipase upregulation and triglyceride clearance is the mechanism of fibrates, not statins.",
+    "B": "Disrupting enterohepatic bile acid circulation is the mechanism of bile acid resins (cholestyramine, colesevelam, colestipol), which act downstream of cholesterol synthesis.",
+    "D": "Blocking cholesterol absorption at the small intestine brush border is the mechanism of ezetimibe.",
+    "E": "Inactivation of LDL-receptor degradation is the mechanism of PCSK9 inhibitors (alirocumab, evolocumab), which act after receptor expression rather than on synthesis."
+  },
+  "educationalObjective": "Statins inhibit HMG-CoA reductase; the fall in intrahepatic cholesterol drives LDL receptor recycling and LDL catabolism, producing a marked LDL reduction and decreased mortality in CAD.",
+  "source": "Generated from 7. Cardiovascular.pdf - Pharmacology: Lipid-lowering agents"
+},
+{
+  "id": "cardio-309",
+  "subject": "Cardiovascular",
+  "major_topic": "Pharmacology",
+  "subtopic": "Lipid-lowering agents",
+  "difficulty": "medium",
+  "vignette": "A 62-year-old woman with hypercholesterolemia takes cholestyramine. She also takes warfarin for atrial fibrillation. At follow-up her LDL has fallen substantially, but her INR is 1.1 (previously stable at 2.5), and she reports bloating and greasy, bulky stools.",
+  "question": "Which of the following best explains the change in this patient's INR?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Cholestyramine induces hepatic metabolism of warfarin, lowering its serum concentration"
+    },
+    {
+      "id": "B",
+      "text": "Cholestyramine potentiates warfarin's inhibition of vitamin K-dependent clotting factors"
+    },
+    {
+      "id": "C",
+      "text": "Reduced bile acid delivery impaired hepatic synthesis of clotting factors"
+    },
+    {
+      "id": "D",
+      "text": "Cholestyramine increased the volume of distribution of warfarin, lowering its free concentration"
+    },
+    {
+      "id": "E",
+      "text": "Cholestyramine decreased the absorption of warfarin (and other drugs) from the gastrointestinal tract"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Bile acid resins such as cholestyramine disrupt the enterohepatic circulation of bile acids and also decrease the absorption of other drugs and fat-soluble vitamins from the gastrointestinal tract. Reduced warfarin absorption explains the subtherapeutic INR, and reduced absorption of fat-soluble vitamins fits her symptoms.",
+  "explanation_incorrect": {
+    "A": "Bile acid resins are not CYP inducers; the interaction is in the gut lumen, where the resin binds other drugs, rather than in hepatic metabolism.",
+    "B": "Potentiation of warfarin's anticoagulant effect would raise the INR above 2.5, not lower it to 1.1.",
+    "C": "The problem is not bile-mediated malabsorption of the drug's target; the resin directly reduces absorption of coadministered drugs and fat-soluble vitamins from the intestinal lumen.",
+    "D": "Volume of distribution is a pharmacokinetic property of warfarin itself; binding by the resin in the gastrointestinal tract prevents the drug from ever being absorbed."
+  },
+  "educationalObjective": "Bile acid resins decrease the absorption of other drugs and fat-soluble vitamins, so coadministered medications such as warfarin can lose effectiveness.",
+  "source": "Generated from 7. Cardiovascular.pdf - Pharmacology: Lipid-lowering agents"
+},
+{
+  "id": "cardio-310",
+  "subject": "Cardiovascular",
+  "major_topic": "Pharmacology",
+  "subtopic": "Lipid-lowering agents",
+  "difficulty": "medium",
+  "vignette": "A 49-year-old man is found to have a fasting triglyceride level of 950 mg/dL; his LDL is 110 mg/dL and HDL is 32 mg/dL. His physician is concerned about the risk of acute pancreatitis and prescribes a medication that activates PPAR-alpha.",
+  "question": "Which of the following best describes the lipid effects expected from this medication?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Decreased LDL, markedly increased HDL, and decreased triglycerides via inhibition of lipolysis in adipose tissue"
+    },
+    {
+      "id": "B",
+      "text": "Decreased LDL, markedly increased HDL, and markedly decreased triglycerides via upregulation of lipoprotein lipase"
+    },
+    {
+      "id": "C",
+      "text": "Markedly decreased LDL with little triglyceride change via increased LDL receptor recycling"
+    },
+    {
+      "id": "D",
+      "text": "Increased LDL and triglycerides with slightly increased HDL via disruption of the enterohepatic circulation"
+    },
+    {
+      "id": "E",
+      "text": "Markedly decreased LDL with slightly increased HDL via inactivation of LDL-receptor degradation"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Fibrates (fenofibrate, gemfibrozil) activate PPAR-alpha, which upregulates lipoprotein lipase and increases triglyceride clearance; PPAR-alpha activation also induces HDL synthesis. Their pattern is decreased LDL, markedly increased HDL, and a marked triglyceride reduction, making them appropriate for severe hypertriglyceridemia.",
+  "explanation_incorrect": {
+    "A": "Inhibiting lipolysis via hormone-sensitive lipase in adipose tissue is the mechanism of niacin, which lowers LDL and triglycerides and raises HDL most markedly - but not via PPAR-alpha or lipoprotein lipase.",
+    "C": "Increased LDL receptor recycling from HMG-CoA reductase inhibition describes statins, whose dominant effect is a marked LDL reduction with little triglyceride change.",
+    "D": "Disrupting the enterohepatic circulation (bile acid resins) markedly lowers LDL, and these drugs raise triglycerides only slightly rather than raising both LDL and triglycerides.",
+    "E": "Inactivation of LDL-receptor degradation describes PCSK9 inhibitors, which produce a marked LDL fall with increased HDL and little triglyceride effect."
+  },
+  "educationalObjective": "Fibrates activate PPAR-alpha to upregulate lipoprotein lipase (increasing triglyceride clearance) and induce HDL synthesis, making them first-line for very high triglycerides.",
+  "source": "Generated from 7. Cardiovascular.pdf - Pharmacology: Lipid-lowering agents"
+},
+{
+  "id": "cardio-311",
+  "subject": "Cardiovascular",
+  "major_topic": "Pharmacology",
+  "subtopic": "Lipid-lowering agents",
+  "difficulty": "hard",
+  "vignette": "A 60-year-old man with mixed dyslipidemia takes an oral lipid-lowering agent. He returns with severe pain and swelling of his first metatarsophalangeal joint and a fasting glucose of 138 mg/dL (previously 108 mg/dL). He has learned to take aspirin beforehand because it blunts the intermittent facial flushing he experiences after each dose.",
+  "question": "Which of the following is the most likely medication?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Simvastatin"
+    },
+    {
+      "id": "B",
+      "text": "Ezetimibe"
+    },
+    {
+      "id": "C",
+      "text": "Gemfibrozil"
+    },
+    {
+      "id": "D",
+      "text": "Niacin"
+    },
+    {
+      "id": "E",
+      "text": "Colestipol"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Niacin's adverse effects include a flushed face that is prostaglandin-mediated (reduced by NSAIDs or with long-term use), hyperglycemia, and hyperuricemia - the latter explaining the gout flare. Its mechanism is inhibition of lipolysis via hormone-sensitive lipase in adipose tissue plus reduced hepatic VLDL synthesis.",
+  "explanation_incorrect": {
+    "A": "Statins cause hepatotoxicity (increased LFTs) and myopathy, especially when combined with fibrates or niacin; they do not cause flushing relieved by NSAIDs, hyperglycemia, or hyperuricemia.",
+    "B": "Ezetimibe rarely causes increased LFTs and diarrhea; it does not cause prostaglandin-mediated flushing, hyperglycemia, or hyperuricemia.",
+    "C": "Fibrates cause myopathy (increased risk with statins) and cholesterol gallstones via inhibition of cholesterol 7-alpha-hydroxylase; they do not cause flushing, hyperglycemia, or hyperuricemia.",
+    "E": "Bile acid resins cause GI upset and decreased absorption of other drugs and fat-soluble vitamins; they do not affect glucose, uric acid, or prostaglandin-mediated flushing."
+  },
+  "educationalObjective": "Niacin causes prostaglandin-mediated facial flushing (blunted by NSAIDs), hyperglycemia, and hyperuricemia.",
+  "source": "Generated from 7. Cardiovascular.pdf - Pharmacology: Lipid-lowering agents"
+},
+{
+  "id": "cardio-312",
+  "subject": "Cardiovascular",
+  "major_topic": "Pharmacology",
+  "subtopic": "Lipid-lowering agents",
+  "difficulty": "hard",
+  "vignette": "A 59-year-old man with heterozygous familial hypercholesterolemia has an LDL of 210 mg/dL despite maximally tolerated statin therapy plus a second oral agent. A new subcutaneous medication is added, and his LDL falls to 95 mg/dL. Several weeks later his family reports episodes of confusion and word-finding difficulty.",
+  "question": "Which of the following best describes the mechanism of the medication most likely added?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Antibody-mediated inactivation of LDL-receptor degradation, increasing removal of LDL from the bloodstream"
+    },
+    {
+      "id": "B",
+      "text": "Inhibition of hormone-sensitive lipase in adipose tissue with reduced hepatic VLDL synthesis"
+    },
+    {
+      "id": "C",
+      "text": "Prevention of cholesterol absorption at the small intestine brush border"
+    },
+    {
+      "id": "D",
+      "text": "Disruption of the enterohepatic circulation of bile acids, increasing LDL receptor recycling"
+    },
+    {
+      "id": "E",
+      "text": "Inhibition of cholesterol 7-alpha-hydroxylase"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "PCSK9 inhibitors (alirocumab, evolocumab) are monoclonal antibodies that inactivate LDL-receptor degradation, increasing removal of LDL from the bloodstream and producing a marked LDL reduction. Their adverse effects include myalgias and delirium, dementia, and other neurocognitive effects - matching the family's report.",
+  "explanation_incorrect": {
+    "B": "Blocking cholesterol absorption at the intestinal brush border is the mechanism of ezetimibe, which the patient was likely already taking; it does not explain the neurocognitive symptoms.",
+    "C": "Disrupting bile acid enterohepatic circulation is the mechanism of bile acid resins, oral agents causing GI upset and reduced absorption of other drugs rather than a marked LDL fall in this setting.",
+    "D": "Inhibition of cholesterol 7-alpha-hydroxylase is an adverse mechanism of fibrates leading to cholesterol gallstones; it is not the mechanism of a PCSK9 inhibitor.",
+    "E": "Inhibition of cholesterol 7-alpha-hydroxylase is the fibrate-related mechanism behind cholesterol gallstones, not a mechanism of the injected PCSK9 inhibitor. Alirocumab and evolocumab bind PCSK9 and prevent LDL-receptor degradation, markedly increasing LDL clearance from the bloodstream."
+  },
+  "educationalObjective": "PCSK9 inhibitors (alirocumab, evolocumab) inactivate LDL-receptor degradation to markedly lower LDL; adverse effects include myalgias and neurocognitive effects (delirium, dementia).",
+  "source": "Generated from 7. Cardiovascular.pdf - Pharmacology: Lipid-lowering agents"
+},
+{
+  "id": "cardio-313",
+  "subject": "Cardiovascular",
+  "major_topic": "Pharmacology",
+  "subtopic": "Lipid-lowering agents",
+  "difficulty": "easy",
+  "vignette": "A 57-year-old woman with an LDL of 160 mg/dL developed myalgias on two different statins and cannot tolerate them. She is started on ezetimibe; her LDL falls to 118 mg/dL and she has no muscle symptoms.",
+  "question": "Which of the following best describes the mechanism of action of ezetimibe?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Inhibition of HMG-CoA reductase in the liver"
+    },
+    {
+      "id": "B",
+      "text": "Activation of PPAR-alpha with upregulation of lipoprotein lipase"
+    },
+    {
+      "id": "C",
+      "text": "Binding of bile acids in the intestinal lumen to disrupt their enterohepatic circulation"
+    },
+    {
+      "id": "D",
+      "text": "Inactivation of LDL-receptor degradation"
+    },
+    {
+      "id": "E",
+      "text": "Prevention of cholesterol absorption at the small intestine brush border"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Ezetimibe prevents cholesterol absorption at the small intestine brush border, producing a marked LDL reduction. Its adverse effects are rare increased LFTs and diarrhea, and it is a useful option when statins are not tolerated because of myopathy.",
+  "explanation_incorrect": {
+    "A": "HMG-CoA reductase inhibition is the mechanism of statins - the drug class this patient could not tolerate because of myalgias.",
+    "B": "PPAR-alpha activation with lipoprotein lipase upregulation is the mechanism of fibrates (fenofibrate, gemfibrozil), whose main effect is on triglycerides and HDL.",
+    "C": "Binding bile acids in the intestinal lumen is the mechanism of bile acid resins such as cholestyramine, colestipol, and colesevelam.",
+    "D": "Inactivation of LDL-receptor degradation is the mechanism of the injectable PCSK9 inhibitors alirocumab and evolocumab."
+  },
+  "educationalObjective": "Ezetimibe lowers LDL by preventing cholesterol absorption at the small intestine brush border and is an option for statin-intolerant patients.",
+  "source": "Generated from 7. Cardiovascular.pdf - Pharmacology: Lipid-lowering agents"
+}
+]

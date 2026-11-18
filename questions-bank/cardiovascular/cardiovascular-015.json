@@ -1,0 +1,207 @@
+[
+{
+  "id": "cardio-069",
+  "subject": "Cardiovascular",
+  "major_topic": "Physiology",
+  "subtopic": "Cardiac cycle phases and pressure-volume loop basics",
+  "difficulty": "easy",
+  "vignette": "A researcher records left ventricular pressure and volume continuously in an animal model. During one interval, mitral valve closure has just occurred but the aortic valve has not yet opened, so ventricular pressure rises sharply while ventricular volume remains constant.",
+  "question": "Which additional property is true of this phase of the cardiac cycle?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It is the period during which the ventricle fills most rapidly"
+    },
+    {
+      "id": "B",
+      "text": "It begins with aortic valve closure and ends with mitral valve opening"
+    },
+    {
+      "id": "C",
+      "text": "It is the period of highest myocardial oxygen consumption"
+    },
+    {
+      "id": "D",
+      "text": "It is the period between aortic valve opening and aortic valve closing"
+    },
+    {
+      "id": "E",
+      "text": "It occurs immediately after the mitral valve opens"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "The interval described is isovolumetric contraction, the period between mitral valve closing and aortic valve opening. During this phase the ventricle builds pressure against a closed aortic valve, and it is the period of highest myocardial oxygen consumption of the cardiac cycle.",
+  "explanation_incorrect": {
+    "A": "Rapid ventricular filling occurs in early diastole, just after the mitral valve opens, when ventricular pressure is low and falling.",
+    "B": "The interval from aortic valve closure to mitral valve opening is isovolumetric relaxation, a diastolic phase during which ventricular pressure falls at constant volume.",
+    "D": "The period between aortic valve opening and closing is systolic ejection, during which ventricular volume decreases.",
+    "E": "The period immediately after the mitral valve opens is rapid filling; the described interval ends when the aortic valve opens, before any filling occurs."
+  },
+  "educationalObjective": "Isovolumetric contraction, the period between mitral valve closing and aortic valve opening, has the highest myocardial oxygen consumption of the cardiac cycle.",
+  "source": "Generated from 7. Cardiovascular.pdf - Physiology: Cardiac cycle phases and pressure-volume loop basics"
+},
+{
+  "id": "cardio-070",
+  "subject": "Cardiovascular",
+  "major_topic": "Physiology",
+  "subtopic": "Cardiac cycle phases and pressure-volume loop basics",
+  "difficulty": "medium",
+  "vignette": "In a hemodynamic study, simultaneous catheters show that left ventricular pressure now exceeds aortic pressure, the aortic valve is open, and left ventricular volume is decreasing from 120 mL toward 50 mL.",
+  "question": "Which phase of the left ventricular cardiac cycle is being observed?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Systolic ejection"
+    },
+    {
+      "id": "B",
+      "text": "Isovolumetric contraction"
+    },
+    {
+      "id": "C",
+      "text": "Isovolumetric relaxation"
+    },
+    {
+      "id": "D",
+      "text": "Rapid filling"
+    },
+    {
+      "id": "E",
+      "text": "Reduced filling"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Systolic ejection is the period between aortic valve opening and closing. It begins when left ventricular pressure exceeds aortic pressure and the aortic valve opens, and during it ventricular volume falls from the end-diastolic volume toward the end-systolic volume as stroke volume is ejected.",
+  "explanation_incorrect": {
+    "B": "Isovolumetric contraction occurs while both the mitral and aortic valves are closed, so ventricular volume is constant; here the aortic valve is open and volume is falling.",
+    "C": "Isovolumetric relaxation is a diastolic phase after aortic valve closure during which pressure falls at constant volume; volume is not decreasing.",
+    "D": "Rapid filling occurs just after the mitral valve opens, when ventricular volume is increasing, not decreasing.",
+    "E": "Reduced filling is the late diastolic period just before mitral valve closing, during which volume increases slowly rather than decreasing."
+  },
+  "educationalObjective": "Systolic ejection is the period between aortic valve opening and aortic valve closing, during which ventricular volume falls from EDV toward ESV.",
+  "source": "Generated from 7. Cardiovascular.pdf - Physiology: Cardiac cycle phases and pressure-volume loop basics"
+},
+{
+  "id": "cardio-071",
+  "subject": "Cardiovascular",
+  "major_topic": "Physiology",
+  "subtopic": "Cardiac cycle phases and pressure-volume loop basics",
+  "difficulty": "hard",
+  "vignette": "A pressure-volume loop is recorded from a healthy adult's left ventricle. Traced clockwise from the end-diastolic point (120 mL), the loop first rises steeply in pressure with no change in volume, then sweeps left and up as volume falls to 50 mL, then drops straight down with no change in volume, and finally sweeps right along the bottom of the loop as volume returns to 120 mL.",
+  "question": "At which location on this loop does the aortic valve close?",
+  "options": [
+    {
+      "id": "A",
+      "text": "At the lower-right corner, where the volume increase ends"
+    },
+    {
+      "id": "B",
+      "text": "At the upper-left corner, where the pressure fall at constant volume begins"
+    },
+    {
+      "id": "C",
+      "text": "Along the upper segment of the loop, at the start of the volume decrease"
+    },
+    {
+      "id": "D",
+      "text": "At the lowest point of the loop, where the pressure fall at constant volume ends"
+    },
+    {
+      "id": "E",
+      "text": "At the starting point, where the initial pressure rise at constant volume begins"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "The aortic valve closes at the end of ejection, which corresponds to the upper-left corner of the pressure-volume loop: the end-systolic point where volume is minimal and the pressure fall at constant volume (isovolumetric relaxation) begins.",
+  "explanation_incorrect": {
+    "A": "The lower-right corner is end diastole, where ventricular volume is maximal and the mitral valve closes to start isovolumetric contraction.",
+    "C": "The start of the volume decrease on the upper segment is when the aortic valve opens, not closes.",
+    "D": "The lowest point of the loop, at the end of the constant-volume pressure fall, is where the mitral valve opens to begin filling.",
+    "E": "The starting point of the constant-volume pressure rise is where the mitral valve closes at end diastole, after aortic closure by a full cardiac cycle."
+  },
+  "educationalObjective": "On the pressure-volume loop, the aortic valve closes at the upper-left (end-systolic) corner, where isovolumetric relaxation begins.",
+  "source": "Generated from 7. Cardiovascular.pdf - Physiology: Cardiac cycle phases and pressure-volume loop basics"
+},
+{
+  "id": "cardio-072",
+  "subject": "Cardiovascular",
+  "major_topic": "Physiology",
+  "subtopic": "Cardiac cycle phases and pressure-volume loop basics",
+  "difficulty": "hard",
+  "vignette": "A patient's left ventricular pressure-volume loop demonstrates an end-diastolic volume of 120 mL and an end-systolic volume of 50 mL.",
+  "question": "Which of the following correctly gives this patient's stroke volume and ejection fraction?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Stroke volume 70 mL; ejection fraction 42%"
+    },
+    {
+      "id": "B",
+      "text": "Stroke volume 50 mL; ejection fraction 58%"
+    },
+    {
+      "id": "C",
+      "text": "Stroke volume 120 mL; ejection fraction 58%"
+    },
+    {
+      "id": "D",
+      "text": "Stroke volume 70 mL; ejection fraction 58%"
+    },
+    {
+      "id": "E",
+      "text": "Stroke volume 120 mL; ejection fraction 42%"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Stroke volume equals end-diastolic volume minus end-systolic volume: 120 mL − 50 mL = 70 mL. Ejection fraction equals stroke volume divided by end-diastolic volume: 70/120 ≈ 58%, within the normal range of 50%–70%.",
+  "explanation_incorrect": {
+    "A": "The ejection fraction was computed as end-systolic volume divided by end-diastolic volume (50/120 = 42%) instead of stroke volume divided by end-diastolic volume.",
+    "B": "The stroke volume was taken as the end-systolic volume alone; stroke volume is the difference between end-diastolic and end-systolic volume.",
+    "C": "The stroke volume was taken as the end-diastolic volume alone, ignoring the residual end-systolic volume that remains after ejection.",
+    "E": "Both errors are combined: stroke volume was taken as end-diastolic volume, and the ejection fraction was computed as end-systolic volume over end-diastolic volume."
+  },
+  "educationalObjective": "Stroke volume = EDV − ESV, and ejection fraction = SV/EDV (normal 50%–70%); on the pressure-volume loop, stroke volume is the width of the loop.",
+  "source": "Generated from 7. Cardiovascular.pdf - Physiology: Cardiac cycle phases and pressure-volume loop basics"
+},
+{
+  "id": "cardio-073",
+  "subject": "Cardiovascular",
+  "major_topic": "Physiology",
+  "subtopic": "Cardiac cycle phases and pressure-volume loop basics",
+  "difficulty": "medium",
+  "vignette": "A student reviews the phases of the left ventricular cardiac cycle. One phase is defined as the period just before the mitral valve closes, during which ventricular filling has slowed markedly as the ventricle approaches end-diastolic volume.",
+  "question": "Which phase is being described?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Isovolumetric contraction"
+    },
+    {
+      "id": "B",
+      "text": "Systolic ejection"
+    },
+    {
+      "id": "C",
+      "text": "Isovolumetric relaxation"
+    },
+    {
+      "id": "D",
+      "text": "Rapid filling"
+    },
+    {
+      "id": "E",
+      "text": "Reduced filling"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Reduced filling is the diastolic period just before mitral valve closing, when the pressure gradient from atrium to ventricle has largely dissipated and filling slows markedly as the ventricle approaches its end-diastolic volume.",
+  "explanation_incorrect": {
+    "A": "Isovolumetric contraction occurs after mitral closure and before aortic opening, with no change in ventricular volume at all.",
+    "B": "Systolic ejection is the systolic period between aortic valve opening and closing, when volume is being ejected, not filled.",
+    "C": "Isovolumetric relaxation occurs between aortic valve closing and mitral valve opening, with constant volume and falling pressure.",
+    "D": "Rapid filling is the period just after the mitral valve opens, when filling is fastest, not the period just before mitral closing."
+  },
+  "educationalObjective": "Reduced filling is the period just before mitral valve closing, in contrast to rapid filling, which occurs just after the mitral valve opens.",
+  "source": "Generated from 7. Cardiovascular.pdf - Physiology: Cardiac cycle phases and pressure-volume loop basics"
+}
+]

@@ -1,0 +1,125 @@
+[
+{
+  "id": "cardio-305",
+  "subject": "Cardiovascular",
+  "major_topic": "Pharmacology",
+  "subtopic": "Ranolazine and sacubitril/valsartan",
+  "difficulty": "easy",
+  "vignette": "A 71-year-old man has refractory angina that persists despite nitrates, a beta-blocker, and a calcium channel blocker. A new oral agent is added. At follow-up one month later, his heart rate is 72/min and blood pressure is 128/76 mm Hg, both unchanged from baseline, and his exertional chest pain has lessened.",
+  "question": "Which of the following best describes the mechanism of action of the medication that was most likely added?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Blocking voltage-dependent L-type calcium channels in cardiac and vascular smooth muscle"
+    },
+    {
+      "id": "B",
+      "text": "Inhibiting the late phase of the inward sodium current, thereby reducing diastolic wall tension and oxygen consumption"
+    },
+    {
+      "id": "C",
+      "text": "Inhibiting Na+/K+-ATPase, which indirectly inhibits the Na+/Ca2+ exchanger and increases contractility"
+    },
+    {
+      "id": "D",
+      "text": "Decreasing cAMP and calcium currents in the SA and AV nodes"
+    },
+    {
+      "id": "E",
+      "text": "Increasing cGMP-mediated venodilation to reduce preload"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Ranolazine is used for refractory angina and inhibits the late phase of the inward sodium current. This reduces diastolic wall tension and oxygen consumption, and importantly it does not affect heart rate or blood pressure - exactly the findings in this vignette (unchanged heart rate and blood pressure with improved angina).",
+  "explanation_incorrect": {
+    "A": "Calcium channel blockers lower blood pressure (and nondihydropyridines slow the heart rate), which contradicts the unchanged vital signs; ranolazine does not block L-type calcium channels.",
+    "C": "Na+/K+-ATPase inhibition with increased intracellular calcium and positive inotropy is the mechanism of digoxin, not ranolazine.",
+    "D": "Decreased cAMP and calcium currents in nodal tissue with a slowed heart rate describes class II beta-blockers; ranolazine does not affect heart rate.",
+    "E": "cGMP-mediated venodilation with preload reduction describes nitrates, which would tend to lower blood pressure and cause reflex tachycardia."
+  },
+  "educationalObjective": "Ranolazine treats refractory angina by inhibiting the late phase of the inward sodium current, reducing diastolic wall tension and oxygen consumption without affecting heart rate or blood pressure.",
+  "source": "Generated from 7. Cardiovascular.pdf - Pharmacology: Ranolazine and sacubitril/valsartan"
+},
+{
+  "id": "cardio-306",
+  "subject": "Cardiovascular",
+  "major_topic": "Pharmacology",
+  "subtopic": "Ranolazine and sacubitril/valsartan",
+  "difficulty": "medium",
+  "vignette": "A 69-year-old woman with refractory angina began a new oral antianginal agent three weeks ago. She returns reporting constipation, dizziness, and headaches. An ECG obtained at the visit shows a QTc of 505 msec (baseline 440 msec). Her heart rate is 78/min and blood pressure is 124/78 mm Hg, both unchanged from before she started the drug.",
+  "question": "Which of the following is the most likely culprit medication?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Amlodipine"
+    },
+    {
+      "id": "B",
+      "text": "Metoprolol"
+    },
+    {
+      "id": "C",
+      "text": "Nitroglycerin"
+    },
+    {
+      "id": "D",
+      "text": "Ranolazine"
+    },
+    {
+      "id": "E",
+      "text": "Atorvastatin"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Ranolazine's adverse effects include constipation, dizziness, headache, nausea, and QT prolongation. The clue that the drug does not affect heart rate or blood pressure identifies ranolazine, since classic antianginals (nitrates, beta-blockers, calcium channel blockers) all change blood pressure, heart rate, or both.",
+  "explanation_incorrect": {
+    "A": "Amlodipine is a dihydropyridine calcium channel blocker that lowers blood pressure and causes flushing, dizziness, and peripheral edema; it does not prolong the QT interval.",
+    "B": "Metoprolol decreases heart rate and can cause bradycardia and AV block; it does not cause QT prolongation or constipation.",
+    "C": "Nitroglycerin lowers blood pressure and causes reflex tachycardia and headache, but it does not prolong the QT interval or cause constipation.",
+    "E": "Statins can cause hepatotoxicity with increased LFTs and myopathy, especially combined with fibrates or niacin; they do not prolong the QT interval."
+  },
+  "educationalObjective": "Ranolazine causes constipation, dizziness, headache, nausea, and QT prolongation while leaving heart rate and blood pressure unchanged.",
+  "source": "Generated from 7. Cardiovascular.pdf - Pharmacology: Ranolazine and sacubitril/valsartan"
+},
+{
+  "id": "cardio-307",
+  "subject": "Cardiovascular",
+  "major_topic": "Pharmacology",
+  "subtopic": "Ranolazine and sacubitril/valsartan",
+  "difficulty": "hard",
+  "vignette": "A 68-year-old man with heart failure with reduced ejection fraction (EF 30%) takes lisinopril. His cardiologist plans to transition him to sacubitril/valsartan because of persistent symptoms. The patient asks why the two drugs cannot be given together during the transition. He starts both medications, and two days later develops lip and tongue swelling with difficulty breathing.",
+  "question": "Which of the following best explains why concurrent use of sacubitril/valsartan with an ACE inhibitor is contraindicated?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Both drugs impair bradykinin degradation, so coadministration excessively increases bradykinin and its angioedema risk"
+    },
+    {
+      "id": "B",
+      "text": "Valsartan antagonizes the bradykinin receptor, causing paradoxical mast cell degranulation in the airway"
+    },
+    {
+      "id": "C",
+      "text": "Sacubitril directly releases histamine from mast cells, producing a type I hypersensitivity reaction"
+    },
+    {
+      "id": "D",
+      "text": "Neprilysin inhibition increases angiotensin II levels, which sensitizes airway mast cells to degranulate"
+    },
+    {
+      "id": "E",
+      "text": "ACE inhibitors and angiotensin receptor blockers cross-react immunologically because they share a common drug hapten"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Sacubitril inhibits neprilysin, preventing degradation of bradykinin, natriuretic peptides, angiotensin II, and substance P. ACE inhibitors also increase bradykinin (ACE degrades bradykinin). Given together, the two drugs additively increase bradykinin, which is why sacubitril/valsartan is contraindicated with ACE inhibitors due to angioedema.",
+  "explanation_incorrect": {
+    "B": "Sacubitril is an enzyme (neprilysin) inhibitor; direct histamine release from mast cells is not its mechanism, and the reaction is bradykinin-mediated rather than IgE-mediated.",
+    "C": "Neprilysin inhibition prevents the degradation of angiotensin II, but the clinically relevant hazard of the combination is bradykinin-mediated angioedema; valsartan simultaneously blocks the angiotensin II receptor.",
+    "D": "Angioedema here is a pharmacologic (bradykinin) effect, not an immunologic cross-reaction; ACE inhibitors and ARBs do not share an immunogenic hapten.",
+    "E": "Angioedema from sacubitril plus an ACE inhibitor is a pharmacologic bradykinin effect, not an immunologic cross-reaction. ACE inhibitors and ARBs are small molecules that do not share an immunogenic hapten; the danger is that both impair bradykinin breakdown."
+  },
+  "educationalObjective": "Sacubitril/valsartan is contraindicated with ACE inhibitors because both increase bradykinin (neprilysin inhibition and reduced bradykinin degradation), producing angioedema.",
+  "source": "Generated from 7. Cardiovascular.pdf - Pharmacology: Ranolazine and sacubitril/valsartan"
+}
+]

@@ -1,0 +1,125 @@
+[
+{
+  "id": "cardio-119",
+  "subject": "Cardiovascular",
+  "major_topic": "Physiology",
+  "subtopic": "Natriuretic peptides",
+  "difficulty": "easy",
+  "vignette": "A 55-year-old man with volume overload is being studied in a research protocol. Catheterization shows elevated pressure within the chamber whose myocytes release a peptide hormone in response to increased blood volume. The hormone acts via cGMP and causes vasodilation.",
+  "question": "Which chamber releases this peptide, and what is its effect on renal Na+ handling?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Atrial myocytes; it decreases Na+ reabsorption at the collecting tubule"
+    },
+    {
+      "id": "B",
+      "text": "Ventricular myocytes; it increases Na+ reabsorption at the collecting tubule"
+    },
+    {
+      "id": "C",
+      "text": "Juxtaglomerular cells; it increases Na+ reabsorption at the proximal tubule"
+    },
+    {
+      "id": "D",
+      "text": "Atrial myocytes; it increases Na+ reabsorption at the loop of Henle"
+    },
+    {
+      "id": "E",
+      "text": "Ventricular myocytes; it has no effect on renal Na+ handling"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Atrial natriuretic peptide (ANP) is released from atrial myocytes in response to increased blood volume and atrial pressure. It acts via cGMP and causes vasodilation and decreased Na+ reabsorption at the renal collecting tubule, promoting natriuresis and diuresis. It also dilates afferent renal arterioles and constricts efferent arterioles.",
+  "explanation_incorrect": {
+    "B": "Ventricular myocytes release BNP, not ANP, in response to increased tension; and the peptide decreases rather than increases Na+ reabsorption.",
+    "C": "Juxtaglomerular cells release renin, which increases Na+ reabsorption via angiotensin II and aldosterone — the opposite hormonal axis.",
+    "D": "The myocyte origin is correct for ANP, but ANP acts at the collecting tubule and decreases Na+ reabsorption there.",
+    "E": "The peptide's renal action is central to its physiology: it reduces Na+ reabsorption at the collecting tubule to promote diuresis."
+  },
+  "educationalObjective": "ANP is released from atrial myocytes in response to increased blood volume and acts via cGMP to decrease Na+ reabsorption at the collecting tubule.",
+  "source": "Generated from 7. Cardiovascular.pdf - Physiology: Natriuretic peptides"
+},
+{
+  "id": "cardio-120",
+  "subject": "Cardiovascular",
+  "major_topic": "Physiology",
+  "subtopic": "Natriuretic peptides",
+  "difficulty": "medium",
+  "vignette": "A 68-year-old woman with dyspnea on exertion and orthopnea undergoes a blood test to help evaluate whether her symptoms reflect cardiac dysfunction. Her physician notes that the test has a very good negative predictive value for ruling out heart failure.",
+  "question": "Which peptide is measured, and from where is it released?",
+  "options": [
+    {
+      "id": "A",
+      "text": "ANP, released from atrial myocytes in response to increased atrial pressure"
+    },
+    {
+      "id": "B",
+      "text": "Renin, released from juxtaglomerular cells in response to decreased perfusion"
+    },
+    {
+      "id": "C",
+      "text": "BNP, released from ventricular myocytes in response to increased ventricular tension"
+    },
+    {
+      "id": "D",
+      "text": "ADH, released from the posterior pituitary in response to increased osmolality"
+    },
+    {
+      "id": "E",
+      "text": "BNP, released from atrial myocytes in response to decreased blood volume"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "B-type (brain) natriuretic peptide (BNP) is released from ventricular myocytes in response to increased ventricular tension. It has similar physiologic actions to ANP (vasodilation, decreased distal Na+ reabsorption) but a longer half-life, making it clinically useful. The BNP blood test is used for diagnosing heart failure and has a very good negative predictive value — a low BNP effectively rules out HF.",
+  "explanation_incorrect": {
+    "A": "ANP is released from atrial myocytes and is not the standard serum test used to evaluate for heart failure.",
+    "B": "Renin marks activation of the RAAS and is not used with very good negative predictive value to exclude heart failure.",
+    "D": "ADH is a water-retaining hormone and is unrelated to the heart failure blood test described.",
+    "E": "BNP originates from ventricular myocytes (not atrial) and is released by increased tension, not decreased volume."
+  },
+  "educationalObjective": "BNP is released from ventricular myocytes in response to increased wall tension; its blood test has a very good negative predictive value for heart failure.",
+  "source": "Generated from 7. Cardiovascular.pdf - Physiology: Natriuretic peptides"
+},
+{
+  "id": "cardio-121",
+  "subject": "Cardiovascular",
+  "major_topic": "Physiology",
+  "subtopic": "Natriuretic peptides",
+  "difficulty": "hard",
+  "vignette": "A renal physiologist infuses a natriuretic peptide into an experimental preparation and measures single-nephron hemodynamics. She observes that the net filtration pressure within the glomerulus rises and urine output increases markedly. Later discussion notes that this peptide contributes to a phenomenon in which patients with volume expansion fail to show the expected rise in aldosterone effect.",
+  "question": "Which renal vascular actions of this peptide explain the observed increase in glomerular filtration and diuresis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Constriction of afferent arterioles and dilation of efferent arterioles"
+    },
+    {
+      "id": "B",
+      "text": "Constriction of both afferent and efferent arterioles"
+    },
+    {
+      "id": "C",
+      "text": "Dilation of efferent arterioles with no effect on afferent arterioles"
+    },
+    {
+      "id": "D",
+      "text": "No vascular effect; diuresis results solely from increased tubular Na+ reabsorption"
+    },
+    {
+      "id": "E",
+      "text": "Dilation of afferent arterioles and constriction of efferent arterioles"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "ANP dilates afferent renal arterioles and constricts efferent arterioles. Dilation of the afferent arteriole raises glomerular capillary hydrostatic pressure while constriction of the efferent arteriole further maintains it, increasing GFR and promoting diuresis. Together with decreased Na+ reabsorption at the collecting tubule, this promotes natriuresis and contributes to the \"aldosterone escape\" mechanism.",
+  "explanation_incorrect": {
+    "A": "This is the reverse of ANP's actual vascular actions; constricting the afferent arteriole would lower glomerular pressure and reduce filtration.",
+    "B": "Constricting both arterioles would reduce renal blood flow and would not raise glomerular capillary pressure to promote filtration.",
+    "C": "Isolated efferent dilation would lower glomerular hydrostatic pressure, decreasing rather than increasing GFR.",
+    "D": "ANP does have direct vascular effects on the renal arterioles; furthermore, it decreases — not increases — tubular Na+ reabsorption."
+  },
+  "educationalObjective": "ANP dilates afferent renal arterioles and constricts efferent arterioles, raising GFR and promoting diuresis as part of aldosterone escape.",
+  "source": "Generated from 7. Cardiovascular.pdf - Physiology: Natriuretic peptides"
+}
+]

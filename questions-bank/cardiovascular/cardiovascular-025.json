@@ -1,0 +1,207 @@
+[
+{
+  "id": "cardio-211",
+  "subject": "Cardiovascular",
+  "major_topic": "Pathology",
+  "subtopic": "Conduction blocks and premature beats",
+  "difficulty": "easy",
+  "vignette": "A 52-year-old asymptomatic man has a routine ECG performed before elective surgery. The PR interval measures 280 msec, every P wave is followed by a narrow QRS complex, and the PR interval is constant throughout the tracing. The ventricular rate is 66/min and he has no symptoms.",
+  "question": "Which of the following is the most appropriate management?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Dual-chamber pacemaker implantation"
+    },
+    {
+      "id": "B",
+      "text": "Intravenous atropine"
+    },
+    {
+      "id": "C",
+      "text": "Adenosine"
+    },
+    {
+      "id": "D",
+      "text": "No treatment required"
+    },
+    {
+      "id": "E",
+      "text": "Radiofrequency catheter ablation"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "A PR interval longer than 200 msec with every P wave conducted defines first-degree AV block. It is benign and asymptomatic, and no treatment is required.",
+  "explanation_incorrect": {
+    "A": "Pacemaker implantation is the treatment for high-grade blocks such as Mobitz type II or third-degree AV block, not for benign first-degree block.",
+    "B": "Atropine is used for symptomatic bradycardia; this patient has a normal rate and an asymptomatic, benign conduction finding.",
+    "C": "Adenosine transiently slows AV nodal conduction to terminate paroxysmal supraventricular tachycardia; it has no role in treating AV block.",
+    "E": "Catheter ablation is used for reentrant tachyarrhythmias (eg, PSVT, atrial flutter), not for first-degree AV block."
+  },
+  "educationalObjective": "First-degree AV block (PR >200 msec, all beats conducted) is benign and requires no treatment.",
+  "source": "Generated from 7. Cardiovascular.pdf - Pathology: Conduction blocks and premature beats"
+},
+{
+  "id": "cardio-212",
+  "subject": "Cardiovascular",
+  "major_topic": "Pathology",
+  "subtopic": "Conduction blocks and premature beats",
+  "difficulty": "medium",
+  "vignette": "A 58-year-old asymptomatic woman has an ECG performed before an elective procedure. The PR intervals measure 180, 220, 260, and 300 msec in successive beats, after which a P wave is not followed by a QRS complex; the cycle then repeats with the PR interval shortening again. The RR intervals vary but follow a recurring pattern.",
+  "question": "Which of the following is the most likely diagnosis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Mobitz type II second-degree AV block"
+    },
+    {
+      "id": "B",
+      "text": "Mobitz type I (Wenckebach) second-degree AV block"
+    },
+    {
+      "id": "C",
+      "text": "Third-degree (complete) AV block"
+    },
+    {
+      "id": "D",
+      "text": "First-degree AV block"
+    },
+    {
+      "id": "E",
+      "text": "Premature atrial contractions"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Progressive lengthening of the PR interval until a beat is dropped (a P wave not followed by a QRS complex) defines Mobitz type I (Wenckebach) second-degree AV block. The variable RR interval follows a pattern, making the rhythm regularly irregular. It usually requires no treatment because patients are usually asymptomatic.",
+  "explanation_incorrect": {
+    "A": "Mobitz type II produces dropped beats that are NOT preceded by any change in the PR interval; here the PR lengthens progressively before the dropped beat.",
+    "C": "Third-degree AV block shows P waves and QRS complexes that are rhythmically dissociated with an atrial rate greater than the ventricular rate, not progressive PR prolongation.",
+    "D": "First-degree AV block shows a constant prolonged PR interval with every P wave conducted; no beats are dropped.",
+    "E": "Premature atrial contractions are early extra beats with a narrow QRS complex and a preceding P wave, not a repeating pattern of progressive PR lengthening ending in a dropped beat."
+  },
+  "educationalObjective": "Mobitz type I (Wenckebach) block shows progressive PR lengthening until a dropped beat, producing a regularly irregular rhythm; it is usually asymptomatic and needs no treatment.",
+  "source": "Generated from 7. Cardiovascular.pdf - Pathology: Conduction blocks and premature beats"
+},
+{
+  "id": "cardio-213",
+  "subject": "Cardiovascular",
+  "major_topic": "Pathology",
+  "subtopic": "Conduction blocks and premature beats",
+  "difficulty": "medium",
+  "vignette": "A 72-year-old man with a history of coronary ischemia presents with lightheadedness. ECG shows several P waves that are not followed by QRS complexes; the dropped beats occur without any preceding change in the PR interval, which remains constant at 180 msec. The cardiologist warns that this conduction abnormality may deteriorate further.",
+  "question": "Which of the following is the most appropriate next step in management?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Reassurance with observation alone"
+    },
+    {
+      "id": "B",
+      "text": "Digoxin"
+    },
+    {
+      "id": "C",
+      "text": "Adenosine"
+    },
+    {
+      "id": "D",
+      "text": "Vagal maneuvers"
+    },
+    {
+      "id": "E",
+      "text": "Pacemaker implantation"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Dropped beats that are not preceded by a change in the PR interval define Mobitz type II second-degree AV block. It usually indicates a structural abnormality such as ischemia or fibrosis, may progress to third-degree (complete) AV block, and is therefore usually treated with a pacemaker.",
+  "explanation_incorrect": {
+    "A": "Observation alone is inappropriate because Mobitz type II reflects structural disease and may progress to third-degree (complete) AV block.",
+    "B": "Digoxin slows AV nodal conduction and is used for rate control in atrial fibrillation; it does not treat high-grade AV block.",
+    "C": "Adenosine transiently slows AV nodal conduction to break reentrant SVT; it is not a therapy for AV block.",
+    "D": "Vagal maneuvers slow AV nodal conduction and are used to terminate PSVT; they would not address, and could worsen, impaired AV conduction."
+  },
+  "educationalObjective": "Mobitz type II block — dropped beats without PR change — signals structural disease (ischemia, fibrosis), may progress to complete heart block, and is usually managed with a pacemaker.",
+  "source": "Generated from 7. Cardiovascular.pdf - Pathology: Conduction blocks and premature beats"
+},
+{
+  "id": "cardio-214",
+  "subject": "Cardiovascular",
+  "major_topic": "Pathology",
+  "subtopic": "Conduction blocks and premature beats",
+  "difficulty": "hard",
+  "vignette": "A 42-year-old man presents with fatigue and near-syncope. His pulse is 38/min and regular. ECG shows P waves and QRS complexes occurring completely independently of each other, with an atrial rate of 88/min and a ventricular rate of 38/min. Three months ago he spent a summer hiking in Connecticut and developed an expanding erythematous rash with central clearing that resolved without treatment, followed by intermittent joint pains. Serologic testing is positive for IgG antibodies against Borrelia burgdorferi.",
+  "question": "Which of the following is the most likely cause of this patient's arrhythmia?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Age-related degeneration of the SA node"
+    },
+    {
+      "id": "B",
+      "text": "Recent viral myocarditis"
+    },
+    {
+      "id": "C",
+      "text": "Disseminated Lyme disease (Borrelia burgdorferi)"
+    },
+    {
+      "id": "D",
+      "text": "Acute rheumatic fever"
+    },
+    {
+      "id": "E",
+      "text": "Frequent premature ventricular contractions"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "The ECG shows third-degree (complete) AV block: P waves and QRS complexes are rhythmically dissociated, the atria and ventricles beat independently, and the atrial rate exceeds the ventricular rate. Third-degree AV block may be caused by Lyme disease, and this patient's exposure history, erythema migrans-like rash, and positive Borrelia burgdorferi serology fit disseminated Lyme disease. Treatment of the block is with a pacemaker.",
+  "explanation_incorrect": {
+    "A": "Age-related SA node degeneration describes sick sinus syndrome, which produces bradycardia, sinus pauses, sinus arrests, and junctional escape beats — not complete AV dissociation.",
+    "B": "Viral myocarditis is not the cause suggested by this vignette; the rash, joint pains, and positive Borrelia burgdorferi serology point to Lyme disease.",
+    "D": "Acute rheumatic fever is not the listed infectious cause of complete heart block; the epidemiologic and serologic findings here indicate Lyme disease.",
+    "E": "Premature ventricular contractions are isolated early wide QRS complexes without preceding P waves; they do not produce sustained dissociation of atrial and ventricular activity."
+  },
+  "educationalObjective": "Third-degree AV block shows complete AV dissociation with atrial rate greater than ventricular rate, may be caused by Lyme disease, and is treated with a pacemaker.",
+  "source": "Generated from 7. Cardiovascular.pdf - Pathology: Conduction blocks and premature beats"
+},
+{
+  "id": "cardio-215",
+  "subject": "Cardiovascular",
+  "major_topic": "Pathology",
+  "subtopic": "Conduction blocks and premature beats",
+  "difficulty": "easy",
+  "vignette": "A 61-year-old man without structural heart disease reports an awareness of a skipped beat. Ambulatory monitoring captures an isolated early QRS complex measuring 140 msec with no preceding P wave, followed by a brief pause. Doppler assessment of that beat shows a stroke volume lower than that of the surrounding normal beats.",
+  "question": "Which of the following best explains the reduced stroke volume of the premature beat in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Shortened diastolic filling time reduces preload and thus stroke volume"
+    },
+    {
+      "id": "B",
+      "text": "Loss of atrial contraction eliminates the atrial kick"
+    },
+    {
+      "id": "C",
+      "text": "Reduced contractility due to scarred myocardium"
+    },
+    {
+      "id": "D",
+      "text": "Premature opening of the aortic valve shortens ejection time"
+    },
+    {
+      "id": "E",
+      "text": "Prolonged conduction through the AV node delays ventricular activation"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "This is a premature ventricular contraction: an ectopic beat arising from the ventricle instead of the SA node, seen on ECG as a wide QRS complex with no preceding P wave. Because it occurs early, the shortened diastolic filling time reduces stroke volume compared to a normal beat. The prognosis of PVCs is largely influenced by the presence of underlying heart disease.",
+  "explanation_incorrect": {
+    "B": "Loss of the atrial kick is the mechanism of reduced filling in atrial fibrillation; a PVC's reduced output is specifically due to the shortened diastolic filling time before the early beat.",
+    "C": "This patient has no structural heart disease; scar-related contractile dysfunction is not the mechanism of the reduced stroke volume.",
+    "D": "The aortic valve does not open prematurely; the beat ejects less because inadequate diastolic filling reduced preload, not because ejection was truncated at the valve.",
+    "E": "PVCs arise from ventricular ectopic tissue independently of AV nodal conduction; their wide QRS reflects slow myocyte-to-myocyte ventricular activation, not AV nodal delay."
+  },
+  "educationalObjective": "A premature ventricular contraction is a wide QRS without a preceding P wave whose shortened diastolic filling time reduces stroke volume.",
+  "source": "Generated from 7. Cardiovascular.pdf - Pathology: Conduction blocks and premature beats"
+}
+]

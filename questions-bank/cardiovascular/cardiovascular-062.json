@@ -1,0 +1,166 @@
+[
+{
+  "id": "cardio-065",
+  "subject": "Cardiovascular",
+  "major_topic": "Physiology",
+  "subtopic": "Resistance, pressure, and flow",
+  "difficulty": "easy",
+  "vignette": "A medical student is reviewing the hemodynamic properties of each segment of the systemic circulation, including the large elastic arteries, arterioles, capillaries, venules, and veins.",
+  "question": "Which segment accounts for the greatest share of total peripheral resistance?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Large elastic arteries"
+    },
+    {
+      "id": "B",
+      "text": "Capillaries"
+    },
+    {
+      "id": "C",
+      "text": "Venules"
+    },
+    {
+      "id": "D",
+      "text": "Arterioles"
+    },
+    {
+      "id": "E",
+      "text": "Veins"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Arterioles are the principal resistance vessels of the systemic circulation and account for most of total peripheral resistance. Veins, by contrast, provide most of the blood storage capacity, while capillaries have the highest total cross-sectional area and lowest flow velocity.",
+  "explanation_incorrect": {
+    "A": "Large elastic arteries serve as compliance vessels that cushion pressure pulsations; they contribute relatively little to total peripheral resistance.",
+    "B": "Although each capillary is tiny, their enormous total cross-sectional area in parallel makes their contribution to total peripheral resistance less than that of the arterioles.",
+    "C": "Venules are low-resistance collecting vessels and do not contribute the majority of total peripheral resistance.",
+    "E": "Veins are high-compliance, low-resistance vessels that serve as the main blood reservoir rather than the main resistance site."
+  },
+  "educationalObjective": "Arterioles account for most of total peripheral resistance, while veins provide most of the blood storage capacity.",
+  "source": "Generated from 7. Cardiovascular.pdf - Physiology: Resistance, pressure, and flow"
+},
+{
+  "id": "cardio-066",
+  "subject": "Cardiovascular",
+  "major_topic": "Physiology",
+  "subtopic": "Resistance, pressure, and flow",
+  "difficulty": "easy",
+  "vignette": "During a hemodynamics lecture, the instructor asks which part of the circulation has the lowest linear velocity of blood flow even though the same volumetric flow passes through it, making it ideal for exchange of gases and nutrients.",
+  "question": "Which vascular segment is being described?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Aorta"
+    },
+    {
+      "id": "B",
+      "text": "Capillaries"
+    },
+    {
+      "id": "C",
+      "text": "Arterioles"
+    },
+    {
+      "id": "D",
+      "text": "Large veins"
+    },
+    {
+      "id": "E",
+      "text": "Pulmonary artery"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Volumetric flow rate equals flow velocity times cross-sectional area (Q = v × A). The capillaries collectively have the highest total cross-sectional area of any vascular bed, so for a given flow their velocity is the lowest in the circulation, permitting maximal time for exchange.",
+  "explanation_incorrect": {
+    "A": "The aorta has the largest single-vessel cross-section but a far smaller total cross-sectional area than the capillary bed, so its flow velocity is high, not low.",
+    "C": "Arterioles have a small total cross-sectional area, high resistance, and relatively fast velocity; they are the main resistance vessels, not the slowest flow site.",
+    "D": "Veins are capacitance vessels with large capacity but not the highest total cross-sectional area, and their velocity is not the lowest in the circulation.",
+    "E": "The pulmonary artery is a large conduit vessel with high velocity; it is not the segment of slowest flow."
+  },
+  "educationalObjective": "Because capillaries have the highest total cross-sectional area, they have the lowest flow velocity (Q = velocity × cross-sectional area).",
+  "source": "Generated from 7. Cardiovascular.pdf - Physiology: Resistance, pressure, and flow"
+},
+{
+  "id": "cardio-067",
+  "subject": "Cardiovascular",
+  "major_topic": "Physiology",
+  "subtopic": "Resistance, pressure, and flow",
+  "difficulty": "medium",
+  "vignette": "A 61-year-old man with polycythemia vera has a hematocrit of 62%. His physician discusses with him the effect of this elevated red cell mass on the circulatory system.",
+  "question": "How does this patient's elevated hematocrit most directly affect his circulation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Blood viscosity is decreased, lowering resistance to flow"
+    },
+    {
+      "id": "B",
+      "text": "Blood viscosity is unchanged, because it depends mainly on plasma protein concentration"
+    },
+    {
+      "id": "C",
+      "text": "Vascular resistance is decreased because of the increased red cell mass"
+    },
+    {
+      "id": "D",
+      "text": "Capillary flow velocity increases because of the increased total cross-sectional area"
+    },
+    {
+      "id": "E",
+      "text": "Blood viscosity is increased, raising resistance and reducing flow for a given pressure gradient"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Viscosity depends mostly on hematocrit and increases in polycythemia (and in hyperproteinemic states such as multiple myeloma). Because resistance rises with viscosity in the Poiseuille relationship, a higher viscosity means higher resistance and lower flow for any given driving pressure.",
+  "explanation_incorrect": {
+    "A": "Polycythemia increases, not decreases, viscosity; decreased viscosity is seen in anemia.",
+    "B": "Plasma protein elevation (eg, multiple myeloma) also raises viscosity, but the dominant determinant of blood viscosity is hematocrit, which is markedly elevated here.",
+    "C": "Increased red cell mass raises viscosity and therefore resistance; it does not lower vascular resistance.",
+    "D": "Capillaries have the highest total cross-sectional area independent of hematocrit, and viscosity does not increase their flow velocity."
+  },
+  "educationalObjective": "Blood viscosity depends mostly on hematocrit: it is increased in polycythemia and hyperproteinemic states (eg, multiple myeloma) and decreased in anemia.",
+  "source": "Generated from 7. Cardiovascular.pdf - Physiology: Resistance, pressure, and flow"
+},
+{
+  "id": "cardio-068",
+  "subject": "Cardiovascular",
+  "major_topic": "Physiology",
+  "subtopic": "Resistance, pressure, and flow",
+  "difficulty": "hard",
+  "vignette": "An artery with an original radius of 2 mm develops concentric intimal thickening that uniformly reduces its radius to 1 mm. The vessel length, the pressure gradient along it, and blood viscosity are unchanged.",
+  "question": "How have resistance and volumetric flow through this artery changed?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Resistance increased 16-fold, and flow decreased to 1/16 of its original value"
+    },
+    {
+      "id": "B",
+      "text": "Resistance increased 4-fold, and flow decreased to 1/4 of its original value"
+    },
+    {
+      "id": "C",
+      "text": "Resistance increased 2-fold, and flow decreased to half of its original value"
+    },
+    {
+      "id": "D",
+      "text": "Resistance increased 8-fold, and flow decreased to 1/8 of its original value"
+    },
+    {
+      "id": "E",
+      "text": "Resistance increased 32-fold, and flow decreased to 1/32 of its original value"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Resistance is proportional to 1/r^4. Halving the radius (2 mm to 1 mm) multiplies resistance by 2^4 = 16. With the pressure gradient and viscosity unchanged, flow (Q = ΔP/R) falls to 1/16 of its original value, illustrating the enormous influence of radius on flow.",
+  "explanation_incorrect": {
+    "B": "A 4-fold change would follow if resistance varied with r^2 rather than r^4; the Poiseuille relationship has the fourth power of the radius in the denominator.",
+    "C": "A 2-fold change incorrectly treats resistance as directly proportional to the radius instead of inversely proportional to r^4.",
+    "D": "An 8-fold change would correspond to an r^3 relationship; viscosity (η) is the third-power-looking factor only in the numerator (8ηL), not the radius term.",
+    "E": "A 32-fold change overestimates the exponent; the radius enters as r^4, so halving the radius gives exactly a 16-fold resistance increase."
+  },
+  "educationalObjective": "In Poiseuille's law, resistance is proportional to 1/r^4, so halving a vessel's radius increases resistance 16-fold and reduces flow to 1/16.",
+  "source": "Generated from 7. Cardiovascular.pdf - Physiology: Resistance, pressure, and flow"
+}
+]

@@ -1,0 +1,207 @@
+[
+{
+  "id": "cardio-318",
+  "subject": "Cardiovascular",
+  "major_topic": "Pharmacology",
+  "subtopic": "Class I antiarrhythmics: sodium channel blockers",
+  "difficulty": "easy",
+  "vignette": "A 55-year-old woman with reentrant supraventricular tachycardia has been taking an oral class IA antiarrhythmic for eight months. She returns with fatigue, arthralgias, a rash across her cheeks, and pleuritic chest pain. Antinuclear antibody testing is positive. Her symptoms resolve completely after the medication is discontinued.",
+  "question": "Which of the following is the most likely medication?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Lidocaine"
+    },
+    {
+      "id": "B",
+      "text": "Disopyramide"
+    },
+    {
+      "id": "C",
+      "text": "Quinidine"
+    },
+    {
+      "id": "D",
+      "text": "Mexiletine"
+    },
+    {
+      "id": "E",
+      "text": "Procainamide"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Procainamide, a class IA sodium channel blocker, causes a reversible lupus erythematosus-like syndrome (arthralgias, rash, positive ANA) that resolves when the drug is stopped. Class IA agents also carry other adverse effects such as torsades de pointes from QT prolongation.",
+  "explanation_incorrect": {
+    "A": "Lidocaine is a class IB agent used for acute ventricular arrhythmias; its adverse effects are CNS stimulation or depression and cardiovascular depression, not a lupus-like syndrome.",
+    "B": "Disopyramide is a class IA agent whose characteristic adverse effect is heart failure, not a reversible SLE-like syndrome.",
+    "C": "Quinidine is a class IA agent that causes cinchonism (headache, tinnitus) and thrombocytopenia, not the classic drug-induced lupus picture.",
+    "D": "Mexiletine is a class IB agent (an oral lidocaine analogue); its adverse effects are CNS and cardiovascular depression rather than drug-induced lupus."
+  },
+  "educationalObjective": "Procainamide causes a reversible SLE-like syndrome; among class IA agents, cinchonism points to quinidine and heart failure to disopyramide.",
+  "source": "Generated from 7. Cardiovascular.pdf - Pharmacology: Class I antiarrhythmics: sodium channel blockers"
+},
+{
+  "id": "cardio-319",
+  "subject": "Cardiovascular",
+  "major_topic": "Pharmacology",
+  "subtopic": "Class I antiarrhythmics: sodium channel blockers",
+  "difficulty": "medium",
+  "vignette": "A 64-year-old man takes a class I sodium channel blocker for ventricular arrhythmias. He and his physician notice that his ectopic beats are best suppressed on days when his heart rate is faster. His physician explains that the drug's effect is greater at higher heart rates, a property known as use dependence.",
+  "question": "Which of the following best explains why class I antiarrhythmics have a greater effect at faster heart rates?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Faster heart rates increase hepatic clearance of the drug, raising its serum concentration"
+    },
+    {
+      "id": "B",
+      "text": "At higher heart rates, sodium channels spend less time in the resting state, leaving less time for the drug to dissociate from its receptor"
+    },
+    {
+      "id": "C",
+      "text": "Tachycardia hyperpolarizes the resting membrane potential, exposing more sodium channels to the drug"
+    },
+    {
+      "id": "D",
+      "text": "Faster rates shorten the action potential, concentrating the drug within the sodium channel pore"
+    },
+    {
+      "id": "E",
+      "text": "Increased heart rate upregulates sodium channel expression, providing more binding targets"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Class I agents show state (use) dependence: at higher heart rates, diastole is shorter, so sodium channels spend less time in the resting state, which is when the drugs dissociate from their receptors. With less time to dissociate, more channels remain blocked, and the conduction-slowing effect increases.",
+  "explanation_incorrect": {
+    "A": "Hepatic clearance would tend to lower, not raise, serum drug levels at higher metabolic rates; use dependence is a channel-binding phenomenon, not a pharmacokinetic one.",
+    "C": "Use dependence does not involve membrane hyperpolarization; it depends on the time the channel spends in the resting (dissociation-permissive) state.",
+    "D": "Shortening of the action potential is a property of class IB drugs, and drug concentration within the pore is not the mechanism of use dependence.",
+    "E": "Channel expression is not acutely upregulated by tachycardia; the effect reflects the fraction of time channels spend in the resting state."
+  },
+  "educationalObjective": "Class I antiarrhythmics are use-dependent: faster heart rates give sodium channels less resting time to allow drug dissociation, so blockade increases.",
+  "source": "Generated from 7. Cardiovascular.pdf - Pharmacology: Class I antiarrhythmics: sodium channel blockers"
+},
+{
+  "id": "cardio-320",
+  "subject": "Cardiovascular",
+  "major_topic": "Pharmacology",
+  "subtopic": "Class I antiarrhythmics: sodium channel blockers",
+  "difficulty": "medium",
+  "vignette": "A 66-year-old man presents six hours after the onset of crushing chest pain. ECG shows ST-segment elevation in leads V1-V4 and cardiac biomarkers are elevated. During monitoring he has several runs of monomorphic ventricular tachycardia, and a weak sodium channel blocker that shortens the action potential duration is chosen.",
+  "question": "Which of the following best describes why this drug class is particularly suited to treating ischemic ventricular arrhythmias?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Strong sodium channel blockade with significant prolongation of the effective refractory period in Purkinje and ventricular tissue"
+    },
+    {
+      "id": "B",
+      "text": "Prolongation of the action potential duration in depolarized ischemic cells"
+    },
+    {
+      "id": "C",
+      "text": "Potassium channel blockade with QT prolongation and suppression of abnormal pacemakers"
+    },
+    {
+      "id": "D",
+      "text": "Weak sodium channel blockade with a preferential effect on ischemic or depolarized Purkinje and ventricular tissue"
+    },
+    {
+      "id": "E",
+      "text": "Reduction of cAMP and calcium currents, suppressing abnormal pacemaker activity"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Class IB agents (lidocaine, mexiletine) produce weak sodium channel blockade, decrease the action potential duration, and preferentially affect ischemic or depolarized Purkinje and ventricular tissue - exactly the substrate after acute myocardial infarction ('IB is Best post-MI'). They are also used for digitalis-induced arrhythmias.",
+  "explanation_incorrect": {
+    "A": "Strong sodium channel blockade with prolonged ERP in AV node and accessory pathways, with no effect on Purkinje/ventricular ERP, describes class IC agents - which are contraindicated post-MI.",
+    "B": "Class IB agents decrease, not prolong, the action potential duration; action potential prolongation is the hallmark of class IA and III agents.",
+    "C": "Potassium channel blockade with QT prolongation describes class III agents; they do not preferentially target depolarized ischemic tissue.",
+    "E": "Reduced cAMP and calcium currents with suppression of abnormal pacemakers is the mechanism of class II beta-blockers, not a class IB sodium channel blocker."
+  },
+  "educationalObjective": "Class IB agents (lidocaine, mexiletine) weakly block sodium channels, shorten the action potential, and preferentially affect ischemic or depolarized Purkinje and ventricular tissue - ideal for acute post-MI ventricular arrhythmias.",
+  "source": "Generated from 7. Cardiovascular.pdf - Pharmacology: Class I antiarrhythmics: sodium channel blockers"
+},
+{
+  "id": "cardio-321",
+  "subject": "Cardiovascular",
+  "major_topic": "Pharmacology",
+  "subtopic": "Class I antiarrhythmics: sodium channel blockers",
+  "difficulty": "hard",
+  "vignette": "A 63-year-old man with a prior anterior myocardial infarction and an EF of 33% develops symptomatic paroxysmal atrial fibrillation. He is prescribed flecainide. Two weeks later he is brought to the emergency department after a witnessed collapse, and the monitor shows sustained monomorphic ventricular tachycardia.",
+  "question": "Which of the following best explains why this outcome was foreseeable?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Class IC agents are proarrhythmic, especially post-MI, and are contraindicated in structural and ischemic heart disease"
+    },
+    {
+      "id": "B",
+      "text": "Class IC agents shorten the QT interval, promoting reentry across scarred myocardium"
+    },
+    {
+      "id": "C",
+      "text": "Class IC agents strongly block potassium channels, causing bradycardia-dependent torsades de pointes"
+    },
+    {
+      "id": "D",
+      "text": "Class IC agents increase conduction through accessory pathways, allowing 1:1 conduction of atrial fibrillation"
+    },
+    {
+      "id": "E",
+      "text": "Class IC agents decrease the slope of phase 4 depolarization, precipitating sinus arrest"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Flecainide is a class IC agent: strong sodium channel blockade with significantly prolonged ERP in the AV node and accessory bypass tracts, but no effect on ERP in Purkinje and ventricular tissue and minimal effect on action potential duration. Class IC agents are proarrhythmic, especially post-MI, and are contraindicated in structural and ischemic heart disease - both present in this patient.",
+  "explanation_incorrect": {
+    "B": "Strong potassium channel blockade with QT prolongation and torsades risk characterizes class IA and III agents; class IC agents are sodium channel blockers.",
+    "C": "Conduction through accessory pathways is a concern of preexcited arrhythmias; the danger here is proarrhythmia in scarred, ischemic ventricular myocardium.",
+    "D": "Decreasing the slope of phase 4 depolarization is the mechanism of class II beta-blockers (and ivabradine's funny-current inhibition), not of class IC sodium channel blockers.",
+    "E": "Decreasing the slope of phase 4 depolarization is the mechanism of class II beta-blockers (and ivabradine via funny-current inhibition), not of class IC sodium channel blockers. Class IC drugs act on phase 0 upstroke and strongly slow conduction in ischemic tissue, which is why they are proarrhythmic after myocardial infarction."
+  },
+  "educationalObjective": "Class IC agents (flecainide, propafenone) are contraindicated in structural and ischemic heart disease because they are proarrhythmic, especially post-MI.",
+  "source": "Generated from 7. Cardiovascular.pdf - Pharmacology: Class I antiarrhythmics: sodium channel blockers"
+},
+{
+  "id": "cardio-322",
+  "subject": "Cardiovascular",
+  "major_topic": "Pharmacology",
+  "subtopic": "Class I antiarrhythmics: sodium channel blockers",
+  "difficulty": "medium",
+  "vignette": "A 60-year-old man with atrial flutter is treated with an oral class IA antiarrhythmic. He develops a persistent headache and ringing in his ears. His ECG shows a QTc that has lengthened from 440 to 505 msec.",
+  "question": "Which of the following is the most likely medication?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Disopyramide"
+    },
+    {
+      "id": "B",
+      "text": "Mexiletine"
+    },
+    {
+      "id": "C",
+      "text": "Quinidine"
+    },
+    {
+      "id": "D",
+      "text": "Propafenone"
+    },
+    {
+      "id": "E",
+      "text": "Sotalol"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Quinidine, a class IA sodium channel blocker, causes cinchonism - headache and tinnitus. Like other class IA agents it moderately blocks sodium channels, prolongs the action potential duration and QT interval, and can cause torsades de pointes.",
+  "explanation_incorrect": {
+    "A": "Disopyramide is a class IA agent whose characteristic toxicity is heart failure, not cinchonism.",
+    "B": "Mexiletine is a class IB agent; it shortens the action potential duration and causes CNS stimulation or depression rather than headache with tinnitus.",
+    "D": "Propafenone is a class IC agent; it strongly blocks sodium channels and is proarrhythmic post-MI, but does not cause cinchonism.",
+    "E": "Sotalol is a class III agent with beta-blocking activity; it prolongs the QT interval and can cause torsades, but headache and tinnitus (cinchonism) are not its adverse effects."
+  },
+  "educationalObjective": "Cinchonism (headache, tinnitus) is the characteristic adverse effect of quinidine, a class IA sodium channel blocker.",
+  "source": "Generated from 7. Cardiovascular.pdf - Pharmacology: Class I antiarrhythmics: sodium channel blockers"
+}
+]

@@ -1,0 +1,248 @@
+[
+{
+  "id": "cardio-048",
+  "subject": "Cardiovascular",
+  "major_topic": "Physiology",
+  "subtopic": "Cardiac output, ejection fraction, and MAP equations",
+  "difficulty": "medium",
+  "vignette": "A 64-year-old man with exertional dyspnea undergoes echocardiography, which measures a left ventricular end-diastolic volume of 125 mL and an end-systolic volume of 50 mL.",
+  "question": "Which of the following is this patient's ejection fraction?",
+  "options": [
+    {
+      "id": "A",
+      "text": "40%"
+    },
+    {
+      "id": "B",
+      "text": "75%"
+    },
+    {
+      "id": "C",
+      "text": "150%"
+    },
+    {
+      "id": "D",
+      "text": "60%"
+    },
+    {
+      "id": "E",
+      "text": "It cannot be calculated without knowing the heart rate and cardiac output"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Stroke volume = EDV − ESV = 125 − 50 = 75 mL, and ejection fraction = SV/EDV = 75/125 = 0.60, or 60%. Ejection fraction is an index of ventricular contractility; it is decreased in systolic heart failure and usually normal in diastolic heart failure, with a normal range of 50%-70%.",
+  "explanation_incorrect": {
+    "A": "40% results from inverting the ratio and computing ESV/EDV (50/125) instead of SV/EDV.",
+    "B": "75% is the stroke volume (75 mL) mistakenly reported as a percentage; the stroke volume must be divided by the end-diastolic volume.",
+    "C": "150% results from computing SV/ESV (75/50), using the end-systolic volume as the denominator instead of the end-diastolic volume.",
+    "E": "Ejection fraction requires only EDV and ESV; heart rate and cardiac output are not needed (EF = SV/EDV)."
+  },
+  "educationalObjective": "EF = SV/EDV = (EDV − ESV)/EDV; normal EF is 50%-70% and it is an index of ventricular contractility.",
+  "source": "Generated from 7. Cardiovascular.pdf - Physiology: Cardiac output, ejection fraction, and MAP equations"
+},
+{
+  "id": "cardio-049",
+  "subject": "Cardiovascular",
+  "major_topic": "Physiology",
+  "subtopic": "Cardiac output, ejection fraction, and MAP equations",
+  "difficulty": "easy",
+  "vignette": "A healthy 20-year-old student has an echocardiographic stroke volume of 70 mL and a resting heart rate of 80/min.",
+  "question": "What is this student's cardiac output?",
+  "options": [
+    {
+      "id": "A",
+      "text": "5.6 L/min"
+    },
+    {
+      "id": "B",
+      "text": "0.9 L/min"
+    },
+    {
+      "id": "C",
+      "text": "11.2 L/min"
+    },
+    {
+      "id": "D",
+      "text": "5.6 mL/min"
+    },
+    {
+      "id": "E",
+      "text": "80 mL/min"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Cardiac output = stroke volume × heart rate = 70 mL × 80/min = 5600 mL/min = 5.6 L/min, a normal resting value. By the Fick principle, CO can alternatively be computed as the rate of O2 consumption divided by (arterial O2 content − venous O2 content).",
+  "explanation_incorrect": {
+    "B": "0.9 L/min results from dividing (70/80) instead of multiplying stroke volume by heart rate.",
+    "C": "11.2 L/min results from erroneously multiplying the correct product by 2; no doubling factor applies at a resting heart rate of 80/min.",
+    "D": "5.6 mL/min reflects a unit conversion error: 70 × 80 = 5600 mL/min, which is 5.6 L/min, not 5.6 mL/min.",
+    "E": "80 mL/min simply restates the heart rate as a flow and ignores the stroke volume term."
+  },
+  "educationalObjective": "Cardiac output = stroke volume × heart rate (also derivable by the Fick principle: O2 consumption / arterial-venous O2 content difference).",
+  "source": "Generated from 7. Cardiovascular.pdf - Physiology: Cardiac output, ejection fraction, and MAP equations"
+},
+{
+  "id": "cardio-050",
+  "subject": "Cardiovascular",
+  "major_topic": "Physiology",
+  "subtopic": "Cardiac output, ejection fraction, and MAP equations",
+  "difficulty": "hard",
+  "vignette": "A trained 25-year-old cyclist undergoes a graded exercise test to exhaustion. Early in the test, both his heart rate and stroke volume rise, and cardiac output climbs from 5 L/min toward 20 L/min. As the test approaches its most demanding stages, his physician notes that stroke volume has plateaued while cardiac output continues to increase.",
+  "question": "What mechanism maintains the continued rise in cardiac output during the later stages of exercise in this athlete?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Continued increases in stroke volume from increasing preload"
+    },
+    {
+      "id": "B",
+      "text": "Increased total peripheral resistance augmenting blood pressure"
+    },
+    {
+      "id": "C",
+      "text": "Progressive reduction in venous return shunting blood to the heart"
+    },
+    {
+      "id": "D",
+      "text": "Falling heart rate with longer diastolic filling times"
+    },
+    {
+      "id": "E",
+      "text": "Further increases in heart rate only, since stroke volume plateaus"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "In the early stages of exercise, cardiac output is maintained by increases in both heart rate and stroke volume. In later stages, stroke volume plateaus, so the continued rise in cardiac output is maintained by increased heart rate alone.",
+  "explanation_incorrect": {
+    "A": "Stroke volume plateaus in late exercise, so preload-driven increases in SV cannot account for the continued rise in cardiac output at that point.",
+    "B": "Total peripheral resistance falls during dynamic exercise (vasodilation in muscle); resistance does not drive the rise in cardiac output.",
+    "C": "Venous return increases during exercise via the muscle pump; it does not progressively fall, and reduced return would lower cardiac output.",
+    "D": "Heart rate rises throughout exercise; a falling heart rate with prolonged filling would reduce cardiac output."
+  },
+  "educationalObjective": "Early exercise raises cardiac output via increased heart rate and stroke volume; in later stages, stroke volume plateaus and only heart rate continues to rise.",
+  "source": "Generated from 7. Cardiovascular.pdf - Physiology: Cardiac output, ejection fraction, and MAP equations"
+},
+{
+  "id": "cardio-051",
+  "subject": "Cardiovascular",
+  "major_topic": "Physiology",
+  "subtopic": "Cardiac output, ejection fraction, and MAP equations",
+  "difficulty": "medium",
+  "vignette": "A 25-year-old man with no prior cardiac history presents with palpitations and presyncope. The monitor shows a wide-complex tachycardia at a rate of 210/min, and his blood pressure is 78/50 mm Hg. Myocardial contractility and venous return are otherwise normal.",
+  "question": "Which mechanism best explains the reduced cardiac output in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Decreased contractility secondary to metabolic acidosis"
+    },
+    {
+      "id": "B",
+      "text": "Increased afterload from elevated systemic vascular resistance"
+    },
+    {
+      "id": "C",
+      "text": "Markedly shortened diastole reducing ventricular filling time and stroke volume"
+    },
+    {
+      "id": "D",
+      "text": "Decreased venous return from peripheral venous vasodilation"
+    },
+    {
+      "id": "E",
+      "text": "Loss of the atrial contribution to ventricular filling"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Diastole is markedly shortened at extreme heart rates (eg, ventricular tachycardia), reducing diastolic filling time. The ventricles fill less completely, so end-diastolic volume and stroke volume fall, and cardiac output (CO = SV × HR) drops despite the rapid rate. This is why a tachyarrhythmia can produce hypotension even with normal contractility.",
+  "explanation_incorrect": {
+    "A": "The stem specifies that contractility is normal; rate-related filling failure, not acidosis, explains the low output.",
+    "B": "Afterload is not increased here — the problem is insufficient filling time at extreme rates, not elevated resistance.",
+    "D": "Venous return is stated to be normal; peripheral venous vasodilation (eg, sepsis) is not the mechanism in ventricular tachycardia.",
+    "E": "Loss of atrial kick matters in atrial fibrillation but is a minor contributor; with a ventricular tachycardia the dominant issue is the severely shortened diastolic filling time."
+  },
+  "educationalObjective": "Extreme tachycardia shortens diastole → decreased filling time → decreased SV → decreased CO.",
+  "source": "Generated from 7. Cardiovascular.pdf - Physiology: Cardiac output, ejection fraction, and MAP equations"
+},
+{
+  "id": "cardio-052",
+  "subject": "Cardiovascular",
+  "major_topic": "Physiology",
+  "subtopic": "Cardiac output, ejection fraction, and MAP equations",
+  "difficulty": "medium",
+  "vignette": "A 52-year-old man has his blood pressure measured at an annual visit: 150/90 mm Hg. His physician calculates his mean arterial pressure to document the burden of his hypertension.",
+  "question": "What is this patient's mean arterial pressure at this resting heart rate?",
+  "options": [
+    {
+      "id": "A",
+      "text": "90 mm Hg"
+    },
+    {
+      "id": "B",
+      "text": "110 mm Hg"
+    },
+    {
+      "id": "C",
+      "text": "120 mm Hg"
+    },
+    {
+      "id": "D",
+      "text": "130 mm Hg"
+    },
+    {
+      "id": "E",
+      "text": "150 mm Hg"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "At resting heart rate, MAP = 2/3 DBP + 1/3 SBP = (2/3 × 90) + (1/3 × 150) = 60 + 50 = 110 mm Hg. Equivalently, MAP = DBP + 1/3 of pulse pressure = 90 + (1/3 × 60) = 110 mm Hg. Conceptually, MAP = CO × total peripheral resistance.",
+  "explanation_incorrect": {
+    "A": "90 mm Hg is simply the diastolic pressure; MAP incorporates the systolic pressure weighted by one-third above the diastolic value.",
+    "C": "120 mm Hg results from taking the unweighted average of systolic and diastolic pressures, (150 + 90)/2; diastole occupies about two-thirds of the cardiac cycle at rest, so the diastolic value is weighted more.",
+    "D": "130 mm Hg results from swapping the weights (2/3 SBP + 1/3 DBP = 100 + 30), weighting systole more heavily than it deserves at resting heart rate.",
+    "E": "150 mm Hg is the systolic pressure alone, not a time-weighted mean over the cardiac cycle."
+  },
+  "educationalObjective": "At resting heart rate, MAP = 2/3 DBP + 1/3 SBP = DBP + 1/3 PP; conceptually MAP = CO × TPR.",
+  "source": "Generated from 7. Cardiovascular.pdf - Physiology: Cardiac output, ejection fraction, and MAP equations"
+},
+{
+  "id": "cardio-053",
+  "subject": "Cardiovascular",
+  "major_topic": "Physiology",
+  "subtopic": "Cardiac output, ejection fraction, and MAP equations",
+  "difficulty": "medium",
+  "vignette": "A 68-year-old woman with long-standing hypertension presents with exertional dyspnea. Echocardiography shows a thick-walled left ventricle with an ejection fraction of 62% and restrictive (impaired) filling. Her physician diagnoses diastolic (preserved ejection fraction) heart failure.",
+  "question": "Which statement correctly characterizes ejection fraction in this patient compared with a patient who has systolic heart failure?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Ejection fraction is usually normal in diastolic heart failure but decreased in systolic heart failure"
+    },
+    {
+      "id": "B",
+      "text": "Ejection fraction is decreased in both diastolic and systolic heart failure"
+    },
+    {
+      "id": "C",
+      "text": "Ejection fraction is increased above normal in both diastolic and systolic heart failure"
+    },
+    {
+      "id": "D",
+      "text": "Ejection fraction is an index of ventricular afterload rather than contractility"
+    },
+    {
+      "id": "E",
+      "text": "The normal ejection fraction range is 20%-40%"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Ejection fraction (EF = SV/EDV) is an index of ventricular contractility: it is decreased in systolic heart failure but usually normal in diastolic heart failure, where the problem is impaired filling rather than impaired ejection — as in this patient with a normal EF of 62% but restrictive filling. The normal EF range is 50%-70%.",
+  "explanation_incorrect": {
+    "B": "This is the hallmark distinction in Step 1 hemodynamics: EF falls in systolic dysfunction but is typically preserved in diastolic dysfunction.",
+    "C": "An EF above the normal range does not define either heart failure type; systolic failure lowers EF and diastolic failure preserves it.",
+    "D": "Ejection fraction indexes ventricular contractility; afterload is approximated by mean arterial pressure.",
+    "E": "The normal EF range is 50%-70%; an EF of 20%-40% indicates significant systolic dysfunction."
+  },
+  "educationalObjective": "EF is an index of contractility: decreased in systolic heart failure, usually normal in diastolic heart failure; normal range 50%-70%.",
+  "source": "Generated from 7. Cardiovascular.pdf - Physiology: Cardiac output, ejection fraction, and MAP equations"
+}
+]

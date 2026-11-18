@@ -1,0 +1,125 @@
+[
+{
+  "id": "cardio-273",
+  "subject": "Cardiovascular",
+  "major_topic": "Pathology",
+  "subtopic": "Myocarditis",
+  "difficulty": "easy",
+  "vignette": "A 22-year-old college student presents with 3 days of dyspnea and palpitations following a mild upper respiratory illness 10 days ago. Temperature is 38.2°C (100.8°F), pulse is 128/min and remains persistently elevated even during sleep, and blood pressure is 108/70 mm Hg. Lungs are clear and no friction rub is heard. ECG shows sinus tachycardia with nonspecific ST changes, and troponin I is mildly elevated. CT angiography excludes pulmonary embolism.",
+  "question": "Which of the following is the most likely diagnosis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Acute myocarditis"
+    },
+    {
+      "id": "B",
+      "text": "Acute pericarditis"
+    },
+    {
+      "id": "C",
+      "text": "Pulmonary embolism"
+    },
+    {
+      "id": "D",
+      "text": "Viral pneumonia"
+    },
+    {
+      "id": "E",
+      "text": "Panic attack with somatic anxiety"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Myocarditis is inflammation of the myocardium and is a major cause of sudden cardiac death in adults under 40. Its presentation is highly variable — dyspnea, chest pain, fever, and arrhythmias — but persistent tachycardia out of proportion to the fever is characteristic, as seen here with a heart rate of 128/min that persists during sleep. Mild troponin elevation reflects myocyte injury, and the post-viral timing fits the common infectious triggers.",
+  "explanation_incorrect": {
+    "B": "Acute pericarditis features sharp, positionally relieved chest pain with a friction rub and diffuse ST elevation/PR depression on ECG; this patient has no rub and the dominant finding is persistent tachycardia with troponin elevation, implicating the myocardium.",
+    "C": "Pulmonary embolism was excluded by CT angiography, and it would not explain troponin elevation from diffuse myocyte inflammation or a tachycardia persisting during sleep out of proportion to a low-grade fever.",
+    "D": "Viral pneumonia produces cough, crackles, and consolidation on imaging with clear lung findings absent in this patient; the cardiac findings (tachycardia, troponin elevation) point to the myocardium.",
+    "E": "A panic attack can cause tachycardia and dyspnea, but it does not produce fever, a persistent sleeping tachycardia, or troponin elevation, and it would not follow a viral prodrome so consistently."
+  },
+  "educationalObjective": "Persistent tachycardia out of proportion to fever after a viral illness, with dyspnea and mild troponin elevation, is characteristic of acute myocarditis.",
+  "source": "Generated from 7. Cardiovascular.pdf - Pathology: Myocarditis"
+},
+{
+  "id": "cardio-274",
+  "subject": "Cardiovascular",
+  "major_topic": "Pathology",
+  "subtopic": "Myocarditis",
+  "difficulty": "medium",
+  "vignette": "A 19-year-old athlete collapses and dies during soccer practice. Autopsy shows a normal coronary tree, no hypertrophic cardiomyopathy, and no valve disease. The myocardium shows a diffuse lymphocytic infiltrate with focal myocyte necrosis. His roommate recalls that he had a febrile illness with chest discomfort 2 weeks earlier and had been training despite feeling unwell.",
+  "question": "Which of the following is the most likely pathogen?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Trypanosoma cruzi"
+    },
+    {
+      "id": "B",
+      "text": "Borrelia burgdorferi"
+    },
+    {
+      "id": "C",
+      "text": "Coxsackievirus B"
+    },
+    {
+      "id": "D",
+      "text": "Corynebacterium diphtheriae"
+    },
+    {
+      "id": "E",
+      "text": "Staphylococcus aureus"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Sudden cardiac death in a young adult during exertion with autopsy showing lymphocytic infiltrate with focal myocyte necrosis is classic for viral myocarditis, the major cause of SCD in adults under 40. Coxsackievirus B is the prototypical viral cause and the classic Step 1 association. A recent febrile illness preceding collapse by days to weeks is the typical clinical clue.",
+  "explanation_incorrect": {
+    "A": "Trypanosoma cruzi is a parasitic cause of myocarditis associated with residence in Latin America, and it produces a chronic cardiomyopathy with heart block and apical aneurysm years after the acute infection, not an acute exertional death in a non-traveler.",
+    "B": "Borrelia burgdorferi is a bacterial cause of myocarditis (Lyme carditis) associated with tick exposure and typically presents with AV conduction block rather than a fulminant lymphocytic myonecrosis after a viral illness.",
+    "D": "Corynebacterium diphtheriae causes diphtheria with a pharyngeal pseudomembrane and toxin-mediated myocarditis, a rare setting that does not match an athlete's viral prodrome and athletic collapse.",
+    "E": "Staphylococcus aureus causes acute bacterial infective endocarditis with vegetations, which would have been found at autopsy; bacterial myocarditis is not the classic cause of this autopsy pattern."
+  },
+  "educationalObjective": "Viral myocarditis, classically from coxsackievirus B, is a major cause of sudden cardiac death in adults under 40, with lymphocytic infiltrate and focal myocyte necrosis on autopsy.",
+  "source": "Generated from 7. Cardiovascular.pdf - Pathology: Myocarditis"
+},
+{
+  "id": "cardio-275",
+  "subject": "Cardiovascular",
+  "major_topic": "Pathology",
+  "subtopic": "Myocarditis",
+  "difficulty": "hard",
+  "vignette": "A 41-year-old man who emigrated from rural Brazil at age 25 presents after a syncopal episode. ECG shows complete heart block with a wide-complex ventricular escape rhythm. Echocardiography shows biventricular dilation with reduced systolic function and a small apical aneurysm. Serology shows IgG antibodies against a flagellated protozoan parasite.",
+  "question": "Which of the following is the most likely cause of this patient's cardiac disease?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Parvovirus B19 myocarditis"
+    },
+    {
+      "id": "B",
+      "text": "Doxorubicin-related cardiotoxicity"
+    },
+    {
+      "id": "C",
+      "text": "Toxoplasma gondii myocarditis"
+    },
+    {
+      "id": "D",
+      "text": "Trypanosoma cruzi myocarditis"
+    },
+    {
+      "id": "E",
+      "text": "Kawasaki disease arteritis"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Trypanosoma cruzi, a flagellated protozoan parasite, causes Chagas disease, a parasitic myocarditis endemic to rural Latin America (including Brazil). Years to decades after the initial infection, chronic myocarditis leads to biventricular dilated cardiomyopathy, conduction abnormalities such as complete heart block causing syncope, and apical aneurysm — all present in this patient. The seropositivity for a flagellated protozoan in a Brazilian immigrant clinches the diagnosis.",
+  "explanation_incorrect": {
+    "A": "Parvovirus B19 is a viral cause of acute myocarditis with lymphocytic infiltrate, presenting over days to weeks rather than as chronic heart block, apical aneurysm, and biventricular dilation decades after exposure.",
+    "B": "Doxorubicin causes dose-dependent dilated cardiomyopathy, but it would not explain positive protozoan serology, conduction disease with apical aneurysm, and no history of chemotherapy is given.",
+    "C": "Toxoplasma gondii is a parasitic cause of myocarditis, but it occurs mainly in immunocompromised patients and does not produce the chronic cardiomyopathy with apical aneurysm of Chagas disease, nor does it match the rural South American exposure.",
+    "E": "Kawasaki disease is an autoimmune/systemic cause of myocarditis that affects children with coronary artery aneurysms; it does not cause late chronic heart block with a protozoan seropositivity in an adult immigrant."
+  },
+  "educationalObjective": "Trypanosoma cruzi, a flagellated protozoan, causes Chagas myocarditis in patients from rural Latin America, leading years later to dilated cardiomyopathy, heart block, and apical aneurysm.",
+  "source": "Generated from 7. Cardiovascular.pdf - Pathology: Myocarditis"
+}
+]

@@ -1,0 +1,125 @@
+[
+{
+  "id": "cardio-045",
+  "subject": "Cardiovascular",
+  "major_topic": "Physiology",
+  "subtopic": "Cardiac oxygen demand and Laplace law",
+  "difficulty": "easy",
+  "vignette": "A 63-year-old man with stable angina is counseled on factors that determine myocardial oxygen demand and on which medications lower it to prevent ischemic episodes.",
+  "question": "Which of the following increases myocardial oxygen demand?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Decreased heart rate"
+    },
+    {
+      "id": "B",
+      "text": "Decreased arterial pressure"
+    },
+    {
+      "id": "C",
+      "text": "Increased diameter of the ventricle (increased wall tension)"
+    },
+    {
+      "id": "D",
+      "text": "Decreased contractility"
+    },
+    {
+      "id": "E",
+      "text": "Venous vasodilation with nitroglycerin"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Myocardial oxygen demand increases with increased contractility, increased afterload (proportional to arterial pressure), increased heart rate, and increased ventricular diameter (increased wall tension per Laplace's law). A dilated ventricle must generate greater wall tension to produce the same pressure, which raises oxygen consumption — the rationale behind therapies that reduce ventricular dilation and wall stress in angina and heart failure.",
+  "explanation_incorrect": {
+    "A": "Decreasing heart rate lowers myocardial oxygen demand and also prolongs diastolic coronary perfusion time; it does not increase demand.",
+    "B": "Decreased arterial pressure lowers afterload and therefore lowers myocardial oxygen demand.",
+    "D": "Decreased contractility reduces the metabolic work of the myocardium and lowers oxygen demand.",
+    "E": "Venous vasodilation (nitroglycerin) decreases preload, ventricular wall tension, and oxygen demand — it is used to relieve angina, not to increase demand."
+  },
+  "educationalObjective": "Myocardial O2 demand rises with increased contractility, afterload, heart rate, and ventricular diameter (wall tension).",
+  "source": "Generated from 7. Cardiovascular.pdf - Physiology: Cardiac oxygen demand and Laplace law"
+},
+{
+  "id": "cardio-046",
+  "subject": "Cardiovascular",
+  "major_topic": "Physiology",
+  "subtopic": "Cardiac oxygen demand and Laplace law",
+  "difficulty": "hard",
+  "vignette": "A research study measures left ventricular wall stress using Laplace's law. At baseline, a patient's ventricle has a systolic pressure of 120 mm Hg, an internal radius of 3 cm, and a wall thickness of 1 cm, giving a wall stress of 180 (arbitrary units). Over several years the patient develops dilated cardiomyopathy: systolic pressure and wall thickness remain the same, but the internal radius doubles to 6 cm.",
+  "question": "What is the new wall stress, and how has it changed relative to baseline?",
+  "options": [
+    {
+      "id": "A",
+      "text": "90; wall stress has been halved"
+    },
+    {
+      "id": "B",
+      "text": "360; wall stress has doubled"
+    },
+    {
+      "id": "C",
+      "text": "180; wall stress is unchanged because pressure is unchanged"
+    },
+    {
+      "id": "D",
+      "text": "540; wall stress has tripled"
+    },
+    {
+      "id": "E",
+      "text": "720; wall stress has quadrupled"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Laplace's law states wall stress = (pressure × radius) / (2 × wall thickness). With pressure 120 mm Hg, radius 6 cm, and thickness 1 cm: wall stress = (120 × 6) / (2 × 1) = 720/2 = 360, twice the baseline value of (120 × 3)/(2 × 1) = 180. Because wall stress is directly proportional to radius when pressure and thickness are fixed, doubling the radius doubles wall stress and myocardial oxygen demand — a key reason dilated ventricles consume more oxygen and fail progressively.",
+  "explanation_incorrect": {
+    "A": "90 would result from incorrectly inverting the relationship (treating stress as inversely proportional to radius) rather than directly proportional.",
+    "C": "Wall stress is not determined by pressure alone; the radius term doubles from 3 cm to 6 cm, so stress doubles even though pressure is unchanged.",
+    "D": "Tripling the stress would require tripling the radius (or an equivalent change); the radius only doubled.",
+    "E": "Quadrupling would follow the mistaken rule that stress varies with the square of the radius; Laplace's law makes stress linearly proportional to radius."
+  },
+  "educationalObjective": "By Laplace's law, wall stress = pressure × radius / (2 × wall thickness); doubling ventricular radius with unchanged pressure and thickness doubles wall stress.",
+  "source": "Generated from 7. Cardiovascular.pdf - Physiology: Cardiac oxygen demand and Laplace law"
+},
+{
+  "id": "cardio-047",
+  "subject": "Cardiovascular",
+  "major_topic": "Physiology",
+  "subtopic": "Cardiac oxygen demand and Laplace law",
+  "difficulty": "medium",
+  "vignette": "A 60-year-old man with long-standing, poorly controlled hypertension undergoes echocardiography, which shows concentric left ventricular wall thickening with a normal chamber radius and unchanged systolic pressure elevation over time.",
+  "question": "According to Laplace's law, what is the purpose of this compensatory hypertrophy?",
+  "options": [
+    {
+      "id": "A",
+      "text": "To increase wall stress so that contraction strength improves"
+    },
+    {
+      "id": "B",
+      "text": "To reduce the radius of the ventricular chamber, lowering wall tension"
+    },
+    {
+      "id": "C",
+      "text": "To reduce wall stress by increasing wall thickness in the denominator of the relationship"
+    },
+    {
+      "id": "D",
+      "text": "To lower systolic pressure directly by reducing vascular resistance"
+    },
+    {
+      "id": "E",
+      "text": "To decrease myocardial oxygen demand by reducing contractility"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Laplace's law states wall stress = (pressure × radius) / (2 × wall thickness). Increased pressure increases wall tension and therefore afterload; the left ventricle compensates for increased afterload by thickening (hypertrophy), which increases the denominator and thereby reduces wall stress. This is why chronic hypertension (increased MAP) leads to LV hypertrophy.",
+  "explanation_incorrect": {
+    "A": "The goal of hypertrophy is to reduce, not increase, wall stress; higher wall stress would raise oxygen demand and worsen the load on the ventricle.",
+    "B": "In concentric hypertrophy the chamber radius is normal or reduced, but the adaptation is achieved by thickening the wall, not primarily by shrinking radius.",
+    "D": "Hypertrophy is a ventricular response to elevated pressure; it does not directly lower systemic vascular resistance or blood pressure.",
+    "E": "While hypertrophy may accompany changes in oxygen use, its stated purpose per Laplace's law is to reduce wall stress by increasing wall thickness, not to reduce contractility."
+  },
+  "educationalObjective": "Chronic hypertension increases afterload; the LV hypertrophies to increase wall thickness and reduce wall stress per Laplace's law.",
+  "source": "Generated from 7. Cardiovascular.pdf - Physiology: Cardiac oxygen demand and Laplace law"
+}
+]

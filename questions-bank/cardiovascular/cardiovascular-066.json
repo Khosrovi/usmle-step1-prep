@@ -1,0 +1,166 @@
+[
+{
+  "id": "cardio-057",
+  "subject": "Cardiovascular",
+  "major_topic": "Physiology",
+  "subtopic": "Starling curves",
+  "difficulty": "easy",
+  "vignette": "A 32-year-old healthy woman volunteers for a cardiac physiology study. Small volumes of saline are infused to progressively increase her left ventricular end-diastolic volume while stroke volume is measured with echocardiography. Stroke volume rises steadily as end-diastolic volume increases from 90 mL to 130 mL.",
+  "question": "Which of the following best explains the relationship observed in this experiment?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The force of ventricular contraction is proportional to the end-diastolic length of the cardiac muscle fiber"
+    },
+    {
+      "id": "B",
+      "text": "The increased end-diastolic volume raises aortic pressure, which augments systolic ejection"
+    },
+    {
+      "id": "C",
+      "text": "Greater ventricular filling directly increases the firing rate of the sinoatrial node"
+    },
+    {
+      "id": "D",
+      "text": "A larger end-diastolic volume decreases afterload by enlarging the ventricular cavity"
+    },
+    {
+      "id": "E",
+      "text": "The increased preload prolongs the duration of ventricular systole, allowing more complete ejection"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "This is the Frank-Starling relationship: the force of contraction is proportional to the end-diastolic length of the cardiac muscle fiber (preload). Greater sarcomere stretch at higher end-diastolic volume produces a stronger contraction and a larger stroke volume, which is why stroke volume rose as end-diastolic volume was increased from 90 to 130 mL.",
+  "explanation_incorrect": {
+    "B": "Aortic pressure is a component of afterload, which opposes ejection rather than augmenting it; the observed relationship depends on preload, not arterial pressure.",
+    "C": "Heart rate is set by sinoatrial node automaticity and autonomic tone; preload does not directly increase the sinus firing rate in this experiment.",
+    "D": "Afterload is determined mainly by arterial pressure and total peripheral resistance, not by ventricular cavity size; increasing end-diastolic volume does not lower afterload.",
+    "E": "Increasing preload increases the strength of contraction, not the duration of systole; the larger stroke volume results from a more forceful ejection, not a longer one."
+  },
+  "educationalObjective": "The Starling curve states that the force of cardiac contraction is proportional to end-diastolic muscle fiber length (preload).",
+  "source": "Generated from 7. Cardiovascular.pdf - Physiology: Starling curves"
+},
+{
+  "id": "cardio-058",
+  "subject": "Cardiovascular",
+  "major_topic": "Physiology",
+  "subtopic": "Starling curves",
+  "difficulty": "medium",
+  "vignette": "A 64-year-old man with acute decompensated heart failure is admitted to the intensive care unit. His cardiac output is 3.2 L/min and his pulmonary capillary wedge pressure is elevated. A dobutamine infusion is started, and repeat measurements show an increased cardiac output at a lower ventricular filling pressure. The relationship between ventricular end-diastolic volume and stroke volume is plotted before and after treatment.",
+  "question": "How has the plotted relationship between end-diastolic volume and stroke volume changed after dobutamine?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Shifted downward and to the right"
+    },
+    {
+      "id": "B",
+      "text": "Shifted downward and to the left"
+    },
+    {
+      "id": "C",
+      "text": "Shifted upward and to the left"
+    },
+    {
+      "id": "D",
+      "text": "Unchanged in position, with movement along the curve to a lower preload"
+    },
+    {
+      "id": "E",
+      "text": "Unchanged in position, with movement along the curve to a higher preload"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Dobutamine is a positive inotrope. Increased contractility shifts the entire Starling curve upward and to the left, so a greater stroke volume is generated at any given end-diastolic volume (preload). Clinically this appears as a higher cardiac output achieved at a lower filling pressure, exactly what was measured.",
+  "explanation_incorrect": {
+    "A": "A downward and rightward shift means decreased contractility, as seen with loss of functional myocardium (eg, myocardial infarction), acute beta-blockade, nondihydropyridine calcium channel blockers, or heart failure.",
+    "B": "No inotropic drug shifts the curve downward and leftward; this combination would imply both lower stroke volume at any preload and a paradoxical curve shift.",
+    "D": "Preload changes move the operating point along a fixed curve; they cannot produce a higher stroke volume at a lower filling pressure, which requires a new curve.",
+    "E": "Movement to a higher preload along an unchanged curve would raise stroke volume only by increasing filling pressure, not by improving contractility, and filling pressure actually fell."
+  },
+  "educationalObjective": "Positive inotropes (eg, catecholamines, dobutamine, milrinone, digoxin) shift the Starling curve upward and to the left.",
+  "source": "Generated from 7. Cardiovascular.pdf - Physiology: Starling curves"
+},
+{
+  "id": "cardio-059",
+  "subject": "Cardiovascular",
+  "major_topic": "Physiology",
+  "subtopic": "Starling curves",
+  "difficulty": "medium",
+  "vignette": "A 57-year-old woman with atrial fibrillation and a rapid ventricular response is given intravenous diltiazem to slow her heart rate. After rate control is achieved, her left ventricular end-diastolic volume is manipulated by volume loading, and the relationship between end-diastolic volume and stroke volume is reassessed.",
+  "question": "What effect does diltiazem have on her Starling curve?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It shifts the curve upward, increasing stroke volume at any given preload"
+    },
+    {
+      "id": "B",
+      "text": "It shifts the curve rightward without changing its height"
+    },
+    {
+      "id": "C",
+      "text": "It has no effect, because diltiazem acts only on vascular smooth muscle"
+    },
+    {
+      "id": "D",
+      "text": "It shifts the curve downward, decreasing stroke volume at any given preload"
+    },
+    {
+      "id": "E",
+      "text": "It shifts the curve leftward, increasing stroke volume at a lower preload"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Diltiazem is a nondihydropyridine calcium channel blocker that reduces calcium influx in cardiac myocytes, decreasing contractility. Decreased contractility shifts the Starling curve downward, so a smaller stroke volume is generated at any given end-diastolic volume.",
+  "explanation_incorrect": {
+    "A": "An upward shift requires a positive inotrope (eg, catecholamines, dobutamine, milrinone, digoxin); nondihydropyridine calcium channel blockers decrease contractility instead.",
+    "B": "A rightward horizontal shift is not how inotropic state is represented; changes in contractility shift the whole curve up or down, while preload moves the operating point along the curve.",
+    "C": "Nondihydropyridine calcium channel blockers also act on cardiac myocytes, reducing contractility; only dihydropyridines act preferentially on vascular smooth muscle.",
+    "E": "A leftward and upward shift describes increased contractility, the opposite of the effect of a negative inotrope such as diltiazem."
+  },
+  "educationalObjective": "Nondihydropyridine calcium channel blockers, beta-blockers (acutely), and heart failure decrease contractility and shift the Starling curve downward.",
+  "source": "Generated from 7. Cardiovascular.pdf - Physiology: Starling curves"
+},
+{
+  "id": "cardio-060",
+  "subject": "Cardiovascular",
+  "major_topic": "Physiology",
+  "subtopic": "Starling curves",
+  "difficulty": "hard",
+  "vignette": "A 70-year-old man has heart failure with reduced ejection fraction due to a prior extensive myocardial infarction, leaving him with depressed myocardial contractility. Over several weeks his kidneys retain sodium and water, increasing his circulating volume and ventricular end-diastolic pressure. On a plot of ventricular end-diastolic volume versus stroke volume, his operating point now lies farther to the right on a downward-shifted curve, and his stroke volume has been partially restored.",
+  "question": "Which of the following best explains why his stroke volume has been partially maintained despite the depressed curve?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Sustained sympathetic stimulation has permanently restored his myocardial contractility to normal"
+    },
+    {
+      "id": "B",
+      "text": "Fluid retention has shifted his Starling curve upward and to the left"
+    },
+    {
+      "id": "C",
+      "text": "The increased preload has reduced his afterload, improving ejection fraction"
+    },
+    {
+      "id": "D",
+      "text": "Fluid retention has increased his heart rate, thereby raising his stroke volume"
+    },
+    {
+      "id": "E",
+      "text": "The increased preload has moved his operating point along the depressed curve to a higher end-diastolic volume"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Changes in circulating volume do not shift the Starling curve; they move the operating point along the existing curve. In heart failure, decreased inotropy shifts the curve downward, and compensatory fluid retention increases preload, sliding the operating point to the right along the depressed curve to a higher end-diastolic volume and partially restoring stroke volume.",
+  "explanation_incorrect": {
+    "A": "Sympathetic stimulation in the failing heart does not permanently normalize contractility; the infarcted myocardium has lost functional mass, which is why the curve remains depressed.",
+    "B": "Only changes in contractility (inotropy) shift the Starling curve; volume retention changes preload and moves the operating point along the same curve.",
+    "C": "Preload does not reduce afterload; afterload depends on arterial pressure and total peripheral resistance, and increased preload in heart failure raises filling pressures rather than improving ejection fraction.",
+    "D": "Stroke volume is not increased by raising heart rate; tachycardia shortens diastolic filling time and can reduce stroke volume and cardiac output."
+  },
+  "educationalObjective": "In heart failure, compensatory fluid retention raises preload and moves the operating point along a downward-shifted Starling curve to partially maintain cardiac output.",
+  "source": "Generated from 7. Cardiovascular.pdf - Physiology: Starling curves"
+}
+]

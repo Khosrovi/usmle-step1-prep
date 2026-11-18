@@ -1,0 +1,166 @@
+[
+{
+  "id": "cardio-061",
+  "subject": "Cardiovascular",
+  "major_topic": "Physiology",
+  "subtopic": "Cardiac and vascular function curves",
+  "difficulty": "easy",
+  "vignette": "In an animal experiment, a cardiac function curve (cardiac output versus right atrial pressure) and a vascular function curve (venous return versus right atrial pressure) are plotted on the same axes. The two curves cross at a single point where right atrial pressure is 2 mm Hg and both flows equal 5 L/min.",
+  "question": "What does the intersection of these two curves represent?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The maximal cardiac output attainable during exercise"
+    },
+    {
+      "id": "B",
+      "text": "The operating point of the circulation, where venous return equals cardiac output"
+    },
+    {
+      "id": "C",
+      "text": "The point of maximal venous compliance"
+    },
+    {
+      "id": "D",
+      "text": "The mean systemic filling pressure"
+    },
+    {
+      "id": "E",
+      "text": "The point at which total peripheral resistance is zero"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "The intersection of the cardiac function curve and the vascular function curve is the operating point of the heart. Because the circulatory system is a closed system, cardiac output and venous return must be equal in the steady state; the crossing point defines the right atrial pressure and the flow (cardiac output = venous return) at which the system actually operates.",
+  "explanation_incorrect": {
+    "A": "The intersection defines the resting steady state for the given curves, not a maximal value; maximal cardiac output during exercise occurs only after inotropy and venous return both increase.",
+    "C": "Venous compliance determines the slope and position of the vascular function curve, but the intersection is not itself a measure of compliance.",
+    "D": "Mean systemic filling pressure is the right atrial pressure at which the vascular function curve reaches zero venous return, not the intersection with the cardiac curve.",
+    "E": "Total peripheral resistance is a property of the vasculature that shapes both curves; it is not zero at the operating point."
+  },
+  "educationalObjective": "The intersection of the cardiac and vascular function curves is the operating point, where cardiac output equals venous return because the circulation is a closed system.",
+  "source": "Generated from 7. Cardiovascular.pdf - Physiology: Cardiac and vascular function curves"
+},
+{
+  "id": "cardio-062",
+  "subject": "Cardiovascular",
+  "major_topic": "Physiology",
+  "subtopic": "Cardiac and vascular function curves",
+  "difficulty": "medium",
+  "vignette": "A 59-year-old man in cardiogenic shock after a myocardial infarction receives an intravenous dobutamine infusion. On a plot of right atrial pressure versus cardiac output/venous return, his new steady-state operating point is compared with his previous one. The vascular function curve is assumed to be unchanged.",
+  "question": "Which change in his new operating point is expected?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Decreased cardiac output and increased right atrial pressure"
+    },
+    {
+      "id": "B",
+      "text": "Decreased cardiac output and decreased right atrial pressure"
+    },
+    {
+      "id": "C",
+      "text": "Increased cardiac output and increased right atrial pressure"
+    },
+    {
+      "id": "D",
+      "text": "Unchanged cardiac output and decreased right atrial pressure"
+    },
+    {
+      "id": "E",
+      "text": "Increased cardiac output and decreased right atrial pressure"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Dobutamine increases inotropy, shifting the cardiac function curve upward. With an unchanged vascular function curve, the new intersection lies at a higher cardiac output and a lower right atrial pressure, because the strengthened ventricle ejects more completely and empties the atrium more effectively.",
+  "explanation_incorrect": {
+    "A": "Decreased cardiac output with increased right atrial pressure describes decreased inotropy (eg, heart failure with reduced ejection fraction, narcotic overdose, sympathetic inhibition), not a positive inotrope.",
+    "B": "A decrease in both output and pressure would require a downward shift of the cardiac curve, the opposite of dobutamine's effect.",
+    "C": "Right atrial pressure falls, not rises, when contractility increases: the ventricle ejects more blood per beat and atrial emptying improves.",
+    "D": "With increased contractility and an unchanged vascular curve, cardiac output must increase as the cardiac curve shifts upward along the same vascular curve."
+  },
+  "educationalObjective": "Increased inotropy shifts the cardiac function curve upward, producing a new operating point with higher cardiac output and lower right atrial pressure.",
+  "source": "Generated from 7. Cardiovascular.pdf - Physiology: Cardiac and vascular function curves"
+},
+{
+  "id": "cardio-063",
+  "subject": "Cardiovascular",
+  "major_topic": "Physiology",
+  "subtopic": "Cardiac and vascular function curves",
+  "difficulty": "medium",
+  "vignette": "A 24-year-old man sustains an acute 1 L hemorrhage in a motor vehicle collision and is brought to the emergency department. His intrinsic myocardial contractility is normal. On a plot of right atrial pressure versus cardiac output/venous return, his curves are compared with his pre-hemorrhage steady state.",
+  "question": "Which change best describes his new steady state?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A downward shift of the vascular function curve, producing a lower right atrial pressure and a lower cardiac output"
+    },
+    {
+      "id": "B",
+      "text": "An upward shift of the vascular function curve, producing a higher right atrial pressure and a higher cardiac output"
+    },
+    {
+      "id": "C",
+      "text": "A downward shift of the cardiac function curve with an unchanged right atrial pressure"
+    },
+    {
+      "id": "D",
+      "text": "An upward shift of the cardiac function curve, producing a higher cardiac output at the same right atrial pressure"
+    },
+    {
+      "id": "E",
+      "text": "No shift of either curve, with simple movement of the operating point along the cardiac function curve"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Acute hemorrhage reduces circulating volume, which lowers the mean systemic pressure and shifts the vascular function curve downward. With a normal cardiac function curve, the new intersection occurs at a lower right atrial pressure and a lower cardiac output, the hemodynamic picture of hypovolemic shock.",
+  "explanation_incorrect": {
+    "B": "Volume expansion (eg, fluid infusion), increased sympathetic venous tone, or an arteriovenous shunt shift the vascular function curve upward; hemorrhage does the opposite.",
+    "C": "The patient's intrinsic contractility is normal, so the cardiac function curve is unchanged; the defect is in circulating volume, a vascular function curve variable.",
+    "D": "The cardiac function curve reflects inotropy, which is not altered by acute hemorrhage in an otherwise healthy heart.",
+    "E": "A change in circulating volume shifts the vascular function curve itself; it is not merely movement along the pre-existing curves."
+  },
+  "educationalObjective": "Acute hemorrhage shifts the vascular function curve downward, lowering both right atrial pressure and cardiac output at the new operating point.",
+  "source": "Generated from 7. Cardiovascular.pdf - Physiology: Cardiac and vascular function curves"
+},
+{
+  "id": "cardio-064",
+  "subject": "Cardiovascular",
+  "major_topic": "Physiology",
+  "subtopic": "Cardiac and vascular function curves",
+  "difficulty": "hard",
+  "vignette": "A 66-year-old woman in septic shock is started on norepinephrine, which increases total peripheral resistance. Her cardiac and vascular function curves are redrawn on a plot of right atrial pressure versus cardiac output/venous return after the vasopressor takes effect, and the new operating point is compared with the old one.",
+  "question": "Which statement best describes the effect of the increased total peripheral resistance on her new operating point?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Right atrial pressure always increases because blood is trapped on the arterial side of the circulation"
+    },
+    {
+      "id": "B",
+      "text": "Right atrial pressure always decreases because venous return is mechanically obstructed"
+    },
+    {
+      "id": "C",
+      "text": "Right atrial pressure may increase or decrease, depending on the relative changes in the cardiac and vascular function curves"
+    },
+    {
+      "id": "D",
+      "text": "Cardiac output always increases because the vasopressor has increased myocardial contractility"
+    },
+    {
+      "id": "E",
+      "text": "Right atrial pressure remains unchanged because total peripheral resistance affects only arterial pressure"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Changes in total peripheral resistance alter cardiac output, but the direction of change in right atrial pressure is unpredictable: both the cardiac function curve and the vascular function curve shift, and the new intersection depends on their relative changes. In contrast to inotropy or venous return changes, TPR changes do not produce a predictable single direction of right atrial pressure change.",
+  "explanation_incorrect": {
+    "A": "Increased total peripheral resistance does not produce a uniform rise in right atrial pressure; the net effect on the operating point depends on how both curves shift.",
+    "B": "Venous return is not mechanically obstructed by elevated total peripheral resistance, and right atrial pressure does not uniformly fall when TPR increases.",
+    "D": "Although norepinephrine has some positive inotropic effects, the defining question here is the TPR effect, and cardiac output does not always increase when TPR rises.",
+    "E": "Total peripheral resistance affects the entire closed circulatory system, including the cardiac and vascular function curves and therefore the operating point, not just arterial pressure."
+  },
+  "educationalObjective": "Changes in total peripheral resistance alter cardiac output, but the change in right atrial pressure is unpredictable because both function curves shift.",
+  "source": "Generated from 7. Cardiovascular.pdf - Physiology: Cardiac and vascular function curves"
+}
+]

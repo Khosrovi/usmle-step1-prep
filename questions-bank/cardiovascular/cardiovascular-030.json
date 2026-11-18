@@ -1,0 +1,166 @@
+[
+{
+  "id": "cardio-314",
+  "subject": "Cardiovascular",
+  "major_topic": "Pharmacology",
+  "subtopic": "Digoxin",
+  "difficulty": "easy",
+  "vignette": "A 76-year-old woman with heart failure with reduced ejection fraction (EF 28%) is started on an oral inotropic agent. Over the next two weeks her dyspnea improves and her EF increases to 34%. She is told the drug also stimulates the vagus nerve, which accounts for some of its other effects.",
+  "question": "Which of the following best describes the mechanism by which this drug increases myocardial contractility?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Direct activation of L-type calcium channels on the sarcolemma"
+    },
+    {
+      "id": "B",
+      "text": "Inhibition of Na+/K+-ATPase with indirect inhibition of the Na+/Ca2+ exchanger, increasing intracellular calcium"
+    },
+    {
+      "id": "C",
+      "text": "Inhibition of phosphodiesterase with increased cAMP"
+    },
+    {
+      "id": "D",
+      "text": "Stimulation of beta-1 adrenergic receptors on the myocardium"
+    },
+    {
+      "id": "E",
+      "text": "Inhibition of potassium channels with prolongation of the action potential"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Digoxin directly inhibits Na+/K+-ATPase, which indirectly inhibits the Na+/Ca2+ exchanger; the resulting increase in intracellular calcium produces positive inotropy. Digoxin also stimulates the vagus nerve, decreasing heart rate - the second mechanism referenced in the vignette.",
+  "explanation_incorrect": {
+    "A": "Digoxin does not open L-type calcium channels directly; calcium rises secondarily because Na+/K+-ATPase inhibition reduces the driving force for calcium extrusion via the Na+/Ca2+ exchanger.",
+    "C": "Phosphodiesterase inhibition with increased cAMP is the mechanism of agents such as milrinone, not of digoxin.",
+    "D": "Digoxin does not stimulate beta-1 receptors; its inotropic effect is independent of the sympathetic nervous system and is mediated through the sodium pump.",
+    "E": "Digoxin's benefit does not come from potassium channel blockade; class III agents prolong the action potential by blocking potassium channels, a mechanism digoxin lacks."
+  },
+  "educationalObjective": "Digoxin inhibits Na+/K+-ATPase, indirectly inhibiting the Na+/Ca2+ exchanger to raise intracellular calcium and increase contractility, while vagal stimulation decreases heart rate.",
+  "source": "Generated from 7. Cardiovascular.pdf - Pharmacology: Digoxin"
+},
+{
+  "id": "cardio-315",
+  "subject": "Cardiovascular",
+  "major_topic": "Pharmacology",
+  "subtopic": "Digoxin",
+  "difficulty": "medium",
+  "vignette": "A 74-year-old woman with atrial fibrillation takes digoxin and furosemide. She returns with several days of nausea, vomiting, and anorexia and says objects appear yellowish-green. ECG shows atrial tachycardia with variable AV block. Laboratory studies show a potassium of 3.1 mEq/L.",
+  "question": "Which of the following best explains why her electrolyte abnormality predisposes her to digoxin toxicity?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Hypokalemia promotes displacement of digoxin from its tissue-binding sites"
+    },
+    {
+      "id": "B",
+      "text": "Low extracellular potassium permits digoxin to bind at the potassium-binding site on Na+/K+-ATPase"
+    },
+    {
+      "id": "C",
+      "text": "Hypokalemia decreases the renal excretion of digoxin"
+    },
+    {
+      "id": "D",
+      "text": "Low potassium increases the volume of distribution of digoxin, raising serum levels"
+    },
+    {
+      "id": "E",
+      "text": "Hypokalemia reverses the direction of the Na+/Ca2+ exchanger, increasing digoxin clearance"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Hypokalemia is permissive for digoxin binding at the potassium-binding site on Na+/K+-ATPase, so loop diuretic-induced hypokalemia is a classic predisposing factor for digoxin toxicity. Her nausea, vomiting, and yellowish vision are classic cholinergic and visual toxicity findings, and atrial tachycardia with AV block is the classic toxic arrhythmia.",
+  "explanation_incorrect": {
+    "A": "Displacement of digoxin from tissue-binding sites is a separate predisposing factor caused by certain drugs, not by hypokalemia itself.",
+    "C": "Decreased excretion from renal failure is a distinct mechanism of toxicity predisposition; hypokalemia acts at the receptor (the potassium-binding site on the pump), not on renal clearance.",
+    "D": "Volume of distribution is a property of digoxin that is not changed by serum potassium; the interaction is at the drug's binding site on Na+/K+-ATPase.",
+    "E": "Digoxin's mechanism involves indirect inhibition of the Na+/Ca2+ exchanger, but hypokalemia does not reverse the exchanger's direction or increase digoxin clearance."
+  },
+  "educationalObjective": "Hypokalemia is permissive for digoxin binding at the potassium-binding site on Na+/K+-ATPase and is a classic predisposing factor for digoxin toxicity.",
+  "source": "Generated from 7. Cardiovascular.pdf - Pharmacology: Digoxin"
+},
+{
+  "id": "cardio-316",
+  "subject": "Cardiovascular",
+  "major_topic": "Pharmacology",
+  "subtopic": "Digoxin",
+  "difficulty": "hard",
+  "vignette": "A 78-year-old man with heart failure and chronic atrial fibrillation takes digoxin. Verapamil was recently added for rate control, and his creatinine has risen to 2.1 mg/dL. He now reports anorexia and blurred, yellowish vision; ECG shows atrial tachycardia with 2:1 AV block, and his potassium is 5.6 mEq/L.",
+  "question": "Which of the following is included in the appropriate management of this patient's condition?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Rapid intravenous calcium gluconate to stabilize the myocardium"
+    },
+    {
+      "id": "B",
+      "text": "Bolus potassium replacement to correct the hyperkalemia within minutes"
+    },
+    {
+      "id": "C",
+      "text": "Administration of anti-digoxin Fab fragments"
+    },
+    {
+      "id": "D",
+      "text": "Emergency hemodialysis to remove digoxin from the circulation"
+    },
+    {
+      "id": "E",
+      "text": "Oral cholestyramine to bind digoxin in the gastrointestinal tract"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "This patient has life-threatening digoxin toxicity (visual changes, atrial tachycardia with AV block, hyperkalemia), predisposed by renal failure (decreased excretion) and by verapamil (decreased clearance). Digoxin antidote measures include slowly normalizing potassium, a cardiac pacer, anti-digoxin Fab fragments, and magnesium.",
+  "explanation_incorrect": {
+    "A": "Intravenous calcium is not part of the listed antidote measures for digoxin toxicity; the appropriate steps are to slowly normalize potassium, pace the heart, give anti-digoxin Fab fragments, and use magnesium.",
+    "B": "Potassium should be normalized slowly, not by rapid bolus; note also that hyperkalemia in digoxin toxicity indicates a poor prognosis and reflects pump poisoning rather than a potassium deficit to replete.",
+    "D": "Digoxin toxicity is not managed with hemodialysis; the specific therapy is anti-digoxin Fab fragments, which bind the drug in the circulation.",
+    "E": "Cholestyramine binds bile acids and some coadministered drugs in the gut, but it is not a listed treatment for established digoxin toxicity."
+  },
+  "educationalObjective": "Severe digoxin toxicity (hyperkalemia, atrial tachycardia with AV block, visual changes) is treated with anti-digoxin Fab fragments, along with slow potassium normalization, pacing, and magnesium.",
+  "source": "Generated from 7. Cardiovascular.pdf - Pharmacology: Digoxin"
+},
+{
+  "id": "cardio-317",
+  "subject": "Cardiovascular",
+  "major_topic": "Pharmacology",
+  "subtopic": "Digoxin",
+  "difficulty": "medium",
+  "vignette": "A 72-year-old man with heart failure with reduced ejection fraction (EF 30%) and chronic atrial fibrillation with rapid ventricular response remains symptomatic on his current regimen. An oral agent is added. At follow-up his EF has improved to 35%, his resting ventricular rate has fallen from 104 to 78/min, and he has no new visual symptoms.",
+  "question": "Which of the following is the most likely medication added?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Digoxin"
+    },
+    {
+      "id": "B",
+      "text": "Ivabradine"
+    },
+    {
+      "id": "C",
+      "text": "Amiodarone"
+    },
+    {
+      "id": "D",
+      "text": "Amlodipine"
+    },
+    {
+      "id": "E",
+      "text": "Hydralazine"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Digoxin is used in heart failure (increased contractility via Na+/K+-ATPase inhibition) and in atrial fibrillation (decreased conduction at the AV node with depression of the SA node via vagal stimulation). It is the agent that simultaneously improves contractility and slows the ventricular response in atrial fibrillation.",
+  "explanation_incorrect": {
+    "B": "Amiodarone can slow the ventricular response in atrial fibrillation but does not increase myocardial contractility; it also carries pulmonary, hepatic, and thyroid toxicity rather than acute inotropic benefit.",
+    "C": "Amlodipine is a dihydropyridine calcium channel blocker acting mainly on vascular smooth muscle; it provides neither increased contractility nor reliable AV nodal rate control in heart failure.",
+    "D": "Hydralazine is an arteriolar vasodilator used for afterload reduction (with a nitrate); it does not increase contractility or slow AV nodal conduction.",
+    "E": "Hydralazine is an arteriolar vasodilator used for afterload reduction (commonly with a nitrate), not for increasing contractility or controlling ventricular rate in atrial fibrillation. Digoxin is the drug that both increases inotropy and slows AV nodal conduction, which matches this patient."
+  },
+  "educationalObjective": "Digoxin is used in HFrEF for its positive inotropy and in atrial fibrillation for its vagally mediated decrease in AV nodal conduction.",
+  "source": "Generated from 7. Cardiovascular.pdf - Pharmacology: Digoxin"
+}
+]

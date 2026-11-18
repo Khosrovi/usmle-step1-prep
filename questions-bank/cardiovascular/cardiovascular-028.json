@@ -1,0 +1,207 @@
+[
+{
+  "id": "cardio-034",
+  "subject": "Cardiovascular",
+  "major_topic": "Anatomy",
+  "subtopic": "Coronary circulation and dominance",
+  "difficulty": "easy",
+  "vignette": "A 58-year-old man with a long smoking history presents with 45 minutes of crushing substernal chest pain and diaphoresis. ECG shows ST-segment elevations in leads V1 through V4 with reciprocal depressions inferiorly. Emergent coronary angiography is planned.",
+  "question": "Which coronary artery is most likely occluded in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Right coronary artery"
+    },
+    {
+      "id": "B",
+      "text": "Left circumflex artery"
+    },
+    {
+      "id": "C",
+      "text": "Left anterior descending artery"
+    },
+    {
+      "id": "D",
+      "text": "Posterior descending artery"
+    },
+    {
+      "id": "E",
+      "text": "Acute marginal artery"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "ST elevations in V1-V4 localize ischemia to the anterior wall and anterior interventricular septum, the territory of the left anterior descending (LAD) artery. The LAD and its branches supply the anterior 2/3 of the interventricular septum, the anterolateral papillary muscle, and the anterior surface of the left ventricle, and it is the coronary artery most commonly occluded in myocardial infarction.",
+  "explanation_incorrect": {
+    "A": "The right coronary artery supplies the inferior wall; its occlusion produces ST elevations in leads II, III, and aVF, not V1-V4.",
+    "B": "The left circumflex artery supplies the lateral wall of the left ventricle; lateral (I, aVL, V5-V6), not anterior, ST elevations would be expected.",
+    "D": "The posterior descending artery supplies the posterior 1/3 of the interventricular septum and the posterior ventricular walls; an infarct there is usually an inferior infarct, not an anterior one.",
+    "E": "The right (acute) marginal artery, a branch of the right coronary artery, supplies the right ventricle, which would not produce anterior lead ST elevations."
+  },
+  "educationalObjective": "The LAD supplies the anterior 2/3 of the interventricular septum and anterior LV and is the coronary artery most commonly occluded in MI.",
+  "source": "Generated from 7. Cardiovascular.pdf - Anatomy: Coronary circulation and dominance"
+},
+{
+  "id": "cardio-035",
+  "subject": "Cardiovascular",
+  "major_topic": "Anatomy",
+  "subtopic": "Coronary circulation and dominance",
+  "difficulty": "medium",
+  "vignette": "A 70-year-old man presents with ST-segment elevations in leads II, III, and aVF consistent with an inferior myocardial infarction. One hour later he becomes bradycardic and progresses to complete (third-degree) atrioventricular block on telemetry.",
+  "question": "Occlusion of which vessel best explains both the infarct and the nodal dysfunction?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Left anterior descending artery"
+    },
+    {
+      "id": "B",
+      "text": "Left circumflex artery"
+    },
+    {
+      "id": "C",
+      "text": "Right (acute) marginal artery"
+    },
+    {
+      "id": "D",
+      "text": "Left main coronary artery"
+    },
+    {
+      "id": "E",
+      "text": "Posterior descending artery"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "An inferior MI (ST elevations in II, III, aVF) most often reflects occlusion of the posterior descending artery (PDA) in a right-dominant circulation. The PDA supplies the posterior 1/3 of the interventricular septum, the posterior 2/3 of the ventricular walls, the posteromedial papillary muscle, and the SA and AV nodes (as determined by dominance); infarction of its territory may cause nodal dysfunction, manifesting as bradycardia or heart block.",
+  "explanation_incorrect": {
+    "A": "The LAD supplies the anterior septum and anterior LV; its occlusion causes an anterior MI and can cause infranodal block, but not an inferior STEMI pattern.",
+    "B": "The left circumflex supplies the lateral LV wall; lateral lead ST elevations, not the inferior pattern with AV nodal dysfunction, characterize its occlusion.",
+    "C": "The right (acute) marginal artery supplies the right ventricle; its occlusion causes right ventricular infarction without primarily affecting the SA or AV nodes.",
+    "D": "Occlusion of the left main coronary artery is catastrophic, affecting the entire left coronary territory, and does not selectively produce an inferior infarct with nodal bradycardia."
+  },
+  "educationalObjective": "The PDA supplies the SA and AV nodes (per dominance) and the inferior wall; its occlusion causes inferior MI with bradycardia or heart block.",
+  "source": "Generated from 7. Cardiovascular.pdf - Anatomy: Coronary circulation and dominance"
+},
+{
+  "id": "cardio-036",
+  "subject": "Cardiovascular",
+  "major_topic": "Anatomy",
+  "subtopic": "Coronary circulation and dominance",
+  "difficulty": "hard",
+  "vignette": "A 66-year-old woman undergoing diagnostic coronary angiography for exertional angina is found to have a normal-caliber right coronary artery and a posterior descending artery that arises from the left circumflex artery rather than from the right coronary artery.",
+  "question": "What type of coronary circulation does this angiogram demonstrate, and how common is this variant?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Left-dominant circulation; occurs in about 5%-10% of patients"
+    },
+    {
+      "id": "B",
+      "text": "Right-dominant circulation; occurs in about 5%-10% of patients"
+    },
+    {
+      "id": "C",
+      "text": "Codominant circulation; occurs in about 5%-10% of patients"
+    },
+    {
+      "id": "D",
+      "text": "Right-dominant circulation; occurs in about 10%-20% of patients"
+    },
+    {
+      "id": "E",
+      "text": "Codominant circulation; the most common pattern overall"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Dominance is defined by which artery gives rise to the posterior descending artery. A PDA arising from the left circumflex (LCX) artery defines a left-dominant circulation, which occurs in approximately 5%-10% of patients. In this variant, the LCX supplies the SA and AV nodes per dominance, so a left circumflex occlusion can produce nodal dysfunction.",
+  "explanation_incorrect": {
+    "B": "Right dominance is defined by a PDA arising from the right coronary artery, which is not what the angiogram shows; it is also the most common pattern, not 5%-10%.",
+    "C": "Codominance means the PDA arises from both the LCX and the RCA; here the PDA arises only from the LCX.",
+    "D": "The angiogram shows left dominance, not right dominance, and the 10%-20% figure corresponds to codominant circulation.",
+    "E": "Codominant circulation (PDA from both LCX and RCA, ~10%-20%) is not the most common pattern; right-dominant circulation is the most common."
+  },
+  "educationalObjective": "Dominance is determined by the origin of the PDA: right-dominant (from RCA) is most common, left-dominant (from LCX) in ~5%-10%, and codominant in ~10%-20%.",
+  "source": "Generated from 7. Cardiovascular.pdf - Anatomy: Coronary circulation and dominance"
+},
+{
+  "id": "cardio-037",
+  "subject": "Cardiovascular",
+  "major_topic": "Anatomy",
+  "subtopic": "Coronary circulation and dominance",
+  "difficulty": "medium",
+  "vignette": "A second-year medical student is reviewing the cardiac cycle and asks why patients with tachyarrhythmias and exertional angina tend to develop myocardial ischemia: coronary blood flow to the left ventricle is largely interrupted during much of systole by the contracting muscle compressing the intramyocardial vessels.",
+  "question": "During which portion of the cardiac cycle does coronary blood flow to the left ventricle and interventricular septum reach its peak?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Mid-systole, when aortic pressure is highest"
+    },
+    {
+      "id": "B",
+      "text": "Early diastole, when the myocardium is relaxed"
+    },
+    {
+      "id": "C",
+      "text": "Late systole, just before aortic valve closure"
+    },
+    {
+      "id": "D",
+      "text": "Atrial systole, during the atrial kick"
+    },
+    {
+      "id": "E",
+      "text": "Isovolumetric contraction, when wall tension first rises"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Coronary blood flow to the left ventricle and interventricular septum peaks in early diastole, when the myocardium relaxes and the intramyocardial vessels are no longer compressed by contraction. This explains why tachycardia worsens myocardial ischemia: it shortens diastole, cutting into the phase when the left ventricle receives most of its blood supply.",
+  "explanation_incorrect": {
+    "A": "Although aortic root pressure drives coronary perfusion, peak LV flow does not occur in mid-systole because the contracting myocardium compresses its own vessels.",
+    "C": "In late systole the myocardium is still contracted and compressing intramyocardial vessels; LV coronary flow is not maximal then.",
+    "D": "Atrial systole occurs at the end of diastole, after peak LV coronary filling has already occurred, and atrial contraction raises wall tension rather than relaxing it.",
+    "E": "Isovolumetric contraction is the very beginning of systole, when rising wall tension starts to compress the coronary vessels, not when LV flow peaks."
+  },
+  "educationalObjective": "Coronary blood flow to the LV and interventricular septum peaks in early diastole, which is why tachycardia (shortened diastole) promotes ischemia.",
+  "source": "Generated from 7. Cardiovascular.pdf - Anatomy: Coronary circulation and dominance"
+},
+{
+  "id": "cardio-038",
+  "subject": "Cardiovascular",
+  "major_topic": "Anatomy",
+  "subtopic": "Coronary circulation and dominance",
+  "difficulty": "medium",
+  "vignette": "During an electrophysiology procedure, a catheter is advanced into a large venous vessel that runs in the left atrioventricular groove and collects venous blood from the myocardium of the heart.",
+  "question": "Into which cardiac chamber does this vessel empty?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Left atrium"
+    },
+    {
+      "id": "B",
+      "text": "Left ventricle"
+    },
+    {
+      "id": "C",
+      "text": "Right ventricle"
+    },
+    {
+      "id": "D",
+      "text": "Right atrium"
+    },
+    {
+      "id": "E",
+      "text": "Inferior vena cava"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "The vessel described is the coronary sinus, which runs in the left atrioventricular (AV) groove and drains the cardiac veins into the right atrium. Because it collects venous blood returned directly from the myocardium, the coronary sinus contains the most deoxygenated blood in the body.",
+  "explanation_incorrect": {
+    "A": "The coronary sinus delivers venous blood to the right side of the heart; it does not drain into the left atrium, which receives oxygenated blood from the pulmonary veins.",
+    "B": "The left ventricle receives oxygenated blood from the left atrium and ejects it into the aorta; no coronary venous channel drains there.",
+    "C": "The coronary sinus empties into the right atrium, not the right ventricle, from which deoxygenated blood proceeds to the pulmonary artery.",
+    "E": "The inferior vena cava carries systemic venous blood from the lower body to the right atrium; the coronary sinus is a separate cardiac venous structure, not a segment of the IVC."
+  },
+  "educationalObjective": "The coronary sinus runs in the left AV groove and drains into the right atrium, carrying the most deoxygenated blood in the body.",
+  "source": "Generated from 7. Cardiovascular.pdf - Anatomy: Coronary circulation and dominance"
+}
+]
