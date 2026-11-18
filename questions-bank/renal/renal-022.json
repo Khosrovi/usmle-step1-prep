@@ -1,0 +1,207 @@
+[
+{
+  "id": "ren-052",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Glomerular filtration rate",
+  "difficulty": "easy",
+  "vignette": "Inulin is infused to steady state in a healthy volunteer. At the time of urine collection, the urine inulin concentration is 100 mg/mL, urine flow rate is 1 mL/min, and plasma inulin concentration is 1 mg/mL.",
+  "question": "Why does inulin clearance accurately measure the glomerular filtration rate?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Inulin is freely filtered and then actively reabsorbed by the proximal tubule"
+    },
+    {
+      "id": "B",
+      "text": "Inulin is freely filtered and is neither reabsorbed nor secreted"
+    },
+    {
+      "id": "C",
+      "text": "Inulin is secreted by the proximal tubule in proportion to GFR"
+    },
+    {
+      "id": "D",
+      "text": "Inulin is tightly bound to plasma proteins and stays in the circulation"
+    },
+    {
+      "id": "E",
+      "text": "Inulin is metabolized by the kidney, so its excretion reflects tubular work"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Inulin is freely filtered at the glomerulus and is neither reabsorbed nor secreted by the tubules, so the amount excreted in urine exactly equals the amount filtered. Therefore Cinulin = (Uinulin × V)/Pinulin = GFR. Here that equals (100 × 1)/1 = 100 mL/min, the normal value.",
+  "explanation_incorrect": {
+    "A": "If inulin were reabsorbed, less would appear in urine than was filtered and its clearance would fall below GFR; inulin is not reabsorbed.",
+    "C": "Tubular secretion would make inulin clearance exceed GFR, as it does for PAH; inulin undergoes no secretion.",
+    "D": "Protein-bound substances are poorly filtered and would have very low clearance; inulin is freely filterable, not protein bound.",
+    "E": "Inulin is not metabolized by the kidney; it is inert and excreted unchanged, which is precisely why its clearance tracks filtration."
+  },
+  "educationalObjective": "Inulin is freely filtered and neither reabsorbed nor secreted, so its clearance equals GFR (about 100 mL/min).",
+  "source": "Generated from 14. Renal.pdf - Physiology: Glomerular filtration rate"
+},
+{
+  "id": "ren-053",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Glomerular filtration rate",
+  "difficulty": "medium",
+  "vignette": "At a glomerular capillary, the hydrostatic pressure in the capillary (PGC) is 60 mm Hg, the hydrostatic pressure in Bowman space (PBS) is 15 mm Hg, the glomerular capillary oncotic pressure (πGC) is 25 mm Hg, and the Bowman space oncotic pressure (πBS) is 0 mm Hg.",
+  "question": "What is the net filtration pressure across this glomerular capillary?",
+  "options": [
+    {
+      "id": "A",
+      "text": "45 mm Hg"
+    },
+    {
+      "id": "B",
+      "text": "25 mm Hg"
+    },
+    {
+      "id": "C",
+      "text": "100 mm Hg"
+    },
+    {
+      "id": "D",
+      "text": "20 mm Hg"
+    },
+    {
+      "id": "E",
+      "text": "35 mm Hg"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Net filtration pressure = (PGC − PBS) − (πGC − πBS). Substituting: (60 − 15) − (25 − 0) = 45 − 25 = 20 mm Hg. GFR then equals Kf times this net filtration pressure, where Kf is the filtration coefficient.",
+  "explanation_incorrect": {
+    "A": "This is PGC − PBS = 45 mm Hg, which neglects the opposing glomerular capillary oncotic pressure πGC of 25 mm Hg.",
+    "B": "This uses the oncotic pressure πGC alone; oncotic pressure opposes filtration and must be subtracted from the net hydrostatic gradient.",
+    "C": "This adds all four pressures (60 + 15 + 25 + 0 = 100), but Bowman space hydrostatic pressure and oncotic pressure oppose, rather than favor, filtration.",
+    "E": "This is PGC − πGC = 35 mm Hg, which omits the opposing Bowman space hydrostatic pressure PBS of 15 mm Hg."
+  },
+  "educationalObjective": "Net filtration pressure = (PGC − PBS) − (πGC − πBS), with πBS normally zero; GFR = Kf × net filtration pressure.",
+  "source": "Generated from 14. Renal.pdf - Physiology: Glomerular filtration rate"
+},
+{
+  "id": "ren-054",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Glomerular filtration rate",
+  "difficulty": "easy",
+  "vignette": "A medical student reviews the Starling forces governing glomerular filtration using the relationship GFR = Kf[(PGC − PBS) − (πGC − πBS)].",
+  "question": "Which of the following statements about these determinants of GFR is correct?",
+  "options": [
+    {
+      "id": "A",
+      "text": "πBS is normally zero because the filtrate in Bowman space is essentially protein-free"
+    },
+    {
+      "id": "B",
+      "text": "πBS is normally equal to πGC, so the oncotic term cancels out"
+    },
+    {
+      "id": "C",
+      "text": "Kf decreases as additional glomerular capillaries are recruited"
+    },
+    {
+      "id": "D",
+      "text": "An increase in PBS increases the net filtration pressure and GFR"
+    },
+    {
+      "id": "E",
+      "text": "PGC is normally lower than PBS so that fluid is drawn into the capillary"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "The glomerular filtration barrier normally excludes proteins, so the filtrate in Bowman space contains almost no protein and πBS is effectively zero. The oncotic force opposing filtration is therefore just πGC. PGC (~60 mm Hg) normally exceeds PBS (~15 mm Hg), driving filtration, and Kf rises when more capillaries are perfused.",
+  "explanation_incorrect": {
+    "B": "πBS is essentially zero, not equal to πGC; if proteins entered Bowman space the oncotic gradient favoring filtration would increase, but that is not the normal state.",
+    "C": "Kf is the filtration coefficient reflecting capillary surface area and permeability; recruiting more capillaries increases Kf, not decreases it.",
+    "D": "PBS opposes filtration, so raising Bowman space hydrostatic pressure (as with ureteral obstruction) lowers net filtration pressure and GFR.",
+    "E": "PGC must exceed PBS for filtration to occur; the normal glomerular capillary pressure is substantially higher than Bowman space pressure."
+  },
+  "educationalObjective": "Because the filtrate is protein-free, πBS is normally zero, leaving πGC as the oncotic force opposing filtration.",
+  "source": "Generated from 14. Renal.pdf - Physiology: Glomerular filtration rate"
+},
+{
+  "id": "ren-055",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Glomerular filtration rate",
+  "difficulty": "hard",
+  "vignette": "A 35-year-old man has a serum creatinine of 2.0 mg/dL. His measured 24-hour creatinine clearance is 90 mL/min, but a simultaneous iothalamate clearance, considered a true GFR measurement, is 80 mL/min.",
+  "question": "Which of the following best explains why creatinine clearance does not exactly equal true GFR in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Creatinine is freely filtered with no tubular handling; the 10 mL/min gap is purely laboratory error"
+    },
+    {
+      "id": "B",
+      "text": "Creatinine is actively reabsorbed, so its clearance is lower than GFR"
+    },
+    {
+      "id": "C",
+      "text": "Creatinine is moderately secreted by the proximal tubule, so creatinine clearance slightly overestimates true GFR"
+    },
+    {
+      "id": "D",
+      "text": "Creatinine is not filtered at all and is cleared entirely by tubular secretion"
+    },
+    {
+      "id": "E",
+      "text": "Creatinine clearance normally equals renal plasma flow rather than GFR"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Creatinine is freely filtered and also moderately secreted by the proximal tubule. Because a small additional amount is added to the urine beyond what was filtered, creatinine clearance slightly overestimates true GFR (here 90 vs 80 mL/min). This is why creatinine clearance is only an approximate clinical estimate of GFR.",
+  "explanation_incorrect": {
+    "A": "The consistent small overestimate is a real physiologic effect of tubular secretion, not random laboratory error; creatinine is not handled identically to inulin.",
+    "B": "If creatinine were reabsorbed, its clearance would be lower than GFR; the observed value is higher than the true GFR, indicating secretion, not reabsorption.",
+    "D": "Creatinine is freely filtered at the glomerulus; secretion is an additional, not exclusive, route of elimination.",
+    "E": "Renal plasma flow (~600 mL/min) is estimated with PAH clearance, not creatinine; creatinine clearance approximates GFR (~100 mL/min)."
+  },
+  "educationalObjective": "Creatinine clearance approximates but slightly overestimates GFR because creatinine is moderately secreted by the proximal tubule.",
+  "source": "Generated from 14. Renal.pdf - Physiology: Glomerular filtration rate"
+},
+{
+  "id": "ren-056",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Glomerular filtration rate",
+  "difficulty": "medium",
+  "vignette": "A patient's glomerular filtration rate falls from a normal 100 mL/min to 50 mL/min. The clinician reviews the relationship between plasma creatinine concentration and GFR, which is hyperbolic rather than linear.",
+  "question": "Which of the following best describes the expected change in this patient's plasma creatinine?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It remains at about 1.0 mg/dL because GFR and creatinine are linearly related"
+    },
+    {
+      "id": "B",
+      "text": "It decreases to about 0.5 mg/dL"
+    },
+    {
+      "id": "C",
+      "text": "It rises in exact linear proportion to about 1.5 mg/dL"
+    },
+    {
+      "id": "D",
+      "text": "It rises all the way to about 10 mg/dL"
+    },
+    {
+      "id": "E",
+      "text": "It roughly doubles, to about 2 mg/dL, as GFR falls by half"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Creatinine is filtered (with a small secretory component), so at steady state its plasma concentration is inversely related to GFR. Because the relationship is hyperbolic, halving GFR from 100 to 50 mL/min approximately doubles the plasma creatinine from about 1 to about 2 mg/dL. This inverse relation is why serum creatinine is a useful, if imperfect, clinical marker of GFR.",
+  "explanation_incorrect": {
+    "A": "Creatinine does not stay constant when GFR falls; reduced filtration causes it to accumulate in plasma, and the relationship is inverse, not absent.",
+    "B": "A fall in GFR reduces creatinine excretion, so plasma creatinine rises rather than falls.",
+    "C": "The relationship is hyperbolic/inverse, not a simple linear rise; a drop from 100 to 50 mL/min produces roughly a doubling of creatinine, not a small linear increment to 1.5 mg/dL.",
+    "D": "A jump to 10 mg/dL would imply a far more severe loss of GFR than 50 mL/min; that magnitude is out of proportion to a halving of filtration."
+  },
+  "educationalObjective": "Plasma creatinine is inversely (hyperbolically) related to GFR, so halving GFR roughly doubles serum creatinine.",
+  "source": "Generated from 14. Renal.pdf - Physiology: Glomerular filtration rate"
+}
+]

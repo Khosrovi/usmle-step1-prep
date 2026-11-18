@@ -1,0 +1,166 @@
+[
+{
+  "id": "ren-108",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Juxtaglomerular apparatus",
+  "difficulty": "easy",
+  "vignette": "A medical student examines a renal histology slide focusing on the region where the afferent arteriole comes into contact with the distal convoluted tubule. She is asked to identify the individual cell types of the juxtaglomerular apparatus and their specialized functions.",
+  "question": "Which of the following structures is the NaCl sensor of the juxtaglomerular apparatus?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Macula densa"
+    },
+    {
+      "id": "B",
+      "text": "Mesangial cells"
+    },
+    {
+      "id": "C",
+      "text": "Juxtaglomerular cells"
+    },
+    {
+      "id": "D",
+      "text": "Podocyte foot processes"
+    },
+    {
+      "id": "E",
+      "text": "Principal cells of the collecting duct"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "The juxtaglomerular apparatus consists of mesangial cells, JG cells (modified smooth muscle of the afferent arteriole), and the macula densa, which is the NaCl-sensing cell group located in the distal convoluted tubule. The macula densa senses decreased NaCl delivery and signals JG cells via gap junctions to release renin. Podocytes form part of the filtration barrier, and principal cells reside in the collecting duct.",
+  "explanation_incorrect": {
+    "B": "Mesangial cells are structural and contractile glomerular cells, not the NaCl sensor of the JGA.",
+    "C": "JG cells are modified afferent arteriolar smooth muscle that secrete renin; they are not the NaCl sensor.",
+    "D": "Podocyte foot processes form part of the glomerular filtration barrier and do not sense tubular NaCl.",
+    "E": "Principal cells are in the collecting duct and handle Na+, K+, and water, but are not part of the JGA NaCl-sensing apparatus."
+  },
+  "educationalObjective": "The macula densa, located in the distal convoluted tubule, is the NaCl sensor of the juxtaglomerular apparatus.",
+  "source": "Generated from 14. Renal.pdf - Physiology: Juxtaglomerular apparatus"
+},
+{
+  "id": "ren-109",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Juxtaglomerular apparatus",
+  "difficulty": "medium",
+  "vignette": "A 55-year-old man takes a nonselective beta-blocker for hypertension. His blood pressure falls partly because of reduced cardiac output and partly because of reduced renin release from the kidney. His physician asks which receptor mediates the effect on renin.",
+  "question": "Beta-blockers lower renin release by acting on which of the following?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Beta-2 receptors on the macula densa"
+    },
+    {
+      "id": "B",
+      "text": "Alpha-1 receptors on the afferent arteriole"
+    },
+    {
+      "id": "C",
+      "text": "AT1 receptors on juxtaglomerular cells"
+    },
+    {
+      "id": "D",
+      "text": "Beta-1 receptors on mesangial cells"
+    },
+    {
+      "id": "E",
+      "text": "Beta-1 receptors on juxtaglomerular cells"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "The source states that beta-blockers lower blood pressure by reducing cardiac output and by inhibiting beta-1 receptors of the JGA, which decreases renin release. The beta-1 receptors that control renin secretion are located on the JG cells (modified afferent arteriolar smooth muscle), not on the macula densa, mesangial cells, or AT1 receptors. This is one reason beta-blockers can be useful in hypertension with high renin.",
+  "explanation_incorrect": {
+    "A": "The relevant adrenergic receptor is beta-1 on JG cells, not beta-2 on the macula densa.",
+    "B": "Alpha-1 receptors on the afferent arteriole mediate vasoconstriction, not the beta-blocker effect on renin release.",
+    "C": "AT1 receptors mediate angiotensin II effects and negative feedback on renin; beta-blockers do not act there.",
+    "D": "The beta-1 receptors controlling renin release are on JG cells, not on mesangial cells."
+  },
+  "educationalObjective": "Beta-blockers reduce renin secretion by blocking beta-1 receptors on juxtaglomerular cells of the JGA.",
+  "source": "Generated from 14. Renal.pdf - Physiology: Juxtaglomerular apparatus"
+},
+{
+  "id": "ren-110",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Juxtaglomerular apparatus",
+  "difficulty": "hard",
+  "vignette": "A researcher selectively disrupts the gap junctions between macula densa cells and juxtaglomerular cells in an animal model. The rest of the nephron is intact, and systemic angiotensin II and aldosterone levels are initially normal.",
+  "question": "Which of the following consequences would follow most directly from loss of this gap-junction communication?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Loss of charge selectivity of the glomerular filtration barrier"
+    },
+    {
+      "id": "B",
+      "text": "Impaired signal from the macula densa that increases renin release in response to low NaCl"
+    },
+    {
+      "id": "C",
+      "text": "Inability of the afferent arteriole to mount a myogenic constriction"
+    },
+    {
+      "id": "D",
+      "text": "Complete loss of aldosterone synthesis in the adrenal cortex"
+    },
+    {
+      "id": "E",
+      "text": "Inability of ADH to insert aquaporins in the collecting duct"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Communication between JG cells and the macula densa occurs via gap junctions. Decreased NaCl delivery to the macula densa normally increases renin release, causing efferent arteriolar constriction and increased GFR through this signaling. Disrupting the gap junctions would impair this macula densa-to-JG signal. The myogenic response is intrinsic to afferent vascular smooth muscle, the filtration barrier depends on podocytes/GBM/endothelium, aldosterone is regulated mainly by angiotensin II and potassium, and ADH acts on collecting duct principal cells; none of these require JGA gap junctions.",
+  "explanation_incorrect": {
+    "A": "Filtration barrier charge selectivity depends on the GBM and podocyte foot processes, independent of JGA gap junctions.",
+    "C": "Myogenic autoregulation is intrinsic to afferent arteriolar smooth muscle and does not require macula densa gap junctions.",
+    "D": "Aldosterone secretion is driven mainly by angiotensin II and hyperkalemia, not by JGA gap-junction signaling.",
+    "E": "ADH-mediated aquaporin insertion occurs in collecting duct principal cells and is independent of JGA gap junctions."
+  },
+  "educationalObjective": "Gap junctions between the macula densa and JG cells transmit the low-NaCl signal that stimulates renin release.",
+  "source": "Generated from 14. Renal.pdf - Physiology: Juxtaglomerular apparatus"
+},
+{
+  "id": "ren-111",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Juxtaglomerular apparatus",
+  "difficulty": "medium",
+  "vignette": "A physiology lecture contrasts the two autoregulatory roles of the juxtaglomerular apparatus: a rapid response to changing perfusion pressure and a slower hormonal response that maintains filtration over time.",
+  "question": "Which of the following statements best summarizes the function of the juxtaglomerular apparatus?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It regulates only long-term blood pressure through aldosterone, with no role in GFR autoregulation"
+    },
+    {
+      "id": "B",
+      "text": "It senses serum osmolality and controls ADH secretion from the posterior pituitary"
+    },
+    {
+      "id": "C",
+      "text": "It generates erythropoietin in response to medullary hypoxia"
+    },
+    {
+      "id": "D",
+      "text": "It prevents short-term changes in GFR through autoregulation and maintains GFR long-term through the renin-angiotensin-aldosterone system"
+    },
+    {
+      "id": "E",
+      "text": "It is the primary site of angiotensin I-to-II conversion in the lung"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "The JGA prevents short-term changes in GFR through autoregulation and maintains GFR long-term through regulation of the RAAS. It does not generate erythropoietin (that comes from peritubular interstitial cells), does not sense osmolality for ADH (a hypothalamic function), and is not the site of pulmonary ACE conversion. These dual roles make the JGA central to both rapid and sustained control of filtration.",
+  "explanation_incorrect": {
+    "A": "The JGA has both short-term autoregulatory and long-term RAAS roles, not only long-term aldosterone effects.",
+    "B": "Serum osmolality sensing and ADH secretion are hypothalamic and posterior pituitary functions, not JGA functions.",
+    "C": "Erythropoietin is produced by peritubular capillary interstitial cells in response to hypoxia, not by the JGA.",
+    "E": "Angiotensin I-to-II conversion occurs mainly in pulmonary endothelium via ACE, not in the JGA."
+  },
+  "educationalObjective": "The JGA mediates short-term GFR autoregulation and long-term GFR maintenance through the RAAS.",
+  "source": "Generated from 14. Renal.pdf - Physiology: Juxtaglomerular apparatus"
+}
+]

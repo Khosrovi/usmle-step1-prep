@@ -1,0 +1,166 @@
+[
+{
+  "id": "ren-323",
+  "subject": "Renal",
+  "major_topic": "Pharmacology",
+  "subtopic": "Angiotensin II receptor blockers",
+  "difficulty": "medium",
+  "vignette": "A 60-year-old man with hypertension and type 2 diabetes is started on losartan. His physician notes that although its clinical effects resemble those of an ACE inhibitor, losartan does not cause the dry cough that many patients experience with ACE inhibitors.",
+  "question": "Which of the following best explains why losartan is less likely than an ACE inhibitor to cause cough?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Losartan inhibits ACE, preventing bradykinin accumulation"
+    },
+    {
+      "id": "B",
+      "text": "Losartan selectively blocks AT1 receptors and does not increase bradykinin levels"
+    },
+    {
+      "id": "C",
+      "text": "Losartan increases bradykinin degradation by activating kininase II"
+    },
+    {
+      "id": "D",
+      "text": "Losartan blocks the conversion of angiotensinogen to angiotensin I"
+    },
+    {
+      "id": "E",
+      "text": "Losartan prevents the release of renin from juxtaglomerular cells"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "ARBs such as losartan, candesartan, and valsartan selectively block binding of angiotensin II to the AT1 receptor, producing effects similar to ACE inhibitors (vasodilation, reduced aldosterone, lower intraglomerular pressure). However, because they act downstream of ACE and do not inhibit kininase II, ARBs do not raise bradykinin levels. Since ACE inhibitor cough and angioedema are bradykinin mediated, ARBs avoid these effects and are valuable in patients intolerant of ACE inhibitors.",
+  "explanation_incorrect": {
+    "A": "Losartan does not inhibit ACE; blocking AT1 receptors is its mechanism, whereas ACE inhibition would raise, not prevent, bradykinin accumulation.",
+    "C": "Losartan does not activate kininase II or accelerate bradykinin degradation; bradykinin metabolism is simply unaffected because ACE is not inhibited.",
+    "D": "Blocking conversion of angiotensinogen to angiotensin I is the mechanism of aliskiren, a direct renin inhibitor, not of losartan.",
+    "E": "Losartan does not prevent renin release; by blocking AT1 receptors and lowering angiotensin II feedback, renin may actually rise."
+  },
+  "educationalObjective": "ARBs block AT1 receptors and, unlike ACE inhibitors, do not increase bradykinin, so they avoid bradykinin-mediated cough.",
+  "source": "Generated from 14. Renal.pdf - Pharmacology: Angiotensin II receptor blockers"
+},
+{
+  "id": "ren-324",
+  "subject": "Renal",
+  "major_topic": "Pharmacology",
+  "subtopic": "Angiotensin II receptor blockers",
+  "difficulty": "medium",
+  "vignette": "A 52-year-old woman with hypertension and proteinuria has been taking an ACE inhibitor for a year but developed a persistent dry cough and one episode of lip swelling. Her physician decides to switch her to a different class that provides similar renoprotection without these effects.",
+  "question": "Which of the following is the most appropriate alternative for this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Captopril"
+    },
+    {
+      "id": "B",
+      "text": "Enalapril"
+    },
+    {
+      "id": "C",
+      "text": "Ramipril"
+    },
+    {
+      "id": "D",
+      "text": "Losartan"
+    },
+    {
+      "id": "E",
+      "text": "Aliskiren"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Losartan is an ARB that selectively blocks AT1 receptors, reproducing the beneficial effects of ACE inhibitors in hypertension, heart failure, proteinuria, and chronic kidney disease without raising bradykinin. Because her cough and angioedema are bradykinin mediated, an ARB provides similar renoprotection while avoiding these adverse effects. ARBs are specifically indicated for patients with ACE inhibitor intolerance such as cough or angioedema.",
+  "explanation_incorrect": {
+    "A": "Captopril is itself an ACE inhibitor and would reproduce the bradykinin-mediated cough and angioedema.",
+    "B": "Enalapril is an ACE inhibitor carrying the same risk of cough and angioedema; it is not an alternative for ACE inhibitor intolerance.",
+    "C": "Ramipril is also an ACE inhibitor and would be expected to cause the same adverse effects.",
+    "E": "Aliskiren is a direct renin inhibitor for hypertension, but it can itself cause angioedema and is relatively contraindicated with other renin-angiotensin blockers; it is not the standard alternative for ACE inhibitor intolerance."
+  },
+  "educationalObjective": "ARBs are the preferred alternative for patients with ACE inhibitor cough or angioedema because they do not raise bradykinin.",
+  "source": "Generated from 14. Renal.pdf - Pharmacology: Angiotensin II receptor blockers"
+},
+{
+  "id": "ren-325",
+  "subject": "Renal",
+  "major_topic": "Pharmacology",
+  "subtopic": "Angiotensin II receptor blockers",
+  "difficulty": "hard",
+  "vignette": "A 64-year-old man with chronic kidney disease is taking valsartan for proteinuria. On a follow-up visit, laboratory studies show a serum potassium of 5.6 mEq/L and a serum creatinine that has risen from 1.6 to 1.9 mg/dL. He reports occasional lightheadedness on standing.",
+  "question": "Which of the following best explains the hyperkalemia and reduced GFR observed with valsartan?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Valsartan increases aldosterone secretion, promoting renal potassium wasting"
+    },
+    {
+      "id": "B",
+      "text": "AT1 blockade raises bradykinin, which directly retains potassium"
+    },
+    {
+      "id": "C",
+      "text": "Valsartan blocks the mineralocorticoid receptor, mimicking spironolactone"
+    },
+    {
+      "id": "D",
+      "text": "Valsartan causes potassium-sparing diuresis by inhibiting ENaC"
+    },
+    {
+      "id": "E",
+      "text": "AT1 blockade reduces aldosterone and efferent arteriolar tone, causing potassium retention and lower GFR"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "By blocking AT1 receptors, valsartan interrupts angiotensin II signaling, which normally stimulates aldosterone release and constricts the efferent arteriole. Reduced aldosterone decreases renal potassium excretion, producing hyperkalemia, especially with underlying CKD. Loss of efferent arteriolar constriction lowers intraglomerular pressure and GFR, raising creatinine. Valsartan can also cause hypotension, and like all agents that block the renin-angiotensin system it is a teratogen.",
+  "explanation_incorrect": {
+    "A": "ARBs decrease aldosterone secretion rather than increasing it; increased aldosterone would cause potassium wasting, not retention.",
+    "B": "ARBs do not raise bradykinin; bradykinin accumulation is an ACE inhibitor effect, and bradykinin does not directly retain potassium.",
+    "C": "Valsartan does not block the mineralocorticoid receptor; that is the mechanism of spironolactone and eplerenone.",
+    "D": "Valsartan does not directly inhibit the epithelial sodium channel (ENaC); that is the mechanism of amiloride and triamterene."
+  },
+  "educationalObjective": "ARBs cause hyperkalemia and a fall in GFR by reducing aldosterone secretion and efferent arteriolar tone; they also cause hypotension and are teratogens.",
+  "source": "Generated from 14. Renal.pdf - Pharmacology: Angiotensin II receptor blockers"
+},
+{
+  "id": "ren-326",
+  "subject": "Renal",
+  "major_topic": "Pharmacology",
+  "subtopic": "Angiotensin II receptor blockers",
+  "difficulty": "easy",
+  "vignette": "A 49-year-old woman with hypertension is reviewed by her physician, who is choosing between an ACE inhibitor and an ARB. The physician explains that ARBs all share the suffix -sartan and block the AT1 receptor.",
+  "question": "Which of the following is an angiotensin II receptor blocker (ARB)?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Candesartan"
+    },
+    {
+      "id": "B",
+      "text": "Captopril"
+    },
+    {
+      "id": "C",
+      "text": "Lisinopril"
+    },
+    {
+      "id": "D",
+      "text": "Ramipril"
+    },
+    {
+      "id": "E",
+      "text": "Enalapril"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Candesartan is an ARB; other ARBs include losartan and valsartan, all ending in -sartan. They selectively block binding of angiotensin II to the AT1 receptor and are used for hypertension, heart failure, proteinuria, and chronic kidney disease, particularly in patients intolerant of ACE inhibitors. Captopril, lisinopril, ramipril, and enalapril are ACE inhibitors.",
+  "explanation_incorrect": {
+    "B": "Captopril is an ACE inhibitor ending in -pril, not an ARB; it blocks ACE and raises bradykinin.",
+    "C": "Lisinopril is an ACE inhibitor, not an ARB.",
+    "D": "Ramipril is an ACE inhibitor, not an ARB.",
+    "E": "Enalapril is an ACE inhibitor, not an ARB."
+  },
+  "educationalObjective": "ARBs include losartan, candesartan, and valsartan (the -sartan drugs) and block the AT1 receptor; the -pril drugs are ACE inhibitors.",
+  "source": "Generated from 14. Renal.pdf - Pharmacology: Angiotensin II receptor blockers"
+}
+]

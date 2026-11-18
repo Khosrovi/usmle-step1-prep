@@ -1,0 +1,248 @@
+[
+{
+  "id": "ren-102",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Renin-angiotensin-aldosterone system",
+  "difficulty": "easy",
+  "vignette": "A 62-year-old man has a severe gastrointestinal hemorrhage and a dropping blood pressure. Renal perfusion falls, and his kidneys respond by releasing a hormone that ultimately raises blood pressure. The released enzyme acts on a circulating substrate to begin a cascade.",
+  "question": "Renin released from his juxtaglomerular cells acts on which of the following substrates?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Angiotensin I"
+    },
+    {
+      "id": "B",
+      "text": "Angiotensinogen"
+    },
+    {
+      "id": "C",
+      "text": "Angiotensin II"
+    },
+    {
+      "id": "D",
+      "text": "Bradykinin"
+    },
+    {
+      "id": "E",
+      "text": "Aldosterone"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Renin is released by juxtaglomerular (JG) cells in response to decreased renal perfusion pressure (detected by afferent arteriolar baroreceptors), increased renal sympathetic discharge at beta-1 receptors, and decreased NaCl delivery to the macula densa. Renin cleaves the hepatic protein angiotensinogen into angiotensin I. ACE in the lung then converts angiotensin I to angiotensin II, which drives aldosterone release. Note that ACE, not renin, degrades bradykinin.",
+  "explanation_incorrect": {
+    "A": "Angiotensin I is the product of renin cleavage of angiotensinogen; ACE, not renin, converts angiotensin I to angiotensin II.",
+    "C": "Angiotensin II is generated from angiotensin I by ACE and is not a direct substrate of renin.",
+    "D": "Bradykinin is broken down by ACE, not renin; its degradation is linked to ACE-inhibitor cough and angioedema.",
+    "E": "Aldosterone is a steroid secreted by the adrenal zona glomerulosa in response to angiotensin II, not a renin substrate."
+  },
+  "educationalObjective": "Renin cleaves hepatic angiotensinogen to angiotensin I; ACE then generates angiotensin II and also degrades bradykinin.",
+  "source": "Generated from 14. Renal.pdf - Physiology: Renin-angiotensin-aldosterone system"
+},
+{
+  "id": "ren-103",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Renin-angiotensin-aldosterone system",
+  "difficulty": "medium",
+  "vignette": "A 45-year-old woman is started on an ACE inhibitor for hypertension. The drug reduces conversion of angiotensin I to angiotensin II. Her physician reviews where most of this conversion normally takes place.",
+  "question": "ACE is most extensively located in the vascular endothelium of which organ?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Liver"
+    },
+    {
+      "id": "B",
+      "text": "Kidney"
+    },
+    {
+      "id": "C",
+      "text": "Brain"
+    },
+    {
+      "id": "D",
+      "text": "Lung"
+    },
+    {
+      "id": "E",
+      "text": "Adrenal cortex"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Although ACE is found in many tissues, conversion of angiotensin I to angiotensin II occurs most extensively in the lung, specifically in vascular endothelial cells. The liver produces angiotensinogen, the kidney's JG cells release renin, and the adrenal zona glomerulosa secretes aldosterone in response to angiotensin II. A local brain renin-angiotensin system exists but is not the main site of systemic conversion.",
+  "explanation_incorrect": {
+    "A": "The liver synthesizes angiotensinogen, the renin substrate, but is not the principal site of ACE-mediated conversion.",
+    "B": "The kidney releases renin from JG cells and has local ACE, but most systemic angiotensin I-to-II conversion occurs in the lung.",
+    "C": "A local brain renin-angiotensin system exists, but it is not where the bulk of circulating angiotensin I is converted.",
+    "E": "The adrenal cortex secretes aldosterone in response to angiotensin II; it is not the main site of ACE activity."
+  },
+  "educationalObjective": "Most conversion of angiotensin I to angiotensin II occurs in pulmonary vascular endothelium.",
+  "source": "Generated from 14. Renal.pdf - Physiology: Renin-angiotensin-aldosterone system"
+},
+{
+  "id": "ren-104",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Renin-angiotensin-aldosterone system",
+  "difficulty": "medium",
+  "vignette": "A 58-year-old man with heart failure has a low effective circulating volume and a chronically activated renin-angiotensin system. His clinician reviews the direct actions of angiotensin II on the renal vasculature.",
+  "question": "Which of the following best describes the net effect of angiotensin II on the renal vasculature?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Preferential efferent arteriolar constriction, increasing filtration fraction"
+    },
+    {
+      "id": "B",
+      "text": "Preferential afferent arteriolar constriction, decreasing filtration fraction"
+    },
+    {
+      "id": "C",
+      "text": "Equal dilation of afferent and efferent arterioles, increasing renal blood flow"
+    },
+    {
+      "id": "D",
+      "text": "Afferent arteriolar dilation via cGMP, increasing GFR"
+    },
+    {
+      "id": "E",
+      "text": "Constriction of the ureter, increasing Bowman space pressure"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Angiotensin II preferentially constricts the efferent arteriole via AT1 receptors. This raises glomerular capillary hydrostatic pressure, preserving GFR and increasing filtration fraction (GFR/RPF) even as renal plasma flow falls. This is why ACE inhibitors can raise serum creatinine, particularly in states of low renal perfusion. Afferent dilation via cGMP is the mechanism of ANP, while prostaglandins dilate the afferent arteriole.",
+  "explanation_incorrect": {
+    "B": "Angiotensin II constricts the efferent, not the afferent, arteriole; afferent constriction would lower GFR.",
+    "C": "Angiotensin II is a vasoconstrictor and reduces renal blood flow rather than dilating both arterioles.",
+    "D": "Afferent dilation via cGMP is mediated by ANP/BNP, not angiotensin II.",
+    "E": "Ureteral constriction would raise Bowman space hydrostatic pressure and lower net filtration; it is not a vascular action of angiotensin II."
+  },
+  "educationalObjective": "Angiotensin II preferentially constricts the efferent arteriole, preserving GFR and raising filtration fraction.",
+  "source": "Generated from 14. Renal.pdf - Physiology: Renin-angiotensin-aldosterone system"
+},
+{
+  "id": "ren-105",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Renin-angiotensin-aldosterone system",
+  "difficulty": "hard",
+  "vignette": "A 50-year-old man receives an intravenous infusion of angiotensin II. His arterial pressure rises substantially, yet his heart rate does not fall reflexively as much as would be expected for the degree of hypertension.",
+  "question": "Which of the following best explains this blunted reflex bradycardia?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Angiotensin II directly stimulates the sinoatrial node to increase heart rate"
+    },
+    {
+      "id": "B",
+      "text": "Angiotensin II dilates skeletal muscle vessels, offsetting the pressor response"
+    },
+    {
+      "id": "C",
+      "text": "Angiotensin II affects baroreceptor function, limiting the reflex bradycardia that normally accompanies its pressor effects"
+    },
+    {
+      "id": "D",
+      "text": "Angiotensin II selectively blocks vagal efferent transmission to the heart"
+    },
+    {
+      "id": "E",
+      "text": "Angiotensin II depletes norepinephrine stores in sympathetic nerve endings"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Angiotensin II helps maintain blood volume and blood pressure and affects baroreceptor function, limiting the reflex bradycardia that would normally accompany its pressor effects. The usual baroreceptor-mediated slowing of heart rate in response to a pressor agent is therefore blunted. Angiotensin II can also facilitate sympathetic neurotransmission rather than depleting norepinephrine, and it is not a direct sinoatrial node stimulant in this setting.",
+  "explanation_incorrect": {
+    "A": "The mechanism concerns altered baroreceptor function, not direct positive chronotropy at the sinoatrial node.",
+    "B": "Angiotensin II is a vasoconstrictor; it does not dilate skeletal muscle vessels to offset its pressor effect.",
+    "D": "The effect is at the level of baroreceptor function and central integration, not selective vagal efferent blockade.",
+    "E": "Angiotensin II generally facilitates sympathetic transmission; it does not deplete norepinephrine stores."
+  },
+  "educationalObjective": "Angiotensin II resets baroreceptor function so its pressor effect is not accompanied by the expected reflex bradycardia.",
+  "source": "Generated from 14. Renal.pdf - Physiology: Renin-angiotensin-aldosterone system"
+},
+{
+  "id": "ren-106",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Renin-angiotensin-aldosterone system",
+  "difficulty": "easy",
+  "vignette": "A 35-year-old woman is hypotensive after a diuretic overdose, and her renin-angiotensin-aldosterone system is activated. Her physician considers which actions of angiotensin II would directly promote water retention by the kidney.",
+  "question": "Which of the following angiotensin II actions directly promotes renal water retention?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Decreased aldosterone secretion"
+    },
+    {
+      "id": "B",
+      "text": "Reduced thirst sensation"
+    },
+    {
+      "id": "C",
+      "text": "Decreased ADH release from the posterior pituitary"
+    },
+    {
+      "id": "D",
+      "text": "Increased K+ secretion by principal cells"
+    },
+    {
+      "id": "E",
+      "text": "Increased ADH release and thirst, with aquaporin-mediated water reabsorption"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Angiotensin II stimulates ADH release from the posterior pituitary and thirst via the hypothalamus, and it increases water reabsorption through aquaporins. It also stimulates aldosterone secretion, increases Na+ reabsorption, and increases K+ secretion. The water-retention effect is specifically mediated by ADH, thirst, and aquaporins. Increased K+ secretion, although a real angiotensin II action, promotes potassium loss rather than water retention.",
+  "explanation_incorrect": {
+    "A": "Angiotensin II increases, not decreases, aldosterone secretion from the adrenal cortex.",
+    "B": "Angiotensin II increases thirst through hypothalamic centers; it does not reduce it.",
+    "C": "Angiotensin II stimulates, not suppresses, ADH release from the posterior pituitary.",
+    "D": "Increased K+ secretion is a genuine angiotensin II effect on principal cells but promotes K+ loss, not water retention."
+  },
+  "educationalObjective": "Angiotensin II promotes water retention by stimulating ADH release, thirst, and aquaporin-mediated water reabsorption.",
+  "source": "Generated from 14. Renal.pdf - Physiology: Renin-angiotensin-aldosterone system"
+},
+{
+  "id": "ren-107",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Renin-angiotensin-aldosterone system",
+  "difficulty": "medium",
+  "vignette": "A 60-year-old patient with renal artery stenosis has chronically activated RAAS. His physician reviews all of the physiologic stimuli that normally cause juxtaglomerular cells to release renin.",
+  "question": "Renin release from juxtaglomerular cells is stimulated by which of the following?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Increased renal perfusion pressure detected by the afferent arteriole"
+    },
+    {
+      "id": "B",
+      "text": "Increased NaCl delivery to the macula densa"
+    },
+    {
+      "id": "C",
+      "text": "Decreased renal perfusion pressure with increased renal sympathetic beta-1 activity"
+    },
+    {
+      "id": "D",
+      "text": "Increased blood volume and increased mean arterial pressure"
+    },
+    {
+      "id": "E",
+      "text": "Activation of AT1 receptors by angiotensin II"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Renin is released by JG cells in response to three stimuli: decreased renal perfusion pressure detected by baroreceptors in the afferent arteriole, increased renal sympathetic discharge acting at beta-1 receptors, and decreased NaCl delivery to macula densa cells. Conversely, increased perfusion pressure, increased macula densa NaCl, and angiotensin II acting at AT1 receptors (negative feedback) suppress renin release.",
+  "explanation_incorrect": {
+    "A": "Increased renal perfusion pressure suppresses renin release; decreased pressure stimulates it.",
+    "B": "Increased NaCl delivery to the macula densa inhibits renin release; decreased delivery stimulates it.",
+    "D": "Increased blood volume and mean arterial pressure suppress the RAAS rather than activating it.",
+    "E": "Angiotensin II acting via AT1 receptors provides negative feedback that inhibits further renin release."
+  },
+  "educationalObjective": "Renin is stimulated by low renal perfusion pressure, increased sympathetic beta-1 tone, and low macula densa NaCl, and is suppressed by the reverse and by angiotensin II feedback.",
+  "source": "Generated from 14. Renal.pdf - Physiology: Renin-angiotensin-aldosterone system"
+}
+]

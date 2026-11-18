@@ -1,0 +1,289 @@
+[
+{
+  "id": "ren-140",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Causes of acidosis and alkalosis",
+  "difficulty": "medium",
+  "vignette": "A 19-year-old man with type 1 diabetes presents with polyuria, polydipsia, weight loss, and Kussmaul respirations. Glucose is 480 mg/dL. Serum sodium is 138 mEq/L, chloride 98 mEq/L, and HCO3 10 mEq/L, giving an anion gap of 30 mEq/L.",
+  "question": "Which of the following best explains the elevated anion gap in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Loss of bicarbonate in stool with a compensating rise in chloride"
+    },
+    {
+      "id": "B",
+      "text": "Hyperchloremia from excessive normal saline administration"
+    },
+    {
+      "id": "C",
+      "text": "Accumulation of ketoacids such as beta-hydroxybutyrate and acetoacetate"
+    },
+    {
+      "id": "D",
+      "text": "Renal bicarbonate wasting from proximal tubular dysfunction"
+    },
+    {
+      "id": "E",
+      "text": "Aldosterone excess driving hydrogen ion secretion"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "The anion gap is Na minus (Cl + HCO3), here 138 minus 108 = 30 mEq/L, well above the normal 8 to 12 mEq/L. Diabetic ketoacidosis is a high-anion-gap metabolic acidosis from accumulation of unmeasured ketoacid anions, captured by the GOLDMARK mnemonic under ketones. The acidosis and Kussmaul respirations follow from the bicarbonate consumed buffering these acids.",
+  "explanation_incorrect": {
+    "A": "Stool bicarbonate loss produces a normal-anion-gap hyperchloremic acidosis, as in the SHARDS mnemonic, not an anion gap of 30 mEq/L.",
+    "B": "Hyperchloremia from normal saline is a normal-anion-gap acidosis because the rise in chloride offsets the fall in bicarbonate.",
+    "D": "Renal bicarbonate wasting from proximal tubular dysfunction is a normal-anion-gap acidosis seen in proximal RTA and Fanconi syndrome.",
+    "E": "Aldosterone excess causes metabolic alkalosis with hypokalemia and hypertension, not a high-anion-gap acidosis."
+  },
+  "educationalObjective": "Diabetic ketoacidosis is a high-anion-gap metabolic acidosis from unmeasured ketoacid anions, one of the GOLDMARK causes.",
+  "source": "Generated from 14. Renal.pdf - Physiology: Causes of acidosis and alkalosis"
+},
+{
+  "id": "ren-141",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Causes of acidosis and alkalosis",
+  "difficulty": "hard",
+  "vignette": "A 38-year-old woman with chronic tension headaches takes acetaminophen 4 g daily for several months. She develops fatigue and is found to have a metabolic acidosis. Sodium is 140 mEq/L, chloride 104 mEq/L, and HCO3 14 mEq/L, with no ketosis, lactate elevation, or renal failure.",
+  "question": "Which unmeasured anion most likely accounts for her high–anion gap acidosis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "D-lactate from exogenous lactic acid administration"
+    },
+    {
+      "id": "B",
+      "text": "Formate from methanol metabolism"
+    },
+    {
+      "id": "C",
+      "text": "Glycolate from ethylene glycol metabolism"
+    },
+    {
+      "id": "D",
+      "text": "Beta-hydroxybutyrate from ketone body accumulation"
+    },
+    {
+      "id": "E",
+      "text": "5-oxoproline (pyroglutamic acid) from chronic acetaminophen use"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Chronic acetaminophen use can deplete glutathione and cause accumulation of 5-oxoproline, producing a high-anion-gap metabolic acidosis without ketosis or lactate elevation. This corresponds to the oxoproline entry in the GOLDMARK mnemonic for high-anion-gap acidosis. Her calculated anion gap is 140 minus 118 = 22 mEq/L.",
+  "explanation_incorrect": {
+    "A": "D-lactate acidosis follows exogenous lactic acid, typically in short bowel syndrome, and is not linked to chronic acetaminophen use.",
+    "B": "Formate accumulation follows methanol ingestion and is typically accompanied by visual disturbances, which this patient lacks.",
+    "C": "Glycolate accumulation follows ethylene glycol ingestion, usually with an osmolar gap and crystalluria, not chronic acetaminophen use.",
+    "D": "Beta-hydroxybutyrate is a ketoacid seen in diabetic, alcoholic, or starvation ketoacidosis, all excluded here by the absence of ketosis."
+  },
+  "educationalObjective": "Chronic acetaminophen use can cause a high-anion-gap metabolic acidosis from 5-oxoproline accumulation, a GOLDMARK cause.",
+  "source": "Generated from 14. Renal.pdf - Physiology: Causes of acidosis and alkalosis"
+},
+{
+  "id": "ren-142",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Causes of acidosis and alkalosis",
+  "difficulty": "easy",
+  "vignette": "A 24-year-old man is found unresponsive after intravenous heroin use. His respiratory rate is 6 per minute. Arterial blood gas shows pH 7.18, PCO2 78 mm Hg, and HCO3 28 mEq/L.",
+  "question": "Which of the following best explains his acid-base disturbance?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Hypoventilation from suppressed respiratory drive causing carbon dioxide retention"
+    },
+    {
+      "id": "B",
+      "text": "Hyperventilation from anxiety causing excessive carbon dioxide elimination"
+    },
+    {
+      "id": "C",
+      "text": "Ketone body accumulation from starvation"
+    },
+    {
+      "id": "D",
+      "text": "Bicarbonate loss from diarrhea"
+    },
+    {
+      "id": "E",
+      "text": "Aldosterone excess causing increased hydrogen ion secretion"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Opioids suppress the respiratory drive, producing hypoventilation and CO2 retention; the elevated PCO2 and acidemia identify a respiratory acidosis. Opioids and sedatives, airway obstruction, acute and chronic lung disease, and weakened respiratory muscles are all classic causes of respiratory acidosis. The low respiratory rate directly confirms hypoventilation.",
+  "explanation_incorrect": {
+    "B": "Hyperventilation from anxiety causes respiratory alkalosis with a low PCO2 and high pH, the opposite of this patient's findings.",
+    "C": "Starvation ketosis causes a high-anion-gap metabolic acidosis with a low HCO3 and compensatory low PCO2, not a PCO2 of 78 mm Hg.",
+    "D": "Diarrhea causes a normal-anion-gap metabolic acidosis from bicarbonate loss, not hypercapnia and acidemia from hypoventilation.",
+    "E": "Aldosterone excess causes metabolic alkalosis with hypertension and hypokalemia, not a respiratory acidosis."
+  },
+  "educationalObjective": "Opioids and sedatives cause respiratory acidosis through hypoventilation and CO2 retention, with high PCO2 and low pH.",
+  "source": "Generated from 14. Renal.pdf - Physiology: Causes of acidosis and alkalosis"
+},
+{
+  "id": "ren-143",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Causes of acidosis and alkalosis",
+  "difficulty": "medium",
+  "vignette": "A student is reviewing the causes of respiratory alkalosis, which arise from hyperventilation and excessive CO2 elimination.",
+  "question": "All of the following are recognized causes of respiratory alkalosis EXCEPT:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Anxiety or panic attack"
+    },
+    {
+      "id": "B",
+      "text": "Hypoxemia at high altitude"
+    },
+    {
+      "id": "C",
+      "text": "Early salicylate intoxication"
+    },
+    {
+      "id": "D",
+      "text": "Opioid or sedative use"
+    },
+    {
+      "id": "E",
+      "text": "Pulmonary embolism"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Opioids and sedatives depress ventilation and cause respiratory acidosis, not respiratory alkalosis. Anxiety, hypoxemia such as at high altitude, early salicylate intoxication, pulmonary embolism, tumor, and pregnancy all drive hyperventilation and produce respiratory alkalosis with a low PCO2 and high pH. The exception is therefore opioid or sedative use.",
+  "explanation_incorrect": {
+    "A": "Anxiety and panic attacks cause hyperventilation and therefore respiratory alkalosis.",
+    "B": "Hypoxemia at high altitude stimulates ventilation through peripheral chemoreceptors, causing respiratory alkalosis.",
+    "C": "Early salicylate intoxication directly stimulates the respiratory center, producing respiratory alkalosis before a late metabolic acidosis predominates.",
+    "E": "Pulmonary embolism causes hypoxemia and reflex hyperventilation, producing respiratory alkalosis."
+  },
+  "educationalObjective": "Opioids and sedatives cause respiratory acidosis, whereas anxiety, hypoxemia, early salicylates, PE, and pregnancy cause respiratory alkalosis.",
+  "source": "Generated from 14. Renal.pdf - Physiology: Causes of acidosis and alkalosis"
+},
+{
+  "id": "ren-144",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Causes of acidosis and alkalosis",
+  "difficulty": "medium",
+  "vignette": "A 35-year-old woman has had 5 days of profuse watery diarrhea. Serum sodium is 140 mEq/L, chloride 116 mEq/L, and HCO3 12 mEq/L, giving an anion gap of 12 mEq/L. She is tachypneic with a PCO2 of 26 mm Hg.",
+  "question": "Which of the following best explains the mechanism of her acidosis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Accumulation of beta-hydroxybutyrate and acetoacetate"
+    },
+    {
+      "id": "B",
+      "text": "Gastrointestinal bicarbonate loss with a compensatory rise in chloride"
+    },
+    {
+      "id": "C",
+      "text": "Methanol metabolism to formic acid"
+    },
+    {
+      "id": "D",
+      "text": "5-oxoproline accumulation from chronic acetaminophen use"
+    },
+    {
+      "id": "E",
+      "text": "Lactic acid accumulation from tissue hypoperfusion"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Diarrhea causes loss of bicarbonate-rich stool fluid, producing a normal-anion-gap hyperchloremic metabolic acidosis; the anion gap here is 140 minus 128 = 12 mEq/L, at the upper limit of normal. The fall in HCO3 is matched by a rise in chloride, which is why the gap stays normal. Diarrhea is the D in the SHARDS mnemonic for normal-anion-gap acidosis, and the low PCO2 reflects appropriate respiratory compensation.",
+  "explanation_incorrect": {
+    "A": "Ketoacid accumulation produces a high-anion-gap acidosis, not the normal gap of 12 mEq/L seen with diarrhea.",
+    "C": "Methanol metabolism to formic acid produces a high-anion-gap acidosis with visual symptoms, not a hyperchloremic normal-gap acidosis.",
+    "D": "5-oxoproline accumulation from acetaminophen is a high-anion-gap acidosis, unlike this patient's normal anion gap.",
+    "E": "Lactic acidosis is a high-anion-gap acidosis from hypoperfusion, which would raise the anion gap above 12 mEq/L."
+  },
+  "educationalObjective": "Diarrhea causes a normal-anion-gap hyperchloremic metabolic acidosis from GI bicarbonate loss, a SHARDS cause, with appropriate hyperventilation.",
+  "source": "Generated from 14. Renal.pdf - Physiology: Causes of acidosis and alkalosis"
+},
+{
+  "id": "ren-145",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Causes of acidosis and alkalosis",
+  "difficulty": "hard",
+  "vignette": "A 32-year-old woman has vomited repeatedly for 5 days. Serum HCO3 is 36 mEq/L and PCO2 is 48 mm Hg. Urine chloride is 10 mEq/L on a random sample.",
+  "question": "Which of the following best classifies her metabolic alkalosis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Saline-resistant due to primary hyperaldosteronism"
+    },
+    {
+      "id": "B",
+      "text": "Saline-resistant due to Gitelman syndrome"
+    },
+    {
+      "id": "C",
+      "text": "Saline-responsive due to vomiting with ongoing hydrogen and chloride loss"
+    },
+    {
+      "id": "D",
+      "text": "Saline-resistant due to current thiazide diuretic use"
+    },
+    {
+      "id": "E",
+      "text": "Saline-resistant due to Bartter syndrome"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "A urine chloride below 20 mEq/L indicates a saline-responsive metabolic alkalosis, in which chloride depletion maintains the alkalosis and volume repletion with chloride corrects it. Vomiting causes loss of gastric HCl and is the classic saline-responsive cause, along with recent diuretic use and antacids. Hyperaldosteronism, Bartter, Gitelman, and current loop or thiazide diuretics are saline-resistant causes with urine chloride above 20 mEq/L.",
+  "explanation_incorrect": {
+    "A": "Primary hyperaldosteronism is saline-resistant with urine chloride above 20 mEq/L and is associated with hypertension, not a low urine chloride.",
+    "B": "Gitelman syndrome is a saline-resistant tubulopathy with hypomagnesemia and urine chloride above 20 mEq/L.",
+    "D": "Current thiazide diuretic use causes saline-resistant alkalosis with urine chloride above 20 mEq/L because the drug is still actively causing chloride loss.",
+    "E": "Bartter syndrome is a saline-resistant defect of the thick ascending limb with urine chloride above 20 mEq/L."
+  },
+  "educationalObjective": "Metabolic alkalosis with urine chloride below 20 mEq/L is saline-responsive, classically from vomiting, recent diuretics, or antacids.",
+  "source": "Generated from 14. Renal.pdf - Physiology: Causes of acidosis and alkalosis"
+},
+{
+  "id": "ren-146",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Causes of acidosis and alkalosis",
+  "difficulty": "easy",
+  "vignette": "A 50-year-old man has hypertension and muscle weakness. Serum HCO3 is 40 mEq/L, potassium 2.9 mEq/L, and PCO2 50 mm Hg. Aldosterone is elevated and renin is suppressed. Urine chloride is 48 mEq/L.",
+  "question": "Which of the following best explains the maintenance of his metabolic alkalosis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Vomiting-induced chloride depletion with urine chloride below 20 mEq/L"
+    },
+    {
+      "id": "B",
+      "text": "Recent loop diuretic use with low urine chloride"
+    },
+    {
+      "id": "C",
+      "text": "Chronic antacid ingestion with low urine chloride"
+    },
+    {
+      "id": "D",
+      "text": "Chronic diarrhea with bicarbonate retention"
+    },
+    {
+      "id": "E",
+      "text": "Mineralocorticoid excess driving hydrogen and potassium secretion with saline-resistant alkalosis"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "A urine chloride above 20 mEq/L classifies this as a saline-resistant metabolic alkalosis. Primary hyperaldosteronism causes increased H+ and K+ secretion in the collecting duct, producing metabolic alkalosis, hypokalemia, and hypertension with suppressed renin. This matches the saline-resistant group that also includes Bartter and Gitelman syndromes and current diuretic use.",
+  "explanation_incorrect": {
+    "A": "Vomiting is a saline-responsive cause with urine chloride below 20 mEq/L and no mineralocorticoid excess, unlike this patient.",
+    "B": "Recent loop diuretic use is saline-responsive with low urine chloride; current use would instead show high urine chloride, and neither explains the high aldosterone with suppressed renin.",
+    "C": "Antacid ingestion causes saline-responsive alkalosis with low urine chloride, not the high urine chloride and hypertension seen here.",
+    "D": "Diarrhea causes a metabolic acidosis from bicarbonate loss, not a metabolic alkalosis."
+  },
+  "educationalObjective": "Mineralocorticoid excess produces a saline-resistant metabolic alkalosis with hypertension, hypokalemia, and urine chloride above 20 mEq/L.",
+  "source": "Generated from 14. Renal.pdf - Physiology: Causes of acidosis and alkalosis"
+}
+]

@@ -1,0 +1,207 @@
+[
+{
+  "id": "ren-077",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Glucose clearance, threshold, and splay",
+  "difficulty": "easy",
+  "vignette": "A 24-year-old man has a routine physical examination. Serum glucose is 85 mg/dL and urinalysis shows no glucose. His proximal tubules are functioning normally.",
+  "question": "Which mechanism is primarily responsible for the absence of glucose in this patient's urine at a normal plasma glucose concentration?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Passive diffusion of glucose across the thin descending limb"
+    },
+    {
+      "id": "B",
+      "text": "Na+/K+/2Cl- cotransport in the thick ascending limb"
+    },
+    {
+      "id": "C",
+      "text": "Glucose secretion into the tubular lumen by the distal convoluted tubule"
+    },
+    {
+      "id": "D",
+      "text": "Na+/glucose cotransport in the proximal convoluted tubule"
+    },
+    {
+      "id": "E",
+      "text": "Aldosterone-driven ENaC reabsorption in the collecting duct"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "At plasma glucose of 60-120 mg/dL, essentially all filtered glucose is reabsorbed in the proximal convoluted tubule by sodium-glucose cotransport at the brush border, so no glucose appears in urine. This saturable, carrier-mediated process reaches its maximum (Tm approximately 375 mg/min) only at much higher glucose levels. The renal threshold (~200 mg/dL) is the plasma level at which glucosuria first appears.",
+  "explanation_incorrect": {
+    "A": "The thin descending limb is permeable mainly to water, not glucose; it concentrates urine and does not reabsorb glucose.",
+    "B": "The Na+/K+/2Cl- cotransporter is in the thick ascending limb and handles salts, not glucose; it is the loop diuretic target.",
+    "C": "Glucose is not secreted in the distal tubule; under normal conditions it is completely reabsorbed in the proximal tubule.",
+    "E": "ENaC in the collecting duct reabsorbs sodium under aldosterone control and is not involved in glucose handling."
+  },
+  "educationalObjective": "Normal plasma glucose is completely reabsorbed in the proximal tubule via Na+/glucose cotransport, so urine is glucose-free.",
+  "source": "Generated from 14. Renal.pdf - Physiology: Glucose clearance, threshold, and splay"
+},
+{
+  "id": "ren-078",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Glucose clearance, threshold, and splay",
+  "difficulty": "medium",
+  "vignette": "A 52-year-old man with poorly controlled diabetes has a plasma glucose of 220 mg/dL. A urine sample tests positive for glucose. His GFR is normal at 100 mL/min.",
+  "question": "The appearance of glucose in the urine at this plasma concentration reflects which renal concept?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The tubular maximum (Tm) for glucose has been reached at this plasma level"
+    },
+    {
+      "id": "B",
+      "text": "The renal threshold for glucose (~200 mg/dL) has been exceeded"
+    },
+    {
+      "id": "C",
+      "text": "Complete saturation of all sodium-glucose transporters"
+    },
+    {
+      "id": "D",
+      "text": "A reduction in GFR below normal"
+    },
+    {
+      "id": "E",
+      "text": "Increased glucose secretion by the proximal tubule"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Glucosuria begins at a plasma glucose of about 200 mg/dL, the renal threshold, which is well below the plasma level needed to saturate all transporters (Tm approximately 375 mg/min). At 220 mg/dL, the filtered glucose load exceeds the reabsorptive capacity of some nephrons, so glucose spills into urine. Complete saturation (Tm) occurs only at much higher glucose levels.",
+  "explanation_incorrect": {
+    "A": "Tm (~375 mg/min) is reached at a much higher plasma glucose than 220 mg/dL; the threshold is crossed first.",
+    "C": "Not all transporters are saturated at 220 mg/dL; some reabsorption continues, which is why excretion rises gradually (splay).",
+    "D": "GFR is normal here; glucosuria at this level reflects a filtered load exceeding reabsorptive capacity, not reduced filtration.",
+    "E": "Glucose is not secreted by the proximal tubule; glucosuria results from incomplete reabsorption, not secretion."
+  },
+  "educationalObjective": "Glucosuria begins at the renal threshold (~200 mg/dL), before the tubular maximum (Tm ~375 mg/min) is reached.",
+  "source": "Generated from 14. Renal.pdf - Physiology: Glucose clearance, threshold, and splay"
+},
+{
+  "id": "ren-079",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Glucose clearance, threshold, and splay",
+  "difficulty": "medium",
+  "vignette": "A physiology student examines a glucose titration curve: excreted glucose rises gradually between plasma glucose of 200 mg/dL and the point of maximal reabsorption, rather than jumping abruptly from zero to maximal excretion.",
+  "question": "Which explanation best accounts for this gradual rise (the splay phenomenon)?",
+  "options": [
+    {
+      "id": "A",
+      "text": "GFR progressively rises as plasma glucose increases"
+    },
+    {
+      "id": "B",
+      "text": "Glucose is increasingly secreted by the distal nephron at high plasma levels"
+    },
+    {
+      "id": "C",
+      "text": "Nephron heterogeneity: individual nephrons have different transport maxima (Tm)"
+    },
+    {
+      "id": "D",
+      "text": "Aldosterone activity increases glucose reabsorption in the collecting duct"
+    },
+    {
+      "id": "E",
+      "text": "The glomerular charge barrier becomes saturated with glucose"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "The splay phenomenon is the gradual increase in glucose excretion between the threshold and the Tm, caused by nephron heterogeneity: different nephrons have different Tm values and reach saturation at different plasma glucose levels. As a result, some nephrons spill glucose while others still reabsorb it, producing a smooth curve rather than a sharp corner. GFR is constant and glucose is not secreted.",
+  "explanation_incorrect": {
+    "A": "GFR is essentially constant over this range; the splay reflects varying nephron Tm, not changing filtration.",
+    "B": "Glucose is reabsorbed, not secreted, in the proximal tubule; there is no distal glucose secretion.",
+    "D": "Aldosterone regulates sodium, potassium, and hydrogen handling in the collecting duct, not glucose reabsorption.",
+    "E": "Glucose is freely filtered and not charge-restricted; the charge barrier concerns proteins such as albumin."
+  },
+  "educationalObjective": "Splay is the gradual rise in glucosuria between threshold and Tm caused by nephron heterogeneity in glucose transport maxima.",
+  "source": "Generated from 14. Renal.pdf - Physiology: Glucose clearance, threshold, and splay"
+},
+{
+  "id": "ren-080",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Glucose clearance, threshold, and splay",
+  "difficulty": "hard",
+  "vignette": "A 28-year-old woman at 32 weeks' gestation has a fasting serum glucose of 92 mg/dL, yet a routine urinalysis shows 2+ glucose. She has no history of diabetes and her HbA1c is normal.",
+  "question": "Which change in renal physiology best explains glucosuria at a normal plasma glucose concentration in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Increased proximal tubular Na+/glucose cotransporter density raising the Tm"
+    },
+    {
+      "id": "B",
+      "text": "Decreased GFR reducing the filtered glucose load"
+    },
+    {
+      "id": "C",
+      "text": "Gain-of-function mutation in the glucose transporter causing over-reabsorption"
+    },
+    {
+      "id": "D",
+      "text": "Increased aldosterone driving glucose secretion in the collecting duct"
+    },
+    {
+      "id": "E",
+      "text": "Increased GFR lowering the plasma glucose threshold"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Normal pregnancy is associated with an increased GFR, so more glucose is filtered at any given plasma concentration. Because the filtered load rises, the renal threshold is reached at a lower plasma glucose, producing glucosuria despite normal serum glucose; this is physiologic and not diagnostic of diabetes. The Tm is not raised; rather the threshold shifts downward.",
+  "explanation_incorrect": {
+    "A": "Increasing transporter density/Tm would reduce glucosuria, not cause it; pregnancy does not raise the Tm.",
+    "B": "GFR is increased, not decreased, in pregnancy; a lower GFR would lower the filtered load and reduce glucosuria.",
+    "C": "A gain-of-function transporter would enhance reabsorption and prevent glucose loss; pregnancy does not involve such a mutation.",
+    "D": "Aldosterone does not regulate glucose transport; glucosuria here is due to the increased filtered load."
+  },
+  "educationalObjective": "Pregnancy raises GFR, lowering the glucose threshold so glucosuria can occur at normal plasma glucose.",
+  "source": "Generated from 14. Renal.pdf - Physiology: Glucose clearance, threshold, and splay"
+},
+{
+  "id": "ren-081",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Glucose clearance, threshold, and splay",
+  "difficulty": "easy",
+  "vignette": "A 60-year-old man with type 2 diabetes starts empagliflozin. He develops glycosuria while his serum glucose is 150 mg/dL, well below the usual threshold of about 200 mg/dL.",
+  "question": "Which statement best explains this drug-induced glucosuria?",
+  "options": [
+    {
+      "id": "A",
+      "text": "SGLT2 inhibition reduces proximal glucose reabsorption, causing glucosuria below the usual threshold"
+    },
+    {
+      "id": "B",
+      "text": "The drug raises the renal threshold for glucose above 200 mg/dL"
+    },
+    {
+      "id": "C",
+      "text": "The drug increases the tubular maximum (Tm) for glucose reabsorption"
+    },
+    {
+      "id": "D",
+      "text": "The drug causes glucose secretion in the distal convoluted tubule"
+    },
+    {
+      "id": "E",
+      "text": "The drug reduces GFR so filtered glucose exceeds reabsorptive capacity"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "SGLT2 inhibitors (the -flozin drugs) block the sodium-glucose cotransporter in the proximal tubule, reducing glucose reabsorption so glucose is excreted at plasma concentrations below 200 mg/dL. This glucosuria occurs at lower plasma glucose than the normal renal threshold and is a clinical clue to the drug's mechanism. The effective Tm is reduced, not raised, and GFR is not the primary driver.",
+  "explanation_incorrect": {
+    "B": "The drug lowers the effective threshold for glucose spillage; it does not raise it above 200 mg/dL.",
+    "C": "Inhibiting the transporter reduces the tubular maximum for reabsorption rather than increasing it.",
+    "D": "The drug blocks reabsorption in the proximal tubule; it does not stimulate distal glucose secretion.",
+    "E": "SGLT2 inhibitors do not lower GFR as their primary glucosuric mechanism; the effect is reduced proximal reabsorption."
+  },
+  "educationalObjective": "SGLT2 (-flozin) inhibitors cause glucosuria at plasma glucose <200 mg/dL by blocking proximal tubular glucose reabsorption.",
+  "source": "Generated from 14. Renal.pdf - Physiology: Glucose clearance, threshold, and splay"
+}
+]

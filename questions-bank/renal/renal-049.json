@@ -1,0 +1,207 @@
+[
+{
+  "id": "ren-047",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Renal clearance",
+  "difficulty": "easy",
+  "vignette": "A researcher administers a substance that is freely filtered and not otherwise handled by the tubules. A 10-minute urine collection yields 10 mL of urine with a substance concentration of 50 mg/mL. The simultaneous plasma concentration of the substance is 0.5 mg/mL.",
+  "question": "What is the renal clearance of this substance?",
+  "options": [
+    {
+      "id": "A",
+      "text": "25 mL/min"
+    },
+    {
+      "id": "B",
+      "text": "50 mL/min"
+    },
+    {
+      "id": "C",
+      "text": "100 mL/min"
+    },
+    {
+      "id": "D",
+      "text": "1000 mL/min"
+    },
+    {
+      "id": "E",
+      "text": "0.01 mL/min"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Clearance is the volume of plasma completely cleared of a substance per unit time: Cx = (Ux × V) / Px. Urine flow rate V is 10 mL / 10 min = 1 mL/min. Thus Cx = (50 mg/mL × 1 mL/min) / 0.5 mg/mL = 50 ÷ 0.5 = 100 mL/min. This is a typical inulin-like value and approximates GFR.",
+  "explanation_incorrect": {
+    "A": "This results from inverting the flow term, Ux × Px / V = 50 × 0.5 / 1 = 25 mL/min; clearance requires dividing by plasma concentration, not multiplying.",
+    "B": "This uses only urine concentration times flow (Ux × V = 50 mg/min), which is the excretion rate in mg/min, not a plasma volume cleared per minute.",
+    "D": "This treats the entire 10-minute urine volume (10 mL) as a per-minute flow rate: 50 × 10 / 0.5 = 1000 mL/min. Flow must first be converted to 1 mL/min.",
+    "E": "This inverts the whole formula, Px / (Ux × V) = 0.5 / 50 = 0.01, giving units of mL/mg rather than mL/min."
+  },
+  "educationalObjective": "Renal clearance is Cx = (Ux × V)/Px, the plasma volume cleared of a substance per unit time; always convert urine volume to a per-minute flow rate first.",
+  "source": "Generated from 14. Renal.pdf - Physiology: Renal clearance"
+},
+{
+  "id": "ren-048",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Renal clearance",
+  "difficulty": "medium",
+  "vignette": "In a healthy adult, inulin clearance is measured at 100 mL/min and taken as the GFR. A different substance X is infused, and its clearance is simultaneously measured at 20 mL/min.",
+  "question": "Which conclusion about the renal handling of substance X is best supported by these values?",
+  "options": [
+    {
+      "id": "A",
+      "text": "X undergoes net tubular reabsorption and/or is not freely filtered"
+    },
+    {
+      "id": "B",
+      "text": "X undergoes net tubular secretion into the lumen"
+    },
+    {
+      "id": "C",
+      "text": "X is freely filtered with neither reabsorption nor secretion"
+    },
+    {
+      "id": "D",
+      "text": "X is freely filtered and its clearance exceeds the GFR"
+    },
+    {
+      "id": "E",
+      "text": "X is completely cleared from plasma in a single pass through the kidney"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Because substance X has a clearance (20 mL/min) far below the GFR (100 mL/min), it must either not be freely filtered at the glomerulus or undergo net tubular reabsorption after filtration, or both. Clearance below GFR is the signature of net reabsorption and/or restricted filtration. By contrast, clearance equal to GFR means no net transport, and clearance above GFR means net secretion.",
+  "explanation_incorrect": {
+    "B": "Net tubular secretion would add X to the urine and make its clearance greater than GFR, not less; here clearance is only 20 mL/min.",
+    "C": "A freely filtered substance with no net reabsorption or secretion would have a clearance equal to GFR (about 100 mL/min), as inulin does, not 20 mL/min.",
+    "D": "The data show the opposite: X clearance is one-fifth of GFR, so it does not exceed GFR.",
+    "E": "Complete single-pass clearance would produce a clearance approaching renal plasma flow (~600 mL/min), a hallmark of PAH, not a low value of 20 mL/min."
+  },
+  "educationalObjective": "A clearance less than GFR indicates net tubular reabsorption and/or that the substance is not freely filtered.",
+  "source": "Generated from 14. Renal.pdf - Physiology: Renal clearance"
+},
+{
+  "id": "ren-049",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Renal clearance",
+  "difficulty": "medium",
+  "vignette": "In a research subject, inulin clearance (GFR) is 100 mL/min. Para-aminohippuric acid (PAH) clearance measured at the same time is approximately 600 mL/min.",
+  "question": "The finding that PAH clearance greatly exceeds GFR indicates which of the following?",
+  "options": [
+    {
+      "id": "A",
+      "text": "PAH is not freely filtered at the glomerulus"
+    },
+    {
+      "id": "B",
+      "text": "PAH undergoes net tubular reabsorption"
+    },
+    {
+      "id": "C",
+      "text": "PAH is handled identically to inulin"
+    },
+    {
+      "id": "D",
+      "text": "PAH undergoes net tubular secretion"
+    },
+    {
+      "id": "E",
+      "text": "PAH clearance is a valid measure of GFR"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "When a substance's clearance exceeds GFR, more of it appears in the urine than could have been delivered by filtration alone; the excess must come from net tubular secretion. PAH is both filtered and actively secreted by the proximal tubule, so its clearance (~600 mL/min) approaches renal plasma flow and is far above GFR.",
+  "explanation_incorrect": {
+    "A": "If PAH were not freely filtered, its clearance would be lower than GFR, not six times higher; in fact PAH is freely filtered.",
+    "B": "Reabsorption would remove PAH from the lumen and lower its clearance below GFR; the very high observed clearance points to secretion instead.",
+    "C": "A substance handled like inulin would have a clearance equal to GFR (~100 mL/min), not 600 mL/min.",
+    "E": "Because PAH is secreted, its clearance overestimates GFR; inulin (or creatinine approximately), not PAH, is used to measure GFR."
+  },
+  "educationalObjective": "A clearance greater than GFR indicates net tubular secretion; PAH secretion makes its clearance approximate renal plasma flow.",
+  "source": "Generated from 14. Renal.pdf - Physiology: Renal clearance"
+},
+{
+  "id": "ren-050",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Renal clearance",
+  "difficulty": "easy",
+  "vignette": "A substance is infused into a healthy volunteer. Urine flow is 1 mL/min, urine concentration of the substance is 100 mg/mL, and plasma concentration is 1 mg/mL. Its clearance is therefore 100 mL/min, exactly equal to the simultaneously measured inulin clearance.",
+  "question": "Which statement best describes this substance's renal handling?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It undergoes net tubular reabsorption"
+    },
+    {
+      "id": "B",
+      "text": "It is freely filtered with no net reabsorption or secretion"
+    },
+    {
+      "id": "C",
+      "text": "It undergoes net tubular secretion"
+    },
+    {
+      "id": "D",
+      "text": "It is not filtered at the glomerulus"
+    },
+    {
+      "id": "E",
+      "text": "Its clearance approximates renal plasma flow"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "A clearance equal to GFR means that the amount excreted equals the amount filtered, so there is no net tubular reabsorption or secretion. This is the defining behavior of inulin, which is freely filtered and neither reabsorbed nor secreted; the substance in this vignette behaves identically (Cx = 100 × 1 / 1 = 100 mL/min = GFR).",
+  "explanation_incorrect": {
+    "A": "Net reabsorption would make clearance less than GFR, because less of the filtered substance would reach the urine.",
+    "C": "Net secretion would make clearance greater than GFR, because additional substance would be added to the tubular fluid beyond what was filtered.",
+    "D": "A substance that is not filtered would have a clearance near zero, not a clearance equal to GFR.",
+    "E": "Renal plasma flow is roughly 600 mL/min; a clearance of 100 mL/min is far below it and instead tracks GFR."
+  },
+  "educationalObjective": "When clearance equals GFR, the substance is freely filtered and undergoes no net tubular reabsorption or secretion.",
+  "source": "Generated from 14. Renal.pdf - Physiology: Renal clearance"
+},
+{
+  "id": "ren-051",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Renal clearance",
+  "difficulty": "hard",
+  "vignette": "For substance Y, the urine concentration is 25 mg/mL, the urine flow rate is 2 mL/min, and the plasma concentration is 0.5 mg/mL. Inulin clearance measured in the same period is 100 mL/min.",
+  "question": "Which of the following best characterizes the renal handling of substance Y?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It is net reabsorbed because its clearance falls below the GFR"
+    },
+    {
+      "id": "B",
+      "text": "It is net secreted with a clearance of 200 mL/min"
+    },
+    {
+      "id": "C",
+      "text": "It is not freely filtered, so its clearance cannot be computed from these data"
+    },
+    {
+      "id": "D",
+      "text": "It has a clearance equal to half the GFR"
+    },
+    {
+      "id": "E",
+      "text": "It is freely filtered with neither net reabsorption nor secretion; clearance equals GFR"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "First compute clearance: excreted amount = Ux × V = 25 mg/mL × 2 mL/min = 50 mg/min; Cx = 50 / 0.5 = 100 mL/min. This exactly equals the inulin-derived GFR of 100 mL/min. A clearance equal to GFR means the quantity excreted equals the quantity filtered, so substance Y undergoes no net reabsorption or secretion and behaves like inulin.",
+  "explanation_incorrect": {
+    "A": "This misstates the result: the computed clearance is 100 mL/min, equal to rather than below GFR, so there is no net reabsorption.",
+    "B": "This comes from an arithmetic slip (e.g., dividing by 0.25 mg/mL instead of 0.5) giving 200 mL/min; the correct denominator yields 100 mL/min, and no secretion is present.",
+    "C": "Clearance is computed directly from urine concentration, flow, and plasma concentration regardless of filtration status; the data are sufficient and give 100 mL/min.",
+    "D": "This uses only the urine flow of 1 mL/min equivalent (25 × 1 / 0.5 = 50 mL/min); the actual flow is 2 mL/min, giving 100 mL/min, not half of GFR."
+  },
+  "educationalObjective": "Combine Cx = (Ux × V)/Px with the clearance-versus-GFR comparison: equality means no net tubular transport.",
+  "source": "Generated from 14. Renal.pdf - Physiology: Renal clearance"
+}
+]

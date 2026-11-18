@@ -1,0 +1,125 @@
+[
+{
+  "id": "ren-327",
+  "subject": "Renal",
+  "major_topic": "Pharmacology",
+  "subtopic": "Aliskiren",
+  "difficulty": "medium",
+  "vignette": "A 56-year-old man with hypertension is started on aliskiren. Laboratory testing after several weeks shows reduced plasma renin activity and reduced levels of angiotensin I and angiotensin II. His blood pressure improves.",
+  "question": "Which of the following best describes the mechanism of action of aliskiren?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Inhibition of ACE, preventing conversion of angiotensin I to angiotensin II"
+    },
+    {
+      "id": "B",
+      "text": "Selective blockade of the AT1 receptor for angiotensin II"
+    },
+    {
+      "id": "C",
+      "text": "Direct inhibition of renin, blocking conversion of angiotensinogen to angiotensin I"
+    },
+    {
+      "id": "D",
+      "text": "Inhibition of aldosterone synthase in the adrenal cortex"
+    },
+    {
+      "id": "E",
+      "text": "Increased degradation of bradykinin by kininase II"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Aliskiren is a direct renin inhibitor. It binds renin and blocks its enzymatic activity, preventing cleavage of angiotensinogen to angiotensin I. This reduces the entire downstream renin-angiotensin-aldosterone cascade, lowering angiotensin I, angiotensin II, and aldosterone. It is the only drug that acts at the renin step (aliskiren kills renin) and is used for hypertension. Because it acts at the top of the cascade, it lowers plasma renin activity, unlike ACE inhibitors and ARBs, which raise renin.",
+  "explanation_incorrect": {
+    "A": "Inhibition of ACE is the mechanism of the -pril drugs, not aliskiren; aliskiren acts upstream at renin.",
+    "B": "Selective AT1 receptor blockade is the mechanism of the -sartan drugs (ARBs), not of aliskiren.",
+    "D": "Aldosterone synthase inhibition is not aliskiren's mechanism; aliskiren reduces aldosterone indirectly by lowering angiotensin II.",
+    "E": "Aliskiren does not affect bradykinin degradation; kininase II is ACE, which is inhibited by ACE inhibitors."
+  },
+  "educationalObjective": "Aliskiren is a direct renin inhibitor that blocks conversion of angiotensinogen to angiotensin I, suppressing the entire renin-angiotensin cascade.",
+  "source": "Generated from 14. Renal.pdf - Pharmacology: Aliskiren"
+},
+{
+  "id": "ren-328",
+  "subject": "Renal",
+  "major_topic": "Pharmacology",
+  "subtopic": "Aliskiren",
+  "difficulty": "hard",
+  "vignette": "A 67-year-old man with hypertension and diabetic nephropathy is currently taking an ACE inhibitor. His physician considers adding aliskiren for additional blood pressure control but recalls an important safety concern about combining drugs that block the renin-angiotensin system.",
+  "question": "Which of the following best explains why aliskiren is relatively contraindicated in a patient already taking an ACE inhibitor?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Aliskiren is metabolized by ACE, so ACE inhibition increases its toxicity"
+    },
+    {
+      "id": "B",
+      "text": "Combined blockade of the renin-angiotensin system increases the risk of hyperkalemia, hypotension, and renal impairment without added benefit"
+    },
+    {
+      "id": "C",
+      "text": "ACE inhibitors and aliskiren both raise bradykinin, causing severe angioedema when combined"
+    },
+    {
+      "id": "D",
+      "text": "Aliskiren is a teratogen, and ACE inhibitors reverse its teratogenic effects"
+    },
+    {
+      "id": "E",
+      "text": "ACE inhibitors prevent absorption of aliskiren from the gastrointestinal tract"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Aliskiren and ACE inhibitors both suppress the renin-angiotensin system, and combining them produces dual blockade that can cause additive hyperkalemia, hypotension, and acute kidney injury without meaningful additional cardiovascular or renal benefit. For this reason aliskiren is relatively contraindicated in patients already taking an ACE inhibitor or ARB. Aliskiren is also absolutely contraindicated in pregnancy because, like other renin-angiotensin blockers, it is a teratogen.",
+  "explanation_incorrect": {
+    "A": "Aliskiren is not metabolized by ACE; the concern is pharmacodynamic dual blockade, not altered metabolism.",
+    "C": "Aliskiren does not raise bradykinin; bradykinin accumulation is specific to ACE inhibitors, so combined bradykinin-mediated angioedema is not the issue.",
+    "D": "Aliskiren and ACE inhibitors are both teratogens; ACE inhibitors do not reverse teratogenic effects, and pregnancy is an independent contraindication to aliskiren.",
+    "E": "ACE inhibitors do not impair gastrointestinal absorption of aliskiren; there is no such pharmacokinetic interaction."
+  },
+  "educationalObjective": "Aliskiren is relatively contraindicated with ACE inhibitors/ARBs because dual blockade increases hyperkalemia, hypotension, and renal risk without added benefit; it is contraindicated in pregnancy.",
+  "source": "Generated from 14. Renal.pdf - Pharmacology: Aliskiren"
+},
+{
+  "id": "ren-329",
+  "subject": "Renal",
+  "major_topic": "Pharmacology",
+  "subtopic": "Aliskiren",
+  "difficulty": "easy",
+  "vignette": "A 51-year-old woman with hypertension is prescribed aliskiren. During counseling, she asks about possible side effects and whether the drug is safe during pregnancy, since she is planning to conceive in the near future.",
+  "question": "Which of the following correctly pairs an adverse effect of aliskiren with its safety in pregnancy?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Dry cough; safe in pregnancy"
+    },
+    {
+      "id": "B",
+      "text": "Hyperkalemia; safe in pregnancy"
+    },
+    {
+      "id": "C",
+      "text": "Hypokalemia; contraindicated in pregnancy"
+    },
+    {
+      "id": "D",
+      "text": "Angioedema; contraindicated in pregnancy"
+    },
+    {
+      "id": "E",
+      "text": "Bradykinin-mediated cough; safe in pregnancy"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Aliskiren's adverse effects include hyperkalemia, decreased GFR, hypotension, and angioedema. It is contraindicated in pregnancy because, like other drugs that block the renin-angiotensin-aldosterone system, it is a teratogen that can harm the developing fetus. Although aliskiren does not raise bradykinin the way ACE inhibitors do, it can still cause angioedema. Among the choices, angioedema with contraindication in pregnancy is the only pair that correctly states both an adverse effect and its pregnancy status.",
+  "explanation_incorrect": {
+    "A": "Dry cough is characteristic of ACE inhibitors (bradykinin mediated), not a typical aliskiren effect, and aliskiren is not safe in pregnancy.",
+    "B": "Hyperkalemia is an aliskiren adverse effect, but aliskiren is contraindicated, not safe, in pregnancy.",
+    "C": "Aliskiren causes hyperkalemia, not hypokalemia; the pregnancy statement is correct but the adverse effect is wrong.",
+    "E": "Bradykinin-mediated cough is an ACE inhibitor effect, and aliskiren is not safe in pregnancy."
+  },
+  "educationalObjective": "Aliskiren can cause angioedema (as well as hyperkalemia, reduced GFR, and hypotension) and is contraindicated in pregnancy.",
+  "source": "Generated from 14. Renal.pdf - Pharmacology: Aliskiren"
+}
+]

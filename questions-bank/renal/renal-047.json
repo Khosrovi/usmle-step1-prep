@@ -1,0 +1,166 @@
+[
+{
+  "id": "ren-057",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Renal blood flow autoregulation",
+  "difficulty": "easy",
+  "vignette": "A healthy subject experiences a sudden rise in mean arterial pressure from 90 to 120 mm Hg. Within seconds, the afferent arteriolar smooth muscle contracts and renal blood flow is prevented from rising as much as the perfusion pressure would otherwise dictate.",
+  "question": "Which mechanism best explains this immediate response?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The myogenic response: increased pressure stretches the afferent arteriole, triggering smooth-muscle vasoconstriction"
+    },
+    {
+      "id": "B",
+      "text": "Tubuloglomerular feedback triggered by increased NaCl delivery to the macula densa"
+    },
+    {
+      "id": "C",
+      "text": "Tubuloglomerular feedback triggered by decreased NaCl delivery to the macula densa"
+    },
+    {
+      "id": "D",
+      "text": "Angiotensin II–mediated constriction of the efferent arteriole"
+    },
+    {
+      "id": "E",
+      "text": "Prostaglandin-mediated dilation of the afferent arteriole"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "The myogenic mechanism is an intrinsic property of vascular smooth muscle: increased arterial pressure stretches the afferent arteriole, which mechanically activates smooth muscle to vasoconstrict, limiting the rise in renal blood flow and helping keep GFR constant. It is rapid and responds directly to pressure, not to tubular solute signals.",
+  "explanation_incorrect": {
+    "B": "Tubuloglomerular feedback is initiated by a change in NaCl sensed at the macula densa, not by direct stretch of the arteriole, and it is a slower chemical (paracrine) response.",
+    "C": "Decreased NaCl at the macula densa would cause afferent dilation and increased RBF, the opposite of this pressure-driven constriction.",
+    "D": "Angiotensin II constricts the efferent arteriole, not the afferent arteriole, and is a hormonal rather than a rapid myogenic response.",
+    "E": "Prostaglandins dilate the afferent arteriole and would increase RBF; they do not mediate pressure-induced vasoconstriction."
+  },
+  "educationalObjective": "The myogenic response links increased arterial pressure to afferent arteriolar stretch and reflex smooth-muscle vasoconstriction, stabilizing RBF.",
+  "source": "Generated from 14. Renal.pdf - Physiology: Renal blood flow autoregulation"
+},
+{
+  "id": "ren-058",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Renal blood flow autoregulation",
+  "difficulty": "medium",
+  "vignette": "An increase in the NaCl concentration of the filtrate reaching the distal tubule is detected by macula densa cells, which release paracrine vasoconstrictor factors that act on the adjacent afferent arteriole.",
+  "question": "What is the net effect on renal blood flow and the physiologic purpose of this tubuloglomerular response?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Afferent dilation with increased RBF, washing out the excess NaCl"
+    },
+    {
+      "id": "B",
+      "text": "Efferent constriction with increased GFR and increased RBF"
+    },
+    {
+      "id": "C",
+      "text": "Afferent vasoconstriction with decreased RBF, lowering GFR and NaCl delivery back toward normal"
+    },
+    {
+      "id": "D",
+      "text": "Afferent constriction with increased RBF because pressure rises upstream"
+    },
+    {
+      "id": "E",
+      "text": "No change in RBF; tubuloglomerular feedback regulates only renin release"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "In tubuloglomerular feedback, increased NaCl in the tubular fluid is sensed by macula densa cells, which release paracrine factors that constrict the afferent arteriole. Afferent constriction reduces renal blood flow and GFR, which in turn reduces the filtered load of NaCl delivered to the distal tubule, restoring NaCl delivery toward normal. This is a negative-feedback loop protecting the kidney from pressure-driven overfiltration.",
+  "explanation_incorrect": {
+    "A": "Afferent dilation and increased RBF would follow decreased, not increased, NaCl at the macula densa; high NaCl triggers constriction.",
+    "B": "The vasoconstrictor signal acts on the afferent arteriole; efferent constriction is mediated mainly by angiotensin II, and RBF would fall, not rise.",
+    "D": "Afferent constriction raises resistance and lowers RBF; it cannot simultaneously increase RBF.",
+    "E": "Tubuloglomerular feedback does influence renin release, but its defining effect here is paracrine afferent vasoconstriction that changes RBF and GFR."
+  },
+  "educationalObjective": "Increased filtrate NaCl sensed by the macula densa causes afferent arteriolar vasoconstriction, reducing RBF and GFR in negative feedback.",
+  "source": "Generated from 14. Renal.pdf - Physiology: Renal blood flow autoregulation"
+},
+{
+  "id": "ren-059",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Renal blood flow autoregulation",
+  "difficulty": "medium",
+  "vignette": "Following a fall in glomerular filtration, the NaCl concentration of the filtrate reaching the macula densa decreases. The kidney mounts the opposite tubuloglomerular response to the one seen with high NaCl delivery.",
+  "question": "Which of the following best describes the tubuloglomerular response to decreased NaCl at the macula densa?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Afferent vasoconstriction and further decreased RBF"
+    },
+    {
+      "id": "B",
+      "text": "Efferent constriction with no change in afferent arteriolar tone"
+    },
+    {
+      "id": "C",
+      "text": "No change in RBF, because the macula densa senses pressure rather than NaCl"
+    },
+    {
+      "id": "D",
+      "text": "Renin release leading to primary afferent arteriolar constriction"
+    },
+    {
+      "id": "E",
+      "text": "Afferent vasodilation with increased RBF, helping restore GFR and NaCl delivery"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Tubuloglomerular feedback is bidirectional. When macula densa NaCl falls, the paracrine vasoconstrictor signal is reduced and the afferent arteriole dilates, increasing RBF and GFR so that filtered NaCl delivery is restored toward normal. This is the opposite effect on RBF from the high-NaCl state described by the myogenic/tubuloglomerular autoregulation model.",
+  "explanation_incorrect": {
+    "A": "Afferent vasoconstriction with lower RBF is the response to increased, not decreased, NaCl at the macula densa.",
+    "B": "The afferent arteriole is the primary target of tubuloglomerular feedback; reduced NaCl relaxes afferent tone rather than leaving it unchanged and constricting the efferent arteriole.",
+    "C": "The macula densa is a chemosensor of tubular NaCl concentration, and this signal definitely changes afferent resistance and RBF.",
+    "D": "Low NaCl does stimulate renin release, but angiotensin II predominantly constricts the efferent arteriole; it is not a primary afferent constrictor, and the local tubuloglomerular effect here is afferent dilation."
+  },
+  "educationalObjective": "Low NaCl at the macula densa produces afferent vasodilation and increased RBF/GFR, the mirror image of the high-NaCl tubuloglomerular response.",
+  "source": "Generated from 14. Renal.pdf - Physiology: Renal blood flow autoregulation"
+},
+{
+  "id": "ren-060",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Renal blood flow autoregulation",
+  "difficulty": "hard",
+  "vignette": "Across a wide range of systemic arterial pressures (roughly 80–180 mm Hg), a healthy kidney maintains nearly constant renal blood flow and glomerular filtration rate. Both intrinsic autoregulatory mechanisms contribute to this stability.",
+  "question": "Which statement best explains the purpose and mechanism of renal autoregulation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It allows RBF to rise and fall in direct linear proportion to perfusion pressure"
+    },
+    {
+      "id": "B",
+      "text": "It protects the kidney from pressure-related injury and stabilizes GFR via myogenic afferent constriction and tubuloglomerular feedback"
+    },
+    {
+      "id": "C",
+      "text": "It depends solely on angiotensin II–mediated constriction of the efferent arteriole"
+    },
+    {
+      "id": "D",
+      "text": "It is driven primarily by changes in plasma oncotic pressure within the glomerular capillary"
+    },
+    {
+      "id": "E",
+      "text": "It is abolished by an intact myogenic response"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Autoregulation keeps RBF and GFR relatively constant despite fluctuations in renal perfusion pressure, thereby protecting the kidney from barotrauma and preventing large swings in filtration. The two intrinsic mechanisms are the myogenic response (pressure-induced stretch causing afferent vasoconstriction) and tubuloglomerular feedback (macula densa NaCl sensing causing paracrine afferent vasoconstriction when NaCl rises).",
+  "explanation_incorrect": {
+    "A": "The defining feature of autoregulation is that RBF does NOT change linearly with pressure; it is held approximately constant over the autoregulatory range.",
+    "C": "Angiotensin II is a systemic hormonal modifier, not one of the two intrinsic autoregulatory mechanisms, and it acts mainly on the efferent arteriole; autoregulation persists without it.",
+    "D": "Plasma oncotic pressure influences Starling forces and GFR but is not the sensor or driver of the myogenic and tubuloglomerular autoregulatory reflexes.",
+    "E": "The myogenic response is one of the two pillars of autoregulation; an intact myogenic response strengthens, not abolishes, autoregulation."
+  },
+  "educationalObjective": "Renal autoregulation stabilizes RBF and GFR through the myogenic response and tubuloglomerular feedback, protecting the kidney from pressure fluctuations.",
+  "source": "Generated from 14. Renal.pdf - Physiology: Renal blood flow autoregulation"
+}
+]

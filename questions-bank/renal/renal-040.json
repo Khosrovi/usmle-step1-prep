@@ -1,0 +1,166 @@
+[
+{
+  "id": "ren-123",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Potassium shifts",
+  "difficulty": "medium",
+  "vignette": "A 45-year-old man with poorly controlled diabetes presents with severe hyperglycemia. His serum osmolality is 340 mOsm/kg, and his serum potassium is 5.9 mEq/L despite no evidence of acute kidney injury.",
+  "question": "Which of the following best explains the hyperkalemia in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Insulin excess driving K+ into cells"
+    },
+    {
+      "id": "B",
+      "text": "Alkalosis causing H+ to leave cells in exchange for K+ entering"
+    },
+    {
+      "id": "C",
+      "text": "Beta-agonist therapy shifting K+ into cells"
+    },
+    {
+      "id": "D",
+      "text": "Hyperosmolality causing water to move out of cells, with K+ following by solute drag"
+    },
+    {
+      "id": "E",
+      "text": "Hypoalbuminemia reducing potassium binding in the plasma"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "The source lists serum hyperosmolality as a cause of shifting potassium out of cells: osmotic movement of water out of the cell pulls potassium with it by solute drag, raising serum potassium. In severe hyperglycemia this explains hyperkalemia even though total-body potassium may be depleted. Insulin, beta-agonists, and alkalosis all shift potassium into cells and would lower, not raise, serum potassium.",
+  "explanation_incorrect": {
+    "A": "Insulin shifts potassium into cells and lowers serum potassium; it is insulin deficiency, not excess, that shifts potassium out.",
+    "B": "Alkalosis shifts potassium into cells; it is acidosis that shifts potassium out via the reversible H+/K+ exchanger.",
+    "C": "Beta-agonists shift potassium into cells and are used to treat hyperkalemia, not to cause it.",
+    "E": "Hypoalbuminemia affects corrected calcium, not potassium; potassium is not albumin-bound."
+  },
+  "educationalObjective": "Hyperosmolality draws water out of cells and potassium follows by solute drag, producing hyperkalemia.",
+  "source": "Generated from 14. Renal.pdf - Physiology: Potassium shifts"
+},
+{
+  "id": "ren-124",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Potassium shifts",
+  "difficulty": "easy",
+  "vignette": "A 60-year-old man with hypertension takes a nonselective beta-blocker. A routine laboratory panel shows a mild increase in his serum potassium. His physician asks how the beta-blocker produces this effect.",
+  "question": "Which of the following best explains how beta-blockers raise serum potassium?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Beta-blockade shifts K+ out of cells by reducing beta-mediated cellular uptake and can lower renin-mediated aldosterone"
+    },
+    {
+      "id": "B",
+      "text": "Beta-blockers increase aldosterone secretion, causing potassium wasting"
+    },
+    {
+      "id": "C",
+      "text": "Beta-blockers cause alkalosis, which shifts K+ into cells"
+    },
+    {
+      "id": "D",
+      "text": "Beta-blockers directly increase renal K+ excretion"
+    },
+    {
+      "id": "E",
+      "text": "Beta-blockers stimulate insulin release, driving K+ into cells"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "The source lists beta-blockers among the factors that shift potassium out of cells. Beta-adrenergic stimulation normally promotes cellular potassium uptake through the Na+/K+-ATPase; blocking beta receptors reduces this uptake and raises serum potassium. In addition, beta-blockers reduce renin release from the JGA via beta-1 blockade, which can lower aldosterone and reduce renal potassium excretion. They do not increase aldosterone, cause alkalosis, increase potassium excretion, or stimulate insulin.",
+  "explanation_incorrect": {
+    "B": "Beta-blockers reduce, not increase, aldosterone by suppressing renin, which tends to reduce potassium wasting.",
+    "C": "Beta-blockers do not cause alkalosis; alkalosis would shift potassium into cells and lower serum potassium.",
+    "D": "Beta-blockers do not directly increase renal potassium excretion; their effect is a shift out of cells and reduced excretion.",
+    "E": "Beta-blockers do not stimulate insulin; insulin drives potassium into cells and would lower serum potassium."
+  },
+  "educationalObjective": "Beta-blockers raise serum potassium by shifting potassium out of cells and by blunting renin-mediated aldosterone and potassium excretion.",
+  "source": "Generated from 14. Renal.pdf - Physiology: Potassium shifts"
+},
+{
+  "id": "ren-125",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Potassium shifts",
+  "difficulty": "hard",
+  "vignette": "A 30-year-old man is given succinylcholine as a paralytic during emergency intubation. He has an underlying burn injury involving several days of hospitalization. Shortly after the drug is given, his serum potassium rises dangerously. His physician reviews the mechanisms that shift potassium out of cells.",
+  "question": "Which of the following correctly pairs succinylcholine's mechanism of hyperkalemia with another agent from the list that also shifts K+ out of cells?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Succinylcholine blocks the Na+/K+-ATPase, and digoxin shares this exact mechanism"
+    },
+    {
+      "id": "B",
+      "text": "Succinylcholine causes alkalosis, and insulin shares this mechanism"
+    },
+    {
+      "id": "C",
+      "text": "Succinylcholine stimulates beta-2 receptors, and beta-agonists share this mechanism"
+    },
+    {
+      "id": "D",
+      "text": "Succinylcholine causes cell lysis, and hypoinsulinemia shares this mechanism by causing cell lysis"
+    },
+    {
+      "id": "E",
+      "text": "Succinylcholine is a nicotinic ACh receptor agonist causing K+ efflux from muscle, and digoxin via Na+/K+-ATPase inhibition also shifts K+ out of cells"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Succinylcholine is a nicotinic acetylcholine receptor agonist; sustained activation at the neuromuscular junction drives potassium efflux from muscle cells, an effect exaggerated in burn or denervation injury from receptor upregulation. Digoxin inhibits the Na+/K+-ATPase, raising intracellular sodium and reducing potassium uptake, which also shifts potassium out of cells; hyperkalemia is a feature of digoxin toxicity. Both appear among the causes of potassium shift out of cells in the source, whereas insulin, beta-agonists, and alkalosis shift potassium into cells.",
+  "explanation_incorrect": {
+    "A": "Succinylcholine acts at nicotinic acetylcholine receptors, not by directly blocking the Na+/K+-ATPase; digoxin inhibits the pump, so the mechanisms differ.",
+    "B": "Succinylcholine does not cause alkalosis; insulin shifts potassium into cells and would lower serum potassium.",
+    "C": "Succinylcholine is not a beta-2 agonist; beta-agonists shift potassium into cells and are used to treat hyperkalemia.",
+    "D": "Succinylcholine drives depolarization-induced potassium efflux, not cell lysis; hypoinsulinemia shifts potassium out by reducing cellular uptake, not by lysis."
+  },
+  "educationalObjective": "Succinylcholine via nicotinic ACh receptor agonism and digoxin via Na+/K+-ATPase inhibition both shift potassium out of cells and can cause hyperkalemia.",
+  "source": "Generated from 14. Renal.pdf - Physiology: Potassium shifts"
+},
+{
+  "id": "ren-126",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Potassium shifts",
+  "difficulty": "easy",
+  "vignette": "A 28-year-old woman with severe hyperkalemia is treated with intravenous insulin plus glucose, an inhaled beta-2 agonist, and correction of an underlying metabolic acidosis. Her physician expects all three interventions to lower her serum potassium.",
+  "question": "Which of the following best states the direction of potassium movement produced by these three interventions?",
+  "options": [
+    {
+      "id": "A",
+      "text": "All three shift K+ out of cells"
+    },
+    {
+      "id": "B",
+      "text": "Insulin and beta-agonists shift K+ out, while correcting acidosis shifts K+ into cells"
+    },
+    {
+      "id": "C",
+      "text": "Insulin, beta-agonists, and correction of acidosis all shift K+ into cells, lowering serum K+"
+    },
+    {
+      "id": "D",
+      "text": "Only correction of acidosis shifts K+ into cells; insulin and beta-agonists do not affect K+ distribution"
+    },
+    {
+      "id": "E",
+      "text": "Beta-agonists shift K+ into cells, but insulin and correction of acidosis shift K+ out"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "The source lists insulin, beta-agonists, and alkalosis as factors that shift potassium into cells. Correcting an acidosis moves the patient toward alkalosis and shifts potassium into cells via the reversible H+/K+ exchanger. Therefore all three interventions lower serum potassium by driving potassium into cells, which is the rationale for using insulin plus glucose and beta-2 agonists in hyperkalemic emergencies.",
+  "explanation_incorrect": {
+    "A": "These interventions shift potassium into cells, not out; shifting out would worsen the hyperkalemia.",
+    "B": "Insulin and beta-agonists shift potassium into cells, not out; the direction stated for both is wrong.",
+    "D": "Insulin and beta-agonists do affect potassium distribution, shifting it into cells.",
+    "E": "Insulin and correction of acidosis also shift potassium into cells; none of the three shifts potassium out in this scenario."
+  },
+  "educationalObjective": "Insulin, beta-agonists, and correction of acidosis shift potassium into cells and are used to lower serum potassium.",
+  "source": "Generated from 14. Renal.pdf - Physiology: Potassium shifts"
+}
+]

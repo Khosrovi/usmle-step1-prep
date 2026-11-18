@@ -1,0 +1,207 @@
+[
+{
+  "id": "ren-037",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Fluid compartments",
+  "difficulty": "easy",
+  "vignette": "A 70-kg healthy adult volunteer undergoes body composition analysis. The clinician reviews the distribution of body water using the standard 60-40-20 rule, in which total body water is approximately 60% of body weight.",
+  "question": "Using the 60-40-20 rule, what is the approximate total body water in this 70-kg person?",
+  "options": [
+    {
+      "id": "A",
+      "text": "14 L"
+    },
+    {
+      "id": "B",
+      "text": "21 L"
+    },
+    {
+      "id": "C",
+      "text": "28 L"
+    },
+    {
+      "id": "D",
+      "text": "35 L"
+    },
+    {
+      "id": "E",
+      "text": "42 L"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "By the 60-40-20 rule, total body water is about 60% of body weight. For a 70-kg person, 0.60 × 70 = 42 L. Of this, roughly two-thirds (28 L) is intracellular and one-third (14 L) is extracellular. The 60-40-20 rule is a foundational estimate for all subsequent compartment and volume calculations.",
+  "explanation_incorrect": {
+    "A": "14 L is approximately the extracellular fluid volume (20% of body weight), not total body water.",
+    "B": "21 L corresponds to 30% of body weight and does not match any standard compartment value.",
+    "C": "28 L is approximately the intracellular fluid volume (40% of body weight), not total body water.",
+    "D": "35 L is 50% of body weight, which underestimates total body water in the 60-40-20 rule."
+  },
+  "educationalObjective": "Total body water is about 60% of body weight (42 L in a 70-kg person), split into 40% intracellular and 20% extracellular.",
+  "source": "Generated from 14. Renal.pdf - Physiology: Fluid compartments"
+},
+{
+  "id": "ren-038",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Fluid compartments",
+  "difficulty": "medium",
+  "vignette": "A medical student reviews the ionic composition of the intracellular and extracellular fluid compartments. One compartment is rich in potassium, magnesium, and organic phosphates such as ATP; the other is rich in sodium, chloride, bicarbonate, and albumin.",
+  "question": "Which of the following correctly lists the major solutes of the intracellular fluid compartment?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Na+, Cl-, HCO3-"
+    },
+    {
+      "id": "B",
+      "text": "K+, Mg2+, organic phosphates"
+    },
+    {
+      "id": "C",
+      "text": "Na+, K+, albumin"
+    },
+    {
+      "id": "D",
+      "text": "Ca2+, Cl-, albumin"
+    },
+    {
+      "id": "E",
+      "text": "HCO3-, Mg2+, Na+"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "The intracellular fluid compartment is composed mainly of K+, Mg2+, and organic phosphates such as ATP, captured by the mnemonic 'HIKIN': H and K are high intracellularly. In contrast, the extracellular fluid is rich in Na+, Cl-, HCO3-, and albumin. Knowing which ions dominate each compartment is essential for understanding membrane potentials, shifts, and replacement fluid therapy.",
+  "explanation_incorrect": {
+    "A": "Na+, Cl-, and HCO3- are the major extracellular solutes, not intracellular ones.",
+    "C": "Na+ and albumin are predominantly extracellular; only K+ in this list is an intracellular cation.",
+    "D": "Ca2+, Cl-, and albumin are largely extracellular constituents, not the intracellular solute profile.",
+    "E": "This mixture includes the extracellular ions Na+ and HCO3-; intracellular fluid is dominated by K+, Mg2+, and organic phosphates."
+  },
+  "educationalObjective": "Intracellular fluid is rich in K+, Mg2+, and organic phosphates, whereas extracellular fluid is rich in Na+, Cl-, HCO3-, and albumin.",
+  "source": "Generated from 14. Renal.pdf - Physiology: Fluid compartments"
+},
+{
+  "id": "ren-039",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Fluid compartments",
+  "difficulty": "medium",
+  "vignette": "A researcher needs to measure both plasma volume and extracellular volume in a healthy subject. She reviews which tracer substances remain confined to each compartment after injection.",
+  "question": "Which of the following pairs correctly matches each compartment with a substance used to measure it?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Plasma volume — inulin; extracellular volume — radiolabeled albumin"
+    },
+    {
+      "id": "B",
+      "text": "Plasma volume — mannitol; extracellular volume — inulin"
+    },
+    {
+      "id": "C",
+      "text": "Plasma volume — radiolabeled albumin; extracellular volume — urea"
+    },
+    {
+      "id": "D",
+      "text": "Plasma volume — radiolabeled albumin; extracellular volume — inulin or mannitol"
+    },
+    {
+      "id": "E",
+      "text": "Plasma volume — inulin; extracellular volume — radiolabeled albumin and mannitol"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Plasma volume is measured by radiolabeling albumin, which remains within the vascular compartment. Extracellular volume is measured with inulin or mannitol, which distribute throughout the extracellular fluid but do not enter cells. Selecting a marker that stays within the compartment being measured is the key principle behind all indicator-dilution volume measurements.",
+  "explanation_incorrect": {
+    "A": "This swaps the tracers: radiolabeled albumin measures plasma volume, while inulin measures extracellular volume.",
+    "B": "Mannitol measures extracellular volume, not plasma volume; radiolabeled albumin is required for plasma volume.",
+    "C": "Radiolabeled albumin is correct for plasma volume, but urea is not the standard extracellular marker used here; inulin or mannitol is.",
+    "E": "Inulin does not measure plasma volume; it is used for extracellular volume, and radiolabeled albumin is the plasma marker."
+  },
+  "educationalObjective": "Radiolabeled albumin measures plasma volume, while inulin or mannitol measures extracellular volume.",
+  "source": "Generated from 14. Renal.pdf - Physiology: Fluid compartments"
+},
+{
+  "id": "ren-040",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Fluid compartments",
+  "difficulty": "hard",
+  "vignette": "A 60-kg patient has a measured total blood volume of 6.0 L and a hematocrit of 45%. The clinician wants to determine the plasma volume using the standard relationship between total blood volume and hematocrit.",
+  "question": "Using plasma volume = TBV × (1 − Hct), what is this patient's approximate plasma volume?",
+  "options": [
+    {
+      "id": "A",
+      "text": "3.3 L"
+    },
+    {
+      "id": "B",
+      "text": "2.7 L"
+    },
+    {
+      "id": "C",
+      "text": "4.5 L"
+    },
+    {
+      "id": "D",
+      "text": "6.0 L"
+    },
+    {
+      "id": "E",
+      "text": "5.4 L"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Plasma volume = total blood volume × (1 − hematocrit) = 6.0 L × (1 − 0.45) = 6.0 L × 0.55 = 3.3 L. The remaining 2.7 L is the red cell volume (6.0 × 0.45). This relationship is the standard way to derive plasma volume from total blood volume and hematocrit, and it also underlies conversion between renal plasma flow and renal blood flow.",
+  "explanation_incorrect": {
+    "B": "2.7 L is the red blood cell volume (6.0 × 0.45), not the plasma volume; the formula uses (1 − Hct).",
+    "C": "4.5 L would incorrectly use 75% of total blood volume rather than the fraction (1 − Hct) = 0.55.",
+    "D": "6.0 L is the total blood volume (plasma plus red cells), not the plasma volume alone.",
+    "E": "5.4 L incorrectly uses (1 − 0.10) instead of (1 − 0.45); 10% is not the hematocrit in this patient."
+  },
+  "educationalObjective": "Plasma volume is calculated as total blood volume × (1 − hematocrit), giving 3.3 L here with TBV 6.0 L and Hct 45%.",
+  "source": "Generated from 14. Renal.pdf - Physiology: Fluid compartments"
+},
+{
+  "id": "ren-041",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Fluid compartments",
+  "difficulty": "easy",
+  "vignette": "A physiology review emphasizes that total body water is divided between an intracellular and an extracellular compartment, with the larger fraction located inside cells. The intracellular compartment is roughly twice the size of the extracellular compartment.",
+  "question": "Approximately what fraction of total body water is found in the intracellular compartment?",
+  "options": [
+    {
+      "id": "A",
+      "text": "1/4"
+    },
+    {
+      "id": "B",
+      "text": "1/3"
+    },
+    {
+      "id": "C",
+      "text": "2/3"
+    },
+    {
+      "id": "D",
+      "text": "3/4"
+    },
+    {
+      "id": "E",
+      "text": "1/2"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "About two-thirds of total body water is intracellular and one-third is extracellular. In the 60-40-20 rule, 40% of body weight is intracellular and 20% is extracellular, which is a 2:1 ratio. Of the extracellular compartment, roughly three-quarters is interstitial fluid and one-quarter is plasma.",
+  "explanation_incorrect": {
+    "A": "1/4 is not a recognized fraction of total body water distribution.",
+    "B": "1/3 is the extracellular fraction of total body water, not the intracellular fraction.",
+    "D": "3/4 overestimates the intracellular fraction and is not part of the standard 2:1 distribution.",
+    "E": "1/2 would imply equal intracellular and extracellular volumes, whereas intracellular is about twice extracellular."
+  },
+  "educationalObjective": "Two-thirds of total body water is intracellular and one-third is extracellular, a 2:1 ratio.",
+  "source": "Generated from 14. Renal.pdf - Physiology: Fluid compartments"
+}
+]

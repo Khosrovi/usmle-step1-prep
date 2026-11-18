@@ -1,0 +1,248 @@
+[
+{
+  "id": "ren-134",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Acid-base physiology",
+  "difficulty": "easy",
+  "vignette": "A 24-year-old man with type 1 diabetes presents with polyuria, polydipsia, and deep, labored Kussmaul respirations. Arterial blood gas shows pH 7.20, PCO2 24 mm Hg, and HCO3 10 mEq/L.",
+  "question": "Which compensatory response best explains his PCO2 of 24 mm Hg?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Immediate hypoventilation to retain carbon dioxide"
+    },
+    {
+      "id": "B",
+      "text": "Immediate hyperventilation to lower PCO2"
+    },
+    {
+      "id": "C",
+      "text": "Delayed increase in renal bicarbonate reabsorption"
+    },
+    {
+      "id": "D",
+      "text": "Delayed decrease in renal bicarbonate reabsorption"
+    },
+    {
+      "id": "E",
+      "text": "Increased hepatic urea synthesis consuming bicarbonate"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Metabolic acidosis is a primary decrease in HCO3 that lowers pH, and the immediate compensation is hyperventilation that lowers PCO2. Using Winters formula, predicted PCO2 = 1.5(10) + 8 +/- 2 = 23 +/- 2 mm Hg, so the measured 24 mm Hg indicates appropriate respiratory compensation. The deep Kussmaul respirations are the clinical counterpart of this response.",
+  "explanation_incorrect": {
+    "A": "Immediate hypoventilation raising PCO2 is the compensation for metabolic alkalosis, not metabolic acidosis; it would worsen this patient's acidemia.",
+    "C": "A delayed increase in renal HCO3 reabsorption is the renal compensation for respiratory acidosis, not for a primary metabolic acidosis.",
+    "D": "A delayed decrease in renal HCO3 reabsorption is the renal compensation for respiratory alkalosis, not an immediate respiratory response.",
+    "E": "Hepatic urea synthesis is not a primary acid-base compensatory mechanism and would not explain the reduced PCO2."
+  },
+  "educationalObjective": "Metabolic acidosis lowers HCO3 and pH and is compensated immediately by hyperventilation that reduces PCO2, as quantified by Winters formula.",
+  "source": "Generated from 14. Renal.pdf - Physiology: Acid-base physiology"
+},
+{
+  "id": "ren-135",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Acid-base physiology",
+  "difficulty": "medium",
+  "vignette": "A 70-year-old man with severe COPD has worsening dyspnea and somnolence. Arterial blood gas shows pH 7.28, PCO2 72 mm Hg, and HCO3 34 mEq/L. His symptoms have progressed over several days.",
+  "question": "Which mechanism is primarily responsible for the elevated HCO3 in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Immediate hyperventilation lowering carbon dioxide"
+    },
+    {
+      "id": "B",
+      "text": "Immediate hypoventilation from a primary metabolic alkalosis"
+    },
+    {
+      "id": "C",
+      "text": "Increased renal bicarbonate reabsorption and new bicarbonate generation (delayed)"
+    },
+    {
+      "id": "D",
+      "text": "Decreased renal bicarbonate reabsorption (delayed)"
+    },
+    {
+      "id": "E",
+      "text": "Direct metabolic conversion of lactic acid into bicarbonate"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Respiratory acidosis is a primary elevation in PCO2 that lowers pH; the delayed compensation is increased renal HCO3 reabsorption and new HCO3 generation with ammoniagenesis, which raises plasma HCO3. Because this renal response takes days, the elevated HCO3 reflects chronic or subacute CO2 retention. The high PCO2 with acidemia confirms the primary respiratory disorder.",
+  "explanation_incorrect": {
+    "A": "Immediate hyperventilation would lower PCO2 and is the compensation for metabolic acidosis, not the cause of a high HCO3 here.",
+    "B": "A primary metabolic alkalosis would show an elevated pH and PCO2, whereas this patient is acidemic with a markedly elevated PCO2.",
+    "D": "Decreased renal HCO3 reabsorption is the delayed compensation for respiratory alkalosis and would lower, not raise, HCO3.",
+    "E": "Lactic acid does not convert directly into bicarbonate; this mechanism does not explain renal compensation for chronic hypercapnia."
+  },
+  "educationalObjective": "Respiratory acidosis raises PCO2 and is compensated over days by increased renal HCO3 reabsorption and new bicarbonate generation.",
+  "source": "Generated from 14. Renal.pdf - Physiology: Acid-base physiology"
+},
+{
+  "id": "ren-136",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Acid-base physiology",
+  "difficulty": "hard",
+  "vignette": "A 58-year-old woman with profuse diarrhea has a serum HCO3 of 10 mEq/L. Arterial blood gas shows pH 7.19 and measured PCO2 of 32 mm Hg. She is fatigued and mildly somnolent.",
+  "question": "Using the Winters formula, which interpretation of her acid-base status is correct?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Simple metabolic acidosis with appropriate respiratory compensation"
+    },
+    {
+      "id": "B",
+      "text": "Concomitant respiratory alkalosis"
+    },
+    {
+      "id": "C",
+      "text": "Primary respiratory acidosis with metabolic compensation"
+    },
+    {
+      "id": "D",
+      "text": "Concomitant metabolic alkalosis"
+    },
+    {
+      "id": "E",
+      "text": "Concomitant respiratory acidosis"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Winters formula gives predicted PCO2 = 1.5(10) + 8 +/- 2 = 23 +/- 2 mm Hg, a range of 21 to 25 mm Hg. The measured PCO2 of 32 mm Hg exceeds the predicted value, indicating inadequate hyperventilation and therefore a concomitant respiratory acidosis. This is an inappropriately normal-to-high PCO2 given the severity of her metabolic acidosis, suggesting respiratory depression or underlying lung disease.",
+  "explanation_incorrect": {
+    "A": "Appropriate compensation would require a measured PCO2 within 21 to 25 mm Hg; 32 mm Hg is clearly above that range.",
+    "B": "Concomitant respiratory alkalosis would produce a measured PCO2 below the predicted range, not above it.",
+    "C": "A primary respiratory acidosis would show an elevated PCO2 with a correspondingly elevated HCO3, not a low HCO3 of 10 mEq/L.",
+    "D": "Concomitant metabolic alkalosis would raise the HCO3 above what is expected for the degree of acidemia, not produce a low HCO3 of 10 mEq/L."
+  },
+  "educationalObjective": "In metabolic acidosis, a measured PCO2 above the Winters-predicted range indicates a concomitant respiratory acidosis from inadequate hyperventilation.",
+  "source": "Generated from 14. Renal.pdf - Physiology: Acid-base physiology"
+},
+{
+  "id": "ren-137",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Acid-base physiology",
+  "difficulty": "easy",
+  "vignette": "A medical student is reviewing the Henderson-Hasselbalch equation for the bicarbonate buffer system: pH = 6.1 + log([HCO3−] / (0.03 x PCO2)).",
+  "question": "Which statement correctly identifies the physiologic determinants in this equation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "HCO3− is the metabolic (renal) component, PCO2 is the respiratory (pulmonary) component, and 0.03 is the solubility coefficient of CO2"
+    },
+    {
+      "id": "B",
+      "text": "HCO3− is the respiratory component and PCO2 is the metabolic (renal) component"
+    },
+    {
+      "id": "C",
+      "text": "The value 6.1 is the solubility coefficient and 0.03 is the pKa of carbonic acid"
+    },
+    {
+      "id": "D",
+      "text": "Increasing PCO2 while holding HCO3− constant raises the pH"
+    },
+    {
+      "id": "E",
+      "text": "The equation applies only to primary respiratory acid-base disorders"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "In the Henderson-Hasselbalch equation, pH is proportional to the ratio of HCO3 to dissolved CO2. HCO3 is the metabolic component regulated by the kidney, PCO2 is the respiratory component regulated by the lungs, 0.03 is the solubility coefficient of CO2, and 6.1 is the pKa of carbonic acid. The equation explains why metabolic disorders change HCO3 and respiratory disorders change PCO2.",
+  "explanation_incorrect": {
+    "B": "The components are reversed: HCO3 is the renal/metabolic variable and PCO2 is the pulmonary/respiratory variable.",
+    "C": "The values are reversed: 6.1 is the pKa of carbonic acid and 0.03 is the solubility coefficient of CO2.",
+    "D": "PCO2 is in the denominator, so increasing PCO2 at a fixed HCO3 lowers the pH, producing respiratory acidosis.",
+    "E": "The equation describes all bicarbonate-buffered acid-base states, both metabolic and respiratory, not only respiratory disorders."
+  },
+  "educationalObjective": "Henderson-Hasselbalch relates pH to renal HCO3 over respiratory PCO2, with 0.03 as the CO2 solubility coefficient and 6.1 as the pKa.",
+  "source": "Generated from 14. Renal.pdf - Physiology: Acid-base physiology"
+},
+{
+  "id": "ren-138",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Acid-base physiology",
+  "difficulty": "medium",
+  "vignette": "A 28-year-old woman with panic attacks hyperventilates for 30 minutes. Arterial blood gas shows pH 7.56, PCO2 24 mm Hg, and HCO3 21 mEq/L. Her symptoms are attributed to a primary respiratory alkalosis.",
+  "question": "Which compensatory response is expected if her hyperventilation persists for several days?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Immediate hyperventilation to further lower PCO2"
+    },
+    {
+      "id": "B",
+      "text": "Immediate hypoventilation to raise PCO2"
+    },
+    {
+      "id": "C",
+      "text": "Increased renal bicarbonate reabsorption and generation"
+    },
+    {
+      "id": "D",
+      "text": "Decreased renal bicarbonate reabsorption, lowering plasma HCO3"
+    },
+    {
+      "id": "E",
+      "text": "Increased respiratory drive to normalize the pH"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Respiratory alkalosis is a primary decrease in PCO2 that raises pH; the delayed renal compensation is decreased HCO3 reabsorption and increased HCO3 excretion, which lowers plasma HCO3 toward the normal ratio. This renal response takes days, unlike the immediate ventilatory compensation for metabolic disorders. Persistence of hyperventilation would therefore drive her HCO3 down further.",
+  "explanation_incorrect": {
+    "A": "Further hyperventilation would worsen the primary respiratory alkalosis rather than compensate for it.",
+    "B": "Immediate hypoventilation is the rapid compensation for metabolic alkalosis, not for a primary respiratory alkalosis.",
+    "C": "Increased renal HCO3 reabsorption is the delayed compensation for respiratory acidosis and would raise, not lower, HCO3.",
+    "E": "Increased respiratory drive would lower PCO2 further; compensation for respiratory alkalosis is renal, not ventilatory."
+  },
+  "educationalObjective": "Respiratory alkalosis lowers PCO2 and raises pH and is compensated over days by decreased renal bicarbonate reabsorption, lowering HCO3.",
+  "source": "Generated from 14. Renal.pdf - Physiology: Acid-base physiology"
+},
+{
+  "id": "ren-139",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Acid-base physiology",
+  "difficulty": "medium",
+  "vignette": "A 45-year-old woman with chronic diarrhea from laxative abuse has a serum HCO3 of 16 mEq/L. She is anxious and tachypneic. Arterial blood gas shows pH 7.48 and measured PCO2 of 22 mm Hg.",
+  "question": "Which interpretation of her acid-base status is correct based on the Winters formula?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Simple metabolic acidosis with appropriate respiratory compensation"
+    },
+    {
+      "id": "B",
+      "text": "Concomitant respiratory alkalosis"
+    },
+    {
+      "id": "C",
+      "text": "Simple respiratory alkalosis with appropriate renal compensation"
+    },
+    {
+      "id": "D",
+      "text": "Concomitant respiratory acidosis"
+    },
+    {
+      "id": "E",
+      "text": "Concomitant metabolic alkalosis"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Winters formula gives predicted PCO2 = 1.5(16) + 8 +/- 2 = 32 +/- 2 mm Hg, a range of 30 to 34 mm Hg. The measured PCO2 of 22 mm Hg is below the predicted range, indicating excessive hyperventilation and a concomitant respiratory alkalosis added to her diarrhea-induced metabolic acidosis. The near-normal-alkalemic pH reflects the additive effect of both disorders.",
+  "explanation_incorrect": {
+    "A": "Appropriate compensation would place the measured PCO2 between 30 and 34 mm Hg; 22 mm Hg is too low.",
+    "C": "A simple respiratory alkalosis would not explain the low HCO3 of 16 mEq/L driven by chronic diarrhea; the primary process here is metabolic acidosis.",
+    "D": "Concomitant respiratory acidosis would produce a measured PCO2 above the predicted range, not below it.",
+    "E": "Concomitant metabolic alkalosis would raise HCO3 above the observed value rather than produce a low HCO3 of 16 mEq/L."
+  },
+  "educationalObjective": "A measured PCO2 below the Winters-predicted range indicates a concomitant respiratory alkalosis superimposed on metabolic acidosis.",
+  "source": "Generated from 14. Renal.pdf - Physiology: Acid-base physiology"
+}
+]

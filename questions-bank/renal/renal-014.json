@@ -1,0 +1,248 @@
+[
+{
+  "id": "ren-282",
+  "subject": "Renal",
+  "major_topic": "Pharmacology",
+  "subtopic": "Diuretics: sites of action and electrolyte effects",
+  "difficulty": "medium",
+  "vignette": "A medical student is reviewing the nephron segments where individual diuretics act, numbering the sites from glomerulus to collecting duct: mannitol at the glomerulus, acetazolamide in the proximal convoluted tubule, loop diuretics in the thick ascending limb, thiazides in the early distal convoluted tubule, and potassium-sparing agents in the collecting duct.",
+  "question": "Which of the following correctly matches a diuretic with its site of action?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Mannitol: thick ascending limb of the loop of Henle"
+    },
+    {
+      "id": "B",
+      "text": "Acetazolamide: early distal convoluted tubule"
+    },
+    {
+      "id": "C",
+      "text": "Loop diuretics: thick ascending limb of the loop of Henle"
+    },
+    {
+      "id": "D",
+      "text": "Thiazide diuretics: cortical collecting duct"
+    },
+    {
+      "id": "E",
+      "text": "Potassium-sparing diuretics: proximal convoluted tubule"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Loop diuretics inhibit the Na+/K+/2Cl− cotransporter in the thick ascending limb of the loop of Henle. Mannitol acts as an osmotic agent at the glomerulus, acetazolamide acts in the proximal convoluted tubule, thiazides act in the early distal convoluted tubule, and potassium-sparing diuretics act in the collecting duct.",
+  "explanation_incorrect": {
+    "A": "Mannitol is an osmotic diuretic that acts at the glomerulus and tubular lumen to increase urine flow, not at the thick ascending limb.",
+    "B": "Acetazolamide is a carbonic anhydrase inhibitor acting in the proximal convoluted tubule, not the early distal convoluted tubule.",
+    "D": "Thiazide diuretics act in the early distal convoluted tubule to inhibit NaCl reabsorption, not in the cortical collecting duct.",
+    "E": "Potassium-sparing diuretics act in the cortical collecting duct as aldosterone antagonists or sodium channel blockers, not in the proximal convoluted tubule."
+  },
+  "educationalObjective": "Loop diuretics act on the thick ascending limb; mannitol, acetazolamide, thiazides, and K-sparing agents act progressively from glomerulus to collecting duct.",
+  "source": "Generated from 14. Renal.pdf - Pharmacology: Diuretics: sites of action and electrolyte effects"
+},
+{
+  "id": "ren-283",
+  "subject": "Renal",
+  "major_topic": "Pharmacology",
+  "subtopic": "Diuretics: sites of action and electrolyte effects",
+  "difficulty": "easy",
+  "vignette": "A patient with severe hypercalcemia is treated with intravenous furosemide after volume repletion. The resident reviews the drug's effects on urinary electrolyte excretion before writing the order.",
+  "question": "Which of the following electrolyte effects is characteristic of loop diuretics?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Increased urinary calcium excretion"
+    },
+    {
+      "id": "B",
+      "text": "Decreased urinary calcium excretion"
+    },
+    {
+      "id": "C",
+      "text": "Decreased urinary magnesium excretion"
+    },
+    {
+      "id": "D",
+      "text": "Decreased potassium excretion"
+    },
+    {
+      "id": "E",
+      "text": "Decreased sodium excretion"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Loop diuretics increase the excretion of sodium, bicarbonate, potassium, chloride, calcium, magnesium, and hydrogen ions; they cause calciuresis (loops lose calcium), which is useful in hypercalcemia after hydration. Their adverse effects include hypokalemia, hypomagnesemia, dehydration, ototoxicity, and metabolic alkalosis.",
+  "explanation_incorrect": {
+    "B": "Loop diuretics increase rather than decrease calcium excretion; it is thiazides that decrease calcium excretion.",
+    "C": "Loop diuretics increase magnesium excretion and can cause hypomagnesemia, not decrease it.",
+    "D": "Loop diuretics increase potassium excretion and can cause hypokalemia, not decrease it.",
+    "E": "Loop diuretics increase sodium excretion, which is the basis of their diuretic effect, rather than decreasing it."
+  },
+  "educationalObjective": "Loop diuretics increase excretion of Na, K, Cl, Ca, Mg, and H, producing calciuresis along with hypokalemia and metabolic alkalosis.",
+  "source": "Generated from 14. Renal.pdf - Pharmacology: Diuretics: sites of action and electrolyte effects"
+},
+{
+  "id": "ren-284",
+  "subject": "Renal",
+  "major_topic": "Pharmacology",
+  "subtopic": "Diuretics: sites of action and electrolyte effects",
+  "difficulty": "hard",
+  "vignette": "A patient with hypertension and idiopathic hypercalciuria is started on hydrochlorothiazide. The student reviews the diuretic electrolyte excretion table, in which thiazides increase sodium, bicarbonate, potassium, and chloride excretion but lower calcium excretion.",
+  "question": "Which of the following changes in urinary electrolyte excretion is expected with thiazide diuretics?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Increased calcium excretion with decreased bicarbonate excretion"
+    },
+    {
+      "id": "B",
+      "text": "Decreased sodium excretion with increased calcium excretion"
+    },
+    {
+      "id": "C",
+      "text": "Decreased chloride excretion with increased magnesium excretion"
+    },
+    {
+      "id": "D",
+      "text": "Decreased calcium excretion with increased sodium, bicarbonate, potassium, and chloride excretion"
+    },
+    {
+      "id": "E",
+      "text": "Decreased potassium excretion with increased calcium excretion"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Thiazides increase excretion of sodium, bicarbonate, potassium, and chloride but decrease calcium excretion, which is why they are useful in idiopathic hypercalciuria and osteoporosis; magnesium excretion is unchanged or slightly increased. They can cause hypokalemic metabolic alkalosis, hypercalcemia, hyperglycemia, hyperlipidemia, and hyperuricemia.",
+  "explanation_incorrect": {
+    "A": "Thiazides decrease rather than increase calcium excretion, and they increase bicarbonate excretion rather than decreasing it.",
+    "B": "Thiazides increase sodium excretion and decrease calcium excretion, the opposite of this option.",
+    "C": "Thiazides increase chloride excretion, not decrease it; magnesium excretion is unchanged or only mildly increased.",
+    "E": "Thiazides increase potassium excretion, causing hypokalemia, and decrease calcium excretion rather than increasing it."
+  },
+  "educationalObjective": "Thiazides raise Na, HCO3, K, and Cl excretion while lowering Ca excretion, explaining their use in hypercalciuria and risk of hypokalemic alkalosis.",
+  "source": "Generated from 14. Renal.pdf - Pharmacology: Diuretics: sites of action and electrolyte effects"
+},
+{
+  "id": "ren-285",
+  "subject": "Renal",
+  "major_topic": "Pharmacology",
+  "subtopic": "Diuretics: sites of action and electrolyte effects",
+  "difficulty": "medium",
+  "vignette": "A student reviews how diuretics alter blood pH. In acidemia, carbonic anhydrase inhibitors reduce bicarbonate reabsorption, while potassium-sparing diuretics interfere with aldosterone action in the cortical collecting duct and can produce hyperkalemia with acidosis.",
+  "question": "Which of the following best explains why potassium-sparing diuretics can cause hyperkalemia and acidosis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "They increase bicarbonate reabsorption in the proximal tubule"
+    },
+    {
+      "id": "B",
+      "text": "Aldosterone blockade prevents potassium and hydrogen secretion, and hyperkalemia drives potassium into cells in exchange for hydrogen exiting cells"
+    },
+    {
+      "id": "C",
+      "text": "They inhibit the Na+/K+/2Cl− cotransporter in the thick ascending limb"
+    },
+    {
+      "id": "D",
+      "text": "They increase distal sodium delivery, which enhances potassium secretion"
+    },
+    {
+      "id": "E",
+      "text": "They cause volume contraction, increasing angiotensin II and proximal Na+/H+ exchange"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Potassium-sparing diuretics such as spironolactone and eplerenone block aldosterone receptors, while amiloride and triamterene block sodium channels, preventing potassium and hydrogen secretion in the cortical collecting tubule. The resulting hyperkalemia drives potassium into cells via the H+/K+ exchanger while hydrogen exits cells, aggravating acidosis.",
+  "explanation_incorrect": {
+    "A": "Increasing bicarbonate reabsorption would produce alkalosis, not acidosis; carbonic anhydrase inhibitors decrease bicarbonate reabsorption.",
+    "C": "The Na+/K+/2Cl− cotransporter is in the thick ascending limb and is inhibited by loop diuretics, not potassium-sparing diuretics.",
+    "D": "Enhanced potassium secretion from increased distal sodium delivery describes loop and thiazide effects that cause hypokalemia, not potassium-sparing diuretics.",
+    "E": "Volume contraction with increased angiotensin II and Na+/H+ exchange is the contraction alkalosis mechanism of loop diuretics and thiazides."
+  },
+  "educationalObjective": "Aldosterone blockade prevents K and H secretion and causes hyperkalemia, with K entering cells as H exits, producing acidosis.",
+  "source": "Generated from 14. Renal.pdf - Pharmacology: Diuretics: sites of action and electrolyte effects"
+},
+{
+  "id": "ren-286",
+  "subject": "Renal",
+  "major_topic": "Pharmacology",
+  "subtopic": "Diuretics: sites of action and electrolyte effects",
+  "difficulty": "hard",
+  "vignette": "A patient taking a loop diuretic develops metabolic alkalosis with hypokalemia. Urine studies show a surprisingly acidic urine despite the systemic alkalosis, and the term paradoxical aciduria is used to describe this finding.",
+  "question": "Which of the following best explains paradoxical aciduria in this setting?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Volume contraction decreases angiotensin II, reducing proximal Na+/H+ exchange"
+    },
+    {
+      "id": "B",
+      "text": "Hyperkalemia drives hydrogen into cells in exchange for potassium exiting cells"
+    },
+    {
+      "id": "C",
+      "text": "The loop diuretic directly inhibits bicarbonate reabsorption in the proximal tubule"
+    },
+    {
+      "id": "D",
+      "text": "Aldosterone blockade prevents hydrogen secretion in the cortical collecting tubule"
+    },
+    {
+      "id": "E",
+      "text": "In a low-potassium state, hydrogen rather than potassium is exchanged for sodium in the cortical collecting tubule, producing alkalosis with acid urine"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Loop diuretics and thiazides cause alkalemia through volume contraction, which increases angiotensin II and proximal Na+/H+ exchange to raise bicarbonate reabsorption (contraction alkalosis), through potassium loss with K exiting cells as H enters cells, and in low-potassium states by exchanging hydrogen rather than potassium for sodium in the cortical collecting tubule, producing systemic alkalosis with paradoxical aciduria.",
+  "explanation_incorrect": {
+    "A": "Volume contraction increases, not decreases, angiotensin II, and the resulting increase in Na+/H+ exchange raises bicarbonate reabsorption.",
+    "B": "It is hypokalemia rather than hyperkalemia that makes potassium exit cells and hydrogen enter cells in loop- or thiazide-induced alkalosis.",
+    "C": "Direct inhibition of proximal bicarbonate reabsorption is the mechanism of acetazolamide, not of loop diuretics.",
+    "D": "Aldosterone blockade is the mechanism of potassium-sparing diuretics and reduces hydrogen secretion; it does not explain paradoxical aciduria from loop diuretics."
+  },
+  "educationalObjective": "Loop and thiazide alkalosis combines contraction alkalosis, K loss with H entering cells, and H-for-Na exchange causing paradoxical aciduria.",
+  "source": "Generated from 14. Renal.pdf - Pharmacology: Diuretics: sites of action and electrolyte effects"
+},
+{
+  "id": "ren-287",
+  "subject": "Renal",
+  "major_topic": "Pharmacology",
+  "subtopic": "Diuretics: sites of action and electrolyte effects",
+  "difficulty": "medium",
+  "vignette": "A patient with idiopathic intracranial hypertension is treated with acetazolamide. The student reviews the carbonic anhydrase inhibitor row of the diuretic electrolyte excretion table before answering a question about urinary losses.",
+  "question": "Which of the following best describes the electrolyte excretion pattern of carbonic anhydrase inhibitors?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Increased sodium and chloride excretion with decreased calcium and magnesium excretion"
+    },
+    {
+      "id": "B",
+      "text": "Decreased bicarbonate and potassium excretion with increased hydrogen excretion"
+    },
+    {
+      "id": "C",
+      "text": "Increased sodium, bicarbonate, and potassium excretion with decreased hydrogen excretion"
+    },
+    {
+      "id": "D",
+      "text": "Increased calcium and magnesium excretion with decreased sodium excretion"
+    },
+    {
+      "id": "E",
+      "text": "Decreased sodium excretion with increased chloride and hydrogen excretion"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Carbonic anhydrase inhibitors such as acetazolamide increase excretion of sodium, bicarbonate, and potassium, have little or no effect on chloride, calcium, and magnesium, and decrease hydrogen excretion by reducing bicarbonate reabsorption. This produces metabolic acidosis (Acidazolamide) and an alkaline urine.",
+  "explanation_incorrect": {
+    "A": "Carbonic anhydrase inhibitors do not markedly increase chloride excretion or decrease calcium and magnesium excretion.",
+    "B": "They increase bicarbonate and potassium excretion and decrease hydrogen excretion, which is the reverse of this option.",
+    "D": "They do not increase calcium and magnesium excretion or decrease sodium excretion; increased calcium and magnesium excretion is a loop diuretic effect.",
+    "E": "They increase sodium excretion and decrease hydrogen excretion; decreasing sodium while increasing chloride and hydrogen is not their pattern."
+  },
+  "educationalObjective": "Carbonic anhydrase inhibitors increase Na, HCO3, and K excretion while lowering H excretion, causing metabolic acidosis and alkaline urine.",
+  "source": "Generated from 14. Renal.pdf - Pharmacology: Diuretics: sites of action and electrolyte effects"
+}
+]

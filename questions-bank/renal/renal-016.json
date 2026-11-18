@@ -1,0 +1,166 @@
+[
+{
+  "id": "ren-061",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Effective renal plasma flow and PAH",
+  "difficulty": "easy",
+  "vignette": "Para-aminohippuric acid (PAH) is infused to steady state. The urine PAH concentration is 140 mg/mL, urine flow rate is 1 mL/min, and plasma PAH concentration is 0.2 mg/mL.",
+  "question": "What physiologic quantity does the calculated PAH clearance represent?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Glomerular filtration rate"
+    },
+    {
+      "id": "B",
+      "text": "Renal blood flow"
+    },
+    {
+      "id": "C",
+      "text": "Filtration fraction"
+    },
+    {
+      "id": "D",
+      "text": "Effective renal plasma flow"
+    },
+    {
+      "id": "E",
+      "text": "Filtered load of PAH"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "PAH is both freely filtered and actively secreted, so nearly all PAH entering the kidney is excreted in one pass. Its clearance, CPAH = (UPAH × V)/PPAH = (140 × 1)/0.2 = 700 mL/min, therefore estimates the effective renal plasma flow (eRPF). Note that eRPF slightly underestimates true RPF because a small fraction of PAH is not extracted.",
+  "explanation_incorrect": {
+    "A": "GFR is measured with inulin (or approximately with creatinine); PAH clearance (~700 mL/min) is far higher than GFR (~100 mL/min) because PAH is secreted.",
+    "B": "Renal blood flow includes the cellular (red cell) fraction and is calculated as RPF/(1 − Hct); PAH clearance measures the plasma fraction, not whole blood.",
+    "C": "Filtration fraction is the ratio GFR/RPF (~20%), a dimensionless fraction, not a clearance value in mL/min.",
+    "E": "The filtered load of PAH is GFR × PPAH (~100 × 0.2 = 20 mg/min), a different quantity with units of mass per time, not the plasma volume cleared."
+  },
+  "educationalObjective": "PAH clearance approximates effective renal plasma flow because filtration plus secretion nearly completely clears PAH from blood in one pass.",
+  "source": "Generated from 14. Renal.pdf - Physiology: Effective renal plasma flow and PAH"
+},
+{
+  "id": "ren-062",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Effective renal plasma flow and PAH",
+  "difficulty": "medium",
+  "vignette": "A patient has a measured renal plasma flow of 650 mL/min and a hematocrit of 45%.",
+  "question": "What is the approximate renal blood flow in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "357 mL/min"
+    },
+    {
+      "id": "B",
+      "text": "1180 mL/min"
+    },
+    {
+      "id": "C",
+      "text": "650 mL/min"
+    },
+    {
+      "id": "D",
+      "text": "1444 mL/min"
+    },
+    {
+      "id": "E",
+      "text": "715 mL/min"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "RBF is derived from RPF by accounting for the cellular fraction of blood: RBF = RPF/(1 − Hct). Here that is 650/(1 − 0.45) = 650/0.55 ≈ 1182 mL/min, or about 1180 mL/min. This is consistent with the kidneys receiving roughly 20–25% of cardiac output.",
+  "explanation_incorrect": {
+    "A": "This multiplies rather than divides by the plasma fraction (650 × 0.55 ≈ 357); because plasma is only part of blood, RBF must be larger than RPF.",
+    "C": "This equates RBF with RPF; whole blood flow exceeds plasma flow because it additionally contains red cells.",
+    "D": "This divides by the hematocrit instead of the plasma fraction: 650/0.45 ≈ 1444. The correct divisor is (1 − Hct) = 0.55.",
+    "E": "This multiplies by (1 + Hct) = 650 × 1.1 = 715, which is not the correct conversion; the plasma fraction (1 − Hct) must be divided out."
+  },
+  "educationalObjective": "Convert plasma flow to blood flow using RBF = RPF/(1 − Hct); whole blood flow always exceeds plasma flow.",
+  "source": "Generated from 14. Renal.pdf - Physiology: Effective renal plasma flow and PAH"
+},
+{
+  "id": "ren-063",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Effective renal plasma flow and PAH",
+  "difficulty": "easy",
+  "vignette": "PAH entering the kidney is handled by a combination of glomerular filtration (~20%) and proximal tubular secretion (~80%), such that nearly 100% of the PAH presented to the kidney is excreted in the urine.",
+  "question": "Which statement about PAH clearance is correct?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Because nearly all PAH is excreted, its clearance approximates renal plasma flow but slightly underestimates true RPF"
+    },
+    {
+      "id": "B",
+      "text": "PAH clearance equals GFR because PAH is freely filtered at the glomerulus"
+    },
+    {
+      "id": "C",
+      "text": "PAH clearance overestimates true RPF because PAH is partially reabsorbed"
+    },
+    {
+      "id": "D",
+      "text": "PAH is 80% filtered and 20% secreted by the proximal tubule"
+    },
+    {
+      "id": "E",
+      "text": "PAH clearance measures renal blood flow directly, including the red cell fraction"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Because filtration (~20%) plus secretion (~80%) clears almost all PAH from the plasma passing through the kidney, CPAH closely approximates renal plasma flow. It is termed effective RPF because it slightly underestimates true RPF: a small fraction of PAH is not completely extracted (e.g., from areas with imperfect perfusion/extraction), so not quite 100% is recovered in urine.",
+  "explanation_incorrect": {
+    "B": "Free filtration alone would give a clearance equal to GFR (~100 mL/min); it is the additional tubular secretion that raises PAH clearance toward RPF.",
+    "C": "PAH is secreted, not reabsorbed; reabsorption would lower clearance. The small discrepancy is an underestimation of RPF, not an overestimation.",
+    "D": "The proportions are reversed: about 20% of PAH is filtered and 80% is secreted, not the other way around.",
+    "E": "PAH clearance estimates the plasma flow only; whole blood flow requires the hematocrit correction RBF = RPF/(1 − Hct)."
+  },
+  "educationalObjective": "Nearly complete excretion of PAH (20% filtered + 80% secreted) makes its clearance an estimate of effective RPF that slightly underestimates true RPF.",
+  "source": "Generated from 14. Renal.pdf - Physiology: Effective renal plasma flow and PAH"
+},
+{
+  "id": "ren-064",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Effective renal plasma flow and PAH",
+  "difficulty": "hard",
+  "vignette": "A resting adult has a cardiac output of 5 L/min and a hematocrit of 40%. At rest, the kidneys receive approximately 22% of the cardiac output.",
+  "question": "What is the approximate renal plasma flow in this individual?",
+  "options": [
+    {
+      "id": "A",
+      "text": "1100 mL/min"
+    },
+    {
+      "id": "B",
+      "text": "440 mL/min"
+    },
+    {
+      "id": "C",
+      "text": "660 mL/min"
+    },
+    {
+      "id": "D",
+      "text": "2750 mL/min"
+    },
+    {
+      "id": "E",
+      "text": "1000 mL/min"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "First find renal blood flow: RBF = 22% × 5000 mL/min = 1100 mL/min. Then convert to plasma flow using the plasma fraction: RPF = RBF × (1 − Hct) = 1100 × (1 − 0.40) = 1100 × 0.60 = 660 mL/min. This is consistent with PAH-derived estimates of renal plasma flow (~600–700 mL/min).",
+  "explanation_incorrect": {
+    "A": "This is the renal blood flow (1100 mL/min), not the plasma flow; it fails to remove the red cell fraction.",
+    "B": "This multiplies RBF by the hematocrit (1100 × 0.40 = 440), yielding the red cell flow, not the plasma flow; the plasma fraction (1 − Hct) is needed.",
+    "D": "This divides RBF by the hematocrit (1100/0.40 = 2750), an incorrect conversion; plasma flow must be RBF × (1 − Hct).",
+    "E": "This applies 20% of cardiac output directly to plasma (0.20 × 5000 = 1000) and ignores the hematocrit correction needed to isolate the plasma fraction."
+  },
+  "educationalObjective": "RBF is a fraction of cardiac output (20–25%), and RPF = RBF × (1 − Hct); combine both steps correctly.",
+  "source": "Generated from 14. Renal.pdf - Physiology: Effective renal plasma flow and PAH"
+}
+]

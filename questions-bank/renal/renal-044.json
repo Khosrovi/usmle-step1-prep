@@ -1,0 +1,248 @@
+[
+{
+  "id": "ren-071",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Reabsorption, secretion, and FENa calculations",
+  "difficulty": "easy",
+  "vignette": "A healthy subject has a glomerular filtration rate of 100 mL/min and a plasma glucose concentration of 1 mg/mL. Glucose is freely filtered at the glomerulus.",
+  "question": "What is the filtered load of glucose in this subject?",
+  "options": [
+    {
+      "id": "A",
+      "text": "1 mg/min"
+    },
+    {
+      "id": "B",
+      "text": "10 mg/min"
+    },
+    {
+      "id": "C",
+      "text": "50 mg/min"
+    },
+    {
+      "id": "D",
+      "text": "100 mg/min"
+    },
+    {
+      "id": "E",
+      "text": "1000 mg/min"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "The filtered load is the mass of a substance delivered into the tubule per unit time: filtered load = GFR × plasma concentration (Px). For glucose, 100 mL/min × 1 mg/mL = 100 mg/min. This is the amount presented to the proximal tubule for reabsorption before any urinary excretion is considered.",
+  "explanation_incorrect": {
+    "A": "This is just the plasma concentration (1 mg/mL) with the time and volume components dropped; filtered load must include GFR.",
+    "B": "This divides the correct product by 10; multiplying 100 mL/min by 1 mg/mL gives 100 mg/min, not 10 mg/min.",
+    "C": "This is half the correct value and corresponds to an error such as using a GFR of 50 mL/min; the stated GFR is 100 mL/min.",
+    "E": "This multiplies by an extra factor of 10 (1000 mg/min); GFR (100 mL/min) times concentration (1 mg/mL) is 100 mg/min."
+  },
+  "educationalObjective": "Filtered load = GFR × plasma concentration; for glucose at GFR 100 mL/min and P 1 mg/mL it is 100 mg/min.",
+  "source": "Generated from 14. Renal.pdf - Physiology: Reabsorption, secretion, and FENa calculations"
+},
+{
+  "id": "ren-072",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Reabsorption, secretion, and FENa calculations",
+  "difficulty": "medium",
+  "vignette": "A subject has a GFR of 100 mL/min and a plasma glucose concentration of 1 mg/mL. Urine flow is 1 mL/min and the urine glucose concentration is 0 mg/mL because all filtered glucose is reclaimable at this normal plasma level.",
+  "question": "What is the renal reabsorption rate of glucose?",
+  "options": [
+    {
+      "id": "A",
+      "text": "100 mg/min"
+    },
+    {
+      "id": "B",
+      "text": "0 mg/min"
+    },
+    {
+      "id": "C",
+      "text": "50 mg/min"
+    },
+    {
+      "id": "D",
+      "text": "200 mg/min"
+    },
+    {
+      "id": "E",
+      "text": "1 mg/min"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Filtered load = GFR × Px = 100 mL/min × 1 mg/mL = 100 mg/min. Excretion rate = V × Ux = 1 mL/min × 0 mg/mL = 0 mg/min. Reabsorption rate = filtered − excreted = 100 − 0 = 100 mg/min, which is expected because glucose at normal plasma levels is completely reabsorbed in the proximal convoluted tubule by Na⁺/glucose cotransport.",
+  "explanation_incorrect": {
+    "B": "This is the excretion rate (V × Ux = 0), not reabsorption; when no glucose is excreted, all of the filtered load must have been reabsorbed.",
+    "C": "This is half the filtered load; the entire 100 mg/min filtered is reabsorbed when urine glucose is zero.",
+    "D": "This adds filtered and excreted amounts (100 + 0 + an extra 100); reabsorption is filtered minus excreted, never a sum greater than the filtered load.",
+    "E": "This is the plasma concentration alone (1 mg/mL); the reabsorption rate must be in mg/min and here equals the full filtered load of 100 mg/min."
+  },
+  "educationalObjective": "Reabsorption rate = filtered load − excretion rate; with no urinary glucose, the entire filtered glucose load is reabsorbed.",
+  "source": "Generated from 14. Renal.pdf - Physiology: Reabsorption, secretion, and FENa calculations"
+},
+{
+  "id": "ren-073",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Reabsorption, secretion, and FENa calculations",
+  "difficulty": "medium",
+  "vignette": "For substance X, GFR is 100 mL/min and plasma concentration is 0.1 mg/mL. Urine flow is 2 mL/min and urine concentration of X is 10 mg/mL, indicating that the amount excreted exceeds the amount filtered.",
+  "question": "What is the net tubular secretion rate of substance X?",
+  "options": [
+    {
+      "id": "A",
+      "text": "20 mg/min"
+    },
+    {
+      "id": "B",
+      "text": "10 mg/min"
+    },
+    {
+      "id": "C",
+      "text": "0 mg/min"
+    },
+    {
+      "id": "D",
+      "text": "30 mg/min"
+    },
+    {
+      "id": "E",
+      "text": "5 mg/min"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Filtered load = GFR × Px = 100 × 0.1 = 10 mg/min. Excretion rate = V × Ux = 2 × 10 = 20 mg/min. Secretion rate = excreted − filtered = 20 − 10 = 10 mg/min. This makes sense for a secreted substance such as PAH, whose clearance exceeds GFR because more is excreted than was filtered.",
+  "explanation_incorrect": {
+    "A": "This is the excretion rate alone (V × Ux = 20 mg/min); it ignores that 10 mg/min was already delivered by filtration and must be subtracted.",
+    "C": "This assumes no net secretion, but excretion (20 mg/min) exceeds the filtered load (10 mg/min), so there is a positive secretory component.",
+    "D": "This adds filtered and excreted amounts (10 + 20 = 30); secretion is the difference between them, not their sum.",
+    "E": "This is half the correct secretion rate, resulting from an arithmetic error in either the filtered load or excretion term; the correct difference is 20 − 10 = 10 mg/min."
+  },
+  "educationalObjective": "Secretion rate = excretion rate − filtered load; compute each from V × Ux and GFR × Px, then subtract.",
+  "source": "Generated from 14. Renal.pdf - Physiology: Reabsorption, secretion, and FENa calculations"
+},
+{
+  "id": "ren-074",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Reabsorption, secretion, and FENa calculations",
+  "difficulty": "hard",
+  "vignette": "A patient's laboratory values are: urine sodium 20 mEq/L, plasma sodium 140 mEq/L, urine creatinine 40 mg/dL, and plasma creatinine 1.0 mg/dL.",
+  "question": "What is this patient's fractional excretion of sodium (FENa)?",
+  "options": [
+    {
+      "id": "A",
+      "text": "3.6%"
+    },
+    {
+      "id": "B",
+      "text": "0.036%"
+    },
+    {
+      "id": "C",
+      "text": "14.3%"
+    },
+    {
+      "id": "D",
+      "text": "5.7%"
+    },
+    {
+      "id": "E",
+      "text": "0.36%"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Using the creatinine-based formula FENa = (UNa × PCr)/(UCr × PNa): (20 × 1.0)/(40 × 140) = 20/5600 = 0.00357, or approximately 0.36%. This value is below 1%, which is consistent with a prerenal state in which the tubules are intact and avidly reabsorbing sodium. The formula works because UCr/PCr corrects for the fraction of filtered water reabsorbed.",
+  "explanation_incorrect": {
+    "A": "This shifts the decimal by a factor of 10 (0.036 → 3.6%); the correct value is 0.36%.",
+    "B": "This shifts the decimal the other way by a factor of 10; 20/5600 = 0.0036 = 0.36%, not 0.036%.",
+    "C": "This uses UNa/PNa alone (20/140 = 14.3%) and omits the creatinine correction for water reabsorption; FENa requires the full (UNa × PCr)/(UCr × PNa) ratio.",
+    "D": "This inverts the creatinine terms, computing (UNa × UCr)/(PNa × PCr) = 800/140 ≈ 5.7%; the plasma creatinine belongs in the numerator and urine creatinine in the denominator."
+  },
+  "educationalObjective": "FENa = (UNa × PCr)/(UCr × PNa); here 20/5600 ≈ 0.36%, and values below 1% suggest prerenal physiology.",
+  "source": "Generated from 14. Renal.pdf - Physiology: Reabsorption, secretion, and FENa calculations"
+},
+{
+  "id": "ren-075",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Reabsorption, secretion, and FENa calculations",
+  "difficulty": "medium",
+  "vignette": "A hypotensive, oliguric patient has the following values: urine sodium 10 mEq/L, plasma sodium 140 mEq/L, urine creatinine 50 mg/dL, plasma creatinine 1.0 mg/dL. The calculated FENa is (10 × 1.0)/(50 × 140) ≈ 0.14%.",
+  "question": "What does this FENa value most strongly suggest about the cause of the patient's renal impairment?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Acute tubular necrosis, because the tubules are excreting a high fraction of filtered sodium"
+    },
+    {
+      "id": "B",
+      "text": "Acute glomerulonephritis with impaired glomerular filtration"
+    },
+    {
+      "id": "C",
+      "text": "Prerenal azotemia with intact tubules reabsorbing sodium avidly"
+    },
+    {
+      "id": "D",
+      "text": "Postrenal obstruction with tubular damage"
+    },
+    {
+      "id": "E",
+      "text": "Normal renal function with appropriate sodium excretion"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "FENa below 1% (here ~0.14%) indicates that the tubules are intact and reabsorbing sodium avidly, which is the expected response to renal hypoperfusion (prerenal azotemia). In prerenal states, aldosterone and sympathetic tone drive sodium retention, so urine sodium is low and FENa is low. By contrast, acute tubular necrosis damages the tubules and produces FENa >2%.",
+  "explanation_incorrect": {
+    "A": "Acute tubular necrosis produces FENa >2% because damaged tubules cannot reabsorb sodium; a value of 0.14% argues against ATN.",
+    "B": "Glomerulonephritis is characterized by hematuria, proteinuria, and other urinary findings; FENa is a tool for distinguishing prerenal from intrinsic tubular (ATN) injury, not a primary diagnostic marker for glomerulonephritis.",
+    "D": "Postrenal obstruction is suggested by hydronephrosis and urinary tract findings, not by a low FENa; long-standing obstruction can also damage tubules and raise FENa.",
+    "E": "A FENa of 0.14% is markedly low and, together with oliguria and hypotension, reflects an abnormal prerenal state rather than normal sodium handling."
+  },
+  "educationalObjective": "FENa <1% indicates prerenal azotemia with intact, sodium-avid tubules; FENa >2% suggests acute tubular necrosis.",
+  "source": "Generated from 14. Renal.pdf - Physiology: Reabsorption, secretion, and FENa calculations"
+},
+{
+  "id": "ren-076",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Reabsorption, secretion, and FENa calculations",
+  "difficulty": "medium",
+  "vignette": "A patient who suffered prolonged renal ischemia presents with acute kidney injury. Laboratory evaluation shows a fractional excretion of sodium of 3.5%.",
+  "question": "Which condition is most consistent with this FENa value?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Prerenal azotemia from volume depletion"
+    },
+    {
+      "id": "B",
+      "text": "Acute tubular necrosis"
+    },
+    {
+      "id": "C",
+      "text": "Dehydration with intact, sodium-retaining tubules"
+    },
+    {
+      "id": "D",
+      "text": "Heart failure with reduced renal perfusion"
+    },
+    {
+      "id": "E",
+      "text": "Hepatorenal syndrome"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "FENa greater than 2% indicates impaired tubular sodium reabsorption, the hallmark of acute tubular necrosis. Ischemic injury to the proximal tubule and other segments prevents normal sodium reclamation, so a high fraction of filtered sodium is excreted despite volume depletion. The clinical context of prolonged ischemia further supports ATN as the cause of this patient's acute kidney injury.",
+  "explanation_incorrect": {
+    "A": "Prerenal azotemia produces FENa <1% because the tubules are intact and reabsorb sodium avidly; 3.5% is too high.",
+    "C": "Dehydration with intact tubules is a prerenal state and would yield FENa <1%, reflecting maximal sodium conservation, not 3.5%.",
+    "D": "Heart failure with reduced perfusion causes prerenal physiology and low FENa (<1%) as long as the tubules are not injured.",
+    "E": "Hepatorenal syndrome is a form of prerenal-like renal hypoperfusion with intact tubules and therefore a low FENa (<1%), not 3.5%."
+  },
+  "educationalObjective": "FENa >2% with an ischemic insult indicates acute tubular necrosis, whereas prerenal states yield FENa <1%.",
+  "source": "Generated from 14. Renal.pdf - Physiology: Reabsorption, secretion, and FENa calculations"
+}
+]

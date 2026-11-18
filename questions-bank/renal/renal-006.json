@@ -1,0 +1,289 @@
+[
+{
+  "id": "ren-220",
+  "subject": "Renal",
+  "major_topic": "Pathology",
+  "subtopic": "Acute kidney injury: prerenal, intrinsic, postrenal",
+  "difficulty": "easy",
+  "vignette": "A 72-year-old man with gastroenteritis and poor oral intake presents with a 3-day rise in creatinine from 1.0 to 2.4 mg/dL. Labs show BUN/Cr ratio 28, urine Na 12 mEq/L, urine osmolality 620 mOsm/kg, and FENa 0.5%.",
+  "question": "Which of the following best categorizes his acute kidney injury?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Acute tubular necrosis"
+    },
+    {
+      "id": "B",
+      "text": "Postrenal azotemia"
+    },
+    {
+      "id": "C",
+      "text": "Acute interstitial nephritis"
+    },
+    {
+      "id": "D",
+      "text": "Prerenal azotemia"
+    },
+    {
+      "id": "E",
+      "text": "Acute glomerulonephritis"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Prerenal azotemia results from decreased renal blood flow due to hypovolemia, which lowers GFR and triggers increased reabsorption of Na, water, and urea. Typical values are BUN/Cr greater than 20, urine Na below 20, FENa below 1%, and urine osmolality above 500. Tubular function is intact, so sodium is avidly reabsorbed.",
+  "explanation_incorrect": {
+    "A": "ATN shows FENa above 2%, urine Na above 40, urine osmolality below 350, and muddy brown casts because damaged tubules cannot reabsorb sodium.",
+    "B": "Postrenal azotemia requires bilateral outflow obstruction from stones, BPH, or neoplasm; no obstructing lesion is present here.",
+    "C": "Acute interstitial nephritis is a drug hypersensitivity with eosinophils, rash, and pyuria, not these sodium-avid indices.",
+    "E": "Acute glomerulonephritis presents with hematuria, RBC casts, and often hypertension, rather than a prerenal biochemical pattern."
+  },
+  "educationalObjective": "Prerenal azotemia is identified by BUN/Cr greater than 20, urine Na below 20, FENa below 1%, and urine osmolality above 500.",
+  "source": "Generated from 14. Renal.pdf - Pathology: Acute kidney injury: prerenal, intrinsic, postrenal"
+},
+{
+  "id": "ren-221",
+  "subject": "Renal",
+  "major_topic": "Pathology",
+  "subtopic": "Acute kidney injury: prerenal, intrinsic, postrenal",
+  "difficulty": "medium",
+  "vignette": "A 60-year-old man develops AKI after severe hypotension from a gastrointestinal bleed. Creatinine rises to 3.0 mg/dL. Labs show BUN/Cr 13, urine Na 55 mEq/L, urine osmolality 310 mOsm/kg, and FENa 3%. Urine microscopy shows muddy brown granular casts.",
+  "question": "Which category of acute kidney injury does this represent?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Prerenal azotemia"
+    },
+    {
+      "id": "B",
+      "text": "Intrinsic renal failure due to acute tubular necrosis"
+    },
+    {
+      "id": "C",
+      "text": "Postrenal azotemia from bilateral obstruction"
+    },
+    {
+      "id": "D",
+      "text": "Acute glomerulonephritis"
+    },
+    {
+      "id": "E",
+      "text": "Acute interstitial nephritis"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Ischemic acute tubular necrosis is a form of intrinsic renal failure. Injured tubules cannot reabsorb sodium or concentrate urine, so FENa is above 2%, urine Na above 40, urine osmolality below 350, and BUN/Cr below 15, with muddy brown granular casts. The preceding severe hypotension is the inciting ischemic event.",
+  "explanation_incorrect": {
+    "A": "Prerenal azotemia would show FENa below 1%, urine Na below 20, urine osmolality above 500, and BUN/Cr above 20.",
+    "C": "Postrenal azotemia requires bilateral obstruction such as BPH or stones and does not produce muddy brown granular casts.",
+    "D": "Acute glomerulonephritis has hematuria, RBC casts, and often hypertension rather than granular casts after ischemia.",
+    "E": "Acute interstitial nephritis is drug-induced hypersensitivity with fever, rash, and eosinophilic pyuria, not an ischemic injury with granular casts."
+  },
+  "educationalObjective": "Ischemic ATN is intrinsic AKI with FENa above 2%, urine Na above 40, low urine osmolality, BUN/Cr below 15, and muddy brown casts.",
+  "source": "Generated from 14. Renal.pdf - Pathology: Acute kidney injury: prerenal, intrinsic, postrenal"
+},
+{
+  "id": "ren-222",
+  "subject": "Renal",
+  "major_topic": "Pathology",
+  "subtopic": "Acute kidney injury: prerenal, intrinsic, postrenal",
+  "difficulty": "easy",
+  "vignette": "A 70-year-old man with urinary hesitancy and a weak stream develops a rising creatinine and bilateral hydronephrosis.",
+  "question": "Which of the following best explains his acute kidney injury?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Bladder outlet obstruction from benign prostatic hyperplasia"
+    },
+    {
+      "id": "B",
+      "text": "Reduced effective circulating volume from heart failure"
+    },
+    {
+      "id": "C",
+      "text": "Hypovolemia from gastrointestinal losses"
+    },
+    {
+      "id": "D",
+      "text": "Acute tubular necrosis from nephrotoxins"
+    },
+    {
+      "id": "E",
+      "text": "Bilateral renal cortical necrosis"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Postrenal azotemia results from urinary outflow obstruction that must be bilateral, or affect a solitary kidney, to lower GFR. Causes include stones, benign prostatic hyperplasia, neoplasm, and congenital anomalies. BPH causes bladder outlet obstruction with bilateral hydronephrosis and a weak stream.",
+  "explanation_incorrect": {
+    "B": "Heart failure produces prerenal azotemia through decreased effective circulating volume, not urinary obstruction.",
+    "C": "Gastrointestinal losses cause hypovolemic prerenal azotemia with sodium-avid urine, not bilateral hydronephrosis.",
+    "D": "Nephrotoxin-induced ATN is intrinsic renal failure with granular casts, not obstructive uropathy.",
+    "E": "Cortical necrosis is an intrinsic vascular catastrophe associated with obstetric complications or septic shock, not obstruction."
+  },
+  "educationalObjective": "BPH is a postrenal cause of AKI because bilateral outflow obstruction reduces GFR and produces hydronephrosis.",
+  "source": "Generated from 14. Renal.pdf - Pathology: Acute kidney injury: prerenal, intrinsic, postrenal"
+},
+{
+  "id": "ren-223",
+  "subject": "Renal",
+  "major_topic": "Pathology",
+  "subtopic": "Acute kidney injury: prerenal, intrinsic, postrenal",
+  "difficulty": "hard",
+  "vignette": "A 58-year-old man with decompensated cirrhosis and ascites develops a rise in creatinine to 2.2 mg/dL. He is clinically volume overloaded with peripheral edema. Labs show BUN/Cr 26, urine Na 14 mEq/L, FENa 0.6%, and urine osmolality 580 mOsm/kg.",
+  "question": "Which of the following best explains these findings despite his total body volume overload?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Acute tubular necrosis from persistently reduced renal perfusion"
+    },
+    {
+      "id": "B",
+      "text": "Intrinsic glomerular disease caused by circulating immune complexes"
+    },
+    {
+      "id": "C",
+      "text": "Postrenal obstruction caused by an enlarged liver"
+    },
+    {
+      "id": "D",
+      "text": "Primary polydipsia producing inappropriately dilute urine"
+    },
+    {
+      "id": "E",
+      "text": "Decreased effective circulating volume causing enhanced sodium and water reabsorption"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "In heart failure and liver failure, decreased effective circulating volume exists despite total body volume overload. Reduced renal perfusion activates RAAS and ADH, increasing reabsorption of Na, water, and urea and producing prerenal indices: BUN/Cr above 20, urine Na below 20, FENa below 1%, and urine osmolality above 500.",
+  "explanation_incorrect": {
+    "A": "ATN would show FENa above 2%, urine Na above 40, and muddy brown casts rather than sodium-avid indices.",
+    "B": "Cirrhosis can be associated with glomerular disease, but these sodium-avid indices point to prerenal physiology rather than intrinsic glomerular injury.",
+    "C": "Postrenal azotemia requires bilateral outflow obstruction; hepatomegaly does not obstruct both ureters, and indices vary.",
+    "D": "Primary polydipsia produces dilute urine with low osmolality, not concentrated urine with osmolality 580."
+  },
+  "educationalObjective": "Decreased effective circulating volume in heart or liver failure produces prerenal indices even when total body volume is increased.",
+  "source": "Generated from 14. Renal.pdf - Pathology: Acute kidney injury: prerenal, intrinsic, postrenal"
+},
+{
+  "id": "ren-224",
+  "subject": "Renal",
+  "major_topic": "Pathology",
+  "subtopic": "Acute kidney injury: prerenal, intrinsic, postrenal",
+  "difficulty": "medium",
+  "vignette": "A 55-year-old man with AKI is evaluated, and his injury is classified as a vascular cause of intrinsic renal failure.",
+  "question": "Which of the following conditions fits this category?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Acute tubular necrosis"
+    },
+    {
+      "id": "B",
+      "text": "Acute interstitial nephritis"
+    },
+    {
+      "id": "C",
+      "text": "Vasculitis"
+    },
+    {
+      "id": "D",
+      "text": "Acute glomerulonephritis"
+    },
+    {
+      "id": "E",
+      "text": "Prerenal azotemia from dehydration"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Intrinsic renal failure is subdivided by the site of injury: tubules (acute tubular necrosis), interstitium (acute interstitial nephritis), glomerulus (acute glomerulonephritis), and vasculature (vasculitis, hypertensive emergency, TTP-HUS). Vasculitis is therefore a vascular cause of intrinsic AKI.",
+  "explanation_incorrect": {
+    "A": "Acute tubular necrosis is a tubular cause of intrinsic AKI, not a vascular one.",
+    "B": "Acute interstitial nephritis is a tubulointerstitial cause, typically a drug-induced hypersensitivity reaction.",
+    "D": "Acute glomerulonephritis is a glomerular cause of intrinsic AKI, with hematuria and RBC casts.",
+    "E": "Prerenal azotemia from dehydration is not intrinsic renal failure; it reflects reduced perfusion with intact tubules."
+  },
+  "educationalObjective": "Vasculitis, hypertensive emergency, and TTP-HUS are vascular causes of intrinsic renal failure.",
+  "source": "Generated from 14. Renal.pdf - Pathology: Acute kidney injury: prerenal, intrinsic, postrenal"
+},
+{
+  "id": "ren-225",
+  "subject": "Renal",
+  "major_topic": "Pathology",
+  "subtopic": "Acute kidney injury: prerenal, intrinsic, postrenal",
+  "difficulty": "hard",
+  "vignette": "A 65-year-old man with vomiting and poor oral intake has acute kidney injury. The team is deciding whether his picture is prerenal or intrinsic.",
+  "question": "Which of the following sets of urine studies is most consistent with prerenal azotemia?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Urine osmolality 290; urine Na 60; FENa 3.5%; BUN/Cr 12"
+    },
+    {
+      "id": "B",
+      "text": "Urine osmolality 560; urine Na 15; FENa 0.7%; BUN/Cr 24"
+    },
+    {
+      "id": "C",
+      "text": "Urine osmolality 320; urine Na 45; FENa 2.5%; BUN/Cr 13"
+    },
+    {
+      "id": "D",
+      "text": "Urine osmolality 500; urine Na 25; FENa 1.5%; BUN/Cr 18"
+    },
+    {
+      "id": "E",
+      "text": "Urine osmolality 350; urine Na 40; FENa 2.0%; BUN/Cr 15"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Prerenal azotemia requires urine osmolality above 500 mOsm/kg, urine Na below 20 mEq/L, FENa below 1%, and BUN/Cr above 20. Only option B satisfies all four criteria, reflecting intact tubular reabsorption of sodium, water, and urea from RAAS activation.",
+  "explanation_incorrect": {
+    "A": "Osmolality below 350, Na above 40, FENa above 2%, and BUN/Cr below 15 are classic intrinsic renal failure values.",
+    "C": "These values place Na above 40, FENa above 2%, and BUN/Cr below 15, which indicate intrinsic rather than prerenal injury.",
+    "D": "These are intermediate values: FENa 1.5% and BUN/Cr 18 fail the prerenal thresholds of below 1% and above 20.",
+    "E": "These sit at the intrinsic thresholds of osmolality 350, Na 40, FENa 2%, and BUN/Cr 15, not the prerenal pattern."
+  },
+  "educationalObjective": "Prerenal azotemia requires all four: urine osmolality above 500, urine Na below 20, FENa below 1%, and BUN/Cr above 20.",
+  "source": "Generated from 14. Renal.pdf - Pathology: Acute kidney injury: prerenal, intrinsic, postrenal"
+},
+{
+  "id": "ren-226",
+  "subject": "Renal",
+  "major_topic": "Pathology",
+  "subtopic": "Acute kidney injury: prerenal, intrinsic, postrenal",
+  "difficulty": "hard",
+  "vignette": "A hypotensive, volume-depleted patient has AKI with BUN 72 mg/dL and creatinine 2.4 mg/dL, giving a BUN/Cr ratio of 30. Urine Na is 10 mEq/L and FENa is 0.5%.",
+  "question": "Which mechanism best accounts for the disproportionately elevated BUN relative to creatinine?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Selectively decreased glomerular filtration of urea relative to creatinine"
+    },
+    {
+      "id": "B",
+      "text": "Increased hepatic urea synthesis from enhanced protein catabolism"
+    },
+    {
+      "id": "C",
+      "text": "Markedly reduced tubular secretion of creatinine"
+    },
+    {
+      "id": "D",
+      "text": "Enhanced proximal tubular reabsorption of urea driven by volume depletion and RAAS activation"
+    },
+    {
+      "id": "E",
+      "text": "Increased dietary protein intake raising urea generation"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "In prerenal azotemia, reduced perfusion activates RAAS and ADH, increasing proximal reabsorption of Na, water, and urea. Because urea is reabsorbed while creatinine is relatively not, BUN rises disproportionately and BUN/Cr exceeds 20. The sodium-avid urine (Na 10, FENa 0.5%) confirms the prerenal state.",
+  "explanation_incorrect": {
+    "A": "GFR falls for both urea and creatinine; the high ratio results from differential urea reabsorption, not selective reduction in urea filtration.",
+    "B": "Catabolism can raise BUN but is not the main mechanism of the classic prerenal ratio, which depends on tubular urea reabsorption.",
+    "C": "Creatinine secretion is modest and is not the cause; reduced GFR raises both, but urea reabsorption drives the ratio.",
+    "E": "Dietary protein affects urea generation but does not explain the sodium-avid urine and the characteristic prerenal BUN/Cr elevation."
+  },
+  "educationalObjective": "The prerenal BUN/Cr ratio above 20 is driven by increased proximal urea reabsorption alongside sodium and water retention.",
+  "source": "Generated from 14. Renal.pdf - Pathology: Acute kidney injury: prerenal, intrinsic, postrenal"
+}
+]

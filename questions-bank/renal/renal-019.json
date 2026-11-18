@@ -1,0 +1,248 @@
+[
+{
+  "id": "ren-065",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Filtration fraction and glomerular dynamics",
+  "difficulty": "easy",
+  "vignette": "In a healthy adult, the glomerular filtration rate is 100 mL/min and the renal plasma flow is 500 mL/min.",
+  "question": "What is the filtration fraction in this individual?",
+  "options": [
+    {
+      "id": "A",
+      "text": "500%"
+    },
+    {
+      "id": "B",
+      "text": "10%"
+    },
+    {
+      "id": "C",
+      "text": "5%"
+    },
+    {
+      "id": "D",
+      "text": "25%"
+    },
+    {
+      "id": "E",
+      "text": "20%"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Filtration fraction (FF) is the fraction of plasma flowing through the kidney that is filtered: FF = GFR/RPF = 100/500 = 0.20, or 20%. This is the normal value and reflects that roughly one-fifth of the plasma entering the glomeruli is filtered, with the remainder continuing into the peritubular capillaries.",
+  "explanation_incorrect": {
+    "A": "This inverts the ratio and multiplies by 100 (RPF/GFR = 500/100 = 5 → 500%); filtration fraction must be GFR divided by RPF and normally near 20%, not 500%.",
+    "B": "This halves the correct value by an extra factor of 2; the ratio 100/500 is 0.20, not 0.10.",
+    "C": "This reports the inverted ratio (RPF/GFR = 5) in percent form without the ×100 scaling; the correct ratio is 0.20, not 5.",
+    "D": "This results from dividing GFR by an incorrect plasma flow (e.g., 400 mL/min); the given RPF is 500 mL/min, giving 20%, not 25%."
+  },
+  "educationalObjective": "Filtration fraction = GFR/RPF and is normally about 20% (100/500).",
+  "source": "Generated from 14. Renal.pdf - Physiology: Filtration fraction and glomerular dynamics"
+},
+{
+  "id": "ren-066",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Filtration fraction and glomerular dynamics",
+  "difficulty": "medium",
+  "vignette": "A pharmacologic agent selectively constricts the afferent arteriole, increasing resistance to blood entering the glomerulus.",
+  "question": "Which set of changes in GFR, RPF, and filtration fraction is expected?",
+  "options": [
+    {
+      "id": "A",
+      "text": "increased GFR, decreased RPF, increased FF"
+    },
+    {
+      "id": "B",
+      "text": "decreased GFR, increased RPF, decreased FF"
+    },
+    {
+      "id": "C",
+      "text": "decreased GFR, decreased RPF, filtration fraction essentially unchanged"
+    },
+    {
+      "id": "D",
+      "text": "decreased GFR, decreased RPF, increased FF"
+    },
+    {
+      "id": "E",
+      "text": "increased GFR, increased RPF, filtration fraction unchanged"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Afferent arteriolar constriction reduces blood flow into the glomerulus, lowering RPF. The fall in glomerular capillary hydrostatic pressure (PGC) also lowers GFR. Because GFR and RPF fall roughly in parallel, their ratio—the filtration fraction—is essentially unchanged. This pattern resembles that of ureteral constriction, which likewise lowers GFR and RPF without changing FF.",
+  "explanation_incorrect": {
+    "A": "Increased GFR with increased FF is the pattern of efferent (not afferent) constriction, where PGC rises while RPF falls.",
+    "B": "Afferent constriction cannot increase RPF; raising resistance upstream necessarily reduces renal plasma flow.",
+    "D": "An increased FF would require GFR to fall less than RPF; with pure afferent constriction both decline together and FF is unchanged.",
+    "E": "Afferent constriction reduces, not increases, both RPF and GFR because it impedes inflow to the glomerulus."
+  },
+  "educationalObjective": "Afferent constriction decreases both GFR and RPF roughly in parallel, leaving filtration fraction unchanged.",
+  "source": "Generated from 14. Renal.pdf - Physiology: Filtration fraction and glomerular dynamics"
+},
+{
+  "id": "ren-067",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Filtration fraction and glomerular dynamics",
+  "difficulty": "medium",
+  "vignette": "Angiotensin II is generated in response to renal hypoperfusion and preferentially constricts the efferent arteriole, the vascular segment leaving the glomerulus.",
+  "question": "What effect does this efferent arteriolar constriction have on GFR, RPF, and filtration fraction?",
+  "options": [
+    {
+      "id": "A",
+      "text": "increased GFR, decreased RPF, increased FF"
+    },
+    {
+      "id": "B",
+      "text": "decreased GFR, decreased RPF, filtration fraction unchanged"
+    },
+    {
+      "id": "C",
+      "text": "decreased GFR, increased RPF, decreased FF"
+    },
+    {
+      "id": "D",
+      "text": "increased GFR, increased RPF, increased FF"
+    },
+    {
+      "id": "E",
+      "text": "decreased GFR, decreased RPF, increased FF"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Constricting the efferent arteriole impedes outflow from the glomerulus, which raises glomerular capillary hydrostatic pressure (PGC) and therefore increases GFR. At the same time, the added resistance reduces renal plasma flow. Because GFR rises while RPF falls, the filtration fraction (GFR/RPF) increases. This is the classic ACE (angiotensin-converting enzyme) effect on glomerular dynamics.",
+  "explanation_incorrect": {
+    "B": "This is the afferent-constriction pattern; efferent constriction raises PGC and GFR rather than lowering them.",
+    "C": "Efferent constriction lowers RPF, not raises it, and raises GFR rather than lowering it; this pattern is the reverse of the true effect.",
+    "D": "RPF cannot increase when an outflow resistance is added; the rise in GFR occurs despite a fall in RPF.",
+    "E": "This correctly lowers RPF but incorrectly lowers GFR; the rise in PGC from impaired outflow makes GFR increase, producing a higher FF."
+  },
+  "educationalObjective": "Efferent constriction (angiotensin II) raises PGC and GFR, lowers RPF, and therefore increases filtration fraction.",
+  "source": "Generated from 14. Renal.pdf - Physiology: Filtration fraction and glomerular dynamics"
+},
+{
+  "id": "ren-068",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Filtration fraction and glomerular dynamics",
+  "difficulty": "hard",
+  "vignette": "A 62-year-old man with bilateral renal artery stenosis takes ibuprofen regularly for arthritis and is started on lisinopril for hypertension. Soon after starting lisinopril, his serum creatinine rises sharply and his GFR falls markedly.",
+  "question": "Which of the following best explains why combining these two drugs is dangerous for glomerular filtration?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Lisinopril constricts the afferent arteriole while ibuprofen dilates the efferent arteriole"
+    },
+    {
+      "id": "B",
+      "text": "Ibuprofen increases renal prostaglandin synthesis, dilating the afferent arteriole and raising GFR"
+    },
+    {
+      "id": "C",
+      "text": "Lisinopril increases angiotensin II levels, causing efferent constriction and reduced RPF"
+    },
+    {
+      "id": "D",
+      "text": "Ibuprofen blocks prostaglandin-mediated afferent dilation (afferent constriction) while lisinopril blocks angiotensin II–mediated efferent constriction, removing both compensatory mechanisms so GFR falls"
+    },
+    {
+      "id": "E",
+      "text": "Both drugs directly reduce the filtration coefficient Kf of the glomerular capillaries"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Prostaglandins preferentially dilate the afferent arteriole (PDA), a mechanism that is especially important when perfusion is compromised, as in renal artery stenosis. NSAIDs such as ibuprofen inhibit prostaglandin synthesis, removing afferent dilation and causing afferent constriction. ACE inhibitors such as lisinopril block formation of angiotensin II, removing its preferential efferent constriction. Together they abolish both autoregulatory supports, causing a severe fall in PGC and GFR—hence the danger of the combination.",
+  "explanation_incorrect": {
+    "A": "The actions are reversed: lisinopril reduces angiotensin II (blunting efferent constriction), and ibuprofen reduces prostaglandins (blunting afferent dilation), so lisinopril does not constrict the afferent arteriole nor ibuprofen dilate the efferent.",
+    "B": "Ibuprofen inhibits, not increases, prostaglandin synthesis; losing vasodilatory prostaglandins causes afferent constriction and a fall in GFR, not a rise.",
+    "C": "Lisinopril is an ACE inhibitor and therefore lowers angiotensin II levels and efferent tone; it does not increase angiotensin II.",
+    "E": "These drugs act on arteriolar tone, not on the filtration coefficient Kf; Kf is a structural property of the glomerular capillaries and is not the primary target of either drug."
+  },
+  "educationalObjective": "NSAIDs remove prostaglandin-mediated afferent dilation and ACE inhibitors remove angiotensin II–mediated efferent constriction; together they can precipitate acute kidney injury.",
+  "source": "Generated from 14. Renal.pdf - Physiology: Filtration fraction and glomerular dynamics"
+},
+{
+  "id": "ren-069",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Filtration fraction and glomerular dynamics",
+  "difficulty": "medium",
+  "vignette": "A dehydrated patient has an elevated plasma protein concentration, which raises the glomerular capillary oncotic pressure (πGC) while Bowman space oncotic pressure remains zero.",
+  "question": "Which of the following best describes the expected changes in GFR, RPF, and filtration fraction?",
+  "options": [
+    {
+      "id": "A",
+      "text": "decreased GFR, decreased RPF, filtration fraction unchanged"
+    },
+    {
+      "id": "B",
+      "text": "decreased GFR, decreased RPF, increased FF"
+    },
+    {
+      "id": "C",
+      "text": "increased GFR, increased RPF, decreased FF"
+    },
+    {
+      "id": "D",
+      "text": "increased GFR, decreased RPF, increased FF"
+    },
+    {
+      "id": "E",
+      "text": "No change in GFR, RPF, or filtration fraction"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Raising plasma protein concentration increases πGC, the oncotic force opposing filtration, so net filtration pressure and GFR fall. The more concentrated plasma also raises vascular resistance and reduces RPF. GFR falls proportionally more than RPF, so the filtration fraction (GFR/RPF) increases. Dehydration produces this same pattern of decreased GFR and RPF with increased FF; by contrast, afferent or ureteral constriction lowers GFR and RPF with FF unchanged.",
+  "explanation_incorrect": {
+    "A": "This is the afferent-constriction or ureter-constriction pattern; with increased plasma protein, the rise in πGC reduces GFR disproportionately, so FF increases rather than staying the same.",
+    "C": "This is the pattern of decreased plasma protein concentration (lower πGC), which raises GFR and RPF and lowers FF; the dehydrated patient has the opposite change.",
+    "D": "This efferent-constriction pattern raises GFR because PGC rises; here the dominant change is increased oncotic opposition, which lowers GFR.",
+    "E": "Plasma oncotic pressure is a Starling determinant of filtration, so increasing it cannot leave GFR, RPF, and FF unchanged."
+  },
+  "educationalObjective": "Increased plasma protein (dehydration) raises πGC, decreasing GFR and RPF but increasing filtration fraction.",
+  "source": "Generated from 14. Renal.pdf - Physiology: Filtration fraction and glomerular dynamics"
+},
+{
+  "id": "ren-070",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Filtration fraction and glomerular dynamics",
+  "difficulty": "hard",
+  "vignette": "A healthy 40-year-old undergoes unilateral nephrectomy for a nonfunctioning kidney. Measurements are taken immediately after surgery, before any long-term compensatory changes such as hypertrophy of the remaining kidney can occur.",
+  "question": "What is the expected remaining renal function immediately after the nephrectomy, relative to the prenephrectomy baseline?",
+  "options": [
+    {
+      "id": "A",
+      "text": "100%, because the remaining kidney immediately doubles the GFR of each surviving nephron"
+    },
+    {
+      "id": "B",
+      "text": "75%, because immediate partial hyperfiltration offsets one-quarter of the loss"
+    },
+    {
+      "id": "C",
+      "text": "Approximately 50% of the prenephrectomy value until long-term compensation such as hypertrophy develops"
+    },
+    {
+      "id": "D",
+      "text": "Approximately 25%, because the remaining kidney must still recover from surgical manipulation"
+    },
+    {
+      "id": "E",
+      "text": "0%, because renal function recovers only after new nephrons regenerate"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Nephrectomy causes a proportionate decline in renal function because nephron number is reduced. Immediately after removal of one kidney, total renal function falls to roughly 50% of the prenephrectomy value. Over the long term, the remaining kidney undergoes compensatory changes such as hypertrophy and increased single-nephron GFR that partially restore function, but these adaptations take time and are not present immediately.",
+  "explanation_incorrect": {
+    "A": "The remaining kidney cannot instantly double single-nephron GFR to preserve total function; such hyperfiltration is a gradual compensatory adaptation, not an immediate event.",
+    "B": "There is no immediate mechanism that precisely restores 25% of the lost function; acute loss of one kidney roughly halves total renal function.",
+    "D": "Function does not fall as low as 25%; removing one of two equally functioning kidneys removes about half of the nephron mass, leaving roughly half the function.",
+    "E": "The remaining kidney functions immediately; humans do not regenerate new nephrons, and compensation occurs through hypertrophy of existing nephrons, not from zero."
+  },
+  "educationalObjective": "Acute nephrectomy reduces total renal function to about 50% until gradual compensatory hypertrophy of the remaining kidney occurs.",
+  "source": "Generated from 14. Renal.pdf - Physiology: Filtration fraction and glomerular dynamics"
+}
+]

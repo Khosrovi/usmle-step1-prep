@@ -1,0 +1,125 @@
+[
+{
+  "id": "ren-303",
+  "subject": "Renal",
+  "major_topic": "Pharmacology",
+  "subtopic": "Ethacrynic acid",
+  "difficulty": "easy",
+  "vignette": "A 49-year-old woman with severe heart failure requires a loop diuretic. She has a documented sulfonamide allergy with a history of urticaria and bronchospasm after taking sulfa drugs, so the usual loop agents are avoided.",
+  "question": "Which of the following is the most appropriate loop diuretic for this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Furosemide"
+    },
+    {
+      "id": "B",
+      "text": "Ethacrynic acid"
+    },
+    {
+      "id": "C",
+      "text": "Bumetanide"
+    },
+    {
+      "id": "D",
+      "text": "Torsemide"
+    },
+    {
+      "id": "E",
+      "text": "Hydrochlorothiazide"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Ethacrynic acid is a nonsulfonamide inhibitor of the Na+/K+/2Cl− cotransporter in the thick ascending limb. Because it lacks the sulfonamide structure, it is the loop diuretic of choice for patients allergic to sulfa drugs. Furosemide, bumetanide, and torsemide are all sulfonamide loop diuretics.",
+  "explanation_incorrect": {
+    "A": "Furosemide is a sulfonamide loop diuretic and would risk cross-reactivity in a sulfa-allergic patient.",
+    "C": "Bumetanide is a sulfonamide loop diuretic, so it is not the preferred agent here.",
+    "D": "Torsemide is also a sulfonamide loop diuretic and carries the same allergy concern.",
+    "E": "Hydrochlorothiazide is a sulfonamide thiazide diuretic and is not a loop diuretic at all."
+  },
+  "educationalObjective": "Ethacrynic acid is a nonsulfonamide loop diuretic used when a patient is allergic to sulfa drugs.",
+  "source": "Generated from 14. Renal.pdf - Pharmacology: Ethacrynic acid"
+},
+{
+  "id": "ren-304",
+  "subject": "Renal",
+  "major_topic": "Pharmacology",
+  "subtopic": "Ethacrynic acid",
+  "difficulty": "medium",
+  "vignette": "A 58-year-old man with a sulfa allergy is switched from furosemide to ethacrynic acid for refractory edema. Shortly after a large intravenous dose, he develops tinnitus and sensorineural hearing loss. His physician notes that this complication is more frequent with the newer agent.",
+  "question": "Which of the following best characterizes ethacrynic acid relative to furosemide?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It is a sulfonamide diuretic with less ototoxicity than furosemide"
+    },
+    {
+      "id": "B",
+      "text": "It acts by inhibiting carbonic anhydrase in the proximal tubule"
+    },
+    {
+      "id": "C",
+      "text": "It is a potassium-sparing diuretic that blocks epithelial sodium channels"
+    },
+    {
+      "id": "D",
+      "text": "It is a nonsulfonamide loop diuretic that is more ototoxic"
+    },
+    {
+      "id": "E",
+      "text": "It increases calcium reabsorption and is used to treat hypercalciuria"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Ethacrynic acid is a nonsulfonamide loop diuretic with the same mechanism as furosemide, but it is more ototoxic. Its adverse effects are otherwise similar to those of furosemide. The mnemonic 'loop earrings hurt your ears' emphasizes the ototoxicity risk, which is greater than with furosemide.",
+  "explanation_incorrect": {
+    "A": "Ethacrynic acid is not a sulfonamide, and it is more ototoxic rather than less ototoxic than furosemide.",
+    "B": "Carbonic anhydrase inhibition in the proximal tubule is the mechanism of acetazolamide, not ethacrynic acid.",
+    "C": "Epithelial sodium channel blockade is the mechanism of amiloride and triamterene, not ethacrynic acid.",
+    "E": "Ethacrynic acid is a loop diuretic and, like other loops, increases calcium excretion rather than reabsorption; thiazides reduce calcium excretion."
+  },
+  "educationalObjective": "Ethacrynic acid is a nonsulfonamide loop diuretic that is more ototoxic than furosemide.",
+  "source": "Generated from 14. Renal.pdf - Pharmacology: Ethacrynic acid"
+},
+{
+  "id": "ren-305",
+  "subject": "Renal",
+  "major_topic": "Pharmacology",
+  "subtopic": "Ethacrynic acid",
+  "difficulty": "hard",
+  "vignette": "A pharmacologist is selecting a diuretic for a patient with a severe sulfonamide allergy who needs inhibition of the same transport protein targeted by furosemide. The chosen drug must lack a sulfonamide moiety but still act in the thick ascending limb.",
+  "question": "Which transporter is inhibited by ethacrynic acid in this setting?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The Na+/Cl− cotransporter in the early distal convoluted tubule"
+    },
+    {
+      "id": "B",
+      "text": "Epithelial sodium channels in the cortical collecting duct"
+    },
+    {
+      "id": "C",
+      "text": "Aldosterone receptors in the cortical collecting tubule"
+    },
+    {
+      "id": "D",
+      "text": "Carbonic anhydrase in the proximal tubule"
+    },
+    {
+      "id": "E",
+      "text": "The Na+/K+/2Cl− cotransporter in the thick ascending limb of the loop of Henle"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Ethacrynic acid is a nonsulfonamide inhibitor of the Na+/K+/2Cl− cotransporter in the thick ascending limb—the identical target inhibited by furosemide, bumetanide, and torsemide. Because it lacks the sulfonamide group, it is used for diuresis in sulfa-allergic patients, at the cost of greater ototoxicity.",
+  "explanation_incorrect": {
+    "A": "The Na+/Cl− cotransporter in the early distal tubule is the thiazide target, not the target of ethacrynic acid.",
+    "B": "Epithelial sodium channels in the cortical collecting duct are blocked by amiloride and triamterene, not by ethacrynic acid.",
+    "C": "Aldosterone receptors in the cortical collecting tubule are antagonized by spironolactone and eplerenone.",
+    "D": "Carbonic anhydrase in the proximal tubule is inhibited by acetazolamide, not by ethacrynic acid."
+  },
+  "educationalObjective": "Ethacrynic acid inhibits the same thick ascending limb Na+/K+/2Cl− cotransporter as other loops but lacks a sulfonamide structure.",
+  "source": "Generated from 14. Renal.pdf - Pharmacology: Ethacrynic acid"
+}
+]

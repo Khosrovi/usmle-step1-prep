@@ -1,0 +1,289 @@
+[
+{
+  "id": "ren-316",
+  "subject": "Renal",
+  "major_topic": "Pharmacology",
+  "subtopic": "ACE inhibitors",
+  "difficulty": "medium",
+  "vignette": "A 58-year-old man with hypertension starts lisinopril. Within days, his serum creatinine rises modestly from 0.9 to 1.2 mg/dL and his glomerular filtration rate falls slightly. Plasma renin activity is increased.",
+  "question": "Which of the following best explains the decrease in GFR caused by lisinopril in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Inhibition of angiotensin II-mediated constriction of the afferent arteriole"
+    },
+    {
+      "id": "B",
+      "text": "Prevention of angiotensin II-mediated constriction of the efferent arteriole"
+    },
+    {
+      "id": "C",
+      "text": "Direct vasoconstriction of the renal artery by bradykinin accumulation"
+    },
+    {
+      "id": "D",
+      "text": "Increased aldosterone secretion causing sodium and water retention"
+    },
+    {
+      "id": "E",
+      "text": "Occupancy of the AT1 receptor by accumulated angiotensin II"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "ACE inhibitors such as lisinopril block conversion of angiotensin I to angiotensin II, reducing angiotensin II levels. Angiotensin II normally constricts the efferent arteriole to maintain glomerular capillary pressure and GFR when perfusion pressure falls. By preventing this efferent constriction, ACE inhibitors lower intraglomerular pressure and GFR, which is also the basis for their renoprotective effect in proteinuric kidney disease. The fall in GFR is usually modest and clinically acceptable.",
+  "explanation_incorrect": {
+    "A": "ACE inhibitors do not primarily affect the afferent arteriole; it is the loss of efferent, not afferent, constriction that lowers glomerular pressure and GFR.",
+    "C": "Bradykinin is a vasodilator, not a vasoconstrictor, and its accumulation causes cough and angioedema rather than a fall in GFR from renal artery constriction.",
+    "D": "ACE inhibitors decrease, not increase, aldosterone secretion because angiotensin II stimulates aldosterone release.",
+    "E": "ACE inhibitors lower angiotensin II levels rather than causing AT1 receptor occupancy; AT1 blockade is the mechanism of ARBs, not ACE inhibitors."
+  },
+  "educationalObjective": "ACE inhibitors lower GFR by blocking angiotensin II-mediated efferent arteriole constriction, reducing intraglomerular pressure.",
+  "source": "Generated from 14. Renal.pdf - Pharmacology: ACE inhibitors"
+},
+{
+  "id": "ren-317",
+  "subject": "Renal",
+  "major_topic": "Pharmacology",
+  "subtopic": "ACE inhibitors",
+  "difficulty": "easy",
+  "vignette": "A 47-year-old woman with hypertension has been taking enalapril for 6 weeks. She develops a persistent dry, nonproductive cough that is worse at night and does not respond to antihistamines or inhaled bronchodilators. Chest radiograph is unremarkable. She has no history of asthma or smoking.",
+  "question": "Which of the following best explains this adverse effect of enalapril?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Increased degradation of bradykinin leading to bronchial smooth muscle relaxation"
+    },
+    {
+      "id": "B",
+      "text": "Direct stimulation of the cough reflex by enalapril's sulfhydryl group"
+    },
+    {
+      "id": "C",
+      "text": "Accumulation of bradykinin due to inhibition of its inactivation by ACE"
+    },
+    {
+      "id": "D",
+      "text": "Unopposed aldosterone-mediated bronchial mucosal edema"
+    },
+    {
+      "id": "E",
+      "text": "Angiotensin II-mediated bronchoconstriction via AT1 receptors"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "ACE (kininase II) normally inactivates bradykinin, a potent vasodilator and inflammatory mediator. ACE inhibitors prevent bradykinin degradation, causing it to accumulate in the respiratory tract, where it promotes release of substance P, nitric oxide, and prostaglandins and triggers a dry, nonproductive cough. This is a class effect of all ACE inhibitors and is the same mechanism underlying ACE inhibitor-associated angioedema. The cough often resolves after switching to an ARB, which does not raise bradykinin.",
+  "explanation_incorrect": {
+    "A": "ACE inhibition decreases bradykinin degradation, not increases it, and bradykinin causes airway irritation rather than smooth muscle relaxation leading to cough.",
+    "B": "The sulfhydryl group is specific to captopril and does not cause the cough; the cough is a bradykinin-mediated class effect shared by all ACE inhibitors.",
+    "D": "Aldosterone is decreased by ACE inhibitors and does not cause cough; this patient's cough is bradykinin mediated.",
+    "E": "ACE inhibitors reduce angiotensin II levels, so AT1-mediated bronchoconstriction would be decreased rather than increased."
+  },
+  "educationalObjective": "ACE inhibitor cough results from bradykinin accumulation because ACE normally inactivates bradykinin.",
+  "source": "Generated from 14. Renal.pdf - Pharmacology: ACE inhibitors"
+},
+{
+  "id": "ren-318",
+  "subject": "Renal",
+  "major_topic": "Pharmacology",
+  "subtopic": "ACE inhibitors",
+  "difficulty": "medium",
+  "vignette": "A 62-year-old man with type 2 diabetes has long-standing hypertension and 2+ protein on urine dipstick. His serum creatinine is 1.4 mg/dL and estimated GFR is 58 mL/min. His physician starts ramipril not only to lower blood pressure but also for its organ-protective effects.",
+  "question": "Which of the following best describes the renoprotective mechanism of ramipril in this patient with diabetic nephropathy?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Reducing intraglomerular pressure, which slows glomerular basement membrane thickening and proteinuria"
+    },
+    {
+      "id": "B",
+      "text": "Increasing glomerular capillary hydrostatic pressure to maintain filtration despite nephron loss"
+    },
+    {
+      "id": "C",
+      "text": "Stimulating aldosterone release to reduce urinary protein excretion"
+    },
+    {
+      "id": "D",
+      "text": "Causing afferent arteriolar constriction to lower the filtration fraction"
+    },
+    {
+      "id": "E",
+      "text": "Promoting bradykinin-mediated dilation to raise GFR and clear protein"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "In chronic kidney disease such as diabetic nephropathy, ACE inhibitors lower intraglomerular pressure by blocking angiotensin II-mediated efferent arteriole constriction and reducing glomerular capillary hydrostatic pressure. This reduces transmission of high systemic pressure to the glomerulus, slowing glomerular basement membrane (GBM) thickening and proteinuria and preserving nephron function. ACE inhibitors also reduce mortality in heart failure and prevent unfavorable cardiac remodeling after chronic hypertension. The initial modest rise in creatinine reflects the expected hemodynamic fall in GFR.",
+  "explanation_incorrect": {
+    "B": "ACE inhibitors lower, not raise, glomerular capillary pressure; increasing it would worsen proteinuria and glomerular injury.",
+    "C": "ACE inhibitors suppress aldosterone secretion; promoting aldosterone would not be renoprotective and would tend to retain sodium.",
+    "D": "ACE inhibitors do not constrict the afferent arteriole; the benefit comes from relaxing the efferent arteriole and lowering intraglomerular pressure.",
+    "E": "Bradykinin accumulation causes cough and angioedema; the renoprotective effect is mediated by reduced angiotensin II and lower efferent tone, not by raising GFR."
+  },
+  "educationalObjective": "ACE inhibitors protect the kidney in diabetic nephropathy by lowering intraglomerular pressure, reducing proteinuria and GBM thickening.",
+  "source": "Generated from 14. Renal.pdf - Pharmacology: ACE inhibitors"
+},
+{
+  "id": "ren-319",
+  "subject": "Renal",
+  "major_topic": "Pharmacology",
+  "subtopic": "ACE inhibitors",
+  "difficulty": "medium",
+  "vignette": "A 28-year-old woman with hypertension is found to be 8 weeks pregnant. She has been taking captopril since before she conceived. Her obstetrician counsels her that continuing the medication poses a serious risk to the developing fetus.",
+  "question": "Which of the following fetal complications is most specifically associated with ACE inhibitor exposure during the second and third trimesters?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Patent ductus arteriosus from premature ductal closure"
+    },
+    {
+      "id": "B",
+      "text": "Fetal hyperthyroidism and tachycardia"
+    },
+    {
+      "id": "C",
+      "text": "Cleft lip and palate with cardiac septal defects"
+    },
+    {
+      "id": "D",
+      "text": "Fetal renal malformations with oligohydramnios"
+    },
+    {
+      "id": "E",
+      "text": "Sacral dimple and spinal dysraphism"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "ACE inhibitors are teratogens; exposure during the second and third trimesters disrupts fetal angiotensin II signaling, which is critical for renal development. This causes fetal renal malformations, reduced fetal urine output, and oligohydramnios, which can lead to pulmonary hypoplasia and fetal death. ACE inhibitors are contraindicated in pregnancy and should be discontinued as soon as pregnancy is detected. This teratogenicity is the T in the captopril CATCHH mnemonic (Cough, Angioedema, Teratogen, increased Creatinine, Hyperkalemia, Hypotension).",
+  "explanation_incorrect": {
+    "A": "Premature ductal closure is associated with NSAIDs and aspirin in the third trimester, not with ACE inhibitors.",
+    "B": "Fetal hyperthyroidism is not an ACE inhibitor effect; maternal antithyroid drug management is a separate concern.",
+    "C": "Cleft lip/palate and septal defects are not the characteristic ACE inhibitor teratogenic pattern; fetal renal damage is the classic finding.",
+    "E": "Spinal dysraphism is associated with folate deficiency and valproate, not with ACE inhibitor exposure."
+  },
+  "educationalObjective": "ACE inhibitors are teratogenic, causing fetal renal malformations and oligohydramnios; they are contraindicated in pregnancy.",
+  "source": "Generated from 14. Renal.pdf - Pharmacology: ACE inhibitors"
+},
+{
+  "id": "ren-320",
+  "subject": "Renal",
+  "major_topic": "Pharmacology",
+  "subtopic": "ACE inhibitors",
+  "difficulty": "hard",
+  "vignette": "A 70-year-old man with long-standing hypertension and diffuse atherosclerosis has a serum creatinine of 1.3 mg/dL. Imaging reveals significant bilateral renal artery stenosis. His physician considers adding an ACE inhibitor but recognizes that this could precipitate acute renal failure.",
+  "question": "Which of the following best explains why ACE inhibitors can cause acute renal failure in patients with bilateral renal artery stenosis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "ACE inhibitors directly damage renal tubular epithelium in the setting of ischemia"
+    },
+    {
+      "id": "B",
+      "text": "Bradykinin accumulation causes renal vasoconstriction and medullary ischemia"
+    },
+    {
+      "id": "C",
+      "text": "Loss of angiotensin II leads to hypotension that alone reduces renal perfusion to zero"
+    },
+    {
+      "id": "D",
+      "text": "ACE inhibitors increase aldosterone, causing volume depletion and prerenal azotemia"
+    },
+    {
+      "id": "E",
+      "text": "These patients depend on angiotensin II-mediated efferent constriction to maintain GFR, and blocking it causes GFR to collapse"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "In bilateral renal artery stenosis (or stenosis of a solitary functioning kidney), renal perfusion pressure is markedly reduced. The kidney compensates by activating the renin-angiotensin system; angiotensin II selectively constricts the efferent arteriole to maintain glomerular capillary hydrostatic pressure and GFR despite low inflow. ACE inhibitors remove this compensatory efferent constriction, causing intraglomerular pressure and GFR to fall precipitously, which can produce acute renal failure. This is why ACE inhibitors are used with extreme caution in bilateral renal artery stenosis, even though a modest creatinine rise is tolerated in most other patients.",
+  "explanation_incorrect": {
+    "A": "ACE inhibitors are not directly tubular toxins; the injury is hemodynamic, from loss of efferent arteriolar tone, not direct epithelial damage.",
+    "B": "Bradykinin is a vasodilator that mediates cough and angioedema, not renal vasoconstriction causing medullary ischemia.",
+    "C": "Systemic hypotension can contribute, but the primary mechanism is loss of compensatory efferent constriction, not perfusion falling to zero from hypotension alone.",
+    "D": "ACE inhibitors decrease aldosterone rather than increasing it; aldosterone-driven volume depletion is not the mechanism here."
+  },
+  "educationalObjective": "In bilateral renal artery stenosis, GFR depends on angiotensin II-mediated efferent constriction, so ACE inhibitors can precipitate acute renal failure.",
+  "source": "Generated from 14. Renal.pdf - Pharmacology: ACE inhibitors"
+},
+{
+  "id": "ren-321",
+  "subject": "Renal",
+  "major_topic": "Pharmacology",
+  "subtopic": "ACE inhibitors",
+  "difficulty": "easy",
+  "vignette": "A 45-year-old man with hypertension is reviewing his medications with his physician. His physician wants to start a drug that inhibits angiotensin-converting enzyme and notes that several agents share this mechanism and are distinguished by the suffix -pril.",
+  "question": "Which of the following is an ACE inhibitor?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Losartan"
+    },
+    {
+      "id": "B",
+      "text": "Valsartan"
+    },
+    {
+      "id": "C",
+      "text": "Lisinopril"
+    },
+    {
+      "id": "D",
+      "text": "Aliskiren"
+    },
+    {
+      "id": "E",
+      "text": "Candesartan"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Lisinopril is an ACE inhibitor; other ACE inhibitors include captopril, enalapril, and ramipril, all identified by the -pril suffix. They inhibit ACE, reducing conversion of angiotensin I to angiotensin II and raising bradykinin. Losartan, valsartan, and candesartan are ARBs ending in -sartan, and aliskiren is a direct renin inhibitor.",
+  "explanation_incorrect": {
+    "A": "Losartan is an angiotensin II receptor blocker (AT1 antagonist), not an ACE inhibitor, and it does not raise bradykinin.",
+    "B": "Valsartan is an ARB that selectively blocks the AT1 receptor; it is not an ACE inhibitor.",
+    "D": "Aliskiren is a direct renin inhibitor that blocks conversion of angiotensinogen to angiotensin I; it is not an ACE inhibitor.",
+    "E": "Candesartan is an ARB that blocks the AT1 receptor, not an ACE inhibitor."
+  },
+  "educationalObjective": "ACE inhibitors include captopril, enalapril, lisinopril, and ramipril (the -pril drugs); ARBs end in -sartan and aliskiren is a renin inhibitor.",
+  "source": "Generated from 14. Renal.pdf - Pharmacology: ACE inhibitors"
+},
+{
+  "id": "ren-322",
+  "subject": "Renal",
+  "major_topic": "Pharmacology",
+  "subtopic": "ACE inhibitors",
+  "difficulty": "hard",
+  "vignette": "A 55-year-old woman with hypertension begins treatment with captopril. After several weeks, laboratory testing shows that her plasma renin activity has risen significantly even though her blood pressure is better controlled. Her angiotensin II level is low.",
+  "question": "Which of the following best explains the increase in plasma renin activity during captopril therapy?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Loss of angiotensin II-mediated negative feedback on renin release from juxtaglomerular cells"
+    },
+    {
+      "id": "B",
+      "text": "Direct stimulation of renin secretion by captopril's sulfhydryl group"
+    },
+    {
+      "id": "C",
+      "text": "Bradykinin accumulation directly stimulating juxtaglomerular cells to release renin"
+    },
+    {
+      "id": "D",
+      "text": "Increased aldosterone driving compensatory renin release"
+    },
+    {
+      "id": "E",
+      "text": "Increased NaCl delivery to the macula densa stimulating renin release"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Angiotensin II normally exerts negative feedback on renin release from juxtaglomerular cells. ACE inhibitors such as captopril lower angiotensin II levels, removing this negative feedback and disinhibiting renin secretion. As a result, plasma renin activity and angiotensin I rise even though angiotensin II formation is blocked. This is a direct consequence of interrupting the renin-angiotensin-aldosterone axis at the ACE step.",
+  "explanation_incorrect": {
+    "B": "Captopril's sulfhydryl group does not raise renin; the rise is due to loss of angiotensin II negative feedback and is a class effect of ACE inhibitors.",
+    "C": "Bradykinin accumulation causes cough and angioedema; it is not the main driver of increased renin release during ACE inhibition.",
+    "D": "ACE inhibitors decrease aldosterone secretion, and aldosterone does not stimulate renin release; the feedback runs from angiotensin II to renin.",
+    "E": "Increased NaCl at the macula densa suppresses renin, and reduced NaCl stimulates it; the rise here reflects loss of angiotensin II feedback, not increased NaCl delivery."
+  },
+  "educationalObjective": "ACE inhibitors raise renin by removing angiotensin II-mediated negative feedback on juxtaglomerular renin release.",
+  "source": "Generated from 14. Renal.pdf - Pharmacology: ACE inhibitors"
+}
+]

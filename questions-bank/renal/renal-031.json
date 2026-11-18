@@ -1,0 +1,248 @@
+[
+{
+  "id": "ren-297",
+  "subject": "Renal",
+  "major_topic": "Pharmacology",
+  "subtopic": "Loop diuretics",
+  "difficulty": "medium",
+  "vignette": "A 58-year-old man with decompensated heart failure is admitted with dyspnea and peripheral edema. He is started on intravenous furosemide, and the team reviews exactly where in the nephron the drug acts.",
+  "question": "Which of the following is the molecular target and site of action of furosemide?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The Na+/Cl− cotransporter in the early distal convoluted tubule"
+    },
+    {
+      "id": "B",
+      "text": "Epithelial sodium channels in the cortical collecting duct"
+    },
+    {
+      "id": "C",
+      "text": "The Na+/K+/2Cl− cotransporter in the thick ascending limb of the loop of Henle"
+    },
+    {
+      "id": "D",
+      "text": "Aldosterone receptors in the cortical collecting tubule"
+    },
+    {
+      "id": "E",
+      "text": "Carbonic anhydrase in the proximal tubule"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Furosemide, bumetanide, and torsemide are sulfonamide loop diuretics that inhibit the Na+/K+/2Cl− cotransporter in the thick ascending limb. This abolishes the hypertonicity of the medulla, preventing urine concentration, and increases calcium excretion. The effect depends on prostaglandin-mediated afferent arteriolar vasodilation.",
+  "explanation_incorrect": {
+    "A": "The Na+/Cl− cotransporter in the early distal tubule is inhibited by thiazide diuretics, not by loop diuretics.",
+    "B": "Epithelial sodium channel blockade is the mechanism of amiloride and triamterene in the collecting duct.",
+    "D": "Aldosterone receptor antagonism is the mechanism of spironolactone and eplerenone, not furosemide.",
+    "E": "Carbonic anhydrase inhibition is the mechanism of acetazolamide in the proximal tubule."
+  },
+  "educationalObjective": "Loop diuretics inhibit the Na+/K+/2Cl− cotransporter in the thick ascending limb, abolishing medullary hypertonicity.",
+  "source": "Generated from 14. Renal.pdf - Pharmacology: Loop diuretics"
+},
+{
+  "id": "ren-298",
+  "subject": "Renal",
+  "major_topic": "Pharmacology",
+  "subtopic": "Loop diuretics",
+  "difficulty": "easy",
+  "vignette": "A 60-year-old man presents with confusion and a serum calcium of 14.2 mg/dL. After aggressive intravenous normal saline hydration, the physician administers furosemide to enhance calcium elimination.",
+  "question": "Which of the following best explains why furosemide is useful in the management of hypercalcemia?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It increases renal calcium excretion"
+    },
+    {
+      "id": "B",
+      "text": "It increases calcium reabsorption in the distal convoluted tubule"
+    },
+    {
+      "id": "C",
+      "text": "It directly antagonizes the action of parathyroid hormone"
+    },
+    {
+      "id": "D",
+      "text": "It inhibits carbonic anhydrase and reduces calcium phosphate precipitation"
+    },
+    {
+      "id": "E",
+      "text": "It decreases intestinal calcium absorption"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Loop diuretics inhibit the Na+/K+/2Cl− cotransporter in the thick ascending limb, which reduces the lumen-positive potential that normally drives paracellular calcium reabsorption. The result is increased urinary calcium excretion—'loops lose Ca2+'—and this is why they are used, after volume repletion, to treat hypercalcemia.",
+  "explanation_incorrect": {
+    "B": "Loop diuretics decrease, not increase, calcium reabsorption; enhanced distal reabsorption is the mechanism of thiazides.",
+    "C": "Furosemide does not antagonize parathyroid hormone; it acts directly on the tubular cotransporter.",
+    "D": "Carbonic anhydrase inhibition is acetazolamide's mechanism and is not the basis of furosemide-induced calciuresis.",
+    "E": "Furosemide acts on the kidney and has no direct effect on intestinal calcium absorption."
+  },
+  "educationalObjective": "Loop diuretics increase urinary calcium excretion ('loops lose Ca') and are used to treat hypercalcemia after hydration.",
+  "source": "Generated from 14. Renal.pdf - Pharmacology: Loop diuretics"
+},
+{
+  "id": "ren-299",
+  "subject": "Renal",
+  "major_topic": "Pharmacology",
+  "subtopic": "Loop diuretics",
+  "difficulty": "hard",
+  "vignette": "A 66-year-old woman with heart failure is maintained on furosemide. After starting a nonsteroidal anti-inflammatory drug for osteoarthritis, she notices that her diuretic effect and urine output have markedly diminished.",
+  "question": "Which of the following best explains the reduced diuretic response in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The NSAID increases aldosterone synthesis, enhancing distal sodium reabsorption"
+    },
+    {
+      "id": "B",
+      "text": "The NSAID directly blocks the Na+/K+/2Cl− cotransporter in the thick ascending limb"
+    },
+    {
+      "id": "C",
+      "text": "The NSAID constricts only the efferent arteriole and lowers the filtration fraction"
+    },
+    {
+      "id": "D",
+      "text": "The NSAID inhibits prostaglandin synthesis, blunting furosemide-mediated afferent arteriolar vasodilation"
+    },
+    {
+      "id": "E",
+      "text": "The NSAID increases antidiuretic hormone release, causing free-water retention"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Loop diuretics increase prostaglandin (PGE) production, which vasodilates the afferent arteriole and helps maintain renal blood flow and filtration during diuresis. NSAIDs inhibit cyclooxygenase and prostaglandin synthesis, blunting this afferent vasodilation and reducing the diuretic and natriuretic response. This is a classic loop diuretic–NSAID interaction.",
+  "explanation_incorrect": {
+    "A": "NSAIDs do not raise aldosterone as the primary mechanism of reduced loop efficacy; the key interaction is prostaglandin inhibition.",
+    "B": "NSAIDs do not block the Na+/K+/2Cl− cotransporter; that would enhance, not reduce, diuresis.",
+    "C": "NSAIDs constrict both afferent and efferent arterioles by removing vasodilatory prostaglandins; the effect is not limited to the efferent arteriole.",
+    "E": "Increased ADH release is not the mechanism of the NSAID–loop interaction; prostaglandin inhibition is."
+  },
+  "educationalObjective": "Loop diuretic action depends on PGE-mediated afferent arteriolar vasodilation, which is inhibited by NSAIDs.",
+  "source": "Generated from 14. Renal.pdf - Pharmacology: Loop diuretics"
+},
+{
+  "id": "ren-300",
+  "subject": "Renal",
+  "major_topic": "Pharmacology",
+  "subtopic": "Loop diuretics",
+  "difficulty": "medium",
+  "vignette": "A 70-year-old man presents with acute pulmonary edema, severe dyspnea, and crackles to the mid-lung fields. His blood pressure is elevated and he has a history of heart failure. Immediate diuresis is required.",
+  "question": "Which of the following agents is most appropriate for rapid relief of this patient's pulmonary edema?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Hydrochlorothiazide"
+    },
+    {
+      "id": "B",
+      "text": "Furosemide"
+    },
+    {
+      "id": "C",
+      "text": "Spironolactone"
+    },
+    {
+      "id": "D",
+      "text": "Acetazolamide"
+    },
+    {
+      "id": "E",
+      "text": "Amiloride"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Loop diuretics such as furosemide are the agents of choice for edematous states, including acute pulmonary edema, heart failure, cirrhosis, and nephrotic syndrome. Given intravenously, furosemide produces rapid and potent diuresis. It is also used for hypertension and hypercalcemia.",
+  "explanation_incorrect": {
+    "A": "Hydrochlorothiazide is a weaker, oral diuretic used for hypertension and hypercalciuria; it is not the agent of choice for acute pulmonary edema.",
+    "C": "Spironolactone is a potassium-sparing aldosterone antagonist with a slow onset, unsuitable for rapid relief of pulmonary edema.",
+    "D": "Acetazolamide is a carbonic anhydrase inhibitor used for glaucoma, altitude sickness, and metabolic alkalosis, not acute pulmonary edema.",
+    "E": "Amiloride is a potassium-sparing ENaC blocker used in nephrogenic diabetes insipidus and hyperaldosteronism, not for acute pulmonary edema."
+  },
+  "educationalObjective": "Loop diuretics are the preferred agents for edematous states such as acute pulmonary edema, heart failure, cirrhosis, and nephrotic syndrome.",
+  "source": "Generated from 14. Renal.pdf - Pharmacology: Loop diuretics"
+},
+{
+  "id": "ren-301",
+  "subject": "Renal",
+  "major_topic": "Pharmacology",
+  "subtopic": "Loop diuretics",
+  "difficulty": "medium",
+  "vignette": "A 64-year-old man with heart failure receives high-dose intravenous furosemide. He develops tinnitus and hearing loss, and laboratory studies show potassium 2.9 mEq/L, magnesium 1.4 mEq/L, and HCO3 31 mEq/L.",
+  "question": "Which of the following best summarizes the adverse-effect profile of loop diuretics?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Hyperkalemia, gynecomastia, and metabolic acidosis"
+    },
+    {
+      "id": "B",
+      "text": "Hypercalcemia, hyperglycemia, and hyperlipidemia"
+    },
+    {
+      "id": "C",
+      "text": "Hyperkalemia, metabolic acidosis, and atrial arrhythmias"
+    },
+    {
+      "id": "D",
+      "text": "Paresthesias, type 2 renal tubular acidosis, and alkaline urine"
+    },
+    {
+      "id": "E",
+      "text": "Ototoxicity, hypokalemia, hypomagnesemia, dehydration, and metabolic alkalosis"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Loop diuretics cause ototoxicity, hypokalemia, hypomagnesemia, dehydration, sulfa allergy, metabolic alkalosis, interstitial nephritis, and gout—summarized by 'OHH DAANG.' The tinnitus, hearing loss, low potassium and magnesium, and elevated bicarbonate in this patient fit this profile. Loop diuretics also increase calcium excretion, so they do not cause hypercalcemia.",
+  "explanation_incorrect": {
+    "A": "Hyperkalemia and metabolic acidosis are characteristic of potassium-sparing diuretics, not loop diuretics; gynecomastia is a spironolactone effect.",
+    "B": "Hypercalcemia and hyperlipidemia are thiazide adverse effects; loops cause hypocalcemia and increased calcium excretion.",
+    "C": "Loops cause hypokalemia and metabolic alkalosis, not hyperkalemia and metabolic acidosis, though they can cause arrhythmias from potassium loss.",
+    "D": "Paresthesias, type 2 RTA, and alkaline urine are adverse effects of acetazolamide, a carbonic anhydrase inhibitor."
+  },
+  "educationalObjective": "Loop diuretics cause ototoxicity, hypokalemia, hypomagnesemia, dehydration, metabolic alkalosis, and gout (OHH DAANG).",
+  "source": "Generated from 14. Renal.pdf - Pharmacology: Loop diuretics"
+},
+{
+  "id": "ren-302",
+  "subject": "Renal",
+  "major_topic": "Pharmacology",
+  "subtopic": "Loop diuretics",
+  "difficulty": "hard",
+  "vignette": "A 55-year-old woman with heart failure is treated with high-dose furosemide and becomes mildly volume depleted. Despite a serum osmolality of 295 mOsm/kg, her urine osmolality is only 300 mOsm/kg and remains fixed.",
+  "question": "Which of the following best explains why she cannot concentrate her urine?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Furosemide increases antidiuretic hormone secretion, preventing free-water excretion"
+    },
+    {
+      "id": "B",
+      "text": "Furosemide damages the glomerular filtration barrier and reduces the filtration fraction"
+    },
+    {
+      "id": "C",
+      "text": "Abolition of the medullary osmotic gradient by inhibition of the thick ascending limb prevents urine concentration"
+    },
+    {
+      "id": "D",
+      "text": "Furosemide directly blocks aquaporin-2 insertion in the collecting duct"
+    },
+    {
+      "id": "E",
+      "text": "Furosemide abolishes renal plasma flow to the vasa recta"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "The Na+/K+/2Cl− cotransporter in the thick ascending limb generates the medullary hypertonicity required for water reabsorption in the collecting duct. By inhibiting this transporter, loop diuretics abolish the medullary osmotic gradient, so the kidney cannot concentrate urine and urine osmolality approaches plasma. This is the basis of the 'abolish hypertonicity of medulla, preventing concentration of urine' effect.",
+  "explanation_incorrect": {
+    "A": "Loop diuretics do not increase ADH; an inability to concentrate urine with a near-isosmolar urine reflects loss of the medullary gradient, not excess ADH.",
+    "B": "Furosemide does not damage the glomerular filtration barrier; the defect is in tubular solute transport, not filtration.",
+    "D": "Aquaporin-2 insertion is regulated by ADH, not directly blocked by furosemide; the loop acts on the thick ascending limb cotransporter.",
+    "E": "Furosemide does not abolish vasa recta blood flow; it reduces the solute gradient those vessels would otherwise maintain."
+  },
+  "educationalObjective": "By inhibiting the thick ascending limb Na+/K+/2Cl− cotransporter, loop diuretics abolish the medullary osmotic gradient and prevent urine concentration.",
+  "source": "Generated from 14. Renal.pdf - Pharmacology: Loop diuretics"
+}
+]

@@ -1,0 +1,248 @@
+[
+{
+  "id": "ren-147",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Renal tubular acidosis",
+  "difficulty": "easy",
+  "vignette": "A 34-year-old woman with systemic lupus erythematosus has fatigue and muscle weakness. Serum potassium is 3.0 mEq/L, HCO3 is 16 mEq/L, and the anion gap is normal. Random urine pH is 6.2.",
+  "question": "Which of the following is the most likely diagnosis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Type 1 (distal) renal tubular acidosis"
+    },
+    {
+      "id": "B",
+      "text": "Type 2 (proximal) renal tubular acidosis"
+    },
+    {
+      "id": "C",
+      "text": "Type 4 (hyperkalemic) renal tubular acidosis"
+    },
+    {
+      "id": "D",
+      "text": "Respiratory acidosis from chronic lung disease"
+    },
+    {
+      "id": "E",
+      "text": "Metabolic alkalosis from chronic vomiting"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "A normal-anion-gap metabolic acidosis with hypokalemia and an inappropriately alkaline urine pH above 5.5 indicates distal (type 1) RTA, in which alpha-intercalated cells cannot secrete H+ and no new bicarbonate is generated. Autoimmune disease such as SLE is a recognized cause, along with amphotericin B, analgesic nephropathy, and urinary tract obstruction.",
+  "explanation_incorrect": {
+    "B": "Type 2 proximal RTA would show urine pH below 5.5 when plasma HCO3 is below the reduced threshold, unlike the alkaline urine here.",
+    "C": "Type 4 RTA is characterized by hyperkalemia, not the hypokalemia of 3.0 mEq/L seen in this patient.",
+    "D": "Respiratory acidosis would show an elevated PCO2 as the primary abnormality, not a normal-anion-gap metabolic acidosis with alkaline urine.",
+    "E": "Metabolic alkalosis would show an elevated HCO3 and pH, not the low HCO3 and acidemia of this patient."
+  },
+  "educationalObjective": "Distal (type 1) RTA causes normal-anion-gap metabolic acidosis with hypokalemia and urine pH above 5.5 from failed H+ secretion.",
+  "source": "Generated from 14. Renal.pdf - Physiology: Renal tubular acidosis"
+},
+{
+  "id": "ren-148",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Renal tubular acidosis",
+  "difficulty": "medium",
+  "vignette": "A 52-year-old woman with distal renal tubular acidosis has a persistent urine pH of 6.3 and normal-anion-gap metabolic acidosis. Imaging reveals bilateral calcium phosphate kidney stones. Bone density is reduced.",
+  "question": "Which of the following best explains her increased risk for calcium phosphate stones?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Proximal bicarbonate wasting exceeds the lung's ability to compensate"
+    },
+    {
+      "id": "B",
+      "text": "Hyperkalemia suppresses renal ammonia synthesis and citrate excretion"
+    },
+    {
+      "id": "C",
+      "text": "Excess aldosterone drives hydrogen ion secretion into an already acidic urine"
+    },
+    {
+      "id": "D",
+      "text": "Failure to secrete H+ produces alkaline urine and bone buffering that raises urinary calcium and phosphate"
+    },
+    {
+      "id": "E",
+      "text": "Uric acid precipitates in a persistently acidic, concentrated urine"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "In distal RTA, the inability of alpha-intercalated cells to secrete H+ prevents urine acidification, so urine pH stays above 5.5. Chronic acid retention is buffered partly by bone, increasing bone turnover and calcium and phosphate release, while the alkaline urine reduces calcium phosphate solubility. Together these effects strongly predispose to calcium phosphate stones, the classic association of type 1 RTA.",
+  "explanation_incorrect": {
+    "A": "Proximal bicarbonate wasting is the mechanism of type 2 RTA, and respiratory compensation does not directly determine stone formation.",
+    "B": "Hyperkalemia with reduced ammonia synthesis is the mechanism of type 4 RTA, not distal RTA, and this patient is hypokalemic.",
+    "C": "Aldosterone excess would enhance H+ secretion and cause metabolic alkalosis, the opposite of the defect in distal RTA.",
+    "E": "Uric acid stones form in persistently acidic urine, as in gout; this patient has alkaline urine and calcium phosphate stones."
+  },
+  "educationalObjective": "Distal RTA raises urine pH and drives bone buffering, producing hypercalciuria and calcium phosphate stones.",
+  "source": "Generated from 14. Renal.pdf - Physiology: Renal tubular acidosis"
+},
+{
+  "id": "ren-149",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Renal tubular acidosis",
+  "difficulty": "hard",
+  "vignette": "A patient with proximal (type 2) renal tubular acidosis has a reduced threshold for bicarbonate reabsorption. His plasma HCO3 falls to 14 mEq/L during acid loading, and his urine pH is 5.0. Intravenous bicarbonate is then given until plasma HCO3 rises toward normal.",
+  "question": "Which of the following best describes urinary acidification in this form of RTA?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Urine pH is fixed above 5.5 regardless of plasma HCO3 because distal H+ secretion is absent"
+    },
+    {
+      "id": "B",
+      "text": "Urine pH is below 5.5 when plasma HCO3 is below the reduced threshold but rises above 5.5 when filtered HCO3 exceeds that threshold"
+    },
+    {
+      "id": "C",
+      "text": "Urine pH remains above 7.0 because ammonia trapping dominates in the collecting duct"
+    },
+    {
+      "id": "D",
+      "text": "Urine pH is below 5.0 only during metabolic alkalosis and normalizes during acidosis"
+    },
+    {
+      "id": "E",
+      "text": "Urine pH is variable and determined solely by the degree of hyperkalemia"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "In proximal RTA, the PCT cannot reabsorb bicarbonate normally, lowering the threshold. When plasma HCO3 falls below that reduced threshold, the filtered load is small enough that distal alpha-intercalated cells can acidify urine below 5.5. Once plasma HCO3 is raised above the threshold, bicarbonate escaping reabsorption overwhelms distal acidification and urine pH rises above 5.5, producing bicarbonaturia.",
+  "explanation_incorrect": {
+    "A": "A fixed urine pH above 5.5 from absent distal H+ secretion is the pattern of type 1 distal RTA, not proximal RTA.",
+    "C": "Markedly alkaline urine above 7.0 from ammonia trapping is not the defining feature of proximal RTA; distal acidification is intact here.",
+    "D": "Very acidic urine occurring only in alkalosis is not a recognized pattern of proximal RTA and reverses the actual relationship.",
+    "E": "Hyperkalemia with variable urine pH characterizes type 4 RTA, whereas proximal RTA urine pH depends on the filtered bicarbonate load."
+  },
+  "educationalObjective": "In proximal RTA, urine pH is below 5.5 below the lowered HCO3 threshold but exceeds 5.5 once filtered bicarbonate overwhelms distal acidification.",
+  "source": "Generated from 14. Renal.pdf - Physiology: Renal tubular acidosis"
+},
+{
+  "id": "ren-150",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Renal tubular acidosis",
+  "difficulty": "medium",
+  "vignette": "A 9-year-old child with Fanconi syndrome has normal-anion-gap metabolic acidosis, hypokalemia, and hypophosphatemia. Radiographs show rickets, and urine studies reveal generalized aminoaciduria and glucosuria.",
+  "question": "Which of the following best characterizes this child's acid-base disorder and its association?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Distal RTA with calcium phosphate stones from alkaline urine"
+    },
+    {
+      "id": "B",
+      "text": "Type 4 RTA from aldosterone resistance with hyperkalemia"
+    },
+    {
+      "id": "C",
+      "text": "Proximal (type 2) RTA with hypophosphatemic rickets from Fanconi syndrome"
+    },
+    {
+      "id": "D",
+      "text": "Respiratory acidosis with compensatory bicarbonate retention"
+    },
+    {
+      "id": "E",
+      "text": "Primary hyperparathyroidism with hypercalcemia and bone pain"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Fanconi syndrome is a generalized proximal tubule reabsorption defect causing bicarbonate, phosphate, glucose, and amino acid loss. The bicarbonate wasting produces proximal (type 2) RTA with normal-anion-gap metabolic acidosis and hypokalemia, while phosphate wasting causes hypophosphatemic rickets. Fanconi syndrome, multiple myeloma, and carbonic anhydrase inhibitors are the classic causes of type 2 RTA.",
+  "explanation_incorrect": {
+    "A": "Distal RTA produces alkaline urine and calcium phosphate stones, but it does not cause the glucosuria, aminoaciduria, and phosphate wasting of Fanconi syndrome.",
+    "B": "Type 4 RTA features hyperkalemia and hypoaldosteronism, whereas this child is hypokalemic with generalized proximal wasting.",
+    "D": "Respiratory acidosis is a primary PCO2 elevation, not the bicarbonate-wasting normal-anion-gap acidosis described here.",
+    "E": "Primary hyperparathyroidism causes hypercalcemia and bone pain, not the Fanconi pattern of bicarbonate, glucose, amino acid, and phosphate loss."
+  },
+  "educationalObjective": "Fanconi syndrome causes proximal (type 2) RTA with bicarbonate wasting and is associated with hypophosphatemic rickets.",
+  "source": "Generated from 14. Renal.pdf - Physiology: Renal tubular acidosis"
+},
+{
+  "id": "ren-151",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Renal tubular acidosis",
+  "difficulty": "medium",
+  "vignette": "A 65-year-old man with diabetic nephropathy takes lisinopril. Serum potassium is 5.9 mEq/L, HCO3 is 18 mEq/L, chloride 108 mEq/L, and sodium 140 mEq/L, giving a normal anion gap. Random urine pH is 5.4.",
+  "question": "Which of the following best explains this patient's normal-anion-gap acidosis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Inability of alpha-intercalated cells in the collecting duct to secrete H+"
+    },
+    {
+      "id": "B",
+      "text": "A primary defect in proximal tubule bicarbonate reabsorption causing bicarbonaturia"
+    },
+    {
+      "id": "C",
+      "text": "Hyperkalemia directly increasing ammonia synthesis in the proximal tubule"
+    },
+    {
+      "id": "D",
+      "text": "Aldosterone excess causing renal hydrogen and potassium wasting"
+    },
+    {
+      "id": "E",
+      "text": "Hypoaldosteronism with hyperkalemia reducing proximal ammonia synthesis and NH4 excretion"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Diabetic hyporeninism and ACE inhibitors reduce aldosterone production, causing type 4 RTA. Aldosterone deficiency and the resulting hyperkalemia suppress ammonia synthesis in the proximal tubule and reduce NH4 excretion, impairing net acid excretion and producing a normal-anion-gap metabolic acidosis with hyperkalemia. Other causes include ARBs, NSAIDs, heparin, cyclosporine, adrenal insufficiency, and aldosterone resistance from potassium-sparing diuretics or TMP-SMX.",
+  "explanation_incorrect": {
+    "A": "Failure of distal H+ secretion is type 1 RTA, which causes hypokalemia and alkaline urine, unlike this hyperkalemic patient.",
+    "B": "A proximal bicarbonate reabsorption defect is type 2 RTA and would show bicarbonaturia with hypokalemia, not hyperkalemia.",
+    "C": "Hyperkalemia decreases rather than increases proximal ammonia synthesis, so this statement reverses the mechanism of type 4 RTA.",
+    "D": "Aldosterone excess causes metabolic alkalosis, hypokalemia, and hypertension, the opposite of aldosterone deficiency in type 4 RTA."
+  },
+  "educationalObjective": "Type 4 RTA results from hypoaldosteronism or resistance, where hyperkalemia reduces NH3 synthesis and NH4 excretion, causing hyperkalemic normal-anion-gap acidosis.",
+  "source": "Generated from 14. Renal.pdf - Physiology: Renal tubular acidosis"
+},
+{
+  "id": "ren-152",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Renal tubular acidosis",
+  "difficulty": "easy",
+  "vignette": "A student is reviewing the causes of type 4 (hyperkalemic) renal tubular acidosis, which results from reduced aldosterone production or aldosterone resistance.",
+  "question": "All of the following can cause type 4 renal tubular acidosis EXCEPT:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Amphotericin B toxicity"
+    },
+    {
+      "id": "B",
+      "text": "ACE inhibitors"
+    },
+    {
+      "id": "C",
+      "text": "Spironolactone"
+    },
+    {
+      "id": "D",
+      "text": "Trimethoprim-sulfamethoxazole"
+    },
+    {
+      "id": "E",
+      "text": "Diabetic hyporeninism"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Amphotericin B toxicity causes distal (type 1) RTA by damaging alpha-intercalated cells, producing hypokalemic metabolic acidosis with alkaline urine. Type 4 RTA instead results from reduced aldosterone production, as with ACE inhibitors, ARBs, NSAIDs, heparin, cyclosporine, diabetic hyporeninism, and adrenal insufficiency, or from aldosterone resistance, as with potassium-sparing diuretics such as spironolactone, TMP-SMX, and obstructive nephropathy.",
+  "explanation_incorrect": {
+    "B": "ACE inhibitors reduce angiotensin II and aldosterone production and are a recognized cause of type 4 RTA with hyperkalemia.",
+    "C": "Spironolactone is a mineralocorticoid receptor antagonist that produces aldosterone resistance and type 4 RTA.",
+    "D": "Trimethoprim-sulfamethoxazole blocks the epithelial sodium channel and causes aldosterone resistance, leading to type 4 RTA.",
+    "E": "Diabetic hyporeninism reduces renin and aldosterone, a classic cause of hyperkalemic type 4 RTA."
+  },
+  "educationalObjective": "Amphotericin B causes type 1 RTA, whereas ACE inhibitors, spironolactone, TMP-SMX, and diabetic hyporeninism cause type 4 RTA.",
+  "source": "Generated from 14. Renal.pdf - Physiology: Renal tubular acidosis"
+}
+]

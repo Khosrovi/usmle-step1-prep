@@ -1,0 +1,207 @@
+[
+{
+  "id": "ren-042",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Glomerular filtration barrier",
+  "difficulty": "medium",
+  "vignette": "An electron micrograph of a glomerular capillary is described in words: a layer of attenuated endothelial cells with numerous pores, an underlying acellular matrix, and an outer epithelial layer with interdigitating foot processes. A classmate asks which structures form the filtration barrier.",
+  "question": "Which of the following lists the three components of the glomerular filtration barrier?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Fenestrated endothelium, mesangial matrix, podocyte foot processes"
+    },
+    {
+      "id": "B",
+      "text": "Continuous endothelium, GBM, parietal Bowman capsule"
+    },
+    {
+      "id": "C",
+      "text": "Fenestrated endothelium, GBM, macula densa"
+    },
+    {
+      "id": "D",
+      "text": "Fenestrated endothelium, glomerular basement membrane, podocyte foot processes"
+    },
+    {
+      "id": "E",
+      "text": "GBM, podocyte foot processes, afferent arteriole smooth muscle"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "The glomerular filtration barrier consists of three layers: the fenestrated capillary endothelium, the glomerular basement membrane (GBM), and the visceral epithelial layer of podocyte foot processes. Together they filter plasma according to size and charge selectivity. Mesangial cells, the macula densa, and vascular smooth muscle are important neighboring structures but are not part of the filtration barrier itself.",
+  "explanation_incorrect": {
+    "A": "Mesangial matrix is a supporting structure, not one of the three barrier layers; the glomerular basement membrane is missing.",
+    "B": "The endothelium is fenestrated, not continuous, and the parietal Bowman capsule forms the outer urinary space rather than the filtration barrier.",
+    "C": "The macula densa is part of the juxtaglomerular apparatus in the distal convoluted tubule, not a layer of the filtration barrier.",
+    "E": "Afferent arteriole smooth muscle regulates vascular tone and is not a component of the filtration barrier."
+  },
+  "educationalObjective": "The filtration barrier is composed of fenestrated endothelium, glomerular basement membrane, and podocyte foot processes.",
+  "source": "Generated from 14. Renal.pdf - Physiology: Glomerular filtration barrier"
+},
+{
+  "id": "ren-043",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Glomerular filtration barrier",
+  "difficulty": "medium",
+  "vignette": "A 7-year-old child presents with nephrotic-range proteinuria and effacement of podocyte foot processes on electron microscopy. A class discussion reviews why albumin, a negatively charged plasma protein, is normally excluded from the glomerular filtrate.",
+  "question": "Which of the following best explains why albumin is normally excluded from the filtrate?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Negatively charged glycoproteins in the barrier repel negatively charged molecules such as albumin."
+    },
+    {
+      "id": "B",
+      "text": "Albumin is too large to pass through the 40-50 nm slit diaphragm."
+    },
+    {
+      "id": "C",
+      "text": "Albumin is actively reabsorbed by the proximal tubule and never reaches the filtrate."
+    },
+    {
+      "id": "D",
+      "text": "The GBM contains type IV collagen, which physically traps albumin."
+    },
+    {
+      "id": "E",
+      "text": "Fenestrated endothelium completely blocks all plasma proteins regardless of charge."
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "The charge barrier of the glomerular filtration barrier contains negatively charged glycoproteins that repel negatively charged molecules such as albumin. This charge selectivity is the principal reason albumin is normally excluded from the filtrate; loss of the charge barrier, as with podocyte injury, produces proteinuria. The size barrier is a separate mechanism that excludes molecules based on their dimensions.",
+  "explanation_incorrect": {
+    "B": "Albumin is smaller than the size cutoff of the slit diaphragm; charge selectivity, not size, is the main reason it is repelled.",
+    "C": "Albumin is not normally freely filtered in the first place, so reabsorption is not the primary mechanism preventing its appearance in urine.",
+    "D": "Type IV collagen is a structural component of the GBM, but the key to albumin exclusion is the negative charge barrier, not physical trapping.",
+    "E": "Fenestrations permit small solutes to pass and do not block all plasma proteins; the charge barrier is the relevant mechanism for albumin."
+  },
+  "educationalObjective": "Negatively charged glycoproteins in the filtration barrier repel negatively charged molecules such as albumin, forming the charge barrier.",
+  "source": "Generated from 14. Renal.pdf - Physiology: Glomerular filtration barrier"
+},
+{
+  "id": "ren-044",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Glomerular filtration barrier",
+  "difficulty": "hard",
+  "vignette": "A researcher infers tracer molecules of graduated sizes into the renal artery and measures their appearance in Bowman space. Molecules larger than 100 nm are excluded at the endothelial layer, and molecules larger than 40-50 nm are excluded at the slit diaphragm.",
+  "question": "Which of the following correctly pairs each barrier component with the size it excludes?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Slit diaphragm — >100 nm; fenestrated endothelium — >40-50 nm"
+    },
+    {
+      "id": "B",
+      "text": "GBM — >100 nm; podocyte foot processes — >40-50 nm"
+    },
+    {
+      "id": "C",
+      "text": "Fenestrated endothelium — >100 nm (and blood cells); slit diaphragm — >40-50 nm"
+    },
+    {
+      "id": "D",
+      "text": "Fenestrated endothelium — >40-50 nm; slit diaphragm — >100 nm"
+    },
+    {
+      "id": "E",
+      "text": "Podocyte foot processes — >100 nm; GBM — >40-50 nm"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "The size barrier has two components: the fenestrated capillary endothelium prevents entry of molecules larger than 100 nm and of blood cells, while the slit diaphragm between podocyte foot processes prevents entry of molecules larger than about 40-50 nm. Podocyte foot processes interpose with the GBM and contribute to both charge and size selectivity. Keeping these two cutoffs straight is essential for understanding size-selective proteinuria.",
+  "explanation_incorrect": {
+    "A": "This reverses the cutoffs: the endothelium excludes molecules larger than 100 nm, and the slit diaphragm excludes those larger than 40-50 nm.",
+    "B": "The numeric cutoffs are assigned to the endothelium and slit diaphragm, not primarily to the GBM and foot processes in this way.",
+    "D": "This reverses the correct cutoffs between the endothelium and the slit diaphragm.",
+    "E": "This misassigns the cutoffs to foot processes and GBM; the two size barriers are the endothelium and the slit diaphragm."
+  },
+  "educationalObjective": "The fenestrated endothelium excludes molecules >100 nm and blood cells; the slit diaphragm excludes molecules >40-50 nm.",
+  "source": "Generated from 14. Renal.pdf - Physiology: Glomerular filtration barrier"
+},
+{
+  "id": "ren-045",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Glomerular filtration barrier",
+  "difficulty": "hard",
+  "vignette": "A renal biopsy shows irregular thinning and thickening with splitting of the glomerular basement membrane. Biochemical analysis is performed to identify the normal structural proteins and negatively charged glycosaminoglycans that make up the GBM scaffold.",
+  "question": "Which of the following molecules are normal constituents of the glomerular basement membrane?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Type I collagen and hyaluronic acid"
+    },
+    {
+      "id": "B",
+      "text": "Type IV collagen and heparan sulfate"
+    },
+    {
+      "id": "C",
+      "text": "Type II collagen and chondroitin sulfate"
+    },
+    {
+      "id": "D",
+      "text": "Elastin and albumin"
+    },
+    {
+      "id": "E",
+      "text": "Type III collagen and heparin"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "The glomerular basement membrane contains type IV collagen chains, which provide its structural scaffold, and heparan sulfate, a negatively charged glycosaminoglycan that contributes to the charge barrier. This is clinically relevant because type IV collagen mutations cause Alport syndrome with GBM splitting and 'basket-weave' changes. Recognizing these components links GBM structure to both charge selectivity and hereditary basement membrane disease.",
+  "explanation_incorrect": {
+    "A": "Type I collagen is not the GBM collagen, and hyaluronic acid is not its characteristic glycosaminoglycan.",
+    "C": "Type II collagen is found in cartilage, and chondroitin sulfate is not the GBM glycosaminoglycan.",
+    "D": "Elastin and albumin are not structural components of the GBM; albumin is the protein normally excluded by the barrier.",
+    "E": "Type III collagen is a reticular fiber component, and heparin is not the GBM glycosaminoglycan; heparan sulfate is."
+  },
+  "educationalObjective": "The GBM is composed of type IV collagen and heparan sulfate, the latter contributing to the barrier's negative charge.",
+  "source": "Generated from 14. Renal.pdf - Physiology: Glomerular filtration barrier"
+},
+{
+  "id": "ren-046",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Glomerular filtration barrier",
+  "difficulty": "medium",
+  "vignette": "A pathology textbook describes the podocyte foot processes as interdigitating with the glomerular basement membrane. A student asks how this arrangement contributes to the filtration barrier's function.",
+  "question": "Which of the following best states the role of podocyte foot processes in the filtration barrier?",
+  "options": [
+    {
+      "id": "A",
+      "text": "They secrete renin in response to decreased renal perfusion pressure."
+    },
+    {
+      "id": "B",
+      "text": "They form the fenestrations that prevent blood cells from entering the filtrate."
+    },
+    {
+      "id": "C",
+      "text": "They are the contractile cells that regulate afferent arteriolar tone."
+    },
+    {
+      "id": "D",
+      "text": "They synthesize type IV collagen and heparan sulfate exclusively."
+    },
+    {
+      "id": "E",
+      "text": "They interpose with the GBM and contribute to both the charge and size barriers."
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Podocyte foot processes of the visceral epithelial layer interpose with the glomerular basement membrane, contributing to both the charge and size barriers of the filtration apparatus. The slit diaphragms between foot processes form the >40-50 nm size barrier, and the negatively charged surface contributes to charge selectivity. Loss of foot processes (effacement), as in minimal change disease, causes nephrotic-range proteinuria.",
+  "explanation_incorrect": {
+    "A": "Renin is secreted by juxtaglomerular cells of the afferent arteriole, not by podocytes.",
+    "B": "The fenestrations that block blood cells are in the capillary endothelium, not in podocyte foot processes.",
+    "C": "Afferent arteriolar tone is regulated by vascular smooth muscle and juxtaglomerular cells, not podocytes.",
+    "D": "Although podocytes help produce GBM components, it is inaccurate to say they do so exclusively, and this is not the principal role being tested here."
+  },
+  "educationalObjective": "Podocyte foot processes interpose with the GBM, contributing to both charge and size selectivity of the filtration barrier.",
+  "source": "Generated from 14. Renal.pdf - Physiology: Glomerular filtration barrier"
+}
+]

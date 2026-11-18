@@ -1,0 +1,330 @@
+[
+{
+  "id": "ren-082",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Nephron transport physiology",
+  "difficulty": "easy",
+  "vignette": "A medical student reviews proximal tubular function. The early proximal convoluted tubule has a prominent brush border and handles the bulk of filtered solutes.",
+  "question": "Which of the following is a correct statement about solute handling in the early proximal convoluted tubule?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It reabsorbs glucose and amino acids incompletely, leaving most in the tubular fluid"
+    },
+    {
+      "id": "B",
+      "text": "It reabsorbs essentially all filtered glucose and amino acids along with most bicarbonate, sodium, chloride, phosphate, potassium, water, and uric acid"
+    },
+    {
+      "id": "C",
+      "text": "It is impermeable to water, producing dilute tubular fluid"
+    },
+    {
+      "id": "D",
+      "text": "It reabsorbs sodium via the Na+/K+/2Cl- cotransporter"
+    },
+    {
+      "id": "E",
+      "text": "It secretes glucose into the lumen to regulate plasma levels"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "The early proximal convoluted tubule, with its brush border, reabsorbs all filtered glucose and amino acids and most HCO3-, Na+, Cl-, PO4(3-), K+, H2O, and uric acid. Absorption is isotonic because water follows solute osmotically. About 65-80% of filtered Na+ and H2O is reabsorbed here.",
+  "explanation_incorrect": {
+    "A": "The early PCT reabsorbs essentially all glucose and amino acids under normal conditions; incomplete reabsorption occurs only when thresholds/Tm are exceeded.",
+    "C": "The PCT is highly water-permeable and reabsorbs isotonically; the water-impermeable diluting segments are the TAL and early DCT.",
+    "D": "The Na+/K+/2Cl- cotransporter is in the thick ascending limb, not the PCT; the PCT uses Na+/H+ exchange and Na+/glucose cotransport.",
+    "E": "The proximal tubule reabsorbs glucose; it does not secrete glucose into the tubular lumen."
+  },
+  "educationalObjective": "The early PCT reabsorbs all glucose and amino acids and most filtered solutes isotonically (65-80% of Na+).",
+  "source": "Generated from 14. Renal.pdf - Physiology: Nephron transport physiology"
+},
+{
+  "id": "ren-083",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Nephron transport physiology",
+  "difficulty": "medium",
+  "vignette": "A patient with chronic kidney disease has elevated parathyroid hormone. Laboratory studies show increased phosphate excretion in the urine.",
+  "question": "By which mechanism does PTH increase phosphate excretion in the proximal tubule?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Stimulating Na+/H+ exchange in the proximal tubule"
+    },
+    {
+      "id": "B",
+      "text": "Inhibiting the Na+/K+/2Cl- cotransporter in the thick ascending limb"
+    },
+    {
+      "id": "C",
+      "text": "Increasing aquaporin insertion in the collecting duct"
+    },
+    {
+      "id": "D",
+      "text": "Enhancing Na+/glucose cotransport in the proximal tubule"
+    },
+    {
+      "id": "E",
+      "text": "Inhibiting Na+/phosphate cotransport in the proximal tubule"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "PTH inhibits the Na+/phosphate cotransporter in the proximal tubule, reducing phosphate reabsorption and increasing phosphate excretion (phosphaturia). This complements PTH's effect in the distal convoluted tubule, where it increases calcium reabsorption via a Na+/Ca2+ exchanger. The net effect of PTH is to raise calcium and lower phosphate reabsorption.",
+  "explanation_incorrect": {
+    "A": "Na+/H+ exchange in the PCT is stimulated by angiotensin II, not PTH, and promotes Na+ and HCO3- reabsorption.",
+    "B": "The Na+/K+/2Cl- cotransporter is in the thick ascending limb and is not regulated by PTH; loop diuretics target it.",
+    "C": "Aquaporin insertion in the collecting duct is mediated by ADH acting at V2 receptors, not by PTH.",
+    "D": "Na+/glucose cotransport in the PCT is not the target of PTH; it handles glucose reabsorption."
+  },
+  "educationalObjective": "PTH causes phosphaturia by inhibiting proximal Na+/phosphate cotransport, while increasing distal calcium reabsorption.",
+  "source": "Generated from 14. Renal.pdf - Physiology: Nephron transport physiology"
+},
+{
+  "id": "ren-084",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Nephron transport physiology",
+  "difficulty": "hard",
+  "vignette": "A patient with heart failure has reduced effective circulating volume and marked activation of the renin-angiotensin system. Serum bicarbonate is elevated, consistent with contraction alkalosis.",
+  "question": "Which angiotensin II action in the proximal tubule best explains the increased bicarbonate reabsorption and contraction alkalosis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Inhibition of Na+/phosphate cotransport"
+    },
+    {
+      "id": "B",
+      "text": "Stimulation of Na+/K+/2Cl- cotransport"
+    },
+    {
+      "id": "C",
+      "text": "Stimulation of Na+/H+ exchange"
+    },
+    {
+      "id": "D",
+      "text": "Insertion of aquaporin-2 channels"
+    },
+    {
+      "id": "E",
+      "text": "Blockade of the luminal Na+/Ca2+ exchanger"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Angiotensin II stimulates the Na+/H+ exchanger in the proximal tubule. This increases Na+ reabsorption (with water) and enhances HCO3- reabsorption, which can produce contraction alkalosis. It also provides the H+ secretion needed for acid excretion. This is why ACE inhibitors can reduce bicarbonate reabsorption and produce a mild metabolic acidosis.",
+  "explanation_incorrect": {
+    "A": "Na+/phosphate cotransport inhibition is an effect of PTH, not angiotensin II, and would cause phosphaturia.",
+    "B": "Na+/K+/2Cl- cotransport is in the thick ascending limb and is not the proximal target of angiotensin II.",
+    "D": "Aquaporin-2 insertion is mediated by ADH/V2 in the collecting duct, not by angiotensin II in the proximal tubule.",
+    "E": "Angiotensin II does not block a luminal Na+/Ca2+ exchanger; calcium handling in the distal tubule is PTH-dependent."
+  },
+  "educationalObjective": "Angiotensin II stimulates proximal Na+/H+ exchange, increasing Na+, water, and HCO3- reabsorption and permitting contraction alkalosis.",
+  "source": "Generated from 14. Renal.pdf - Physiology: Nephron transport physiology"
+},
+{
+  "id": "ren-085",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Nephron transport physiology",
+  "difficulty": "easy",
+  "vignette": "A segment of the nephron descending into the medulla is exposed to an increasingly hypertonic interstitium. Water leaves the tubular fluid, concentrating the urine.",
+  "question": "Which nephron segment is passively permeable to water but essentially impermeable to sodium, making it the concentrating segment?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Thick ascending limb of the loop of Henle"
+    },
+    {
+      "id": "B",
+      "text": "Early distal convoluted tubule"
+    },
+    {
+      "id": "C",
+      "text": "Cortical collecting duct"
+    },
+    {
+      "id": "D",
+      "text": "Thin descending limb of the loop of Henle"
+    },
+    {
+      "id": "E",
+      "text": "Proximal convoluted tubule"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "The thin descending limb is passively permeable to water via medullary hypertonicity but is impermeable to Na+. Water is reabsorbed, concentrating the tubular fluid; this is the concentrating segment that makes urine hypertonic. In contrast, the thick ascending limb is impermeable to water and dilutes the urine.",
+  "explanation_incorrect": {
+    "A": "The thick ascending limb is impermeable to water and actively reabsorbs Na+/K+/2Cl-, producing dilute urine, the opposite of the concentrating segment.",
+    "B": "The early distal convoluted tubule is impermeable to water and further dilutes the urine; it is not the concentrating segment.",
+    "C": "The cortical collecting duct reabsorbs water only in the presence of ADH; the thin descending limb is constitutively water-permeable and Na+-impermeable.",
+    "E": "The proximal tubule reabsorbs water isosmotically along with solute; it is not the medullary concentrating segment."
+  },
+  "educationalObjective": "The thin descending limb passively reabsorbs water but not Na+, concentrating urine as the concentrating segment.",
+  "source": "Generated from 14. Renal.pdf - Physiology: Nephron transport physiology"
+},
+{
+  "id": "ren-086",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Nephron transport physiology",
+  "difficulty": "hard",
+  "vignette": "A researcher selectively blocks luminal potassium backleak in the thick ascending limb of a laboratory animal.",
+  "question": "Which consequence would most directly follow from loss of the K+ backleak in the thick ascending limb?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Reduced paracellular reabsorption of Mg2+ and Ca2+ because the lumen-positive potential is lost"
+    },
+    {
+      "id": "B",
+      "text": "Increased water reabsorption in the thick ascending limb"
+    },
+    {
+      "id": "C",
+      "text": "Loss of the dilute urine normally produced by this segment"
+    },
+    {
+      "id": "D",
+      "text": "Markedly increased glucose reabsorption in the proximal tubule"
+    },
+    {
+      "id": "E",
+      "text": "Unopposed ADH-driven aquaporin insertion"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "In the thick ascending limb, K+ backleak into the lumen generates a lumen-positive electrical potential that drives paracellular reabsorption of the divalent cations Mg2+ and Ca2+. Eliminating the backleak abolishes this potential, reducing paracellular Mg2+/Ca2+ reabsorption, as occurs with loop diuretics that cause hypercalciuria. The TAL is impermeable to water regardless, so water reabsorption would not increase.",
+  "explanation_incorrect": {
+    "B": "The thick ascending limb is impermeable to water, so blocking K+ backleak would not increase water reabsorption there.",
+    "C": "The TAL still reabsorbs Na+/K+/2Cl- and remains water-impermeable, so it can still dilute urine; the key deficit is divalent cation reabsorption.",
+    "D": "Glucose reabsorption occurs in the proximal tubule and is independent of thick ascending limb K+ backleak.",
+    "E": "Aquaporin insertion is an ADH/V2-mediated collecting duct process unrelated to thick ascending limb K+ backleak."
+  },
+  "educationalObjective": "K+ backleak in the thick ascending limb creates the lumen-positive potential that drives paracellular Mg2+ and Ca2+ reabsorption.",
+  "source": "Generated from 14. Renal.pdf - Physiology: Nephron transport physiology"
+},
+{
+  "id": "ren-087",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Nephron transport physiology",
+  "difficulty": "medium",
+  "vignette": "A patient has normal early distal convoluted tubule function, and plasma PTH is elevated.",
+  "question": "Which combination of statements correctly describes early distal convoluted tubule function?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It reabsorbs Na+ and Cl- with water, producing hypertonic urine; PTH decreases Ca2+ reabsorption"
+    },
+    {
+      "id": "B",
+      "text": "It is impermeable to Na+ but permeable to water; PTH increases phosphate reabsorption"
+    },
+    {
+      "id": "C",
+      "text": "It reabsorbs Na+ and Cl- while impermeable to water, producing maximally dilute (hypotonic) urine; PTH increases Ca2+ reabsorption"
+    },
+    {
+      "id": "D",
+      "text": "It reabsorbs glucose via SGLT2 and is the main site of urea reabsorption"
+    },
+    {
+      "id": "E",
+      "text": "It secretes K+ under aldosterone control and inserts aquaporins in response to ADH"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "The early distal convoluted tubule reabsorbs Na+ and Cl- via the Na/Cl cotransporter and is impermeable to water, so it further dilutes tubular fluid to hypotonic (maximally dilute) urine, the diluting segment. PTH acts here to increase a Na+/Ca2+ exchanger, enhancing Ca2+ reabsorption. About 5-10% of filtered Na+ is reabsorbed in the early DCT.",
+  "explanation_incorrect": {
+    "A": "The early DCT is impermeable to water and produces dilute, not hypertonic, urine; PTH increases rather than decreases Ca2+ reabsorption.",
+    "B": "The early DCT reabsorbs Na+/Cl- and is water-impermeable; PTH decreases phosphate reabsorption in the PCT, not increases it in the DCT.",
+    "D": "Glucose reabsorption via SGLT2 occurs in the proximal tubule, and urea reabsorption occurs in the medullary collecting duct, not the DCT.",
+    "E": "Aldosterone-driven K+ secretion and ADH-driven aquaporin insertion occur in the collecting duct, not the early DCT."
+  },
+  "educationalObjective": "The early DCT reabsorbs NaCl without water (diluting segment) and PTH increases Ca2+ reabsorption there.",
+  "source": "Generated from 14. Renal.pdf - Physiology: Nephron transport physiology"
+},
+{
+  "id": "ren-088",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Nephron transport physiology",
+  "difficulty": "medium",
+  "vignette": "A patient has primary hyperaldosteronism with markedly elevated aldosterone.",
+  "question": "Which sequence best describes aldosterone's action in the principal cells of the collecting duct?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Binds a membrane receptor, opens chloride channels, and drives chloride secretion"
+    },
+    {
+      "id": "B",
+      "text": "Binds the mineralocorticoid receptor, increases mRNA and protein synthesis, and increases apical K+ conductance, Na+/K+ pump, and ENaC activity, leading to K+ secretion"
+    },
+    {
+      "id": "C",
+      "text": "Binds V2 receptors and inserts aquaporins to increase water reabsorption"
+    },
+    {
+      "id": "D",
+      "text": "Directly blocks the Na+/H+ exchanger in the proximal tubule"
+    },
+    {
+      "id": "E",
+      "text": "Inhibits the Na+/Cl- cotransporter in the early distal tubule"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Aldosterone diffuses into principal cells and binds the mineralocorticoid receptor, altering gene transcription (mRNA to protein synthesis). It increases apical K+ conductance, basolateral Na+/K+-ATPase, and epithelial Na+ channels (ENaC). Na+ reabsorption creates lumen negativity, which drives K+ secretion; this is why ENaC blockers and mineralocorticoid receptor antagonists are effective K+-sparing diuretics.",
+  "explanation_incorrect": {
+    "A": "Aldosterone acts via an intracellular mineralocorticoid receptor, not a membrane receptor, and it does not primarily drive chloride secretion.",
+    "C": "ADH, not aldosterone, binds V2 receptors and inserts aquaporins in the collecting duct.",
+    "D": "Aldosterone does not block proximal Na+/H+ exchange; it acts on collecting duct principal cells.",
+    "E": "The Na+/Cl- cotransporter in the early distal tubule is the thiazide target, not regulated by aldosterone."
+  },
+  "educationalObjective": "Aldosterone binds the mineralocorticoid receptor to increase ENaC, Na+/K+ pump, and K+ conductance, driving Na+ reabsorption and K+ secretion.",
+  "source": "Generated from 14. Renal.pdf - Physiology: Nephron transport physiology"
+},
+{
+  "id": "ren-089",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Nephron transport physiology",
+  "difficulty": "medium",
+  "vignette": "A patient with central diabetes insipidus lacks ADH and produces large volumes of dilute urine. Desmopressin is administered.",
+  "question": "Which molecular event in the collecting duct is most directly responsible for desmopressin's reduction in urine volume?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Increased Na+/K+/2Cl- cotransport in the thick ascending limb"
+    },
+    {
+      "id": "B",
+      "text": "Inhibition of the Na+/Cl- cotransporter in the early distal tubule"
+    },
+    {
+      "id": "C",
+      "text": "Stimulation of aldosterone secretion from the adrenal cortex"
+    },
+    {
+      "id": "D",
+      "text": "Increased urea reabsorption in the cortical, not medullary, collecting duct"
+    },
+    {
+      "id": "E",
+      "text": "V2 receptor-mediated insertion of aquaporin water channels into the apical membrane of principal cells"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "ADH (desmopressin) binds V2 receptors on principal cells, triggering insertion of aquaporin-2 water channels into the apical membrane, which increases water reabsorption and concentrates urine. ADH also increases urea reabsorption, but only in the medullary (not cortical) collecting duct, to maintain the corticopapillary osmotic gradient. Only 3-5% of Na+ is reabsorbed in the collecting duct.",
+  "explanation_incorrect": {
+    "A": "Na+/K+/2Cl- cotransport is in the thick ascending limb and is not the target of ADH/desmopressin.",
+    "B": "The Na+/Cl- cotransporter is in the early distal tubule (thiazide target), not regulated by ADH.",
+    "C": "Desmopressin is a synthetic ADH analogue; it does not stimulate aldosterone secretion.",
+    "D": "ADH increases urea reabsorption in the medullary collecting duct, not the cortical duct; this option states cortical."
+  },
+  "educationalObjective": "ADH/desmopressin acts at V2 receptors to insert apical aquaporins in principal cells, increasing water reabsorption.",
+  "source": "Generated from 14. Renal.pdf - Physiology: Nephron transport physiology"
+}
+]

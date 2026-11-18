@@ -1,0 +1,207 @@
+[
+{
+  "id": "ren-097",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Renin and aldosterone patterns in renal disorders",
+  "difficulty": "easy",
+  "vignette": "A patient has hypertension, hypokalemia, and metabolic alkalosis. Laboratory testing shows low plasma renin activity and high serum aldosterone.",
+  "question": "Which disorder is most consistent with this hormonal profile?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Bartter syndrome"
+    },
+    {
+      "id": "B",
+      "text": "Renin-secreting tumor"
+    },
+    {
+      "id": "C",
+      "text": "Primary hyperaldosteronism"
+    },
+    {
+      "id": "D",
+      "text": "Liddle syndrome"
+    },
+    {
+      "id": "E",
+      "text": "SIADH"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "In primary hyperaldosteronism, aldosterone is autonomously elevated (e.g., adrenal adenoma or bilateral hyperplasia), which suppresses renin through volume expansion and hypertension. The profile is hypertension with high aldosterone and low renin, accompanied by hypokalemia and metabolic alkalosis.",
+  "explanation_incorrect": {
+    "A": "Bartter syndrome has high renin and high aldosterone with normal blood pressure, not low renin.",
+    "B": "A renin-secreting tumor produces high renin and high aldosterone with hypertension, not low renin.",
+    "D": "Liddle syndrome has hypertension with both renin and aldosterone suppressed (low/low).",
+    "E": "SIADH typically has normal or low renin and aldosterone without hypertension or hypokalemic alkalosis."
+  },
+  "educationalObjective": "Primary hyperaldosteronism shows hypertension, high aldosterone, and suppressed renin.",
+  "source": "Generated from 14. Renal.pdf - Physiology: Renin and aldosterone patterns in renal disorders"
+},
+{
+  "id": "ren-098",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Renin and aldosterone patterns in renal disorders",
+  "difficulty": "medium",
+  "vignette": "A patient has hypertension and hypokalemic metabolic alkalosis. Both plasma renin activity and serum aldosterone are markedly elevated, and renal imaging reveals a small juxtaglomerular cell tumor.",
+  "question": "Which diagnosis fits this profile?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Primary hyperaldosteronism"
+    },
+    {
+      "id": "B",
+      "text": "Liddle syndrome"
+    },
+    {
+      "id": "C",
+      "text": "SIADH"
+    },
+    {
+      "id": "D",
+      "text": "Gitelman syndrome"
+    },
+    {
+      "id": "E",
+      "text": "Renin-secreting tumor"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "A renin-secreting tumor (juxtaglomerular cell tumor) causes secondary hyperaldosteronism: renin is high, driving aldosterone high, producing hypertension and hypokalemic alkalosis. Unlike primary hyperaldosteronism, renin is not suppressed. This is the key distinction from primary hyperaldosteronism (low renin, high aldosterone).",
+  "explanation_incorrect": {
+    "A": "Primary hyperaldosteronism has low renin with high aldosterone; here renin is elevated.",
+    "B": "Liddle syndrome has both renin and aldosterone suppressed (low/low) with hypertension.",
+    "C": "SIADH features euvolemic hyponatremia without hypertension, high renin, or high aldosterone.",
+    "D": "Gitelman syndrome has normal blood pressure with high renin and aldosterone but no hypertension and features hypomagnesemia."
+  },
+  "educationalObjective": "A renin-secreting tumor causes hypertension with both renin and aldosterone elevated (secondary hyperaldosteronism).",
+  "source": "Generated from 14. Renal.pdf - Physiology: Renin and aldosterone patterns in renal disorders"
+},
+{
+  "id": "ren-099",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Renin and aldosterone patterns in renal disorders",
+  "difficulty": "hard",
+  "vignette": "A patient has hypertension, hypokalemia, and alkalosis. Renin and aldosterone are both low. Two possible diagnoses share this profile but differ in inheritance and mechanism: Liddle syndrome and syndrome of apparent mineralocorticoid excess.",
+  "question": "Which statement correctly distinguishes these two disorders?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Liddle is autosomal recessive due to 11-beta-HSD deficiency; SAME is autosomal dominant due to ENaC gain of function"
+    },
+    {
+      "id": "B",
+      "text": "Liddle is autosomal dominant from decreased ENaC degradation (amiloride responsive); SAME is autosomal recessive from 11-beta-HSD deficiency or licorice, with cortisol activating mineralocorticoid receptors"
+    },
+    {
+      "id": "C",
+      "text": "Both disorders have high renin and high aldosterone"
+    },
+    {
+      "id": "D",
+      "text": "SAME is caused by an adrenal aldosterone-producing adenoma"
+    },
+    {
+      "id": "E",
+      "text": "Liddle syndrome is treated with corticosteroids to suppress cortisol"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Liddle syndrome is autosomal dominant due to gain-of-function mutations that reduce ENaC degradation in the collecting duct; aldosterone is nearly undetectable and treatment is amiloride. SAME is autosomal recessive due to 11-beta-HSD deficiency (or acquired from licorice), allowing cortisol to activate mineralocorticoid receptors; aldosterone is also low, and treatment is K+-sparing diuretics or corticosteroids. Both share hypertension, hypokalemia, alkalosis, low renin, and low aldosterone.",
+  "explanation_incorrect": {
+    "A": "This reverses the genetics and mechanisms: Liddle is autosomal dominant/ENaC, while SAME is autosomal recessive/11-beta-HSD.",
+    "C": "Both disorders have suppressed (low) renin and aldosterone, not high levels.",
+    "D": "An aldosterone-producing adenoma is primary hyperaldosteronism, which has high aldosterone and low renin, not SAME.",
+    "E": "Corticosteroids are used in SAME to suppress endogenous cortisol; Liddle is treated with amiloride, not corticosteroids."
+  },
+  "educationalObjective": "Liddle (AD, ENaC gain-of-function, amiloride) and SAME (AR, 11-beta-HSD deficiency/licorice) both have low renin and low aldosterone with hypertension.",
+  "source": "Generated from 14. Renal.pdf - Physiology: Renin and aldosterone patterns in renal disorders"
+},
+{
+  "id": "ren-100",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Renin and aldosterone patterns in renal disorders",
+  "difficulty": "easy",
+  "vignette": "A patient with syndrome of inappropriate ADH secretion (SIADH) has euvolemic hyponatremia. Blood pressure is normal.",
+  "question": "Which of the following hormone patterns is expected in SIADH?",
+  "options": [
+    {
+      "id": "A",
+      "text": "High renin and high aldosterone with hypertension"
+    },
+    {
+      "id": "B",
+      "text": "Low renin and high aldosterone with hypertension"
+    },
+    {
+      "id": "C",
+      "text": "High renin and low aldosterone with normal blood pressure"
+    },
+    {
+      "id": "D",
+      "text": "Normal or low renin and normal or low aldosterone without hypertension"
+    },
+    {
+      "id": "E",
+      "text": "High renin and high aldosterone with normal blood pressure"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "In SIADH, excess ADH causes water retention and euvolemic hyponatremia. Blood pressure is normal or variable, and renin and aldosterone are normal or suppressed rather than activated. This contrasts with Bartter/Gitelman (normal BP, high renin and aldosterone) and the hypertensive mineralocorticoid-excess states.",
+  "explanation_incorrect": {
+    "A": "SIADH does not feature high renin/aldosterone or hypertension; that pattern fits a renin-secreting tumor.",
+    "B": "Low renin with high aldosterone and hypertension is primary hyperaldosteronism, not SIADH.",
+    "C": "SIADH does not have high renin; renin is normal or low due to mild volume expansion.",
+    "E": "SIADH lacks the high renin/aldosterone activation seen in Bartter or Gitelman syndromes."
+  },
+  "educationalObjective": "SIADH shows normal/low renin and aldosterone without hypertension, unlike the tubular salt-wasting and mineralocorticoid-excess disorders.",
+  "source": "Generated from 14. Renal.pdf - Physiology: Renin and aldosterone patterns in renal disorders"
+},
+{
+  "id": "ren-101",
+  "subject": "Renal",
+  "major_topic": "Physiology",
+  "subtopic": "Renin and aldosterone patterns in renal disorders",
+  "difficulty": "medium",
+  "vignette": "A table comparing renal disorders lists blood pressure, plasma renin, aldosterone, serum Mg2+, and urine Ca2+. One row shows: normal blood pressure, high renin, high aldosterone, normal magnesium, and high urine calcium.",
+  "question": "Which disorder does this row describe?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Bartter syndrome"
+    },
+    {
+      "id": "B",
+      "text": "Gitelman syndrome"
+    },
+    {
+      "id": "C",
+      "text": "Liddle syndrome"
+    },
+    {
+      "id": "D",
+      "text": "Primary hyperaldosteronism"
+    },
+    {
+      "id": "E",
+      "text": "Syndrome of apparent mineralocorticoid excess"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Bartter syndrome (thick ascending limb Na/K/2Cl defect) shows normal blood pressure, increased renin and aldosterone (secondary to salt wasting), normal serum magnesium, and increased urine calcium, matching the row. Gitelman would show low Mg and low urine Ca2+; Liddle/SAME would show high BP with low renin and aldosterone; primary hyperaldo would show high BP, low renin, high aldosterone.",
+  "explanation_incorrect": {
+    "B": "Gitelman has low serum Mg2+ and low urine Ca2+, not normal Mg and high urine Ca2+.",
+    "C": "Liddle syndrome has hypertension with low renin and low aldosterone, not normal BP with high renin/aldosterone.",
+    "D": "Primary hyperaldosteronism has hypertension, low renin, and high aldosterone, not normal BP and high renin.",
+    "E": "SAME has hypertension with low renin and low aldosterone, not normal BP and high renin."
+  },
+  "educationalObjective": "Bartter syndrome shows normal BP, high renin, high aldosterone, normal Mg, and high urine Ca2+.",
+  "source": "Generated from 14. Renal.pdf - Physiology: Renin and aldosterone patterns in renal disorders"
+}
+]
