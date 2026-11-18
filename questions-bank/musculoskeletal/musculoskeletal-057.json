@@ -1,0 +1,166 @@
+[
+{
+  "id": "msk-077",
+  "subject": "Musculoskeletal",
+  "major_topic": "Anatomy and Physiology",
+  "subtopic": "Vascular smooth muscle contraction",
+  "difficulty": "easy",
+  "vignette": "A physiology student studies an isolated arterial ring bathed in an agonist such as acetylcholine or bradykinin. The smooth muscle cell membrane depolarizes, intracellular Ca²⁺ rises, and the vessel constricts. She is asked to identify the molecular pathway that produces contraction in this vascular smooth muscle.",
+  "question": "Which of the following best describes the mechanism of vascular smooth muscle contraction?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Ca²⁺ binds troponin C, shifting tropomyosin off actin"
+    },
+    {
+      "id": "B",
+      "text": "cGMP activates MLCK to phosphorylate myosin"
+    },
+    {
+      "id": "C",
+      "text": "Myosin light-chain phosphatase phosphorylates myosin light chains"
+    },
+    {
+      "id": "D",
+      "text": "Ca²⁺–calmodulin activates myosin light-chain kinase (MLCK), which phosphorylates myosin to promote actin–myosin interaction"
+    },
+    {
+      "id": "E",
+      "text": "Nitric oxide directly phosphorylates myosin light chains"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "In vascular smooth muscle, increased intracellular Ca²⁺ binds the regulatory protein calmodulin. The Ca²⁺–calmodulin complex activates myosin light-chain kinase (MLCK), which phosphorylates the light chains of myosin. Phosphorylated myosin can then interact with actin to generate contraction and vasoconstriction. This differs from skeletal muscle, which uses the troponin–tropomyosin system instead of calmodulin-based regulation.",
+  "explanation_incorrect": {
+    "A": "Troponin C and tropomyosin regulate contraction in skeletal and cardiac muscle, not vascular smooth muscle, which uses calmodulin and MLCK.",
+    "B": "cGMP activates myosin light-chain phosphatase and promotes relaxation, not contraction, and does not activate MLCK.",
+    "C": "Myosin light-chain phosphatase dephosphorylates myosin light chains to cause relaxation; it does not phosphorylate them.",
+    "E": "Nitric oxide acts through cGMP and protein kinase G to promote dephosphorylation and relaxation; it does not directly phosphorylate myosin."
+  },
+  "educationalObjective": "Vascular smooth muscle contracts when Ca²⁺–calmodulin activates MLCK, which phosphorylates myosin light chains to drive actin–myosin interaction.",
+  "source": "Generated from 11. Musculoskeletal.pdf - Anatomy and Physiology: Vascular smooth muscle contraction"
+},
+{
+  "id": "msk-078",
+  "subject": "Musculoskeletal",
+  "major_topic": "Anatomy and Physiology",
+  "subtopic": "Vascular smooth muscle contraction",
+  "difficulty": "medium",
+  "vignette": "An experiment applies a vasoconstrictor agonist to a resistance artery. The smooth muscle cell membrane depolarizes, and shortly thereafter intracellular Ca²⁺ concentration rises and tension develops. The student asks which membrane event is responsible for the rise in Ca²⁺ that initiates contraction.",
+  "question": "Depolarization of a vascular smooth muscle cell raises intracellular Ca²⁺ mainly through which of the following?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Direct entry of Ca²⁺ through ryanodine receptors in the plasma membrane"
+    },
+    {
+      "id": "B",
+      "text": "Opening of L-type voltage-gated Ca²⁺ channels and increased Ca²⁺ influx"
+    },
+    {
+      "id": "C",
+      "text": "Activation of SERCA to pump Ca²⁺ into the sarcoplasmic reticulum"
+    },
+    {
+      "id": "D",
+      "text": "cGMP-mediated activation of myosin light-chain phosphatase"
+    },
+    {
+      "id": "E",
+      "text": "Release of acetylcholine from the smooth muscle cell itself"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Vascular smooth muscle cells express L-type voltage-gated Ca²⁺ channels in their plasma membrane. Membrane depolarization opens these channels, allowing extracellular Ca²⁺ to enter the cytosol. The rise in intracellular Ca²⁺ then binds calmodulin and activates MLCK, leading to myosin phosphorylation and contraction. This reliance on L-type Ca²⁺ channels is also the basis for the vasodilatory effect of calcium channel blockers.",
+  "explanation_incorrect": {
+    "A": "Ryanodine receptors are Ca²⁺ release channels on the sarcoplasmic reticulum, not plasma membrane channels, and they are not the main route for depolarization-triggered Ca²⁺ entry in vascular smooth muscle.",
+    "C": "SERCA pumps Ca²⁺ into the sarcoplasmic reticulum and lowers cytosolic Ca²⁺, which would promote relaxation rather than contraction.",
+    "D": "cGMP activates myosin light-chain phosphatase and causes relaxation, not a rise in intracellular Ca²⁺.",
+    "E": "Acetylcholine is released from autonomic nerve endings, not from the smooth muscle cell, and it is not the cause of depolarization-induced Ca²⁺ influx."
+  },
+  "educationalObjective": "Depolarization opens L-type voltage-gated Ca²⁺ channels in vascular smooth muscle, raising cytosolic Ca²⁺ to trigger contraction.",
+  "source": "Generated from 11. Musculoskeletal.pdf - Anatomy and Physiology: Vascular smooth muscle contraction"
+},
+{
+  "id": "msk-079",
+  "subject": "Musculoskeletal",
+  "major_topic": "Anatomy and Physiology",
+  "subtopic": "Vascular smooth muscle contraction",
+  "difficulty": "medium",
+  "vignette": "A patient is given a vasodilator drug that donates nitric oxide to the vessel wall. The endothelial-derived nitric oxide diffuses into adjacent vascular smooth muscle, intracellular cGMP rises, and the vessel relaxes. The student is asked to identify how elevated cGMP produces smooth muscle relaxation.",
+  "question": "Which of the following best explains how nitric oxide leads to vascular smooth muscle relaxation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Endothelial NO diffuses into smooth muscle, increases cGMP, and activates myosin light-chain phosphatase, causing relaxation"
+    },
+    {
+      "id": "B",
+      "text": "NO increases cAMP, which activates MLCK and causes contraction"
+    },
+    {
+      "id": "C",
+      "text": "NO increases cGMP, which activates MLCK and strengthens contraction"
+    },
+    {
+      "id": "D",
+      "text": "NO is released from smooth muscle and acts on endothelial cells to cause contraction"
+    },
+    {
+      "id": "E",
+      "text": "NO increases intracellular Ca²⁺ in smooth muscle, activating calmodulin"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Nitric oxide produced by endothelial nitric oxide synthase diffuses into adjacent vascular smooth muscle cells, where it activates guanylyl cyclase and increases intracellular cGMP. cGMP activates myosin light-chain phosphatase (MLCP), which dephosphorylates myosin light chains. Dephosphorylated myosin cannot sustain interaction with actin, so the smooth muscle relaxes and the vessel dilates. NO is thus a key endothelium-derived relaxing factor.",
+  "explanation_incorrect": {
+    "B": "NO signals through cGMP rather than cAMP, and activation of MLCK would cause contraction, not relaxation.",
+    "C": "cGMP activates myosin light-chain phosphatase, not MLCK; its net effect is relaxation, not strengthening of contraction.",
+    "D": "NO is generated in endothelial cells and acts on smooth muscle, not the reverse, and its effect is relaxation rather than contraction.",
+    "E": "NO lowers cytosolic Ca²⁺ and promotes dephosphorylation of myosin; it does not raise Ca²⁺ or activate calmodulin to cause contraction."
+  },
+  "educationalObjective": "Endothelial NO raises smooth muscle cGMP, activating myosin light-chain phosphatase to dephosphorylate myosin and cause vasodilation.",
+  "source": "Generated from 11. Musculoskeletal.pdf - Anatomy and Physiology: Vascular smooth muscle contraction"
+},
+{
+  "id": "msk-080",
+  "subject": "Musculoskeletal",
+  "major_topic": "Anatomy and Physiology",
+  "subtopic": "Vascular smooth muscle contraction",
+  "difficulty": "hard",
+  "vignette": "A researcher studying endothelial function notes that intact endothelium is required for acetylcholine-induced vasodilation, because acetylcholine stimulates endothelial cells to produce a diffusible relaxing factor. She wishes to identify the precursor and cellular source of this molecule.",
+  "question": "Which of the following correctly describes the synthesis and action of this endothelium-derived relaxing factor?",
+  "options": [
+    {
+      "id": "A",
+      "text": "NO is synthesized from L-arginine by NO synthase in smooth muscle and acts on endothelial cells"
+    },
+    {
+      "id": "B",
+      "text": "NO is stored in vesicles in endothelial cells and released on membrane depolarization"
+    },
+    {
+      "id": "C",
+      "text": "NO is synthesized from L-arginine by NO synthase in endothelial cells and diffuses into adjacent smooth muscle"
+    },
+    {
+      "id": "D",
+      "text": "NO is a peptide that binds to a G protein-coupled receptor on the smooth muscle surface"
+    },
+    {
+      "id": "E",
+      "text": "NO is generated by the enzymatic breakdown of cGMP within smooth muscle cells"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Nitric oxide is a small, diffusible gas synthesized from the amino acid L-arginine by the enzyme nitric oxide synthase, predominantly in vascular endothelial cells. Because it is lipid soluble and short-lived, it diffuses across the plasma membrane into adjacent vascular smooth muscle cells rather than being stored in vesicles or acting through a surface receptor. There it activates guanylyl cyclase, raising cGMP and causing relaxation. Its gaseous, local, diffusible nature explains why endothelial integrity is essential for this response.",
+  "explanation_incorrect": {
+    "A": "NO is produced in endothelial cells and acts on smooth muscle; this choice reverses both the source and the target.",
+    "B": "NO is not stored in vesicles; it is synthesized on demand and diffuses directly through cell membranes because it is a gas.",
+    "D": "NO is not a peptide and does not act through a cell-surface G protein-coupled receptor; it diffuses intracellularly to activate guanylyl cyclase.",
+    "E": "NO is upstream of cGMP, stimulating its synthesis via guanylyl cyclase; it is not produced by cGMP breakdown."
+  },
+  "educationalObjective": "NO is a diffusible gas made from L-arginine by endothelial NO synthase that acts on adjacent smooth muscle to raise cGMP and cause relaxation.",
+  "source": "Generated from 11. Musculoskeletal.pdf - Anatomy and Physiology: Vascular smooth muscle contraction"
+}
+]

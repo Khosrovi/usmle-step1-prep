@@ -1,0 +1,207 @@
+[
+{
+  "id": "msk-339",
+  "subject": "Musculoskeletal",
+  "major_topic": "Pharmacology",
+  "subtopic": "Aspirin",
+  "difficulty": "easy",
+  "vignette": "A 60-year-old man is started on low-dose aspirin for cardiovascular protection. His physician explains that, unlike other NSAIDs, aspirin's inhibition of cyclooxygenase is permanent for the life of the platelet.",
+  "question": "By which mechanism does aspirin irreversibly inhibit cyclooxygenase?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Competitive reversible inhibition of COX-2 only"
+    },
+    {
+      "id": "B",
+      "text": "Noncompetitive inhibition of 5-lipoxygenase"
+    },
+    {
+      "id": "C",
+      "text": "Reversible blockade of the LTD4 receptor"
+    },
+    {
+      "id": "D",
+      "text": "Inhibition of phospholipase A2"
+    },
+    {
+      "id": "E",
+      "text": "Covalent acetylation of COX-1 and COX-2"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Aspirin is an NSAID that irreversibly inhibits both COX-1 and COX-2 by covalent acetylation, decreasing synthesis of thromboxane A2 and prostaglandins. Because platelets cannot resynthesize COX, the effect lasts for the platelet's lifespan. Other NSAIDs inhibit COX reversibly.",
+  "explanation_incorrect": {
+    "A": "Reversible, selective COX-2 inhibition describes celecoxib, not aspirin; aspirin irreversibly blocks both isoforms.",
+    "B": "5-Lipoxygenase inhibition is the mechanism of zileuton, not aspirin.",
+    "C": "LTD4 receptor blockade is the mechanism of montelukast and zafirlukast, not aspirin.",
+    "D": "Phospholipase A2 inhibition is the mechanism of glucocorticoids, not aspirin."
+  },
+  "educationalObjective": "Aspirin irreversibly blocks COX-1 and COX-2 by covalent acetylation, an effect that lasts the life of the platelet.",
+  "source": "Generated from 11. Musculoskeletal.pdf - Pharmacology: Aspirin"
+},
+{
+  "id": "msk-340",
+  "subject": "Musculoskeletal",
+  "major_topic": "Pharmacology",
+  "subtopic": "Aspirin",
+  "difficulty": "medium",
+  "vignette": "A 52-year-old woman takes aspirin regularly. Laboratory testing is performed to assess its effect on hemostasis.",
+  "question": "Which of the following laboratory findings is expected from aspirin therapy?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Prolonged PT with normal bleeding time"
+    },
+    {
+      "id": "B",
+      "text": "Increased bleeding time with normal PT and PTT"
+    },
+    {
+      "id": "C",
+      "text": "Prolonged PTT with normal PT"
+    },
+    {
+      "id": "D",
+      "text": "Decreased platelet count with prolonged PT"
+    },
+    {
+      "id": "E",
+      "text": "Increased PT and PTT with normal bleeding time"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "By irreversibly inhibiting platelet COX-1 and reducing TXA2, aspirin impairs platelet aggregation and increases bleeding time. It does not affect the coagulation cascade, so PT and PTT remain normal. The effect persists until new platelets are produced.",
+  "explanation_incorrect": {
+    "A": "PT reflects the extrinsic coagulation pathway, which aspirin does not affect; aspirin changes bleeding time, not PT.",
+    "C": "PTT reflects the intrinsic pathway and is unaffected by aspirin; the expected change is an increased bleeding time.",
+    "D": "Aspirin does not reduce platelet count; it impairs platelet function, and PT is normal.",
+    "E": "Aspirin does not prolong PT or PTT, because it acts on platelets rather than soluble clotting factors."
+  },
+  "educationalObjective": "Aspirin increases bleeding time via impaired platelet aggregation but leaves PT and PTT unchanged.",
+  "source": "Generated from 11. Musculoskeletal.pdf - Pharmacology: Aspirin"
+},
+{
+  "id": "msk-341",
+  "subject": "Musculoskeletal",
+  "major_topic": "Pharmacology",
+  "subtopic": "Aspirin",
+  "difficulty": "medium",
+  "vignette": "A 58-year-old man with coronary artery disease is prescribed aspirin 81 mg daily. His physician explains the dose-dependent effects of the drug.",
+  "question": "Which of the following best describes the principal effect of low-dose aspirin (less than 300 mg/day)?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Anti-inflammatory effects via COX-2 inhibition in joints"
+    },
+    {
+      "id": "B",
+      "text": "Antipyretic effects in the CNS"
+    },
+    {
+      "id": "C",
+      "text": "Increased renal prostaglandin synthesis"
+    },
+    {
+      "id": "D",
+      "text": "Decreased platelet aggregation"
+    },
+    {
+      "id": "E",
+      "text": "Selective COX-2 inhibition sparing the gastric mucosa"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Low-dose aspirin (less than 300 mg/day) preferentially decreases platelet aggregation by inhibiting TXA2 production. Intermediate doses (300-2400 mg/day) are antipyretic and analgesic, and high doses (2400-4000 mg/day) are anti-inflammatory. This is why low-dose aspirin is used for cardiovascular protection.",
+  "explanation_incorrect": {
+    "A": "Anti-inflammatory effects require high doses of aspirin (2400-4000 mg/day), not low doses.",
+    "B": "Antipyretic and analgesic effects occur at intermediate doses (300-2400 mg/day).",
+    "C": "Aspirin decreases, not increases, prostaglandin synthesis; it does not boost renal prostaglandins.",
+    "E": "Selective COX-2 inhibition with gastric sparing is the mechanism of celecoxib, not low-dose aspirin, which nonselectively inhibits COX-1 and COX-2."
+  },
+  "educationalObjective": "Low-dose aspirin primarily reduces platelet aggregation; higher doses provide analgesic/antipyretic and anti-inflammatory effects.",
+  "source": "Generated from 11. Musculoskeletal.pdf - Pharmacology: Aspirin"
+},
+{
+  "id": "msk-342",
+  "subject": "Musculoskeletal",
+  "major_topic": "Pharmacology",
+  "subtopic": "Aspirin",
+  "difficulty": "hard",
+  "vignette": "A 67-year-old woman with rheumatoid arthritis has taken aspirin daily for years. She reports a persistent ringing sensation in her ears and notes easy bruising and occasional stomach discomfort.",
+  "question": "The tinnitus in this patient is most directly attributable to aspirin's effect on which of the following?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The vestibulocochlear nerve (CN VIII)"
+    },
+    {
+      "id": "B",
+      "text": "The optic nerve (CN II)"
+    },
+    {
+      "id": "C",
+      "text": "The trigeminal nerve (CN V)"
+    },
+    {
+      "id": "D",
+      "text": "The facial nerve (CN VII)"
+    },
+    {
+      "id": "E",
+      "text": "The glossopharyngeal nerve (CN IX)"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Aspirin toxicity includes tinnitus, which is mediated through effects on the vestibulocochlear nerve (CN VIII) and the cochlea. Salicylism also causes hyperventilation and acid-base disturbances. Chronic use can cause gastric ulceration, GI bleeding, interstitial nephritis, and acute kidney injury.",
+  "explanation_incorrect": {
+    "B": "The optic nerve (CN II) is not associated with aspirin-induced tinnitus; salicylate toxicity does not typically cause visual loss.",
+    "C": "The trigeminal nerve (CN V) mediates facial sensation and mastication, not the ringing in ears described.",
+    "D": "The facial nerve (CN VII) controls facial expression and taste, not auditory symptoms.",
+    "E": "The glossopharyngeal nerve (CN IX) is involved in swallowing and taste, not tinnitus."
+  },
+  "educationalObjective": "Aspirin (salicylate) toxicity causes tinnitus via effects on CN VIII and the cochlea.",
+  "source": "Generated from 11. Musculoskeletal.pdf - Pharmacology: Aspirin"
+},
+{
+  "id": "msk-343",
+  "subject": "Musculoskeletal",
+  "major_topic": "Pharmacology",
+  "subtopic": "Aspirin",
+  "difficulty": "hard",
+  "vignette": "A 35-year-old man is brought to the emergency department after ingesting a large quantity of aspirin. Early on, he is tachypneic with a respiratory alkalosis. Several hours later, an arterial blood gas shows a high anion gap metabolic acidosis alongside persistent respiratory alkalosis.",
+  "question": "Which of the following best describes the acid-base disturbance and its treatment in advanced salicylate poisoning?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Isolated respiratory alkalosis; treat with activated charcoal only"
+    },
+    {
+      "id": "B",
+      "text": "Isolated metabolic acidosis; treat with intravenous NaCl"
+    },
+    {
+      "id": "C",
+      "text": "Mixed metabolic acidosis and respiratory alkalosis; treat with NaHCO3"
+    },
+    {
+      "id": "D",
+      "text": "Respiratory acidosis with metabolic alkalosis; treat with intubation"
+    },
+    {
+      "id": "E",
+      "text": "Mixed respiratory and metabolic alkalosis; treat with NH4Cl"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Salicylate toxicity stimulates the respiratory center, producing an early respiratory alkalosis, and later causes accumulation of organic acids, producing a high anion gap metabolic acidosis. The result is a mixed respiratory alkalosis and metabolic acidosis. Treatment includes sodium bicarbonate (NaHCO3), which alkalinizes the urine and enhances salicylate excretion while correcting acidemia.",
+  "explanation_incorrect": {
+    "A": "While early toxicity may show isolated respiratory alkalosis, advanced poisoning produces a mixed picture, and treatment is not limited to activated charcoal.",
+    "B": "The disturbance is not isolated metabolic acidosis; a respiratory alkalosis persists, and treatment is sodium bicarbonate rather than normal saline.",
+    "D": "Salicylate poisoning does not produce primary respiratory acidosis with metabolic alkalosis; that pattern is not consistent with salicylate stimulation of respiration.",
+    "E": "The pattern is not mixed alkalosis, and NH4Cl would acidify the urine and worsen salicylate clearance, the opposite of appropriate therapy."
+  },
+  "educationalObjective": "Advanced aspirin toxicity causes mixed high anion gap metabolic acidosis and respiratory alkalosis; treatment is sodium bicarbonate.",
+  "source": "Generated from 11. Musculoskeletal.pdf - Pharmacology: Aspirin"
+}
+]

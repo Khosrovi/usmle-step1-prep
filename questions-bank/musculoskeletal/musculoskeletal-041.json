@@ -1,0 +1,248 @@
+[
+{
+  "id": "msk-130",
+  "subject": "Musculoskeletal",
+  "major_topic": "Pathology",
+  "subtopic": "Osteoporosis",
+  "difficulty": "medium",
+  "vignette": "A 68-year-old postmenopausal woman with no history of fracture undergoes routine bone mineral densitometry. DEXA of the femoral neck is performed as part of age-appropriate screening. She has no back pain, and her serum calcium, phosphate, and alkaline phosphatase are all normal.",
+  "question": "Which of the following femoral neck T-score values meets the densitometric criterion for osteoporosis in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "T-score of -1.4"
+    },
+    {
+      "id": "B",
+      "text": "T-score of -2.0"
+    },
+    {
+      "id": "C",
+      "text": "T-score of -2.7"
+    },
+    {
+      "id": "D",
+      "text": "T-score of -0.8"
+    },
+    {
+      "id": "E",
+      "text": "T-score of +1.5"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Osteoporosis is diagnosed by DEXA when the T-score is ≤ -2.5 at the lumbar spine, total hip, or femoral neck, or when a fragility fracture is present. A T-score of -2.7 is below the -2.5 threshold and therefore diagnostic. One-time screening is recommended in women age 65 and older, matching this patient's scenario. A fragility fracture (eg, from a fall from standing height) at the hip or vertebra would also establish the diagnosis regardless of T-score.",
+  "explanation_incorrect": {
+    "A": "A T-score of -1.4 falls between -1.0 and -2.5, which is classified as osteopenia (low bone mass), not osteoporosis.",
+    "B": "A T-score of -2.0 is still within the osteopenic range; the diagnostic cutoff for osteoporosis is -2.5 or lower.",
+    "D": "A T-score of -0.8 is within the normal range (above -1.0) and does not indicate even osteopenia.",
+    "E": "A T-score of +1.5 is above the young-normal mean and is normal or high, not osteoporotic."
+  },
+  "educationalObjective": "Recognize that a DEXA T-score ≤ -2.5 (or a fragility fracture) is required for the diagnosis of osteoporosis.",
+  "source": "Generated from 11. Musculoskeletal.pdf - Pathology: Osteoporosis"
+},
+{
+  "id": "msk-131",
+  "subject": "Musculoskeletal",
+  "major_topic": "Pathology",
+  "subtopic": "Osteoporosis",
+  "difficulty": "easy",
+  "vignette": "A 62-year-old woman sustains a vertebral compression fracture after lifting a light suitcase. Laboratory studies show normal serum calcium, phosphate, alkaline phosphatase, and parathyroid hormone. Bone biopsy reveals normal mineralization of the matrix but reduced trabecular and cortical bone mass with increased osteoclast number and activity.",
+  "question": "Which of the following best explains the pathogenesis of this patient's bone loss?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Increased osteoclast-mediated bone resorption with normal mineralization of bone"
+    },
+    {
+      "id": "B",
+      "text": "Defective mineralization of osteoid secondary to vitamin D deficiency"
+    },
+    {
+      "id": "C",
+      "text": "Failure of bone resorption due to a defective osteoclast proton pump"
+    },
+    {
+      "id": "D",
+      "text": "Excessive osteoblastic formation of poor-quality mosaic bone"
+    },
+    {
+      "id": "E",
+      "text": "Increased parathyroid hormone secretion causing subperiosteal bone resorption"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Osteoporosis is characterized by loss of both trabecular and cortical bone mass despite normal mineralization and normal serum calcium and phosphate. The most common mechanism is increased bone resorption from increased osteoclast number and activity, driven by declining estrogen levels, old age, and cigarette smoking. Because mineralization is normal, alkaline phosphatase and calcium are typically normal, as in this patient. The result is structurally weakened bone that fractures with minimal trauma.",
+  "explanation_incorrect": {
+    "B": "Defective mineralization of osteoid is osteomalacia, which would show elevated alkaline phosphatase and low calcium/phosphate rather than normal labs.",
+    "C": "Failure of resorption from defective osteoclasts causes osteopetrosis with dense, sclerotic bones, the opposite of osteoporotic bone loss.",
+    "D": "Excessive osteoblastic activity producing disorganized mosaic bone is the hallmark of Paget disease, not osteoporosis.",
+    "E": "Elevated parathyroid hormone with subperiosteal resorption indicates hyperparathyroidism; this patient's PTH is normal."
+  },
+  "educationalObjective": "Recall that osteoporosis reflects increased osteoclast resorption with normal bone mineralization and normal serum calcium and phosphate.",
+  "source": "Generated from 11. Musculoskeletal.pdf - Pathology: Osteoporosis"
+},
+{
+  "id": "msk-132",
+  "subject": "Musculoskeletal",
+  "major_topic": "Pathology",
+  "subtopic": "Osteoporosis",
+  "difficulty": "hard",
+  "vignette": "A 70-year-old woman with postmenopausal osteoporosis is started on a fully human monoclonal antibody administered subcutaneously every 6 months. The drug binds RANKL with high affinity and prevents RANKL from interacting with its receptor on osteoclast precursors, thereby inhibiting osteoclast formation, function, and survival.",
+  "question": "Which of the following pairs correctly identifies this medication and its mechanism of action?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Teriparatide — recombinant parathyroid hormone analog that stimulates osteoblast activity"
+    },
+    {
+      "id": "B",
+      "text": "Romosozumab — sclerostin inhibitor that increases bone formation"
+    },
+    {
+      "id": "C",
+      "text": "Raloxifene — selective estrogen receptor modulator"
+    },
+    {
+      "id": "D",
+      "text": "Alendronate — bisphosphonate that induces osteoclast apoptosis"
+    },
+    {
+      "id": "E",
+      "text": "Denosumab — monoclonal antibody against RANKL"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Denosumab is a fully human monoclonal antibody that binds RANKL, mimicking the action of osteoprotegerin and blocking RANKL-mediated osteoclast differentiation and activation. This reduces bone resorption and is an established treatment for postmenopausal osteoporosis. It is given subcutaneously every 6 months. The RANKL/RANK pathway is essential for osteoclast formation, so interrupting it potently suppresses resorption.",
+  "explanation_incorrect": {
+    "A": "Teriparatide is an anabolic agent: a recombinant PTH analog given daily by injection that stimulates osteoblasts, not a RANKL-binding antibody.",
+    "B": "Romosozumab is a sclerostin inhibitor that increases bone formation; it does not target RANKL directly.",
+    "C": "Raloxifene is a SERM that acts on estrogen receptors, not an antibody against RANKL.",
+    "D": "Alendronate is an oral bisphosphonate that inhibits osteoclast-mediated resorption; it is not a monoclonal antibody."
+  },
+  "educationalObjective": "Match denosumab to its mechanism as a monoclonal antibody against RANKL used in osteoporosis treatment.",
+  "source": "Generated from 11. Musculoskeletal.pdf - Pathology: Osteoporosis"
+},
+{
+  "id": "msk-133",
+  "subject": "Musculoskeletal",
+  "major_topic": "Pathology",
+  "subtopic": "Osteoporosis",
+  "difficulty": "medium",
+  "vignette": "A 54-year-old woman is being evaluated for low bone mass discovered on DEXA. She exercises regularly, maintains a normal body mass index, gets adequate sunlight, and takes adequate calcium and vitamin D. Review of her medication list and habits is undertaken to identify modifiable contributors to bone loss.",
+  "question": "Which of the following factors in this patient's history is a well-recognized secondary cause of osteoporosis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Regular weight-bearing exercise"
+    },
+    {
+      "id": "B",
+      "text": "Long-term glucocorticoid therapy"
+    },
+    {
+      "id": "C",
+      "text": "Maintenance of a normal body mass index"
+    },
+    {
+      "id": "D",
+      "text": "Adequate dietary calcium intake"
+    },
+    {
+      "id": "E",
+      "text": "Regular sun exposure"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Osteoporosis can be primary (related to estrogen loss, old age, smoking) or secondary to drugs and conditions. Glucocorticoids are a classic cause of secondary osteoporosis because they decrease bone formation and increase resorption. Other listed secondary causes in the source include alcohol, anticonvulsants, anticoagulants, thyroid replacement, hyperparathyroidism, hyperthyroidism, multiple myeloma, malabsorption, anorexia, low BMI, and microgravity. Weight-bearing exercise, normal BMI, calcium, and sunlight are protective rather than causative.",
+  "explanation_incorrect": {
+    "A": "Weight-bearing exercise is a preventive measure that helps maintain bone mass; it does not cause osteoporosis.",
+    "C": "A normal body mass index is protective; low BMI is the associated risk factor for osteoporosis.",
+    "D": "Adequate calcium intake is part of prophylaxis against osteoporosis and is not a cause of bone loss.",
+    "E": "Sun exposure promotes vitamin D synthesis and is protective, not a risk factor for osteoporosis."
+  },
+  "educationalObjective": "Identify glucocorticoids as a classic secondary cause of osteoporosis and distinguish risk factors from protective factors.",
+  "source": "Generated from 11. Musculoskeletal.pdf - Pathology: Osteoporosis"
+},
+{
+  "id": "msk-134",
+  "subject": "Musculoskeletal",
+  "major_topic": "Pathology",
+  "subtopic": "Osteoporosis",
+  "difficulty": "hard",
+  "vignette": "A 75-year-old woman with known osteoporosis develops sudden mid-back pain after lifting a light grocery bag. On examination she has lost 4 cm of height and has an exaggerated thoracic kyphosis. She reports no fall or major trauma, and neurologic examination is intact.",
+  "question": "Which of the following best characterizes the most likely skeletal event responsible for this presentation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A Colles fracture of the distal radius from a fall on an outstretched hand"
+    },
+    {
+      "id": "B",
+      "text": "A femoral neck fracture sustained in a fall from standing height"
+    },
+    {
+      "id": "C",
+      "text": "Pathologic bowing of the tibia producing genu varum"
+    },
+    {
+      "id": "D",
+      "text": "A vertebral compression (wedge) fracture"
+    },
+    {
+      "id": "E",
+      "text": "A chalk-stick fracture of a long bone"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Vertebral compression fractures are a classic complication of osteoporosis and can occur with minimal stress such as lifting a light object. They produce acute back pain, loss of height, and kyphosis as the vertebral bodies collapse into a wedge shape. This matches the patient's presentation exactly. Osteoporosis can also cause femoral neck and distal radius (Colles) fractures, but those would not produce the back pain and kyphosis described here.",
+  "explanation_incorrect": {
+    "A": "A Colles fracture causes wrist pain and deformity after a fall on an outstretched hand, not back pain and height loss.",
+    "B": "A femoral neck fracture would cause hip pain and inability to bear weight after a fall; it does not explain kyphosis.",
+    "C": "Genu varum (bow legs) is a feature of rickets, not an acute fragility fracture in an elderly woman.",
+    "E": "Chalk-stick fractures are associated with Paget disease, in which abnormal bone breaks transversely like a piece of chalk."
+  },
+  "educationalObjective": "Recognize vertebral compression fracture as the cause of acute back pain, height loss, and kyphosis in osteoporosis.",
+  "source": "Generated from 11. Musculoskeletal.pdf - Pathology: Osteoporosis"
+},
+{
+  "id": "msk-135",
+  "subject": "Musculoskeletal",
+  "major_topic": "Pathology",
+  "subtopic": "Osteoporosis",
+  "difficulty": "easy",
+  "vignette": "A 45-year-old perimenopausal woman with a family history of osteoporosis wishes to reduce her risk of developing the disease. She has no fractures and normal bone density. She asks which lifestyle and nutritional measures are recommended for prophylaxis.",
+  "question": "Which of the following is the recommended approach to osteoporosis prophylaxis in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Prolonged bed rest to avoid skeletal stress"
+    },
+    {
+      "id": "B",
+      "text": "Regular weight-bearing exercise with adequate calcium and vitamin D intake"
+    },
+    {
+      "id": "C",
+      "text": "High-dose glucocorticoid therapy"
+    },
+    {
+      "id": "D",
+      "text": "Severe dietary calcium restriction"
+    },
+    {
+      "id": "E",
+      "text": "Immobilization of the spine in a brace"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Prophylaxis against osteoporosis consists of regular weight-bearing exercise and adequate calcium and vitamin D intake throughout adulthood. Weight-bearing activity provides mechanical stimulus that maintains bone mass, while calcium and vitamin D support normal mineralization. This is especially important in perimenopausal women as estrogen levels begin to decline. Immobilization and glucocorticoids would accelerate bone loss rather than prevent it.",
+  "explanation_incorrect": {
+    "A": "Bed rest and lack of mechanical loading promote bone loss and would increase, not reduce, osteoporosis risk.",
+    "C": "Glucocorticoid therapy is a secondary cause of osteoporosis and would be harmful here.",
+    "D": "Calcium restriction would impair mineralization and is the opposite of the recommended adequate intake.",
+    "E": "Spinal immobilization leads to disuse bone loss and is not a preventive strategy."
+  },
+  "educationalObjective": "Recall that weight-bearing exercise plus adequate calcium and vitamin D is the mainstay of osteoporosis prevention.",
+  "source": "Generated from 11. Musculoskeletal.pdf - Pathology: Osteoporosis"
+}
+]

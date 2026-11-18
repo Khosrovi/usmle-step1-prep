@@ -1,0 +1,289 @@
+[
+{
+  "id": "msk-064",
+  "subject": "Musculoskeletal",
+  "major_topic": "Anatomy and Physiology",
+  "subtopic": "Neuromuscular junction to muscle contraction",
+  "difficulty": "easy",
+  "vignette": "A medical student reviews the sequence of events at the neuromuscular junction. An action potential arrives at the presynaptic terminal of an alpha motor neuron and must be converted into a chemical signal that will depolarize the muscle fiber.",
+  "question": "Which event directly triggers acetylcholine release from the presynaptic motor neuron terminal?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Opening of presynaptic voltage-gated Ca²⁺ channels and Ca²⁺ influx"
+    },
+    {
+      "id": "B",
+      "text": "Binding of ACh to postsynaptic nicotinic receptors"
+    },
+    {
+      "id": "C",
+      "text": "Opening of presynaptic voltage-gated K⁺ channels"
+    },
+    {
+      "id": "D",
+      "text": "Activation of the ryanodine receptor on the sarcoplasmic reticulum"
+    },
+    {
+      "id": "E",
+      "text": "Binding of Ca²⁺ to troponin C on the thin filament"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "When an action potential reaches the presynaptic motor nerve terminal, it depolarizes the membrane and opens voltage-gated Ca²⁺ channels. Ca²⁺ influx into the terminal triggers fusion of ACh-containing vesicles with the presynaptic membrane and release of ACh into the synaptic cleft. This is the essential first step that couples the nerve action potential to muscle depolarization. Blocking these channels prevents transmitter release and causes paralysis.",
+  "explanation_incorrect": {
+    "B": "ACh binding to postsynaptic nicotinic receptors occurs after release and is the next step, not the trigger for ACh release.",
+    "C": "Opening presynaptic K⁺ channels would repolarize the terminal and would oppose, not trigger, Ca²⁺-dependent exocytosis.",
+    "D": "The ryanodine receptor is on the sarcoplasmic reticulum of the muscle fiber and is activated later by T-tubule depolarization, not at the nerve terminal.",
+    "E": "Ca²⁺ binding to troponin C is an intracellular event in the muscle fiber that occurs well after ACh has been released."
+  },
+  "educationalObjective": "Presynaptic voltage-gated Ca²⁺ channel opening and Ca²⁺ influx trigger acetylcholine release at the neuromuscular junction.",
+  "source": "Generated from 11. Musculoskeletal.pdf - Anatomy and Physiology: Neuromuscular junction to muscle contraction"
+},
+{
+  "id": "msk-065",
+  "subject": "Musculoskeletal",
+  "major_topic": "Anatomy and Physiology",
+  "subtopic": "Neuromuscular junction to muscle contraction",
+  "difficulty": "easy",
+  "vignette": "A researcher applies acetylcholine to a isolated skeletal muscle preparation and records the electrical response at the motor end plate. She wants to identify the immediate consequence of ACh binding to its receptor.",
+  "question": "Which of the following best describes the immediate consequence of ACh binding at the motor end plate?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Resequestration of Ca²⁺ into the sarcoplasmic reticulum by SERCA"
+    },
+    {
+      "id": "B",
+      "text": "Mechanical coupling of the DHPR to the ryanodine receptor"
+    },
+    {
+      "id": "C",
+      "text": "Depolarization of the muscle cell membrane at the motor end plate"
+    },
+    {
+      "id": "D",
+      "text": "Phosphorylation of myosin light chains"
+    },
+    {
+      "id": "E",
+      "text": "Hydrolysis of ATP to ADP and inorganic phosphate by the myosin head"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Acetylcholine binds to nicotinic ACh receptors concentrated at the motor end plate. These ligand-gated cation channels open, allowing primarily Na⁺ influx, which depolarizes the muscle cell membrane and produces the end plate potential. Once threshold is reached, an action potential is generated that spreads over the entire muscle fiber and deep into the T-tubules. This postsynaptic depolarization is the direct result of ACh receptor activation.",
+  "explanation_incorrect": {
+    "A": "SERCA-mediated Ca²⁺ resequestration occurs during relaxation, long after ACh has acted at the end plate.",
+    "B": "DHPR–ryanodine receptor coupling occurs in the T-tubules after the muscle action potential has propagated, not at the motor end plate.",
+    "D": "Myosin light-chain phosphorylation is a feature of vascular smooth muscle contraction, not the immediate effect of ACh at the skeletal neuromuscular junction.",
+    "E": "ATP hydrolysis by the myosin head occurs during the crossbridge cycle within the muscle fiber, not at the end plate."
+  },
+  "educationalObjective": "ACh binding to nicotinic receptors at the motor end plate opens ligand-gated channels and depolarizes the muscle membrane.",
+  "source": "Generated from 11. Musculoskeletal.pdf - Anatomy and Physiology: Neuromuscular junction to muscle contraction"
+},
+{
+  "id": "msk-066",
+  "subject": "Musculoskeletal",
+  "major_topic": "Anatomy and Physiology",
+  "subtopic": "Neuromuscular junction to muscle contraction",
+  "difficulty": "medium",
+  "vignette": "A physiology lecture traces excitation–contraction coupling in skeletal muscle. The action potential travels along the sarcolemma and enters the T-tubules, which are extensions of the plasma membrane that contact the sarcoplasmic reticulum. The professor asks how this depolarization is converted into Ca²⁺ release from the sarcoplasmic reticulum.",
+  "question": "Depolarization of the T-tubule leads to sarcoplasmic reticulum Ca²⁺ release through which of the following mechanisms?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Direct diffusion of extracellular Ca²⁺ through the T-tubule membrane into the cytoplasm"
+    },
+    {
+      "id": "B",
+      "text": "A conformational change in the DHPR that is mechanically coupled to the ryanodine receptor"
+    },
+    {
+      "id": "C",
+      "text": "Activation of SERCA pumps that release stored Ca²⁺ into the cytoplasm"
+    },
+    {
+      "id": "D",
+      "text": "Binding of ACh directly to troponin C"
+    },
+    {
+      "id": "E",
+      "text": "Opening of voltage-gated Na⁺ channels in the sarcoplasmic reticulum membrane"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "In skeletal muscle, T-tubule depolarization induces a conformational change in the voltage-sensitive dihydropyridine receptor (DHPR). The DHPR is mechanically coupled to the ryanodine receptor (RR), a Ca²⁺ release channel in the sarcoplasmic reticulum membrane. The conformational change opens the ryanodine receptor, allowing Ca²⁺ stored in the sarcoplasmic reticulum to flood into the cytoplasm. This mechanical coupling is the hallmark of skeletal muscle excitation–contraction coupling.",
+  "explanation_incorrect": {
+    "A": "Skeletal muscle contraction does not depend on influx of extracellular Ca²⁺ through the T-tubule membrane; the Ca²⁺ comes from the sarcoplasmic reticulum.",
+    "C": "SERCA pumps actively resequester Ca²⁺ into the sarcoplasmic reticulum to cause relaxation; they do not release Ca²⁺ into the cytoplasm.",
+    "D": "ACh acts at nicotinic receptors at the motor end plate, not at troponin C inside the muscle fiber.",
+    "E": "The sarcoplasmic reticulum does not have voltage-gated Na⁺ channels that mediate Ca²⁺ release; voltage sensing occurs at the DHPR in the T-tubule."
+  },
+  "educationalObjective": "T-tubule depolarization opens the ryanodine receptor through mechanically coupled DHPR conformational changes, releasing sarcoplasmic reticulum Ca²⁺.",
+  "source": "Generated from 11. Musculoskeletal.pdf - Anatomy and Physiology: Neuromuscular junction to muscle contraction"
+},
+{
+  "id": "msk-067",
+  "subject": "Musculoskeletal",
+  "major_topic": "Anatomy and Physiology",
+  "subtopic": "Neuromuscular junction to muscle contraction",
+  "difficulty": "medium",
+  "vignette": "A student examines the composition of the sarcoplasmic reticulum in a fast-twitch skeletal muscle fiber. She notes that the sarcoplasmic reticulum can store a large quantity of Ca²⁺ at a concentration far higher than that of free cytoplasmic Ca²⁺, without precipitating calcium phosphate.",
+  "question": "Which of the following proteins buffers Ca²⁺ within the sarcoplasmic reticulum to permit this high-capacity storage?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Troponin C"
+    },
+    {
+      "id": "B",
+      "text": "Tropomyosin"
+    },
+    {
+      "id": "C",
+      "text": "Dihydropyridine receptor"
+    },
+    {
+      "id": "D",
+      "text": "Calsequestrin"
+    },
+    {
+      "id": "E",
+      "text": "Myosin light-chain kinase"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Calsequestrin is a low-affinity, high-capacity Ca²⁺-binding protein located within the lumen of the sarcoplasmic reticulum. By binding Ca²⁺, it allows the sarcoplasmic reticulum to store large amounts of Ca²⁺ while keeping free intraluminal Ca²⁺ relatively low, preventing precipitation and maintaining a gradient for rapid release. When the ryanodine receptor opens during excitation–contraction coupling, Ca²⁺ is quickly liberated into the cytoplasm.",
+  "explanation_incorrect": {
+    "A": "Troponin C binds Ca²⁺ on the thin filament in the cytoplasm to trigger contraction; it is not a sarcoplasmic reticulum storage protein.",
+    "B": "Tropomyosin is a regulatory protein that blocks myosin-binding sites on actin; it does not bind or store Ca²⁺.",
+    "C": "The dihydropyridine receptor is the voltage sensor in the T-tubule membrane, not a Ca²⁺-buffering protein in the sarcoplasmic reticulum.",
+    "E": "Myosin light-chain kinase is a smooth muscle enzyme activated by Ca²⁺–calmodulin; it is not present in the sarcoplasmic reticulum of skeletal muscle."
+  },
+  "educationalObjective": "Calsequestrin buffers Ca²⁺ inside the sarcoplasmic reticulum, enabling high-capacity storage for rapid release during contraction.",
+  "source": "Generated from 11. Musculoskeletal.pdf - Anatomy and Physiology: Neuromuscular junction to muscle contraction"
+},
+{
+  "id": "msk-068",
+  "subject": "Musculoskeletal",
+  "major_topic": "Anatomy and Physiology",
+  "subtopic": "Neuromuscular junction to muscle contraction",
+  "difficulty": "medium",
+  "vignette": "A research fellow studies the regulatory proteins of the thin filament. In a relaxed muscle fiber, myosin-binding sites on actin are covered. She introduces Ca²⁺ into the cytoplasm and observes that the binding sites become exposed, allowing crossbridge formation.",
+  "question": "Which of the following best describes the role of troponin C in this process?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It phosphorylates myosin light chains to initiate contraction"
+    },
+    {
+      "id": "B",
+      "text": "It pumps Ca²⁺ back into the sarcoplasmic reticulum"
+    },
+    {
+      "id": "C",
+      "text": "It directly forms crossbridges by binding to actin"
+    },
+    {
+      "id": "D",
+      "text": "It serves as the voltage sensor in the T-tubule membrane"
+    },
+    {
+      "id": "E",
+      "text": "It binds Ca²⁺, causing tropomyosin to shift and expose myosin-binding sites on actin"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "At rest, tropomyosin covers the myosin-binding sites on actin, preventing crossbridge formation. Released Ca²⁺ binds to troponin C, a component of the troponin complex on the thin filament. This binding induces a conformational change that moves tropomyosin away from the binding sites, exposing them so that myosin heads can attach to actin and initiate the crossbridge cycle. Thus troponin C is the Ca²⁺ sensor that permits contraction.",
+  "explanation_incorrect": {
+    "A": "Phosphorylation of myosin light chains by myosin light-chain kinase is the regulatory mechanism in smooth muscle, not the role of troponin C in skeletal muscle.",
+    "B": "Ca²⁺ reuptake into the sarcoplasmic reticulum is carried out by SERCA, not by troponin C.",
+    "C": "Crossbridges are formed by myosin heads binding to actin, not by troponin C; troponin C is a regulatory, not a contractile, protein.",
+    "D": "The voltage sensor of the T-tubule is the dihydropyridine receptor, not troponin C."
+  },
+  "educationalObjective": "Ca²⁺ binding to troponin C shifts tropomyosin off actin's myosin-binding sites, permitting crossbridge formation.",
+  "source": "Generated from 11. Musculoskeletal.pdf - Anatomy and Physiology: Neuromuscular junction to muscle contraction"
+},
+{
+  "id": "msk-069",
+  "subject": "Musculoskeletal",
+  "major_topic": "Anatomy and Physiology",
+  "subtopic": "Neuromuscular junction to muscle contraction",
+  "difficulty": "hard",
+  "vignette": "A graduate student is studying the crossbridge cycle in a skeletal muscle fiber. A myosin head has just bound strongly to actin, forming a crossbridge. She wishes to determine the precise order of the subsequent molecular events that generate force and allow the myosin head to detach.",
+  "question": "Which sequence correctly describes the crossbridge cycle after a myosin head has formed a strong bond to actin?",
+  "options": [
+    {
+      "id": "A",
+      "text": "ADP is released first, then ATP binding causes the power stroke, and Pi release detaches myosin"
+    },
+    {
+      "id": "B",
+      "text": "Release of Pi initiates the power stroke, ADP is released at its end, and binding of a new ATP detaches myosin from actin"
+    },
+    {
+      "id": "C",
+      "text": "ATP is hydrolyzed to cause the power stroke, and Pi release detaches myosin from actin"
+    },
+    {
+      "id": "D",
+      "text": "Binding of troponin C to actin detaches myosin, and SERCA causes the power stroke"
+    },
+    {
+      "id": "E",
+      "text": "Myosin detaches from actin only when Ca²⁺ is resequestered, without requiring ATP"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "After the myosin head binds actin to form a crossbridge, release of inorganic phosphate (Pi) triggers the power stroke, during which the myosin head pivots and pulls the thin filament toward the M line. ADP is released at the end of the power stroke, leaving myosin tightly bound to actin in the rigour state. Binding of a fresh ATP molecule then causes myosin to detach from actin. Subsequent ATP hydrolysis re-cocks the myosin head into its high-energy position for another cycle if Ca²⁺ remains available.",
+  "explanation_incorrect": {
+    "A": "The order is reversed: Pi release initiates the power stroke, ADP is released at the end of the stroke, and ATP binding—not Pi release—causes detachment.",
+    "C": "ATP hydrolysis re-cocks the myosin head after detachment; it does not drive the power stroke, and Pi release does not detach myosin.",
+    "D": "Troponin C binds Ca²⁺ rather than actin, and SERCA pumps Ca²⁺ back into the sarcoplasmic reticulum rather than generating the power stroke.",
+    "E": "Myosin detachment strictly requires ATP binding; Ca²⁺ resequestration leads to relaxation but does not by itself detach the myosin head."
+  },
+  "educationalObjective": "In the crossbridge cycle, Pi release drives the power stroke, ADP is released at its end, and ATP binding detaches myosin from actin.",
+  "source": "Generated from 11. Musculoskeletal.pdf - Anatomy and Physiology: Neuromuscular junction to muscle contraction"
+},
+{
+  "id": "msk-070",
+  "subject": "Musculoskeletal",
+  "major_topic": "Anatomy and Physiology",
+  "subtopic": "Neuromuscular junction to muscle contraction",
+  "difficulty": "hard",
+  "vignette": "A histology researcher measures sarcomere dimensions before and after maximal isometric-to-isotonic contraction of a skeletal muscle fiber. She observes that some bands shorten while the distance between the Z lines decreases, but one band retains exactly the same length throughout.",
+  "question": "Which of the following correctly describes the changes in sarcomere banding during muscle contraction?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The A band shortens while the I band remains constant"
+    },
+    {
+      "id": "B",
+      "text": "The H band lengthens while the A band shortens"
+    },
+    {
+      "id": "C",
+      "text": "The H and I bands shorten, the distance between Z lines decreases, and the A band length remains unchanged"
+    },
+    {
+      "id": "D",
+      "text": "All bands shorten proportionally, including the A band"
+    },
+    {
+      "id": "E",
+      "text": "The Z lines move farther apart while the A band remains the same length"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "During contraction, the thin filaments slide toward the M line over the thick filaments. The H zone (the central region containing only thick filaments) and the I band (thin filament-only regions) shorten, and the Z lines move closer together as the sarcomere shortens. The A band corresponds to the full length of the thick (myosin) filaments, which does not change during contraction; it is Always the same length. A useful mnemonic is 'HI, I'm wearing shortZ.'",
+  "explanation_incorrect": {
+    "A": "The A band does not shorten; it is the I band that shortens while the A band stays constant.",
+    "B": "The H zone shortens, not lengthens, during contraction, and the A band does not shorten.",
+    "D": "The A band remains constant because the thick filaments do not change length; only the H and I bands and the Z-line distance change.",
+    "E": "The Z lines move closer together, not farther apart, during contraction."
+  },
+  "educationalObjective": "During contraction, H and I bands shorten and Z lines approximate, while the A band length stays constant because thick filaments do not shorten.",
+  "source": "Generated from 11. Musculoskeletal.pdf - Anatomy and Physiology: Neuromuscular junction to muscle contraction"
+}
+]

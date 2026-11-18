@@ -1,0 +1,207 @@
+[
+{
+  "id": "msk-089",
+  "subject": "Musculoskeletal",
+  "major_topic": "Pathology",
+  "subtopic": "Bone cell biology and RANK/RANKL/OPG",
+  "difficulty": "easy",
+  "vignette": "A researcher studying bone formation labels cells in the periosteum of a young rabbit. The labeled cells secrete type I collagen and release an enzyme that creates an alkaline local environment, allowing hydroxyapatite deposition. She notes these cells arise from mesenchymal stem cells.",
+  "question": "Which cell type and enzyme pair best describes this mineralization process?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Osteoblast; alkaline phosphatase"
+    },
+    {
+      "id": "B",
+      "text": "Osteoclast; tartrate-resistant acid phosphatase"
+    },
+    {
+      "id": "C",
+      "text": "Osteocyte; alkaline phosphatase"
+    },
+    {
+      "id": "D",
+      "text": "Chondrocyte; collagenase"
+    },
+    {
+      "id": "E",
+      "text": "Osteoblast; carbonic anhydrase II"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Osteoblasts build bone by secreting collagen and catalyzing mineralization in an alkaline environment via alkaline phosphatase (ALP). They differentiate from mesenchymal stem cells in the periosteum. Osteoblastic activity is measured clinically by bone ALP, osteocalcin, and propeptides of type I procollagen.",
+  "explanation_incorrect": {
+    "B": "Osteoclasts resorb rather than build bone and secrete H+ and collagenases; tartrate-resistant acid phosphatase is a resorption marker, not a mineralizing enzyme.",
+    "C": "Osteocytes are mature embedded osteoblasts that maintain bone, not the primary secretory cells responsible for active mineralization of new osteoid.",
+    "D": "Chondrocytes produce cartilage matrix and collagenase is a resorptive enzyme; neither drives alkaline mineralization of bone.",
+    "E": "Carbonic anhydrase II generates H+ for osteoclast-mediated resorption, not the alkaline environment required for osteoblast mineralization."
+  },
+  "educationalObjective": "Osteoblasts derive from periosteal mesenchymal stem cells and mineralize type I collagen via alkaline phosphatase in an alkaline environment.",
+  "source": "Generated from 11. Musculoskeletal.pdf - Pathology: Bone cell biology and RANK/RANKL/OPG"
+},
+{
+  "id": "msk-090",
+  "subject": "Musculoskeletal",
+  "major_topic": "Pathology",
+  "subtopic": "Bone cell biology and RANK/RANKL/OPG",
+  "difficulty": "medium",
+  "vignette": "A 52-year-old woman with early osteoporosis has a rare mutation that eliminates production of osteoprotegerin (OPG). Her clinician explains how this decoy receptor normally restrains bone breakdown. No other hormonal abnormality is present.",
+  "question": "Which of the following best describes the expected effect of this mutation on bone?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Decreased osteoclast activity because OPG is required to activate RANK"
+    },
+    {
+      "id": "B",
+      "text": "Increased osteoclast activity from unopposed RANKL binding RANK"
+    },
+    {
+      "id": "C",
+      "text": "Decreased osteoblast activity due to loss of a stimulating decoy receptor"
+    },
+    {
+      "id": "D",
+      "text": "Impaired mineralization from reduced alkaline phosphatase activity"
+    },
+    {
+      "id": "E",
+      "text": "Increased osteoblast apoptosis with normal osteoclast function"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "OPG is a RANKL decoy receptor that binds RANKL and prevents the RANK-RANKL interaction on osteoclasts. Without OPG, RANKL expressed on osteoblasts binds RANK on osteoclast precursors unopposed, increasing osteoclast differentiation, activity, and bone resorption. This is the pathway blocked by the osteoporosis drug denosumab, a monoclonal antibody against RANKL.",
+  "explanation_incorrect": {
+    "A": "OPG is an inhibitor, not an activator, of RANK signaling; losing it increases rather than decreases osteoclast activity.",
+    "C": "OPG does not stimulate osteoblasts; its loss acts on osteoclasts through the RANK-RANKL axis and does not directly suppress osteoblast activity.",
+    "D": "Alkaline phosphatase is an osteoblast mineralizing enzyme and is unaffected by OPG deficiency, which acts on resorption rather than mineralization.",
+    "E": "OPG deficiency affects osteoclast via RANK, not osteoblast apoptosis; estrogen is the hormone that regulates osteoblast and osteoclast survival."
+  },
+  "educationalObjective": "OPG is a decoy receptor that inhibits RANK-RANKL signaling; its loss causes unopposed osteoclast activation and bone resorption.",
+  "source": "Generated from 11. Musculoskeletal.pdf - Pathology: Bone cell biology and RANK/RANKL/OPG"
+},
+{
+  "id": "msk-091",
+  "subject": "Musculoskeletal",
+  "major_topic": "Pathology",
+  "subtopic": "Bone cell biology and RANK/RANKL/OPG",
+  "difficulty": "medium",
+  "vignette": "A 48-year-old perimenopausal woman undergoes evaluation for accelerated bone loss. Her physician wants to measure a serum marker that reflects the activity of the cells responsible for new bone collagen synthesis rather than bone breakdown.",
+  "question": "Which of the following is a valid marker of osteoblastic activity?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Tartrate-resistant acid phosphatase"
+    },
+    {
+      "id": "B",
+      "text": "C-terminal telopeptide of type I collagen"
+    },
+    {
+      "id": "C",
+      "text": "Osteocalcin"
+    },
+    {
+      "id": "D",
+      "text": "Parathyroid hormone"
+    },
+    {
+      "id": "E",
+      "text": "1,25-dihydroxyvitamin D"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Osteoblastic activity is assessed by measuring bone alkaline phosphatase, osteocalcin, and the propeptides of type I procollagen released during collagen synthesis. Osteocalcin is a vitamin K-dependent protein secreted by osteoblasts and is a standard bone formation marker. These markers rise when bone formation is active.",
+  "explanation_incorrect": {
+    "A": "Tartrate-resistant acid phosphatase reflects osteoclast number and activity, making it a bone resorption marker rather than a formation marker.",
+    "B": "C-terminal telopeptide of type I collagen is a degradation product released during bone resorption and therefore reflects osteoclast activity.",
+    "D": "Parathyroid hormone is a systemic calcitropic hormone that regulates bone indirectly; it is not a marker of osteoblast synthetic activity.",
+    "E": "1,25-dihydroxyvitamin D is a hormone that influences calcium absorption and osteoblast differentiation but is not itself a bone formation marker."
+  },
+  "educationalObjective": "Osteocalcin, bone alkaline phosphatase, and type I procollagen propeptides are serum markers of osteoblast bone formation.",
+  "source": "Generated from 11. Musculoskeletal.pdf - Pathology: Bone cell biology and RANK/RANKL/OPG"
+},
+{
+  "id": "msk-092",
+  "subject": "Musculoskeletal",
+  "major_topic": "Pathology",
+  "subtopic": "Bone cell biology and RANK/RANKL/OPG",
+  "difficulty": "medium",
+  "vignette": "A 56-year-old man has fatigue and bone pain. Laboratory studies show calcium 11.4 mg/dL, phosphate 2.0 mg/dL, and parathyroid hormone 410 pg/mL. Radiographs show subperiosteal bone resorption and lytic lesions with fibrous replacement. He is diagnosed with primary hyperparathyroidism.",
+  "question": "Which of the following best explains the bone findings in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Intermittent low-level PTH exposure inducing osteoblast apoptosis"
+    },
+    {
+      "id": "B",
+      "text": "PTH directly dissolving mineral via collagenase secretion by osteocytes"
+    },
+    {
+      "id": "C",
+      "text": "Reduced renal 1-alpha-hydroxylase activity causing defective mineralization"
+    },
+    {
+      "id": "D",
+      "text": "Chronically elevated PTH causing catabolic osteoclast-mediated bone resorption"
+    },
+    {
+      "id": "E",
+      "text": "Estrogen-mediated inhibition of osteoblast apoptosis"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "At low, intermittent levels PTH has anabolic effects on bone, but chronically elevated PTH, as in primary hyperparathyroidism, exerts catabolic effects. Sustained PTH signaling increases osteoclast-mediated resorption, producing subperiosteal bone loss and, in severe cases, osteitis fibrosa cystica with fibrous replacement and brown tumors. This contrast explains why intermittent PTH analogs can be anabolic while hyperparathyroidism is catabolic.",
+  "explanation_incorrect": {
+    "A": "Intermittent PTH is anabolic rather than apoptotic to osteoblasts; this patient has chronic, not intermittent, exposure.",
+    "B": "PTH acts indirectly through osteoblasts and osteoclasts; osteocytes do not secrete collagenase to dissolve mineral as the primary mechanism.",
+    "C": "PTH stimulates renal 1-alpha-hydroxylase and active vitamin D production; reduced activity would not explain high PTH with lytic bone lesions.",
+    "E": "Estrogen inhibits osteoblast apoptosis, but this patient's findings are driven by excess PTH, not estrogen effects, and estrogen would be protective."
+  },
+  "educationalObjective": "Intermittent PTH is anabolic, whereas chronic PTH excess is catabolic and causes osteitis fibrosa cystica.",
+  "source": "Generated from 11. Musculoskeletal.pdf - Pathology: Bone cell biology and RANK/RANKL/OPG"
+},
+{
+  "id": "msk-093",
+  "subject": "Musculoskeletal",
+  "major_topic": "Pathology",
+  "subtopic": "Bone cell biology and RANK/RANKL/OPG",
+  "difficulty": "hard",
+  "vignette": "A 54-year-old woman undergoes bilateral oophorectomy for ovarian cancer. Over the next 2 years she has progressive bone loss with increased bone turnover markers and no other endocrine abnormality. Her physician discusses the cellular effects of lost estrogen on bone remodeling.",
+  "question": "Which of the following cellular changes best explains her accelerated bone loss?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Increased osteoblast number due to loss of estrogen-induced osteoblast apoptosis"
+    },
+    {
+      "id": "B",
+      "text": "Decreased osteoclast formation from monocyte/macrophage precursors"
+    },
+    {
+      "id": "C",
+      "text": "Reduced RANKL expression on the surface of osteoblasts"
+    },
+    {
+      "id": "D",
+      "text": "Accelerated epiphyseal plate closure in the long bones"
+    },
+    {
+      "id": "E",
+      "text": "Increased osteoclast survival with reduced osteoblast survival"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Estrogen normally inhibits apoptosis in bone-forming osteoblasts and induces apoptosis in bone-resorbing osteoclasts. Estrogen deficiency, whether surgical or postmenopausal, therefore increases osteoclast survival and number while reducing osteoblast survival. The result is increased cycles of remodeling and net bone resorption, raising the risk of osteoporosis. Estrogen also closes the epiphyseal plate at puberty, but that is not the mechanism of postmenopausal bone loss.",
+  "explanation_incorrect": {
+    "A": "Estrogen inhibits osteoblast apoptosis, so its deficiency causes more osteoblast death, not an increase in osteoblast number.",
+    "B": "Estrogen deficiency increases osteoclast formation and activity rather than decreasing it from monocyte/macrophage precursors.",
+    "C": "Loss of estrogen is associated with increased, not reduced, osteoblast RANKL expression and osteoclast-activating cytokines.",
+    "D": "Epiphyseal closure is an estrogen effect at puberty; this woman's plates are already fused and the process would not cause adult bone loss."
+  },
+  "educationalObjective": "Estrogen deficiency increases osteoclast survival and decreases osteoblast survival, producing high-turnover bone loss and osteoporosis.",
+  "source": "Generated from 11. Musculoskeletal.pdf - Pathology: Bone cell biology and RANK/RANKL/OPG"
+}
+]

@@ -1,0 +1,166 @@
+[
+{
+  "id": "msk-081",
+  "subject": "Musculoskeletal",
+  "major_topic": "Anatomy and Physiology",
+  "subtopic": "Muscle proprioceptors",
+  "difficulty": "easy",
+  "vignette": "A physician taps the patellar tendon and observes the knee-jerk reflex. She reviews the sensory receptor responsible for this deep tendon reflex, which lies within the belly of the muscle and responds to a rapid stretch as well as to the speed of that stretch.",
+  "question": "Which receptor, afferent fiber type, and stimulus correctly match this proprioceptor?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Golgi tendon organ; type Ib afferent; detects increased tension"
+    },
+    {
+      "id": "B",
+      "text": "Muscle spindle; type Ib afferent; detects increased tension"
+    },
+    {
+      "id": "C",
+      "text": "Golgi tendon organ; type Ia and II afferents; detects muscle length"
+    },
+    {
+      "id": "D",
+      "text": "Pacinian corpuscle; type Ia afferent; detects vibration"
+    },
+    {
+      "id": "E",
+      "text": "Muscle spindle; type Ia and II afferents; detects increased muscle length and speed of stretch"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "The muscle spindle is a stretch receptor located in the belly of a skeletal muscle, oriented in parallel with the extrafusal fibers. It is innervated by type Ia and type II sensory afferents, which signal increased muscle length and the velocity (speed) of stretch. A quick stretch, such as that produced by tapping a tendon, activates the spindle and evokes the deep tendon reflex. This makes the spindle the receptor underlying the knee-jerk and other myotatic reflexes.",
+  "explanation_incorrect": {
+    "A": "The Golgi tendon organ is located in the tendon, uses type Ib afferents, and senses tension rather than stretch; it is not the receptor for deep tendon reflexes.",
+    "B": "The muscle spindle uses type Ia and II afferents, not type Ib, and it senses length and speed of stretch rather than tension.",
+    "C": "This swaps the two receptors: Golgi tendon organs use Ib afferents and sense tension, while spindles use Ia/II afferents and sense stretch.",
+    "D": "Pacinian corpuscles detect vibration and pressure in skin and deep tissues, not muscle length, and do not mediate the deep tendon reflex."
+  },
+  "educationalObjective": "The muscle spindle lies in the muscle belly, uses Ia and II afferents, senses muscle length and speed of stretch, and mediates deep tendon reflexes.",
+  "source": "Generated from 11. Musculoskeletal.pdf - Anatomy and Physiology: Muscle proprioceptors"
+},
+{
+  "id": "msk-082",
+  "subject": "Musculoskeletal",
+  "major_topic": "Anatomy and Physiology",
+  "subtopic": "Muscle proprioceptors",
+  "difficulty": "medium",
+  "vignette": "A researcher electrically stretches a muscle and records the spinal response. Ia afferents from the muscle spindle enter the dorsal root and synapse within the spinal cord. The result is contraction of the stretched (agonist) muscle and relaxation of its antagonist, helping to resist the imposed stretch and prevent overstretching.",
+  "question": "Which of the following best describes the spinal reflex pathway activated by muscle spindle afferents?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The Ia afferent excites the α motor neuron to the antagonist and inhibits the agonist"
+    },
+    {
+      "id": "B",
+      "text": "The Ia afferent excites the α motor neuron to the agonist while activating an inhibitory interneuron that relaxes the antagonist"
+    },
+    {
+      "id": "C",
+      "text": "The Ib afferent inhibits the α motor neuron to the agonist via an inhibitory interneuron"
+    },
+    {
+      "id": "D",
+      "text": "The afferent travels to the cortex before any spinal motor response occurs"
+    },
+    {
+      "id": "E",
+      "text": "The spindle directly inhibits the α motor neuron to the agonist with no interneuron involved"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "When a muscle spindle is stretched, its Ia (and II) afferents travel through the dorsal root ganglion and synapse in the spinal cord. The Ia afferent directly excites the alpha motor neuron supplying the same (agonist) muscle, causing it to contract. Simultaneously, it activates an inhibitory interneuron that suppresses the alpha motor neuron to the antagonist muscle, causing reciprocal relaxation. This coordinated response both produces the deep tendon reflex and prevents overstretching of the muscle.",
+  "explanation_incorrect": {
+    "A": "This reverses the connections: the spindle excites the agonist and inhibits the antagonist, not the other way around.",
+    "C": "Ib afferents arise from Golgi tendon organs, not muscle spindles, and that pathway inhibits the agonist to reduce tension rather than resist stretch.",
+    "D": "The myotatic reflex is integrated at the spinal cord level and does not require descent from the cortex before responding.",
+    "E": "The spindle excites the agonist's alpha motor neuron directly, while inhibition of the antagonist requires an inhibitory interneuron; the spindle does not directly inhibit the agonist."
+  },
+  "educationalObjective": "Muscle spindle Ia afferents excite alpha motor neurons to the agonist and, via an inhibitory interneuron, relax the antagonist, mediating deep tendon reflexes and preventing overstretch.",
+  "source": "Generated from 11. Musculoskeletal.pdf - Anatomy and Physiology: Muscle proprioceptors"
+},
+{
+  "id": "msk-083",
+  "subject": "Musculoskeletal",
+  "major_topic": "Anatomy and Physiology",
+  "subtopic": "Muscle proprioceptors",
+  "difficulty": "medium",
+  "vignette": "A weightlifter lowers a heavy barbell until his elbows are fully flexed. Tension in the tendon rises sharply, and a sensory receptor embedded at the musculotendinous junction fires. The resulting spinal response inhibits the contracting muscle, which helps limit tension within the muscle and tendon.",
+  "question": "Which of the following best describes this receptor and its reflex effect?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Ia afferent from a muscle spindle excites the agonist and inhibits the antagonist"
+    },
+    {
+      "id": "B",
+      "text": "Ib afferent from a Golgi tendon organ excites the agonist to increase tension"
+    },
+    {
+      "id": "C",
+      "text": "Ia afferent from the spindle activates an inhibitory interneuron that relaxes the agonist"
+    },
+    {
+      "id": "D",
+      "text": "Ib afferent from a Golgi tendon organ activates an inhibitory interneuron that inhibits the agonist, reducing tension"
+    },
+    {
+      "id": "E",
+      "text": "Golgi tendon organ afferents travel via the dorsal root ganglion directly to the cortex without a spinal interneuron"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "The Golgi tendon organ is a proprioceptor located within tendons at the musculotendinous junction, in series with muscle fibers. It is innervated by a type Ib sensory afferent and is activated by increased muscle tension. The Ib afferent enters via the dorsal root ganglion and activates an inhibitory interneuron in the spinal cord that inhibits the alpha motor neuron to the agonist muscle. This autogenic inhibition reduces tension within the muscle and tendon, protecting them from excessive force.",
+  "explanation_incorrect": {
+    "A": "Ia afferents from muscle spindles sense stretch and excite the agonist; this describes the myotatic reflex, not the tension-limiting Golgi tendon organ reflex.",
+    "B": "Golgi tendon organ activation inhibits, not excites, the agonist; its role is to reduce excessive tension rather than increase it.",
+    "C": "Inhibition of the agonist in response to tension is mediated by Ib afferents from Golgi tendon organs, not Ia afferents from spindles.",
+    "E": "The Golgi tendon organ reflex is integrated in the spinal cord through an inhibitory interneuron; it does not require direct cortical transmission."
+  },
+  "educationalObjective": "Golgi tendon organs use Ib afferents to sense increased tension and, via a spinal inhibitory interneuron, inhibit the agonist to reduce tension.",
+  "source": "Generated from 11. Musculoskeletal.pdf - Anatomy and Physiology: Muscle proprioceptors"
+},
+{
+  "id": "msk-084",
+  "subject": "Musculoskeletal",
+  "major_topic": "Anatomy and Physiology",
+  "subtopic": "Muscle proprioceptors",
+  "difficulty": "hard",
+  "vignette": "A neurophysiology examination contrasts two proprioceptors. One is found within the muscle belly, responds to stretch, and contributes to the knee-jerk reflex. The other lies within tendons, responds to tension, and triggers autogenic inhibition of the contracting muscle.",
+  "question": "Which of the following correctly contrasts the muscle spindle with the Golgi tendon organ?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The spindle lies in the muscle belly, uses Ia/II afferents, and senses stretch; the Golgi tendon organ lies in tendons, uses Ib afferents, and senses tension"
+    },
+    {
+      "id": "B",
+      "text": "The spindle lies in tendons, uses Ib afferents, and senses tension; the Golgi tendon organ lies in the muscle belly, uses Ia/II afferents, and senses stretch"
+    },
+    {
+      "id": "C",
+      "text": "Both receptors use Ib afferents, but the spindle senses tension and the Golgi tendon organ senses stretch"
+    },
+    {
+      "id": "D",
+      "text": "Both receptors lie in the muscle belly and differ only in whether they use Ia or II afferents"
+    },
+    {
+      "id": "E",
+      "text": "The spindle senses tension via Ib afferents and causes relaxation, while the Golgi tendon organ senses stretch via Ia afferents and causes contraction"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "The muscle spindle is a stretch receptor in the muscle belly, arranged in parallel with extrafusal fibers, innervated by Ia and II afferents, and sensitive to muscle length and the speed of stretch; it mediates deep tendon reflexes and activates the agonist while inhibiting the antagonist. The Golgi tendon organ lies in tendons in series with muscle fibers, is innervated by a Ib afferent, and senses tension; it inhibits the agonist through an inhibitory interneuron to reduce tension. These two receptors thus differ in location, afferent type, stimulus, and reflex effect.",
+  "explanation_incorrect": {
+    "B": "This completely reverses the two receptors: the spindle is in the muscle belly with Ia/II afferents sensing stretch, while the Golgi tendon organ is in tendon with Ib afferents sensing tension.",
+    "C": "The spindle uses Ia/II afferents and senses stretch, whereas the Golgi tendon organ uses Ib afferents and senses tension; they do not share Ib afferents.",
+    "D": "The receptors are in different locations (muscle belly versus tendon) and differ in afferent class and stimulus, not merely in Ia versus II afferents.",
+    "E": "This swaps both the afferent types and the reflex effects: the spindle senses stretch and drives contraction of the agonist, while the Golgi tendon organ senses tension and relaxes the agonist."
+  },
+  "educationalObjective": "Muscle spindles (Ia/II, muscle belly, stretch) and Golgi tendon organs (Ib, tendon, tension) are distinguished by location, afferent type, and reflex action.",
+  "source": "Generated from 11. Musculoskeletal.pdf - Anatomy and Physiology: Muscle proprioceptors"
+}
+]

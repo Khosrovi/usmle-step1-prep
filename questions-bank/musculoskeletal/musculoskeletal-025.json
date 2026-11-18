@@ -1,0 +1,207 @@
+[
+{
+  "id": "msk-026",
+  "subject": "Musculoskeletal",
+  "major_topic": "Anatomy and Physiology",
+  "subtopic": "Hand intrinsic muscles and hand deformities",
+  "difficulty": "medium",
+  "vignette": "A medical student examines the intrinsic muscles of the hand. She notes that one group of muscles separates the fingers and is tested by asking the patient to spread the fingers against resistance, while another group brings the fingers together.",
+  "question": "Which muscles abduct the fingers, and by which nerve are they innervated?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Palmar interossei, ulnar nerve"
+    },
+    {
+      "id": "B",
+      "text": "Lumbricals, median nerve"
+    },
+    {
+      "id": "C",
+      "text": "Hypothenar muscles, median nerve"
+    },
+    {
+      "id": "D",
+      "text": "Dorsal interossei, ulnar nerve"
+    },
+    {
+      "id": "E",
+      "text": "Thenar muscles, ulnar nerve"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "The dorsal interossei abduct the fingers, mnemonic DAB for Dorsals ABduct, and the palmar interossei adduct the fingers, mnemonic PAD for Palmars ADduct. Both groups are innervated by the ulnar nerve via its deep branch. The first and second lumbricals are median-innervated and the third and fourth are ulnar-innervated; thenar muscles are predominantly median, and hypothenar muscles are ulnar.",
+  "explanation_incorrect": {
+    "A": "Palmar interossei are also ulnar-innervated but they adduct the fingers (PAD), not abduct them.",
+    "B": "The lumbricals flex the MCP joints and extend the IP joints; they do not abduct the fingers, and only the first and second are median-innervated.",
+    "C": "Hypothenar muscles are ulnar-innervated, not median, and act on the fifth digit rather than spreading all the fingers.",
+    "E": "Thenar muscles are primarily median-innervated, not ulnar, and act on the thumb rather than abducting the fingers."
+  },
+  "educationalObjective": "Dorsal interossei abduct the fingers (DAB) and palmar interossei adduct them (PAD); both are ulnar-innervated.",
+  "source": "Generated from 11. Musculoskeletal.pdf - Anatomy and Physiology: Hand intrinsic muscles and hand deformities"
+},
+{
+  "id": "msk-027",
+  "subject": "Musculoskeletal",
+  "major_topic": "Anatomy and Physiology",
+  "subtopic": "Hand intrinsic muscles and hand deformities",
+  "difficulty": "hard",
+  "vignette": "A patient with a distal ulnar nerve lesion has clawing of the fourth and fifth digits because the medial two lumbricals are paralyzed. A classmate asks about the normal action of the lumbricals at the metacarpophalangeal and interphalangeal joints.",
+  "question": "What is the normal action of the lumbrical muscles?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Extend the MCP joints and flex the PIP and DIP joints"
+    },
+    {
+      "id": "B",
+      "text": "Flex the MCP joints and extend the PIP and DIP joints"
+    },
+    {
+      "id": "C",
+      "text": "Abduct the fingers and extend the wrist"
+    },
+    {
+      "id": "D",
+      "text": "Adduct the fingers and flex the wrist"
+    },
+    {
+      "id": "E",
+      "text": "Oppose the thumb and flex the MCP joints"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "The lumbricals flex at the MCP joints and extend the PIP and DIP joints. This action is lost in ulnar claw from a distal ulnar lesion: the unopposed extensors extend the MCP joints while the flexors flex the IP joints, producing clawing. The first and second lumbricals are median-innervated and the third and fourth are ulnar-innervated. Loss of the flex-MCP and extend-IP action is best demonstrated by asking the patient to extend the fingers.",
+  "explanation_incorrect": {
+    "A": "This is the reverse of the lumbrical action; it describes the claw deformity itself rather than the normal lumbrical function.",
+    "C": "Finger abduction is the role of the dorsal interossei, not the lumbricals, and wrist extension is not a lumbrical action.",
+    "D": "Finger adduction is the role of the palmar interossei, and wrist flexion is not produced by lumbricals.",
+    "E": "Thumb opposition is a thenar function via the opponens pollicis and median nerve, not a lumbrical action."
+  },
+  "educationalObjective": "Lumbricals flex the MCP joints and extend the PIP and DIP joints; their paralysis in a distal ulnar lesion produces clawing.",
+  "source": "Generated from 11. Musculoskeletal.pdf - Anatomy and Physiology: Hand intrinsic muscles and hand deformities"
+},
+{
+  "id": "msk-028",
+  "subject": "Musculoskeletal",
+  "major_topic": "Anatomy and Physiology",
+  "subtopic": "Hand intrinsic muscles and hand deformities",
+  "difficulty": "medium",
+  "vignette": "A patient with a proximal median nerve lesion is asked to make a fist. The index and middle fingers remain extended at the MCP and IP joints, while the ring and little fingers flex normally. He cannot oppose his thumb. Sensory loss involves the lateral three and a half fingers.",
+  "question": "What is this deformity called, and what is its mechanism?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Ulnar claw, from a distal ulnar lesion"
+    },
+    {
+      "id": "B",
+      "text": "Median claw, from a distal median lesion"
+    },
+    {
+      "id": "C",
+      "text": "Hand of benediction, from a proximal median lesion"
+    },
+    {
+      "id": "D",
+      "text": "Trouble making a fist, from a proximal ulnar lesion"
+    },
+    {
+      "id": "E",
+      "text": "Ape hand, from a recurrent branch median lesion"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "The hand of benediction occurs with proximal median nerve lesions when the patient attempts to make a fist. Because the lateral two lumbricals and the long flexors to the index and middle fingers are median-innervated and paralyzed, those fingers cannot flex, while the ulnar-innervated ring and little fingers flex normally. This contrasts with the median claw of a distal median lesion, which is seen at rest or with finger extension.",
+  "explanation_incorrect": {
+    "A": "Ulnar claw is due to a distal ulnar lesion and affects the fourth and fifth digits with MCP extension and IP flexion, not the index and middle fingers with fist-making.",
+    "B": "Median claw is a distal median lesion seen when extending the fingers or at rest, not the fist-making hand of benediction of a proximal lesion.",
+    "D": "Trouble making a fist is the deficit associated with a proximal ulnar nerve lesion, affecting the medial fingers, not the index and middle fingers here.",
+    "E": "Ape hand results from thenar muscle loss from a recurrent branch median lesion with inability to oppose the thumb; it does not produce index and middle finger extension on fist-making."
+  },
+  "educationalObjective": "Proximal median nerve lesions cause hand of benediction on fist-making because the lateral two lumbricals and finger flexors are paralyzed.",
+  "source": "Generated from 11. Musculoskeletal.pdf - Anatomy and Physiology: Hand intrinsic muscles and hand deformities"
+},
+{
+  "id": "msk-029",
+  "subject": "Musculoskeletal",
+  "major_topic": "Anatomy and Physiology",
+  "subtopic": "Hand intrinsic muscles and hand deformities",
+  "difficulty": "medium",
+  "vignette": "A patient with a distal lesion of the ulnar nerve, for example from a hook of hamate fracture, is asked to extend his fingers. The fourth and fifth digits show hyperextension at the MCP joints and flexion at the PIP and DIP joints, while the index and middle fingers are normal.",
+  "question": "Which mechanism best explains this ulnar claw?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Loss of the medial two lumbricals with unopposed MCP extension and IP flexion"
+    },
+    {
+      "id": "B",
+      "text": "Loss of the lateral two lumbricals with unopposed MCP flexion"
+    },
+    {
+      "id": "C",
+      "text": "Paralysis of the thenar muscles with thenar atrophy"
+    },
+    {
+      "id": "D",
+      "text": "Paralysis of the long finger extensors from a radial nerve lesion"
+    },
+    {
+      "id": "E",
+      "text": "Loss of the wrist flexors with radial deviation of the wrist"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "A distal ulnar nerve lesion paralyzes the third and fourth lumbricals and interossei to the fourth and fifth digits. Because the lumbricals normally flex the MCP joints and extend the IP joints, their loss leaves the extrinsic extensors unopposed at the MCP joints, causing hyperextension, and the extrinsic flexors unopposed at the IP joints, causing flexion, which produces the ulnar claw best seen with finger extension or at rest. Proximal ulnar lesions produce less clawing because the flexor digitorum profundus to those digits is also affected, the ulnar paradox.",
+  "explanation_incorrect": {
+    "B": "The lateral two lumbricals are median-innervated; their loss would affect the index and middle fingers and is median claw, not ulnar claw.",
+    "C": "Thenar muscle paralysis from a median nerve lesion causes ape hand with loss of thumb opposition and thenar atrophy, not clawing of digits four and five.",
+    "D": "Radial nerve paralysis would cause wrist drop with loss of finger extension, not hyperextension at the MCP joints of digits four and five.",
+    "E": "Loss of wrist flexors with radial deviation is a feature of a proximal ulnar lesion due to flexor carpi ulnaris weakness, not a distal lesion, and it does not explain the clawing."
+  },
+  "educationalObjective": "Distal ulnar lesions cause ulnar claw via loss of the medial two lumbricals, producing MCP hyperextension and IP flexion of digits four and five.",
+  "source": "Generated from 11. Musculoskeletal.pdf - Anatomy and Physiology: Hand intrinsic muscles and hand deformities"
+},
+{
+  "id": "msk-030",
+  "subject": "Musculoskeletal",
+  "major_topic": "Anatomy and Physiology",
+  "subtopic": "Hand intrinsic muscles and hand deformities",
+  "difficulty": "easy",
+  "vignette": "A patient presents with wasting of the thenar eminence and weakness of thumb opposition and abduction. Sensation is decreased over the lateral three and a half fingers. The hypothenar eminence is normal.",
+  "question": "Which nerve lesion best explains these findings?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Ulnar nerve"
+    },
+    {
+      "id": "B",
+      "text": "Radial nerve"
+    },
+    {
+      "id": "C",
+      "text": "Axillary nerve"
+    },
+    {
+      "id": "D",
+      "text": "Musculocutaneous nerve"
+    },
+    {
+      "id": "E",
+      "text": "Median nerve"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "The thenar eminence, consisting of the opponens pollicis, abductor pollicis brevis, and flexor pollicis brevis, is supplied predominantly by the median nerve, so a median nerve lesion causes thenar atrophy and weakness of opposition and abduction. The associated sensory loss over the lateral three and a half fingers confirms median nerve involvement. By contrast, hypothenar atrophy is seen with ulnar nerve lesions.",
+  "explanation_incorrect": {
+    "A": "Ulnar nerve lesions cause hypothenar, not thenar, atrophy and sensory loss over the medial one and a half fingers.",
+    "B": "Radial nerve lesions cause wrist drop and dorsal hand sensory loss, not thenar wasting.",
+    "C": "Axillary nerve lesions affect the deltoid and lateral arm sensation after surgical neck humerus fractures, not the thenar eminence.",
+    "D": "Musculocutaneous nerve lesions affect elbow flexion and the biceps reflex, not the thumb intrinsics."
+  },
+  "educationalObjective": "Thenar eminence atrophy with lateral three-and-a-half finger sensory loss localizes to a median nerve lesion; hypothenar atrophy localizes to the ulnar nerve.",
+  "source": "Generated from 11. Musculoskeletal.pdf - Anatomy and Physiology: Hand intrinsic muscles and hand deformities"
+}
+]

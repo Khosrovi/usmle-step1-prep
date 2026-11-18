@@ -1,0 +1,207 @@
+[
+{
+  "id": "msk-140",
+  "subject": "Musculoskeletal",
+  "major_topic": "Pathology",
+  "subtopic": "Osteomalacia and rickets",
+  "difficulty": "easy",
+  "vignette": "A 52-year-old woman with little sun exposure and low dietary calcium intake presents with diffuse bone pain and proximal muscle weakness. Radiographs show osteopenia and several radiolucent pseudofractures. Laboratory studies show decreased serum calcium, decreased phosphate, increased alkaline phosphatase, and increased parathyroid hormone.",
+  "question": "Which of the following best describes the fundamental abnormality in this patient's bone disorder?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Increased bone resorption with normal mineralization"
+    },
+    {
+      "id": "B",
+      "text": "Defective mineralization of osteoid"
+    },
+    {
+      "id": "C",
+      "text": "Failure of bone resorption by defective osteoclasts"
+    },
+    {
+      "id": "D",
+      "text": "Disordered bone remodeling with mosaic architecture"
+    },
+    {
+      "id": "E",
+      "text": "Ischemic infarction of bone and marrow"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Osteomalacia is defined by defective mineralization of osteoid in adults, most commonly due to vitamin D deficiency. Vitamin D deficiency lowers serum calcium, triggering secondary hyperparathyroidism that lowers phosphate and raises alkaline phosphatase from osteoblast hyperactivity. Radiographs show osteopenia and pseudofractures (Looser zones). The bone matrix is present but fails to mineralize, distinguishing it from osteoporosis where mineralization is normal.",
+  "explanation_incorrect": {
+    "A": "Increased resorption with normal mineralization is osteoporosis, which would show normal calcium, phosphate, and alkaline phosphatase.",
+    "C": "Failure of resorption by defective osteoclasts causes osteopetrosis with dense sclerotic bones, not osteopenia and pseudofractures.",
+    "D": "A mosaic pattern of woven and lamellar bone characterizes Paget disease, not osteomalacia.",
+    "E": "Ischemic infarction of bone and marrow is avascular necrosis, which is painful but does not produce the diffuse mineralization defect here."
+  },
+  "educationalObjective": "Recall that osteomalacia is defective mineralization of osteoid, typically from vitamin D deficiency.",
+  "source": "Generated from 11. Musculoskeletal.pdf - Pathology: Osteomalacia and rickets"
+},
+{
+  "id": "msk-141",
+  "subject": "Musculoskeletal",
+  "major_topic": "Pathology",
+  "subtopic": "Osteomalacia and rickets",
+  "difficulty": "medium",
+  "vignette": "A 3-year-old child with a diet deficient in vitamin D presents with bowed legs and a beaded appearance of the costochondral junctions. Blood testing is obtained to evaluate suspected rickets.",
+  "question": "Which of the following patterns of serum calcium, phosphate, alkaline phosphatase (ALP), and parathyroid hormone (PTH) is most consistent with rickets due to vitamin D deficiency?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Calcium ↑, phosphate ↓, ALP ↑, PTH ↑"
+    },
+    {
+      "id": "B",
+      "text": "Calcium ↓, phosphate ↑, ALP ↑, PTH ↑"
+    },
+    {
+      "id": "C",
+      "text": "Calcium normal, phosphate normal, ALP normal, PTH normal"
+    },
+    {
+      "id": "D",
+      "text": "Calcium normal, phosphate normal, ALP ↑, PTH normal"
+    },
+    {
+      "id": "E",
+      "text": "Calcium ↓, phosphate ↓, ALP ↑, PTH ↑"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "In vitamin D deficiency, decreased intestinal calcium absorption lowers serum calcium. The hypocalcemia stimulatesPTH secretion (secondary hyperparathyroidism), and the elevated PTH increases renal phosphate excretion, lowering serum phosphate. Osteoblast hyperactivity raises alkaline phosphatase. Thus the classic pattern is calcium ↓, phosphate ↓, ALP ↑, and PTH ↑ in both rickets and osteomalacia.",
+  "explanation_incorrect": {
+    "A": "Calcium is decreased, not increased, in vitamin D deficiency; the low calcium is what drives the secondary hyperparathyroidism.",
+    "B": "Phosphate is decreased, not increased, because elevated PTH promotes renal phosphate wasting.",
+    "C": "Normal calcium, phosphate, ALP, and PTH is the pattern of healthy bone and of uncomplicated osteoporosis, not rickets.",
+    "D": "An isolated elevated ALP with normal calcium, phosphate, and PTH is the pattern of Paget disease, not rickets."
+  },
+  "educationalObjective": "Identify the characteristic lab pattern of rickets/osteomalacia: low calcium, low phosphate, high ALP, high PTH.",
+  "source": "Generated from 11. Musculoskeletal.pdf - Pathology: Osteomalacia and rickets"
+},
+{
+  "id": "msk-142",
+  "subject": "Musculoskeletal",
+  "major_topic": "Pathology",
+  "subtopic": "Osteomalacia and rickets",
+  "difficulty": "hard",
+  "vignette": "A child with vitamin D deficiency has hypocalcemia and a appropriately elevated parathyroid hormone level. Despite normal dietary phosphate intake, serum phosphate is markedly low. The clinician explains the biochemical cascade linking vitamin D deficiency to this phosphate wasting.",
+  "question": "Which of the following mechanisms best explains the decreased serum phosphate in this child?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Reduced dietary phosphate intake from a poor diet"
+    },
+    {
+      "id": "B",
+      "text": "Increased intestinal phosphate absorption due to compensatory mechanisms"
+    },
+    {
+      "id": "C",
+      "text": "PTH-driven renal phosphate excretion from secondary hyperparathyroidism"
+    },
+    {
+      "id": "D",
+      "text": "Phosphate deposition into bone due to primary osteoblast overactivity"
+    },
+    {
+      "id": "E",
+      "text": "Reduced alkaline phosphatase causing renal phosphate retention"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Vitamin D deficiency reduces intestinal calcium absorption, producing hypocalcemia. The low calcium triggers secondary hyperparathyroidism with increased PTH secretion. PTH acts on the kidney to increase phosphate excretion (phosphaturia), which lowers serum phosphate. This cascade — low vitamin D → low calcium → high PTH → low phosphate — is the classic biochemical sequence in osteomalacia and rickets; osteoblast hyperactivity also raises ALP.",
+  "explanation_incorrect": {
+    "A": "Dietary phosphate intake is described as normal, and the phosphate loss is renal rather than nutritional in origin.",
+    "B": "Intestinal phosphate absorption would be expected to be reduced with vitamin D deficiency, not increased, and would not explain low serum phosphate.",
+    "D": "While osteoblast activity is increased, the dominant mechanism of hypophosphatemia is PTH-mediated renal wasting, not deposition into bone.",
+    "E": "Alkaline phosphatase is elevated, not reduced, in rickets and does not cause phosphate retention."
+  },
+  "educationalObjective": "Explain the cascade by which vitamin D deficiency leads to secondary hyperparathyroidism and renal phosphate wasting.",
+  "source": "Generated from 11. Musculoskeletal.pdf - Pathology: Osteomalacia and rickets"
+},
+{
+  "id": "msk-143",
+  "subject": "Musculoskeletal",
+  "major_topic": "Pathology",
+  "subtopic": "Osteomalacia and rickets",
+  "difficulty": "easy",
+  "vignette": "A 3-year-old child with vitamin D deficiency has pathologic bowing of the legs, a beaded appearance of the costochondral junctions, and a soft, indentable skull. Skeletal radiographs are obtained to confirm the diagnosis.",
+  "question": "Which of the following radiographic findings is most characteristic of this child's condition?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Epiphyseal widening and metaphyseal cupping/fraying"
+    },
+    {
+      "id": "B",
+      "text": "Focal lytic lesions with a mosaic pattern of woven and lamellar bone"
+    },
+    {
+      "id": "C",
+      "text": "Diffuse symmetric sclerosis with a bone-in-bone appearance"
+    },
+    {
+      "id": "D",
+      "text": "Osteopenia with pseudofractures in the absence of growth plate changes"
+    },
+    {
+      "id": "E",
+      "text": "Subperiosteal bone resorption with brown tumors"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Rickets occurs only in children because it affects the cartilaginous growth plates, which remain open. Radiographs characteristically show epiphyseal widening and metaphyseal cupping and fraying. Clinical correlates include genu varum (bow legs), a rachitic rosary from beaded costochondral junctions, and craniotabes from a soft skull. These growth plate changes distinguish rickets from osteomalacia in adults, whose growth plates are fused.",
+  "explanation_incorrect": {
+    "B": "A mosaic pattern of woven and lamellar bone is the histologic hallmark of Paget disease, not rickets.",
+    "C": "Diffuse symmetric sclerosis with bone-in-bone appearance is characteristic of osteopetrosis.",
+    "D": "Osteopenia with pseudofractures is the radiographic pattern of osteomalacia in adults, not the growth plate changes of rickets in a child.",
+    "E": "Subperiosteal resorption and brown tumors are features of osteitis fibrosa cystica from hyperparathyroidism."
+  },
+  "educationalObjective": "Recognize epiphyseal widening and metaphyseal cupping/fraying as the radiographic signature of rickets in children.",
+  "source": "Generated from 11. Musculoskeletal.pdf - Pathology: Osteomalacia and rickets"
+},
+{
+  "id": "msk-144",
+  "subject": "Musculoskeletal",
+  "major_topic": "Pathology",
+  "subtopic": "Osteomalacia and rickets",
+  "difficulty": "medium",
+  "vignette": "A medical student is comparing two disorders of defective mineralization caused by vitamin D deficiency: osteomalacia and rickets. Both produce low calcium, low phosphate, elevated alkaline phosphatase, and elevated parathyroid hormone, but they differ in which tissue is affected and in which patients they occur.",
+  "question": "Which of the following statements correctly distinguishes rickets from osteomalacia?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Rickets occurs exclusively in adults after growth plate fusion"
+    },
+    {
+      "id": "B",
+      "text": "Osteomalacia primarily affects the cartilaginous growth plates of children"
+    },
+    {
+      "id": "C",
+      "text": "Rickets is characterized by osteopenia and pseudofractures in adults"
+    },
+    {
+      "id": "D",
+      "text": "Rickets occurs in children and affects the cartilaginous growth plates, whereas osteomalacia is defective mineralization of osteoid in adults"
+    },
+    {
+      "id": "E",
+      "text": "Osteomalacia is due to defective mineralization of growth plates only, with no defect in osteoid"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Both disorders reflect defective mineralization, most often from vitamin D deficiency. Rickets occurs only in children because it involves failure to mineralize the cartilaginous growth plates, producing epiphyseal widening, metaphyseal cupping/fraying, bow legs, rachitic rosary, and craniotabes. Osteomalacia occurs in adults, whose growth plates have fused, and is defined by defective mineralization of osteoid, producing osteopenia and pseudofractures. The biochemical abnormalities are the same in both.",
+  "explanation_incorrect": {
+    "A": "Rickets occurs in children with open growth plates, not in adults; adults with vitamin D deficiency develop osteomalacia.",
+    "B": "It is rickets, not osteomalacia, that affects the cartilaginous growth plates of children.",
+    "C": "Osteopenia and pseudofractures describe osteomalacia in adults, whereas rickets shows growth plate abnormalities in children.",
+    "E": "Osteomalacia is defective mineralization of osteoid, not of growth plates; growth plate involvement defines rickets."
+  },
+  "educationalObjective": "Distinguish rickets (children, growth plates) from osteomalacia (adults, osteoid), despite their identical lab abnormalities.",
+  "source": "Generated from 11. Musculoskeletal.pdf - Pathology: Osteomalacia and rickets"
+}
+]

@@ -1,0 +1,166 @@
+[
+{
+  "id": "msk-335",
+  "subject": "Musculoskeletal",
+  "major_topic": "Pharmacology",
+  "subtopic": "Acetaminophen",
+  "difficulty": "easy",
+  "vignette": "A 34-year-old woman with a mild febrile illness asks why the over-the-counter pain reliever she plans to take will reduce her fever and pain but will not reduce the swelling of her sprained ankle.",
+  "question": "Which of the following best explains why acetaminophen lacks anti-inflammatory activity?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It is a selective COX-2 inhibitor that spares the stomach"
+    },
+    {
+      "id": "B",
+      "text": "It irreversibly acetylates COX-1 and COX-2 in platelets"
+    },
+    {
+      "id": "C",
+      "text": "It inhibits cyclooxygenase mainly in the CNS and is inactivated in peripheral tissues"
+    },
+    {
+      "id": "D",
+      "text": "It blocks the LTD4 receptor on inflammatory cells"
+    },
+    {
+      "id": "E",
+      "text": "It inhibits phospholipase A2 in all tissues"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Acetaminophen reversibly inhibits cyclooxygenase, predominantly in the CNS, and is inactivated peripherally, which explains why it is antipyretic and analgesic but not anti-inflammatory. This central action also makes it useful instead of aspirin to avoid Reye syndrome in children with viral illness.",
+  "explanation_incorrect": {
+    "A": "Selective COX-2 inhibition is the mechanism of celecoxib, which does have anti-inflammatory effects; it is not how acetaminophen works.",
+    "B": "Irreversible acetylation of COX-1 and COX-2 is the mechanism of aspirin, not acetaminophen.",
+    "D": "LTD4 receptor blockade is the mechanism of montelukast and zafirlukast, not acetaminophen.",
+    "E": "Inhibition of phospholipase A2 is the mechanism of glucocorticoids, not acetaminophen."
+  },
+  "educationalObjective": "Acetaminophen is centrally acting and peripherally inactivated, so it is antipyretic and analgesic but not anti-inflammatory.",
+  "source": "Generated from 11. Musculoskeletal.pdf - Pharmacology: Acetaminophen"
+},
+{
+  "id": "msk-336",
+  "subject": "Musculoskeletal",
+  "major_topic": "Pharmacology",
+  "subtopic": "Acetaminophen",
+  "difficulty": "medium",
+  "vignette": "A 28-year-old woman presents 2 days after ingesting a large number of acetaminophen tablets. She has right upper quadrant pain and elevated liver transaminases. Her serum acetaminophen level is high.",
+  "question": "Which metabolite is directly responsible for the hepatic necrosis seen in acetaminophen overdose?",
+  "options": [
+    {
+      "id": "A",
+      "text": "NAPQI"
+    },
+    {
+      "id": "B",
+      "text": "Salicylic acid"
+    },
+    {
+      "id": "C",
+      "text": "Arachidonic acid"
+    },
+    {
+      "id": "D",
+      "text": "LTB4"
+    },
+    {
+      "id": "E",
+      "text": "Acetylsalicylic acid"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "In overdose, acetaminophen is metabolized to NAPQI, a toxic metabolite that depletes hepatic glutathione and forms toxic tissue byproducts, causing hepatic necrosis. Normally glutathione conjugates and detoxifies NAPQI, but this pathway is overwhelmed in overdose.",
+  "explanation_incorrect": {
+    "B": "Salicylic acid is the active metabolite of aspirin, not acetaminophen, and it is associated with a different toxicity and acid-base disturbance.",
+    "C": "Arachidonic acid is a membrane-derived eicosanoid precursor, not an acetaminophen metabolite.",
+    "D": "LTB4 is a leukotriene involved in neutrophil chemotaxis, unrelated to acetaminophen metabolism.",
+    "E": "Acetylsalicylic acid is aspirin itself, not a metabolite of acetaminophen."
+  },
+  "educationalObjective": "The toxic acetaminophen metabolite NAPQI depletes glutathione and causes hepatic necrosis in overdose.",
+  "source": "Generated from 11. Musculoskeletal.pdf - Pharmacology: Acetaminophen"
+},
+{
+  "id": "msk-337",
+  "subject": "Musculoskeletal",
+  "major_topic": "Pharmacology",
+  "subtopic": "Acetaminophen",
+  "difficulty": "medium",
+  "vignette": "A 19-year-old man is treated for acute acetaminophen poisoning. He receives an antidote that works by regenerating hepatic glutathione, allowing conjugation and detoxification of the toxic metabolite even when the serum acetaminophen level is low.",
+  "question": "Which of the following is the antidote described?",
+  "options": [
+    {
+      "id": "A",
+      "text": "NaHCO3"
+    },
+    {
+      "id": "B",
+      "text": "N-acetylcysteine"
+    },
+    {
+      "id": "C",
+      "text": "Naloxone"
+    },
+    {
+      "id": "D",
+      "text": "Flumazenil"
+    },
+    {
+      "id": "E",
+      "text": "Activated charcoal only"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "N-acetylcysteine is the antidote for acetaminophen overdose. It regenerates glutathione, enabling conjugation and detoxification of NAPQI and limiting hepatic injury. It is most effective when given early but is still beneficial in established toxicity.",
+  "explanation_incorrect": {
+    "A": "Sodium bicarbonate is used to treat aspirin (salicylate) overdose by alkalinizing the urine and correcting acidemia, not acetaminophen toxicity.",
+    "C": "Naloxone is an opioid receptor antagonist used for opioid overdose, not acetaminophen poisoning.",
+    "D": "Flumazenil is a benzodiazepine receptor antagonist used for benzodiazepine excess, not acetaminophen toxicity.",
+    "E": "Activated charcoal can reduce absorption if given very early, but it does not regenerate glutathione and is not the specific antidote described."
+  },
+  "educationalObjective": "N-acetylcysteine treats acetaminophen overdose by regenerating glutathione to detoxify NAPQI.",
+  "source": "Generated from 11. Musculoskeletal.pdf - Pharmacology: Acetaminophen"
+},
+{
+  "id": "msk-338",
+  "subject": "Musculoskeletal",
+  "major_topic": "Pharmacology",
+  "subtopic": "Acetaminophen",
+  "difficulty": "hard",
+  "vignette": "A 6-year-old girl develops fever, cough, and rhinorrhea from a viral upper respiratory infection. Her physician wants to treat her discomfort while specifically avoiding the risk of Reye syndrome associated with another common analgesic.",
+  "question": "Which of the following is the most appropriate analgesic and antipyretic for this child?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Aspirin"
+    },
+    {
+      "id": "B",
+      "text": "Indomethacin"
+    },
+    {
+      "id": "C",
+      "text": "Naproxen"
+    },
+    {
+      "id": "D",
+      "text": "Acetaminophen"
+    },
+    {
+      "id": "E",
+      "text": "Ketorolac"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Acetaminophen is used instead of aspirin in children with viral illness because aspirin carries a risk of Reye syndrome. It provides antipyretic and analgesic effects through central cyclooxygenase inhibition. The other NSAIDs listed are not the recommended choice for a febrile child with a viral illness.",
+  "explanation_incorrect": {
+    "A": "Aspirin is specifically avoided in children with viral infection because of the risk of Reye syndrome; it is the drug this physician wants to avoid.",
+    "B": "Indomethacin is a nonselective NSAID used (among other things) to close a PDA; it is not the preferred antipyretic in a child with viral illness.",
+    "C": "Naproxen is a nonselective NSAID with GI and renal adverse effects and is not the recommended agent to avoid Reye syndrome in this setting.",
+    "E": "Ketorolac is a potent NSAID used for short-term analgesia; it is not the appropriate choice for a febrile child with a viral illness."
+  },
+  "educationalObjective": "Acetaminophen is preferred over aspirin for fever and pain in children with viral illness because aspirin can precipitate Reye syndrome.",
+  "source": "Generated from 11. Musculoskeletal.pdf - Pharmacology: Acetaminophen"
+}
+]

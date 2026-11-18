@@ -1,0 +1,166 @@
+[
+{
+  "id": "msk-136",
+  "subject": "Musculoskeletal",
+  "major_topic": "Pathology",
+  "subtopic": "Osteopetrosis",
+  "difficulty": "easy",
+  "vignette": "A 4-year-old child presents with recurrent fractures despite unusually dense bones. Skeletal radiographs show diffuse symmetric sclerosis with a 'bone-in-bone' appearance. The child has pallor and hepatosplenomegaly, and a complete blood count reveals pancytopenia.",
+  "question": "Which of the following best describes the fundamental defect in this patient's disorder?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Increased osteoclastic bone resorption"
+    },
+    {
+      "id": "B",
+      "text": "Defective mineralization of osteoid by osteoblasts"
+    },
+    {
+      "id": "C",
+      "text": "Vitamin D deficiency with secondary hyperparathyroidism"
+    },
+    {
+      "id": "D",
+      "text": "Failure of normal bone resorption due to defective osteoclasts"
+    },
+    {
+      "id": "E",
+      "text": "A parathyroid adenoma causing excessive bone turnover"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Osteopetrosis results from failure of normal bone resorption due to defective osteoclasts. The impaired osteoclasts cannot resorb bone, so thickened, dense but brittle bones accumulate ('stone bone'). Overgrowth of cortical bone obliterates the marrow space, causing pancytopenia and extramedullary hematopoiesis with hepatosplenomegaly. The 'bone-in-bone' appearance on radiography reflects alternating zones of abnormal resorption and formation.",
+  "explanation_incorrect": {
+    "A": "Increased osteoclastic resorption causes bone loss (as in osteoporosis or hyperparathyroidism), not the dense sclerotic bones seen here.",
+    "B": "Defective mineralization of osteoid is osteomalacia, which produces soft bones and osteopenia rather than dense bones.",
+    "C": "Vitamin D deficiency leads to osteomalacia/rickets with low calcium and phosphate, not diffuse symmetric sclerosis.",
+    "E": "A parathyroid adenoma causes osteitis fibrosa cystica with subperiosteal resorption and brown tumors, not increased bone density."
+  },
+  "educationalObjective": "Recall that osteopetrosis is caused by defective osteoclasts and failure of bone resorption, producing dense brittle bones and marrow failure.",
+  "source": "Generated from 11. Musculoskeletal.pdf - Pathology: Osteopetrosis"
+},
+{
+  "id": "msk-137",
+  "subject": "Musculoskeletal",
+  "major_topic": "Pathology",
+  "subtopic": "Osteopetrosis",
+  "difficulty": "medium",
+  "vignette": "A child with osteopetrosis is found to have a mutation in the gene encoding carbonic anhydrase II. Osteoclasts are present in normal numbers on bone biopsy but are unable to resorb bone effectively, and the patient develops progressive marrow obliteration.",
+  "question": "By which mechanism does the carbonic anhydrase II mutation impair osteoclast-mediated bone resorption?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Inability to secrete collagenase into the resorption lacuna"
+    },
+    {
+      "id": "B",
+      "text": "Inability to generate the acidic environment necessary for bone resorption"
+    },
+    {
+      "id": "C",
+      "text": "Inability to produce RANKL on the osteoblast surface"
+    },
+    {
+      "id": "D",
+      "text": "Uncontrolled osteoblastic new bone formation"
+    },
+    {
+      "id": "E",
+      "text": "Failure of osteoid mineralization due to low alkaline phosphatase"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Carbonic anhydrase II catalyzes the formation of carbonic acid from carbon dioxide and water, providing the protons that osteoclasts pump into the resorption lacuna via vacuolar H+-ATPases. This acidification dissolves the mineral component of bone and is required for resorption. Mutations in carbonic anhydrase II impair acid generation, so osteoclasts cannot resorb bone despite being present. The result is the dense, sclerosed bones of osteopetrosis.",
+  "explanation_incorrect": {
+    "A": "Osteoclasts degrade the organic matrix mainly with cathepsin K and metalloproteinases; carbonic anhydrase II deficiency specifically affects acidification, not collagenase secretion.",
+    "C": "RANKL is produced by osteoblasts and stromal cells, not by osteoclasts, and is not the defect in carbonic anhydrase II deficiency.",
+    "D": "The primary problem is failure of resorption, not primary overactivity of osteoblasts, although bone accumulates secondarily.",
+    "E": "Failure of osteoid mineralization causes osteomalacia; carbonic anhydrase II deficiency instead prevents mineral dissolution during resorption."
+  },
+  "educationalObjective": "Explain that carbonic anhydrase II deficiency causes osteopetrosis by preventing osteoclast acidification of the resorption lacuna.",
+  "source": "Generated from 11. Musculoskeletal.pdf - Pathology: Osteopetrosis"
+},
+{
+  "id": "msk-138",
+  "subject": "Musculoskeletal",
+  "major_topic": "Pathology",
+  "subtopic": "Osteopetrosis",
+  "difficulty": "medium",
+  "vignette": "A 6-year-old with osteopetrosis develops progressive visual loss and new facial weakness over several months. Imaging shows marked thickening of the skull with narrowing of the cranial foramina. There is no evidence of infection, malignancy, or intracranial hemorrhage.",
+  "question": "Which of the following is the most likely cause of this patient's neurologic deficits?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Cranial nerve impingement from narrowed neural foramina"
+    },
+    {
+      "id": "B",
+      "text": "Osteosarcoma arising in the skull"
+    },
+    {
+      "id": "C",
+      "text": "Spontaneous intracranial hemorrhage"
+    },
+    {
+      "id": "D",
+      "text": "Severe hypercalcemia causing encephalopathy"
+    },
+    {
+      "id": "E",
+      "text": "Bacterial brain abscess"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "In osteopetrosis, continued bone deposition without resorption causes overgrowth of cortical bone that narrows the cranial nerve foramina. This can produce cranial nerve impingement and palsies, including visual loss and facial weakness, as well as hearing impairment. This is a direct mechanical complication of the sclerotic bone. The absence of infection, tumor, or hemorrhage on imaging supports this mechanism.",
+  "explanation_incorrect": {
+    "B": "Osteosarcoma is associated with Paget disease, not osteopetrosis, and would appear as a destructive mass rather than diffuse symmetric sclerosis.",
+    "C": "Intracranial hemorrhage would present acutely and would be visible on imaging; it is not a typical feature of osteopetrosis.",
+    "D": "Calcium is typically normal or only decreased in severe malignant osteopetrosis, not elevated enough to cause encephalopathy.",
+    "E": "A brain abscess would be accompanied by fever and a ring-enhancing lesion, and is not related to osteopetrosis."
+  },
+  "educationalObjective": "Recognize cranial nerve impingement from narrowed foramina as a complication of osteopetrosis.",
+  "source": "Generated from 11. Musculoskeletal.pdf - Pathology: Osteopetrosis"
+},
+{
+  "id": "msk-139",
+  "subject": "Musculoskeletal",
+  "major_topic": "Pathology",
+  "subtopic": "Osteopetrosis",
+  "difficulty": "hard",
+  "vignette": "An infant with severe malignant osteopetrosis has progressive pancytopenia and hepatosplenomegaly from marrow obliteration. The care team discusses a potentially curative intervention based on the fact that osteoclasts are derived from monocytes of hematopoietic origin.",
+  "question": "Which of the following interventions is potentially curative for this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Lifelong oral bisphosphonate therapy"
+    },
+    {
+      "id": "B",
+      "text": "High-dose vitamin D supplementation"
+    },
+    {
+      "id": "C",
+      "text": "Subcutaneous calcitonin"
+    },
+    {
+      "id": "D",
+      "text": "Daily teriparatide injections"
+    },
+    {
+      "id": "E",
+      "text": "Hematopoietic stem cell (bone marrow) transplantation"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Bone marrow transplantation is potentially curative in osteopetrosis because osteoclasts are derived from monocytes, which arise from hematopoietic stem cells. Transplanting normal hematopoietic progenitors supplies functional osteoclasts capable of resorbing bone and relieving marrow compression. This can reverse pancytopenia and extramedullary hematopoiesis in severe disease. The other listed therapies either further inhibit resorption or do not correct the defective osteoclast lineage.",
+  "explanation_incorrect": {
+    "A": "Bisphosphonates inhibit osteoclasts and would worsen the failure of resorption in osteopetrosis.",
+    "B": "Vitamin D supplementation does not correct the intrinsic osteoclast defect and is not curative in osteopetrosis.",
+    "C": "Calcitonin inhibits osteoclast activity, which would aggravate the impaired resorption in this disease.",
+    "D": "Teriparatide is an anabolic agent that stimulates bone formation; adding bone would worsen marrow obliteration in osteopetrosis."
+  },
+  "educationalObjective": "Recall that hematopoietic stem cell transplantation can cure osteopetrosis because osteoclasts derive from monocytes.",
+  "source": "Generated from 11. Musculoskeletal.pdf - Pathology: Osteopetrosis"
+}
+]

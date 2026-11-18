@@ -1,0 +1,207 @@
+[
+{
+  "id": "msk-344",
+  "subject": "Musculoskeletal",
+  "major_topic": "Pharmacology",
+  "subtopic": "Celecoxib and nonsteroidal anti-inflammatory drugs",
+  "difficulty": "easy",
+  "vignette": "A 58-year-old woman with osteoarthritis is prescribed celecoxib. Her physician notes that the drug is designed to reduce inflammation and pain while minimizing damage to the stomach lining and avoiding effects on platelet function.",
+  "question": "Which cyclooxygenase isoform does celecoxib selectively inhibit?",
+  "options": [
+    {
+      "id": "A",
+      "text": "COX-2"
+    },
+    {
+      "id": "B",
+      "text": "COX-1"
+    },
+    {
+      "id": "C",
+      "text": "Both COX-1 and COX-2 equally"
+    },
+    {
+      "id": "D",
+      "text": "5-Lipoxygenase"
+    },
+    {
+      "id": "E",
+      "text": "Phospholipase A2"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Celecoxib reversibly and selectively inhibits COX-2 ('Selecoxib'), the isoform found in inflammatory cells and vascular endothelium that mediates inflammation and pain. By sparing COX-1, which maintains the gastric mucosa and supports platelet TXA2 production, celecoxib avoids the corrosive GI effects and platelet inhibition of nonselective NSAIDs.",
+  "explanation_incorrect": {
+    "B": "COX-1 is spared by celecoxib; inhibiting COX-1 would reduce gastric protection and platelet function, which celecoxib does not do.",
+    "C": "Nonselective inhibition of both COX-1 and COX-2 is the mechanism of traditional NSAIDs such as ibuprofen and naproxen, not celecoxib.",
+    "D": "5-Lipoxygenase is the target of zileuton, not celecoxib.",
+    "E": "Phospholipase A2 is inhibited by glucocorticoids, not celecoxib."
+  },
+  "educationalObjective": "Celecoxib selectively inhibits COX-2, sparing COX-1 to preserve gastric mucosa and platelet function.",
+  "source": "Generated from 11. Musculoskeletal.pdf - Pharmacology: Celecoxib and nonsteroidal anti-inflammatory drugs"
+},
+{
+  "id": "msk-345",
+  "subject": "Musculoskeletal",
+  "major_topic": "Pharmacology",
+  "subtopic": "Celecoxib and nonsteroidal anti-inflammatory drugs",
+  "difficulty": "medium",
+  "vignette": "A 62-year-old man with rheumatoid arthritis is started on celecoxib. His physician warns that although it is gentler on the stomach than other NSAIDs, it carries a different serious risk and is contraindicated in patients with a known allergy to sulfonamides.",
+  "question": "Which of the following is a characteristic adverse effect of celecoxib?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Increased bleeding time due to platelet inhibition"
+    },
+    {
+      "id": "B",
+      "text": "Reye syndrome in children with viral illness"
+    },
+    {
+      "id": "C",
+      "text": "Gastric ulceration due to loss of COX-1-mediated mucosal protection"
+    },
+    {
+      "id": "D",
+      "text": "Tinnitus via effects on CN VIII"
+    },
+    {
+      "id": "E",
+      "text": "Increased risk of thrombosis (and sulfonamide allergy)"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Because celecoxib selectively inhibits COX-2 and spares COX-1, it does not inhibit platelet TXA2 production and lacks the GI corrosive effects of nonselective NSAIDs. However, it increases the risk of thrombosis and is associated with sulfa allergy. It is used for rheumatoid arthritis and osteoarthritis.",
+  "explanation_incorrect": {
+    "A": "Increased bleeding time from platelet inhibition is caused by aspirin, not celecoxib, which spares platelet function.",
+    "B": "Reye syndrome is associated with aspirin use in children with viral illness, not celecoxib.",
+    "C": "Gastric ulceration from loss of COX-1 mucosal protection is a risk of nonselective NSAIDs, not celecoxib, which spares COX-1.",
+    "D": "Tinnitus via CN VIII is a feature of aspirin (salicylate) toxicity, not celecoxib."
+  },
+  "educationalObjective": "Celecoxib spares gastric mucosa and platelets but increases thrombosis risk and is linked to sulfa allergy.",
+  "source": "Generated from 11. Musculoskeletal.pdf - Pharmacology: Celecoxib and nonsteroidal anti-inflammatory drugs"
+},
+{
+  "id": "msk-346",
+  "subject": "Musculoskeletal",
+  "major_topic": "Pharmacology",
+  "subtopic": "Celecoxib and nonsteroidal anti-inflammatory drugs",
+  "difficulty": "easy",
+  "vignette": "A 70-year-old woman with heart failure takes ibuprofen regularly for arthritic pain. She develops worsening renal function. Her physician explains that prostaglandins normally keep the afferent arteriole of the glomerulus dilated, and blocking their synthesis compromises renal perfusion.",
+  "question": "Which of the following best explains NSAID-induced renal ischemia?",
+  "options": [
+    {
+      "id": "A",
+      "text": "NSAIDs constrict the efferent arteriole via angiotensin II"
+    },
+    {
+      "id": "B",
+      "text": "NSAIDs block prostaglandin-mediated vasodilation of the afferent arteriole"
+    },
+    {
+      "id": "C",
+      "text": "NSAIDs cause direct tubular deposition of immune complexes"
+    },
+    {
+      "id": "D",
+      "text": "NSAIDs increase renal blood flow via COX-2 activation"
+    },
+    {
+      "id": "E",
+      "text": "NSAIDs stimulate renin release, constricting the afferent arteriole"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Prostaglandins (such as PGI2 and PGE2) vasodilate the afferent arteriole, maintaining renal blood flow, especially in states of reduced perfusion. NSAIDs reversibly inhibit COX-1 and COX-2, blocking prostaglandin synthesis and causing afferent arteriole vasoconstriction and renal ischemia. Other adverse effects include interstitial nephritis and gastric ulcer.",
+  "explanation_incorrect": {
+    "A": "NSAIDs do not constrict the efferent arteriole via angiotensin II; that is an effect of angiotensin II, not COX inhibition.",
+    "C": "Direct immune-complex deposition is not the mechanism of NSAID nephrotoxicity; NSAIDs can cause interstitial nephritis, which is distinct.",
+    "D": "NSAIDs inhibit, not activate, COX and do not increase renal blood flow; they reduce prostaglandin-mediated vasodilation.",
+    "E": "NSAIDs do not stimulate renin release to constrict the afferent arteriole; the problem is loss of vasodilatory prostaglandins."
+  },
+  "educationalObjective": "NSAIDs can cause renal ischemia by blocking prostaglandin-mediated vasodilation of the afferent arteriole.",
+  "source": "Generated from 11. Musculoskeletal.pdf - Pharmacology: Celecoxib and nonsteroidal anti-inflammatory drugs"
+},
+{
+  "id": "msk-347",
+  "subject": "Musculoskeletal",
+  "major_topic": "Pharmacology",
+  "subtopic": "Celecoxib and nonsteroidal anti-inflammatory drugs",
+  "difficulty": "medium",
+  "vignette": "A premature infant is found to have a patent ductus arteriosus that is causing symptoms of heart failure. The neonatology team administers a medication from the NSAID class to promote closure of the ductus.",
+  "question": "Which of the following NSAIDs is used to close a patent ductus arteriosus?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Celecoxib"
+    },
+    {
+      "id": "B",
+      "text": "Acetaminophen"
+    },
+    {
+      "id": "C",
+      "text": "Naproxen"
+    },
+    {
+      "id": "D",
+      "text": "Indomethacin"
+    },
+    {
+      "id": "E",
+      "text": "Aspirin"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Indomethacin is a nonselective NSAID that inhibits prostaglandin synthesis and is used to promote closure of a patent ductus arteriosus in premature infants. Prostaglandins (particularly PGE2) keep the ductus open, so inhibiting their synthesis allows it to constrict and close.",
+  "explanation_incorrect": {
+    "A": "Celecoxib is a selective COX-2 inhibitor used for arthritis, not for closing a PDA.",
+    "B": "Acetaminophen is a centrally acting analgesic/antipyretic with minimal peripheral anti-inflammatory effect and is not used to close a PDA.",
+    "C": "Naproxen is a nonselective NSAID used for pain and inflammation but is not the agent used for PDA closure.",
+    "E": "Aspirin is an irreversible COX inhibitor used for antiplatelet therapy and is not used to close a PDA."
+  },
+  "educationalObjective": "Indomethacin is the NSAID used to close a patent ductus arteriosus by inhibiting prostaglandin synthesis.",
+  "source": "Generated from 11. Musculoskeletal.pdf - Pharmacology: Celecoxib and nonsteroidal anti-inflammatory drugs"
+},
+{
+  "id": "msk-348",
+  "subject": "Musculoskeletal",
+  "major_topic": "Pharmacology",
+  "subtopic": "Celecoxib and nonsteroidal anti-inflammatory drugs",
+  "difficulty": "hard",
+  "vignette": "A 65-year-old patient with osteoarthritis and a history of a bleeding peptic ulcer needs long-term anti-inflammatory therapy. The physician chooses celecoxib over naproxen, noting that it is less damaging to the gastric mucosa. The patient also has coronary artery disease, which requires careful consideration.",
+  "question": "Which of the following best explains both the GI advantage and the cardiovascular concern with celecoxib compared with naproxen?",
+  "options": [
+    {
+      "id": "A",
+      "text": "COX-2 selectivity inhibits platelet COX-1 more strongly, increasing bleeding risk"
+    },
+    {
+      "id": "B",
+      "text": "COX-2 selectivity spares gastric mucosa but also increases gastric acid secretion"
+    },
+    {
+      "id": "C",
+      "text": "COX-2 selectivity spares gastric COX-1 but removes cardioprotective PGI2, increasing thrombosis risk"
+    },
+    {
+      "id": "D",
+      "text": "COX-2 selectivity reduces inflammation by blocking phospholipase A2"
+    },
+    {
+      "id": "E",
+      "text": "COX-2 selectivity both spares the stomach and lowers the risk of thrombosis"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Celecoxib selectively inhibits COX-2, sparing COX-1 and preserving gastric mucosal prostaglandins, which reduces GI toxicity compared with nonselective NSAIDs like naproxen. However, COX-2 in vascular endothelium produces prostacyclin (PGI2), which inhibits platelet aggregation; suppressing it while leaving COX-1-derived TXA2 unopposed increases thrombotic risk.",
+  "explanation_incorrect": {
+    "A": "Celecoxib does not inhibit platelet COX-1; it spares it, so it does not increase bleeding risk through platelet inhibition.",
+    "B": "Celecoxib does not increase gastric acid secretion; sparing COX-1 preserves mucosal protection, which is why it is less damaging to the stomach.",
+    "D": "Celecoxib inhibits COX-2, not phospholipase A2; phospholipase A2 is the target of glucocorticoids.",
+    "E": "While the GI advantage is real, celecoxib increases (not lowers) the risk of thrombosis, so this statement is incorrect."
+  },
+  "educationalObjective": "Celecoxib's COX-2 selectivity spares gastric COX-1 but reduces endothelial PGI2, increasing thrombosis risk.",
+  "source": "Generated from 11. Musculoskeletal.pdf - Pharmacology: Celecoxib and nonsteroidal anti-inflammatory drugs"
+}
+]

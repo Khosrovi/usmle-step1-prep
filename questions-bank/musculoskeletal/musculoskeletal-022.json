@@ -1,0 +1,248 @@
+[
+{
+  "id": "msk-241",
+  "subject": "Musculoskeletal",
+  "major_topic": "Dermatology",
+  "subtopic": "Epithelial cell junctions and exocrine glands",
+  "difficulty": "medium",
+  "vignette": "A researcher studies an epithelial monolayer and finds that a labeled small molecule cannot pass between adjacent cells, even though it can diffuse through the cells themselves. The protein complex responsible is located at the most apical portion of the lateral membrane.",
+  "question": "Which junction and protein pair best accounts for this barrier function?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Adherens junction; cadherins"
+    },
+    {
+      "id": "B",
+      "text": "Tight junction (zonula occludens); claudins and occludins"
+    },
+    {
+      "id": "C",
+      "text": "Desmosome; desmoglein"
+    },
+    {
+      "id": "D",
+      "text": "Gap junction; connexons"
+    },
+    {
+      "id": "E",
+      "text": "Hemidesmosome; integrins"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Tight junctions (zonula occludens) are located at the apical aspect of the lateral membrane and prevent paracellular movement of solutes. They are composed of the transmembrane proteins claudins and occludins, which seal the space between adjacent cells. This barrier function is essential in epithelia such as the intestinal and renal tubular lining, where it controls what crosses between cells.",
+  "explanation_incorrect": {
+    "A": "Adherens junctions use cadherins to form a contractile actin belt for mechanical adhesion; they do not seal the paracellular space.",
+    "C": "Desmosomes contain desmoglein and provide spot-like mechanical support via intermediate filaments; they are not the paracellular diffusion barrier.",
+    "D": "Gap junctions are made of connexons and allow electrical and chemical communication between cells, not barrier formation.",
+    "E": "Hemidesmosomes anchor basal cells to the basement membrane via integrins; they are not located between adjacent cells at the apical membrane."
+  },
+  "educationalObjective": "Tight junctions use claudins and occludins at the apical membrane to block paracellular solute movement.",
+  "source": "Generated from 11. Musculoskeletal.pdf - Dermatology: Epithelial cell junctions and exocrine glands"
+},
+{
+  "id": "msk-242",
+  "subject": "Musculoskeletal",
+  "major_topic": "Dermatology",
+  "subtopic": "Epithelial cell junctions and exocrine glands",
+  "difficulty": "medium",
+  "vignette": "A pathology report notes that a patient's breast carcinoma has lost expression of a calcium-dependent adhesion molecule that normally links the actin cytoskeletons of adjacent epithelial cells in a belt-like ring. The loss is associated with increased metastatic potential.",
+  "question": "Which junction and its associated adhesion protein are most directly implicated?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Tight junction; occludin"
+    },
+    {
+      "id": "B",
+      "text": "Desmosome; desmoglein 3"
+    },
+    {
+      "id": "C",
+      "text": "Gap junction; connexin"
+    },
+    {
+      "id": "D",
+      "text": "Adherens junction (zonula adherens); E-cadherin"
+    },
+    {
+      "id": "E",
+      "text": "Hemidesmosome; collagen XVII"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "The adherens junction (zonula adherens, or belt desmosome) forms a belt that connects the actin cytoskeletons of adjacent cells and is built from cadherins, which are calcium-dependent adhesion proteins. Loss of E-cadherin reduces cell-cell adhesion and promotes metastasis, a classic step in epithelial-mesenchymal transition. This contrasts with desmosomes, which use intermediate filaments rather than actin.",
+  "explanation_incorrect": {
+    "A": "Tight junctions use claudins and occludins to seal the paracellular space; loss of occludin is not the classic metastasis-associated adhesion defect described.",
+    "B": "Desmosomes use desmoglein and intermediate filaments for mechanical support; desmoglein loss causes pemphigus vulgaris, not the E-cadherin metastatic phenotype.",
+    "C": "Gap junctions use connexins and connexons for intercellular communication and are not responsible for the actin-based adhesive belt.",
+    "E": "Hemidesmosomes attach basal cells to the basement membrane and autoantibodies there cause bullous pemphigoid; they are not cell-cell junctions."
+  },
+  "educationalObjective": "Adherens junctions use calcium-dependent cadherins linked to actin; loss of E-cadherin promotes metastasis.",
+  "source": "Generated from 11. Musculoskeletal.pdf - Dermatology: Epithelial cell junctions and exocrine glands"
+},
+{
+  "id": "msk-243",
+  "subject": "Musculoskeletal",
+  "major_topic": "Dermatology",
+  "subtopic": "Epithelial cell junctions and exocrine glands",
+  "difficulty": "hard",
+  "vignette": "A 55-year-old woman has painful oral erosions and flaccid blisters on her trunk that rupture easily. A skin biopsy shows separation of keratinocytes from one another (acantholysis). Direct immunofluorescence demonstrates IgG deposited on the surfaces of epidermal cells.",
+  "question": "Which junctional structure and target antigen are most likely involved in this disease?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Desmosome; desmoglein 3 (and desmoglein 1)"
+    },
+    {
+      "id": "B",
+      "text": "Hemidesmosome; bullous pemphigoid antigen"
+    },
+    {
+      "id": "C",
+      "text": "Tight junction; claudin"
+    },
+    {
+      "id": "D",
+      "text": "Adherens junction; E-cadherin"
+    },
+    {
+      "id": "E",
+      "text": "Gap junction; connexon"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Pemphigus vulgaris is caused by autoantibodies against desmoglein 3, often with desmoglein 1, which are cadherin-family proteins in desmosomes. Desmosomes (macula adherens) provide structural support through intermediate filament interactions. Antibody binding disrupts desmosomal adhesion, producing acantholysis (separation of keratinocytes), flaccid blisters, and oral erosions. IgG deposition on keratinocyte surfaces gives a 'chicken-wire' immunofluorescence pattern.",
+  "explanation_incorrect": {
+    "B": "Hemidesmosome autoantibodies cause bullous pemphigoid, which produces tense subepidermal blisters without acantholysis; immunofluorescence is linear along the basement membrane.",
+    "C": "Tight junctions contain claudins and occludins and seal the paracellular space; they are not the target in pemphigus and are not linked to intermediate filaments.",
+    "D": "Adherens junctions use E-cadherin linked to actin in a belt; their disruption is associated with metastasis, not with the flaccid blisters of pemphigus vulgaris.",
+    "E": "Gap junctions use connexons for cell-to-cell communication and are not structural adhesion targets in autoimmune blistering disease."
+  },
+  "educationalObjective": "Pemphigus vulgaris targets desmoglein 1/3 in desmosomes, causing acantholysis and flaccid blisters.",
+  "source": "Generated from 11. Musculoskeletal.pdf - Dermatology: Epithelial cell junctions and exocrine glands"
+},
+{
+  "id": "msk-244",
+  "subject": "Musculoskeletal",
+  "major_topic": "Dermatology",
+  "subtopic": "Epithelial cell junctions and exocrine glands",
+  "difficulty": "easy",
+  "vignette": "A physiologist is studying how neighboring cardiac myocytes contract in a coordinated fashion. She identifies channels that directly connect the cytoplasm of adjacent cells and allow ions and small molecules to pass freely.",
+  "question": "Which junction is responsible for this direct electrical and chemical communication between cells?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Tight junction"
+    },
+    {
+      "id": "B",
+      "text": "Adherens junction"
+    },
+    {
+      "id": "C",
+      "text": "Desmosome"
+    },
+    {
+      "id": "D",
+      "text": "Hemidesmosome"
+    },
+    {
+      "id": "E",
+      "text": "Gap junction"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Gap junctions are composed of channel proteins called connexons that form pores connecting the cytoplasm of adjacent cells. They permit electrical and chemical communication by allowing ions and small molecules to pass directly from cell to cell. This is essential for synchronized contraction of cardiac and smooth muscle.",
+  "explanation_incorrect": {
+    "A": "Tight junctions seal the paracellular space to prevent movement of solutes between cells; they do not form communicating pores.",
+    "B": "Adherens junctions form an actin-linked adhesion belt with cadherins and provide mechanical, not electrical, coupling.",
+    "C": "Desmosomes provide mechanical strength through intermediate filaments and do not allow cytoplasmic exchange.",
+    "D": "Hemidesmosomes anchor basal epithelial cells to the basement membrane and are not intercellular communicating channels."
+  },
+  "educationalObjective": "Gap junctions use connexons to permit direct electrical and chemical communication between cells.",
+  "source": "Generated from 11. Musculoskeletal.pdf - Dermatology: Epithelial cell junctions and exocrine glands"
+},
+{
+  "id": "msk-245",
+  "subject": "Musculoskeletal",
+  "major_topic": "Dermatology",
+  "subtopic": "Epithelial cell junctions and exocrine glands",
+  "difficulty": "medium",
+  "vignette": "A 72-year-old man has large, tense blisters on his trunk and legs that do not rupture easily. Biopsy shows a subepidermal blister, and direct immunofluorescence shows linear IgG along the basement membrane zone.",
+  "question": "Which junctional structure is the target of the autoimmune attack in this condition?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Desmosome"
+    },
+    {
+      "id": "B",
+      "text": "Tight junction"
+    },
+    {
+      "id": "C",
+      "text": "Hemidesmosome"
+    },
+    {
+      "id": "D",
+      "text": "Gap junction"
+    },
+    {
+      "id": "E",
+      "text": "Adherens junction"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Bullous pemphigoid is caused by autoantibodies against components of hemidesmosomes, which connect keratin in basal cells to the underlying basement membrane. Because the split occurs at the basement membrane, blisters are subepidermal, tense, and do not rupture easily. The mnemonic is that hemidesmosomes are down 'bullow.' This contrasts with pemphigus vulgaris, in which desmosomal antibodies cause flaccid, easily ruptured blisters with acantholysis.",
+  "explanation_incorrect": {
+    "A": "Desmosome autoantibodies cause pemphigus vulgaris, which produces flaccid blisters with acantholysis and an intercellular chicken-wire IgG pattern, not tense subepidermal blisters.",
+    "B": "Tight junctions are apical seals made of claudins and occludins and are not the target in bullous pemphigoid.",
+    "D": "Gap junctions are communicating channels made of connexons and are not involved in this autoimmune blistering disease.",
+    "E": "Adherens junctions use cadherins linked to actin; they are not the target in bullous pemphigoid."
+  },
+  "educationalObjective": "Bullous pemphigoid targets hemidesmosomes, producing tense subepidermal blisters ('down bullow').",
+  "source": "Generated from 11. Musculoskeletal.pdf - Dermatology: Epithelial cell junctions and exocrine glands"
+},
+{
+  "id": "msk-246",
+  "subject": "Musculoskeletal",
+  "major_topic": "Dermatology",
+  "subtopic": "Epithelial cell junctions and exocrine glands",
+  "difficulty": "easy",
+  "vignette": "A histology student compares the modes of secretion used by different exocrine glands. She notes that one type releases its product by exocytosis of secretory vesicles without losing cellular material, whereas another type releases a lipid-rich product by disintegration of the entire cell.",
+  "question": "Which of the following correctly pairs a secretion mode with an example gland?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Holocrine secretion — sweat glands"
+    },
+    {
+      "id": "B",
+      "text": "Holocrine secretion — sebaceous glands"
+    },
+    {
+      "id": "C",
+      "text": "Apocrine secretion — salivary glands"
+    },
+    {
+      "id": "D",
+      "text": "Merocrine secretion — mammary glands"
+    },
+    {
+      "id": "E",
+      "text": "Apocrine secretion — sebaceous glands"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Exocrine glands release nonhormonal substances through ducts onto the body surface. Holocrine secretion, exemplified by sebaceous glands, releases sebum by complete disintegration of the cell. Merocrine secretion, used by salivary and sweat glands, releases products by exocytosis without cell loss. Apocrine secretion, as in mammary glands, releases a portion of the cell's cytoplasm with the product.",
+  "explanation_incorrect": {
+    "A": "Sweat glands are merocrine, releasing secretion by exocytosis; holocrine secretion involves disintegration of the whole cell and is characteristic of sebaceous glands.",
+    "C": "Salivary glands are merocrine, not apocrine; apocrine secretion is exemplified by mammary glands.",
+    "D": "Mammary glands are the classic example of apocrine secretion; merocrine glands include salivary and sweat glands.",
+    "E": "Sebaceous glands are holocrine, not apocrine; apocrine secretion pinches off a portion of the cell rather than releasing the entire disintegrated cell."
+  },
+  "educationalObjective": "Exocrine glands are merocrine (salivary, sweat), apocrine (mammary), or holocrine (sebaceous).",
+  "source": "Generated from 11. Musculoskeletal.pdf - Dermatology: Epithelial cell junctions and exocrine glands"
+}
+]
