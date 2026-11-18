@@ -1,0 +1,289 @@
+[
+{
+  "id": "rep-409",
+  "subject": "Reproductive",
+  "major_topic": "Pharmacology",
+  "subtopic": "Contraception methods",
+  "difficulty": "hard",
+  "vignette": "A 25-year-old woman is prescribed a combined estrogen-progestin oral contraceptive pill. She asks why taking daily hormones prevents release of an egg and whether the cervical mucus effect is the main mechanism.",
+  "question": "Which of the following best explains how combined hormonal contraceptives prevent ovulation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Thickening of cervical mucus as the sole mechanism"
+    },
+    {
+      "id": "B",
+      "text": "Decreased GnRH leading to decreased LH and FSH and no LH surge"
+    },
+    {
+      "id": "C",
+      "text": "An augmented estrogen surge triggering synchronized ovulation"
+    },
+    {
+      "id": "D",
+      "text": "Direct destruction of developing ovarian follicles"
+    },
+    {
+      "id": "E",
+      "text": "Suppression of prolactin leading to anovulation"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Combined hormonal contraceptives (and progestin-only methods) suppress ovulation primarily through negative feedback: they decrease GnRH release, which decreases LH and FSH secretion, preventing the midcycle estrogen surge and the LH surge required for ovulation. Progestins additionally thicken cervical mucus (reducing sperm entry) and thin the endometrium (less suitable for implantation), but those are secondary effects; the central mechanism is blockade of the LH surge. Forms include the oral pill, transdermal patch, and vaginal ring.",
+  "explanation_incorrect": {
+    "A": "Thickening cervical mucus reduces sperm entry and is an important progestin effect, but it is not the mechanism that prevents ovulation.",
+    "C": "Hormonal contraceptives prevent rather than augment the estrogen surge and LH surge; an estrogen surge would promote ovulation.",
+    "D": "Hormonal contraceptives do not destroy ovarian follicles; they suppress the hormonal signaling that drives ovulation.",
+    "E": "Prolactin suppression is not the mechanism of these contraceptives, which act through GnRH, LH, and FSH."
+  },
+  "educationalObjective": "Hormonal contraceptives prevent ovulation by decreasing GnRH, LH, and FSH, thereby abolishing the LH surge; progestins also thicken cervical mucus and thin the endometrium.",
+  "source": "Generated from 15. Reproductive.pdf - Pharmacology: Contraception methods"
+},
+{
+  "id": "rep-410",
+  "subject": "Reproductive",
+  "major_topic": "Pharmacology",
+  "subtopic": "Contraception methods",
+  "difficulty": "medium",
+  "vignette": "A 30-year-old woman uses a progestin-only contraceptive. In addition to suppressing ovulation, the progestin acts locally on the reproductive tract to provide a backup barrier to pregnancy.",
+  "question": "Which of the following pairs of effects is attributable to the progestin component of hormonal contraception?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Thinner cervical mucus and a thicker endometrium"
+    },
+    {
+      "id": "B",
+      "text": "Increased sperm entry and a thicker, more vascular endometrium"
+    },
+    {
+      "id": "C",
+      "text": "Thicker cervical mucus and an endometrium highly suitable for implantation"
+    },
+    {
+      "id": "D",
+      "text": "Decreased cervical mucus viscosity and increased endometrial proliferation"
+    },
+    {
+      "id": "E",
+      "text": "Thickened cervical mucus and a thin endometrium less suitable for implantation"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Progestins thicken cervical mucus, which reduces sperm entry into the uterus, and they thin the endometrium, making it less suitable for implantation. These local effects supplement the suppression of ovulation and are central to progestin-only contraceptives and the progesterone IUD. The endometrium under progestin influence is secretory and thin rather than proliferative.",
+  "explanation_incorrect": {
+    "A": "Progestins thicken rather than thin cervical mucus and thin rather than thicken the endometrium.",
+    "B": "Progestins reduce rather than increase sperm entry, and they make the endometrium less rather than more suitable for implantation.",
+    "C": "Although progestins do thicken cervical mucus, they thin the endometrium and make it less suitable, not more suitable, for implantation.",
+    "D": "Progestins increase cervical mucus viscosity and oppose endometrial proliferation rather than promoting it."
+  },
+  "educationalObjective": "Progestin contraception thickens cervical mucus (reducing sperm entry) and thins the endometrium (reducing implantability).",
+  "source": "Generated from 15. Reproductive.pdf - Pharmacology: Contraception methods"
+},
+{
+  "id": "rep-411",
+  "subject": "Reproductive",
+  "major_topic": "Pharmacology",
+  "subtopic": "Contraception methods",
+  "difficulty": "medium",
+  "vignette": "A 29-year-old woman chooses a copper IUD for contraception. It is hormone-free and acts locally within the uterine cavity rather than by systemic hormonal suppression. She wants to know how it works.",
+  "question": "Which of the following best describes the mechanism of the copper IUD?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Suppression of GnRH, LH, and FSH to prevent ovulation"
+    },
+    {
+      "id": "B",
+      "text": "Release of a progestin that thickens cervical mucus"
+    },
+    {
+      "id": "C",
+      "text": "Local inflammation toxic to sperm and ova, preventing fertilization and implantation"
+    },
+    {
+      "id": "D",
+      "text": "Permanent occlusion of the fallopian tubes"
+    },
+    {
+      "id": "E",
+      "text": "Inhibition of aromatase to lower circulating estrogen"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "The copper IUD is hormone-free and works by producing a local inflammatory response in the uterine cavity that is toxic to sperm and ova, thereby preventing fertilization and implantation. It does not suppress ovulation systemically. This distinguishes it from hormonal (progesterone) IUDs and from combined hormonal contraceptives.",
+  "explanation_incorrect": {
+    "A": "The copper IUD does not suppress GnRH, LH, or FSH; ovulation continues with this method.",
+    "B": "The copper IUD is hormone-free and releases no progestin; a progesterone IUD would thicken cervical mucus.",
+    "D": "Occlusion of the fallopian tubes is the mechanism of tubal ligation, not of an intrauterine device.",
+    "E": "Aromatase inhibition is the mechanism of aromatase inhibitors, not of the copper IUD."
+  },
+  "educationalObjective": "The copper IUD is hormone-free and prevents fertilization and implantation via a local inflammatory reaction toxic to sperm and ova.",
+  "source": "Generated from 15. Reproductive.pdf - Pharmacology: Contraception methods"
+},
+{
+  "id": "rep-412",
+  "subject": "Reproductive",
+  "major_topic": "Pharmacology",
+  "subtopic": "Contraception methods",
+  "difficulty": "hard",
+  "vignette": "A 34-year-old woman requests a copper IUD for contraception. She reports heavy menstrual bleeding and is currently being evaluated for a possible active sexually transmitted infection. Her clinician reviews the risks before insertion.",
+  "question": "Which of the following is a contraindication to insertion of a copper IUD?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A remote history of ER-positive breast cancer"
+    },
+    {
+      "id": "B",
+      "text": "Prior use of combined oral contraceptives"
+    },
+    {
+      "id": "C",
+      "text": "Migraine with aura"
+    },
+    {
+      "id": "D",
+      "text": "Active STI and heavy menstrual bleeding"
+    },
+    {
+      "id": "E",
+      "text": "Nulliparity"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "IUD insertion is contraindicated in patients with an active sexually transmitted infection because of the risk of pelvic inflammatory disease, and in those with heavy menstrual bleeding because IUDs increase the risk of abnormal uterine bleeding. The copper IUD can worsen menorrhagia. Nulliparity and prior oral contraceptive use are not contraindications, and the copper IUD is hormone-free.",
+  "explanation_incorrect": {
+    "A": "A history of ER-positive breast cancer is a concern with estrogen-containing contraceptives, not a contraindication to a hormone-free copper IUD.",
+    "B": "Prior use of combined oral contraceptives does not contraindicate IUD insertion.",
+    "C": "Migraine with aura is a contraindication to estrogen-containing contraceptives due to stroke risk, not to a copper IUD.",
+    "E": "Nulliparity is not a contraindication; copper IUDs can be used in nulliparous patients."
+  },
+  "educationalObjective": "Copper IUD insertion is contraindicated with active STI and heavy menstrual bleeding; IUDs increase abnormal uterine bleeding.",
+  "source": "Generated from 15. Reproductive.pdf - Pharmacology: Contraception methods"
+},
+{
+  "id": "rep-413",
+  "subject": "Reproductive",
+  "major_topic": "Pharmacology",
+  "subtopic": "Contraception methods",
+  "difficulty": "medium",
+  "vignette": "A 27-year-old woman is comparing a copper IUD with a hormonal progesterone IUD before choosing a contraceptive. She wants to understand how the hormonal IUD differs from the hormone-free one.",
+  "question": "Which of the following statements about the progesterone IUD is correct?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It has effects similar to progestins, including thickened cervical mucus and a thinned endometrium"
+    },
+    {
+      "id": "B",
+      "text": "It is hormone-free and works through inflammation toxic to sperm and ova"
+    },
+    {
+      "id": "C",
+      "text": "It prevents ovulation by reliably suppressing GnRH in all users"
+    },
+    {
+      "id": "D",
+      "text": "It has the same mechanism as surgical tubal ligation"
+    },
+    {
+      "id": "E",
+      "text": "It relies on copper ions to damage sperm and ova"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "The progesterone (hormonal) IUD has the same effects as progestins: it thickens cervical mucus (reducing sperm entry) and thins the endometrium (making implantation less likely), and it may suppress ovulation in some users. This differs from the copper IUD, which is hormone-free and acts through local inflammation. Both types of IUD increase the risk of abnormal uterine bleeding.",
+  "explanation_incorrect": {
+    "B": "The hormone-free IUD that causes inflammation toxic to sperm and ova is the copper IUD, not the progesterone IUD.",
+    "C": "Progesterone IUDs act mainly locally and do not reliably suppress ovulation systemically in all users.",
+    "D": "Tubal ligation is a surgical sterilization procedure, not the mechanism of an intrauterine device.",
+    "E": "Copper ions damaging sperm and ova is the mechanism of the copper IUD, not the progesterone IUD."
+  },
+  "educationalObjective": "The progesterone IUD acts like progestins (thickened cervical mucus, thin endometrium), whereas the copper IUD is hormone-free and works via local inflammation.",
+  "source": "Generated from 15. Reproductive.pdf - Pharmacology: Contraception methods"
+},
+{
+  "id": "rep-414",
+  "subject": "Reproductive",
+  "major_topic": "Pharmacology",
+  "subtopic": "Contraception methods",
+  "difficulty": "easy",
+  "vignette": "A 38-year-old man is considering permanent contraception and chooses vasectomy after counseling about its irreversibility. He wants to know exactly what the procedure changes about his semen.",
+  "question": "Which of the following best describes the mechanism and result of vasectomy?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Ligation of the fallopian tubes so sperm cannot reach the ova"
+    },
+    {
+      "id": "B",
+      "text": "Occlusion of the vas deferens resulting in no sperm in the ejaculate"
+    },
+    {
+      "id": "C",
+      "text": "Removal of the testes, eliminating testosterone production"
+    },
+    {
+      "id": "D",
+      "text": "Suppression of spermatogenesis by exogenous estrogen"
+    },
+    {
+      "id": "E",
+      "text": "Thickening of cervical mucus to block sperm"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Vasectomy is a male surgical sterilization procedure in which the vas deferens is cut or occluded, preventing sperm from entering the ejaculate, so there are no sperm in the ejaculate. Semen fluid is still produced by the seminal vesicles and prostate, but it contains no sperm. The procedure is intended to be irreversible, matching the female counterpart tubal ligation.",
+  "explanation_incorrect": {
+    "A": "Ligation of the fallopian tubes is tubal ligation, the female sterilization procedure, not vasectomy.",
+    "C": "Vasectomy does not remove the testes; testosterone production and spermatogenesis continue, but sperm transport is blocked.",
+    "D": "Vasectomy is a surgical procedure, not hormonal suppression with exogenous estrogen.",
+    "E": "Thickening cervical mucus is a progestin contraceptive effect in the female, not a feature of vasectomy."
+  },
+  "educationalObjective": "Vasectomy occludes the vas deferens so there are no sperm in the ejaculate; it is a permanent (irreversible) male sterilization.",
+  "source": "Generated from 15. Reproductive.pdf - Pharmacology: Contraception methods"
+},
+{
+  "id": "rep-415",
+  "subject": "Reproductive",
+  "major_topic": "Pharmacology",
+  "subtopic": "Contraception methods",
+  "difficulty": "easy",
+  "vignette": "A 35-year-old woman undergoes tubal ligation for permanent contraception after completing her family. She asks how the procedure prevents pregnancy and whether it will affect her menstrual hormones.",
+  "question": "Which of the following best describes the mechanism of tubal ligation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Elimination of sperm from the ejaculate"
+    },
+    {
+      "id": "B",
+      "text": "Prevention of ovulation through hormonal suppression"
+    },
+    {
+      "id": "C",
+      "text": "Occlusion of the fallopian tubes so sperm cannot reach the ova"
+    },
+    {
+      "id": "D",
+      "text": "Local inflammation toxic to both sperm and ova"
+    },
+    {
+      "id": "E",
+      "text": "Thinning of the endometrium to prevent implantation"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Tubal ligation is a surgical sterilization procedure in which the fallopian tubes are occluded so that sperm cannot reach the ova and fertilization cannot occur. It is the female counterpart of vasectomy and is intended to be irreversible. Ovulation and menstrual hormone function are unaffected because the ovaries remain intact.",
+  "explanation_incorrect": {
+    "A": "Absence of sperm from the ejaculate is the result of vasectomy, not tubal ligation.",
+    "B": "Tubal ligation is a mechanical barrier and does not hormonally suppress ovulation; ovulation continues.",
+    "D": "Local inflammation toxic to sperm and ova is the mechanism of the copper IUD, not tubal ligation.",
+    "E": "Thinning the endometrium is a progestin contraceptive effect, not the mechanism of tubal ligation."
+  },
+  "educationalObjective": "Tubal ligation permanently occludes the fallopian tubes so sperm cannot reach the ova, without altering ovulation or hormones.",
+  "source": "Generated from 15. Reproductive.pdf - Pharmacology: Contraception methods"
+}
+]

@@ -1,0 +1,330 @@
+[
+{
+  "id": "rep-429",
+  "subject": "Reproductive",
+  "major_topic": "Pharmacology",
+  "subtopic": "Antiandrogens: abiraterone, finasteride, flutamide, ketoconazole, spironolactone",
+  "difficulty": "medium",
+  "vignette": "A 68-year-old man with metastatic castration-resistant prostate cancer is started on a drug that markedly lowers serum testosterone by blocking androgen biosynthesis. The drug inhibits an enzyme in the steroidogenic pathway that is shared by cortisol and androgen synthesis.",
+  "question": "Which of the following best describes the mechanism of action of this drug?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Competitive inhibition of the androgen receptor"
+    },
+    {
+      "id": "B",
+      "text": "17-alpha-hydroxylase/17,20-lyase inhibitor that decreases steroid synthesis"
+    },
+    {
+      "id": "C",
+      "text": "5-alpha-reductase inhibitor that decreases conversion of testosterone to DHT"
+    },
+    {
+      "id": "D",
+      "text": "Nonsteroidal androgen receptor antagonist that decreases steroid binding"
+    },
+    {
+      "id": "E",
+      "text": "GnRH receptor antagonist that immediately suppresses LH and FSH"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Abiraterone is a 17-alpha-hydroxylase/17,20-lyase (CYP17A1) inhibitor that blocks steroid synthesis in the adrenal glands, testes, and tumor tissue, markedly lowering androgen production. It is used for castration-resistant prostate cancer. Because CYP17A1 is also required for cortisol synthesis, precursors are shifted toward mineralocorticoid production. This upstream inhibition of steroid synthesis distinguishes it from receptor antagonists such as flutamide.",
+  "explanation_incorrect": {
+    "A": "Competitive androgen receptor inhibition is the mechanism of flutamide and bicalutamide, not abiraterone.",
+    "C": "5-alpha-reductase inhibition is the mechanism of finasteride, which blocks DHT formation but does not broadly block steroid synthesis.",
+    "D": "Nonsteroidal androgen receptor antagonists decrease steroid binding at the receptor; abiraterone acts upstream by inhibiting synthesis.",
+    "E": "GnRH antagonists such as degarelix suppress LH and FSH directly; abiraterone acts on steroidogenic enzymes, not on the pituitary."
+  },
+  "educationalObjective": "Abiraterone inhibits 17-alpha-hydroxylase/17,20-lyase, reducing steroid (androgen) synthesis in prostate cancer.",
+  "source": "Generated from 15. Reproductive.pdf - Pharmacology: Antiandrogens: abiraterone, finasteride, flutamide, ketoconazole, spironolactone"
+},
+{
+  "id": "rep-430",
+  "subject": "Reproductive",
+  "major_topic": "Pharmacology",
+  "subtopic": "Antiandrogens: abiraterone, finasteride, flutamide, ketoconazole, spironolactone",
+  "difficulty": "hard",
+  "vignette": "A 70-year-old man with metastatic prostate cancer begins abiraterone. After several weeks he develops a blood pressure of 160/95 mm Hg and a serum potassium of 3.0 mEq/L. He has no edema and his renal function is normal.",
+  "question": "Which of the following best explains these adverse effects of abiraterone?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Direct androgen receptor stimulation in vascular smooth muscle"
+    },
+    {
+      "id": "B",
+      "text": "Inhibition of 5-alpha-reductase causing DHT accumulation"
+    },
+    {
+      "id": "C",
+      "text": "Competitive antagonism of mineralocorticoid receptors"
+    },
+    {
+      "id": "D",
+      "text": "Enhanced aldosterone secretion from the adrenal zona glomerulosa"
+    },
+    {
+      "id": "E",
+      "text": "Increased mineralocorticoid precursors due to blockade of steroid synthesis, causing hypertension and hypokalemia"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Abiraterone inhibits CYP17A1 (17-alpha-hydroxylase/17,20-lyase), blocking cortisol and androgen synthesis. The resulting accumulation of mineralocorticoid precursors, together with elevated ACTH, causes hypertension and hypokalemia. This is a characteristic adverse effect requiring monitoring of blood pressure and potassium, often managed with prednisone and a mineralocorticoid receptor antagonist. It is a direct consequence of the drug's action on the steroidogenic pathway.",
+  "explanation_incorrect": {
+    "A": "Abiraterone is not an androgen receptor agonist; it lowers androgens, so direct vascular androgen stimulation cannot explain these effects.",
+    "B": "Inhibition of 5-alpha-reductase is finasteride's mechanism and would lower DHT, not cause mineralocorticoid excess.",
+    "C": "Abiraterone does not antagonize mineralocorticoid receptors; spironolactone does and tends to cause hyperkalemia rather than hypokalemia.",
+    "D": "Aldosterone secretion is relatively preserved because the zona glomerulosa lacks CYP17A1; the mineralocorticoid effect comes from precursor accumulation rather than increased aldosterone secretion."
+  },
+  "educationalObjective": "Abiraterone causes hypertension and hypokalemia due to increased mineralocorticoid precursors from CYP17A1 inhibition.",
+  "source": "Generated from 15. Reproductive.pdf - Pharmacology: Antiandrogens: abiraterone, finasteride, flutamide, ketoconazole, spironolactone"
+},
+{
+  "id": "rep-431",
+  "subject": "Reproductive",
+  "major_topic": "Pharmacology",
+  "subtopic": "Antiandrogens: abiraterone, finasteride, flutamide, ketoconazole, spironolactone",
+  "difficulty": "medium",
+  "vignette": "A 62-year-old man with benign prostatic hyperplasia has a prostate volume of 55 g and bothersome urinary hesitancy and nocturia. He is started on a drug that reduces prostate size by inhibiting conversion of testosterone to its more potent metabolite within the prostate.",
+  "question": "Which of the following describes the mechanism and an additional clinical use of this drug?",
+  "options": [
+    {
+      "id": "A",
+      "text": "17-alpha-hydroxylase inhibitor; also used for prostate cancer"
+    },
+    {
+      "id": "B",
+      "text": "Androgen receptor antagonist; also used for hereditary angioedema"
+    },
+    {
+      "id": "C",
+      "text": "5-alpha-reductase inhibitor that decreases conversion of testosterone to DHT; also used for androgenetic alopecia"
+    },
+    {
+      "id": "D",
+      "text": "Alpha1-antagonist; also used for hypertension"
+    },
+    {
+      "id": "E",
+      "text": "Aromatase inhibitor; also used for gynecomastia"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Finasteride is a 5-alpha-reductase inhibitor that decreases conversion of testosterone to dihydrotestosterone (DHT), reducing prostate gland size and improving urinary symptoms in BPH. Because DHT also drives androgenetic alopecia, finasteride is used to treat male pattern baldness. It is a 5-alpha-reductase inhibitor rather than a 17-alpha-hydroxylase inhibitor or a receptor antagonist. Its effects are primarily on DHT-dependent tissue.",
+  "explanation_incorrect": {
+    "A": "17-alpha-hydroxylase/17,20-lyase inhibition is the mechanism of abiraterone and ketoconazole, not finasteride.",
+    "B": "Androgen receptor antagonism is the mechanism of flutamide and spironolactone; finasteride acts on 5-alpha-reductase, and hereditary angioedema is treated with danazol.",
+    "D": "Alpha1-antagonists such as tamsulosin relax prostatic smooth muscle but do not reduce DHT or treat alopecia.",
+    "E": "Aromatase inhibitors decrease estrogen synthesis; finasteride acts on 5-alpha-reductase and is used for BPH and alopecia, not gynecomastia."
+  },
+  "educationalObjective": "Finasteride inhibits 5-alpha-reductase, reducing DHT for the treatment of BPH and androgenetic alopecia.",
+  "source": "Generated from 15. Reproductive.pdf - Pharmacology: Antiandrogens: abiraterone, finasteride, flutamide, ketoconazole, spironolactone"
+},
+{
+  "id": "rep-432",
+  "subject": "Reproductive",
+  "major_topic": "Pharmacology",
+  "subtopic": "Antiandrogens: abiraterone, finasteride, flutamide, ketoconazole, spironolactone",
+  "difficulty": "easy",
+  "vignette": "A 58-year-old man takes finasteride for benign prostatic hyperplasia. At follow-up he reports decreased libido and difficulty achieving erections, and examination reveals mild bilateral breast tissue enlargement.",
+  "question": "Which of the following adverse effects is associated with finasteride therapy?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Gynecomastia and sexual dysfunction"
+    },
+    {
+      "id": "B",
+      "text": "Hypertension and hypokalemia"
+    },
+    {
+      "id": "C",
+      "text": "Hirsutism and acne"
+    },
+    {
+      "id": "D",
+      "text": "Hepatotoxicity and idiopathic intracranial hypertension"
+    },
+    {
+      "id": "E",
+      "text": "Premature epiphyseal plate closure"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Finasteride's antiandrogen effect, caused by reduced DHT levels, can produce gynecomastia and sexual dysfunction including decreased libido and erectile difficulties. These are recognized adverse effects of 5-alpha-reductase inhibitors. They relate to reduced androgen action in peripheral tissues and are consistent with the drug's mechanism.",
+  "explanation_incorrect": {
+    "B": "Hypertension and hypokalemia are adverse effects of abiraterone due to increased mineralocorticoids, not of finasteride.",
+    "C": "Hirsutism and acne are androgenic effects seen with danazol or testosterone, not with an antiandrogen like finasteride.",
+    "D": "Hepatotoxicity and idiopathic intracranial hypertension are adverse effects of danazol, not finasteride.",
+    "E": "Premature epiphyseal closure is a concern with testosterone use in adolescents, not with finasteride."
+  },
+  "educationalObjective": "Finasteride can cause gynecomastia and sexual dysfunction as consequences of reduced DHT.",
+  "source": "Generated from 15. Reproductive.pdf - Pharmacology: Antiandrogens: abiraterone, finasteride, flutamide, ketoconazole, spironolactone"
+},
+{
+  "id": "rep-433",
+  "subject": "Reproductive",
+  "major_topic": "Pharmacology",
+  "subtopic": "Antiandrogens: abiraterone, finasteride, flutamide, ketoconazole, spironolactone",
+  "difficulty": "hard",
+  "vignette": "A 66-year-old man with prostate cancer is treated with a nonsteroidal agent that binds the androgen receptor and prevents endogenous androgens from binding. Unlike abiraterone, this drug does not lower steroid production; instead it blocks androgen action at the target receptor. Gynecomastia is a possible adverse effect.",
+  "question": "Which of the following best describes the mechanism of action of this drug?",
+  "options": [
+    {
+      "id": "A",
+      "text": "17-alpha-hydroxylase/17,20-lyase inhibitor that decreases steroid synthesis"
+    },
+    {
+      "id": "B",
+      "text": "5-alpha-reductase inhibitor that decreases DHT formation"
+    },
+    {
+      "id": "C",
+      "text": "GnRH agonist that causes an initial tumor flare"
+    },
+    {
+      "id": "D",
+      "text": "Nonsteroidal competitive inhibitor at the androgen receptor that decreases steroid binding"
+    },
+    {
+      "id": "E",
+      "text": "Aromatase inhibitor that decreases estrogen synthesis"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Flutamide and bicalutamide are nonsteroidal competitive inhibitors at the androgen receptor; they decrease androgen (steroid) binding to the receptor and are used in prostate cancer. Unlike abiraterone, they do not inhibit steroid synthesis, so androgen levels may remain elevated or even rise. Their antiandrogen effect can produce gynecomastia and sexual dysfunction. This receptor-level blockade distinguishes them from the synthesis inhibitors abiraterone and ketoconazole.",
+  "explanation_incorrect": {
+    "A": "17-alpha-hydroxylase/17,20-lyase inhibition is the mechanism of abiraterone and ketoconazole, which reduce steroid synthesis rather than blocking the receptor.",
+    "B": "5-alpha-reductase inhibition is finasteride's mechanism, reducing DHT formation rather than competitively blocking the androgen receptor.",
+    "C": "GnRH agonists such as leuprolide stimulate then downregulate gonadotropins; they are not nonsteroidal androgen receptor antagonists.",
+    "E": "Aromatase inhibitors reduce estrogen synthesis and are used in breast cancer, not as androgen receptor antagonists in prostate cancer."
+  },
+  "educationalObjective": "Flutamide and bicalutamide are nonsteroidal competitive androgen receptor inhibitors used in prostate cancer.",
+  "source": "Generated from 15. Reproductive.pdf - Pharmacology: Antiandrogens: abiraterone, finasteride, flutamide, ketoconazole, spironolactone"
+},
+{
+  "id": "rep-434",
+  "subject": "Reproductive",
+  "major_topic": "Pharmacology",
+  "subtopic": "Antiandrogens: abiraterone, finasteride, flutamide, ketoconazole, spironolactone",
+  "difficulty": "medium",
+  "vignette": "A 64-year-old man with advanced prostate cancer is treated with an antifungal drug that also inhibits steroidogenesis. It inhibits 17-alpha-hydroxylase/17,20-lyase and is used for its antiandrogen effects. During therapy he develops enlargement of breast tissue.",
+  "question": "Which adverse effect is associated with this drug when used for prostate cancer?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Hypertension and hypokalemia"
+    },
+    {
+      "id": "B",
+      "text": "Gynecomastia"
+    },
+    {
+      "id": "C",
+      "text": "Hirsutism and masculinization"
+    },
+    {
+      "id": "D",
+      "text": "Idiopathic intracranial hypertension"
+    },
+    {
+      "id": "E",
+      "text": "Testicular atrophy with suppressed LH"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Ketoconazole is a 17-alpha-hydroxylase/17,20-lyase inhibitor used in prostate cancer for its ability to reduce androgen synthesis. Its antiandrogen effect can cause gynecomastia. Among the agents in this group, gynecomastia is the characteristic adverse effect listed for ketoconazole, in contrast to the mineralocorticoid-driven hypertension and hypokalemia of abiraterone. Ketoconazole is also known primarily as an antifungal agent.",
+  "explanation_incorrect": {
+    "A": "Hypertension and hypokalemia due to increased mineralocorticoids are characteristic of abiraterone, not the key adverse effect of ketoconazole.",
+    "C": "Hirsutism and masculinization are androgenic effects of danazol or testosterone, the opposite of ketoconazole's antiandrogen action.",
+    "D": "Idiopathic intracranial hypertension is associated with danazol, not ketoconazole.",
+    "E": "Testicular atrophy with suppressed LH results from exogenous testosterone, not from ketoconazole."
+  },
+  "educationalObjective": "Ketoconazole inhibits 17-alpha-hydroxylase/17,20-lyase and is used in prostate cancer; gynecomastia is its listed adverse effect.",
+  "source": "Generated from 15. Reproductive.pdf - Pharmacology: Antiandrogens: abiraterone, finasteride, flutamide, ketoconazole, spironolactone"
+},
+{
+  "id": "rep-435",
+  "subject": "Reproductive",
+  "major_topic": "Pharmacology",
+  "subtopic": "Antiandrogens: abiraterone, finasteride, flutamide, ketoconazole, spironolactone",
+  "difficulty": "medium",
+  "vignette": "A 24-year-old woman with polycystic ovary syndrome has hirsutism, acne, and oligomenorrhea. She is treated with a drug that acts both as an androgen receptor antagonist and as an inhibitor of 17-alpha-hydroxylase/17,20-lyase.",
+  "question": "Which of the following best identifies this drug and its clinical use?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Finasteride; used for androgenetic alopecia"
+    },
+    {
+      "id": "B",
+      "text": "Flutamide; used for prostate cancer"
+    },
+    {
+      "id": "C",
+      "text": "Spironolactone; androgen receptor and 17-alpha-hydroxylase/17,20-lyase inhibitor used for PCOS"
+    },
+    {
+      "id": "D",
+      "text": "Abiraterone; used for castration-resistant prostate cancer"
+    },
+    {
+      "id": "E",
+      "text": "Danazol; used for endometriosis"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Spironolactone is a dual antiandrogen: it antagonizes the androgen receptor and inhibits 17-alpha-hydroxylase/17,20-lyase, reducing both androgen production and androgen action. It is used in PCOS to treat hyperandrogenic symptoms such as hirsutism and acne. Its antiandrogen properties can also cause amenorrhea. This dual mechanism distinguishes it from flutamide, which is purely a receptor antagonist, and from abiraterone, which only inhibits synthesis.",
+  "explanation_incorrect": {
+    "A": "Finasteride is a 5-alpha-reductase inhibitor used for BPH and alopecia; it is not a dual androgen receptor/17-alpha-hydroxylase inhibitor used for PCOS.",
+    "B": "Flutamide is a nonsteroidal androgen receptor antagonist used for prostate cancer, not for PCOS.",
+    "D": "Abiraterone is a 17-alpha-hydroxylase/17,20-lyase inhibitor used for castration-resistant prostate cancer, not for PCOS, and it lacks androgen receptor antagonism.",
+    "E": "Danazol is a synthetic androgen partial agonist used for endometriosis and hereditary angioedema and would worsen hyperandrogenism."
+  },
+  "educationalObjective": "Spironolactone is both an androgen receptor antagonist and a 17-alpha-hydroxylase/17,20-lyase inhibitor used for PCOS.",
+  "source": "Generated from 15. Reproductive.pdf - Pharmacology: Antiandrogens: abiraterone, finasteride, flutamide, ketoconazole, spironolactone"
+},
+{
+  "id": "rep-436",
+  "subject": "Reproductive",
+  "major_topic": "Pharmacology",
+  "subtopic": "Antiandrogens: abiraterone, finasteride, flutamide, ketoconazole, spironolactone",
+  "difficulty": "easy",
+  "vignette": "A 28-year-old woman with polycystic ovary syndrome starts spironolactone for hirsutism. After several months her menstrual periods become infrequent and then stop. A pregnancy test is negative.",
+  "question": "Which of the following adverse effects is associated with spironolactone use in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Hirsutism and acne"
+    },
+    {
+      "id": "B",
+      "text": "Hypertension and hypokalemia"
+    },
+    {
+      "id": "C",
+      "text": "Weight gain and edema"
+    },
+    {
+      "id": "D",
+      "text": "Virilization and voice deepening"
+    },
+    {
+      "id": "E",
+      "text": "Amenorrhea"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Spironolactone's antiandrogen effects can cause amenorrhea in women. Because it antagonizes androgen receptors and inhibits androgen synthesis, it disrupts the hormonal regulation of the menstrual cycle. Amenorrhea is the adverse effect specifically listed for spironolactone in this antiandrogen group. It is distinct from the androgenic adverse effects of danazol and testosterone.",
+  "explanation_incorrect": {
+    "A": "Hirsutism and acne are androgenic effects that spironolactone is used to treat, not adverse effects of the drug.",
+    "B": "Hypertension and hypokalemia are adverse effects of abiraterone; spironolactone is a diuretic that tends to cause hyperkalemia.",
+    "C": "Weight gain and edema are adverse effects of danazol, whereas spironolactone reduces fluid retention.",
+    "D": "Virilization and voice deepening are androgenic effects of danazol or testosterone, the opposite of spironolactone's action."
+  },
+  "educationalObjective": "Spironolactone, an antiandrogen used in PCOS, can cause amenorrhea.",
+  "source": "Generated from 15. Reproductive.pdf - Pharmacology: Antiandrogens: abiraterone, finasteride, flutamide, ketoconazole, spironolactone"
+}
+]

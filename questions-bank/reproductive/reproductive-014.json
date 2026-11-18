@@ -1,0 +1,248 @@
+[
+{
+  "id": "rep-291",
+  "subject": "Reproductive",
+  "major_topic": "Pathology",
+  "subtopic": "Cervical pathology: dysplasia and carcinoma",
+  "difficulty": "easy",
+  "vignette": "A 24-year-old sexually active woman has a routine Pap smear. Microscopy of the cervical scrape shows squamous epithelial cells with wrinkled, raisinoid nuclei surrounded by clear perinuclear halos. She is otherwise asymptomatic and has had multiple sexual partners.",
+  "question": "Which of the following infections is most strongly associated with these characteristic cellular changes?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Herpes simplex virus type 2"
+    },
+    {
+      "id": "B",
+      "text": "Chlamydia trachomatis"
+    },
+    {
+      "id": "C",
+      "text": "Human papillomavirus type 16"
+    },
+    {
+      "id": "D",
+      "text": "Neisseria gonorrhoeae"
+    },
+    {
+      "id": "E",
+      "text": "Trichomonas vaginalis"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Koilocytes are squamous cells with wrinkled, raisinoid nuclei and perinuclear halos, and they are pathognomonic for HPV infection. HPV types 16 and 18 are the high-risk serotypes most often linked to cervical dysplasia and carcinoma. The virus infects the basal layer of the transformation zone, and its oncoproteins E6 and E7 disrupt p53 and pRb, respectively. Cervical dysplasia is usually asymptomatic and is most often detected on a Pap smear.",
+  "explanation_incorrect": {
+    "A": "HSV-2 causes painful genital vesicles and ulcerations, not koilocytes; its cytologic hallmark is multinucleated giant cells with intranuclear inclusions.",
+    "B": "Chlamydia trachomatis is an obligate intracellular bacterium causing cervicitis with intracytoplasmic inclusions, not perinuclear halos with wrinkled nuclei.",
+    "D": "Neisseria gonorrhoeae is a gram-negative diplococcus that causes purulent cervicitis and does not produce koilocytic changes.",
+    "E": "Trichomonas vaginalis is a flagellated protozoan causing frothy discharge and motile organisms on wet mount, not koilocytes."
+  },
+  "educationalObjective": "Koilocytes with raisinoid nuclei and perinuclear halos are the pathognomonic cytologic hallmark of HPV infection.",
+  "source": "Generated from 15. Reproductive.pdf - Pathology: Cervical pathology: dysplasia and carcinoma"
+},
+{
+  "id": "rep-292",
+  "subject": "Reproductive",
+  "major_topic": "Pathology",
+  "subtopic": "Cervical pathology: dysplasia and carcinoma",
+  "difficulty": "medium",
+  "vignette": "A 29-year-old woman is diagnosed with HPV-16-positive cervical intraepithelial neoplasia. Research into the molecular basis of her disease focuses on the viral E6 oncoprotein, one of two key HPV oncoproteins, which promotes degradation of a critical host tumor suppressor.",
+  "question": "Which of the following host proteins is inhibited by the HPV E6 oncoprotein?",
+  "options": [
+    {
+      "id": "A",
+      "text": "TP53 (p53)"
+    },
+    {
+      "id": "B",
+      "text": "Retinoblastoma protein (pRb)"
+    },
+    {
+      "id": "C",
+      "text": "BRCA1"
+    },
+    {
+      "id": "D",
+      "text": "APC"
+    },
+    {
+      "id": "E",
+      "text": "p16"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "HPV-16 and HPV-18 produce E6, which binds and promotes degradation of p53 (the TP53 gene product), and E7, which binds pRb. The mnemonic '6 before 7; P before R' links E6 with p53 and E7 with pRb. Loss of p53 removes a critical checkpoint for DNA damage repair, allowing HPV-infected cells to accumulate mutations. This inactivation drives progression from dysplasia to invasive carcinoma.",
+  "explanation_incorrect": {
+    "B": "pRb is inhibited by the E7 oncoprotein, not E6; its loss releases E2F and drives the cell cycle forward.",
+    "C": "BRCA1 is a DNA repair gene associated with hereditary breast and ovarian cancer, not a direct target of HPV E6.",
+    "D": "APC is a Wnt-pathway tumor suppressor implicated in colorectal carcinogenesis, not HPV-mediated cervical cancer.",
+    "E": "p16 is a CDK inhibitor that is actually overexpressed as a surrogate marker in HPV-related high-grade dysplasia, not inhibited by E6."
+  },
+  "educationalObjective": "HPV E6 inactivates p53, whereas E7 inactivates pRb — recall '6 before 7; P before R.'",
+  "source": "Generated from 15. Reproductive.pdf - Pathology: Cervical pathology: dysplasia and carcinoma"
+},
+{
+  "id": "rep-293",
+  "subject": "Reproductive",
+  "major_topic": "Pathology",
+  "subtopic": "Cervical pathology: dysplasia and carcinoma",
+  "difficulty": "medium",
+  "vignette": "A 26-year-old woman has a cervical biopsy showing high-grade squamous dysplasia. HPV-18 is detected. The pathogenesis of HPV-related cervical cancer involves two viral oncoproteins that target host cell-cycle regulators; one of them binds the retinoblastoma protein and frees E2F to promote S-phase entry.",
+  "question": "Which HPV oncoprotein is responsible for inhibiting pRb in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "E6, which also inhibits p53"
+    },
+    {
+      "id": "B",
+      "text": "E5"
+    },
+    {
+      "id": "C",
+      "text": "L1 capsid protein"
+    },
+    {
+      "id": "D",
+      "text": "E7"
+    },
+    {
+      "id": "E",
+      "text": "E2"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "The HPV E7 oncoprotein binds pRb, displacing E2F and allowing uncontrolled progression from G1 into S phase. Together, E6 (which degrades p53) and E7 (which inactivates pRb) immortalize infected cervical epithelial cells. The phrase '6 before 7; P before R' captures the pairings: E6 leads to p53 loss, and E7 leads to pRb loss. High-risk types 16 and 18 produce both oncoproteins.",
+  "explanation_incorrect": {
+    "A": "E6 inhibits p53, not pRb; it is the other member of the HPV oncoprotein pair.",
+    "B": "E5 is an accessory oncoprotein that can modulate growth factor signaling but is not the principal pRb inhibitor.",
+    "C": "L1 is the major capsid protein and the target of the HPV vaccine; it has no role in pRb inactivation.",
+    "E": "E2 is a regulatory protein that controls viral transcription and replication and does not bind pRb."
+  },
+  "educationalObjective": "HPV E7 binds pRb, freeing E2F, while E6 degrades p53 — the two oncoproteins of high-risk HPV.",
+  "source": "Generated from 15. Reproductive.pdf - Pathology: Cervical pathology: dysplasia and carcinoma"
+},
+{
+  "id": "rep-294",
+  "subject": "Reproductive",
+  "major_topic": "Pathology",
+  "subtopic": "Cervical pathology: dysplasia and carcinoma",
+  "difficulty": "medium",
+  "vignette": "A 31-year-old woman undergoes cervical biopsy for an abnormal Pap smear. Histopathology shows disordered squamous epithelial growth spanning the full thickness of the epithelium, with markedly atypical cells and loss of maturation from the basal layer to the surface. Her clinician discusses the likelihood of spontaneous regression.",
+  "question": "Which of the following statements about this lesion is most accurate?",
+  "options": [
+    {
+      "id": "A",
+      "text": "This is CIN 1, which has a high rate of spontaneous regression to normal."
+    },
+    {
+      "id": "B",
+      "text": "This is CIN 3 (severe dysplasia/carcinoma in situ), which is unlikely to return to normal."
+    },
+    {
+      "id": "C",
+      "text": "This is a low-grade squamous intraepithelial lesion confined to the lower third of the epithelium."
+    },
+    {
+      "id": "D",
+      "text": "This represents invasive squamous cell carcinoma with definite stromal invasion."
+    },
+    {
+      "id": "E",
+      "text": "This is a benign reactive change related to inflammation and requires no follow-up."
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Cervical dysplasia is graded CIN 1 through CIN 3 according to the extent of abnormal squamous growth. CIN 3 corresponds to severe dysplasia and carcinoma in situ, in which atypical cells occupy the full thickness of the epithelium but the basement membrane remains intact. Because CIN 3 is unlikely to revert spontaneously, it requires treatment. The disorder begins at the basal layer of the squamocolumnar junction and extends outward.",
+  "explanation_incorrect": {
+    "A": "CIN 1 involves only the lower third of the epithelium and often regresses, unlike this full-thickness lesion.",
+    "C": "A low-grade lesion confined to the lower third corresponds to CIN 1, not the full-thickness atypia described here.",
+    "D": "Invasive carcinoma requires breach of the basement membrane and stromal invasion, which is not described; this remains in situ.",
+    "E": "Full-thickness atypia is a true premalignant lesion, not a benign reactive change, and demands intervention."
+  },
+  "educationalObjective": "CIN 3 (severe dysplasia/carcinoma in situ) is full-thickness atypia that is unlikely to regress and warrants treatment.",
+  "source": "Generated from 15. Reproductive.pdf - Pathology: Cervical pathology: dysplasia and carcinoma"
+},
+{
+  "id": "rep-295",
+  "subject": "Reproductive",
+  "major_topic": "Pathology",
+  "subtopic": "Cervical pathology: dysplasia and carcinoma",
+  "difficulty": "hard",
+  "vignette": "A 52-year-old woman with a history of untreated cervical dysplasia presents with pelvic pain and new-onset flank pain. Imaging reveals a locally invasive cervical mass. Laboratory studies show an elevated serum creatinine. Intravenous pyelography demonstrates obstruction of both distal ureters with bilateral hydronephrosis.",
+  "question": "Which of the following is the most likely consequence of her cervical disease?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Metastatic spread to the lungs causing hemorrhagic pleural effusions"
+    },
+    {
+      "id": "B",
+      "text": "Direct extension into the rectum producing a rectovaginal fistula"
+    },
+    {
+      "id": "C",
+      "text": "Paraneoplastic hypercalcemia from PTH-related peptide secretion"
+    },
+    {
+      "id": "D",
+      "text": "Autoimmune hemolytic anemia due to tumor antibodies"
+    },
+    {
+      "id": "E",
+      "text": "Lateral parametrial invasion obstructing the ureters, leading to hydronephrosis and renal failure"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Invasive cervical carcinoma, most often squamous cell carcinoma, can spread laterally into the parametrium. Because the ureters pass close to the cervix, lateral invasion can compress or obstruct them, causing hydronephrosis and, if bilateral, renal failure. This is a classic and dreaded local complication. A Pap smear can detect dysplasia before it progresses to invasion, and colposcopy with biopsy is used for diagnosis.",
+  "explanation_incorrect": {
+    "A": "Hematogenous lung metastases can occur late but do not explain the ureteral obstruction and rising creatinine.",
+    "B": "Rectal extension can occur in advanced disease, but a rectovaginal fistula would not cause hydronephrosis.",
+    "C": "PTHrP-mediated hypercalcemia is associated with squamous tumors of the lung and head/neck, not a typical feature of cervical cancer.",
+    "D": "Autoimmune hemolytic anemia is not a recognized paraneoplastic effect of cervical carcinoma."
+  },
+  "educationalObjective": "Lateral invasion of cervical carcinoma can obstruct the ureters, causing hydronephrosis and renal failure.",
+  "source": "Generated from 15. Reproductive.pdf - Pathology: Cervical pathology: dysplasia and carcinoma"
+},
+{
+  "id": "rep-296",
+  "subject": "Reproductive",
+  "major_topic": "Pathology",
+  "subtopic": "Cervical pathology: dysplasia and carcinoma",
+  "difficulty": "hard",
+  "vignette": "A 22-year-old woman has a Pap smear showing atypical squamous cells. Colposcopy directs a biopsy of the cervical transformation zone. The pathologist notes that the dysplastic squamous proliferation seems to originate at a discrete anatomic boundary where two epithelial types meet and then spreads outward toward the surface.",
+  "question": "At which of the following sites does cervical squamous dysplasia typically begin?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The surface epithelium of the distal vagina"
+    },
+    {
+      "id": "B",
+      "text": "The endocervical glandular epithelium deep in the canal"
+    },
+    {
+      "id": "C",
+      "text": "The basal layer of the squamocolumnar junction (transformation zone)"
+    },
+    {
+      "id": "D",
+      "text": "The stratum corneum of the ectocervix"
+    },
+    {
+      "id": "E",
+      "text": "The myometrium of the uterine corpus"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Cervical dysplasia is a disordered squamous epithelial growth that begins at the basal layer of the squamocolumnar junction, the transformation zone, and extends outward. This is the region where the native squamous epithelium of the ectocervix meets the columnar epithelium of the endocervix, and it is the site most susceptible to HPV infection. It explains why the transformation zone is the target of colposcopic biopsy. The process can remain in situ or progress to invasive squamous cell carcinoma.",
+  "explanation_incorrect": {
+    "A": "The vaginal squamous epithelium is not the squamocolumnar junction of the cervix and is not the classic origin of cervical intraepithelial neoplasia.",
+    "B": "The deep endocervical glandular epithelium is columnar, not squamous; dysplasia there would be glandular rather than squamous CIN.",
+    "D": "The surface stratum corneum is the mature outer layer; dysplasia begins in the basal germinative layer, not at the surface.",
+    "E": "The myometrium is uterine smooth muscle and is unrelated to the cervical transformation zone."
+  },
+  "educationalObjective": "Cervical squamous dysplasia originates in the basal layer of the squamocolumnar junction (transformation zone).",
+  "source": "Generated from 15. Reproductive.pdf - Pathology: Cervical pathology: dysplasia and carcinoma"
+}
+]

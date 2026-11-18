@@ -1,0 +1,207 @@
+[
+{
+  "id": "rep-001",
+  "subject": "Reproductive",
+  "major_topic": "Embryology",
+  "subtopic": "Early embryonic development (weeks 1-8)",
+  "difficulty": "easy",
+  "vignette": "A 29-year-old woman is evaluated for possible very early pregnancy. Ovulation was documented 6 days ago by an LH surge, and intercourse occurred at that time. A serum beta-hCG is now mildly elevated, but transvaginal ultrasound shows no intrauterine gestational sac.",
+  "question": "Which of the following best describes where fertilization occurred and the event taking place now?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Fertilization in the isthmus of the fallopian tube; gastrulation with formation of the primitive streak"
+    },
+    {
+      "id": "B",
+      "text": "Fertilization in the ampulla of the fallopian tube; blastocyst adherence to the endometrium with onset of hCG secretion"
+    },
+    {
+      "id": "C",
+      "text": "Fertilization in the uterine cavity; formation of a bilaminar embryonic disc"
+    },
+    {
+      "id": "D",
+      "text": "Fertilization at the fimbriae; neurulation with neural tube closure"
+    },
+    {
+      "id": "E",
+      "text": "Fertilization within the ovary; beginning of a four-chambered heartbeat"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Fertilization most commonly occurs in the ampulla (upper end) of the fallopian tube within 1 day of ovulation. The zygote cleaves into a blastocyst that sticks to the endometrium around day 6, and hCG secretion by the syncytiotrophoblast begins around the time of implantation. hCG becomes detectable in blood about 1 week after fertilization, explaining the mildly elevated result, while ultrasound is still too early to show a gestational sac.",
+  "explanation_incorrect": {
+    "A": "The isthmus is not the usual fertilization site, and gastrulation with the primitive streak occurs in week 3, not 6 days after fertilization.",
+    "C": "Fertilization in the uterine cavity is not the typical site, and the bilaminar disc of epiblast and hypoblast forms in week 2, after implantation.",
+    "D": "The fimbriae capture the oocyte but are not the site of fertilization; neurulation follows notochord induction in week 3, far later than day 6.",
+    "E": "Fertilization does not occur in the ovary; a four-chambered heartbeat becomes visible by transvaginal ultrasound only at week 4."
+  },
+  "educationalObjective": "Fertilization occurs in the ampulla, and the blastocyst implants around day 6, when hCG secretion begins.",
+  "source": "Generated from 15. Reproductive.pdf - Embryology: Early embryonic development (weeks 1-8)"
+},
+{
+  "id": "rep-002",
+  "subject": "Reproductive",
+  "major_topic": "Embryology",
+  "subtopic": "Early embryonic development (weeks 1-8)",
+  "difficulty": "medium",
+  "vignette": "A research scientist reviews the chromatin content of cells from the female reproductive tract. A secondary oocyte arrested in metaphase II is recovered just before ovulation; it contains 23 chromosomes, each consisting of two sister chromatids. The laboratory uses N to denote a set of 23 chromosomes and C to denote a set of 23 chromatids or DNA copies.",
+  "question": "Which of the following correctly describes the chromosome (N) and chromatid (C) content of this secondary oocyte?",
+  "options": [
+    {
+      "id": "A",
+      "text": "2N, 4C"
+    },
+    {
+      "id": "B",
+      "text": "2N, 2C"
+    },
+    {
+      "id": "C",
+      "text": "1N, 1C"
+    },
+    {
+      "id": "D",
+      "text": "1N, 2C"
+    },
+    {
+      "id": "E",
+      "text": "1N, 4C"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "N denotes a haploid set of 23 chromosomes and C denotes a set of 23 chromatids (DNA copies). A secondary oocyte is haploid (1N) because meiosis I has separated the homologous chromosomes, but each chromosome still consists of two sister chromatids, giving 2C (46 chromatids). It remains arrested in metaphase II until fertilization triggers completion of meiosis II; the figure for early development labels the secondary oocyte as 1N2C.",
+  "explanation_incorrect": {
+    "A": "2N4C requires a diploid cell with replicated chromosomes; the secondary oocyte is haploid because it has already completed meiosis I.",
+    "B": "2N2C describes a diploid cell with unreplicated chromosomes, such as a spermatogonium or the early zygote, not a haploid gamete with sister chromatids.",
+    "C": "1N1C describes a mature ovum after meiosis II when sister chromatids have separated; the secondary oocyte is arrested before that step.",
+    "E": "1N4C is not a normal stage of gametogenesis; a haploid cell cannot contain four sets of chromatids."
+  },
+  "educationalObjective": "N counts chromosome sets and C counts chromatid sets; a metaphase II secondary oocyte is 1N2C.",
+  "source": "Generated from 15. Reproductive.pdf - Embryology: Early embryonic development (weeks 1-8)"
+},
+{
+  "id": "rep-003",
+  "subject": "Reproductive",
+  "major_topic": "Embryology",
+  "subtopic": "Early embryonic development (weeks 1-8)",
+  "difficulty": "easy",
+  "vignette": "An embryo is examined at approximately 14 days after fertilization. Histology shows a two-layered embryonic disc: the upper layer consists of columnar cells adjacent to the amniotic cavity and the lower layer consists of flattened cells facing the yolk sac. No primitive streak is visible yet.",
+  "question": "Which of the following layers make up this bilaminar embryonic disc?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Epiblast and hypoblast"
+    },
+    {
+      "id": "B",
+      "text": "Ectoderm and endoderm"
+    },
+    {
+      "id": "C",
+      "text": "Cytotrophoblast and syncytiotrophoblast"
+    },
+    {
+      "id": "D",
+      "text": "Neural plate and notochord"
+    },
+    {
+      "id": "E",
+      "text": "Amnioblasts and trophoblast"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "During week 2 the embryo forms a bilaminar disc composed of an upper epiblast and a lower hypoblast. The epiblast gives rise to all three germ layers during gastrulation, whereas the hypoblast contributes extraembryonic tissues such as the yolk sac lining. This two-layered stage precedes formation of the primitive streak in week 3.",
+  "explanation_incorrect": {
+    "B": "Ectoderm and endoderm are germ layers of the trilaminar disc arising in week 3, not the two layers of the week 2 bilaminar disc.",
+    "C": "Cytotrophoblast and syncytiotrophoblast are the two layers of chorionic villi in the fetal placenta, not layers of the embryonic disc.",
+    "D": "The neural plate and notochord appear in week 3 after gastrulation and induction, well after the bilaminar stage.",
+    "E": "Amnioblasts line the amniotic membrane and trophoblast forms the fetal placenta; neither pairing is the bilaminar embryonic disc."
+  },
+  "educationalObjective": "The week 2 bilaminar disc consists of epiblast and hypoblast; the epiblast later generates all three germ layers.",
+  "source": "Generated from 15. Reproductive.pdf - Embryology: Early embryonic development (weeks 1-8)"
+},
+{
+  "id": "rep-004",
+  "subject": "Reproductive",
+  "major_topic": "Embryology",
+  "subtopic": "Early embryonic development (weeks 1-8)",
+  "difficulty": "hard",
+  "vignette": "A researcher studies a week 3 human embryo and identifies a rod of midline mesodermal tissue lying beneath the dorsal ectoderm. This structure secretes sonic hedgehog (SHH), and the overlying ectoderm thickens into a specialized plate that subsequently folds to form a hollow neural structure.",
+  "question": "Which of the following best describes the identity of this structure and the sequence of events it initiates?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It arises from endoderm and induces surface ectoderm to form the epidermis and sweat glands."
+    },
+    {
+      "id": "B",
+      "text": "It is the primitive streak; epiblast cells invaginate through it to form the neural tube directly."
+    },
+    {
+      "id": "C",
+      "text": "It arises from midline mesoderm as the notochord and induces overlying ectoderm via SHH to become neural plate, which forms the neural tube by neurulation."
+    },
+    {
+      "id": "D",
+      "text": "It is derived from neural crest and secretes SHH to pattern the aorticopulmonary septum."
+    },
+    {
+      "id": "E",
+      "text": "It is the hypoblast; it induces the epiblast to form the trilaminar disc and the heart."
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "The notochord arises from midline mesoderm during week 3 and secretes SHH, which induces the overlying ectoderm (neuroectoderm) to thicken into the neural plate. The neural plate then invaginates and closes by neurulation to form the neural tube, the precursor of the brain and spinal cord. Neural crest cells arise at the neural tube edges and migrate to form peripheral and other structures. Thus a mesodermal organizing center patterns a neuroectodermal derivative.",
+  "explanation_incorrect": {
+    "A": "The notochord is mesodermal, not endodermal, and it induces neural plate rather than surface ectoderm derivatives such as epidermis and sweat glands.",
+    "B": "The primitive streak is the site of epiblast invagination during gastrulation, forming the three germ layers; the neural tube arises later from the neural plate, not directly from the streak.",
+    "D": "Neural crest cells derive from the neural tube border, not the notochord; notochordal SHH patterns the neural tube, whereas the aorticopulmonary septum derives from neural crest.",
+    "E": "The hypoblast is the lower layer of the bilaminar disc and is displaced during gastrulation; it does not induce neurulation or form the heart."
+  },
+  "educationalObjective": "Midline mesodermal notochord secretes SHH to induce neural plate, which closes by neurulation to form the neural tube.",
+  "source": "Generated from 15. Reproductive.pdf - Embryology: Early embryonic development (weeks 1-8)"
+},
+{
+  "id": "rep-005",
+  "subject": "Reproductive",
+  "major_topic": "Embryology",
+  "subtopic": "Early embryonic development (weeks 1-8)",
+  "difficulty": "medium",
+  "vignette": "An obstetrician counsels a patient about embryonic milestones. She notes that cardiac activity can be detected by transvaginal ultrasound very early in embryonic life, whereas differentiation of the external genitalia occurs considerably later.",
+  "question": "Which of the following correctly matches an embryonic age with its expected milestone?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Week 2 - formation of the trilaminar disc by gastrulation"
+    },
+    {
+      "id": "B",
+      "text": "Week 3 - first cardiac activity with four chambers visible by transvaginal ultrasound"
+    },
+    {
+      "id": "C",
+      "text": "Week 1 - closure of the neural tube to form the brain and spinal cord"
+    },
+    {
+      "id": "D",
+      "text": "Week 8 - onset of gastrulation with appearance of the primitive streak"
+    },
+    {
+      "id": "E",
+      "text": "Week 4 - the heart begins to beat with four chambers and upper and lower limb buds form"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "During week 4 the heart begins to beat with four chambers, cardiac activity becomes visible by transvaginal ultrasound, and upper and lower limb buds begin to form. By week 8, the genitalia have male or female characteristics, the geneightalia milestone, but that is later. Week 2 is the bilaminar disc and week 3 is gastrulation with the primitive streak and neurulation.",
+  "explanation_incorrect": {
+    "A": "Gastrulation producing the trilaminar disc occurs in week 3; week 2 is the bilaminar disc of epiblast and hypoblast.",
+    "B": "Cardiac activity with a four-chambered heart appears in week 4, not week 3; week 3 is dominated by gastrulation and neurulation.",
+    "C": "The neural tube forms by neurulation in week 3 following notochord induction, not in week 1; week 1 includes blastocyst implantation and onset of hCG.",
+    "D": "Gastrulation and the primitive streak occur in week 3; at week 8 the genitalia have acquired male or female characteristics."
+  },
+  "educationalObjective": "Milestones: week 1 implantation and hCG, week 2 bilaminar disc, week 3 gastrulation and neurulation, week 4 heartbeat and limb buds, week 8 differentiated genitalia.",
+  "source": "Generated from 15. Reproductive.pdf - Embryology: Early embryonic development (weeks 1-8)"
+}
+]

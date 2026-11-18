@@ -1,0 +1,330 @@
+[
+{
+  "id": "rep-356",
+  "subject": "Reproductive",
+  "major_topic": "Pathology",
+  "subtopic": "Testicular tumors: germ cell and hormone profiles",
+  "difficulty": "easy",
+  "vignette": "A 32-year-old man presents with a painless, smooth, homogeneous enlargement of his right testicle for 2 months. There is no associated tenderness or systemic symptoms. Ultrasound shows a solid mass. Orchiectomy reveals large cells with watery cytoplasm in lobules, described as having a fried egg appearance.",
+  "question": "Which tumor marker is most likely elevated in this patient's tumor?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Alpha-fetoprotein (AFP)"
+    },
+    {
+      "id": "B",
+      "text": "Placental alkaline phosphatase (PLAP)"
+    },
+    {
+      "id": "C",
+      "text": "Beta-hCG"
+    },
+    {
+      "id": "D",
+      "text": "Lactate dehydrogenase (LDH) alone"
+    },
+    {
+      "id": "E",
+      "text": "CA-125"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Seminoma is the most common testicular tumor, presenting as a painless, homogeneous testicular enlargement in young men; it does not occur in infancy. Histology shows large cells with watery cytoplasm and a fried egg appearance, and PLAP is elevated. Seminomas are highly radiosensitive with late metastasis and an excellent prognosis.",
+  "explanation_incorrect": {
+    "A": "AFP is not elevated in pure seminoma; it is characteristic of yolk sac tumors and can rise in mixed germ cell tumors.",
+    "C": "Beta-hCG may be mildly elevated in some seminomas but is the hallmark of choriocarcinoma; PLAP is the characteristic seminoma marker here.",
+    "D": "LDH is a nonspecific marker of germ cell tumors and is not the characteristic marker listed for seminoma.",
+    "E": "CA-125 is associated with ovarian epithelial tumors, not testicular seminoma."
+  },
+  "educationalObjective": "Seminoma: painless homogeneous enlargement, fried egg cells, increased PLAP, radiosensitive, excellent prognosis.",
+  "source": "Generated from 15. Reproductive.pdf - Pathology: Testicular tumors: germ cell and hormone profiles"
+},
+{
+  "id": "rep-357",
+  "subject": "Reproductive",
+  "major_topic": "Pathology",
+  "subtopic": "Testicular tumors: germ cell and hormone profiles",
+  "difficulty": "medium",
+  "vignette": "A 2-year-old boy presents with a rapidly growing, painless scrotal mass. Ultrasound shows a heterogeneous solid testicular tumor. Histologic examination reveals a yellow, mucinous tumor with structures resembling primitive glomeruli (Schiller-Duval bodies). Serum studies show a markedly elevated tumor marker.",
+  "question": "Which of the following is the most likely diagnosis and its characteristic marker?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Choriocarcinoma with elevated beta-hCG"
+    },
+    {
+      "id": "B",
+      "text": "Seminoma with elevated PLAP"
+    },
+    {
+      "id": "C",
+      "text": "Embryonal carcinoma with elevated AFP only when mixed"
+    },
+    {
+      "id": "D",
+      "text": "Yolk sac tumor (endodermal sinus tumor) with elevated AFP"
+    },
+    {
+      "id": "E",
+      "text": "Teratoma with no elevated marker"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Yolk sac tumor, also called endodermal sinus tumor, is a malignant, aggressive germ cell tumor that is yellow and mucinous, with Schiller-Duval bodies resembling primitive glomeruli. AFP is highly characteristic and markedly elevated. It is the most common testicular tumor in children under 3 years old.",
+  "explanation_incorrect": {
+    "A": "Choriocarcinoma shows disordered syncytio- and cytotrophoblast and elevated hCG, not Schiller-Duval bodies or a yellow mucinous matrix.",
+    "B": "Seminoma occurs in young adults, not infancy, has fried egg cells, and is associated with PLAP rather than AFP.",
+    "C": "Embryonal carcinoma is a painful hemorrhagic necrotic mass; AFP is normal when pure and elevated only in mixed tumors, without Schiller-Duval bodies.",
+    "E": "Teratoma contains somatic tissues and lacks the highly characteristic AFP elevation and Schiller-Duval bodies of yolk sac tumor."
+  },
+  "educationalObjective": "Yolk sac tumor (endodermal sinus tumor) is the most common testicular tumor in children under 3, with Schiller-Duval bodies and markedly increased AFP.",
+  "source": "Generated from 15. Reproductive.pdf - Pathology: Testicular tumors: germ cell and hormone profiles"
+},
+{
+  "id": "rep-358",
+  "subject": "Reproductive",
+  "major_topic": "Pathology",
+  "subtopic": "Testicular tumors: germ cell and hormone profiles",
+  "difficulty": "medium",
+  "vignette": "A 28-year-old man presents with a painful testicular mass, gynecomastia, and symptoms of hyperthyroidism including heat intolerance and weight loss. Workup reveals a highly vascular tumor with disordered syncytiotrophoblastic and cytotrophoblastic elements. Metastatic lesions are found in the lungs and brain.",
+  "question": "Which of the following best explains the systemic symptoms in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Tumor secretion of hCG, whose alpha subunit is identical to TSH's and whose similar beta subunit confers hormonal activity, causing gynecomastia and hyperthyroidism"
+    },
+    {
+      "id": "B",
+      "text": "Tumor secretion of AFP, which cross-reacts with thyroid hormone receptors"
+    },
+    {
+      "id": "C",
+      "text": "Tumor secretion of PLAP, which stimulates the thyroid and breast tissue"
+    },
+    {
+      "id": "D",
+      "text": "Paraneoplastic IL-6 production causing a hyperestrogenic state"
+    },
+    {
+      "id": "E",
+      "text": "Direct metastatic replacement of the pituitary and thyroid glands with the tumor"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Choriocarcinoma is a malignant germ cell tumor with disordered syncytiotrophoblastic and cytotrophoblastic elements, hematogenous metastasis to lungs and brain, and markedly elevated hCG. It can produce gynecomastia and symptoms of hyperthyroidism because hCG and TSH share an identical alpha subunit and a similar beta subunit that determines hormonal function, allowing hCG to weakly stimulate TSH receptors.",
+  "explanation_incorrect": {
+    "B": "AFP is the marker of yolk sac tumors and does not cross-react with thyroid hormone receptors to cause hyperthyroidism.",
+    "C": "PLAP is the seminoma marker and does not have TSH-like or estrogenic activity.",
+    "D": "Gynecomastia here is due to hCG cross-reactivity with hormone receptors, not paraneoplastic IL-6.",
+    "E": "The symptoms are hormone-mediated through hCG cross-reactivity, not from direct metastatic replacement of endocrine glands."
+  },
+  "educationalObjective": "Choriocarcinoma secretes large amounts of hCG; shared alpha and similar beta subunits with TSH explain gynecomastia and hyperthyroid symptoms.",
+  "source": "Generated from 15. Reproductive.pdf - Pathology: Testicular tumors: germ cell and hormone profiles"
+},
+{
+  "id": "rep-359",
+  "subject": "Reproductive",
+  "major_topic": "Pathology",
+  "subtopic": "Testicular tumors: germ cell and hormone profiles",
+  "difficulty": "hard",
+  "vignette": "A 26-year-old man presents with a painful, hemorrhagic testicular mass with areas of necrosis. He has a slightly elevated beta-hCG level and a normal AFP level. Radical orchiectomy reveals a pure embryonal carcinoma. He is counseled that this tumor has a worse prognosis than seminoma.",
+  "question": "Which of the following best characterizes pure embryonal carcinoma?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Painless homogeneous enlargement with fried egg cells and elevated PLAP"
+    },
+    {
+      "id": "B",
+      "text": "Yellow mucinous tumor with Schiller-Duval bodies and markedly elevated AFP"
+    },
+    {
+      "id": "C",
+      "text": "Disordered trophoblasts with hematogenous spread to lung and brain and very high hCG"
+    },
+    {
+      "id": "D",
+      "text": "Mature somatic tissues and benign behavior in adult males"
+    },
+    {
+      "id": "E",
+      "text": "Painful hemorrhagic necrotic mass; pure tumors show elevated hCG with normal AFP, but AFP rises when mixed with other germ cell elements"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Embryonal carcinoma is a malignant germ cell tumor presenting as a painful, hemorrhagic mass with necrosis. Pure embryonal carcinoma is rare and is usually mixed with other germ cell types. Pure tumors are associated with elevated hCG and normal AFP, whereas AFP rises when the tumor is mixed. It has a worse prognosis than seminoma and may present with metastases.",
+  "explanation_incorrect": {
+    "A": "Painless homogeneous enlargement with fried egg cells and PLAP describes seminoma, not embryonal carcinoma.",
+    "B": "A yellow mucinous tumor with Schiller-Duval bodies and high AFP is yolk sac tumor.",
+    "C": "Disordered trophoblasts with lung and brain metastases and very high hCG describe choriocarcinoma.",
+    "D": "Mature teratoma can be malignant in adult males and benign in children/females; it is not the painful hemorrhagic necrotic tumor described here."
+  },
+  "educationalObjective": "Pure embryonal carcinoma is a painful hemorrhagic necrotic tumor with increased hCG and normal AFP; AFP rises in mixed tumors.",
+  "source": "Generated from 15. Reproductive.pdf - Pathology: Testicular tumors: germ cell and hormone profiles"
+},
+{
+  "id": "rep-360",
+  "subject": "Reproductive",
+  "major_topic": "Pathology",
+  "subtopic": "Testicular tumors: germ cell and hormone profiles",
+  "difficulty": "hard",
+  "vignette": "A 30-year-old man with a testicular mass undergoes orchiectomy. The pathology report describes a germ cell tumor, and the clinical team reviews the typical hormone profiles of the major germ cell tumor types to interpret the patient's serum markers.",
+  "question": "Which of the following pairings of tumor type with its characteristic hormone profile is correct?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Seminoma with markedly elevated AFP and normal PLAP"
+    },
+    {
+      "id": "B",
+      "text": "Yolk sac tumor with markedly elevated beta-hCG and normal AFP"
+    },
+    {
+      "id": "C",
+      "text": "Choriocarcinoma with markedly elevated beta-hCG; seminoma with elevated PLAP; yolk sac tumor with markedly elevated AFP"
+    },
+    {
+      "id": "D",
+      "text": "Embryonal carcinoma (pure) with markedly elevated AFP and normal beta-hCG"
+    },
+    {
+      "id": "E",
+      "text": "Teratoma with elevated PLAP and AFP in nearly all cases"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "The characteristic profiles are: seminoma with elevated PLAP (AFP and beta-hCG generally unchanged), yolk sac tumor with markedly elevated AFP, choriocarcinoma with markedly elevated beta-hCG, and embryonal carcinoma with elevated beta-hCG and normal AFP when pure (AFP elevated when mixed). Teratoma generally lacks a characteristic marker.",
+  "explanation_incorrect": {
+    "A": "Seminoma is associated with elevated PLAP, not markedly elevated AFP; AFP is typically normal in pure seminoma.",
+    "B": "Yolk sac tumor is characterized by elevated AFP, not beta-hCG; high beta-hCG points to choriocarcinoma.",
+    "D": "Pure embryonal carcinoma has elevated beta-hCG with normal AFP; AFP elevation occurs when mixed with other elements.",
+    "E": "Teratoma does not characteristically secrete PLAP or AFP; those markers belong to seminoma and yolk sac tumor respectively."
+  },
+  "educationalObjective": "Seminoma leads to increased PLAP, yolk sac tumor to increased AFP, choriocarcinoma to increased beta-hCG, and embryonal carcinoma to increased beta-hCG with AFP if mixed.",
+  "source": "Generated from 15. Reproductive.pdf - Pathology: Testicular tumors: germ cell and hormone profiles"
+},
+{
+  "id": "rep-361",
+  "subject": "Reproductive",
+  "major_topic": "Pathology",
+  "subtopic": "Testicular tumors: germ cell and hormone profiles",
+  "difficulty": "easy",
+  "vignette": "A 3-year-old girl and a 35-year-old man are each found to have a germ cell tumor composed of mature somatic tissues including cartilage, bone, and epithelial lining. The behavior of this tumor type differs importantly between the two patients.",
+  "question": "Which of the following best describes the malignant potential of mature teratoma in these patients?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Malignant in children and benign in adult males"
+    },
+    {
+      "id": "B",
+      "text": "Malignant in adult males but benign in children and females"
+    },
+    {
+      "id": "C",
+      "text": "Always malignant regardless of age or sex"
+    },
+    {
+      "id": "D",
+      "text": "Always benign regardless of age or sex"
+    },
+    {
+      "id": "E",
+      "text": "Malignant only when it occurs in the ovary"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Mature teratoma may be malignant in adult males but is benign in children and females. This is a key exception emphasized for germ cell tumors. Teratomas are one of the germ cell tumor types that, together with the other germ cell tumors, account for about 95% of testicular tumors and do not transilluminate.",
+  "explanation_incorrect": {
+    "A": "This reverses the rule: mature teratoma is benign in children and females and can be malignant in adult males.",
+    "C": "Teratoma is not always malignant; its behavior depends on age and sex.",
+    "D": "It is not uniformly benign, since it can behave malignantly in adult males.",
+    "E": "Ovarian (female) mature teratoma is benign; it is in adult males that it may be malignant."
+  },
+  "educationalObjective": "Mature teratoma may be malignant in adult males but is benign in children and females.",
+  "source": "Generated from 15. Reproductive.pdf - Pathology: Testicular tumors: germ cell and hormone profiles"
+},
+{
+  "id": "rep-362",
+  "subject": "Reproductive",
+  "major_topic": "Pathology",
+  "subtopic": "Testicular tumors: germ cell and hormone profiles",
+  "difficulty": "hard",
+  "vignette": "A 24-year-old man presents with a painless solid testicular mass that does not transilluminate. He has a history of cryptorchidism as a child. The oncology team discusses the diagnostic approach, noting that germ cell tumors account for the vast majority of testicular tumors.",
+  "question": "Which of the following statements about the management of suspected testicular germ cell tumors is correct?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A transscrotal needle biopsy is required before treatment to confirm the histologic subtype"
+    },
+    {
+      "id": "B",
+      "text": "Radical orchiectomy is avoided in favor of chemotherapy alone for all germ cell tumors"
+    },
+    {
+      "id": "C",
+      "text": "Cryptorchidism and Klinefelter syndrome lower the risk of germ cell tumors"
+    },
+    {
+      "id": "D",
+      "text": "These tumors are usually not biopsied because of the risk of scrotal seeding, and are removed by radical orchiectomy"
+    },
+    {
+      "id": "E",
+      "text": "Germ cell tumors account for only about 5 percent of testicular tumors, with sex cord stromal tumors being the majority"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Germ cell tumors account for approximately 95% of testicular tumors, arise from sperm-producing germ cells, and occur most often in young males. Risk factors include cryptorchidism and Klinefelter syndrome. They do not transilluminate and are usually not biopsied because of the risk of seeding the scrotum; instead they are removed via radical orchiectomy. They can present as mixed germ cell tumors.",
+  "explanation_incorrect": {
+    "A": "Biopsy is avoided because of the risk of scrotal seeding; diagnosis is made after radical orchiectomy.",
+    "B": "Radical orchiectomy is the standard initial treatment; chemotherapy alone is not the universal approach.",
+    "C": "Cryptorchidism and Klinefelter syndrome increase, not lower, the risk of germ cell tumors.",
+    "E": "Germ cell tumors are about 95% of testicular tumors; sex cord stromal tumors make up only about 5%."
+  },
+  "educationalObjective": "Testicular germ cell tumors (about 95%, young males, risk with cryptorchidism/Klinefelter) are not biopsied due to seeding risk and are removed by radical orchiectomy.",
+  "source": "Generated from 15. Reproductive.pdf - Pathology: Testicular tumors: germ cell and hormone profiles"
+},
+{
+  "id": "rep-363",
+  "subject": "Reproductive",
+  "major_topic": "Pathology",
+  "subtopic": "Testicular tumors: germ cell and hormone profiles",
+  "difficulty": "medium",
+  "vignette": "A 40-year-old man presents with a painless midline mass in the posterior mediastinum. Biopsy reveals a germ cell tumor. A 1-year-old infant is also found to have a midline germ cell tumor in the sacrococcygeal region. The locations in these two patients reflect the typical age-related distribution of extragonadal germ cell tumors.",
+  "question": "Which of the following best describes the typical locations of extragonadal germ cell tumors?",
+  "options": [
+    {
+      "id": "A",
+      "text": "In adults, midline sites such as retroperitoneum, mediastinum, pineal, and suprasellar regions; in infants and young children, sacrococcygeal teratoma is most common"
+    },
+    {
+      "id": "B",
+      "text": "In adults, the spermatic cord and epididymis; in infants, the mediastinum"
+    },
+    {
+      "id": "C",
+      "text": "In adults, the liver and spleen; in infants, the retroperitoneum"
+    },
+    {
+      "id": "D",
+      "text": "Extragonadal germ cell tumors occur only in the testes and ovaries"
+    },
+    {
+      "id": "E",
+      "text": "In adults, the sacrococcygeal region; in infants, the pineal gland"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Extragonadal germ cell tumors arise in midline locations. In adults, they most commonly occur in the retroperitoneum, mediastinum, pineal, and suprasellar regions. In infants and young children, sacrococcygeal teratomas are the most common.",
+  "explanation_incorrect": {
+    "B": "The spermatic cord and epididymis are not the typical adult midline sites; adult tumors favor retroperitoneum, mediastinum, pineal, and suprasellar regions.",
+    "C": "The liver and spleen are not typical midline sites for these tumors, and infant tumors are characteristically sacrococcygeal.",
+    "D": "By definition, extragonadal tumors arise outside the gonads, along midline structures.",
+    "E": "This reverses the age distribution: sacrococcygeal teratoma is typical of infants, while pineal tumors occur in adults."
+  },
+  "educationalObjective": "Extragonadal germ cell tumors arise midline: retroperitoneum, mediastinum, pineal, and suprasellar in adults, sacrococcygeal in infants.",
+  "source": "Generated from 15. Reproductive.pdf - Pathology: Testicular tumors: germ cell and hormone profiles"
+}
+]

@@ -1,0 +1,248 @@
+[
+{
+  "id": "rep-082",
+  "subject": "Reproductive",
+  "major_topic": "Embryology",
+  "subtopic": "Genital embryology: Mullerian and Wolffian ducts",
+  "difficulty": "easy",
+  "vignette": "An embryo with a 46,XX karyotype is developing. Genetic testing confirms absence of the SRY gene. The clinician counsels the parents about the expected fate of the genital ducts.",
+  "question": "Which of the following best describes the expected fate of the mesonephric and paramesonephric ducts in this embryo?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The mesonephric duct develops into male internal genitalia, and the paramesonephric duct degenerates"
+    },
+    {
+      "id": "B",
+      "text": "The mesonephric duct degenerates, and the paramesonephric duct develops into female internal genitalia"
+    },
+    {
+      "id": "C",
+      "text": "Both ducts persist and develop into functional male and female internal genitalia"
+    },
+    {
+      "id": "D",
+      "text": "Both ducts degenerate, resulting in absent internal genitalia"
+    },
+    {
+      "id": "E",
+      "text": "The paramesonephric duct degenerates, and the mesonephric duct forms the fallopian tubes and uterus"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Female development is the default pathway. In the absence of SRY, no testes form, so there is no Sertoli-cell MIS and no Leydig-cell androgen. Without MIS, the paramesonephric (Mullerian) ducts persist and develop into the fallopian tubes, uterus, and proximal vagina; without androgen, the mesonephric (Wolffian) ducts degenerate. This default pathway explains why an XY individual lacking Sertoli cells or MIS can develop both sets of internal genitalia.",
+  "explanation_incorrect": {
+    "A": "This describes male development, which requires SRY-driven testis formation with Sertoli and Leydig cell products; it does not occur in a 46,XX embryo without SRY.",
+    "C": "Persistence of both duct systems occurs in XY individuals with absent Sertoli cells or absent MIS, not in normal female development.",
+    "D": "Female internal genitalia form from the paramesonephric ducts, so both ducts do not simply degenerate.",
+    "E": "The paramesonephric duct, not the mesonephric duct, gives rise to the fallopian tubes and uterus; this option reverses the two."
+  },
+  "educationalObjective": "Female development is the default; without testicular hormones the mesonephric duct degenerates and the paramesonephric duct forms female internal genitalia.",
+  "source": "Generated from 15. Reproductive.pdf - Embryology: Genital embryology: Mullerian and Wolffian ducts"
+},
+{
+  "id": "rep-083",
+  "subject": "Reproductive",
+  "major_topic": "Embryology",
+  "subtopic": "Genital embryology: Mullerian and Wolffian ducts",
+  "difficulty": "medium",
+  "vignette": "A geneticist is studying an embryo with a 46,XY karyotype. A mutation renders the SRY gene nonfunctional, and the team wants to predict the effect on gonadal development.",
+  "question": "The SRY gene product normally acts through which of the following mechanisms to initiate male gonadal development?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It encodes Mullerian-inhibiting substance, which regresses the paramesonephric ducts"
+    },
+    {
+      "id": "B",
+      "text": "It encodes an androgen receptor required for Leydig cell testosterone signaling"
+    },
+    {
+      "id": "C",
+      "text": "It produces testis-determining factor, which directs the indifferent gonad to become testes"
+    },
+    {
+      "id": "D",
+      "text": "It directly stimulates the mesonephric duct to form the epididymis and vas deferens"
+    },
+    {
+      "id": "E",
+      "text": "It encodes 5-alpha-reductase, which converts testosterone to dihydrotestosterone"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "The SRY gene resides on the Y chromosome and encodes testis-determining factor (TDF), which initiates differentiation of the bipotential (indifferent) gonad into testes. Once testes form, Sertoli cells secrete MIS and Leydig cells secrete androgens to drive the rest of male internal and external development. Loss of SRY in an XY embryo prevents testis formation, so development defaults to the female pathway.",
+  "explanation_incorrect": {
+    "A": "MIS is secreted by Sertoli cells after the testis has formed; SRY acts earlier by producing testis-determining factor.",
+    "B": "SRY is not an androgen receptor; androgen signaling occurs later through the androgen receptor in target tissues.",
+    "D": "SRY does not directly act on the mesonephric duct; it acts on the gonad, and Leydig-cell androgens then stimulate the mesonephric duct.",
+    "E": "5-alpha-reductase is a separate enzyme that converts testosterone to DHT; it is not encoded by SRY."
+  },
+  "educationalObjective": "SRY on the Y chromosome produces testis-determining factor that converts the indifferent gonad into testes, the first step in male differentiation.",
+  "source": "Generated from 15. Reproductive.pdf - Embryology: Genital embryology: Mullerian and Wolffian ducts"
+},
+{
+  "id": "rep-084",
+  "subject": "Reproductive",
+  "major_topic": "Embryology",
+  "subtopic": "Genital embryology: Mullerian and Wolffian ducts",
+  "difficulty": "medium",
+  "vignette": "A 46,XY fetus has normal testes. Researchers are examining which cell type and product are responsible for preventing the development of the fallopian tubes, uterus, and proximal vagina in this fetus.",
+  "question": "Which cell type and secreted factor are directly responsible for suppressing development of the paramesonephric (Mullerian) ducts in this fetus?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Sertoli cells secreting Mullerian-inhibiting substance (MIS, anti-Mullerian hormone)"
+    },
+    {
+      "id": "B",
+      "text": "Leydig cells secreting testosterone"
+    },
+    {
+      "id": "C",
+      "text": "Leydig cells secreting dihydrotestosterone"
+    },
+    {
+      "id": "D",
+      "text": "Sertoli cells secreting androgen-binding protein"
+    },
+    {
+      "id": "E",
+      "text": "Germ cells secreting inhibin B"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Sertoli cells of the developing testis secrete MIS, also called anti-Mullerian hormone, which causes regression of the paramesonephric (Mullerian) ducts and thereby prevents formation of the fallopian tubes, uterus, and proximal vagina. Leydig-cell androgens (testosterone) instead stimulate the mesonephric (Wolffian) ducts to form male internal genitalia. 'Sertoli shuts down female internal differentiation' is the key rule. Without MIS, an XY fetus develops both male and female internal genitalia.",
+  "explanation_incorrect": {
+    "B": "Testosterone from Leydig cells stimulates mesonephric (Wolffian) duct development; it does not suppress Mullerian ducts.",
+    "C": "DHT is important for external genitalia and prostate, not for regression of the paramesonephric ducts.",
+    "D": "Androgen-binding protein maintains local testosterone in the seminiferous tubules; it does not cause Mullerian regression.",
+    "E": "Inhibin B inhibits FSH secretion; it is not involved in paramesonephric duct regression."
+  },
+  "educationalObjective": "Sertoli-cell MIS (anti-Mullerian hormone) regresses the Mullerian ducts, preventing female internal genitalia in the male fetus.",
+  "source": "Generated from 15. Reproductive.pdf - Embryology: Genital embryology: Mullerian and Wolffian ducts"
+},
+{
+  "id": "rep-085",
+  "subject": "Reproductive",
+  "major_topic": "Embryology",
+  "subtopic": "Genital embryology: Mullerian and Wolffian ducts",
+  "difficulty": "medium",
+  "vignette": "A medical student is reviewing the derivatives of the mesonephric (Wolffian) duct. She correctly lists the seminal vesicles, epididymis, ejaculatory duct, and ductus deferens (SEED).",
+  "question": "Which of the following male structures is NOT derived from the mesonephric (Wolffian) duct?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Seminal vesicle"
+    },
+    {
+      "id": "B",
+      "text": "Epididymis"
+    },
+    {
+      "id": "C",
+      "text": "Ductus deferens (vas deferens)"
+    },
+    {
+      "id": "D",
+      "text": "Prostate gland"
+    },
+    {
+      "id": "E",
+      "text": "Ejaculatory duct"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "The mesonephric (Wolffian) duct gives rise to the male internal genitalia summarized by SEED: Seminal vesicles, Epididymis, Ejaculatory duct, and Ductus deferens. The prostate is a notable exception: it derives from the urogenital sinus (endoderm), not from the Wolffian duct. In females the Wolffian duct regresses, leaving the Gartner duct as a remnant.",
+  "explanation_incorrect": {
+    "A": "The seminal vesicle is a Wolffian duct derivative, one of the 'S' structures in SEED.",
+    "B": "The epididymis is a Wolffian duct derivative, the 'E' in SEED.",
+    "C": "The ductus deferens is a Wolffian duct derivative, the 'D' in SEED.",
+    "E": "The ejaculatory duct is a Wolffian duct derivative, the 'E' in SEED."
+  },
+  "educationalObjective": "Wolffian duct derivatives are seminal vesicles, epididymis, ejaculatory duct, and ductus deferens (SEED); the prostate arises from the urogenital sinus.",
+  "source": "Generated from 15. Reproductive.pdf - Embryology: Genital embryology: Mullerian and Wolffian ducts"
+},
+{
+  "id": "rep-086",
+  "subject": "Reproductive",
+  "major_topic": "Embryology",
+  "subtopic": "Genital embryology: Mullerian and Wolffian ducts",
+  "difficulty": "easy",
+  "vignette": "A fetus with a 46,XX karyotype is developing normal female internal genitalia. The obstetrician explains which embryonic structures give rise to the uterus and upper vagina.",
+  "question": "Which of the following structures is derived from the paramesonephric (Mullerian) duct?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Distal vagina"
+    },
+    {
+      "id": "B",
+      "text": "Prostate gland"
+    },
+    {
+      "id": "C",
+      "text": "Seminal vesicle"
+    },
+    {
+      "id": "D",
+      "text": "Gartner duct"
+    },
+    {
+      "id": "E",
+      "text": "Uterus"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "The paramesonephric (Mullerian) duct develops into the female internal genitalia: the fallopian tubes, uterus, and proximal (upper) vagina. The distal vagina arises from the urogenital sinus, not the Mullerian duct. In males the Mullerian duct regresses, leaving the appendix testis as a remnant; in females the Wolffian duct leaves the Gartner duct.",
+  "explanation_incorrect": {
+    "A": "The distal vagina is derived from the urogenital sinus; only the proximal vagina is Mullerian in origin.",
+    "B": "The prostate is a male gland derived from the urogenital sinus.",
+    "C": "The seminal vesicle is a male structure derived from the mesonephric (Wolffian) duct.",
+    "D": "The Gartner duct is the female remnant of the mesonephric (Wolffian) duct, not a Mullerian derivative."
+  },
+  "educationalObjective": "The Mullerian duct forms the fallopian tubes, uterus, and proximal vagina; its male remnant is the appendix testis.",
+  "source": "Generated from 15. Reproductive.pdf - Embryology: Genital embryology: Mullerian and Wolffian ducts"
+},
+{
+  "id": "rep-087",
+  "subject": "Reproductive",
+  "major_topic": "Embryology",
+  "subtopic": "Genital embryology: Mullerian and Wolffian ducts",
+  "difficulty": "hard",
+  "vignette": "A 16-year-old girl presents with primary amenorrhea. She has normal breast development and pubic hair and normal female external genitalia. Pelvic ultrasound shows no uterus and only a blind vaginal pouch. She also has a single functioning kidney. Hormone studies show normal female levels of estrogen, LH, and FSH.",
+  "question": "Which of the following is the most likely diagnosis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Androgen insensitivity syndrome"
+    },
+    {
+      "id": "B",
+      "text": "Turner syndrome (45,X)"
+    },
+    {
+      "id": "C",
+      "text": "Mullerian agenesis (Mayer-Rokitansky-Kuster-Hauser syndrome)"
+    },
+    {
+      "id": "D",
+      "text": "Imperforate hymen"
+    },
+    {
+      "id": "E",
+      "text": "5-alpha-reductase deficiency"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Mullerian agenesis (Mayer-Rokitansky-Kuster-Hauser syndrome) causes primary amenorrhea with an absent uterus and a blind vaginal pouch, but normal female external genitalia and normal secondary sexual characteristics because ovarian function (and thus estrogen) is intact. It is associated with urinary tract anomalies such as renal agenesis, matching the single kidney here. Normal estrogen/LH/FSH and normal female external genitalia distinguish it from other causes of primary amenorrhea.",
+  "explanation_incorrect": {
+    "A": "Androgen insensitivity syndrome gives a 46,XY individual with female external genitalia, a blind pouch, and no uterus; breast development occurs without pubic hair, no ovaries are present, and the hormonal and renal findings differ.",
+    "B": "Turner syndrome (45,X) causes primary amenorrhea with streak gonads, short stature, and sexual infantilism (poor breast development), unlike the normal secondary characteristics here.",
+    "D": "Imperforate hymen causes primary amenorrhea with cyclic pelvic pain and a bulging bluish membrane; the uterus is present, unlike in this patient.",
+    "E": "5-alpha-reductase deficiency is a 46,XY disorder with atypical external genitalia and masculinization at puberty; it does not produce a normal female phenotype with a blind pouch and renal agenesis."
+  },
+  "educationalObjective": "MRKH presents with primary amenorrhea, absent uterus, blind vaginal pouch, normal female secondary characteristics, and associated renal agenesis.",
+  "source": "Generated from 15. Reproductive.pdf - Embryology: Genital embryology: Mullerian and Wolffian ducts"
+}
+]

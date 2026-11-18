@@ -1,0 +1,166 @@
+[
+{
+  "id": "rep-376",
+  "subject": "Reproductive",
+  "major_topic": "Pharmacology",
+  "subtopic": "Hypothalamic-pituitary-gonadal axis and drug targets",
+  "difficulty": "easy",
+  "vignette": "A 28-year-old woman is being evaluated for infertility. Her physician reviews the two-cell model of ovarian estrogen synthesis: luteinizing hormone (LH) acts on theca cells to produce androstenedione via cholesterol desmolase (CYP450c17), and follicle-stimulating hormone (FSH) acts on granulosa cells to convert that androstenedione into estradiol. The student wants to identify the enzyme responsible for the granulosa cell step.",
+  "question": "Which enzyme converts androstenedione to estradiol in ovarian granulosa cells under FSH stimulation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "5-alpha-reductase"
+    },
+    {
+      "id": "B",
+      "text": "Aromatase"
+    },
+    {
+      "id": "C",
+      "text": "CYP450c17 (cholesterol desmolase)"
+    },
+    {
+      "id": "D",
+      "text": "21-hydroxylase"
+    },
+    {
+      "id": "E",
+      "text": "3-beta-hydroxysteroid dehydrogenase"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "FSH stimulates granulosa cells to express aromatase (CYP19), which converts the androstenedione made by theca cells into estradiol (and estrone/estriol). This is the aromatase step of the two-cell model. LH drives the theca cell production of androstenedione via CYP450c17 (desmolase). Aromatase is also the target of the inhibitors anastrozole, letrozole, and exemestane.",
+  "explanation_incorrect": {
+    "A": "5-alpha-reductase converts testosterone to dihydrotestosterone in target tissues such as prostate and skin; it is not involved in ovarian estrogen synthesis.",
+    "C": "CYP450c17 (desmolase) acts in theca cells to make androstenedione from cholesterol under LH; it does not make estradiol.",
+    "D": "21-hydroxylase is an adrenal steroidogenic enzyme involved in cortisol and aldosterone synthesis, not ovarian aromatization.",
+    "E": "3-beta-hydroxysteroid dehydrogenase acts earlier in steroidogenesis (eg, pregnenolone to progesterone) and is not the FSH-driven aromatase step."
+  },
+  "educationalObjective": "Recall the two-cell model: LH/theca/CYP450c17 makes androstenedione, and FSH/granulosa/aromatase makes estradiol.",
+  "source": "Generated from 15. Reproductive.pdf - Pharmacology: Hypothalamic-pituitary-gonadal axis and drug targets"
+},
+{
+  "id": "rep-377",
+  "subject": "Reproductive",
+  "major_topic": "Pharmacology",
+  "subtopic": "Hypothalamic-pituitary-gonadal axis and drug targets",
+  "difficulty": "medium",
+  "vignette": "A 62-year-old postmenopausal woman with ER-positive breast cancer is started on anastrozole. Her oncologist explains that most of her circulating estrogen now comes from peripheral conversion of adrenal androgens rather than from the ovaries. The drug was chosen to block that conversion.",
+  "question": "Through which mechanism does anastrozole reduce estrogen levels?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Competitive antagonism of estrogen receptors at the breast"
+    },
+    {
+      "id": "B",
+      "text": "Inhibition of 5-alpha-reductase"
+    },
+    {
+      "id": "C",
+      "text": "Inhibition of aromatase, decreasing conversion of androgens to estrogens"
+    },
+    {
+      "id": "D",
+      "text": "Downregulation of pituitary GnRH receptors"
+    },
+    {
+      "id": "E",
+      "text": "Competitive antagonism of the androgen receptor"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Anastrozole (with letrozole and exemestane) inhibits aromatase, the enzyme that converts androstenedione and testosterone to estrone and estradiol. In postmenopausal women, whose estrogen derives mainly from peripheral aromatization of adrenal androgens, this markedly lowers estrogen. It is a mainstay for ER/PR-positive breast cancer. This contrasts with SERMs, which act at the estrogen receptor itself.",
+  "explanation_incorrect": {
+    "A": "Receptor antagonism at breast is the mechanism of tamoxifen, not aromatase inhibitors.",
+    "B": "5-alpha-reductase inhibition is the mechanism of finasteride, which blocks testosterone-to-DHT conversion.",
+    "D": "GnRH receptor downregulation with continuous agonist use (eg, leuprolide) is a different strategy that suppresses gonadotropins.",
+    "E": "Androgen receptor antagonism is the mechanism of flutamide and bicalutamide, used in prostate cancer."
+  },
+  "educationalObjective": "Distinguish aromatase inhibitors (anastrozole/letrozole/exemestane) from SERMs, 5-alpha-reductase inhibitors, and GnRH modulators.",
+  "source": "Generated from 15. Reproductive.pdf - Pharmacology: Hypothalamic-pituitary-gonadal axis and drug targets"
+},
+{
+  "id": "rep-378",
+  "subject": "Reproductive",
+  "major_topic": "Pharmacology",
+  "subtopic": "Hypothalamic-pituitary-gonadal axis and drug targets",
+  "difficulty": "medium",
+  "vignette": "A 71-year-old man with metastatic castration-resistant prostate cancer is started on abiraterone in addition to androgen deprivation therapy. Despite castration, his tumor continues to be driven by androgens produced outside the testes. The clinician wants to block androgen synthesis at its source.",
+  "question": "Which of the following best describes the mechanism of abiraterone?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Agonism at GnRH receptors leading to receptor downregulation"
+    },
+    {
+      "id": "B",
+      "text": "Reversible inhibition of 5-alpha-reductase"
+    },
+    {
+      "id": "C",
+      "text": "Nonsteroidal antagonism of the androgen receptor"
+    },
+    {
+      "id": "D",
+      "text": "Inhibition of CYP17 (17-alpha-hydroxylase/17,20-lyase), decreasing androgen synthesis"
+    },
+    {
+      "id": "E",
+      "text": "Aromatase inhibition that raises testosterone"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Abiraterone inhibits CYP17 (17-alpha-hydroxylase and 17,20-lyase, also called CYP450c17/desmolase), a key enzyme in androgen biosynthesis in the testes, adrenal glands, and tumor. This further suppresses testosterone and DHT production in castration-resistant prostate cancer. Ketoconazole similarly inhibits steroidogenic CYP450 enzymes. CYP17 is also the enzyme theca cells use to make androstenedione.",
+  "explanation_incorrect": {
+    "A": "Continuous GnRH agonism (leuprolide, goserelin) suppresses gonadotropins but does not directly block steroidogenic enzymes.",
+    "B": "Finasteride inhibits 5-alpha-reductase; abiraterone acts upstream at CYP17.",
+    "C": "Flutamide and bicalutamide are androgen receptor antagonists; abiraterone instead lowers androgen synthesis.",
+    "E": "Aromatase converts androgens to estrogens; inhibiting it would not lower androgens and is not abiraterone's mechanism."
+  },
+  "educationalObjective": "Identify abiraterone and ketoconazole as inhibitors of steroidogenic CYP450 enzymes (CYP17/desmolase) that lower androgen synthesis.",
+  "source": "Generated from 15. Reproductive.pdf - Pharmacology: Hypothalamic-pituitary-gonadal axis and drug targets"
+},
+{
+  "id": "rep-379",
+  "subject": "Reproductive",
+  "major_topic": "Pharmacology",
+  "subtopic": "Hypothalamic-pituitary-gonadal axis and drug targets",
+  "difficulty": "hard",
+  "vignette": "A 66-year-old man with locally advanced prostate cancer is started on a nonsteroidal agent as part of combined androgen blockade. The drug does not lower serum testosterone; instead it prevents testosterone and DHT from exerting their effect on the tumor. He later notices breast tenderness and gynecomastia.",
+  "question": "Which of the following is the mechanism of flutamide?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Competitive antagonism at androgen receptors"
+    },
+    {
+      "id": "B",
+      "text": "Inhibition of 5-alpha-reductase"
+    },
+    {
+      "id": "C",
+      "text": "Inhibition of aromatase"
+    },
+    {
+      "id": "D",
+      "text": "Continuous agonism at GnRH receptors"
+    },
+    {
+      "id": "E",
+      "text": "Irreversible inhibition of CYP17"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Flutamide (and bicalutamide) are nonsteroidal antagonists of the androgen receptor; they competitively block testosterone and DHT binding in target tissues such as prostate. Because androgen action is blocked, the drug is used in prostate cancer, often with a GnRH agonist. Gynecomastia and breast tenderness can occur, which tamoxifen can help prevent. Unlike finasteride or abiraterone, flutamide does not reduce androgen synthesis or conversion.",
+  "explanation_incorrect": {
+    "B": "5-alpha-reductase inhibition (finasteride) lowers DHT but is not how flutamide works.",
+    "C": "Aromatase inhibitors (anastrozole, letrozole) lower estrogen and are used in breast cancer, not this androgen-receptor mechanism.",
+    "D": "Continuous GnRH agonism (leuprolide) downregulates pituitary GnRH receptors to lower LH/FSH; flutamide acts at the androgen receptor.",
+    "E": "CYP17 inhibition is the mechanism of abiraterone and ketoconazole, not flutamide."
+  },
+  "educationalObjective": "Distinguish androgen receptor antagonists (flutamide, bicalutamide, spironolactone) from 5-alpha-reductase inhibitors and GnRH modulators.",
+  "source": "Generated from 15. Reproductive.pdf - Pharmacology: Hypothalamic-pituitary-gonadal axis and drug targets"
+}
+]

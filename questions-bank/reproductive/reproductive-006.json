@@ -1,0 +1,207 @@
+[
+{
+  "id": "rep-200",
+  "subject": "Reproductive",
+  "major_topic": "Physiology",
+  "subtopic": "Apgar score and neonatal birth weight",
+  "difficulty": "easy",
+  "vignette": "A newborn is assessed immediately after delivery. The pediatric team assigns a score based on five parameters, each worth 0 to 2 points, evaluated at 1 minute and again at 5 minutes.",
+  "question": "Which of the following sets of parameters correctly makes up the Apgar score?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Alertness, Pulse, Grip, Activity, Reflexes"
+    },
+    {
+      "id": "B",
+      "text": "Appearance, Heart rate, Muscle tone, Activity, Temperature"
+    },
+    {
+      "id": "C",
+      "text": "Appearance, Pulse, Grimace, Activity, Respiration"
+    },
+    {
+      "id": "D",
+      "text": "Appearance, Pulse, Grimace, Circulation, Respiration"
+    },
+    {
+      "id": "E",
+      "text": "Appetite, Pulse, Grip, Activity, Respiration"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "The Apgar score is a 10-point scale assessed at 1 minute and 5 minutes after delivery, based on five parameters: Appearance (skin color), Pulse (heart rate), Grimace (irritability/response to stimulation), Activity (muscle tone/movement), and Respiration (breathing effort). Each is scored 0, 1, or 2, and the mnemonic APGAR captures the five components.",
+  "explanation_incorrect": {
+    "A": "Alertness and Grip are not Apgar parameters; the correct mnemonic uses Appearance, Pulse, Grimace, Activity, and Respiration.",
+    "B": "Temperature is not an Apgar component; the five parameters are Appearance, Pulse, Grimace, Activity, and Respiration, each scored at 1 and 5 minutes.",
+    "D": "Circulation is not one of the five components; Pulse is the cardiovascular parameter in the Apgar score.",
+    "E": "Appetite and Grip are not Apgar parameters; the correct components are Appearance, Pulse, Grimace, Activity, and Respiration."
+  },
+  "educationalObjective": "Apgar = Appearance, Pulse, Grimace, Activity, Respiration; a 10-point scale scored at 1 and 5 minutes.",
+  "source": "Generated from 15. Reproductive.pdf - Physiology: Apgar score and neonatal birth weight"
+},
+{
+  "id": "rep-201",
+  "subject": "Reproductive",
+  "major_topic": "Physiology",
+  "subtopic": "Apgar score and neonatal birth weight",
+  "difficulty": "medium",
+  "vignette": "A newborn has an Apgar score of 5 at 1 minute and 6 at 5 minutes. The pediatrician continues resuscitation and close monitoring because the score remains below the normal range.",
+  "question": "Which of the following best reflects the clinical significance of this infant's Apgar scores?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A score < 7 may require further evaluation, and persistently low scores indicate increased risk of long-term neurologic damage"
+    },
+    {
+      "id": "B",
+      "text": "A score < 7 is diagnostic of irreversible brain injury regardless of later scores"
+    },
+    {
+      "id": "C",
+      "text": "A score of 5-6 at 5 minutes requires no intervention because it is considered normal"
+    },
+    {
+      "id": "D",
+      "text": "Apgar scores predict long-term cognitive outcome only when measured at 1 minute"
+    },
+    {
+      "id": "E",
+      "text": "The score reflects only the infant's skin color and is not useful for neurologic risk"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Apgar scores < 7 may require further evaluation and possible resuscitation. If the score remains low at later time points (eg, 5 minutes and beyond), there is an increased risk the child will develop long-term neurologic damage. The score is a rapid assessment at 1 and 5 minutes; a low 1-minute score that improves is less concerning than a persistently low score.",
+  "explanation_incorrect": {
+    "B": "A low Apgar score is not diagnostic of irreversible brain injury by itself; it signals a need for evaluation, and outcome depends on the response to resuscitation and later scores.",
+    "C": "A 5-minute score of 5-6 is below the normal threshold (< 7) and warrants further evaluation rather than being dismissed as normal.",
+    "D": "Apgar scores at both 1 and 5 minutes are used, and persistently low later scores are most informative about neurologic risk, not the 1-minute score alone.",
+    "E": "Apgar encompasses five parameters, not just skin color, and persistently low scores are associated with increased neurologic risk."
+  },
+  "educationalObjective": "Apgar < 7 warrants further evaluation; persistently low scores correlate with increased risk of long-term neurologic damage.",
+  "source": "Generated from 15. Reproductive.pdf - Physiology: Apgar score and neonatal birth weight"
+},
+{
+  "id": "rep-202",
+  "subject": "Reproductive",
+  "major_topic": "Physiology",
+  "subtopic": "Apgar score and neonatal birth weight",
+  "difficulty": "easy",
+  "vignette": "A male infant is born at 33 weeks' gestation with a birth weight of 1800 g. His mother had poorly controlled hypertension during pregnancy, and there was evidence of fetal growth restriction.",
+  "question": "Which of the following best characterizes this infant's birth weight category and its associated risks?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Macrosomia; increased risk of maternal and fetal trauma"
+    },
+    {
+      "id": "B",
+      "text": "Appropriate for gestational age; no increased risk"
+    },
+    {
+      "id": "C",
+      "text": "High birth weight; increased risk of shoulder dystocia"
+    },
+    {
+      "id": "D",
+      "text": "Low birth weight; increased mortality (including SIDS) and morbidity"
+    },
+    {
+      "id": "E",
+      "text": "Low birth weight; decreased mortality but increased morbidity"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Low birth weight is defined as < 2500 g and results from prematurity and/or fetal growth restriction (FGR), as in this infant born at 33 weeks with maternal hypertension. Low birth weight is associated with increased mortality, including sudden infant death syndrome (SIDS), and increased morbidity. This contrasts with macrosomia (> 4000 g), which raises the risk of birth trauma.",
+  "explanation_incorrect": {
+    "A": "Macrosomia is birth weight > 4000 g, not 1800 g; it is associated with maternal/fetal trauma such as shoulder dystocia, not this infant's profile.",
+    "B": "A weight of 1800 g at 33 weeks with fetal growth restriction is not simply appropriate and carries increased risks; low birth weight is a recognized adverse category.",
+    "C": "High birth weight/macrosomia is > 4000 g and is linked to shoulder dystocia; this infant is underweight, not macrosomic.",
+    "E": "Low birth weight increases both mortality (including SIDS) and morbidity; it does not reduce mortality."
+  },
+  "educationalObjective": "Birth weight < 2500 g (from prematurity or fetal growth restriction) increases mortality, including SIDS, and morbidity.",
+  "source": "Generated from 15. Reproductive.pdf - Physiology: Apgar score and neonatal birth weight"
+},
+{
+  "id": "rep-203",
+  "subject": "Reproductive",
+  "major_topic": "Physiology",
+  "subtopic": "Apgar score and neonatal birth weight",
+  "difficulty": "medium",
+  "vignette": "A 38-year-old woman with obesity and gestational diabetes delivers a 4300-g newborn. Labor is complicated by difficulty delivering the shoulders after the head emerges.",
+  "question": "Which of the following best explains this infant's birth weight and the complication during delivery?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Low birth weight from fetal growth restriction; risk of SIDS"
+    },
+    {
+      "id": "B",
+      "text": "Macrosomia from maternal obesity/diabetes; increased risk of shoulder dystocia"
+    },
+    {
+      "id": "C",
+      "text": "Macrosomia from prematurity; increased risk of respiratory distress only"
+    },
+    {
+      "id": "D",
+      "text": "Low birth weight from constitutional factors; increased risk of maternal trauma"
+    },
+    {
+      "id": "E",
+      "text": "Appropriate birth weight; shoulder dystocia is unrelated to fetal size"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "High birth weight (macrosomia) is defined as > 4000 g. Causes include fetal constitutional/genetic factors and maternal obesity or diabetes mellitus, as in this patient. Macrosomia increases the risk of maternal or fetal trauma during delivery, classically shoulder dystocia, in which the anterior shoulder becomes impacted after the head delivers.",
+  "explanation_incorrect": {
+    "A": "This infant is macrosomic, not low birth weight; SIDS risk is associated with low birth weight (< 2500 g), not macrosomia.",
+    "C": "Macrosomia is not caused by prematurity (which causes low birth weight), and the concern is traumatic delivery such as shoulder dystocia rather than respiratory distress alone.",
+    "D": "The infant is not low birth weight; macrosomia, not low birth weight, is linked to maternal/fetal trauma like shoulder dystocia.",
+    "E": "Birth weight > 4000 g is macrosomia and is directly related to the increased risk of shoulder dystocia; it is not an appropriate weight with an unrelated complication."
+  },
+  "educationalObjective": "Macrosomia (> 4000 g) is associated with maternal obesity/diabetes and increases the risk of traumatic delivery, classically shoulder dystocia.",
+  "source": "Generated from 15. Reproductive.pdf - Physiology: Apgar score and neonatal birth weight"
+},
+{
+  "id": "rep-204",
+  "subject": "Reproductive",
+  "major_topic": "Physiology",
+  "subtopic": "Apgar score and neonatal birth weight",
+  "difficulty": "hard",
+  "vignette": "A newborn is assessed at 1 minute. He is pink all over, has a heart rate of 110 bpm, cries and pulls away from stimulation, and actively moves all extremities, but he is not breathing.",
+  "question": "What is this infant's Apgar score at 1 minute?",
+  "options": [
+    {
+      "id": "A",
+      "text": "5"
+    },
+    {
+      "id": "B",
+      "text": "6"
+    },
+    {
+      "id": "C",
+      "text": "7"
+    },
+    {
+      "id": "D",
+      "text": "10"
+    },
+    {
+      "id": "E",
+      "text": "8"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Score each of the five Apgar components: Appearance - pink all over = 2; Pulse - heart rate >= 100 bpm = 2; Grimace - cries and pulls away = 2; Activity - active movement = 2; Respiration - no breathing = 0. The total is 2 + 2 + 2 + 2 + 0 = 8. The absence of any breathing (0 for respiration) is the key deficit here.",
+  "explanation_incorrect": {
+    "A": "5 would require substantially lower scores in multiple categories; this infant has full points in four of five categories and only respiration is 0.",
+    "B": "6 incorrectly assigns fewer points; with pink color, heart rate >= 100, strong grimace, and active movement, only respiration is 0.",
+    "C": "7 would mean losing 3 points total; here only respiration (0 instead of 2) is abnormal, giving 8.",
+    "D": "10 would require spontaneous breathing with a strong cry; this infant is not breathing, so respiration scores 0."
+  },
+  "educationalObjective": "Apgar scoring assigns 0-2 for each of five parameters; absence of breathing scores 0 for respiration even when all other parameters are normal.",
+  "source": "Generated from 15. Reproductive.pdf - Physiology: Apgar score and neonatal birth weight"
+}
+]

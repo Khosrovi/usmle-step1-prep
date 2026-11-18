@@ -1,0 +1,248 @@
+[
+{
+  "id": "rep-194",
+  "subject": "Reproductive",
+  "major_topic": "Physiology",
+  "subtopic": "hCG and human placental lactogen",
+  "difficulty": "easy",
+  "vignette": "A 28-year-old woman at 6 weeks' gestation has an appropriately elevated serum beta-hCG. She asks how the pregnancy is being maintained this early. The hormone responsible for supporting the corpus luteum at this stage is produced by the trophoblast and acts on the ovary in a manner similar to a pituitary gonadotropin.",
+  "question": "Which of the following best describes the source and function of human chorionic gonadotropin at 6 weeks' gestation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Secreted by the corpus luteum; stimulates the trophoblast to produce progesterone"
+    },
+    {
+      "id": "B",
+      "text": "Secreted by the syncytiotrophoblast; maintains the corpus luteum by acting like LH"
+    },
+    {
+      "id": "C",
+      "text": "Secreted by the cytotrophoblast; maintains the corpus luteum by acting like FSH"
+    },
+    {
+      "id": "D",
+      "text": "Secreted by the syncytiotrophoblast; directly stimulates fetal adrenal cortisol production"
+    },
+    {
+      "id": "E",
+      "text": "Secreted by the maternal decidua; suppresses LH to prevent ovulation"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "hCG is produced by the syncytiotrophoblast of the placenta. In the first 8-10 weeks it maintains the corpus luteum (and thus progesterone secretion) by acting like LH on luteal cells; without this luteal stimulation, the pregnancy is lost (abortion). After 8-10 weeks the luteal-placental shift is complete: the placenta synthesizes its own estriol and progesterone and the corpus luteum degenerates. Early pregnancy therefore depends on trophoblastic hCG providing LH-like support.",
+  "explanation_incorrect": {
+    "A": "hCG is not made by the corpus luteum; the corpus luteum is its target, and it is the placenta (syncytiotrophoblast) that produces progesterone after the luteal-placental shift.",
+    "C": "The syncytiotrophoblast, not the cytotrophoblast, secretes hCG, and its LH-like (not FSH-like) activity is what maintains the corpus luteum.",
+    "D": "Direct stimulation of fetal adrenal cortisol is not a function of hCG; its critical early role is luteal support through an LH-like action.",
+    "E": "hCG is not decidual in origin and does not suppress maternal LH; it acts as an LH analog to sustain the corpus luteum."
+  },
+  "educationalObjective": "hCG from the syncytiotrophoblast maintains the corpus luteum for the first 8-10 weeks by acting like LH until the placenta takes over steroidogenesis.",
+  "source": "Generated from 15. Reproductive.pdf - Physiology: hCG and human placental lactogen"
+},
+{
+  "id": "rep-195",
+  "subject": "Reproductive",
+  "major_topic": "Physiology",
+  "subtopic": "hCG and human placental lactogen",
+  "difficulty": "hard",
+  "vignette": "A 27-year-old woman at 10 weeks' gestation develops palpitations, heat intolerance, and weight loss. Laboratory studies show a suppressed TSH with an elevated free T4. Her beta-hCG is markedly elevated for gestational age, consistent with a multifetal gestation. No thyroid antibodies are detected.",
+  "question": "Which of the following best explains why an elevated beta-hCG can produce these thyroid laboratory findings?",
+  "options": [
+    {
+      "id": "A",
+      "text": "hCG shares an identical beta subunit with TSH, so the assay cannot distinguish them"
+    },
+    {
+      "id": "B",
+      "text": "hCG contains a unique alpha subunit that cross-reacts with the TSH receptor"
+    },
+    {
+      "id": "C",
+      "text": "hCG is structurally identical to TSH and is cleared by the same pathway"
+    },
+    {
+      "id": "D",
+      "text": "The beta subunit of hCG is structurally similar to that of TSH, so high hCG can weakly stimulate the TSH receptor"
+    },
+    {
+      "id": "E",
+      "text": "hCG suppresses pituitary TSH directly through its alpha subunit"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "hCG and LH, FSH, and TSH share an identical alpha subunit; each hormone's beta subunit confers specificity and is what pregnancy tests detect. The beta subunit of hCG is structurally similar to that of TSH, so states with markedly increased hCG (eg, multifetal gestation, hydatidiform mole, choriocarcinoma) can weakly stimulate the TSH receptor and cause hyperthyroidism with a suppressed TSH and elevated free T4. This is why very high hCG can mimic Graves disease even without thyroid antibodies.",
+  "explanation_incorrect": {
+    "A": "It is the alpha subunit that is identical among hCG, LH, FSH, and TSH; the beta subunit of hCG is unique, not identical to that of TSH.",
+    "B": "The alpha subunit is the shared (not unique) subunit, and it does not confer the TSH-like receptor cross-reactivity; the beta subunit's similarity to TSH is responsible.",
+    "C": "hCG is not structurally identical to TSH; only the alpha subunit is shared, while the beta subunits differ.",
+    "E": "hCG does not directly suppress pituitary TSH via its alpha subunit; the hyperthyroidism results from TSH-receptor stimulation by the structurally similar beta subunit."
+  },
+  "educationalObjective": "hCG's beta subunit resembles TSH, so markedly elevated hCG can cause hyperthyroidism; its alpha subunit is shared with LH, FSH, and TSH.",
+  "source": "Generated from 15. Reproductive.pdf - Physiology: hCG and human placental lactogen"
+},
+{
+  "id": "rep-196",
+  "subject": "Reproductive",
+  "major_topic": "Physiology",
+  "subtopic": "hCG and human placental lactogen",
+  "difficulty": "medium",
+  "vignette": "A 24-year-old woman presents with vaginal bleeding and a uterine size larger than expected for 8 weeks' gestation. Serum beta-hCG is markedly elevated, and ultrasound shows a snowstorm appearance. The clinician knows that several conditions raise beta-hCG.",
+  "question": "Which of the following conditions is associated with a DECREASED beta-hCG level rather than an elevated one?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Hydatidiform mole"
+    },
+    {
+      "id": "B",
+      "text": "Down syndrome (trisomy 21)"
+    },
+    {
+      "id": "C",
+      "text": "Edwards syndrome (trisomy 18)"
+    },
+    {
+      "id": "D",
+      "text": "Choriocarcinoma"
+    },
+    {
+      "id": "E",
+      "text": "Multifetal gestation"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "hCG is increased in multifetal gestation, hydatidiform moles, choriocarcinomas, and Down syndrome (trisomy 21). In contrast, hCG is decreased in ectopic or failing pregnancies and in Edwards syndrome (trisomy 18) and Patau syndrome (trisomy 13). Edwards syndrome is therefore the option associated with a lower, not higher, beta-hCG. This pattern reflects the amount of viable trophoblastic tissue present.",
+  "explanation_incorrect": {
+    "A": "Hydatidiform mole is a trophoblastic disease with markedly increased beta-hCG, often producing a uterus large for dates and a snowstorm ultrasound appearance.",
+    "B": "Down syndrome (trisomy 21) is associated with increased maternal serum hCG as part of prenatal screening.",
+    "D": "Choriocarcinoma is a malignant trophoblastic tumor that produces very high levels of beta-hCG.",
+    "E": "Multifetal gestation increases beta-hCG because there is a greater mass of trophoblastic tissue."
+  },
+  "educationalObjective": "hCG is increased with moles, choriocarcinoma, multifetal gestation, and trisomy 21, but decreased in failing/ectopic pregnancies and trisomies 18 and 13.",
+  "source": "Generated from 15. Reproductive.pdf - Physiology: hCG and human placental lactogen"
+},
+{
+  "id": "rep-197",
+  "subject": "Reproductive",
+  "major_topic": "Physiology",
+  "subtopic": "hCG and human placental lactogen",
+  "difficulty": "easy",
+  "vignette": "A 22-year-old woman suspects she is pregnant about 1 week after a missed menstrual period. She uses an over-the-counter urine pregnancy test, which returns positive, and wonders how the test can detect pregnancy this early.",
+  "question": "Detection of pregnancy by urine testing so early is possible because human chorionic gonadotropin:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Appears early in urine and is detectable by its unique beta subunit"
+    },
+    {
+      "id": "B",
+      "text": "Is present in urine only after the luteal-placental shift at 10 weeks"
+    },
+    {
+      "id": "C",
+      "text": "Is secreted in large amounts by the maternal ovary before implantation"
+    },
+    {
+      "id": "D",
+      "text": "Cross-reacts with urinary FSH, which is the molecule measured by the test"
+    },
+    {
+      "id": "E",
+      "text": "Is cleared from the urine only after delivery"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "hCG is used to detect pregnancy because it appears early in urine, shortly after implantation. Pregnancy tests use antibodies directed against the unique beta subunit of hCG, avoiding cross-reaction with LH, FSH, and TSH, which share the identical alpha subunit. This permits detection around the time of a missed period, well before the luteal-placental shift at 8-10 weeks.",
+  "explanation_incorrect": {
+    "B": "hCG appears well before 10 weeks; the luteal-placental shift is when the placenta assumes progesterone production and the corpus luteum degenerates, not when hCG first appears.",
+    "C": "hCG is produced by the trophoblast, not the maternal ovary; the ovary (corpus luteum) is its target.",
+    "D": "Pregnancy tests target the unique beta subunit of hCG; detecting urinary FSH would be nonspecific because FSH shares the alpha subunit.",
+    "E": "hCG does not first appear only near delivery; it appears early in urine and declines after the first trimester, which is the basis for early testing."
+  },
+  "educationalObjective": "Early urine pregnancy tests detect the unique beta subunit of hCG, which appears in urine soon after implantation.",
+  "source": "Generated from 15. Reproductive.pdf - Physiology: hCG and human placental lactogen"
+},
+{
+  "id": "rep-198",
+  "subject": "Reproductive",
+  "major_topic": "Physiology",
+  "subtopic": "hCG and human placental lactogen",
+  "difficulty": "medium",
+  "vignette": "A 30-year-old woman at 28 weeks' gestation has a normal fasting glucose but is noted to have increased insulin resistance with compensatory hyperinsulinemia. Her obstetrician attributes this to a placental hormone that redirects nutrients toward the fetus.",
+  "question": "Which placental hormone is responsible for promoting maternal insulin resistance to supply the growing fetus with glucose and amino acids?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Human chorionic gonadotropin"
+    },
+    {
+      "id": "B",
+      "text": "Estriol"
+    },
+    {
+      "id": "C",
+      "text": "Progesterone"
+    },
+    {
+      "id": "D",
+      "text": "Placental growth hormone"
+    },
+    {
+      "id": "E",
+      "text": "Human placental lactogen (human chorionic somatomammotropin)"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Human placental lactogen, also called human chorionic somatomammotropin, is secreted by the syncytiotrophoblast. It promotes maternal insulin resistance so that glucose and amino acids are diverted to the growing fetus, and it concurrently stimulates maternal insulin secretion. When the maternal pancreas cannot overcome this insulin resistance, gestational diabetes results.",
+  "explanation_incorrect": {
+    "A": "hCG's main role is luteal support in early pregnancy (and TSH-like activity at high levels), not driving maternal insulin resistance.",
+    "B": "Estriol is an estrogen produced by the placenta after the luteal-placental shift; it is not the hormone responsible for the diabetogenic insulin resistance of pregnancy.",
+    "C": "Progesterone maintains the endometrium and myometrial quiescence; it does not cause the insulin resistance that shunts nutrients to the fetus.",
+    "D": "Placental growth hormone is not the classic diabetogenic placental hormone described here; human placental lactogen is the syncytiotrophoblast product that promotes insulin resistance."
+  },
+  "educationalObjective": "Human placental lactogen from the syncytiotrophoblast causes maternal insulin resistance and compensatory hyperinsulinemia to shunt glucose and amino acids to the fetus.",
+  "source": "Generated from 15. Reproductive.pdf - Physiology: hCG and human placental lactogen"
+},
+{
+  "id": "rep-199",
+  "subject": "Reproductive",
+  "major_topic": "Physiology",
+  "subtopic": "hCG and human placental lactogen",
+  "difficulty": "medium",
+  "vignette": "A 33-year-old woman at 30 weeks' gestation has an abnormal 1-hour oral glucose tolerance test. She has no prior history of diabetes and gained weight appropriately. Her clinician explains that a placental hormone raises her insulin requirements and that sometimes the pancreas cannot compensate.",
+  "question": "Which of the following best explains the development of gestational diabetes in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "hCG destroys pancreatic beta cells, causing absolute insulin deficiency"
+    },
+    {
+      "id": "B",
+      "text": "Decreased placental progesterone removes an insulin-sensitizing effect"
+    },
+    {
+      "id": "C",
+      "text": "Human placental lactogen induces insulin resistance that the maternal pancreas cannot fully overcome"
+    },
+    {
+      "id": "D",
+      "text": "Estriol directly inhibits insulin secretion from pancreatic beta cells"
+    },
+    {
+      "id": "E",
+      "text": "The corpus luteum secretes excess insulin antagonists before 10 weeks"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Human placental lactogen (chorionic somatomammotropin) promotes insulin resistance to supply the fetus with glucose and amino acids while simultaneously stimulating maternal insulin secretion. In some women the pancreatic beta cells cannot overcome this hPL-induced insulin resistance, leading to gestational diabetes mellitus. It typically appears in the second or third trimester when hPL levels are high and resolves after delivery of the placenta.",
+  "explanation_incorrect": {
+    "A": "hCG does not destroy pancreatic beta cells; gestational diabetes is due to insulin resistance, not autoimmune beta-cell destruction (which causes type 1 diabetes).",
+    "B": "Progesterone does not act as an insulin sensitizer whose loss causes gestational diabetes; the diabetogenic effect is from human placental lactogen.",
+    "D": "Estriol does not directly inhibit insulin secretion; the insulin resistance of pregnancy is mediated mainly by human placental lactogen.",
+    "E": "The corpus luteum degenerates after 8-10 weeks and is not a source of insulin antagonists; hPL from the placenta is the relevant hormone."
+  },
+  "educationalObjective": "Gestational diabetes develops when the maternal pancreas cannot overcome human placental lactogen-induced insulin resistance.",
+  "source": "Generated from 15. Reproductive.pdf - Physiology: hCG and human placental lactogen"
+}
+]

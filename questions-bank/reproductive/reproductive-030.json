@@ -1,0 +1,248 @@
+[
+{
+  "id": "rep-380",
+  "subject": "Reproductive",
+  "major_topic": "Pharmacology",
+  "subtopic": "GnRH analogs",
+  "difficulty": "easy",
+  "vignette": "A pharmacology student is learning that agents acting on the hypothalamic-pituitary-gonadal axis are classified by whether they stimulate or block the pituitary GnRH receptor. Leuprolide, goserelin, nafarelin, and histrelin are grouped together, while one agent is different in that it does not produce an initial stimulatory surge.",
+  "question": "Which of the following is a GnRH receptor antagonist rather than a GnRH agonist?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Leuprolide"
+    },
+    {
+      "id": "B",
+      "text": "Degarelix"
+    },
+    {
+      "id": "C",
+      "text": "Goserelin"
+    },
+    {
+      "id": "D",
+      "text": "Nafarelin"
+    },
+    {
+      "id": "E",
+      "text": "Histrelin"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Degarelix is a GnRH receptor antagonist. Unlike the GnRH agonists, it has no initial agonist (start-up or tumor flare) phase; it immediately suppresses LH and FSH and therefore testosterone. It is used for prostate cancer. Its adverse effects include hot flashes and liver toxicity. The other four agents listed are GnRH agonists.",
+  "explanation_incorrect": {
+    "A": "Leuprolide is a GnRH agonist, not an antagonist; continuous use causes an initial flare before receptor downregulation.",
+    "C": "Goserelin is a GnRH agonist used for prostate cancer and endometriosis.",
+    "D": "Nafarelin is a GnRH agonist, available as a nasal spray.",
+    "E": "Histrelin is a GnRH agonist, often given as a subcutaneous implant."
+  },
+  "educationalObjective": "Identify degarelix as a GnRH antagonist with no start-up flare, distinct from leuprolide, goserelin, nafarelin, and histrelin.",
+  "source": "Generated from 15. Reproductive.pdf - Pharmacology: GnRH analogs"
+},
+{
+  "id": "rep-381",
+  "subject": "Reproductive",
+  "major_topic": "Pharmacology",
+  "subtopic": "GnRH analogs",
+  "difficulty": "medium",
+  "vignette": "A 68-year-old man with prostate cancer begins continuous leuprolide therapy. Two weeks later his clinicians note a transient rise in testosterone and a temporary worsening of bone pain before hormone levels fall. They had anticipated this phenomenon.",
+  "question": "Which of the following best explains the initial transient worsening seen with continuous GnRH agonist therapy?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Immediate downregulation of pituitary GnRH receptors"
+    },
+    {
+      "id": "B",
+      "text": "Direct aromatase inhibition by leuprolide"
+    },
+    {
+      "id": "C",
+      "text": "Competitive blockade of the androgen receptor"
+    },
+    {
+      "id": "D",
+      "text": "Initial transient GnRH agonist stimulation (tumor flare) before receptor downregulation"
+    },
+    {
+      "id": "E",
+      "text": "Inhibition of adrenal androgen synthesis"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "When given continuously, GnRH agonists first stimulate pituitary GnRH receptors, causing a transient surge of LH and FSH and a rise in estrogen or testosterone (tumor flare). With continued exposure the GnRH receptors are downregulated, so LH and FSH fall and sex steroids decline. The initial flare can transiently worsen hormone-sensitive disease, which is why antagonist therapy (degarelix) is preferred when flare must be avoided.",
+  "explanation_incorrect": {
+    "A": "Receptor downregulation is the delayed phase that lowers hormones; it does not explain the initial rise.",
+    "B": "Leuprolide does not inhibit aromatase; that is the mechanism of anastrozole and letrozole.",
+    "C": "Androgen receptor blockade is the mechanism of flutamide and bicalutamide, not leuprolide.",
+    "E": "Adrenal androgen synthesis inhibition is the mechanism of abiraterone and ketoconazole, not GnRH agonists."
+  },
+  "educationalObjective": "Explain the tumor flare: continuous GnRH agonists stimulate first, then downregulate receptors to suppress gonadotropins.",
+  "source": "Generated from 15. Reproductive.pdf - Pharmacology: GnRH analogs"
+},
+{
+  "id": "rep-382",
+  "subject": "Reproductive",
+  "major_topic": "Pharmacology",
+  "subtopic": "GnRH analogs",
+  "difficulty": "hard",
+  "vignette": "A 30-year-old woman with anovulatory infertility wishes to conceive. Her physician discusses two ways to give a GnRH agonist: continuously, as is done for prostate cancer or endometriosis, or in a pulsatile fashion that mimics normal hypothalamic secretion. The choice critically changes the effect on LH and FSH.",
+  "question": "Why is pulsatile administration of a GnRH agonist used for infertility rather than continuous administration?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Pulsatile GnRH mimics physiologic secretion and stimulates LH/FSH release, whereas continuous dosing suppresses it"
+    },
+    {
+      "id": "B",
+      "text": "Pulsatile dosing downregulates pituitary GnRH receptors more completely than continuous dosing"
+    },
+    {
+      "id": "C",
+      "text": "Continuous dosing is required to induce ovulation and pregnancy"
+    },
+    {
+      "id": "D",
+      "text": "Pulsatile delivery is useful only to avoid hepatic first-pass metabolism"
+    },
+    {
+      "id": "E",
+      "text": "GnRH agonists are ineffective when given in a pulsatile pattern"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "GnRH must be secreted in pulses to stimulate the pituitary; pulsatile agonist administration (in lieu of native GnRH) drives LH and FSH release and can induce ovulation for infertility. Continuous administration instead downregulates GnRH receptors, suppressing LH/FSH and sex steroids, the effect desired for cancer, fibroids, and endometriosis. Thus the same drug is a stimulant or a suppressant depending entirely on the pattern of delivery.",
+  "explanation_incorrect": {
+    "B": "It is continuous, not pulsatile, exposure that downregulates GnRH receptors.",
+    "C": "Continuous dosing suppresses ovulation; pulsatile dosing is what supports pregnancy.",
+    "D": "The distinction is receptor-level (pulsatile stimulation vs downregulation), not a hepatic first-pass issue.",
+    "E": "On the contrary, pulsatile GnRH agonists are effective and are used specifically to induce ovulation."
+  },
+  "educationalObjective": "Contrast pulsatile (stimulatory, for infertility/pregnancy) with continuous (suppressive, for cancer/fibroids) GnRH agonist administration.",
+  "source": "Generated from 15. Reproductive.pdf - Pharmacology: GnRH analogs"
+},
+{
+  "id": "rep-383",
+  "subject": "Reproductive",
+  "major_topic": "Pharmacology",
+  "subtopic": "GnRH analogs",
+  "difficulty": "medium",
+  "vignette": "A resident is reviewing the clinical uses of continuous GnRH agonists: uterine fibroids, endometriosis, precocious puberty, and prostate cancer. She notes that one indication on the list is instead managed with pulsatile therapy to achieve a very different goal.",
+  "question": "For which of the following indications is a GnRH agonist given in a pulsatile fashion?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Uterine fibroids"
+    },
+    {
+      "id": "B",
+      "text": "Endometriosis"
+    },
+    {
+      "id": "C",
+      "text": "Precocious puberty"
+    },
+    {
+      "id": "D",
+      "text": "Prostate cancer"
+    },
+    {
+      "id": "E",
+      "text": "Infertility (to achieve pregnancy)"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Pulsatile GnRH agonist therapy is used for infertility to stimulate LH/FSH and induce ovulation, aiming for pregnancy. The other listed conditions, uterine fibroids, endometriosis, precocious puberty, and prostate cancer, are treated with continuous GnRH agonists, which suppress gonadotropins and sex steroids. The phrase 'pulsatile for pregnancy, continuous for cancer' captures this distinction.",
+  "explanation_incorrect": {
+    "A": "Uterine fibroids are treated with continuous GnRH agonists to suppress estrogen.",
+    "B": "Endometriosis is treated with continuous agonists to create a hypoestrogenic state.",
+    "C": "Precocious puberty is treated with continuous agonists to delay pubertal progression.",
+    "D": "Prostate cancer is treated with continuous agonists (or a GnRH antagonist) to lower testosterone."
+  },
+  "educationalObjective": "Distinguish pulsatile (infertility/pregnancy) from continuous (fibroids, endometriosis, precocious puberty, prostate cancer) GnRH agonist indications.",
+  "source": "Generated from 15. Reproductive.pdf - Pharmacology: GnRH analogs"
+},
+{
+  "id": "rep-384",
+  "subject": "Reproductive",
+  "major_topic": "Pharmacology",
+  "subtopic": "GnRH analogs",
+  "difficulty": "easy",
+  "vignette": "A 45-year-old woman with endometriosis is prescribed a continuous GnRH agonist. Her physician wants her to understand the intended hormonal effect: sustained suppression of the pituitary-gonadal axis produces a hypoestrogenic state.",
+  "question": "Continuous GnRH agonist therapy ultimately causes which of the following hormonal changes?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Increased LH and FSH with increased estrogen and testosterone"
+    },
+    {
+      "id": "B",
+      "text": "Increased LH with decreased FSH"
+    },
+    {
+      "id": "C",
+      "text": "Decreased LH and FSH with decreased estrogen and testosterone"
+    },
+    {
+      "id": "D",
+      "text": "Increased LH and increased testosterone only"
+    },
+    {
+      "id": "E",
+      "text": "No net change in gonadotropin levels"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "With continuous dosing, GnRH agonists initially stimulate but then downregulate pituitary GnRH receptors. The result is decreased secretion of LH and FSH, which in turn reduces estrogen in females and testosterone in males. This hypogonadal state is the therapeutic goal in endometriosis, fibroids, precocious puberty, and prostate cancer, and it explains adverse effects such as decreased libido and erectile dysfunction.",
+  "explanation_incorrect": {
+    "A": "Increased gonadotropins and sex steroids describe the transient initial flare, not the eventual effect.",
+    "B": "Both LH and FSH fall with sustained therapy; it is not a selective LH rise.",
+    "D": "Testosterone falls rather than rises; the early flare is transient and is not the goal.",
+    "E": "Gonadotropins change markedly, they are suppressed, so there is a net effect."
+  },
+  "educationalObjective": "Recall that continuous GnRH agonists downregulate receptors, lowering LH/FSH and sex steroids and producing hypogonadism.",
+  "source": "Generated from 15. Reproductive.pdf - Pharmacology: GnRH analogs"
+},
+{
+  "id": "rep-385",
+  "subject": "Reproductive",
+  "major_topic": "Pharmacology",
+  "subtopic": "GnRH analogs",
+  "difficulty": "hard",
+  "vignette": "A 74-year-old man with prostate cancer and impending spinal cord compression needs immediate androgen suppression. The oncologist wants to avoid the transient testosterone surge that a GnRH agonist would cause, because it could acutely worsen his symptoms. A GnRH antagonist is chosen instead.",
+  "question": "Which agent provides GnRH antagonism without a start-up flare and is associated with hot flashes and liver toxicity?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Leuprolide"
+    },
+    {
+      "id": "B",
+      "text": "Degarelix"
+    },
+    {
+      "id": "C",
+      "text": "Goserelin"
+    },
+    {
+      "id": "D",
+      "text": "Histrelin"
+    },
+    {
+      "id": "E",
+      "text": "Triptorelin"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Degarelix is a GnRH receptor antagonist used for prostate cancer. Because it blocks the receptor directly rather than stimulating it first, it produces no start-up flare and lowers testosterone promptly, which is useful when a surge would be dangerous. Its adverse effects include hot flashes and liver toxicity. GnRH agonists such as leuprolide, goserelin, histrelin, and triptorelin all have an initial flare phase.",
+  "explanation_incorrect": {
+    "A": "Leuprolide is a GnRH agonist with an initial tumor flare, the very effect the clinician wants to avoid.",
+    "C": "Goserelin is a GnRH agonist and therefore carries a start-up flare.",
+    "D": "Histrelin is a GnRH agonist delivered by implant; it also has an initial flare.",
+    "E": "Triptorelin is another GnRH agonist, not an antagonist."
+  },
+  "educationalObjective": "Recognize degarelix as the GnRH antagonist lacking start-up flare, with hot flashes and liver toxicity, for prostate cancer.",
+  "source": "Generated from 15. Reproductive.pdf - Pharmacology: GnRH analogs"
+}
+]
