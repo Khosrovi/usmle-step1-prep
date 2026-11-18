@@ -1,0 +1,207 @@
+[
+{
+  "id": "onc-300",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Chronic myelogenous leukemia",
+  "difficulty": "medium",
+  "vignette": "A 64-year-old man presents with 3 months of fatigue, unintended weight loss, and left upper quadrant fullness. CBC shows hemoglobin 11.2 g/dL, WBC 48,000/mm3 with neutrophils, metamyelocytes, myelocytes, and 5% basophils, and platelets 520,000/mm3. Examination shows splenomegaly.",
+  "question": "Which of the following cytogenetic abnormalities is most likely present in this patient's leukemic cells?",
+  "options": [
+    {
+      "id": "A",
+      "text": "t(15;17) producing PML-RARA"
+    },
+    {
+      "id": "B",
+      "text": "t(9;22) producing the BCR-ABL fusion (Philadelphia chromosome)"
+    },
+    {
+      "id": "C",
+      "text": "t(14;18) producing BCL-2 overexpression"
+    },
+    {
+      "id": "D",
+      "text": "Acquired JAK2 V617F mutation without a translocation"
+    },
+    {
+      "id": "E",
+      "text": "t(8;14) producing c-myc activation"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "CML is defined by the Philadelphia chromosome, t(9;22), which creates the BCR-ABL fusion tyrosine kinase in a myeloid stem cell. Dysregulated proliferation produces mature and maturing granulocytes including neutrophils, metamyelocytes, myelocytes, and basophils, along with splenomegaly. The median age at presentation is 64 years, matching this patient. Detection of BCR-ABL also predicts response to imatinib.",
+  "explanation_incorrect": {
+    "A": "t(15;17) PML-RARA causes acute promyelocytic leukemia (M3 AML), which presents with promyelocytes, Auer rods, and DIC rather than a chronic granulocytosis.",
+    "C": "t(14;18) activates BCL-2 in follicular lymphoma, an indolent B-cell neoplasm, not a myeloid stem cell disorder.",
+    "D": "An acquired JAK2 mutation drives polycythemia vera, essential thrombocythemia, or myelofibrosis; CML is Philadelphia-positive and JAK2-negative.",
+    "E": "t(8;14) activates c-myc in Burkitt lymphoma, a B-cell tumor, not CML."
+  },
+  "educationalObjective": "CML is defined by the Philadelphia chromosome t(9;22) BCR-ABL, producing dysregulated granulocyte production and splenomegaly in older adults.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Chronic myelogenous leukemia"
+},
+{
+  "id": "onc-301",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Chronic myelogenous leukemia",
+  "difficulty": "easy",
+  "vignette": "A 70-year-old man with known Philadelphia-positive CML has been relatively stable on imatinib. Over 2 weeks he develops worsening anemia, fever, and a rising WBC with 35% circulating myeloblasts.",
+  "question": "Which of the following best describes this complication of CML?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Richter transformation to diffuse large B-cell lymphoma"
+    },
+    {
+      "id": "B",
+      "text": "A reactive leukemoid response to infection"
+    },
+    {
+      "id": "C",
+      "text": "Progression to hairy cell leukemia"
+    },
+    {
+      "id": "D",
+      "text": "Blast crisis with transformation to AML or ALL"
+    },
+    {
+      "id": "E",
+      "text": "Development of immune thrombocytopenia"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "CML can accelerate and transform into an acute leukemia, termed blast crisis, most often AML or ALL. The sudden increase in circulating blasts and worsening cytopenias in a previously stable CML patient is classic. This represents clonal evolution of the Philadelphia-positive stem cell.",
+  "explanation_incorrect": {
+    "A": "Richter transformation is conversion of CLL/SLL into an aggressive lymphoma, usually DLBCL, not a complication of CML.",
+    "B": "A leukemoid reaction is a reactive neutrophilia, usually with toxic granulation and high LAP, and lacks the BCR-ABL clone and blast surge seen here.",
+    "C": "Hairy cell leukemia is a separate mature B-cell tumor with TRAP positivity and dry tap, not a transformation of CML.",
+    "E": "Immune thrombocytopenia would cause isolated low platelets, not a surge of myeloblasts or worsening anemia."
+  },
+  "educationalObjective": "CML may undergo blast crisis, transforming into AML or ALL with a sudden increase in circulating blasts.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Chronic myelogenous leukemia"
+},
+{
+  "id": "onc-302",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Chronic myelogenous leukemia",
+  "difficulty": "medium",
+  "vignette": "A 62-year-old patient is being evaluated for a myeloproliferative neoplasm. The laboratory and cytogenetic profile is being compared with the classic MPN patterns.",
+  "question": "Which of the following combinations best matches chronic myelogenous leukemia?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Decreased RBCs, increased WBCs, increased platelets; Philadelphia positive; JAK2 negative"
+    },
+    {
+      "id": "B",
+      "text": "Increased RBCs, increased WBCs, increased platelets; Philadelphia negative; JAK2 positive"
+    },
+    {
+      "id": "C",
+      "text": "Normal RBCs, normal WBCs, increased platelets; Philadelphia negative; JAK2 positive (30-50%)"
+    },
+    {
+      "id": "D",
+      "text": "Decreased RBCs, variable WBCs, variable platelets; Philadelphia negative; JAK2 positive (30-50%)"
+    },
+    {
+      "id": "E",
+      "text": "Increased RBCs, increased WBCs, increased platelets; Philadelphia negative; JAK2 negative"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "In CML the MPN table shows decreased RBCs (anemia), increased WBCs (granulocytosis), and increased platelets, with a positive Philadelphia chromosome and negative JAK2 mutation. This reflects myeloid stem cell proliferation crowding out normal erythropoiesis. The BCR-ABL driver distinguishes it from the JAK2-mutated MPNs.",
+  "explanation_incorrect": {
+    "B": "Increased RBCs with JAK2 positivity and no Philadelphia chromosome describes polycythemia vera, not CML.",
+    "C": "Isolated thrombocytosis with JAK2 positivity in 30-50% describes essential thrombocythemia.",
+    "D": "Anemia with variable WBCs and platelets, JAK2 positive in 30-50%, and no Philadelphia chromosome describes myelofibrosis.",
+    "E": "Pancytosis with a negative JAK2 mutation and no Philadelphia chromosome does not correspond to CML, which is Philadelphia-positive."
+  },
+  "educationalObjective": "CML shows anemia, leukocytosis, thrombocytosis, Philadelphia positivity, and JAK2 negativity in the MPN table.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Chronic myelogenous leukemia"
+},
+{
+  "id": "onc-303",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Chronic myelogenous leukemia",
+  "difficulty": "hard",
+  "vignette": "A 58-year-old man has a WBC of 44,000/mm3. Differential shows mature neutrophils, metamyelocytes, myelocytes, and 7% basophils, with only 1% blasts. Hemoglobin is 10.8 g/dL and the spleen is palpable 6 cm below the costal margin.",
+  "question": "Which feature of this peripheral smear best reflects the dysregulated production characteristic of CML?",
+  "options": [
+    {
+      "id": "A",
+      "text": "More than 20% myeloblasts with Auer rods"
+    },
+    {
+      "id": "B",
+      "text": "TdT-positive lymphoblasts"
+    },
+    {
+      "id": "C",
+      "text": "Smudge cells with autoimmune hemolysis"
+    },
+    {
+      "id": "D",
+      "text": "Hairy cells positive for tartrate-resistant acid phosphatase"
+    },
+    {
+      "id": "E",
+      "text": "A full spectrum of granulocytes from myelocytes to mature neutrophils, with basophilia and splenomegaly"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "CML produces dysregulated mature and maturing granulocytes, so the smear shows neutrophils, metamyelocytes, myelocytes, and basophils rather than a predominance of blasts. Basophilia is a characteristic clue, and splenomegaly reflects extramedullary myeloid proliferation. The low blast count distinguishes chronic phase from blast crisis.",
+  "explanation_incorrect": {
+    "A": "More than 20% myeloblasts with Auer rods indicates acute myelogenous leukemia, not chronic-phase CML.",
+    "B": "TdT-positive lymphoblasts indicate acute lymphoblastic leukemia, a lymphoid neoplasm.",
+    "C": "Smudge cells and autoimmune hemolytic anemia are features of CLL/SLL.",
+    "D": "TRAP-positive hairy cells with massive splenomegaly and dry tap indicate hairy cell leukemia."
+  },
+  "educationalObjective": "Chronic-phase CML shows maturing granulocytes and basophilia rather than a blast predominance.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Chronic myelogenous leukemia"
+},
+{
+  "id": "onc-304",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Chronic myelogenous leukemia",
+  "difficulty": "medium",
+  "vignette": "A 66-year-old man presents with fatigue and massive splenomegaly. CBC: hemoglobin 10.5 g/dL, WBC 62,000/mm3 with neutrophils, metamyelocytes, myelocytes, and 6% basophils, platelets 480,000/mm3. No JAK2 mutation is detected.",
+  "question": "Which of the following is the most likely diagnosis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Essential thrombocythemia"
+    },
+    {
+      "id": "B",
+      "text": "Polycythemia vera"
+    },
+    {
+      "id": "C",
+      "text": "Chronic myelogenous leukemia"
+    },
+    {
+      "id": "D",
+      "text": "Myelofibrosis"
+    },
+    {
+      "id": "E",
+      "text": "Leukemoid reaction"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "An older adult with marked granulocytosis including basophils, anemia, thrombocytosis, and massive splenomegaly without a JAK2 mutation fits CML with its Philadelphia chromosome. The spectrum of maturing granulocytes and basophilia is characteristic. A leukemoid reaction would show toxic granulation and normal basophils instead.",
+  "explanation_incorrect": {
+    "A": "Essential thrombocythemia has isolated thrombocytosis with normal RBCs and WBCs, not marked granulocytosis and anemia.",
+    "B": "Polycythemia vera presents with increased RBC mass and JAK2 positivity, not anemia and basophilia.",
+    "D": "Myelofibrosis features teardrop RBCs, dry tap, and variable counts with JAK2 positivity, not a Philadelphia-driven granulocytosis.",
+    "E": "A leukemoid reaction is reactive, with toxic granulation, high LAP, and normal eosinophil/basophil counts, and no BCR-ABL."
+  },
+  "educationalObjective": "Recognize CML in an older adult with granulocytosis, basophilia, anemia, and splenomegaly.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Chronic myelogenous leukemia"
+}
+]

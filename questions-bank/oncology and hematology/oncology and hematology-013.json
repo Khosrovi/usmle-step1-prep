@@ -1,0 +1,207 @@
+[
+{
+  "id": "onc-357",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Antiplatelet drugs",
+  "difficulty": "medium",
+  "vignette": "A 59-year-old man presents with crushing substernal chest pain and ST elevations, and is diagnosed with an acute myocardial infarction. He is given chewable aspirin immediately and later started on daily low-dose aspirin for secondary prevention. The cardiologist explains that aspirin reduces thrombotic events through an irreversible effect on platelets.",
+  "question": "Which of the following best describes the mechanism of aspirin as an antiplatelet agent?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Blocks the ADP (P2Y12) receptor on platelets"
+    },
+    {
+      "id": "B",
+      "text": "Blocks the GpIIb/IIIa fibrinogen receptor"
+    },
+    {
+      "id": "C",
+      "text": "Inhibits phosphodiesterase, increasing platelet cAMP"
+    },
+    {
+      "id": "D",
+      "text": "Irreversibly blocks COX, decreasing thromboxane A2 release"
+    },
+    {
+      "id": "E",
+      "text": "Reversibly inhibits cyclooxygenase-2 in platelets"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Aspirin irreversibly acetylates cyclooxygenase (COX-1) in platelets, which decreases the synthesis and release of thromboxane A2 (TXA2), a potent promoter of platelet aggregation and vasoconstriction. Because platelets are anucleate and cannot resynthesize COX, the effect lasts for the platelet's lifetime (~7-10 days). Aspirin is used in acute coronary syndrome, coronary stenting, and for reducing the incidence or recurrence of thrombotic stroke.",
+  "explanation_incorrect": {
+    "A": "Blocking the ADP P2Y12 receptor is the mechanism of clopidogrel, prasugrel, and ticagrelor, not aspirin.",
+    "B": "Blocking the GpIIb/IIIa fibrinogen receptor is the mechanism of eptifibatide, tirofiban, and abciximab.",
+    "C": "Phosphodiesterase inhibition with increased cAMP is the mechanism of cilostazol and dipyridamole.",
+    "E": "Aspirin irreversibly blocks COX-1 (not selectively COX-2) in platelets; the irreversible nature is essential to its antiplatelet action."
+  },
+  "educationalObjective": "Aspirin irreversibly inhibits platelet COX, decreasing thromboxane A2 and thereby reducing platelet aggregation.",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Antiplatelet drugs"
+},
+{
+  "id": "onc-358",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Antiplatelet drugs",
+  "difficulty": "easy",
+  "vignette": "A 6-year-old child develops a high fever, malaise, and a rash while recovering from influenza. The parent has been giving the child aspirin for the fever. The pediatrician urgently stops the aspirin because of a serious, potentially fatal syndrome strongly associated with salicylate use in children with viral illness.",
+  "question": "Which of the following adverse effects is classically associated with aspirin use in this pediatric population?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Reye syndrome"
+    },
+    {
+      "id": "B",
+      "text": "Aplastic anemia"
+    },
+    {
+      "id": "C",
+      "text": "Pulmonary fibrosis"
+    },
+    {
+      "id": "D",
+      "text": "Dilated cardiomyopathy"
+    },
+    {
+      "id": "E",
+      "text": "Skin hyperpigmentation"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Reye syndrome is a rare but severe complication of aspirin (salicylate) use in children, particularly during viral illnesses such as influenza or varicella. It is characterized by acute encephalopathy and hepatic dysfunction with fatty liver. Because of this risk, aspirin is generally avoided in children with febrile viral illness, and acetaminophen or ibuprofen is used instead.",
+  "explanation_incorrect": {
+    "B": "Aplastic anemia is not a classic aspirin adverse effect; it is associated with agents such as chloramphenicol or benzene exposure.",
+    "C": "Pulmonary fibrosis is a signature toxicity of bleomycin and other causing agents, not aspirin.",
+    "D": "Dilated cardiomyopathy is a well-known adverse effect of anthracyclines such as doxorubicin, not aspirin.",
+    "E": "Skin hyperpigmentation is associated with bleomycin use, not with aspirin."
+  },
+  "educationalObjective": "Aspirin use in children with viral illness is associated with Reye syndrome, characterized by encephalopathy and liver dysfunction.",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Antiplatelet drugs"
+},
+{
+  "id": "onc-359",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Antiplatelet drugs",
+  "difficulty": "medium",
+  "vignette": "A 64-year-old man with coronary artery disease is started on clopidogrel following placement of a drug-eluting coronary stent. He is also continued on aspirin, and the physician describes this as dual antiplatelet therapy. The added drug works by a different pathway than aspirin, blocking a key platelet receptor for ADP.",
+  "question": "Which of the following best describes the mechanism of clopidogrel, prasugrel, and ticagrelor?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Irreversible inhibition of platelet cyclooxygenase"
+    },
+    {
+      "id": "B",
+      "text": "Direct blockade of the GpIIb/IIIa receptor"
+    },
+    {
+      "id": "C",
+      "text": "Block ADP (P2Y12) receptors, decreasing ADP-induced GpIIb/IIIa expression"
+    },
+    {
+      "id": "D",
+      "text": "Inhibition of platelet phosphodiesterase with increased cAMP"
+    },
+    {
+      "id": "E",
+      "text": "Direct inhibition of thrombin (factor IIa)"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Clopidogrel, prasugrel, and ticagrelor are ADP (P2Y12) receptor antagonists. By blocking the P2Y12 receptor, they decrease ADP-induced expression of the GpIIb/IIIa receptor on activated platelets, reducing platelet aggregation. They are used for the same indications as aspirin and, in dual antiplatelet therapy with aspirin, carry a significant bleeding risk.",
+  "explanation_incorrect": {
+    "A": "Irreversible cyclooxygenase inhibition is the mechanism of aspirin, not the P2Y12 blockers.",
+    "B": "Direct GpIIb/IIIa receptor blockade is the mechanism of eptifibatide, tirofiban, and abciximab.",
+    "D": "Phosphodiesterase inhibition increasing cAMP is how cilostazol and dipyridamole work.",
+    "E": "Direct thrombin inhibition is the mechanism of dabigatran and argatroban, not these antiplatelet agents."
+  },
+  "educationalObjective": "Clopidogrel, prasugrel, and ticagrelor block platelet P2Y12 ADP receptors, reducing GpIIb/IIIa activation and aggregation.",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Antiplatelet drugs"
+},
+{
+  "id": "onc-360",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Antiplatelet drugs",
+  "difficulty": "hard",
+  "vignette": "A 58-year-old man with unstable angina undergoes percutaneous coronary intervention with stent placement. During the procedure he receives an intravenous antiplatelet infusion targeted at the final common pathway of platelet aggregation. Two days later his platelet count drops and he has oozing at the catheter site. The offending drug class is known to cause bleeding and thrombocytopenia.",
+  "question": "Which of the following drugs is most consistent with this mechanism and adverse effect profile?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Clopidogrel"
+    },
+    {
+      "id": "B",
+      "text": "Eptifibatide"
+    },
+    {
+      "id": "C",
+      "text": "Cilostazol"
+    },
+    {
+      "id": "D",
+      "text": "Aspirin"
+    },
+    {
+      "id": "E",
+      "text": "Dipyridamole"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Eptifibatide (along with tirofiban and abciximab) blocks the GpIIb/IIIa fibrinogen receptor on activated platelets, which is the final common pathway of platelet aggregation. These agents are used in unstable angina and during percutaneous coronary intervention. Their major adverse effects are bleeding and thrombocytopenia, matching this patient's presentation.",
+  "explanation_incorrect": {
+    "A": "Clopidogrel is an oral P2Y12 ADP receptor blocker; its principal adverse effect is bleeding but it is not given as an intravenous infusion during PCI and is not typical for drug-induced thrombocytopenia.",
+    "C": "Cilostazol is a phosphodiesterase inhibitor used for intermittent claudication; it does not block GpIIb/IIIa and is not used during PCI.",
+    "D": "Aspirin irreversibly blocks COX and reduces thromboxane A2; it is not a GpIIb/IIIa blocker and is not associated with thrombocytopenia as a signature effect.",
+    "E": "Dipyridamole is a phosphodiesterase inhibitor used for stroke prevention and stress testing; it does not target the GpIIb/IIIa receptor."
+  },
+  "educationalObjective": "GpIIb/IIIa blockers (eptifibatide, tirofiban, abciximab) are used in unstable angina/PCI and cause bleeding and thrombocytopenia.",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Antiplatelet drugs"
+},
+{
+  "id": "onc-361",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Antiplatelet drugs",
+  "difficulty": "medium",
+  "vignette": "A 66-year-old man with peripheral arterial disease complains of painful cramping in his calves after walking short distances, relieved by rest. He is prescribed cilostazol to improve his symptoms. He also has a history of stroke and takes a second antiplatelet agent for secondary prevention. The physician explains that cilostazol increases platelet cyclic AMP.",
+  "question": "Which of the following best describes the mechanism by which cilostazol and dipyridamole exert their antiplatelet effect?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Irreversible cyclooxygenase inhibition"
+    },
+    {
+      "id": "B",
+      "text": "Blockade of the ADP P2Y12 receptor"
+    },
+    {
+      "id": "C",
+      "text": "Blockade of the GpIIb/IIIa fibrinogen receptor"
+    },
+    {
+      "id": "D",
+      "text": "Direct conversion of plasminogen to plasmin"
+    },
+    {
+      "id": "E",
+      "text": "Block phosphodiesterase, decreasing cAMP hydrolysis and increasing platelet cAMP"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Cilostazol and dipyridamole block phosphodiesterase, which decreases the hydrolysis of cAMP and raises intracellular cAMP levels in platelets. Elevated cAMP inhibits platelet aggregation. Their clinical uses include intermittent claudication, stroke prevention, cardiac stress testing, and prevention of coronary stent restenosis. Adverse effects include nausea, headache, facial flushing, hypotension, and abdominal pain.",
+  "explanation_incorrect": {
+    "A": "Irreversible cyclooxygenase inhibition with reduced thromboxane A2 is the mechanism of aspirin.",
+    "B": "Blockade of the ADP P2Y12 receptor is the mechanism of clopidogrel, prasugrel, and ticagrelor.",
+    "C": "Blockade of the GpIIb/IIIa fibrinogen receptor is the mechanism of eptifibatide, tirofiban, and abciximab.",
+    "D": "Conversion of plasminogen to plasmin is the mechanism of thrombolytics such as alteplase, not antiplatelet drugs."
+  },
+  "educationalObjective": "Cilostazol and dipyridamole inhibit phosphodiesterase, raising platelet cAMP to reduce aggregation; used for claudication and stroke prevention.",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Antiplatelet drugs"
+}
+]

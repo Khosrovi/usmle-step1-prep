@@ -1,0 +1,166 @@
+[
+{
+  "id": "onc-362",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Thrombolytics and antifibrinolytics",
+  "difficulty": "easy",
+  "vignette": "A 55-year-old man presents 90 minutes after the onset of chest pain with ST elevations consistent with an acute anterior myocardial infarction. He is given alteplase as fibrinolytic therapy. The nurse asks how the drug works to dissolve the occluding thrombus.",
+  "question": "Which of the following best describes the mechanism of alteplase (tPA) and related thrombolytics?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Direct inhibition of activated factor X"
+    },
+    {
+      "id": "B",
+      "text": "Blockade of platelet ADP receptors"
+    },
+    {
+      "id": "C",
+      "text": "Conversion of plasminogen to plasmin, which cleaves fibrin clots"
+    },
+    {
+      "id": "D",
+      "text": "Inhibition of plasminogen activation"
+    },
+    {
+      "id": "E",
+      "text": "Irreversible inhibition of platelet cyclooxygenase"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Alteplase (tPA), reteplase (rPA), and tenecteplase (TNK-tPA) directly or indirectly aid the conversion of plasminogen to plasmin. Plasmin then cleaves fibrin, dissolving the clot. They are used in early MI, early ischemic stroke, and direct thrombolysis of high-risk pulmonary embolism. Their effect produces a prolonged PT and PTT with no change in platelet count.",
+  "explanation_incorrect": {
+    "A": "Direct factor Xa inhibition is the mechanism of apixaban and rivaroxaban, not thrombolytics.",
+    "B": "ADP receptor blockade is the mechanism of clopidogrel, prasugrel, and ticagrelor.",
+    "D": "Inhibition of plasminogen activation would prevent fibrinolysis; antifibrinolytics like tranexamic acid reduce plasmin formation rather than promote it.",
+    "E": "Irreversible cyclooxygenase inhibition is the antiplatelet mechanism of aspirin."
+  },
+  "educationalObjective": "Thrombolytics (alteplase, reteplase, tenecteplase) convert plasminogen to plasmin, which cleaves fibrin within clots.",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Thrombolytics and antifibrinolytics"
+},
+{
+  "id": "onc-363",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Thrombolytics and antifibrinolytics",
+  "difficulty": "medium",
+  "vignette": "A 63-year-old woman receives intravenous alteplase for an acute ischemic stroke within the therapeutic time window. A coagulation panel is drawn before and after administration to monitor the fibrinolytic effect. The resident is asked to predict the expected changes in PT, PTT, and platelet count caused by the drug.",
+  "question": "Which of the following laboratory patterns is expected after administration of a thrombolytic agent?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Increased PT, increased PTT, no change in platelet count"
+    },
+    {
+      "id": "B",
+      "text": "Decreased PT, decreased PTT, decreased platelet count"
+    },
+    {
+      "id": "C",
+      "text": "Normal PT and PTT, markedly decreased platelet count"
+    },
+    {
+      "id": "D",
+      "text": "Increased PT only, with normal PTT and platelets"
+    },
+    {
+      "id": "E",
+      "text": "Increased PTT only, with increased platelet count"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Thrombolytics generate plasmin, which degrades fibrin and also circulates to cleave other clotting factors, producing a prolonged PT and PTT. Because these agents act on the fibrinolytic cascade rather than on platelets directly, the platelet count is unchanged. This distinguishes their laboratory effect from antiplatelet drugs (which affect function, not count) and from anticoagulants with more selective effects.",
+  "explanation_incorrect": {
+    "B": "Thrombolytics prolong rather than shorten clotting times and do not cause thrombocytopenia as a direct laboratory effect.",
+    "C": "Thrombolytics affect PT and PTT; a normal PT/PTT with isolated thrombocytopenia is not their pattern.",
+    "D": "Both PT and PTT are prolonged because plasmin degrades multiple clotting factors, not just the extrinsic pathway.",
+    "E": "PTT is not the only affected parameter, and platelet count is not increased by thrombolytic therapy."
+  },
+  "educationalObjective": "Thrombolytics prolong both PT and PTT via plasmin-mediated factor degradation while leaving platelet count unchanged.",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Thrombolytics and antifibrinolytics"
+},
+{
+  "id": "onc-364",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Thrombolytics and antifibrinolytics",
+  "difficulty": "hard",
+  "vignette": "A 70-year-old man receives tenecteplase for an acute myocardial infarction and subsequently develops severe, persistent bleeding from a groin puncture site despite prolonged manual pressure. The interventional team wants to reverse the fibrinolytic state and decides to give a pharmacologic antagonist that inhibits fibrin breakdown.",
+  "question": "Which of the following reversal agents is most appropriate for bleeding caused by a thrombolytic?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Protamine sulfate"
+    },
+    {
+      "id": "B",
+      "text": "Idarucizumab"
+    },
+    {
+      "id": "C",
+      "text": "Vitamin K"
+    },
+    {
+      "id": "D",
+      "text": "Aminocaproic acid or tranexamic acid"
+    },
+    {
+      "id": "E",
+      "text": "Andexanet alfa"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Bleeding from thrombolytics is reversed nonspecifically with antifibrinolytics such as aminocaproic acid and tranexamic acid, which inhibit plasmin and fibrin breakdown. Platelet transfusions and factor replacement with cryoprecipitate, FFP, or PCC are also used as part of supportive reversal. This contrasts with the specific antidotes used for anticoagulants.",
+  "explanation_incorrect": {
+    "A": "Protamine sulfate is the specific reversal agent for heparin, binding negatively charged heparin; it does not reverse plasmin-mediated fibrinolysis.",
+    "B": "Idarucizumab is a monoclonal antibody Fab fragment that reverses dabigatran, a direct thrombin inhibitor.",
+    "C": "Vitamin K reverses warfarin by restoring vitamin K-dependent factor synthesis and has no role in fibrinolytic bleeding.",
+    "E": "Andexanet alfa is a decoy factor Xa used to reverse direct Xa inhibitors like apixaban and rivaroxaban."
+  },
+  "educationalObjective": "Thrombolytic bleeding is reversed with antifibrinolytics (aminocaproic acid, tranexamic acid) plus platelets and factor replacement.",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Thrombolytics and antifibrinolytics"
+},
+{
+  "id": "onc-365",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Thrombolytics and antifibrinolytics",
+  "difficulty": "medium",
+  "vignette": "A 67-year-old woman presents with symptoms of an acute ischemic stroke and is being evaluated for thrombolytic therapy. The neurology team reviews her history to assess safety. They identify one finding that is an absolute contraindication to administering a thrombolytic agent.",
+  "question": "Which of the following findings in this patient's history is a contraindication to thrombolytic therapy?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Mildly elevated serum cholesterol"
+    },
+    {
+      "id": "B",
+      "text": "A history of intracranial bleeding"
+    },
+    {
+      "id": "C",
+      "text": "Controlled type 2 diabetes mellitus"
+    },
+    {
+      "id": "D",
+      "text": "Prior myocardial infarction six months ago"
+    },
+    {
+      "id": "E",
+      "text": "Stable angina on exercise testing"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Thrombolytics are contraindicated in patients with active bleeding, a history of intracranial bleeding, recent surgery, known bleeding diatheses, or severe hypertension, because of the high risk of catastrophic hemorrhage. A prior intracranial bleed is a well-established absolute contraindication. The major adverse effect of all thrombolytics is bleeding.",
+  "explanation_incorrect": {
+    "A": "Mildly elevated cholesterol is a cardiovascular risk factor but is not a contraindication to thrombolysis.",
+    "C": "Controlled diabetes is common in stroke patients and does not contraindicate thrombolytic therapy.",
+    "D": "A remote prior myocardial infarction is not a contraindication; indeed, early acute MI is an indication for thrombolysis.",
+    "E": "Stable exertional angina does not preclude thrombolysis; unstable or active ischemic complications require different assessment but stable angina is not a listed contraindication."
+  },
+  "educationalObjective": "Thrombolytics are contraindicated with active bleeding, prior intracranial hemorrhage, recent surgery, bleeding diathesis, or severe hypertension.",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Thrombolytics and antifibrinolytics"
+}
+]

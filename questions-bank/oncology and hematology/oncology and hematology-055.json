@@ -1,0 +1,166 @@
+[
+{
+  "id": "onc-191",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Leukopenias",
+  "difficulty": "easy",
+  "vignette": "A 55-year-old woman receiving chemotherapy has a blood count showing an absolute neutrophil count of 400 cells/mm3. Her physician discusses her infection risk.",
+  "question": "Which of the following best characterizes the infection risk in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Severe infections typically occur only below 100 cells/mm3"
+    },
+    {
+      "id": "B",
+      "text": "Neutropenia is defined as a count below 3000 cells/mm3"
+    },
+    {
+      "id": "C",
+      "text": "Her risk is no different from that of the general population"
+    },
+    {
+      "id": "D",
+      "text": "Severe infections are typical when the ANC is below 500 cells/mm3"
+    },
+    {
+      "id": "E",
+      "text": "She is at increased risk only for viral infections"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Neutropenia is defined as an absolute neutrophil count below 1500 cells/mm3, and severe infections typically occur when the ANC falls below 500 cells/mm3. Chemotherapy and other drugs, sepsis or postinfection states, aplastic anemia, autoimmunity such as SLE, radiation, and congenital disorders are all recognized causes. Her count of 400 places her in the severe range.",
+  "explanation_incorrect": {
+    "A": "The threshold for severe infection risk is 500 cells/mm3, not 100 cells/mm3.",
+    "B": "Neutropenia is defined as an ANC below 1500 cells/mm3; 3000 is closer to the childhood lymphopenia threshold.",
+    "C": "An ANC of 400 markedly increases the risk of bacterial and fungal infections.",
+    "E": "Neutropenia predisposes especially to bacterial and fungal infections, not only viral ones."
+  },
+  "educationalObjective": "Neutropenia is defined as ANC below 1500/mm3, with severe infection risk below 500/mm3; chemotherapy is a common cause.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Leukopenias"
+},
+{
+  "id": "onc-192",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Leukopenias",
+  "difficulty": "medium",
+  "vignette": "A 40-year-old woman with systemic lupus erythematosus develops recurrent infections and is found to have neutropenia. She is not receiving chemotherapy.",
+  "question": "Which of the following best explains the neutropenia in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Autoimmune destruction of neutrophils, a known cause of neutropenia"
+    },
+    {
+      "id": "B",
+      "text": "HIV-related lymphopenia is the underlying mechanism"
+    },
+    {
+      "id": "C",
+      "text": "Glucocorticoid therapy causing eosinopenia"
+    },
+    {
+      "id": "D",
+      "text": "A congenital absence of the thymus"
+    },
+    {
+      "id": "E",
+      "text": "Iron deficiency from chronic blood loss"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Causes of neutropenia include sepsis and postinfection states, drugs (including chemotherapy), aplastic anemia, autoimmunity such as SLE, radiation, and congenital disorders. In SLE, autoimmune mechanisms can lower the neutrophil count. This is distinct from lymphopenia and eosinopenia, which have different thresholds and causes.",
+  "explanation_incorrect": {
+    "B": "HIV is associated with lymphopenia, a reduction in lymphocytes rather than an isolated neutrophil deficit through that mechanism.",
+    "C": "Glucocorticoids cause eosinopenia and lymphopenia but produce neutrophilia rather than neutropenia.",
+    "D": "Thymic absence in DiGeorge syndrome causes T-cell lymphopenia with hypocalcemia, not isolated neutropenia.",
+    "E": "Iron deficiency causes a microcytic anemia and does not reduce the neutrophil count."
+  },
+  "educationalObjective": "Autoimmunity such as SLE is a recognized cause of neutropenia, alongside sepsis, drugs, aplastic anemia, radiation, and congenital causes.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Leukopenias"
+},
+{
+  "id": "onc-193",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Leukopenias",
+  "difficulty": "easy",
+  "vignette": "A 6-year-old boy with recurrent infections, hypocalcemia, and a conotruncal cardiac defect has a measured absolute lymphocyte count of 2500 cells/mm3.",
+  "question": "Which of the following best interprets this lymphocyte count?",
+  "options": [
+    {
+      "id": "A",
+      "text": "This is diagnostic of severe combined immunodeficiency"
+    },
+    {
+      "id": "B",
+      "text": "This represents eosinopenia"
+    },
+    {
+      "id": "C",
+      "text": "This is within normal limits for a child"
+    },
+    {
+      "id": "D",
+      "text": "This meets criteria for lymphopenia in a child"
+    },
+    {
+      "id": "E",
+      "text": "This indicates neutropenia"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Lymphopenia is defined as an absolute lymphocyte count below 1500 cells/mm3, or below 3000 cells/mm3 in children. A count of 2500 in a 6-year-old is therefore normal. Causes of true lymphopenia include HIV, DiGeorge syndrome, SCID, SLE, glucocorticoids, radiation, sepsis, and the postoperative state. His other findings suggest DiGeorge, but the count itself is not lymphopenic.",
+  "explanation_incorrect": {
+    "A": "Severe combined immunodeficiency causes profound lymphopenia, not a normal pediatric lymphocyte count.",
+    "B": "Eosinopenia is a reduced eosinophil count below 30 cells/mm3, a different cell line and threshold.",
+    "D": "In children the lymphopenia threshold is 3000 cells/mm3, so a count of 2500 is not lymphopenic.",
+    "E": "Neutropenia refers to neutrophils below 1500 cells/mm3, not to lymphocytes."
+  },
+  "educationalObjective": "Lymphopenia is defined as below 1500/mm3 in adults and below 3000/mm3 in children; a count of 2500 is normal for a child.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Leukopenias"
+},
+{
+  "id": "onc-194",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Leukopenias",
+  "difficulty": "hard",
+  "vignette": "A patient with autoimmune disease is started on high-dose glucocorticoids. Repeat testing shows a rising neutrophil count but falling eosinophil and lymphocyte counts.",
+  "question": "Which of the following best explains the neutrophilia occurring despite the falls in the other cell lines?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Glucocorticoids increase neutrophil adhesion, trapping them within tissues"
+    },
+    {
+      "id": "B",
+      "text": "Glucocorticoids induce apoptosis of neutrophils in the bone marrow"
+    },
+    {
+      "id": "C",
+      "text": "Glucocorticoids convert eosinophils directly into neutrophils"
+    },
+    {
+      "id": "D",
+      "text": "Glucocorticoids stimulate erythropoiesis, secondarily raising neutrophils"
+    },
+    {
+      "id": "E",
+      "text": "Glucocorticoids reduce neutrophil adhesion molecules, impairing migration out of the blood"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Glucocorticoids cause neutrophilia despite also causing eosinopenia and lymphopenia. They decrease activation of neutrophil adhesion molecules, impairing migration out of the vasculature to sites of inflammation, so neutrophils accumulate in the circulation. In contrast, glucocorticoids sequester eosinophils in lymph nodes and induce apoptosis of lymphocytes.",
+  "explanation_incorrect": {
+    "A": "Glucocorticoids reduce rather than increase adhesion; greater adhesion would trap neutrophils in tissues and lower the blood count.",
+    "B": "Glucocorticoids do not cause marrow neutrophil apoptosis and in fact prolong neutrophil survival.",
+    "C": "Eosinophils are sequestered in lymph nodes, not converted into neutrophils.",
+    "D": "Stimulation of erythropoiesis does not explain the neutrophil rise; the relevant effect is on adhesion and trafficking."
+  },
+  "educationalObjective": "Glucocorticoids cause neutrophilia by reducing neutrophil adhesion and migration while sequestering eosinophils and inducing lymphocyte apoptosis.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Leukopenias"
+}
+]

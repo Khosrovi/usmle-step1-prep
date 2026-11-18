@@ -1,0 +1,166 @@
+[
+{
+  "id": "onc-143",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Intravascular vs extravascular hemolysis",
+  "difficulty": "easy",
+  "vignette": "A patient with hemolytic anemia has jaundice and dark urine. The clinician reviews the expected laboratory abnormalities common to all forms of hemolysis before classifying the location of destruction.",
+  "question": "Which combination of laboratory findings is most characteristic of hemolysis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Decreased LDH, decreased reticulocytes, increased conjugated bilirubin"
+    },
+    {
+      "id": "B",
+      "text": "Increased LDH, decreased reticulocytes, decreased urobilinogen"
+    },
+    {
+      "id": "C",
+      "text": "Decreased LDH, increased reticulocytes, increased haptoglobin"
+    },
+    {
+      "id": "D",
+      "text": "Increased LDH, decreased unconjugated bilirubin, increased haptoglobin"
+    },
+    {
+      "id": "E",
+      "text": "Increased LDH, increased reticulocytes, increased unconjugated bilirubin"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Hemolysis increases LDH from RBC destruction, raises reticulocytes as the marrow compensates, and increases unconjugated bilirubin from heme catabolism. It also increases pigmented gallstone risk and urinary urobilinogen. Haptoglobin falls, particularly in intravascular hemolysis. These findings are shared by intravascular and extravascular hemolysis, so location requires additional features such as schistocytes or hemoglobinuria.",
+  "explanation_incorrect": {
+    "A": "Hemolysis raises LDH and reticulocytes and produces unconjugated rather than conjugated hyperbilirubinemia.",
+    "B": "Reticulocytes increase in hemolysis, and urinary urobilinogen rises rather than falls.",
+    "C": "LDH rises in hemolysis and haptoglobin falls, not rises.",
+    "D": "Unconjugated bilirubin rises in hemolysis and haptoglobin falls, not the reverse."
+  },
+  "educationalObjective": "Hemolysis characteristically raises LDH, reticulocytes, and unconjugated bilirubin while lowering haptoglobin.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Intravascular vs extravascular hemolysis"
+},
+{
+  "id": "onc-144",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Intravascular vs extravascular hemolysis",
+  "difficulty": "medium",
+  "vignette": "A 68-year-old with a mechanical aortic valve develops fatigue and dark red urine. Hb is 7.5 g/dL, reticulocytes are increased, haptoglobin is very low, and LDH is elevated. Peripheral smear shows schistocytes.",
+  "question": "Which form of hemolysis is most likely?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Extravascular hemolysis with splenic macrophage clearance"
+    },
+    {
+      "id": "B",
+      "text": "Intravascular hemolysis with hemoglobinuria and hemosiderinuria"
+    },
+    {
+      "id": "C",
+      "text": "Autoimmune hemolytic anemia with spherocytes"
+    },
+    {
+      "id": "D",
+      "text": "Megaloblastic anemia with ineffective erythropoiesis"
+    },
+    {
+      "id": "E",
+      "text": "Iron deficiency anemia from chronic blood loss"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "A mechanical prosthetic valve shears RBCs within the vasculature, causing intravascular hemolysis. This produces schistocytes on smear, markedly decreased haptoglobin, hemoglobinuria, hemosiderinuria, and urobilinogen in urine. Other notable causes include paroxysmal nocturnal hemoglobinuria and microangiopathic hemolytic anemias. The dark urine reflects hemoglobin loss into the urine once haptoglobin capacity is exceeded.",
+  "explanation_incorrect": {
+    "A": "Extravascular hemolysis shows spherocytes and splenomegaly without hemoglobinuria or profoundly low haptoglobin.",
+    "C": "Autoimmune hemolytic anemia is extravascular with spherocytes and a positive direct antiglobulin test, not schistocytes.",
+    "D": "Megaloblastic anemia is not hemolytic and would show macrocytosis and hypersegmented neutrophils.",
+    "E": "Iron deficiency is microcytic with low reticulocytes, not schistocytes and hemoglobinuria."
+  },
+  "educationalObjective": "Mechanical valve hemolysis is intravascular, producing schistocytes, low haptoglobin, and hemoglobinuria.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Intravascular vs extravascular hemolysis"
+},
+{
+  "id": "onc-145",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Intravascular vs extravascular hemolysis",
+  "difficulty": "hard",
+  "vignette": "A 9-year-old has pallor, jaundice, and splenomegaly. Hb is 8.2 g/dL, reticulocytes are increased, and unconjugated bilirubin is elevated. Smear shows many spherocytes. Urine dipstick is negative for blood and hemoglobin.",
+  "question": "Which mechanism best explains this anemia?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Mechanical fragmentation within a prosthetic valve"
+    },
+    {
+      "id": "B",
+      "text": "Complement-mediated intravascular lysis in paroxysmal nocturnal hemoglobinuria"
+    },
+    {
+      "id": "C",
+      "text": "Splenic macrophage clearance of spherical RBCs without hemoglobinuria"
+    },
+    {
+      "id": "D",
+      "text": "Microangiopathic hemolysis due to fibrin deposition"
+    },
+    {
+      "id": "E",
+      "text": "Oxidative denaturation of hemoglobin with bite cells"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Extravascular hemolysis occurs when macrophages in the spleen clear RBCs, producing splenomegaly and spherocytes on peripheral smear. There is no hemoglobinuria or hemosiderinuria because destruction is not within the vasculature, though urobilinogen in urine may be increased. Spherocytes are most commonly due to hereditary spherocytosis or autoimmune hemolytic anemia. The negative urine dipstick for blood supports a non-intravascular process.",
+  "explanation_incorrect": {
+    "A": "Mechanical valve hemolysis is intravascular and produces schistocytes and hemoglobinuria, not spherocytes.",
+    "B": "PNH is intravascular with hemoglobinuria and thrombosis, not spherocytes and splenomegaly.",
+    "D": "Microangiopathic hemolysis is intravascular and produces schistocytes, unlike this spherocytic picture.",
+    "E": "Oxidative hemolysis from G6PD deficiency shows bite cells and Heinz bodies, not splenomegaly with spherocytes."
+  },
+  "educationalObjective": "Extravascular hemolysis features splenic macrophage clearance, splenomegaly, and spherocytes without hemoglobinuria.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Intravascular vs extravascular hemolysis"
+},
+{
+  "id": "onc-146",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Intravascular vs extravascular hemolysis",
+  "difficulty": "medium",
+  "vignette": "A physician compares two patients with hemolysis: one has microangiopathic hemolytic anemia with thrombocytopenia and renal failure, and the other has extravascular destruction from hereditary spherocytosis. She wants a single finding that best separates intravascular from extravascular hemolysis.",
+  "question": "Which laboratory finding best distinguishes intravascular from extravascular hemolysis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Degree of reticulocytosis"
+    },
+    {
+      "id": "B",
+      "text": "Level of unconjugated bilirubin"
+    },
+    {
+      "id": "C",
+      "text": "Presence of urobilinogen in urine"
+    },
+    {
+      "id": "D",
+      "text": "Decreased haptoglobin with hemoglobinuria or hemosiderinuria"
+    },
+    {
+      "id": "E",
+      "text": "Increased LDH"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Intravascular hemolysis releases hemoglobin directly into the circulation, depleting haptoglobin and causing hemoglobinuria and hemosiderinuria once binding capacity is exceeded. Extravascular hemolysis occurs in splenic macrophages and does not produce hemoglobinuria or hemosiderinuria. Schistocytes also favor intravascular causes such as mechanical valves, PNH, and microangiopathic hemolytic anemia. Reticulocytes, unconjugated bilirubin, LDH, and urobilinogen are elevated in both forms.",
+  "explanation_incorrect": {
+    "A": "Reticulocytosis reflects marrow compensation and occurs in both intravascular and extravascular hemolysis.",
+    "B": "Unconjugated bilirubin rises in both forms because heme catabolism occurs regardless of location.",
+    "C": "Urobilinogen in urine can be increased in both forms and does not localize hemolysis.",
+    "E": "LDH is elevated in hemolysis regardless of whether destruction is intravascular or extravascular."
+  },
+  "educationalObjective": "Hemoglobinuria and hemosiderinuria with low haptoglobin distinguish intravascular from extravascular hemolysis.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Intravascular vs extravascular hemolysis"
+}
+]

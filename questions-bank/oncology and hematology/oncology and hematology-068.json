@@ -1,0 +1,166 @@
+[
+{
+  "id": "onc-160",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Paroxysmal nocturnal hemoglobinuria",
+  "difficulty": "easy",
+  "vignette": "A 35-year-old woman has episodes of dark red urine on waking, fatigue, and abdominal pain. Flow cytometry shows red cells lacking CD55 and CD59. The direct antiglobulin test is negative.",
+  "question": "Which acquired mutation initiates this disease?",
+  "options": [
+    {
+      "id": "A",
+      "text": "JAK2 V617F mutation"
+    },
+    {
+      "id": "B",
+      "text": "Inactivating mutation in the beta-globin gene"
+    },
+    {
+      "id": "C",
+      "text": "Autosomal recessive DNA repair gene mutation"
+    },
+    {
+      "id": "D",
+      "text": "PIGA mutation impairing synthesis of the GPI anchor for complement-regulatory proteins"
+    },
+    {
+      "id": "E",
+      "text": "X-linked recessive G6PD mutation"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Paroxysmal nocturnal hemoglobinuria results from an acquired somatic mutation in PIGA within a hematopoietic stem cell. PIGA is required to synthesize the glycosylphosphatidylinositol anchor that attaches decay-accelerating factor (DAF/CD55) and membrane inhibitor of reactive lysis (MIRL/CD59) to the red cell membrane. Without these complement regulators, red cells undergo complement-mediated intravascular hemolysis that is worse at night. The classic triad is Coombs-negative hemolytic anemia, pancytopenia, and venous thrombosis; flow cytometry shows CD55/CD59-negative cells, and eculizumab is treatment.",
+  "explanation_incorrect": {
+    "A": "JAK2 V617F causes polycythemia vera and other myeloproliferative neoplasms, not deficiency of GPI-anchored complement regulators.",
+    "B": "Beta-globin mutations cause sickle cell disease or thalassemias, not loss of complement regulatory proteins.",
+    "C": "DNA repair gene mutations cause Fanconi anemia with congenital anomalies and marrow failure, not acquired GPI-anchor deficiency.",
+    "E": "G6PD deficiency is X-linked recessive and causes oxidative hemolysis with bite cells, not absence of CD55/CD59."
+  },
+  "educationalObjective": "Paroxysmal nocturnal hemoglobinuria is an acquired PIGA mutation causing absent GPI-anchored CD55/CD59 and complement-mediated intravascular hemolysis.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Paroxysmal nocturnal hemoglobinuria"
+},
+{
+  "id": "onc-161",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Paroxysmal nocturnal hemoglobinuria",
+  "difficulty": "medium",
+  "vignette": "A 28-year-old man presents with fatigue and dark morning urine. Labs: hemoglobin 8.0 g/dL, reticulocytes 6%, indirect bilirubin 3.2 mg/dL, haptoglobin undetectable, LDH markedly elevated, platelets 85 x 10^3/microL, WBC 2.8 x 10^3/microL. Direct antiglobulin test is negative. He develops abdominal distention and acute liver dysfunction from occlusion of a hepatic vein.",
+  "question": "Which diagnosis ties these findings together?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Autoimmune hemolytic anemia with Evans syndrome"
+    },
+    {
+      "id": "B",
+      "text": "Paroxysmal nocturnal hemoglobinuria with Budd-Chiari syndrome"
+    },
+    {
+      "id": "C",
+      "text": "Hereditary spherocytosis with pigment gallstone obstruction"
+    },
+    {
+      "id": "D",
+      "text": "Thrombotic thrombocytopenic purpura"
+    },
+    {
+      "id": "E",
+      "text": "Sickle cell disease with acute chest syndrome"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "The triad of Coombs-negative hemolytic anemia (intravascular, with hemoglobinuria, undetectable haptoglobin, and high LDH and indirect bilirubin), pancytopenia, and venous thrombosis is classic for paroxysmal nocturnal hemoglobinuria. Hepatic vein thrombosis causing painful hepatomegaly, ascites, and liver dysfunction is Budd-Chiari syndrome, a characteristic thrombotic complication. Thrombosis is promoted by complement-mediated platelet activation and nitric oxide depletion from intravascular hemolysis. Flow cytometry confirming CD55/CD59-negative cells establishes the diagnosis; eculizumab is targeted therapy.",
+  "explanation_incorrect": {
+    "A": "Evans syndrome is autoimmune hemolytic anemia plus immune thrombocytopenia; it is Coombs-positive and does not cause hepatic vein thrombosis.",
+    "C": "Hereditary spherocytosis causes extravascular hemolysis with spherocytes and pigment gallstones; it does not cause Coombs-negative hemoglobinuria or hepatic vein thrombosis.",
+    "D": "Thrombotic thrombocytopenic purpura features microangiopathic hemolysis with schistocytes, fever, renal impairment, and neurologic changes, not morning hemoglobinuria or Budd-Chiari syndrome.",
+    "E": "Sickle cell disease has sickled cells and vaso-occlusive crises; acute chest syndrome involves pulmonary infiltrates and hypoxemia, not hepatic vein thrombosis with intravascular hemolysis."
+  },
+  "educationalObjective": "Paroxysmal nocturnal hemoglobinuria presents with the triad of Coombs-negative hemolytic anemia, pancytopenia, and venous thrombosis such as Budd-Chiari syndrome.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Paroxysmal nocturnal hemoglobinuria"
+},
+{
+  "id": "onc-162",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Paroxysmal nocturnal hemoglobinuria",
+  "difficulty": "medium",
+  "vignette": "A 40-year-old woman notes that her urine is pink or cola-colored on waking but clears later in the day. She has mild pancytopenia, and hemolysis is predominantly intravascular.",
+  "question": "Why is hemolysis worse at night, and which laboratory finding confirms the diagnosis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Nocturnal dehydration concentrates complement; confirmation is a positive direct antiglobulin test"
+    },
+    {
+      "id": "B",
+      "text": "Increased nocturnal erythropoietin drives production of fragile red cells; confirmation is high reticulocytes with spherocytes"
+    },
+    {
+      "id": "C",
+      "text": "Mild respiratory acidosis during sleep enhances complement activation; confirmation is CD55/CD59-negative red cells on flow cytometry"
+    },
+    {
+      "id": "D",
+      "text": "Sleep-related splenic contraction traps red cells; confirmation is increased osmotic fragility"
+    },
+    {
+      "id": "E",
+      "text": "Nighttime fava bean metabolism generates oxidants; confirmation is Heinz bodies on smear"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "During sleep, mild respiratory acidosis enhances complement activation, so complement-sensitive red cells in paroxysmal nocturnal hemoglobinuria lyse more at night, producing the classic morning hemoglobinuria. Diagnosis is confirmed by flow cytometry showing deficiency of the GPI-anchored proteins CD55 and CD59 on red cells. The direct antiglobulin test is negative because hemolysis is not antibody-mediated. Paroxysmal nocturnal hemoglobinuria is also associated with aplastic anemia and acute leukemias.",
+  "explanation_incorrect": {
+    "A": "The direct antiglobulin test is negative in this disease because the problem is complement regulation, not autoantibody, and dehydration is not the primary mechanism.",
+    "B": "Erythropoietin does not create complement-sensitive red cells, and spherocytes suggest hereditary spherocytosis or autoimmune hemolysis rather than paroxysmal nocturnal hemoglobinuria.",
+    "D": "Splenic contraction and increased osmotic fragility relate to extravascular hemolysis such as hereditary spherocytosis, not this complement-mediated intravascular process.",
+    "E": "Fava beans and Heinz bodies characterize G6PD deficiency, which follows oxidant ingestion rather than nocturnal complement activation."
+  },
+  "educationalObjective": "Nocturnal acidosis worsens complement-mediated hemolysis in paroxysmal nocturnal hemoglobinuria; confirm with CD55/CD59-negative red cells on flow cytometry.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Paroxysmal nocturnal hemoglobinuria"
+},
+{
+  "id": "onc-163",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Paroxysmal nocturnal hemoglobinuria",
+  "difficulty": "hard",
+  "vignette": "A 33-year-old patient with paroxysmal nocturnal hemoglobinuria has severe intravascular hemolysis, hemoglobinuria, and a thrombotic episode. The care team plans targeted complement inhibition.",
+  "question": "Which agent acts by blocking terminal complement protein C5 in this disease?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Eculizumab"
+    },
+    {
+      "id": "B",
+      "text": "Rituximab"
+    },
+    {
+      "id": "C",
+      "text": "Cyclosporine"
+    },
+    {
+      "id": "D",
+      "text": "Aspirin"
+    },
+    {
+      "id": "E",
+      "text": "Antithymocyte globulin"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Eculizumab is a monoclonal antibody that binds complement protein C5, preventing its cleavage into C5a and C5b and thereby blocking formation of the membrane attack complex. In paroxysmal nocturnal hemoglobinuria this reduces complement-mediated intravascular hemolysis and thrombotic risk. It targets terminal complement rather than correcting the underlying PIGA mutation. Because the disease can be associated with aplastic anemia and can evolve to acute leukemia, ongoing monitoring remains necessary.",
+  "explanation_incorrect": {
+    "B": "Rituximab targets CD20 on B cells and is used for B-cell lymphomas and some autoimmune cytopenias, not for terminal complement blockade.",
+    "C": "Cyclosporine is a calcineurin inhibitor used as immunosuppression in aplastic anemia, not for paroxysmal nocturnal hemoglobinuria hemolysis.",
+    "D": "Aspirin inhibits platelet cyclooxygenase and may help with thromboprophylaxis, but it does not block complement activation or hemolysis.",
+    "E": "Antithymocyte globulin is used for immune-mediated aplastic anemia and does not inhibit C5."
+  },
+  "educationalObjective": "Eculizumab, an anti-C5 antibody, is targeted therapy for paroxysmal nocturnal hemoglobinuria; immunosuppressants and antiplatelet drugs do not block complement hemolysis.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Paroxysmal nocturnal hemoglobinuria"
+}
+]

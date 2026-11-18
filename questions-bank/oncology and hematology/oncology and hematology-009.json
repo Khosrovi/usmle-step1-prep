@@ -1,0 +1,289 @@
+[
+{
+  "id": "onc-408",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Anticancer monoclonal antibodies",
+  "difficulty": "easy",
+  "vignette": "A 54-year-old man with metastatic colorectal cancer is started on a monoclonal antibody. His oncologist explains that the drug binds an extracellular target on tumor cells and recruits natural killer cells to destroy them via antibody-dependent cellular cytotoxicity (ADCC). After infusion, the drug is cleared from the circulation by phagocytic cells rather than by renal or hepatic excretion.",
+  "question": "Which of the following best describes how therapeutic monoclonal antibodies are eliminated from the body?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Hepatic CYP450 metabolism"
+    },
+    {
+      "id": "B",
+      "text": "Phagocytosis by macrophages"
+    },
+    {
+      "id": "C",
+      "text": "Glomerular filtration by the kidneys"
+    },
+    {
+      "id": "D",
+      "text": "Pancreatic enzymatic degradation"
+    },
+    {
+      "id": "E",
+      "text": "Pulmonary exhalation"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Therapeutic monoclonal antibodies act on extracellular targets, neutralizing them or promoting immune recognition such as ADCC by NK cells. They are eliminated by macrophages and are not cleared by the kidneys or liver. Their large size and protein nature underlie this reticuloendothelial clearance, distinguishing them from small-molecule drugs that rely on hepatic metabolism or renal excretion.",
+  "explanation_incorrect": {
+    "A": "Monoclonal antibodies are large proteins and are not metabolized by hepatic CYP450 enzymes; that pathway handles small-molecule drugs.",
+    "C": "Their large size prevents glomerular filtration, so renal clearance is not a significant elimination route.",
+    "D": "The pancreas does not clear circulating antibodies; this is not a recognition or elimination pathway for immunoglobulins.",
+    "E": "Antibodies are not volatile and cannot be eliminated through the lungs."
+  },
+  "educationalObjective": "Monoclonal antibodies bind extracellular targets, mediate ADCC, and are cleared by macrophages rather than by renal or hepatic routes.",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Anticancer monoclonal antibodies"
+},
+{
+  "id": "onc-409",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Anticancer monoclonal antibodies",
+  "difficulty": "medium",
+  "vignette": "A 61-year-old man with chronic lymphocytic leukemia is treated with a monoclonal antibody directed against CD52. Several months later he develops autoimmune thrombocytopenia (ITP) and has had two serious bacterial infections.",
+  "question": "Which of the following antibodies is most likely being used, given its target and toxicity profile?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Rituximab"
+    },
+    {
+      "id": "B",
+      "text": "Bevacizumab"
+    },
+    {
+      "id": "C",
+      "text": "Alemtuzumab"
+    },
+    {
+      "id": "D",
+      "text": "Trastuzumab"
+    },
+    {
+      "id": "E",
+      "text": "Cetuximab"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Alemtuzumab targets CD52 and is used for chronic lymphocytic leukemia and multiple sclerosis. Its characteristic adverse effects are an increased risk of infections and autoimmunity, such as immune thrombocytopenia (ITP). The vignette's CD52 target plus infections and ITP make it the clear choice.",
+  "explanation_incorrect": {
+    "A": "Rituximab targets CD20 and is linked to infusion cytokine-release reactions, not CD52-directed therapy.",
+    "B": "Bevacizumab targets VEGF and causes hemorrhage, blood clots, and impaired wound healing.",
+    "D": "Trastuzumab targets HER2 and is associated with often-reversible dilated cardiomyopathy.",
+    "E": "Cetuximab targets EGFR and causes rash, elevated LFTs, and diarrhea."
+  },
+  "educationalObjective": "Alemtuzumab targets CD52 (CLL, multiple sclerosis) and increases the risk of infections and autoimmunity such as ITP.",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Anticancer monoclonal antibodies"
+},
+{
+  "id": "onc-410",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Anticancer monoclonal antibodies",
+  "difficulty": "easy",
+  "vignette": "A 58-year-old woman with renal cell carcinoma receives a monoclonal antibody that inhibits VEGF and thereby blocks blood vessel formation. During therapy she develops a severe nosebleed and a deep vein thrombosis, and her surgical wound fails to heal properly.",
+  "question": "Which antibody is most likely responsible for these adverse effects?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Rituximab"
+    },
+    {
+      "id": "B",
+      "text": "Cetuximab"
+    },
+    {
+      "id": "C",
+      "text": "Alemtuzumab"
+    },
+    {
+      "id": "D",
+      "text": "Bevacizumab"
+    },
+    {
+      "id": "E",
+      "text": "Trastuzumab"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Bevacizumab targets VEGF, inhibiting blood vessel formation, and is used for colorectal cancer, renal cell carcinoma, non-small cell lung cancer, and angioproliferative retinopathy. Its signature toxicities are hemorrhage, blood clots, and impaired wound healing, all of which follow logically from VEGF blockade. This triad matches the vignette exactly.",
+  "explanation_incorrect": {
+    "A": "Rituximab is anti-CD20 and causes cytokine-release infusion reactions, not hemorrhage or impaired wound healing.",
+    "B": "Cetuximab is anti-EGFR and causes rash, elevated LFTs, and diarrhea.",
+    "C": "Alemtuzumab is anti-CD52 and predisposes to infections and autoimmunity.",
+    "E": "Trastuzumab is anti-HER2 and can cause dilated cardiomyopathy."
+  },
+  "educationalObjective": "Bevacizumab targets VEGF (CRC, RCC, NSCLC, retinopathy) and causes hemorrhage, thrombosis, and impaired wound healing.",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Anticancer monoclonal antibodies"
+},
+{
+  "id": "onc-411",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Anticancer monoclonal antibodies",
+  "difficulty": "medium",
+  "vignette": "A 63-year-old man with metastatic colorectal cancer is found to have wild-type RAS. His oncologist selects an EGFR-directed monoclonal antibody. Within weeks he develops an acneiform rash, diarrhea, and elevated liver enzymes.",
+  "question": "Which of the following is the most likely identity of the antibody used?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Cetuximab"
+    },
+    {
+      "id": "B",
+      "text": "Bevacizumab"
+    },
+    {
+      "id": "C",
+      "text": "Rituximab"
+    },
+    {
+      "id": "D",
+      "text": "Alemtuzumab"
+    },
+    {
+      "id": "E",
+      "text": "Ipilimumab"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Cetuximab (along with panitumumab) targets EGFR and is used for metastatic colorectal cancer with wild-type RAS and for head and neck cancer. Its characteristic toxicities are rash, elevated LFTs, and diarrhea. Wild-type RAS is required because constitutively active mutant RAS would bypass EGFR blockade and render the drug ineffective.",
+  "explanation_incorrect": {
+    "B": "Bevacizumab targets VEGF and causes hemorrhage and clotting, not an EGFR-mediated rash.",
+    "C": "Rituximab targets CD20 on B cells and is linked to cytokine-release infusion reactions.",
+    "D": "Alemtuzumab targets CD52; its toxicities are infections and autoimmunity.",
+    "E": "Ipilimumab targets CTLA-4 and causes immune-related adverse events such as enterocolitis."
+  },
+  "educationalObjective": "Cetuximab and panitumumab target EGFR in RAS wild-type metastatic colorectal cancer and cause rash, elevated LFTs, and diarrhea.",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Anticancer monoclonal antibodies"
+},
+{
+  "id": "onc-412",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Anticancer monoclonal antibodies",
+  "difficulty": "easy",
+  "vignette": "A 45-year-old woman with non-Hodgkin lymphoma receives her first infusion of a monoclonal antibody. Within an hour she develops fever, chills, rigors, and hypotension. The reaction is attributed to massive cytokine release when the antibody engages its target on B cells.",
+  "question": "Which antibody is most likely responsible for this infusion reaction?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Bevacizumab"
+    },
+    {
+      "id": "B",
+      "text": "Trastuzumab"
+    },
+    {
+      "id": "C",
+      "text": "Alemtuzumab"
+    },
+    {
+      "id": "D",
+      "text": "Cetuximab"
+    },
+    {
+      "id": "E",
+      "text": "Rituximab"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Rituximab targets CD20 and causes an infusion reaction due to cytokine release following its interaction with the target on B cells. It is used for non-Hodgkin lymphoma, CLL, rheumatoid arthritis, ITP, TTP, AIHA, and multiple sclerosis. The acute fever, rigors, and hypotension during the first infusion are the classic presentation.",
+  "explanation_incorrect": {
+    "A": "Bevacizumab's key toxicities are hemorrhage, thrombosis, and impaired wound healing, not acute cytokine release.",
+    "B": "Trastuzumab causes dilated cardiomyopathy, not an acute cytokine-release infusion reaction.",
+    "C": "Alemtuzumab increases infection and autoimmune risk rather than causing acute infusion cytokine release.",
+    "D": "Cetuximab causes rash, diarrhea, and elevated LFTs."
+  },
+  "educationalObjective": "Rituximab (anti-CD20) can cause an infusion reaction from cytokine release upon binding B cells.",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Anticancer monoclonal antibodies"
+},
+{
+  "id": "onc-413",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Anticancer monoclonal antibodies",
+  "difficulty": "hard",
+  "vignette": "A 50-year-old woman with HER2-positive breast cancer is treated with a monoclonal antibody. Six months into therapy she develops exertional dyspnea and is found to have a dilated cardiomyopathy with reduced ejection fraction. Her oncologist notes this effect is often reversible upon discontinuation.",
+  "question": "Which of the following best characterizes this adverse effect?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Irreversible pulmonary fibrosis, as with bleomycin"
+    },
+    {
+      "id": "B",
+      "text": "Hemorrhagic cystitis due to the metabolite acrolein"
+    },
+    {
+      "id": "C",
+      "text": "Often reversible dilated cardiomyopathy ('Don't Trast HER, she will break your heart')"
+    },
+    {
+      "id": "D",
+      "text": "Peripheral neuropathy from microtubule inhibition"
+    },
+    {
+      "id": "E",
+      "text": "Immune-mediated enterocolitis from checkpoint blockade"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Trastuzumab targets HER2 and is used for breast and gastric cancer. Its signature toxicity is dilated cardiomyopathy that is often reversible, captured by the mnemonic 'Don't Trast HER, she will break your heart.' This reversibility distinguishes it from anthracycline cardiotoxicity, which is typically dose-dependent and irreversible. The vignette's HER2-positive cancer and reversible cardiomyopathy point directly to trastuzumab.",
+  "explanation_incorrect": {
+    "A": "Pulmonary fibrosis is the signature of bleomycin and busulfan, not an anti-HER2 antibody.",
+    "B": "Hemorrhagic cystitis is caused by cyclophosphamide/ifosfamide via their metabolite acrolein.",
+    "D": "Peripheral neuropathy is classic for vincristine and bortezomib, not trastuzumab.",
+    "E": "Enterocolitis is an immune-related adverse event of immune checkpoint inhibitors."
+  },
+  "educationalObjective": "Trastuzumab (anti-HER2) causes often-reversible dilated cardiomyopathy in breast and gastric cancer.",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Anticancer monoclonal antibodies"
+},
+{
+  "id": "onc-414",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Anticancer monoclonal antibodies",
+  "difficulty": "hard",
+  "vignette": "A 66-year-old man with metastatic melanoma is treated with an antibody that blocks PD-1, enhancing T-cell activation against tumor cells. Several weeks later he develops diarrhea, dermatitis, and an elevated thyroid-stimulating hormone, consistent with autoimmune enterocolitis, dermatitis, and endocrinopathy.",
+  "question": "Against which of the following targets is this antibody most likely directed?",
+  "options": [
+    {
+      "id": "A",
+      "text": "CTLA-4"
+    },
+    {
+      "id": "B",
+      "text": "PD-1"
+    },
+    {
+      "id": "C",
+      "text": "CD20"
+    },
+    {
+      "id": "D",
+      "text": "HER2"
+    },
+    {
+      "id": "E",
+      "text": "VEGF"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Pembrolizumab, nivolumab, and cemiplimab block PD-1; atezolizumab, durvalumab, and avelumab block PD-L1; and ipilimumab blocks CTLA-4. These checkpoint inhibitors are used across various tumors such as NSCLC, RCC, melanoma, and urothelial carcinoma. Their shared toxicity is increased autoimmunity, including dermatitis, enterocolitis, hepatitis, pneumonitis, and endocrinopathies. The vignette explicitly specifies a PD-1 blocker.",
+  "explanation_incorrect": {
+    "A": "Ipilimumab targets CTLA-4, also a checkpoint inhibitor, but the vignette specifies a PD-1 blocker (eg, pembrolizumab or nivolumab).",
+    "C": "CD20 is the target of rituximab, which causes cytokine-release infusion reactions.",
+    "D": "HER2 is targeted by trastuzumab, which is associated with dilated cardiomyopathy.",
+    "E": "VEGF is targeted by bevacizumab, which causes hemorrhage and blood clots."
+  },
+  "educationalObjective": "PD-1, PD-L1, and CTLA-4 checkpoint inhibitors cause immune-related adverse events including dermatitis, enterocolitis, hepatitis, pneumonitis, and endocrinopathies.",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Anticancer monoclonal antibodies"
+}
+]

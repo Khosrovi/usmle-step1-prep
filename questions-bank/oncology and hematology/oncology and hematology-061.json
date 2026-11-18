@@ -1,0 +1,248 @@
+[
+{
+  "id": "onc-273",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Multiple myeloma",
+  "difficulty": "easy",
+  "vignette": "A 68-year-old man has had 6 months of progressive low back pain and now reports severe pain after a minor fall. Laboratory studies show hemoglobin 9.2 g/dL, serum calcium 11.8 mg/dL, and creatinine 2.1 mg/dL. Skeletal radiographs reveal multiple well-circumscribed punched-out lytic lesions in the skull and spine, and serum protein electrophoresis shows a narrow M spike.",
+  "question": "Which of the following is the most likely diagnosis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Monoclonal gammopathy of undetermined significance"
+    },
+    {
+      "id": "B",
+      "text": "Multiple myeloma"
+    },
+    {
+      "id": "C",
+      "text": "Waldenstrom macroglobulinemia"
+    },
+    {
+      "id": "D",
+      "text": "Myelodysplastic syndrome"
+    },
+    {
+      "id": "E",
+      "text": "Metastatic bone disease from an occult solid tumor"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "This patient has the classic CRAB features of multiple myeloma: hyperCalcemia, Renal insufficiency, Anemia, and Bone lytic lesions with back pain and pathologic fractures. A monoclonal plasma cell clone overproduces a single immunoglobulin, producing the M spike, and its cytokines drive osteoclast-mediated bone destruction. The disorder occurs in older adults, and peripheral smear may show rouleaux formation.",
+  "explanation_incorrect": {
+    "A": "MGUS produces an M spike but has fewer than 10% marrow plasma cells and lacks all CRAB findings and lytic lesions; this patient is symptomatic.",
+    "C": "Waldenstrom macroglobulinemia overproduces IgM and causes hyperviscosity, lymphadenopathy, and hepatosplenomegaly rather than punched-out lytic lesions.",
+    "D": "Myelodysplastic syndrome causes cytopenias with maturation defects and fewer than 20% marrow blasts, not a monoclonal paraprotein or lytic bone lesions.",
+    "E": "Metastatic cancer can cause painful bone lesions but does not produce an M spike, Bence Jones proteinuria, or the cytokine-driven hypercalcemia seen here."
+  },
+  "educationalObjective": "Multiple myeloma is a plasma cell dyscrasia of older adults defined by CRAB findings, a monoclonal M spike, and punched-out lytic bone lesions.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Multiple myeloma"
+},
+{
+  "id": "onc-274",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Multiple myeloma",
+  "difficulty": "medium",
+  "vignette": "A 72-year-old woman with multiple myeloma has a serum calcium of 12.9 mg/dL with a suppressed parathyroid hormone level. Bone biopsy shows increased numbers of osteoclasts immediately adjacent to clusters of monoclonal plasma cells, and radiographs show multiple lytic lesions.",
+  "question": "Which of the following mechanisms best explains the hypercalcemia in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Parathyroid hormone-related peptide secretion acting on osteoblasts"
+    },
+    {
+      "id": "B",
+      "text": "Increased renal 1-alpha-hydroxylase activity producing excess 1,25-dihydroxyvitamin D"
+    },
+    {
+      "id": "C",
+      "text": "Accelerated osteoblastic new bone formation with secondary calcium release"
+    },
+    {
+      "id": "D",
+      "text": "Cytokine secretion (eg, IL-1, TNF-alpha, RANK-L) by malignant plasma cells increasing osteoclast activity"
+    },
+    {
+      "id": "E",
+      "text": "Phosphate retention from renal failure driving calcium deposition into bone"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Malignant plasma cells secrete cytokines such as IL-1, TNF-alpha, and RANK-L that markedly increase osteoclast activity. The resulting bone resorption releases calcium into the circulation and produces the characteristic punched-out lytic lesions. This mechanism is local and cytokine driven, which is why parathyroid hormone is suppressed rather than elevated.",
+  "explanation_incorrect": {
+    "A": "PTHrP-mediated hypercalcemia is characteristic of humoral hypercalcemia of malignancy from squamous cell tumors, not multiple myeloma.",
+    "B": "Excess 1,25-dihydroxyvitamin D from macrophage 1-alpha-hydroxylase is seen in granulomatous disease such as sarcoidosis, not in myeloma.",
+    "C": "Myeloma produces osteolytic rather than osteoblastic lesions; the problem is unopposed resorption, not new bone formation.",
+    "E": "Renal insufficiency can aggravate hypercalcemia, but phosphate retention with calcium deposition would lower, not raise, serum calcium and is not the primary mechanism."
+  },
+  "educationalObjective": "Myeloma hypercalcemia results from plasma cell cytokines (IL-1, TNF-alpha, RANK-L) that activate osteoclasts and cause lytic bone destruction.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Multiple myeloma"
+},
+{
+  "id": "onc-275",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Multiple myeloma",
+  "difficulty": "medium",
+  "vignette": "A 65-year-old man with IgG multiple myeloma has a routine urine dipstick that is negative for protein. A 24-hour urine protein electrophoresis, however, demonstrates a large monoclonal light-chain band, and immunofixation confirms urinary monoclonal free light chains.",
+  "question": "Which of the following best explains the negative routine urine dipstick despite heavy light-chain proteinuria?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The dipstick is primarily albumin sensitive and does not detect immunoglobulin light chains"
+    },
+    {
+      "id": "B",
+      "text": "Light chains are completely reabsorbed and metabolized by renal tubules so none reach the urine"
+    },
+    {
+      "id": "C",
+      "text": "Immunoglobulin light chains are too large to be filtered across the glomerulus"
+    },
+    {
+      "id": "D",
+      "text": "The alkaline buffer of the dipstick denatures Bence Jones proteins before detection"
+    },
+    {
+      "id": "E",
+      "text": "Concurrent renal insufficiency raises the concentration threshold required for a positive dipstick"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "The urine dipstick detects albumin, not immunoglobulin light chains. Bence Jones proteinuria from free monoclonal light chains therefore gives a negative dipstick, and urinary involvement must be confirmed with urine protein electrophoresis and immunofixation. These light chains are also directly nephrotoxic and contribute to the renal insufficiency of myeloma.",
+  "explanation_incorrect": {
+    "B": "Light chains are freely filtered and do appear in the urine in large amounts when production exceeds tubular reabsorption, so they are not completely metabolized.",
+    "C": "Light chains are small proteins that filter freely; it is larger proteins such as albumin that are normally retained by the glomerulus.",
+    "D": "The dipstick reagent is specific for albumin; there is no pH-dependent destruction of Bence Jones proteins involved in the false-negative result.",
+    "E": "Renal failure changes excretion but not dipstick chemistry; the discrepancy here is due to the type of protein, not the glomerular filtration rate."
+  },
+  "educationalObjective": "Bence Jones light-chain proteinuria is missed by the albumin-based urine dipstick and requires urine electrophoresis and immunofixation to detect.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Multiple myeloma"
+},
+{
+  "id": "onc-276",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Multiple myeloma",
+  "difficulty": "easy",
+  "vignette": "A 70-year-old woman with back pain, anemia, and renal insufficiency has a serum M spike. Serum immunofixation identifies a single monoclonal immunoglobulin class. Her physician discusses which paraprotein is most typical of this disease.",
+  "question": "Which immunoglobulin class is most commonly overproduced in multiple myeloma?",
+  "options": [
+    {
+      "id": "A",
+      "text": "IgD"
+    },
+    {
+      "id": "B",
+      "text": "IgM"
+    },
+    {
+      "id": "C",
+      "text": "IgG"
+    },
+    {
+      "id": "D",
+      "text": "IgE"
+    },
+    {
+      "id": "E",
+      "text": "IgA"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Multiple myeloma most commonly overproduces IgG, followed by IgA and then light chains only. This hierarchy is a classic distinguishing point: an IgM monoclonal protein instead suggests Waldenstrom macroglobulinemia, in which the large pentameric IgM causes hyperviscosity.",
+  "explanation_incorrect": {
+    "A": "IgD myeloma is a rare variant and is not the most common immunoglobulin class in this disease.",
+    "B": "IgM overproduction characterizes Waldenstrom macroglobulinemia, where the large IgM molecule produces hyperviscosity symptoms.",
+    "D": "IgE myeloma is extremely uncommon and is not the classic paraprotein of multiple myeloma.",
+    "E": "IgA is the second most commonly overproduced immunoglobulin in myeloma, after IgG."
+  },
+  "educationalObjective": "The monoclonal immunoglobulin in multiple myeloma is most often IgG, then IgA, then light chains alone.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Multiple myeloma"
+},
+{
+  "id": "onc-277",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Multiple myeloma",
+  "difficulty": "hard",
+  "vignette": "A 66-year-old man has an asymptomatic IgG M spike of 1.8 g/dL, hemoglobin 13.5 g/dL, calcium 9.4 mg/dL, creatinine 1.0 mg/dL, and no bone lesions. Bone marrow biopsy shows 6% monoclonal plasma cells. Six months later he develops back pain and multiple lytic lesions.",
+  "question": "Which of the following initial marrow findings would have supported a diagnosis of multiple myeloma rather than MGUS?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Fewer than 10% plasma cells in a reactive polytypic marrow"
+    },
+    {
+      "id": "B",
+      "text": "Increased megakaryocytes with loose clustering"
+    },
+    {
+      "id": "C",
+      "text": "At least 20% myeloblasts with Auer rods"
+    },
+    {
+      "id": "D",
+      "text": "More than 10% lymphoplasmacytic cells with intranuclear inclusions"
+    },
+    {
+      "id": "E",
+      "text": "More than 10% monoclonal plasma cells with clock-face chromatin and intracytoplasmic immunoglobulin inclusions"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Multiple myeloma is confirmed by bone marrow biopsy showing more than 10% monoclonal plasma cells with characteristic clock-face chromatin and intracytoplasmic inclusions containing immunoglobulin. MGUS has fewer than 10% monoclonal plasma cells, an M spike below 3 g/dL, and no CRAB findings. Rouleaux formation on peripheral smear is another clue to a plasma cell dyscrasia.",
+  "explanation_incorrect": {
+    "A": "Fewer than 10% polytypic plasma cells in a reactive marrow supports MGUS or a reactive process, not myeloma.",
+    "B": "Clustered megakaryocytes suggest a myeloproliferative neoplasm rather than a monoclonal plasma cell disorder.",
+    "C": "Myeloblasts with Auer rods indicate acute myelogenous leukemia, not a plasma cell dyscrasia.",
+    "D": "Lymphoplasmacytic cells with intranuclear IgM inclusions are the hallmark of Waldenstrom macroglobulinemia."
+  },
+  "educationalObjective": "More than 10% clonal marrow plasma cells with clock-face chromatin and cytoplasmic immunoglobulin inclusions distinguishes myeloma from MGUS.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Multiple myeloma"
+},
+{
+  "id": "onc-278",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Multiple myeloma",
+  "difficulty": "medium",
+  "vignette": "A 58-year-old man with IgG multiple myeloma develops progressive nephrotic-range proteinuria and symptoms of restrictive cardiomyopathy over several months. Renal biopsy shows amorphous eosinophilic deposits that stain positively with anti-light-chain antiserum and show apple-green birefringence with Congo red.",
+  "question": "Which of the following is the most likely cause of his new cardiac and renal disease?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Deposition of intact IgM pentamers within vessel walls"
+    },
+    {
+      "id": "B",
+      "text": "Secondary amyloidosis derived from serum amyloid A protein"
+    },
+    {
+      "id": "C",
+      "text": "Direct infiltration of the myocardium and kidney by monoclonal plasma cells"
+    },
+    {
+      "id": "D",
+      "text": "Primary (AL) amyloidosis from deposition of monoclonal immunoglobulin light chains"
+    },
+    {
+      "id": "E",
+      "text": "Uric acid crystal deposition caused by tumor lysis syndrome"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Primary AL amyloidosis is a well-known complication of multiple myeloma. Monoclonal immunoglobulin light chains misfold and deposit as amyloid in the kidney, heart, tongue, and soft tissues, producing nephrotic syndrome and restrictive cardiomyopathy. The light-chain staining and Congo red birefringence on biopsy confirm the diagnosis.",
+  "explanation_incorrect": {
+    "A": "Intact IgM pentamers cause hyperviscosity in Waldenstrom macroglobulinemia, not Congo red-positive amyloid deposits.",
+    "B": "Serum amyloid A (AA) amyloidosis is secondary to chronic inflammation or infection and is not driven by a monoclonal plasma cell clone.",
+    "C": "Direct malignant plasma cell infiltration is not the mechanism here; the biopsy shows amorphous extracellular light-chain deposits.",
+    "E": "Tumor lysis with uric acid crystals causes acute kidney injury, not chronic amyloid deposition with restrictive cardiomyopathy."
+  },
+  "educationalObjective": "Multiple myeloma can cause primary AL amyloidosis, in which monoclonal light chains deposit as amyloid in kidney and heart.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Multiple myeloma"
+}
+]

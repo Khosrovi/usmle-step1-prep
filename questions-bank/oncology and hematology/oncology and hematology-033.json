@@ -1,0 +1,166 @@
+[
+{
+  "id": "onc-164",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "G6PD deficiency",
+  "difficulty": "easy",
+  "vignette": "A 6-year-old boy of Mediterranean ancestry develops jaundice, dark urine, and back pain two days after starting a sulfa antibiotic. Smear shows bite cells and Heinz bodies. His mother's brother had similar episodes after eating fava beans.",
+  "question": "Which enzymatic defect and inheritance pattern underlie this condition?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Autosomal recessive pyruvate kinase deficiency with reduced ATP"
+    },
+    {
+      "id": "B",
+      "text": "Autosomal dominant spectrin mutation with spherocytes"
+    },
+    {
+      "id": "C",
+      "text": "Acquired PIGA mutation causing loss of CD55 and CD59"
+    },
+    {
+      "id": "D",
+      "text": "Autosomal recessive DNA repair defect with pancytopenia"
+    },
+    {
+      "id": "E",
+      "text": "X-linked recessive G6PD deficiency causing decreased NADPH and reduced glutathione"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "G6PD deficiency is X-linked recessive. G6PD generates NADPH through the pentose phosphate pathway, and NADPH keeps glutathione in its reduced form to protect red cells from oxidative injury. Deficiency lowers reduced glutathione and increases susceptibility to oxidant stress from sulfa drugs, antimalarials, and fava beans, producing hemolysis with back pain and hemoglobinuria several days after exposure. Smear shows Heinz bodies and bite cells, and hemolysis is both intravascular and extravascular.",
+  "explanation_incorrect": {
+    "A": "Pyruvate kinase deficiency is autosomal recessive with ATP depletion and burr cells, not oxidative hemolysis with bite cells.",
+    "B": "Spectrin mutations cause hereditary spherocytosis, usually autosomal dominant, with spherocytes and extravascular splenic hemolysis.",
+    "C": "Paroxysmal nocturnal hemoglobinuria is an acquired PIGA mutation with complement-mediated intravascular hemolysis and thrombosis, not an X-linked enzyme deficiency.",
+    "D": "A DNA repair defect with pancytopenia describes Fanconi anemia, not G6PD deficiency."
+  },
+  "educationalObjective": "G6PD deficiency is X-linked recessive, causing decreased NADPH and reduced glutathione and oxidative hemolysis with bite cells and Heinz bodies.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: G6PD deficiency"
+},
+{
+  "id": "onc-165",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "G6PD deficiency",
+  "difficulty": "medium",
+  "vignette": "A 28-year-old man develops acute back pain, dark urine, and jaundice 3 days after taking an antimalarial drug for travel. Labs: hemoglobin 9 g/dL, indirect bilirubin 3.0 mg/dL, LDH elevated, haptoglobin low. The direct antiglobulin test is negative.",
+  "question": "Which exposure most likely precipitated this episode?",
+  "options": [
+    {
+      "id": "A",
+      "text": "High altitude and dehydration during a hike"
+    },
+    {
+      "id": "B",
+      "text": "Oxidant stress from antimalarial medication in a G6PD-deficient patient"
+    },
+    {
+      "id": "C",
+      "text": "Parvovirus B19 infection causing erythroid arrest"
+    },
+    {
+      "id": "D",
+      "text": "Cold agglutinins following a Mycoplasma infection"
+    },
+    {
+      "id": "E",
+      "text": "Mechanical trauma from a prosthetic heart valve"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Antimalarial drugs such as primaquine are classic oxidant triggers of hemolysis in G6PD deficiency, with back pain, hemoglobinuria, and jaundice appearing a few days after exposure. The mechanism is failure to regenerate reduced glutathione from NADPH, causing hemoglobin denaturation and red cell destruction both intravascularly and extravascularly. Sulfa drugs and fava beans are other classic triggers. A negative direct antiglobulin test helps exclude immune hemolysis.",
+  "explanation_incorrect": {
+    "A": "High altitude and dehydration precipitate sickling in sickle cell disease, not oxidant hemolysis.",
+    "C": "Parvovirus B19 causes aplastic crisis with reticulocytopenia in patients with hemolytic anemias, not acute oxidative hemolysis after a drug.",
+    "D": "Cold agglutinin disease is IgM-mediated, Coombs-positive hemolysis triggered by Mycoplasma, not drug-induced oxidative hemolysis.",
+    "E": "Mechanical valve hemolysis produces schistocytes from shearing forces, not Heinz bodies and bite cells after an oxidant drug."
+  },
+  "educationalObjective": "Oxidant drugs such as sulfonamides and antimalarials, and fava beans, trigger delayed G6PD hemolysis with back pain and hemoglobinuria.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: G6PD deficiency"
+},
+{
+  "id": "onc-166",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "G6PD deficiency",
+  "difficulty": "medium",
+  "vignette": "A 19-year-old man eats a large serving of fava beans and develops fatigue and cola-colored urine. Peripheral smear demonstrates red cells with round inclusion bodies and other cells with a semicircular bite taken out of them.",
+  "question": "What are these two smear findings, respectively?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Howell-Jolly bodies and target cells"
+    },
+    {
+      "id": "B",
+      "text": "Schistocytes and spherocytes"
+    },
+    {
+      "id": "C",
+      "text": "Basophilic stippling and burr cells"
+    },
+    {
+      "id": "D",
+      "text": "Heinz bodies (denatured hemoglobin) and bite cells (red cells after splenic removal of Heinz bodies)"
+    },
+    {
+      "id": "E",
+      "text": "Pappenheimer bodies and elliptocytes"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Heinz bodies are precipitated, oxidatively denatured hemoglobin visible with special stains. As splenic macrophages pluck out these inclusions, the affected red cells develop the characteristic bite cell morphology. This is the classic smear of G6PD deficiency during oxidative hemolysis. Supporting findings include decreased G6PD activity, which may be falsely normal during acute hemolysis, hemoglobinuria, and both intra- and extravascular red cell destruction.",
+  "explanation_incorrect": {
+    "A": "Howell-Jolly bodies are nuclear remnants seen after splenectomy or autosplenectomy, and target cells appear in thalassemia or liver disease.",
+    "B": "Schistocytes indicate microangiopathic or mechanical hemolysis, while spherocytes suggest hereditary spherocytosis or autoimmune hemolysis.",
+    "C": "Basophilic stippling suggests lead poisoning or thalassemia, and burr cells suggest pyruvate kinase deficiency or uremia.",
+    "E": "Pappenheimer bodies are iron granules seen in sideroblastic anemia or after splenectomy; elliptocytes are seen in hereditary elliptocytosis."
+  },
+  "educationalObjective": "Heinz bodies and bite cells are the signature smear findings of oxidative hemolysis in G6PD deficiency.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: G6PD deficiency"
+},
+{
+  "id": "onc-167",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "G6PD deficiency",
+  "difficulty": "hard",
+  "vignette": "A 22-year-old man with suspected G6PD deficiency is tested during the acute phase of hemolysis after sulfa drug exposure. The measured G6PD enzyme activity is reported within normal limits. He has bite cells and hemoglobinuria.",
+  "question": "Which statement best explains this seemingly normal result?",
+  "options": [
+    {
+      "id": "A",
+      "text": "G6PD activity rises above normal during hemolysis because reticulocytes are rich in enzyme, making the test falsely elevated"
+    },
+    {
+      "id": "B",
+      "text": "The assay measures reduced glutathione rather than G6PD activity and is unreliable after oxidant exposure"
+    },
+    {
+      "id": "C",
+      "text": "G6PD activity can be falsely normal during acute hemolysis because older enzyme-deficient red cells have already been destroyed; repeat testing after recovery is needed"
+    },
+    {
+      "id": "D",
+      "text": "The defect is X-linked, so heterozygous women always show normal activity and males cannot be deficient"
+    },
+    {
+      "id": "E",
+      "text": "G6PD deficiency is acquired, so enzyme activity normalizes within hours of stopping the drug"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "During acute hemolysis, the oldest and most enzyme-deficient red cells are preferentially destroyed, while younger reticulocytes and red cells have higher G6PD activity. Consequently, the activity measured in the remaining circulating cells may be falsely normal, and testing should be repeated several weeks after the episode resolves. The diagnosis is supported by the clinical context of an oxidant trigger, bite cells and Heinz bodies, and hemoglobinuria. G6PD deficiency is X-linked recessive and predominantly affects males.",
+  "explanation_incorrect": {
+    "A": "Reticulocytosis can raise measured activity, but the classic teaching is that the result is falsely normal, not that it is elevated above normal and diagnostic of deficiency.",
+    "B": "The assay measures G6PD enzyme activity; reduced glutathione is the downstream product of the reaction, not the analyte.",
+    "D": "Because the defect is X-linked recessive, males are primarily affected, and heterozygous females may be variably affected by lyonization.",
+    "E": "G6PD deficiency is inherited, not acquired; stopping the drug halts hemolysis but does not correct the enzyme defect."
+  },
+  "educationalObjective": "A normal G6PD level during acute hemolysis can be misleading; repeat testing after recovery because the most deficient old red cells have already lysed.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: G6PD deficiency"
+}
+]

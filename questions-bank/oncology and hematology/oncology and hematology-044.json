@@ -1,0 +1,207 @@
+[
+{
+  "id": "onc-234",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Hereditary thrombophilias",
+  "difficulty": "medium",
+  "vignette": "A 29-year-old woman has had two episodes of deep vein thrombosis and a cerebral vein thrombosis. Testing shows resistance to activated protein C. Her father had a DVT in his forties.",
+  "question": "Which of the following best describes the molecular defect responsible?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A point mutation in the 3-prime untranslated region of the prothrombin gene"
+    },
+    {
+      "id": "B",
+      "text": "An Arg506Gln mutation in factor V that confers resistance to activated protein C"
+    },
+    {
+      "id": "C",
+      "text": "A deficiency of antithrombin with loss in the urine"
+    },
+    {
+      "id": "D",
+      "text": "A deficiency of protein C with impaired inactivation of factors Va and VIIIa"
+    },
+    {
+      "id": "E",
+      "text": "A deficiency of protein S that reduces activation of factor V"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Factor V Leiden is caused by a guanine-to-adenine point mutation producing an Arg506Gln substitution near the cleavage site of factor V. This makes factor V resistant to degradation by activated protein C, so activated factor V persists and promotes continued coagulation. It is autosomal dominant and causes DVT, cerebral vein thrombosis, and recurrent pregnancy loss. The activated protein C resistance in this patient is the hallmark finding.",
+  "explanation_incorrect": {
+    "A": "The prothrombin G20210A mutation increases prothrombin production but does not cause activated protein C resistance.",
+    "C": "Antithrombin deficiency causes reduced inhibition of IIa and Xa and an impaired heparin response, not APC resistance.",
+    "D": "Protein C deficiency impairs inactivation of Va and VIIIa and predisposes to warfarin skin necrosis, but factor V itself is normal.",
+    "E": "Protein S is a cofactor for protein C; its deficiency does not produce factor V resistance to activated protein C."
+  },
+  "educationalObjective": "Factor V Leiden is an Arg506Gln mutation making factor V resistant to activated protein C, causing venous thrombosis.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Hereditary thrombophilias"
+},
+{
+  "id": "onc-235",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Hereditary thrombophilias",
+  "difficulty": "hard",
+  "vignette": "A 42-year-old man with a personal and family history of venous thrombosis requires anticoagulation. He is given standard-dose heparin, but his PTT fails to rise as expected. Baseline PT and PTT were normal.",
+  "question": "Which of the following best explains this finding?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Protein C deficiency with impaired inactivation of factor Va"
+    },
+    {
+      "id": "B",
+      "text": "Factor V Leiden with resistance to activated protein C"
+    },
+    {
+      "id": "C",
+      "text": "Antithrombin deficiency diminishing the PTT rise after heparin"
+    },
+    {
+      "id": "D",
+      "text": "Prothrombin G20210A mutation increasing prothrombin levels"
+    },
+    {
+      "id": "E",
+      "text": "Protein S deficiency reducing the anticoagulant effect of protein C"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Antithrombin inhibits factors IIa and Xa and is required for heparin's anticoagulant effect. In antithrombin deficiency, baseline PT and PTT are normal, but standard heparin dosing produces a blunted rise in PTT because heparin cannot exert its effect without antithrombin. Antithrombin deficiency is autosomal dominant and can also be acquired in nephrotic syndrome from urinary loss of antithrombin. This explains the poor anticoagulant response.",
+  "explanation_incorrect": {
+    "A": "Protein C deficiency does not affect heparin's mechanism; it predisposes to warfarin-induced skin necrosis.",
+    "B": "Factor V Leiden causes APC resistance and thrombosis but does not blunt the PTT response to heparin.",
+    "D": "Prothrombin G20210A raises prothrombin levels and venous clot risk but does not alter heparin's effect on PTT.",
+    "E": "Protein S deficiency impairs the protein C pathway and does not explain a reduced PTT rise with heparin."
+  },
+  "educationalObjective": "Antithrombin deficiency has normal baseline coagulation times but a blunted PTT response to heparin because antithrombin is required for heparin's effect.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Hereditary thrombophilias"
+},
+{
+  "id": "onc-236",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Hereditary thrombophilias",
+  "difficulty": "medium",
+  "vignette": "A 35-year-old woman with a history of DVT starts warfarin for a new thrombotic event. Within days she develops painful necrotic plaques on her breasts and thighs. She has a family history of thrombosis.",
+  "question": "Which of the following deficiencies best predisposes to this complication?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Protein C deficiency"
+    },
+    {
+      "id": "B",
+      "text": "Antithrombin deficiency"
+    },
+    {
+      "id": "C",
+      "text": "Factor V Leiden"
+    },
+    {
+      "id": "D",
+      "text": "Prothrombin G20210A mutation"
+    },
+    {
+      "id": "E",
+      "text": "Factor VIII deficiency"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Protein C, with its cofactor protein S, inactivates factors Va and VIIIa. Protein C or S deficiency reduces this anticoagulant control and increases thrombosis risk. Warfarin-induced skin necrosis occurs because warfarin rapidly depletes the short-lived protein C before other longer-lived factors, creating a transient prothrombotic state in a patient who already has deficient protein C. Protein C Cancels and protein S Stops coagulation.",
+  "explanation_incorrect": {
+    "B": "Antithrombin deficiency affects heparin responsiveness and does not specifically cause warfarin skin necrosis.",
+    "C": "Factor V Leiden causes APC resistance but is not the classic deficiency linked to warfarin-induced skin necrosis.",
+    "D": "Prothrombin G20210A increases prothrombin and venous clots but does not cause warfarin skin necrosis.",
+    "E": "Factor VIII deficiency is hemophilia A, a bleeding disorder, not a thrombophilia."
+  },
+  "educationalObjective": "Protein C (or S) deficiency impairs inactivation of Va and VIIIa and predisposes to warfarin-induced skin necrosis.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Hereditary thrombophilias"
+},
+{
+  "id": "onc-237",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Hereditary thrombophilias",
+  "difficulty": "medium",
+  "vignette": "A 26-year-old man with recurrent deep vein thrombosis and no other identified risk factor undergoes genetic testing. He is found to have a point mutation in the 3-prime untranslated region of a coagulation gene.",
+  "question": "Which of the following is the most likely mutation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Arg506Gln mutation in factor V"
+    },
+    {
+      "id": "B",
+      "text": "A guanine-to-adenine substitution causing factor V resistance to protein C"
+    },
+    {
+      "id": "C",
+      "text": "A deletion causing deficiency of protein S"
+    },
+    {
+      "id": "D",
+      "text": "Prothrombin G20210A mutation"
+    },
+    {
+      "id": "E",
+      "text": "A mutation causing deficient antithrombin synthesis"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "The prothrombin G20210A mutation is a point mutation in the 3-prime untranslated region of the prothrombin gene. It increases prothrombin production, raising plasma prothrombin levels and increasing venous clot risk. It is an autosomal dominant hereditary thrombophilia. This contrasts with factor V Leiden, which is an Arg506Gln coding mutation causing activated protein C resistance.",
+  "explanation_incorrect": {
+    "A": "The Arg506Gln mutation is factor V Leiden and is a coding-region mutation, not one in the 3-prime untranslated region.",
+    "B": "This describes factor V Leiden, a missense mutation in factor V, not the prothrombin gene.",
+    "C": "Protein S deficiency is not caused by a prothrombin gene mutation.",
+    "E": "Antithrombin deficiency is due to deficient antithrombin, not a prothrombin gene mutation."
+  },
+  "educationalObjective": "Prothrombin G20210A is a 3-prime untranslated region point mutation that increases prothrombin levels and venous thrombosis risk.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Hereditary thrombophilias"
+},
+{
+  "id": "onc-238",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Hereditary thrombophilias",
+  "difficulty": "hard",
+  "vignette": "A 31-year-old woman has had one episode of deep vein thrombosis and two spontaneous abortions in the second trimester. Her father had a DVT. Laboratory evaluation shows a normal platelet count, normal PT and PTT, and activated protein C resistance.",
+  "question": "Which of the following is the most likely underlying disorder?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Antithrombin deficiency"
+    },
+    {
+      "id": "B",
+      "text": "Protein C deficiency"
+    },
+    {
+      "id": "C",
+      "text": "Prothrombin G20210A mutation"
+    },
+    {
+      "id": "D",
+      "text": "Protein S deficiency"
+    },
+    {
+      "id": "E",
+      "text": "Factor V Leiden"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Factor V Leiden is an autosomal dominant thrombophilia caused by an Arg506Gln mutation that makes factor V resistant to degradation by activated protein C. It commonly presents with DVT, cerebral vein thrombosis, and recurrent pregnancy loss, matching this patient's venous thrombosis and fetal losses with a family history. Activated protein C resistance is the characteristic laboratory finding, and baseline PT/PTT are normal.",
+  "explanation_incorrect": {
+    "A": "Antithrombin deficiency would show a blunted PTT rise with heparin rather than activated protein C resistance.",
+    "B": "Protein C deficiency predisposes to warfarin skin necrosis but does not cause activated protein C resistance.",
+    "C": "Prothrombin G20210A increases prothrombin levels but is not associated with activated protein C resistance.",
+    "D": "Protein S deficiency impairs the protein C pathway and is not detected as activated protein C resistance of factor V."
+  },
+  "educationalObjective": "Factor V Leiden causes activated protein C resistance and is associated with DVT, cerebral vein thrombosis, and recurrent pregnancy loss.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Hereditary thrombophilias"
+}
+]

@@ -1,0 +1,125 @@
+[
+{
+  "id": "onc-405",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Tamoxifen",
+  "difficulty": "medium",
+  "vignette": "A 45-year-old woman with ER-positive breast cancer is started on tamoxifen. Her physician explains that the drug has mixed, tissue-specific activity: it blocks estrogen action in breast tissue but behaves like estrogen in other tissues such as the endometrium and bone.",
+  "question": "Which description best characterizes tamoxifen's mechanism of action?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Pure estrogen receptor antagonist in all tissues"
+    },
+    {
+      "id": "B",
+      "text": "Aromatase inhibitor that decreases estrogen synthesis"
+    },
+    {
+      "id": "C",
+      "text": "Monoclonal antibody against HER2"
+    },
+    {
+      "id": "D",
+      "text": "Selective estrogen receptor modulator: antagonist in breast, partial agonist in endometrium and bone"
+    },
+    {
+      "id": "E",
+      "text": "Competitive inhibitor of dihydrofolate reductase"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Tamoxifen is a selective estrogen receptor modulator with a complex, tissue-specific mode of action. It is an antagonist in breast tissue, blocking estrogen binding to ER in ER-positive cells, but a partial agonist in the endometrium and bone. This mixed profile explains both its efficacy in breast cancer and its endometrial effects. It is used for prevention and treatment of breast cancer and for prevention of gynecomastia during prostate cancer therapy.",
+  "explanation_incorrect": {
+    "A": "Tamoxifen is not a pure antagonist; its partial agonist activity in endometrium and bone distinguishes SERMs from pure antiestrogens.",
+    "B": "Aromatase inhibitors such as anastrozole reduce estrogen synthesis, whereas tamoxifen acts at the receptor level.",
+    "C": "Trastuzumab is the anti-HER2 monoclonal antibody; tamoxifen targets the estrogen receptor.",
+    "E": "Dihydrofolate reductase inhibition is methotrexate's mechanism and is unrelated to tamoxifen."
+  },
+  "educationalObjective": "Tamoxifen is a SERM that antagonizes estrogen receptors in breast but acts as a partial agonist in endometrium and bone.",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Tamoxifen"
+},
+{
+  "id": "onc-406",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Tamoxifen",
+  "difficulty": "easy",
+  "vignette": "A 50-year-old woman at high risk for breast cancer is counseled about chemoprevention. Separately, a man starting androgen-deprivation therapy for prostate cancer is concerned about developing breast tenderness and enlargement. Both patients may be offered the same agent.",
+  "question": "Which of the following is a clinical use of tamoxifen?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Treatment of ER-negative breast cancer only"
+    },
+    {
+      "id": "B",
+      "text": "Prevention of prostate cancer"
+    },
+    {
+      "id": "C",
+      "text": "Treatment of HER2-positive breast cancer as a single agent"
+    },
+    {
+      "id": "D",
+      "text": "Prevention of ovarian cancer"
+    },
+    {
+      "id": "E",
+      "text": "Prevention and treatment of breast cancer and prevention of gynecomastia in patients undergoing prostate cancer therapy"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Tamoxifen is used for both treatment and prevention of breast cancer, particularly ER-positive disease, and for prevention of gynecomastia in patients undergoing prostate cancer therapy. Its ability to block estrogen receptors in breast tissue underlies these uses. It is not effective for ER-negative tumors and is not used to prevent prostate or ovarian cancer.",
+  "explanation_incorrect": {
+    "A": "Tamoxifen requires ER-positive disease and is not used for ER-negative breast cancer.",
+    "B": "Tamoxifen is not used to prevent prostate cancer; in men it is used to prevent gynecomastia during prostate cancer therapy.",
+    "C": "HER2-positive breast cancer is treated with trastuzumab; tamoxifen targets ER, not HER2.",
+    "D": "Tamoxifen is not used for ovarian cancer prevention."
+  },
+  "educationalObjective": "Tamoxifen is used for breast cancer prevention and treatment and to prevent gynecomastia in men undergoing prostate cancer therapy.",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Tamoxifen"
+},
+{
+  "id": "onc-407",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Tamoxifen",
+  "difficulty": "hard",
+  "vignette": "A 52-year-old woman has taken tamoxifen for 4 years after treatment of ER-positive breast cancer. She reports hot flashes and is found to have a deep vein thrombosis. Endometrial sampling reveals atypical hyperplasia.",
+  "question": "Which adverse effect is associated with tamoxifen use, and what explains its effect on the endometrium?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Increased risk of thromboembolism (DVT/PE) and endometrial cancer from partial estrogenic agonism"
+    },
+    {
+      "id": "B",
+      "text": "Dilated cardiomyopathy from HER2 blockade"
+    },
+    {
+      "id": "C",
+      "text": "Hemorrhagic cystitis prevented by mesna"
+    },
+    {
+      "id": "D",
+      "text": "Pulmonary fibrosis and hyperpigmentation"
+    },
+    {
+      "id": "E",
+      "text": "Severe myelosuppression with megaloblastic anemia"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Tamoxifen's partial estrogen agonist activity in the endometrium increases the risk of endometrial cancer and uterine sarcoma, and it also raises the risk of thromboembolic events such as DVT and PE. Hot flashes are common due to its antiestrogenic effects. These risks must be weighed against its breast cancer benefits, and the endometrial effects are a direct consequence of its SERM partial-agonist profile.",
+  "explanation_incorrect": {
+    "B": "Dilated cardiomyopathy is trastuzumab, an anti-HER2 antibody, toxicity, not tamoxifen.",
+    "C": "Hemorrhagic cystitis is caused by cyclophosphamide and ifosfamide and prevented by mesna.",
+    "D": "Pulmonary fibrosis and hyperpigmentation are busulfan toxicities.",
+    "E": "Severe myelosuppression with megaloblastic anemia is hydroxyurea toxicity."
+  },
+  "educationalObjective": "Tamoxifen increases DVT/PE and endometrial cancer and uterine sarcoma risk via partial estrogen agonist activity in the endometrium.",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Tamoxifen"
+}
+]

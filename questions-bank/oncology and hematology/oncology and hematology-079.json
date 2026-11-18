@@ -1,0 +1,166 @@
+[
+{
+  "id": "onc-102",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Reticulocyte production index and Mentzer index",
+  "difficulty": "medium",
+  "vignette": "An anemic patient has a hematocrit of 27% (normal 45%) and a reticulocyte count of 8%. Because reticulocytes remain in the marrow longer when erythropoietin stimulation is intense, a maturation-time correction factor of 1.5 is applied. The clinician calculates the reticulocyte production index to assess whether the marrow is responding appropriately.",
+  "question": "Which of the following values and interpretations are correct for this patient's reticulocyte production index?",
+  "options": [
+    {
+      "id": "A",
+      "text": "RPI approximately 1.0, indicating an inadequate marrow response"
+    },
+    {
+      "id": "B",
+      "text": "RPI approximately 3.2, indicating an appropriate compensatory marrow response"
+    },
+    {
+      "id": "C",
+      "text": "RPI approximately 0.6, indicating bone marrow failure"
+    },
+    {
+      "id": "D",
+      "text": "RPI approximately 6.0, indicating polycythemia"
+    },
+    {
+      "id": "E",
+      "text": "RPI cannot be calculated without first obtaining a Mentzer index"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Reticulocyte production index equals the reticulocyte percentage multiplied by actual hematocrit divided by normal hematocrit, then divided by the maturation-time correction factor. Here, 8% times (27/45) divided by 1.5 equals 8 times 0.6 divided by 1.5, which is 3.2. An RPI greater than 3 indicates an appropriate compensatory increase in red cell production, as expected with hemolysis or acute blood loss. An RPI below 2 indicates an inadequate marrow response to the anemia. The correction avoids the falsely elevated reticulocyte percentage that occurs simply because there are fewer circulating red cells.",
+  "explanation_incorrect": {
+    "A": "This value ignores the correction for anemia and maturation time; the raw reticulocyte percentage must be adjusted to obtain the RPI.",
+    "C": "This value results from incorrect arithmetic and would imply marrow failure, whereas the corrected calculation gives 3.2 with appropriate compensation.",
+    "D": "This mistakenly uses the elevated maturation factor in the numerator or ignores the corrections; the uncorrected reticulocyte percentage is not the RPI.",
+    "E": "The Mentzer index distinguishes thalassemia trait from iron deficiency using MCV and RBC count; it is not needed to calculate the RPI."
+  },
+  "educationalObjective": "RPI corrects the reticulocyte percentage for anemia and maturation time; greater than 3 means appropriate compensation, less than 2 means inadequate marrow response.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Reticulocyte production index and Mentzer index"
+},
+{
+  "id": "onc-103",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Reticulocyte production index and Mentzer index",
+  "difficulty": "hard",
+  "vignette": "A 22-year-old of Asian descent has hemoglobin 11.2 g/dL, MCV 68 fL, and RBC count 5.9 million per microliter. Iron studies show normal serum iron, normal TIBC, and normal ferritin. Her mother has a mild microcytic anemia. The clinician uses a derived index to distinguish thalassemia trait from iron deficiency.",
+  "question": "Which of the following calculations and interpretations is most consistent with these findings?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Mentzer index 11.5; consistent with iron deficiency anemia"
+    },
+    {
+      "id": "B",
+      "text": "Mentzer index 14.5; consistent with iron deficiency anemia"
+    },
+    {
+      "id": "C",
+      "text": "Mentzer index 11.5; consistent with megaloblastic anemia"
+    },
+    {
+      "id": "D",
+      "text": "RPI less than 2; consistent with thalassemia trait"
+    },
+    {
+      "id": "E",
+      "text": "Mentzer index 11.5; consistent with thalassemia trait"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "The Mentzer index is MCV divided by the RBC count. In this patient, 68 divided by 5.9 equals approximately 11.5, which is less than 13 and therefore suggests thalassemia trait. A value greater than 13 suggests iron deficiency anemia. Her elevated RBC count relative to the modest degree of anemia, normal iron studies, and Asian ancestry support thalassemia trait, most likely alpha-thalassemia minor. The Mentzer index is a simple arithmetic tool for this specific microcytic differential.",
+  "explanation_incorrect": {
+    "A": "The numeric value is correct but the interpretation is reversed: a Mentzer index below 13 suggests thalassemia trait, not iron deficiency.",
+    "B": "The arithmetic is incorrect; 68 divided by 5.9 is approximately 11.5, not 14.5.",
+    "C": "Megaloblastic anemia has MCV greater than 100 fL, not 68 fL, and the Mentzer index is used only in the microcytic anemia differential.",
+    "D": "The RPI assesses marrow response rather than the microcytic differential, and thalassemia trait typically mounts an appropriate erythroid response."
+  },
+  "educationalObjective": "Mentzer index equals MCV divided by RBC count; a value below 13 suggests thalassemia trait, and above 13 suggests iron deficiency anemia.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Reticulocyte production index and Mentzer index"
+},
+{
+  "id": "onc-104",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Reticulocyte production index and Mentzer index",
+  "difficulty": "easy",
+  "vignette": "An anemic patient has a hematocrit of 30% (normal 45%), a reticulocyte count of 1.0%, and a maturation-time correction factor of 1.0. The reticulocyte production index is calculated as part of the anemia workup.",
+  "question": "What does this patient's reticulocyte production index indicate?",
+  "options": [
+    {
+      "id": "A",
+      "text": "An inadequate bone marrow response to the anemia"
+    },
+    {
+      "id": "B",
+      "text": "An appropriate compensatory increase in red cell production"
+    },
+    {
+      "id": "C",
+      "text": "Increased peripheral destruction of red blood cells"
+    },
+    {
+      "id": "D",
+      "text": "A normal reticulocyte count for a healthy adult"
+    },
+    {
+      "id": "E",
+      "text": "Iron overload with increased storage iron"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "The RPI is 1.0% multiplied by (30/45) divided by 1.0, which equals approximately 0.67. A value below 2 indicates that the bone marrow is not mounting an adequate response to correct the anemia, as occurs with iron deficiency, anemia of chronic disease, aplastic anemia, or chronic kidney disease. In contrast, hemolysis and acute blood loss typically produce an RPI greater than 3 because the marrow is functioning and responding to the anemia. The low RPI here correctly identifies a hypoproliferative process.",
+  "explanation_incorrect": {
+    "B": "Appropriate compensation requires an RPI greater than 3; a value of 0.67 is far below that threshold.",
+    "C": "Peripheral hemolysis would raise the reticulocyte count and the RPI rather than lower them.",
+    "D": "Although a 1% reticulocyte count can be seen in a healthy person, in an anemic patient the RPI is far below the compensatory range and is not adequate.",
+    "E": "Iron overload is assessed with ferritin and transferrin saturation, not with the RPI."
+  },
+  "educationalObjective": "An RPI below 2 signals an inadequate marrow response to anemia, while an RPI above 3 signals appropriate compensation.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Reticulocyte production index and Mentzer index"
+},
+{
+  "id": "onc-105",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Reticulocyte production index and Mentzer index",
+  "difficulty": "medium",
+  "vignette": "A 29-year-old woman with heavy menstrual bleeding has hemoglobin 9.4 g/dL, MCV 74 fL, and RBC count 3.6 million per microliter. Ferritin is 5 ng/mL and TIBC is elevated. Her clinician calculates the Mentzer index to help distinguish iron deficiency from thalassemia trait.",
+  "question": "Which of the following Mentzer index values and interpretations fits this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Mentzer index 20.6; consistent with thalassemia trait"
+    },
+    {
+      "id": "B",
+      "text": "Mentzer index 10.5; consistent with iron deficiency anemia"
+    },
+    {
+      "id": "C",
+      "text": "Mentzer index 20.6; consistent with iron deficiency anemia"
+    },
+    {
+      "id": "D",
+      "text": "Mentzer index 20.6; consistent with anemia of chronic disease"
+    },
+    {
+      "id": "E",
+      "text": "Mentzer index 10.5; consistent with thalassemia trait"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "The Mentzer index is MCV divided by the RBC count, so 74 divided by 3.6 is approximately 20.6. A value greater than 13 suggests iron deficiency anemia, whereas a value below 13 suggests thalassemia trait. The markedly low ferritin, elevated TIBC, low RBC count relative to the degree of anemia, and history of heavy menstrual bleeding all support iron deficiency. In iron deficiency, the marrow cannot supply enough iron for hemoglobin, so the RBC count falls more than in thalassemia trait.",
+  "explanation_incorrect": {
+    "A": "The calculated value is correct, but a Mentzer index above 13 favors iron deficiency rather than thalassemia trait.",
+    "B": "The arithmetic is wrong; 74 divided by 3.6 is approximately 20.6, not 10.5.",
+    "D": "Anemia of chronic disease typically has normal or elevated ferritin and a low or normal TIBC, not a ferritin of 5 ng/mL with elevated TIBC.",
+    "E": "Both the value and the interpretation are incorrect; the index here is above 13 and points to iron deficiency, not thalassemia trait."
+  },
+  "educationalObjective": "A Mentzer index above 13 with a low ferritin supports iron deficiency anemia over thalassemia trait.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Reticulocyte production index and Mentzer index"
+}
+]

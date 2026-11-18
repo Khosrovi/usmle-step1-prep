@@ -1,0 +1,289 @@
+[
+{
+  "id": "onc-379",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Antimetabolites",
+  "difficulty": "medium",
+  "vignette": "A 34-year-old woman with steroid-refractory lupus nephritis is started on azathioprine. Her physician explains that the drug is a prodrug converted to a thiol metabolite, which is then activated by an enzyme of the purine salvage pathway to ultimately suppress de novo purine synthesis and lymphocyte proliferation.",
+  "question": "Which enzyme activates the active metabolite of azathioprine, allowing it to inhibit de novo purine synthesis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Thymidylate synthase"
+    },
+    {
+      "id": "B",
+      "text": "Hypoxanthine-guanine phosphoribosyltransferase (HGPRT)"
+    },
+    {
+      "id": "C",
+      "text": "Dihydrofolate reductase"
+    },
+    {
+      "id": "D",
+      "text": "Xanthine oxidase"
+    },
+    {
+      "id": "E",
+      "text": "Ribonucleotide reductase"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Azathioprine is converted to 6-mercaptopurine, a purine (thiol) analog. HGPRT converts 6-MP to its active nucleotide form (thioinosinate), which inhibits de novo purine synthesis and suppresses lymphocyte proliferation. This underlies its use in rheumatoid arthritis, IBD, SLE, ALL, and prevention of organ rejection. Because the active metabolite is a purine analog, it is S-phase specific like the other antimetabolites (except cladribine).",
+  "explanation_incorrect": {
+    "A": "Thymidylate synthase is inhibited by 5-fluorouracil via 5-FdUMP, not by thiopurines.",
+    "C": "Dihydrofolate reductase is the target of methotrexate, a folate analog, not of azathioprine.",
+    "D": "Xanthine oxidase inactivates 6-MP; allopurinol or febuxostat inhibition of this enzyme increases 6-MP toxicity. It does not activate the drug.",
+    "E": "Ribonucleotide reductase is inhibited by hydroxyurea, not by thiopurines."
+  },
+  "educationalObjective": "Azathioprine is converted to 6-mercaptopurine and activated by HGPRT to inhibit de novo purine synthesis.",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Antimetabolites"
+},
+{
+  "id": "onc-380",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Antimetabolites",
+  "difficulty": "easy",
+  "vignette": "A 19-year-old with acute lymphoblastic leukemia is maintained on 6-mercaptopurine. Because of hyperuricemia, allopurinol is added. Shortly afterward he develops severe myelosuppression and GI toxicity. His clinician recognizes that allopurinol inhibits an enzyme that normally inactivates 6-MP.",
+  "question": "Inhibition of which enzyme by allopurinol most likely explains the increased 6-mercaptopurine toxicity in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Thiopurine S-methyltransferase"
+    },
+    {
+      "id": "B",
+      "text": "HGPRT"
+    },
+    {
+      "id": "C",
+      "text": "Dihydrofolate reductase"
+    },
+    {
+      "id": "D",
+      "text": "Xanthine oxidase"
+    },
+    {
+      "id": "E",
+      "text": "Aldehyde dehydrogenase"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "6-Mercaptopurine is inactivated by two pathways: thiopurine S-methyltransferase (TPMT) and xanthine oxidase. Allopurinol (and febuxostat) inhibit xanthine oxidase, shunting 6-MP toward its active metabolites and markedly increasing toxicity, including myelosuppression and GI/liver toxicity. TPMT is a separate inactivating enzyme subject to genetic polymorphism; its deficiency also raises toxicity but is not affected by allopurinol. Dose reduction of 6-MP is required when a xanthine oxidase inhibitor is used.",
+  "explanation_incorrect": {
+    "A": "TPMT inactivates 6-MP and has important genetic polymorphisms, but allopurinol does not inhibit TPMT.",
+    "B": "HGPRT activates, rather than inactivates, 6-MP; allopurinol does not act through this enzyme.",
+    "C": "Dihydrofolate reductase is inhibited by methotrexate and is unrelated to 6-MP metabolism.",
+    "E": "Aldehyde dehydrogenase is not involved in 6-MP inactivation or in allopurinol's effect."
+  },
+  "educationalObjective": "Allopurinol and febuxostat increase 6-MP toxicity by inhibiting xanthine oxidase, which normally inactivates the drug.",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Antimetabolites"
+},
+{
+  "id": "onc-381",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Antimetabolites",
+  "difficulty": "medium",
+  "vignette": "A 55-year-old man presents with fatigue, splenomegaly, and pancytopenia. Bone marrow biopsy shows hairy cells, and he is treated with cladribine with excellent response. Unlike other antimetabolites, this drug is active against both dividing and nondividing cells.",
+  "question": "Which property of cladribine best explains its activity in hairy cell leukemia and its cell-cycle nonspecificity?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It is a purine nucleoside analog that cannot be processed by adenosine deaminase, interfering with DNA synthesis"
+    },
+    {
+      "id": "B",
+      "text": "It is a pyrimidine analog that causes DNA chain termination"
+    },
+    {
+      "id": "C",
+      "text": "It competitively inhibits dihydrofolate reductase"
+    },
+    {
+      "id": "D",
+      "text": "It inhibits thymidylate synthase after conversion to 5-FdUMP"
+    },
+    {
+      "id": "E",
+      "text": "It hyperstabilizes polymerized microtubules"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Cladribine and pentostatin are purine nucleoside analogs that are resistant to adenosine deaminase (ADA), so they accumulate within cells and interfere with DNA synthesis. They are the classic treatment for hairy cell leukemia. Notably, cladribine is the one antimetabolite that is cell cycle nonspecific; all other antimetabolites are S-phase specific. This is a favorite exception to test.",
+  "explanation_incorrect": {
+    "B": "A pyrimidine analog causing DNA chain termination describes cytarabine, not cladribine.",
+    "C": "Competitive dihydrofolate reductase inhibition describes methotrexate.",
+    "D": "Thymidylate synthase inhibition via 5-FdUMP describes 5-fluorouracil.",
+    "E": "Microtubule hyperstabilization describes the taxanes, which are M-phase specific."
+  },
+  "educationalObjective": "Cladribine is an ADA-resistant purine nucleoside analog for hairy cell leukemia and is the cell-cycle nonspecific exception among antimetabolites.",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Antimetabolites"
+},
+{
+  "id": "onc-382",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Antimetabolites",
+  "difficulty": "easy",
+  "vignette": "A 62-year-old is diagnosed with acute myeloid leukemia and started on induction chemotherapy with cytarabine. The drug is a pyrimidine nucleoside analog that is incorporated into DNA and blocks further elongation, and myelosuppression is its dose-limiting toxicity.",
+  "question": "Cytarabine exerts its anticancer effect mainly through which of the following mechanisms?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Competitive inhibition of dihydrofolate reductase"
+    },
+    {
+      "id": "B",
+      "text": "Inhibition of ribonucleotide reductase"
+    },
+    {
+      "id": "C",
+      "text": "Pyrimidine nucleoside analog causing DNA chain termination and inhibiting DNA polymerase"
+    },
+    {
+      "id": "D",
+      "text": "Hyperstabilization of microtubules"
+    },
+    {
+      "id": "E",
+      "text": "Cross-linking of DNA"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Cytarabine (arabinofuranosyl cytidine) is a pyrimidine nucleoside analog. Once converted to its triphosphate form it is incorporated into DNA and causes chain termination, and it inhibits DNA polymerase. It is a mainstay for AML and lymphomas and, like other antimetabolites (except cladribine), is S-phase specific. Myelosuppression is its dose-limiting toxicity.",
+  "explanation_incorrect": {
+    "A": "Dihydrofolate reductase inhibition is the mechanism of methotrexate.",
+    "B": "Ribonucleotide reductase inhibition is the mechanism of hydroxyurea.",
+    "D": "Microtubule hyperstabilization is the taxane mechanism and occurs in M phase.",
+    "E": "DNA cross-linking is the mechanism of alkylating agents and platinum compounds."
+  },
+  "educationalObjective": "Cytarabine is a pyrimidine analog causing DNA chain termination and inhibition of DNA polymerase, used mainly for AML and lymphomas.",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Antimetabolites"
+},
+{
+  "id": "onc-383",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Antimetabolites",
+  "difficulty": "medium",
+  "vignette": "A 58-year-old with colon cancer receives 5-fluorouracil together with leucovorin. After several cycles he develops a painful desquamating rash on his palms and soles. His oncologist notes that leucovorin was added to enhance the drug's cytotoxic effect.",
+  "question": "Which molecular event best describes the mechanism of 5-fluorouracil, and which toxicity did this patient most likely develop?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Dihydrofolate reductase inhibition; hand-foot syndrome"
+    },
+    {
+      "id": "B",
+      "text": "Thymidylate synthase activation; pulmonary fibrosis"
+    },
+    {
+      "id": "C",
+      "text": "DNA chain termination; ototoxicity"
+    },
+    {
+      "id": "D",
+      "text": "Ribonucleotide reductase inhibition; hemorrhagic cystitis"
+    },
+    {
+      "id": "E",
+      "text": "Conversion to 5-FdUMP inhibiting thymidylate synthase with decreased dTMP; palmar-plantar erythrodysesthesia (hand-foot syndrome)"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "5-Fluorouracil is a pyrimidine analog bioactivated to 5-FdUMP, which inhibits thymidylate synthase, decreasing dTMP and DNA synthesis. Capecitabine is an oral prodrug of 5-FU. Clinical uses include colon and pancreatic cancer and, topically, actinic keratosis and basal cell carcinoma. Leucovorin enhances the effect by stabilizing the thymidylate synthase–FdUMP complex. A characteristic toxicity is palmar-plantar erythrodysesthesia, or hand-foot syndrome.",
+  "explanation_incorrect": {
+    "A": "Dihydrofolate reductase inhibition is methotrexate's mechanism; hand-foot syndrome is not produced through DHFR inhibition.",
+    "B": "5-FU inhibits, not activates, thymidylate synthase; pulmonary fibrosis is associated with bleomycin, busulfan, and methotrexate.",
+    "C": "DNA chain termination is cytarabine; ototoxicity is a platinum-compound toxicity.",
+    "D": "Ribonucleotide reductase inhibition is hydroxyurea; hemorrhagic cystitis is caused by cyclophosphamide and ifosfamide."
+  },
+  "educationalObjective": "5-FU is converted to 5-FdUMP to inhibit thymidylate synthase; capecitabine is its prodrug and hand-foot syndrome is a signature toxicity.",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Antimetabolites"
+},
+{
+  "id": "onc-384",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Antimetabolites",
+  "difficulty": "hard",
+  "vignette": "A 40-year-old with polycythemia vera is treated with hydroxyurea. A second patient with sickle cell disease receives the same drug to reduce crisis frequency. Laboratory monitoring shows an increase in fetal hemoglobin in the second patient and occasional megaloblastic changes in both.",
+  "question": "Hydroxyurea's effects in these patients are best explained by inhibition of which enzyme, and what is its dose-limiting toxicity?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Dihydrofolate reductase; hepatotoxicity"
+    },
+    {
+      "id": "B",
+      "text": "Thymidylate synthase; peripheral neuropathy"
+    },
+    {
+      "id": "C",
+      "text": "Ribonucleotide reductase; severe myelosuppression"
+    },
+    {
+      "id": "D",
+      "text": "DNA polymerase; nephrotoxicity"
+    },
+    {
+      "id": "E",
+      "text": "Topoisomerase II; alopecia"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Hydroxyurea inhibits ribonucleotide reductase, depleting deoxyribonucleotides and decreasing DNA synthesis. It is used for myeloproliferative disorders such as CML and polycythemia vera, and in sickle cell disease it increases HbF, which reduces sickling. Its major toxicity is severe myelosuppression, and it can produce megaloblastic anemia. This is a classic mechanism-and-toxicity pairing.",
+  "explanation_incorrect": {
+    "A": "Dihydrofolate reductase is methotrexate's target; methotrexate, not hydroxyurea, is strongly hepatotoxic.",
+    "B": "Thymidylate synthase is 5-FU's target; peripheral neuropathy is caused by vinca alkaloids and taxanes.",
+    "D": "DNA polymerase is inhibited by cytarabine; nephrotoxicity is caused by platinum compounds.",
+    "E": "Topoisomerase II is inhibited by etoposide; alopecia is common with etoposide, not hydroxyurea."
+  },
+  "educationalObjective": "Hydroxyurea inhibits ribonucleotide reductase, is used in MPNs and sickle cell disease (increased HbF), and causes severe myelosuppression.",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Antimetabolites"
+},
+{
+  "id": "onc-385",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Antimetabolites",
+  "difficulty": "medium",
+  "vignette": "A 28-year-old woman with an ectopic pregnancy is treated with methotrexate. She is also being considered for methotrexate to manage severe rheumatoid arthritis. Her physician reviews the drug's antifolate mechanism and the availability of a rescue agent to limit toxicity.",
+  "question": "Methotrexate decreases dTMP synthesis primarily by which mechanism, and which agent can rescue its myelosuppression?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Irreversible thymidylate synthase inhibition; mesna"
+    },
+    {
+      "id": "B",
+      "text": "Competitive inhibition of dihydrofolate reductase; leucovorin"
+    },
+    {
+      "id": "C",
+      "text": "Ribonucleotide reductase inhibition; amifostine"
+    },
+    {
+      "id": "D",
+      "text": "DNA chain termination; dexrazoxane"
+    },
+    {
+      "id": "E",
+      "text": "Purine synthesis activation; N-acetylcysteine"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Methotrexate is a folic acid analog that competitively inhibits dihydrofolate reductase, preventing regeneration of tetrahydrofolate and thereby decreasing dTMP and DNA synthesis. It is used for ALL, lymphomas, choriocarcinoma, sarcomas, and nonneoplastic conditions (ectopic pregnancy, medical abortion with misoprostol, rheumatoid arthritis, psoriasis, IBD, vasculitis). Its myelosuppression and mucositis are reversible with leucovorin (folinic acid) rescue. Other toxicities include hepatotoxicity, pulmonary fibrosis, nephrotoxicity, and folate deficiency with teratogenicity.",
+  "explanation_incorrect": {
+    "A": "Thymidylate synthase is inhibited by 5-FU; mesna prevents cyclophosphamide-induced hemorrhagic cystitis.",
+    "C": "Ribonucleotide reductase is hydroxyurea's target; amifostine prevents platinum nephrotoxicity.",
+    "D": "DNA chain termination is cytarabine's mechanism; dexrazoxane prevents anthracycline cardiotoxicity.",
+    "E": "Methotrexate suppresses, rather than activates, nucleotide synthesis; N-acetylcysteine is used for acetaminophen toxicity, not methotrexate rescue."
+  },
+  "educationalObjective": "Methotrexate competitively inhibits dihydrofolate reductase to decrease dTMP, and leucovorin rescue reverses its myelosuppression.",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Antimetabolites"
+}
+]

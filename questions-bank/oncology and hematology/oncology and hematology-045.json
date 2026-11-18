@@ -1,0 +1,207 @@
+[
+{
+  "id": "onc-253",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Hodgkin lymphoma",
+  "difficulty": "easy",
+  "vignette": "A 24-year-old man has a painless cervical lymph node. Biopsy shows large bilobed tumor giant cells whose two nuclei are mirror images of each other, giving an owl-eye appearance, set in an inflammatory background. The findings confirm Hodgkin lymphoma.",
+  "question": "What is the expected immunophenotype of these neoplastic cells?",
+  "options": [
+    {
+      "id": "A",
+      "text": "CD3+ and CD4+, with a T-cell origin."
+    },
+    {
+      "id": "B",
+      "text": "CD20+ and CD10+, with a germinal center B-cell origin."
+    },
+    {
+      "id": "C",
+      "text": "CD15+ and CD30+, with a B-cell origin."
+    },
+    {
+      "id": "D",
+      "text": "CD138+ and CD38+, with a plasma cell origin."
+    },
+    {
+      "id": "E",
+      "text": "CD34+ and TdT+, with an immature blast origin."
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Reed-Sternberg cells are the distinctive tumor giant cells of Hodgkin lymphoma, with bilobed nuclei whose halves are mirror images, the classic owl-eye morphology. They express CD15 and CD30 and are of B-cell origin despite the paucity of mature B-cell markers. A useful mnemonic is two owl eyes times 15 equals 30. This immunophenotype is central to confirming the diagnosis.",
+  "explanation_incorrect": {
+    "A": "CD3 and CD4 are T-cell markers; Reed-Sternberg cells are not T cells even though rare T-cell lineage cases exist.",
+    "B": "CD20 and CD10 mark germinal center B cells; Reed-Sternberg cells typically lack strong CD20 and are defined by CD15 and CD30.",
+    "D": "CD138 and CD38 are plasma cell markers, associated with plasma cell dyscrasias rather than Hodgkin lymphoma.",
+    "E": "CD34 and TdT mark immature blasts as in acute lymphoblastic leukemia, not the mature giant cells of Hodgkin lymphoma."
+  },
+  "educationalObjective": "Reed-Sternberg cells are CD15+/CD30+ tumor giant cells of B-cell origin with classic owl-eye bilobed nuclei.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Hodgkin lymphoma"
+},
+{
+  "id": "onc-254",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Hodgkin lymphoma",
+  "difficulty": "easy",
+  "vignette": "A 27-year-old woman is diagnosed with Hodgkin lymphoma. Biopsy shows bands of collagen fibrosis dividing the node into nodules, with lacunar variants of Reed-Sternberg cells. She has no known immunodeficiency and has localized mediastinal and cervical disease.",
+  "question": "Which subtype of Hodgkin lymphoma is most likely?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Nodular sclerosis."
+    },
+    {
+      "id": "B",
+      "text": "Mixed cellularity."
+    },
+    {
+      "id": "C",
+      "text": "Lymphocyte-rich."
+    },
+    {
+      "id": "D",
+      "text": "Lymphocyte-depleted."
+    },
+    {
+      "id": "E",
+      "text": "Nodular lymphocyte-predominant."
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Nodular sclerosis is the most common subtype of Hodgkin lymphoma. It is characterized by collagen bands that subdivide the lymph node into nodules and by lacunar Reed-Sternberg cells, and it commonly affects young adults with mediastinal or cervical disease. The described histology fits this subtype directly.",
+  "explanation_incorrect": {
+    "B": "Mixed cellularity is associated with prominent eosinophilia and immunocompromised patients rather than collagen-banded nodules.",
+    "C": "Lymphocyte-rich Hodgkin lymphoma has abundant lymphocytes with only scattered Reed-Sternberg cells and the best prognosis, not the fibrotic nodular pattern.",
+    "D": "Lymphocyte-depleted Hodgkin lymphoma has few lymphocytes, many Reed-Sternberg cells, and the worst prognosis, typically in immunocompromised patients.",
+    "E": "Nodular lymphocyte-predominant Hodgkin lymphoma is a rare, indolent form with lymphocyte-predominant nodules and is not the most common subtype."
+  },
+  "educationalObjective": "Nodular sclerosis is the most common subtype of Hodgkin lymphoma, characterized by collagen bands and lacunar Reed-Sternberg cells.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Hodgkin lymphoma"
+},
+{
+  "id": "onc-255",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Hodgkin lymphoma",
+  "difficulty": "medium",
+  "vignette": "A 55-year-old man with a history of HIV infection presents with lymphadenopathy, fever, and weight loss. Biopsy of a lymph node shows Reed-Sternberg cells in a background with marked eosinophilia. Staging reveals widespread disease.",
+  "question": "Which subtype of Hodgkin lymphoma is most consistent with these findings?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Nodular sclerosis, the most common subtype, with collagen bands and lacunar cells."
+    },
+    {
+      "id": "B",
+      "text": "Lymphocyte-rich disease, with the best prognosis and only scattered Reed-Sternberg cells."
+    },
+    {
+      "id": "C",
+      "text": "Lymphocyte-depleted disease, with a paucity of lymphocytes and numerous Reed-Sternberg cells."
+    },
+    {
+      "id": "D",
+      "text": "Nodular lymphocyte-predominant disease, a rare indolent form with lymphocyte-rich nodules."
+    },
+    {
+      "id": "E",
+      "text": "Mixed cellularity, which is associated with eosinophilia and seen in immunocompromised patients."
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Mixed cellularity Hodgkin lymphoma is the subtype associated with prominent eosinophilia and is seen in immunocompromised patients, such as those with HIV infection. This patient's combination of immunodeficiency, eosinophil-rich infiltrate, and Reed-Sternberg cells fits mixed cellularity. It tends to present with more widespread disease and B symptoms.",
+  "explanation_incorrect": {
+    "A": "Nodular sclerosis is defined by collagen bands and lacunar cells and is not specifically linked to eosinophilia or HIV-associated disease.",
+    "B": "Lymphocyte-rich Hodgkin lymphoma has the best prognosis and few Reed-Sternberg cells; it is not characterized by eosinophilia or immunocompromise.",
+    "C": "Although lymphocyte-depleted disease also occurs in immunocompromised patients, it is defined by lymphocyte depletion and numerous Reed-Sternberg cells rather than eosinophilia.",
+    "D": "Nodular lymphocyte-predominant Hodgkin lymphoma is rare and indolent and does not match the eosinophil-rich, immunocompromised presentation."
+  },
+  "educationalObjective": "Mixed cellularity Hodgkin lymphoma is associated with eosinophilia and occurs in immunocompromised patients.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Hodgkin lymphoma"
+},
+{
+  "id": "onc-256",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Hodgkin lymphoma",
+  "difficulty": "medium",
+  "vignette": "A pathology report compares two cases of Hodgkin lymphoma. Case 1 shows a lymph node enriched in lymphocytes with only scattered Reed-Sternberg cells. Case 2 shows a depleted lymph node with numerous Reed-Sternberg cells and little remaining lymphoid tissue.",
+  "question": "Which pairing of subtype and prognosis is correct?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Case 1 is nodular sclerosis (best prognosis); Case 2 is mixed cellularity (worst prognosis)."
+    },
+    {
+      "id": "B",
+      "text": "Case 1 is lymphocyte-rich (best prognosis); Case 2 is lymphocyte-depleted (worst prognosis)."
+    },
+    {
+      "id": "C",
+      "text": "Case 1 is lymphocyte-depleted (worst prognosis); Case 2 is lymphocyte-rich (best prognosis)."
+    },
+    {
+      "id": "D",
+      "text": "Case 1 is mixed cellularity (worst prognosis); Case 2 is nodular sclerosis (best prognosis)."
+    },
+    {
+      "id": "E",
+      "text": "Both cases are nodular sclerosis, which has an intermediate prognosis."
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Lymphocyte-rich Hodgkin lymphoma has the best prognosis, with abundant lymphocytes and only scattered Reed-Sternberg cells, matching Case 1. Lymphocyte-depleted Hodgkin lymphoma has the worst prognosis, with few lymphocytes and numerous Reed-Sternberg cells, matching Case 2. The mnemonic is that the rich have better bank accounts and the poor have worse bank accounts.",
+  "explanation_incorrect": {
+    "A": "Nodular sclerosis has an intermediate-to-good prognosis and mixed cellularity does not carry the worst prognosis; the histology also does not fit.",
+    "C": "This reverses the two cases: the lymphocyte-rich node has the best, not the worst, prognosis and the depleted node the worst.",
+    "D": "Mixed cellularity is not the worst-prognosis subtype and nodular sclerosis is not the best; the described cellularity does not match either case.",
+    "E": "The two cases have distinctly different histologies and prognoses, so they cannot both be nodular sclerosis."
+  },
+  "educationalObjective": "Lymphocyte-rich Hodgkin lymphoma has the best prognosis, whereas lymphocyte-depleted disease has the worst.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Hodgkin lymphoma"
+},
+{
+  "id": "onc-257",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Hodgkin lymphoma",
+  "difficulty": "hard",
+  "vignette": "An epidemiologic review of Hodgkin lymphoma notes two distinct peaks in incidence: one in young adulthood and a second after age 55. Cases in young adults frequently show Epstein-Barr virus within Reed-Sternberg cells. The researchers propose an explanation for these observations.",
+  "question": "Which of the following best explains the epidemiologic pattern described?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Hodgkin lymphoma has a unimodal distribution confined to childhood and is linked to HTLV-1 infection."
+    },
+    {
+      "id": "B",
+      "text": "The disease occurs almost exclusively after age 70 and is caused by chronic Helicobacter pylori infection."
+    },
+    {
+      "id": "C",
+      "text": "The two peaks reflect two entirely separate diseases, one of which is actually non-Hodgkin lymphoma."
+    },
+    {
+      "id": "D",
+      "text": "Hodgkin lymphoma has a bimodal age distribution with peaks in young adults and after age 55, and it is associated with EBV."
+    },
+    {
+      "id": "E",
+      "text": "The second peak after age 55 is entirely attributable to improved screening, with no true rise in incidence."
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Hodgkin lymphoma shows a characteristic bimodal age distribution, with one peak in young adults and a second peak in patients older than 55 years. It is associated with Epstein-Barr virus, and EBV-positive Reed-Sternberg cells are frequently found, especially in younger patients. These two features together account for the observed epidemiology. This contrasts with non-Hodgkin lymphoma, which can occur at any age and is linked to other viral and autoimmune conditions.",
+  "explanation_incorrect": {
+    "A": "The distribution is bimodal rather than unimodal or confined to childhood, and HTLV-1 causes adult T-cell lymphoma, not Hodgkin lymphoma.",
+    "B": "Hodgkin lymphoma is not confined to patients older than 70, and H pylori is linked to marginal zone MALT lymphoma.",
+    "C": "Both peaks represent Hodgkin lymphoma; they do not correspond to two different diseases or to non-Hodgkin lymphoma.",
+    "E": "The older-age peak reflects a genuine increase in disease incidence, not merely ascertainment bias from screening."
+  },
+  "educationalObjective": "Hodgkin lymphoma shows a bimodal age distribution with peaks in young adults and after age 55 and is associated with EBV infection.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Hodgkin lymphoma"
+}
+]

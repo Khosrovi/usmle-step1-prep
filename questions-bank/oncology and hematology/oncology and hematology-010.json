@@ -1,0 +1,289 @@
+[
+{
+  "id": "onc-415",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Anticancer small molecule inhibitors",
+  "difficulty": "easy",
+  "vignette": "A 52-year-old never-smoker with non-small cell lung cancer is found to have an ALK rearrangement. He is started on a small-molecule ALK inhibitor and develops peripheral edema, a rash, and diarrhea.",
+  "question": "Which of the following drugs is most likely being used?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Crizotinib"
+    },
+    {
+      "id": "B",
+      "text": "Erlotinib"
+    },
+    {
+      "id": "C",
+      "text": "Imatinib"
+    },
+    {
+      "id": "D",
+      "text": "Olaparib"
+    },
+    {
+      "id": "E",
+      "text": "Palbociclib"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Alectinib and crizotinib are small-molecule ALK inhibitors used for ALK-positive non-small cell lung cancer. Their adverse effects include edema, rash, and diarrhea. They are oral small molecules that inhibit the intracellular ALK tyrosine kinase, in contrast to extracellular monoclonal antibodies.",
+  "explanation_incorrect": {
+    "B": "Erlotinib targets EGFR in NSCLC and causes rash and diarrhea, but edema is not its signature effect and it is not an ALK inhibitor.",
+    "C": "Imatinib targets BCR-ABL and c-KIT (CML, GIST) and causes myelosuppression, elevated LFTs, edema, and myalgias.",
+    "D": "Olaparib inhibits PARP, reducing DNA repair, and is used in breast, ovarian, pancreatic, and prostate cancers.",
+    "E": "Palbociclib inhibits CDK4/6 in breast cancer and causes myelosuppression and pneumonitis."
+  },
+  "educationalObjective": "ALK inhibitors (alectinib, crizotinib) treat ALK-positive NSCLC and cause edema, rash, and diarrhea.",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Anticancer small molecule inhibitors"
+},
+{
+  "id": "onc-416",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Anticancer small molecule inhibitors",
+  "difficulty": "easy",
+  "vignette": "A 60-year-old woman with non-small cell lung cancer harboring an EGFR mutation is treated with an oral EGFR inhibitor. She develops an acneiform rash and diarrhea during therapy.",
+  "question": "Which of the following is the most likely drug used?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Crizotinib"
+    },
+    {
+      "id": "B",
+      "text": "Imatinib"
+    },
+    {
+      "id": "C",
+      "text": "Ruxolitinib"
+    },
+    {
+      "id": "D",
+      "text": "Erlotinib"
+    },
+    {
+      "id": "E",
+      "text": "Vemurafenib"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Erlotinib, gefitinib, and afatinib are small-molecule EGFR inhibitors used for EGFR-mutant non-small cell lung cancer. Their characteristic toxicities are rash and diarrhea. Unlike the antibody cetuximab, these agents are small molecules that inhibit the intracellular EGFR tyrosine kinase domain.",
+  "explanation_incorrect": {
+    "A": "Crizotinib is an ALK inhibitor causing edema, rash, and diarrhea, not an EGFR inhibitor.",
+    "B": "Imatinib targets BCR-ABL/c-KIT and causes myelosuppression and elevated LFTs.",
+    "C": "Ruxolitinib inhibits JAK1/2 in polycythemia vera and causes bruises and elevated LFTs.",
+    "E": "Vemurafenib is a BRAF inhibitor for melanoma causing rash, fatigue, nausea, and diarrhea."
+  },
+  "educationalObjective": "EGFR inhibitors (erlotinib, gefitinib, afatinib) treat EGFR-mutant NSCLC and cause rash and diarrhea.",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Anticancer small molecule inhibitors"
+},
+{
+  "id": "onc-417",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Anticancer small molecule inhibitors",
+  "difficulty": "medium",
+  "vignette": "A 40-year-old man with chronic myeloid leukemia is treated with a tyrosine kinase inhibitor against BCR-ABL. He develops myelosuppression, elevated liver enzymes, edema, and muscle aches. The same drug is also active against c-KIT and is used for gastrointestinal stromal tumors (GISTs).",
+  "question": "Which of the following drugs is most likely?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Ruxolitinib"
+    },
+    {
+      "id": "B",
+      "text": "Palbociclib"
+    },
+    {
+      "id": "C",
+      "text": "Bortezomib"
+    },
+    {
+      "id": "D",
+      "text": "Olaparib"
+    },
+    {
+      "id": "E",
+      "text": "Imatinib"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Imatinib, dasatinib, and nilotinib inhibit the BCR-ABL fusion tyrosine kinase as well as other kinases such as c-KIT, making them mainstays for CML, ALL, and GISTs. Their toxicities include myelosuppression, elevated LFTs, edema, and myalgias. Imatinib's activity against c-KIT specifically underlies its use in GIST.",
+  "explanation_incorrect": {
+    "A": "Ruxolitinib targets JAK1/2 in polycythemia vera; its toxicities are bruises and elevated LFTs.",
+    "B": "Palbociclib inhibits CDK4/6 in breast cancer; its toxicities are myelosuppression and pneumonitis.",
+    "C": "Bortezomib is a proteasome inhibitor for myeloma and mantle cell lymphoma; it causes peripheral neuropathy and herpes zoster reactivation.",
+    "D": "Olaparib inhibits PARP in breast/ovarian/pancreatic/prostate cancer; it causes myelosuppression, edema, and diarrhea."
+  },
+  "educationalObjective": "BCR-ABL/c-KIT inhibitors (imatinib, dasatinib, nilotinib) treat CML, ALL, and GISTs and cause myelosuppression, elevated LFTs, edema, and myalgias.",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Anticancer small molecule inhibitors"
+},
+{
+  "id": "onc-418",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Anticancer small molecule inhibitors",
+  "difficulty": "medium",
+  "vignette": "A 62-year-old man with polycythemia vera is started on a JAK1/2 inhibitor to control his elevated hematocrit. On follow-up he notes easy bruising and has elevated liver enzymes.",
+  "question": "Which of the following drugs is most likely?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Imatinib"
+    },
+    {
+      "id": "B",
+      "text": "Ruxolitinib"
+    },
+    {
+      "id": "C",
+      "text": "Erlotinib"
+    },
+    {
+      "id": "D",
+      "text": "Vemurafenib"
+    },
+    {
+      "id": "E",
+      "text": "Alectinib"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Ruxolitinib inhibits JAK1/2 and is used in polycythemia vera. Its adverse effects include bruising and elevated LFTs. JAK inhibition reduces signaling downstream of cytokine receptors such as the erythropoietin receptor, helping control the excessive erythrocyte production in polycythemia vera.",
+  "explanation_incorrect": {
+    "A": "Imatinib targets BCR-ABL/c-KIT and is used for CML, ALL, and GISTs.",
+    "C": "Erlotinib is an EGFR inhibitor used for non-small cell lung cancer.",
+    "D": "Vemurafenib is a BRAF inhibitor used for melanoma.",
+    "E": "Alectinib is an ALK inhibitor used for non-small cell lung cancer."
+  },
+  "educationalObjective": "Ruxolitinib (JAK1/2 inhibitor) treats polycythemia vera and causes bruising and elevated LFTs.",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Anticancer small molecule inhibitors"
+},
+{
+  "id": "onc-419",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Anticancer small molecule inhibitors",
+  "difficulty": "hard",
+  "vignette": "A 58-year-old woman with multiple myeloma is treated with a proteasome inhibitor. She develops a painful peripheral neuropathy and has reactivation of herpes zoster. Her oncologist explains that the drug causes accumulation of abnormal proteins, G2-M arrest, and apoptosis, and also reduces T-cell activation.",
+  "question": "Which of the following drugs is most likely?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Olaparib"
+    },
+    {
+      "id": "B",
+      "text": "Palbociclib"
+    },
+    {
+      "id": "C",
+      "text": "Bortezomib"
+    },
+    {
+      "id": "D",
+      "text": "Imatinib"
+    },
+    {
+      "id": "E",
+      "text": "Vemurafenib"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Bortezomib, ixazomib, and carfilzomib inhibit the proteasome, causing accumulation of abnormal proteins, arrest at G2-M phase, and apoptosis. They are used for multiple myeloma and mantle cell lymphoma. Their toxicities include peripheral neuropathy and herpes zoster reactivation, the latter due to decreased T-cell activation and reduced cell-mediated immunity.",
+  "explanation_incorrect": {
+    "A": "Olaparib inhibits PARP, reducing DNA repair, and causes myelosuppression, edema, and diarrhea.",
+    "B": "Palbociclib inhibits CDK4/6, causing G1-S arrest, and is used in breast cancer.",
+    "D": "Imatinib inhibits BCR-ABL/c-KIT and is used in CML, ALL, and GISTs.",
+    "E": "Vemurafenib inhibits BRAF and is used in melanoma."
+  },
+  "educationalObjective": "Proteasome inhibitors (bortezomib, ixazomib, carfilzomib) cause G2-M arrest, treat myeloma/mantle cell lymphoma, and cause neuropathy and zoster reactivation.",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Anticancer small molecule inhibitors"
+},
+{
+  "id": "onc-420",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Anticancer small molecule inhibitors",
+  "difficulty": "hard",
+  "vignette": "A 55-year-old woman with breast cancer is started on a small-molecule inhibitor of cyclin-dependent kinases 4 and 6. The drug induces cell-cycle arrest at the G1-S checkpoint and apoptosis. She later develops myelosuppression and pneumonitis.",
+  "question": "Which of the following drugs is most likely?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Olaparib"
+    },
+    {
+      "id": "B",
+      "text": "Bortezomib"
+    },
+    {
+      "id": "C",
+      "text": "Vemurafenib"
+    },
+    {
+      "id": "D",
+      "text": "Palbociclib"
+    },
+    {
+      "id": "E",
+      "text": "Erlotinib"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Palbociclib inhibits cyclin-dependent kinase 4/6, inducing arrest at the G1-S phase and apoptosis, and is used in breast cancer. Its adverse effects include myelosuppression and pneumonitis. This contrasts with proteasome inhibitors such as bortezomib, which arrest cells at G2-M rather than G1-S.",
+  "explanation_incorrect": {
+    "A": "Olaparib inhibits PARP and reduces DNA repair; it is used in breast, ovarian, pancreatic, and prostate cancers.",
+    "B": "Bortezomib is a proteasome inhibitor that causes G2-M arrest, not G1-S arrest.",
+    "C": "Vemurafenib is a BRAF inhibitor used for melanoma.",
+    "E": "Erlotinib is an EGFR inhibitor used for non-small cell lung cancer."
+  },
+  "educationalObjective": "Palbociclib (CDK4/6 inhibitor) causes G1-S arrest in breast cancer; its toxicities are myelosuppression and pneumonitis.",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Anticancer small molecule inhibitors"
+},
+{
+  "id": "onc-421",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Anticancer small molecule inhibitors",
+  "difficulty": "medium",
+  "vignette": "A 48-year-old woman with ovarian cancer is treated with a small molecule that inhibits poly(ADP-ribose) polymerase (PARP), thereby reducing DNA repair. She develops myelosuppression, edema, and diarrhea.",
+  "question": "Which of the following drugs is most likely?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Olaparib"
+    },
+    {
+      "id": "B",
+      "text": "Palbociclib"
+    },
+    {
+      "id": "C",
+      "text": "Ruxolitinib"
+    },
+    {
+      "id": "D",
+      "text": "Alectinib"
+    },
+    {
+      "id": "E",
+      "text": "Bortezomib"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Olaparib inhibits PARP, decreasing DNA repair, and is used for breast, ovarian, pancreatic, and prostate cancers, particularly in BRCA-mutated tumors. Its adverse effects include myelosuppression, edema, and diarrhea. Loss of PARP function is synthetic lethal with BRCA deficiency, which underlies its tumor selectivity.",
+  "explanation_incorrect": {
+    "B": "Palbociclib inhibits CDK4/6, causing G1-S arrest in breast cancer.",
+    "C": "Ruxolitinib inhibits JAK1/2 in polycythemia vera.",
+    "D": "Alectinib is an ALK inhibitor used for non-small cell lung cancer.",
+    "E": "Bortezomib is a proteasome inhibitor used for myeloma and mantle cell lymphoma."
+  },
+  "educationalObjective": "Olaparib (PARP inhibitor) reduces DNA repair and treats breast/ovarian/pancreatic/prostate cancers; toxicities include myelosuppression, edema, and diarrhea.",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Anticancer small molecule inhibitors"
+}
+]

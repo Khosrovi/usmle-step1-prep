@@ -1,0 +1,166 @@
+[
+{
+  "id": "onc-065",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Physiology",
+  "subtopic": "Direct and indirect antiglobulin tests",
+  "difficulty": "medium",
+  "vignette": "A 56-year-old woman presents with fatigue and jaundice. Her hemoglobin is 8.5 g/dL, reticulocyte count is elevated, and peripheral smear shows spherocytes. The physician suspects autoimmune hemolytic anemia.",
+  "question": "Which test confirms that the patient's own red blood cells are coated with anti-RBC antibodies?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Direct antiglobulin test: patient's RBCs are mixed with anti-human globulin and agglutination is assessed"
+    },
+    {
+      "id": "B",
+      "text": "Indirect antiglobulin test: patient's serum is mixed with donor RBCs and anti-human globulin"
+    },
+    {
+      "id": "C",
+      "text": "Serum protein electrophoresis to detect a monoclonal M spike"
+    },
+    {
+      "id": "D",
+      "text": "Osmotic fragility test to measure RBC membrane stability"
+    },
+    {
+      "id": "E",
+      "text": "Hydrogen breath testing to evaluate carbohydrate malabsorption"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "The direct antiglobulin (direct Coombs) test adds anti-human globulin (Coombs reagent) to the patient's own RBCs. Agglutination means the RBCs are already coated with anti-RBC antibodies, confirming autoimmune hemolytic anemia. The indirect test instead detects free antibodies in the patient's serum using donor cells.",
+  "explanation_incorrect": {
+    "B": "The indirect Coombs test detects antibodies in serum against donor RBCs and is used for pretransfusion compatibility, not for diagnosing AIHA on patient cells.",
+    "C": "Serum protein electrophoresis evaluates monoclonal immunoglobulins in plasma cell dyscrasias, not RBC-bound antibodies.",
+    "D": "Osmotic fragility testing supports hereditary spherocytosis by showing increased hemolysis in hypotonic solution, not immune coating.",
+    "E": "Hydrogen breath testing evaluates lactose malabsorption or bacterial overgrowth and is unrelated to immune hemolysis."
+  },
+  "educationalObjective": "The direct Coombs test detects antibodies bound to the patient's RBCs and diagnoses AIHA.",
+  "source": "Generated from 10. Oncology.pdf - Physiology: Direct and indirect antiglobulin tests"
+},
+{
+  "id": "onc-066",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Physiology",
+  "subtopic": "Direct and indirect antiglobulin tests",
+  "difficulty": "medium",
+  "vignette": "A 42-year-old woman is scheduled for a blood transfusion. Before the transfusion, the laboratory tests her serum against a panel of donor red blood cells to determine whether she has circulating antibodies that would react against the donated cells.",
+  "question": "Which test is being performed?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Direct antiglobulin test, which detects complement on the patient's RBCs"
+    },
+    {
+      "id": "B",
+      "text": "Indirect antiglobulin test, which detects anti-RBC antibodies in the patient's serum"
+    },
+    {
+      "id": "C",
+      "text": "Coombs test on cord blood to diagnose hemolytic disease of the newborn"
+    },
+    {
+      "id": "D",
+      "text": "Flow cytometry for CD55 and CD59 deficiency"
+    },
+    {
+      "id": "E",
+      "text": "Ristocetin aggregation assay to evaluate von Willebrand factor"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "The indirect (not direct) antiglobulin test adds normal donor RBCs to the patient's serum. If anti-RBC antibodies are present in the serum, they coat the donor cells and agglutination occurs when Coombs reagent is added. This is used for pretransfusion compatibility testing.",
+  "explanation_incorrect": {
+    "A": "The direct test uses the patient's own RBCs and diagnoses AIHA; it is not the pretransfusion serum screen described here.",
+    "C": "Cord blood testing assesses the newborn, whereas this is a maternal/pretransfusion serum compatibility test.",
+    "D": "CD55/CD59 flow cytometry evaluates paroxysmal nocturnal hemoglobinuria, not transfusion compatibility.",
+    "E": "The ristocetin assay evaluates vWF-mediated platelet adhesion and is not used to detect anti-RBC antibodies."
+  },
+  "educationalObjective": "The indirect Coombs test screens patient serum for antibodies against donor RBCs before transfusion.",
+  "source": "Generated from 10. Oncology.pdf - Physiology: Direct and indirect antiglobulin tests"
+},
+{
+  "id": "onc-067",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Physiology",
+  "subtopic": "Direct and indirect antiglobulin tests",
+  "difficulty": "easy",
+  "vignette": "A patient with suspected autoimmune hemolytic anemia has a negative direct antiglobulin test. The clinician reviews which conditions characteristically produce a positive direct Coombs result.",
+  "question": "Which of the following is most strongly associated with a positive direct antiglobulin test?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Hereditary spherocytosis"
+    },
+    {
+      "id": "B",
+      "text": "Glucose-6-phosphate dehydrogenase deficiency"
+    },
+    {
+      "id": "C",
+      "text": "Autoimmune hemolytic anemia"
+    },
+    {
+      "id": "D",
+      "text": "Microangiopathic hemolytic anemia from a prosthetic valve"
+    },
+    {
+      "id": "E",
+      "text": "Paroxysmal nocturnal hemoglobinuria"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "The direct antiglobulin test detects antibodies bound to circulating RBCs and is used to diagnose autoimmune hemolytic anemia, which is Coombs-positive. Hereditary spherocytosis, G6PD deficiency, mechanical hemolysis, and PNH are Coombs-negative causes of hemolysis.",
+  "explanation_incorrect": {
+    "A": "Hereditary spherocytosis is a membrane skeleton defect and is Coombs-negative; osmotic fragility is increased.",
+    "B": "G6PD deficiency causes oxidative hemolysis with bite cells and Heinz bodies and is Coombs-negative.",
+    "D": "Prosthetic valve hemolysis is mechanical (macroangiopathic) and Coombs-negative with schistocytes.",
+    "E": "PNH is due to acquired PIGA mutation with complement-mediated intravascular hemolysis and is classically Coombs-negative."
+  },
+  "educationalObjective": "Autoimmune hemolytic anemia is Coombs-positive; most intrinsic and mechanical hemolysis is Coombs-negative.",
+  "source": "Generated from 10. Oncology.pdf - Physiology: Direct and indirect antiglobulin tests"
+},
+{
+  "id": "onc-068",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Physiology",
+  "subtopic": "Direct and indirect antiglobulin tests",
+  "difficulty": "hard",
+  "vignette": "A patient with warm autoimmune hemolytic anemia has red cells coated with IgG. In the laboratory, the technologist adds anti-human globulin directly to a sample of the patient's washed erythrocytes and observes agglutination.",
+  "question": "What does this positive result specifically demonstrate?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The patient's serum contains free antibodies against donor RBC antigens"
+    },
+    {
+      "id": "B",
+      "text": "The patient's RBCs are coated with antibody (or complement), allowing anti-human globulin to cross-link them"
+    },
+    {
+      "id": "C",
+      "text": "The patient has a deficiency of CD55 and CD59 on erythrocytes"
+    },
+    {
+      "id": "D",
+      "text": "The patient's platelets express normal GpIIb/IIIa"
+    },
+    {
+      "id": "E",
+      "text": "The patient's hemoglobin migrates to the cathode in electrophoresis"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "In the direct antiglobulin test, washed patient RBCs are incubated with anti-human globulin. Agglutination demonstrates that antibody (IgG) and/or complement components are already bound to the RBC surface, and the Coombs reagent cross-links them. This confirms immune-mediated hemolysis such as warm AIHA.",
+  "explanation_incorrect": {
+    "A": "Free serum antibodies are detected by the indirect antiglobulin test using donor cells, not by adding reagent to the patient's ownCells.",
+    "C": "CD55/CD59 deficiency is PNH and would be evaluated by flow cytometry; it produces Coombs-negative hemolysis.",
+    "D": "Platelet GpIIb/IIIa expression is assessed in platelet function disorders such as Glanzmann thrombasthenia, not in hemolysis workup.",
+    "E": "Hemoglobin electrophoresis evaluates hemoglobin variants; it does not detect RBC-bound antibody."
+  },
+  "educationalObjective": "A positive direct Coombs result shows antibody/complement coating of the patient's own erythrocytes.",
+  "source": "Generated from 10. Oncology.pdf - Physiology: Direct and indirect antiglobulin tests"
+}
+]

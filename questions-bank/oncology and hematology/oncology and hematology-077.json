@@ -1,0 +1,207 @@
+[
+{
+  "id": "onc-093",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "RBC inclusions",
+  "difficulty": "medium",
+  "vignette": "A 58-year-old man with a long history of chronic alcohol use presents with fatigue and pallor. CBC shows hemoglobin 9.2 g/dL and MCV 78 fL. Bone marrow biopsy reveals erythroid precursors with perinuclear aggregates of iron-laden mitochondria forming a ring around the nucleus. The clinician wants to confirm the iron content of these deposits.",
+  "question": "Which of the following stains is required to visualize the iron-laden mitochondrial inclusions described in this patient's bone marrow?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Crystal violet supravital stain"
+    },
+    {
+      "id": "B",
+      "text": "Wright-Giemsa stain alone"
+    },
+    {
+      "id": "C",
+      "text": "G6PD enzyme activity assay"
+    },
+    {
+      "id": "D",
+      "text": "Periodic acid-Schiff (PAS) stain"
+    },
+    {
+      "id": "E",
+      "text": "Prussian blue stain"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Ringed sideroblasts are erythroid precursors in which excess iron is deposited within perinuclear mitochondria, forming a ring around the nucleus. This iron must be visualized with Prussian blue (Perl) stain on a bone marrow specimen. They are the hallmark of sideroblastic anemias, which include lead poisoning, myelodysplastic syndromes, and chronic alcohol overuse. The iron accumulates because it cannot be incorporated into heme. On the peripheral smear, these conditions may also show basophilic stippling.",
+  "explanation_incorrect": {
+    "A": "Crystal violet supravital stain is used to visualize Heinz bodies (denatured hemoglobin) in G6PD deficiency, not iron-laden mitochondria.",
+    "B": "Wright-Giemsa stain can show basophilic stippling on the peripheral smear, but iron within ringed sideroblasts specifically requires Prussian blue stain.",
+    "C": "A G6PD activity assay tests enzyme function; it does not stain iron granules in marrow precursors.",
+    "D": "PAS stain highlights glycogen, for example in erythroleukemia, not the iron deposits of ringed sideroblasts."
+  },
+  "educationalObjective": "Iron granules in ringed sideroblasts are perinuclear mitochondrial iron deposits that require Prussian blue stain for visualization.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: RBC inclusions"
+},
+{
+  "id": "onc-094",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "RBC inclusions",
+  "difficulty": "easy",
+  "vignette": "A 7-year-old boy with sickle cell disease has a routine CBC. His smear shows small, round basophilic nuclear remnants within some red blood cells. He has had recurrent infections with encapsulated organisms. His splenic function is known to be severely impaired from repeated splenic infarcts.",
+  "question": "Which of the following best explains the presence of these intracellular basophilic remnants?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Oxidative denaturation of hemoglobin due to G6PD deficiency"
+    },
+    {
+      "id": "B",
+      "text": "Loss of splenic macrophage function that normally removes nuclear remnants"
+    },
+    {
+      "id": "C",
+      "text": "Precipitation of denatured ribosomal RNA due to lead toxicity"
+    },
+    {
+      "id": "D",
+      "text": "Iron-laden mitochondrial aggregates within marrow erythroid precursors"
+    },
+    {
+      "id": "E",
+      "text": "Complement-mediated intravascular hemolysis"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Howell-Jolly bodies are basophilic nuclear remnants that do not contain iron. They are normally removed by splenic macrophages as red cells pass through the spleen. When splenic function is absent or impaired, as in asplenia or functional hyposplenia from sickle cell disease (autosplenectomy), these remnants persist in circulating RBCs. Their presence is a marker of reduced splenic clearance and is associated with increased susceptibility to infection by encapsulated organisms.",
+  "explanation_incorrect": {
+    "A": "Oxidative denaturation of hemoglobin produces Heinz bodies, not nuclear remnants, and is associated with G6PD deficiency.",
+    "C": "Denatured ribosomal RNA precipitates produce basophilic stippling, which is seen in lead poisoning and thalassemias, not Howell-Jolly bodies.",
+    "D": "Iron-laden perinuclear mitochondria describe ringed sideroblasts in the bone marrow, not nuclear remnants in circulating RBCs.",
+    "E": "Complement-mediated intravascular hemolysis is characteristic of paroxysmal nocturnal hemoglobinuria and does not produce Howell-Jolly bodies."
+  },
+  "educationalObjective": "Howell-Jolly bodies are nuclear remnants that persist when splenic macrophage clearance is lost (asplenia or functional hyposplenia).",
+  "source": "Generated from 10. Oncology.pdf - Pathology: RBC inclusions"
+},
+{
+  "id": "onc-095",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "RBC inclusions",
+  "difficulty": "hard",
+  "vignette": "A 34-year-old man who works in a battery factory has microcytic anemia. His peripheral smear shows red cells containing coarse basophilic granules. Prussian blue staining of the smear is negative for iron within these granules. His serum iron is low and free erythrocyte protoporphyrin is elevated.",
+  "question": "Which of the following RBC inclusions is most consistent with these findings?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Pappenheimer bodies"
+    },
+    {
+      "id": "B",
+      "text": "Howell-Jolly bodies"
+    },
+    {
+      "id": "C",
+      "text": "Heinz bodies"
+    },
+    {
+      "id": "D",
+      "text": "Basophilic stippling"
+    },
+    {
+      "id": "E",
+      "text": "Ringed sideroblasts"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Basophilic stippling consists of basophilic ribosomal precipitates that do not contain iron, so a Prussian blue stain is negative. It is seen in sideroblastic anemias and thalassemias; lead poisoning inhibits rRNA degradation, causing RBCs to retain these rRNA aggregates. In contrast, Pappenheimer bodies are basophilic granules that do contain iron and would be Prussian blue positive. Lead also inhibits ferrochelatase and ALA dehydratase, reducing heme synthesis and raising protoporphyrin. The negative iron stain is the key discriminator here.",
+  "explanation_incorrect": {
+    "A": "Pappenheimer bodies are basophilic granules that contain iron and would stain positively with Prussian blue, unlike the granules described here.",
+    "B": "Howell-Jolly bodies are single, round nuclear remnants associated with hyposplenia, not coarse ribosomal precipitates.",
+    "C": "Heinz bodies are denatured, precipitated hemoglobin visualized with a supravital stain in G6PD deficiency, not on routine stains as coarse basophilic granules.",
+    "E": "Ringed sideroblasts are bone marrow erythroid precursors with perinuclear iron-laden mitochondria, not granules within circulating RBCs."
+  },
+  "educationalObjective": "Basophilic stippling is iron-negative ribosomal precipitation (lead, thalassemia), whereas Pappenheimer bodies are iron-containing basophilic granules.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: RBC inclusions"
+},
+{
+  "id": "onc-096",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "RBC inclusions",
+  "difficulty": "medium",
+  "vignette": "A 19-year-old man develops back pain and dark urine two days after eating fava beans. CBC shows hemoglobin 8.9 g/dL with reticulocytosis. A supravital stain with crystal violet reveals small round inclusions attached to the red cell membrane, and the smear also shows RBCs with a 'bitten' appearance. He has no known splenomegaly.",
+  "question": "Which of the following are the inclusions visualized by the supravital stain in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Heinz bodies, composed of denatured and precipitated hemoglobin"
+    },
+    {
+      "id": "B",
+      "text": "Howell-Jolly bodies, composed of nuclear remnants"
+    },
+    {
+      "id": "C",
+      "text": "Basophilic stippling, composed of ribosomal precipitates"
+    },
+    {
+      "id": "D",
+      "text": "Pappenheimer bodies, composed of iron-containing granules"
+    },
+    {
+      "id": "E",
+      "text": "Iron granules within perinuclear mitochondria"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Heinz bodies are denatured, precipitated hemoglobin that form in G6PD deficiency after oxidative stress such as fava beans, sulfa drugs, or antimalarials. They require a supravital stain, for example crystal violet, to be visualized because routine stains wash them out. Splenic macrophages remove the Heinz bodies, producing 'bite' cells (degmacytes) on the peripheral smear. The patient's back pain, hemoglobinuria, and hemolysis a few days after oxidant exposure are classic for G6PD deficiency, which causes both intravascular and extravascular hemolysis.",
+  "explanation_incorrect": {
+    "B": "Howell-Jolly bodies are nuclear remnants seen in hyposplenia and are visible on routine Wright-Giemsa stain, not with a supravital stain.",
+    "C": "Basophilic stippling is ribosomal precipitate seen in thalassemia and sideroblastic anemia, and is not associated with bite cells or oxidative hemolysis.",
+    "D": "Pappenheimer bodies contain iron and are associated with sideroblastic anemias, not with G6PD deficiency or bite cells.",
+    "E": "Iron granules within perinuclear mitochondria are ringed sideroblasts found in the bone marrow and are visualized with Prussian blue, not a supravital stain."
+  },
+  "educationalObjective": "Heinz bodies are denatured hemoglobin visible with supravital stain in G6PD deficiency; their splenic removal produces bite cells.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: RBC inclusions"
+},
+{
+  "id": "onc-097",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "RBC inclusions",
+  "difficulty": "easy",
+  "vignette": "A 62-year-old woman with myelodysplastic syndrome has anemia on routine testing. Her peripheral smear shows small clusters of basophilic granules within red blood cells. These granules stain positively with Prussian blue. Serum iron and ferritin are elevated.",
+  "question": "These iron-containing basophilic granules are best described as which of the following?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Basophilic stippling"
+    },
+    {
+      "id": "B",
+      "text": "Howell-Jolly bodies"
+    },
+    {
+      "id": "C",
+      "text": "Pappenheimer bodies"
+    },
+    {
+      "id": "D",
+      "text": "Heinz bodies"
+    },
+    {
+      "id": "E",
+      "text": "Target cells"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Pappenheimer bodies are basophilic granules within red blood cells that contain iron, so they are Prussian blue positive. They are associated with sideroblastic anemias, including myelodysplastic syndrome, lead poisoning, and chronic alcohol overuse. Their iron content is the defining feature that distinguishes them from basophilic stippling, which is iron-negative ribosomal precipitate. The elevated serum iron and ferritin in this patient further support a sideroblastic process with impaired iron utilization.",
+  "explanation_incorrect": {
+    "A": "Basophilic stippling is ribosomal precipitate that does not contain iron and would not stain with Prussian blue.",
+    "B": "Howell-Jolly bodies are iron-negative nuclear remnants that appear when splenic macrophage clearance is impaired.",
+    "D": "Heinz bodies are denatured hemoglobin requiring supravital stain, seen in G6PD deficiency rather than myelodysplastic syndrome.",
+    "E": "Target cells are RBCs with increased surface area-to-volume ratio and are not intracellular granules."
+  },
+  "educationalObjective": "Pappenheimer bodies are iron-containing basophilic granules seen in sideroblastic anemias; Prussian blue positivity separates them from basophilic stippling.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: RBC inclusions"
+}
+]

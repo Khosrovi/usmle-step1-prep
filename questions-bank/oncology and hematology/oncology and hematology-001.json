@@ -1,0 +1,207 @@
+[
+{
+  "id": "onc-009",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Embryology",
+  "subtopic": "ABO and Rh blood groups",
+  "difficulty": "easy",
+  "vignette": "A patient's red blood cells agglutinate with anti-A antiserum but not with anti-B antiserum. His plasma is found to contain antibodies that target the B antigen. He has never received a blood transfusion.",
+  "question": "Which ABO blood group does this patient have?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Group B"
+    },
+    {
+      "id": "B",
+      "text": "Group AB"
+    },
+    {
+      "id": "C",
+      "text": "Group A"
+    },
+    {
+      "id": "D",
+      "text": "Group O"
+    },
+    {
+      "id": "E",
+      "text": "Bombay phenotype"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Group A individuals express A antigen on their red blood cells and have naturally occurring anti-B antibodies in their plasma. This pattern - A antigen present and anti-B antibodies present - defines group A. The naturally occurring ABO antibodies are IgM and arise without prior transfusion, likely after environmental exposure to similar antigens. Group A patients can receive red cells from groups A and O.",
+  "explanation_incorrect": {
+    "A": "Group B RBCs carry B antigen and plasma has anti-A, the reverse of this pattern.",
+    "B": "Group AB RBCs carry both A and B antigens and plasma has neither antibody.",
+    "D": "Group O RBCs carry neither antigen and plasma has both anti-A and anti-B.",
+    "E": "The Bombay phenotype lacks the H antigen precursor and is not a standard ABO group."
+  },
+  "educationalObjective": "Group A RBCs carry A antigen and plasma contains anti-B IgM antibodies.",
+  "source": "Generated from 10. Oncology.pdf - Embryology: ABO and Rh blood groups"
+},
+{
+  "id": "onc-010",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Embryology",
+  "subtopic": "ABO and Rh blood groups",
+  "difficulty": "medium",
+  "vignette": "A volunteer donor's red blood cells lack both A and B antigens on their surface. Her plasma, however, contains naturally occurring antibodies against both A and B antigens. Her cells are commonly used in emergencies when a recipient's blood type is unknown.",
+  "question": "Which of the following correctly describes this donor's blood group and clinical utility?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Group AB; she is the universal recipient because she lacks anti-A and anti-B"
+    },
+    {
+      "id": "B",
+      "text": "Group O; her RBCs can be given to recipients of any ABO group because they lack A and B antigens"
+    },
+    {
+      "id": "C",
+      "text": "Group A; her plasma contains anti-B only"
+    },
+    {
+      "id": "D",
+      "text": "Group B; her RBCs carry the B antigen"
+    },
+    {
+      "id": "E",
+      "text": "Group O; she can receive RBCs from any ABO group"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Group O individuals have no A or B antigens on their red cells and have both anti-A and anti-B IgM antibodies in plasma. Because their RBCs bear no A or B antigens, group O cells are the universal RBC donor. There is an important asymmetry: group O patients can receive only group O RBCs, because their plasma anti-A and anti-B would destroy donor cells bearing those antigens. Universal donor status therefore applies to the red cells, not to the recipient.",
+  "explanation_incorrect": {
+    "A": "Group AB cells carry both antigens and no antibodies; AB is the universal recipient, not this donor.",
+    "C": "Group A cells carry the A antigen, whereas this donor's cells lack both A and B antigens.",
+    "D": "Group B cells carry the B antigen and plasma has anti-A, which does not match this donor.",
+    "E": "Group O patients have anti-A and anti-B and can receive only group O RBCs, not any group."
+  },
+  "educationalObjective": "Group O RBCs lack A and B antigens and are universally compatible, but group O patients can receive only group O RBCs.",
+  "source": "Generated from 10. Oncology.pdf - Embryology: ABO and Rh blood groups"
+},
+{
+  "id": "onc-011",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Embryology",
+  "subtopic": "ABO and Rh blood groups",
+  "difficulty": "easy",
+  "vignette": "A patient's red blood cells carry both A and B antigens on their surface. Crossmatching reveals no anti-A or anti-B antibodies in his plasma. The transfusion service notes that he can receive red cells from any ABO group.",
+  "question": "Which ABO group is this patient, and what is his transfusion status?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Group O; can receive only group O RBCs"
+    },
+    {
+      "id": "B",
+      "text": "Group A; can receive group A or O RBCs"
+    },
+    {
+      "id": "C",
+      "text": "Group B; can receive group B or O RBCs"
+    },
+    {
+      "id": "D",
+      "text": "Group A; has anti-B antibodies in plasma"
+    },
+    {
+      "id": "E",
+      "text": "Group AB; has neither anti-A nor anti-B and is the universal RBC recipient"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Group AB individuals express both A and B antigens on their red cells and therefore have neither anti-A nor anti-B antibody in plasma, since self-antigens are not targeted. They can receive red cells from any ABO group - the universal recipients - because their plasma lacks the antibodies that would reject donor cells. They can donate red cells only to other AB individuals. This follows directly from the ABO compatibility table.",
+  "explanation_incorrect": {
+    "A": "Group O has neither antigen and both antibodies, and can receive only group O RBCs.",
+    "B": "Group A carries only the A antigen and has anti-B antibodies in plasma.",
+    "C": "Group B carries only the B antigen and has anti-A antibodies in plasma.",
+    "D": "Group A has anti-B antibodies; this patient has neither anti-A nor anti-B."
+  },
+  "educationalObjective": "Group AB individuals carry both A and B antigens, lack ABO antibodies, and are universal RBC recipients.",
+  "source": "Generated from 10. Oncology.pdf - Embryology: ABO and Rh blood groups"
+},
+{
+  "id": "onc-012",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Embryology",
+  "subtopic": "ABO and Rh blood groups",
+  "difficulty": "hard",
+  "vignette": "A 28-year-old woman with Rh-negative blood has never been pregnant or transfused. Her serum is tested for antibodies against the Rh(D) antigen and none are detected. She is counseled about the implications for future pregnancies.",
+  "question": "Which statement about her Rh status and anti-D antibody is correct?",
+  "options": [
+    {
+      "id": "A",
+      "text": "She lacks the D antigen on her RBCs and does not naturally have anti-D; IgG anti-D appears only after exposure to Rh-positive blood"
+    },
+    {
+      "id": "B",
+      "text": "She carries the D antigen and has naturally occurring anti-D IgM"
+    },
+    {
+      "id": "C",
+      "text": "She lacks the D antigen but has naturally occurring anti-D IgM from gut flora exposure"
+    },
+    {
+      "id": "D",
+      "text": "She carries the D antigen but can never form anti-D under any circumstances"
+    },
+    {
+      "id": "E",
+      "text": "She lacks the D antigen and already has anti-D IgG that crosses the placenta without sensitization"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Rh-negative individuals lack the Rh(D) antigen on their red cells. Unlike the naturally occurring ABO antibodies, anti-D is not present at baseline: it is an IgG antibody that forms only after exposure to Rh-positive red cells, such as through pregnancy or transfusion. Because it is IgG, once formed it can cross the placenta and hemolyze the red cells of a future Rh-positive fetus. An unsensitized Rh-negative woman therefore has no anti-D, which is the rationale for prophylactic anti-D administration.",
+  "explanation_incorrect": {
+    "B": "Rh-negative individuals lack the D antigen and do not make naturally occurring anti-D.",
+    "C": "Anti-D is not a naturally occurring IgM; the naturally occurring IgM antibodies are the ABO antibodies.",
+    "D": "She lacks the D antigen, and Rh-negative people readily form anti-D after exposure to Rh-positive blood.",
+    "E": "Without prior sensitization she has no anti-D IgG, so there is none to cross the placenta."
+  },
+  "educationalObjective": "Rh-negative people lack the D antigen and form anti-D IgG only after exposure to Rh-positive RBCs.",
+  "source": "Generated from 10. Oncology.pdf - Embryology: ABO and Rh blood groups"
+},
+{
+  "id": "onc-013",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Embryology",
+  "subtopic": "ABO and Rh blood groups",
+  "difficulty": "medium",
+  "vignette": "A 50-year-old man with group A blood is scheduled for an elective transfusion. The blood bank reviews ABO compatibility to select donor red cells that will not be agglutinated by the antibodies in his plasma.",
+  "question": "From which ABO group(s) can this group A recipient safely receive red blood cells?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Only group A"
+    },
+    {
+      "id": "B",
+      "text": "Group B or group AB"
+    },
+    {
+      "id": "C",
+      "text": "Group AB only"
+    },
+    {
+      "id": "D",
+      "text": "Group A or group O"
+    },
+    {
+      "id": "E",
+      "text": "Group O only"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "A group A recipient has anti-B antibodies in plasma, so red cells bearing the B antigen (groups B and AB) would be agglutinated and hemolyzed. He can therefore receive group A red cells (A antigen, no B antigen) and group O red cells (no A or B antigens). The compatibility table reads: group A receives A or O; group B receives B or O; group AB receives all groups; group O receives only O. Matching donor antigens against recipient antibodies is the key to these questions.",
+  "explanation_incorrect": {
+    "A": "A group A patient can also receive group O red cells, which carry neither A nor B antigen.",
+    "B": "Groups B and AB both bear the B antigen, which his anti-B antibodies would attack.",
+    "C": "Group AB red cells carry the B antigen and would be destroyed by his anti-B antibodies.",
+    "E": "A group A patient can receive group A red cells in addition to group O."
+  },
+  "educationalObjective": "A group A recipient can receive group A or group O RBCs, but not cells bearing the B antigen.",
+  "source": "Generated from 10. Oncology.pdf - Embryology: ABO and Rh blood groups"
+}
+]

@@ -1,0 +1,166 @@
+[
+{
+  "id": "onc-098",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Anemia classification by MCV and reticulocyte index",
+  "difficulty": "medium",
+  "vignette": "A 24-year-old woman has fatigue. CBC shows hemoglobin 9.8 g/dL, MCV 72 fL, and elevated RDW. Reticulocyte index is 1.2. Iron studies show decreased serum iron, increased TIBC, and decreased ferritin. She has a history of heavy menstrual bleeding.",
+  "question": "Which of the following best categorizes the underlying defect in this patient's anemia?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Defective globin chain synthesis (thalassemia)"
+    },
+    {
+      "id": "B",
+      "text": "Defective DNA synthesis (megaloblastic anemia)"
+    },
+    {
+      "id": "C",
+      "text": "Defective heme synthesis due to iron deficiency"
+    },
+    {
+      "id": "D",
+      "text": "Intrinsic membrane defect with increased hemolysis"
+    },
+    {
+      "id": "E",
+      "text": "Extrinsic immune-mediated hemolysis"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Microcytic anemias are remembered by TAIL: Thalassemias (defective globin chain), Anemia of chronic disease, Iron deficiency (late), and Lead poisoning, with the latter three being defects of heme synthesis. This patient's low serum iron, high TIBC, and low ferritin indicate iron deficiency, which reduces the final step of heme synthesis. Her microcytosis with elevated RDW and low reticulocyte index of 1.2 reflects inadequate marrow compensation due to iron scarcity. Heavy menstrual bleeding is a classic source of chronic blood loss leading to iron deficiency.",
+  "explanation_incorrect": {
+    "A": "Thalassemias are defects in globin chain synthesis and typically show normal iron stores, a normal or elevated RBC count, and only mild anemia relative to the microcytosis.",
+    "B": "Defective DNA synthesis causes megaloblastic anemia with MCV greater than 100 fL and hypersegmented neutrophils, not a microcytosis of 72 fL.",
+    "D": "Intrinsic membrane defects such as hereditary spherocytosis produce normocytic hemolytic anemia with a high reticulocyte index and spherocytes, not iron studies showing iron deficiency.",
+    "E": "Autoimmune hemolysis is normocytic with a high reticulocyte index and a positive direct Coombs test, unlike this patient's low reticulocyte index and iron studies."
+  },
+  "educationalObjective": "Microcytic anemias divide into defective globin synthesis (thalassemia) and defective heme synthesis (iron deficiency, anemia of chronic disease, lead).",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Anemia classification by MCV and reticulocyte index"
+},
+{
+  "id": "onc-099",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Anemia classification by MCV and reticulocyte index",
+  "difficulty": "easy",
+  "vignette": "A 68-year-old man with chronic kidney disease has hemoglobin 10.1 g/dL and MCV 90 fL. Reticulocyte index is 1.1. Peripheral smear shows normocytic, normochromic red cells without schistocytes or spherocytes. He has no overt bleeding.",
+  "question": "Which of the following best classifies this anemia?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Normocytic, nonhemolytic anemia with an inadequate marrow response"
+    },
+    {
+      "id": "B",
+      "text": "Normocytic hemolytic anemia with an appropriate marrow response"
+    },
+    {
+      "id": "C",
+      "text": "Microcytic anemia due to defective heme synthesis"
+    },
+    {
+      "id": "D",
+      "text": "Megaloblastic macrocytic anemia from DNA synthesis failure"
+    },
+    {
+      "id": "E",
+      "text": "Nonmegaloblastic macrocytic anemia"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Normocytic anemias, defined as MCV 80 to 100 fL, are first divided by reticulocyte index into nonhemolytic (low index) and hemolytic (high index) categories. This patient's index of 1.1 is less than 2, indicating an inadequate bone marrow response. Chronic kidney disease, anemia of chronic disease, early iron deficiency, aplastic anemia, and acute blood loss are the major nonhemolytic causes. In chronic kidney disease, reduced erythropoietin production limits red cell production despite the anemia.",
+  "explanation_incorrect": {
+    "B": "A hemolytic anemia would show a high reticulocyte index, typically greater than 3, along with findings such as schistocytes or spherocytes; this patient has neither.",
+    "C": "Microcytic anemia is defined by MCV below 80 fL, while this patient's MCV is 90 fL and within the normocytic range.",
+    "D": "Megaloblastic anemia has MCV greater than 100 fL and hypersegmented neutrophils from impaired DNA synthesis, which are absent here.",
+    "E": "Nonmegaloblastic macrocytic anemia from alcohol or liver disease also has MCV greater than 100 fL, not a normal MCV."
+  },
+  "educationalObjective": "Normocytic anemia with a low reticulocyte index is nonhemolytic; CKD, ACD, aplastic anemia, early iron deficiency, and acute blood loss are key causes.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Anemia classification by MCV and reticulocyte index"
+},
+{
+  "id": "onc-100",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Anemia classification by MCV and reticulocyte index",
+  "difficulty": "hard",
+  "vignette": "A 31-year-old woman has hemoglobin 8.7 g/dL, MCV 92 fL, reticulocyte index 4.5, indirect bilirubin 3.2 mg/dL, and low haptoglobin. The direct antiglobulin test is negative. Smear shows many spherocytes but no schistocytes or sickled cells. Her mother underwent splenectomy for a similar anemia.",
+  "question": "Which of the following is the best classification of this patient's hemolytic anemia?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Extrinsic immune-mediated hemolysis"
+    },
+    {
+      "id": "B",
+      "text": "Extrinsic microangiopathic hemolysis"
+    },
+    {
+      "id": "C",
+      "text": "Intrinsic hemoglobinopathy"
+    },
+    {
+      "id": "D",
+      "text": "Intrinsic red cell membrane defect"
+    },
+    {
+      "id": "E",
+      "text": "Intrinsic enzyme deficiency"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Hereditary spherocytosis is an intrinsic red cell membrane defect caused by abnormalities in proteins such as ankyrin, band 3, protein 4.2, or spectrin. It produces extravascular hemolysis with spherocytes, splenomegaly, pigmented gallstones, and a high reticulocyte index, as seen here. A negative direct Coombs test is critical because autoimmune hemolytic anemia also produces spherocytes but is extrinsic and Coombs positive. The family history of splenectomy for similar anemia supports an inherited membrane defect.",
+  "explanation_incorrect": {
+    "A": "Immune hemolysis would be expected to have a positive direct antiglobulin (Coombs) test; this patient's test is negative.",
+    "B": "Microangiopathic hemolysis produces schistocytes (helmet cells) on smear due to mechanical destruction in narrowed vessels; no schistocytes are seen here.",
+    "C": "Hemoglobinopathies such as sickle cell disease or HbC disease show sickled cells, target cells, or intracellular crystals rather than spherocytes.",
+    "E": "Intrinsic enzyme deficiencies such as G6PD or pyruvate kinase deficiency show bite cells or burr cells, respectively, not spherocytes."
+  },
+  "educationalObjective": "Spherocytes with a negative Coombs test and a high reticulocyte index indicate an intrinsic membrane defect such as hereditary spherocytosis.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Anemia classification by MCV and reticulocyte index"
+},
+{
+  "id": "onc-101",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Anemia classification by MCV and reticulocyte index",
+  "difficulty": "medium",
+  "vignette": "A 55-year-old man with chronic alcohol overuse has hemoglobin 10.4 g/dL and MCV 110 fL. Peripheral smear shows enlarged red cells but no hypersegmented neutrophils. Liver function tests are abnormal, and he has no neurologic symptoms.",
+  "question": "Which of the following best classifies this anemia?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Megaloblastic anemia due to folate deficiency"
+    },
+    {
+      "id": "B",
+      "text": "Nonmegaloblastic macrocytic anemia"
+    },
+    {
+      "id": "C",
+      "text": "Iron deficiency anemia"
+    },
+    {
+      "id": "D",
+      "text": "Anemia of chronic disease"
+    },
+    {
+      "id": "E",
+      "text": "Thalassemia trait"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Macrocytic anemias with MCV greater than 100 fL are divided into megaloblastic and nonmegaloblastic types. Megaloblastic anemia reflects impaired DNA synthesis from folate or vitamin B12 deficiency, orotic aciduria, Fanconi anemia, or Diamond-Blackfan anemia, and shows hypersegmented neutrophils and macro-ovalocytes. Nonmegaloblastic macrocytosis from chronic alcohol overuse or liver disease has normal DNA synthesis and lacks hypersegmented neutrophils. This patient's macrocytosis without hypersegmented neutrophils and with abnormal liver tests fits the nonmegaloblastic category.",
+  "explanation_incorrect": {
+    "A": "Folate deficiency produces megaloblastic anemia with hypersegmented neutrophils and macro-ovalocytes, which are absent in this patient.",
+    "C": "Iron deficiency is microcytic when fully developed, with MCV below 80 fL and increased central pallor, not macrocytic.",
+    "D": "Anemia of chronic disease is typically normocytic and may become microcytic, but it is not macrocytic.",
+    "E": "Thalassemia trait produces a mild microcytic anemia with an elevated RBC count, not macrocytosis."
+  },
+  "educationalObjective": "Macrocytosis without hypersegmented neutrophils is nonmegaloblastic (alcohol, liver disease); hypersegmented neutrophils indicate megaloblastic anemia.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Anemia classification by MCV and reticulocyte index"
+}
+]

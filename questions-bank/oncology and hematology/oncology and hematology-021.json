@@ -1,0 +1,207 @@
+[
+{
+  "id": "onc-320",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Chromosomal translocations in hematologic malignancy",
+  "difficulty": "medium",
+  "vignette": "A 6-year-old has a rapidly enlarging jaw mass and abdominal lymphadenopathy. Biopsy shows a diffuse proliferation of lymphoid cells with a starry-sky pattern. Cytogenetics reveals t(8;14).",
+  "question": "Which of the following genes is activated by this translocation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "BCL-2"
+    },
+    {
+      "id": "B",
+      "text": "Cyclin D1"
+    },
+    {
+      "id": "C",
+      "text": "BCR-ABL"
+    },
+    {
+      "id": "D",
+      "text": "PML-RARA"
+    },
+    {
+      "id": "E",
+      "text": "c-myc"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "t(8;14) is associated with Burkitt lymphoma (Burk-8), in which the c-myc gene is translocated next to the immunoglobulin heavy chain region on chromosome 14 and overexpressed. Because the heavy chain genes are constitutively expressed in B cells, c-myc is continuously transcribed, driving rapid proliferation.",
+  "explanation_incorrect": {
+    "A": "BCL-2 activation occurs with t(14;18) in follicular lymphoma, not t(8;14).",
+    "B": "Cyclin D1 activation occurs with t(11;14) in mantle cell lymphoma.",
+    "C": "BCR-ABL is the fusion produced by t(9;22) in CML and some ALL.",
+    "D": "PML-RARA is the fusion from t(15;17) in acute promyelocytic leukemia."
+  },
+  "educationalObjective": "t(8;14) in Burkitt lymphoma activates c-myc next to the constitutively expressed Ig heavy chain gene.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Chromosomal translocations in hematologic malignancy"
+},
+{
+  "id": "onc-321",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Chromosomal translocations in hematologic malignancy",
+  "difficulty": "easy",
+  "vignette": "A 55-year-old has painless, slowly enlarging lymph nodes. Biopsy shows an indolent B-cell lymphoma, and cytogenetics identifies t(14;18).",
+  "question": "Which of the following genes is overexpressed as a result of this translocation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "c-myc"
+    },
+    {
+      "id": "B",
+      "text": "BCL-2"
+    },
+    {
+      "id": "C",
+      "text": "Cyclin D1"
+    },
+    {
+      "id": "D",
+      "text": "BCR-ABL"
+    },
+    {
+      "id": "E",
+      "text": "PML-RARA"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "t(14;18) is the hallmark of follicular lymphoma and activates BCL-2, an anti-apoptotic gene. Moving BCL-2 next to the constitutively expressed Ig heavy chain region on chromosome 14 leads to its overexpression, promoting cell survival and an indolent clinical course.",
+  "explanation_incorrect": {
+    "A": "c-myc is activated by t(8;14) in Burkitt lymphoma, not by t(14;18).",
+    "C": "Cyclin D1 is activated by t(11;14) in mantle cell lymphoma.",
+    "D": "BCR-ABL results from t(9;22) in CML and ALL.",
+    "E": "PML-RARA results from t(15;17) in acute promyelocytic leukemia."
+  },
+  "educationalObjective": "t(14;18) in follicular lymphoma causes BCL-2 overexpression and reduced apoptosis.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Chromosomal translocations in hematologic malignancy"
+},
+{
+  "id": "onc-322",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Chromosomal translocations in hematologic malignancy",
+  "difficulty": "hard",
+  "vignette": "Several B-cell lymphomas carry translocations involving chromosome 14, placing genes such as c-myc or BCL-2 next to the immunoglobulin heavy chain region. The reason these partner genes become overexpressed is being discussed.",
+  "question": "Which of the following best explains why chromosome 14 translocations cause overexpression of the translocated partner gene?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Chromosome 14 carries the most potent tumor suppressor genes in B cells"
+    },
+    {
+      "id": "B",
+      "text": "The partner gene is always a tumor suppressor that is deleted by the translocation"
+    },
+    {
+      "id": "C",
+      "text": "The translocation removes the partner gene from a repressive promoter element"
+    },
+    {
+      "id": "D",
+      "text": "Ig heavy chain genes on chromosome 14 are constitutively expressed, so partner genes such as c-myc and BCL-2 moved next to them are overexpressed"
+    },
+    {
+      "id": "E",
+      "text": "Chromosome 14 translocations always generate a constitutively active fusion tyrosine kinase"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "The immunoglobulin heavy chain genes on chromosome 14 are constitutively expressed in B cells. When oncogenes such as c-myc (t(8;14)) or BCL-2 (t(14;18)) are translocated next to this heavy chain region, they are placed under its active transcriptional influence and become overexpressed. This is why chromosome 14 is a recurring partner in B-cell lymphoma translocations.",
+  "explanation_incorrect": {
+    "A": "Chromosome 14 is important here because of the constitutively expressed Ig heavy chain locus, not because of tumor suppressor genes.",
+    "B": "The translocated partners are oncogenes that gain expression, not tumor suppressors that are deleted.",
+    "C": "Overexpression results from placement next to an active Ig promoter, not from removal of a repressive element.",
+    "E": "A fusion tyrosine kinase is characteristic of t(9;22) BCR-ABL, not chromosome 14 B-cell lymphoma translocations."
+  },
+  "educationalObjective": "Constitutive Ig heavy chain expression on chromosome 14 drives overexpression of translocated partner oncogenes.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Chromosomal translocations in hematologic malignancy"
+},
+{
+  "id": "onc-323",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Chromosomal translocations in hematologic malignancy",
+  "difficulty": "medium",
+  "vignette": "A 65-year-old man has lymphadenopathy and a CD20-positive, CD5-positive B-cell neoplasm. Cytogenetics shows t(11;14).",
+  "question": "Which of the following genes is activated by this translocation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Cyclin D1"
+    },
+    {
+      "id": "B",
+      "text": "BCL-2"
+    },
+    {
+      "id": "C",
+      "text": "c-myc"
+    },
+    {
+      "id": "D",
+      "text": "BCL-6"
+    },
+    {
+      "id": "E",
+      "text": "PML-RARA"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "t(11;14) is associated with mantle cell lymphoma and leads to activation of cyclin D1. The translocation places cyclin D1 next to the Ig heavy chain region on chromosome 14, causing overexpression that promotes G1-to-S cell cycle progression.",
+  "explanation_incorrect": {
+    "B": "BCL-2 activation is due to t(14;18) in follicular lymphoma.",
+    "C": "c-myc activation is due to t(8;14) in Burkitt lymphoma.",
+    "D": "BCL-6 is not the partner gene in t(11;14) mantle cell lymphoma.",
+    "E": "PML-RARA is the product of t(15;17) in acute promyelocytic leukemia."
+  },
+  "educationalObjective": "Mantle cell lymphoma is associated with t(11;14) and cyclin D1 activation.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Chromosomal translocations in hematologic malignancy"
+},
+{
+  "id": "onc-324",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Chromosomal translocations in hematologic malignancy",
+  "difficulty": "easy",
+  "vignette": "A 40-year-old develops widespread bruising and bleeding. Peripheral smear shows abnormal promyelocytes with Auer rods, and coagulation studies indicate DIC. Cytogenetics reveals t(15;17).",
+  "question": "Which of the following is the most likely diagnosis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Follicular lymphoma"
+    },
+    {
+      "id": "B",
+      "text": "Burkitt lymphoma"
+    },
+    {
+      "id": "C",
+      "text": "Acute promyelocytic leukemia (APL, M3 AML)"
+    },
+    {
+      "id": "D",
+      "text": "Mantle cell lymphoma"
+    },
+    {
+      "id": "E",
+      "text": "Chronic myelogenous leukemia"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "t(15;17) produces the PML-RARA fusion and defines acute promyelocytic leukemia, formerly M3 AML. It presents with promyelocytes, Auer rods, and DIC and responds to all-trans retinoic acid and arsenic trioxide, which induce differentiation of promyelocytes.",
+  "explanation_incorrect": {
+    "A": "Follicular lymphoma is associated with t(14;18) and BCL-2, not t(15;17).",
+    "B": "Burkitt lymphoma is associated with t(8;14) and c-myc.",
+    "D": "Mantle cell lymphoma is associated with t(11;14) and cyclin D1.",
+    "E": "CML is associated with t(9;22) and BCR-ABL, not t(15;17)."
+  },
+  "educationalObjective": "t(15;17) defines acute promyelocytic leukemia and predicts response to retinoic acid therapy.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Chromosomal translocations in hematologic malignancy"
+}
+]

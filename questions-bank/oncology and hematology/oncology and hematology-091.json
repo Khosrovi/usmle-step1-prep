@@ -1,0 +1,248 @@
+[
+{
+  "id": "onc-338",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Warfarin",
+  "difficulty": "medium",
+  "vignette": "A 58-year-old woman with atrial fibrillation is started on warfarin for stroke prophylaxis. A subsequent serum sample shows reduced activity of factors II, VII, IX, and X.",
+  "question": "Which of the following best describes the mechanism by which warfarin reduces these clotting factors?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Direct inhibition of thrombin and factor Xa in the circulation"
+    },
+    {
+      "id": "B",
+      "text": "Activation of antithrombin to inactivate factors IIa and Xa"
+    },
+    {
+      "id": "C",
+      "text": "Blockade of vitamin K absorption in the gut"
+    },
+    {
+      "id": "D",
+      "text": "Inhibition of vitamin K epoxide reductase, preventing gamma-carboxylation of vitamin K-dependent factors"
+    },
+    {
+      "id": "E",
+      "text": "Increased fibrinolytic degradation of existing clotting factors"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Warfarin competes with vitamin K and inhibits vitamin K epoxide reductase in the liver. This prevents gamma-carboxylation (activation) of the vitamin K-dependent factors II, VII, IX, and X as well as proteins C and S. Because factor VII has a short half-life, warfarin affects the extrinsic pathway and increases PT, and its metabolism is influenced by VKORC1 polymorphisms.",
+  "explanation_incorrect": {
+    "A": "Direct inhibition of thrombin and factor Xa is the mechanism of direct thrombin and Xa inhibitors, not warfarin.",
+    "B": "Activation of antithrombin is the mechanism of heparin, which acts in blood rather than the liver.",
+    "C": "Warfarin does not block vitamin K absorption; it inhibits the epoxide reductase that regenerates reduced vitamin K, and its sites of action are hepatic factors.",
+    "E": "Warfarin reduces hepatic synthesis of functional clotting factors; it does not enhance fibrinolytic breakdown of existing factors."
+  },
+  "educationalObjective": "Warfarin inhibits vitamin K epoxide reductase, preventing gamma-carboxylation of factors II, VII, IX, X and proteins C and S.",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Warfarin"
+},
+{
+  "id": "onc-339",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Warfarin",
+  "difficulty": "easy",
+  "vignette": "A 67-year-old man is started on warfarin for venous thromboembolism prophylaxis. His physician wants a laboratory test to follow the drug's effect, and the 'ex-PresidenT went to war(farin)' mnemonic is recalled.",
+  "question": "Which laboratory test is used to monitor warfarin therapy, and which pathway does it reflect?",
+  "options": [
+    {
+      "id": "A",
+      "text": "PT/INR; extrinsic pathway"
+    },
+    {
+      "id": "B",
+      "text": "PTT; intrinsic pathway"
+    },
+    {
+      "id": "C",
+      "text": "Bleeding time; platelet function"
+    },
+    {
+      "id": "D",
+      "text": "Thrombin time; fibrinogen-to-fibrin conversion"
+    },
+    {
+      "id": "E",
+      "text": "Platelet count; primary hemostasis"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Warfarin affects the extrinsic pathway because factor VII, which it suppresses, participates in the extrinsic cascade; therefore it is monitored with prothrombin time reported as INR. Heparin, by contrast, is monitored with PTT, reflecting the intrinsic pathway. Warfarin has a long half-life, so its effect develops slowly.",
+  "explanation_incorrect": {
+    "B": "PTT monitors the intrinsic pathway and is used for heparin, not warfarin.",
+    "C": "Bleeding time assesses platelet function, not the vitamin K-dependent coagulation factors affected by warfarin.",
+    "D": "Thrombin time evaluates fibrinogen-to-fibrin conversion and is prolonged by thrombolytics or fibrinogen disorders, not used to monitor warfarin.",
+    "E": "Warfarin does not affect platelet count, so platelet count is not a monitoring parameter for it."
+  },
+  "educationalObjective": "Warfarin is monitored with PT/INR reflecting the extrinsic pathway.",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Warfarin"
+},
+{
+  "id": "onc-340",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Warfarin",
+  "difficulty": "medium",
+  "vignette": "A 30-year-old woman with a mechanical heart valve requires chronic anticoagulation. She is planning to become pregnant and asks her physician which anticoagulant is safest during gestation.",
+  "question": "Which of the following is the most appropriate counseling regarding warfarin in pregnancy?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Warfarin is safe in pregnancy because it does not cross the placenta"
+    },
+    {
+      "id": "B",
+      "text": "Warfarin is the anticoagulant of choice in pregnancy because it is orally active"
+    },
+    {
+      "id": "C",
+      "text": "Warfarin crosses the placenta and is teratogenic, so it should be avoided during pregnancy"
+    },
+    {
+      "id": "D",
+      "text": "Warfarin can be used in pregnancy if the dose is halved in the third trimester"
+    },
+    {
+      "id": "E",
+      "text": "Warfarin is unsafe in pregnancy only because it is poorly absorbed"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Unlike heparin, warfarin crosses the placenta and is teratogenic, so it is not used in pregnant patients. Heparin and LMWH do not cross the placenta and are preferred during pregnancy. This placental-transfer difference is a key distinction in the heparin versus warfarin comparison.",
+  "explanation_incorrect": {
+    "A": "Warfarin does cross the placenta; it is heparin that does not cross the placenta.",
+    "B": "Oral administration does not make warfarin safe in pregnancy; its teratogenicity outweighs any convenience.",
+    "D": "Dose reduction does not eliminate teratogenic risk; warfarin is avoided in pregnancy regardless of dose.",
+    "E": "The concern is placental transfer and teratogenicity, not altered maternal absorption."
+  },
+  "educationalObjective": "Warfarin crosses the placenta and is teratogenic, making heparin/LMWH the anticoagulant of choice in pregnancy.",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Warfarin"
+},
+{
+  "id": "onc-341",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Warfarin",
+  "difficulty": "hard",
+  "vignette": "A 45-year-old woman is started on high-dose warfarin for a prosthetic valve. On day 3 she develops painful necrotic lesions on her breasts and thighs. PT is prolonged, and factor VII activity has fallen more than factors II and X.",
+  "question": "Which of the following best explains this early complication of warfarin therapy?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Overanticoagulation causing widespread hemorrhage into the skin"
+    },
+    {
+      "id": "B",
+      "text": "An allergic reaction to warfarin producing a diffuse rash"
+    },
+    {
+      "id": "C",
+      "text": "Heparin-induced thrombocytopenia triggered by concurrent heparin"
+    },
+    {
+      "id": "D",
+      "text": "Vitamin K deficiency from poor nutrition unmasked by warfarin"
+    },
+    {
+      "id": "E",
+      "text": "Rapid depletion of protein C with its short half-life, causing transient hypercoagulation and skin microthrombosis"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Protein C has a shorter half-life than factors II and X. When warfarin is started, existing protein C (a natural anticoagulant) depletes before factors II and X, producing a transient hypercoagulable state. With large doses this causes skin and tissue necrosis within the first few days from small-vessel microthrombosis. Heparin bridging is used when starting warfarin to prevent this early hypercoagulation and necrosis.",
+  "explanation_incorrect": {
+    "A": "The lesions are thrombotic rather than hemorrhagic; this is a hypercoagulable, not overanticoagulated, state.",
+    "B": "Warfarin skin necrosis is not allergic; it results from protein C depletion and microthrombosis.",
+    "C": "HIT is caused by heparin-PF4 antibodies and occurs 5-10 days after heparin, not 3 days after warfarin; it is a distinct complication.",
+    "D": "Dietary vitamin K deficiency would potentiate warfarin but would not selectively cause early thrombotic skin necrosis; the mechanism here is the shorter half-life of protein C."
+  },
+  "educationalObjective": "Early warfarin skin necrosis results from protein C depleting faster than factors II and X, causing transient hypercoagulation and microthrombosis.",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Warfarin"
+},
+{
+  "id": "onc-342",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Warfarin",
+  "difficulty": "medium",
+  "vignette": "A 68-year-old man on warfarin for atrial fibrillation presents with an INR of 9 and a major gastrointestinal bleed. His anticoagulation must be reversed immediately.",
+  "question": "Which of the following is the most appropriate management to reverse warfarin rapidly in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Administer vitamin K alone and wait for new factor synthesis"
+    },
+    {
+      "id": "B",
+      "text": "Give vitamin K together with fresh frozen plasma or prothrombin complex concentrate"
+    },
+    {
+      "id": "C",
+      "text": "Administer protamine sulfate intravenously"
+    },
+    {
+      "id": "D",
+      "text": "Give idarucizumab intravenously"
+    },
+    {
+      "id": "E",
+      "text": "Administer andexanet alfa"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "For rapid reversal of warfarin, give vitamin K (which restores vitamin K-dependent factor synthesis but acts slowly) plus FFP or PCC (which supply clotting factors immediately). Vitamin K alone is too slow for a major bleed. Protamine reverses heparin; idarucizumab reverses dabigatran; andexanet alfa reverses direct factor Xa inhibitors.",
+  "explanation_incorrect": {
+    "A": "Vitamin K alone depends on hepatic synthesis of new factors and is too slow when immediate reversal is needed; FFP or PCC is required.",
+    "C": "Protamine sulfate is the reversal agent for heparin and has no effect on warfarin.",
+    "D": "Idarucizumab is the specific reversal agent for the direct thrombin inhibitor dabigatran, not warfarin.",
+    "E": "Andexanet alfa reverses direct factor Xa inhibitors such as apixaban and rivaroxaban, not warfarin."
+  },
+  "educationalObjective": "Rapid warfarin reversal requires vitamin K plus FFP or PCC; vitamin K alone is too slow.",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Warfarin"
+},
+{
+  "id": "onc-343",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Warfarin",
+  "difficulty": "hard",
+  "vignette": "A 55-year-old man is started on warfarin. His physician reviews his other medications and notes genetic testing showing a polymorphism in the gene encoding vitamin K epoxide reductase complex.",
+  "question": "Which of the following best explains the variability in warfarin dose requirements among patients?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Warfarin is excreted unchanged by the kidneys, so renal function determines the dose"
+    },
+    {
+      "id": "B",
+      "text": "Warfarin resistance results exclusively from polymorphisms in the VKORC1 gene"
+    },
+    {
+      "id": "C",
+      "text": "Warfarin is metabolized by CYP3A4, so all patients require the same dose"
+    },
+    {
+      "id": "D",
+      "text": "VKORC1 polymorphisms and CYP2C9-mediated drug interactions alter warfarin response"
+    },
+    {
+      "id": "E",
+      "text": "Warfarin's effect is entirely determined by dietary vitamin K, with no genetic contribution"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Warfarin response varies because warfarin is metabolized by the cytochrome P-450 enzyme CYP2C9, a source of drug-drug interactions, and because polymorphisms in VKORC1 (the gene for vitamin K epoxide reductase complex) alter sensitivity to the drug. Both genetic and environmental factors must be considered in dosing.",
+  "explanation_incorrect": {
+    "A": "Warfarin is metabolized hepatically, not excreted unchanged by the kidneys; renal function is not the primary dose determinant.",
+    "B": "VKORC1 polymorphisms do affect response, but they are not the only factor; CYP2C9 metabolism and drug interactions also matter.",
+    "C": "Warfarin is metabolized mainly by CYP2C9, not CYP3A4, and patients do not all require the same dose.",
+    "E": "Dietary vitamin K influences warfarin's effect, but genetics (VKORC1, CYP2C9) also contribute substantially."
+  },
+  "educationalObjective": "Warfarin dosing varies with CYP2C9-mediated drug interactions and VKORC1 polymorphisms.",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Warfarin"
+}
+]

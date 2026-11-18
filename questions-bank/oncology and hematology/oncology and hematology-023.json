@@ -1,0 +1,248 @@
+[
+{
+  "id": "onc-075",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Physiology",
+  "subtopic": "Coagulation cascade and laboratory tests",
+  "difficulty": "easy",
+  "vignette": "A patient with a suspected coagulation factor deficiency undergoes screening tests. The prothrombin time (PT) is prolonged while the PTT is normal. The clinician explains that PT evaluates a specific set of factors in the extrinsic and common pathways. Which set of factors does the PT reflect?",
+  "question": "The prothrombin time monitors activity of which group of coagulation factors?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Factors VIII, IX, XI, XII"
+    },
+    {
+      "id": "B",
+      "text": "Factors II, VII, IX, X"
+    },
+    {
+      "id": "C",
+      "text": "Factors I, II, V, VII, X"
+    },
+    {
+      "id": "D",
+      "text": "Factors I, II, V, VIII, X"
+    },
+    {
+      "id": "E",
+      "text": "All factors except VII and XIII"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "PT monitors the extrinsic and common pathways, reflecting activity of factors I (fibrinogen), II (prothrombin), V, VII, and X. It is prolonged by defects in the extrinsic pathway (factor VII) or common pathway and is the test used to monitor warfarin, whose effect includes the vitamin K-dependent factor VII. PTT, by contrast, assesses the intrinsic and common pathways and reflects all factors except VII and XIII.",
+  "explanation_incorrect": {
+    "A": "Factors VIII, IX, XI, and XII are intrinsic pathway factors measured by PTT, not PT.",
+    "B": "Factor IX is intrinsic and is not part of PT; the PT factor panel includes VII but not IX.",
+    "D": "Factor VIII is intrinsic and is not part of the extrinsic-plus-common PT panel.",
+    "E": "All factors except VII and XIII describes PTT, not PT."
+  },
+  "educationalObjective": "PT assesses the extrinsic and common pathways: factors I, II, V, VII, and X.",
+  "source": "Generated from 10. Oncology.pdf - Physiology: Coagulation cascade and laboratory tests"
+},
+{
+  "id": "onc-076",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Physiology",
+  "subtopic": "Coagulation cascade and laboratory tests",
+  "difficulty": "medium",
+  "vignette": "A laboratory panel reports a normal PT and a prolonged PTT. The clinician notes that the PTT is sensitive to most coagulation factors but deliberately excludes a few. Which of the following factors is NOT reflected by the PTT?",
+  "question": "Which coagulation factor is NOT measured by the partial thromboplastin time (PTT)?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Factor VII"
+    },
+    {
+      "id": "B",
+      "text": "Factor VIII"
+    },
+    {
+      "id": "C",
+      "text": "Factor IX"
+    },
+    {
+      "id": "D",
+      "text": "Factor XI"
+    },
+    {
+      "id": "E",
+      "text": "Factor XII"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "PTT monitors the intrinsic and common pathways and reflects activity of all factors except VII and XIII. Factor VII is part of the extrinsic pathway and is therefore assessed by PT, not PTT; an isolated factor VII deficiency prolongs PT with a normal PTT. Factor XIII is also excluded because it stabilizes fibrin after the clot has formed and does not affect clot formation time in these assays.",
+  "explanation_incorrect": {
+    "B": "Factor VIII is an intrinsic pathway factor (deficient in hemophilia A) and is measured by PTT.",
+    "C": "Factor IX is an intrinsic pathway factor (deficient in hemophilia B) and prolongs PTT when deficient.",
+    "D": "Factor XI is an intrinsic pathway factor (deficient in hemophilia C) and is reflected in the PTT.",
+    "E": "Factor XII is a contact/intrinsic pathway factor and is included in the PTT assessment."
+  },
+  "educationalObjective": "PTT covers intrinsic and common pathways but excludes factors VII and XIII.",
+  "source": "Generated from 10. Oncology.pdf - Physiology: Coagulation cascade and laboratory tests"
+},
+{
+  "id": "onc-077",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Physiology",
+  "subtopic": "Coagulation cascade and laboratory tests",
+  "difficulty": "medium",
+  "vignette": "A 4-year-old boy has prolonged bleeding after circumcision and recurrent hemarthrosis. Laboratory studies show a prolonged PTT with a normal PT and normal platelet count and function. His maternal uncle had similar bleeding. Sequencing reveals a mutation in the gene for factor VIII. Which diagnosis is most likely?",
+  "question": "An X-linked recessive deficiency of factor VIII causing a prolonged PTT is which form of hemophilia?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Hemophilia B"
+    },
+    {
+      "id": "B",
+      "text": "Hemophilia C"
+    },
+    {
+      "id": "C",
+      "text": "von Willebrand disease"
+    },
+    {
+      "id": "D",
+      "text": "Hemophilia A"
+    },
+    {
+      "id": "E",
+      "text": "Factor XI deficiency"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Hemophilia A is an X-linked recessive deficiency of factor VIII, the classic severe hereditary bleeding disorder, and it produces a prolonged PTT with normal PT and platelet studies. Hemophilia B is X-linked factor IX deficiency, while hemophilia C is autosomal recessive factor XI deficiency. Because factor VIII circulates bound to von Willebrand factor, distinguishing hemophilia A from von Willebrand disease is important, but here the mutation is in the factor VIII gene itself.",
+  "explanation_incorrect": {
+    "A": "Hemophilia B is deficiency of factor IX (X-linked recessive), not factor VIII; it also prolongs PTT.",
+    "B": "Hemophilia C is factor XI deficiency, which is autosomal recessive and not X-linked.",
+    "C": "von Willebrand disease is usually autosomal and involves vWF, which carries factor VIII; the primary defect here is in the factor VIII gene.",
+    "E": "Factor XI deficiency is hemophilia C (autosomal recessive), not an X-linked factor VIII defect."
+  },
+  "educationalObjective": "Hemophilia A = X-linked factor VIII deficiency; B = factor IX; C = autosomal factor XI.",
+  "source": "Generated from 10. Oncology.pdf - Physiology: Coagulation cascade and laboratory tests"
+},
+{
+  "id": "onc-078",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Physiology",
+  "subtopic": "Coagulation cascade and laboratory tests",
+  "difficulty": "hard",
+  "vignette": "A 28-year-old woman has recurrent episodes of facial and laryngeal swelling without urticaria or pruritus, with several episodes triggered by dental work. Her father had similar attacks. Laboratory testing shows decreased levels of C1-esterase inhibitor. Which mediator, generated in the contact/kinin pathway, is most directly responsible for the increased vascular permeability in this condition?",
+  "question": "C1-inhibitor deficiency causes hereditary angioedema through uncontrolled generation of which vasoactive mediator?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Histamine"
+    },
+    {
+      "id": "B",
+      "text": "Thrombin"
+    },
+    {
+      "id": "C",
+      "text": "Fibrin"
+    },
+    {
+      "id": "D",
+      "text": "Prostacyclin (PGI2)"
+    },
+    {
+      "id": "E",
+      "text": "Bradykinin"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "In the contact activation pathway, kallikrein cleaves high-molecular-weight kininogen to generate bradykinin, which increases vasodilation, vascular permeability, and pain. C1-inhibitor normally restrains this pathway; its deficiency (hereditary angioedema) leads to excess bradykinin and attacks of angioedema typically without urticaria. ACE inactivates bradykinin, which is why ACE inhibitors can also cause angioedema. The kinin cascade is linked to factor XII contact activation but is not itself part of the coagulation cascade.",
+  "explanation_incorrect": {
+    "A": "Histamine mediates allergic (type I hypersensitivity) angioedema with urticaria; hereditary angioedema is bradykinin-mediated and usually lacks urticaria.",
+    "B": "Thrombin is the central coagulation enzyme converting fibrinogen to fibrin; it is not the permeability mediator in C1-inhibitor deficiency.",
+    "C": "Fibrin is the insoluble mesh that stabilizes the clot; it does not cause the vasodilation and permeability of angioedema.",
+    "D": "PGI2 is an endothelial anti-aggregatory mediator that increases blood flow; it is not the kinin-pathway mediator here."
+  },
+  "educationalObjective": "C1-inhibitor deficiency leads to excess bradykinin and hereditary angioedema without urticaria.",
+  "source": "Generated from 10. Oncology.pdf - Physiology: Coagulation cascade and laboratory tests"
+},
+{
+  "id": "onc-079",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Physiology",
+  "subtopic": "Coagulation cascade and laboratory tests",
+  "difficulty": "medium",
+  "vignette": "A patient with an acute ischemic stroke arrives within the therapeutic window and receives an intravenous thrombolytic. The drug is a recombinant form of tissue plasminogen activator that converts plasminogen to plasmin, promoting fibrin degradation and restoring blood flow. Which agent is this thrombolytic?",
+  "question": "Which of the following is a thrombolytic that converts plasminogen to plasmin?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Aminocaproic acid"
+    },
+    {
+      "id": "B",
+      "text": "Alteplase"
+    },
+    {
+      "id": "C",
+      "text": "Tranexamic acid"
+    },
+    {
+      "id": "D",
+      "text": "Heparin"
+    },
+    {
+      "id": "E",
+      "text": "Warfarin"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Tissue plasminogen activator (tPA) converts plasminogen to plasmin, which degrades fibrin into fibrin degradation products such as D-dimer. Alteplase, reteplase, and tenecteplase are recombinant tPA thrombolytics used to lyse acute thrombotic occlusions. Antifibrinolytics such as aminocaproic acid and tranexamic acid act in the opposite direction to reduce bleeding.",
+  "explanation_incorrect": {
+    "A": "Aminocaproic acid is an antifibrinolytic; it inhibits fibrinolysis rather than promoting plasminogen activation.",
+    "C": "Tranexamic acid is an antifibrinolytic used to reduce bleeding; it opposes plasmin-mediated fibrin degradation.",
+    "D": "Heparin enhances antithrombin and inhibits coagulation; it is an anticoagulant, not a thrombolytic.",
+    "E": "Warfarin inhibits vitamin K epoxide reductase and reduces clotting factor synthesis; it does not dissolve existing clots."
+  },
+  "educationalObjective": "Alteplase/reteplase/tenecteplase are tPA thrombolytics; plasminogen becomes plasmin, which generates D-dimer.",
+  "source": "Generated from 10. Oncology.pdf - Physiology: Coagulation cascade and laboratory tests"
+},
+{
+  "id": "onc-080",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Physiology",
+  "subtopic": "Coagulation cascade and laboratory tests",
+  "difficulty": "hard",
+  "vignette": "A 22-year-old man has a lifelong bleeding tendency with delayed bleeding after injuries and poor wound healing, but a normal platelet count, PT, and PTT. His fibrin clots form normally in vitro but dissolve prematurely because cross-linking is defective. Deficiency of which factor best explains this picture?",
+  "question": "Defective cross-linking of fibrin with normal PT and PTT most likely reflects deficiency of which factor?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Factor VIII"
+    },
+    {
+      "id": "B",
+      "text": "Factor V"
+    },
+    {
+      "id": "C",
+      "text": "Factor XIII"
+    },
+    {
+      "id": "D",
+      "text": "Factor X"
+    },
+    {
+      "id": "E",
+      "text": "Factor II"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Factor XIII (fibrin-stabilizing factor) covalently cross-links fibrin monomers to stabilize the fibrin mesh, in a calcium-dependent reaction. Because factor XIII acts after fibrin formation, its deficiency does not prolong PT or PTT, which measure clot formation time. It is one of the two factors (with VII) not reflected by PTT and produces delayed bleeding and poor wound healing.",
+  "explanation_incorrect": {
+    "A": "Factor VIII deficiency (hemophilia A) prolongs PTT and does not primarily impair fibrin cross-linking.",
+    "B": "Factor V is a cofactor in the common pathway (prothrombinase); its deficiency prolongs both PT and PTT.",
+    "D": "Factor X is in the common pathway; its deficiency prolongs both PT and PTT.",
+    "E": "Factor II (prothrombin) is in the common pathway; its deficiency prolongs both PT and PTT."
+  },
+  "educationalObjective": "Factor XIII cross-links fibrin; its deficiency causes delayed bleeding with normal PT and PTT.",
+  "source": "Generated from 10. Oncology.pdf - Physiology: Coagulation cascade and laboratory tests"
+}
+]

@@ -1,0 +1,166 @@
+[
+{
+  "id": "onc-328",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Tumor lysis syndrome",
+  "difficulty": "medium",
+  "vignette": "A 24-year-old man with newly diagnosed Burkitt lymphoma begins intensive chemotherapy. Within 48 hours he develops nausea, muscle weakness, and palpitations. Labs: K+ 6.8 mEq/L, phosphate 9.2 mg/dL, calcium 6.1 mg/dL, uric acid 14 mg/dL, creatinine 2.4 mg/dL. ECG shows peaked T waves.",
+  "question": "Which of the following best explains this patient's acute kidney injury?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Calcium oxalate crystal deposition within the renal tubules"
+    },
+    {
+      "id": "B",
+      "text": "Uric acid crystal deposition from increased nucleic acid breakdown"
+    },
+    {
+      "id": "C",
+      "text": "Hypocalcemia-induced reduction in glomerular filtration rate"
+    },
+    {
+      "id": "D",
+      "text": "Hyperkalemia directly causing renal tubular necrosis"
+    },
+    {
+      "id": "E",
+      "text": "Phosphate sequestration of calcium within the renal interstitium"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Massive tumor cell lysis releases purines from nucleic acids, which are catabolized to uric acid. The resulting hyperuricemia causes uric acid crystals to precipitate in renal tubules, producing acute kidney injury, a hallmark of tumor lysis syndrome. This emergency is seen most often with lymphomas and leukemias, usually after treatment initiation. The combination of increased K+, increased phosphate, decreased Ca2+, and increased uric acid ('BreaK the CUP') reflects the massive release of intracellular contents.",
+  "explanation_incorrect": {
+    "A": "Calcium oxalate stones are associated with hyperoxaluria (eg, ethylene glycol poisoning or Crohn disease), not with the nucleic acid breakdown of tumor lysis.",
+    "C": "Hypocalcemia does not reduce GFR; in tumor lysis it results from calcium sequestration by phosphate and produces tetany or seizures, not renal failure.",
+    "D": "Hyperkalemia causes cardiac arrhythmias and ECG changes such as peaked T waves, not direct renal tubular necrosis.",
+    "E": "Calcium phosphate deposition does occur in tumor lysis, but it produces hypocalcemia and tissue crystals; the acute kidney injury is attributed to uric acid crystal obstruction."
+  },
+  "educationalObjective": "In tumor lysis syndrome, hyperuricemia from nucleic acid breakdown causes uric acid crystal-mediated acute kidney injury.",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Tumor lysis syndrome"
+},
+{
+  "id": "onc-329",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Tumor lysis syndrome",
+  "difficulty": "easy",
+  "vignette": "A 19-year-old woman with acute lymphoblastic leukemia starts induction chemotherapy. Over the next day she develops severe muscle cramps and carpopedal spasm. Labs show phosphate 10 mg/dL, calcium 5.8 mg/dL, potassium 6.2 mEq/L, uric acid 12 mg/dL, and creatinine 2.1 mg/dL.",
+  "question": "Which of the following best explains the development of hypocalcemia in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Increased renal calcium excretion caused by hyperkalemia"
+    },
+    {
+      "id": "B",
+      "text": "Reduced intestinal calcium absorption caused by chemotherapy"
+    },
+    {
+      "id": "C",
+      "text": "Parathyroid hormone suppression by hyperuricemia"
+    },
+    {
+      "id": "D",
+      "text": "Sequestration of calcium by the marked hyperphosphatemia"
+    },
+    {
+      "id": "E",
+      "text": "Dilutional hypocalcemia from aggressive intravenous hydration"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "In tumor lysis syndrome, massive release of phosphate from lysed cells produces hyperphosphatemia. The excess phosphate binds calcium, forming calcium phosphate deposits and sequestering calcium from the circulation, which produces hypocalcemia. This manifests as tetany, carpopedal spasm, muscle weakness, seizures, and QT prolongation. Together with increased K+ and increased uric acid, it completes the 'BreaK the CUP' pattern.",
+  "explanation_incorrect": {
+    "A": "Hyperkalemia does not increase renal calcium excretion; here hypocalcemia is due to phosphate binding, not renal wasting.",
+    "B": "Chemotherapy does not acutely reduce intestinal calcium absorption; the mechanism is intracellular phosphate release with calcium sequestration.",
+    "C": "Hyperuricemia does not suppress parathyroid hormone; PTH regulation is not the cause of hypocalcemia in tumor lysis syndrome.",
+    "E": "Aggressive hydration is part of prevention and treatment and does not cause clinically significant dilutional hypocalcemia."
+  },
+  "educationalObjective": "Hypocalcemia in tumor lysis syndrome results from calcium sequestration by phosphate released from lysed tumor cells.",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Tumor lysis syndrome"
+},
+{
+  "id": "onc-330",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Tumor lysis syndrome",
+  "difficulty": "easy",
+  "vignette": "A 33-year-old man with bulky mediastinal diffuse large B-cell lymphoma is about to begin his first cycle of chemotherapy. He has a history of gout. His oncologist starts aggressive IV hydration and wants a drug that will reduce the generation of uric acid.",
+  "question": "Which of the following drugs decreases uric acid production and is used for prophylaxis in this setting?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Allopurinol"
+    },
+    {
+      "id": "B",
+      "text": "Rasburicase"
+    },
+    {
+      "id": "C",
+      "text": "Amlodipine"
+    },
+    {
+      "id": "D",
+      "text": "Spironolactone"
+    },
+    {
+      "id": "E",
+      "text": "Protamine sulfate"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Allopurinol inhibits xanthine oxidase, reducing conversion of hypoxanthine and xanthine to uric acid and thereby decreasing uric acid production. Along with aggressive hydration, it is used for prevention and treatment of tumor lysis syndrome. The uric acid originates from increased nucleic acid breakdown in the lysed tumor cells.",
+  "explanation_incorrect": {
+    "B": "Rasburicase is a recombinant uricase that degrades already-formed uric acid to allantoin; it treats existing hyperuricemia rather than reducing uric acid production.",
+    "C": "Amlodipine is a calcium channel blocker with no role in uric acid metabolism or tumor lysis prophylaxis.",
+    "D": "Spironolactone is an aldosterone antagonist diuretic; it does not lower uric acid and may worsen electrolyte abnormalities.",
+    "E": "Protamine sulfate reverses heparin and has no effect on uric acid production."
+  },
+  "educationalObjective": "Allopurinol prevents tumor lysis syndrome by inhibiting xanthine oxidase and reducing uric acid generation.",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Tumor lysis syndrome"
+},
+{
+  "id": "onc-331",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Tumor lysis syndrome",
+  "difficulty": "medium",
+  "vignette": "A 27-year-old woman with newly diagnosed acute myeloid leukemia begins induction therapy. Two days later she develops confusion and a generalized seizure. Laboratory studies: sodium 138 mEq/L, potassium 6.5 mEq/L, bicarbonate 16 mEq/L, BUN 38 mg/dL, creatinine 2.6 mg/dL, calcium 5.9 mg/dL, phosphate 11 mg/dL, uric acid 15 mg/dL.",
+  "question": "Which of the following abnormalities most directly explains her neurologic manifestations?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Hypernatremia"
+    },
+    {
+      "id": "B",
+      "text": "Hypercalcemia"
+    },
+    {
+      "id": "C",
+      "text": "Hypocalcemia from calcium-phosphate sequestration"
+    },
+    {
+      "id": "D",
+      "text": "Hypophosphatemia"
+    },
+    {
+      "id": "E",
+      "text": "Uric acid directly crossing the blood-brain barrier"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "The seizure reflects hypocalcemia, produced when the large phosphate load released from lysed cells sequesters calcium as calcium phosphate. Hypocalcemia increases neuronal excitability, producing tetany and seizures, and can cause QT prolongation on ECG. Along with hyperkalemia and hyperuricemia, it is part of the classic tumor lysis syndrome pattern.",
+  "explanation_incorrect": {
+    "A": "Sodium is normal at 138 mEq/L, and hypernatremia is not a feature of tumor lysis syndrome.",
+    "B": "Calcium is low, not high; hypercalcemia is not part of the 'BreaK the CUP' pattern of tumor lysis.",
+    "D": "Phosphate is markedly elevated at 11 mg/dL, not low; hypophosphatemia is the opposite of the expected finding.",
+    "E": "Uric acid does not directly cross the blood-brain barrier to cause seizures; hyperuricemia causes renal injury through crystal deposition."
+  },
+  "educationalObjective": "Hypocalcemia due to phosphate sequestration in tumor lysis syndrome causes tetany and seizures.",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Tumor lysis syndrome"
+}
+]

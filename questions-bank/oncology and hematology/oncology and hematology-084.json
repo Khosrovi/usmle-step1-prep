@@ -1,0 +1,166 @@
+[
+{
+  "id": "onc-401",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Topoisomerase inhibitors",
+  "difficulty": "easy",
+  "vignette": "A pharmacology review covers a class of drugs that destabilize DNA-topoisomerase complexes, producing permanent DNA strand breaks. Cells harboring these breaks accumulate in two phases of the cell cycle before undergoing apoptosis.",
+  "question": "In which cell-cycle phases do cells arrest following topoisomerase inhibitor induced DNA strand breaks?",
+  "options": [
+    {
+      "id": "A",
+      "text": "G1 and S"
+    },
+    {
+      "id": "B",
+      "text": "G0 and G1"
+    },
+    {
+      "id": "C",
+      "text": "S and G2"
+    },
+    {
+      "id": "D",
+      "text": "M phase only"
+    },
+    {
+      "id": "E",
+      "text": "G2 and M"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "All topoisomerase inhibitors cause increased DNA strand breaks, which trigger cell-cycle arrest in S and G2 phases. Topoisomerase I inhibitors (irinotecan, topotecan) and topoisomerase II inhibitors (etoposide, teniposide) share this downstream effect. This distinguishes them from antimetabolites, which act in S phase, and microtubule inhibitors, which act in M phase.",
+  "explanation_incorrect": {
+    "A": "G1 is not a phase of arrest for topoisomerase inhibitors; CDK4/6 inhibitors arrest at G1-S.",
+    "B": "G0 and G1 arrest are not typical for these drugs; cell-cycle nonspecific alkylating agents can act in G0.",
+    "D": "M-phase arrest is caused by microtubule inhibitors, not topoisomerase inhibitors.",
+    "E": "Although G2 is involved, topoisomerase inhibitors arrest cells in both S and G2, not exclusively G2 and M."
+  },
+  "educationalObjective": "Topoisomerase inhibitors cause DNA strand breaks leading to arrest in S and G2 phases.",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Topoisomerase inhibitors"
+},
+{
+  "id": "onc-402",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Topoisomerase inhibitors",
+  "difficulty": "medium",
+  "vignette": "A 64-year-old with metastatic colon cancer receives irinotecan. During treatment she develops severe diarrhea and profound myelosuppression. Her oncologist attributes these effects to inhibition of topoisomerase I.",
+  "question": "Which topoisomerase inhibitor is associated with colon, ovarian, and small cell lung cancers and causes severe myelosuppression and diarrhea?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Irinotecan"
+    },
+    {
+      "id": "B",
+      "text": "Etoposide"
+    },
+    {
+      "id": "C",
+      "text": "Teniposide"
+    },
+    {
+      "id": "D",
+      "text": "Doxorubicin"
+    },
+    {
+      "id": "E",
+      "text": "Paclitaxel"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Irinotecan and topotecan inhibit topoisomerase I, preventing relaxation of supercoiled DNA and generating single-strand breaks that become double-strand breaks during replication. They are used for colon, ovarian, and small cell lung cancers. Their dose-limiting toxicities are severe myelosuppression and diarrhea. This contrasts with etoposide and teniposide, which inhibit topoisomerase II and cause myelosuppression and alopecia.",
+  "explanation_incorrect": {
+    "B": "Etoposide is a topoisomerase II inhibitor used for testicular cancer and SCLC; it causes alopecia rather than prominent diarrhea.",
+    "C": "Teniposide is also a topoisomerase II inhibitor and is not linked to the diarrhea typical of topoisomerase I inhibitors.",
+    "D": "Doxorubicin is an anthracycline that intercalates DNA and inhibits topoisomerase II; it causes cardiomyopathy.",
+    "E": "Paclitaxel is a taxane active in M phase, used for ovarian and breast cancer, causing neuropathy and hypersensitivity."
+  },
+  "educationalObjective": "Irinotecan and topotecan inhibit topoisomerase I, treat colon, ovarian, and SCLC, and cause severe myelosuppression and diarrhea.",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Topoisomerase inhibitors"
+},
+{
+  "id": "onc-403",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Topoisomerase inhibitors",
+  "difficulty": "medium",
+  "vignette": "A 30-year-old with testicular cancer is treated with etoposide as part of his regimen. He develops neutropenia and noticeable hair loss. His drug inhibits an enzyme that normally reseals double-stranded DNA breaks by religation.",
+  "question": "Etoposide and teniposide act by inhibiting which enzyme, and what adverse effects are characteristic?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Topoisomerase I; diarrhea"
+    },
+    {
+      "id": "B",
+      "text": "Dihydrofolate reductase; mucositis"
+    },
+    {
+      "id": "C",
+      "text": "Ribonucleotide reductase; megaloblastic anemia"
+    },
+    {
+      "id": "D",
+      "text": "Topoisomerase II; myelosuppression and alopecia"
+    },
+    {
+      "id": "E",
+      "text": "Thymidylate synthase; hand-foot syndrome"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Etoposide and teniposide inhibit topoisomerase II, the enzyme that resolves double-stranded DNA breaks by religation. Inhibition causes accumulation of DNA breaks and arrest in S and G2. They are used for testicular cancer, small cell lung cancer, leukemia, and lymphoma. Toxicities include myelosuppression and alopecia, in contrast to the diarrhea seen with topoisomerase I inhibitors.",
+  "explanation_incorrect": {
+    "A": "Topoisomerase I is inhibited by irinotecan and topotecan, whose signature toxicity is diarrhea rather than alopecia.",
+    "B": "Dihydrofolate reductase is methotrexate's target, and mucositis is methotrexate toxicity.",
+    "C": "Ribonucleotide reductase is hydroxyurea's target, and hydroxyurea can cause megaloblastic anemia.",
+    "E": "Thymidylate synthase is 5-fluorouracil's target, and hand-foot syndrome is 5-FU toxicity."
+  },
+  "educationalObjective": "Etoposide and teniposide inhibit topoisomerase II, are used for testicular cancer, SCLC, leukemia, and lymphoma, and cause myelosuppression and alopecia.",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Topoisomerase inhibitors"
+},
+{
+  "id": "onc-404",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Topoisomerase inhibitors",
+  "difficulty": "hard",
+  "vignette": "A comparison of two topoisomerase inhibitor classes notes that one is associated with prominent diarrhea and use in colon cancer, while the other causes alopecia and is used in testicular cancer. Both cause myelosuppression and arrest in S and G2.",
+  "question": "Which pairing correctly matches the topoisomerase inhibitor class with its signature toxicity and clinical use?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Topoisomerase I inhibitors: alopecia, testicular cancer; topoisomerase II inhibitors: diarrhea, colon cancer"
+    },
+    {
+      "id": "B",
+      "text": "Topoisomerase II inhibitors: diarrhea, colon cancer; topoisomerase I inhibitors: alopecia, testicular cancer"
+    },
+    {
+      "id": "C",
+      "text": "Topoisomerase I inhibitors: neuropathy, breast cancer; topoisomerase II inhibitors: ototoxicity, bladder cancer"
+    },
+    {
+      "id": "D",
+      "text": "Topoisomerase II inhibitors: pulmonary fibrosis, brain tumors; topoisomerase I inhibitors: cardiomyopathy, ovarian cancer"
+    },
+    {
+      "id": "E",
+      "text": "Topoisomerase I inhibitors: diarrhea, colon/ovarian/SCLC; topoisomerase II inhibitors: alopecia, testicular/SCLC/leukemia/lymphoma"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Topoisomerase I inhibitors (irinotecan, topotecan) are used for colon, ovarian, and small cell lung cancers and characteristically cause severe diarrhea and myelosuppression. Topoisomerase II inhibitors (etoposide, teniposide) are used for testicular cancer, SCLC, leukemia, and lymphoma and cause myelosuppression and alopecia. All topoisomerase inhibitors cause DNA strand breaks with S and G2 arrest. Remembering the -tecan drugs as topoisomerase I with diarrhea versus the -bothside drugs as topoisomerase II with alopecia is the key distinction.",
+  "explanation_incorrect": {
+    "A": "This reverses the classes: alopecia belongs to topoisomerase II inhibitors used in testicular cancer, and diarrhea to topoisomerase I inhibitors used in colon cancer.",
+    "B": "This also reverses the correct associations between the enzyme class, its signature toxicity, and its tumor types.",
+    "C": "Neuropathy is a microtubule or platinum toxicity, and ototoxicity is a platinum (cisplatin) effect; neither is a topoisomerase class effect.",
+    "D": "Pulmonary fibrosis is caused by busulfan or bleomycin, and cardiomyopathy by anthracyclines; these are not topoisomerase toxicities."
+  },
+  "educationalObjective": "Topoisomerase I inhibitors cause diarrhea (colon, ovarian, SCLC); topoisomerase II inhibitors cause alopecia (testicular, SCLC, leukemia, lymphoma).",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Topoisomerase inhibitors"
+}
+]

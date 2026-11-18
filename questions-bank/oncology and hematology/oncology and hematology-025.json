@@ -1,0 +1,125 @@
+[
+{
+  "id": "onc-041",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Anatomy",
+  "subtopic": "Dendritic cells",
+  "difficulty": "easy",
+  "vignette": "A researcher is studying the cells that bridge the innate and adaptive immune systems by capturing antigen in peripheral tissues and carrying it to lymph nodes to stimulate naive T cells. He wants to identify the cell type responsible for this link.",
+  "question": "Which of the following cell types best serves as the link between the innate and adaptive immune systems through T-cell stimulation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Neutrophil"
+    },
+    {
+      "id": "B",
+      "text": "Erythrocyte"
+    },
+    {
+      "id": "C",
+      "text": "Mast cell"
+    },
+    {
+      "id": "D",
+      "text": "Dendritic cell"
+    },
+    {
+      "id": "E",
+      "text": "Platelet"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Dendritic cells are highly phagocytic antigen-presenting cells that link the innate and adaptive immune systems. They capture antigen in peripheral tissues, migrate to lymphoid organs, and present processed antigen to naive T cells to initiate adaptive responses. They are the most potent activators of naive T cells. This positions them as the critical bridge between the two arms of immunity.",
+  "explanation_incorrect": {
+    "A": "Neutrophils are phagocytic innate cells of acute inflammation but do not serve as the principal link that stimulates naive T cells.",
+    "B": "Erythrocytes carry oxygen and carbon dioxide and play no role in antigen presentation or T-cell stimulation.",
+    "C": "Mast cells mediate allergic reactions and type I hypersensitivity but are not the APC that links innate and adaptive immunity via naive T-cell activation.",
+    "E": "Platelets are involved in primary hemostasis and are not antigen-presenting cells."
+  },
+  "educationalObjective": "Dendritic cells are highly phagocytic APCs that link innate and adaptive immunity by stimulating naive T cells.",
+  "source": "Generated from 10. Oncology.pdf - Anatomy: Dendritic cells"
+},
+{
+  "id": "onc-042",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Anatomy",
+  "subtopic": "Dendritic cells",
+  "difficulty": "medium",
+  "vignette": "An immunology laboratory analyzes the surface phenotype of a highly phagocytic antigen-presenting cell isolated from skin and lymphoid tissue. The cells are found to express both MHC class II molecules and receptors for the Fc portion of antibodies.",
+  "question": "Which of the following best describes the surface molecules expressed by this cell type?",
+  "options": [
+    {
+      "id": "A",
+      "text": "MHC class II and Fc receptors"
+    },
+    {
+      "id": "B",
+      "text": "MHC class I only, with no Fc receptors"
+    },
+    {
+      "id": "C",
+      "text": "CD3 and CD28"
+    },
+    {
+      "id": "D",
+      "text": "Glycoprotein Ib and IIb/IIIa"
+    },
+    {
+      "id": "E",
+      "text": "CD19 and CD20"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Dendritic cells are professional antigen-presenting cells that express MHC class II molecules and Fc receptors on their surface. MHC II allows them to present exogenous antigen to CD4+ helper T cells, while Fc receptors bind the Fc region of antibody-opsonized particles to enhance phagocytosis. They are highly phagocytic and also express pattern recognition receptors. This phenotype is consistent with the cell described.",
+  "explanation_incorrect": {
+    "B": "Dendritic cells express MHC class II as well as MHC class I and do express Fc receptors, so limiting them to MHC I only is incorrect.",
+    "C": "CD3 and CD28 are T-cell surface molecules involved in the T-cell receptor complex and costimulation, not dendritic cell markers.",
+    "D": "Glycoprotein Ib and IIb/IIIa are platelet surface receptors for von Willebrand factor and fibrinogen, not antigen-presenting cell molecules.",
+    "E": "CD19 and CD20 are B-cell surface markers, not the phenotype of dendritic cells."
+  },
+  "educationalObjective": "Dendritic cells express MHC class II and Fc receptors, supporting antigen presentation and opsonized-particle uptake.",
+  "source": "Generated from 10. Oncology.pdf - Anatomy: Dendritic cells"
+},
+{
+  "id": "onc-043",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Anatomy",
+  "subtopic": "Dendritic cells",
+  "difficulty": "hard",
+  "vignette": "A virology researcher observes that a certain antigen-presenting cell can present exogenous viral antigens on MHC class I molecules, thereby activating CD8+ cytotoxic T cells, a process known as cross-presentation. She wants to identify the cell type uniquely capable of this.",
+  "question": "Which of the following cell types is capable of cross-presenting exogenous antigens on MHC class I?",
+  "options": [
+    {
+      "id": "A",
+      "text": "B cell"
+    },
+    {
+      "id": "B",
+      "text": "Macrophage"
+    },
+    {
+      "id": "C",
+      "text": "Neutrophil"
+    },
+    {
+      "id": "D",
+      "text": "Erythrocyte"
+    },
+    {
+      "id": "E",
+      "text": "Dendritic cell"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Dendritic cells are uniquely capable of cross-presentation, the process by which exogenous antigens are presented on MHC class I molecules to activate CD8+ cytotoxic T cells. This allows the immune system to respond to viruses and tumors that do not directly infect the antigen-presenting cell. Dendritic cells can also present antigen on MHC II to CD4+ helper T cells. This dual presentation capacity underlies their central role in initiating adaptive immunity.",
+  "explanation_incorrect": {
+    "A": "B cells present antigen on MHC II to helper T cells but are not the principal cross-presenting cell for MHC I activation of CD8+ T cells.",
+    "B": "Macrophages are antigen-presenting cells that mainly present on MHC II, and they are not the classic cross-presenting cell type.",
+    "C": "Neutrophils are innate phagocytes and are not professional antigen-presenting cells capable of cross-presentation.",
+    "D": "Erythrocytes are anucleate oxygen-carrying cells and have no antigen-presenting capability."
+  },
+  "educationalObjective": "Dendritic cells can cross-present exogenous antigens on MHC class I to activate CD8+ cytotoxic T cells.",
+  "source": "Generated from 10. Oncology.pdf - Anatomy: Dendritic cells"
+}
+]

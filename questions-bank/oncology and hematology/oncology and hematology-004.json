@@ -1,0 +1,248 @@
+[
+{
+  "id": "onc-386",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Alkylating agents",
+  "difficulty": "easy",
+  "vignette": "A 45-year-old with AML is undergoing preparation for a bone marrow transplant. High-dose chemotherapy is used to destroy his existing hematopoietic stem cells before infusion of donor marrow. The oncologist chooses an agent that cross-links DNA and works regardless of cell-cycle phase.",
+  "question": "Which alkylating agent is classically used to ablate a patient's bone marrow before transplantation, and are alkylating agents cell-cycle specific?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Cyclophosphamide; cell cycle specific for S phase"
+    },
+    {
+      "id": "B",
+      "text": "Ifosfamide; cell cycle specific for M phase"
+    },
+    {
+      "id": "C",
+      "text": "Carmustine; cell cycle specific for G2 phase"
+    },
+    {
+      "id": "D",
+      "text": "Busulfan; cell cycle nonspecific"
+    },
+    {
+      "id": "E",
+      "text": "Procarbazine; cell cycle specific for S phase"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Busulfan is an alkylating agent that cross-links DNA and is used in high doses to ablate the patient's bone marrow before bone marrow transplantation. Like all alkylating agents, it is cell cycle nonspecific, meaning it can damage DNA in both dividing and resting cells. This distinguishes alkylating agents from antimetabolites (S phase) and microtubule inhibitors (M phase). Severe myelosuppression is an expected consequence of marrow ablation.",
+  "explanation_incorrect": {
+    "A": "Cyclophosphamide is a nitrogen mustard used for solid tumors, leukemia, lymphoma, and autoimmune disease rather than marrow ablation; alkylating agents are not S-phase specific.",
+    "B": "Ifosfamide is a nitrogen mustard not used for marrow ablation, and alkylating agents are not M-phase specific.",
+    "C": "Carmustine is a nitrosourea used for brain tumors; alkylating agents are not G2-phase specific.",
+    "E": "Procarbazine is a weak MAO inhibitor used in Hodgkin lymphoma and brain tumors; alkylating agents are not S-phase specific."
+  },
+  "educationalObjective": "Busulfan cross-links DNA to ablate marrow before transplant, and alkylating agents are cell-cycle nonspecific.",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Alkylating agents"
+},
+{
+  "id": "onc-387",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Alkylating agents",
+  "difficulty": "medium",
+  "vignette": "A 50-year-old receives busulfan as part of a transplant conditioning regimen. Months later he develops progressive dyspnea with interstitial changes on chest imaging and darkening of his skin, described by his physician as a busulfan tan.",
+  "question": "Which toxicity is classically associated with busulfan?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Hemorrhagic cystitis"
+    },
+    {
+      "id": "B",
+      "text": "Pulmonary fibrosis"
+    },
+    {
+      "id": "C",
+      "text": "Peripheral neuropathy"
+    },
+    {
+      "id": "D",
+      "text": "Ototoxicity"
+    },
+    {
+      "id": "E",
+      "text": "Fanconi syndrome"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Busulfan's characteristic adverse effects include severe myelosuppression (in almost all cases), pulmonary fibrosis, and hyperpigmentation. Pulmonary fibrosis is a classic, high-yield association, and the hyperpigmentation is sometimes called a busulfan tan. Hemorrhagic cystitis is caused by cyclophosphamide and ifosfamide and is prevented by mesna. Recognizing this toxicity pattern helps distinguish busulfan from other alkylating agents.",
+  "explanation_incorrect": {
+    "A": "Hemorrhagic cystitis with bladder cancer risk is due to cyclophosphamide and ifosfamide and is prevented by mesna.",
+    "C": "Peripheral neuropathy is associated with vinca alkaloids, taxanes, and platinum compounds.",
+    "D": "Ototoxicity is a platinum-compound toxicity, especially cisplatin.",
+    "E": "Fanconi syndrome is associated with ifosfamide and with platinum nephrotoxicity."
+  },
+  "educationalObjective": "Busulfan causes severe myelosuppression, pulmonary fibrosis, and hyperpigmentation.",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Alkylating agents"
+},
+{
+  "id": "onc-388",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Alkylating agents",
+  "difficulty": "medium",
+  "vignette": "A 32-year-old woman with severe lupus nephritis and a second patient with granulomatosis with polyangiitis are both treated with the same nitrogen mustard alkylating agent. The drug is inactive until it is metabolized in the liver to its active form.",
+  "question": "Which nitrogen mustard requires hepatic bioactivation and is used for rheumatic diseases such as SLE and granulomatosis with polyangiitis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Busulfan"
+    },
+    {
+      "id": "B",
+      "text": "Carmustine"
+    },
+    {
+      "id": "C",
+      "text": "Procarbazine"
+    },
+    {
+      "id": "D",
+      "text": "Cisplatin"
+    },
+    {
+      "id": "E",
+      "text": "Cyclophosphamide"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Cyclophosphamide (and ifosfamide) are nitrogen mustards that require bioactivation by the liver to form active alkylating metabolites. They cross-link DNA and are used for solid tumors, leukemia, lymphomas, and rheumatic diseases including SLE and granulomatosis with polyangiitis. This hepatic dependence is a key distinguishing feature. Cyclophosphamide also causes hemorrhagic cystitis, which is prevented by mesna.",
+  "explanation_incorrect": {
+    "A": "Busulfan is an alkylating agent used for marrow ablation, not a nitrogen mustard for autoimmune disease.",
+    "B": "Carmustine is a nitrosourea that crosses the blood-brain barrier for brain tumors.",
+    "C": "Procarbazine is a weak MAO inhibitor used in Hodgkin lymphoma and brain tumors.",
+    "D": "Cisplatin is a platinum compound, not a nitrogen mustard, and does not require hepatic bioactivation."
+  },
+  "educationalObjective": "Cyclophosphamide and ifosfamide are nitrogen mustards requiring hepatic bioactivation and are used for SLE/GPA and malignancies.",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Alkylating agents"
+},
+{
+  "id": "onc-389",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Alkylating agents",
+  "difficulty": "hard",
+  "vignette": "A 24-year-old receives high-dose cyclophosphamide. During hospitalization he develops dysuria and gross hematuria. His oncology team had administered a preventive agent to reduce this risk, and counseling included the need to monitor long term for bladder cancer.",
+  "question": "Which preventive agent is given with cyclophosphamide to reduce the risk of hemorrhagic cystitis and subsequent bladder cancer?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Mesna"
+    },
+    {
+      "id": "B",
+      "text": "Amifostine"
+    },
+    {
+      "id": "C",
+      "text": "Dexrazoxane"
+    },
+    {
+      "id": "D",
+      "text": "Leucovorin"
+    },
+    {
+      "id": "E",
+      "text": "Allopurinol"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Cyclophosphamide and ifosfamide can cause hemorrhagic cystitis and increase the risk of bladder cancer through accumulation of the metabolite acrolein in the urine. Mesna binds acrolein and is given prophylactically to prevent this toxicity. Cyclophosphamide also causes myelosuppression and SIADH, while ifosfamide can additionally cause Fanconi syndrome. This is a classic prevent-with-mesna pairing.",
+  "explanation_incorrect": {
+    "B": "Amifostine is a free-radical scavenger used to prevent platinum (cisplatin) nephrotoxicity.",
+    "C": "Dexrazoxane is an iron chelator used to prevent anthracycline cardiotoxicity.",
+    "D": "Leucovorin is used for methotrexate rescue and to enhance 5-FU, not for cystitis.",
+    "E": "Allopurinol is a xanthine oxidase inhibitor used to lower uric acid and to avoid 6-MP toxicity interactions."
+  },
+  "educationalObjective": "Mesna prevents cyclophosphamide and ifosfamide induced hemorrhagic cystitis and bladder cancer.",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Alkylating agents"
+},
+{
+  "id": "onc-390",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Alkylating agents",
+  "difficulty": "medium",
+  "vignette": "A 60-year-old is diagnosed with glioblastoma multiforme. The oncology team selects an alkylating agent that can cross the blood-brain barrier to reach the central nervous system tumor. After treatment he develops dizziness, ataxia, and seizures.",
+  "question": "Which alkylating agents cross the blood-brain barrier and are used for brain tumors, and what adverse effect is associated with them?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Cyclophosphamide and ifosfamide; hemorrhagic cystitis"
+    },
+    {
+      "id": "B",
+      "text": "Busulfan and procarbazine; pulmonary fibrosis"
+    },
+    {
+      "id": "C",
+      "text": "Carmustine and lomustine; CNS toxicity (convulsions, dizziness, ataxia)"
+    },
+    {
+      "id": "D",
+      "text": "Cisplatin and carboplatin; ototoxicity"
+    },
+    {
+      "id": "E",
+      "text": "Etoposide and teniposide; alopecia"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Carmustine and lomustine are nitrosoureas that are lipid soluble and cross the blood-brain barrier, making them useful for brain tumors including glioblastoma multiforme. Their toxicity includes CNS effects such as convulsions, dizziness, and ataxia. They require hepatic bioactivation and cross-link DNA. The mnemonic about putting nitro in your Mustang and traveling the globe reinforces their brain penetration.",
+  "explanation_incorrect": {
+    "A": "Cyclophosphamide and ifosfamide are nitrogen mustards whose signature toxicity is hemorrhagic cystitis; they are not selected for brain penetration.",
+    "B": "Busulfan causes pulmonary fibrosis; procarbazine is used for brain tumors but is a MAO inhibitor, and pulmonary fibrosis is not its signature toxicity.",
+    "D": "Cisplatin and carboplatin are platinum compounds with ototoxicity and nephrotoxicity; they do not cross the blood-brain barrier well.",
+    "E": "Etoposide and teniposide are topoisomerase II inhibitors causing alopecia; they are not nitrosoureas."
+  },
+  "educationalObjective": "Carmustine and lomustine are nitrosoureas that cross the blood-brain barrier to treat brain tumors and cause CNS toxicity.",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Alkylating agents"
+},
+{
+  "id": "onc-391",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Alkylating agents",
+  "difficulty": "hard",
+  "vignette": "A patient with Hodgkin lymphoma is started on procarbazine and advised to avoid aged cheeses and red wine. Several weeks later he ingests a large amount of tyramine-rich food and develops a severe headache, palpitations, and marked hypertension. He also reports unpleasant effects after alcohol consumption.",
+  "question": "Which property of procarbazine explains this patient's hypertensive reaction to tyramine, and what other characteristic reaction is associated with the drug?",
+  "options": [
+    {
+      "id": "A",
+      "text": "DNA intercalation; pulmonary fibrosis"
+    },
+    {
+      "id": "B",
+      "text": "Weak MAO inhibition; disulfiram-like reaction"
+    },
+    {
+      "id": "C",
+      "text": "Dihydrofolate reductase inhibition; mucositis"
+    },
+    {
+      "id": "D",
+      "text": "Microtubule stabilization; neuropathy"
+    },
+    {
+      "id": "E",
+      "text": "Topoisomerase II inhibition; alopecia"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Procarbazine is an alkylating agent with an unknown mechanism that also acts as a weak monoamine oxidase (MAO) inhibitor. Inhibition of MAO permits dietary tyramine to promote norepinephrine release, producing a hypertensive crisis. Procarbazine also causes a disulfiram-like reaction with alcohol. It is used in Hodgkin lymphoma and brain tumors, with toxicities including myelosuppression, pulmonary toxicity, and leukemia risk.",
+  "explanation_incorrect": {
+    "A": "DNA intercalation is characteristic of dactinomycin and doxorubicin; pulmonary fibrosis is caused by busulfan and bleomycin.",
+    "C": "Dihydrofolate reductase inhibition is methotrexate, which causes mucositis, not procarbazine.",
+    "D": "Microtubule stabilization is the taxane mechanism and causes neuropathy.",
+    "E": "Topoisomerase II inhibition is etoposide, which causes alopecia."
+  },
+  "educationalObjective": "Procarbazine is a weak MAO inhibitor: tyramine can precipitate hypertensive crisis, and it causes a disulfiram-like reaction with alcohol.",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Alkylating agents"
+}
+]

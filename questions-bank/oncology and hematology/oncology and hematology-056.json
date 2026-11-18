@@ -1,0 +1,207 @@
+[
+{
+  "id": "onc-053",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Anatomy",
+  "subtopic": "Lymphocytes: B cells, T cells, NK cells",
+  "difficulty": "medium",
+  "vignette": "A 6-year-old child has recurrent severe infections with intracellular pathogens. Laboratory studies show normal numbers of B cells but markedly reduced T-cell function and absent thymic shadow on imaging.",
+  "question": "Which lymphocyte lineage is primarily affected, and where does it mature?",
+  "options": [
+    {
+      "id": "A",
+      "text": "B cells, which mature in the bone marrow"
+    },
+    {
+      "id": "B",
+      "text": "Natural killer cells, which mature in the thymus"
+    },
+    {
+      "id": "C",
+      "text": "T cells, which originate in the bone marrow but mature in the thymus"
+    },
+    {
+      "id": "D",
+      "text": "Plasma cells, which mature in peripheral lymphoid tissue"
+    },
+    {
+      "id": "E",
+      "text": "T cells, which originate and mature in the bone marrow"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "T cells originate from bone marrow stem cells but mature in the thymus, where they differentiate into CD8+ cytotoxic cells recognizing MHC I, CD4+ helper cells recognizing MHC II, and regulatory T cells. The rule of 8: MHC II × CD4 = 8 and MHC I × CD8 = 8.",
+  "explanation_incorrect": {
+    "A": "B cells mature in the bone marrow (B = bone marrow) and mediate humoral immunity; they are normal in this child.",
+    "B": "NK cells are innate lymphocytes with lytic granules; they do not mature in the thymus and are not the primary defect in a thymic disorder.",
+    "D": "Plasma cells are antibody-secreting descendants of B cells found in marrow and lymphoid tissue, not a separate lineage defined by thymic maturation.",
+    "E": "T cells originate in the marrow but require thymic maturation; saying they mature in marrow reverses the actual sequence."
+  },
+  "educationalObjective": "T cells are bone marrow–derived but thymus-matured; B cells both originate and mature in marrow.",
+  "source": "Generated from 10. Oncology.pdf - Anatomy: Lymphocytes: B cells, T cells, NK cells"
+},
+{
+  "id": "onc-054",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Anatomy",
+  "subtopic": "Lymphocytes: B cells, T cells, NK cells",
+  "difficulty": "hard",
+  "vignette": "A patient with a viral infection has cells that recognize and kill infected targets without prior immunization. These cells are larger than other lymphocytes and contain cytoplasmic granules with perforin and granzymes. They are observed to kill targets that have downregulated class I MHC expression.",
+  "question": "Which cell population is described?",
+  "options": [
+    {
+      "id": "A",
+      "text": "CD4+ helper T cells, because they recognize antigen on MHC II"
+    },
+    {
+      "id": "B",
+      "text": "Natural killer cells, because they kill cells lacking class I MHC"
+    },
+    {
+      "id": "C",
+      "text": "B cells, because they present antigen via class II MHC"
+    },
+    {
+      "id": "D",
+      "text": "Cytotoxic CD8+ T cells, because they recognize antigen on MHC I"
+    },
+    {
+      "id": "E",
+      "text": "Plasma cells, because they secrete antigen-specific antibody"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "NK cells are part of innate immunity, are larger than B and T cells, and contain lytic granules with perforin and granzymes that induce apoptosis in target cells. They identify stressed, infected, or malignant cells and kill cells that fail to express class I MHC — a mechanism viruses exploit by downregulating MHC I.",
+  "explanation_incorrect": {
+    "A": "CD4+ helper T cells recognize MHC II and coordinate humoral and cellular responses rather than directly killing MHC-I-deficient cells.",
+    "C": "B cells mediate humoral immunity and can present antigen, but they lack perforin-granzyme lytic granules.",
+    "D": "CD8+ cytotoxic T cells recognize peptide on MHC I; they do not kill targets specifically because class I MHC is absent.",
+    "E": "Plasma cells secrete antibodies and do not mediate direct cell killing."
+  },
+  "educationalObjective": "NK cells kill cells with absent or reduced MHC I using perforin and granzymes.",
+  "source": "Generated from 10. Oncology.pdf - Anatomy: Lymphocytes: B cells, T cells, NK cells"
+},
+{
+  "id": "onc-055",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Anatomy",
+  "subtopic": "Lymphocytes: B cells, T cells, NK cells",
+  "difficulty": "easy",
+  "vignette": "A patient is diagnosed with a B-cell neoplasm. The oncology team plans a monoclonal antibody therapy targeting the B-cell surface antigen CD20.",
+  "question": "Which cell type is the normal counterpart of this neoplasm?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A cell that matures in the thymus and expresses CD3"
+    },
+    {
+      "id": "B",
+      "text": "A cell that mediates humoral immunity, can become an antibody-secreting plasma cell, and expresses CD19/CD20"
+    },
+    {
+      "id": "C",
+      "text": "A large granular lymphocyte with CD56 and CD16"
+    },
+    {
+      "id": "D",
+      "text": "A phagocytic cell that presents antigen on MHC II"
+    },
+    {
+      "id": "E",
+      "text": "A cell containing heparin and histamine granules"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "B cells mediate the humoral immune response, originate and mature in bone marrow, and migrate to lymphoid follicles where they differentiate into antibody-secreting plasma cells and memory cells. They express CD19, CD20, and CD21 and can function as antigen-presenting cells.",
+  "explanation_incorrect": {
+    "A": "CD3 is a T-cell marker; T cells mature in the thymus and mediate cellular, not humoral, immunity.",
+    "C": "CD56 and CD16 are natural killer cell markers; NK cells are innate lymphocytes with lytic granules.",
+    "D": "Dendritic cells and macrophages are professional phagocytic APCs, not CD20-positive B lymphocytes.",
+    "E": "Basophils and mast cells contain histamine and heparin granules and are granulocytes/tissue cells, not lymphocytes."
+  },
+  "educationalObjective": "B cells are CD19/CD20-positive humoral immune cells that can differentiate into plasma cells.",
+  "source": "Generated from 10. Oncology.pdf - Anatomy: Lymphocytes: B cells, T cells, NK cells"
+},
+{
+  "id": "onc-056",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Anatomy",
+  "subtopic": "Lymphocytes: B cells, T cells, NK cells",
+  "difficulty": "medium",
+  "vignette": "A patient with HIV infection has progressive depletion of a lymphocyte subset that normally expresses CD4 and recognizes antigen presented on MHC class II molecules.",
+  "question": "Which immune function is most directly impaired by loss of this subset?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Direct killing of virus-infected cells lacking MHC I"
+    },
+    {
+      "id": "B",
+      "text": "Coordinate help for cytotoxic T cells and B cells"
+    },
+    {
+      "id": "C",
+      "text": "Production of antibody by terminally differentiated plasma cells"
+    },
+    {
+      "id": "D",
+      "text": "Phagocytosis of opsonized bacteria by splenic macrophages"
+    },
+    {
+      "id": "E",
+      "text": "Cross-presentation of exogenous antigen on MHC I"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "CD4+ helper T cells recognize antigen on MHC II (rule of 8) and provide help to CD8+ cytotoxic T cells and B cells. They are the primary target of HIV, so their loss impairs coordination of both cellular and humoral immunity.",
+  "explanation_incorrect": {
+    "A": "Killing of cells lacking MHC I is an NK-cell function and is not dependent on CD4 help as its primary mechanism.",
+    "C": "Plasma cells secrete antibody after B-cell differentiation; CD4 loss indirectly affects this but the direct helper role is the better answer.",
+    "D": "Splenic macrophage phagocytosis of opsonized organisms is an innate function not primarily mediated by CD4 T cells.",
+    "E": "Cross-presentation on MHC I is a dendritic cell function linking innate to adaptive immunity."
+  },
+  "educationalObjective": "CD4+ helper T cells recognize MHC II and coordinate cytotoxic T-cell and B-cell responses.",
+  "source": "Generated from 10. Oncology.pdf - Anatomy: Lymphocytes: B cells, T cells, NK cells"
+},
+{
+  "id": "onc-057",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Anatomy",
+  "subtopic": "Lymphocytes: B cells, T cells, NK cells",
+  "difficulty": "easy",
+  "vignette": "A 33-year-old woman has a lymph node biopsy showing a population of small lymphocytes with round densely staining nuclei and scant pale cytoplasm. Flow cytometry shows a predominance of T cells, which are the most common circulating lymphocytes.",
+  "question": "What percentage of circulating lymphocytes do T cells normally represent?",
+  "options": [
+    {
+      "id": "A",
+      "text": "About 5%"
+    },
+    {
+      "id": "B",
+      "text": "About 20%"
+    },
+    {
+      "id": "C",
+      "text": "About 80%"
+    },
+    {
+      "id": "D",
+      "text": "About 50%, with B cells making up the other half"
+    },
+    {
+      "id": "E",
+      "text": "Essentially none; T cells reside only in tissues"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "T cells make up about 80% of circulating lymphocytes. They originate in bone marrow, mature in the thymus, and differentiate into cytotoxic (CD8), helper (CD4), and regulatory subsets. Resting lymphocytes have round densely staining nuclei with a small amount of pale cytoplasm.",
+  "explanation_incorrect": {
+    "A": "Five percent would be far too low; T cells are the dominant circulating lymphocyte population.",
+    "B": "About 20% approximates the B-cell fraction, not the T-cell fraction.",
+    "D": "T and B cells are not equally represented in blood; T cells predominate at roughly 80%.",
+    "E": "T cells circulate extensively and are the majority of peripheral blood lymphocytes."
+  },
+  "educationalObjective": "T cells constitute approximately 80% of circulating lymphocytes.",
+  "source": "Generated from 10. Oncology.pdf - Anatomy: Lymphocytes: B cells, T cells, NK cells"
+}
+]

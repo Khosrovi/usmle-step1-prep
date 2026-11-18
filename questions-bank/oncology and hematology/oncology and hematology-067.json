@@ -1,0 +1,166 @@
+[
+{
+  "id": "onc-139",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Orotic aciduria, nonmegaloblastic macrocytosis, Diamond-Blackfan",
+  "difficulty": "easy",
+  "vignette": "A 2-year-old has failure to thrive and developmental delay. CBC shows megaloblastic anemia that did not improve after trials of folate and vitamin B12. Urinalysis demonstrates increased orotic acid, while serum ammonia is normal.",
+  "question": "Which diagnosis best fits this child?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Ornithine transcarbamylase deficiency"
+    },
+    {
+      "id": "B",
+      "text": "Orotic aciduria"
+    },
+    {
+      "id": "C",
+      "text": "Pernicious anemia"
+    },
+    {
+      "id": "D",
+      "text": "Diamond-Blackfan anemia"
+    },
+    {
+      "id": "E",
+      "text": "β-thalassemia major"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Orotic aciduria is an autosomal recessive defect in UMP synthase that prevents conversion of orotic acid to UMP in de novo pyrimidine synthesis. It presents in children with failure to thrive, developmental delay, and megaloblastic anemia refractory to folate and B12. Orotic acid appears in urine, and treatment is UMP or uridine triacetate to bypass the defective enzyme. The normal ammonia distinguishes it from urea cycle defects.",
+  "explanation_incorrect": {
+    "A": "OTC deficiency also raises urine orotic acid but causes hyperammonemia, which is absent here.",
+    "C": "Pernicious anemia is a B12 deficiency occurring in older patients and would respond to B12 replacement.",
+    "D": "Diamond-Blackfan anemia is a pure red cell aplasia with congenital anomalies, not orotic aciduria.",
+    "E": "β-thalassemia major is a microcytic hemolytic anemia, not a megaloblastic anemia with orotic aciduria."
+  },
+  "educationalObjective": "Orotic aciduria is an autosomal recessive UMP synthase defect causing child-onset megaloblastic anemia, orotic aciduria, and no hyperammonemia.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Orotic aciduria, nonmegaloblastic macrocytosis, Diamond-Blackfan"
+},
+{
+  "id": "onc-140",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Orotic aciduria, nonmegaloblastic macrocytosis, Diamond-Blackfan",
+  "difficulty": "medium",
+  "vignette": "A child has megaloblastic anemia and increased urine orotic acid. The clinician must distinguish orotic aciduria from ornithine transcarbamylase (OTC) deficiency before starting treatment. Family history and ammonia levels are reviewed.",
+  "question": "Which finding most strongly favors orotic aciduria over OTC deficiency?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Elevated serum ammonia"
+    },
+    {
+      "id": "B",
+      "text": "An X-linked inheritance pattern"
+    },
+    {
+      "id": "C",
+      "text": "Normal serum ammonia with failure to thrive and refractory megaloblastic anemia"
+    },
+    {
+      "id": "D",
+      "text": "Hyperactivity and seizures"
+    },
+    {
+      "id": "E",
+      "text": "Improvement with a low-protein diet alone"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Both orotic aciduria and OTC deficiency increase urine orotic acid, but only OTC deficiency causes hyperammonemia because it is a urea cycle disorder. Normal ammonia with failure to thrive, developmental delay, and megaloblastic anemia refractory to folate and B12 points to orotic aciduria. Orotic aciduria is autosomal recessive, whereas OTC deficiency is X-linked. Treatment with UMP or uridine triacetate bypasses the defective UMP synthase.",
+  "explanation_incorrect": {
+    "A": "Elevated serum ammonia is the hallmark of OTC deficiency, not uncomplicated orotic aciduria.",
+    "B": "OTC deficiency is X-linked; orotic aciduria is autosomal recessive.",
+    "D": "Hyperactivity and seizures with hyperammonemia are typical of OTC deficiency rather than orotic aciduria.",
+    "E": "Dietary protein restriction is used in urea cycle disorders, not as the treatment for orotic aciduria."
+  },
+  "educationalObjective": "Absence of hyperammonemia distinguishes orotic aciduria from OTC deficiency when urine orotic acid is elevated.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Orotic aciduria, nonmegaloblastic macrocytosis, Diamond-Blackfan"
+},
+{
+  "id": "onc-141",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Orotic aciduria, nonmegaloblastic macrocytosis, Diamond-Blackfan",
+  "difficulty": "easy",
+  "vignette": "A 56-year-old man with cirrhosis has fatigue. CBC shows Hb 10.5 g/dL and MCV 110 fL. Peripheral smear demonstrates macrocytosis but no hypersegmented neutrophils. His homocysteine and methylmalonic acid are normal.",
+  "question": "Which mechanism best explains this anemia?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Impaired DNA synthesis from vitamin B12 deficiency"
+    },
+    {
+      "id": "B",
+      "text": "Impaired DNA synthesis from folate deficiency"
+    },
+    {
+      "id": "C",
+      "text": "Defective UMP synthase in de novo pyrimidine synthesis"
+    },
+    {
+      "id": "D",
+      "text": "Nonmegaloblastic macrocytosis from liver disease with normal DNA synthesis"
+    },
+    {
+      "id": "E",
+      "text": "Chronic hemolysis with marked reticulocytosis"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Nonmegaloblastic macrocytosis occurs with normal DNA synthesis and is caused by chronic alcohol overuse or liver disease. The smear shows macrocytosis without hypersegmented neutrophils, and B12/folate-related metabolites are normal. This distinguishes it from megaloblastic anemia, where nuclear maturation is delayed and hypersegmented neutrophils are present.",
+  "explanation_incorrect": {
+    "A": "B12 deficiency would produce hypersegmented neutrophils, neurologic findings, and elevated methylmalonic acid.",
+    "B": "Folate deficiency produces hypersegmented neutrophils and elevated homocysteine and is not explained by cirrhosis alone.",
+    "C": "UMP synthase deficiency causes orotic aciduria in children with megaloblastic anemia and urine orotic acid.",
+    "E": "Hemolysis raises reticulocytes and unconjugated bilirubin and is not the cause of this macrocytosis without megaloblastic features."
+  },
+  "educationalObjective": "Liver disease and alcohol cause nonmegaloblastic macrocytosis with normal DNA synthesis and no hypersegmented neutrophils.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Orotic aciduria, nonmegaloblastic macrocytosis, Diamond-Blackfan"
+},
+{
+  "id": "onc-142",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Orotic aciduria, nonmegaloblastic macrocytosis, Diamond-Blackfan",
+  "difficulty": "hard",
+  "vignette": "An 8-month-old has pallor, a broad nasal bridge, and triphalangeal thumbs. Hb is 7.0 g/dL with MCV 98 fL and a low reticulocyte count. White blood cell and platelet counts are normal. The percentage of HbF is increased even though total hemoglobin is low.",
+  "question": "Which diagnosis best fits this infant?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Diamond-Blackfan anemia"
+    },
+    {
+      "id": "B",
+      "text": "Fanconi anemia"
+    },
+    {
+      "id": "C",
+      "text": "β-thalassemia major"
+    },
+    {
+      "id": "D",
+      "text": "Transient erythroblastopenia of childhood"
+    },
+    {
+      "id": "E",
+      "text": "Hereditary spherocytosis"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Diamond-Blackfan anemia is a congenital pure red cell aplasia caused by an intrinsic defect in erythroid progenitor cells, presenting with rapid-onset anemia within the first year of life. It is distinguished from Fanconi anemia, which causes pancytopenia. The percentage of HbF is increased despite reduced total hemoglobin. Short stature, craniofacial abnormalities, and upper extremity malformations such as triphalangeal thumbs occur in up to half of cases.",
+  "explanation_incorrect": {
+    "B": "Fanconi anemia causes pancytopenia with short stature and café-au-lait spots, not isolated erythroid failure with normal platelets and neutrophils.",
+    "C": "β-thalassemia major is a microcytic hemolytic anemia with target cells and anisopoikilocytosis, not pure red cell aplasia.",
+    "D": "Transient erythroblastopenia presents later in childhood and lacks the congenital anomalies and elevated HbF percentage.",
+    "E": "Hereditary spherocytosis is a hemolytic anemia with spherocytes and reticulocytosis, not low reticulocytes and pure red cell aplasia."
+  },
+  "educationalObjective": "Diamond-Blackfan anemia is congenital pure red cell aplasia with first-year anemia, increased HbF percentage, and physical malformations.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Orotic aciduria, nonmegaloblastic macrocytosis, Diamond-Blackfan"
+}
+]

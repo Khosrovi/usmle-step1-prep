@@ -1,0 +1,248 @@
+[
+{
+  "id": "onc-332",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Heparin and low-molecular-weight heparin",
+  "difficulty": "easy",
+  "vignette": "A 56-year-old man is admitted with an acute pulmonary embolism. He receives an intravenous bolus of unfractionated heparin, and its anticoagulant effect is evident within minutes.",
+  "question": "Through which of the following mechanisms does heparin produce its rapid anticoagulant effect?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Direct inhibition of factor Xa by binding to its active site"
+    },
+    {
+      "id": "B",
+      "text": "Activation of antithrombin, which decreases activity of factors IIa and Xa"
+    },
+    {
+      "id": "C",
+      "text": "Inhibition of vitamin K epoxide reductase in the liver"
+    },
+    {
+      "id": "D",
+      "text": "Direct conversion of plasminogen to plasmin"
+    },
+    {
+      "id": "E",
+      "text": "Irreversible acetylation of platelet cyclooxygenase"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Heparin binds to and activates antithrombin, which then inactivates primarily factor IIa (thrombin) and factor Xa. This produces immediate anticoagulation, making heparin ideal for acute PE, acute coronary syndrome, MI, and DVT. It has a short half-life and is monitored with PTT. Unfractionated heparin acts on both IIa and Xa.",
+  "explanation_incorrect": {
+    "A": "Direct factor Xa binding is the mechanism of the direct Xa inhibitors and, predominantly, of low-molecular-weight heparin; heparin works indirectly through antithrombin.",
+    "C": "Inhibition of vitamin K epoxide reductase is the mechanism of warfarin, which acts in the liver and has a slow onset.",
+    "D": "Conversion of plasminogen to plasmin is the mechanism of thrombolytics such as alteplase, not heparin.",
+    "E": "Irreversible acetylation of platelet cyclooxygenase is the mechanism of aspirin, an antiplatelet agent."
+  },
+  "educationalObjective": "Heparin activates antithrombin to rapidly inhibit factors IIa and Xa.",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Heparin and low-molecular-weight heparin"
+},
+{
+  "id": "onc-333",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Heparin and low-molecular-weight heparin",
+  "difficulty": "medium",
+  "vignette": "A 29-year-old woman at 32 weeks' gestation is diagnosed with a deep venous thrombosis. Her physician chooses an anticoagulant that will not harm the fetus.",
+  "question": "Which of the following best describes heparin use in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It crosses the placenta and is teratogenic, so it is contraindicated"
+    },
+    {
+      "id": "B",
+      "text": "It is monitored with PT/INR and acts on the extrinsic pathway"
+    },
+    {
+      "id": "C",
+      "text": "It acts in the liver by inhibiting vitamin K-dependent factors"
+    },
+    {
+      "id": "D",
+      "text": "It is given orally and has a long half-life"
+    },
+    {
+      "id": "E",
+      "text": "It does not cross the placenta, and low-molecular-weight heparin is preferred"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Heparin and especially low-molecular-weight heparin (eg, enoxaparin) do not cross the placenta and are not teratogenic, making them the anticoagulants of choice during pregnancy. LMWH is preferred because of its more predictable pharmacokinetics and longer half-life. Heparin is given parenterally, acts in blood through antithrombin, and is monitored with PTT.",
+  "explanation_incorrect": {
+    "A": "Warfarin, not heparin, crosses the placenta and is teratogenic; heparin is considered safe in pregnancy.",
+    "B": "PT/INR monitors the extrinsic pathway and is used for warfarin; heparin is monitored with PTT.",
+    "C": "Heparin acts in blood through antithrombin, not in the liver through vitamin K-dependent factors, which is warfarin's mechanism.",
+    "D": "Heparin is given parenterally (IV or SC) and has a short half-life; it is not oral."
+  },
+  "educationalObjective": "Heparin does not cross the placenta, so LMWH is the preferred anticoagulant in pregnancy.",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Heparin and low-molecular-weight heparin"
+},
+{
+  "id": "onc-334",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Heparin and low-molecular-weight heparin",
+  "difficulty": "easy",
+  "vignette": "A 62-year-old man receiving unfractionated heparin for an acute MI develops severe bleeding from a peptic ulcer. The heparin effect must be reversed immediately.",
+  "question": "Which of the following agents is the specific reversal agent for heparin?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Protamine sulfate"
+    },
+    {
+      "id": "B",
+      "text": "Vitamin K"
+    },
+    {
+      "id": "C",
+      "text": "Idarucizumab"
+    },
+    {
+      "id": "D",
+      "text": "Andexanet alfa"
+    },
+    {
+      "id": "E",
+      "text": "Fresh frozen plasma"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Protamine sulfate is a positively charged peptide that binds the negatively charged heparin molecules, forming an inactive complex that reverses anticoagulation. It is the specific reversal agent for heparin (reversal of LMWH is less complete). Vitamin K and FFP/PCC are used for warfarin reversal.",
+  "explanation_incorrect": {
+    "B": "Vitamin K reverses warfarin by restoring vitamin K-dependent factor synthesis; it has no effect on heparin.",
+    "C": "Idarucizumab is the monoclonal antibody Fab fragment that reverses the direct thrombin inhibitor dabigatran.",
+    "D": "Andexanet alfa is a recombinant inactive factor Xa used to reverse direct factor Xa inhibitors.",
+    "E": "Fresh frozen plasma supplies clotting factors for rapid warfarin reversal, not as a specific heparin antidote."
+  },
+  "educationalObjective": "Protamine sulfate is the specific reversal agent for heparin.",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Heparin and low-molecular-weight heparin"
+},
+{
+  "id": "onc-335",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Heparin and low-molecular-weight heparin",
+  "difficulty": "hard",
+  "vignette": "A 48-year-old woman has received unfractionated heparin for 8 days after major surgery. Her platelet count has fallen from 250,000 to 62,000/mm3, and she develops a new painful, swollen left leg; Doppler ultrasound confirms a deep venous thrombosis. No other cause for the thrombocytopenia is found.",
+  "question": "Which of the following best describes the pathogenesis of this patient's condition?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A nonimmune, transient platelet drop within the first 2 days of heparin exposure"
+    },
+    {
+      "id": "B",
+      "text": "Direct platelet activation by heparin within 24 hours without antibody formation"
+    },
+    {
+      "id": "C",
+      "text": "IgG antibodies against heparin-bound platelet factor 4 causing platelet activation and thrombosis"
+    },
+    {
+      "id": "D",
+      "text": "Bone marrow suppression from heparin causing reduced platelet production"
+    },
+    {
+      "id": "E",
+      "text": "Platelet sequestration from hypersplenism due to hepatic congestion"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "This is heparin-induced thrombocytopenia (HIT) type 2, a serious immune complication arising 5-10 days after heparin exposure. IgG antibodies form against heparin-bound platelet factor 4 (PF4); the antibody-heparin-PF4 complex activates platelets, leading to their removal by splenic macrophages (thrombocytopenia) and to thrombosis. Risk is highest with unfractionated heparin, and paradoxically patients thrombose despite a low platelet count.",
+  "explanation_incorrect": {
+    "A": "This describes HIT type 1: a mild, nonimmune, transient drop within 2 days with platelets above 100,000/mm3, which is not clinically significant. This patient has severe thrombocytopenia and thrombosis.",
+    "B": "HIT type 2 requires IgG antibody formation against heparin-PF4 and occurs after 5-10 days, not direct activation without antibodies within 24 hours.",
+    "D": "Heparin does not suppress the bone marrow; HIT is immune-mediated peripheral platelet destruction accompanied by thrombosis.",
+    "E": "Hypersplenism is not the mechanism; platelets are consumed by heparin-PF4-mediated activation and removed by splenic macrophages, with concurrent thrombosis."
+  },
+  "educationalObjective": "HIT type 2 is caused by IgG antibodies to heparin-PF4, producing thrombocytopenia and thrombosis 5-10 days after heparin exposure.",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Heparin and low-molecular-weight heparin"
+},
+{
+  "id": "onc-336",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Heparin and low-molecular-weight heparin",
+  "difficulty": "hard",
+  "vignette": "A 60-year-old man on unfractionated heparin for 7 days develops HIT type 2 with a new lower-extremity DVT. His physician must stop heparin and select an alternative anticoagulant that will not cross-react with the heparin-PF4 antibodies.",
+  "question": "Which of the following is the most appropriate alternative anticoagulant for this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Enoxaparin"
+    },
+    {
+      "id": "B",
+      "text": "Dalteparin"
+    },
+    {
+      "id": "C",
+      "text": "Warfarin"
+    },
+    {
+      "id": "D",
+      "text": "Argatroban"
+    },
+    {
+      "id": "E",
+      "text": "Unfractionated heparin at a lower dose"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "In HIT type 2, all heparin products (including the low-molecular-weight heparins enoxaparin and dalteparin) must be stopped because they can cross-react with heparin-PF4 antibodies. Argatroban, a direct thrombin inhibitor, is an appropriate alternative anticoagulant. Fondaparinux is also safe because it does not interact with PF4.",
+  "explanation_incorrect": {
+    "A": "Enoxaparin is a low-molecular-weight heparin that can cross-react with heparin-PF4 antibodies; all heparin products are stopped in HIT.",
+    "B": "Dalteparin is another LMWH and, like all heparin preparations, is contraindicated once HIT type 2 has developed.",
+    "C": "Warfarin is not the immediate alternative here; it does not provide the rapid, PF4-independent anticoagulation needed in acute HIT.",
+    "E": "Continuing any unfractionated heparin, even at a reduced dose, perpetuates antibody-mediated platelet activation and thrombosis."
+  },
+  "educationalObjective": "HIT type 2 requires stopping all heparin products and using a non-heparin anticoagulant such as argatroban; fondaparinux is also safe.",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Heparin and low-molecular-weight heparin"
+},
+{
+  "id": "onc-337",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Heparin and low-molecular-weight heparin",
+  "difficulty": "medium",
+  "vignette": "A 70-year-old man with chronic kidney disease (creatinine clearance 20 mL/min) requires anticoagulation. His physician is choosing between unfractionated heparin and low-molecular-weight heparin.",
+  "question": "Which of the following statements about low-molecular-weight heparins is correct?",
+  "options": [
+    {
+      "id": "A",
+      "text": "They are easily reversed with protamine, unlike unfractionated heparin"
+    },
+    {
+      "id": "B",
+      "text": "They act mainly on factor Xa, have a longer half-life, and undergo renal clearance"
+    },
+    {
+      "id": "C",
+      "text": "They are given orally and monitored with PT/INR"
+    },
+    {
+      "id": "D",
+      "text": "They act only on factor IIa and have a shorter half-life than unfractionated heparin"
+    },
+    {
+      "id": "E",
+      "text": "They markedly prolong the PTT and require routine PTT monitoring"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Low-molecular-weight heparins (eg, enoxaparin, dalteparin) act mainly on factor Xa, have a longer half-life than unfractionated heparin, and are cleared renally, so they must be used with caution in renal insufficiency. They are not easily reversible. Unfractionated heparin, which acts on both IIa and Xa, is preferred in patients with renal failure. Fondaparinux acts only on factor Xa.",
+  "explanation_incorrect": {
+    "A": "LMWHs are not easily reversed; protamine reversal is incomplete compared with unfractionated heparin.",
+    "C": "LMWHs are given subcutaneously (parenterally), not orally, and are not monitored with PT/INR.",
+    "D": "LMWHs act mainly on factor Xa, not only IIa, and have a longer, not shorter, half-life than unfractionated heparin.",
+    "E": "LMWHs have minimal effect on PTT and do not require routine PTT monitoring; unfractionated heparin is the agent monitored with PTT."
+  },
+  "educationalObjective": "LMWHs act mainly on factor Xa, have longer half-lives and renal clearance, and are not easily reversed.",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Heparin and low-molecular-weight heparin"
+}
+]

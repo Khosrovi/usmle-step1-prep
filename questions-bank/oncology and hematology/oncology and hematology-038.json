@@ -1,0 +1,166 @@
+[
+{
+  "id": "onc-061",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Physiology",
+  "subtopic": "Hemoglobin electrophoresis",
+  "difficulty": "medium",
+  "vignette": "A newborn screening test shows hemoglobin patterns labeled AA, AF, AS, SS, AC, CC, and SC. The laboratory technician must explain how far each hemoglobin migrates during gel electrophoresis.",
+  "question": "Which sequence correctly orders the hemoglobins from farthest migration toward the anode to closest to the cathode?",
+  "options": [
+    {
+      "id": "A",
+      "text": "HbC, HbS, HbF, HbA"
+    },
+    {
+      "id": "B",
+      "text": "HbA, HbS, HbF, HbC"
+    },
+    {
+      "id": "C",
+      "text": "HbA, HbF, HbS, HbC"
+    },
+    {
+      "id": "D",
+      "text": "HbS, HbA, HbC, HbF"
+    },
+    {
+      "id": "E",
+      "text": "HbF, HbA, HbC, HbS"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Hemoglobin migrates from the negatively charged cathode toward the positively charged anode. HbA migrates farthest, followed by HbF, HbS, and HbC. HbS (glutamic acid to valine) and HbC (glutamic acid to lysine) are more positively charged than HbA, so they migrate less; HbC is closest to the cathode. Mnemonic: 'A Fat Santa Claus can't go far.'",
+  "explanation_incorrect": {
+    "A": "This reverses the order; HbA migrates farthest toward the anode, while HbC stays closest to the cathode.",
+    "B": "HbF migrates farther than HbS, so placing HbS before HbF is incorrect.",
+    "D": "HbA migrates farther than HbS, and HbC is the slowest, so this ordering is wrong.",
+    "E": "HbA migrates farther than HbF, and HbC is closest to the cathode, not in the middle."
+  },
+  "educationalObjective": "Electrophoretic migration: HbA > HbF > HbS > HbC toward the anode.",
+  "source": "Generated from 10. Oncology.pdf - Physiology: Hemoglobin electrophoresis"
+},
+{
+  "id": "onc-062",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Physiology",
+  "subtopic": "Hemoglobin electrophoresis",
+  "difficulty": "hard",
+  "vignette": "Two mutant hemoglobins are compared with normal adult hemoglobin. In one, the beta-chain substitution replaces a negatively charged glutamic acid with a neutral valine; in the other, it replaces glutamic acid with a positively charged lysine.",
+  "question": "Which pair of hemoglobins is described, respectively?",
+  "options": [
+    {
+      "id": "A",
+      "text": "HbS (valine) and HbC (lysine)"
+    },
+    {
+      "id": "B",
+      "text": "HbC (valine) and HbS (lysine)"
+    },
+    {
+      "id": "C",
+      "text": "HbF (gamma chains) and HbA2 (delta chains)"
+    },
+    {
+      "id": "D",
+      "text": "HbA (glutamic acid) and HbF (glutamic acid)"
+    },
+    {
+      "id": "E",
+      "text": "HbS (lysine) and HbC (valine)"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Sickle hemoglobin (HbS) results from a missense mutation replacing glutamic acid (negative) with valine (neutral) at position 6 of the beta chain. HbC replaces the same residue with lysine (positive). The resulting charge differences explain their electrophoretic positions: HbS and HbC are more positive than HbA, with HbC closest to the cathode.",
+  "explanation_incorrect": {
+    "B": "The substitutions are swapped: valine defines HbS and lysine defines HbC.",
+    "C": "HbF contains gamma chains and HbA2 delta chains; both are normal hemoglobins, not the missense mutants described.",
+    "D": "Normal HbA contains glutamic acid at that position, so it is not a mutant with the described substitutions.",
+    "E": "This reverses the correct amino acid substitutions for HbS and HbC."
+  },
+  "educationalObjective": "HbS has valine and HbC has lysine replacing the beta-chain glutamic acid of HbA.",
+  "source": "Generated from 10. Oncology.pdf - Physiology: Hemoglobin electrophoresis"
+},
+{
+  "id": "onc-063",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Physiology",
+  "subtopic": "Hemoglobin electrophoresis",
+  "difficulty": "easy",
+  "vignette": "An asymptomatic patient has hemoglobin electrophoresis showing a band consisting of HbA and a smaller band of HbS, with no significant HbF increase and no HbC band.",
+  "question": "Which clinical state is most consistent with this pattern?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Sickle cell disease (homozygous SS)"
+    },
+    {
+      "id": "B",
+      "text": "Sickle cell trait (heterozygous AS)"
+    },
+    {
+      "id": "C",
+      "text": "Hemoglobin C disease (homozygous CC)"
+    },
+    {
+      "id": "D",
+      "text": "Hemoglobin SC disease"
+    },
+    {
+      "id": "E",
+      "text": "Normal adult pattern"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "The pattern labeled AS in electrophoresis tables corresponds to sickle cell trait: both normal HbA and HbS are present. Homozygous SS disease shows predominantly HbS, HbC disease shows HbC, SC disease shows both S and C, and a normal adult shows only HbA with small HbA2.",
+  "explanation_incorrect": {
+    "A": "Homozygous sickle cell disease shows predominantly HbS with little or no HbA, not a dominant HbA band.",
+    "C": "HbC disease would show a HbC band migrating closest to the cathode, which is absent here.",
+    "D": "HbSC disease would show both HbS and HbC bands rather than HbA.",
+    "E": "A normal adult pattern lacks the HbS band entirely."
+  },
+  "educationalObjective": "Hb AS on electrophoresis indicates sickle cell trait with both normal and sickle hemoglobin.",
+  "source": "Generated from 10. Oncology.pdf - Physiology: Hemoglobin electrophoresis"
+},
+{
+  "id": "onc-064",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Physiology",
+  "subtopic": "Hemoglobin electrophoresis",
+  "difficulty": "medium",
+  "vignette": "A newborn's electrophoresis shows a predominant fetal band with only a small adult band. By six months of age, the fetal fraction has declined and the adult pattern predominates. The clinician interprets this as normal development.",
+  "question": "Which hemoglobin composition corresponds to the fetal band?",
+  "options": [
+    {
+      "id": "A",
+      "text": "α2β2"
+    },
+    {
+      "id": "B",
+      "text": "α2γ2"
+    },
+    {
+      "id": "C",
+      "text": "α2δ2"
+    },
+    {
+      "id": "D",
+      "text": "ζ2ε2"
+    },
+    {
+      "id": "E",
+      "text": "β4"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Fetal hemoglobin (HbF) is composed of two alpha and two gamma chains (α2γ2). HbF has a higher affinity for oxygen because it binds 2,3-BPG less avidly, enabling fetal capture of oxygen from maternal hemoglobin across the placenta. After birth, gamma-chain synthesis declines and beta chains replace it.",
+  "explanation_incorrect": {
+    "A": "α2β2 is adult hemoglobin HbA1, which predominates after infancy.",
+    "C": "α2δ2 is HbA2, a minor adult hemoglobin fraction present in small amounts.",
+    "D": "ζ and ε are embryonic globins produced very early in gestation, not the dominant fetal hemoglobin.",
+    "E": "β4 tetramers form hemoglobin H in alpha-thalassemia with three deleted alpha genes, not normal fetal hemoglobin."
+  },
+  "educationalObjective": "HbF is α2γ2 and has higher oxygen affinity due to reduced 2,3-BPG binding.",
+  "source": "Generated from 10. Oncology.pdf - Physiology: Hemoglobin electrophoresis"
+}
+]

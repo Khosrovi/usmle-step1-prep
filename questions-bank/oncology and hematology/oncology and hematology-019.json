@@ -1,0 +1,207 @@
+[
+{
+  "id": "onc-366",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Cancer therapy: cell cycle and targets",
+  "difficulty": "medium",
+  "vignette": "A 47-year-old woman with colorectal cancer is started on 5-fluorouracil, and a 38-year-old man with leukemia is given cytarabine. The oncology fellow reviews a diagram of the cell cycle and wants to identify which chemotherapeutic class these agents belong to based on the phase in which they act.",
+  "question": "Which of the following chemotherapeutic classes is S-phase specific, as are methotrexate, 5-fluorouracil, and cytarabine?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Taxanes and vinca alkaloids"
+    },
+    {
+      "id": "B",
+      "text": "Alkylating agents and platinum compounds"
+    },
+    {
+      "id": "C",
+      "text": "Anthracyclines and bleomycin"
+    },
+    {
+      "id": "D",
+      "text": "Topoisomerase inhibitors"
+    },
+    {
+      "id": "E",
+      "text": "Antimetabolites"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Antimetabolites such as methotrexate, 5-fluorouracil, cytarabine, and thiopurines are S-phase specific because they interfere with DNA synthesis during replication. Methotrexate and 5-FU decrease thymidine synthesis, thiopurines decrease de novo purine synthesis, and hydroxyurea inhibits ribonucleotide reductase. Their phase specificity reflects their action on DNA synthesis machinery, which is active only during S phase.",
+  "explanation_incorrect": {
+    "A": "Taxanes and vinca alkaloids act during M phase by disrupting microtubules, not during S phase.",
+    "B": "Alkylating agents and platinum compounds are cell-cycle independent because they cross-link DNA regardless of phase.",
+    "C": "Anthracyclines and bleomycin act at G2/M; bleomycin causes DNA scission and anthracyclines intercalate.",
+    "D": "Topoisomerase inhibitors act mainly in S and G2 phases, but they are a distinct class from the antimetabolites."
+  },
+  "educationalObjective": "Antimetabolites (methotrexate, 5-FU, cytarabine, thiopurines, hydroxyurea) are S-phase-specific agents that block nucleotide synthesis.",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Cancer therapy: cell cycle and targets"
+},
+{
+  "id": "onc-367",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Cancer therapy: cell cycle and targets",
+  "difficulty": "easy",
+  "vignette": "A 56-year-old man with metastatic lung cancer is prescribed paclitaxel, and a 24-year-old woman with Hodgkin lymphoma is prescribed vincristine. A medical student asks which phase of the cell cycle these drugs target and why they are grouped together.",
+  "question": "Which of the following best categorizes paclitaxel and vincristine based on cell-cycle phase and mechanism?",
+  "options": [
+    {
+      "id": "A",
+      "text": "S-phase antimetabolites that inhibit thymidylate synthase"
+    },
+    {
+      "id": "B",
+      "text": "M-phase microtubule inhibitors that disrupt the mitotic spindle"
+    },
+    {
+      "id": "C",
+      "text": "G2/M-phase antitumor antibiotics that generate free radicals"
+    },
+    {
+      "id": "D",
+      "text": "Cell-cycle-independent alkylating agents that cross-link DNA"
+    },
+    {
+      "id": "E",
+      "text": "Topoisomerase I inhibitors active in S phase"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Taxanes (eg, paclitaxel) and vinca alkaloids (eg, vincristine) are M-phase-specific microtubule inhibitors. Vinca alkaloids inhibit microtubule formation, while taxanes inhibit microtubule disassembly, both disrupting the mitotic spindle and halting mitosis. This shared phase specificity and microtubule target is why they are grouped together on the cell-cycle diagram.",
+  "explanation_incorrect": {
+    "A": "S-phase antimetabolites such as methotrexate and 5-FU decrease thymidine synthesis; they are not microtubule inhibitors.",
+    "C": "G2/M antitumor antibiotics include bleomycin (DNA scission) and anthracyclines (intercalation), not taxanes or vinca alkaloids.",
+    "D": "Cell-cycle-independent alkylating agents cross-link DNA in any phase; taxanes and vinca alkaloids are phase specific.",
+    "E": "Topoisomerase I inhibitors such as irinotecan and topotecan act in S/G2, and are a mechanistically distinct class."
+  },
+  "educationalObjective": "Taxanes and vinca alkaloids are M-phase microtubule inhibitors: vinca blocks formation, taxanes block disassembly.",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Cancer therapy: cell cycle and targets"
+},
+{
+  "id": "onc-368",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Cancer therapy: cell cycle and targets",
+  "difficulty": "hard",
+  "vignette": "A 52-year-old woman with chronic myeloid leukemia is prescribed hydroxyurea to reduce leukocyte counts. The pharmacist reviews the drug's molecular target on a diagram of nucleotide synthesis and DNA replication. Among the antimetabolites, hydroxyurea has a distinct enzyme target that distinguishes it from methotrexate, 5-fluorouracil, and the thiopurines.",
+  "question": "Which of the following is the molecular target of hydroxyurea?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Thymidylate synthase"
+    },
+    {
+      "id": "B",
+      "text": "De novo purine synthesis"
+    },
+    {
+      "id": "C",
+      "text": "Dihydrofolate reductase"
+    },
+    {
+      "id": "D",
+      "text": "Ribonucleotide reductase"
+    },
+    {
+      "id": "E",
+      "text": "Topoisomerase II"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Hydroxyurea inhibits ribonucleotide reductase, the enzyme that converts ribonucleotides to deoxyribonucleotides required for DNA synthesis. This depletes the deoxynucleotide pool and blocks DNA replication, particularly in rapidly dividing cells. This distinguishes it from methotrexate (dihydrofolate reductase, decreasing thymidine), 5-FU (thymidylate synthase), and thiopurines (de novo purine synthesis).",
+  "explanation_incorrect": {
+    "A": "Thymidylate synthase is inhibited by 5-fluorouracil (as 5-FdUMP), which decreases dTMP and DNA synthesis; it is not hydroxyurea's target.",
+    "B": "De novo purine synthesis is decreased by thiopurines such as azathioprine and 6-mercaptopurine, not by hydroxyurea.",
+    "C": "Dihydrofolate reductase is inhibited by methotrexate, which indirectly decreases thymidine synthesis.",
+    "E": "Topoisomerase II is inhibited by etoposide and teniposide and by anthracyclines, not by hydroxyurea."
+  },
+  "educationalObjective": "Hydroxyurea inhibits ribonucleotide reductase, depleting deoxyribonucleotides needed for DNA synthesis.",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Cancer therapy: cell cycle and targets"
+},
+{
+  "id": "onc-369",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Cancer therapy: cell cycle and targets",
+  "difficulty": "medium",
+  "vignette": "A 60-year-old man with multiple myeloma is being reviewed at a tumor board. The oncologist notes that certain chemotherapeutic drugs can kill cells throughout the cell cycle, including resting cells in G0, because they directly damage DNA. The team contrasts these with phase-specific agents like antimetabolites and vinca alkaloids.",
+  "question": "Which of the following groups of chemotherapeutic agents is cell-cycle independent?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Alkylating agents, platinum compounds, busulfan, nitrogen mustards, nitrosoureas, and procarbazine"
+    },
+    {
+      "id": "B",
+      "text": "Methotrexate, 5-fluorouracil, and cytarabine"
+    },
+    {
+      "id": "C",
+      "text": "Vincristine, vinblastine, and paclitaxel"
+    },
+    {
+      "id": "D",
+      "text": "Etoposide, teniposide, irinotecan, and topotecan"
+    },
+    {
+      "id": "E",
+      "text": "Cladribine and pentostatin"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Cell-cycle-independent drugs act in any phase, including G0, because they directly damage DNA. This group includes alkylating agents, platinum compounds, busulfan, nitrogen mustards, nitrosoureas, procarbazine, and dactinomycin (by DNA intercalation). Their ability to attack non-dividing cells makes them effective against slowly growing tumors but also contributes to toxicity in normal tissues.",
+  "explanation_incorrect": {
+    "B": "Methotrexate, 5-fluorouracil, and cytarabine are antimetabolites and are S-phase specific.",
+    "C": "Vinca alkaloids and taxanes are M-phase-specific microtubule inhibitors, not cell-cycle independent.",
+    "D": "Topoisomerase inhibitors act primarily in S and G2 phases and are considered phase specific relative to classic alkylators.",
+    "E": "Cladribine and pentostatin are purine nucleoside analogs; cladribine is cell-cycle nonspecific but this pair is not the classic cell-cycle-independent alkylating/platinum group."
+  },
+  "educationalObjective": "Alkylating agents, platinum compounds, busulfan, nitrogen mustards, nitrosoureas, and procarbazine are cell-cycle independent DNA-damaging drugs.",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Cancer therapy: cell cycle and targets"
+},
+{
+  "id": "onc-370",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Cancer therapy: cell cycle and targets",
+  "difficulty": "medium",
+  "vignette": "A 45-year-old woman with small cell lung cancer is treated with etoposide in combination with cisplatin. A pharmacology student is reviewing the topoisomerase inhibitors and wants to correctly pair each drug with its specific topoisomerase target, since etoposide and teniposide differ from irinotecan and topotecan.",
+  "question": "Which of the following statements correctly pairs a topoisomerase inhibitor with its molecular target?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Irinotecan inhibits topoisomerase II"
+    },
+    {
+      "id": "B",
+      "text": "Topotecan inhibits topoisomerase II"
+    },
+    {
+      "id": "C",
+      "text": "Etoposide inhibits topoisomerase II"
+    },
+    {
+      "id": "D",
+      "text": "Methotrexate inhibits topoisomerase I"
+    },
+    {
+      "id": "E",
+      "text": "Hydroxyurea inhibits topoisomerase II"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Etoposide and teniposide inhibit topoisomerase II, preventing the relaxation of supercoiled DNA and leading to DNA strand breaks. In contrast, irinotecan and topotecan inhibit topoisomerase I. Topoisomerase inhibitors are most active in S and G2 phases, when DNA is being replicated and these enzymes are essential.",
+  "explanation_incorrect": {
+    "A": "Irinotecan inhibits topoisomerase I, not II; it is a camptothecin analog used in colorectal cancer.",
+    "B": "Topotecan, like irinotecan, inhibits topoisomerase I rather than topoisomerase II.",
+    "D": "Methotrexate inhibits dihydrofolate reductase, decreasing thymidine synthesis; it does not target topoisomerases.",
+    "E": "Hydroxyurea inhibits ribonucleotide reductase, not topoisomerase II."
+  },
+  "educationalObjective": "Etoposide and teniposide inhibit topoisomerase II; irinotecan and topotecan inhibit topoisomerase I.",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Cancer therapy: cell cycle and targets"
+}
+]

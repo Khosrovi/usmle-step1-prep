@@ -1,0 +1,166 @@
+[
+{
+  "id": "onc-344",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Heparin vs warfarin comparison",
+  "difficulty": "medium",
+  "vignette": "A medical student is comparing heparin and warfarin. She correctly notes that the two drugs differ in their route of administration and their site of action.",
+  "question": "Which of the following correctly pairs the route of administration and site of action for each drug?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Heparin - oral, liver; Warfarin - parenteral, blood"
+    },
+    {
+      "id": "B",
+      "text": "Heparin - oral, blood; Warfarin - parenteral, liver"
+    },
+    {
+      "id": "C",
+      "text": "Heparin - parenteral (IV or SC), blood; Warfarin - oral, liver"
+    },
+    {
+      "id": "D",
+      "text": "Heparin - parenteral, liver; Warfarin - oral, blood"
+    },
+    {
+      "id": "E",
+      "text": "Both drugs are given orally and act in the liver"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Heparin is given parenterally (IV or SC) and acts in the blood by activating antithrombin. Warfarin is given orally and acts in the liver by inhibiting vitamin K epoxide reductase and the synthesis of vitamin K-dependent factors. This contrast is a core row of the heparin versus warfarin comparison table.",
+  "explanation_incorrect": {
+    "A": "Both entries are reversed: heparin is not oral and does not act in the liver, and warfarin is not parenteral and does not act in blood.",
+    "B": "Heparin is not given orally, and warfarin is not given parenterally.",
+    "D": "Heparin acts in blood, not the liver; warfarin acts in the liver, not blood.",
+    "E": "Only warfarin is oral; heparin is parenteral, and the two drugs act at different sites."
+  },
+  "educationalObjective": "Heparin is parenteral and acts in blood; warfarin is oral and acts in the liver.",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Heparin vs warfarin comparison"
+},
+{
+  "id": "onc-345",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Heparin vs warfarin comparison",
+  "difficulty": "easy",
+  "vignette": "One patient on heparin has a PTT of 78 seconds; another patient on warfarin has an INR of 2.5.",
+  "question": "Which of the following correctly states the monitoring test used for each anticoagulant?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Heparin - PTT (intrinsic pathway); Warfarin - PT/INR (extrinsic pathway)"
+    },
+    {
+      "id": "B",
+      "text": "Heparin - PT/INR; Warfarin - PTT"
+    },
+    {
+      "id": "C",
+      "text": "Both are monitored with PTT"
+    },
+    {
+      "id": "D",
+      "text": "Both are monitored with PT/INR"
+    },
+    {
+      "id": "E",
+      "text": "Heparin - bleeding time; Warfarin - thrombin time"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Heparin is monitored with PTT, which reflects the intrinsic pathway, because it acts through antithrombin on factors IIa and Xa. Warfarin is monitored with PT/INR, reflecting the extrinsic pathway, because factor VII is vitamin K-dependent with a short half-life. 'The ex-PresidenT went to war(farin).'",
+  "explanation_incorrect": {
+    "B": "This reverses the tests: heparin is followed with PTT and warfarin with PT/INR.",
+    "C": "Warfarin is not monitored with PTT; it is followed with PT/INR.",
+    "D": "Heparin is not monitored with PT/INR; it is followed with PTT.",
+    "E": "Bleeding time assesses platelet function and thrombin time assesses fibrinogen conversion; neither monitors these anticoagulants."
+  },
+  "educationalObjective": "Heparin is monitored with PTT (intrinsic pathway); warfarin with PT/INR (extrinsic pathway).",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Heparin vs warfarin comparison"
+},
+{
+  "id": "onc-346",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Heparin vs warfarin comparison",
+  "difficulty": "medium",
+  "vignette": "A clinician reviews the onset and duration of action of heparin and warfarin while choosing anticoagulation for a patient with an acute DVT.",
+  "question": "Which of the following correctly compares the onset and duration of action of heparin and warfarin?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Heparin has a slow onset (days) and long duration (days); warfarin has a rapid onset (seconds) and short duration (hours)"
+    },
+    {
+      "id": "B",
+      "text": "Both drugs have a rapid onset of seconds and a duration of hours"
+    },
+    {
+      "id": "C",
+      "text": "Both drugs have a slow onset limited by the half-lives of normal clotting factors"
+    },
+    {
+      "id": "D",
+      "text": "Heparin's onset is slow because it acts in the liver; warfarin's onset is rapid because it acts in blood"
+    },
+    {
+      "id": "E",
+      "text": "Heparin has a rapid onset (seconds) and duration of hours; warfarin has a slow onset limited by clotting factor half-lives and a duration of days"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Heparin acts within seconds because it activates circulating antithrombin, and its effect lasts hours owing to its short half-life. Warfarin has a slow onset because its effect depends on depletion of existing vitamin K-dependent clotting factors (governed by their half-lives), and its duration is days.",
+  "explanation_incorrect": {
+    "A": "This reverses the properties: heparin is rapid and short-acting, whereas warfarin is slow and longer-acting.",
+    "B": "Warfarin does not have a rapid onset of seconds or a duration of only hours.",
+    "C": "Only warfarin has an onset limited by clotting factor half-lives; heparin acts immediately.",
+    "D": "Heparin acts in blood and rapidly, not in the liver; warfarin acts in the liver and slowly, not in blood."
+  },
+  "educationalObjective": "Heparin acts within seconds and lasts hours; warfarin acts over days and lasts days.",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Heparin vs warfarin comparison"
+},
+{
+  "id": "onc-347",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Heparin vs warfarin comparison",
+  "difficulty": "easy",
+  "vignette": "A pregnant patient requires anticoagulation, and the team is comparing heparin with warfarin before choosing therapy.",
+  "question": "Which of the following statements about placental transfer of these drugs is correct?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Both heparin and warfarin cross the placenta and are teratogenic"
+    },
+    {
+      "id": "B",
+      "text": "Heparin does not cross the placenta; warfarin crosses the placenta and is teratogenic"
+    },
+    {
+      "id": "C",
+      "text": "Heparin crosses the placenta but is not teratogenic; warfarin does not cross"
+    },
+    {
+      "id": "D",
+      "text": "Neither drug crosses the placenta, so both are safe in pregnancy"
+    },
+    {
+      "id": "E",
+      "text": "Warfarin does not cross the placenta, but heparin does and is teratogenic"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Heparin does not cross the placenta and is safe in pregnancy, with LMWH preferred. Warfarin crosses the placenta and is teratogenic, so it is avoided in pregnancy. This difference in placental transfer is a key row of the heparin versus warfarin comparison.",
+  "explanation_incorrect": {
+    "A": "Heparin does not cross the placenta; only warfarin does.",
+    "C": "The opposite is true: heparin does not cross the placenta, whereas warfarin does.",
+    "D": "Warfarin does cross the placenta and is not safe in pregnancy.",
+    "E": "This reverses the facts: warfarin crosses the placenta and is teratogenic, whereas heparin does not cross and is safe."
+  },
+  "educationalObjective": "Heparin does not cross the placenta; warfarin does and is teratogenic.",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Heparin vs warfarin comparison"
+}
+]

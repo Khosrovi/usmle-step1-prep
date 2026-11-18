@@ -1,0 +1,207 @@
+[
+{
+  "id": "onc-081",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Physiology",
+  "subtopic": "Vitamin K-dependent factors and natural anticoagulants",
+  "difficulty": "easy",
+  "vignette": "A newborn delivered at term did not receive vitamin K prophylaxis and develops bleeding in the first days of life. Neonates lack the enteric bacteria that synthesize vitamin K, leading to impaired gamma-carboxylation of several clotting factors. Which group of factors is vitamin K-dependent?",
+  "question": "Vitamin K deficiency impairs maturation of which coagulation factors?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Factors I, II, V, VIII"
+    },
+    {
+      "id": "B",
+      "text": "Factors V, VII, VIII, XI"
+    },
+    {
+      "id": "C",
+      "text": "Factors VIII, IX, XI, XII"
+    },
+    {
+      "id": "D",
+      "text": "Factors II, VII, IX, X (plus proteins C and S)"
+    },
+    {
+      "id": "E",
+      "text": "Factors I, V, VII, X"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Vitamin K is required for gamma-carboxylation and maturation of factors II, VII, IX, and X, as well as the natural anticoagulants proteins C and S. Neonates lack enteric bacteria that produce vitamin K, so prophylaxis is given to prevent hemorrhagic disease of the newborn; broad-spectrum antibiotics that suppress gut flora can also contribute. Reduced carboxylation leaves these factors inactive.",
+  "explanation_incorrect": {
+    "A": "Factors I (fibrinogen), V, and VIII are not vitamin K-dependent; only factor II in this list is.",
+    "B": "Factors V, VIII, and XI are not vitamin K-dependent; only factor VII is.",
+    "C": "Factors VIII, XI, and XII are not vitamin K-dependent; only factor IX is.",
+    "E": "Factors I and V are not vitamin K-dependent, although II, VII, and X are."
+  },
+  "educationalObjective": "Vitamin K-dependent factors are II, VII, IX, X, plus proteins C and S.",
+  "source": "Generated from 10. Oncology.pdf - Physiology: Vitamin K-dependent factors and natural anticoagulants"
+},
+{
+  "id": "onc-082",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Physiology",
+  "subtopic": "Vitamin K-dependent factors and natural anticoagulants",
+  "difficulty": "medium",
+  "vignette": "A 67-year-old man with atrial fibrillation is started on an oral anticoagulant for stroke prevention. After several days his prothrombin time (INR) becomes elevated. The drug acts by inhibiting a hepatic enzyme that regenerates reduced vitamin K, preventing carboxylation of clotting factors. Which enzyme does this drug inhibit?",
+  "question": "Warfarin exerts its anticoagulant effect by inhibiting which enzyme?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Vitamin K epoxide reductase"
+    },
+    {
+      "id": "B",
+      "text": "Cyclooxygenase-1"
+    },
+    {
+      "id": "C",
+      "text": "Antithrombin III"
+    },
+    {
+      "id": "D",
+      "text": "Gamma-glutamyl carboxylase directly"
+    },
+    {
+      "id": "E",
+      "text": "Tissue plasminogen activator"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Warfarin inhibits vitamin K epoxide reductase, preventing regeneration of reduced (active) vitamin K and thereby decreasing gamma-carboxylation and maturation of factors II, VII, IX, X, and proteins C and S. Vitamin K administration can reverse warfarin's effect but only in a delayed fashion because new factors must be synthesized; for immediate reversal in severe bleeding, FFP or PCC is given, often with vitamin K.",
+  "explanation_incorrect": {
+    "B": "Cyclooxygenase-1 is the enzyme inhibited by aspirin, not warfarin.",
+    "C": "Antithrombin III is enhanced by heparin; warfarin does not act through antithrombin.",
+    "D": "Warfarin does not directly inhibit the carboxylase; it acts upstream by blocking regeneration of reduced vitamin K via epoxide reductase.",
+    "E": "Tissue plasminogen activator is a thrombolytic and is not involved in warfarin's mechanism."
+  },
+  "educationalObjective": "Warfarin inhibits vitamin K epoxide reductase, producing inactive under-carboxylated clotting factors.",
+  "source": "Generated from 10. Oncology.pdf - Physiology: Vitamin K-dependent factors and natural anticoagulants"
+},
+{
+  "id": "onc-083",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Physiology",
+  "subtopic": "Vitamin K-dependent factors and natural anticoagulants",
+  "difficulty": "medium",
+  "vignette": "A patient with a proximal deep vein thrombosis is treated with intravenous heparin, which acts by markedly enhancing the activity of a circulating serine protease inhibitor. This inhibitor blocks several activated coagulation factors, with its principal physiologic targets being thrombin and factor Xa. Which endogenous anticoagulant does heparin enhance?",
+  "question": "Heparin accelerates the activity of which endogenous anticoagulant?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Protein C"
+    },
+    {
+      "id": "B",
+      "text": "Antithrombin"
+    },
+    {
+      "id": "C",
+      "text": "Protein S"
+    },
+    {
+      "id": "D",
+      "text": "C1-inhibitor"
+    },
+    {
+      "id": "E",
+      "text": "Tissue factor pathway inhibitor"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Antithrombin (antithrombin III) inhibits thrombin (factor IIa) and factors VIIa, IXa, Xa, XIa, and XIIa, with thrombin and factor Xa as its principal targets. Heparin, including low-molecular-weight heparin, greatly enhances antithrombin's activity and produces rapid anticoagulation. This is distinct from the vitamin K-dependent protein C/protein S system and from factor V Leiden, which confers resistance to activated protein C.",
+  "explanation_incorrect": {
+    "A": "Protein C, with protein S, inactivates factors Va and VIIIa; it is vitamin K-dependent and is not enhanced by heparin.",
+    "C": "Protein S is a cofactor for activated protein C; heparin does not act through it.",
+    "D": "C1-inhibitor restrains the kallikrein/contact and complement pathways; its deficiency causes hereditary angioedema.",
+    "E": "Tissue factor pathway inhibitor inhibits the tissue factor-VIIa complex; it is not the target enhanced by heparin."
+  },
+  "educationalObjective": "Heparin enhances antithrombin, whose main targets are thrombin (IIa) and factor Xa.",
+  "source": "Generated from 10. Oncology.pdf - Physiology: Vitamin K-dependent factors and natural anticoagulants"
+},
+{
+  "id": "onc-084",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Physiology",
+  "subtopic": "Vitamin K-dependent factors and natural anticoagulants",
+  "difficulty": "hard",
+  "vignette": "A 34-year-old woman with no prior medical problems develops a second episode of unprovoked deep vein thrombosis. Testing shows that her factor V is resistant to inactivation by activated protein C, even though protein C and protein S levels are normal. Which inherited thrombophilia is most likely?",
+  "question": "Factor V resistance to activated protein C is the hallmark of which thrombophilia?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Protein C deficiency"
+    },
+    {
+      "id": "B",
+      "text": "Protein S deficiency"
+    },
+    {
+      "id": "C",
+      "text": "Antithrombin deficiency"
+    },
+    {
+      "id": "D",
+      "text": "Prothrombin gene mutation"
+    },
+    {
+      "id": "E",
+      "text": "Factor V Leiden"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Factor V Leiden is a point mutation that makes factor V resistant to cleavage and inactivation by activated protein C, leading to persistent factor Va activity and a hypercoagulable state. It is the most common inherited thrombophilia and must be distinguished from deficiencies of protein C, protein S, or antithrombin, which are separate mechanisms. The protein C/protein S system itself is vitamin K-dependent.",
+  "explanation_incorrect": {
+    "A": "Protein C deficiency reduces activated protein C levels, but factor V remains normally sensitive to it; it is a different inherited thrombophilia.",
+    "B": "Protein S deficiency impairs the cofactor for activated protein C, but factor V itself is not resistant.",
+    "C": "Antithrombin deficiency reduces inhibition of thrombin and Xa; it does not involve the protein C pathway.",
+    "D": "Prothrombin gene mutation increases prothrombin (factor II) levels and does not cause activated protein C resistance."
+  },
+  "educationalObjective": "Factor V Leiden is factor V resistant to activated protein C and causes inherited thrombophilia.",
+  "source": "Generated from 10. Oncology.pdf - Physiology: Vitamin K-dependent factors and natural anticoagulants"
+},
+{
+  "id": "onc-085",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Physiology",
+  "subtopic": "Vitamin K-dependent factors and natural anticoagulants",
+  "difficulty": "medium",
+  "vignette": "A patient starting warfarin needs monitoring because the vitamin K-dependent clotting factors have very different half-lives. The anticoagulant effect on these factors appears at different rates, with the shortest-lived factor falling first. Which vitamin K-dependent factor has the shortest half-life?",
+  "question": "Which vitamin K-dependent coagulation factor has the shortest half-life?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Factor II (prothrombin)"
+    },
+    {
+      "id": "B",
+      "text": "Factor IX"
+    },
+    {
+      "id": "C",
+      "text": "Factor VII"
+    },
+    {
+      "id": "D",
+      "text": "Factor X"
+    },
+    {
+      "id": "E",
+      "text": "Protein C"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Factor VII has the shortest half-life among the vitamin K-dependent factors, so its level falls first after warfarin is started and the PT rises early. Factor II (prothrombin) has the longest half-life, which is why full anticoagulation takes several days and why factor II takes longest to replace. This difference is clinically important when managing warfarin initiation or reversal.",
+  "explanation_incorrect": {
+    "A": "Factor II (prothrombin) has the longest, not the shortest, half-life of the vitamin K-dependent factors.",
+    "B": "Factor IX is vitamin K-dependent but has an intermediate half-life, longer than that of factor VII.",
+    "D": "Factor X is vitamin K-dependent but does not have the shortest half-life.",
+    "E": "Protein C is vitamin K-dependent, but factor VII has the shortest half-life."
+  },
+  "educationalObjective": "Factor VII has the shortest half-life; factor II has the longest half-life among vitamin K-dependent factors.",
+  "source": "Generated from 10. Oncology.pdf - Physiology: Vitamin K-dependent factors and natural anticoagulants"
+}
+]

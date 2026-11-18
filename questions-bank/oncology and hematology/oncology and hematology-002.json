@@ -1,0 +1,289 @@
+[
+{
+  "id": "onc-287",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Acute lymphoblastic leukemia, CLL, hairy cell leukemia",
+  "difficulty": "easy",
+  "vignette": "A 6-year-old boy has 2 weeks of fatigue, bone pain, and easy bruising. CBC shows leukocyte count 45,000/microL with many large immature cells, hemoglobin 7.8 g/dL, and platelets 45,000/microL. Bone marrow is packed with lymphoblasts that are TdT positive and CD10 positive.",
+  "question": "Which of the following is the most likely diagnosis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Acute myelogenous leukemia"
+    },
+    {
+      "id": "B",
+      "text": "Chronic lymphocytic leukemia"
+    },
+    {
+      "id": "C",
+      "text": "Multiple myeloma"
+    },
+    {
+      "id": "D",
+      "text": "Hairy cell leukemia"
+    },
+    {
+      "id": "E",
+      "text": "Acute lymphoblastic leukemia"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "ALL occurs most frequently in children and shows marked increases in circulating and marrow lymphoblasts. TdT is a marker of pre-T and pre-B cells, and CD10 marks pre-B cells. ALL is the most therapy-responsive leukemia but can spread to the CNS and testes; adults have a worse prognosis.",
+  "explanation_incorrect": {
+    "A": "AML is characterized by myeloblasts and myeloperoxidase-positive Auer rods, with a median onset around 65 years.",
+    "B": "CLL is an indolent mature B-cell neoplasm of adults older than 60 years with CD5, CD20, and CD23 positivity and smudge cells.",
+    "C": "Multiple myeloma is a plasma cell dyscrasia with lytic lesions, an M spike, and rouleaux formation, not lymphoblasts.",
+    "D": "Hairy cell leukemia affects adult males and produces hairlike cell projections, a dry tap from marrow fibrosis, and massive splenomegaly."
+  },
+  "educationalObjective": "Childhood ALL shows numerous TdT-positive lymphoblasts, is CD10 positive in pre-B disease, and is highly therapy responsive.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Acute lymphoblastic leukemia, CLL, hairy cell leukemia"
+},
+{
+  "id": "onc-288",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Acute lymphoblastic leukemia, CLL, hairy cell leukemia",
+  "difficulty": "medium",
+  "vignette": "A 19-year-old man has facial swelling, dyspnea, and distended neck veins. CT shows a large anterior mediastinal mass compressing the superior vena cava. Biopsy reveals lymphoblasts that are TdT positive but CD10 negative.",
+  "question": "Which of the following best explains this presentation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Pre-B ALL with CD10 positivity and early central nervous system spread"
+    },
+    {
+      "id": "B",
+      "text": "CLL with Richter transformation in an older adult"
+    },
+    {
+      "id": "C",
+      "text": "T-cell ALL presenting as a mediastinal mass with a superior vena cava-like syndrome"
+    },
+    {
+      "id": "D",
+      "text": "Hairy cell leukemia with retroperitoneal fibrosis"
+    },
+    {
+      "id": "E",
+      "text": "Acute promyelocytic leukemia with DIC and mediastinal hemorrhage"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "T-cell ALL can present as an anterior mediastinal mass that produces a superior vena cava-like syndrome with facial swelling, dyspnea, and neck vein distention. TdT positivity marks the immature pre-T or pre-B phenotype, while absence of CD10 favors T-cell rather than pre-B disease.",
+  "explanation_incorrect": {
+    "A": "CD10-positive pre-B ALL does not typically cause a mediastinal mass with superior vena cava compression.",
+    "B": "CLL/SLL is an indolent disease of adults older than 60 years; Richter transformation produces an aggressive lymphoma rather than a mediastinal blast tumor.",
+    "D": "Hairy cell leukemia causes marrow fibrosis with a dry tap and massive splenomegaly, not a mediastinal mass.",
+    "E": "APL presents with Auer rods and DIC-related bleeding, not with an SVC-obstructing mediastinal mass."
+  },
+  "educationalObjective": "T-cell ALL may present with a mediastinal mass causing an SVC-like syndrome, while TdT marks immature lymphoid blasts.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Acute lymphoblastic leukemia, CLL, hairy cell leukemia"
+},
+{
+  "id": "onc-289",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Acute lymphoblastic leukemia, CLL, hairy cell leukemia",
+  "difficulty": "medium",
+  "vignette": "Two children are diagnosed with acute lymphoblastic leukemia. Cytogenetic analysis shows t(12;21) in one child and t(9;22), the Philadelphia chromosome, in the other. Their oncologist discusses expected outcomes.",
+  "question": "Which of the following statements about prognosis in these patients is correct?",
+  "options": [
+    {
+      "id": "A",
+      "text": "t(12;21) is associated with a better prognosis, whereas t(9;22) is associated with a worse prognosis"
+    },
+    {
+      "id": "B",
+      "text": "Both translocations confer an equally poor prognosis"
+    },
+    {
+      "id": "C",
+      "text": "t(9;22) is favorable because the BCR-ABL fusion always responds to imatinib in ALL"
+    },
+    {
+      "id": "D",
+      "text": "t(12;21) defines blast crisis of CML and carries a worse prognosis"
+    },
+    {
+      "id": "E",
+      "text": "Neither translocation influences prognosis in acute lymphoblastic leukemia"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "In ALL, t(12;21) is associated with a better prognosis, whereas t(9;22), the Philadelphia chromosome, is associated with a worse prognosis. These cytogenetic markers are among the most important prognostic determinants in a disease that is otherwise the most responsive of the leukemias to therapy.",
+  "explanation_incorrect": {
+    "B": "The two translocations are explicitly distinguished prognostically: t(12;21) is favorable and t(9;22) is unfavorable.",
+    "C": "Although imatinib targets BCR-ABL in CML, t(9;22) in ALL is still regarded as a poor prognostic finding.",
+    "D": "Blast crisis of CML is defined by t(9;22)/BCR-ABL, not by t(12;21).",
+    "E": "Cytogenetics strongly affects risk stratification in ALL, so these translocations are clinically meaningful."
+  },
+  "educationalObjective": "In ALL, t(12;21) predicts a better prognosis and t(9;22) predicts a worse prognosis.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Acute lymphoblastic leukemia, CLL, hairy cell leukemia"
+},
+{
+  "id": "onc-290",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Acute lymphoblastic leukemia, CLL, hairy cell leukemia",
+  "difficulty": "easy",
+  "vignette": "A 72-year-old man is found to have a leukocyte count of 28,000/microL with mature-appearing lymphocytes. He is asymptomatic. Peripheral smear shows crushed lymphocytes described as smudge cells, and flow cytometry shows CD20, CD23, and CD5 positivity. He later develops autoimmune hemolytic anemia.",
+  "question": "Which of the following is the most likely diagnosis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Acute lymphoblastic leukemia"
+    },
+    {
+      "id": "B",
+      "text": "Multiple myeloma"
+    },
+    {
+      "id": "C",
+      "text": "Hairy cell leukemia"
+    },
+    {
+      "id": "D",
+      "text": "Chronic lymphocytic leukemia/small lymphocytic lymphoma"
+    },
+    {
+      "id": "E",
+      "text": "Waldenstrom macroglobulinemia"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "CLL/SLL occurs in patients older than 60 years and is the most common adult leukemia. It is a CD20+, CD23+, CD5+ B-cell neoplasm that is often asymptomatic and progresses slowly. Smudge cells, crushed lymphocytes on smear, and autoimmune hemolytic anemia are classic associations.",
+  "explanation_incorrect": {
+    "A": "ALL is a disease of children with TdT-positive lymphoblasts and an aggressive course, not an indolent adult lymphocytosis.",
+    "B": "Multiple myeloma produces a monoclonal plasma cell proliferation with lytic lesions and an M spike, not CD5-positive mature B cells.",
+    "C": "Hairy cell leukemia features filamentous hairlike cell projections, a dry tap from marrow fibrosis, and massive splenomegaly.",
+    "E": "Waldenstrom macroglobulinemia secretes IgM and causes hyperviscosity symptoms such as headache, bleeding, and blurry vision."
+  },
+  "educationalObjective": "CLL/SLL is an indolent CD5+/CD20+/CD23+ B-cell leukemia of older adults with smudge cells and autoimmune hemolytic anemia.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Acute lymphoblastic leukemia, CLL, hairy cell leukemia"
+},
+{
+  "id": "onc-291",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Acute lymphoblastic leukemia, CLL, hairy cell leukemia",
+  "difficulty": "hard",
+  "vignette": "A 68-year-old man with chronic lymphocytic leukemia for 6 years develops rapid enlargement of cervical lymph nodes, fever, and weight loss. Lymph node biopsy shows large atypical lymphoid cells with CD20 positivity, and the previously indolent blood counts have worsened.",
+  "question": "Which of the following best describes this complication?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Progression to Waldenstrom macroglobulinemia with IgM overproduction"
+    },
+    {
+      "id": "B",
+      "text": "Richter transformation to an aggressive lymphoma, most commonly diffuse large B-cell lymphoma"
+    },
+    {
+      "id": "C",
+      "text": "Transformation to acute lymphoblastic leukemia with TdT-positive blasts"
+    },
+    {
+      "id": "D",
+      "text": "Development of primary AL amyloidosis from monoclonal light-chain deposition"
+    },
+    {
+      "id": "E",
+      "text": "Hyperviscosity syndrome from IgM macroglobulinemia"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Richter transformation is the conversion of CLL/SLL into an aggressive lymphoma, most commonly diffuse large B-cell lymphoma. It should be suspected when a patient with long-standing indolent CLL develops rapid nodal enlargement, constitutional symptoms, and a shift to large atypical lymphoid cells.",
+  "explanation_incorrect": {
+    "A": "Waldenstrom macroglobulinemia is a separate IgM-secreting lymphoplasmacytic neoplasm, not a recognized transformation of CLL.",
+    "C": "ALL is a TdT-positive blast disorder of children; Richter transformation produces an aggressive mature B-cell lymphoma instead.",
+    "D": "AL amyloidosis complicates monoclonal light-chain plasma cell dyscrasias such as myeloma, not CLL.",
+    "E": "Hyperviscosity is a manifestation of IgM-producing Waldenstrom macroglobulinemia, not of transformed CLL."
+  },
+  "educationalObjective": "Richter transformation is the conversion of CLL/SLL into an aggressive lymphoma, most often diffuse large B-cell lymphoma.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Acute lymphoblastic leukemia, CLL, hairy cell leukemia"
+},
+{
+  "id": "onc-292",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Acute lymphoblastic leukemia, CLL, hairy cell leukemia",
+  "difficulty": "medium",
+  "vignette": "A 55-year-old man presents with massive splenomegaly and pancytopenia. Bone marrow aspiration repeatedly fails to yield material because of marked marrow fibrosis, described as a dry tap. Peripheral smear shows mature B cells with fine filamentous, hairlike projections.",
+  "question": "Which of the following is the most likely diagnosis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Multiple myeloma"
+    },
+    {
+      "id": "B",
+      "text": "Chronic myelogenous leukemia"
+    },
+    {
+      "id": "C",
+      "text": "Waldenstrom macroglobulinemia"
+    },
+    {
+      "id": "D",
+      "text": "Myelodysplastic syndrome"
+    },
+    {
+      "id": "E",
+      "text": "Hairy cell leukemia"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Hairy cell leukemia is a mature B-cell tumor of adult males whose cells have filamentous hairlike projections. It causes marrow fibrosis with a dry tap on aspiration, massive splenomegaly, and pancytopenia. Cells are TRAP positive, although this stain has largely been replaced by flow cytometry, and the disease is associated with BRAF mutations.",
+  "explanation_incorrect": {
+    "A": "Multiple myeloma is a plasma cell neoplasm with punched-out lytic lesions and an M spike, not hairlike B cells and a dry tap.",
+    "B": "CML has t(9;22)/BCR-ABL with marked granulocytosis and splenomegaly, but not hairlike projections or fibrosis-related dry tap.",
+    "C": "Waldenstrom macroglobulinemia causes IgM hyperviscosity and lymphoplasmacytic marrow infiltration, not fibrosis with hairy cells.",
+    "D": "MDS shows dysplastic maturation and fewer than 20% marrow blasts, not an infiltrate of mature hairy B lymphocytes."
+  },
+  "educationalObjective": "Hairy cell leukemia in adult males causes a dry tap from marrow fibrosis, massive splenomegaly, and pancytopenia with hairlike B cells.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Acute lymphoblastic leukemia, CLL, hairy cell leukemia"
+},
+{
+  "id": "onc-293",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Acute lymphoblastic leukemia, CLL, hairy cell leukemia",
+  "difficulty": "hard",
+  "vignette": "A 49-year-old man with hairy cell leukemia and a BRAF mutation is being considered for first-line therapy. His tumor cells were TRAP positive on staining, and flow cytometry confirmed the diagnosis.",
+  "question": "Which of the following is the most appropriate first-line pharmacologic treatment for this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Imatinib"
+    },
+    {
+      "id": "B",
+      "text": "All-trans retinoic acid"
+    },
+    {
+      "id": "C",
+      "text": "Rituximab alone as the standard curative regimen"
+    },
+    {
+      "id": "D",
+      "text": "A purine analog such as cladribine or pentostatin"
+    },
+    {
+      "id": "E",
+      "text": "Allogeneic stem cell transplantation as first-line therapy"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Hairy cell leukemia is treated with the purine analogs cladribine and pentostatin. The disease is a mature B-cell tumor of adult males with BRAF mutations, hairlike cell projections, marrow fibrosis causing a dry tap, and TRAP positivity that has largely been replaced by flow cytometry for diagnosis.",
+  "explanation_incorrect": {
+    "A": "Imatinib inhibits BCR-ABL in chronic myelogenous leukemia and is not the therapy for hairy cell leukemia.",
+    "B": "All-trans retinoic acid induces differentiation of promyelocytes in APL with t(15;17), a different disease entirely.",
+    "C": "Rituximab targets CD20 on B cells and has a role in B-cell neoplasms, but purine analogs are the standard first-line treatment taught for hairy cell leukemia.",
+    "E": "Allogeneic stem cell transplantation is not the standard initial therapy for this usually chemotherapy-sensitive indolent tumor."
+  },
+  "educationalObjective": "First-line therapy for hairy cell leukemia is a purine analog, cladribine or pentostatin.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Acute lymphoblastic leukemia, CLL, hairy cell leukemia"
+}
+]

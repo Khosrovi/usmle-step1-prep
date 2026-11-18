@@ -1,0 +1,166 @@
+[
+{
+  "id": "onc-147",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Anemia of chronic disease",
+  "difficulty": "easy",
+  "vignette": "A 62-year-old woman with long-standing rheumatoid arthritis reports fatigue for 3 months. CBC shows hemoglobin 10.2 g/dL, MCV 90 fL. Serum iron is low, TIBC is low, and ferritin is elevated. Inflammation-driven changes in iron handling are responsible.",
+  "question": "Which mediator released during inflammation most directly raises hepcidin levels and thereby reduces intestinal iron absorption?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Erythropoietin"
+    },
+    {
+      "id": "B",
+      "text": "Interleukin-6"
+    },
+    {
+      "id": "C",
+      "text": "Parathyroid hormone"
+    },
+    {
+      "id": "D",
+      "text": "Interleukin-2"
+    },
+    {
+      "id": "E",
+      "text": "Transferrin"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "IL-6 released from inflamed tissue stimulates hepatic synthesis of hepcidin. Hepcidin binds ferroportin on intestinal mucosal cells and macrophages, causing its internalization and degradation and blocking iron export into plasma. The result is low serum iron, low TIBC, and high ferritin because iron remains trapped in stores. This is anemia of chronic disease, associated with chronic infection, neoplasia, chronic kidney disease, and autoimmune disease such as rheumatoid arthritis or SLE. Treatment is directed at the underlying cause, with judicious transfusion and erythropoiesis-stimulating agents such as EPO when appropriate.",
+  "explanation_incorrect": {
+    "A": "Erythropoietin is the renal hormone that stimulates marrow erythropoiesis; it is elevated in anemia of chronic disease rather than being the trigger for hepcidin.",
+    "C": "Parathyroid hormone regulates calcium and phosphate balance and has no role in hepcidin-mediated iron trafficking.",
+    "D": "Interleukin-2 drives T-cell proliferation; it is not the cytokine that induces hepatic hepcidin in this setting.",
+    "E": "Transferrin is the plasma iron carrier that contributes to TIBC; it is a downstream transport protein, not the inflammatory mediator that raises hepcidin."
+  },
+  "educationalObjective": "IL-6-driven hepatic hepcidin blocks ferroportin-mediated iron release, producing the low iron/low TIBC/high ferritin pattern of anemia of chronic disease.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Anemia of chronic disease"
+},
+{
+  "id": "onc-148",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Anemia of chronic disease",
+  "difficulty": "medium",
+  "vignette": "A 54-year-old man with chronic osteomyelitis has anemia. Labs: hemoglobin 9.8 g/dL, MCV 88 fL, serum iron 35 micrograms/dL, TIBC 190 micrograms/dL, transferrin saturation 18%, ferritin 620 ng/mL. The reticulocyte count is low.",
+  "question": "Which iron-study pattern best fits this patient's anemia?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Increased iron, increased TIBC, decreased ferritin"
+    },
+    {
+      "id": "B",
+      "text": "Decreased iron, increased TIBC, increased ferritin"
+    },
+    {
+      "id": "C",
+      "text": "Increased iron, decreased TIBC, increased ferritin"
+    },
+    {
+      "id": "D",
+      "text": "Decreased iron, decreased TIBC, increased ferritin"
+    },
+    {
+      "id": "E",
+      "text": "Decreased iron, decreased TIBC, decreased ferritin"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "In anemia of chronic disease, hepcidin blocks ferroportin so iron stays sequestered in macrophages and enterocytes: serum iron falls, TIBC falls because transferrin is a negative acute-phase reactant, and ferritin rises because it reflects stored iron and is itself an acute-phase reactant. Marrow iron stores are adequate but inaccessible, so reticulocytes are low. The anemia is normocytic but can become microcytic with long-standing inflammation. This contrasts with iron deficiency, in which TIBC is increased and ferritin is decreased.",
+  "explanation_incorrect": {
+    "A": "Increased iron with decreased ferritin is not a recognized inflammatory pattern; increased iron with high ferritin suggests sideroblastic anemia or iron overload.",
+    "B": "Decreased iron with increased TIBC and increased ferritin is internally inconsistent and does not match the acute-phase behavior of transferrin and ferritin.",
+    "C": "Increased iron with decreased TIBC and increased ferritin is characteristic of iron overload or sideroblastic anemia, not inflammatory iron blockade.",
+    "E": "Decreased iron, decreased TIBC, and decreased ferritin would suggest iron deficiency with an additional cause of low transferrin, such as malnutrition or liver disease, rather than uncomplicated anemia of chronic disease."
+  },
+  "educationalObjective": "Recognize the classic anemia of chronic disease iron panel: decreased serum iron, decreased TIBC, increased ferritin with low reticulocytes.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Anemia of chronic disease"
+},
+{
+  "id": "onc-149",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Anemia of chronic disease",
+  "difficulty": "medium",
+  "vignette": "A 68-year-old woman with SLE and stage 4 chronic kidney disease has hemoglobin 9.5 g/dL, MCV 90 fL, serum iron low, TIBC low, ferritin high, and a low reticulocyte count. Her clinician attributes the anemia primarily to reduced erythropoietin production combined with chronic inflammation.",
+  "question": "Which of the following is the most appropriate management strategy for this anemia?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Treat the underlying inflammatory or renal cause and consider an erythropoiesis-stimulating agent with judicious transfusion"
+    },
+    {
+      "id": "B",
+      "text": "Immediate splenectomy"
+    },
+    {
+      "id": "C",
+      "text": "High-dose oral iron alone as definitive treatment"
+    },
+    {
+      "id": "D",
+      "text": "Daily aspirin to prevent thrombotic complications"
+    },
+    {
+      "id": "E",
+      "text": "Allogeneic hematopoietic stem cell transplantation"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Anemia of chronic disease is managed by addressing the underlying cause, such as infection, neoplasia, autoimmune disease, or chronic kidney disease. In chronic kidney disease, erythropoiesis-stimulating agents such as EPO are specifically indicated. Blood transfusion should be used judiciously rather than routinely, because it does not correct the inflammatory iron blockade and exposes the patient to transfusion risks. Iron stores are replete but trapped behind hepcidin, so iron supplementation alone is generally ineffective.",
+  "explanation_incorrect": {
+    "B": "Splenectomy is a treatment for hereditary spherocytosis and some immune cytopenias, not for inflammatory anemia with normal RBC sequestration.",
+    "C": "Oral iron is poorly absorbed when hepcidin is high, and ferritin is already elevated; iron supplementation alone does not address the underlying inflammation.",
+    "D": "Aspirin is used for platelet-driven thrombosis such as in PNH and has no role in the management of anemia of chronic disease.",
+    "E": "Allogeneic stem cell transplantation is reserved for marrow failure states such as aplastic anemia, not for anemia of chronic disease."
+  },
+  "educationalObjective": "Management of anemia of chronic disease means treating the underlying inflammation, using transfusion cautiously, and adding EPO when appropriate, as in chronic kidney disease.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Anemia of chronic disease"
+},
+{
+  "id": "onc-150",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Anemia of chronic disease",
+  "difficulty": "hard",
+  "vignette": "A 45-year-old woman with rheumatoid arthritis and a 3-month history of heavy menstrual bleeding has hemoglobin 9.0 g/dL, MCV 76 fL, and RDW 14%. Serum iron is 30 micrograms/dL, TIBC is 250 micrograms/dL (low-normal), and ferritin is 12 ng/mL. C-reactive protein is elevated.",
+  "question": "Which interpretation best explains this patient's microcytic anemia?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Pure anemia of chronic disease, because ferritin is an acute-phase reactant and always appears low during inflammation"
+    },
+    {
+      "id": "B",
+      "text": "Sideroblastic anemia, because hepcidin-mediated iron trapping produces ring sideroblasts"
+    },
+    {
+      "id": "C",
+      "text": "Combined iron deficiency and anemia of chronic disease; the low ferritin indicates depleted stores despite inflammation, while inflammation lowers TIBC"
+    },
+    {
+      "id": "D",
+      "text": "Thalassemia trait, because the RDW is normal in all microcytic anemias"
+    },
+    {
+      "id": "E",
+      "text": "Anemia of chronic disease alone, because TIBC is elevated in this setting"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Ferritin is an acute-phase reactant and may be falsely normal or elevated in anemia of chronic disease, but a frankly low ferritin still indicates depleted iron stores even when inflammation is present. This patient has a clear source of blood loss, so true iron deficiency coexists with inflammatory iron blockade. In anemia of chronic disease, TIBC is decreased because transferrin is a negative acute-phase reactant, whereas isolated iron deficiency raises TIBC; together they can yield a deceptively normal TIBC. Assuming ferritin is always high in inflammation misses the diagnoses of concurrent iron deficiency.",
+  "explanation_incorrect": {
+    "A": "Ferritin generally rises with inflammation; a low value cannot be dismissed as an acute-phase effect and points to genuine iron depletion.",
+    "B": "Sideroblastic anemia shows normal or increased iron and ferritin with ring sideroblasts; hepcidin-mediated trapping does not create sideroblasts.",
+    "D": "Thalassemia trait usually has a normal RDW with normal or high iron stores; the low ferritin and menorrhagia point to iron deficiency, and this patient's RDW is elevated.",
+    "E": "In anemia of chronic disease TIBC is decreased, not increased; it is iron deficiency that raises TIBC."
+  },
+  "educationalObjective": "A low ferritin establishes iron deficiency even amid inflammation; because anemia of chronic disease lowers TIBC, mixed deficiency can show a deceptively normal TIBC.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Anemia of chronic disease"
+}
+]

@@ -1,0 +1,166 @@
+[
+{
+  "id": "onc-201",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Iron poisoning and hemochromatosis",
+  "difficulty": "easy",
+  "vignette": "A 3-year-old is brought to the emergency department after ingesting a handful of his mother's iron tablets, which he thought were candy. He has abdominal pain, vomiting, and bloody diarrhea. An abdominal radiograph shows radiopaque tablets, and laboratory studies reveal an elevated anion gap metabolic acidosis.",
+  "question": "Which of the following is the most appropriate specific therapy for this child?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Intravenous sodium bicarbonate alone"
+    },
+    {
+      "id": "B",
+      "text": "Chelation with deferoxamine along with gastric lavage"
+    },
+    {
+      "id": "C",
+      "text": "Intravenous N-acetylcysteine"
+    },
+    {
+      "id": "D",
+      "text": "Oral activated charcoal alone"
+    },
+    {
+      "id": "E",
+      "text": "Intravenous EDTA"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Acute iron poisoning causes cell death through free radical formation and membrane lipid peroxidation. It has a high mortality rate from accidental ingestion by children because adult iron tablets may look like candy, causing abdominal pain, vomiting, GI bleeding, radiopaque pills on x-ray, anion gap metabolic acidosis, and multiorgan failure. Treatment is chelation with deferoxamine or deferasirox plus gastric lavage.",
+  "explanation_incorrect": {
+    "A": "Sodium bicarbonate may address the acidosis but does not remove iron and is not definitive therapy for iron poisoning.",
+    "C": "N-acetylcysteine repletes glutathione in acetaminophen toxicity; it is not an iron chelator.",
+    "D": "Activated charcoal does not effectively bind iron, so chelation and gastric lavage are required rather than charcoal alone.",
+    "E": "EDTA is a chelator used for lead poisoning, not for acute iron ingestion; deferoxamine or deferasirox is used instead."
+  },
+  "educationalObjective": "Acute iron poisoning in children presents with GI bleeding, radiopaque tablets, and anion gap acidosis and is treated with gastric lavage and chelation (deferoxamine/deferasirox).",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Iron poisoning and hemochromatosis"
+},
+{
+  "id": "onc-202",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Iron poisoning and hemochromatosis",
+  "difficulty": "medium",
+  "vignette": "A 32-year-old man with beta-thalassemia major has required monthly blood transfusions since childhood. He now presents with fatigue, arthralgia, bronze-colored skin pigmentation, and newly diagnosed diabetes mellitus. Liver enzymes are elevated, and echocardiography shows a dilated cardiomyopathy.",
+  "question": "Which of the following best explains his condition?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Hereditary deficiency of hepcidin causing increased duodenal iron absorption"
+    },
+    {
+      "id": "B",
+      "text": "Acute iron ingestion causing free radical formation and lipid peroxidation"
+    },
+    {
+      "id": "C",
+      "text": "Uroporphyrin accumulation due to uroporphyrinogen decarboxylase deficiency"
+    },
+    {
+      "id": "D",
+      "text": "Secondary hemochromatosis from transfusional iron overload deposited in skin, liver, pancreas, and heart"
+    },
+    {
+      "id": "E",
+      "text": "X-linked deficiency of ALA synthase causing sideroblastic anemia"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Chronic hemochromatosis may be primary (hereditary) or secondary, for example from chronic blood transfusions for thalassemia or sickle cell disease. Iron deposition causes arthropathy, cirrhosis, cardiomyopathy, diabetes mellitus, and skin pigmentation (bronze diabetes), as well as hypogonadism. Treatment is chelation and regular therapeutic phlebotomy unless contraindicated, such as by anemia.",
+  "explanation_incorrect": {
+    "A": "Although primary hereditary hemochromatosis exists, this patient's chronic transfusion history points to secondary iron overload rather than a primary absorption defect.",
+    "B": "Acute iron ingestion produces abdominal pain, GI bleeding, radiopaque tablets, and anion gap acidosis, not the chronic multiorgan deposition seen after years of transfusions.",
+    "C": "Uroporphyrin accumulation is porphyria cutanea tarda, which causes tea-colored urine and blistering photosensitivity rather than bronze diabetes and cardiomyopathy.",
+    "E": "ALA synthase deficiency causes X-linked sideroblastic anemia with ringed sideroblasts, not transfusional iron overload with bronze diabetes."
+  },
+  "educationalObjective": "Secondary hemochromatosis from chronic transfusions causes iron deposition with arthropathy, cirrhosis, cardiomyopathy, and bronze diabetes.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Iron poisoning and hemochromatosis"
+},
+{
+  "id": "onc-203",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Iron poisoning and hemochromatosis",
+  "difficulty": "hard",
+  "vignette": "A 2-year-old survived an episode of acute iron ingestion after chelation therapy and intensive care. Several weeks later, he develops poor feeding and recurrent vomiting. Imaging shows strictures and narrowing of the GI tract with delayed emptying.",
+  "question": "Which of the following best explains this delayed complication?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Scarring and stricture formation from the initial GI mucosal injury caused by iron"
+    },
+    {
+      "id": "B",
+      "text": "Iron-stimulated proliferation of gastric parietal cells"
+    },
+    {
+      "id": "C",
+      "text": "Uremic toxin deposition within the GI tract"
+    },
+    {
+      "id": "D",
+      "text": "Autoimmune destruction of enteric neurons"
+    },
+    {
+      "id": "E",
+      "text": "Bilirubin deposition from ongoing hemolysis"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Acute iron poisoning may progress to anion gap metabolic acidosis and multiorgan failure, and in survivors it leads to scarring with GI obstruction. Iron-mediated free radical formation and membrane lipid peroxidation cause direct GI mucosal necrosis that heals with fibrotic strictures, producing the delayed obstructive symptoms described.",
+  "explanation_incorrect": {
+    "B": "Iron does not cause parietal cell hyperplasia; increased acid secretion from such proliferation is not a recognized sequela of iron ingestion.",
+    "C": "Uremic toxins cause platelet dysfunction in renal failure, not GI stricture formation after iron ingestion.",
+    "D": "Autoimmune or aganglionic enteric disease is not a consequence of iron-induced mucosal injury.",
+    "E": "Bilirubin deposition from hemolysis does not produce the fibrotic GI strictures that follow iron ingestion."
+  },
+  "educationalObjective": "Survivors of acute iron poisoning can develop GI scarring and obstruction from the initial necrotic mucosal injury.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Iron poisoning and hemochromatosis"
+},
+{
+  "id": "onc-204",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Iron poisoning and hemochromatosis",
+  "difficulty": "medium",
+  "vignette": "A 45-year-old man with hereditary hemochromatosis has skin hyperpigmentation, diabetes mellitus, and cirrhosis. He has no anemia and normal renal function. He is seeking definitive management to reduce his iron burden.",
+  "question": "Which of the following is the most appropriate management for his condition?",
+  "options": [
+    {
+      "id": "A",
+      "text": "High-dose vitamin C and oral iron supplementation"
+    },
+    {
+      "id": "B",
+      "text": "Intravenous hemin and glucose"
+    },
+    {
+      "id": "C",
+      "text": "Regular therapeutic phlebotomy along with iron chelation"
+    },
+    {
+      "id": "D",
+      "text": "Hydroxychloroquine and strict sun avoidance"
+    },
+    {
+      "id": "E",
+      "text": "Splenectomy"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Chronic hemochromatosis, whether primary (hereditary) or secondary (transfusional), is treated with iron chelation and regular therapeutic phlebotomy unless contraindicated, for example by anemia. This patient has no anemia, so phlebotomy is appropriate and helps prevent further iron deposition in liver, heart, pancreas, and skin.",
+  "explanation_incorrect": {
+    "A": "Oral iron supplementation would worsen iron overload, and vitamin C can enhance iron absorption; both are contraindicated in hemochromatosis.",
+    "B": "Hemin and glucose suppress ALA synthase in acute intermittent porphyria and have no role in removing excess iron.",
+    "D": "Hydroxychloroquine and sun avoidance are used in porphyria cutanea tarda, not as definitive therapy for iron overload.",
+    "E": "Splenectomy is a treatment for refractory immune thrombocytopenia, not for hemochromatosis."
+  },
+  "educationalObjective": "Hemochromatosis is managed with iron chelation and therapeutic phlebotomy when not contraindicated by anemia.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Iron poisoning and hemochromatosis"
+}
+]

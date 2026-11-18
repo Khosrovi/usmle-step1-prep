@@ -1,0 +1,207 @@
+[
+{
+  "id": "onc-428",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Key chemotoxicities",
+  "difficulty": "easy",
+  "vignette": "A 64-year-old man with lung cancer receives a platinum-based chemotherapeutic agent. He develops tinnitus and high-frequency hearing loss, as well as a rise in serum creatinine.",
+  "question": "Which of the following drugs is most likely?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Cisplatin"
+    },
+    {
+      "id": "B",
+      "text": "Vincristine"
+    },
+    {
+      "id": "C",
+      "text": "Bleomycin"
+    },
+    {
+      "id": "D",
+      "text": "Doxorubicin"
+    },
+    {
+      "id": "E",
+      "text": "Cyclophosphamide"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Cisplatin and carboplatin are platinum compounds whose signature toxicities are ototoxicity and nephrotoxicity. Ototoxicity manifests as tinnitus and high-frequency hearing loss, while renal injury results from tubular damage and a rising creatinine. Amifostine can be given to reduce the nephrotoxicity of platinum agents.",
+  "explanation_incorrect": {
+    "B": "Vincristine causes peripheral neuropathy and areflexia, not ototoxicity or nephrotoxicity.",
+    "C": "Bleomycin causes pulmonary fibrosis, not hearing loss or renal injury.",
+    "D": "Doxorubicin causes cardiotoxicity, not ototoxicity or nephrotoxicity.",
+    "E": "Cyclophosphamide causes hemorrhagic cystitis via its metabolite acrolein."
+  },
+  "educationalObjective": "Platinum compounds (cisplatin, carboplatin) cause ototoxicity and nephrotoxicity.",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Key chemotoxicities"
+},
+{
+  "id": "onc-429",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Key chemotoxicities",
+  "difficulty": "medium",
+  "vignette": "A 40-year-old woman with breast cancer receives an alkylating agent. She develops dysuria and gross hematuria, and cystoscopy shows inflammation of the bladder mucosa.",
+  "question": "Which toxicity is most classically associated with this drug?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Pulmonary fibrosis"
+    },
+    {
+      "id": "B",
+      "text": "Cardiotoxicity"
+    },
+    {
+      "id": "C",
+      "text": "Peripheral neuropathy"
+    },
+    {
+      "id": "D",
+      "text": "Ototoxicity"
+    },
+    {
+      "id": "E",
+      "text": "Hemorrhagic cystitis"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Cyclophosphamide (and ifosfamide) is metabolized to acrolein, which is excreted in urine and irritates the bladder, causing hemorrhagic cystitis. Gross hematuria and dysuria are classic features. Mesna binds acrolein and is co-administered to prevent this complication during high-dose alkylator therapy.",
+  "explanation_incorrect": {
+    "A": "Pulmonary fibrosis is associated with bleomycin and busulfan, not cyclophosphamide.",
+    "B": "Cardiotoxicity is associated with anthracyclines and trastuzumab.",
+    "C": "Peripheral neuropathy is associated with vincristine and bortezomib.",
+    "D": "Ototoxicity is associated with platinum compounds such as cisplatin and carboplatin."
+  },
+  "educationalObjective": "Cyclophosphamide causes hemorrhagic cystitis via acrolein; mesna is protective.",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Key chemotoxicities"
+},
+{
+  "id": "onc-430",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Key chemotoxicities",
+  "difficulty": "medium",
+  "vignette": "A 7-year-old boy with acute lymphoblastic leukemia receives vincristine as part of his chemotherapy. He develops numbness and tingling in his fingers and toes along with decreased deep tendon reflexes.",
+  "question": "Which of the following toxicities is most likely?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Pulmonary fibrosis"
+    },
+    {
+      "id": "B",
+      "text": "Peripheral neuropathy"
+    },
+    {
+      "id": "C",
+      "text": "Hemorrhagic cystitis"
+    },
+    {
+      "id": "D",
+      "text": "Cardiotoxicity"
+    },
+    {
+      "id": "E",
+      "text": "Nephrotoxicity"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Vincristine is a vinca alkaloid that inhibits microtubule polymerization, and its dose-limiting toxicity is peripheral neuropathy. It presents with sensory symptoms, paresthesias, and loss of deep tendon reflexes, matching this patient. Notably, vincristine causes little myelosuppression compared with many other cytotoxic agents.",
+  "explanation_incorrect": {
+    "A": "Pulmonary fibrosis is the signature toxicity of bleomycin and busulfan.",
+    "C": "Hemorrhagic cystitis is caused by cyclophosphamide and ifosfamide via acrolein.",
+    "D": "Cardiotoxicity is caused by anthracyclines and trastuzumab.",
+    "E": "Nephrotoxicity is caused by platinum compounds such as cisplatin and carboplatin."
+  },
+  "educationalObjective": "Vincristine's signature toxicity is peripheral neuropathy.",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Key chemotoxicities"
+},
+{
+  "id": "onc-431",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Key chemotoxicities",
+  "difficulty": "hard",
+  "vignette": "A 24-year-old man with Hodgkin lymphoma is treated with bleomycin. Several months later he develops progressive dyspnea and a dry cough. Chest imaging reveals bilateral pulmonary fibrosis.",
+  "question": "Which of the following other agents shares this signature pulmonary toxicity?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Doxorubicin"
+    },
+    {
+      "id": "B",
+      "text": "Cisplatin"
+    },
+    {
+      "id": "C",
+      "text": "Vincristine"
+    },
+    {
+      "id": "D",
+      "text": "Busulfan"
+    },
+    {
+      "id": "E",
+      "text": "Cyclophosphamide"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Bleomycin and busulfan are both associated with pulmonary fibrosis, a potentially irreversible and dose-limiting toxicity. The vignette's progressive dyspnea and bilateral fibrosis are classic. This differs from the cardiotoxicity of anthracyclines, the neuropathy of vinca alkaloids, and the ototoxicity/nephrotoxicity of platinum agents.",
+  "explanation_incorrect": {
+    "A": "Doxorubicin causes cardiotoxicity, not pulmonary fibrosis.",
+    "B": "Cisplatin causes ototoxicity and nephrotoxicity, not pulmonary fibrosis.",
+    "C": "Vincristine causes peripheral neuropathy, not pulmonary fibrosis.",
+    "E": "Cyclophosphamide causes hemorrhagic cystitis, not pulmonary fibrosis."
+  },
+  "educationalObjective": "Bleomycin and busulfan both cause pulmonary fibrosis.",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Key chemotoxicities"
+},
+{
+  "id": "onc-432",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Key chemotoxicities",
+  "difficulty": "medium",
+  "vignette": "A 58-year-old woman with breast cancer receives doxorubicin and develops dilated cardiomyopathy. Her oncologist also notes that nearly all cytotoxic chemotherapies can cause myelosuppression (neutropenia, anemia, thrombocytopenia), GI toxicity (nausea, vomiting, mucositis), and alopecia.",
+  "question": "Which of the following best pairs a drug with its signature toxicity?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Doxorubicin — pulmonary fibrosis"
+    },
+    {
+      "id": "B",
+      "text": "Trastuzumab — hemorrhagic cystitis"
+    },
+    {
+      "id": "C",
+      "text": "Bleomycin — cardiotoxicity"
+    },
+    {
+      "id": "D",
+      "text": "Vincristine — ototoxicity"
+    },
+    {
+      "id": "E",
+      "text": "Daunorubicin — cardiotoxicity"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Doxorubicin and daunorubicin are anthracyclines whose signature toxicity is cardiotoxicity, which is often dose-dependent and potentially irreversible. Dexrazoxane, an iron chelator, can reduce this risk. Trastuzumab also causes cardiotoxicity, but it is usually reversible, in contrast to anthracycline-induced damage. Common nonspecific toxicities of cytotoxic agents include myelosuppression, GI toxicity, and alopecia.",
+  "explanation_incorrect": {
+    "A": "Doxorubicin causes cardiotoxicity, not pulmonary fibrosis; bleomycin and busulfan cause fibrosis.",
+    "B": "Trastuzumab causes often-reversible dilated cardiomyopathy, not hemorrhagic cystitis.",
+    "C": "Bleomycin causes pulmonary fibrosis, not cardiotoxicity.",
+    "D": "Vincristine causes peripheral neuropathy, not ototoxicity; platinum agents cause ototoxicity."
+  },
+  "educationalObjective": "Anthracyclines (doxorubicin, daunorubicin) cause cardiotoxicity; common nonspecific chemotoxicities include myelosuppression, GI toxicity, and alopecia.",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Key chemotoxicities"
+}
+]

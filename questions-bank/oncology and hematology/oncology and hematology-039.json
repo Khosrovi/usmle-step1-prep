@@ -1,0 +1,207 @@
+[
+{
+  "id": "onc-014",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Embryology",
+  "subtopic": "Hemolytic disease of the fetus and newborn",
+  "difficulty": "medium",
+  "vignette": "A 24-year-old Rh-negative woman delivers her first child, who is Rh-positive. At delivery, fetal red cells enter her circulation and she subsequently develops an antibody that will put future Rh-positive pregnancies at risk.",
+  "question": "Which antibody is formed, and when does sensitization typically occur in this first Rh-discordant pregnancy?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Maternal anti-A IgM, formed during the first trimester"
+    },
+    {
+      "id": "B",
+      "text": "Maternal anti-D IgM, formed during the first trimester"
+    },
+    {
+      "id": "C",
+      "text": "Maternal anti-D IgG, formed at delivery after exposure to fetal Rh-positive blood"
+    },
+    {
+      "id": "D",
+      "text": "Maternal anti-D IgG, formed before conception"
+    },
+    {
+      "id": "E",
+      "text": "Fetal anti-D IgG, formed in response to maternal Rh-negative RBCs"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "In an Rh-negative mother carrying an Rh-positive fetus, sensitization usually occurs when fetal red cells enter the maternal circulation at delivery. This exposure triggers formation of maternal anti-D IgG. The first infant is generally unaffected because the antibody is produced after delivery; subsequent Rh-positive pregnancies are at risk because anti-D IgG crosses the placenta and hemolyzes fetal red cells, producing erythroblastosis fetalis. This is why anti-D prophylaxis is given in the third trimester and early postpartum period.",
+  "explanation_incorrect": {
+    "A": "Anti-A is an ABO antibody, not the Rh(D) antibody relevant here, and ABO antibodies are IgM.",
+    "B": "Anti-D is IgG, not IgM, and sensitization occurs at delivery rather than in the first trimester.",
+    "D": "Anti-D is not a naturally occurring antibody and does not exist before exposure to Rh-positive blood.",
+    "E": "The responsible antibody is maternal, produced by the mother, not fetal in origin."
+  },
+  "educationalObjective": "First Rh-discordant pregnancies sensitize the Rh-negative mother at delivery, producing maternal anti-D IgG.",
+  "source": "Generated from 10. Oncology.pdf - Embryology: Hemolytic disease of the fetus and newborn"
+},
+{
+  "id": "onc-015",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Embryology",
+  "subtopic": "Hemolytic disease of the fetus and newborn",
+  "difficulty": "easy",
+  "vignette": "A newborn delivered to a type O mother is found to be type A. Within 24 hours of birth the infant develops mild jaundice with a modest rise in unconjugated bilirubin and a positive direct antiglobulin test. This is the mother's first pregnancy, and the course is milder than classic Rh disease.",
+  "question": "Which of the following best explains this neonate's hemolysis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "ABO hemolytic disease from maternal anti-A IgG crossing the placenta"
+    },
+    {
+      "id": "B",
+      "text": "Rh hemolytic disease from maternal anti-D IgG"
+    },
+    {
+      "id": "C",
+      "text": "Physiologic jaundice of the newborn"
+    },
+    {
+      "id": "D",
+      "text": "Hereditary spherocytosis"
+    },
+    {
+      "id": "E",
+      "text": "Glucose-6-phosphate dehydrogenase deficiency"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "ABO hemolytic disease occurs when a type O mother carries an A or B fetus; preexisting maternal anti-A and/or anti-B IgG cross the placenta and attack fetal red cells. Because these antibodies can be present before pregnancy from prior environmental exposure, ABO disease can affect the firstborn and is usually less severe than Rh disease, presenting with mild jaundice within 24 hours. Management is phototherapy or, in more severe cases, exchange transfusion. The positive direct antiglobulin test supports an immune-mediated hemolysis.",
+  "explanation_incorrect": {
+    "B": "Rh disease requires an Rh-negative mother and Rh-positive fetus and typically affects subsequent pregnancies, not the firstborn.",
+    "C": "Physiologic jaundice appears after 24-48 hours and is not immune-mediated or antiglobulin-positive.",
+    "D": "Hereditary spherocytosis is a red cell membrane defect, not maternal antibody-mediated hemolysis.",
+    "E": "G6PD deficiency is an X-linked enzyme defect causing oxidative hemolysis, not a maternal antibody disorder."
+  },
+  "educationalObjective": "ABO hemolytic disease affects firstborns of type O mothers with A or B fetuses and causes mild early jaundice.",
+  "source": "Generated from 10. Oncology.pdf - Embryology: Hemolytic disease of the fetus and newborn"
+},
+{
+  "id": "onc-016",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Embryology",
+  "subtopic": "Hemolytic disease of the fetus and newborn",
+  "difficulty": "hard",
+  "vignette": "A 32-year-old Rh-negative woman presents with a miscarriage at 10 weeks' gestation. She has no prior sensitization and no detectable anti-D antibody. Her physician wants to prevent her from forming anti-D so that a future Rh-positive pregnancy will be protected.",
+  "question": "Which intervention is most appropriate, and what is its mechanism?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Give the mother anti-A IgG to block ABO sensitization"
+    },
+    {
+      "id": "B",
+      "text": "Give the mother Rh-positive red cells to induce immune tolerance"
+    },
+    {
+      "id": "C",
+      "text": "Perform an intrauterine transfusion of Rh-negative red cells to the fetus"
+    },
+    {
+      "id": "D",
+      "text": "Administer corticosteroids to globally suppress maternal antibody production"
+    },
+    {
+      "id": "E",
+      "text": "Administer anti-D IgG to the mother to prevent her own anti-D production"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Rh-negative women should receive anti-D IgG in the third trimester and within the early postpartum period, and also after events such as ectopic pregnancy, miscarriage, abdominal trauma, or antepartum hemorrhage when the fetus may be Rh-positive. The passively administered anti-D binds any fetal Rh-positive red cells in the maternal circulation, so the mother does not mount her own anti-D response. This prevention of maternal sensitization protects future Rh-positive pregnancies. Other pregnancy events that can cause fetomaternal hemorrhage are managed the same way.",
+  "explanation_incorrect": {
+    "A": "ABO antibodies are not involved in Rh sensitization; the relevant antigen is Rh(D).",
+    "B": "Giving Rh-positive red cells would cause sensitization, the opposite of the intended goal.",
+    "C": "Intrauterine transfusion treats an already-affected fetus; it does not prevent maternal sensitization after a miscarriage.",
+    "D": "Corticosteroids do not specifically prevent anti-D formation and are not standard Rh prophylaxis."
+  },
+  "educationalObjective": "Anti-D IgG prophylaxis prevents maternal sensitization after pregnancy events that may cause fetomaternal hemorrhage.",
+  "source": "Generated from 10. Oncology.pdf - Embryology: Hemolytic disease of the fetus and newborn"
+},
+{
+  "id": "onc-017",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Embryology",
+  "subtopic": "Hemolytic disease of the fetus and newborn",
+  "difficulty": "medium",
+  "vignette": "A 30-year-old Rh-negative woman had a previous Rh-positive pregnancy without anti-D prophylaxis and is now pregnant with a second Rh-positive fetus. Her serum contains anti-D IgG. The fetus develops severe hemolysis in utero.",
+  "question": "Which of the following is a characteristic consequence of Rh hemolytic disease in this fetus?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Mild jaundice appearing after 72 hours that never requires treatment"
+    },
+    {
+      "id": "B",
+      "text": "Hydrops fetalis, jaundice shortly after birth, and risk of kernicterus"
+    },
+    {
+      "id": "C",
+      "text": "Hypoglycemia and hypocalcemia as the sole clinical findings"
+    },
+    {
+      "id": "D",
+      "text": "A Coombs-negative hemolytic anemia"
+    },
+    {
+      "id": "E",
+      "text": "Isolated thrombocytopenia without anemia"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "In a sensitized Rh-negative mother, anti-D IgG crosses the placenta during a subsequent Rh-positive pregnancy and causes fetal red cell hemolysis. Severe cases progress to hydrops fetalis, with fetal edema and serous effusions from high-output heart failure and hypoalbuminemia. Affected neonates develop jaundice shortly after birth from unconjugated bilirubin, and markedly elevated bilirubin can deposit in the brain causing kernicterus. This is considerably more severe than ABO hemolytic disease.",
+  "explanation_incorrect": {
+    "A": "Rh disease is severe, with jaundice shortly after birth, not mild and delayed beyond 72 hours.",
+    "C": "Hypoglycemia and hypocalcemia are not the defining features of Rh-mediated hemolysis.",
+    "D": "Rh hemolytic disease is antibody-mediated and therefore antiglobulin (Coombs) positive, not negative.",
+    "E": "The primary problem is hemolytic anemia, not isolated thrombocytopenia."
+  },
+  "educationalObjective": "Rh hemolytic disease in a sensitized pregnancy can cause hydrops fetalis, early jaundice, and kernicterus.",
+  "source": "Generated from 10. Oncology.pdf - Embryology: Hemolytic disease of the fetus and newborn"
+},
+{
+  "id": "onc-018",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Embryology",
+  "subtopic": "Hemolytic disease of the fetus and newborn",
+  "difficulty": "medium",
+  "vignette": "A newborn develops moderate hemolytic disease with jaundice and anemia. Maternal and fetal blood are ABO-compatible and both Rh-positive, so neither ABO nor Rh incompatibility can explain the hemolysis. Further antibody testing identifies an antibody directed against a minor red cell antigen.",
+  "question": "Which minor blood group antigen is classically associated with hemolytic disease of the fetus and newborn?",
+  "options": [
+    {
+      "id": "A",
+      "text": "H antigen"
+    },
+    {
+      "id": "B",
+      "text": "I antigen"
+    },
+    {
+      "id": "C",
+      "text": "Lewis antigen"
+    },
+    {
+      "id": "D",
+      "text": "Kell antigen"
+    },
+    {
+      "id": "E",
+      "text": "P antigen"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Although hemolytic disease of the fetus and newborn most commonly involves the major blood group antigens (Rh and ABO), minor blood group incompatibilities can also cause disease, ranging from mild to severe. Kell is the classic minor antigen implicated. When ABO and Rh compatibility has been excluded, as in this case, a minor antigen such as Kell explains the immune hemolysis. This is why antibody screens evaluate more than just ABO and Rh.",
+  "explanation_incorrect": {
+    "A": "The H antigen is the precursor of ABO antigens; its absence produces the Bombay phenotype rather than classic HDN.",
+    "B": "The I antigen is a developmentally regulated antigen associated with cold agglutinins, not hemolytic disease of the newborn.",
+    "C": "Lewis antibodies are usually IgM and are not a classic cause of hemolytic disease of the newborn.",
+    "E": "The P antigen serves as the receptor for parvovirus B19 and is not a classic HDN antigen."
+  },
+  "educationalObjective": "Minor antigens such as Kell can cause hemolytic disease of the fetus and newborn even when ABO and Rh are compatible.",
+  "source": "Generated from 10. Oncology.pdf - Embryology: Hemolytic disease of the fetus and newborn"
+}
+]

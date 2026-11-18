@@ -1,0 +1,248 @@
+[
+{
+  "id": "onc-422",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Chemotoxicity amelioration",
+  "difficulty": "easy",
+  "vignette": "A 60-year-old man with head and neck cancer is receiving a platinum compound. To reduce the risk of kidney damage, his oncologist administers a free-radical scavenger before each dose.",
+  "question": "Which of the following agents is most likely being used for nephroprotection?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Dexrazoxane"
+    },
+    {
+      "id": "B",
+      "text": "Amifostine"
+    },
+    {
+      "id": "C",
+      "text": "Mesna"
+    },
+    {
+      "id": "D",
+      "text": "Leucovorin"
+    },
+    {
+      "id": "E",
+      "text": "Rasburicase"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Amifostine is a free-radical scavenger given to reduce nephrotoxicity from platinum compounds such as cisplatin. It is administered before the platinum agent and scavenges reactive species to protect renal tubular cells. This matches the vignette's use of a free-radical scavenger for kidney protection.",
+  "explanation_incorrect": {
+    "A": "Dexrazoxane is an iron chelator used to reduce anthracycline cardiotoxicity, not platinum nephrotoxicity.",
+    "C": "Mesna is a sulfhydryl compound that binds acrolein to prevent cyclophosphamide/ifosfamide hemorrhagic cystitis.",
+    "D": "Leucovorin is a tetrahydrofolate precursor used for methotrexate rescue and to enhance 5-FU.",
+    "E": "Rasburicase is a recombinant uricase used in tumor lysis syndrome."
+  },
+  "educationalObjective": "Amifostine (free-radical scavenger) reduces nephrotoxicity from platinum compounds.",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Chemotoxicity amelioration"
+},
+{
+  "id": "onc-423",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Chemotoxicity amelioration",
+  "difficulty": "medium",
+  "vignette": "A 55-year-old woman with breast cancer is receiving doxorubicin. To protect her heart, her oncologist gives an iron chelator before each cycle of chemotherapy.",
+  "question": "Which cardioprotective agent is most likely being used?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Amifostine"
+    },
+    {
+      "id": "B",
+      "text": "Mesna"
+    },
+    {
+      "id": "C",
+      "text": "Dexrazoxane"
+    },
+    {
+      "id": "D",
+      "text": "Leucovorin"
+    },
+    {
+      "id": "E",
+      "text": "Filgrastim"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Dexrazoxane is an iron chelator that reduces cardiotoxicity from anthracyclines such as doxorubicin and daunorubicin. Anthracycline cardiotoxicity is mediated in part by iron-dependent free radical formation, which dexrazoxane chelates. It is given before anthracycline administration to provide cardioprotection.",
+  "explanation_incorrect": {
+    "A": "Amifostine is a free-radical scavenger used for platinum nephrotoxicity, not anthracycline cardiotoxicity.",
+    "B": "Mesna prevents hemorrhagic cystitis from cyclophosphamide/ifosfamide by binding acrolein.",
+    "D": "Leucovorin is used for methotrexate rescue and to enhance 5-FU, not for cardioprotection.",
+    "E": "Filgrastim is G-CSF used to treat neutropenia, not to protect the heart."
+  },
+  "educationalObjective": "Dexrazoxane (iron chelator) protects against anthracycline cardiotoxicity.",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Chemotoxicity amelioration"
+},
+{
+  "id": "onc-424",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Chemotoxicity amelioration",
+  "difficulty": "medium",
+  "vignette": "A 30-year-old man with osteosarcoma receives high-dose methotrexate. To limit myelosuppression, he is given a tetrahydrofolate precursor that 'rescues' normal cells. The same agent is also used to enhance the effects of 5-fluorouracil.",
+  "question": "Which of the following agents is most likely?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Mesna"
+    },
+    {
+      "id": "B",
+      "text": "Amifostine"
+    },
+    {
+      "id": "C",
+      "text": "Rasburicase"
+    },
+    {
+      "id": "D",
+      "text": "Dexrazoxane"
+    },
+    {
+      "id": "E",
+      "text": "Leucovorin"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Leucovorin (folinic acid) is a tetrahydrofolate precursor used for methotrexate 'rescue' to reduce myelosuppression after high-dose methotrexate. Methotrexate inhibits dihydrofolate reductase, and leucovorin bypasses this block in normal cells. Leucovorin also enhances the effects of 5-FU by stabilizing its active metabolite.",
+  "explanation_incorrect": {
+    "A": "Mesna binds acrolein to prevent hemorrhagic cystitis from cyclophosphamide/ifosfamide.",
+    "B": "Amifostine is a free-radical scavenger for platinum nephrotoxicity, not a folate precursor.",
+    "C": "Rasburicase converts uric acid to allantoin in tumor lysis syndrome.",
+    "D": "Dexrazoxane is an iron chelator for anthracycline cardiotoxicity."
+  },
+  "educationalObjective": "Leucovorin is a tetrahydrofolate precursor used for methotrexate rescue and to enhance 5-FU.",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Chemotoxicity amelioration"
+},
+{
+  "id": "onc-425",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Chemotoxicity amelioration",
+  "difficulty": "easy",
+  "vignette": "A 45-year-old woman with lymphoma is receiving cyclophosphamide. She is also given a sulfhydryl compound that binds acrolein, a toxic metabolite of cyclophosphamide, to prevent hemorrhagic cystitis.",
+  "question": "Which of the following agents is most likely?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Mesna"
+    },
+    {
+      "id": "B",
+      "text": "Leucovorin"
+    },
+    {
+      "id": "C",
+      "text": "Amifostine"
+    },
+    {
+      "id": "D",
+      "text": "Dexrazoxane"
+    },
+    {
+      "id": "E",
+      "text": "Rasburicase"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Mesna is a sulfhydryl compound that binds acrolein, the toxic metabolite of cyclophosphamide and ifosfamide, thereby preventing hemorrhagic cystitis. It concentrates in the bladder where acrolein is excreted. This uroprotection allows high-dose alkylating agent therapy to be given safely.",
+  "explanation_incorrect": {
+    "B": "Leucovorin is a tetrahydrofolate precursor used for methotrexate rescue, not for bladder protection.",
+    "C": "Amifostine is a free-radical scavenger for platinum nephrotoxicity.",
+    "D": "Dexrazoxane is an iron chelator for anthracycline cardiotoxicity.",
+    "E": "Rasburicase is a recombinant uricase for tumor lysis syndrome."
+  },
+  "educationalObjective": "Mesna binds acrolein to prevent cyclophosphamide/ifosfamide-induced hemorrhagic cystitis.",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Chemotoxicity amelioration"
+},
+{
+  "id": "onc-426",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Chemotoxicity amelioration",
+  "difficulty": "medium",
+  "vignette": "A 19-year-old man with acute leukemia begins chemotherapy and develops tumor lysis syndrome with a rapidly rising uric acid. He is given a recombinant enzyme that converts uric acid to allantoin.",
+  "question": "Which of the following agents is most likely?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Leucovorin"
+    },
+    {
+      "id": "B",
+      "text": "Mesna"
+    },
+    {
+      "id": "C",
+      "text": "Amifostine"
+    },
+    {
+      "id": "D",
+      "text": "Rasburicase"
+    },
+    {
+      "id": "E",
+      "text": "Allopurinol"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Rasburicase is a recombinant uricase that catalyzes the conversion of uric acid to allantoin, a much more soluble metabolite, and is used in tumor lysis syndrome. By contrast, allopurinol merely reduces new uric acid formation by inhibiting xanthine oxidase. Rasburicase rapidly lowers existing uric acid levels.",
+  "explanation_incorrect": {
+    "A": "Leucovorin is a tetrahydrofolate precursor used for methotrexate rescue.",
+    "B": "Mesna binds acrolein to prevent hemorrhagic cystitis from cyclophosphamide/ifosfamide.",
+    "C": "Amifostine is a free-radical scavenger for platinum nephrotoxicity.",
+    "E": "Allopurinol inhibits xanthine oxidase to reduce uric acid production; it is not a recombinant uricase and does not convert existing uric acid to allantoin."
+  },
+  "educationalObjective": "Rasburicase (recombinant uricase) converts uric acid to allantoin in tumor lysis syndrome.",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Chemotoxicity amelioration"
+},
+{
+  "id": "onc-427",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Chemotoxicity amelioration",
+  "difficulty": "hard",
+  "vignette": "A 56-year-old woman receiving chemotherapy develops nausea 1 hour after her infusion and is given a 5-HT3 receptor antagonist. Her oncologist notes that a different class, NK1 receptor antagonists, is reserved for delayed symptoms occurring more than 24 hours later.",
+  "question": "Which of the following correctly matches an antiemetic drug class with the timing of nausea it treats?",
+  "options": [
+    {
+      "id": "A",
+      "text": "NK1 antagonists — acute (1-2 hr)"
+    },
+    {
+      "id": "B",
+      "text": "D2 antagonists — delayed (>24 hr)"
+    },
+    {
+      "id": "C",
+      "text": "5-HT3 antagonists — acute (1-2 hr)"
+    },
+    {
+      "id": "D",
+      "text": "5-HT3 antagonists — delayed (>24 hr)"
+    },
+    {
+      "id": "E",
+      "text": "NK1 antagonists — only for breakthrough at 6-8 hr"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Ondansetron and granisetron are 5-HT3 receptor antagonists used for acute nausea and vomiting, usually within 1-2 hours of chemotherapy. Prochlorperazine and metoclopramide are D2 antagonists also used for acute symptoms. Aprepitant and fosaprepitant are NK1 receptor antagonists used for delayed nausea and vomiting occurring more than 24 hours after chemotherapy.",
+  "explanation_incorrect": {
+    "A": "NK1 receptor antagonists (aprepitant, fosaprepitant) treat delayed nausea beyond 24 hours, not acute symptoms.",
+    "B": "D2 antagonists (prochlorperazine, metoclopramide) are used for acute nausea, not specifically for delayed symptoms.",
+    "D": "5-HT3 antagonists (ondansetron, granisetron) are first-line for acute nausea within 1-2 hours, not delayed emesis.",
+    "E": "NK1 antagonists are not restricted to a 6-8 hour window; they are used for delayed emesis beyond 24 hours."
+  },
+  "educationalObjective": "5-HT3 antagonists treat acute (1-2 hr) chemotherapy nausea; NK1 antagonists treat delayed (>24 hr) nausea.",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Chemotoxicity amelioration"
+}
+]

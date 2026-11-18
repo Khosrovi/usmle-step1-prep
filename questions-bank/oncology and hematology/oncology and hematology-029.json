@@ -1,0 +1,207 @@
+[
+{
+  "id": "onc-186",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Drug-induced and mechanical hemolytic anemias",
+  "difficulty": "medium",
+  "vignette": "A 58-year-old man develops anemia shortly after starting a cephalosporin. His peripheral smear shows spherocytes, and the direct Coombs test is positive.",
+  "question": "Which of the following best describes the mechanism of this hemolysis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Oxidative free-radical injury producing bite cells"
+    },
+    {
+      "id": "B",
+      "text": "Antibody-mediated immune destruction of red cells"
+    },
+    {
+      "id": "C",
+      "text": "Mechanical shearing across a prosthetic valve producing schistocytes"
+    },
+    {
+      "id": "D",
+      "text": "Complement dysregulation from a PIGA mutation"
+    },
+    {
+      "id": "E",
+      "text": "Parasite-induced destruction by Babesia"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Drug-induced hemolytic anemia is most commonly due to antibody-mediated immune destruction of red cells or to oxidant injury from free radicals, which is worsened in G6PD deficiency. Common culprits include penicillins, cephalosporins, NSAIDs, immunotherapy, and chemotherapy. Spherocytes suggest immune hemolysis whereas bite cells suggest oxidative hemolysis; both extravascular and intravascular destruction can occur.",
+  "explanation_incorrect": {
+    "A": "Oxidative injury produces bite cells and a negative Coombs test, not spherocytes with a positive Coombs test.",
+    "C": "Mechanical valve hemolysis produces schistocytes, not spherocytes, and is not drug or immune mediated.",
+    "D": "A PIGA mutation causes paroxysmal nocturnal hemoglobinuria, a clonal complement-mediated disorder, not a drug-triggered immune hemolysis.",
+    "E": "Babesia causes infection-associated destruction with intraerythrocytic parasites, not spherocytes and a positive Coombs test."
+  },
+  "educationalObjective": "Cephalosporin-induced immune hemolysis shows spherocytes and a positive Coombs; oxidative drug hemolysis instead shows bite cells.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Drug-induced and mechanical hemolytic anemias"
+},
+{
+  "id": "onc-187",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Drug-induced and mechanical hemolytic anemias",
+  "difficulty": "easy",
+  "vignette": "A patient with known G6PD deficiency develops dark urine and back pain a few days after taking an oxidant drug. His blood smear shows bite cells and Heinz bodies.",
+  "question": "Which of the following best explains why this patient is especially susceptible to this drug-induced hemolysis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "He cannot synthesize complement regulatory proteins on his red cells"
+    },
+    {
+      "id": "B",
+      "text": "He has an autoantibody against red cell surface antigens"
+    },
+    {
+      "id": "C",
+      "text": "He has a mechanical valve fragmenting his red cells"
+    },
+    {
+      "id": "D",
+      "text": "His red cells lack spectrin and are sphere-shaped"
+    },
+    {
+      "id": "E",
+      "text": "Reduced NADPH impairs glutathione regeneration, increasing oxidative damage"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "In G6PD deficiency, decreased NADPH leads to reduced glutathione and impaired antioxidant defense, increasing red cell susceptibility to oxidative stress from drugs such as sulfa drugs and antimalarials. Drug-induced oxidant injury from free radicals is therefore exacerbated, producing bite cells and Heinz bodies with intravascular and extravascular hemolysis and hemoglobinuria a few days after exposure.",
+  "explanation_incorrect": {
+    "A": "Deficient complement regulatory proteins (DAF and MIRL) define paroxysmal nocturnal hemoglobinuria, not G6PD deficiency.",
+    "B": "A red cell autoantibody would cause Coombs-positive immune hemolysis with spherocytes, not bite cells and Heinz bodies.",
+    "C": "A mechanical valve fragments red cells into schistocytes; it does not produce oxidative bite cells.",
+    "D": "Spectrin defects cause hereditary spherocytosis with spherical cells and increased osmotic fragility, not oxidative bite cells."
+  },
+  "educationalObjective": "Drug-induced oxidative hemolysis is worse in G6PD deficiency because low NADPH impairs glutathione-based antioxidant defense, producing bite cells.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Drug-induced and mechanical hemolytic anemias"
+},
+{
+  "id": "onc-188",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Drug-induced and mechanical hemolytic anemias",
+  "difficulty": "medium",
+  "vignette": "A 28-year-old woman at 32 weeks' gestation has hypertension, proteinuria, elevated liver enzymes, and thrombocytopenia. Her peripheral smear shows schistocytes and helmet cells.",
+  "question": "Which of the following best characterizes this hemolytic process?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Immune destruction with spherocytes and a positive Coombs test"
+    },
+    {
+      "id": "B",
+      "text": "Complement-mediated intravascular hemolysis occurring at night"
+    },
+    {
+      "id": "C",
+      "text": "Intravascular hemolysis from red cell fragmentation in narrowed vessels"
+    },
+    {
+      "id": "D",
+      "text": "Oxidative injury with bite cells caused by a drug"
+    },
+    {
+      "id": "E",
+      "text": "Extravascular hemolysis from a red cell spectrin defect"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "This patient has HELLP syndrome, a microangiopathic hemolytic anemia. Red cells are damaged when passing through obstructed or narrowed vessels, producing intravascular hemolysis with schistocytes and helmet cells on smear. Other causes of microangiopathic hemolysis include DIC, TTP/HUS, SLE, and hypertensive emergency.",
+  "explanation_incorrect": {
+    "A": "Immune hemolysis produces spherocytes and a positive Coombs test rather than schistocytes.",
+    "B": "Nocturnal complement-mediated hemolysis with thrombosis and pancytopenia is paroxysmal nocturnal hemoglobinuria, which lacks schistocytes.",
+    "D": "Oxidative drug hemolysis produces bite cells and follows an oxidant exposure, not hypertension and pregnancy-associated multi-organ injury.",
+    "E": "A spectrin defect causes hereditary spherocytosis with spherocytes and extravascular hemolysis, not schistocytes."
+  },
+  "educationalObjective": "Microangiopathic hemolysis (HELLP, TTP/HUS, DIC) causes intravascular fragmentation with schistocytes on peripheral smear.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Drug-induced and mechanical hemolytic anemias"
+},
+{
+  "id": "onc-189",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Drug-induced and mechanical hemolytic anemias",
+  "difficulty": "hard",
+  "vignette": "A 66-year-old man with a mechanical aortic valve develops fatigue and dark urine. Laboratory studies show anemia with schistocytes, a negative Coombs test, and elevated LDH.",
+  "question": "Which of the following best explains the red cell destruction in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Mechanical destruction of red cells by the prosthetic valve"
+    },
+    {
+      "id": "B",
+      "text": "Autoantibody-mediated extravascular removal in the spleen"
+    },
+    {
+      "id": "C",
+      "text": "Complement-mediated lysis due to absent CD55 and CD59"
+    },
+    {
+      "id": "D",
+      "text": "Oxidative denaturation caused by a sulfa drug"
+    },
+    {
+      "id": "E",
+      "text": "Intravascular destruction from fibrin thrombi in small vessels"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Macroangiopathic hemolytic anemia results from mechanical destruction of red cells by prosthetic heart valves or aortic stenosis, producing schistocytes on smear. Unlike microangiopathic causes such as DIC, TTP/HUS, HELLP, and hypertensive emergency, the fragmentation occurs across abnormal large vessels or valves. The Coombs test is negative because no immune mechanism is involved.",
+  "explanation_incorrect": {
+    "B": "Autoantibody-mediated removal would be Coombs positive with spherocytes, not schistocytes from a mechanical valve.",
+    "C": "Absent CD55 and CD59 define paroxysmal nocturnal hemoglobinuria, which has no mechanical cause and shows no schistocytes.",
+    "D": "Sulfa-drug oxidative injury produces bite cells, especially in G6PD deficiency, rather than mechanical schistocytes.",
+    "E": "Fibrin thrombi in small vessels cause microangiopathic hemolysis such as DIC or TTP, not valve-related fragmentation."
+  },
+  "educationalObjective": "Prosthetic valves and aortic stenosis cause macroangiopathic hemolysis with schistocytes, distinct from immune and microangiopathic causes.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Drug-induced and mechanical hemolytic anemias"
+},
+{
+  "id": "onc-190",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Drug-induced and mechanical hemolytic anemias",
+  "difficulty": "medium",
+  "vignette": "A traveler returns from a malaria-endemic region with fever, anemia, and jaundice. A blood smear shows intraerythrocytic parasites.",
+  "question": "Which of the following best describes the mechanism of anemia in infections such as malaria and Babesia?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Antibody-mediated extravascular hemolysis with spherocytes"
+    },
+    {
+      "id": "B",
+      "text": "Mechanical shearing from microvascular fibrin deposition"
+    },
+    {
+      "id": "C",
+      "text": "Oxidative hemolysis worsened by G6PD deficiency"
+    },
+    {
+      "id": "D",
+      "text": "Increased destruction of red cells caused by the pathogen"
+    },
+    {
+      "id": "E",
+      "text": "Complement-mediated intravascular hemolysis from a PIGA mutation"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Infections such as malaria and Babesia cause hemolytic anemia through increased destruction of red cells, with the parasite infecting and lysing erythrocytes. This is an extrinsic hemolytic mechanism distinct from immune, microangiopathic, macroangiopathic, and oxidative causes. Intraerythrocytic parasites on smear support the diagnosis.",
+  "explanation_incorrect": {
+    "A": "Antibody-mediated spherocytic hemolysis is autoimmune or drug induced, not caused by an intraerythrocytic parasite.",
+    "B": "Microvascular fibrin deposition is the mechanism of DIC and TTP microangiopathy, not of malaria.",
+    "C": "Oxidative hemolysis in G6PD deficiency is triggered by drugs or fava beans and shows bite cells, not parasites.",
+    "E": "A PIGA mutation causes paroxysmal nocturnal hemoglobinuria, a clonal complement-mediated disorder, not an infectious hemolysis."
+  },
+  "educationalObjective": "Malaria and Babesia cause hemolysis by directly increasing red cell destruction, with parasites visible on blood smear.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Drug-induced and mechanical hemolytic anemias"
+}
+]

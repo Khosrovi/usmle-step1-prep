@@ -1,0 +1,207 @@
+[
+{
+  "id": "onc-396",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Microtubule inhibitors",
+  "difficulty": "easy",
+  "vignette": "A pharmacology student reviews chemotherapeutic drug classes and notes that one class acts specifically during mitosis, preventing formation or breakdown of the mitotic spindle. Both taxanes and vinca alkaloids belong to this class.",
+  "question": "During which phase of the cell cycle are microtubule inhibitors (taxanes and vinca alkaloids) specifically active?",
+  "options": [
+    {
+      "id": "A",
+      "text": "S phase"
+    },
+    {
+      "id": "B",
+      "text": "M phase"
+    },
+    {
+      "id": "C",
+      "text": "G1 phase"
+    },
+    {
+      "id": "D",
+      "text": "G2 phase"
+    },
+    {
+      "id": "E",
+      "text": "G0 phase"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "All microtubule inhibitors, both taxanes and vinca alkaloids, are M-phase specific. They disrupt the mitotic spindle either by hyperstabilizing microtubules (taxanes) or by inhibiting polymerization (vinca alkaloids), arresting cells in mitosis. This contrasts with antimetabolites, which are S-phase specific (except cladribine), and topoisomerase inhibitors, which act in S and G2.",
+  "explanation_incorrect": {
+    "A": "S phase is targeted by antimetabolites such as methotrexate, 5-fluorouracil, and cytarabine.",
+    "C": "G1 is not the target of microtubule inhibitors; CDK4/6 inhibitors arrest cells at G1-S.",
+    "D": "G2 arrest is associated with topoisomerase inhibitors and bleomycin (G2/M).",
+    "E": "G0 is a quiescent state in which cell-cycle nonspecific alkylating agents can act, but microtubule inhibitors do not."
+  },
+  "educationalObjective": "All microtubule inhibitors are M-phase specific.",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Microtubule inhibitors"
+},
+{
+  "id": "onc-397",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Microtubule inhibitors",
+  "difficulty": "medium",
+  "vignette": "A 52-year-old woman with ovarian carcinoma receives paclitaxel. Shortly after the infusion she develops flushing, urticaria, and wheezing, an acute reaction managed with premedication. Her oncologist explains that the drug hyperstabilizes microtubules so the spindle cannot disassemble.",
+  "question": "Taxanes such as paclitaxel and docetaxel exert their effect by which mechanism, and what is a characteristic adverse effect?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Inhibit beta-tubulin polymerization; constipation"
+    },
+    {
+      "id": "B",
+      "text": "Cross-link DNA; nephrotoxicity"
+    },
+    {
+      "id": "C",
+      "text": "Inhibit topoisomerase II; alopecia"
+    },
+    {
+      "id": "D",
+      "text": "Hyperstabilize polymerized microtubules, preventing spindle breakdown; hypersensitivity"
+    },
+    {
+      "id": "E",
+      "text": "Inhibit thymidylate synthase; hand-foot syndrome"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Taxanes (paclitaxel, docetaxel) bind polymerized microtubules and hyperstabilize them, preventing mitotic spindle breakdown and arresting cells in M phase. They are used for ovarian and breast carcinomas. Toxicities include myelosuppression, neuropathy, and hypersensitivity reactions often due to the formulation vehicle, which require premedication with antihistamines and steroids.",
+  "explanation_incorrect": {
+    "A": "Inhibiting beta-tubulin polymerization is the vinca alkaloid mechanism; constipation and ileus are vincristine toxicity.",
+    "B": "DNA cross-linking is the platinum and alkylating agent mechanism; nephrotoxicity is cisplatin toxicity.",
+    "C": "Topoisomerase II inhibition is etoposide, which commonly causes alopecia.",
+    "E": "Thymidylate synthase inhibition is 5-fluorouracil; hand-foot syndrome is 5-FU and capecitabine toxicity."
+  },
+  "educationalObjective": "Taxanes hyperstabilize microtubules, are used for ovarian and breast cancer, and cause myelosuppression, neuropathy, and hypersensitivity.",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Microtubule inhibitors"
+},
+{
+  "id": "onc-398",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Microtubule inhibitors",
+  "difficulty": "medium",
+  "vignette": "A 7-year-old with acute lymphoblastic leukemia is treated with vincristine as part of induction chemotherapy. After several doses the child develops severe constipation and abdominal distension, with imaging suggesting an ileus. The oncology team recognizes a classic dose-limiting toxicity.",
+  "question": "Vincristine binds beta-tubulin and inhibits microtubule polymerization. Which adverse effect is most characteristic of vincristine?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Axonal neuropathy with constipation and ileus"
+    },
+    {
+      "id": "B",
+      "text": "Severe myelosuppression"
+    },
+    {
+      "id": "C",
+      "text": "Hemorrhagic cystitis"
+    },
+    {
+      "id": "D",
+      "text": "Pulmonary fibrosis"
+    },
+    {
+      "id": "E",
+      "text": "Ototoxicity"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Vincristine binds beta-tubulin and inhibits its polymerization into microtubules, preventing mitotic spindle formation and causing M-phase arrest. Its signature toxicity is neurotoxicity, an axonal sensorimotor neuropathy, and it commonly causes constipation and even ileus through autonomic involvement. Unlike vinblastine, vincristine causes little myelosuppression. It is used in leukemias, Hodgkin and non-Hodgkin lymphomas, and solid tumors.",
+  "explanation_incorrect": {
+    "B": "Severe myelosuppression is the hallmark of vinblastine, not vincristine.",
+    "C": "Hemorrhagic cystitis is caused by cyclophosphamide and ifosfamide.",
+    "D": "Pulmonary fibrosis is caused by busulfan and bleomycin.",
+    "E": "Ototoxicity is a cisplatin toxicity."
+  },
+  "educationalObjective": "Vincristine inhibits microtubule polymerization and causes neurotoxicity with constipation and ileus, but minimal myelosuppression.",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Microtubule inhibitors"
+},
+{
+  "id": "onc-399",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Microtubule inhibitors",
+  "difficulty": "easy",
+  "vignette": "A patient with Hodgkin lymphoma receives a vinca alkaloid. Unlike vincristine, this agent is associated with profound bone marrow suppression producing neutropenia and thrombocytopenia, with comparatively little neurotoxicity.",
+  "question": "Which vinca alkaloid is known primarily for causing severe myelosuppression rather than neurotoxicity?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Vincristine"
+    },
+    {
+      "id": "B",
+      "text": "Paclitaxel"
+    },
+    {
+      "id": "C",
+      "text": "Docetaxel"
+    },
+    {
+      "id": "D",
+      "text": "Etoposide"
+    },
+    {
+      "id": "E",
+      "text": "Vinblastine"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Vinblastine is a vinca alkaloid that, like vincristine, binds beta-tubulin and inhibits microtubule polymerization with M-phase specificity. However, its dose-limiting toxicity is myelosuppression, whereas vincristine's is neurotoxicity. This distinction between the two vinca alkaloids is a frequent exam point. Vinblastine is used in Hodgkin and non-Hodgkin lymphomas, leukemias, and solid tumors.",
+  "explanation_incorrect": {
+    "A": "Vincristine's dose-limiting toxicity is neurotoxicity, including constipation and ileus, not myelosuppression.",
+    "B": "Paclitaxel is a taxane that stabilizes microtubules and causes neuropathy and hypersensitivity; it is not a vinca alkaloid.",
+    "C": "Docetaxel is a taxane with myelosuppression and hypersensitivity, not a vinca alkaloid.",
+    "D": "Etoposide is a topoisomerase II inhibitor used for testicular cancer and SCLC; it causes myelosuppression and alopecia but is not a vinca alkaloid."
+  },
+  "educationalObjective": "Vinblastine is the vinca alkaloid whose dose-limiting toxicity is myelosuppression, in contrast to vincristine's neurotoxicity.",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Microtubule inhibitors"
+},
+{
+  "id": "onc-400",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Microtubule inhibitors",
+  "difficulty": "hard",
+  "vignette": "A student compares two M-phase-specific drug classes. One binds polymerized microtubules and prevents their disassembly; the other binds free beta-tubulin dimers and blocks their assembly. Both prevent proper mitotic spindle function through opposite effects on microtubule dynamics.",
+  "question": "Which statement correctly contrasts taxanes with vinca alkaloids?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Taxanes inhibit polymerization; vinca alkaloids hyperstabilize microtubules"
+    },
+    {
+      "id": "B",
+      "text": "Both classes inhibit beta-tubulin polymerization"
+    },
+    {
+      "id": "C",
+      "text": "Taxanes hyperstabilize polymerized microtubules; vinca alkaloids inhibit beta-tubulin polymerization"
+    },
+    {
+      "id": "D",
+      "text": "Both classes are S-phase specific"
+    },
+    {
+      "id": "E",
+      "text": "Taxanes cause constipation; vinca alkaloids cause hypersensitivity"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Taxanes (paclitaxel, docetaxel) bind polymerized microtubules and hyperstabilize them, preventing spindle breakdown, whereas vinca alkaloids (vincristine, vinblastine) bind beta-tubulin and inhibit polymerization, preventing spindle formation. Both are M-phase specific but act in opposite directions on microtubule dynamics: taxanes stabilize, vincas destabilize. Paclitaxel is associated with hypersensitivity; vincristine with constipation and ileus; vinblastine with myelosuppression.",
+  "explanation_incorrect": {
+    "A": "This reverses the mechanisms: taxanes stabilize microtubules, while vincas inhibit polymerization.",
+    "B": "Vinca alkaloids inhibit polymerization, but taxanes do not; they stabilize microtubules.",
+    "D": "Both classes are M-phase specific, not S-phase specific; S phase is targeted by antimetabolites.",
+    "E": "Constipation is due to vincristine, a vinca alkaloid, while hypersensitivity is characteristic of taxanes; this pairing is reversed."
+  },
+  "educationalObjective": "Taxanes hyperstabilize microtubules while vinca alkaloids inhibit beta-tubulin polymerization; both are M-phase specific.",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Microtubule inhibitors"
+}
+]

@@ -1,0 +1,166 @@
+[
+{
+  "id": "onc-005",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Embryology",
+  "subtopic": "Hemoglobin development and fetal hemoglobin",
+  "difficulty": "easy",
+  "vignette": "A newborn's hemoglobin electrophoresis is dominated by fetal hemoglobin. This hemoglobin is the major oxygen carrier in utero and is composed of two alpha and two gamma globin chains. It is gradually replaced by adult hemoglobin over the first months of life.",
+  "question": "What is the subunit composition of fetal hemoglobin (HbF)?",
+  "options": [
+    {
+      "id": "A",
+      "text": "alpha2 gamma2"
+    },
+    {
+      "id": "B",
+      "text": "alpha2 beta2"
+    },
+    {
+      "id": "C",
+      "text": "alpha2 delta2"
+    },
+    {
+      "id": "D",
+      "text": "gamma2 beta2"
+    },
+    {
+      "id": "E",
+      "text": "zeta2 epsilon2"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Hemoglobin F is composed of two alpha and two gamma chains (alpha2 gamma2) and is the predominant hemoglobin during fetal life. After birth it is progressively replaced by adult hemoglobin HbA1 (alpha2 beta2). The gamma chains give HbF a lower affinity for 2,3-BPG and therefore a higher oxygen affinity, which is essential for extracting oxygen from maternal blood. Remember: alpha is always present, gamma goes and is replaced by beta.",
+  "explanation_incorrect": {
+    "B": "alpha2 beta2 is adult hemoglobin (HbA1), not the fetal form.",
+    "C": "alpha2 delta2 is HbA2, a minor adult hemoglobin present in small amounts.",
+    "D": "gamma2 beta2 is not a normal human hemoglobin species.",
+    "E": "Zeta and epsilon are embryonic globins, not components of HbF."
+  },
+  "educationalObjective": "Fetal hemoglobin (HbF) consists of two alpha and two gamma globin chains (alpha2 gamma2).",
+  "source": "Generated from 10. Oncology.pdf - Embryology: Hemoglobin development and fetal hemoglobin"
+},
+{
+  "id": "onc-006",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Embryology",
+  "subtopic": "Hemoglobin development and fetal hemoglobin",
+  "difficulty": "medium",
+  "vignette": "A researcher examines hemoglobin from a very early embryo, before the fetal-to-adult globin switch has occurred. The earliest globin chains expressed are distinct from the alpha, beta, gamma, and delta chains seen later in development.",
+  "question": "Which pair of globin chains represents the embryonic globins produced earliest in development?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Alpha and beta"
+    },
+    {
+      "id": "B",
+      "text": "Alpha and gamma"
+    },
+    {
+      "id": "C",
+      "text": "Alpha and delta"
+    },
+    {
+      "id": "D",
+      "text": "Gamma and beta"
+    },
+    {
+      "id": "E",
+      "text": "Zeta and epsilon"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "The embryonic globins are zeta and epsilon, which are expressed in the earliest embryonic hemoglobins before fetal hemoglobin (alpha2 gamma2) predominates. They are subsequently silenced as alpha and gamma, and later beta, chain expression takes over. Recognizing zeta and epsilon as the embryonic chains is a classic embryology point. They are not found in normal fetal or adult hemoglobin.",
+  "explanation_incorrect": {
+    "A": "Alpha and beta chains form adult hemoglobin HbA1.",
+    "B": "Alpha and gamma chains form fetal hemoglobin HbF.",
+    "C": "Alpha and delta chains form the minor adult hemoglobin HbA2.",
+    "D": "Gamma and beta are the fetal and adult beta-like chains, respectively, not embryonic chains."
+  },
+  "educationalObjective": "The earliest embryonic globins are zeta and epsilon, preceding fetal alpha and gamma chains.",
+  "source": "Generated from 10. Oncology.pdf - Embryology: Hemoglobin development and fetal hemoglobin"
+},
+{
+  "id": "onc-007",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Embryology",
+  "subtopic": "Hemoglobin development and fetal hemoglobin",
+  "difficulty": "hard",
+  "vignette": "A fetus must obtain oxygen from maternal blood across the placenta. Fetal hemoglobin has a higher affinity for oxygen than maternal hemoglobin, allowing it to extract and bind oxygen delivered to the intervillous space. This property stems from an altered interaction with the glycolytic intermediate 2,3-bisphosphoglycerate (2,3-BPG).",
+  "question": "Why does fetal hemoglobin have a higher oxygen affinity than adult hemoglobin?",
+  "options": [
+    {
+      "id": "A",
+      "text": "HbF binds 2,3-BPG more tightly, stabilizing the deoxygenated T state"
+    },
+    {
+      "id": "B",
+      "text": "HbF binds 2,3-BPG with relatively lower affinity, so less 2,3-BPG-mediated right shift occurs"
+    },
+    {
+      "id": "C",
+      "text": "HbF contains beta chains that intrinsically bind oxygen more tightly"
+    },
+    {
+      "id": "D",
+      "text": "Fetal erythrocytes contain a much higher concentration of 2,3-BPG than adult cells"
+    },
+    {
+      "id": "E",
+      "text": "Fetal RBCs lack 2,3-BPG entirely, so HbF is never exposed to it"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "The gamma chains of HbF bind 2,3-BPG with lower affinity than the beta chains of adult hemoglobin. Because 2,3-BPG stabilizes the deoxygenated T state and lowers oxygen affinity, weaker 2,3-BPG binding leaves HbF in the high-affinity state and shifts its dissociation curve to the left. This lets the fetus capture oxygen from maternal HbA1 and HbA2 across the placenta. This mechanism, not a difference in 2,3-BPG concentration, explains the higher oxygen affinity of HbF.",
+  "explanation_incorrect": {
+    "A": "Tighter 2,3-BPG binding would lower oxygen affinity (a right shift), the opposite of what HbF does.",
+    "C": "HbF does not contain beta chains; it contains gamma chains in place of beta.",
+    "D": "The critical difference is the affinity of the globin chains for 2,3-BPG, not its intracellular concentration.",
+    "E": "Fetal RBCs do contain 2,3-BPG; the difference is binding affinity, not its complete absence."
+  },
+  "educationalObjective": "HbF binds 2,3-BPG weakly, giving it a higher oxygen affinity that allows oxygen capture from maternal hemoglobin.",
+  "source": "Generated from 10. Oncology.pdf - Embryology: Hemoglobin development and fetal hemoglobin"
+},
+{
+  "id": "onc-008",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Embryology",
+  "subtopic": "Hemoglobin development and fetal hemoglobin",
+  "difficulty": "medium",
+  "vignette": "A 3-month-old infant has hemoglobin electrophoresis showing that fetal hemoglobin has largely been replaced by adult hemoglobin. The gamma chain genes have been largely silenced and beta chain production has risen, while one globin chain type has been expressed continuously from fetal life into adulthood.",
+  "question": "Which globin chain is produced throughout both fetal and adult life?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Beta"
+    },
+    {
+      "id": "B",
+      "text": "Gamma"
+    },
+    {
+      "id": "C",
+      "text": "Delta"
+    },
+    {
+      "id": "D",
+      "text": "Alpha"
+    },
+    {
+      "id": "E",
+      "text": "Epsilon"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Alpha chains are expressed continuously from embryonic and fetal life through adulthood, summarized by the mnemonic 'alpha always.' In contrast, gamma (the fetal chain) declines after birth and is replaced by beta ('gamma goes, becomes beta'), delta appears only as the minor adult HbA2 (alpha2 delta2), and epsilon is an embryonic chain. Because alpha persists, it is a shared component of HbF (alpha2 gamma2), HbA1 (alpha2 beta2), and HbA2 (alpha2 delta2).",
+  "explanation_incorrect": {
+    "A": "Beta chains rise after birth to replace gamma and are not a major fetal chain.",
+    "B": "Gamma chains are the fetal chain that declines after birth.",
+    "C": "Delta chains appear only in the minor adult hemoglobin HbA2.",
+    "E": "Epsilon is an embryonic globin not expressed in fetal or adult hemoglobin."
+  },
+  "educationalObjective": "Alpha globin chains are expressed throughout development, whereas gamma is replaced by beta after birth.",
+  "source": "Generated from 10. Oncology.pdf - Embryology: Hemoglobin development and fetal hemoglobin"
+}
+]

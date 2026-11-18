@@ -1,0 +1,125 @@
+[
+{
+  "id": "onc-178",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "HbC disease and HbSC disease",
+  "difficulty": "medium",
+  "vignette": "A 35-year-old woman of West African descent has mild anemia and a peripheral smear showing target cells and small crystals within red cells. Hemoglobin electrophoresis demonstrates a variant that migrates distinctly from HbS.",
+  "question": "Which of the following amino acid substitutions characterizes the hemoglobin variant in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Valine substituted for glutamic acid in beta-globin"
+    },
+    {
+      "id": "B",
+      "text": "Glutamic acid substituted for valine in beta-globin"
+    },
+    {
+      "id": "C",
+      "text": "Lysine substituted for valine in beta-globin"
+    },
+    {
+      "id": "D",
+      "text": "Lysine substituted for glutamic acid in beta-globin"
+    },
+    {
+      "id": "E",
+      "text": "Glutamic acid substituted for lysine in beta-globin"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "HbC disease results from a point mutation in beta-globin that replaces glutamic acid with lysine. It causes extravascular hemolysis and, in homozygotes, hemoglobin crystals and target cells on smear. The mutation affects the same residue as sickle hemoglobin but substitutes a different amino acid, producing a much milder clinical picture than HbSS disease.",
+  "explanation_incorrect": {
+    "A": "Valine replacing glutamic acid is the HbS mutation, associated with crescents and vaso-occlusion rather than crystals and target cells.",
+    "B": "Reversing the sickle substitution does not describe HbC; in HbC the residue replaced is glutamic acid, and the new residue is lysine.",
+    "C": "The normal residue at this position is glutamic acid, not valine, so lysine does not replace valine in HbC.",
+    "E": "That is the reverse of HbC. In HbC, lysine takes the place of glutamic acid, not the other way around."
+  },
+  "educationalObjective": "HbC disease is caused by a glutamic-acid-to-lysine substitution in beta-globin, producing mild extravascular hemolysis with target cells and hemoglobin crystals.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: HbC disease and HbSC disease"
+},
+{
+  "id": "onc-179",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "HbC disease and HbSC disease",
+  "difficulty": "easy",
+  "vignette": "A 30-year-old man has one sickle cell allele and one HbC allele. His disease is notably milder than that of his brother, who inherited two sickle cell alleles, with fewer pain crises and less severe anemia.",
+  "question": "Which of the following best explains the milder course in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "HbC completely prevents any sickling from occurring"
+    },
+    {
+      "id": "B",
+      "text": "HbSC disease is milder than HbSS disease"
+    },
+    {
+      "id": "C",
+      "text": "A concomitant alpha-thalassemia eliminates all of his symptoms"
+    },
+    {
+      "id": "D",
+      "text": "The HbC allele raises HbF to normal adult levels"
+    },
+    {
+      "id": "E",
+      "text": "His red cells are larger and therefore less likely to occlude capillaries"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "HbSC disease results from inheriting one HbS and one HbC allele and is milder than homozygous HbSS sickle cell anemia. Patients still have some sickling and hemolysis but fewer severe vaso-occlusive complications. The presence of HbC modifies the phenotype relative to two sickle alleles, even though both disorders are hemoglobinopathies.",
+  "explanation_incorrect": {
+    "A": "HbC does not abolish sickling; HbSC patients still sickle under deoxygenation and can develop painful crises and retinal or renal complications.",
+    "C": "Coexisting alpha-thalassemia can modify HbSC, but it is not the general reason HbSC is milder than HbSS.",
+    "D": "HbC does not raise HbF to normal adult levels; HbF is the protective fetal hemoglobin and is a separate variable.",
+    "E": "Red cell size is not the mechanism; the difference lies in hemoglobin composition and polymerization behavior."
+  },
+  "educationalObjective": "HbSC disease (one HbS allele and one HbC allele) is a milder hemoglobinopathy than homozygous HbSS sickle cell disease.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: HbC disease and HbSC disease"
+},
+{
+  "id": "onc-180",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "HbC disease and HbSC disease",
+  "difficulty": "hard",
+  "vignette": "A patient with mild hemolytic anemia has hemoglobin electrophoresis showing a predominant hemoglobin C band and essentially no HbA. The peripheral smear demonstrates target cells and crystalline inclusions within red cells.",
+  "question": "Which of the following best characterizes this patient's hemoglobinopathy?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Homozygous HbC disease with predominantly HbC"
+    },
+    {
+      "id": "B",
+      "text": "HbSS disease with coexisting alpha-thalassemia"
+    },
+    {
+      "id": "C",
+      "text": "Sickle cell trait with one normal beta allele"
+    },
+    {
+      "id": "D",
+      "text": "Beta-thalassemia major with elevated HbF"
+    },
+    {
+      "id": "E",
+      "text": "HbSC disease with both HbS and HbC"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "In homozygous HbC disease, nearly all hemoglobin is HbC, which migrates distinctly on electrophoresis, and the smear shows target cells with intracellular hemoglobin crystals. Extravascular hemolysis produces a mild anemia. This contrasts with HbSC disease, in which substantial HbS and HbC are both present and sickling can occur.",
+  "explanation_incorrect": {
+    "B": "HbSS disease shows predominantly HbS rather than a fast HbC band, and crystals with target cells are not its typical smear finding.",
+    "C": "Sickle cell trait has mostly HbA with a smaller HbS fraction, so HbA would be the dominant band here.",
+    "D": "Beta-thalassemia major shows little or no HbA with markedly elevated HbF, not a predominant HbC band.",
+    "E": "HbSC disease shows substantial amounts of both HbS and HbC; a predominantly HbC pattern with essentially no HbA indicates homozygous HbC."
+  },
+  "educationalObjective": "Homozygous HbC disease shows predominantly HbC on electrophoresis with target cells and hemoglobin crystals on smear, causing mild extravascular hemolysis.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: HbC disease and HbSC disease"
+}
+]

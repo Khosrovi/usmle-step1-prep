@@ -1,0 +1,166 @@
+[
+{
+  "id": "onc-225",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "von Willebrand disease",
+  "difficulty": "easy",
+  "vignette": "A 24-year-old woman reports heavy menstrual bleeding since menarche and frequent nosebleeds. Her mother had similar symptoms. Laboratory studies show a normal platelet count, hemoglobin 11 g/dL, prolonged bleeding time, normal PT, and prolonged PTT.",
+  "question": "Which of the following is the most likely diagnosis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Immune thrombocytopenia"
+    },
+    {
+      "id": "B",
+      "text": "von Willebrand disease"
+    },
+    {
+      "id": "C",
+      "text": "Bernard-Soulier syndrome"
+    },
+    {
+      "id": "D",
+      "text": "Glanzmann thrombasthenia"
+    },
+    {
+      "id": "E",
+      "text": "Hemophilia A"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "von Willebrand disease is the most common inherited bleeding disorder and is usually autosomal dominant, fitting a multigenerational family history of mucosal bleeding in both sexes. Decreased quantity or function of vWF impairs platelet-to-vWF adhesion, causing mucocutaneous bleeding such as menorrhagia and epistaxis with a normal platelet count and prolonged bleeding time. Because vWF carries and protects factor VIII, the PTT may also be prolonged. Treatment includes vWF concentrates and desmopressin.",
+  "explanation_incorrect": {
+    "A": "ITP causes isolated thrombocytopenia with a low platelet count and normal PTT, unlike this patient's normal platelet count and prolonged PTT.",
+    "C": "Bernard-Soulier syndrome is autosomal recessive with defective GpIb, giant platelets, and reduced adhesion, not a dominant family history with prolonged PTT.",
+    "D": "Glanzmann thrombasthenia is autosomal recessive due to defective GpIIb/IIIa aggregation with a normal platelet count and normal PTT.",
+    "E": "Hemophilia A is X-linked factor VIII deficiency affecting males, with normal platelet count and bleeding time but prolonged PTT."
+  },
+  "educationalObjective": "von Willebrand disease is the most common inherited bleeding disorder, usually autosomal dominant, causing mucocutaneous bleeding with a normal platelet count, prolonged bleeding time, and possibly prolonged PTT.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: von Willebrand disease"
+},
+{
+  "id": "onc-226",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "von Willebrand disease",
+  "difficulty": "medium",
+  "vignette": "A 19-year-old man has easy bruising and prolonged bleeding after dental work. Laboratory studies show platelet count 250,000/microL, bleeding time 9 minutes (prolonged), PT 12 seconds (normal), and PTT 48 seconds (prolonged).",
+  "question": "Which of the following best matches this pattern of laboratory abnormalities?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Low platelet count, prolonged PT, and normal PTT"
+    },
+    {
+      "id": "B",
+      "text": "Normal platelet count, normal bleeding time, and prolonged PT"
+    },
+    {
+      "id": "C",
+      "text": "Normal platelet count, prolonged bleeding time, normal PT, and prolonged PTT"
+    },
+    {
+      "id": "D",
+      "text": "Low platelet count, prolonged bleeding time, and prolonged PT and PTT"
+    },
+    {
+      "id": "E",
+      "text": "Normal platelet count, normal bleeding time, and normal PT and PTT"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "This is the classic laboratory pattern of von Willebrand disease: platelet count is normal because the defect is qualitative (adhesion), bleeding time is prolonged because platelet plug formation is impaired, PT is normal because the extrinsic pathway is intact, and PTT may be prolonged because vWF carries and protects factor VIII. This pattern reflects an intrinsic pathway coagulation defect combined with defective platelet plug formation. It matches the mixed platelet and coagulation disorder profile of vWD.",
+  "explanation_incorrect": {
+    "A": "A low platelet count with prolonged PT suggests a consumptive or vitamin K–dependent process, not vWD, where the platelet count is normal.",
+    "B": "Normal bleeding time with isolated prolonged PT suggests an extrinsic pathway defect such as warfarin effect or factor VII deficiency, not vWD.",
+    "D": "Low platelets with prolonged PT and PTT suggests DIC, not the normal platelet count and normal PT of vWD.",
+    "E": "All normal studies would not explain this patient's bleeding; vWD prolongs bleeding time and may prolong PTT."
+  },
+  "educationalObjective": "von Willebrand disease classically shows a normal platelet count, prolonged bleeding time, normal PT, and a normal or prolonged PTT.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: von Willebrand disease"
+},
+{
+  "id": "onc-227",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "von Willebrand disease",
+  "difficulty": "medium",
+  "vignette": "A 32-year-old woman with von Willebrand disease has a prolonged PTT in addition to an elevated bleeding time. Her PT is normal and her platelet count is normal.",
+  "question": "Which of the following best explains the prolonged PTT in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "vWF directly activates factor VII in the extrinsic pathway"
+    },
+    {
+      "id": "B",
+      "text": "Defective vWF causes increased clearance of circulating platelets"
+    },
+    {
+      "id": "C",
+      "text": "vWF deficiency leads to decreased conversion of fibrinogen to fibrin"
+    },
+    {
+      "id": "D",
+      "text": "vWF carries and protects factor VIII, so its deficiency lowers factor VIII and prolongs the intrinsic pathway"
+    },
+    {
+      "id": "E",
+      "text": "vWF is required for common pathway thrombin generation independent of factor VIII"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "vWF binds and protects factor VIII in plasma, preventing its rapid degradation. When vWF is deficient or dysfunctional, factor VIII levels fall, impairing the intrinsic pathway and prolonging the PTT. The PT remains normal because the extrinsic pathway is unaffected. This is why vWD is classified as a mixed platelet and coagulation disorder, with both a platelet adhesion defect and an intrinsic pathway defect.",
+  "explanation_incorrect": {
+    "A": "Factor VII is part of the extrinsic pathway and is not carried by vWF; its activation would affect the PT rather than prolong the PTT.",
+    "B": "Platelet clearance is not the cause of the PTT abnormality; the platelet count in vWD is typically normal.",
+    "C": "Fibrinogen conversion to fibrin is a common pathway step and is not the primary defect in vWD, which does not reduce fibrinogen.",
+    "E": "vWF's effect on the PTT is mediated through factor VIII protection, not through a factor VIII-independent common pathway effect."
+  },
+  "educationalObjective": "The prolonged PTT in von Willebrand disease results from reduced factor VIII because vWF normally carries and protects factor VIII.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: von Willebrand disease"
+},
+{
+  "id": "onc-228",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "von Willebrand disease",
+  "difficulty": "easy",
+  "vignette": "A 27-year-old woman with mild von Willebrand disease and menorrhagia is scheduled for a dental extraction. Her physician wants to raise her vWF levels preoperatively.",
+  "question": "Which of the following is most appropriate to administer?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Desmopressin"
+    },
+    {
+      "id": "B",
+      "text": "Warfarin"
+    },
+    {
+      "id": "C",
+      "text": "Heparin"
+    },
+    {
+      "id": "D",
+      "text": "Protamine sulfate"
+    },
+    {
+      "id": "E",
+      "text": "Vitamin K"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Desmopressin (DDAVP) is used in von Willebrand disease because it releases vWF stored in endothelial cells, raising plasma vWF and factor VIII levels. vWF concentrates are another treatment option, particularly for more severe disease or major surgery. Desmopressin is appropriate for mild disease and minor procedures. The other agents are anticoagulants or reversal agents and would not replenish vWF.",
+  "explanation_incorrect": {
+    "B": "Warfarin is an anticoagulant that would worsen bleeding and has no role in vWD.",
+    "C": "Heparin is an anticoagulant and would not correct the vWF deficiency.",
+    "D": "Protamine sulfate reverses heparin and does not raise vWF levels.",
+    "E": "Vitamin K is used for warfarin reversal or vitamin K deficiency, not for von Willebrand disease."
+  },
+  "educationalObjective": "Desmopressin raises vWF by releasing endothelial stores and is a mainstay of von Willebrand disease treatment along with vWF concentrates.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: von Willebrand disease"
+}
+]

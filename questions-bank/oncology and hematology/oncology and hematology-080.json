@@ -1,0 +1,289 @@
+[
+{
+  "id": "onc-171",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Sickle cell disease",
+  "difficulty": "easy",
+  "vignette": "A 19-year-old man of West African ancestry has had recurrent painful episodes in his hands and feet since childhood. Laboratory studies show anemia, and hemoglobin electrophoresis reveals a major band migrating where HbS runs. His red cells assume a crescent shape under low-oxygen conditions.",
+  "question": "Which of the following best describes the primary molecular defect in this patient's hemoglobin?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Substitution of lysine for glutamic acid in the beta-globin chain"
+    },
+    {
+      "id": "B",
+      "text": "Deletion of two alpha-globin genes on chromosome 16"
+    },
+    {
+      "id": "C",
+      "text": "Substitution of valine for glutamic acid in the beta-globin chain"
+    },
+    {
+      "id": "D",
+      "text": "Substitution of glutamic acid for valine at the same beta-globin position"
+    },
+    {
+      "id": "E",
+      "text": "A nonsense mutation introducing a premature stop codon in beta-globin"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Sickle cell anemia results from a point mutation in the beta-globin gene that substitutes valine for glutamic acid, creating a hydrophobic patch on the beta chain. When deoxygenated, HbS molecules aggregate into long polymers that distort the red cell into a crescent or sickle shape. The abnormal hemoglobin produces both extravascular and intravascular hemolysis. This single missense change is the classic example of a dramatically phenotypic point mutation.",
+  "explanation_incorrect": {
+    "A": "Lysine replacing glutamic acid is the HbC mutation, which causes milder extravascular hemolysis with crystals and target cells rather than sickling.",
+    "B": "Deletion of alpha-globin genes causes alpha-thalassemia, producing a microcytic anemia with HbH or Hb Bart's and no HbS band on electrophoresis.",
+    "D": "The substitution runs the other way: valine replaces glutamic acid. Reversing it would not create the hydrophobic patch that drives polymerization.",
+    "E": "A premature stop codon would abolish beta-globin synthesis, as in beta-thalassemia, rather than produce an abnormal hemoglobin that polymerizes."
+  },
+  "educationalObjective": "Sickle cell disease is caused by a missense point mutation substituting valine for glutamic acid in beta-globin, promoting HbS polymerization when deoxygenated.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Sickle cell disease"
+},
+{
+  "id": "onc-172",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Sickle cell disease",
+  "difficulty": "medium",
+  "vignette": "A 22-year-old woman with sickle cell disease develops severe back and chest pain while vacationing at a high-altitude ski resort. She has been hiking vigorously and is mildly dehydrated.",
+  "question": "Which of the following best explains why these conditions precipitated her pain crisis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Lower oxygen tension and acidosis promote deoxygenation and polymerization of HbS"
+    },
+    {
+      "id": "B",
+      "text": "Cold exposure directly lyses red cells via complement fixation"
+    },
+    {
+      "id": "C",
+      "text": "High altitude increases HbF synthesis, which destabilizes the red cell membrane"
+    },
+    {
+      "id": "D",
+      "text": "Dehydration causes red cells to become spherocytic and removed by the spleen"
+    },
+    {
+      "id": "E",
+      "text": "Increased 2,3-BPG production converts HbS back into HbA"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Decreased oxygen tension (high altitude, strenuous exercise), acidosis, and dehydration all favor deoxygenation of HbS. Deoxygenated HbS polymerizes into rigid fibers that distort red cells into crescents and obstruct the microvasculature, producing painful vaso-occlusive crises such as dactylitis and priapism. This deoxygenation-dependent polymerization is the central pathogenic event in sickle cell disease.",
+  "explanation_incorrect": {
+    "B": "Complement-mediated lysis triggered by cold exposure describes cold autoimmune hemolytic anemia with IgM, not the trigger for sickling.",
+    "C": "HbF is protective against sickling; altitude does not induce it, and HbF does not destabilize the red cell membrane.",
+    "D": "Spherocytosis is characteristic of hereditary spherocytosis or warm autoimmune hemolysis, not the dehydrated sickled cell.",
+    "E": "2,3-BPG promotes oxygen release and would, if anything, favor deoxygenated HbS rather than convert it back to HbA."
+  },
+  "educationalObjective": "Hypoxia, altitude, acidosis, and dehydration precipitate sickling by favoring deoxygenation-dependent HbS polymerization and vaso-occlusion.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Sickle cell disease"
+},
+{
+  "id": "onc-173",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Sickle cell disease",
+  "difficulty": "medium",
+  "vignette": "A male newborn is born to a mother with sickle cell disease. He is currently asymptomatic with a normal-appearing blood smear, and hemoglobin studies show that most of his hemoglobin is HbF.",
+  "question": "Which of the following best explains why this newborn is initially asymptomatic?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Fetal red cells lack the beta-globin chain entirely"
+    },
+    {
+      "id": "B",
+      "text": "Newborns produce high levels of HbA2, which replaces HbS"
+    },
+    {
+      "id": "C",
+      "text": "Sickle cell disease manifests only after the first year because of delayed marrow maturation"
+    },
+    {
+      "id": "D",
+      "text": "The neonatal spleen removes all sickled cells before they reach the circulation"
+    },
+    {
+      "id": "E",
+      "text": "HbF predominates and inhibits HbS polymerization"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Newborns have high levels of HbF (alpha2 gamma2), which contains gamma rather than beta chains, so little HbS is present and HbF interferes with HbS polymerization. As HbF declines over the first months of life and HbS accumulates, the manifestations of sickle cell disease emerge. This fetal-to-adult hemoglobin switch explains why affected newborns are initially asymptomatic.",
+  "explanation_incorrect": {
+    "A": "Fetal red cells do synthesize beta-globin; sickle cell disease involves a mutant beta gene, and it is the gamma chains of HbF that are protective.",
+    "B": "HbA2 is a minor adult hemoglobin (alpha2 delta2); it does not replace HbS in affected infants.",
+    "C": "The anemia of sickle cell disease is not due to delayed marrow maturation; symptoms track the fetal-to-adult hemoglobin switch instead.",
+    "D": "The neonatal spleen is functionally immature and does not clear sickled cells; autosplenectomy develops only after repeated infarcts later in life."
+  },
+  "educationalObjective": "High HbF in newborns protects against sickling because gamma chains cannot form HbS polymers, delaying manifestations of sickle cell disease.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Sickle cell disease"
+},
+{
+  "id": "onc-174",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Sickle cell disease",
+  "difficulty": "easy",
+  "vignette": "A 28-year-old woman of African descent is found to have sickle cell trait, with one abnormal beta-globin allele, during routine screening. She is healthy and has never had a pain crisis. She asks why this trait is so common in populations where malaria is endemic.",
+  "question": "Which of the following best explains the high frequency of the sickle cell allele in malaria-endemic regions?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Homozygotes are completely protected from severe malaria"
+    },
+    {
+      "id": "B",
+      "text": "Heterozygotes have increased resistance to malaria"
+    },
+    {
+      "id": "C",
+      "text": "The mutation arose in the malaria parasite and was transferred to humans"
+    },
+    {
+      "id": "D",
+      "text": "Sickle trait increases red cell production, diluting the parasite load"
+    },
+    {
+      "id": "E",
+      "text": "Malaria infection suppresses HbS expression in carriers"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Individuals heterozygous for the sickle cell allele have a selective survival advantage in malaria-endemic regions because their red cells are less hospitable to Plasmodium and infected cells are cleared more readily. This balances the severe cost of homozygous sickle cell disease. It is the classic textbook example of a balanced polymorphism maintaining a deleterious allele in a population.",
+  "explanation_incorrect": {
+    "A": "Homozygotes suffer severe sickle cell disease with high mortality; they are not the group with the survival advantage.",
+    "C": "The allele is a human beta-globin mutation; it is not a gene acquired from the malaria parasite.",
+    "D": "Sickle trait does not boost red cell production; resistance relates to impaired parasite survival within the abnormal red cell.",
+    "E": "Malaria does not suppress HbS expression; the protection is inherent to the heterozygous red cell."
+  },
+  "educationalObjective": "Heterozygosity for the sickle cell allele confers malaria resistance, a classic balanced polymorphism maintaining the allele in endemic populations.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Sickle cell disease"
+},
+{
+  "id": "onc-175",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Sickle cell disease",
+  "difficulty": "hard",
+  "vignette": "A 16-year-old boy with sickle cell disease has had three admissions for acute chest syndrome. Baseline electrophoresis showed markedly decreased HbA, increased HbF, and markedly increased HbS. He is now started on hydroxyurea.",
+  "question": "Which of the following changes on hemoglobin electrophoresis is most likely to follow effective therapy?",
+  "options": [
+    {
+      "id": "A",
+      "text": "HbA increases to normal while HbS disappears entirely"
+    },
+    {
+      "id": "B",
+      "text": "HbS falls to near zero and HbA2 becomes the dominant band"
+    },
+    {
+      "id": "C",
+      "text": "HbF decreases while HbS increases"
+    },
+    {
+      "id": "D",
+      "text": "HbF increases while HbS decreases"
+    },
+    {
+      "id": "E",
+      "text": "A new band corresponding to HbC appears"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Untreated sickle cell disease shows markedly decreased HbA, increased HbF, and markedly increased HbS on electrophoresis. Hydroxyurea raises HbF production; the gamma chains of HbF interfere with HbS polymerization, reducing sickling and the frequency of painful and acute chest crises. Effective therapy therefore shifts electrophoresis toward more HbF and relatively less HbS.",
+  "explanation_incorrect": {
+    "A": "HbA is low because the beta-globin allele is mutant; hydroxyurea does not restore normal beta-globin or make HbS disappear.",
+    "B": "HbS does not fall to near zero, and HbA2 is a minor delta-chain hemoglobin that is not the target of this therapy.",
+    "C": "That is the opposite of the desired effect: raising HbF is protective, so HbF should increase rather than decrease.",
+    "E": "HbC requires a distinct glutamic-acid-to-lysine mutation; hydroxyurea does not generate a new HbC band."
+  },
+  "educationalObjective": "Sickle cell electrophoresis shows decreased HbA, increased HbS and HbF; hydroxyurea raises HbF, which inhibits HbS polymerization and reduces crises.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Sickle cell disease"
+},
+{
+  "id": "onc-176",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Sickle cell disease",
+  "difficulty": "medium",
+  "vignette": "A 12-year-old girl with sickle cell disease has chronic hemolytic anemia. On examination the spleen is not palpable. Her peripheral smear shows red cells containing residual nuclear fragments, and she develops fever with severe pain in her femur.",
+  "question": "Which of the following best links these findings?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Persistent splenomegaly is causing sequestration of platelets"
+    },
+    {
+      "id": "B",
+      "text": "Repeated splenic infarction has caused autosplenectomy, with loss of filtering of nuclear remnants and susceptibility to encapsulated organisms"
+    },
+    {
+      "id": "C",
+      "text": "Parvovirus B19 infection has produced an aplastic crisis"
+    },
+    {
+      "id": "D",
+      "text": "Pulmonary vaso-occlusion has produced acute chest syndrome"
+    },
+    {
+      "id": "E",
+      "text": "Iron overload from transfusions has deposited in bone"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Recurrent splenic infarction in sickle cell disease causes functional autosplenectomy. Without splenic macrophages, Howell-Jolly bodies (residual nuclear fragments) remain in circulating red cells, and patients become vulnerable to encapsulated organisms; Salmonella osteomyelitis is a classic association. The small, fibrotic spleen is no longer palpable.",
+  "explanation_incorrect": {
+    "A": "In long-standing disease the spleen is small and fibrotic, not enlarged; splenomegaly is more typical of early sequestration crises or hereditary spherocytosis.",
+    "C": "Parvovirus B19 causes a transient aplastic crisis with a sudden fall in reticulocytes, not persistent Howell-Jolly bodies or a small spleen.",
+    "D": "Acute chest syndrome causes respiratory distress and new pulmonary infiltrates, not femoral bone pain and Howell-Jolly bodies.",
+    "E": "Iron overload causes organ hemosiderosis but does not explain absent splenic filtering or susceptibility to Salmonella osteomyelitis."
+  },
+  "educationalObjective": "Autosplenectomy in sickle cell disease leaves Howell-Jolly bodies on smear and predisposes to encapsulated infections such as Salmonella osteomyelitis.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Sickle cell disease"
+},
+{
+  "id": "onc-177",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Sickle cell disease",
+  "difficulty": "hard",
+  "vignette": "A 24-year-old man with sickle cell disease develops fever, chest pain, and progressive dyspnea over 2 days. Chest radiograph shows new bilateral pulmonary infiltrates. His hemoglobin has fallen further and he is hypoxemic.",
+  "question": "Which of the following is the most likely diagnosis and the most common cause of death in this population?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Aplastic crisis due to parvovirus B19"
+    },
+    {
+      "id": "B",
+      "text": "Acute splenic sequestration crisis"
+    },
+    {
+      "id": "C",
+      "text": "Acute chest syndrome from pulmonary vaso-occlusion and sickling"
+    },
+    {
+      "id": "D",
+      "text": "Pneumococcal pneumonia occurring without sickling"
+    },
+    {
+      "id": "E",
+      "text": "Pulmonary embolism from an underlying deep vein thrombosis"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Acute chest syndrome is a vaso-occlusive crisis within the pulmonary vasculature, producing fever, respiratory distress, hypoxemia, and new pulmonary infiltrates on chest radiograph. It is triggered by sickling with in situ thrombosis and infection and is the leading cause of death in sickle cell disease. Management includes oxygen, hydration, analgesia, antibiotics, and often simple or exchange transfusion.",
+  "explanation_incorrect": {
+    "A": "Aplastic crisis presents with sudden worsening anemia and a low reticulocyte count after parvovirus B19 infection, without new pulmonary infiltrates.",
+    "B": "Splenic sequestration crisis causes sudden splenomegaly, a falling hemoglobin, and shock rather than pulmonary infiltrates.",
+    "D": "Pneumococcal pneumonia can occur because of functional asplenia, but vaso-occlusive pain with sickling in a known sickle cell patient points to acute chest syndrome.",
+    "E": "Pulmonary embolism can cause dyspnea but does not typically produce the fever and new infiltrates characteristic of acute chest syndrome."
+  },
+  "educationalObjective": "Acute chest syndrome is a leading cause of death in sickle cell disease, presenting with respiratory distress, hypoxemia, and new pulmonary infiltrates from sickling.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Sickle cell disease"
+}
+]

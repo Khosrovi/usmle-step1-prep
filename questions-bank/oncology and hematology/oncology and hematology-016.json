@@ -1,0 +1,207 @@
+[
+{
+  "id": "onc-181",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Autoimmune hemolytic anemia",
+  "difficulty": "easy",
+  "vignette": "A 45-year-old woman has fatigue and jaundice. Laboratory studies show a normocytic anemia, elevated indirect bilirubin, and a positive direct Coombs test. No offending drug or infection is identified.",
+  "question": "Which of the following best characterizes the most common form of autoimmune hemolytic anemia?",
+  "options": [
+    {
+      "id": "A",
+      "text": "IgM-mediated intravascular hemolysis triggered by cold exposure"
+    },
+    {
+      "id": "B",
+      "text": "Complement-mediated intravascular hemolysis with a negative Coombs test"
+    },
+    {
+      "id": "C",
+      "text": "Mechanical fragmentation of red cells by a prosthetic valve"
+    },
+    {
+      "id": "D",
+      "text": "Oxidative injury with bite cells after fava bean ingestion"
+    },
+    {
+      "id": "E",
+      "text": "IgG-mediated extravascular hemolysis, often chronic and idiopathic"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Autoimmune hemolytic anemia is a normocytic anemia that is usually idiopathic and Coombs positive. The warm type, mediated primarily by IgG, is chronic and causes extravascular hemolysis far more than intravascular hemolysis. It is associated with SLE, CLL, and drugs such as beta-lactams and alpha-methyldopa; the mnemonic 'Warm weather is Good' captures that warm AIHA is IgG mediated.",
+  "explanation_incorrect": {
+    "A": "Cold IgM autoimmune hemolysis is the less common acute form, with painful blue fingers and toes and agglutinated red cells.",
+    "B": "Coombs-negative complement-mediated intravascular hemolysis with thrombosis describes paroxysmal nocturnal hemoglobinuria, not autoimmune hemolytic anemia.",
+    "C": "Fragmentation by a prosthetic valve is macroangiopathic hemolytic anemia with schistocytes and a negative Coombs test.",
+    "D": "Oxidative bite-cell hemolysis after fava beans is G6PD deficiency, which is not immune mediated."
+  },
+  "educationalObjective": "The most common AIHA is warm, IgG-mediated, Coombs-positive extravascular hemolysis, frequently idiopathic or associated with SLE, CLL, or drugs.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Autoimmune hemolytic anemia"
+},
+{
+  "id": "onc-182",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Autoimmune hemolytic anemia",
+  "difficulty": "medium",
+  "vignette": "A 60-year-old man with chronic lymphocytic leukemia develops painful blue fingers and toes after being outdoors in cold weather. His peripheral smear shows agglutinated red cells and spherocytes.",
+  "question": "Which of the following best explains this presentation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Warm IgG autoantibodies causing chronic extravascular hemolysis"
+    },
+    {
+      "id": "B",
+      "text": "Complement deficiency leading to recurrent Neisseria infection"
+    },
+    {
+      "id": "C",
+      "text": "Cold IgM antibodies with complement causing agglutination and extravascular hemolysis"
+    },
+    {
+      "id": "D",
+      "text": "Microangiopathic schistocyte formation from thrombotic thrombocytopenic purpura"
+    },
+    {
+      "id": "E",
+      "text": "Paroxysmal nocturnal hemoglobinuria from a PIGA mutation"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Cold AIHA is an acute anemia in which IgM plus complement cause red cell agglutination and extravascular hemolysis upon exposure to cold, producing painful blue fingers and toes. It is seen with CLL, Mycoplasma pneumoniae infection, and infectious mononucleosis. The smear shows agglutinated red cells and spherocytes, and the direct Coombs test is typically positive for complement.",
+  "explanation_incorrect": {
+    "A": "Warm AIHA is IgG mediated and chronic, without cold-induced acral pain or red cell agglutination.",
+    "B": "Complement deficiency predisposes to Neisseria infections but does not cause cold-induced agglutination and hemolysis.",
+    "D": "Thrombotic thrombocytopenic purpura is a microangiopathy with schistocytes, fever, renal injury, and neurologic findings, not cold agglutination.",
+    "E": "Paroxysmal nocturnal hemoglobinuria is a clonal PIGA mutation with Coombs-negative intravascular hemolysis, pancytopenia, and thrombosis."
+  },
+  "educationalObjective": "Cold AIHA is an acute IgM- and complement-mediated agglutinating hemolysis triggered by cold and associated with CLL, Mycoplasma, and mononucleosis.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Autoimmune hemolytic anemia"
+},
+{
+  "id": "onc-183",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Autoimmune hemolytic anemia",
+  "difficulty": "medium",
+  "vignette": "A 52-year-old woman with warm autoimmune hemolytic anemia has had recurrent hemolysis despite an adequate trial of glucocorticoids. Her direct Coombs test is positive for IgG.",
+  "question": "Which of the following is the most appropriate next therapeutic option?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Rituximab"
+    },
+    {
+      "id": "B",
+      "text": "Cold avoidance alone"
+    },
+    {
+      "id": "C",
+      "text": "Eculizumab"
+    },
+    {
+      "id": "D",
+      "text": "Danazol"
+    },
+    {
+      "id": "E",
+      "text": "Observation only"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Warm AIHA is treated with steroids, rituximab, and splenectomy if refractory. Rituximab targets CD20 on B cells and reduces production of the pathogenic autoantibody, making it appropriate for steroid-refractory disease. Cold avoidance is the mainstay for cold AIHA rather than the IgG-mediated warm form.",
+  "explanation_incorrect": {
+    "B": "Cold avoidance is used for cold AIHA with IgM cold agglutinins; it does not address warm IgG autoantibodies.",
+    "C": "Eculizumab targets complement protein C5 and is used in paroxysmal nocturnal hemoglobinuria, not in warm AIHA.",
+    "D": "Danazol is not a standard therapy for autoimmune hemolytic anemia; it is better known for hereditary angioedema.",
+    "E": "Observation is inappropriate for a symptomatic hemolytic anemia that has already failed first-line steroids."
+  },
+  "educationalObjective": "Refractory warm AIHA is treated with rituximab and, if needed, splenectomy; cold avoidance applies to cold AIHA instead.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Autoimmune hemolytic anemia"
+},
+{
+  "id": "onc-184",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Autoimmune hemolytic anemia",
+  "difficulty": "hard",
+  "vignette": "A 34-year-old woman with systemic lupus erythematosus develops anemia, jaundice, and a positive direct antiglobulin test. Her peripheral smear shows spherocytes but no schistocytes or agglutinated clumps.",
+  "question": "Which of the following best describes the mechanism and type of her hemolysis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "IgM cold agglutinins producing acute intravascular hemolysis"
+    },
+    {
+      "id": "B",
+      "text": "IgA-mediated complement activation on mucosal surfaces"
+    },
+    {
+      "id": "C",
+      "text": "Nonimmune oxidative hemolysis caused by a drug metabolite"
+    },
+    {
+      "id": "D",
+      "text": "IgG-coated red cells removed by splenic macrophages, causing extravascular hemolysis"
+    },
+    {
+      "id": "E",
+      "text": "Complement-mediated intravascular hemolysis due to a PIGA mutation"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Warm AIHA is associated with SLE, CLL, and drugs such as beta-lactams and alpha-methyldopa, and is mediated primarily by IgG. IgG-coated red cells are recognized by Fc receptors on splenic macrophages and removed extravascularly, leaving spherocytes on the smear. It is chronic and Coombs positive, unlike cold IgM disease.",
+  "explanation_incorrect": {
+    "A": "Cold IgM disease produces agglutination and acral cyanosis on cold exposure, not the chronic SLE-associated spherocytic picture.",
+    "B": "IgA is not the mediator of autoimmune hemolytic anemia; the relevant antibodies are IgG in warm disease and IgM in cold disease.",
+    "C": "Nonimmune oxidative hemolysis is Coombs negative with bite cells or Heinz bodies rather than spherocytes.",
+    "E": "A PIGA mutation causes paroxysmal nocturnal hemoglobinuria, a Coombs-negative clonal disorder with intravascular hemolysis and thrombosis."
+  },
+  "educationalObjective": "Warm AIHA complicating SLE is IgG-mediated extravascular hemolysis with spherocytes and a positive direct Coombs test.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Autoimmune hemolytic anemia"
+},
+{
+  "id": "onc-185",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Autoimmune hemolytic anemia",
+  "difficulty": "medium",
+  "vignette": "A 19-year-old man develops acute hemolytic anemia with painful cyanotic toes during winter. Serologic testing is positive for Mycoplasma pneumoniae, and his smear shows agglutinated red cells.",
+  "question": "Which of the following is the most appropriate management for this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "High-dose glucocorticoids and splenectomy"
+    },
+    {
+      "id": "B",
+      "text": "Cold avoidance and rituximab"
+    },
+    {
+      "id": "C",
+      "text": "Eculizumab with anticoagulation"
+    },
+    {
+      "id": "D",
+      "text": "Iron supplementation alone"
+    },
+    {
+      "id": "E",
+      "text": "Hydroxyurea"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Cold AIHA is triggered by Mycoplasma pneumoniae, Epstein-Barr virus infectious mononucleosis, and CLL. It is mediated by IgM plus complement with red cell agglutination. Management is cold avoidance and rituximab; glucocorticoids are less effective than in warm AIHA, and splenectomy is generally reserved for refractory warm disease.",
+  "explanation_incorrect": {
+    "A": "Steroids and splenectomy are the approach to refractory warm AIHA, not cold agglutinin disease.",
+    "C": "Eculizumab and anticoagulation are used in paroxysmal nocturnal hemoglobinuria with thrombosis, not in cold AIHA.",
+    "D": "Iron supplementation does not treat immune hemolysis and is not indicated without documented iron deficiency.",
+    "E": "Hydroxyurea raises HbF in sickle cell disease and has no role in cold AIHA."
+  },
+  "educationalObjective": "Cold AIHA, associated with Mycoplasma and infectious mononucleosis, is managed with cold avoidance and rituximab.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Autoimmune hemolytic anemia"
+}
+]

@@ -1,0 +1,207 @@
+[
+{
+  "id": "onc-205",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Coagulation disorders and mixing studies",
+  "difficulty": "easy",
+  "vignette": "A 55-year-old patient has an isolated prolonged prothrombin time with a normal PTT. Liver function tests are normal, and the patient takes no anticoagulants or medications known to affect clotting. The platelet count and bleeding time are normal.",
+  "question": "Deficiency of which of the following coagulation factors is most likely?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Factor VIII"
+    },
+    {
+      "id": "B",
+      "text": "Factor IX"
+    },
+    {
+      "id": "C",
+      "text": "Factor XI"
+    },
+    {
+      "id": "D",
+      "text": "Factor VII"
+    },
+    {
+      "id": "E",
+      "text": "Factor XIII"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "PT evaluates the common and extrinsic pathways, comprising factors I, II, V, VII, and X (play tennis outside). An isolated prolonged PT with a normal PTT indicates an extrinsic pathway defect, classically factor VII deficiency. INR is patient PT divided by control PT, where 1 is normal and greater than 1 is prolonged; it is used to follow warfarin, which prolongs INR.",
+  "explanation_incorrect": {
+    "A": "Factor VIII is part of the intrinsic pathway; its deficiency causes hemophilia A with a prolonged PTT and a normal PT.",
+    "B": "Factor IX deficiency is hemophilia B, an intrinsic pathway defect that prolongs the PTT rather than the PT.",
+    "C": "Factor XI deficiency is hemophilia C, which prolongs the PTT because it is an intrinsic pathway factor.",
+    "E": "Factor XIII is not evaluated by either PT or PTT; the PTT tests all factors except VII and XIII."
+  },
+  "educationalObjective": "An isolated prolonged PT reflects an extrinsic pathway defect, most classically factor VII deficiency (factors I, II, V, VII, X).",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Coagulation disorders and mixing studies"
+},
+{
+  "id": "onc-206",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Coagulation disorders and mixing studies",
+  "difficulty": "medium",
+  "vignette": "A 30-year-old woman has a prolonged PTT with a normal PT, normal platelet count, and normal bleeding time. She reports easy bruising and prolonged bleeding after a dental extraction. Her physician is reviewing which parts of the coagulation cascade the abnormal test evaluates.",
+  "question": "Which of the following best describes the pathway evaluated by the prolonged test?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Factors I, II, V, VII, and X"
+    },
+    {
+      "id": "B",
+      "text": "The intrinsic and common pathways, testing all factors except VII and XIII"
+    },
+    {
+      "id": "C",
+      "text": "Only factors VIII, IX, XI, and XII"
+    },
+    {
+      "id": "D",
+      "text": "The conversion of fibrinogen to fibrin alone"
+    },
+    {
+      "id": "E",
+      "text": "Factors II, VII, IX, and X only"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "PTT evaluates the common and intrinsic pathways, testing all factors except VII and XIII (play table tennis inside). A defect in an intrinsic pathway factor such as VIII, IX, or XI raises the PTT, as in the hemophilias. The thrombin time specifically measures conversion of fibrinogen to fibrin.",
+  "explanation_incorrect": {
+    "A": "Factors I, II, V, VII, and X are the extrinsic and common pathway panel measured by PT, not PTT.",
+    "C": "Although VIII, IX, XI, and XII are intrinsic factors, the PTT also includes common pathway factors, so saying only these four is incomplete.",
+    "D": "Conversion of fibrinogen to fibrin is what the thrombin time measures, not the PTT.",
+    "E": "Factors II, VII, IX, and X are the vitamin K-dependent factors; this panel is affected by warfarin and vitamin K deficiency rather than defining the PTT panel."
+  },
+  "educationalObjective": "PTT evaluates the intrinsic and common pathways (all factors except VII and XIII), so intrinsic factor defects such as hemophilia prolong it.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Coagulation disorders and mixing studies"
+},
+{
+  "id": "onc-207",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Coagulation disorders and mixing studies",
+  "difficulty": "hard",
+  "vignette": "A 68-year-old man with no prior bleeding history develops sudden, severe bruising and mucosal bleeding. His PTT is markedly prolonged. A mixing study is performed by adding normal plasma to the patient's plasma, but the PTT fails to correct into the normal range.",
+  "question": "Which of the following best explains the failure of the PTT to correct on mixing?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A congenital factor VIII deficiency (hemophilia A)"
+    },
+    {
+      "id": "B",
+      "text": "Vitamin K deficiency"
+    },
+    {
+      "id": "C",
+      "text": "Liver disease reducing coagulation factor synthesis"
+    },
+    {
+      "id": "D",
+      "text": "Factor XI deficiency (hemophilia C)"
+    },
+    {
+      "id": "E",
+      "text": "An acquired inhibitor antibody, most commonly against factor VIII"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Mixing studies distinguish factor deficiencies from factor inhibitors. Normal plasma supplies the missing factors, so a deficiency should correct, with the PT or PTT returning to the normal range. An inhibitor neutralizes the added factors and therefore does not correct; the most common inhibitor is an acquired antibody against factor VIII.",
+  "explanation_incorrect": {
+    "A": "Hemophilia A is a factor VIII deficiency, so normal plasma would supply factor VIII and the PTT would correct on mixing.",
+    "B": "Vitamin K deficiency is a multiple factor deficiency, so added normal plasma would correct the prolonged clotting time.",
+    "C": "Liver disease causes reduced synthesis of coagulation factors, a deficiency pattern that would correct when normal plasma is added.",
+    "D": "Factor XI deficiency is a deficiency state and would correct in a mixing study with normal plasma."
+  },
+  "educationalObjective": "In a mixing study, factor deficiencies correct with normal plasma, whereas inhibitors such as anti-factor VIII antibodies do not correct.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Coagulation disorders and mixing studies"
+},
+{
+  "id": "onc-208",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Coagulation disorders and mixing studies",
+  "difficulty": "easy",
+  "vignette": "A patient with severe sepsis develops widespread bleeding from venipuncture sites. Laboratory studies show a prolonged PT, prolonged PTT, prolonged thrombin time, decreased fibrinogen, and elevated D-dimer.",
+  "question": "The prolonged thrombin time in this patient is primarily due to impairment of which of the following processes?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Conversion of fibrinogen to fibrin from hypofibrinogenemia and DIC"
+    },
+    {
+      "id": "B",
+      "text": "The extrinsic pathway due to factor VII deficiency"
+    },
+    {
+      "id": "C",
+      "text": "The intrinsic pathway due to factor XII deficiency"
+    },
+    {
+      "id": "D",
+      "text": "Vitamin K-dependent factor activation"
+    },
+    {
+      "id": "E",
+      "text": "Platelet adhesion at the site of vascular injury"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Thrombin time measures the rate of conversion of fibrinogen to fibrin and is prolonged by anticoagulants, hypofibrinogenemia, DIC, and liver disease. In DIC, consumptive coagulopathy depletes fibrinogen, so thrombin time is prolonged along with PT and PTT from consumption of common pathway factors.",
+  "explanation_incorrect": {
+    "B": "Factor VII deficiency would prolong PT through the extrinsic pathway but would not affect the thrombin time.",
+    "C": "Factor XII deficiency prolongs PTT through the intrinsic pathway but does not affect thrombin time or cause bleeding.",
+    "D": "Vitamin K deficiency impairs factors II, VII, IX, and X, prolonging PT and PTT, not the fibrinogen-to-fibrin conversion measured by TT.",
+    "E": "Platelet adhesion is assessed by bleeding time and is normal or separate from the thrombin time, which tests a soluble coagulation step."
+  },
+  "educationalObjective": "Thrombin time measures fibrinogen-to-fibrin conversion and is prolonged in hypofibrinogenemia, DIC, liver disease, and anticoagulant effect.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Coagulation disorders and mixing studies"
+},
+{
+  "id": "onc-209",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Coagulation disorders and mixing studies",
+  "difficulty": "medium",
+  "vignette": "A 60-year-old man with obstructive jaundice has easy bruising and GI bleeding. Laboratory studies show a prolonged PT and PTT, a normal platelet count, and a normal bleeding time. His diet has been poor, and fat-soluble vitamin absorption is impaired.",
+  "question": "Which of the following best describes the underlying coagulation defect?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Deficiency of factors V and VIII only"
+    },
+    {
+      "id": "B",
+      "text": "Impaired conversion of fibrinogen to fibrin"
+    },
+    {
+      "id": "C",
+      "text": "Decreased activity of factors II, VII, IX, X, protein C, and protein S from vitamin K deficiency"
+    },
+    {
+      "id": "D",
+      "text": "Autoimmune destruction of platelets"
+    },
+    {
+      "id": "E",
+      "text": "Isolated deficiency of factor XIII"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Vitamin K deficiency causes a general coagulation defect with decreased activity of factors II, VII, IX, and X plus the natural anticoagulants protein C and protein S. Because multiple factors in both pathways are affected, PT and PTT are prolonged, while bleeding time stays normal because platelets are unaffected. Bile duct obstruction impairs absorption of the fat-soluble vitamin K.",
+  "explanation_incorrect": {
+    "A": "Factors V and VIII are not vitamin K-dependent; factor VIII deficiency relates to hemophilia A and vWD, and factor V is a labile common pathway factor.",
+    "B": "Fibrinogen-to-fibrin conversion is measured by thrombin time; vitamin K deficiency does not primarily deplete fibrinogen.",
+    "D": "Autoimmune platelet destruction (ITP) would lower the platelet count and raise bleeding time, unlike this patient's normal platelet studies.",
+    "E": "Factor XIII deficiency affects clot stabilization and is not corrected by vitamin K; it would not typically prolong PT and PTT."
+  },
+  "educationalObjective": "Vitamin K deficiency reduces factors II, VII, IX, X, protein C, and protein S, prolonging PT and PTT with a normal bleeding time.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Coagulation disorders and mixing studies"
+}
+]

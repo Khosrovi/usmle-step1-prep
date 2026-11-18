@@ -1,0 +1,207 @@
+[
+{
+  "id": "onc-229",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Disseminated intravascular coagulation",
+  "difficulty": "easy",
+  "vignette": "A 58-year-old man with gram-negative sepsis develops oozing from his IV puncture sites and widespread petechiae. Laboratory studies show platelets 45,000/microL, hemoglobin 8 g/dL with schistocytes, PT 18 seconds, PTT 52 seconds, fibrinogen 90 mg/dL, and markedly elevated D-dimer.",
+  "question": "Which of the following is the most likely diagnosis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Thrombotic thrombocytopenic purpura"
+    },
+    {
+      "id": "B",
+      "text": "Hemolytic-uremic syndrome"
+    },
+    {
+      "id": "C",
+      "text": "Disseminated intravascular coagulation"
+    },
+    {
+      "id": "D",
+      "text": "Immune thrombocytopenia"
+    },
+    {
+      "id": "E",
+      "text": "von Willebrand disease"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "This patient has DIC: widespread clotting factor activation produces a thromboembolic state with excessive factor consumption, leading to both thromboses and hemorrhage such as oozing from puncture sites. Gram-negative sepsis is a classic trigger, the S in the SSSTOP mnemonic. Laboratory findings include schistocytes, elevated fibrin degradation products (D-dimer), low fibrinogen, and low factors V and VIII, with prolonged PT and PTT. The abnormal coagulation studies distinguish DIC from TTP/HUS, where PT/PTT are normal.",
+  "explanation_incorrect": {
+    "A": "TTP has normal PT/PTT and fibrinogen, features fever and neurologic symptoms, and is not triggered by sepsis; it lacks the consumptive coagulopathy here.",
+    "B": "HUS affects children after Shiga toxin diarrhea with normal coagulation studies, not an adult with sepsis and prolonged PT/PTT.",
+    "D": "ITP causes isolated thrombocytopenia with normal PT/PTT and fibrinogen, without schistocytes or low fibrinogen.",
+    "E": "vWD has a normal platelet count, normal PT, and only variably prolonged PTT, not the severe consumptive picture shown."
+  },
+  "educationalObjective": "DIC is a consumptive coagulopathy triggered by gram-negative sepsis, with oozing, schistocytes, low fibrinogen, elevated D-dimer, and prolonged PT/PTT.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Disseminated intravascular coagulation"
+},
+{
+  "id": "onc-230",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Disseminated intravascular coagulation",
+  "difficulty": "medium",
+  "vignette": "A patient with severe trauma develops diffuse bleeding. Laboratory evaluation is ordered to characterize the coagulopathy.",
+  "question": "Which of the following laboratory patterns is characteristic of acute DIC?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Normal PT, normal PTT, normal fibrinogen, and normal D-dimer"
+    },
+    {
+      "id": "B",
+      "text": "Prolonged PT, normal PTT, high fibrinogen, and low D-dimer"
+    },
+    {
+      "id": "C",
+      "text": "Normal PT, prolonged PTT, high fibrinogen, and normal D-dimer"
+    },
+    {
+      "id": "D",
+      "text": "Prolonged PT, prolonged PTT, high fibrinogen, and low D-dimer"
+    },
+    {
+      "id": "E",
+      "text": "Prolonged PT, prolonged PTT, low fibrinogen, and high D-dimer"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Acute DIC shows prolonged PT and PTT from consumption of clotting factors, low fibrinogen from consumption and increased fibrinolysis, and elevated D-dimer (fibrin degradation products) from breakdown of fibrin. Factors V and VIII are also decreased, and schistocytes may be present. This reflects widespread factor activation followed by exhaustion of factors and platelets. The combination distinguishes DIC from other causes of bleeding with normal fibrinogen.",
+  "explanation_incorrect": {
+    "A": "Completely normal studies would not reflect the consumptive coagulopathy of acute DIC.",
+    "B": "Isolated prolonged PT with high fibrinogen and low D-dimer suggests an extrinsic pathway defect such as vitamin K deficiency, not DIC.",
+    "C": "Isolated prolonged PTT with high fibrinogen suggests an intrinsic pathway defect such as hemophilia, not DIC.",
+    "D": "Prolonged PT and PTT with high fibrinogen and low D-dimer is inconsistent with DIC, where fibrinogen is consumed and D-dimer is elevated."
+  },
+  "educationalObjective": "Acute DIC is marked by prolonged PT/PTT, low fibrinogen, and high D-dimer.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Disseminated intravascular coagulation"
+},
+{
+  "id": "onc-231",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Disseminated intravascular coagulation",
+  "difficulty": "medium",
+  "vignette": "A 45-year-old woman develops DIC in the setting of amniotic fluid embolism during delivery. The pathophysiology leading to her bleeding and thromboses is reviewed.",
+  "question": "Which of the following best describes the primary mechanism of DIC?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Widespread clotting factor activation causing consumption of factors and platelets"
+    },
+    {
+      "id": "B",
+      "text": "Isolated deficiency of ADAMTS13 causing large vWF multimers"
+    },
+    {
+      "id": "C",
+      "text": "Autoantibody-mediated destruction of platelets in the spleen"
+    },
+    {
+      "id": "D",
+      "text": "A genetic defect in the 3-prime untranslated region of the prothrombin gene"
+    },
+    {
+      "id": "E",
+      "text": "Deficiency of vWF causing impaired platelet adhesion"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "DIC results from widespread activation of the coagulation cascade, generating thrombin and fibrin throughout the vasculature. This creates a thromboembolic state while simultaneously consuming clotting factors and platelets, so patients develop both thromboses and bleeding. Obstetric complications such as amniotic fluid embolism are classic triggers. The resultant laboratory picture is prolonged PT/PTT, low fibrinogen, low factors V and VIII, and high D-dimer.",
+  "explanation_incorrect": {
+    "B": "ADAMTS13 deficiency is the mechanism of TTP, which produces microthrombi without consumption of coagulation factors.",
+    "C": "Splenic platelet destruction by anti-GpIIb/IIIa antibodies is ITP, not a widespread coagulation activation disorder.",
+    "D": "The prothrombin G20210A mutation causes an inherited thrombophilia with increased prothrombin, not DIC.",
+    "E": "vWF deficiency impairs platelet adhesion in von Willebrand disease and does not cause the consumptive coagulopathy of DIC."
+  },
+  "educationalObjective": "DIC stems from widespread coagulation activation with consequent factor and platelet consumption, producing simultaneous thrombosis and bleeding.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Disseminated intravascular coagulation"
+},
+{
+  "id": "onc-232",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Disseminated intravascular coagulation",
+  "difficulty": "hard",
+  "vignette": "A medical student is reviewing the causes of DIC and wants to identify a classic trigger from the SSSTOP mnemonic.",
+  "question": "Which of the following is a classic cause of DIC?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Vitamin K deficiency"
+    },
+    {
+      "id": "B",
+      "text": "Gram-negative sepsis"
+    },
+    {
+      "id": "C",
+      "text": "Hemophilia A"
+    },
+    {
+      "id": "D",
+      "text": "Immune thrombocytopenia"
+    },
+    {
+      "id": "E",
+      "text": "von Willebrand disease"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Gram-negative sepsis is one of the classic causes of DIC, represented by the S for Sepsis in the SSSTOP mnemonic: heat Stroke, Snake bites, Sepsis, Trauma, Obstetric complications, and acute Pancreatitis, along with malignancy, nephrotic syndrome, and transfusion. Endotoxin and inflammatory cytokines trigger widespread tissue factor expression and coagulation activation. The other listed conditions are bleeding disorders that are not triggers of DIC.",
+  "explanation_incorrect": {
+    "A": "Vitamin K deficiency causes impaired synthesis of factors II, VII, IX, and X but is not a trigger of DIC.",
+    "C": "Hemophilia A is an inherited factor VIII deficiency causing bleeding, not DIC.",
+    "D": "Immune thrombocytopenia is an autoimmune platelet destruction disorder, not a cause of DIC.",
+    "E": "von Willebrand disease is an inherited adhesion defect and does not trigger DIC."
+  },
+  "educationalObjective": "Gram-negative sepsis is a classic DIC trigger; the SSSTOP mnemonic also includes heat stroke, snake bites, trauma, obstetric complications, and pancreatitis.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Disseminated intravascular coagulation"
+},
+{
+  "id": "onc-233",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Disseminated intravascular coagulation",
+  "difficulty": "hard",
+  "vignette": "An 8-year-old with bloody diarrhea and a 50-year-old woman with confusion both have microangiopathic hemolytic anemia and thrombocytopenia with normal PT and PTT. A third patient with sepsis has similar findings but abnormal coagulation studies.",
+  "question": "Which additional laboratory finding favors DIC over TTP or HUS?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Presence of schistocytes"
+    },
+    {
+      "id": "B",
+      "text": "Elevated LDH"
+    },
+    {
+      "id": "C",
+      "text": "Low platelet count"
+    },
+    {
+      "id": "D",
+      "text": "Low fibrinogen with elevated D-dimer"
+    },
+    {
+      "id": "E",
+      "text": "Elevated creatinine"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "DIC is a consumptive coagulopathy, so fibrinogen is decreased and fibrin degradation products such as D-dimer are increased, along with prolonged PT/PTT and reduced factors V and VIII. In TTP and HUS the coagulation cascade is not activated, so fibrinogen, PT, and PTT are normal. Schistocytes, elevated LDH, thrombocytopenia, and renal injury can occur in all three, so they do not discriminate. Low fibrinogen with high D-dimer specifically points to DIC.",
+  "explanation_incorrect": {
+    "A": "Schistocytes reflect microangiopathic hemolysis in TTP, HUS, and DIC alike and do not separate them.",
+    "B": "Elevated LDH is a hemolysis marker common to all three conditions.",
+    "C": "Thrombocytopenia occurs in TTP, HUS, and DIC and is not discriminating.",
+    "E": "Elevated creatinine reflects renal injury, prominent in HUS but not specific for DIC."
+  },
+  "educationalObjective": "Low fibrinogen and high D-dimer with prolonged PT/PTT distinguish DIC from TTP/HUS, which have normal coagulation studies.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Disseminated intravascular coagulation"
+}
+]

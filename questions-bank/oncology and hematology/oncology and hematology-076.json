@@ -1,0 +1,125 @@
+[
+{
+  "id": "onc-168",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Pyruvate kinase deficiency",
+  "difficulty": "easy",
+  "vignette": "A newborn presents with jaundice and anemia requiring transfusion. Peripheral smear shows burr cells. There is no family history of spherocytosis and no oxidant drug exposure. Inheritance appears autosomal recessive.",
+  "question": "Which red cell enzyme defect is most consistent with this presentation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Pyruvate kinase deficiency causing decreased ATP production"
+    },
+    {
+      "id": "B",
+      "text": "G6PD deficiency causing decreased NADPH"
+    },
+    {
+      "id": "C",
+      "text": "Ankyrin mutation causing hereditary spherocytosis"
+    },
+    {
+      "id": "D",
+      "text": "PIGA mutation causing paroxysmal nocturnal hemoglobinuria"
+    },
+    {
+      "id": "E",
+      "text": "Beta-globin point mutation causing sickle cell disease"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Pyruvate kinase deficiency is autosomal recessive and impairs glycolysis in red cells, reducing ATP production. ATP depletion makes red cells rigid, leading to extravascular hemolysis and hemolytic anemia that can present in the newborn period. The smear shows burr cells. Pyruvate kinase deficiency also raises 2,3-BPG, which decreases hemoglobin affinity for oxygen and improves oxygen delivery to tissues, partially compensating for the anemia.",
+  "explanation_incorrect": {
+    "B": "G6PD deficiency is X-linked recessive with Heinz bodies and bite cells after oxidative stress, not burr cells at birth.",
+    "C": "Ankyrin mutations cause autosomal dominant hereditary spherocytosis with spherocytes and a family history, not burr cells from ATP failure.",
+    "D": "Paroxysmal nocturnal hemoglobinuria is an acquired clonal disorder with complement-mediated intravascular hemolysis and thrombosis, not a neonatal glycolytic defect.",
+    "E": "A beta-globin point mutation causes sickle cell disease, which is typically asymptomatic in newborns because of high fetal hemoglobin and shows sickled cells, not burr cells."
+  },
+  "educationalObjective": "Pyruvate kinase deficiency is autosomal recessive, causing decreased ATP, rigid red cells with burr cells, and extravascular hemolysis that often presents in newborns.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Pyruvate kinase deficiency"
+},
+{
+  "id": "onc-169",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Pyruvate kinase deficiency",
+  "difficulty": "medium",
+  "vignette": "A 4-year-old child with chronic hemolytic anemia from pyruvate kinase deficiency has a hemoglobin of 8 g/dL. Despite the anemia, the child tolerates exercise better than similarly anemic peers.",
+  "question": "Which biochemical change best explains this relative tolerance?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Increased ATP production improving red cell deformability"
+    },
+    {
+      "id": "B",
+      "text": "Increased hemoglobin A1c reducing glycation"
+    },
+    {
+      "id": "C",
+      "text": "Decreased 2,3-BPG increasing hemoglobin oxygen affinity"
+    },
+    {
+      "id": "D",
+      "text": "Increased 2,3-BPG decreasing hemoglobin oxygen affinity and enhancing oxygen unloading to tissues"
+    },
+    {
+      "id": "E",
+      "text": "Increased fetal hemoglobin preventing red cell sickling"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Pyruvate kinase deficiency reduces ATP production and causes accumulation of upstream glycolytic intermediates, including 2,3-BPG. Elevated 2,3-BPG binds deoxyhemoglobin, decreases hemoglobin affinity for oxygen, and shifts the oxygen dissociation curve to the right, promoting oxygen unloading to tissues. This partially offsets the reduced oxygen-carrying capacity from chronic hemolytic anemia. The anemia itself results from ATP-deficient rigid red cells undergoing extravascular hemolysis, with burr cells on smear.",
+  "explanation_incorrect": {
+    "A": "ATP production is reduced, not increased, in pyruvate kinase deficiency; low ATP is what makes the red cells rigid.",
+    "B": "Hemoglobin A1c reflects glycemic control and is not a compensatory mechanism for hemolysis.",
+    "C": "Decreased 2,3-BPG would increase oxygen affinity and impair oxygen delivery, the opposite of what occurs in this deficiency.",
+    "E": "Fetal hemoglobin is relevant to sickle cell disease and thalassemias, not pyruvate kinase deficiency."
+  },
+  "educationalObjective": "Pyruvate kinase deficiency raises 2,3-BPG, causing a rightward shift in the oxygen dissociation curve and enhanced oxygen unloading despite anemia.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Pyruvate kinase deficiency"
+},
+{
+  "id": "onc-170",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Pyruvate kinase deficiency",
+  "difficulty": "hard",
+  "vignette": "A 3-day-old newborn has jaundice, anemia, and reticulocytosis. Smear shows burr cells. A sibling was similarly affected; both parents are healthy. Hemolysis is predominantly extravascular.",
+  "question": "Which additional laboratory finding would most strongly support pyruvate kinase deficiency over G6PD deficiency and hereditary spherocytosis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Positive direct antiglobulin test"
+    },
+    {
+      "id": "B",
+      "text": "Reduced red cell ATP with elevated 2,3-BPG and no Heinz bodies or spherocytes"
+    },
+    {
+      "id": "C",
+      "text": "Reduced G6PD activity with bite cells after fava bean exposure"
+    },
+    {
+      "id": "D",
+      "text": "Decreased EMA fluorescence and increased osmotic fragility"
+    },
+    {
+      "id": "E",
+      "text": "CD55/CD59-negative red cells on flow cytometry with hemoglobinuria"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Pyruvate kinase deficiency is autosomal recessive, consistent with affected siblings and healthy parents; its hallmark is reduced red cell ATP with accumulation of 2,3-BPG, plus burr cells and extravascular hemolysis that often presents in the newborn. G6PD deficiency would show Heinz bodies and bite cells with an oxidant trigger and X-linked inheritance. Hereditary spherocytosis would show spherocytes, decreased EMA fluorescence, and increased osmotic fragility, often with a dominant family history. Distinguishing by smear and mechanism prevents misdiagnosis.",
+  "explanation_incorrect": {
+    "A": "A positive direct antiglobulin test indicates immune hemolytic anemia, not pyruvate kinase deficiency, hereditary spherocytosis, or G6PD deficiency.",
+    "C": "Reduced G6PD activity with bite cells defines G6PD deficiency, an X-linked oxidative hemolysis, not pyruvate kinase deficiency.",
+    "D": "Decreased EMA fluorescence and increased osmotic fragility are diagnostic of hereditary spherocytosis, not pyruvate kinase deficiency.",
+    "E": "CD55/CD59-negative red cells with hemoglobinuria indicate paroxysmal nocturnal hemoglobinuria, an acquired complement-mediated intravascular hemolysis, not a neonatal glycolytic defect."
+  },
+  "educationalObjective": "Distinguish pyruvate kinase deficiency (decreased ATP, increased 2,3-BPG, burr cells, autosomal recessive, neonatal) from G6PD deficiency, hereditary spherocytosis, and paroxysmal nocturnal hemoglobinuria.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Pyruvate kinase deficiency"
+}
+]

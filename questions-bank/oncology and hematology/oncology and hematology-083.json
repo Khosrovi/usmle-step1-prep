@@ -1,0 +1,207 @@
+[
+{
+  "id": "onc-220",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Thrombotic thrombocytopenic purpura vs hemolytic uremic syndrome",
+  "difficulty": "medium",
+  "vignette": "A 34-year-old woman presents with fatigue, confusion, and fever. Laboratory studies show hemoglobin 8.2 g/dL with schistocytes on smear, platelets 22,000/microL, creatinine 2.6 mg/dL, and markedly elevated LDH. PT and PTT are normal.",
+  "question": "Which of the following best explains the pathogenesis of this patient's condition?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Shiga toxin–mediated endothelial injury following a gastrointestinal infection"
+    },
+    {
+      "id": "B",
+      "text": "Acquired deficiency of factors V and VIII from a consumptive coagulopathy"
+    },
+    {
+      "id": "C",
+      "text": "Deficiency or inhibition of ADAMTS13 leading to persistence of large vWF multimers"
+    },
+    {
+      "id": "D",
+      "text": "Autoantibodies against GpIIb/IIIa causing splenic platelet destruction"
+    },
+    {
+      "id": "E",
+      "text": "A point mutation in the 3-prime untranslated region of the prothrombin gene"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "This patient has TTP: it typically affects females and results from deficiency or inhibition of ADAMTS13, a vWF metalloprotease. Without ADAMTS13, large vWF multimers are not degraded and persist in plasma, causing increased platelet adhesion and aggregation with microthrombi formation. Consumption of platelets and shearing of red cells produce thrombocytopenia and microangiopathic hemolytic anemia with schistocytes and elevated LDH. Fever and neurologic symptoms (confusion) complete the pentad, and normal PT/PTT reflects that the coagulation cascade is not activated. Plasma exchange is the treatment.",
+  "explanation_incorrect": {
+    "A": "Shiga toxin–producing E. coli O157:H7 causes HUS, which typically affects children and presents with bloody diarrhea rather than fever and neurologic symptoms.",
+    "B": "Consumptive loss of factors V and VIII with abnormal PT/PTT and low fibrinogen is DIC; here PT/PTT are normal.",
+    "D": "Anti-GpIIb/IIIa antibodies cause immune thrombocytopenia, which lacks schistocytes, renal injury, and fever.",
+    "E": "The prothrombin G20210A mutation causes a hereditary thrombophilia with venous clots, not microangiopathic hemolysis."
+  },
+  "educationalObjective": "TTP results from ADAMTS13 deficiency causing persistent large vWF multimers and platelet microthrombi, producing microangiopathic hemolytic anemia, thrombocytopenia, and neurologic symptoms with normal coagulation times.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Thrombotic thrombocytopenic purpura vs hemolytic uremic syndrome"
+},
+{
+  "id": "onc-221",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Thrombotic thrombocytopenic purpura vs hemolytic uremic syndrome",
+  "difficulty": "easy",
+  "vignette": "A 4-year-old child develops bloody diarrhea after eating undercooked ground beef, followed several days later by pallor, lethargy, and decreased urine output. Laboratory studies show hemoglobin 7.5 g/dL with schistocytes, platelets 30,000/microL, creatinine 2.1 mg/dL, and elevated LDH. PT and PTT are normal.",
+  "question": "Which of the following is the most likely cause of this child's illness?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A deficiency of ADAMTS13 causing persistence of large vWF multimers"
+    },
+    {
+      "id": "B",
+      "text": "Shiga toxin–producing Escherichia coli O157:H7 causing endothelial dysfunction"
+    },
+    {
+      "id": "C",
+      "text": "Widespread activation of coagulation from gram-negative sepsis"
+    },
+    {
+      "id": "D",
+      "text": "An autosomal dominant mutation producing resistant factor V"
+    },
+    {
+      "id": "E",
+      "text": "Autoimmune destruction of platelets by anti-GpIIb/IIIa antibodies"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "This child has hemolytic-uremic syndrome (HUS), which typically affects children and follows infection with Shiga toxin–producing E. coli (serotype O157:H7). The Shiga toxin causes profound endothelial dysfunction, leading to platelet microthrombi, microangiopathic hemolytic anemia, and acute kidney injury. Bloody diarrhea is the differentiating feature that favors HUS over TTP. Like TTP, HUS shows normal PT and PTT because the coagulation cascade is not activated, distinguishing it from DIC. Treatment is supportive care.",
+  "explanation_incorrect": {
+    "A": "ADAMTS13 deficiency causes TTP, which favors females and features fever and neurologic symptoms rather than bloody diarrhea.",
+    "C": "DIC from gram-negative sepsis would show prolonged PT/PTT, low fibrinogen, and elevated D-dimer, unlike this child's normal coagulation studies.",
+    "D": "Factor V Leiden is a thrombophilia causing venous thrombosis, not microangiopathic hemolysis or diarrhea.",
+    "E": "Immune thrombocytopenia causes isolated thrombocytopenia without schistocytes, renal failure, or a diarrheal prodrome."
+  },
+  "educationalObjective": "HUS typically affects children after Shiga toxin–producing E. coli O157:H7 infection and presents with microangiopathic hemolytic anemia, thrombocytopenia, and acute kidney injury plus bloody diarrhea with normal PT/PTT.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Thrombotic thrombocytopenic purpura vs hemolytic uremic syndrome"
+},
+{
+  "id": "onc-222",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Thrombotic thrombocytopenic purpura vs hemolytic uremic syndrome",
+  "difficulty": "medium",
+  "vignette": "A 28-year-old woman and a 3-year-old child both present with microangiopathic hemolytic anemia, thrombocytopenia, and acute kidney injury. The clinician wants to distinguish a thrombotic microangiopathy from disseminated intravascular coagulation.",
+  "question": "Which of the following laboratory findings best distinguishes TTP/HUS from DIC?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Presence of schistocytes on peripheral smear"
+    },
+    {
+      "id": "B",
+      "text": "Elevated LDH with reduced hemoglobin"
+    },
+    {
+      "id": "C",
+      "text": "Thrombocytopenia with a prolonged bleeding time"
+    },
+    {
+      "id": "D",
+      "text": "Normal PT and PTT with a normal fibrinogen level"
+    },
+    {
+      "id": "E",
+      "text": "Acute kidney injury with elevated creatinine"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "In TTP and HUS the etiology does not involve widespread clotting factor activation, so PT, PTT, and fibrinogen remain normal. In DIC, widespread factor activation consumes clotting factors, producing prolonged PT and PTT, low fibrinogen, and elevated D-dimer. Schistocytes, LDH elevation, thrombocytopenia, and renal injury can be present in both, so they do not distinguish the two. The key discriminator is a normal coagulation screen and normal fibrinogen in TTP/HUS.",
+  "explanation_incorrect": {
+    "A": "Schistocytes appear in both TTP/HUS and DIC because both cause microangiopathic hemolysis, so this does not differentiate them.",
+    "B": "Elevated LDH with anemia reflects hemolysis in both conditions and is not discriminating.",
+    "C": "Thrombocytopenia with bleeding occurs in both; the platelet count does not separate TTP/HUS from DIC.",
+    "E": "Acute kidney injury is prominent in TTP/HUS but can also occur in DIC, and its presence is not the laboratory discriminator."
+  },
+  "educationalObjective": "Normal PT, PTT, and fibrinogen distinguish TTP/HUS from DIC, in which coagulation factors are consumed.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Thrombotic thrombocytopenic purpura vs hemolytic uremic syndrome"
+},
+{
+  "id": "onc-223",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Thrombotic thrombocytopenic purpura vs hemolytic uremic syndrome",
+  "difficulty": "easy",
+  "vignette": "A 30-year-old woman is diagnosed with thrombotic thrombocytopenic purpura after presenting with fever, confusion, microangiopathic hemolytic anemia, and thrombocytopenia. She has no history of diarrhea and her PT and PTT are normal.",
+  "question": "Which of the following is the most appropriate initial treatment for this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Plasma exchange with glucocorticoids"
+    },
+    {
+      "id": "B",
+      "text": "Supportive care and observation only"
+    },
+    {
+      "id": "C",
+      "text": "Oral warfarin anticoagulation"
+    },
+    {
+      "id": "D",
+      "text": "Desmopressin and vWF concentrates"
+    },
+    {
+      "id": "E",
+      "text": "Splenectomy"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "TTP is treated with plasma exchange, which removes the inhibitor and replaces functional ADAMTS13, along with glucocorticoids and rituximab. Plasma exchange is the cornerstone of therapy and markedly reduces mortality. Supportive care alone is the approach for HUS, not TTP. Anticoagulation is not indicated and may worsen bleeding in a thrombocytopenic patient. Desmopressin and vWF concentrates treat von Willebrand disease, and splenectomy is used for refractory immune thrombocytopenia.",
+  "explanation_incorrect": {
+    "B": "Supportive care alone is appropriate for HUS; TTP requires plasma exchange to remove inhibitor and restore ADAMTS13.",
+    "C": "Warfarin would not address the ADAMTS13 deficiency and could worsen hemorrhage in a thrombocytopenic patient.",
+    "D": "Desmopressin and vWF concentrates treat von Willebrand disease and would not remove an ADAMTS13 inhibitor.",
+    "E": "Splenectomy is reserved for refractory immune thrombocytopenia, not for TTP."
+  },
+  "educationalObjective": "TTP requires urgent plasma exchange with glucocorticoids, whereas HUS is managed supportively.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Thrombotic thrombocytopenic purpura vs hemolytic uremic syndrome"
+},
+{
+  "id": "onc-224",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Thrombotic thrombocytopenic purpura vs hemolytic uremic syndrome",
+  "difficulty": "hard",
+  "vignette": "A 6-year-old child and a 40-year-old woman both have microangiopathic hemolytic anemia, thrombocytopenia, and acute kidney injury with normal PT and PTT. The physician is trying to decide which additional clinical feature favors a diagnosis of HUS over TTP.",
+  "question": "Which of the following findings most strongly favors HUS rather than TTP?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Fever at presentation"
+    },
+    {
+      "id": "B",
+      "text": "Confusion and neurologic deficits"
+    },
+    {
+      "id": "C",
+      "text": "Onset in adulthood"
+    },
+    {
+      "id": "D",
+      "text": "Treatment with plasma exchange"
+    },
+    {
+      "id": "E",
+      "text": "Bloody diarrhea preceding the illness"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "HUS is differentiated from TTP by a preceding diarrheal illness, classically bloody diarrhea from Shiga toxin–producing E. coli O157:H7, and it predominantly affects children. TTP typically affects females and is distinguished by fever and neurologic symptoms in addition to the triad. The presence of bloody diarrhea therefore favors HUS. Both have normal PT/PTT and schistocytes, and plasma exchange is used for TTP rather than HUS.",
+  "explanation_incorrect": {
+    "A": "Fever is a differentiating feature of TTP, not HUS, as part of the pentad.",
+    "B": "Neurologic symptoms such as confusion favor TTP; HUS typically lacks neurologic involvement.",
+    "C": "HUS typically affects children, whereas TTP more often affects adult females.",
+    "D": "Plasma exchange is the treatment for TTP; HUS is managed with supportive care."
+  },
+  "educationalObjective": "Bloody diarrhea and pediatric onset favor HUS, whereas fever and neurologic symptoms in an adult female favor TTP.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Thrombotic thrombocytopenic purpura vs hemolytic uremic syndrome"
+}
+]

@@ -1,0 +1,248 @@
+[
+{
+  "id": "onc-294",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Acute myelogenous leukemia and APL",
+  "difficulty": "easy",
+  "vignette": "A 67-year-old man has fatigue, recurrent infections, and easy bruising. CBC shows leukocyte count 32,000/microL with many immature myeloid cells, hemoglobin 8.1 g/dL, and platelets 42,000/microL. Bone marrow shows marked increases in myeloblasts, and rare cells contain red needle-shaped cytoplasmic inclusions that are myeloperoxidase positive.",
+  "question": "Which of the following is the most likely diagnosis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Acute lymphoblastic leukemia"
+    },
+    {
+      "id": "B",
+      "text": "Acute myelogenous leukemia"
+    },
+    {
+      "id": "C",
+      "text": "Chronic lymphocytic leukemia"
+    },
+    {
+      "id": "D",
+      "text": "Multiple myeloma"
+    },
+    {
+      "id": "E",
+      "text": "Myelodysplastic syndrome"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "AML has a median onset around 65 years and shows marked increases in circulating and marrow myeloblasts. Auer rods are myeloperoxidase-positive cytoplasmic inclusions seen mostly in acute promyelocytic leukemia. Patients can present with leukostasis from capillary occlusion by malignant, nondistensible cells.",
+  "explanation_incorrect": {
+    "A": "ALL is characterized by TdT-positive lymphoblasts in children, not myeloperoxidase-positive Auer rods.",
+    "C": "CLL is an indolent CD5+/CD20+/CD23+ mature B-cell leukemia of older adults with smudge cells, not myeloblasts.",
+    "D": "Multiple myeloma is a plasma cell dyscrasia with lytic lesions, rouleaux, and an M spike rather than myeloblasts.",
+    "E": "MDS has fewer than 20% marrow blasts with dysplasia, whereas this patient has abundant myeloblasts and Auer rods."
+  },
+  "educationalObjective": "AML is identified by increased myeloblasts and myeloperoxidase-positive Auer rods, especially in APL.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Acute myelogenous leukemia and APL"
+},
+{
+  "id": "onc-295",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Acute myelogenous leukemia and APL",
+  "difficulty": "medium",
+  "vignette": "A 34-year-old woman is diagnosed with acute promyelocytic leukemia. Cytogenetics shows t(15;17). She is started on all-trans retinoic acid, a vitamin A derivative, together with arsenic trioxide.",
+  "question": "Which of the following best describes the mechanism by which these agents treat her leukemia?",
+  "options": [
+    {
+      "id": "A",
+      "text": "They induce differentiation of promyelocytes, allowing maturation past the arrested stage"
+    },
+    {
+      "id": "B",
+      "text": "They inhibit BCR-ABL tyrosine kinase activity"
+    },
+    {
+      "id": "C",
+      "text": "They cross-link DNA to prevent replication of rapidly dividing blasts"
+    },
+    {
+      "id": "D",
+      "text": "They block CD20 signaling on malignant B cells"
+    },
+    {
+      "id": "E",
+      "text": "They suppress osteoclast activity to restore normal marrow cellularity"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "APL is defined by t(15;17) and responds to all-trans retinoic acid (vitamin A) and arsenic trioxide, which induce differentiation of promyelocytes so that the maturation arrest is released. DIC is a common presentation of APL, making prompt differentiation therapy essential.",
+  "explanation_incorrect": {
+    "B": "Inhibition of BCR-ABL tyrosine kinase is the mechanism of imatinib in CML with t(9;22), not of ATRA in APL.",
+    "C": "DNA cross-linking is characteristic of alkylating chemotherapy, not the differentiation-inducing agents used in APL.",
+    "D": "CD20 blockade is the mechanism of rituximab in B-cell neoplasms; APL is a myeloid neoplasm.",
+    "E": "Osteoclast suppression is relevant to myeloma bone disease, not to the treatment of acute promyelocytic leukemia."
+  },
+  "educationalObjective": "APL with t(15;17) is treated with ATRA and arsenic trioxide, which induce promyelocyte differentiation.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Acute myelogenous leukemia and APL"
+},
+{
+  "id": "onc-296",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Acute myelogenous leukemia and APL",
+  "difficulty": "medium",
+  "vignette": "A 45-year-old man with acute promyelocytic leukemia presents with petechiae, gingival bleeding, and oozing from venipuncture sites. Laboratory studies show prolonged PT and PTT, fibrinogen 80 mg/dL, D-dimer markedly elevated, and platelets 35,000/microL.",
+  "question": "Which of the following best characterizes this presentation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "TTP from ADAMTS13 deficiency with microangiopathic hemolysis"
+    },
+    {
+      "id": "B",
+      "text": "Immune thrombocytopenia with isolated thrombocytopenia and normal coagulation studies"
+    },
+    {
+      "id": "C",
+      "text": "Hemophilia A with an isolated prolonged PTT"
+    },
+    {
+      "id": "D",
+      "text": "Disseminated intravascular coagulation, a common presentation of APL"
+    },
+    {
+      "id": "E",
+      "text": "Vitamin K deficiency with prolonged PT and normal fibrinogen"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "DIC is a common presentation of APL. The prolonged PT and PTT, low fibrinogen, elevated D-dimer, and thrombocytopenia reflect widespread consumption of clotting factors and platelets triggered by the malignant promyelocytes. This is a hematologic emergency and is one reason ATRA therapy is started urgently.",
+  "explanation_incorrect": {
+    "A": "TTP features microangiopathic hemolysis, fever, neurologic changes, and renal impairment with normal PT, PTT, and fibrinogen.",
+    "B": "Immune thrombocytopenia has isolated low platelets without prolonged PT/PTT, low fibrinogen, or elevated D-dimer.",
+    "C": "Hemophilia A is a congenital factor VIII deficiency with an isolated prolonged PTT and no consumptive coagulopathy.",
+    "E": "Vitamin K deficiency prolongs PT with normal fibrinogen and D-dimer; it does not explain the features of APL."
+  },
+  "educationalObjective": "APL commonly presents with DIC, producing prolonged PT/PTT, low fibrinogen, high D-dimer, and thrombocytopenia.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Acute myelogenous leukemia and APL"
+},
+{
+  "id": "onc-297",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Acute myelogenous leukemia and APL",
+  "difficulty": "medium",
+  "vignette": "A 63-year-old woman with acute myelogenous leukemia has a leukocyte count of 180,000/microL. She develops severe dyspnea, hypoxemia, and confusion, with diffuse pulmonary infiltrates on chest imaging and no fever or positive cultures.",
+  "question": "Which of the following best explains her acute respiratory and neurologic deterioration?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Pulmonary embolism from immobility-related deep vein thrombosis"
+    },
+    {
+      "id": "B",
+      "text": "Tumor lysis syndrome causing acute renal failure and pulmonary edema"
+    },
+    {
+      "id": "C",
+      "text": "Leukostasis from capillary occlusion by malignant, nondistensible leukocytes"
+    },
+    {
+      "id": "D",
+      "text": "Opportunistic bacterial pneumonia related to neutropenia"
+    },
+    {
+      "id": "E",
+      "text": "Hyperviscosity from an IgM paraprotein"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Leukostasis results from capillary occlusion by large, nondistensible malignant leukocytes when the circulating blast count is extremely high. It causes organ damage, most notably pulmonary dysfunction with hypoxemia and neurologic symptoms such as confusion. This is a characteristic complication of AML with marked leukocytosis.",
+  "explanation_incorrect": {
+    "A": "Pulmonary embolism would not be explained by the extreme leukocytosis and lacks the classic leukostatic capillary sludging mechanism.",
+    "B": "Tumor lysis syndrome produces renal failure and electrolyte disturbances, not capillary occlusion by blasts in the pulmonary and cerebral circulation.",
+    "D": "Infection is a genuine risk in AML because of reduced mature white cells, but fever and cultures would be expected; the acute presentation with a very high blast count points to leukostasis.",
+    "E": "IgM hyperviscosity is a feature of Waldenstrom macroglobulinemia and would not produce this picture in AML."
+  },
+  "educationalObjective": "Extreme leukocytosis in AML can cause leukostasis, in which nondistensible blasts occlude capillaries and damage lung and brain.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Acute myelogenous leukemia and APL"
+},
+{
+  "id": "onc-298",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Acute myelogenous leukemia and APL",
+  "difficulty": "hard",
+  "vignette": "A 12-year-old boy with Down syndrome presents with acute leukemia. The blasts express the megakaryocyte markers CD61 and CD41, and no Auer rods are identified.",
+  "question": "Which of the following is the most likely form of acute leukemia in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Acute lymphoblastic leukemia with TdT positivity"
+    },
+    {
+      "id": "B",
+      "text": "Acute promyelocytic leukemia with t(15;17)"
+    },
+    {
+      "id": "C",
+      "text": "Chronic myelogenous leukemia with BCR-ABL rearrangement"
+    },
+    {
+      "id": "D",
+      "text": "Acute myelogenous leukemia with Auer rods and MPO positivity"
+    },
+    {
+      "id": "E",
+      "text": "Acute megakaryoblastic leukemia (formerly M7 AML), associated with Down syndrome"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Down syndrome is a recognized risk factor for AML, typically the acute megakaryoblastic subtype formerly called M7 AML. Expression of megakaryocytic markers such as CD61 and CD41 supports this subtype, whereas Auer rods and myeloperoxidase positivity are typical of other forms of AML.",
+  "explanation_incorrect": {
+    "A": "ALL is also associated with Down syndrome and can be TdT positive, but CD61/CD41 megakaryocytic markers indicate a myeloid/megakaryoblastic rather than lymphoid leukemia.",
+    "B": "APL carries t(15;17), shows Auer rods, and often presents with DIC; it is not the Down-associated megakaryoblastic leukemia.",
+    "C": "CML is defined by t(9;22)/BCR-ABL and usually has a chronic phase, not an acute leukemia in a child with Down syndrome.",
+    "D": "Classic AML with Auer rods and MPO-positive blasts is a plausible AML subtype, but the megakaryocytic markers and Down syndrome point specifically to M7 disease."
+  },
+  "educationalObjective": "Down syndrome predisposes to acute megakaryoblastic leukemia (M7 AML), identifiable by megakaryocyte marker expression.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Acute myelogenous leukemia and APL"
+},
+{
+  "id": "onc-299",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Acute myelogenous leukemia and APL",
+  "difficulty": "hard",
+  "vignette": "A 58-year-old woman who received alkylating chemotherapy for ovarian cancer 6 years ago develops fatigue and easy bruising. Bone marrow examination shows 24% myeloblasts with dysplastic changes but no Auer rods.",
+  "question": "Which of the following best characterizes her leukemia?",
+  "options": [
+    {
+      "id": "A",
+      "text": "de novo acute promyelocytic leukemia with t(15;17) and DIC"
+    },
+    {
+      "id": "B",
+      "text": "Therapy-related acute myelogenous leukemia following alkylating-agent exposure"
+    },
+    {
+      "id": "C",
+      "text": "Myelodysplastic syndrome with blast percentage below the AML threshold"
+    },
+    {
+      "id": "D",
+      "text": "Richter transformation from chronic lymphocytic leukemia"
+    },
+    {
+      "id": "E",
+      "text": "Acute lymphoblastic leukemia with TdT-positive lymphoblasts"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Prior exposure to alkylating chemotherapy, radiation, benzene, or myeloproliferative disorders is a major risk factor for AML. With more than 20% marrow blasts, this patient has crossed the threshold from MDS into overt AML, and her remote alkylating-agent exposure makes it therapy related.",
+  "explanation_incorrect": {
+    "A": "APL is defined by t(15;17), prominent Auer rods, and frequent DIC, none of which are described here.",
+    "C": "MDS is limited to fewer than 20% marrow blasts; 24% blasts meets the diagnostic criteria for AML.",
+    "D": "Richter transformation is conversion of CLL/SLL to an aggressive lymphoma such as DLBCL, not a therapy-related myeloid leukemia.",
+    "E": "ALL is a TdT-positive lymphoid neoplasm that typically affects children, not a myeloblastic leukemia after chemotherapy."
+  },
+  "educationalObjective": "Alkylating chemotherapy is an AML risk factor, and more than 20% marrow blasts distinguishes AML from MDS.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Acute myelogenous leukemia and APL"
+}
+]

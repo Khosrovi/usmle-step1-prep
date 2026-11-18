@@ -1,0 +1,166 @@
+[
+{
+  "id": "onc-353",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Anticoagulation reversal",
+  "difficulty": "easy",
+  "vignette": "A 62-year-old man is receiving an intravenous unfractionated heparin infusion for an acute deep vein thrombosis. Several hours later he develops a large upper gastrointestinal bleed, and the heparin is stopped. The resident is asked to order the specific reversal agent.",
+  "question": "Which of the following is the appropriate reversal agent for this patient's anticoagulant?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Protamine sulfate"
+    },
+    {
+      "id": "B",
+      "text": "Vitamin K"
+    },
+    {
+      "id": "C",
+      "text": "Idarucizumab"
+    },
+    {
+      "id": "D",
+      "text": "Andexanet alfa"
+    },
+    {
+      "id": "E",
+      "text": "Fresh frozen plasma alone"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Protamine sulfate is the specific reversal agent for heparin (including unfractionated heparin). It is a positively charged peptide that binds to the negatively charged heparin molecules, forming an inactive salt that cannot activate antithrombin. This neutralizes both the anti-IIa and anti-Xa activity of heparin. It is given intravenously and works rapidly, which is essential in a patient with a major bleed.",
+  "explanation_incorrect": {
+    "B": "Vitamin K reverses warfarin by restoring synthesis of vitamin K-dependent clotting factors; it has no effect on heparin, which works through antithrombin.",
+    "C": "Idarucizumab is the monoclonal antibody Fab fragment used to reverse the direct thrombin inhibitor dabigatran, not heparin.",
+    "D": "Andexanet alfa is a recombinant modified inactive factor Xa used to reverse direct factor Xa inhibitors such as apixaban and rivaroxaban.",
+    "E": "Fresh frozen plasma can provide clotting factors nonspecifically but is not the specific reversal agent for heparin; protamine directly neutralizes the drug."
+  },
+  "educationalObjective": "Heparin is reversed by protamine sulfate, a positively charged peptide that binds negatively charged heparin.",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Anticoagulation reversal"
+},
+{
+  "id": "onc-354",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Anticoagulation reversal",
+  "difficulty": "easy",
+  "vignette": "A 71-year-old woman taking warfarin for atrial fibrillation presents with an INR of 9.0 and hematuria. She has not missed any doses but recently started an interacting medication. The team wants both a slow corrective measure and a rapid way to replace deficient clotting factors.",
+  "question": "Which of the following reversal strategies is most appropriate for this patient's warfarin overdose?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Protamine sulfate"
+    },
+    {
+      "id": "B",
+      "text": "Idarucizumab"
+    },
+    {
+      "id": "C",
+      "text": "Vitamin K with fresh frozen plasma or PCC"
+    },
+    {
+      "id": "D",
+      "text": "Andexanet alfa"
+    },
+    {
+      "id": "E",
+      "text": "Tranexamic acid alone"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Warfarin inhibits vitamin K epoxide reductase, reducing the synthesis of factors II, VII, IX, and X. Vitamin K is the specific antidote and reverses the effect over hours to days (slow). In a bleeding patient or one needing rapid correction, fresh frozen plasma or prothrombin complex concentrate (PCC) is added to immediately replace the deficient clotting factors.",
+  "explanation_incorrect": {
+    "A": "Protamine sulfate neutralizes heparin by charge binding; it does not reverse the vitamin K antagonist warfarin.",
+    "B": "Idarucizumab reverses dabigatran by binding it with high affinity; warfarin is not a direct thrombin inhibitor.",
+    "D": "Andexanet alfa reverses direct factor Xa inhibitors such as apixaban and rivaroxaban, not warfarin.",
+    "E": "Tranexamic acid is an antifibrinolytic used for thrombolytic-related or fibrinolytic bleeding; it does not correct the vitamin K-dependent factor deficiency caused by warfarin."
+  },
+  "educationalObjective": "Warfarin is reversed with vitamin K (slow) plus FFP or PCC for rapid factor replacement in significant bleeding.",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Anticoagulation reversal"
+},
+{
+  "id": "onc-355",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Anticoagulation reversal",
+  "difficulty": "medium",
+  "vignette": "A 68-year-old man with atrial fibrillation takes dabigatran for stroke prevention. He is brought to the emergency department after a fall with an intracranial hemorrhage, and his labs show a markedly prolonged aPTT. An urgent reversal is required before neurosurgical evaluation.",
+  "question": "Which of the following is the specific reversal agent for this patient's anticoagulant?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Andexanet alfa"
+    },
+    {
+      "id": "B",
+      "text": "Idarucizumab"
+    },
+    {
+      "id": "C",
+      "text": "Protamine sulfate"
+    },
+    {
+      "id": "D",
+      "text": "Vitamin K"
+    },
+    {
+      "id": "E",
+      "text": "Fresh frozen plasma"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Dabigatran is a direct thrombin (factor IIa) inhibitor. Idarucizumab is a humanized monoclonal antibody Fab fragment that binds dabigatran with very high affinity, neutralizing its anticoagulant effect within minutes. It is the specific reversal agent approved for dabigatran in life-threatening bleeding or before urgent surgery.",
+  "explanation_incorrect": {
+    "A": "Andexanet alfa reverses direct factor Xa inhibitors (apixaban, rivaroxaban) by acting as a decoy; it does not bind dabigatran.",
+    "C": "Protamine sulfate reverses heparin through charge-based binding and has no affinity for dabigatran.",
+    "D": "Vitamin K restores warfarin's vitamin K-dependent factors; dabigatran's effect is independent of vitamin K.",
+    "E": "Fresh frozen plasma provides clotting factors nonspecifically and is not the specific or most effective reversal for dabigatran when idarucizumab is available."
+  },
+  "educationalObjective": "Dabigatran, a direct thrombin inhibitor, is specifically reversed by idarucizumab, a monoclonal antibody Fab fragment.",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Anticoagulation reversal"
+},
+{
+  "id": "onc-356",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Anticoagulation reversal",
+  "difficulty": "hard",
+  "vignette": "A 74-year-old woman on apixaban for venous thromboembolism prophylaxis presents with a life-threatening retroperitoneal hemorrhage. Her renal function is impaired, and the anticoagulant effect is believed to be contributing to ongoing bleeding. The intensivist requests the specific reversal agent for a direct factor Xa inhibitor.",
+  "question": "Which of the following best describes the specific reversal agent for this patient's anticoagulant?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Idarucizumab, a monoclonal antibody Fab fragment"
+    },
+    {
+      "id": "B",
+      "text": "Protamine sulfate, a positively charged peptide"
+    },
+    {
+      "id": "C",
+      "text": "Vitamin K with prothrombin complex concentrate"
+    },
+    {
+      "id": "D",
+      "text": "Tranexamic acid, a lysine analog antifibrinolytic"
+    },
+    {
+      "id": "E",
+      "text": "Andexanet alfa, a recombinant modified inactive factor Xa"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Andexanet alfa is a recombinant, genetically modified form of factor Xa that is catalytically inactive. It acts as a decoy: direct Xa inhibitors such as apixaban and rivaroxaban bind to andexanet alfa instead of native factor Xa, restoring thrombin generation. It is the specific reversal agent for direct factor Xa inhibitors in life-threatening bleeding.",
+  "explanation_incorrect": {
+    "A": "Idarucizumab is a monoclonal antibody Fab fragment, but it specifically binds dabigatran, a direct thrombin inhibitor, not factor Xa inhibitors.",
+    "B": "Protamine sulfate is a positively charged peptide that neutralizes heparin; it does not bind direct oral factor Xa inhibitors.",
+    "C": "Vitamin K plus PCC is the reversal strategy for warfarin, a vitamin K antagonist, not for direct Xa inhibitors.",
+    "D": "Tranexamic acid is an antifibrinolytic that inhibits fibrin breakdown; it is not a specific antidote for factor Xa inhibitors."
+  },
+  "educationalObjective": "Direct factor Xa inhibitors (apixaban, rivaroxaban) are reversed by andexanet alfa, a recombinant inactive factor Xa decoy.",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Anticoagulation reversal"
+}
+]

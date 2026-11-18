@@ -1,0 +1,166 @@
+[
+{
+  "id": "onc-028",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Anatomy",
+  "subtopic": "Erythrocytes and reticulocytes",
+  "difficulty": "easy",
+  "vignette": "A neonatology fellow is counseling parents about their newborn's anemia and notes that fetal and neonatal red cells have a shorter life span than those of healthy adults. She reviews the normal values.",
+  "question": "What is the normal life span of erythrocytes in healthy adults compared with neonates?",
+  "options": [
+    {
+      "id": "A",
+      "text": "60-90 days in adults; 120 days in neonates"
+    },
+    {
+      "id": "B",
+      "text": "120 days in adults; 150 days in neonates"
+    },
+    {
+      "id": "C",
+      "text": "30 days in adults; 60 days in neonates"
+    },
+    {
+      "id": "D",
+      "text": "200 days in adults; 120 days in neonates"
+    },
+    {
+      "id": "E",
+      "text": "120 days in adults; 60-90 days in neonates"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Erythrocytes in healthy adults have a life span of approximately 120 days, after which they are removed by the spleen and liver. In neonates the life span is shorter, about 60-90 days, which contributes to the physiologic anemia of infancy. The biconcave, anucleate shape gives red cells a large surface area-to-volume ratio for rapid gas exchange. Knowing these values helps interpret hemolytic versus production disorders.",
+  "explanation_incorrect": {
+    "A": "This reverses the values; adults have the longer approximately 120-day life span, not neonates.",
+    "B": "Adult red cells live about 120 days, and neonatal red cells live a shorter 60-90 days, not 150 days.",
+    "C": "Thirty days is far too short for adult erythrocytes; normal adult red cells survive roughly 120 days.",
+    "D": "Two hundred days is longer than the actual adult red cell life span of about 120 days."
+  },
+  "educationalObjective": "Adult erythrocytes live about 120 days, whereas neonatal red cells live only 60-90 days.",
+  "source": "Generated from 10. Oncology.pdf - Anatomy: Erythrocytes and reticulocytes"
+},
+{
+  "id": "onc-029",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Anatomy",
+  "subtopic": "Erythrocytes and reticulocytes",
+  "difficulty": "medium",
+  "vignette": "A researcher incubates purified erythrocytes with radiolabeled glucose and traces the metabolic fate of the label. She observes that the majority of glucose is consumed through glycolysis to generate ATP, while a smaller portion enters the HMP shunt to generate NADPH.",
+  "question": "Approximately what proportion of erythrocyte glucose is metabolized through the HMP shunt?",
+  "options": [
+    {
+      "id": "A",
+      "text": "50%"
+    },
+    {
+      "id": "B",
+      "text": "30%"
+    },
+    {
+      "id": "C",
+      "text": "10%"
+    },
+    {
+      "id": "D",
+      "text": "90%"
+    },
+    {
+      "id": "E",
+      "text": "1%"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Erythrocytes lack mitochondria and depend entirely on glucose as an energy source. About 90% of erythrocyte glucose is metabolized through glycolysis to produce ATP, while approximately 10% enters the HMP shunt (pentose phosphate pathway) to generate NADPH. NADPH is essential for keeping glutathione reduced and protecting the cell from oxidative damage, as highlighted by G6PD deficiency. Thus the HMP shunt accounts for roughly 10% of glucose use.",
+  "explanation_incorrect": {
+    "A": "Fifty percent is far too high; the HMP shunt handles only about 10% of erythrocyte glucose, with glycolysis predominating.",
+    "B": "Thirty percent overestimates the HMP shunt contribution, which is approximately 10% of glucose metabolism.",
+    "D": "Ninety percent is the fraction metabolized through glycolysis, not the HMP shunt.",
+    "E": "One percent substantially underestimates the HMP shunt, which consumes about 10% of erythrocyte glucose."
+  },
+  "educationalObjective": "About 90% of erythrocyte glucose is used in glycolysis and 10% in the HMP shunt, which generates protective NADPH.",
+  "source": "Generated from 10. Oncology.pdf - Anatomy: Erythrocytes and reticulocytes"
+},
+{
+  "id": "onc-030",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Anatomy",
+  "subtopic": "Erythrocytes and reticulocytes",
+  "difficulty": "medium",
+  "vignette": "A medical student reviews how erythrocytes transport carbon dioxide from peripheral tissues to the lungs. In systemic tissues, CO2 entering the red cell is converted to bicarbonate, which must then be exported from the cell in exchange for chloride to maintain electroneutrality.",
+  "question": "Which membrane transporter mediates the export of bicarbonate from the erythrocyte?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Na+/K+ ATPase"
+    },
+    {
+      "id": "B",
+      "text": "Cl−/HCO3− antiporter"
+    },
+    {
+      "id": "C",
+      "text": "GLUT1 transporter"
+    },
+    {
+      "id": "D",
+      "text": "Ca2+ ATPase"
+    },
+    {
+      "id": "E",
+      "text": "Aquaporin"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "The erythrocyte membrane contains a Cl−/HCO3− antiporter, also called the chloride-bicarbonate exchanger or Band 3. It exports bicarbonate formed from CO2 in the tissues in exchange for incoming chloride, a process known as the chloride shift. This allows red cells to carry CO2 from the periphery to the lungs, where the process reverses and CO2 is exhaled. The antiporter is therefore central to CO2 transport and acid-base handling.",
+  "explanation_incorrect": {
+    "A": "The Na+/K+ ATPase maintains the electrochemical gradients of sodium and potassium and does not transport bicarbonate.",
+    "C": "GLUT1 is a glucose transporter that supplies the erythrocyte with glucose; it does not exchange bicarbonate.",
+    "D": "The Ca2+ ATPase pumps calcium out of the cell and is not involved in bicarbonate export.",
+    "E": "Aquaporins are water channels and do not mediate chloride-bicarbonate exchange."
+  },
+  "educationalObjective": "The erythrocyte Cl−/HCO3− antiporter exports bicarbonate in exchange for chloride, enabling CO2 transport to the lungs.",
+  "source": "Generated from 10. Oncology.pdf - Anatomy: Erythrocytes and reticulocytes"
+},
+{
+  "id": "onc-031",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Anatomy",
+  "subtopic": "Erythrocytes and reticulocytes",
+  "difficulty": "easy",
+  "vignette": "A 40-year-old man with autoimmune hemolytic anemia has a bone marrow responding with increased red cell production. His peripheral smear shows slightly larger red cells with a diffuse bluish tint, described as polychromasia.",
+  "question": "The bluish color (polychromasia) of these immature red cells on Wright-Giemsa stain is due to the presence of which of the following?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Residual mitochondria"
+    },
+    {
+      "id": "B",
+      "text": "Fetal hemoglobin (HbF)"
+    },
+    {
+      "id": "C",
+      "text": "Nuclear chromatin"
+    },
+    {
+      "id": "D",
+      "text": "Residual ribosomal RNA"
+    },
+    {
+      "id": "E",
+      "text": "Deposited hemosiderin"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Reticulocytes are immature erythrocytes that have recently extruded their nucleus but still contain residual ribosomal RNA. On Wright-Giemsa stain this residual RNA takes up the basic dye and produces a bluish tint, seen as polychromasia. Reticulocytes are slightly larger than mature red cells and their number reflects the level of erythroid proliferation. An elevated reticulocyte count indicates a responding marrow, as in hemolytic anemia.",
+  "explanation_incorrect": {
+    "A": "Mature erythrocytes and reticulocytes lack mitochondria, so mitochondria cannot account for polychromasia.",
+    "B": "Fetal hemoglobin is an oxygen-carrying hemoglobin species and does not produce the bluish staining of polychromasia.",
+    "C": "Reticulocytes have already extruded their nucleus, so nuclear chromatin is not present.",
+    "E": "Hemosiderin is an iron-storage pigment seen in macrophages or in sideroblasts, not the cause of reticulocyte polychromasia."
+  },
+  "educationalObjective": "Polychromasia of reticulocytes reflects residual ribosomal RNA and indicates increased erythroid proliferation.",
+  "source": "Generated from 10. Oncology.pdf - Anatomy: Erythrocytes and reticulocytes"
+}
+]

@@ -1,0 +1,248 @@
+[
+{
+  "id": "onc-069",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Physiology",
+  "subtopic": "Primary hemostasis and platelet plug formation",
+  "difficulty": "medium",
+  "vignette": "A 58-year-old man sustains a laceration. At the site of injury, endothelial damage exposes subendothelial collagen, and platelets rapidly accumulate. The platelets attach to the exposed surface through a receptor that binds von Willebrand factor that has been deposited there. Which receptor on the platelet surface is responsible for this initial adhesion?",
+  "question": "Which platelet surface receptor mediates the initial adhesion of platelets to von Willebrand factor at the site of vascular injury?",
+  "options": [
+    {
+      "id": "A",
+      "text": "GpIIb/IIIa"
+    },
+    {
+      "id": "B",
+      "text": "GpIb"
+    },
+    {
+      "id": "C",
+      "text": "P2Y12"
+    },
+    {
+      "id": "D",
+      "text": "GpVI"
+    },
+    {
+      "id": "E",
+      "text": "P-selectin"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Platelet adhesion to the injured vessel wall is mediated by von Willebrand factor (vWF), which is released from endothelial Weibel-Palade bodies and platelet alpha granules and binds exposed subendothelial collagen. Platelets attach to this immobilized vWF specifically via the GpIb receptor at the site of injury. This is the adhesion step of primary hemostasis, immediately after collagen exposure. Defects in GpIb cause Bernard-Soulier syndrome, with failure of ristocetin-induced aggregation.",
+  "explanation_incorrect": {
+    "A": "GpIIb/IIIa is the fibrinogen receptor; it mediates platelet aggregation by binding fibrinogen bridges, not the initial vWF-dependent adhesion.",
+    "C": "P2Y12 is the platelet ADP receptor. Its activation triggers conformational change and GpIIb/IIIa expression during the activation step, not adhesion to vWF.",
+    "D": "GpVI is a platelet collagen receptor that contributes to activation after adhesion; the receptor that binds vWF on exposed subendothelium is GpIb.",
+    "E": "P-selectin is an adhesion molecule for platelet-endothelial and leukocyte interactions, not the receptor that binds vWF to platelets."
+  },
+  "educationalObjective": "GpIb is the platelet receptor that binds vWF during the adhesion step of primary hemostasis.",
+  "source": "Generated from 10. Oncology.pdf - Physiology: Primary hemostasis and platelet plug formation"
+},
+{
+  "id": "onc-070",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Physiology",
+  "subtopic": "Primary hemostasis and platelet plug formation",
+  "difficulty": "easy",
+  "vignette": "A researcher studies the source of the von Willebrand factor that coats exposed collagen after endothelial injury. She finds vWF stored in rod-like organelles within endothelial cells that are released on activation. Which endothelial cell organelle is the source of this vWF?",
+  "question": "From which endothelial cell storage organelle is von Willebrand factor released to bind exposed subendothelial collagen?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Alpha granules"
+    },
+    {
+      "id": "B",
+      "text": "Dense granules"
+    },
+    {
+      "id": "C",
+      "text": "Weibel-Palade bodies"
+    },
+    {
+      "id": "D",
+      "text": "Lysosomes"
+    },
+    {
+      "id": "E",
+      "text": "Golgi apparatus"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "von Willebrand factor is synthesized by endothelial cells and stored in Weibel-Palade bodies, from which it is released on activation to bind exposed subendothelial collagen. Platelets also carry vWF in their alpha granules, but the regulated endothelial storage organelle is the Weibel-Palade body. This vWF also carries and protects factor VIII. Desmopressin promotes release of vWF and factor VIII from endothelial cells.",
+  "explanation_incorrect": {
+    "A": "Alpha granules are platelet granules that also contain vWF, but in endothelial cells the vWF storage organelle is the Weibel-Palade body.",
+    "B": "Dense granules contain calcium, ADP, serotonin, and histamine (CASH), not von Willebrand factor.",
+    "D": "Lysosomes contain hydrolytic enzymes and are not a storage site for vWF released at sites of injury.",
+    "E": "The Golgi apparatus modifies and packages proteins but is not the regulated storage organelle that releases vWF at the injury site."
+  },
+  "educationalObjective": "Endothelial vWF is stored in Weibel-Palade bodies and is released to bind exposed collagen during primary hemostasis.",
+  "source": "Generated from 10. Oncology.pdf - Physiology: Primary hemostasis and platelet plug formation"
+},
+{
+  "id": "onc-071",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Physiology",
+  "subtopic": "Primary hemostasis and platelet plug formation",
+  "difficulty": "easy",
+  "vignette": "After platelets adhere to von Willebrand factor at a site of injury, they undergo a conformational change and release ADP. ADP binds to a specific purinergic receptor on neighboring platelets, which then triggers expression of GpIIb/IIIa receptors and rapid, irreversible aggregation. Which receptor does ADP bind to?",
+  "question": "Binding of ADP to which platelet receptor induces expression of GpIIb/IIIa and irreversible platelet aggregation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "P2Y12"
+    },
+    {
+      "id": "B",
+      "text": "GpIb"
+    },
+    {
+      "id": "C",
+      "text": "GpIIb/IIIa"
+    },
+    {
+      "id": "D",
+      "text": "GpVI"
+    },
+    {
+      "id": "E",
+      "text": "P-selectin"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "ADP released from activated platelets binds the P2Y12 receptor, which induces expression of GpIIb/IIIa on the platelet surface and drives rapid, irreversible aggregation. Clopidogrel, prasugrel, and ticagrelor block this receptor and thereby inhibit ADP-induced GpIIb/IIIa expression. This is the activation step of primary hemostasis. Activated platelets also release calcium and thromboxane A2 during this step.",
+  "explanation_incorrect": {
+    "B": "GpIb is the vWF receptor mediating the adhesion step, not the ADP receptor of activation.",
+    "C": "GpIIb/IIIa is the fibrinogen receptor whose expression is induced downstream of P2Y12 signaling; it is not the receptor that binds ADP.",
+    "D": "GpVI is a collagen receptor involved in platelet activation, not the receptor that mediates ADP signaling.",
+    "E": "P-selectin is an adhesion molecule for leukocyte and endothelial interactions, not an ADP receptor."
+  },
+  "educationalObjective": "ADP binding to P2Y12 drives GpIIb/IIIa expression and irreversible platelet aggregation.",
+  "source": "Generated from 10. Oncology.pdf - Physiology: Primary hemostasis and platelet plug formation"
+},
+{
+  "id": "onc-072",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Physiology",
+  "subtopic": "Primary hemostasis and platelet plug formation",
+  "difficulty": "medium",
+  "vignette": "A patient with coronary artery disease is given eptifibatide during a procedure to prevent thrombotic complications. The drug produces immediate inhibition of platelet aggregation by directly blocking the receptor that serves as the binding site for fibrinogen. Which receptor is the direct target of eptifibatide and tirofiban?",
+  "question": "Which platelet receptor is directly inhibited by eptifibatide and tirofiban?",
+  "options": [
+    {
+      "id": "A",
+      "text": "GpIb"
+    },
+    {
+      "id": "B",
+      "text": "P2Y12"
+    },
+    {
+      "id": "C",
+      "text": "COX-1"
+    },
+    {
+      "id": "D",
+      "text": "GpIIb/IIIa"
+    },
+    {
+      "id": "E",
+      "text": "von Willebrand factor"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "During the final aggregation step of primary hemostasis, fibrinogen binds GpIIb/IIIa receptors and links adjacent platelets into a plug. Eptifibatide and tirofiban directly inhibit GpIIb/IIIa (the fibrinogen receptor), producing rapid inhibition of platelet aggregation. This contrasts with aspirin, which blocks COX and thromboxane A2 synthesis, and the P2Y12 blockers clopidogrel, prasugrel, and ticagrelor.",
+  "explanation_incorrect": {
+    "A": "GpIb is the vWF adhesion receptor; it is not blocked by eptifibatide or tirofiban, and is instead probed by the ristocetin assay.",
+    "B": "P2Y12 is the ADP receptor blocked by clopidogrel, prasugrel, and ticagrelor, not by eptifibatide or tirofiban.",
+    "C": "COX-1 is the enzyme irreversibly inhibited by aspirin, which reduces thromboxane A2 synthesis.",
+    "E": "von Willebrand factor is a ligand that binds GpIb and collagen; it is not a platelet receptor and is not the drug target."
+  },
+  "educationalObjective": "Eptifibatide and tirofiban directly block the GpIIb/IIIa fibrinogen receptor to inhibit platelet aggregation.",
+  "source": "Generated from 10. Oncology.pdf - Physiology: Primary hemostasis and platelet plug formation"
+},
+{
+  "id": "onc-073",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Physiology",
+  "subtopic": "Primary hemostasis and platelet plug formation",
+  "difficulty": "easy",
+  "vignette": "A 64-year-old man takes a low-dose daily medication to reduce his risk of myocardial infarction. The drug irreversibly inhibits cyclooxygenase in platelets, suppressing synthesis of the eicosanoid that promotes platelet aggregation and vasoconstriction. Which mediator's production is decreased by this drug?",
+  "question": "Aspirin reduces platelet aggregation primarily by inhibiting synthesis of which mediator?",
+  "options": [
+    {
+      "id": "A",
+      "text": "PGI2"
+    },
+    {
+      "id": "B",
+      "text": "NO"
+    },
+    {
+      "id": "C",
+      "text": "ADP"
+    },
+    {
+      "id": "D",
+      "text": "von Willebrand factor"
+    },
+    {
+      "id": "E",
+      "text": "TXA2"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Aspirin irreversibly inhibits platelet cyclooxygenase, thereby decreasing synthesis of thromboxane A2 (TXA2). TXA2 is a pro-aggregation mediator released by platelets that decreases blood flow and increases platelet aggregation. By suppressing TXA2, aspirin shifts the balance toward the endothelial anti-aggregatory mediators PGI2 and NO. This is the basis of low-dose aspirin for cardiovascular prophylaxis.",
+  "explanation_incorrect": {
+    "A": "PGI2 (prostacyclin) is an anti-aggregatory mediator released by endothelial cells; aspirin does not inhibit it, and it opposes aggregation.",
+    "B": "NO is an endothelial-derived anti-aggregatory mediator that increases blood flow; it is not the target of aspirin.",
+    "C": "ADP is released from platelet dense granules and acts on P2Y12; aspirin does not block ADP release.",
+    "D": "von Willebrand factor is released from Weibel-Palade bodies and alpha granules to mediate adhesion; aspirin does not reduce vWF."
+  },
+  "educationalObjective": "Aspirin irreversibly inhibits COX and TXA2 synthesis, reducing platelet aggregation.",
+  "source": "Generated from 10. Oncology.pdf - Physiology: Primary hemostasis and platelet plug formation"
+},
+{
+  "id": "onc-074",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Physiology",
+  "subtopic": "Primary hemostasis and platelet plug formation",
+  "difficulty": "hard",
+  "vignette": "A 9-year-old boy with easy bruising and prolonged bleeding after dental extraction has a normal platelet count. Laboratory testing shows failure of platelets to aggregate when exposed to ristocetin, but normal aggregation in response to other agonists. Treatment with desmopressin improves his bleeding. Which underlying defect best explains these findings?",
+  "question": "Failure of ristocetin-induced platelet aggregation with correction by desmopressin is most consistent with a deficiency of which factor?",
+  "options": [
+    {
+      "id": "A",
+      "text": "GpIIb/IIIa (Glanzmann thrombasthenia)"
+    },
+    {
+      "id": "B",
+      "text": "von Willebrand factor"
+    },
+    {
+      "id": "C",
+      "text": "GpIb (Bernard-Soulier syndrome)"
+    },
+    {
+      "id": "D",
+      "text": "Factor VIII alone (hemophilia A)"
+    },
+    {
+      "id": "E",
+      "text": "Fibrinogen"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Ristocetin activates von Willebrand factor so that it can bind GpIb; failure of aggregation in this assay occurs in von Willebrand disease and Bernard-Soulier syndrome. Desmopressin promotes release of vWF and factor VIII from endothelial cells, so improvement with desmopressin points to von Willebrand disease, in which vWF also carries and protects factor VIII. Bernard-Soulier syndrome would not respond because the defect is the GpIb receptor itself. This makes the desmopressin response the key discriminator here.",
+  "explanation_incorrect": {
+    "A": "Glanzmann thrombasthenia is a GpIIb/IIIa deficiency in which aggregation is defective with multiple agonists, but ristocetin-induced agglutination is typically preserved and desmopressin does not correct it.",
+    "C": "Bernard-Soulier syndrome is a GpIb deficiency that also abolishes ristocetin-induced aggregation, but the defect is the receptor, so desmopressin (which releases vWF) would not improve it; it features giant platelets and a low platelet count.",
+    "D": "Isolated factor VIII deficiency (hemophilia A) prolongs PTT and causes deep bleeding, but platelet aggregation studies including ristocetin are normal.",
+    "E": "Fibrinogen deficiency would impair GpIIb/IIIa-mediated aggregation with many agonists and is not specifically corrected by desmopressin."
+  },
+  "educationalObjective": "Ristocetin tests the vWF-GpIb interaction; desmopressin-responsive failure indicates von Willebrand disease.",
+  "source": "Generated from 10. Oncology.pdf - Physiology: Primary hemostasis and platelet plug formation"
+}
+]

@@ -1,0 +1,125 @@
+[
+{
+  "id": "onc-058",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Anatomy",
+  "subtopic": "Plasma cells",
+  "difficulty": "medium",
+  "vignette": "A bone marrow biopsy from a patient with suspected monoclonal gammopathy shows cells with an eccentric nucleus, clumped 'clock-face' chromatin, abundant rough endoplasmic reticulum, and a well-developed Golgi apparatus.",
+  "question": "Which cell type is shown, and what is its principal function?",
+  "options": [
+    {
+      "id": "A",
+      "text": "B lymphocyte, which presents antigen to helper T cells"
+    },
+    {
+      "id": "B",
+      "text": "Plasma cell, which produces large amounts of antigen-specific antibody"
+    },
+    {
+      "id": "C",
+      "text": "Macrophage, which phagocytoses senescent erythrocytes"
+    },
+    {
+      "id": "D",
+      "text": "Megakaryocyte, which produces platelets"
+    },
+    {
+      "id": "E",
+      "text": "Plasmacytoid dendritic cell, which secretes interferon-alpha"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Plasma cells are terminally differentiated antibody-secreting cells with clock-face chromatin, an eccentric nucleus, abundant rough ER, and a prominent Golgi apparatus. They are found in bone marrow and normal peripheral lymphoid tissue and do not circulate in peripheral blood. Multiple myeloma is a plasma cell dyscrasia.",
+  "explanation_incorrect": {
+    "A": "B lymphocytes can present antigen and express CD20 but lack the abundant rough ER and clock-face chromatin of antibody-secreting plasma cells.",
+    "C": "Macrophages are phagocytes with kidney-shaped nuclei and tissue-specific names; they do not secrete large quantities of antibody.",
+    "D": "Megakaryocytes are large multinucleated cells that generate platelets and have nothing to do with immunoglobulin production.",
+    "E": "Plasmacytoid dendritic cells produce type I interferon and are not the antibody-producing cells described."
+  },
+  "educationalObjective": "Plasma cells have clock-face chromatin and abundant rough ER and secrete large amounts of antibody.",
+  "source": "Generated from 10. Oncology.pdf - Anatomy: Plasma cells"
+},
+{
+  "id": "onc-059",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Anatomy",
+  "subtopic": "Plasma cells",
+  "difficulty": "medium",
+  "vignette": "A 68-year-old man has back pain and anemia. Serum protein electrophoresis shows a monoclonal spike, and skeletal imaging reveals punched-out lytic lesions. A bone marrow biopsy shows more than 10% clonal plasma cells.",
+  "question": "Which disorder is best supported by these findings?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Monoclonal gammopathy of undetermined significance, because the M spike is <3 g/dL"
+    },
+    {
+      "id": "B",
+      "text": "Waldenstrom macroglobulinemia, because IgM causes hyperviscosity"
+    },
+    {
+      "id": "C",
+      "text": "Multiple myeloma, a plasma cell dyscrasia with CRAB findings"
+    },
+    {
+      "id": "D",
+      "text": "Metastatic prostate carcinoma, because it produces blastic bone lesions"
+    },
+    {
+      "id": "E",
+      "text": "Chronic lymphocytic leukemia, because smudge cells are characteristic"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Multiple myeloma is a proliferation of a single plasma cell clone with monoclonal immunoglobulin production and CRAB features: hyperCalcemia, Renal insufficiency, Anemia, and Bone lytic lesions. Marrow biopsy shows more than 10% monoclonal plasma cells, typically with clock-face chromatin and intracytoplasmic immunoglobulin inclusions.",
+  "explanation_incorrect": {
+    "A": "MGUS has an M spike below 3 g/dL, fewer than 10% marrow plasma cells, and no CRAB end-organ findings; lytic lesions exclude it.",
+    "B": "Waldenstrom macroglobulinemia produces IgM with hyperviscosity symptoms and lymphoplasmacytic infiltrates, not punched-out lytic lesions.",
+    "D": "Prostate cancer metastases are blastic (sclerotic), not lytic, and would not produce a monoclonal plasma cell proliferation.",
+    "E": "CLL is a CD5+ B-cell neoplasm with smudge cells, not a plasma cell disorder with lytic bone destruction."
+  },
+  "educationalObjective": "Multiple myeloma is defined by clonal plasma cells and CRAB: hypercalcemia, renal failure, anemia, and lytic bone lesions.",
+  "source": "Generated from 10. Oncology.pdf - Anatomy: Plasma cells"
+},
+{
+  "id": "onc-060",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Anatomy",
+  "subtopic": "Plasma cells",
+  "difficulty": "easy",
+  "vignette": "A student examines a peripheral blood smear from a healthy adult and looks for plasma cells while reviewing the cellular elements of blood.",
+  "question": "Which statement about plasma cells is correct?",
+  "options": [
+    {
+      "id": "A",
+      "text": "They are the most abundant circulating leukocyte and have multilobed nuclei"
+    },
+    {
+      "id": "B",
+      "text": "They normally circulate in large numbers in peripheral blood"
+    },
+    {
+      "id": "C",
+      "text": "They are found primarily in bone marrow and normally do not circulate in peripheral blood"
+    },
+    {
+      "id": "D",
+      "text": "They are the immediate precursors of neutrophils in the marrow"
+    },
+    {
+      "id": "E",
+      "text": "They express CD3 and mediate cellular immunity"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Plasma cells are terminally differentiated B cells that reside in bone marrow and peripheral lymphoid tissues and normally do not circulate in peripheral blood. Their presence in blood is abnormal and suggests a plasma cell dyscrasia.",
+  "explanation_incorrect": {
+    "A": "Neutrophils are the most abundant circulating leukocytes and have multilobed nuclei; plasma cells are not numerous in blood.",
+    "B": "Circulating plasma cells are not a normal finding; they are tissue-resident antibody factories.",
+    "D": "Neutrophils arise from myeloid progenitors through myeloblasts and promyelocytes, not from plasma cells.",
+    "E": "CD3 is a T-cell marker; plasma cells are B-lineage cells and do not mediate cellular immunity."
+  },
+  "educationalObjective": "Plasma cells reside in marrow and lymphoid tissue and are not normally found in peripheral blood.",
+  "source": "Generated from 10. Oncology.pdf - Anatomy: Plasma cells"
+}
+]

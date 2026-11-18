@@ -1,0 +1,166 @@
+[
+{
+  "id": "onc-156",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Hereditary spherocytosis",
+  "difficulty": "easy",
+  "vignette": "A 16-year-old boy has mild pallor and a family history of similar anemia in his father and paternal grandfather. CBC: hemoglobin 11.5 g/dL, MCV 88 fL, MCHC 37 g/dL. Peripheral smear shows small, round, densely staining red cells lacking central pallor.",
+  "question": "Which inheritance pattern and defect best characterize this disorder?",
+  "options": [
+    {
+      "id": "A",
+      "text": "X-linked recessive deficiency of glucose-6-phosphate dehydrogenase"
+    },
+    {
+      "id": "B",
+      "text": "Autosomal recessive deficiency of pyruvate kinase"
+    },
+    {
+      "id": "C",
+      "text": "Autosomal dominant defect in red cell membrane skeletal proteins such as ankyrin, band 3, protein 4.2, or spectrin"
+    },
+    {
+      "id": "D",
+      "text": "Acquired PIGA mutation affecting GPI-anchored complement regulators"
+    },
+    {
+      "id": "E",
+      "text": "Autosomal recessive defect in DNA repair"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Hereditary spherocytosis is primarily autosomal dominant and results from defects in proteins that link the red cell membrane skeleton to the plasma membrane, including ankyrin, band 3, protein 4.2, and spectrin. Loss of membrane surface area produces small round red cells without central pallor, and dehydration increases MCHC. These rigid spherocytes are removed by splenic macrophages, causing extravascular hemolysis. The multigenerational family history and response to splenectomy support the diagnosis.",
+  "explanation_incorrect": {
+    "A": "G6PD deficiency is X-linked recessive and causes bite cells and Heinz bodies after oxidative stress, not spherocytes.",
+    "B": "Pyruvate kinase deficiency is autosomal recessive with burr cells and ATP depletion, not a dominant membrane skeleton defect.",
+    "D": "An acquired PIGA mutation defines paroxysmal nocturnal hemoglobinuria, which causes complement-mediated intravascular hemolysis and thrombosis, not inherited spherocytes.",
+    "E": "A DNA repair defect describes Fanconi anemia, a cause of aplastic anemia with pancytopenia rather than spherocytic hemolysis."
+  },
+  "educationalObjective": "Hereditary spherocytosis is usually autosomal dominant from ankyrin/band 3/protein 4.2/spectrin defects, producing spherocytes and extravascular hemolysis.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Hereditary spherocytosis"
+},
+{
+  "id": "onc-157",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Hereditary spherocytosis",
+  "difficulty": "easy",
+  "vignette": "A 24-year-old woman with known hereditary spherocytosis develops sudden worsening fatigue, pallor, and a falling hemoglobin with reticulocytopenia after a febrile illness. She has mild splenomegaly and a history of pigment gallstones.",
+  "question": "Which infectious agent is most classically associated with this acute complication?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Parvovirus B19"
+    },
+    {
+      "id": "B",
+      "text": "Epstein-Barr virus"
+    },
+    {
+      "id": "C",
+      "text": "Plasmodium falciparum"
+    },
+    {
+      "id": "D",
+      "text": "Hepatitis B virus"
+    },
+    {
+      "id": "E",
+      "text": "Bartonella henselae"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Patients with chronic hemolytic anemia such as hereditary spherocytosis depend on high compensatory erythropoiesis. Parvovirus B19 infects erythroid progenitors and causes a transient aplastic crisis with reticulocytopenia and acute worsening of anemia. Other expected findings in hereditary spherocytosis include splenomegaly from extravascular destruction and pigment gallstones from chronic bilirubin load from hemolysis. The crisis is usually self-limited but may require transfusion support, and it must be distinguished from the pancytopenia of aplastic anemia.",
+  "explanation_incorrect": {
+    "B": "Epstein-Barr virus causes infectious mononucleosis and can rarely cause hemolysis or marrow suppression, but it is not the classic trigger of aplastic crisis in hereditary spherocytosis.",
+    "C": "Plasmodium falciparum causes malaria with fever and hemolysis, not transient erythroid arrest in a patient with spherocytosis.",
+    "D": "Hepatitis B can precede idiopathic aplastic anemia through immune mechanisms, not aplastic crisis in hereditary spherocytosis.",
+    "E": "Bartonella henselae causes cat scratch disease with lymphadenopathy, not aplastic crisis."
+  },
+  "educationalObjective": "Parvovirus B19 causes aplastic crisis in hereditary spherocytosis and other chronic hemolytic anemias; spherocytosis also features splenomegaly and pigment gallstones.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Hereditary spherocytosis"
+},
+{
+  "id": "onc-158",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Hereditary spherocytosis",
+  "difficulty": "medium",
+  "vignette": "A 12-year-old boy with suspected hereditary spherocytosis undergoes confirmatory testing. On eosin-5-maleimide (EMA) binding flow cytometry, his red cells show reduced mean fluorescence. Osmotic fragility testing is also performed.",
+  "question": "Which result would be expected on the osmotic fragility test?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Decreased fragility, because spherocytes have an increased surface-area-to-volume ratio"
+    },
+    {
+      "id": "B",
+      "text": "Normal fragility, because membrane protein defects do not change osmotic behavior"
+    },
+    {
+      "id": "C",
+      "text": "Increased fragility only after splenectomy"
+    },
+    {
+      "id": "D",
+      "text": "Decreased fragility with increased resistance to hypotonic lysis"
+    },
+    {
+      "id": "E",
+      "text": "Increased fragility, with hemolysis at higher salt concentrations than normal red cells"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "In hereditary spherocytosis, loss of membrane surface area produces a low surface-area-to-volume ratio, so the cells cannot expand in hypotonic solutions and lyse at higher salt concentrations than normal red cells: increased osmotic fragility. The EMA binding test shows reduced mean fluorescence because the membrane protein defect reduces dye binding. MCV is normal to slightly decreased despite an abundance of small red cells, and MCHC is increased from dehydration. Splenectomy reduces hemolysis but does not correct the intrinsic membrane defect.",
+  "explanation_incorrect": {
+    "A": "Spherocytes have a decreased, not increased, surface-area-to-volume ratio and therefore show increased fragility.",
+    "B": "Membrane protein defects directly alter osmotic behavior, so the osmotic fragility test is abnormal in hereditary spherocytosis.",
+    "C": "Osmotic fragility is increased before splenectomy; splenectomy does not reverse the underlying membrane defect.",
+    "D": "Decreased fragility with resistance to hypotonic lysis is seen with target cells, as in thalassemia or liver disease, not with spherocytes."
+  },
+  "educationalObjective": "Hereditary spherocytosis shows decreased EMA fluorescence and increased osmotic fragility because spherocytes lyse in relatively hypotonic conditions.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Hereditary spherocytosis"
+},
+{
+  "id": "onc-159",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Hereditary spherocytosis",
+  "difficulty": "hard",
+  "vignette": "A 19-year-old with hereditary spherocytosis has small, round red cells lacking central pallor. Analysis shows reduced membrane surface area and cellular dehydration with elevated MCHC. Hemolysis occurs predominantly within the spleen.",
+  "question": "What is the most direct reason these red cells are prematurely removed by splenic macrophages?",
+  "options": [
+    {
+      "id": "A",
+      "text": "IgG autoantibody coating of the red cell membrane"
+    },
+    {
+      "id": "B",
+      "text": "Loss of membrane surface area and dehydration producing rigid, less deformable red cells that are trapped in the splenic cords"
+    },
+    {
+      "id": "C",
+      "text": "Deficiency of GPI-anchored CD55 and CD59 permitting complement deposition"
+    },
+    {
+      "id": "D",
+      "text": "Oxidative cross-linking of hemoglobin with Heinz body formation"
+    },
+    {
+      "id": "E",
+      "text": "ATP depletion from impaired glycolysis causing echinocyte formation"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Defects in ankyrin, band 3, protein 4.2, or spectrin weaken the membrane skeleton and cause vesiculation and loss of lipid bilayer. The reduced surface area forces a spherical shape, and dehydration raises MCHC; the resulting rigid spherocytes cannot deform enough to pass through splenic sinusoids and are phagocytosed by macrophages, producing extravascular hemolysis. This explains the associated splenomegaly and pigment gallstones. No antibody or complement abnormality is present, and splenectomy is effective because removal is primarily splenic.",
+  "explanation_incorrect": {
+    "A": "IgG-coated red cells describe warm autoimmune hemolytic anemia, which can also show spherocytes but is not the inherited membrane skeleton defect in this case.",
+    "C": "Loss of CD55 and CD59 is paroxysmal nocturnal hemoglobinuria, causing complement-mediated intravascular hemolysis, not splenic trapping of spherocytes.",
+    "D": "Heinz bodies from oxidative stress characterize G6PD deficiency after oxidant exposure, not hereditary spherocytosis.",
+    "E": "ATP depletion with burr cells characterizes pyruvate kinase deficiency; spherocytes in this disease are rigid because of membrane loss, not ATP lack."
+  },
+  "educationalObjective": "Hereditary spherocytosis causes extravascular hemolysis because rigid, dehydrated spherocytes with high MCHC are trapped and removed by splenic macrophages.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Hereditary spherocytosis"
+}
+]

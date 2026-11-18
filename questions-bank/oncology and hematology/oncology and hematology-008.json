@@ -1,0 +1,125 @@
+[
+{
+  "id": "onc-371",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Antibody-drug conjugates",
+  "difficulty": "easy",
+  "vignette": "A 51-year-old woman with HER2-positive metastatic breast cancer is being considered for treatment with ado-trastuzumab emtansine. The oncologist explains that this agent belongs to a newer class of cancer therapeutics designed to deliver a toxic payload selectively to tumor cells, combining the targeting ability of an antibody with the cell-killing power of chemotherapy.",
+  "question": "Which of the following best defines an antibody-drug conjugate?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A monoclonal antibody with no attached payload"
+    },
+    {
+      "id": "B",
+      "text": "A monoclonal antibody linked to a cytotoxic chemotherapeutic drug"
+    },
+    {
+      "id": "C",
+      "text": "Two different monoclonal antibodies linked together"
+    },
+    {
+      "id": "D",
+      "text": "A cytotoxic drug encapsulated in a liposome"
+    },
+    {
+      "id": "E",
+      "text": "An antibody linked to a radioactive isotope"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Antibody-drug conjugates (ADCs) are formed by linking monoclonal antibodies with cytotoxic chemotherapeutic drugs. The antibody selectivity against tumor antigens allows targeted drug delivery to tumor cells while sparing healthy cells, which increases efficacy and decreases toxicity. Ado-trastuzumab emtansine (T-DM1) is a prototypic ADC used for HER2-positive breast cancer.",
+  "explanation_incorrect": {
+    "A": "A bare monoclonal antibody without a cytotoxic payload is not a conjugate; agents like trastuzumab alone work through receptor blockade and immune mechanisms.",
+    "C": "Linking two antibodies creates a bispecific antibody, not an antibody-drug conjugate, which requires a cytotoxic drug payload.",
+    "D": "A cytotoxic drug in a liposome is a liposomal formulation (eg, liposomal doxorubicin), not an antibody-targeted conjugate.",
+    "E": "An antibody linked to a radioactive isotope is a radioimmunoconjugate, distinct from the cytotoxic drug conjugates described here."
+  },
+  "educationalObjective": "Antibody-drug conjugates link a monoclonal antibody to a cytotoxic drug, enabling targeted tumor cell killing with less toxicity.",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Antibody-drug conjugates"
+},
+{
+  "id": "onc-372",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Antibody-drug conjugates",
+  "difficulty": "medium",
+  "vignette": "A 48-year-old woman with HER2-positive breast cancer receives ado-trastuzumab emtansine. A resident asks how the drug ensures that the attached cytotoxic chemotherapy is released specifically inside the cancer cells rather than circulating freely in the bloodstream.",
+  "question": "Which of the following best describes the cellular mechanism by which an antibody-drug conjugate delivers and releases its cytotoxic drug?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The antibody directly intercalates into tumor cell DNA"
+    },
+    {
+      "id": "B",
+      "text": "Complement-mediated lysis is the sole mechanism of cell death"
+    },
+    {
+      "id": "C",
+      "text": "The antibody inhibits topoisomerase II at the tumor cell surface"
+    },
+    {
+      "id": "D",
+      "text": "Receptor-mediated endocytosis, lysosomal degradation, and intracellular drug release causing cytotoxicity"
+    },
+    {
+      "id": "E",
+      "text": "The drug is released by simple diffusion across the tumor cell membrane"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Antibody-drug conjugates bind tumor antigens via their monoclonal antibody component and are taken up by receptor-mediated endocytosis. Within the cell, lysosomal degradation of the antibody releases the cytotoxic drug, which then exerts its effect and causes tumor cell cytotoxicity. Because the antibody selectively targets tumor antigens, healthy cells are relatively spared, increasing efficacy and reducing toxicity.",
+  "explanation_incorrect": {
+    "A": "The antibody component does not intercalate into DNA; intercalation is a mechanism of anthracyclines and dactinomycin.",
+    "B": "Complement-mediated lysis is a mechanism of some naked antibodies (eg, rituximab) but is not how the conjugated cytotoxic drug is delivered and released.",
+    "C": "Topoisomerase II inhibition is the mechanism of etoposide and anthracyclines, not a function of the antibody's tumor targeting.",
+    "E": "The cytotoxic payload is not released by passive diffusion across membranes; it requires antibody binding, endocytosis, and lysosomal processing."
+  },
+  "educationalObjective": "ADCs bind tumor antigens, undergo receptor-mediated endocytosis and lysosomal degradation, then release the cytotoxic drug intracellularly.",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Antibody-drug conjugates"
+},
+{
+  "id": "onc-373",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Antibody-drug conjugates",
+  "difficulty": "hard",
+  "vignette": "A 46-year-old woman with metastatic breast cancer has tumors that overexpress HER2. Her oncologist selects an antibody-drug conjugate rather than a plain anti-HER2 antibody because the conjugated agent delivers a cytotoxic emtansine payload directly to the tumor cells. The medical student is asked to identify the specific drug the patient is receiving.",
+  "question": "Which of the following is the classic example of an antibody-drug conjugate used for HER2-positive breast cancer?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Ado-trastuzumab emtansine (T-DM1)"
+    },
+    {
+      "id": "B",
+      "text": "Rituximab"
+    },
+    {
+      "id": "C",
+      "text": "Trastuzumab alone"
+    },
+    {
+      "id": "D",
+      "text": "Bevacizumab"
+    },
+    {
+      "id": "E",
+      "text": "Cetuximab"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Ado-trastuzumab emtansine (T-DM1) is the prototypic antibody-drug conjugate, consisting of the anti-HER2 monoclonal antibody trastuzumab linked to the cytotoxic drug emtansine (DM1). It is used for HER2-positive breast cancer. The antibody component targets HER2-overexpressing tumor cells, delivering the cytotoxic agent selectively and thereby improving efficacy while reducing systemic toxicity.",
+  "explanation_incorrect": {
+    "B": "Rituximab is a naked monoclonal antibody against CD20 used in B-cell lymphomas; it is not linked to a cytotoxic drug.",
+    "C": "Trastuzumab alone is a plain anti-HER2 antibody without a conjugated cytotoxic payload, so it is not an antibody-drug conjugate.",
+    "D": "Bevacizumab is a monoclonal antibody against VEGF used in several cancers; it is not a drug conjugate and does not target HER2.",
+    "E": "Cetuximab is a monoclonal antibody against EGFR used in head/neck and colorectal cancers, and is not an antibody-drug conjugate."
+  },
+  "educationalObjective": "Ado-trastuzumab emtansine (T-DM1) is the classic antibody-drug conjugate, combining anti-HER2 antibody with cytotoxic emtansine for HER2-positive breast cancer.",
+  "source": "Generated from 10. Oncology.pdf - Pharmacology: Antibody-drug conjugates"
+}
+]

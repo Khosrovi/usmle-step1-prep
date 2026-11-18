@@ -1,0 +1,166 @@
+[
+{
+  "id": "onc-311",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Leukemoid reaction vs CML",
+  "difficulty": "medium",
+  "vignette": "A 45-year-old man is admitted with severe bacterial pneumonia. CBC shows WBC 58,000/mm3 with neutrophils showing toxic granulation, Döhle bodies, and cytoplasmic vacuoles. The LAP score is elevated, eosinophil and basophil counts are normal, and BCR-ABL is absent.",
+  "question": "Which of the following best describes this patient's leukocytosis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Chronic myelogenous leukemia"
+    },
+    {
+      "id": "B",
+      "text": "Acute myelogenous leukemia"
+    },
+    {
+      "id": "C",
+      "text": "Acute lymphoblastic leukemia"
+    },
+    {
+      "id": "D",
+      "text": "Leukemoid reaction"
+    },
+    {
+      "id": "E",
+      "text": "Essential thrombocythemia"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "A leukemoid reaction is a reactive neutrophilia exceeding 50,000 cells/mm3, typically triggered by severe infection. Neutrophils show toxic granulation, Döhle bodies, and cytoplasmic vacuoles; the LAP score is increased, and eosinophils and basophils remain normal. Absence of BCR-ABL excludes CML.",
+  "explanation_incorrect": {
+    "A": "CML is a clonal BCR-ABL-positive neoplasm with basophilia, pseudo-Pelger-Huët cells, and a low LAP score, not toxic granulation with a high LAP.",
+    "B": "AML presents with myeloblasts and Auer rods, not a mature neutrophilia with toxic changes and a high LAP.",
+    "C": "ALL presents with lymphoblasts and TdT positivity, not a neutrophil-predominant reactive leukocytosis.",
+    "E": "Essential thrombocythemia is defined by thrombocytosis with normal WBCs, not a neutrophilia above 50,000."
+  },
+  "educationalObjective": "Leukemoid reaction is a reactive neutrophilia above 50,000 with toxic granulation, Döhle bodies, high LAP, and normal basophils.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Leukemoid reaction vs CML"
+},
+{
+  "id": "onc-312",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Leukemoid reaction vs CML",
+  "difficulty": "hard",
+  "vignette": "Two patients each have a WBC count above 50,000/mm3. One has a severe bacterial infection; the other has splenomegaly and an unexplained chronic granulocytosis. The clinicians want to distinguish a leukemoid reaction from CML.",
+  "question": "Which of the following findings most strongly favors CML over a leukemoid reaction?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Toxic granulation, Döhle bodies, and cytoplasmic vacuoles in neutrophils"
+    },
+    {
+      "id": "B",
+      "text": "Increased eosinophils and basophils with a decreased LAP score and pseudo-Pelger-Huët cells"
+    },
+    {
+      "id": "C",
+      "text": "A high LAP score with a recent severe bacterial infection"
+    },
+    {
+      "id": "D",
+      "text": "Normal eosinophil and basophil counts with a reactive trigger"
+    },
+    {
+      "id": "E",
+      "text": "A leukocytosis that resolves after treatment of the underlying infection"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "CML shows increased eosinophils and basophils, a decreased LAP score because the LAP enzyme is reduced in malignant neutrophils, and a pseudo-Pelger-Huët anomaly. A leukemoid reaction instead has toxic granulation, Döhle bodies, cytoplasmic vacuoles, high LAP, and normal eosinophil/basophil counts. BCR-ABL positivity confirms CML.",
+  "explanation_incorrect": {
+    "A": "Toxic granulation, Döhle bodies, and vacuoles are reactive changes of a leukemoid reaction, not CML.",
+    "C": "A high LAP score with an infectious trigger points to a leukemoid reaction; CML has a low LAP score.",
+    "D": "Normal eosinophils and basophils with a reactive trigger favor a leukemoid reaction over CML.",
+    "E": "Resolution after treating infection indicates a reactive process, whereas CML persists independent of infection."
+  },
+  "educationalObjective": "CML is distinguished from a leukemoid reaction by basophilia, low LAP, and pseudo-Pelger-Huët cells.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Leukemoid reaction vs CML"
+},
+{
+  "id": "onc-313",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Leukemoid reaction vs CML",
+  "difficulty": "easy",
+  "vignette": "A 30-year-old patient with severe pneumonia has a WBC count of 52,000/mm3 composed predominantly of mature neutrophils with toxic granulation. No BCR-ABL fusion is detected.",
+  "question": "Which of the following defines a leukemoid reaction?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Reactive neutrophilia exceeding 50,000 cells/mm3"
+    },
+    {
+      "id": "B",
+      "text": "Neutrophilia below 15,000 cells/mm3"
+    },
+    {
+      "id": "C",
+      "text": "A clonal BCR-ABL-positive myeloproliferative neoplasm"
+    },
+    {
+      "id": "D",
+      "text": "More than 20% circulating blasts in the peripheral blood"
+    },
+    {
+      "id": "E",
+      "text": "Isolated eosinophilia above 1,500 cells/mm3"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "A leukemoid reaction is defined as a reactive neutrophilia greater than 50,000 cells/mm3, usually due to severe infection or another inflammatory stimulus. It is a nonclonal process without BCR-ABL and is distinguished from CML by toxic granulation, high LAP, and normal basophil counts.",
+  "explanation_incorrect": {
+    "B": "A neutrophil count below 15,000 is not leukemoid; the reaction requires a count above 50,000.",
+    "C": "A BCR-ABL-positive clonal neoplasm is CML, which is the key alternative diagnosis to exclude.",
+    "D": "More than 20% blasts suggests acute leukemia or blast crisis, not a reactive neutrophilia.",
+    "E": "Isolated eosinophilia is a different finding and does not define a leukemoid reaction."
+  },
+  "educationalObjective": "A leukemoid reaction is a reactive neutrophilia above 50,000 cells/mm3.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Leukemoid reaction vs CML"
+},
+{
+  "id": "onc-314",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Leukemoid reaction vs CML",
+  "difficulty": "medium",
+  "vignette": "A patient with marked leukocytosis is being evaluated, and leukocyte alkaline phosphatase (LAP) staining is ordered to help distinguish CML from a leukemoid reaction.",
+  "question": "Which of the following statements about the LAP score is correct?",
+  "options": [
+    {
+      "id": "A",
+      "text": "LAP is elevated in CML and depressed in a leukemoid reaction"
+    },
+    {
+      "id": "B",
+      "text": "LAP is equally elevated in both CML and leukemoid reaction"
+    },
+    {
+      "id": "C",
+      "text": "LAP is normal in CML but elevated in a leukemoid reaction"
+    },
+    {
+      "id": "D",
+      "text": "LAP directly measures BCR-ABL tyrosine kinase activity"
+    },
+    {
+      "id": "E",
+      "text": "LAP is decreased in CML because malignant neutrophils have less LAP enzyme, and increased in a leukemoid reaction"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "The LAP score is decreased in CML because the LAP enzyme is reduced in malignant neutrophils, while it is increased in a leukemoid reaction. This, together with basophilia and pseudo-Pelger-Huët cells in CML versus toxic granulation in a leukemoid reaction, helps distinguish the two.",
+  "explanation_incorrect": {
+    "A": "The direction is reversed: LAP is low in CML and high in a leukemoid reaction.",
+    "B": "LAP is not equally elevated; CML shows a low score and leukemoid reaction a high score.",
+    "C": "LAP is reduced, not normal, in CML.",
+    "D": "LAP is a histochemical stain of neutrophil enzyme activity, not a direct assay of BCR-ABL kinase."
+  },
+  "educationalObjective": "LAP is low in CML and high in leukemoid reaction, reflecting reduced enzyme in malignant neutrophils.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Leukemoid reaction vs CML"
+}
+]

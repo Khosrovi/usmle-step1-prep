@@ -1,0 +1,248 @@
+[
+{
+  "id": "onc-124",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Lead poisoning and sideroblastic anemia",
+  "difficulty": "easy",
+  "vignette": "A 4-year-old who lives in a house built in 1960 is evaluated for anemia and abdominal pain. Laboratory testing shows decreased heme synthesis and increased RBC protoporphyrin. The clinician suspects lead poisoning and reviews the enzymatic basis of the findings.",
+  "question": "Which enzymatic inhibition best explains these laboratory findings?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Feedback inhibition of ALA synthase by heme"
+    },
+    {
+      "id": "B",
+      "text": "Deficiency of vitamin B6 as a cofactor for ALA synthase"
+    },
+    {
+      "id": "C",
+      "text": "Inhibition of ferrochelatase and ALA dehydratase"
+    },
+    {
+      "id": "D",
+      "text": "Defective UMP synthase in pyrimidine synthesis"
+    },
+    {
+      "id": "E",
+      "text": "Autoimmune destruction of gastric parietal cells"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Lead inhibits ferrochelatase, which inserts iron into protoporphyrin to form heme, and ALA dehydratase, which condenses two ALA molecules in heme biosynthesis. The result is decreased heme synthesis with accumulation of RBC protoporphyrin. Lead also inhibits rRNA degradation, causing basophilic stippling. This combination of enzyme inhibitions is the signature mechanism of lead poisoning.",
+  "explanation_incorrect": {
+    "A": "Heme feedback inhibition of ALA synthase is a normal regulatory mechanism, not the toxic effect of lead.",
+    "B": "Vitamin B6 deficiency causes a reversible sideroblastic anemia but does not produce the lead-specific enzyme inhibition.",
+    "D": "UMP synthase deficiency causes orotic aciduria, a macrocytic anemia with orotic acid in urine.",
+    "E": "Parietal cell destruction causes pernicious anemia (B12 deficiency), not a microcytic anemia with elevated protoporphyrin."
+  },
+  "educationalObjective": "Lead inhibits ferrochelatase and ALA dehydratase, decreasing heme synthesis and raising RBC protoporphyrin.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Lead poisoning and sideroblastic anemia"
+},
+{
+  "id": "onc-125",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Lead poisoning and sideroblastic anemia",
+  "difficulty": "medium",
+  "vignette": "A 28-year-old battery factory worker has fatigue, abdominal colic, and new weakness of wrist extension. Peripheral smear shows RBCs containing coarse blue granules. Further testing confirms an elevated blood lead level.",
+  "question": "Which of the following best explains this smear finding?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Lead inhibits rRNA degradation, so RBCs retain aggregates of rRNA"
+    },
+    {
+      "id": "B",
+      "text": "Lead directly precipitates hemoglobin within RBCs"
+    },
+    {
+      "id": "C",
+      "text": "Iron-laden mitochondria accumulate around the nucleus"
+    },
+    {
+      "id": "D",
+      "text": "The patient has concurrent vitamin B12 deficiency"
+    },
+    {
+      "id": "E",
+      "text": "Antibodies coat RBCs and cause agglutination"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "The coarse blue granules are basophilic stippling, representing retained ribosomal RNA aggregates. Lead inhibits rRNA degradation, so RBCs fail to clear these aggregates during maturation. Basophilic stippling is one component of the LLEEAAD mnemonic for lead poisoning, along with lead lines, encephalopathy, abdominal colic, sideroblastic anemia, and wrist/foot drop.",
+  "explanation_incorrect": {
+    "B": "Lead does not precipitate hemoglobin; Heinz bodies result from oxidative denaturation as in G6PD deficiency.",
+    "C": "Iron-laden mitochondria encircling the nucleus describe ringed sideroblasts, the marrow hallmark of sideroblastic anemia.",
+    "D": "B12 deficiency causes macrocytosis and hypersegmented neutrophils rather than coarse basophilic granules.",
+    "E": "Antibody-coated RBCs produce autoimmune hemolytic anemia with spherocytes, not stippling."
+  },
+  "educationalObjective": "Basophilic stippling in lead poisoning results from inhibited rRNA degradation with retained ribosomal aggregates.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Lead poisoning and sideroblastic anemia"
+},
+{
+  "id": "onc-126",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Lead poisoning and sideroblastic anemia",
+  "difficulty": "easy",
+  "vignette": "A 5-year-old who chews paint chips from a home built before 1978 has irritability, abdominal pain, and new wrist drop. Examination shows a blue line along the gingivae. Radiographs of the legs show dense bands at the metaphyses of the long bones.",
+  "question": "Which diagnosis best fits this child?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Sideroblastic anemia due to an X-linked ALAS2 mutation"
+    },
+    {
+      "id": "B",
+      "text": "Iron deficiency anemia"
+    },
+    {
+      "id": "C",
+      "text": "Vitamin B6 deficiency"
+    },
+    {
+      "id": "D",
+      "text": "Lead poisoning"
+    },
+    {
+      "id": "E",
+      "text": "Orotic aciduria"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "This child has classic lead poisoning from ingestion of old lead-based paint. The gingival lead line (Burton line) and dense metaphyseal lead lines on radiography are pathognomonic features. Encephalopathy, abdominal colic, erythrocyte basophilic stippling, sideroblastic anemia, and wrist/foot drop complete the LLEEAAD mnemonic. Young children in pre-1978 housing are the classic exposure group.",
+  "explanation_incorrect": {
+    "A": "X-linked ALAS2 sideroblastic anemia would not cause gingival lead lines, encephalopathy, or wrist drop.",
+    "B": "Iron deficiency causes microcytic anemia without neurologic findings or radiographic lead lines.",
+    "C": "Vitamin B6 deficiency can cause sideroblastic anemia but not the gingival and metaphyseal lead lines described.",
+    "E": "Orotic aciduria presents in children with failure to thrive and megaloblastic anemia, not with lead lines."
+  },
+  "educationalObjective": "Lead poisoning in children from old paint produces gingival and metaphyseal lead lines, encephalopathy, colic, stippling, sideroblastic anemia, and wrist drop.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Lead poisoning and sideroblastic anemia"
+},
+{
+  "id": "onc-127",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Lead poisoning and sideroblastic anemia",
+  "difficulty": "medium",
+  "vignette": "A 3-year-old has a blood lead level of 58 µg/dL with encephalopathy, basophilic stippling, and sideroblastic anemia. The team must initiate therapy to remove lead from the body and prevent further neurologic injury.",
+  "question": "Which of the following is the most appropriate pharmacologic therapy?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Oral ferrous sulfate supplementation"
+    },
+    {
+      "id": "B",
+      "text": "Chelation with succimer, EDTA, or dimercaprol"
+    },
+    {
+      "id": "C",
+      "text": "High-dose vitamin B12 supplementation"
+    },
+    {
+      "id": "D",
+      "text": "Oral pyridoxine alone"
+    },
+    {
+      "id": "E",
+      "text": "Oral uridine triacetate"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Lead poisoning is treated with chelation using succimer, EDTA, or dimercaprol, which bind lead and promote its excretion. This is indicated for significant elevations, especially with encephalopathy. The source also emphasizes removing the child from the exposure environment. Chelation directly addresses the body burden of lead rather than only replacing a deficient nutrient.",
+  "explanation_incorrect": {
+    "A": "Iron supplementation does not chelate lead and can worsen oxidative injury in this setting.",
+    "C": "Vitamin B12 is not involved in lead toxicity; this is a heme synthesis defect, not a megaloblastic anemia.",
+    "D": "Pyridoxine can treat sideroblastic anemia but does not remove lead from the body.",
+    "E": "Uridine triacetate bypasses the defective UMP synthase in orotic aciduria, not lead poisoning."
+  },
+  "educationalObjective": "Symptomatic lead poisoning is treated with chelation therapy using succimer, EDTA, or dimercaprol.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Lead poisoning and sideroblastic anemia"
+},
+{
+  "id": "onc-128",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Lead poisoning and sideroblastic anemia",
+  "difficulty": "medium",
+  "vignette": "A 63-year-old man with chronic alcohol overuse has fatigue. CBC shows Hb 9.8 g/dL and MCV 70 fL. Iron studies show increased serum iron, normal TIBC, and increased ferritin. Bone marrow biopsy reveals ringed sideroblasts with Prussian blue–positive granules in mitochondria.",
+  "question": "Which diagnosis best fits these findings?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Iron deficiency anemia"
+    },
+    {
+      "id": "B",
+      "text": "Anemia of chronic disease"
+    },
+    {
+      "id": "C",
+      "text": "β-thalassemia minor"
+    },
+    {
+      "id": "D",
+      "text": "Sickle cell disease"
+    },
+    {
+      "id": "E",
+      "text": "Sideroblastic anemia"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Sideroblastic anemia shows increased serum iron, normal or decreased TIBC, and increased ferritin, reflecting iron that is delivered to marrow but cannot be incorporated into heme. Ringed sideroblasts with iron-laden mitochondria staining Prussian blue are the diagnostic hallmark. Alcohol is the most common reversible cause, and peripheral smear may show basophilic stippling. Some acquired variants can be normocytic or macrocytic.",
+  "explanation_incorrect": {
+    "A": "Iron deficiency shows low serum iron, high TIBC, and low ferritin, the opposite pattern.",
+    "B": "Anemia of chronic disease shows low iron, low TIBC, and high ferritin, without ringed sideroblasts.",
+    "C": "β-thalassemia minor has elevated HbA2 and normal iron studies, not ringed sideroblasts.",
+    "D": "Sickle cell disease is a hemolytic anemia with HbS, not a microcytic anemia with iron loading."
+  },
+  "educationalObjective": "Sideroblastic anemia is identified by ringed sideroblasts, increased iron and ferritin, and normal or decreased TIBC.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Lead poisoning and sideroblastic anemia"
+},
+{
+  "id": "onc-129",
+  "subject": "Oncology and Hematology",
+  "major_topic": "Pathology",
+  "subtopic": "Lead poisoning and sideroblastic anemia",
+  "difficulty": "hard",
+  "vignette": "A 45-year-old man has a microcytic anemia with increased ferritin and ringed sideroblasts on marrow examination. Genetic testing demonstrates an X-linked mutation in the ALA synthase gene. His physician discusses the pathophysiology and appropriate treatment.",
+  "question": "Which statement about this disorder and its management is correct?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It is most commonly an acquired myelodysplastic syndrome in young adults"
+    },
+    {
+      "id": "B",
+      "text": "It is treated with parenteral iron replacement"
+    },
+    {
+      "id": "C",
+      "text": "Pyridoxine (vitamin B6) is a cofactor for ALA synthase and is used in treatment"
+    },
+    {
+      "id": "D",
+      "text": "TIBC is typically elevated, distinguishing it from iron deficiency"
+    },
+    {
+      "id": "E",
+      "text": "It is caused by a β-globin splice-site mutation on chromosome 11"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Pyridoxine (vitamin B6) is the cofactor for ALA synthase, the enzyme defective in X-linked sideroblastic anemia, and is used in treatment. Sideroblastic anemia can be genetic (X-linked ALAS2), acquired (myelodysplastic syndromes), or reversible (alcohol most common, lead, B6 or copper deficiency, isoniazid, linezolid). Because iron is already increased, iron replacement is inappropriate. TIBC is normal or decreased rather than elevated.",
+  "explanation_incorrect": {
+    "A": "Myelodysplastic syndrome is an acquired cause of sideroblastic anemia, not the X-linked ALAS2 form described here.",
+    "B": "Iron is already increased and ringed sideroblasts reflect impaired utilization; giving iron would worsen overload.",
+    "D": "TIBC is normal or decreased in sideroblastic anemia, not elevated.",
+    "E": "A β-globin splice-site mutation causes β-thalassemia, not sideroblastic anemia."
+  },
+  "educationalObjective": "X-linked sideroblastic anemia involves defective ALA synthase and is treated with its cofactor pyridoxine.",
+  "source": "Generated from 10. Oncology.pdf - Pathology: Lead poisoning and sideroblastic anemia"
+}
+]
