@@ -1,0 +1,248 @@
+[
+{
+  "id": "gi-357",
+  "subject": "Gastrointestinal",
+  "major_topic": "Pharmacology",
+  "subtopic": "Anticonstipation drugs",
+  "difficulty": "easy",
+  "vignette": "A 27-year-old woman with mild, intermittent constipation wants to start an over-the-counter fiber supplement. She is advised to take a product containing methylcellulose or psyllium with plenty of water, and is warned that it may cause bloating initially.",
+  "question": "Which of the following laxatives acts as a soluble fiber that draws water into the gut lumen to form a viscous liquid that promotes peristalsis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Senna"
+    },
+    {
+      "id": "B",
+      "text": "Methylcellulose or psyllium"
+    },
+    {
+      "id": "C",
+      "text": "Lubiprostone"
+    },
+    {
+      "id": "D",
+      "text": "Tenapanor"
+    },
+    {
+      "id": "E",
+      "text": "Magnesium citrate"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Bulk-forming laxatives such as methylcellulose and psyllium are soluble fibers that draw water into the gut lumen, forming a viscous liquid that promotes peristalsis. Their main adverse effect is bloating, and they require adequate fluid intake.",
+  "explanation_incorrect": {
+    "A": "Senna is a stimulant laxative that acts by enteric nerve stimulation to produce colonic contraction, not by a bulk-forming fiber mechanism.",
+    "C": "Lubiprostone is a chloride channel activator that increases intestinal fluid secretion, not a soluble fiber.",
+    "D": "Tenapanor is an NHE3 inhibitor that reduces sodium absorption and increases luminal water, not a bulk-forming agent.",
+    "E": "Magnesium citrate is an osmotic laxative that provides an osmotic load to draw water into the lumen."
+  },
+  "educationalObjective": "Bulk-forming laxatives (methylcellulose, psyllium) are soluble fibers that draw water into the gut and can cause bloating.",
+  "source": "Generated from 9. Gastrointestinal.pdf - Pharmacology: Anticonstipation drugs"
+},
+{
+  "id": "gi-358",
+  "subject": "Gastrointestinal",
+  "major_topic": "Pharmacology",
+  "subtopic": "Anticonstipation drugs",
+  "difficulty": "medium",
+  "vignette": "A 36-year-old woman uses polyethylene glycol for occasional constipation and has also read about lactulose and magnesium citrate. She asks how these agents work and what adverse effects to expect with overuse.",
+  "question": "Osmotic laxatives such as lactulose, magnesium citrate, magnesium hydroxide, and polyethylene glycol work by which of the following mechanisms?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Stimulating enteric nerves to cause colonic contraction"
+    },
+    {
+      "id": "B",
+      "text": "Inhibiting the Na+/H+ exchanger in the intestinal lumen"
+    },
+    {
+      "id": "C",
+      "text": "Acting as chloride channel activators to increase fluid secretion"
+    },
+    {
+      "id": "D",
+      "text": "Activating guanylate cyclase-C to raise intracellular cGMP"
+    },
+    {
+      "id": "E",
+      "text": "Providing an osmotic load that draws water into the GI lumen"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Osmotic laxatives — lactulose, magnesium citrate, magnesium hydroxide, and polyethylene glycol — provide an osmotic load that draws water into the GI lumen, promoting bowel movements. Their adverse effects include diarrhea and dehydration, and they may be misused by patients with bulimia.",
+  "explanation_incorrect": {
+    "A": "Enteric nerve stimulation causing colonic contraction is the mechanism of stimulant laxatives such as bisacodyl and senna.",
+    "B": "Na+/H+ exchange inhibition is the mechanism of tenapanor, not of osmotic laxatives.",
+    "C": "Chloride channel activation is the mechanism of lubiprostone; osmotic laxatives instead retain water osmotically.",
+    "D": "Guanylate cyclase-C activation with increased cGMP is the mechanism of linaclotide and plecanatide."
+  },
+  "educationalObjective": "Osmotic laxatives provide an osmotic load that draws water into the gut; they can cause diarrhea and dehydration.",
+  "source": "Generated from 9. Gastrointestinal.pdf - Pharmacology: Anticonstipation drugs"
+},
+{
+  "id": "gi-359",
+  "subject": "Gastrointestinal",
+  "major_topic": "Pharmacology",
+  "subtopic": "Anticonstipation drugs",
+  "difficulty": "hard",
+  "vignette": "A 58-year-old man with decompensated cirrhosis has confusion, asterixis, and an elevated serum ammonia level. He is started on lactulose, and his mental status improves over the following days as his ammonia falls. His physician explains how the drug lowers ammonia.",
+  "question": "Lactulose treats hepatic encephalopathy because colonic bacteria degrade it to lactic and acetic acid, which:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Trap ammonia as NH4+ in the colon, promoting nitrogen excretion"
+    },
+    {
+      "id": "B",
+      "text": "Directly stimulate enteric peristalsis to evacuate the bowel"
+    },
+    {
+      "id": "C",
+      "text": "Increase hepatic urea cycle enzyme activity"
+    },
+    {
+      "id": "D",
+      "text": "Chelate ammonia in the small intestine before absorption"
+    },
+    {
+      "id": "E",
+      "text": "Increase bile acid secretion into the colon"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Gut microbiota degrade lactulose into metabolites such as lactic acid and acetic acid, which acidify the colonic contents. This promotes nitrogen excretion by trapping ammonia as NH4+ (ammonium), which cannot be absorbed, thereby lowering serum ammonia and improving hepatic encephalopathy.",
+  "explanation_incorrect": {
+    "B": "While lactulose's osmotic effect promotes bowel movements, its specific benefit in hepatic encephalopathy is ammonia trapping by bacterial acid metabolites.",
+    "C": "Lactulose does not increase hepatic urea cycle enzyme activity; it works within the colon on ammonia trapping.",
+    "D": "Lactulose is degraded by colonic bacteria rather than chelating ammonia in the small intestine.",
+    "E": "Increasing bile acid secretion is not the mechanism; the benefit comes from bacterial acid production and NH4+ trapping."
+  },
+  "educationalObjective": "Lactulose treats hepatic encephalopathy by bacterial conversion to lactic/acetic acid that traps ammonia as NH4+ in the colon.",
+  "source": "Generated from 9. Gastrointestinal.pdf - Pharmacology: Anticonstipation drugs"
+},
+{
+  "id": "gi-360",
+  "subject": "Gastrointestinal",
+  "major_topic": "Pharmacology",
+  "subtopic": "Anticonstipation drugs",
+  "difficulty": "easy",
+  "vignette": "A 44-year-old woman has occasional constipation that does not respond to fiber supplements. She is advised to try senna, an over-the-counter agent that produces a bowel movement within several hours by acting on the bowel wall directly.",
+  "question": "Stimulant laxatives such as bisacodyl and senna act by which of the following mechanisms?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Providing an osmotic load that draws water into the lumen"
+    },
+    {
+      "id": "B",
+      "text": "Surfactant action that lowers stool surface tension"
+    },
+    {
+      "id": "C",
+      "text": "Enteric nerve stimulation leading to colonic contraction"
+    },
+    {
+      "id": "D",
+      "text": "Activating guanylate cyclase-C to increase cGMP"
+    },
+    {
+      "id": "E",
+      "text": "Inhibiting the Na+/H+ exchanger to increase luminal water"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Stimulant laxatives such as bisacodyl and senna act by stimulating enteric nerves, leading to colonic contraction and a bowel movement. Their principal adverse effect is diarrhea, and they act more directly than bulk-forming or osmotic agents.",
+  "explanation_incorrect": {
+    "A": "Providing an osmotic load is the mechanism of osmotic laxatives such as polyethylene glycol and magnesium citrate.",
+    "B": "Lowering stool surface tension as a surfactant is the mechanism of the emollient docusate.",
+    "D": "Guanylate cyclase-C activation with cGMP increase is the mechanism of linaclotide and plecanatide.",
+    "E": "Na+/H+ exchange inhibition is the mechanism of tenapanor, not of stimulant laxatives."
+  },
+  "educationalObjective": "Stimulant laxatives (bisacodyl, senna) stimulate enteric nerves to cause colonic contraction and can cause diarrhea.",
+  "source": "Generated from 9. Gastrointestinal.pdf - Pharmacology: Anticonstipation drugs"
+},
+{
+  "id": "gi-361",
+  "subject": "Gastrointestinal",
+  "major_topic": "Pharmacology",
+  "subtopic": "Anticonstipation drugs",
+  "difficulty": "medium",
+  "vignette": "A 61-year-old man with hard, dry stools is prescribed an emollient agent to make the stool easier to pass. The medication is described as a surfactant that facilitates water penetration into the stool rather than stimulating the bowel or adding bulk.",
+  "question": "Docusate acts as an emollient laxative by which of the following mechanisms?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Acting as a chloride channel activator that increases intestinal fluid secretion"
+    },
+    {
+      "id": "B",
+      "text": "Activating guanylate cyclase-C to increase intracellular cGMP"
+    },
+    {
+      "id": "C",
+      "text": "Stimulating 5HT4 receptors on enteric nerves"
+    },
+    {
+      "id": "D",
+      "text": "Lowering stool surface tension as a surfactant, promoting water entry into stool"
+    },
+    {
+      "id": "E",
+      "text": "Inhibiting the Na+/H+ exchanger to increase luminal water"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Docusate is an emollient laxative: a surfactant that lowers stool surface tension, promoting water entry into the stool and making it softer and easier to pass. Its adverse effect is diarrhea, and it acts without directly stimulating enteric nerves or drawing an osmotic load.",
+  "explanation_incorrect": {
+    "A": "Chloride channel activation with increased intestinal fluid secretion is the mechanism of lubiprostone, not docusate.",
+    "B": "Guanylate cyclase-C activation raising cGMP is the mechanism of linaclotide and plecanatide.",
+    "C": "5HT4 agonism with enteric nerve stimulation is the mechanism of prucalopride.",
+    "E": "Na+/H+ exchange inhibition is the mechanism of tenapanor, which increases luminal water by a different route."
+  },
+  "educationalObjective": "Docusate is a surfactant emollient that lowers stool surface tension and promotes water entry into stool.",
+  "source": "Generated from 9. Gastrointestinal.pdf - Pharmacology: Anticonstipation drugs"
+},
+{
+  "id": "gi-362",
+  "subject": "Gastrointestinal",
+  "major_topic": "Pharmacology",
+  "subtopic": "Anticonstipation drugs",
+  "difficulty": "hard",
+  "vignette": "A 38-year-old woman with chronic constipation and significant abdominal bloating is prescribed linaclotide. She wants to understand how the drug works and what side effects to expect, since other patients in her support group use lubiprostone, prucalopride, and tenapanor.",
+  "question": "Linaclotide and plecanatide treat constipation by which of the following mechanisms?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Acting as chloride channel activators to increase intestinal fluid secretion"
+    },
+    {
+      "id": "B",
+      "text": "Activating guanylate cyclase-C to raise intracellular cGMP and increase fluid and electrolyte secretion; adverse effects include diarrhea, bloating, and flatulence"
+    },
+    {
+      "id": "C",
+      "text": "Acting as 5HT4 agonists to stimulate enteric nerves and peristalsis"
+    },
+    {
+      "id": "D",
+      "text": "Inhibiting the Na+/H+ exchanger to reduce sodium absorption and increase luminal water"
+    },
+    {
+      "id": "E",
+      "text": "Providing an osmotic load that draws water into the GI lumen"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Linaclotide and plecanatide are guanylate cyclase-C agonists: they activate intracellular cGMP signaling, increasing fluid and electrolyte secretion into the intestinal lumen. Their adverse effects include diarrhea, bloating, abdominal discomfort, and flatulence, matching this patient's concerns.",
+  "explanation_incorrect": {
+    "A": "Chloride channel activation increasing intestinal fluid secretion is the mechanism of lubiprostone, not linaclotide.",
+    "C": "5HT4 agonism with enteric nerve stimulation and increased peristalsis is the mechanism of prucalopride.",
+    "D": "Inhibition of the Na+/H+ exchanger (NHE3), reducing sodium absorption and increasing luminal water, is the mechanism of tenapanor.",
+    "E": "Providing an osmotic load is the mechanism of osmotic laxatives such as lactulose and polyethylene glycol."
+  },
+  "educationalObjective": "Linaclotide and plecanatide are guanylate cyclase-C agonists that raise cGMP, increasing intestinal fluid secretion; they cause diarrhea and bloating.",
+  "source": "Generated from 9. Gastrointestinal.pdf - Pharmacology: Anticonstipation drugs"
+}
+]

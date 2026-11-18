@@ -1,0 +1,207 @@
+[
+{
+  "id": "gi-095",
+  "subject": "Gastrointestinal",
+  "major_topic": "Physiology",
+  "subtopic": "Gastrointestinal secretory products",
+  "difficulty": "medium",
+  "vignette": "A 35-year-old man with a duodenal ulcer is being counseled about the factors that drive his gastric acid production. The physiology review emphasizes the three principal stimulatory signals acting on gastric parietal cells and the several inhibitory signals that normally restrain acid secretion.",
+  "question": "Which of the following sets correctly lists the substances that increase gastric acid secretion by parietal cells?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Somatostatin, GIP, and prostaglandin"
+    },
+    {
+      "id": "B",
+      "text": "Secretin and somatostatin"
+    },
+    {
+      "id": "C",
+      "text": "Prostaglandin and GIP"
+    },
+    {
+      "id": "D",
+      "text": "Somatostatin and secretin"
+    },
+    {
+      "id": "E",
+      "text": "Histamine, vagal stimulation (ACh), and gastrin"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Gastric acid is secreted by parietal cells, which lower stomach pH. Its secretion is increased by histamine, vagal stimulation via acetylcholine, and gastrin; these three signals act synergistically on the parietal cell. In contrast, somatostatin, GIP, prostaglandin, and secretin all decrease gastric acid secretion. Recognizing which signals stimulate versus inhibit acid is essential for understanding ulcer pathophysiology and the action of acid-suppressing drugs.",
+  "explanation_incorrect": {
+    "A": "Somatostatin, GIP, and prostaglandin are all inhibitors of parietal cell acid secretion, not stimulators.",
+    "B": "Both secretin and somatostatin reduce gastric acid secretion, so this set lists inhibitors rather than stimulators.",
+    "C": "Prostaglandin and GIP both inhibit gastric acid secretion; prostaglandin is gastroprotective precisely because it suppresses acid.",
+    "D": "Somatostatin and secretin are inhibitory signals for acid secretion and do not increase parietal cell output."
+  },
+  "educationalObjective": "Parietal cell acid secretion is stimulated by histamine, ACh (vagal), and gastrin, and inhibited by somatostatin, GIP, prostaglandin, and secretin.",
+  "source": "Generated from 9. Gastrointestinal.pdf - Physiology: Gastrointestinal secretory products"
+},
+{
+  "id": "gi-096",
+  "subject": "Gastrointestinal",
+  "major_topic": "Physiology",
+  "subtopic": "Gastrointestinal secretory products",
+  "difficulty": "easy",
+  "vignette": "A 58-year-old woman has pernicious anemia from autoimmune destruction of gastric parietal cells. She has difficulty absorbing vitamin B12 and requires lifelong supplementation. Her physician explains that a specific product normally secreted by these cells is required for B12 uptake in the terminal ileum.",
+  "question": "Which of the following secretory products is missing in this patient and required for vitamin B12 absorption?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Pepsin"
+    },
+    {
+      "id": "B",
+      "text": "Intrinsic factor"
+    },
+    {
+      "id": "C",
+      "text": "Gastric acid"
+    },
+    {
+      "id": "D",
+      "text": "Bicarbonate"
+    },
+    {
+      "id": "E",
+      "text": "Gastrin"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Intrinsic factor is a vitamin B12–binding protein secreted by gastric parietal cells. It is required for vitamin B12 uptake in the terminal ileum. Autoimmune destruction of parietal cells leads to chronic gastritis and pernicious anemia because both intrinsic factor and acid are lost, but the specific defect responsible for impaired B12 absorption is the absence of intrinsic factor. Pepsin is from chief cells, bicarbonate from mucosal and Brunner glands, and gastrin from G cells.",
+  "explanation_incorrect": {
+    "A": "Pepsin is a chief cell product involved in protein digestion and is not the B12-binding protein needed for terminal ileal uptake.",
+    "C": "Gastric acid is also lost with parietal cell destruction, but acid is not the carrier required for B12 absorption; intrinsic factor is.",
+    "D": "Bicarbonate neutralizes acid and is secreted by mucosal cells and Brunner glands, not parietal cells, and does not bind B12.",
+    "E": "Gastrin is a hormone from antral G cells that stimulates acid secretion; it is neither a parietal cell product nor a B12-binding protein."
+  },
+  "educationalObjective": "Parietal cells secrete intrinsic factor, a B12-binding protein required for vitamin B12 uptake in the terminal ileum; its loss causes pernicious anemia.",
+  "source": "Generated from 9. Gastrointestinal.pdf - Physiology: Gastrointestinal secretory products"
+},
+{
+  "id": "gi-097",
+  "subject": "Gastrointestinal",
+  "major_topic": "Physiology",
+  "subtopic": "Gastrointestinal secretory products",
+  "difficulty": "hard",
+  "vignette": "A 62-year-old man with long-standing autoimmune gastritis has near-absent gastric acid and reports early satiety and poor protein digestion. His physician explains that a proteolytic enzyme secreted in an inactive form by gastric chief cells normally requires an acidic environment to become active. In this patient, that activation step is impaired.",
+  "question": "Which of the following processes is most directly impaired by the loss of gastric acid in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Secretion of intrinsic factor by parietal cells"
+    },
+    {
+      "id": "B",
+      "text": "Bicarbonate secretion by duodenal Brunner glands"
+    },
+    {
+      "id": "C",
+      "text": "Vitamin B12 binding in the terminal ileum"
+    },
+    {
+      "id": "D",
+      "text": "Conversion of pepsinogen to pepsin by H+"
+    },
+    {
+      "id": "E",
+      "text": "Gastrin release from antral G cells"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Chief cells secrete pepsinogen, an inactive zymogen for protein digestion. In the presence of H+, pepsinogen is converted to the active enzyme pepsin. Pepsin secretion is also increased by vagal stimulation and local acid. In a patient with little or no gastric acid, this acid-dependent activation of pepsinogen is impaired, which explains the poor protein digestion. The other listed processes do not depend on gastric H+ for their activation.",
+  "explanation_incorrect": {
+    "A": "Intrinsic factor secretion by parietal cells is lost because the cells are destroyed in autoimmune gastritis, not because acid is absent; its secretion is not an acid-dependent activation step.",
+    "B": "Brunner glands secrete bicarbonate to neutralize acid; low acid would reduce the stimulus but is not the activation step that impairs protein digestion here.",
+    "C": "Vitamin B12 binding by intrinsic factor occurs in the terminal ileum and depends on intrinsic factor, not on gastric H+ converting a zymogen.",
+    "E": "Gastrin release from antral G cells is actually increased in achlorhydria because the negative feedback of low pH is removed, and it is not an acid-dependent zymogen activation."
+  },
+  "educationalObjective": "Chief cells secrete inactive pepsinogen, which requires gastric H+ for conversion to active pepsin; achlorhydria impairs this activation and protein digestion.",
+  "source": "Generated from 9. Gastrointestinal.pdf - Physiology: Gastrointestinal secretory products"
+},
+{
+  "id": "gi-098",
+  "subject": "Gastrointestinal",
+  "major_topic": "Physiology",
+  "subtopic": "Gastrointestinal secretory products",
+  "difficulty": "medium",
+  "vignette": "A physiologist examines how the duodenal mucosa protects itself from the acidic chyme delivered by the stomach. A bicarbonate-rich secretion from glands in the duodenal submucosa neutralizes the acid, and this secretion is trapped in a mucous layer covering the epithelium. Pancreatic and biliary secretion are stimulated by secretin in the same setting.",
+  "question": "Which of the following identifies the product and source responsible for this duodenal acid-neutralizing mucus?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Bicarbonate from Brunner glands and mucosal cells"
+    },
+    {
+      "id": "B",
+      "text": "Pepsin from gastric chief cells"
+    },
+    {
+      "id": "C",
+      "text": "Intrinsic factor from gastric parietal cells"
+    },
+    {
+      "id": "D",
+      "text": "Gastric acid from parietal cells"
+    },
+    {
+      "id": "E",
+      "text": "Gastrin from antral G cells"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Bicarbonate is secreted by mucosal cells of the stomach, duodenum, salivary glands, and pancreas, as well as by Brunner glands in the duodenum. It neutralizes acid and is trapped in mucus that covers the gastric and duodenal epithelium, providing a protective barrier. Pancreatic and biliary bicarbonate secretion is increased by secretin. This bladder of alkaline mucus is what protects the duodenal mucosa from acidic chyme in this scenario.",
+  "explanation_incorrect": {
+    "B": "Pepsin is a proteolytic enzyme from gastric chief cells that digests protein in the acidic stomach; it does not neutralize acid or form the protective mucus.",
+    "C": "Intrinsic factor is a parietal cell B12-binding protein and plays no role in neutralizing acid or forming the epithelial mucus barrier.",
+    "D": "Gastric acid from parietal cells lowers pH and is the very substance that must be neutralized, not the neutralizing product.",
+    "E": "Gastrin is an antral hormone that stimulates acid secretion; it does not neutralize acid and is not a component of the mucus barrier."
+  },
+  "educationalObjective": "Bicarbonate from mucosal cells and duodenal Brunner glands neutralizes acid, is trapped in epithelial mucus, and is augmented by secretin-stimulated pancreatic and biliary secretion.",
+  "source": "Generated from 9. Gastrointestinal.pdf - Physiology: Gastrointestinal secretory products"
+},
+{
+  "id": "gi-099",
+  "subject": "Gastrointestinal",
+  "major_topic": "Physiology",
+  "subtopic": "Gastrointestinal secretory products",
+  "difficulty": "medium",
+  "vignette": "A 49-year-old patient with autoimmune gastritis has pink, eosinophilic histology of the gastric mucosa with destruction of the parietal cells. As a result, she develops chronic gastritis and pernicious anemia. The physician reviews which parietal cell secretory products are deficient.",
+  "question": "Which of the following pairs of products is most directly lost as a result of parietal cell destruction?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Pepsin and bicarbonate"
+    },
+    {
+      "id": "B",
+      "text": "Gastrin and secretin"
+    },
+    {
+      "id": "C",
+      "text": "Gastric acid and intrinsic factor"
+    },
+    {
+      "id": "D",
+      "text": "Bicarbonate and pepsin"
+    },
+    {
+      "id": "E",
+      "text": "Intrinsic factor and pepsin"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Parietal cells of the stomach produce two key secretory products: gastric acid, which lowers stomach pH, and intrinsic factor, the vitamin B12–binding protein required for B12 uptake in the terminal ileum. Autoimmune destruction of parietal cells therefore causes achlorhydria and loss of intrinsic factor, producing chronic gastritis and pernicious anemia as described. Pepsin comes from chief cells, bicarbonate from mucosal cells and Brunner glands, and the hormones gastrin and secretin come from G and S cells respectively, so those are unaffected by parietal cell loss.",
+  "explanation_incorrect": {
+    "A": "Pepsin is secreted by chief cells and bicarbonate by mucosal and Brunner glands, so neither is a parietal cell product lost in this disease.",
+    "B": "Gastrin is from antral G cells and secretin from duodenal S cells; both are hormones from other cell types and are not lost with parietal cell destruction.",
+    "D": "Neither bicarbonate nor pepsin is produced by parietal cells; bicarbonate comes from mucosal/Brunner glands and pepsin from chief cells.",
+    "E": "Intrinsic factor is a parietal cell product, but pepsin is from chief cells, so this pair does not represent the products lost from parietal cell destruction."
+  },
+  "educationalObjective": "Parietal cells secrete gastric acid and intrinsic factor; their autoimmune destruction causes achlorhydria and pernicious anemia with chronic gastritis.",
+  "source": "Generated from 9. Gastrointestinal.pdf - Physiology: Gastrointestinal secretory products"
+}
+]

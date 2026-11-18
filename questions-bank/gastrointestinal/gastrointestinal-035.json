@@ -1,0 +1,207 @@
+[
+{
+  "id": "gi-038",
+  "subject": "Gastrointestinal",
+  "major_topic": "Anatomy",
+  "subtopic": "Gut wall layers and digestive tract histology",
+  "difficulty": "easy",
+  "vignette": "A pathology student is reviewing the layers of the gut wall, which are remembered by the mnemonic MSMS from the lumen outward.",
+  "question": "Which of the following lists the layers of the gut wall in the correct order from lumen outward?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Submucosa, mucosa, muscularis externa, serosa"
+    },
+    {
+      "id": "B",
+      "text": "Mucosa, muscularis externa, submucosa, serosa"
+    },
+    {
+      "id": "C",
+      "text": "Mucosa, submucosa, muscularis externa, serosa"
+    },
+    {
+      "id": "D",
+      "text": "Mucosa, submucosa, serosa, muscularis externa"
+    },
+    {
+      "id": "E",
+      "text": "Serosa, muscularis externa, submucosa, mucosa"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "From the lumen outward, the gut wall layers are mucosa, submucosa, muscularis externa, and serosa (or adventitia when retroperitoneal), remembered as MSMS. The mucosa itself consists of epithelium, lamina propria, and muscularis mucosa. The submucosa contains the Meissner plexus and vessels, while the muscularis externa contains the Auerbach (myenteric) plexus. This layering is essential for understanding the depth of injury.",
+  "explanation_incorrect": {
+    "A": "Submucosa does not lie inside the mucosa; the mucosa is the innermost layer.",
+    "B": "The submucosa lies between the mucosa and the muscularis externa, not outside it.",
+    "D": "The serosa is the outermost layer, not a layer between submucosa and muscularis.",
+    "E": "This lists the layers from outside to inside, the reverse of what was asked."
+  },
+  "educationalObjective": "The gut wall layers from inside to out are mucosa, submucosa, muscularis externa, serosa/adventitia (MSMS).",
+  "source": "Generated from 9. Gastrointestinal.pdf - Anatomy: Gut wall layers and digestive tract histology"
+},
+{
+  "id": "gi-039",
+  "subject": "Gastrointestinal",
+  "major_topic": "Anatomy",
+  "subtopic": "Gut wall layers and digestive tract histology",
+  "difficulty": "medium",
+  "vignette": "An endoscopy report describes a superficial gastric defect that does not extend beyond the muscularis mucosa. A separate biopsy from another patient shows a lesion penetrating into the muscularis externa.",
+  "question": "Which term correctly distinguishes a lesion confined to the mucosa from one that extends into the muscularis externa?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The superficial lesion is an erosion; the deeper lesion is an ulcer"
+    },
+    {
+      "id": "B",
+      "text": "Both lesions are erosions because neither reaches the serosa"
+    },
+    {
+      "id": "C",
+      "text": "The superficial lesion is an ulcer; the deeper lesion is an erosion"
+    },
+    {
+      "id": "D",
+      "text": "Both lesions are ulcers because both breach the epithelium"
+    },
+    {
+      "id": "E",
+      "text": "The superficial lesion involves the submucosa, making it an ulcer"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Erosions are superficial defects confined to the mucosa, whereas ulcers extend through the muscularis mucosa into the submucosa and may involve the inner or outer muscular layers. Thus a lesion reaching the muscularis externa qualifies as an ulcer. This distinction matters because ulcers can erode into vessels and cause bleeding or perforation. The depth is judged relative to the muscularis mucosa.",
+  "explanation_incorrect": {
+    "B": "An erosion is confined to the mucosa; a lesion reaching the muscularis externa is an ulcer, not an erosion.",
+    "C": "This reverses the definitions; erosions are mucosal-only and deeper lesions are ulcers.",
+    "D": "Breaching the epithelium alone does not define an ulcer; extension beyond the muscularis mucosa does.",
+    "E": "The superficial lesion is confined to the mucosa and therefore is an erosion, not an ulcer."
+  },
+  "educationalObjective": "Erosions are limited to the mucosa, while ulcers extend into the submucosa or muscularis layers.",
+  "source": "Generated from 9. Gastrointestinal.pdf - Anatomy: Gut wall layers and digestive tract histology"
+},
+{
+  "id": "gi-040",
+  "subject": "Gastrointestinal",
+  "major_topic": "Anatomy",
+  "subtopic": "Gut wall layers and digestive tract histology",
+  "difficulty": "hard",
+  "vignette": "A researcher studies the intrinsic innervation of the intestine. She identifies a nerve plexus within the submucosa that regulates secretion and blood flow, and a separate plexus between the muscle layers that governs motility.",
+  "question": "Which of the following correctly pairs each plexus with its layer and primary function?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Meissner plexus — muscularis externa, motility; Auerbach plexus — submucosa, secretion"
+    },
+    {
+      "id": "B",
+      "text": "Auerbach plexus — submucosa, secretion; Meissner plexus — muscularis externa, motility"
+    },
+    {
+      "id": "C",
+      "text": "Meissner plexus — mucosa, absorption; Auerbach plexus — serosa, secretion"
+    },
+    {
+      "id": "D",
+      "text": "Auerbach plexus — muscularis mucosa, secretion; Meissner plexus — muscularis externa, motility"
+    },
+    {
+      "id": "E",
+      "text": "Meissner plexus — submucosa, secretion; Auerbach plexus — muscularis externa, motility"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "The submucosal (Meissner) plexus lies in the submucosa and regulates secretion and local blood flow. The myenteric (Auerbach) plexus lies between the circular and longitudinal muscle layers of the muscularis externa and controls gastrointestinal motility. Loss of inhibitory neurons in the Auerbach plexus underlies achalasia. Remembering which plexus sits in which layer is fundamental to GI neuroanatomy.",
+  "explanation_incorrect": {
+    "A": "This reverses the layers; Meissner is in the submucosa and Auerbach in the muscularis externa.",
+    "B": "The plexuses are swapped; Auerbach is in the muscularis externa and Meissner in the submucosa.",
+    "C": "Meissner is not in the mucosa and Auerbach is not in the serosa.",
+    "D": "Auerbach plexus is in the muscularis externa, not the muscularis mucosa."
+  },
+  "educationalObjective": "Meissner plexus is submucosal (secretion); Auerbach plexus is in the muscularis externa (motility).",
+  "source": "Generated from 9. Gastrointestinal.pdf - Anatomy: Gut wall layers and digestive tract histology"
+},
+{
+  "id": "gi-041",
+  "subject": "Gastrointestinal",
+  "major_topic": "Anatomy",
+  "subtopic": "Gut wall layers and digestive tract histology",
+  "difficulty": "hard",
+  "vignette": "A physiology researcher records slow-wave activity from different regions of the gastrointestinal tract and finds that the frequency of the basal electric rhythm differs by location.",
+  "question": "Which of the following correctly ranks the frequency of the basal electric rhythm (slow waves) from highest to lowest?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Stomach > ileum > duodenum"
+    },
+    {
+      "id": "B",
+      "text": "Duodenum > ileum > stomach"
+    },
+    {
+      "id": "C",
+      "text": "Ileum > duodenum > stomach"
+    },
+    {
+      "id": "D",
+      "text": "Stomach > duodenum > ileum"
+    },
+    {
+      "id": "E",
+      "text": "Duodenum > stomach > ileum"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "The basal electric rhythm, or slow waves, originates in the interstitial cells of Cajal and has the highest frequency in the duodenum, followed by the ileum, and the lowest in the stomach. This gradient underlies the characteristic contractile frequencies of different GI segments. The interstitial cells of Cajal act as the pacemakers of the gut. This is a classic physiology fact often tested alongside the layers of the gut wall.",
+  "explanation_incorrect": {
+    "A": "This is the reverse; the stomach has the slowest rhythm, not the fastest.",
+    "C": "The duodenum, not the ileum, has the highest slow-wave frequency.",
+    "D": "The stomach has the lowest frequency, not the highest.",
+    "E": "The ileum has a higher frequency than the stomach, so the stomach should be last."
+  },
+  "educationalObjective": "Slow-wave frequency follows duodenum > ileum > stomach, generated by interstitial cells of Cajal.",
+  "source": "Generated from 9. Gastrointestinal.pdf - Anatomy: Gut wall layers and digestive tract histology"
+},
+{
+  "id": "gi-042",
+  "subject": "Gastrointestinal",
+  "major_topic": "Anatomy",
+  "subtopic": "Gut wall layers and digestive tract histology",
+  "difficulty": "easy",
+  "vignette": "A histology slide shows the outer layer of a portion of intestine that lies within the peritoneal cavity. A second slide shows the outer layer of a retroperitoneal portion of the tract.",
+  "question": "Which outer layer is expected on the intraperitoneal versus the retroperitoneal specimen?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Adventitia on the intraperitoneal specimen; serosa on the retroperitoneal specimen"
+    },
+    {
+      "id": "B",
+      "text": "Muscularis mucosa on both specimens"
+    },
+    {
+      "id": "C",
+      "text": "Serosa on both specimens"
+    },
+    {
+      "id": "D",
+      "text": "Serosa on the intraperitoneal specimen; adventitia on the retroperitoneal specimen"
+    },
+    {
+      "id": "E",
+      "text": "Lamina propria on the intraperitoneal specimen; serosa on the retroperitoneal specimen"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Intraperitoneal portions of the gut are covered externally by serosa (visceral peritoneum), while retroperitoneal portions are covered by adventitia (connective tissue). This corresponds to whether the structure is invested by peritoneum. The change from serosa to adventitia occurs where the peritoneum reflects away, for example along the retroperitoneal duodenum and colon. This ties the histology directly to the SAD PUCKER anatomy.",
+  "explanation_incorrect": {
+    "A": "This reverses the two; serosa covers intraperitoneal organs.",
+    "B": "Muscularis mucosa is part of the mucosa, not the outer layer of the gut wall.",
+    "C": "Retroperitoneal structures have adventitia rather than serosa.",
+    "E": "Lamina propria lies within the mucosa, not the outer covering."
+  },
+  "educationalObjective": "Intraperitoneal gut has an outer serosa; retroperitoneal gut has adventitia.",
+  "source": "Generated from 9. Gastrointestinal.pdf - Anatomy: Gut wall layers and digestive tract histology"
+}
+]

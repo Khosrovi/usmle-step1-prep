@@ -1,0 +1,207 @@
+[
+{
+  "id": "gi-145",
+  "subject": "Gastrointestinal",
+  "major_topic": "Pathology",
+  "subtopic": "Gastritis and H pylori",
+  "difficulty": "medium",
+  "vignette": "A 72-year-old woman with rheumatoid arthritis takes a nonsteroidal anti-inflammatory drug daily. She develops epigastric pain and is found to have multiple superficial gastric erosions on endoscopy.",
+  "question": "Which of the following best explains the mechanism of her gastric erosions?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Hypovolemia and mucosal ischemia after severe burns"
+    },
+    {
+      "id": "B",
+      "text": "Increased vagal stimulation and acid secretion after brain injury"
+    },
+    {
+      "id": "C",
+      "text": "Autoantibodies against parietal cells and intrinsic factor"
+    },
+    {
+      "id": "D",
+      "text": "Infection with Helicobacter pylori in the gastric antrum"
+    },
+    {
+      "id": "E",
+      "text": "NSAID-mediated reduction of PGE2 and loss of mucosal protection"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "NSAIDs cause acute erosive gastritis by inhibiting cyclooxygenase and reducing prostaglandin E2 (PGE2), which normally maintains the gastric mucosal protective barrier and mucus secretion. Loss of this protection makes the mucosa vulnerable to acid injury, producing superficial erosions and epigastric pain. This is especially common in patients who take daily NSAIDs, such as for rheumatoid arthritis, and in those with alcohol use disorder.",
+  "explanation_incorrect": {
+    "A": "Burn-associated mucosal ischemia produces a Curling ulcer due to hypovolemia, not the prostaglandin depletion caused by NSAIDs.",
+    "B": "Increased vagal acetylcholine and acid secretion after brain injury cause a Cushing ulcer, a distinct stress-ulcer mechanism.",
+    "C": "Autoantibodies to H+/K+-ATPase and intrinsic factor cause autoimmune (pernicious) gastritis with vitamin B12 deficiency, not acute erosions from NSAIDs.",
+    "D": "H pylori is the most common cause of gastritis and is associated with peptic ulcer disease and MALT lymphoma, but the mechanism here is NSAID-induced PGE2 suppression."
+  },
+  "educationalObjective": "NSAIDs cause acute erosive gastritis by inhibiting cyclooxygenase and reducing PGE2, which normally maintains the gastric mucosal protective barrier.",
+  "source": "Generated from 9. Gastrointestinal.pdf - Pathology: Gastritis and H pylori"
+},
+{
+  "id": "gi-146",
+  "subject": "Gastrointestinal",
+  "major_topic": "Pathology",
+  "subtopic": "Gastritis and H pylori",
+  "difficulty": "easy",
+  "vignette": "A 34-year-old man is hospitalized after sustaining severe burns over 40% of his body surface area. On hospital day 3 he develops upper GI bleeding, and endoscopy shows shallow gastric erosions.",
+  "question": "Which of the following is the most likely diagnosis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Cushing ulcer"
+    },
+    {
+      "id": "B",
+      "text": "NSAID-induced gastritis"
+    },
+    {
+      "id": "C",
+      "text": "Curling ulcer"
+    },
+    {
+      "id": "D",
+      "text": "Autoimmune gastritis"
+    },
+    {
+      "id": "E",
+      "text": "H pylori gastritis"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "A Curling ulcer is an acute gastric erosion that develops in patients with severe burns. The mechanism is hypovolemia leading to reduced splanchnic perfusion and mucosal ischemia, which breaks down the gastric mucosal barrier. This is one of the acute erosive gastropathies and is a classic stress-ulcer association tested alongside Cushing ulcers after brain injury.",
+  "explanation_incorrect": {
+    "A": "A Cushing ulcer follows brain injury from increased vagal stimulation and acid secretion, not from burns and hypovolemia.",
+    "B": "NSAID-induced gastritis results from reduced PGE2 and mucosal protection in patients taking these drugs, not from burn-related ischemia.",
+    "D": "Autoimmune gastritis involves T-cell antibodies against parietal cells and intrinsic factor with pernicious anemia, not acute stress erosions.",
+    "E": "H pylori gastritis is a chronic infection beginning in the antrum and is associated with peptic ulcer disease and MALT lymphoma, not acute burn stress."
+  },
+  "educationalObjective": "Curling ulcers are acute gastric erosions due to hypovolemia and mucosal ischemia in patients with severe burns.",
+  "source": "Generated from 9. Gastrointestinal.pdf - Pathology: Gastritis and H pylori"
+},
+{
+  "id": "gi-147",
+  "subject": "Gastrointestinal",
+  "major_topic": "Pathology",
+  "subtopic": "Gastritis and H pylori",
+  "difficulty": "hard",
+  "vignette": "A 28-year-old woman sustains a severe traumatic brain injury and requires mechanical ventilation. Shortly afterward she develops gastric erosions and upper GI bleeding. She has no burns and no history of NSAID use.",
+  "question": "Which of the following best explains the pathogenesis of her gastric lesions?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Hypovolemia and splanchnic ischemia from extensive burns"
+    },
+    {
+      "id": "B",
+      "text": "Direct mucosal injury from cyclooxygenase inhibition"
+    },
+    {
+      "id": "C",
+      "text": "Helicobacter pylori colonization of the gastric antrum"
+    },
+    {
+      "id": "D",
+      "text": "Increased vagal stimulation with increased acetylcholine and gastric acid production"
+    },
+    {
+      "id": "E",
+      "text": "Autoimmune destruction of acid-secreting parietal cells"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "A Cushing ulcer develops after brain injury because of increased vagal stimulation, which raises acetylcholine and gastric acid (H+) production, leading to acute gastric erosions. This contrasts with the Curling ulcer of burns, in which hypovolemia and mucosal ischemia are the mechanism. The absence of burns, NSAID use, or infection in this patient with a brain injury makes vagally mediated acid hypersecretion the correct explanation.",
+  "explanation_incorrect": {
+    "A": "Burn-related hypovolemia and mucosal ischemia cause a Curling ulcer; this patient has a brain injury, not burns.",
+    "B": "Cyclooxygenase inhibition by NSAIDs reduces PGE2 and mucosal protection; she has no NSAID exposure.",
+    "C": "H pylori is a chronic antral-predominant infection linked to peptic ulcer disease and MALT lymphoma, not an acute stress ulcer after head trauma.",
+    "E": "Autoimmune parietal cell destruction (with anti-intrinsic factor antibodies) causes pernicious anemia and body/fundus atrophy, not acute stress-related erosions."
+  },
+  "educationalObjective": "Cushing ulcers arise after brain injury from increased vagal (acetylcholine) stimulation driving gastric acid secretion; this differs from the ischemic Curling ulcer of burns.",
+  "source": "Generated from 9. Gastrointestinal.pdf - Pathology: Gastritis and H pylori"
+},
+{
+  "id": "gi-148",
+  "subject": "Gastrointestinal",
+  "major_topic": "Pathology",
+  "subtopic": "Gastritis and H pylori",
+  "difficulty": "easy",
+  "vignette": "A 50-year-old woman presents with fatigue and is found to have a macrocytic anemia. Workup shows a low vitamin B12 level, and endoscopy reveals atrophy of the body and fundus of the stomach. Serology is positive for antibodies against parietal cells and intrinsic factor.",
+  "question": "Which of the following is the most likely diagnosis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "H pylori gastritis"
+    },
+    {
+      "id": "B",
+      "text": "Autoimmune gastritis"
+    },
+    {
+      "id": "C",
+      "text": "NSAID-induced erosive gastritis"
+    },
+    {
+      "id": "D",
+      "text": "Curling ulcer"
+    },
+    {
+      "id": "E",
+      "text": "Cushing ulcer"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Autoimmune gastritis is a T-cell–mediated disease with autoantibodies against the H+/K+-ATPase on parietal cells and against intrinsic factor. It predominantly affects the body and fundus of the stomach, causing loss of acid secretion and impaired vitamin B12 absorption. The result is pernicious anemia with macrocytosis, matching this patient's presentation and serology.",
+  "explanation_incorrect": {
+    "A": "H pylori is the most common gastritis, begins in the antrum before spreading to the body, and is associated with peptic ulcer disease and MALT lymphoma; it is not defined by antiparietal or anti-intrinsic factor antibodies.",
+    "C": "NSAID erosive gastritis is caused by reduced PGE2 and mucosal protection from daily NSAID use, not by autoantibodies to intrinsic factor.",
+    "D": "A Curling ulcer is an acute ischemic erosion after severe burns, not a chronic autoimmune atrophic gastritis with vitamin B12 deficiency.",
+    "E": "A Cushing ulcer results from increased vagal acid secretion after brain injury, not from T-cell–mediated autoimmunity against parietal cells."
+  },
+  "educationalObjective": "Autoimmune gastritis features T-cell–mediated antibodies against H+/K+-ATPase on parietal cells and against intrinsic factor, affects the body/fundus, and increases the risk of pernicious anemia.",
+  "source": "Generated from 9. Gastrointestinal.pdf - Pathology: Gastritis and H pylori"
+},
+{
+  "id": "gi-149",
+  "subject": "Gastrointestinal",
+  "major_topic": "Pathology",
+  "subtopic": "Gastritis and H pylori",
+  "difficulty": "medium",
+  "vignette": "A 61-year-old man has had chronic H pylori gastritis for many years. Follow-up biopsy shows loss of acid-secreting glands, reduced gastric acid output, and elevated serum gastrin, along with intestinal metaplasia.",
+  "question": "Which of the following best describes the sequence of changes in chronic gastritis and its principal consequence?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Mucosal atrophy causing hypochlorhydria with compensatory hypergastrinemia, intestinal metaplasia, and increased gastric cancer risk"
+    },
+    {
+      "id": "B",
+      "text": "Parietal cell hyperplasia causing hyperchlorhydria and decreased gastric cancer risk"
+    },
+    {
+      "id": "C",
+      "text": "Increased PGE2 production leading to thickened mucosa and ulcer healing"
+    },
+    {
+      "id": "D",
+      "text": "Dilated submucosal veins leading to portal hypertension and hematemesis"
+    },
+    {
+      "id": "E",
+      "text": "Loss of myenteric neurons leading to a hypertonic lower esophageal sphincter"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Chronic gastritis, most commonly from H pylori, can progress to mucosal atrophy with loss of parietal cells and hypochlorhydria. The low acid output triggers compensatory hypergastrinemia, and the mucosa undergoes intestinal metaplasia. This atrophic-metaplastic sequence increases the risk of gastric cancer, which is why H pylori is such an important risk factor. H pylori also raises the risk of peptic ulcer disease and MALT lymphoma.",
+  "explanation_incorrect": {
+    "B": "Chronic gastritis leads to loss of parietal cells and hypochlorhydria, not parietal cell hyperplasia with high acid output; hypergastrinemia is a compensatory response to low acid.",
+    "C": "Increased PGE2 would be gastroprotective; chronic gastritis instead involves mucosal injury and atrophy, and NSAIDs reduce rather than raise PGE2.",
+    "D": "Dilated submucosal veins are esophageal varices from portal hypertension, a separate consequence of cirrhosis, not a feature of chronic gastritis.",
+    "E": "Loss of myenteric inhibitory neurons with a hypertonic LES is achalasia, not a consequence of chronic gastritis."
+  },
+  "educationalObjective": "Chronic gastritis can progress to mucosal atrophy with hypochlorhydria and compensatory hypergastrinemia, plus intestinal metaplasia, increasing the risk of gastric cancer (especially with H pylori).",
+  "source": "Generated from 9. Gastrointestinal.pdf - Pathology: Gastritis and H pylori"
+}
+]

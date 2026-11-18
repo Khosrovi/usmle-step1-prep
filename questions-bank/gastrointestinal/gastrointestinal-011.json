@@ -1,0 +1,207 @@
+[
+{
+  "id": "gi-263",
+  "subject": "Gastrointestinal",
+  "major_topic": "Pathology",
+  "subtopic": "Autoimmune hepatitis and hepatic encephalopathy",
+  "difficulty": "medium",
+  "vignette": "A 32-year-old woman presents with fatigue, nausea, and pruritus. Laboratory studies show elevated ALT and AST. Liver biopsy shows a portal and periportal lymphoplasmacytic infiltrate.",
+  "question": "Which of the following autoantibodies is most likely to be positive?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Antimitochondrial antibodies associated with biliary disease"
+    },
+    {
+      "id": "B",
+      "text": "Anti-double-stranded DNA antibodies"
+    },
+    {
+      "id": "C",
+      "text": "Anti-tissue transglutaminase antibodies"
+    },
+    {
+      "id": "D",
+      "text": "Anti-smooth muscle or anti-liver/kidney microsomal-1 antibodies"
+    },
+    {
+      "id": "E",
+      "text": "Anti-acetylcholine receptor antibodies"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Autoimmune hepatitis is a chronic inflammatory liver disease that is more common in females; it may be asymptomatic or present with fatigue, nausea, and pruritus. It is often positive for anti-smooth muscle or anti-liver/kidney microsomal-1 (anti-LKM-1) antibodies. Labs show elevated ALT and AST, and histology shows a portal and periportal lymphoplasmacytic infiltrate.",
+  "explanation_incorrect": {
+    "A": "Antimitochondrial antibodies are associated with primary biliary cholangitis, not the chronic hepatitis described here.",
+    "B": "Anti-double-stranded DNA antibodies are associated with systemic lupus erythematosus, not this chronic hepatitis pattern.",
+    "C": "Anti-tissue transglutaminase antibodies are the serologic test for celiac disease.",
+    "E": "Anti-acetylcholine receptor antibodies are found in myasthenia gravis and are unrelated to liver disease."
+  },
+  "educationalObjective": "Autoimmune hepatitis: female predominance, anti-smooth muscle/anti-LKM-1 antibodies, elevated transaminases, and a periportal lymphoplasmacytic infiltrate.",
+  "source": "Generated from 9. Gastrointestinal.pdf - Pathology: Autoimmune hepatitis and hepatic encephalopathy"
+},
+{
+  "id": "gi-264",
+  "subject": "Gastrointestinal",
+  "major_topic": "Pathology",
+  "subtopic": "Autoimmune hepatitis and hepatic encephalopathy",
+  "difficulty": "easy",
+  "vignette": "A 62-year-old man with cirrhosis develops disorientation and a flapping tremor of the hands. There is no focal neurologic deficit.",
+  "question": "Which of the following best explains the reversible neuropsychiatric dysfunction in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Portosystemic shunting with decreased hepatic ammonia metabolism"
+    },
+    {
+      "id": "B",
+      "text": "Autoimmune destruction of neurons by anti-LKM-1 antibodies"
+    },
+    {
+      "id": "C",
+      "text": "Bacterial infection of ascitic fluid with an elevated neutrophil count"
+    },
+    {
+      "id": "D",
+      "text": "Microvesicular fatty liver caused by aspirin metabolites"
+    },
+    {
+      "id": "E",
+      "text": "Uncontrolled hepatic regeneration causing mass effect"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Cirrhosis leads to portosystemic shunts, which decrease hepatic metabolism of ammonia (NH3) and produce reversible neuropsychiatric dysfunction ranging from disorientation and asterixis to difficult arousal or coma. Triggers include increased NH3 production and absorption (GI bleed, constipation, infection) or decreased removal (renal failure, diuretics, bypassed hepatic blood flow after TIPS). Treatment is lactulose and rifaximin.",
+  "explanation_incorrect": {
+    "B": "Anti-LKM-1 antibodies are associated with autoimmune hepatitis, not the reversible hyperammonemic encephalopathy of cirrhosis.",
+    "C": "Spontaneous bacterial peritonitis can precipitate encephalopathy, but it is a trigger rather than the underlying mechanism of impaired ammonia metabolism.",
+    "D": "Reye syndrome is a childhood illness with aspirin-induced mitochondrial dysfunction, not shunting in adult cirrhosis.",
+    "E": "Regenerative nodules do not produce mass effect; the encephalopathy is metabolic and reversible."
+  },
+  "educationalObjective": "Hepatic encephalopathy results from portosystemic shunting and reduced ammonia metabolism, causing reversible disorientation, asterixis, and coma.",
+  "source": "Generated from 9. Gastrointestinal.pdf - Pathology: Autoimmune hepatitis and hepatic encephalopathy"
+},
+{
+  "id": "gi-265",
+  "subject": "Gastrointestinal",
+  "major_topic": "Pathology",
+  "subtopic": "Autoimmune hepatitis and hepatic encephalopathy",
+  "difficulty": "hard",
+  "vignette": "A 58-year-old woman with cirrhosis and previously well-controlled hepatic encephalopathy is admitted with melena. Over the next 2 days she becomes increasingly somnolent and develops asterixis.",
+  "question": "Which of the following best explains the acute deterioration?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A fall in portal pressure reducing collateral blood flow"
+    },
+    {
+      "id": "B",
+      "text": "Lactulose therapy trapping NH4+ in the colon"
+    },
+    {
+      "id": "C",
+      "text": "Increased ammonia production and absorption from the gastrointestinal bleed"
+    },
+    {
+      "id": "D",
+      "text": "Rifaximin suppressing ammonia-producing gut bacteria"
+    },
+    {
+      "id": "E",
+      "text": "Improved hepatic synthetic function after transfusion"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Gastrointestinal bleeding is a classic precipitant of hepatic encephalopathy because blood in the gut increases ammonia production and absorption. Other triggers of increased NH3 production and absorption include constipation and infection, while decreased removal occurs with renal failure, diuretics, and bypassed hepatic blood flow after TIPS. Management includes lactulose and rifaximin along with treatment of the precipitating trigger.",
+  "explanation_incorrect": {
+    "A": "A fall in portal pressure would not precipitate hyperammonemia; TIPS can trigger encephalopathy precisely because it bypasses hepatic blood flow.",
+    "B": "Lactulose is therapeutic, increasing NH4+ generation and trapping to lower ammonia, not a cause of deterioration.",
+    "D": "Rifaximin reduces ammonia-producing gut bacteria and would improve rather than worsen encephalopathy.",
+    "E": "Improved synthetic function would not cause somnolence; the acute change is driven by ammonia generated from the bleed."
+  },
+  "educationalObjective": "A GI bleed precipitates hepatic encephalopathy by increasing ammonia production and absorption.",
+  "source": "Generated from 9. Gastrointestinal.pdf - Pathology: Autoimmune hepatitis and hepatic encephalopathy"
+},
+{
+  "id": "gi-266",
+  "subject": "Gastrointestinal",
+  "major_topic": "Pathology",
+  "subtopic": "Autoimmune hepatitis and hepatic encephalopathy",
+  "difficulty": "medium",
+  "vignette": "A 64-year-old man with cirrhosis presents with confusion and asterixis. He is started on lactulose and rifaximin.",
+  "question": "Which of the following correctly states the mechanisms of these two therapies?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Lactulose kills ammonia-producing bacteria; rifaximin traps NH4+ in the colon"
+    },
+    {
+      "id": "B",
+      "text": "Both drugs increase hepatic blood flow through the portal vein"
+    },
+    {
+      "id": "C",
+      "text": "Lactulose increases hepatic urea synthesis; rifaximin replaces clotting factors"
+    },
+    {
+      "id": "D",
+      "text": "Both drugs act by reducing portal pressure and preventing variceal bleeding"
+    },
+    {
+      "id": "E",
+      "text": "Lactulose increases NH4+ generation and trapping; rifaximin decreases ammonia-producing gut bacteria"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Lactulose increases NH4+ generation, trapping ammonia in the colon as the poorly absorbed ammonium ion, while rifaximin decreases ammonia-producing gut bacteria. Together they lower ammonia in hepatic encephalopathy. The underlying problem is cirrhosis with portosystemic shunts and decreased NH3 metabolism, producing reversible neuropsychiatric dysfunction.",
+  "explanation_incorrect": {
+    "A": "The mechanisms are reversed: lactulose traps NH4+, whereas rifaximin is an antibiotic that reduces ammonia-producing bacteria.",
+    "B": "Neither drug increases portal flow; the pathophysiology involves blood being shunted away from the liver.",
+    "C": "Neither drug increases urea synthesis nor replaces clotting factors; those are unrelated to ammonia control.",
+    "D": "Lowering portal pressure is not their mechanism, and TIPS can worsen encephalopathy by bypassing hepatic blood flow."
+  },
+  "educationalObjective": "Lactulose traps NH4+ and rifaximin reduces ammonia-producing gut bacteria in hepatic encephalopathy.",
+  "source": "Generated from 9. Gastrointestinal.pdf - Pathology: Autoimmune hepatitis and hepatic encephalopathy"
+},
+{
+  "id": "gi-267",
+  "subject": "Gastrointestinal",
+  "major_topic": "Pathology",
+  "subtopic": "Autoimmune hepatitis and hepatic encephalopathy",
+  "difficulty": "hard",
+  "vignette": "A 60-year-old woman with cirrhosis undergoes placement of a transjugular intrahepatic portosystemic shunt (TIPS) for refractory ascites. Two weeks later she develops new disorientation and asterixis.",
+  "question": "Which of the following best explains this complication?",
+  "options": [
+    {
+      "id": "A",
+      "text": "TIPS increases hepatic clearance of ammonia by directing more blood through the liver"
+    },
+    {
+      "id": "B",
+      "text": "Bypassed hepatic blood flow after TIPS decreases ammonia removal"
+    },
+    {
+      "id": "C",
+      "text": "TIPS causes microvesicular fatty liver from salicylate toxicity"
+    },
+    {
+      "id": "D",
+      "text": "TIPS produces an autoimmune periportal lymphoplasmacytic infiltrate"
+    },
+    {
+      "id": "E",
+      "text": "TIPS directly damages the substantia nigra, producing a tremor"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "TIPS creates a portosystemic shunt that bypasses hepatic blood flow, decreasing ammonia removal and predisposing to hepatic encephalopathy. Other triggers that reduce NH3 removal include renal failure and diuretics, while GI bleed, constipation, and infection increase NH3 production and absorption. The resulting encephalopathy is reversible and is treated with lactulose and rifaximin.",
+  "explanation_incorrect": {
+    "A": "TIPS bypasses rather than increases hepatic perfusion, so ammonia clearance falls rather than rises.",
+    "C": "Salicylate-induced microvesicular fatty liver is Reye syndrome, which is unrelated to TIPS placement.",
+    "D": "An autoimmune periportal lymphoplasmacytic infiltrate describes autoimmune hepatitis, not a procedural complication.",
+    "E": "TIPS does not directly injure the brain; asterixis reflects reversible metabolic encephalopathy, not substantia nigra damage."
+  },
+  "educationalObjective": "Post-TIPS encephalopathy results from bypassed hepatic blood flow decreasing ammonia removal.",
+  "source": "Generated from 9. Gastrointestinal.pdf - Pathology: Autoimmune hepatitis and hepatic encephalopathy"
+}
+]

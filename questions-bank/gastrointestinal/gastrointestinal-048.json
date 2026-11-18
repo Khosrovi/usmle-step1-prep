@@ -1,0 +1,125 @@
+[
+{
+  "id": "gi-229",
+  "subject": "Gastrointestinal",
+  "major_topic": "Pathology",
+  "subtopic": "Lynch syndrome",
+  "difficulty": "medium",
+  "vignette": "A 41-year-old woman with Lynch syndrome asks her physician about the cancers she is at increased risk for beyond colorectal cancer. She has a family history of early-onset colon cancer.",
+  "question": "Which additional cancers are associated with her condition?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Osteomas, CHRPE, and impacted teeth"
+    },
+    {
+      "id": "B",
+      "text": "Medulloblastoma and glioma"
+    },
+    {
+      "id": "C",
+      "text": "Endometrial, ovarian, and skin cancers"
+    },
+    {
+      "id": "D",
+      "text": "Pancreatic and breast cancers with mucocutaneous pigmentation"
+    },
+    {
+      "id": "E",
+      "text": "Duodenal, ovarian, and bladder cancers"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Lynch syndrome (hereditary nonpolyposis colorectal cancer) is associated with Endometrial, Ovarian, and Skin cancers in addition to colorectal cancer, captured by the mnemonic Merrill Lynch has CEOS. These tumors reflect the widespread mismatch repair defect causing microsatellite instability across multiple tissues.",
+  "explanation_incorrect": {
+    "A": "Osteomas, CHRPE, and impacted teeth are features of Gardner syndrome (a form of FAP), not Lynch syndrome.",
+    "B": "Medulloblastoma and glioma characterize Turcot syndrome, not the extracolonic cancer association of Lynch syndrome.",
+    "D": "Mucocutaneous pigmentation with breast and GI cancers including pancreatic cancer is Peutz-Jeghers syndrome, not the CEOS triad.",
+    "E": "Duodenal adenomas with ovarian and bladder cancers are associated with MUTYH-associated polyposis, not Lynch syndrome."
+  },
+  "educationalObjective": "Lynch syndrome carries the CEOS association: colorectal cancer plus endometrial, ovarian, and skin cancers.",
+  "source": "Generated from 9. Gastrointestinal.pdf - Pathology: Lynch syndrome"
+},
+{
+  "id": "gi-230",
+  "subject": "Gastrointestinal",
+  "major_topic": "Pathology",
+  "subtopic": "Lynch syndrome",
+  "difficulty": "hard",
+  "vignette": "A 35-year-old man from a family with early-onset proximal colon cancer undergoes genetic testing that shows a germline mutation in MSH2. Tumor DNA exhibits microsatellite instability.",
+  "question": "Which molecular mechanism best explains this patient's cancer predisposition?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A defect in DNA mismatch repair leading to microsatellite instability"
+    },
+    {
+      "id": "B",
+      "text": "Loss of APC with chromosomal instability and KRAS mutation"
+    },
+    {
+      "id": "C",
+      "text": "CpG island methylator phenotype with BRAF mutation"
+    },
+    {
+      "id": "D",
+      "text": "A defect in homologous recombination repair"
+    },
+    {
+      "id": "E",
+      "text": "COX-2 overexpression with NSAID-responsive inflammation"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Lynch syndrome results from autosomal dominant mutations in mismatch repair genes such as MLH1 and MSH2, producing microsatellite instability. This is the microsatellite instability pathway, distinct from chromosomal instability. The proximal colon is always involved, and about 80% of patients progress to colorectal cancer.",
+  "explanation_incorrect": {
+    "B": "APC loss with KRAS mutation drives the chromosomal instability adenoma-carcinoma sequence seen in FAP and left-sided sporadic CRC, not MSH2-related microsatellite instability.",
+    "C": "CpG island methylator phenotype with MLH1 silencing and BRAF mutations occurs in serrated polyps and sporadic right-sided CRC, not a germline MSH2 mutation.",
+    "D": "Homologous recombination repair defects such as BRCA are not the mechanism in Lynch syndrome, which is a mismatch repair disorder.",
+    "E": "COX-2 overexpression is linked to CRC and NSAIDs may be chemopreventive, but it is not the germline defect responsible for Lynch syndrome."
+  },
+  "educationalObjective": "Lynch syndrome is caused by germline mismatch repair gene (MLH1/MSH2) mutations that produce microsatellite instability.",
+  "source": "Generated from 9. Gastrointestinal.pdf - Pathology: Lynch syndrome"
+},
+{
+  "id": "gi-231",
+  "subject": "Gastrointestinal",
+  "major_topic": "Pathology",
+  "subtopic": "Lynch syndrome",
+  "difficulty": "easy",
+  "vignette": "A 44-year-old woman with a family history of colon and endometrial cancer is diagnosed with Lynch syndrome.",
+  "question": "Which part of the colon is characteristically always involved in this syndrome?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Rectum only"
+    },
+    {
+      "id": "B",
+      "text": "Descending colon"
+    },
+    {
+      "id": "C",
+      "text": "Sigmoid colon"
+    },
+    {
+      "id": "D",
+      "text": "Proximal colon"
+    },
+    {
+      "id": "E",
+      "text": "Transverse colon only"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "In Lynch syndrome the proximal colon is always involved, and approximately 80% of patients progress to colorectal cancer. This right-sided predominance is a hallmark of hereditary nonpolyposis colorectal cancer and contrasts with left-sided sporadic tumors.",
+  "explanation_incorrect": {
+    "A": "The rectum is the site always involved in FAP, not Lynch syndrome, which favors the proximal colon.",
+    "B": "The descending colon is a left-sided site more typical of the chromosomal instability pathway rather than the characteristic proximal Lynch location.",
+    "C": "The rectosigmoid is the most common site of sporadic CRC overall and produces the left-sided obstruction/hematochezia pattern, not the proximal Lynch pattern.",
+    "E": "Transverse colon only is too limited a description; the proximal (right) colon as a whole is the region characteristically involved."
+  },
+  "educationalObjective": "Lynch syndrome characteristically involves the proximal colon with an approximately 80% risk of colorectal cancer.",
+  "source": "Generated from 9. Gastrointestinal.pdf - Pathology: Lynch syndrome"
+}
+]

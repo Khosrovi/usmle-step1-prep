@@ -1,0 +1,166 @@
+[
+{
+  "id": "gi-325",
+  "subject": "Gastrointestinal",
+  "major_topic": "Pharmacology",
+  "subtopic": "Acid suppression therapy and parietal cell signaling",
+  "difficulty": "medium",
+  "vignette": "A 45-year-old man with a duodenal ulcer is evaluated for acid hypersecretion. Investigators isolate gastric parietal cells and observe that a mediator released from nearby enterochromaffin-like cells rapidly increases intracellular cAMP and acid output. They wish to identify the receptor and G-protein responsible for this effect.",
+  "question": "Histamine-stimulated acid secretion by parietal cells is mediated by which of the following signaling pathways?",
+  "options": [
+    {
+      "id": "A",
+      "text": "M3 muscarinic receptor coupled to Gq and IP3/Ca2+"
+    },
+    {
+      "id": "B",
+      "text": "H2 receptor coupled to Gi, lowering intracellular cAMP"
+    },
+    {
+      "id": "C",
+      "text": "H2 receptor coupled to Gs, raising intracellular cAMP"
+    },
+    {
+      "id": "D",
+      "text": "CCKB receptor coupled to Gs, raising intracellular cAMP"
+    },
+    {
+      "id": "E",
+      "text": "H2 receptor coupled to Gq, raising IP3/Ca2+"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Histamine released from ECL cells binds H2 receptors on parietal cells, which are Gs-coupled; activation of adenylyl cyclase raises cAMP and drives acid secretion. This is the pathway blocked by H2 blockers. It is distinct from the Gq/IP3-Ca2+ pathways used by acetylcholine (M3) and gastrin (CCKB).",
+  "explanation_incorrect": {
+    "A": "Acetylcholine acting at M3 muscarinic receptors signals through Gq and IP3/Ca2+; that is a separate parietal-cell pathway, not the histamine H2 receptor pathway being tested.",
+    "B": "The H2 receptor is Gs-coupled and raises cAMP; it is not Gi-coupled, and lowering cAMP would reduce rather than stimulate acid secretion.",
+    "D": "Gastrin signals through CCKB receptors coupled to Gq/IP3-Ca2+, not Gs; this pairing misstates the gastrin pathway.",
+    "E": "The H2 receptor couples to Gs to increase cAMP; it does not signal through Gq/IP3-Ca2+."
+  },
+  "educationalObjective": "Histamine stimulates parietal cells through H2 receptors coupled to Gs, increasing cAMP and acid secretion.",
+  "source": "Generated from 9. Gastrointestinal.pdf - Pharmacology: Acid suppression therapy and parietal cell signaling"
+},
+{
+  "id": "gi-326",
+  "subject": "Gastrointestinal",
+  "major_topic": "Pharmacology",
+  "subtopic": "Acid suppression therapy and parietal cell signaling",
+  "difficulty": "medium",
+  "vignette": "A 33-year-old woman with a history of vagal nerve stimulation undergoes physiologic testing. Vagal efferents release acetylcholine onto gastric parietal cells, producing a rapid rise in intracellular calcium and acid secretion that is not blocked by H2 antagonists.",
+  "question": "Acetylcholine acting at M3 receptors on parietal cells increases acid secretion primarily through which second-messenger system?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Gq-mediated IP3 generation and increased intracellular Ca2+"
+    },
+    {
+      "id": "B",
+      "text": "Gs-mediated increase in intracellular cAMP"
+    },
+    {
+      "id": "C",
+      "text": "Gi-mediated decrease in intracellular cAMP"
+    },
+    {
+      "id": "D",
+      "text": "Guanylyl cyclase–mediated cGMP generation"
+    },
+    {
+      "id": "E",
+      "text": "JAK-STAT–mediated gene transcription"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Acetylcholine from vagal endings acts on M3 muscarinic receptors, which are Gq-coupled. Gq activates phospholipase C, generating IP3, which raises intracellular Ca2+ and stimulates acid secretion. This calcium pathway is distinct from the histamine H2/Gs/cAMP pathway.",
+  "explanation_incorrect": {
+    "B": "Gs-coupled cAMP generation is the histamine H2 receptor pathway; M3 muscarinic receptors signal through Gq/IP3-Ca2+ instead.",
+    "C": "Gi-coupled receptors decrease cAMP; M3 receptors are Gq-coupled and increase intracellular calcium rather than lowering cAMP.",
+    "D": "Guanylyl cyclase/cGMP signaling is not the second messenger used by M3 receptors on parietal cells.",
+    "E": "M3 receptors are G-protein-coupled receptors that use IP3/Ca2+; they do not signal through the JAK-STAT transcription pathway."
+  },
+  "educationalObjective": "Vagal acetylcholine stimulates acid secretion through M3 receptors coupled to Gq and IP3/Ca2+.",
+  "source": "Generated from 9. Gastrointestinal.pdf - Pharmacology: Acid suppression therapy and parietal cell signaling"
+},
+{
+  "id": "gi-327",
+  "subject": "Gastrointestinal",
+  "major_topic": "Pharmacology",
+  "subtopic": "Acid suppression therapy and parietal cell signaling",
+  "difficulty": "hard",
+  "vignette": "A pharmacology researcher blocks histamine H2, muscarinic M3, and gastrin CCKB receptors simultaneously in an isolated stomach preparation, yet a baseline of acid secretion persists. She concludes that each upstream stimulus converges on a common final transporter that must be targeted directly to abolish acid output.",
+  "question": "Which of the following is the final common step of gastric acid secretion in parietal cells?",
+  "options": [
+    {
+      "id": "A",
+      "text": "H2 receptor–mediated cAMP generation"
+    },
+    {
+      "id": "B",
+      "text": "Carbonic anhydrase conversion of CO2 and H2O into H2CO3"
+    },
+    {
+      "id": "C",
+      "text": "CCKB receptor–mediated calcium influx"
+    },
+    {
+      "id": "D",
+      "text": "H+/K+-ATPase exchange of H+ for K+ at the apical membrane"
+    },
+    {
+      "id": "E",
+      "text": "Basolateral Cl−/HCO3− exchange"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Histamine, acetylcholine, and gastrin all converge on the apical H+/K+-ATPase (proton pump), which exchanges H+ for K+ and is the final common step of acid secretion. Carbonic anhydrase supplies the H+ and bicarbonate, but the ATPase is the target that can be inhibited directly and irreversibly by proton pump inhibitors.",
+  "explanation_incorrect": {
+    "A": "H2 receptor cAMP generation is one upstream stimulatory input; blocking it would not eliminate acid secretion driven by the other convergent pathways.",
+    "B": "Carbonic anhydrase generates H+ from CO2 and H2O and supplies substrate, but it is not the transporter that performs the final acid-secretion step.",
+    "C": "CCKB receptor signaling via calcium is another upstream input from gastrin, not the final common transporter.",
+    "E": "The basolateral Cl−/HCO3− exchanger mediates bicarbonate exit (the alkaline tide) rather than the apical acid-secretion step."
+  },
+  "educationalObjective": "The H+/K+-ATPase is the final common step of acid secretion and the target of proton pump inhibitors.",
+  "source": "Generated from 9. Gastrointestinal.pdf - Pharmacology: Acid suppression therapy and parietal cell signaling"
+},
+{
+  "id": "gi-328",
+  "subject": "Gastrointestinal",
+  "major_topic": "Pharmacology",
+  "subtopic": "Acid suppression therapy and parietal cell signaling",
+  "difficulty": "easy",
+  "vignette": "A 24-year-old woman with bulimia has recurrent self-induced vomiting. Shortly after a large meal and a vomiting episode, an arterial blood gas shows a small, transient increase in pH that resolves within hours. Her physician attributes this to a normal consequence of gastric acid secretion.",
+  "question": "The transient increase in blood pH after gastric acid secretion (the 'alkaline tide') is best explained by which of the following?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Increased respiratory CO2 excretion from hyperventilation"
+    },
+    {
+      "id": "B",
+      "text": "Basolateral extrusion of HCO3− generated during acid production"
+    },
+    {
+      "id": "C",
+      "text": "Renal bicarbonate retention secondary to volume depletion"
+    },
+    {
+      "id": "D",
+      "text": "Direct absorption of alkaline food into the bloodstream"
+    },
+    {
+      "id": "E",
+      "text": "Shift of chloride into parietal cells in exchange for bicarbonate"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "As parietal cells secrete H+ into the lumen, carbonic anhydrase generates equal amounts of bicarbonate, which is extruded across the basolateral membrane into the blood. This transiently raises blood pH after meals or vomiting — the 'alkaline tide.' It mirrors the acid added to the gastric lumen.",
+  "explanation_incorrect": {
+    "A": "Hyperventilation causing respiratory alkalosis is not the mechanism; the alkaline tide results from bicarbonate generated endogenously by parietal cells.",
+    "C": "Renal bicarbonate retention from volume depletion is a separate, slower process; the immediate postprandial pH rise comes from bicarbonate released during acid secretion.",
+    "D": "Ingested alkaline food is not the cause; the pH rise is produced by the parietal cells' own acid-secretion machinery.",
+    "E": "A chloride shift accompanies acid secretion, but the rise in blood pH is due to basolateral HCO3− extrusion, not chloride influx."
+  },
+  "educationalObjective": "Bicarbonate extruded into blood during gastric acid secretion produces the postprandial alkaline tide.",
+  "source": "Generated from 9. Gastrointestinal.pdf - Pharmacology: Acid suppression therapy and parietal cell signaling"
+}
+]

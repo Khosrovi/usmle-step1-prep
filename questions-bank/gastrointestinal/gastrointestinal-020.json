@@ -1,0 +1,248 @@
+[
+{
+  "id": "gi-165",
+  "subject": "Gastrointestinal",
+  "major_topic": "Pathology",
+  "subtopic": "Celiac disease and malabsorption",
+  "difficulty": "medium",
+  "vignette": "A 7-year-old girl of northern European descent has 3 months of diarrhea, abdominal distention, and failure to gain weight. Stool is pale, greasy, and foul-smelling. She has a blistering rash on her elbows and knees. Laboratory studies show iron deficiency anemia.",
+  "question": "Which of the following is the most likely diagnosis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Tropical sprue"
+    },
+    {
+      "id": "B",
+      "text": "Celiac disease (gluten-sensitive enteropathy)"
+    },
+    {
+      "id": "C",
+      "text": "Lactose intolerance"
+    },
+    {
+      "id": "D",
+      "text": "Whipple disease"
+    },
+    {
+      "id": "E",
+      "text": "Pancreatic insufficiency from cystic fibrosis"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Celiac disease is an autoimmune-mediated intolerance of gliadin, a gluten protein in wheat, barley, and rye, and is associated with HLA-DQ2/HLA-DQ8 and northern European descent. It primarily affects the distal duodenum and proximal jejunum, producing malabsorption and steatorrhea with diarrhea, weight loss, and deficiencies such as iron deficiency anemia. Dermatitis herpetiformis is a classic associated blistering rash. The combination of steatorrhea, failure to thrive, iron deficiency, and a typical rash in a young child points to celiac disease.",
+  "explanation_incorrect": {
+    "A": "Tropical sprue has similar malabsorption but follows residence in or travel to the tropics and responds to antibiotics; the rash and ancestry favor celiac disease.",
+    "C": "Lactose intolerance causes osmotic diarrhea with normal villi and low stool pH, not steatorrhea, iron deficiency, or a blistering rash.",
+    "D": "Whipple disease is a Tropheryma whipplei infection with PAS-positive foamy macrophages, arthralgias, cardiac and neurologic symptoms, mostly in older males.",
+    "E": "Pancreatic insufficiency causes malabsorption with a normal D-xylose test and low fecal elastase, and lacks the dermatitis herpetiformis and iron deficiency pattern described."
+  },
+  "educationalObjective": "Celiac disease causes malabsorption and steatorrhea with dermatitis herpetiformis and iron deficiency, linked to gliadin and HLA-DQ2/8.",
+  "source": "Generated from 9. Gastrointestinal.pdf - Pathology: Celiac disease and malabsorption"
+},
+{
+  "id": "gi-166",
+  "subject": "Gastrointestinal",
+  "major_topic": "Pathology",
+  "subtopic": "Celiac disease and malabsorption",
+  "difficulty": "hard",
+  "vignette": "A 24-year-old woman with celiac disease has a duodenal biopsy showing villous atrophy and intraepithelial lymphocytosis. Research studies show that a gliadin peptide is modified before being presented to CD4+ T cells on HLA-DQ2 molecules, triggering IFN-gamma and IL-21 release.",
+  "question": "Which of the following best describes the molecular pathogenesis of celiac disease?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Gliadin directly binds HLA-DQ2 without any modification and activates B cells"
+    },
+    {
+      "id": "B",
+      "text": "Gastrin deamidates gliadin in the gastric lumen before it reaches the duodenum"
+    },
+    {
+      "id": "C",
+      "text": "Anti-endomysial antibodies deamidate gliadin and destroy villi directly"
+    },
+    {
+      "id": "D",
+      "text": "Tissue transglutaminase deamidates gliadin, which is presented to T cells via HLA-DQ2/DQ8"
+    },
+    {
+      "id": "E",
+      "text": "Lactase deficiency leads to gliadin accumulation and villous atrophy"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "In celiac disease, tissue transglutaminase (tTG) deamidates gliadin, increasing its affinity for HLA-DQ2 or HLA-DQ8 on antigen-presenting cells. The deamidated gliadin is presented to CD4+ T cells, which release IFN-gamma and IL-21 and drive villous atrophy and crypt hyperplasia. This also explains why anti-tTG and anti-deamidated gliadin antibodies are useful serologic markers. The autoimmune response is specifically directed against this modified gluten epitope.",
+  "explanation_incorrect": {
+    "A": "Gliadin requires deamidation by tTG before efficient presentation by HLA-DQ2/8; it does not simply bind unmodified and activate B cells.",
+    "B": "Gastrin is a gastric hormone that stimulates acid secretion and plays no role in gluten processing.",
+    "C": "Anti-endomysial antibodies are markers of disease (directed against tTG) but do not themselves deamidate gliadin or destroy villi.",
+    "E": "Lactase deficiency causes lactose intolerance, not the immune-mediated villous atrophy of celiac disease."
+  },
+  "educationalObjective": "Tissue transglutaminase deamidates gliadin for presentation to T cells via HLA-DQ2/8 in celiac disease.",
+  "source": "Generated from 9. Gastrointestinal.pdf - Pathology: Celiac disease and malabsorption"
+},
+{
+  "id": "gi-167",
+  "subject": "Gastrointestinal",
+  "major_topic": "Pathology",
+  "subtopic": "Celiac disease and malabsorption",
+  "difficulty": "easy",
+  "vignette": "A 9-year-old girl with chronic diarrhea and steatorrhea undergoes small bowel biopsy. Microscopy shows blunting and loss of villi, deepening of the crypts, and an increased number of lymphocytes within the surface epithelium.",
+  "question": "Which of the following histologic findings is characteristic of celiac disease?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Villous atrophy with crypt hyperplasia and intraepithelial lymphocytosis"
+    },
+    {
+      "id": "B",
+      "text": "Noncaseating granulomas with lymphoid aggregates in the lamina propria"
+    },
+    {
+      "id": "C",
+      "text": "PAS-positive foamy macrophages within the intestinal lamina propria"
+    },
+    {
+      "id": "D",
+      "text": "Normal villi with a thickened subepithelial collagen band"
+    },
+    {
+      "id": "E",
+      "text": "Transmural inflammation with fistula formation and cobblestone mucosa"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "The histologic hallmark of celiac disease is loss of villi (villous atrophy), crypt hyperplasia, and intraepithelial lymphocytosis. These changes result from the immune response to deamidated gliadin presented via HLA-DQ2/8 and correlate with the malabsorption and steatorrhea seen clinically. The finding of villous atrophy with crypt hyperplasia on biopsy, together with positive serology, supports the diagnosis. A gluten-free diet leads to histologic improvement.",
+  "explanation_incorrect": {
+    "B": "Noncaseating granulomas are typical of Crohn disease, not celiac disease.",
+    "C": "PAS-positive foamy macrophages in the lamina propria are characteristic of Whipple disease.",
+    "D": "A thickened subepithelial collagen band with lymphocytic infiltrate describes microscopic colitis, which causes chronic watery diarrhea with normal-appearing mucosa.",
+    "E": "Transmural inflammation with fistulas and cobblestone mucosa describes Crohn disease."
+  },
+  "educationalObjective": "Celiac disease shows villous atrophy, crypt hyperplasia, and intraepithelial lymphocytosis on small bowel biopsy.",
+  "source": "Generated from 9. Gastrointestinal.pdf - Pathology: Celiac disease and malabsorption"
+},
+{
+  "id": "gi-168",
+  "subject": "Gastrointestinal",
+  "major_topic": "Pathology",
+  "subtopic": "Celiac disease and malabsorption",
+  "difficulty": "medium",
+  "vignette": "A 31-year-old man with suspected celiac disease has blood tests performed before starting a gluten-free diet.",
+  "question": "Which of the following serologic markers is associated with celiac disease?",
+  "options": [
+    {
+      "id": "A",
+      "text": "IgA anti-parietal cell antibodies"
+    },
+    {
+      "id": "B",
+      "text": "Anti-Saccharomyces cerevisiae antibodies (ASCA)"
+    },
+    {
+      "id": "C",
+      "text": "IgA anti-tissue transglutaminase (anti-tTG) antibodies"
+    },
+    {
+      "id": "D",
+      "text": "Anti-nuclear antibodies (ANA)"
+    },
+    {
+      "id": "E",
+      "text": "p-ANCA (MPO-ANCA)"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Celiac disease serology is positive for IgA anti-tissue transglutaminase (anti-tTG), anti-endomysial, and anti-deamidated gliadin peptide antibodies. These reflect the autoimmune response to gliadin and the enzyme that deamidates it. Testing is most accurate while the patient is still consuming gluten. A positive result, together with compatible histology (villous atrophy, crypt hyperplasia, intraepithelial lymphocytosis), supports the diagnosis.",
+  "explanation_incorrect": {
+    "A": "Anti-parietal cell antibodies are associated with autoimmune gastritis and pernicious anemia, not celiac disease.",
+    "B": "ASCA is associated with Crohn disease, not celiac disease.",
+    "D": "ANA is a nonspecific autoantibody screen and is not a diagnostic marker for celiac disease.",
+    "E": "p-ANCA (MPO-ANCA) is associated with ulcerative colitis and certain vasculitides, not celiac disease."
+  },
+  "educationalObjective": "IgA anti-tTG, anti-endomysial, and anti-deamidated gliadin antibodies are the serologic hallmarks of celiac disease.",
+  "source": "Generated from 9. Gastrointestinal.pdf - Pathology: Celiac disease and malabsorption"
+},
+{
+  "id": "gi-169",
+  "subject": "Gastrointestinal",
+  "major_topic": "Pathology",
+  "subtopic": "Celiac disease and malabsorption",
+  "difficulty": "medium",
+  "vignette": "A 40-year-old woman with long-standing celiac disease has been noncompliant with a gluten-free diet. She has a recurrent itchy vesicular rash on her extremities and new fatigue. Laboratory testing shows iron deficiency anemia, and imaging shows reduced bone mineral density.",
+  "question": "Which of the following is an associated condition or complication in patients with celiac disease?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Increased bone density and hypercalcemia"
+    },
+    {
+      "id": "B",
+      "text": "Pernicious anemia due to intrinsic factor deficiency"
+    },
+    {
+      "id": "C",
+      "text": "Primary sclerosing cholangitis"
+    },
+    {
+      "id": "D",
+      "text": "Increased risk of colorectal cancer due to pancolitis"
+    },
+    {
+      "id": "E",
+      "text": "Moderately increased risk of malignancy, including T-cell lymphoma"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Celiac disease is associated with dermatitis herpetiformis, decreased bone density, iron deficiency anemia, and a moderately increased risk of malignancy, notably T-cell lymphoma. These associations reflect chronic immune activation and malabsorption. The patient's vesicular rash and iron deficiency fit the classic picture. A gluten-free diet is the mainstay of treatment and reduces the risk of complications.",
+  "explanation_incorrect": {
+    "A": "Celiac disease is associated with decreased, not increased, bone density due to calcium and vitamin D malabsorption.",
+    "B": "Pernicious anemia is due to autoimmune parietal cell destruction in autoimmune gastritis; celiac disease is associated with iron deficiency instead.",
+    "C": "Primary sclerosing cholangitis is associated with ulcerative colitis, not celiac disease.",
+    "D": "Increased colorectal cancer risk with pancolitis is a feature of ulcerative colitis; celiac disease has a modestly increased risk of T-cell lymphoma."
+  },
+  "educationalObjective": "Celiac disease is associated with dermatitis herpetiformis, decreased bone density, iron deficiency, and a modestly increased risk of T-cell lymphoma.",
+  "source": "Generated from 9. Gastrointestinal.pdf - Pathology: Celiac disease and malabsorption"
+},
+{
+  "id": "gi-170",
+  "subject": "Gastrointestinal",
+  "major_topic": "Pathology",
+  "subtopic": "Celiac disease and malabsorption",
+  "difficulty": "hard",
+  "vignette": "A 35-year-old man has steatorrhea and weight loss. A Sudan stain of stool is positive for fat, confirming malabsorption. His D-xylose test is abnormal, while fecal elastase and duodenal bicarbonate are normal.",
+  "question": "Which of the following best explains this patient's malabsorption pattern?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Pancreatic insufficiency from chronic pancreatitis, which produces an abnormal D-xylose test"
+    },
+    {
+      "id": "B",
+      "text": "A mucosal small bowel absorptive defect such as celiac disease, which produces an abnormal D-xylose test"
+    },
+    {
+      "id": "C",
+      "text": "Lactose intolerance, which produces a positive fecal fat stain and abnormal D-xylose"
+    },
+    {
+      "id": "D",
+      "text": "Celiac disease with normal D-xylose absorption and reduced fecal elastase"
+    },
+    {
+      "id": "E",
+      "text": "Bile acid deficiency from terminal ileal disease, which produces a normal fecal fat stain"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Malabsorption syndromes cause diarrhea, steatorrhea, weight loss, weakness, and deficiencies, and are screened for with fecal fat (eg, Sudan stain). D-xylose is absorbed by the small bowel mucosa without requiring pancreatic enzymes, so an abnormal D-xylose test indicates a mucosal absorptive defect such as celiac disease. In pancreatic insufficiency (chronic pancreatitis, cystic fibrosis, obstructing cancer), D-xylose is normal while fecal elastase and duodenal bicarbonate are reduced. This patient's abnormal D-xylose with normal pancreatic studies points to a small bowel mucosal process like celiac disease.",
+  "explanation_incorrect": {
+    "A": "Pancreatic insufficiency produces a normal D-xylose test with low fecal elastase and low duodenal bicarbonate, the opposite of this patient's results.",
+    "C": "Lactose intolerance causes osmotic diarrhea with a hydrogen breath test abnormality, not a positive fecal fat stain or abnormal D-xylose.",
+    "D": "Celiac disease produces an abnormal D-xylose test and does not reduce fecal elastase; reduced elastase indicates pancreatic insufficiency.",
+    "E": "Bile acid deficiency would not produce a normal fecal fat stain in the setting of steatorrhea, and D-xylose would be normal rather than abnormal."
+  },
+  "educationalObjective": "An abnormal D-xylose test with normal pancreatic studies indicates a small bowel mucosal malabsorption such as celiac disease.",
+  "source": "Generated from 9. Gastrointestinal.pdf - Pathology: Celiac disease and malabsorption"
+}
+]

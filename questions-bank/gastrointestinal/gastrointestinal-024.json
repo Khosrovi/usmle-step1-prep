@@ -1,0 +1,207 @@
+[
+{
+  "id": "gi-219",
+  "subject": "Gastrointestinal",
+  "major_topic": "Pathology",
+  "subtopic": "Colonic polyps",
+  "difficulty": "medium",
+  "vignette": "A 58-year-old woman undergoes screening colonoscopy and a 1-cm lesion is removed from the ascending colon. Histology shows crypts with a saw-tooth architecture. Molecular testing reveals CpG island methylation that has silenced a DNA mismatch repair gene, and a BRAF mutation is detected.",
+  "question": "Which of the following best characterizes this polyp?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A tubular adenoma driven by chromosomal instability"
+    },
+    {
+      "id": "B",
+      "text": "A hyperplastic polyp with no malignant potential"
+    },
+    {
+      "id": "C",
+      "text": "A serrated polyp that can lead to microsatellite instability"
+    },
+    {
+      "id": "D",
+      "text": "A hamartomatous polyp associated with Peutz-Jeghers syndrome"
+    },
+    {
+      "id": "E",
+      "text": "An inflammatory pseudopolyp from inflammatory bowel disease"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Serrated polyps are neoplastic lesions characterized by the CpG island methylator phenotype (CIMP). Methylation can silence a mismatch repair gene such as MLH1, leading to microsatellite instability and BRAF mutations. Biopsy shows a saw-tooth pattern of crypts, and these polyps account for up to 20% of sporadic colorectal cancers.",
+  "explanation_incorrect": {
+    "A": "Adenomatous polyps arise through the chromosomal instability pathway with APC and KRAS mutations; they lack saw-tooth crypts and CIMP.",
+    "B": "Hyperplastic polyps are small, common rectosigmoid lesions that are generally nonneoplastic and lack the CIMP, MLH1 silencing, and BRAF mutation described here.",
+    "D": "Hamartomatous polyps are growths of normal tissue with distorted architecture seen in Peutz-Jeghers or juvenile polyposis, not saw-tooth crypts with BRAF mutations.",
+    "E": "Inflammatory pseudopolyps result from mucosal erosion in inflammatory bowel disease and are not neoplastic or associated with MLH1 silencing."
+  },
+  "educationalObjective": "Serrated polyps use the CIMP pathway, can silence MLH1 to cause microsatellite instability, and show saw-tooth crypts on biopsy.",
+  "source": "Generated from 9. Gastrointestinal.pdf - Pathology: Colonic polyps"
+},
+{
+  "id": "gi-220",
+  "subject": "Gastrointestinal",
+  "major_topic": "Pathology",
+  "subtopic": "Colonic polyps",
+  "difficulty": "easy",
+  "vignette": "A 45-year-old man has a screening colonoscopy. Several tiny polyps are found predominantly in the rectosigmoid region. They are described as the most common type of colonic polyp and are generally small. Biopsy shows hyperplastic changes without dysplasia.",
+  "question": "Which type of colonic polyp is most likely present?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Hyperplastic polyp"
+    },
+    {
+      "id": "B",
+      "text": "Adenomatous polyp"
+    },
+    {
+      "id": "C",
+      "text": "Villous adenoma"
+    },
+    {
+      "id": "D",
+      "text": "Hamartomatous polyp"
+    },
+    {
+      "id": "E",
+      "text": "Serrated polyp"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Hyperplastic polyps are the most common colonic polyp. They are generally smaller and predominantly located in the rectosigmoid region. Although generally nonneoplastic, they can occasionally evolve into serrated polyps and more advanced lesions.",
+  "explanation_incorrect": {
+    "B": "Adenomatous polyps are neoplastic lesions driven by APC and KRAS mutations and are the precursors of the chromosomal instability pathway, not the most common small rectosigmoid polyp.",
+    "C": "Villous adenomas are neoplastic with high malignant potential (the villainous histology), not small common rectosigmoid lesions.",
+    "D": "Hamartomatous polyps are growths of normal tissue with distorted architecture associated with Peutz-Jeghers and juvenile polyposis.",
+    "E": "Serrated polyps are neoplastic CIMP lesions with saw-tooth crypts and BRAF mutations, not the most common small polyp."
+  },
+  "educationalObjective": "Hyperplastic polyps are the most common colonic polyp, favor the rectosigmoid, and are generally small and nonneoplastic.",
+  "source": "Generated from 9. Gastrointestinal.pdf - Pathology: Colonic polyps"
+},
+{
+  "id": "gi-221",
+  "subject": "Gastrointestinal",
+  "major_topic": "Pathology",
+  "subtopic": "Colonic polyps",
+  "difficulty": "medium",
+  "vignette": "A 62-year-old man has a 2.5-cm colonic polyp removed. Biopsy shows fingerlike projections, and he is told it has greater malignant potential than a tubular adenoma. Genetic analysis shows mutations in APC and KRAS.",
+  "question": "Which of the following is correct regarding this lesion?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Villous histology has less malignant potential than tubular histology"
+    },
+    {
+      "id": "B",
+      "text": "It arises via microsatellite instability from MLH1 silencing"
+    },
+    {
+      "id": "C",
+      "text": "Tubular histology is the most malignant pattern"
+    },
+    {
+      "id": "D",
+      "text": "Villous histology has greater malignant potential than tubular, with tubulovillous intermediate"
+    },
+    {
+      "id": "E",
+      "text": "It is a hamartomatous polyp with low malignant potential"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Adenomatous polyps are neoplastic via the chromosomal instability pathway with mutations in APC and KRAS. Villous histology carries greater malignant potential than tubular histology (villous histology is villainous), and tubulovillous histology is intermediate. These polyps are usually asymptomatic but may present with occult bleeding.",
+  "explanation_incorrect": {
+    "A": "Tubular histology has less malignant potential than villous histology; it is the villous pattern that is the high-risk one.",
+    "B": "Adenomatous polyps arise through chromosomal instability with APC and KRAS mutations, not microsatellite instability from MLH1 silencing (the serrated/Lynch pathway).",
+    "C": "Tubular histology has the least malignant potential of the adenomatous patterns; it is villous histology that is villainous.",
+    "E": "Hamartomatous polyps are nonneoplastic growths of normal tissue, not the adenomatous villous lesion described here."
+  },
+  "educationalObjective": "Adenomatous polyps arise via APC/KRAS chromosomal instability; malignant potential is villous greater than tubulovillous greater than tubular.",
+  "source": "Generated from 9. Gastrointestinal.pdf - Pathology: Colonic polyps"
+},
+{
+  "id": "gi-222",
+  "subject": "Gastrointestinal",
+  "major_topic": "Pathology",
+  "subtopic": "Colonic polyps",
+  "difficulty": "hard",
+  "vignette": "A 4-year-old child presents with numerous polyps in the colon, stomach, and small bowel. Family history shows an autosomal dominant pattern. There are no hyperpigmented macules on the lips, mouth, hands, or genitalia.",
+  "question": "Which of the following best describes these polyps?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Adenomatous polyps from APC mutation with 100% CRC risk without colectomy"
+    },
+    {
+      "id": "B",
+      "text": "Hamartomatous polyps associated with juvenile polyposis, with increased CRC risk"
+    },
+    {
+      "id": "C",
+      "text": "Serrated polyps with CIMP and BRAF mutations"
+    },
+    {
+      "id": "D",
+      "text": "Hyperplastic polyps with no malignant potential"
+    },
+    {
+      "id": "E",
+      "text": "Inflammatory pseudopolyps secondary to inflammatory bowel disease"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Juvenile polyposis is an autosomal dominant syndrome in children, typically under 5 years old, with numerous hamartomatous polyps in the colon, stomach, and small bowel and an increased risk of colorectal cancer. Hamartomatous polyps are growths of normal tissue with distorted architecture; although solitary hamartomas have little malignant risk, the syndromic form raises cancer risk. The absence of mucocutaneous hyperpigmentation argues against Peutz-Jeghers syndrome.",
+  "explanation_incorrect": {
+    "A": "FAP causes thousands of adenomatous polyps after puberty with near-100% CRC risk without colectomy; it is not a hamartomatous childhood syndrome.",
+    "C": "Serrated polyps are neoplastic CIMP lesions with saw-tooth crypts and BRAF mutations, not hamartomas in a young child.",
+    "D": "Hyperplastic polyps are small, common rectosigmoid lesions with generally no malignant potential, not numerous hamartomas throughout the GI tract.",
+    "E": "Inflammatory pseudopolyps arise from mucosal erosion in inflammatory bowel disease and are neither hamartomatous nor familial."
+  },
+  "educationalObjective": "Juvenile polyposis is an AD hamartomatous polyposis syndrome of young children with increased CRC risk, distinguished from Peutz-Jeghers by the lack of mucocutaneous pigmentation.",
+  "source": "Generated from 9. Gastrointestinal.pdf - Pathology: Colonic polyps"
+},
+{
+  "id": "gi-223",
+  "subject": "Gastrointestinal",
+  "major_topic": "Pathology",
+  "subtopic": "Colonic polyps",
+  "difficulty": "medium",
+  "vignette": "A 34-year-old woman with long-standing ulcerative colitis undergoes colonoscopy. Multiple small polypoid lesions are seen arising in areas of prior mucosal erosion and active inflammation.",
+  "question": "Which type of polyp are these most likely to be?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Submucosal lipomas"
+    },
+    {
+      "id": "B",
+      "text": "Hamartomatous polyps"
+    },
+    {
+      "id": "C",
+      "text": "Mucosal polyps smaller than 5 mm"
+    },
+    {
+      "id": "D",
+      "text": "Adenomatous polyps"
+    },
+    {
+      "id": "E",
+      "text": "Inflammatory pseudopolyps due to mucosal erosion in IBD"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Inflammatory pseudopolyps result from mucosal erosion in inflammatory bowel disease, where regenerating mucosa forms polypoid lesions amid inflammation and ulceration. They are nonneoplastic and are a characteristic finding in active IBD rather than a true neoplastic polyp.",
+  "explanation_incorrect": {
+    "A": "Submucosal polyps include lipomas, leiomyomas, and fibromas; they arise beneath the mucosa, not from erosions in inflammatory bowel disease.",
+    "B": "Hamartomatous polyps are growths of normal tissue with distorted architecture seen in Peutz-Jeghers or juvenile polyposis, not lesions due to IBD erosions.",
+    "C": "Mucosal polyps are small (usually under 5 mm), resemble normal mucosa, and are clinically insignificant; they are not the erosive lesions of IBD.",
+    "D": "Adenomatous polyps are neoplastic lesions driven by APC and KRAS and are not a direct consequence of mucosal erosion in IBD."
+  },
+  "educationalObjective": "Inflammatory pseudopolyps are nonneoplastic polypoid lesions caused by mucosal erosion in inflammatory bowel disease.",
+  "source": "Generated from 9. Gastrointestinal.pdf - Pathology: Colonic polyps"
+}
+]

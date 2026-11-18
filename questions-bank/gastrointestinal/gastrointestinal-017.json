@@ -1,0 +1,166 @@
+[
+{
+  "id": "gi-116",
+  "subject": "Gastrointestinal",
+  "major_topic": "Physiology",
+  "subtopic": "Bilirubin metabolism",
+  "difficulty": "easy",
+  "vignette": "A researcher incubates senescent red blood cells with macrophages and observes the sequential appearance of two pigments in the culture: first a green pigment, then a yellow-brown pigment.",
+  "question": "Which sequence correctly describes the formation of these pigments?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Heme oxygenase produces green biliverdin, which is then reduced to yellow-brown bilirubin"
+    },
+    {
+      "id": "B",
+      "text": "Bilirubin is oxidized by heme oxygenase into green biliverdin"
+    },
+    {
+      "id": "C",
+      "text": "UDP-glucuronosyltransferase converts heme into green biliverdin"
+    },
+    {
+      "id": "D",
+      "text": "Gut bacteria convert heme directly into yellow-brown bilirubin"
+    },
+    {
+      "id": "E",
+      "text": "Albumin converts biliverdin into bilirubin within the bloodstream"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Heme from senescent red blood cells is metabolized by heme oxygenase to biliverdin, which is green. Biliverdin is subsequently reduced to bilirubin, which is yellow-brown. Macrophages, including Kupffer cells in the liver sinusoids, clear the senescent cells that supply this heme.",
+  "explanation_incorrect": {
+    "B": "The direction is reversed: heme oxygenase makes biliverdin from heme, and biliverdin is reduced to bilirubin.",
+    "C": "UDP-glucuronosyltransferase acts later, conjugating bilirubin with glucuronate in the liver rather than making biliverdin from heme.",
+    "D": "Gut bacteria act on conjugated bilirubin in the intestine to form urobilinogen, not on heme to form bilirubin.",
+    "E": "Albumin binds unconjugated bilirubin in blood for transport; it does not enzymatically convert biliverdin to bilirubin."
+  },
+  "educationalObjective": "Heme oxygenase converts heme to green biliverdin, which is reduced to yellow-brown bilirubin.",
+  "source": "Generated from 9. Gastrointestinal.pdf - Physiology: Bilirubin metabolism"
+},
+{
+  "id": "gi-117",
+  "subject": "Gastrointestinal",
+  "major_topic": "Physiology",
+  "subtopic": "Bilirubin metabolism",
+  "difficulty": "medium",
+  "vignette": "A newborn has jaundice. Laboratory testing shows an elevated fraction of bilirubin that is water insoluble and bound to albumin in the blood. The clinician explains that the liver must convert this fraction into a water-soluble form before it can be excreted in bile.",
+  "question": "Which hepatic enzyme converts this fraction to the water-soluble, conjugated form?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Heme oxygenase"
+    },
+    {
+      "id": "B",
+      "text": "Biliverdin reductase"
+    },
+    {
+      "id": "C",
+      "text": "UDP-glucuronosyltransferase"
+    },
+    {
+      "id": "D",
+      "text": "Cholesterol 7alpha-hydroxylase"
+    },
+    {
+      "id": "E",
+      "text": "Glucokinase"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Unconjugated, indirect bilirubin is water insoluble and travels in blood bound to albumin. Hepatocytes use UDP-glucuronosyltransferase to conjugate bilirubin with glucuronate, producing conjugated, direct bilirubin that is water soluble and can be excreted into bile. This conjugation step is the key determinant of whether bilirubin can be eliminated by the biliary route.",
+  "explanation_incorrect": {
+    "A": "Heme oxygenase acts upstream, converting heme to biliverdin during red cell breakdown.",
+    "B": "Biliverdin reductase reduces biliverdin to unconjugated bilirubin; it does not perform glucuronide conjugation.",
+    "D": "Cholesterol 7alpha-hydroxylase is the rate-limiting enzyme of bile acid synthesis, not bilirubin conjugation.",
+    "E": "Glucokinase phosphorylates glucose in hepatocytes and beta cells and has no role in bilirubin metabolism."
+  },
+  "educationalObjective": "UDP-glucuronosyltransferase conjugates indirect bilirubin with glucuronate to form water-soluble direct bilirubin for biliary excretion.",
+  "source": "Generated from 9. Gastrointestinal.pdf - Physiology: Bilirubin metabolism"
+},
+{
+  "id": "gi-118",
+  "subject": "Gastrointestinal",
+  "major_topic": "Physiology",
+  "subtopic": "Bilirubin metabolism",
+  "difficulty": "medium",
+  "vignette": "A physiologist traces radiolabeled conjugated bilirubin after it is excreted into the small intestine. Gut bacteria act on it, and most of the resulting product is reabsorbed and returned to the liver through the portal circulation.",
+  "question": "Which statement about this pathway is correct?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Gut bacteria convert bilirubin directly to stercobilin before any reabsorption occurs"
+    },
+    {
+      "id": "B",
+      "text": "Only about 10% of the bacterial product is reabsorbed in the enterohepatic circulation"
+    },
+    {
+      "id": "C",
+      "text": "Conjugated bilirubin is reabsorbed unchanged from the colon"
+    },
+    {
+      "id": "D",
+      "text": "Enterohepatic recirculation of bilirubin requires gastric acid"
+    },
+    {
+      "id": "E",
+      "text": "Gut bacteria generate urobilinogen, and about 90% is reabsorbed in the enterohepatic circulation"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "After conjugated bilirubin reaches the gut, intestinal bacteria convert it to urobilinogen. Approximately 90% of urobilinogen is reabsorbed and returns to the liver via the enterohepatic circulation, while the remainder is excreted. This recycling is why only a small fraction of the daily bilirubin load leaves the body as fecal and urinary pigments.",
+  "explanation_incorrect": {
+    "A": "Bacterial conversion first produces urobilinogen; stercobilin is formed from the unabsorbed fraction that remains in the colon.",
+    "B": "About 90%, not 10%, of urobilinogen is reabsorbed in the enterohepatic circulation.",
+    "C": "It is urobilinogen, produced by bacteria, that is reabsorbed; conjugated bilirubin is not taken up unchanged from the colon.",
+    "D": "The enterohepatic circulation depends on intestinal reabsorption and portal venous return, not on gastric acid."
+  },
+  "educationalObjective": "Gut bacteria form urobilinogen from conjugated bilirubin, and about 90% undergoes enterohepatic recirculation.",
+  "source": "Generated from 9. Gastrointestinal.pdf - Physiology: Bilirubin metabolism"
+},
+{
+  "id": "gi-119",
+  "subject": "Gastrointestinal",
+  "major_topic": "Physiology",
+  "subtopic": "Bilirubin metabolism",
+  "difficulty": "hard",
+  "vignette": "A medical student is asked to identify which bilirubin-derived pigments account for the normal brown color of stool and the normal yellow color of urine.",
+  "question": "Which pair of pigments is correct?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Stercobilin in urine and urobilin in feces"
+    },
+    {
+      "id": "B",
+      "text": "Biliverdin in feces and bilirubin in urine"
+    },
+    {
+      "id": "C",
+      "text": "Urobilinogen in urine and biliverdin in feces"
+    },
+    {
+      "id": "D",
+      "text": "Stercobilin in feces and urobilin in urine"
+    },
+    {
+      "id": "E",
+      "text": "Conjugated bilirubin in feces and unconjugated bilirubin in urine"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Within the colon, urobilinogen is converted to stercobilin, which gives feces their brown color. A portion of urobilinogen is excreted by the kidney as urobilin, which contributes the yellow color of urine. These pigments are the terminal products of the bilirubin pathway after bacterial action in the gut.",
+  "explanation_incorrect": {
+    "A": "The locations are swapped: stercobilin is the fecal pigment and urobilin is the urinary pigment.",
+    "B": "Biliverdin is an early green intermediate of heme breakdown, and intact bilirubin is not the normal urinary pigment.",
+    "C": "Urobilin rather than urobilinogen is the urinary pigment, and biliverdin is not responsible for stool color.",
+    "E": "Conjugated bilirubin is largely converted by bacteria before excretion, and unconjugated bilirubin is albumin bound and not normally excreted in urine."
+  },
+  "educationalObjective": "Stercobilin produces brown stool and urobilin produces yellow urine.",
+  "source": "Generated from 9. Gastrointestinal.pdf - Physiology: Bilirubin metabolism"
+}
+]

@@ -1,0 +1,207 @@
+[
+{
+  "id": "gi-067",
+  "subject": "Gastrointestinal",
+  "major_topic": "Anatomy",
+  "subtopic": "Liver tissue architecture and zones",
+  "difficulty": "hard",
+  "vignette": "A 46-year-old woman undergoes a liver biopsy for persistently elevated transaminases. The pathologist describes the functional unit as a hexagon of hepatocytes with a central vein of drainage and repeated corner structures containing several distinct cell and vessel types. She is asked to interpret the architecture and the direction of bile flow.",
+  "question": "Which statement about hepatic lobule architecture is correct?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Portal triads are located in the center of each lobule, surrounding the central vein."
+    },
+    {
+      "id": "B",
+      "text": "Hexagonal lobules surround a central vein, with portal triads at the edges containing portal vein, hepatic artery, bile ducts, and lymphatics."
+    },
+    {
+      "id": "C",
+      "text": "The apical surface of hepatocytes faces the sinusoids and the basolateral surface faces the bile canaliculi."
+    },
+    {
+      "id": "D",
+      "text": "The central vein drains directly into the portal vein before blood reaches the hepatic vein."
+    },
+    {
+      "id": "E",
+      "text": "Bile flows from the canaliculi toward the central vein for excretion."
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "The functional unit of the liver is a hexagonally arranged lobule surrounding a central vein, with portal triads at the edges. Each triad contains a branch of the portal vein, a branch of the hepatic artery, bile ducts, and lymphatics. Hepatocyte apical surfaces face bile canaliculi while basolateral surfaces face sinusoids; blood flows from triads to central vein and bile flows in the opposite direction toward the triads.",
+  "explanation_incorrect": {
+    "A": "Portal triads lie at the corners or edges of the hexagon; the central vein sits in the middle of the lobule.",
+    "C": "This reverses the polarity: the apical membrane borders bile canaliculi and the basolateral membrane faces the sinusoids.",
+    "D": "Central veins drain into hepatic veins and then the IVC; portal venous blood enters the lobule from the triads rather than receiving central vein drainage.",
+    "E": "Bile flows from canaliculi toward bile ductules in the portal triads, opposite the direction of sinusoidal blood flow toward the central vein."
+  },
+  "educationalObjective": "Liver lobules are hexagons around a central vein with portal triads at the edges; bile flows toward triads while blood flows toward the central vein.",
+  "source": "Generated from 9. Gastrointestinal.pdf - Anatomy: Liver tissue architecture and zones"
+},
+{
+  "id": "gi-068",
+  "subject": "Gastrointestinal",
+  "major_topic": "Anatomy",
+  "subtopic": "Liver tissue architecture and zones",
+  "difficulty": "medium",
+  "vignette": "A 55-year-old man with cirrhosis has bacterial translocation from the gut and finds old, damaged red cells being removed from his circulation. A liver biopsy shows numerous specialized phagocytes within the hepatic sinusoids.",
+  "question": "Which cell type located in the sinusoids clears bacteria and senescent red blood cells?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Hepatic stellate (Ito) cells."
+    },
+    {
+      "id": "B",
+      "text": "Hepatocytes, via their apical canalicular surface."
+    },
+    {
+      "id": "C",
+      "text": "Kupffer cells."
+    },
+    {
+      "id": "D",
+      "text": "Bile duct epithelial cells of the portal triad."
+    },
+    {
+      "id": "E",
+      "text": "Endothelial cells lining the central vein."
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Kupffer cells are specialized macrophages located within the hepatic sinusoids. They phagocytose bacteria and damaged or senescent red blood cells arriving through the portal and arterial supply. This makes them a key component of hepatic innate immunity and red cell turnover.",
+  "explanation_incorrect": {
+    "A": "Stellate (Ito) cells reside in the space of Disse, store vitamin A when quiescent, and produce extracellular matrix when activated; they are not the sinusoidal phagocytes.",
+    "B": "Hepatocytes perform synthetic, metabolic, and bile secretory functions, but clearing bacteria and old red cells is the role of resident macrophages.",
+    "D": "Bile duct epithelium lines the ductules in portal triads and modifies bile; it does not phagocytose organisms or erythrocytes in sinusoidal blood.",
+    "E": "Central venous endothelium is a lining layer, not a specialized macrophage population; Kupffer cells sit in the sinusoids."
+  },
+  "educationalObjective": "Kupffer cells are sinusoidal macrophages that clear bacteria and damaged or senescent RBCs.",
+  "source": "Generated from 9. Gastrointestinal.pdf - Anatomy: Liver tissue architecture and zones"
+},
+{
+  "id": "gi-069",
+  "subject": "Gastrointestinal",
+  "major_topic": "Anatomy",
+  "subtopic": "Liver tissue architecture and zones",
+  "difficulty": "medium",
+  "vignette": "A 52-year-old man with long-standing alcohol use has marked deposition of collagen and extracellular matrix in the liver. A researcher examining a biopsy focuses on a quiescent cell population that normally holds vitamin A droplets and becomes fibrogenic when activated.",
+  "question": "Which cell and anatomic compartment are responsible for hepatic vitamin A storage and fibrosis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Kupffer cells within the sinusoids, storing vitamin A and clearing bacteria."
+    },
+    {
+      "id": "B",
+      "text": "Hepatocytes at the bile canaliculus, storing vitamin A and secreting bile."
+    },
+    {
+      "id": "C",
+      "text": "Portal triad smooth muscle cells around the hepatic artery, storing vitamin A and causing vasoconstriction."
+    },
+    {
+      "id": "D",
+      "text": "Hepatic stellate (Ito) cells in the space of Disse, storing vitamin A when quiescent and producing extracellular matrix when activated."
+    },
+    {
+      "id": "E",
+      "text": "Central vein endothelial cells, storing vitamin A and regulating sinusoidal blood flow."
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Hepatic stellate (Ito) cells lie in the space of Disse between hepatocytes and sinusoidal endothelium. In the quiescent state they store vitamin A; on activation they produce extracellular matrix and are responsible for hepatic fibrosis. This is the classic cell of interest in cirrhosis and fibrogenesis.",
+  "explanation_incorrect": {
+    "A": "Kupffer cells are sinusoidal macrophages that clear bacteria and old RBCs; they do not store vitamin A or drive collagen deposition.",
+    "B": "Hepatocytes face bile canaliculi apically and sinusoids basolaterally, but vitamin A storage and fibrosis are functions of stellate cells.",
+    "C": "Vascular smooth muscle regulates hepatic arterial tone but is not the vitamin A-storing, matrix-producing cell of the space of Disse.",
+    "E": "Central vein endothelium lines the outflow vessel; the fibrogenic perisinusoidal cell is the stellate cell, not an endothelial cell."
+  },
+  "educationalObjective": "Stellate (Ito) cells in the space of Disse store vitamin A when quiescent and produce extracellular matrix causing fibrosis when activated.",
+  "source": "Generated from 9. Gastrointestinal.pdf - Anatomy: Liver tissue architecture and zones"
+},
+{
+  "id": "gi-070",
+  "subject": "Gastrointestinal",
+  "major_topic": "Anatomy",
+  "subtopic": "Liver tissue architecture and zones",
+  "difficulty": "hard",
+  "vignette": "A 60-year-old patient with liver cancer is being evaluated before hepatic artery embolization. The interventional radiologist reviews the liver's dual blood supply and explains which vessel normally delivers the majority of inflow and which occlusion would remove most of that supply.",
+  "question": "Which combination of blood supply percentages and consequence of vessel occlusion is correct?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Portal vein about 80% and hepatic artery about 20%; portal vein occlusion removes most inflow."
+    },
+    {
+      "id": "B",
+      "text": "Portal vein about 20% and hepatic artery about 80%; hepatic artery occlusion removes most inflow."
+    },
+    {
+      "id": "C",
+      "text": "Portal vein about 80% and hepatic artery about 20%; hepatic artery occlusion removes most inflow."
+    },
+    {
+      "id": "D",
+      "text": "Hepatic vein about 80% and hepatic artery about 20%; hepatic vein occlusion removes most inflow."
+    },
+    {
+      "id": "E",
+      "text": "Portal vein and hepatic artery each about 50%; either occlusion removes half of inflow."
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "The liver has a dual blood supply: the portal vein delivers approximately 80% of inflow, carrying nutrient-rich blood from the gut, and the hepatic artery supplies approximately 20% with oxygenated arterial blood. The hepatic vein is the outflow tract, not an inflow source. Therefore, losing portal venous flow would deprive the liver of most of its blood supply.",
+  "explanation_incorrect": {
+    "B": "The percentages are reversed: the portal vein, not the hepatic artery, delivers roughly 80% of hepatic inflow.",
+    "C": "Although the percentages are correct, the hepatic artery contributes only about 20%, so its occlusion would not remove most inflow.",
+    "D": "The hepatic vein drains blood from the liver into the IVC; it does not supply the liver, and the portal vein provides most inflow.",
+    "E": "The supply is not evenly split; portal venous blood accounts for about four-fifths of hepatic inflow."
+  },
+  "educationalObjective": "The liver receives about 80% of its blood from the portal vein and 20% from the hepatic artery; the hepatic vein is outflow.",
+  "source": "Generated from 9. Gastrointestinal.pdf - Anatomy: Liver tissue architecture and zones"
+},
+{
+  "id": "gi-071",
+  "subject": "Gastrointestinal",
+  "major_topic": "Anatomy",
+  "subtopic": "Liver tissue architecture and zones",
+  "difficulty": "medium",
+  "vignette": "A 48-year-old woman presents after an acetaminophen overdose with elevated transaminases and centrilobular hepatic necrosis on biopsy. Her medical history also includes hepatitis B with periportal inflammation on a prior biopsy, and she asks how the two injuries can occur in different parts of the same lobule.",
+  "question": "Which hepatic zone and injury pairing is correct?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Zone I: first affected by ischemia and congestive hepatopathy because it is least oxygenated."
+    },
+    {
+      "id": "B",
+      "text": "Zone II: site of alcoholic hepatitis and the region with the highest cytochrome P-450 concentration."
+    },
+    {
+      "id": "C",
+      "text": "Zone III: first affected by viral hepatitis and ingested toxins such as cocaine."
+    },
+    {
+      "id": "D",
+      "text": "Zone I: the intermediate zone classically affected in yellow fever."
+    },
+    {
+      "id": "E",
+      "text": "Zone III: pericentral and least oxygenated, rich in cytochrome P-450, most sensitive to metabolic toxins such as acetaminophen, ethanol, CCl4, and rifampin."
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Zone III is the pericentral (centrilobular) zone, the least oxygenated region and the one with the highest cytochrome P-450 concentration. It is affected first by ischemia and is most sensitive to metabolic toxins such as ethanol, CCl4, rifampin, and acetaminophen; it is also the site of alcoholic hepatitis. By contrast, zone I is periportal, best oxygenated, first affected by viral hepatitis and ingested toxins such as cocaine, and zone II is the intermediate zone associated with yellow fever.",
+  "explanation_incorrect": {
+    "A": "Ischemia and congestive hepatopathy affect zone III first because it is least oxygenated; zone I is best oxygenated and most resistant to circulatory compromise.",
+    "B": "Alcoholic hepatitis occurs in zone III, and high P-450 concentration is also a zone III feature; zone II is the intermediate zone linked to yellow fever.",
+    "C": "Viral hepatitis and ingested toxins such as cocaine affect zone I first, not the pericentral zone III.",
+    "D": "Yellow fever is classically associated with zone II, the intermediate zone, rather than the periportal zone I."
+  },
+  "educationalObjective": "Zone III (pericentral) is least oxygenated and P-450 rich, making it the site of ischemic and metabolic toxin injury such as acetaminophen toxicity.",
+  "source": "Generated from 9. Gastrointestinal.pdf - Anatomy: Liver tissue architecture and zones"
+}
+]

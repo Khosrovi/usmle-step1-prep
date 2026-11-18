@@ -1,0 +1,166 @@
+[
+{
+  "id": "gi-333",
+  "subject": "Gastrointestinal",
+  "major_topic": "Pharmacology",
+  "subtopic": "Proton pump inhibitors",
+  "difficulty": "medium",
+  "vignette": "A 47-year-old woman with erosive esophagitis has not responded adequately to an H2 blocker. She is switched to omeprazole and has dramatic, sustained improvement. Her physician explains why proton pump inhibitors produce more potent and longer-lasting acid suppression than H2 blockers.",
+  "question": "Proton pump inhibitors suppress gastric acid by which of the following mechanisms?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Reversible competitive blockade of histamine H2 receptors"
+    },
+    {
+      "id": "B",
+      "text": "Neutralization of acid already secreted into the gastric lumen"
+    },
+    {
+      "id": "C",
+      "text": "Reversible inhibition of carbonic anhydrase"
+    },
+    {
+      "id": "D",
+      "text": "Irreversible inhibition of the H+/K+-ATPase in parietal cells"
+    },
+    {
+      "id": "E",
+      "text": "Blockade of gastrin (CCKB) receptors"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Proton pump inhibitors (omeprazole, lansoprazole, esomeprazole, pantoprazole, dexlansoprazole) irreversibly inhibit the H+/K+-ATPase in parietal cells — the final common step of acid secretion. Because inhibition is irreversible, acid suppression is potent and long-lasting until new enzyme is synthesized.",
+  "explanation_incorrect": {
+    "A": "Reversible H2 receptor blockade is the mechanism of H2 blockers such as famotidine, not proton pump inhibitors.",
+    "B": "Neutralizing secreted acid is the mechanism of antacids; proton pump inhibitors reduce acid production instead.",
+    "C": "Carbonic anhydrase inhibition is not the target of proton pump inhibitors; the H+/K+-ATPase is.",
+    "E": "Gastrin CCKB receptor blockade is not how PPIs work; they act directly on the proton pump regardless of the stimulating input."
+  },
+  "educationalObjective": "Proton pump inhibitors irreversibly block the parietal-cell H+/K+-ATPase, the final common step of acid secretion.",
+  "source": "Generated from 9. Gastrointestinal.pdf - Pharmacology: Proton pump inhibitors"
+},
+{
+  "id": "gi-334",
+  "subject": "Gastrointestinal",
+  "major_topic": "Pharmacology",
+  "subtopic": "Proton pump inhibitors",
+  "difficulty": "easy",
+  "vignette": "A 41-year-old man presents with multiple recurrent peptic ulcers, including ulcers distal to the duodenal bulb, and a markedly elevated fasting serum gastrin level. He is diagnosed with Zollinger-Ellison syndrome and needs potent, sustained suppression of gastric acid.",
+  "question": "Which of the following is a recognized clinical use of proton pump inhibitors?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Induction of labor"
+    },
+    {
+      "id": "B",
+      "text": "Zollinger-Ellison syndrome"
+    },
+    {
+      "id": "C",
+      "text": "Acute esophageal variceal bleeding"
+    },
+    {
+      "id": "D",
+      "text": "Hepatic encephalopathy"
+    },
+    {
+      "id": "E",
+      "text": "Opioid-induced constipation"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Proton pump inhibitors are used for peptic ulcer, gastritis, esophageal reflux, Zollinger-Ellison syndrome, as part of H pylori therapy, and for stress ulcer prophylaxis. Zollinger-Ellison syndrome causes extreme acid hypersecretion from a gastrinoma and requires powerful acid suppression.",
+  "explanation_incorrect": {
+    "A": "Labor induction is an off-label use of misoprostol, a PGE1 analog that ripens the cervix, not of proton pump inhibitors.",
+    "C": "Acute variceal bleeding is treated with octreotide and other measures; PPIs are not the primary therapy for varices.",
+    "D": "Hepatic encephalopathy is treated with lactulose, which traps ammonia as NH4+ in the colon, not with proton pump inhibitors.",
+    "E": "Opioid-induced constipation is treated with laxatives or opioid antagonists; PPIs have no role in enhancing gut motility."
+  },
+  "educationalObjective": "PPIs are indicated for peptic ulcer, reflux, gastritis, Zollinger-Ellison syndrome, H pylori therapy, and stress ulcer prophylaxis.",
+  "source": "Generated from 9. Gastrointestinal.pdf - Pharmacology: Proton pump inhibitors"
+},
+{
+  "id": "gi-335",
+  "subject": "Gastrointestinal",
+  "major_topic": "Pharmacology",
+  "subtopic": "Proton pump inhibitors",
+  "difficulty": "hard",
+  "vignette": "A 73-year-old man has taken omeprazole for eight years for severe GERD. He develops frequent watery diarrhea and abdominal cramping, and stool studies confirm Clostridium difficile toxin. A urinalysis shows sterile pyuria and mildly elevated creatinine, and renal biopsy would likely show interstitial inflammation.",
+  "question": "Long-term proton pump inhibitor use is associated with an increased risk of which of the following?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Hypercalcemia and milk-alkali syndrome"
+    },
+    {
+      "id": "B",
+      "text": "Gynecomastia and impotence"
+    },
+    {
+      "id": "C",
+      "text": "Reversible oligospermia"
+    },
+    {
+      "id": "D",
+      "text": "Hypophosphatemic osteodystrophy with proximal weakness"
+    },
+    {
+      "id": "E",
+      "text": "Clostridium difficile infection, pneumonia, and acute interstitial nephritis"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Chronic PPI use is associated with increased risk of Clostridium difficile infection, pneumonia, and acute interstitial nephritis, likely related to reduced gastric acid and altered immunity/microbiota. Loss of the acid barrier permits ingested organisms to survive, explaining this patient's C difficile diarrhea.",
+  "explanation_incorrect": {
+    "A": "Milk-alkali syndrome with hypercalcemia is caused by calcium carbonate antacids, not by proton pump inhibitors.",
+    "B": "Gynecomastia and impotence are antiandrogenic effects of cimetidine, not of proton pump inhibitors.",
+    "C": "Reversible oligospermia is an adverse effect of sulfasalazine, not of proton pump inhibitors.",
+    "D": "Hypophosphatemia with osteodystrophy and proximal weakness is the CHOPS toxicity of aluminum hydroxide antacids."
+  },
+  "educationalObjective": "Long-term PPI use increases the risk of C difficile infection, pneumonia, and acute interstitial nephritis.",
+  "source": "Generated from 9. Gastrointestinal.pdf - Pharmacology: Proton pump inhibitors"
+},
+{
+  "id": "gi-336",
+  "subject": "Gastrointestinal",
+  "major_topic": "Pharmacology",
+  "subtopic": "Proton pump inhibitors",
+  "difficulty": "hard",
+  "vignette": "An 82-year-old woman has taken a proton pump inhibitor for a decade. Laboratory testing shows low serum magnesium, low vitamin B12, and mildly reduced calcium. She sustains a hip fracture after a minor fall, and bone densitometry shows osteoporosis.",
+  "question": "Chronic proton pump inhibitor therapy can contribute to which of the following?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Increased serum magnesium and calcium with hyperostosis"
+    },
+    {
+      "id": "B",
+      "text": "Elevated vitamin B12 and increased intrinsic factor secretion"
+    },
+    {
+      "id": "C",
+      "text": "Vitamin B12 malabsorption and decreased Mg2+/Ca2+ absorption with increased fracture risk"
+    },
+    {
+      "id": "D",
+      "text": "Increased dietary iron absorption"
+    },
+    {
+      "id": "E",
+      "text": "Hypophosphatemia with seizures"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Long-term PPI use causes vitamin B12 malabsorption (acid is needed to release B12 from food) and decreases serum Mg2+/Ca2+ absorption. Reduced magnesium and calcium absorption can increase fracture risk in older adults. This patient's deficiencies and osteoporosis are consistent with chronic PPI use.",
+  "explanation_incorrect": {
+    "A": "PPIs decrease rather than increase magnesium and calcium absorption; hyperostosis is not an associated finding.",
+    "B": "PPIs are associated with B12 malabsorption, not elevated B12 or increased intrinsic factor secretion.",
+    "D": "Reduced acid can impair iron absorption; increased iron absorption is not an expected effect of PPIs.",
+    "E": "Hypophosphatemia with seizures is characteristic of aluminum hydroxide antacid toxicity (CHOPS), not PPI therapy."
+  },
+  "educationalObjective": "Chronic PPI use can cause B12 malabsorption and reduced Mg2+/Ca2+ absorption, raising fracture risk.",
+  "source": "Generated from 9. Gastrointestinal.pdf - Pharmacology: Proton pump inhibitors"
+}
+]

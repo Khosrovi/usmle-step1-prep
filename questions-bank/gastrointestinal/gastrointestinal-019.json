@@ -1,0 +1,248 @@
+[
+{
+  "id": "gi-106",
+  "subject": "Gastrointestinal",
+  "major_topic": "Physiology",
+  "subtopic": "Carbohydrate, vitamin, and mineral absorption",
+  "difficulty": "hard",
+  "vignette": "A 6-month-old infant has severe diarrhea since birth. Stool studies show poorly absorbed glucose and galactose, while fructose is tolerated reasonably well. Genetic testing reveals a defect in the apical Na+-dependent monosaccharide transporter of the small intestine.",
+  "question": "Which transport step is defective in this infant?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Facilitated diffusion of fructose via GLUT5"
+    },
+    {
+      "id": "B",
+      "text": "Basolateral export of monosaccharides via GLUT2"
+    },
+    {
+      "id": "C",
+      "text": "Na+-dependent apical uptake of glucose and galactose via SGLT1"
+    },
+    {
+      "id": "D",
+      "text": "Na+/K+-ATPase activity on the basolateral membrane"
+    },
+    {
+      "id": "E",
+      "text": "Passive paracellular absorption of intact disaccharides"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Only monosaccharides are absorbed by enterocytes. Glucose and galactose are taken up at the apical membrane by SGLT1, which is sodium dependent, whereas fructose enters by facilitated diffusion via GLUT5. All three monosaccharides exit the cell across the basolateral membrane via GLUT2. A defect in SGLT1 impairs glucose and galactose absorption but spares fructose, matching this infant's presentation.",
+  "explanation_incorrect": {
+    "A": "GLUT5 mediates fructose uptake by facilitated diffusion; the infant tolerates fructose, so this transporter is functioning.",
+    "B": "GLUT2 is the common basolateral exit route for all monosaccharides, and a defect there would impair fructose as well.",
+    "D": "The Na+/K+-ATPase maintains the sodium gradient driving SGLT1; it is not the monosaccharide-specific transporter that is defective here.",
+    "E": "Intact disaccharides are not absorbed paracellularly; they must be hydrolyzed to monosaccharides first."
+  },
+  "educationalObjective": "Glucose and galactose use apical Na+-dependent SGLT1, fructose uses GLUT5, and all exit via GLUT2.",
+  "source": "Generated from 9. Gastrointestinal.pdf - Physiology: Carbohydrate, vitamin, and mineral absorption"
+},
+{
+  "id": "gi-107",
+  "subject": "Gastrointestinal",
+  "major_topic": "Physiology",
+  "subtopic": "Carbohydrate, vitamin, and mineral absorption",
+  "difficulty": "hard",
+  "vignette": "A 38-year-old woman has chronic diarrhea and weight loss. Celiac disease is suspected. Her clinician wants a test that can distinguish a primary mucosal absorptive defect from inadequate pancreatic digestion of nutrients.",
+  "question": "Which D-xylose test result would support a primary mucosal absorptive defect?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Decreased blood and urine D-xylose despite normal pancreatic function"
+    },
+    {
+      "id": "B",
+      "text": "Normal blood and urine D-xylose in a patient with pancreatic insufficiency"
+    },
+    {
+      "id": "C",
+      "text": "Increased urine D-xylose in a patient with villous atrophy"
+    },
+    {
+      "id": "D",
+      "text": "Decreased D-xylose only when bile salts are absent from the gut"
+    },
+    {
+      "id": "E",
+      "text": "Normal D-xylose in a patient with celiac disease and villous atrophy"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "D-xylose is a simple sugar that is passively absorbed in the proximal small intestine and does not require pancreatic enzymatic digestion. Blood and urine levels fall when the mucosa is damaged, as in celiac disease. In pancreatic insufficiency, D-xylose absorption is normal because the mucosal surface is intact and the sugar needs no pancreatic enzymes.",
+  "explanation_incorrect": {
+    "B": "Normal D-xylose with pancreatic insufficiency is the expected pattern, but it points to a digestive rather than a mucosal defect.",
+    "C": "Villous atrophy reduces the absorptive surface, so D-xylose levels fall rather than rise.",
+    "D": "Bile salts are not required for passive D-xylose absorption; the test separates mucosal from pancreatic causes.",
+    "E": "Celiac disease with villous atrophy damages the mucosa and should lower blood and urine D-xylose."
+  },
+  "educationalObjective": "D-xylose is passively absorbed proximally; levels fall with mucosal damage but stay normal in pancreatic insufficiency.",
+  "source": "Generated from 9. Gastrointestinal.pdf - Physiology: Carbohydrate, vitamin, and mineral absorption"
+},
+{
+  "id": "gi-108",
+  "subject": "Gastrointestinal",
+  "major_topic": "Physiology",
+  "subtopic": "Carbohydrate, vitamin, and mineral absorption",
+  "difficulty": "medium",
+  "vignette": "A 52-year-old man undergoes surgical resection of the duodenum and proximal jejunum for a tumor. Six months later he has a microcytic anemia and megaloblastic changes on his blood smear, while his terminal ileum remains intact.",
+  "question": "Which pair of deficiencies is most directly explained by loss of these absorption sites?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Vitamin B12 and bile salts"
+    },
+    {
+      "id": "B",
+      "text": "Iron and vitamin B12"
+    },
+    {
+      "id": "C",
+      "text": "Folate and vitamin B12"
+    },
+    {
+      "id": "D",
+      "text": "Vitamin K and folate"
+    },
+    {
+      "id": "E",
+      "text": "Iron and folate"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Iron is absorbed as Fe2+ in the duodenum, and folates are absorbed in the duodenum and jejunum. Resecting these proximal sites therefore produces both iron deficiency and folate deficiency, explaining the microcytic anemia and megaloblastic changes. Vitamin B12 is absorbed in the terminal ileum together with bile salts, so it would not be lost by this proximal resection.",
+  "explanation_incorrect": {
+    "A": "Vitamin B12 and bile salts are absorbed in the terminal ileum, which was preserved in this patient.",
+    "B": "Vitamin B12 absorption is ileal, not duodenal or jejunal, and would not be lost by this surgery.",
+    "C": "Folate deficiency is expected, but vitamin B12 deficiency is not because the terminal ileum remains intact.",
+    "D": "Vitamin K is a fat-soluble vitamin whose absorption depends on bile, not on the resected proximal small bowel segment."
+  },
+  "educationalObjective": "Iron (Fe2+) is absorbed in the duodenum and folate in the duodenum/jejunum; vitamin B12 requires the terminal ileum and intrinsic factor.",
+  "source": "Generated from 9. Gastrointestinal.pdf - Physiology: Carbohydrate, vitamin, and mineral absorption"
+},
+{
+  "id": "gi-109",
+  "subject": "Gastrointestinal",
+  "major_topic": "Physiology",
+  "subtopic": "Carbohydrate, vitamin, and mineral absorption",
+  "difficulty": "easy",
+  "vignette": "A 60-year-old woman has a terminal ileum resection for Crohn disease. She later develops megaloblastic anemia and is told she will need lifelong supplementation of a vitamin.",
+  "question": "Which statement about absorption of this vitamin is correct?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It is absorbed in the duodenum together with iron"
+    },
+    {
+      "id": "B",
+      "text": "It is absorbed in the terminal ileum and requires intrinsic factor"
+    },
+    {
+      "id": "C",
+      "text": "It is absorbed in the jejunum without intrinsic factor"
+    },
+    {
+      "id": "D",
+      "text": "It is absorbed in the colon after bacterial synthesis"
+    },
+    {
+      "id": "E",
+      "text": "It is absorbed in the stomach together with hydrochloric acid"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Vitamin B12 is absorbed in the terminal ileum along with bile salts, and this absorption requires intrinsic factor secreted by gastric parietal cells. Resection of the terminal ileum removes the absorption site, so supplementation is required, as is the case after bariatric surgery or in pernicious anemia from lack of intrinsic factor.",
+  "explanation_incorrect": {
+    "A": "Iron is absorbed as Fe2+ in the duodenum; vitamin B12 is not absorbed there.",
+    "C": "The jejunum is not the B12 absorption site, and intrinsic factor is required for receptor-mediated uptake in the ileum.",
+    "D": "Colonic bacteria synthesize vitamin B12, but the absorption site for dietary B12 is the terminal ileum, not the colon.",
+    "E": "Gastric acid and pepsin release B12 from food proteins, but absorption of the vitamin occurs later in the terminal ileum."
+  },
+  "educationalObjective": "Vitamin B12 is absorbed in the terminal ileum together with bile salts and requires intrinsic factor.",
+  "source": "Generated from 9. Gastrointestinal.pdf - Physiology: Carbohydrate, vitamin, and mineral absorption"
+},
+{
+  "id": "gi-110",
+  "subject": "Gastrointestinal",
+  "major_topic": "Physiology",
+  "subtopic": "Carbohydrate, vitamin, and mineral absorption",
+  "difficulty": "medium",
+  "vignette": "A 47-year-old man has episodes of abdominal cramping, nausea, and watery diarrhea about 20 minutes after meals, several weeks after gastric bypass surgery. The episodes are worst after a sugary drink.",
+  "question": "Which mechanism best explains this syndrome?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Bile acids accumulating in the colon because of ileal disease"
+    },
+    {
+      "id": "B",
+      "text": "Autoimmune destruction of gastric parietal cells"
+    },
+    {
+      "id": "C",
+      "text": "Bacterial fermentation of undigested lactose in the colon"
+    },
+    {
+      "id": "D",
+      "text": "Rapid delivery of hyperosmolar chyme from the stomach into the small intestine"
+    },
+    {
+      "id": "E",
+      "text": "Gluten-induced villous atrophy of the proximal small intestine"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Dumping syndrome occurs when hyperosmolar food, often sugary, moves too quickly from the stomach into the small intestine. It typically develops after stomach or esophageal surgery because the normal controlled release of chyme is lost. The osmotic load draws fluid into the bowel, producing cramps, nausea, and diarrhea shortly after meals.",
+  "explanation_incorrect": {
+    "A": "Bile acid diarrhea follows reduced ileal bile salt absorption, as in Crohn disease or short bowel, not a post-gastrectomy osmotic syndrome.",
+    "B": "Autoimmune parietal cell destruction causes pernicious anemia and achlorhydria, not postprandial cramping and diarrhea.",
+    "C": "Lactose intolerance causes osmotic diarrhea after dairy intake with normal villi, not specifically after gastric surgery with sugary meals.",
+    "E": "Gluten-induced villous atrophy is celiac disease, a chronic malabsorptive condition rather than a rapid postprandial syndrome."
+  },
+  "educationalObjective": "Dumping syndrome results from rapid delivery of hyperosmolar chyme into the small intestine after gastric or esophageal surgery.",
+  "source": "Generated from 9. Gastrointestinal.pdf - Physiology: Carbohydrate, vitamin, and mineral absorption"
+},
+{
+  "id": "gi-111",
+  "subject": "Gastrointestinal",
+  "major_topic": "Physiology",
+  "subtopic": "Carbohydrate, vitamin, and mineral absorption",
+  "difficulty": "medium",
+  "vignette": "A researcher examining the ileum identifies unencapsulated lymphoid aggregates in the lamina propria and submucosa. Specialized cells within them sample luminal antigen, and B cells in their germinal centers differentiate into plasma cells that reside in the lamina propria. The secreted antibody receives a protective secretory component before crossing the epithelium.",
+  "question": "Which immunoglobulin is produced by these plasma cells?",
+  "options": [
+    {
+      "id": "A",
+      "text": "IgE"
+    },
+    {
+      "id": "B",
+      "text": "IgM"
+    },
+    {
+      "id": "C",
+      "text": "IgA"
+    },
+    {
+      "id": "D",
+      "text": "IgG"
+    },
+    {
+      "id": "E",
+      "text": "IgD"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Peyer patches are unencapsulated lymphoid tissue in the lamina propria and submucosa of the ileum. Their microfold (M) cells sample and present antigens to immune cells, and B cells in germinal centers become IgA-secreting plasma cells that home to the lamina propria. IgA receives a protective secretory component and is transported across the epithelium to address intraluminal antigen, earning the name intra-gut antibody.",
+  "explanation_incorrect": {
+    "A": "IgE is associated with mast cell mediated allergic responses and parasite defense, not the secretory antibody of the gut lumen.",
+    "B": "IgM is the early antibody of a primary immune response and is not the principal immunoglobulin secreted at mucosal surfaces here.",
+    "D": "IgG is the dominant serum immunoglobulin but does not receive the secretory component described in Peyer patches.",
+    "E": "IgD is mainly a B-cell surface receptor and is not the secreted mucosal antibody of the intestinal tract."
+  },
+  "educationalObjective": "Peyer patch M cells sample antigen and drive IgA-secreting plasma cells, producing secretory IgA in the gut.",
+  "source": "Generated from 9. Gastrointestinal.pdf - Physiology: Carbohydrate, vitamin, and mineral absorption"
+}
+]

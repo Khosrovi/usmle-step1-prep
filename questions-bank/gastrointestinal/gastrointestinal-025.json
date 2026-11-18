@@ -1,0 +1,248 @@
+[
+{
+  "id": "gi-232",
+  "subject": "Gastrointestinal",
+  "major_topic": "Pathology",
+  "subtopic": "Colorectal cancer",
+  "difficulty": "medium",
+  "vignette": "A 68-year-old man presents with colicky abdominal pain, hematochezia, and a narrowing of his stool caliber. A barium enema demonstrates an apple core lesion in the descending colon.",
+  "question": "Which description best fits this tumor?",
+  "options": [
+    {
+      "id": "A",
+      "text": "An exophytic mass with occult bleeding and iron deficiency anemia"
+    },
+    {
+      "id": "B",
+      "text": "An exophytic cecal mass causing weight loss"
+    },
+    {
+      "id": "C",
+      "text": "An infiltrating mass with occult bleeding but no obstruction"
+    },
+    {
+      "id": "D",
+      "text": "A pedunculated noninvasive polyp"
+    },
+    {
+      "id": "E",
+      "text": "An infiltrating mass causing partial obstruction and hematochezia"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Left-sided colorectal cancers (descending colon and rectosigmoid) are infiltrating masses that narrow the lumen, producing partial obstruction, decreased stool caliber, colicky pain, and hematochezia. The apple core lesion on barium enema reflects this constricting, encircling growth. Right-sided tumors, by contrast, are exophytic and bleed occultly.",
+  "explanation_incorrect": {
+    "A": "Exophytic masses with occult bleeding and iron deficiency anemia characterize right-sided (cecal and ascending) tumors, not this left-sided apple-core lesion.",
+    "B": "An exophytic cecal mass with weight loss is a right-sided presentation; the descending colon lesion here is infiltrating and obstructing.",
+    "C": "Left-sided lesions are infiltrating but cause overt hematochezia and obstruction, not occult bleeding without obstruction, which is a right-sided feature.",
+    "D": "A pedunculated noninvasive polyp is not an invasive apple-core carcinoma producing luminal obstruction."
+  },
+  "educationalObjective": "Left-sided CRC presents as an infiltrating apple-core mass with obstruction, colicky pain, and hematochezia; right-sided CRC is exophytic with occult bleeding and iron deficiency anemia.",
+  "source": "Generated from 9. Gastrointestinal.pdf - Pathology: Colorectal cancer"
+},
+{
+  "id": "gi-233",
+  "subject": "Gastrointestinal",
+  "major_topic": "Pathology",
+  "subtopic": "Colorectal cancer",
+  "difficulty": "easy",
+  "vignette": "A 45-year-old woman with no family history of colorectal cancer and no inflammatory bowel disease asks when she should begin average-risk colorectal cancer screening.",
+  "question": "At what age should average-risk screening begin?",
+  "options": [
+    {
+      "id": "A",
+      "text": "50 years"
+    },
+    {
+      "id": "B",
+      "text": "45 years with colonoscopy"
+    },
+    {
+      "id": "C",
+      "text": "40 years"
+    },
+    {
+      "id": "D",
+      "text": "35 years"
+    },
+    {
+      "id": "E",
+      "text": "55 years"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Average-risk individuals should begin colorectal cancer screening at age 45 with colonoscopy. Accepted alternatives include flexible sigmoidoscopy, fecal occult blood testing, fecal immunochemical testing, FIT-fecal DNA, and CT colonography.",
+  "explanation_incorrect": {
+    "A": "Age 50 was the older screening threshold; current average-risk screening begins at age 45.",
+    "C": "Age 40 is the screening start for a person with a first-degree relative who has colon cancer, not for average-risk screening.",
+    "D": "Age 35 is not a standard recommended age to initiate average-risk colorectal cancer screening.",
+    "E": "Age 55 is too late; average-risk screening should begin at age 45."
+  },
+  "educationalObjective": "Average-risk colorectal cancer screening begins at age 45 with colonoscopy or an approved alternative.",
+  "source": "Generated from 9. Gastrointestinal.pdf - Pathology: Colorectal cancer"
+},
+{
+  "id": "gi-234",
+  "subject": "Gastrointestinal",
+  "major_topic": "Pathology",
+  "subtopic": "Colorectal cancer",
+  "difficulty": "easy",
+  "vignette": "A 38-year-old man whose father was diagnosed with colon cancer at age 50 asks when he should begin colorectal cancer screening.",
+  "question": "According to guidelines, when should he begin screening?",
+  "options": [
+    {
+      "id": "A",
+      "text": "At age 45, the same as average risk"
+    },
+    {
+      "id": "B",
+      "text": "At age 50"
+    },
+    {
+      "id": "C",
+      "text": "At age 38, with no specific guideline basis"
+    },
+    {
+      "id": "D",
+      "text": "At age 40, or 10 years before his father's age at presentation"
+    },
+    {
+      "id": "E",
+      "text": "Eight years after the onset of his own symptoms"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Patients with a first-degree relative who has colon cancer should be screened at age 40, or 10 years prior to the relative's age at presentation. Here that calculation gives age 40 as well, which is earlier than the average-risk age of 45.",
+  "explanation_incorrect": {
+    "A": "Age 45 applies to average-risk individuals; a positive first-degree family history warrants earlier screening.",
+    "B": "Age 50 is outdated and inappropriate for someone with an affected first-degree relative.",
+    "C": "Simply naming age 38 without the formal rule ignores that screening is guided by age 40 or 10 years before the relative's presentation.",
+    "E": "Screening 8 years after onset applies to patients with inflammatory bowel disease, not to a family history of colon cancer."
+  },
+  "educationalObjective": "With a first-degree relative who has colon cancer, begin screening at age 40 or 10 years before the relative's age at presentation.",
+  "source": "Generated from 9. Gastrointestinal.pdf - Pathology: Colorectal cancer"
+},
+{
+  "id": "gi-235",
+  "subject": "Gastrointestinal",
+  "major_topic": "Pathology",
+  "subtopic": "Colorectal cancer",
+  "difficulty": "hard",
+  "vignette": "A 62-year-old man has a left-sided colon tumor. Genetic analysis shows loss of APC, an activating KRAS mutation, and loss of TP53 and DCC.",
+  "question": "Which pathway best describes the molecular pathogenesis of this tumor?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Chromosomal instability via the adenoma-carcinoma sequence"
+    },
+    {
+      "id": "B",
+      "text": "Microsatellite instability from mismatch repair gene methylation"
+    },
+    {
+      "id": "C",
+      "text": "CpG island methylator phenotype with BRAF mutation"
+    },
+    {
+      "id": "D",
+      "text": "Hamartomatous overgrowth from a DNA repair defect"
+    },
+    {
+      "id": "E",
+      "text": "COX-2 overexpression as the initiating event"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "The chromosomal instability pathway drives most sporadic left-sided colorectal cancers and FAP through the adenoma-carcinoma sequence: loss of APC, then KRAS mutation, then loss of tumor suppressor genes such as TP53 and DCC, culminating in tumorigenesis. This matches the genetic changes in this patient's tumor.",
+  "explanation_incorrect": {
+    "B": "Microsatellite instability from mismatch repair gene mutation or methylation causes Lynch syndrome and right-sided serrated CRCs, not the APC/KRAS/TP53 sequence.",
+    "C": "CIMP with BRAF mutation is the serrated polyp pathway of right-sided sporadic CRC, which is distinct from chromosomal instability.",
+    "D": "Hamartomatous polyps occur in syndromes such as Peutz-Jeghers and juvenile polyposis and are not driven by APC/KRAS/TP53 alterations.",
+    "E": "COX-2 overexpression is associated with CRC and NSAIDs may be chemopreventive, but it is not the initiating molecular pathway in this tumor."
+  },
+  "educationalObjective": "Left-sided sporadic CRC and FAP arise via chromosomal instability: APC loss, KRAS activation, then TP53/DCC loss.",
+  "source": "Generated from 9. Gastrointestinal.pdf - Pathology: Colorectal cancer"
+},
+{
+  "id": "gi-236",
+  "subject": "Gastrointestinal",
+  "major_topic": "Pathology",
+  "subtopic": "Colorectal cancer",
+  "difficulty": "medium",
+  "vignette": "A 57-year-old man presents with fatigue. Laboratory studies show a microcytic anemia with low serum iron and low ferritin. He has no obvious source of blood loss and is otherwise asymptomatic.",
+  "question": "What is the most appropriate next consideration?",
+  "options": [
+    {
+      "id": "A",
+      "text": "This is a normal age-related finding requiring no evaluation"
+    },
+    {
+      "id": "B",
+      "text": "It is most consistent with acute hematochezia from a left-sided polyp"
+    },
+    {
+      "id": "C",
+      "text": "Occult right-sided colorectal cancer should be suspected"
+    },
+    {
+      "id": "D",
+      "text": "It indicates spontaneous bacterial peritonitis"
+    },
+    {
+      "id": "E",
+      "text": "It is diagnostic of hereditary spherocytosis"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Iron deficiency anemia in males, especially those over 50 years old, and in postmenopausal females raises suspicion for colorectal cancer. Right-sided (cecal and ascending) exophytic tumors bleed occultly and cause iron deficiency anemia and weight loss, so this patient warrants GI evaluation.",
+  "explanation_incorrect": {
+    "A": "Iron deficiency anemia in an older male is never a normal age-related finding and requires investigation for an occult source such as malignancy.",
+    "B": "Left-sided lesions cause overt hematochezia and obstruction, not painless iron deficiency from chronic occult bleeding.",
+    "D": "Spontaneous bacterial peritonitis is an infectious complication of cirrhotic ascites, not a cause of isolated iron deficiency anemia.",
+    "E": "Hereditary spherocytosis causes a hemolytic anemia, not iron deficiency anemia, and does not fit this clinical picture."
+  },
+  "educationalObjective": "Iron deficiency anemia in a male over 50 should raise suspicion for occult right-sided colorectal cancer.",
+  "source": "Generated from 9. Gastrointestinal.pdf - Pathology: Colorectal cancer"
+},
+{
+  "id": "gi-237",
+  "subject": "Gastrointestinal",
+  "major_topic": "Pathology",
+  "subtopic": "Colorectal cancer",
+  "difficulty": "easy",
+  "vignette": "A 64-year-old woman is being followed after surgical resection of colorectal cancer. Her physician orders a blood test specifically to monitor for tumor recurrence.",
+  "question": "Which tumor marker is most appropriate for this purpose?",
+  "options": [
+    {
+      "id": "A",
+      "text": "CA-125"
+    },
+    {
+      "id": "B",
+      "text": "CEA"
+    },
+    {
+      "id": "C",
+      "text": "AFP"
+    },
+    {
+      "id": "D",
+      "text": "PSA"
+    },
+    {
+      "id": "E",
+      "text": "CA 19-9"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "CEA is a tumor marker that is good for monitoring recurrence of colorectal cancer, although it should not be used for screening. A rising CEA level after surgical resection suggests recurrent disease.",
+  "explanation_incorrect": {
+    "A": "CA-125 is associated with ovarian cancer and is not used for routine monitoring of colorectal cancer recurrence.",
+    "C": "AFP is a marker for hepatocellular carcinoma and germ cell tumors, not colorectal cancer.",
+    "D": "PSA is a prostate cancer marker and has no role in monitoring colorectal cancer.",
+    "E": "CA 19-9 is associated with pancreatic cancer, not standard surveillance for colorectal cancer recurrence."
+  },
+  "educationalObjective": "CEA is used to monitor colorectal cancer recurrence, not for screening.",
+  "source": "Generated from 9. Gastrointestinal.pdf - Pathology: Colorectal cancer"
+}
+]

@@ -1,0 +1,248 @@
+[
+{
+  "id": "gi-100",
+  "subject": "Gastrointestinal",
+  "major_topic": "Physiology",
+  "subtopic": "Secretory cell locations and pancreatic enzymes",
+  "difficulty": "medium",
+  "vignette": "A 45-year-old man with refractory peptic ulcers is found to have a gastrinoma. Plasma gastrin is markedly elevated and gastric acid output is high. Pharmacologists block histamine H2 receptors on parietal cells while leaving parietal gastrin receptors intact.",
+  "question": "Which mechanism best explains how gastrin normally increases gastric acid secretion?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Direct activation of parietal cell gastrin receptors is the dominant pathway for acid secretion"
+    },
+    {
+      "id": "B",
+      "text": "Gastrin stimulates ECL cells to release histamine, which then activates parietal cells"
+    },
+    {
+      "id": "C",
+      "text": "Gastrin triggers chief cells to release pepsinogen, which directly lowers gastric pH"
+    },
+    {
+      "id": "D",
+      "text": "Gastrin acts solely by inhibiting D cell somatostatin secretion"
+    },
+    {
+      "id": "E",
+      "text": "Gastrin is cleaved by duodenal enteropeptidase to form histamine"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Gastrin from G cells of the gastric antrum increases acid secretion primarily through its effects on enterochromaffin-like (ECL) cells, leading to histamine release that acts on parietal cells. A direct effect on parietal cells exists but is minor compared with this histamine-mediated pathway. This is the classic mechanism tested in Zollinger-Ellison syndrome, where massive gastrin excess drives ECL histamine release and hyperchlorhydria.",
+  "explanation_incorrect": {
+    "A": "Gastrin can bind parietal cell receptors, but this direct effect is secondary; the dominant route is ECL cell histamine release.",
+    "C": "Chief cells secrete pepsinogen for protein digestion; acid activates pepsinogen to pepsin rather than the reverse.",
+    "D": "D cell somatostatin inhibits acid secretion, but removing that inhibition is not the primary way gastrin stimulates parietal cells.",
+    "E": "Enteropeptidase is a duodenal brush-border enzyme that activates trypsinogen; it does not convert gastrin into histamine."
+  },
+  "educationalObjective": "Gastrin raises gastric acid secretion mainly via ECL cell histamine release, not by a direct parietal cell effect.",
+  "source": "Generated from 9. Gastrointestinal.pdf - Physiology: Secretory cell locations and pancreatic enzymes"
+},
+{
+  "id": "gi-101",
+  "subject": "Gastrointestinal",
+  "major_topic": "Physiology",
+  "subtopic": "Secretory cell locations and pancreatic enzymes",
+  "difficulty": "hard",
+  "vignette": "A researcher cannulates the main pancreatic duct of a volunteer. During the low-flow basal state, the collected juice is isotonic and relatively chloride-rich. After secretin stimulation, pancreatic flow increases several-fold.",
+  "question": "Which change in pancreatic juice composition accompanies the increase in flow rate?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The fluid becomes hypotonic and essentially chloride-free"
+    },
+    {
+      "id": "B",
+      "text": "Bicarbonate concentration falls while chloride concentration rises"
+    },
+    {
+      "id": "C",
+      "text": "Potassium becomes the dominant anion at high flow rates"
+    },
+    {
+      "id": "D",
+      "text": "Bicarbonate concentration rises while chloride concentration falls"
+    },
+    {
+      "id": "E",
+      "text": "Total solute concentration rises sharply as flow increases"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Pancreatic secretion is an isotonic fluid. At low flow rates it is high in chloride, whereas at high flow rates it is high in bicarbonate. Secretin stimulates ductal bicarbonate secretion, which neutralizes gastric acid in the duodenum and creates the pH needed for pancreatic enzymes to function.",
+  "explanation_incorrect": {
+    "A": "Pancreatic juice remains isotonic across flow rates; it does not become hypotonic or lose all chloride.",
+    "B": "This reverses the actual relationship: low flow is chloride-rich and high flow is bicarbonate-rich.",
+    "C": "Potassium is not the dominant anion; the reciprocal relationship is between chloride and bicarbonate.",
+    "E": "Because the fluid is isotonic, total solute concentration stays roughly constant rather than rising sharply."
+  },
+  "educationalObjective": "Pancreatic juice is isotonic: low flow is high in Cl- and high flow is high in HCO3-.",
+  "source": "Generated from 9. Gastrointestinal.pdf - Physiology: Secretory cell locations and pancreatic enzymes"
+},
+{
+  "id": "gi-102",
+  "subject": "Gastrointestinal",
+  "major_topic": "Physiology",
+  "subtopic": "Secretory cell locations and pancreatic enzymes",
+  "difficulty": "easy",
+  "vignette": "A 34-year-old woman with chronic pancreatitis has steatorrhea and reduced fecal elastase. Her physician reviews which pancreatic enzymes are secreted in inactive form and therefore require activation within the intestinal lumen.",
+  "question": "Which pancreatic enzyme is secreted in its active form rather than as an inactive zymogen?",
+  "options": [
+    {
+      "id": "A",
+      "text": "alpha-Amylase"
+    },
+    {
+      "id": "B",
+      "text": "Trypsinogen"
+    },
+    {
+      "id": "C",
+      "text": "Chymotrypsinogen"
+    },
+    {
+      "id": "D",
+      "text": "Proelastase"
+    },
+    {
+      "id": "E",
+      "text": "Procarboxypeptidase"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Pancreatic alpha-amylase digests starch and is secreted in active form, so it can act immediately in the small intestine. In contrast, the pancreatic proteases (trypsin, chymotrypsin, elastase, and carboxypeptidases) are secreted as inactive proenzymes called zymogens. This prevents the enzymes from digesting the acinar cells and ducts that produce them.",
+  "explanation_incorrect": {
+    "B": "Trypsinogen is the inactive zymogen converted to trypsin by enteropeptidase on the duodenal and jejunal brush border.",
+    "C": "Chymotrypsinogen is an inactive zymogen activated by trypsin after trypsinogen conversion.",
+    "D": "Proelastase is the inactive precursor of elastase and belongs to the zymogen group of pancreatic proteases.",
+    "E": "Procarboxypeptidase is the inactive precursor of carboxypeptidase and requires proteolytic activation."
+  },
+  "educationalObjective": "alpha-Amylase is secreted active; pancreatic proteases are secreted as zymogens.",
+  "source": "Generated from 9. Gastrointestinal.pdf - Physiology: Secretory cell locations and pancreatic enzymes"
+},
+{
+  "id": "gi-103",
+  "subject": "Gastrointestinal",
+  "major_topic": "Physiology",
+  "subtopic": "Secretory cell locations and pancreatic enzymes",
+  "difficulty": "medium",
+  "vignette": "A 4-year-old child has failure to thrive and steatorrhea. Testing shows normal pancreatic amylase and lipase secretion but markedly reduced activity of all pancreatic proteases, including carboxypeptidase and elastase. The defect is in an enzyme normally present on the brush border of the proximal small intestine.",
+  "question": "Deficiency of which enzyme best explains these findings?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Lactase on the ileal brush border"
+    },
+    {
+      "id": "B",
+      "text": "Pepsin secreted by gastric chief cells"
+    },
+    {
+      "id": "C",
+      "text": "Trypsin secreted directly by pancreatic acinar cells"
+    },
+    {
+      "id": "D",
+      "text": "Sucrase on the jejunal brush border"
+    },
+    {
+      "id": "E",
+      "text": "Enteropeptidase (enterokinase) on duodenal and jejunal mucosa"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Enteropeptidase, also called enterokinase, is a brush-border enzyme on duodenal and jejunal mucosa that converts trypsinogen to active trypsin. Trypsin then activates the other pancreatic proenzymes and cleaves additional trypsinogen into trypsin, a positive feedback loop. Without enteropeptidase, all pancreatic proteases remain inactive, producing protein maldigestion despite normal enzyme secretion.",
+  "explanation_incorrect": {
+    "A": "Lactase hydrolyzes the disaccharide lactose; it does not activate pancreatic protease zymogens.",
+    "B": "Pepsin is a gastric protease secreted by chief cells as pepsinogen and is active at low pH; it is not a brush-border activator.",
+    "C": "Acinar cells secrete trypsinogen, not active trypsin; activation occurs in the intestinal lumen by enteropeptidase.",
+    "D": "Sucrase digests sucrose at the brush border and plays no role in zymogen activation."
+  },
+  "educationalObjective": "Enteropeptidase on the duodenal and jejunal brush border activates trypsinogen, which then activates other pancreatic zymogens in positive feedback.",
+  "source": "Generated from 9. Gastrointestinal.pdf - Physiology: Secretory cell locations and pancreatic enzymes"
+},
+{
+  "id": "gi-104",
+  "subject": "Gastrointestinal",
+  "major_topic": "Physiology",
+  "subtopic": "Secretory cell locations and pancreatic enzymes",
+  "difficulty": "easy",
+  "vignette": "A 28-year-old man eats a fatty meal. Within minutes, fatty acids in the duodenum trigger a hormone that produces gallbladder contraction, pancreatic enzyme secretion, relaxation of the sphincter of Oddi, and slower gastric emptying.",
+  "question": "Which cells secrete this hormone?",
+  "options": [
+    {
+      "id": "A",
+      "text": "S cells of the duodenum"
+    },
+    {
+      "id": "B",
+      "text": "K cells of the duodenum and jejunum"
+    },
+    {
+      "id": "C",
+      "text": "I cells of the duodenum and jejunum"
+    },
+    {
+      "id": "D",
+      "text": "G cells of the gastric antrum"
+    },
+    {
+      "id": "E",
+      "text": "D cells of the gastric mucosa"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Cholecystokinin (CCK) is secreted by I cells of the duodenum and jejunum in response to fatty acids and amino acids. It increases pancreatic secretion through neural muscarinic pathways, causes gallbladder contraction, relaxes the sphincter of Oddi, and decreases gastric emptying. This is the classic hormone-to-cell-of-origin pairing in the GI regulatory substances table.",
+  "explanation_incorrect": {
+    "A": "S cells of the duodenum secrete secretin, which stimulates bicarbonate secretion and lowers gastric acid secretion.",
+    "B": "K cells of the duodenum and jejunum secrete GIP, which stimulates insulin release and reduces gastric acid secretion.",
+    "D": "G cells, mainly in the gastric antrum, secrete gastrin, which raises acid secretion and gastric motility.",
+    "E": "D cells secrete somatostatin, which inhibits acid, pepsinogen, pancreatic secretion, and gallbladder contraction."
+  },
+  "educationalObjective": "CCK comes from I cells of the duodenum and jejunum and coordinates the response to fatty acids and amino acids.",
+  "source": "Generated from 9. Gastrointestinal.pdf - Physiology: Secretory cell locations and pancreatic enzymes"
+},
+{
+  "id": "gi-105",
+  "subject": "Gastrointestinal",
+  "major_topic": "Physiology",
+  "subtopic": "Secretory cell locations and pancreatic enzymes",
+  "difficulty": "medium",
+  "vignette": "A nutrition researcher traces the fate of a dipeptide produced by pancreatic proteases in the small intestinal lumen. The dipeptide is taken up by an enterocyte, and its constituent amino acids subsequently appear in portal blood.",
+  "question": "Where are di- and tripeptides degraded to free amino acids?",
+  "options": [
+    {
+      "id": "A",
+      "text": "In the pancreatic acinar lumen by carboxypeptidases"
+    },
+    {
+      "id": "B",
+      "text": "Within the intestinal mucosa by intracellular processes"
+    },
+    {
+      "id": "C",
+      "text": "In the gastric lumen by pepsin at low pH"
+    },
+    {
+      "id": "D",
+      "text": "In the colon by bacterial proteases"
+    },
+    {
+      "id": "E",
+      "text": "On the duodenal brush border by enteropeptidase"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "After pancreatic proteases generate smaller peptides, di- and tripeptides are degraded within the intestinal mucosa by intracellular processes. Their amino acids then exit the enterocyte and enter the circulation. This is why the final step of protein digestion is an enterocyte event rather than a luminal one.",
+  "explanation_incorrect": {
+    "A": "Carboxypeptidases trim amino acids from peptide ends in the lumen, but the final di- and tripeptide breakdown occurs inside enterocytes.",
+    "C": "Pepsin acts in the acidic stomach early in protein digestion, not on absorbed dipeptides in the small intestine.",
+    "D": "Colonic bacteria can metabolize residual protein, but this is not the route by which dietary dipeptides become circulating amino acids.",
+    "E": "Enteropeptidase converts trypsinogen to trypsin; it does not digest dipeptides."
+  },
+  "educationalObjective": "Di- and tripeptides are hydrolyzed to amino acids intracellularly within the intestinal mucosa.",
+  "source": "Generated from 9. Gastrointestinal.pdf - Physiology: Secretory cell locations and pancreatic enzymes"
+}
+]

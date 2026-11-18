@@ -1,0 +1,166 @@
+[
+{
+  "id": "gi-329",
+  "subject": "Gastrointestinal",
+  "major_topic": "Pharmacology",
+  "subtopic": "H2 blockers",
+  "difficulty": "easy",
+  "vignette": "A 52-year-old man has intermittent epigastric burning that occurs at night and improves with food. He is diagnosed with a peptic ulcer and started on cimetidine, with marked improvement in his symptoms. His physician explains how the drug works.",
+  "question": "H2 blockers reduce gastric acid secretion by which of the following mechanisms?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Irreversible inhibition of the H+/K+-ATPase"
+    },
+    {
+      "id": "B",
+      "text": "Reversible blockade of histamine H2 receptors on parietal cells"
+    },
+    {
+      "id": "C",
+      "text": "Direct neutralization of secreted acid in the gastric lumen"
+    },
+    {
+      "id": "D",
+      "text": "Blockade of muscarinic M3 receptors on parietal cells"
+    },
+    {
+      "id": "E",
+      "text": "Inhibition of carbonic anhydrase"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "H2 blockers (cimetidine, famotidine, nizatidine) reversibly block histamine H2 receptors on parietal cells, reducing histamine-driven cAMP generation and H+ secretion. They are used for peptic ulcer, gastritis, and mild esophageal reflux. Their effect is reversible, unlike the irreversible blockade produced by proton pump inhibitors.",
+  "explanation_incorrect": {
+    "A": "Irreversible H+/K+-ATPase inhibition is the mechanism of proton pump inhibitors, not H2 blockers.",
+    "C": "Direct luminal acid neutralization is the mechanism of antacids; H2 blockers reduce acid production rather than neutralizing acid already secreted.",
+    "D": "M3 muscarinic receptor blockade is an anticholinergic effect; H2 blockers act specifically at histamine H2 receptors.",
+    "E": "Carbonic anhydrase inhibition is not how H2 blockers work; that enzyme supplies H+ but is not their target."
+  },
+  "educationalObjective": "H2 blockers reversibly antagonize parietal-cell H2 receptors, decreasing acid secretion.",
+  "source": "Generated from 9. Gastrointestinal.pdf - Pharmacology: H2 blockers"
+},
+{
+  "id": "gi-330",
+  "subject": "Gastrointestinal",
+  "major_topic": "Pharmacology",
+  "subtopic": "H2 blockers",
+  "difficulty": "medium",
+  "vignette": "A 64-year-old man with atrial fibrillation is maintained on warfarin. He is started on cimetidine for gastric reflux. Two weeks later he presents with gum bleeding and an INR well above his therapeutic range, with no change in his diet or warfarin dose.",
+  "question": "Cimetidine can increase the effects of many concurrently administered drugs because it is which of the following?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A potent inducer of cytochrome P-450 enzymes"
+    },
+    {
+      "id": "B",
+      "text": "An inhibitor of renal tubular secretion of all organic drugs"
+    },
+    {
+      "id": "C",
+      "text": "A displacer of drugs from plasma albumin binding sites"
+    },
+    {
+      "id": "D",
+      "text": "An H2 receptor antagonist acting within the liver"
+    },
+    {
+      "id": "E",
+      "text": "A potent inhibitor of cytochrome P-450"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Cimetidine is a potent inhibitor of cytochrome P-450, so it can raise the levels of many drugs metabolized by this system (such as warfarin, theophylline, and phenytoin), leading to toxicity. This is a signature adverse property of cimetidine; other H2 blockers such as famotidine and nizatidine are relatively free of it.",
+  "explanation_incorrect": {
+    "A": "Cimetidine inhibits rather than induces cytochrome P-450; induction would lower, not raise, warfarin levels.",
+    "B": "Cimetidine does reduce renal excretion of creatinine, but broad inhibition of tubular drug secretion is not the main mechanism of its many interactions.",
+    "C": "Protein-binding displacement would cause only a transient rise in free drug and is not the principal mechanism of cimetidine's interactions.",
+    "D": "H2 receptor blockade occurs on parietal cells and does not explain altered metabolism of warfarin in the liver."
+  },
+  "educationalObjective": "Cimetidine inhibits cytochrome P-450 and causes multiple clinically important drug interactions.",
+  "source": "Generated from 9. Gastrointestinal.pdf - Pharmacology: H2 blockers"
+},
+{
+  "id": "gi-331",
+  "subject": "Gastrointestinal",
+  "major_topic": "Pharmacology",
+  "subtopic": "H2 blockers",
+  "difficulty": "medium",
+  "vignette": "A 55-year-old man with GERD has taken cimetidine for several months. He develops breast tenderness and visibly enlarging breasts, complains of reduced sexual desire and difficulty achieving erections, and has an elevated serum prolactin level.",
+  "question": "Which of the following best explains this patient's gynecomastia, elevated prolactin, and decreased libido?",
+  "options": [
+    {
+      "id": "A",
+      "text": "CYP450 inhibition altering estrogen metabolism"
+    },
+    {
+      "id": "B",
+      "text": "Histamine H2 blockade within the hypothalamus"
+    },
+    {
+      "id": "C",
+      "text": "Cimetidine's antiandrogenic effects with increased prolactin release"
+    },
+    {
+      "id": "D",
+      "text": "Vitamin B12 malabsorption from prolonged acid suppression"
+    },
+    {
+      "id": "E",
+      "text": "Reduced renal creatinine excretion"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Cimetidine has antiandrogenic effects: it promotes prolactin release and can cause gynecomastia, impotence, and decreased libido in men. It also crosses the blood-brain barrier (confusion, dizziness, headache) and the placenta. These effects are largely unique to cimetidine among H2 blockers.",
+  "explanation_incorrect": {
+    "A": "Although cimetidine inhibits CYP450, the gynecomastia and libido changes are attributed to its direct antiandrogenic and prolactin-releasing effects, not altered estrogen metabolism.",
+    "B": "Central H2 blockade is not the accepted mechanism for these endocrine effects; the antiandrogenic action explains the findings.",
+    "D": "Vitamin B12 malabsorption is associated with long-term proton pump inhibitor use, not with cimetidine's antiandrogenic effects.",
+    "E": "Cimetidine does decrease renal creatinine excretion, but that does not cause gynecomastia, impotence, or hyperprolactinemia."
+  },
+  "educationalObjective": "Cimetidine's antiandrogenic effects cause gynecomastia, impotence, decreased libido, and hyperprolactinemia.",
+  "source": "Generated from 9. Gastrointestinal.pdf - Pharmacology: H2 blockers"
+},
+{
+  "id": "gi-332",
+  "subject": "Gastrointestinal",
+  "major_topic": "Pharmacology",
+  "subtopic": "H2 blockers",
+  "difficulty": "easy",
+  "vignette": "A patient developed confusion and gynecomastia while taking cimetidine for a peptic ulcer. His physician wants to switch him to a different H2 blocker that is relatively free of these CNS and antiandrogenic effects while retaining the same class benefit.",
+  "question": "Which of the following agents is an appropriate alternative H2 blocker that is relatively free of cimetidine's characteristic adverse effects?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Famotidine"
+    },
+    {
+      "id": "B",
+      "text": "Omeprazole"
+    },
+    {
+      "id": "C",
+      "text": "Cimetidine"
+    },
+    {
+      "id": "D",
+      "text": "Misoprostol"
+    },
+    {
+      "id": "E",
+      "text": "Sucralfate"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Famotidine (like nizatidine) is an H2 blocker that is relatively free of the CYP450 inhibition, antiandrogenic effects, CNS penetration, and creatinine-excretion effects seen with cimetidine. It still reversibly blocks H2 receptors and is used for peptic ulcer, gastritis, and mild reflux.",
+  "explanation_incorrect": {
+    "B": "Omeprazole is a proton pump inhibitor that irreversibly inhibits the H+/K+-ATPase; it is not an H2 blocker.",
+    "C": "Cimetidine is the agent causing these effects; it is not the relatively safe alternative being sought.",
+    "D": "Misoprostol is a PGE1 analog used to prevent NSAID-induced ulcers, not an H2 receptor antagonist.",
+    "E": "Sucralfate is a mucosal protectant that binds the ulcer base; it is not an H2 blocker."
+  },
+  "educationalObjective": "Famotidine and nizatidine are H2 blockers largely free of cimetidine's CYP450, antiandrogenic, and CNS effects.",
+  "source": "Generated from 9. Gastrointestinal.pdf - Pharmacology: H2 blockers"
+}
+]
