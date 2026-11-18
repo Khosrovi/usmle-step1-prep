@@ -1,0 +1,248 @@
+[
+{
+  "id": "neu-158",
+  "subject": "Neurology",
+  "major_topic": "Pathology",
+  "subtopic": "Ischemic brain disease and stroke",
+  "difficulty": "medium",
+  "vignette": "A 63-year-old man suffers cardiac arrest with 8 minutes of global cerebral hypoxia before resuscitation. He remains comatose.",
+  "question": "Which regions of the brain are most vulnerable to irreversible hypoxic-ischemic injury in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Hippocampus (CA1), neocortex, cerebellar Purkinje cells, and watershed areas"
+    },
+    {
+      "id": "B",
+      "text": "Basal ganglia, thalamus, and midbrain tectum"
+    },
+    {
+      "id": "C",
+      "text": "Ventricles, choroid plexus, and meninges"
+    },
+    {
+      "id": "D",
+      "text": "Cerebellar vermis, dentate nucleus, and red nucleus"
+    },
+    {
+      "id": "E",
+      "text": "Hypothalamus, mammillary bodies, and pineal gland"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Irreversible neuronal injury begins after about 5 minutes of hypoxia. The most vulnerable regions are the hippocampus (especially CA1), neocortex, cerebellar Purkinje cells, and watershed (borderzone) areas—captured by the mnemonic —vulnerable hippos need pure water.— Global hypoperfusion such as cardiac arrest therefore tends to injure these regions.",
+  "explanation_incorrect": {
+    "B": "The basal ganglia and thalamus can be affected in certain metabolic or toxic injuries, but they are not the classic most hypoxia-sensitive regions emphasized here.",
+    "C": "The ventricles, choroid plexus, and meninges are not neuronal tissue and are not the sites of hypoxic neuronal injury.",
+    "D": "Deep cerebellar nuclei and the red nucleus are relatively resistant compared with the Purkinje cell layer and the cortex.",
+    "E": "The hypothalamus and pineal gland are not among the regions most vulnerable to global hypoxia."
+  },
+  "educationalObjective": "After about 5 minutes of hypoxia, the hippocampus (CA1), neocortex, Purkinje cells, and watershed zones are most vulnerable to irreversible injury.",
+  "source": "Generated from 12. Neurology.pdf - Pathology: Ischemic brain disease and stroke"
+},
+{
+  "id": "neu-159",
+  "subject": "Neurology",
+  "major_topic": "Pathology",
+  "subtopic": "Ischemic brain disease and stroke",
+  "difficulty": "medium",
+  "vignette": "A 71-year-old woman develops sudden left-sided weakness and aphasia 90 minutes ago. Emergency CT without contrast is performed and shows no hemorrhage and no obvious hypodensity.",
+  "question": "Which of the following best describes the appropriate interpretation and next imaging step in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The normal CT excludes acute ischemic stroke; no further imaging is needed"
+    },
+    {
+      "id": "B",
+      "text": "CT would reliably show the ischemic infarct within the first hour if present"
+    },
+    {
+      "id": "C",
+      "text": "MRI with contrast is required before thrombolysis can be considered"
+    },
+    {
+      "id": "D",
+      "text": "Noncontrast CT is used to exclude hemorrhage before tPA, and diffusion-weighted MRI can detect ischemia within 3–30 minutes"
+    },
+    {
+      "id": "E",
+      "text": "A lumbar puncture is needed to rule out subarachnoid hemorrhage before treatment"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Noncontrast CT is the first-line study in acute stroke to exclude intracranial hemorrhage, which is a contraindication to tPA; early ischemic changes on CT may not appear for 6–24 hours. Diffusion-weighted MRI is far more sensitive and can detect restricted diffusion from ischemia within 3–30 minutes. A normal noncontrast CT does not exclude acute ischemia.",
+  "explanation_incorrect": {
+    "A": "A normal early noncontrast CT does not exclude acute ischemic stroke; the infarct may not become visible for 6–24 hours.",
+    "B": "CT typically detects ischemic changes only after 6–24 hours, not within the first hour.",
+    "C": "Contrast MRI is not required before thrombolysis; noncontrast CT is sufficient to exclude hemorrhage, and DWI (a noncontrast sequence) is the sensitive test for early ischemia.",
+    "E": "Lumbar puncture is not indicated in the routine evaluation of suspected ischemic stroke when CT excludes hemorrhage."
+  },
+  "educationalObjective": "Noncontrast CT excludes hemorrhage before tPA; DWI MRI detects acute ischemia within 3–30 minutes, whereas CT changes lag 6–24 hours.",
+  "source": "Generated from 12. Neurology.pdf - Pathology: Ischemic brain disease and stroke"
+},
+{
+  "id": "neu-160",
+  "subject": "Neurology",
+  "major_topic": "Pathology",
+  "subtopic": "Ischemic brain disease and stroke",
+  "difficulty": "hard",
+  "vignette": "A 74-year-old man dies 4 days after an acute cerebral infarction. Histologic examination of the infarct boundary is most likely to show which of the following findings?",
+  "question": "Which histologic feature is most consistent with an infarct of this age?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Eosinophilic cytoplasm with pyknotic nuclei (red neurons) as the dominant feature"
+    },
+    {
+      "id": "B",
+      "text": "Necrosis with numerous neutrophils"
+    },
+    {
+      "id": "C",
+      "text": "Macrophages (microglia) as the predominant cell type"
+    },
+    {
+      "id": "D",
+      "text": "Reactive gliosis with vascular proliferation"
+    },
+    {
+      "id": "E",
+      "text": "A mature glial scar"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Ischemic neuronal death evolves in a predictable temporal sequence. Red neurons (eosinophilic cytoplasm, pyknotic nuclei) appear within about an hour; necrosis with neutrophils at 12–24 hours; macrophages/microglia at 24–72 hours; reactive gliosis with vascular proliferation at 3–5 days; and a glial scar after about 2 weeks. At 4 days, reactive gliosis with vascular proliferation predominates.",
+  "explanation_incorrect": {
+    "A": "Red neurons are an early (about 1 hour) finding and would not be the dominant feature at 4 days.",
+    "B": "Necrosis with neutrophils peaks around 12–24 hours, earlier than this patient's 4-day interval.",
+    "C": "Macrophages/microglia are characteristic of the 24–72 hour window; by 4 days astrocytic gliosis is more prominent.",
+    "E": "A mature glial scar requires more than 2 weeks to form and would not be present at 4 days."
+  },
+  "educationalObjective": "Infarct histology progresses from red neurons (1 h) to neutrophils (12–24 h), macrophages (24–72 h), gliosis/vascular proliferation (3–5 d), and glial scar (>2 wk).",
+  "source": "Generated from 12. Neurology.pdf - Pathology: Ischemic brain disease and stroke"
+},
+{
+  "id": "neu-161",
+  "subject": "Neurology",
+  "major_topic": "Pathology",
+  "subtopic": "Ischemic brain disease and stroke",
+  "difficulty": "medium",
+  "vignette": "A 66-year-old man with atrial fibrillation presents with sudden weakness. Imaging reveals acute infarcts in both the left MCA and right PCA territories.",
+  "question": "Which of the following mechanisms best explains the involvement of multiple vascular territories in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Thrombosis forming directly over a ruptured plaque in the left MCA"
+    },
+    {
+      "id": "B",
+      "text": "Hypoxic injury from systemic hypoperfusion affecting watershed zones"
+    },
+    {
+      "id": "C",
+      "text": "Lipohyalinosis of a lenticulostriate artery causing a lacunar infarct"
+    },
+    {
+      "id": "D",
+      "text": "Vasospasm from subarachnoid hemorrhage"
+    },
+    {
+      "id": "E",
+      "text": "Emboli from the heart (atrial fibrillation) showering multiple cerebral arteries"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Cardioembolic stroke from atrial fibrillation can shower emboli to multiple vascular territories simultaneously, producing infarcts in several arterial distributions—as in this patient with both MCA and PCA involvement. Other embolic sources include carotid stenosis, DVT with patent foramen ovale (paradoxical embolism), and infective endocarditis.",
+  "explanation_incorrect": {
+    "A": "Thrombotic strokes form in situ over an atherosclerotic plaque (classically the MCA) and are typically confined to a single vascular territory.",
+    "B": "Hypoxic (hypoperfusion) injuries affect watershed/borderzone areas rather than discrete occlusion of multiple named territories.",
+    "C": "Lipohyalinosis causes small lacunar infarcts (eg, lenticulostriate) in a single territory, not simultaneous multi-territory infarcts.",
+    "D": "Vasospasm following subarachnoid hemorrhage produces delayed, territory-based ischemia rather than simultaneous embolic infarcts in atrial fibrillation."
+  },
+  "educationalObjective": "Embolic strokes (eg, atrial fibrillation) can affect multiple vascular territories, whereas thrombotic and lacunar strokes are usually confined to one territory.",
+  "source": "Generated from 12. Neurology.pdf - Pathology: Ischemic brain disease and stroke"
+},
+{
+  "id": "neu-162",
+  "subject": "Neurology",
+  "major_topic": "Pathology",
+  "subtopic": "Ischemic brain disease and stroke",
+  "difficulty": "medium",
+  "vignette": "A 68-year-old woman develops sudden right-sided weakness and aphasia 2 hours ago. Noncontrast CT shows no hemorrhage. CT angiography confirms occlusion of the proximal left MCA.",
+  "question": "Which of the following is the most appropriate acute reperfusion therapy for this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Intravenous tPA is contraindicated because the CT is normal"
+    },
+    {
+      "id": "B",
+      "text": "Immediate carotid endarterectomy without further imaging"
+    },
+    {
+      "id": "C",
+      "text": "Intravenous tPA if within 3–4.5 hours of onset with no hemorrhage, plus consideration of mechanical thrombectomy for large artery occlusion"
+    },
+    {
+      "id": "D",
+      "text": "Therapeutic hypothermia as the primary reperfusion strategy"
+    },
+    {
+      "id": "E",
+      "text": "Mannitol as the primary therapy to restore perfusion"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Intravenous tPA is indicated for acute ischemic stroke within 3–4.5 hours of symptom onset when hemorrhage and bleeding risks have been excluded; it works by fibrinolysis of the occluding thrombus. Mechanical thrombectomy is added for large artery occlusions such as proximal MCA occlusion. This patient presents at 2 hours with a confirmed large vessel occlusion and no hemorrhage.",
+  "explanation_incorrect": {
+    "A": "A normal noncontrast CT (no hemorrhage) is precisely what permits tPA; it is not a contraindication.",
+    "B": "Carotid endarterectomy is a preventive strategy for stenosis, not acute reperfusion therapy for an evolving infarct.",
+    "D": "Therapeutic hypothermia is used in selected comatose patients after cardiac arrest, not as reperfusion therapy for acute ischemic stroke.",
+    "E": "Mannitol reduces intracranial pressure from edema; it does not restore blood flow or lyse the occluding clot."
+  },
+  "educationalObjective": "Acute ischemic stroke is treated with IV tPA within 3–4.5 hours (after excluding hemorrhage) and thrombectomy for large vessel occlusion.",
+  "source": "Generated from 12. Neurology.pdf - Pathology: Ischemic brain disease and stroke"
+},
+{
+  "id": "neu-163",
+  "subject": "Neurology",
+  "major_topic": "Pathology",
+  "subtopic": "Ischemic brain disease and stroke",
+  "difficulty": "easy",
+  "vignette": "A 60-year-old man has two brief episodes over the past week in which he suddenly lost vision in his right eye, each lasting about 10 minutes, followed by complete recovery. He also had one episode of transient left-hand weakness that resolved within 15 minutes. MRI shows no acute infarct. Carotid imaging reveals severe right carotid stenosis.",
+  "question": "Which of the following is the most likely diagnosis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Acute ischemic stroke with completed infarction"
+    },
+    {
+      "id": "B",
+      "text": "Transient ischemic attack, with amaurosis fugax from retinal artery emboli"
+    },
+    {
+      "id": "C",
+      "text": "Cerebral venous sinus thrombosis"
+    },
+    {
+      "id": "D",
+      "text": "Migraine with aura"
+    },
+    {
+      "id": "E",
+      "text": "Multiple sclerosis"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "A transient ischemic attack is a brief episode of focal neurologic dysfunction without acute infarction on MRI, with most episodes resolving in under 15 minutes. Amaurosis fugax—transient monocular visual loss—results from retinal artery emboli, commonly from carotid artery disease, and this patient's severe carotid stenosis supports that mechanism.",
+  "explanation_incorrect": {
+    "A": "A completed ischemic stroke would show an acute infarct on MRI and persistent deficits rather than complete resolution within minutes.",
+    "C": "Cerebral venous sinus thrombosis typically causes headache, seizures, and focal deficits that do not resolve within minutes and would show venous sinus abnormalities on imaging.",
+    "D": "Migraine with aura produces positive visual phenomena that spread over minutes and is not caused by carotid stenosis or retinal emboli.",
+    "E": "Multiple sclerosis causes demyelinating lesions with subacute, progressive neurologic deficits, not brief transient episodes with a negative MRI."
+  },
+  "educationalObjective": "TIA causes brief, fully reversible focal deficits with negative MRI; amaurosis fugax is transient monocular vision loss from carotid retinal emboli.",
+  "source": "Generated from 12. Neurology.pdf - Pathology: Ischemic brain disease and stroke"
+}
+]

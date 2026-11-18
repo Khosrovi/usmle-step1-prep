@@ -1,0 +1,207 @@
+[
+{
+  "id": "neu-418",
+  "subject": "Neurology",
+  "major_topic": "Pharmacology",
+  "subtopic": "General anesthetics",
+  "difficulty": "medium",
+  "vignette": "An anesthesiologist compares several inhaled agents. For each agent she notes the minimum alveolar concentration (MAC) required to prevent movement in response to a skin incision in 50% of patients.",
+  "question": "Which of the following relationships between MAC and potency is correct?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Potency is directly proportional to MAC, so the agent with the highest MAC is the most potent"
+    },
+    {
+      "id": "B",
+      "text": "MAC is the concentration that produces anesthesia in 95% of patients"
+    },
+    {
+      "id": "C",
+      "text": "Potency is unrelated to MAC but proportional to blood solubility"
+    },
+    {
+      "id": "D",
+      "text": "MAC predicts the speed of induction, with higher MAC agents acting faster"
+    },
+    {
+      "id": "E",
+      "text": "Potency is inversely proportional to MAC, so the agent with the lowest MAC is the most potent"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "MAC is the minimum alveolar concentration of inhaled anesthetic required to prevent movement in response to a noxious stimulus in 50% of subjects. Potency is inversely proportional to MAC (potency = 1/MAC), so the agent with the lowest MAC is the most potent. High lipid solubility increases potency and lowers MAC. Note that low blood solubility, not MAC, determines rapid induction and recovery.",
+  "explanation_incorrect": {
+    "A": "The relationship is inverse, not direct: a higher MAC means a less potent agent.",
+    "B": "MAC refers to prevention of movement in 50% of subjects, not 95%.",
+    "C": "Potency is directly related to MAC (inversely proportional) and to lipid solubility, not blood solubility.",
+    "D": "Speed of induction depends on blood solubility, not MAC; low blood solubility gives rapid induction."
+  },
+  "educationalObjective": "MAC is the concentration preventing movement in 50% of patients; potency = 1/MAC, so lower MAC means higher potency.",
+  "source": "Generated from 12. Neurology.pdf - Pharmacology: General anesthetics"
+},
+{
+  "id": "neu-419",
+  "subject": "Neurology",
+  "major_topic": "Pharmacology",
+  "subtopic": "General anesthetics",
+  "difficulty": "easy",
+  "vignette": "A 28-year-old woman requires a brief outpatient procedure. The anesthesiologist chooses an inhaled agent with low blood solubility to allow rapid induction and rapid recovery.",
+  "question": "Which of the following properties best characterizes nitrous oxide (N2O)?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Low blood solubility allowing rapid induction, but very low potency and expansion of gas-filled cavities"
+    },
+    {
+      "id": "B",
+      "text": "High blood solubility causing slow induction and high potency"
+    },
+    {
+      "id": "C",
+      "text": "High lipid solubility making it the most potent volatile agent"
+    },
+    {
+      "id": "D",
+      "text": "A potent halogenated agent that commonly triggers malignant hyperthermia"
+    },
+    {
+      "id": "E",
+      "text": "An intravenous agent that potentiates GABA-A receptors"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Nitrous oxide has low blood solubility, which produces rapid induction and recovery. It has very low potency (high MAC) and is a weak analgesic. Because it diffuses into and expands gas-filled cavities such as a pneumothorax, it must be avoided in certain settings. Its properties are distinct from those of the halogenated volatile agents.",
+  "explanation_incorrect": {
+    "B": "N2O has low, not high, blood solubility; high blood solubility slows induction.",
+    "C": "N2O has low lipid solubility and low potency, not high potency.",
+    "D": "Malignant hyperthermia is triggered by potent volatile agents (sevoflurane, desflurane, isoflurane), not N2O.",
+    "E": "N2O is an inhaled agent; GABA-A potentiation describes IV agents like propofol and etomidate."
+  },
+  "educationalObjective": "N2O has low blood solubility (rapid induction), very low potency, and expands gas-filled cavities.",
+  "source": "Generated from 12. Neurology.pdf - Pharmacology: General anesthetics"
+},
+{
+  "id": "neu-420",
+  "subject": "Neurology",
+  "major_topic": "Pharmacology",
+  "subtopic": "General anesthetics",
+  "difficulty": "easy",
+  "vignette": "A 45-year-old man is being prepared for elective surgery. The anesthesiologist administers an intravenous drug that is the most commonly used agent for induction of general anesthesia.",
+  "question": "Which of the following best describes the drug used for induction in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Ketamine, an NMDA receptor antagonist that increases blood pressure"
+    },
+    {
+      "id": "B",
+      "text": "Etomidate, a hemodynamically neutral agent that can cause adrenal insufficiency"
+    },
+    {
+      "id": "C",
+      "text": "Propofol, which potentiates GABA-A receptors, inhibits NMDA receptors, and decreases blood pressure"
+    },
+    {
+      "id": "D",
+      "text": "Nitrous oxide, a low-potency inhaled gas"
+    },
+    {
+      "id": "E",
+      "text": "Succinylcholine, a depolarizing neuromuscular blocker"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Propofol is the most commonly used IV agent for induction of anesthesia. It potentiates GABA-A receptors and inhibits NMDA receptors, causing respiratory depression and decreased blood pressure. These effects make it effective but require careful hemodynamic monitoring, especially in unstable patients.",
+  "explanation_incorrect": {
+    "A": "Ketamine is a dissociative NMDA antagonist used in specific settings (eg, trauma, asthma), not the most common induction agent.",
+    "B": "Etomidate is valued for hemodynamic stability but is not the most commonly used induction agent and risks adrenal insufficiency.",
+    "D": "Nitrous oxide is an inhaled gas with low potency, not the standard IV induction agent.",
+    "E": "Succinylcholine is a neuromuscular blocker used for paralysis, not for induction of anesthesia."
+  },
+  "educationalObjective": "Propofol is the most common IV induction agent: GABA-A potentiation, NMDA inhibition, respiratory depression, and decreased BP.",
+  "source": "Generated from 12. Neurology.pdf - Pharmacology: General anesthetics"
+},
+{
+  "id": "neu-421",
+  "subject": "Neurology",
+  "major_topic": "Pharmacology",
+  "subtopic": "General anesthetics",
+  "difficulty": "hard",
+  "vignette": "A 68-year-old man with severe coronary artery disease and labile blood pressure requires emergent intubation. The anesthesiologist needs an IV induction agent that will preserve hemodynamics but is concerned about a specific endocrine adverse effect.",
+  "question": "Which IV anesthetic is most appropriate for its hemodynamic neutrality but is associated with acute adrenal insufficiency?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Propofol"
+    },
+    {
+      "id": "B",
+      "text": "Thiopental"
+    },
+    {
+      "id": "C",
+      "text": "Ketamine"
+    },
+    {
+      "id": "D",
+      "text": "Midazolam"
+    },
+    {
+      "id": "E",
+      "text": "Etomidate"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Etomidate potentiates GABA-A receptors and is hemodynamically neutral, making it useful for induction in patients who cannot tolerate the blood pressure drop caused by other agents. A key drawback is that it inhibits steroidogenesis and can cause acute adrenal insufficiency. It is also associated with postoperative nausea and vomiting.",
+  "explanation_incorrect": {
+    "A": "Propofol causes vasodilation and decreased blood pressure, so it is not hemodynamically neutral.",
+    "B": "Thiopental is a barbiturate with significant cardiovascular depression and is not hemodynamically neutral.",
+    "C": "Ketamine is a sympathomimetic that increases blood pressure and heart rate, not a neutral agent; it also causes hallucinations.",
+    "D": "Midazolam is a benzodiazepine that can cause dose-dependent respiratory and cardiovascular depression, not the classic adrenal-insufficiency agent."
+  },
+  "educationalObjective": "Etomidate is hemodynamically neutral but inhibits steroid synthesis, causing acute adrenal insufficiency.",
+  "source": "Generated from 12. Neurology.pdf - Pharmacology: General anesthetics"
+},
+{
+  "id": "neu-422",
+  "subject": "Neurology",
+  "major_topic": "Pharmacology",
+  "subtopic": "General anesthetics",
+  "difficulty": "medium",
+  "vignette": "A 22-year-old man with a history of asthma is brought to the emergency department after a traumatic injury. He requires sedation and analgesia. The physician selects an IV agent that provides dissociation, bronchodilation, and sympathetic stimulation.",
+  "question": "Which of the following best describes the mechanism and effects of the selected agent?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A GABA-A potentiator that causes hypotension and respiratory depression"
+    },
+    {
+      "id": "B",
+      "text": "A nondepolarizing neuromuscular blocker that causes muscle paralysis"
+    },
+    {
+      "id": "C",
+      "text": "A pure opioid agonist that causes miosis and respiratory depression"
+    },
+    {
+      "id": "D",
+      "text": "An NMDA receptor antagonist that increases blood pressure, heart rate, and cerebral blood flow, with bronchodilation"
+    },
+    {
+      "id": "E",
+      "text": "A benzodiazepine that produces anxiolysis and amnesia without analgesia"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Ketamine is an NMDA receptor antagonist that produces dissociative anesthesia. It is a sympathomimetic, increasing blood pressure, heart rate, and cerebral blood flow (and thus ICP), and it causes bronchodilation, which is useful in asthmatics. It can cause psychotomimetic effects including hallucinations and vivid dreams.",
+  "explanation_incorrect": {
+    "A": "That describes propofol or a benzodiazepine, which cause hypotension and respiratory depression; ketamine stimulates the sympathetic system.",
+    "B": "Neuromuscular blockers produce paralysis but have no analgesic or dissociative anesthetic effect.",
+    "C": "Ketamine is not an opioid; opioid agonists cause miosis (except meperidine) and respiratory depression.",
+    "E": "Benzodiazepines provide anxiolysis and amnesia but not the dissociation and bronchodilation of ketamine."
+  },
+  "educationalObjective": "Ketamine is an NMDA antagonist with sympathomimetic effects, increased CBF, bronchodilation, and psychotomimetic reactions.",
+  "source": "Generated from 12. Neurology.pdf - Pharmacology: General anesthetics"
+}
+]

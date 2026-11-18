@@ -1,0 +1,166 @@
+[
+{
+  "id": "neu-233",
+  "subject": "Neurology",
+  "major_topic": "Pathology",
+  "subtopic": "Idiopathic intracranial hypertension",
+  "difficulty": "medium",
+  "vignette": "A 28-year-old woman presents with a 6-week headache that is worse when lying down and accompanied by intermittent tinnitus and horizontal diplopia. She recently started tetracycline for acne and has gained weight. Visual field testing shows an enlarged blind spot, and fundoscopy reveals bilateral papilledema. Her mental status is normal, and CT of the head shows no mass, hemorrhage, or hydrocephalus.",
+  "question": "Which of the following is the most likely diagnosis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Migraine with visual aura"
+    },
+    {
+      "id": "B",
+      "text": "Idiopathic intracranial hypertension"
+    },
+    {
+      "id": "C",
+      "text": "Normal pressure hydrocephalus"
+    },
+    {
+      "id": "D",
+      "text": "Acute angle-closure glaucoma"
+    },
+    {
+      "id": "E",
+      "text": "Cerebral venous sinus thrombosis"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "This is idiopathic intracranial hypertension (pseudotumor cerebri), characterized by increased intracranial pressure with no structural findings on imaging. Risk factors include female sex, tetracyclines, obesity, vitamin A excess, and danazol (female TOAD), and it is associated with dural venous sinus stenosis. Impaired optic nerve axoplasmic flow produces papilledema with an enlarged blind spot and peripheral constriction. Headache is classically worse when lying down, and CN VI palsy can cause diplopia while mental status remains normal.",
+  "explanation_incorrect": {
+    "A": "Migraine may cause headache and visual aura but does not produce papilledema, elevated opening pressure, or CN VI palsy, and the headache is typically unilateral and throbbing.",
+    "C": "Normal pressure hydrocephalus affects older adults with a gait/cognitive/urinary triad and ventriculomegaly, none of which are present here.",
+    "D": "Angle-closure glaucoma causes severe eye pain, halos, and elevated intraocular pressure with a shallow anterior chamber, not bilateral papilledema with normal imaging.",
+    "E": "Cerebral venous sinus thrombosis can raise intracranial pressure but typically causes focal deficits or seizures and demonstrates thrombosis on venography rather than isolated stenosis."
+  },
+  "educationalObjective": "Recognize pseudotumor cerebri as increased intracranial pressure without structural lesions, with papilledema, CN VI palsy, and female/TOAD risk factors.",
+  "source": "Generated from 12. Neurology.pdf - Pathology: Idiopathic intracranial hypertension"
+},
+{
+  "id": "neu-234",
+  "subject": "Neurology",
+  "major_topic": "Pathology",
+  "subtopic": "Idiopathic intracranial hypertension",
+  "difficulty": "easy",
+  "vignette": "A 24-year-old woman with obesity and a recent course of isotretinoin develops a progressive headache, papilledema, and an enlarged blind spot. MRI is normal with no structural lesion. A lumbar puncture is performed and shows an elevated opening pressure; she reports transient improvement of her headache immediately after the procedure.",
+  "question": "Which of the following CSF findings is most consistent with this patient's condition?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Oligoclonal bands with elevated IgG"
+    },
+    {
+      "id": "B",
+      "text": "Low glucose with lymphocytic pleocytosis"
+    },
+    {
+      "id": "C",
+      "text": "Elevated opening pressure with normal CSF composition"
+    },
+    {
+      "id": "D",
+      "text": "Elevated protein with normal cell count"
+    },
+    {
+      "id": "E",
+      "text": "Xanthochromia with red blood cells"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "In idiopathic intracranial hypertension, lumbar puncture reveals an elevated opening pressure with otherwise normal CSF composition, and removal of CSF provides temporary headache relief. The increased pressure is transmitted to the optic nerve sheath, causing papilledema and visual field defects. There is no infection, inflammation, or bleeding to alter the CSF itself.",
+  "explanation_incorrect": {
+    "A": "Oligoclonal bands and elevated IgG are characteristic of multiple sclerosis, not idiopathic intracranial hypertension.",
+    "B": "Low glucose with lymphocytic pleocytosis suggests chronic infection such as tuberculous or fungal meningitis.",
+    "D": "Elevated protein with a normal cell count (albuminocytologic dissociation) is characteristic of Guillain-Barre syndrome.",
+    "E": "Xanthochromia with red blood cells indicates subarachnoid hemorrhage, not a pressure-related headache disorder."
+  },
+  "educationalObjective": "Identify elevated lumbar puncture opening pressure with normal CSF as the diagnostic hallmark of pseudotumor cerebri.",
+  "source": "Generated from 12. Neurology.pdf - Pathology: Idiopathic intracranial hypertension"
+},
+{
+  "id": "neu-235",
+  "subject": "Neurology",
+  "major_topic": "Pathology",
+  "subtopic": "Idiopathic intracranial hypertension",
+  "difficulty": "medium",
+  "vignette": "A 32-year-old woman with pseudotumor cerebri has failed conservative management. She has progressive visual field constriction despite weight loss and acetazolamide, and her headache and papilledema persist. She is referred for a definitive surgical procedure specifically aimed at preserving vision.",
+  "question": "Which of the following is the most appropriate surgical option for progressive visual loss in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Ventriculoperitoneal shunt placement"
+    },
+    {
+      "id": "B",
+      "text": "Endoscopic third ventriculostomy"
+    },
+    {
+      "id": "C",
+      "text": "Temporary lumbar drain placement"
+    },
+    {
+      "id": "D",
+      "text": "Optic nerve sheath fenestration"
+    },
+    {
+      "id": "E",
+      "text": "Craniotomy for tumor resection"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Optic nerve sheath fenestration is the surgical procedure specifically used for visual loss in refractory idiopathic intracranial hypertension. By creating an opening in the optic nerve sheath, it decompresses the optic nerve and helps preserve vision. Initial treatment includes weight loss and acetazolamide, with CSF shunting reserved for refractory cases, particularly when headache predominates.",
+  "explanation_incorrect": {
+    "A": "A CSF shunt is used for refractory intracranial hypertension but is not the procedure specifically targeted at preserving vision from papilledema.",
+    "B": "Endoscopic third ventriculostomy treats obstructive (noncommunicating) hydrocephalus, not pseudotumor cerebri.",
+    "C": "A lumbar drain may temporarily lower pressure but is not a definitive surgical therapy for progressive visual loss.",
+    "E": "There is no structural tumor in idiopathic intracranial hypertension, so tumor resection has no role."
+  },
+  "educationalObjective": "Distinguish optic nerve sheath fenestration for visual loss from CSF shunting for refractory headache in pseudotumor cerebri.",
+  "source": "Generated from 12. Neurology.pdf - Pathology: Idiopathic intracranial hypertension"
+},
+{
+  "id": "neu-236",
+  "subject": "Neurology",
+  "major_topic": "Pathology",
+  "subtopic": "Idiopathic intracranial hypertension",
+  "difficulty": "hard",
+  "vignette": "A 26-year-old woman presents with a headache that worsens when lying down and diplopia on lateral gaze. Examination shows bilateral papilledema and a left abducens (CN VI) nerve palsy. MR venography reveals stenosis of the dural venous sinuses. She has no focal deficits and normal mental status.",
+  "question": "Which of the following best explains the mechanism of this patient's diplopia?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Increased intracranial pressure causing traction on the abducens nerve along its long intracranial course"
+    },
+    {
+      "id": "B",
+      "text": "Demyelination of the medial longitudinal fasciculus"
+    },
+    {
+      "id": "C",
+      "text": "Compression of the cavernous sinus by an aneurysm"
+    },
+    {
+      "id": "D",
+      "text": "Ischemic infarction of the oculomotor nucleus"
+    },
+    {
+      "id": "E",
+      "text": "Autoimmune destruction of the neuromuscular junction"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "A CN VI palsy is a classic false localizing sign of increased intracranial pressure because the abducens nerve has a long, vulnerable intracranial course and is stretched by pressure. This produces horizontal diplopia in pseudotumor cerebri. The dural venous sinus stenosis associated with the disorder further impairs CSF absorption and contributes to the elevated pressure.",
+  "explanation_incorrect": {
+    "B": "A medial longitudinal fasciculus lesion causes internuclear ophthalmoplegia with impaired adduction, not an isolated abducens palsy.",
+    "C": "A cavernous sinus aneurysm would affect multiple cranial nerves (III, IV, V1, V2, VI) rather than producing an isolated CN VI palsy with papilledema.",
+    "D": "An oculomotor nucleus lesion would cause a CN III palsy with ptosis, a dilated pupil, and a down-and-out eye.",
+    "E": "Neuromuscular junction dysfunction such as myasthenia gravis causes fatigable diplopia and ptosis without papilledema or elevated intracranial pressure."
+  },
+  "educationalObjective": "Understand that CN VI palsy in pseudotumor cerebri is a false localizing sign caused by traction from elevated intracranial pressure.",
+  "source": "Generated from 12. Neurology.pdf - Pathology: Idiopathic intracranial hypertension"
+}
+]

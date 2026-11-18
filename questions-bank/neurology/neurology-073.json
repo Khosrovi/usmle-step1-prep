@@ -1,0 +1,248 @@
+[
+{
+  "id": "neu-215",
+  "subject": "Neurology",
+  "major_topic": "Pathology",
+  "subtopic": "Parkinson and Huntington disease",
+  "difficulty": "medium",
+  "vignette": "A 68-year-old man has had a progressively worsening tremor in his right hand at rest for 2 years. Examination shows cogwheel rigidity, a shuffling gait with reduced arm swing, and micrographia, and he has begun to fall when turning. His cognition is intact.",
+  "question": "Which of the following best describes the underlying pathology?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Loss of GABAergic neurons in the striatum due to a CAG repeat expansion"
+    },
+    {
+      "id": "B",
+      "text": "Loss of dopaminergic neurons in the substantia nigra pars compacta with α-synuclein Lewy bodies"
+    },
+    {
+      "id": "C",
+      "text": "Intracellular Lewy bodies primarily in the cortex with early fluctuating dementia"
+    },
+    {
+      "id": "D",
+      "text": "Degeneration of the superior cerebellar peduncle with a hummingbird sign"
+    },
+    {
+      "id": "E",
+      "text": "Microglial nodules with multinucleated giant cells in the subcortex"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Parkinson disease results from loss of dopaminergic neurons in the substantia nigra pars compacta, with depigmentation of the substantia nigra. Affected neurons contain Lewy bodies, intracellular eosinophilic inclusions composed of α-synuclein. Symptoms typically start after age 60 with the TRAP mnemonic: tremor (pill-rolling at rest), rigidity (cogwheel or leadpipe), akinesia/bradykinesia with shuffling gait and micrographia, and postural instability; dementia is usually a late finding. This patient's rest tremor, rigidity, bradykinesia, and falls with intact cognition fit classic Parkinson disease.",
+  "explanation_incorrect": {
+    "A": "Loss of striatal GABAergic neurons from a CAG repeat in HTT is Huntington disease, which causes chorea, athetosis, and psychiatric changes.",
+    "C": "Predominantly cortical Lewy bodies with early fluctuating cognition and visual hallucinations characterize Lewy body dementia, not Parkinson disease.",
+    "D": "A hummingbird sign on midbrain MRI is associated with progressive supranuclear palsy, a Parkinson-plus syndrome with vertical gaze palsy.",
+    "E": "Microglial nodules with multinucleated giant cells are characteristic of HIV-associated dementia, not Parkinson disease."
+  },
+  "educationalObjective": "Link Parkinson disease's dopaminergic substantia nigra degeneration and α-synuclein Lewy bodies to the TRAP clinical tetrad with late dementia.",
+  "source": "Generated from 12. Neurology.pdf - Pathology: Parkinson and Huntington disease"
+},
+{
+  "id": "neu-216",
+  "subject": "Neurology",
+  "major_topic": "Pathology",
+  "subtopic": "Parkinson and Huntington disease",
+  "difficulty": "medium",
+  "vignette": "A 70-year-old man presents with rigidity and bradykinesia, early falls, and an inability to look downward voluntarily. He has mild cognitive impairment. Sagittal MRI of the midbrain shows a midbrain shape described as a hummingbird sign.",
+  "question": "Which of the following is the most likely diagnosis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Parkinson disease"
+    },
+    {
+      "id": "B",
+      "text": "Huntington disease"
+    },
+    {
+      "id": "C",
+      "text": "Alzheimer disease"
+    },
+    {
+      "id": "D",
+      "text": "Progressive supranuclear palsy"
+    },
+    {
+      "id": "E",
+      "text": "Multiple system atrophy"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Progressive supranuclear palsy is a Parkinson-plus syndrome whose clinical presentation includes TRAP features, vertical gaze palsy, and cognitive dysfunction, with an associated hummingbird sign on midbrain MRI. The combination of parkinsonism, early postural instability, and a vertical gaze palsy, especially impaired downgaze, distinguishes this from ordinary Parkinson disease. The hummingbird sign further supports the diagnosis. In Parkinson disease, dementia is usually late and vertical gaze palsy is not a typical feature.",
+  "explanation_incorrect": {
+    "A": "Parkinson disease lacks vertical gaze palsy and early cognitive impairment and does not produce the hummingbird midbrain sign.",
+    "B": "Huntington disease presents with chorea, athetosis, aggression, depression, and dementia from striatal GABAergic neuron loss, typically at age 30-50.",
+    "C": "Alzheimer disease causes progressive cortical dementia with Aβ plaques and tau tangles rather than parkinsonism and gaze palsy.",
+    "E": "Multiple system atrophy is a parkinsonian syndrome with prominent autonomic and cerebellar features, not the vertical gaze palsy and hummingbird sign described."
+  },
+  "educationalObjective": "Recognize progressive supranuclear palsy as a Parkinson-plus syndrome with vertical gaze palsy, early cognitive dysfunction, and the hummingbird sign.",
+  "source": "Generated from 12. Neurology.pdf - Pathology: Parkinson and Huntington disease"
+},
+{
+  "id": "neu-217",
+  "subject": "Neurology",
+  "major_topic": "Pathology",
+  "subtopic": "Parkinson and Huntington disease",
+  "difficulty": "easy",
+  "vignette": "A 42-year-old woman has choreiform movements, slow writhing of her fingers, aggression, depression, and progressive cognitive decline. Her father developed similar symptoms at age 38. Imaging shows atrophy of the caudate nucleus with ex vacuo ventriculomegaly.",
+  "question": "Which of the following genetic abnormalities is most likely responsible?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Autosomal dominant CAG trinucleotide repeat expansion in HTT on chromosome 4"
+    },
+    {
+      "id": "B",
+      "text": "Autosomal recessive trinucleotide expansion in the frataxin gene"
+    },
+    {
+      "id": "C",
+      "text": "Duplication of the amyloid precursor protein gene on chromosome 21"
+    },
+    {
+      "id": "D",
+      "text": "A missense mutation in the presenilin-1 gene"
+    },
+    {
+      "id": "E",
+      "text": "A mutation in the prion protein gene on chromosome 20"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Huntington disease is caused by an autosomal dominant trinucleotide (CAG)n repeat expansion in the huntingtin (HTT) gene on chromosome 4, producing a toxic gain of function. Symptoms typically manifest between ages 30 and 50 with chorea, athetosis, aggression, depression, and dementia. Loss of GABAergic neurons in the striatum leads to caudate and putamen atrophy with ex vacuo ventriculomegaly. CAG repeat expansion across generations causes anticipation, explaining the father's earlier onset.",
+  "explanation_incorrect": {
+    "B": "A recessive frataxin expansion causes Friedreich ataxia, not the chorea and psychiatric changes of Huntington disease.",
+    "C": "Amyloid precursor protein gene duplication on chromosome 21 is associated with early-onset Alzheimer disease, not Huntington disease.",
+    "D": "Presenilin-1 mutations cause familial early-onset Alzheimer disease, not a hyperkinetic movement disorder with caudate atrophy.",
+    "E": "Prion protein gene mutations are associated with Creutzfeldt-Jakob disease, which causes rapidly progressive dementia with myoclonus."
+  },
+  "educationalObjective": "Identify Huntington disease as an autosomal dominant CAG expansion in HTT on chromosome 4 causing striatal GABAergic neuron loss, chorea, and caudate atrophy.",
+  "source": "Generated from 12. Neurology.pdf - Pathology: Parkinson and Huntington disease"
+},
+{
+  "id": "neu-218",
+  "subject": "Neurology",
+  "major_topic": "Pathology",
+  "subtopic": "Parkinson and Huntington disease",
+  "difficulty": "hard",
+  "vignette": "A 45-year-old man with genetically confirmed Huntington disease has chorea, athetosis, and dementia. Imaging shows marked caudate atrophy. Researchers are examining the neurotransmitter profile of his striatum and brain.",
+  "question": "Which of the following changes in brain neurotransmitter levels is most likely present?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Increased dopamine, increased GABA, increased acetylcholine"
+    },
+    {
+      "id": "B",
+      "text": "Decreased dopamine, increased GABA, decreased acetylcholine"
+    },
+    {
+      "id": "C",
+      "text": "Increased dopamine, increased GABA, decreased acetylcholine"
+    },
+    {
+      "id": "D",
+      "text": "Decreased dopamine, decreased GABA, increased acetylcholine"
+    },
+    {
+      "id": "E",
+      "text": "Increased dopamine, decreased GABA, decreased acetylcholine"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Huntington disease involves loss of GABAergic neurons in the striatum, so GABA levels are decreased. The caudate loses both acetylcholine and GABA, resulting in decreased ACh as well. Relative dopaminergic activity is increased, giving the classic profile of increased dopamine with decreased GABA and decreased acetylcholine. Neuronal death occurs through NMDA receptor binding and glutamate excitotoxicity. This imbalance underlies the chorea and athetosis of the disease.",
+  "explanation_incorrect": {
+    "A": "GABA and acetylcholine are decreased, not increased, in Huntington disease because of striatal GABAergic neuron loss.",
+    "B": "GABA is decreased rather than increased; only dopamine is relatively increased in Huntington disease.",
+    "C": "GABA is decreased in Huntington disease, not increased as this option states.",
+    "D": "Dopamine is relatively increased rather than decreased, and acetylcholine is decreased rather than increased."
+  },
+  "educationalObjective": "Recall the Huntington disease neurotransmitter profile: increased dopamine with decreased GABA and acetylcholine from loss of striatal GABAergic neurons.",
+  "source": "Generated from 12. Neurology.pdf - Pathology: Parkinson and Huntington disease"
+},
+{
+  "id": "neu-219",
+  "subject": "Neurology",
+  "major_topic": "Pathology",
+  "subtopic": "Parkinson and Huntington disease",
+  "difficulty": "medium",
+  "vignette": "A 74-year-old man has been treated for Parkinson disease for 8 years with gradually progressive rigidity and bradykinesia. He now develops mild cognitive impairment but has no visual hallucinations, fluctuating alertness, or dream enactment behavior.",
+  "question": "Which of the following best characterizes the cognitive change in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Early dementia is an invariant initial feature of Parkinson disease"
+    },
+    {
+      "id": "B",
+      "text": "This is Lewy body dementia because cognitive and motor symptoms began less than 1 year apart"
+    },
+    {
+      "id": "C",
+      "text": "Dementia is usually a late finding in Parkinson disease"
+    },
+    {
+      "id": "D",
+      "text": "This is vascular dementia due to multiple cortical and subcortical infarcts"
+    },
+    {
+      "id": "E",
+      "text": "This is frontotemporal dementia with tau-positive Pick bodies"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "In Parkinson disease, dementia is usually a late finding, occurring after years of established motor disease, as in this patient with an 8-year history. Lewy body dementia is diagnosed when cognitive and motor symptom onset occur less than 1 year apart and features visual hallucinations, fluctuating cognition or alertness, REM sleep behavior disorder, and parkinsonism, with cortical Lewy bodies. The absence of those features here supports dementia occurring late in Parkinson disease rather than Lewy body dementia.",
+  "explanation_incorrect": {
+    "A": "Dementia in Parkinson disease is typically a late rather than an early or invariant initial feature.",
+    "B": "Lewy body dementia requires cognitive and motor onset within 1 year plus hallucinations, fluctuating cognition, or REM behavior disorder, which this patient lacks.",
+    "D": "Vascular dementia produces stepwise cognitive decline with multiple infarcts on imaging, not a gradual change after long-standing parkinsonism.",
+    "E": "Frontotemporal dementia presents early with personality/behavior change or aphasia and frontal or temporal atrophy, not with long-standing parkinsonism."
+  },
+  "educationalObjective": "Distinguish late-occurring Parkinson disease dementia from Lewy body dementia, in which motor and cognitive onset are less than 1 year apart.",
+  "source": "Generated from 12. Neurology.pdf - Pathology: Parkinson and Huntington disease"
+},
+{
+  "id": "neu-220",
+  "subject": "Neurology",
+  "major_topic": "Pathology",
+  "subtopic": "Parkinson and Huntington disease",
+  "difficulty": "hard",
+  "vignette": "A mother was diagnosed with Huntington disease at age 45. Her son developed juvenile-onset symptoms at age 22; genetic testing showed a substantially larger number of CAG repeats in the son than in his mother.",
+  "question": "Which of the following genetic phenomena best explains the earlier onset in the son?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Genomic imprinting"
+    },
+    {
+      "id": "B",
+      "text": "Anticipation"
+    },
+    {
+      "id": "C",
+      "text": "Loss of heterozygosity"
+    },
+    {
+      "id": "D",
+      "text": "Founder effect"
+    },
+    {
+      "id": "E",
+      "text": "Uniparental disomy"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Anticipation refers to the earlier onset and increased severity of a genetic disease in successive generations due to expansion of trinucleotide repeats, here the CAG repeats in the HTT gene. Huntington disease is autosomal dominant with a CAG expansion on chromosome 4 producing a toxic gain of function, so an expanded repeat inherited from the affected mother explains the son's juvenile onset. The larger repeat number in the son directly demonstrates this phenomenon.",
+  "explanation_incorrect": {
+    "A": "Genomic imprinting refers to parent-of-origin-specific gene expression, not progressive repeat expansion across generations.",
+    "C": "Loss of heterozygosity is a cancer mechanism in which the remaining normal allele is lost, not a trinucleotide repeat phenomenon.",
+    "D": "Founder effect describes a high frequency of a mutation in a population descended from a small group of ancestors.",
+    "E": "Uniparental disomy is the inheritance of both copies of a chromosome from one parent and does not explain CAG repeat expansion."
+  },
+  "educationalObjective": "Explain anticipation in Huntington disease as intergenerational CAG repeat expansion causing earlier and more severe disease.",
+  "source": "Generated from 12. Neurology.pdf - Pathology: Parkinson and Huntington disease"
+}
+]

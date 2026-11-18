@@ -1,0 +1,166 @@
+[
+{
+  "id": "neu-392",
+  "subject": "Neurology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Insomnia therapy",
+  "difficulty": "medium",
+  "vignette": "A 33-year-old woman with difficulty falling asleep is prescribed zolpidem. Her physician explains that this agent acts at the BZ1 subtype of the GABA receptor, has a short duration due to rapid hepatic metabolism, and causes only modest next-day psychomotor depression compared with older sedative-hypnotics. Overdose can be reversed by flumazenil.",
+  "question": "Which of the following best describes zolpidem and related Z-drugs?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Orexin receptor antagonists that cause significant next-day sedation"
+    },
+    {
+      "id": "B",
+      "text": "Nonbenzodiazepine hypnotics acting at BZ1 GABA receptors with modest next-day effects and flumazenil-reversible effects"
+    },
+    {
+      "id": "C",
+      "text": "Melatonin receptor agonists with high dependency risk"
+    },
+    {
+      "id": "D",
+      "text": "Barbiturates that increase chloride channel-opening duration"
+    },
+    {
+      "id": "E",
+      "text": "Benzodiazepines with long half-lives and active metabolites"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Zolpidem, zaleplon, and eszopiclone are nonbenzodiazepine hypnotics that act via the BZ1 subtype of the GABA receptor. They cause only modest next-day psychomotor depression and few amnestic effects, have a short duration due to rapid hepatic metabolism, and their effects are reversed by flumazenil. They have lower dependency risk and less sleep-cycle disturbance than benzodiazepine hypnotics.",
+  "explanation_incorrect": {
+    "A": "Orexin receptor antagonism is the mechanism of suvorexant, not the Z-drugs.",
+    "C": "Melatonin receptor agonism is the mechanism of ramelteon, which has no known dependency risk.",
+    "D": "Barbiturates increase chloride channel-opening duration, unlike the Z-drugs.",
+    "E": "The Z-drugs are nonbenzodiazepines; long half-lives and active metabolites are typical of older benzodiazepines."
+  },
+  "educationalObjective": "Z-drugs act at BZ1 GABA receptors, have modest next-day effects, and are reversed by flumazenil.",
+  "source": "Generated from 12. Neurology.pdf - Pharmacology: Insomnia therapy"
+},
+{
+  "id": "neu-393",
+  "subject": "Neurology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Insomnia therapy",
+  "difficulty": "easy",
+  "vignette": "A 50-year-old man with chronic insomnia is prescribed suvorexant. His physician reviews his chart and notes that the drug blocks orexin (hypocretin) receptors, but that it is contraindicated in certain sleep disorders and when combined with strong CYP3A4 inhibitors.",
+  "question": "Which of the following best describes suvorexant's mechanism and a key contraindication?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Melatonin MT1/MT2 agonist; contraindicated in liver disease"
+    },
+    {
+      "id": "B",
+      "text": "BZ1 GABA agonist; contraindicated with flumazenil use"
+    },
+    {
+      "id": "C",
+      "text": "GABA transaminase inhibitor; contraindicated in porphyria"
+    },
+    {
+      "id": "D",
+      "text": "Orexin (hypocretin) receptor antagonist; contraindicated in narcolepsy and with strong CYP3A4 inhibitors"
+    },
+    {
+      "id": "E",
+      "text": "5-HT1B/1D agonist; contraindicated in coronary artery disease"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Suvorexant is an orexin (hypocretin) receptor antagonist used for insomnia. Its adverse effects include CNS depression (somnolence), headache, and abnormal sleep-related activities. It is contraindicated in narcolepsy and in combination with strong CYP3A4 inhibitors, is not recommended in liver disease, and has limited risk of dependency.",
+  "explanation_incorrect": {
+    "A": "Melatonin MT1/MT2 agonism is the mechanism of ramelteon.",
+    "B": "BZ1 GABA agonism is the mechanism of the Z-drugs.",
+    "C": "GABA transaminase inhibition is valproate's mechanism; porphyria is a barbiturate contraindication.",
+    "E": "5-HT1B/1D agonism is sumatriptan's mechanism, with coronary vasospasm risk."
+  },
+  "educationalObjective": "Suvorexant is an orexin antagonist contraindicated in narcolepsy and with strong CYP3A4 inhibitors.",
+  "source": "Generated from 12. Neurology.pdf - Pharmacology: Insomnia therapy"
+},
+{
+  "id": "neu-394",
+  "subject": "Neurology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Insomnia therapy",
+  "difficulty": "easy",
+  "vignette": "A 68-year-old man with mild insomnia and a history of substance use disorder needs a hypnotic with no known potential for dependence. His physician chooses an agent that binds MT1 and MT2 receptors in the suprachiasmatic nucleus to help regulate circadian rhythm.",
+  "question": "Which of the following is the most appropriate agent for this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Ramelteon"
+    },
+    {
+      "id": "B",
+      "text": "Zolpidem"
+    },
+    {
+      "id": "C",
+      "text": "Diazepam"
+    },
+    {
+      "id": "D",
+      "text": "Suvorexant"
+    },
+    {
+      "id": "E",
+      "text": "Pentobarbital"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Ramelteon is a melatonin receptor agonist that binds MT1 and MT2 in the suprachiasmatic nucleus. Its adverse effects include dizziness, nausea, fatigue, and headache, and it has no known risk of dependency, making it suitable for this patient with a substance use history.",
+  "explanation_incorrect": {
+    "B": "Zolpidem is a BZ1 hypnotic that carries some dependency risk.",
+    "C": "Diazepam is a benzodiazepine with significant dependence potential.",
+    "D": "Suvorexant is an orexin antagonist with CNS depression and only limited dependency data.",
+    "E": "Pentobarbital is a barbiturate with high dependence potential and fatal respiratory depression risk."
+  },
+  "educationalObjective": "Ramelteon is an MT1/MT2 melatonin receptor agonist with no known dependency risk.",
+  "source": "Generated from 12. Neurology.pdf - Pharmacology: Insomnia therapy"
+},
+{
+  "id": "neu-395",
+  "subject": "Neurology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Insomnia therapy",
+  "difficulty": "medium",
+  "vignette": "A pharmacology student compares four insomnia agents: a nonbenzodiazepine hypnotic acting at BZ1 receptors, an orexin receptor antagonist, a melatonin receptor agonist, and a traditional benzodiazepine. She notes differences in next-day psychomotor effects, dependency risk, sleep-cycle disturbance, and reversibility by flumazenil.",
+  "question": "Which statement comparing these insomnia therapies is correct?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The melatonin agonist has high dependency risk and is reversed by flumazenil"
+    },
+    {
+      "id": "B",
+      "text": "The orexin antagonist is contraindicated in insomnia and is a first-line hypnotic"
+    },
+    {
+      "id": "C",
+      "text": "Z-drugs have modest next-day effects and fewer amnestic effects than older sedative-hypnotics, with effects reversed by flumazenil"
+    },
+    {
+      "id": "D",
+      "text": "Benzodiazepines cause less sleep-cycle disturbance than Z-drugs"
+    },
+    {
+      "id": "E",
+      "text": "Ramelteon acts at orexin receptors and causes significant CNS depression"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "The Z-drugs (zolpidem, zaleplon, eszopiclone) act at BZ1 GABA receptors and cause only modest next-day psychomotor depression and few amnestic effects compared with older sedative-hypnotics; their effects are reversed by flumazenil. They also have reduced dependency risk and less sleep-cycle disturbance than benzodiazepine hypnotics.",
+  "explanation_incorrect": {
+    "A": "Ramelteon has no known dependency risk and its effects are not reversed by flumazenil.",
+    "B": "Suvorexant is used for insomnia; it is contraindicated in narcolepsy, not in insomnia.",
+    "D": "Z-drugs cause less sleep-cycle disturbance than benzodiazepines, not more.",
+    "E": "Ramelteon acts at melatonin MT1/MT2 receptors; significant CNS depression is more typical of suvorexant."
+  },
+  "educationalObjective": "Z-drugs have modest next-day effects, fewer amnestic effects, and flumazenil-reversible effects compared with older hypnotics.",
+  "source": "Generated from 12. Neurology.pdf - Pharmacology: Insomnia therapy"
+}
+]

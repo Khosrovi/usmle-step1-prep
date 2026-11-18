@@ -1,0 +1,166 @@
+[
+{
+  "id": "neu-030",
+  "subject": "Neurology",
+  "major_topic": "Anatomy and Physiology",
+  "subtopic": "Neuron action potential",
+  "difficulty": "easy",
+  "vignette": "An electrophysiologist records from a resting neuron and measures a membrane potential of about -70 mV, a value close to the potassium equilibrium potential. Voltage-gated sodium and potassium channels are both closed at this point.",
+  "question": "What primarily accounts for the negative resting membrane potential of a neuron?",
+  "options": [
+    {
+      "id": "A",
+      "text": "High Na+ permeability at rest"
+    },
+    {
+      "id": "B",
+      "text": "The Na+/K+ pump pumping Na+ into the cell"
+    },
+    {
+      "id": "C",
+      "text": "The membrane being more permeable to K+ than to Na+ at rest"
+    },
+    {
+      "id": "D",
+      "text": "Voltage-gated Na+ channels open at rest"
+    },
+    {
+      "id": "E",
+      "text": "Sustained Cl- influx through ligand-gated channels"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "At rest the membrane is far more permeable to K+ than to Na+ because of constitutively open K+ leak channels. K+ efflux therefore drives the membrane potential toward the K+ equilibrium potential (near -90 mV), producing the negative resting potential near -70 mV. Voltage-gated Na+ and K+ channels are closed at rest, and the Na+/K+ pump mainly maintains the gradients rather than directly setting the potential.",
+  "explanation_incorrect": {
+    "A": "At rest Na+ permeability is low; high Na+ permeability would depolarize the cell.",
+    "B": "The Na+/K+ pump moves Na+ out and K+ in and contributes only minimally and indirectly to the resting potential.",
+    "D": "Voltage-gated Na+ channels are closed at rest and open only after depolarization reaches threshold.",
+    "E": "Cl- influx is not the primary determinant of the neuronal resting potential."
+  },
+  "educationalObjective": "The resting membrane potential is dominated by K+ permeability and sits near the K+ equilibrium potential.",
+  "source": "Generated from 12. Neurology.pdf - Anatomy and Physiology: Neuron action potential"
+},
+{
+  "id": "neu-031",
+  "subject": "Neurology",
+  "major_topic": "Anatomy and Physiology",
+  "subtopic": "Neuron action potential",
+  "difficulty": "medium",
+  "vignette": "A depolarizing stimulus brings a neuronal membrane from -70 mV to the threshold of about -55 mV. Voltage-gated ion channels in the membrane respond to this change in voltage.",
+  "question": "Which channel event is directly responsible for initiating the depolarization phase of the action potential?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Opening of the Na+ activation gate, allowing Na+ influx"
+    },
+    {
+      "id": "B",
+      "text": "Closing of the Na+ inactivation gate"
+    },
+    {
+      "id": "C",
+      "text": "Opening of voltage-gated K+ activation gates"
+    },
+    {
+      "id": "D",
+      "text": "Slow closing of K+ activation gates"
+    },
+    {
+      "id": "E",
+      "text": "The Na+/K+ pump extruding Na+ from the cell"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Once threshold is reached, the voltage-gated Na+ channel activation gate opens, allowing Na+ to flow rapidly into the cell down its electrochemical gradient. This inward Na+ current drives the membrane potential toward about +40 mV, producing the rising phase of the action potential. The Na+ inactivation gate closes later at the peak, and K+ gates open during repolarization.",
+  "explanation_incorrect": {
+    "B": "Closing of the Na+ inactivation gate terminates Na+ influx at the peak; it does not initiate depolarization.",
+    "C": "Opening of K+ gates causes K+ efflux and repolarization, not depolarization.",
+    "D": "Slow closing of K+ gates underlies hyperpolarization after the spike.",
+    "E": "The Na+/K+ pump restores ion gradients over time and does not generate the rapid upstroke."
+  },
+  "educationalObjective": "Depolarization is produced by opening of the Na+ activation gate and inward Na+ current.",
+  "source": "Generated from 12. Neurology.pdf - Anatomy and Physiology: Neuron action potential"
+},
+{
+  "id": "neu-032",
+  "subject": "Neurology",
+  "major_topic": "Anatomy and Physiology",
+  "subtopic": "Neuron action potential",
+  "difficulty": "medium",
+  "vignette": "During an action potential the membrane potential rises to roughly +40 mV and then rapidly falls back toward resting levels. Intracellular recordings show the Na+ current stopping and a K+ current appearing.",
+  "question": "What best explains repolarization at the peak of the action potential?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The Na+ activation gate opens wider"
+    },
+    {
+      "id": "B",
+      "text": "The Na+ inactivation gate opens further, increasing Na+ influx"
+    },
+    {
+      "id": "C",
+      "text": "Voltage-gated K+ activation gates close"
+    },
+    {
+      "id": "D",
+      "text": "The Na+ inactivation gate closes at the peak and K+ activation gates open"
+    },
+    {
+      "id": "E",
+      "text": "The Na+/K+ pump immediately extrudes the Na+ that entered"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "At the peak potential the voltage-gated Na+ channel inactivation gate closes, halting further Na+ influx, while voltage-gated K+ activation gates open. The resulting K+ efflux drives the membrane potential back down, producing repolarization. The Na+/K+ pump restores ion concentrations afterward; it is too slow to account for the rapid falling phase.",
+  "explanation_incorrect": {
+    "A": "The Na+ activation gate opens during depolarization, not at the peak; further opening would prolong depolarization.",
+    "B": "The Na+ inactivation gate closes rather than opens at the peak, stopping Na+ influx.",
+    "C": "K+ gates open during repolarization; their closing later causes hyperpolarization.",
+    "E": "The Na+/K+ pump acts slowly to restore gradients and does not cause the rapid repolarization."
+  },
+  "educationalObjective": "Repolarization results from Na+ inactivation-gate closure plus opening of voltage-gated K+ channels.",
+  "source": "Generated from 12. Neurology.pdf - Anatomy and Physiology: Neuron action potential"
+},
+{
+  "id": "neu-033",
+  "subject": "Neurology",
+  "major_topic": "Anatomy and Physiology",
+  "subtopic": "Neuron action potential",
+  "difficulty": "hard",
+  "vignette": "Following repolarization, a neuron's membrane potential transiently dips to about -90 mV before slowly returning to -70 mV. During this interval, voltage-gated Na+ channels are observed to revert to their closed resting state.",
+  "question": "What mechanism best explains this after-hyperpolarization and the subsequent return to resting potential?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Na+ activation gates remain open, allowing continued Na+ influx"
+    },
+    {
+      "id": "B",
+      "text": "K+ activation gates are slow to close, causing excess K+ efflux; the Na+/K+ pump then restores ion concentrations"
+    },
+    {
+      "id": "C",
+      "text": "The Na+ inactivation gate closes only after hyperpolarization has finished"
+    },
+    {
+      "id": "D",
+      "text": "K+ channels open for the first time during the hyperpolarization phase"
+    },
+    {
+      "id": "E",
+      "text": "Voltage-gated Cl- channels open and clamp the potential near -90 mV"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Voltage-gated K+ activation gates are slow to close, so K+ continues to leave the cell and the membrane transiently hyperpolarizes toward the K+ equilibrium potential (about -90 mV). During this period the voltage-gated Na+ channels switch back from the inactivated to the resting closed state. The Na+/K+ pump then restores Na+ and K+ concentrations to their resting levels.",
+  "explanation_incorrect": {
+    "A": "Continued Na+ influx would depolarize the membrane, not hyperpolarize it.",
+    "C": "The Na+ inactivation gate closes at the peak of the action potential, well before hyperpolarization.",
+    "D": "K+ channels open during repolarization, not for the first time during hyperpolarization.",
+    "E": "Cl- channel opening is not responsible for the after-hyperpolarization of the neuronal action potential."
+  },
+  "educationalObjective": "Slow K+-gate closure causes after-hyperpolarization, and the Na+/K+ pump then restores resting ion gradients.",
+  "source": "Generated from 12. Neurology.pdf - Anatomy and Physiology: Neuron action potential"
+}
+]

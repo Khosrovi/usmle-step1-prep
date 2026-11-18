@@ -1,0 +1,166 @@
+[
+{
+  "id": "neu-405",
+  "subject": "Neurology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Carbidopa/levodopa",
+  "difficulty": "easy",
+  "vignette": "A 66-year-old man with Parkinson disease is prescribed combined carbidopa/levodopa. His physician explains that adding carbidopa increases the amount of levodopa reaching the brain and reduces peripheral adverse effects such as nausea, because carbidopa blocks the peripheral conversion of L-DOPA to dopamine.",
+  "question": "Which of the following best describes carbidopa's mechanism?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A peripheral DOPA decarboxylase inhibitor that cannot cross the BBB, increasing CNS L-DOPA bioavailability"
+    },
+    {
+      "id": "B",
+      "text": "A central COMT inhibitor that crosses the BBB"
+    },
+    {
+      "id": "C",
+      "text": "A peripheral COMT inhibitor that prevents 3-OMD formation"
+    },
+    {
+      "id": "D",
+      "text": "An MAO-B inhibitor that blocks dopamine breakdown to DOPAC"
+    },
+    {
+      "id": "E",
+      "text": "A dopamine receptor agonist at D2 receptors"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Unlike dopamine, L-DOPA can cross the BBB and is converted by DOPA decarboxylase in the CNS to dopamine. Carbidopa is a peripheral DOPA decarboxylase inhibitor that cannot cross the BBB; it is given with L-DOPA to increase L-DOPA bioavailability in the brain and to limit peripheral adverse effects such as nausea and vomiting.",
+  "explanation_incorrect": {
+    "B": "A central COMT inhibitor that crosses the BBB is tolcapone.",
+    "C": "A peripheral COMT inhibitor is entacapone (and tolcapone in the periphery).",
+    "D": "MAO-B inhibition is the mechanism of selegiline and rasagiline.",
+    "E": "Dopamine receptor agonism is the mechanism of pramipexole and ropinirole."
+  },
+  "educationalObjective": "Carbidopa is a peripheral DOPA decarboxylase inhibitor that cannot cross the BBB, increasing CNS L-DOPA and reducing peripheral nausea.",
+  "source": "Generated from 12. Neurology.pdf - Pharmacology: Carbidopa/levodopa"
+},
+{
+  "id": "neu-406",
+  "subject": "Neurology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Carbidopa/levodopa",
+  "difficulty": "easy",
+  "vignette": "A medical student asks why Parkinson disease is treated with L-DOPA rather than with dopamine itself. The attending explains that dopamine cannot cross the blood-brain barrier, but L-DOPA can, and once in the CNS it is converted to dopamine by DOPA decarboxylase.",
+  "question": "Which of the following best explains why L-DOPA, rather than dopamine, is administered?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Dopamine is degraded by peripheral COMT, whereas L-DOPA is not"
+    },
+    {
+      "id": "B",
+      "text": "L-DOPA is a direct dopamine receptor agonist, whereas dopamine is not"
+    },
+    {
+      "id": "C",
+      "text": "Dopamine crosses the BBB more slowly than L-DOPA"
+    },
+    {
+      "id": "D",
+      "text": "L-DOPA can cross the BBB and is converted to dopamine in the CNS, whereas dopamine cannot cross the BBB"
+    },
+    {
+      "id": "E",
+      "text": "L-DOPA inhibits DOPA decarboxylase within the brain"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Dopamine cannot cross the blood-brain barrier, so giving it directly would not replenish central dopamine. L-DOPA can cross the BBB and is converted by DOPA decarboxylase within the CNS to dopamine, increasing brain dopamine and treating Parkinson disease.",
+  "explanation_incorrect": {
+    "A": "Both dopamine and L-DOPA can be degraded peripherally by COMT and DOPA decarboxylase; the key difference is BBB penetration.",
+    "B": "L-DOPA is a precursor, not a direct receptor agonist.",
+    "C": "Dopamine essentially cannot cross the BBB, so this is not a matter of slower crossing.",
+    "E": "L-DOPA is the substrate of DOPA decarboxylase, not an inhibitor of it."
+  },
+  "educationalObjective": "L-DOPA crosses the BBB and is converted to dopamine in the CNS; dopamine itself cannot cross the BBB.",
+  "source": "Generated from 12. Neurology.pdf - Pharmacology: Carbidopa/levodopa"
+},
+{
+  "id": "neu-407",
+  "subject": "Neurology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Carbidopa/levodopa",
+  "difficulty": "medium",
+  "vignette": "A 70-year-old man with advanced Parkinson disease on long-term levodopa reports that his mobility is good for a few hours after a dose but that he then becomes akinetic and rigid before the next dose. His physician explains this as a complication of progressive disease and long-term levodopa therapy.",
+  "question": "Which of the following best describes this phenomenon?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Worsening tremor caused by antimuscarinic therapy"
+    },
+    {
+      "id": "B",
+      "text": "The 'on-off' phenomenon, with improved mobility during 'on' periods and impaired function during 'off' periods as the drug wears off"
+    },
+    {
+      "id": "C",
+      "text": "Serotonin syndrome from levodopa accumulation"
+    },
+    {
+      "id": "D",
+      "text": "Livedo reticularis from dopaminergic toxicity"
+    },
+    {
+      "id": "E",
+      "text": "Impulse control disorder from dopamine agonism"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "With progressive disease, L-DOPA can lead to the 'on-off' phenomenon: improved mobility during 'on' periods followed by impaired motor function during 'off' periods when the patient responds poorly to L-DOPA or the medication wears off. MAO-B inhibitors are used to improve symptoms in patients with such cyclic fluctuations.",
+  "explanation_incorrect": {
+    "A": "Antimuscarinics improve tremor; this patient's fluctuation is a levodopa-related phenomenon.",
+    "C": "Serotonin syndrome is associated with combined serotonergic drugs, not levodopa.",
+    "D": "Livedo reticularis is a toxicity of amantadine.",
+    "E": "Impulse control disorder is associated with dopamine agonists, not the on/off motor fluctuation."
+  },
+  "educationalObjective": "Long-term levodopa can cause on-off motor fluctuations, with good mobility 'on' and poor function 'off.'",
+  "source": "Generated from 12. Neurology.pdf - Pharmacology: Carbidopa/levodopa"
+},
+{
+  "id": "neu-408",
+  "subject": "Neurology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Carbidopa/levodopa",
+  "difficulty": "hard",
+  "vignette": "A 74-year-old woman starting carbidopa/levodopa for Parkinson disease develops nausea, episodes of dizziness on standing, and visual hallucinations. Her physician reviews the medication's adverse-effect profile and considers adjusting the dose or adding an adjunct.",
+  "question": "Which of the following is the most likely cause of these symptoms?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Entacapone-induced hepatotoxicity"
+    },
+    {
+      "id": "B",
+      "text": "Selegiline-induced serotonin syndrome"
+    },
+    {
+      "id": "C",
+      "text": "Carbidopa/levodopa adverse effects (nausea, hallucinations, postural hypotension)"
+    },
+    {
+      "id": "D",
+      "text": "Benztropine-induced urinary retention and confusion"
+    },
+    {
+      "id": "E",
+      "text": "Amantadine-induced livedo reticularis"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Carbidopa/levodopa adverse effects include nausea, hallucinations, and postural hypotension. Carbidopa reduces but does not eliminate peripheral dopamine-related nausea. Hallucinations and orthostatic hypotension are dopaminergic effects that can limit therapy, especially in older patients.",
+  "explanation_incorrect": {
+    "A": "Entacapone is a COMT inhibitor; serious hepatotoxicity is more associated with tolcapone, and this would not explain hallucinations and postural hypotension.",
+    "B": "Selegiline is an MAO-B inhibitor; serotonin syndrome is not a typical effect and would present differently.",
+    "D": "Benztropine is an antimuscarinic causing urinary retention and confusion, not this dopaminergic picture.",
+    "E": "Amantadine causes livedo reticularis and edema, not nausea and hallucinations."
+  },
+  "educationalObjective": "Carbidopa/levodopa commonly causes nausea, hallucinations, and postural hypotension.",
+  "source": "Generated from 12. Neurology.pdf - Pharmacology: Carbidopa/levodopa"
+}
+]

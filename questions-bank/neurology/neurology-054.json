@@ -1,0 +1,166 @@
+[
+{
+  "id": "neu-130",
+  "subject": "Neurology",
+  "major_topic": "Anatomy and Physiology",
+  "subtopic": "Lumbar puncture and conus/cauda syndromes",
+  "difficulty": "easy",
+  "vignette": "A 30-year-old woman needs a lumbar puncture to evaluate suspected meningitis. The attending physician chooses the interspace carefully to obtain CSF while avoiding injury to the spinal cord.",
+  "question": "At which vertebral level does the adult spinal cord end, and between which vertebrae is a lumbar puncture typically performed?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Cord ends at T12-L1; lumbar puncture between T12-L1"
+    },
+    {
+      "id": "B",
+      "text": "Cord ends at L1-L2; lumbar puncture between L3-L4 or L4-L5"
+    },
+    {
+      "id": "C",
+      "text": "Cord ends at L3-L4; lumbar puncture between L5-S1"
+    },
+    {
+      "id": "D",
+      "text": "Cord ends at S2; lumbar puncture between S2-S3"
+    },
+    {
+      "id": "E",
+      "text": "Cord ends at L1-L2; lumbar puncture between L2-L3"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "In adults the spinal cord terminates at the lower border of the L1-L2 vertebrae, forming the conus medullaris. The subarachnoid space containing CSF continues down to the lower border of S2. A lumbar puncture is therefore performed at L3-L4 or L4-L5, within the cauda equina, so the needle can enter the subarachnoid space below the cord and avoid direct cord injury. The rule is to keep the spinal needle between L3 and L5.",
+  "explanation_incorrect": {
+    "A": "The cord ends at L1-L2, not T12-L1, and a T12-L1 puncture would risk injuring the cord.",
+    "C": "The cord does not end at L3-L4; that level is already below the conus and within the cauda equina.",
+    "D": "S2 is the lower limit of the subarachnoid space, not the cord end, and an S2-S3 puncture is technically impractical.",
+    "E": "The cord end is correct, but L2-L3 is too high and risks contacting the distal cord or cauda equina."
+  },
+  "educationalObjective": "The adult cord ends at L1-L2, the subarachnoid space extends to S2, and lumbar puncture is performed at L3-L4 or L4-L5.",
+  "source": "Generated from 12. Neurology.pdf - Anatomy and Physiology: Lumbar puncture and conus/cauda syndromes"
+},
+{
+  "id": "neu-131",
+  "subject": "Neurology",
+  "major_topic": "Anatomy and Physiology",
+  "subtopic": "Lumbar puncture and conus/cauda syndromes",
+  "difficulty": "medium",
+  "vignette": "An anesthesiologist performs a lumbar puncture. As the needle advances from the skin toward the subarachnoid space, it passes through several tissue layers in sequence.",
+  "question": "Which of the following lists the correct order of structures traversed by the lumbar puncture needle?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Skin to ligamentum flavum to supraspinous ligament to interspinous ligament to dura to arachnoid to subarachnoid space"
+    },
+    {
+      "id": "B",
+      "text": "Skin to fascia/fat to interspinous ligament to supraspinous ligament to ligamentum flavum to epidural space to arachnoid to dura to subarachnoid space"
+    },
+    {
+      "id": "C",
+      "text": "Skin to fascia/fat to supraspinous ligament to ligamentum flavum to interspinous ligament to epidural space to dura to subarachnoid space to arachnoid"
+    },
+    {
+      "id": "D",
+      "text": "Skin to fascia/fat to supraspinous ligament to interspinous ligament to ligamentum flavum to epidural space to dura mater to arachnoid mater to subarachnoid space"
+    },
+    {
+      "id": "E",
+      "text": "Skin to fascia/fat to supraspinous ligament to interspinous ligament to ligamentum flavum to subdural space to arachnoid to subarachnoid space"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "From superficial to deep the needle passes through skin, fascia and fat, the supraspinous ligament, the interspinous ligament, and the ligamentum flavum. It then enters the epidural space, where an epidural anesthesia needle stops, pierces the dura mater and then the arachnoid mater, and finally enters the subarachnoid space where CSF is collected. The supraspinous ligament is superficial to the interspinous ligament, and the arachnoid lies deep to the dura.",
+  "explanation_incorrect": {
+    "A": "The ligamentum flavum is deeper than both the supraspinous and interspinous ligaments, and the epidural space is omitted.",
+    "B": "The interspinous ligament is deeper than the supraspinous ligament, and the dura is pierced before the arachnoid.",
+    "C": "The interspinous ligament lies superficial to the ligamentum flavum, and the arachnoid is entered just before the subarachnoid space.",
+    "E": "There is no true subdural space normally traversed; the needle passes from epidural space through dura directly to arachnoid."
+  },
+  "educationalObjective": "Memorize the lumbar puncture needle path: skin, fascia/fat, supraspinous, interspinous, ligamentum flavum, epidural, dura, arachnoid, subarachnoid space.",
+  "source": "Generated from 12. Neurology.pdf - Anatomy and Physiology: Lumbar puncture and conus/cauda syndromes"
+},
+{
+  "id": "neu-132",
+  "subject": "Neurology",
+  "major_topic": "Anatomy and Physiology",
+  "subtopic": "Lumbar puncture and conus/cauda syndromes",
+  "difficulty": "hard",
+  "vignette": "A 55-year-old man presents with low back pain and saddle anesthesia. Examination shows bilateral symmetric lower limb weakness with spasticity, hyperreflexia, and urinary retention. MRI demonstrates compression of the terminal end of the spinal cord at L1.",
+  "question": "Which of the following best characterizes this patient's syndrome?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Cauda equina syndrome with asymmetric flaccid weakness, LMN signs, and absent reflexes"
+    },
+    {
+      "id": "B",
+      "text": "Cauda equina syndrome with symmetric spastic weakness and UMN signs"
+    },
+    {
+      "id": "C",
+      "text": "Conus medullaris syndrome with symmetric weakness, mixed UMN and LMN signs, spasticity, and early bladder/bowel dysfunction"
+    },
+    {
+      "id": "D",
+      "text": "Transverse myelitis at T10 with a sensory level at the umbilicus and UMN signs below"
+    },
+    {
+      "id": "E",
+      "text": "Lumbar radiculopathy with unilateral dermatomal pain and no saddle anesthesia or bladder involvement"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Compression of the conus medullaris, the terminal spinal cord at L1-L2, produces a rare neurosurgical emergency characterized by symmetric lower limb weakness with a mixture of upper and lower motor neuron signs, radicular low back pain, saddle and perianal anesthesia, and early bladder and bowel dysfunction. The spasticity and hyperreflexia reflect involvement of the cord itself. This contrasts with cauda equina syndrome, which affects lumbosacral nerve roots and produces asymmetric, flaccid LMN weakness. Low back pain is often less prominent in conus than in cauda lesions.",
+  "explanation_incorrect": {
+    "A": "Asymmetric flaccid LMN weakness is characteristic of cauda equina syndrome, not this conus lesion with spastic UMN features.",
+    "B": "Cauda equina involves nerve roots and produces LMN, flaccid signs rather than UMN spastic signs.",
+    "D": "A T10 myelitis would produce a sensory level at the umbilicus, not a conus and saddle pattern with early sphincter loss.",
+    "E": "A simple radiculopathy would not cause saddle anesthesia, symmetric weakness, or bladder and bowel dysfunction."
+  },
+  "educationalObjective": "Conus medullaris lesions cause symmetric mixed UMN/LMN signs with early sphincter dysfunction; cauda equina lesions cause asymmetric LMN/flaccid deficits.",
+  "source": "Generated from 12. Neurology.pdf - Anatomy and Physiology: Lumbar puncture and conus/cauda syndromes"
+},
+{
+  "id": "neu-133",
+  "subject": "Neurology",
+  "major_topic": "Anatomy and Physiology",
+  "subtopic": "Lumbar puncture and conus/cauda syndromes",
+  "difficulty": "medium",
+  "vignette": "A 42-year-old woman develops severe radicular low back pain after a large L4-L5 disc herniation. She has asymmetric weakness of the legs with decreased tone and absent ankle reflexes, perineal numbness, and difficulty urinating.",
+  "question": "Which of the following best characterizes this patient's condition?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Conus medullaris syndrome with symmetric spastic paraparesis and hyperreflexia"
+    },
+    {
+      "id": "B",
+      "text": "Brown-Sequard syndrome with ipsilateral motor loss and contralateral pain/temperature loss"
+    },
+    {
+      "id": "C",
+      "text": "Anterior cord syndrome with bilateral pain/temperature loss and preserved proprioception"
+    },
+    {
+      "id": "D",
+      "text": "Subacute combined degeneration from vitamin B12 deficiency"
+    },
+    {
+      "id": "E",
+      "text": "Cauda equina syndrome with asymmetric flaccid LMN weakness, radicular pain, saddle anesthesia, and bladder dysfunction"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Cauda equina syndrome results from compression of the lumbosacral nerve roots below the conus, often by a large L4-L5 disc herniation, tumor, or trauma. Because it involves peripheral nerve roots, it produces asymmetric flaccid lower motor neuron weakness with decreased tone and absent reflexes, together with radicular low back pain, saddle and perianal anesthesia, and bladder or bowel dysfunction. It is a neurosurgical emergency. This differs from conus medullaris syndrome, which causes symmetric weakness with UMN signs.",
+  "explanation_incorrect": {
+    "A": "Symmetric spastic weakness with hyperreflexia is the UMN pattern of conus medullaris syndrome, not a root-level cauda lesion.",
+    "B": "Brown-Sequard is a cord hemisection with a crossed motor and sensory pattern, not a cauda equina root syndrome.",
+    "C": "Anterior cord syndrome is an ischemic or traumatic cord syndrome with bilateral pain-temperature loss and preserved dorsal column function.",
+    "D": "Subacute combined degeneration is a chronic B12-deficiency process affecting dorsal columns and corticospinal tracts, not an acute compressive radiculopathy."
+  },
+  "educationalObjective": "Cauda equina syndrome causes asymmetric LMN/flaccid leg weakness, radicular pain, saddle anesthesia, and sphincter dysfunction, requiring urgent decompression.",
+  "source": "Generated from 12. Neurology.pdf - Anatomy and Physiology: Lumbar puncture and conus/cauda syndromes"
+}
+]

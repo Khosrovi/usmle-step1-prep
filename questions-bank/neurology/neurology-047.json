@@ -1,0 +1,166 @@
+[
+{
+  "id": "neu-371",
+  "subject": "Neurology",
+  "major_topic": "Ophthalmology",
+  "subtopic": "Internuclear ophthalmoplegia",
+  "difficulty": "medium",
+  "vignette": "A resident is reviewing the pathways that coordinate conjugate horizontal gaze. She is asked which paired, highly myelinated tract interconnects the abducens (CN VI) and oculomotor (CN III) nuclei so that both eyes move in the same horizontal direction at the same time.",
+  "question": "Which of the following tracts interconnects the CN VI and CN III nuclei?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Medial longitudinal fasciculus"
+    },
+    {
+      "id": "B",
+      "text": "Optic radiation"
+    },
+    {
+      "id": "C",
+      "text": "Corticospinal tract"
+    },
+    {
+      "id": "D",
+      "text": "Superior cerebellar peduncle"
+    },
+    {
+      "id": "E",
+      "text": "Spinal trigeminal tract"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "The medial longitudinal fasciculus (MLF) is a pair of highly myelinated tracts that link the CN VI nucleus in the pons with the contralateral CN III nucleus in the midbrain. This allows the lateral rectus of one eye and the medial rectus of the other to contract together during horizontal gaze. Because it is heavily myelinated, the MLF is vulnerable in demyelinating disease such as multiple sclerosis.",
+  "explanation_incorrect": {
+    "B": "The optic radiation carries visual sensory information from the lateral geniculate nucleus to the cortex and does not coordinate eye movement.",
+    "C": "The corticospinal tract is a descending motor pathway to the spinal cord and does not connect eye movement nuclei.",
+    "D": "The superior cerebellar peduncle is a major cerebellar outflow tract and does not interconnect CN VI and CN III.",
+    "E": "The spinal trigeminal tract carries facial pain and temperature sensation, not conjugate gaze signals."
+  },
+  "educationalObjective": "The MLF is the heavily myelinated tract linking CN VI and CN III nuclei for conjugate horizontal gaze.",
+  "source": "Generated from 12. Neurology.pdf - Ophthalmology: Internuclear ophthalmoplegia"
+},
+{
+  "id": "neu-372",
+  "subject": "Neurology",
+  "major_topic": "Ophthalmology",
+  "subtopic": "Internuclear ophthalmoplegia",
+  "difficulty": "hard",
+  "vignette": "A 28-year-old woman with multiple sclerosis cannot adduct the right eye when she looks to the left. The left eye abducts but shows nystagmus. Convergence is normal. The neurologist diagnoses an internuclear ophthalmoplegia and localizes the lesion.",
+  "question": "Which of the following is the most likely site of the lesion?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Left medial longitudinal fasciculus"
+    },
+    {
+      "id": "B",
+      "text": "Right abducens nucleus"
+    },
+    {
+      "id": "C",
+      "text": "Left oculomotor nucleus"
+    },
+    {
+      "id": "D",
+      "text": "Right abducens nerve"
+    },
+    {
+      "id": "E",
+      "text": "Right medial longitudinal fasciculus"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "The directional label of an internuclear ophthalmoplegia refers to the eye that fails to adduct, so this is a right INO from a right MLF lesion. When looking left, the left CN VI nucleus activates the left lateral rectus but cannot stimulate the right CN III nucleus through the right MLF, so the right medial rectus does not contract. The abducting left eye shows nystagmus, while convergence remains normal because it does not depend on the MLF.",
+  "explanation_incorrect": {
+    "A": "A left MLF lesion would cause a left INO, with failure of left adduction on right gaze, not the right adduction failure described here.",
+    "B": "A right abducens nucleus lesion would impair right abduction, producing a lateral gaze palsy rather than failure of right adduction.",
+    "C": "A left oculomotor nucleus lesion would affect multiple left CN III muscles and the pupil, not an isolated right adduction failure with normal convergence.",
+    "D": "The abducens nerve is already in the subarachnoid space and peripheral; a right CN VI nerve lesion would prevent right abduction, not right adduction."
+  },
+  "educationalObjective": "A right INO is due to a right MLF lesion causing failure of right adduction, nystagmus of the abducting eye, and normal convergence.",
+  "source": "Generated from 12. Neurology.pdf - Ophthalmology: Internuclear ophthalmoplegia"
+},
+{
+  "id": "neu-373",
+  "subject": "Neurology",
+  "major_topic": "Ophthalmology",
+  "subtopic": "Internuclear ophthalmoplegia",
+  "difficulty": "medium",
+  "vignette": "A patient with a right medial longitudinal fasciculus lesion attempts to look to the left. The right eye fails to adduct, and the examining physician observes nystagmus in the abducting left eye.",
+  "question": "Which of the following best explains the nystagmus in the abducting eye?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The left CN III nucleus is damaged and cannot drive the medial rectus"
+    },
+    {
+      "id": "B",
+      "text": "CN VI overfires to stimulate CN III because communication through the MLF is lost"
+    },
+    {
+      "id": "C",
+      "text": "The right lateral rectus is paralyzed from a CN VI lesion"
+    },
+    {
+      "id": "D",
+      "text": "The vestibular nuclei are damaged on the side of the lesion"
+    },
+    {
+      "id": "E",
+      "text": "The optic nerve afferent signal is asymmetric"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "In an INO, the MLF lesion prevents the CN VI nucleus from driving the contralateral CN III nucleus. The abducens nucleus compensates by overfiring, and this increased drive is transmitted to the abducting eye, producing the characteristic nystagmus of the abducting eye. This is the 'Nystagmus Opposite' component of the INO mnemonic: Ipsilateral adduction failure, Nystagmus Opposite.",
+  "explanation_incorrect": {
+    "A": "Damage to the left CN III nucleus would cause a left oculomotor palsy with multiple muscle weaknesses and a dilated pupil, not isolated nystagmus of an abducting eye.",
+    "C": "A right CN VI lesion would impair abduction of the right eye; in this patient the right lateral rectus functions normally and it is the left eye that abducts.",
+    "D": "Vestibular nucleus damage would produce vestibular nystagmus with a different pattern and would not selectively spare convergence as in an INO.",
+    "E": "An asymmetric optic nerve afferent lesion causes a relative afferent pupillary defect, not the abducting nystagmus of an INO."
+  },
+  "educationalObjective": "The abducting-eye nystagmus of INO results from CN VI overfiring when MLF communication to CN III is lost.",
+  "source": "Generated from 12. Neurology.pdf - Ophthalmology: Internuclear ophthalmoplegia"
+},
+{
+  "id": "neu-374",
+  "subject": "Neurology",
+  "major_topic": "Ophthalmology",
+  "subtopic": "Internuclear ophthalmoplegia",
+  "difficulty": "easy",
+  "vignette": "A medical student reads that medial longitudinal fasciculus lesions may be unilateral or bilateral and that bilateral lesions are classically associated with certain diseases. She is asked to name the classic causes of bilateral internuclear ophthalmoplegia.",
+  "question": "Bilateral internuclear ophthalmoplegia is classically seen in which of the following conditions?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Diabetic microvascular disease"
+    },
+    {
+      "id": "B",
+      "text": "Pancoast tumor compressing the stellate ganglion"
+    },
+    {
+      "id": "C",
+      "text": "Orbital floor fracture with muscle entrapment"
+    },
+    {
+      "id": "D",
+      "text": "Multiple sclerosis and stroke"
+    },
+    {
+      "id": "E",
+      "text": "Posterior communicating artery aneurysm rupture"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "The MLF is densely myelinated, so it is particularly vulnerable to demyelination in multiple sclerosis and to ischemic injury from stroke. Bilateral MLF involvement producing bilateral internuclear ophthalmoplegia is classically associated with these two conditions, especially in younger patients with MS.",
+  "explanation_incorrect": {
+    "A": "Diabetic microvascular disease characteristically causes a pupil-sparing CN III palsy, not bilateral MLF lesions.",
+    "B": "A Pancoast tumor compresses the stellate ganglion and causes Horner syndrome, not an internuclear ophthalmoplegia.",
+    "C": "An orbital floor fracture entraps the inferior rectus and injures the infraorbital nerve, producing restricted gaze rather than a bilateral gaze coordination defect.",
+    "E": "A PCom aneurysm compresses CN III with a blown pupil and down-and-out gaze, not the MLF."
+  },
+  "educationalObjective": "Bilateral internuclear ophthalmoplegia is classic for multiple sclerosis and stroke because the MLF is heavily myelinated.",
+  "source": "Generated from 12. Neurology.pdf - Ophthalmology: Internuclear ophthalmoplegia"
+}
+]

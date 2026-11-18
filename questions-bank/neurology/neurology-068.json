@@ -1,0 +1,248 @@
+[
+{
+  "id": "neu-432",
+  "subject": "Neurology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Opioid analgesics",
+  "difficulty": "medium",
+  "vignette": "A patient with severe pain receives an opioid analgesic. At the synaptic level, the drug reduces neurotransmitter release from presynaptic neurons and hyperpolarizes postsynaptic neurons.",
+  "question": "Which of the following best describes the cellular mechanism of opioid analgesics?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Opening presynaptic Ca2+ channels and closing postsynaptic K+ channels, increasing transmission"
+    },
+    {
+      "id": "B",
+      "text": "Closing presynaptic Ca2+ channels and opening postsynaptic K+ channels, decreasing synaptic transmission"
+    },
+    {
+      "id": "C",
+      "text": "Blocking voltage-gated Na+ channels on afferent nerve fibers"
+    },
+    {
+      "id": "D",
+      "text": "Inhibiting cyclooxygenase and prostaglandin synthesis"
+    },
+    {
+      "id": "E",
+      "text": "Potentiating GABA-A receptors in the spinal cord"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Opioids act as agonists at opioid receptors (μ = β-endorphin, δ = enkephalin, κ = dynorphin) to modulate synaptic transmission. They close presynaptic Ca2+ channels and open postsynaptic K+ channels, thereby decreasing synaptic transmission. They inhibit release of ACh, norepinephrine, 5-HT, glutamate, and substance P, which underlies their analgesic effects.",
+  "explanation_incorrect": {
+    "A": "The directions are reversed: opioids close presynaptic Ca2+ channels and open postsynaptic K+ channels.",
+    "C": "Na+ channel blockade is the mechanism of local anesthetics, not opioids.",
+    "D": "COX inhibition and decreased prostaglandins is the mechanism of NSAIDs.",
+    "E": "GABA-A potentiation is the mechanism of benzodiazepines and propofol."
+  },
+  "educationalObjective": "Opioids close presynaptic Ca2+ channels and open postsynaptic K+ channels, reducing neurotransmitter release and pain transmission.",
+  "source": "Generated from 12. Neurology.pdf - Pharmacology: Opioid analgesics"
+},
+{
+  "id": "neu-433",
+  "subject": "Neurology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Opioid analgesics",
+  "difficulty": "easy",
+  "vignette": "A 35-year-old woman is prescribed codeine for pain. Her physician warns that the drug's effectiveness depends on her being a normal metabolizer of a particular liver enzyme, and that some people get little relief.",
+  "question": "Which of the following opioids is a prodrug activated by CYP2D6?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Codeine"
+    },
+    {
+      "id": "B",
+      "text": "Morphine"
+    },
+    {
+      "id": "C",
+      "text": "Fentanyl"
+    },
+    {
+      "id": "D",
+      "text": "Methadone"
+    },
+    {
+      "id": "E",
+      "text": "Buprenorphine"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Codeine is a prodrug activated by CYP2D6, which converts it to morphine. Patients who are poor CYP2D6 metabolizers get little analgesic benefit, while ultrarapid metabolizers are at risk of toxicity. The other full agonists listed (morphine, fentanyl, methadone) are active as administered; buprenorphine is a partial agonist.",
+  "explanation_incorrect": {
+    "B": "Morphine is the active metabolite of codeine and is active itself, not a CYP2D6-activated prodrug.",
+    "C": "Fentanyl is a potent full agonist that is active as given, not a prodrug.",
+    "D": "Methadone is a full agonist used in opioid use disorder; it is not a CYP2D6 prodrug.",
+    "E": "Buprenorphine is a partial agonist, not a CYP2D6-activated prodrug."
+  },
+  "educationalObjective": "Codeine is a prodrug requiring CYP2D6 conversion to morphine for analgesic effect.",
+  "source": "Generated from 12. Neurology.pdf - Pharmacology: Opioid analgesics"
+},
+{
+  "id": "neu-434",
+  "subject": "Neurology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Opioid analgesics",
+  "difficulty": "medium",
+  "vignette": "A pharmacology student is reviewing the endogenous opioid system and the receptors through which opioid drugs act.",
+  "question": "Which of the following correctly pairs an opioid receptor with its endogenous ligand?",
+  "options": [
+    {
+      "id": "A",
+      "text": "μ receptor — enkephalin"
+    },
+    {
+      "id": "B",
+      "text": "δ receptor — dynorphin"
+    },
+    {
+      "id": "C",
+      "text": "κ receptor — dynorphin"
+    },
+    {
+      "id": "D",
+      "text": "μ receptor — dynorphin"
+    },
+    {
+      "id": "E",
+      "text": "κ receptor — β-endorphin"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "The three major opioid receptors and their endogenous ligands are: μ (beta-endorphin), δ (enkephalin), and κ (dynorphin). Thus κ paired with dynorphin is correct. Most clinically used opioid analgesics exert their effects primarily through μ receptors.",
+  "explanation_incorrect": {
+    "A": "The μ receptor's endogenous ligand is β-endorphin, not enkephalin (which is δ).",
+    "B": "The δ receptor's endogenous ligand is enkephalin, not dynorphin (which is κ).",
+    "D": "Dynorphin is the κ ligand; μ is paired with β-endorphin.",
+    "E": "β-endorphin is the μ ligand; κ is paired with dynorphin."
+  },
+  "educationalObjective": "Opioid receptor endogenous ligands: μ = β-endorphin, δ = enkephalin, κ = dynorphin.",
+  "source": "Generated from 12. Neurology.pdf - Pharmacology: Opioid analgesics"
+},
+{
+  "id": "neu-435",
+  "subject": "Neurology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Opioid analgesics",
+  "difficulty": "hard",
+  "vignette": "A 60-year-old woman has been taking opioids chronically for cancer pain. On examination she has pinpoint pupils. Her clinician notes that most opioids produce this finding and that patients do not develop tolerance to it, but one opioid in this class can cause the opposite pupillary finding.",
+  "question": "Which opioid is associated with mydriasis rather than the miosis typical of the class?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Morphine"
+    },
+    {
+      "id": "B",
+      "text": "Fentanyl"
+    },
+    {
+      "id": "C",
+      "text": "Methadone"
+    },
+    {
+      "id": "D",
+      "text": "Meperidine"
+    },
+    {
+      "id": "E",
+      "text": "Codeine"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Most opioids cause miosis (pinpoint pupils), and patients do not develop tolerance to miosis or constipation. Meperidine is the exception: it can cause mydriasis. This is a classic distinguishing feature. Meperidine is also associated with seizures due to its metabolite normeperidine.",
+  "explanation_incorrect": {
+    "A": "Morphine causes miosis, not mydriasis.",
+    "B": "Fentanyl causes miosis, not mydriasis.",
+    "C": "Methadone causes miosis, not mydriasis.",
+    "E": "Codeine, via its active metabolite morphine, causes miosis, not mydriasis."
+  },
+  "educationalObjective": "Meperidine causes mydriasis, unlike other opioids that cause miosis; tolerance does not develop to miosis or constipation.",
+  "source": "Generated from 12. Neurology.pdf - Pharmacology: Opioid analgesics"
+},
+{
+  "id": "neu-436",
+  "subject": "Neurology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Opioid analgesics",
+  "difficulty": "easy",
+  "vignette": "A 24-year-old man is brought to the emergency department with respiratory depression and pinpoint pupils after an opioid overdose. He is given a drug that rapidly reverses the respiratory depression.",
+  "question": "Which of the following is the appropriate acute reversal agent for opioid toxicity?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Naltrexone"
+    },
+    {
+      "id": "B",
+      "text": "Methylnaltrexone"
+    },
+    {
+      "id": "C",
+      "text": "Buprenorphine"
+    },
+    {
+      "id": "D",
+      "text": "Methadone"
+    },
+    {
+      "id": "E",
+      "text": "Naloxone"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Naloxone is a short-acting opioid antagonist used to reverse acute opioid toxicity, including respiratory depression and sedation. Naltrexone is used to prevent relapse after detoxification, and methylnaltrexone is a peripherally acting antagonist used for opioid-induced constipation. Buprenorphine and methadone are used in maintenance therapy, not acute reversal.",
+  "explanation_incorrect": {
+    "A": "Naltrexone is used to prevent relapse in opioid use disorder after detoxification, not for acute reversal.",
+    "B": "Methylnaltrexone is a peripheral antagonist used to treat opioid-induced constipation.",
+    "C": "Buprenorphine is a partial agonist used in maintenance therapy and can itself cause dependence.",
+    "D": "Methadone is a full agonist used in maintenance therapy, not an antagonist."
+  },
+  "educationalObjective": "Naloxone is the acute reversal agent for opioid overdose; naltrexone prevents relapse and methylnaltrexone treats constipation.",
+  "source": "Generated from 12. Neurology.pdf - Pharmacology: Opioid analgesics"
+},
+{
+  "id": "neu-437",
+  "subject": "Neurology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Opioid analgesics",
+  "difficulty": "hard",
+  "vignette": "A 48-year-old woman with chronic pain and depression is prescribed tramadol. She is also taking an SSRI. She develops agitation, tremor, hyperreflexia, and a seizure.",
+  "question": "Which of the following best explains tramadol's mechanism and this adverse reaction?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A pure μ agonist that causes respiratory depression reversed by naloxone"
+    },
+    {
+      "id": "B",
+      "text": "A very weak opioid agonist that also inhibits norepinephrine and serotonin reuptake, lowering the seizure threshold and risking serotonin syndrome"
+    },
+    {
+      "id": "C",
+      "text": "A κ full agonist that precipitates opioid withdrawal"
+    },
+    {
+      "id": "D",
+      "text": "A GABA-A potentiator causing sedation and amnesia"
+    },
+    {
+      "id": "E",
+      "text": "A competitive NMDA antagonist causing hallucinations"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Tramadol is a very weak opioid agonist that also inhibits the reuptake of norepinephrine and serotonin. It is used for chronic pain. Its monoaminergic effects lower the seizure threshold and, especially when combined with other serotonergic drugs such as SSRIs, can cause serotonin syndrome—agitation, tremor, hyperreflexia, and seizures—as seen in this patient.",
+  "explanation_incorrect": {
+    "A": "Tramadol is not a pure μ agonist; its additional monoamine reuptake inhibition distinguishes it, and the seizure/serotonin effects are the key issue here.",
+    "C": "κ full agonism with precipitated withdrawal describes mixed agonist/antagonists like butorphanol and nalbuphine, not tramadol.",
+    "D": "GABA-A potentiation is the mechanism of benzodiazepines and propofol, not tramadol.",
+    "E": "NMDA antagonism with hallucinations describes ketamine, not tramadol."
+  },
+  "educationalObjective": "Tramadol is a weak opioid plus NE/5-HT reuptake inhibitor; it lowers seizure threshold and can cause serotonin syndrome.",
+  "source": "Generated from 12. Neurology.pdf - Pharmacology: Opioid analgesics"
+}
+]

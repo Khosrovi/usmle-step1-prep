@@ -1,0 +1,166 @@
+[
+{
+  "id": "neu-050",
+  "subject": "Neurology",
+  "major_topic": "Anatomy and Physiology",
+  "subtopic": "Blood-brain barrier",
+  "difficulty": "medium",
+  "vignette": "A 34-year-old man with a central nervous system infection is given an intravenous antibiotic that reaches adequate serum levels but fails to achieve therapeutic concentrations in the cerebrospinal fluid. His team reviews the anatomic basis of the blood-brain barrier to design a compound that can enter the brain. They focus on the feature that seals the space between capillary endothelial cells.",
+  "question": "Which of the following is the primary structural basis preventing circulating hydrophilic substances from passing between brain capillary endothelial cells?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Tight junctions between nonfenestrated capillary endothelial cells"
+    },
+    {
+      "id": "B",
+      "text": "Fenestrations that allow free paracellular exchange across the endothelium"
+    },
+    {
+      "id": "C",
+      "text": "The basement membrane acting alone as the exclusive diffusion barrier"
+    },
+    {
+      "id": "D",
+      "text": "Pericytes contracting to narrow the capillary lumen"
+    },
+    {
+      "id": "E",
+      "text": "Astrocyte foot processes forming the direct seals between endothelial cells"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "The blood-brain barrier is formed by four structures: tight junctions between nonfenestrated capillary endothelial cells, the basement membrane, pericytes, and astrocyte foot processes. Of these, the tight junctions between nonfenestrated endothelial cells are the critical seal that blocks paracellular diffusion of hydrophilic substances from blood into the CNS. This is why small water-soluble drugs often fail to reach therapeutic brain concentrations. Only nonpolar, lipid-soluble substances diffuse rapidly across, while glucose and amino acids require slow carrier-mediated transport.",
+  "explanation_incorrect": {
+    "B": "Fenestrations would increase permeability rather than restrict it; brain capillaries are specifically nonfenestrated, unlike circumventricular organs.",
+    "C": "The basement membrane contributes to the barrier but is not the exclusive or primary seal between endothelial cells; tight junctions are the key paracellular barrier.",
+    "D": "Pericytes are contractile supportive cells that contribute to the barrier, but they do not narrow the lumen to block paracellular passage of solutes.",
+    "E": "Astrocyte foot processes surround capillaries and help induce and maintain the barrier, but they do not form the intercellular seals between endothelial cells."
+  },
+  "educationalObjective": "Tight junctions between nonfenestrated capillary endothelial cells are the principal barrier to paracellular solute entry into the brain.",
+  "source": "Generated from 12. Neurology.pdf - Anatomy and Physiology: Blood-brain barrier"
+},
+{
+  "id": "neu-051",
+  "subject": "Neurology",
+  "major_topic": "Anatomy and Physiology",
+  "subtopic": "Blood-brain barrier",
+  "difficulty": "medium",
+  "vignette": "A researcher compares the rate at which two radiolabeled compounds enter the brain after intravenous injection. Compound X is a small nonpolar, lipid-soluble molecule and reaches the brain within seconds. Compound Y is glucose, which enters the brain far more slowly and in a saturable fashion that can be outcompeted by excess glucose.",
+  "question": "Which of the following best explains the difference in blood-brain barrier crossing between these two compounds?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Glucose diffuses passively through endothelial fenestrations, whereas compound X requires a specific carrier"
+    },
+    {
+      "id": "B",
+      "text": "Both compounds cross by simple diffusion, but glucose is excluded because it is a larger molecule"
+    },
+    {
+      "id": "C",
+      "text": "Glucose crosses slowly by carrier-mediated transport, whereas nonpolar lipid-soluble compounds cross rapidly by diffusion"
+    },
+    {
+      "id": "D",
+      "text": "Glucose is actively pumped out of the brain by astrocyte foot processes, whereas compound X is not"
+    },
+    {
+      "id": "E",
+      "text": "Compound X crosses only through circumventricular organs, whereas glucose cannot cross anywhere"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Nonpolar, lipid-soluble substances dissolve in the endothelial cell membrane and cross the blood-brain barrier rapidly by passive diffusion. Glucose and amino acids are polar and cannot diffuse through the lipid bilayer, so they cross slowly via specific carrier-mediated (saturable) transporters. This distinction explains why lipid-soluble drugs enter the CNS quickly while glucose entry is tightly regulated and capacity-limited.",
+  "explanation_incorrect": {
+    "A": "The directions are reversed: glucose uses a carrier, and lipid-soluble compounds diffuse; brain endothelium is nonfenestrated.",
+    "B": "Simple diffusion through the lipid bilayer depends on lipid solubility, not just size, and glucose does not freely diffuse across brain endothelium.",
+    "D": "Astrocytes do not actively pump glucose out of the brain; glucose entry is carrier-mediated, not prevented by an efflux pump.",
+    "E": "Compound X, being lipid soluble, diffuses across the entire brain endothelium, not just at circumventricular organs; glucose does cross via carriers."
+  },
+  "educationalObjective": "Lipid-soluble substances cross the blood-brain barrier rapidly by diffusion, while glucose and amino acids cross slowly via saturable carriers.",
+  "source": "Generated from 12. Neurology.pdf - Anatomy and Physiology: Blood-brain barrier"
+},
+{
+  "id": "neu-052",
+  "subject": "Neurology",
+  "major_topic": "Anatomy and Physiology",
+  "subtopic": "Blood-brain barrier",
+  "difficulty": "easy",
+  "vignette": "A patient with a tumor near the fourth ventricle develops nausea and vomiting after chemotherapy, even though the chemotherapeutic agents barely enter the rest of the brain. Elsewhere, a small region in the anterior wall of the third ventricle senses changes in plasma osmolarity, and the posterior pituitary releases ADH directly into the circulation. These regions interact with circulating molecules that cannot cross the blood-brain barrier elsewhere.",
+  "question": "Which of the following best explains how circulating substances can act on these specialized brain regions?",
+  "options": [
+    {
+      "id": "A",
+      "text": "They possess unusually tight junctions that actively transport blood-borne molecules into neurons"
+    },
+    {
+      "id": "B",
+      "text": "They lack a blood-brain barrier because their capillaries are fenestrated"
+    },
+    {
+      "id": "C",
+      "text": "They are the only CNS regions completely devoid of a blood supply"
+    },
+    {
+      "id": "D",
+      "text": "They contain no pericytes and therefore have no endothelial support cells"
+    },
+    {
+      "id": "E",
+      "text": "They are separated from blood by an exceptionally thick pia mater"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Circumventricular organs, including the area postrema, OVLT, and neurohypophysis, have fenestrated capillaries and no blood-brain barrier. This lets blood-borne molecules act on the brain, as with chemotherapy-triggered emesis at the area postrema and osmosensing at the OVLT, or lets neurosecretory products such as ADH enter the circulation from the neurohypophysis.",
+  "explanation_incorrect": {
+    "A": "Tight junctions would block, not enable, entry of blood-borne molecules; these organs have fenestrated, leaky capillaries.",
+    "C": "These are highly vascular regions; they are not devoid of a blood supply.",
+    "D": "The defining feature is fenestrated endothelium lacking a barrier, not simply an absence of pericytes.",
+    "E": "The pia mater does not create the blood-brain barrier, and a thick pia would not permit blood-borne sensing."
+  },
+  "educationalObjective": "Circumventricular organs have fenestrated capillaries and no blood-brain barrier, allowing bloodborne molecules to influence brain function.",
+  "source": "Generated from 12. Neurology.pdf - Anatomy and Physiology: Blood-brain barrier"
+},
+{
+  "id": "neu-053",
+  "subject": "Neurology",
+  "major_topic": "Anatomy and Physiology",
+  "subtopic": "Blood-brain barrier",
+  "difficulty": "hard",
+  "vignette": "A 68-year-old man develops an acute ischemic stroke. Over the next 48 hours, imaging shows fluid accumulating in the extracellular space surrounding the infarct, consistent with vasogenic edema. In a separate patient, an osmotically active agent is infused before chemotherapy to increase drug penetration into a brain tumor.",
+  "question": "Which of the following best describes the mechanism of the perilesional edema and the effect of the infused osmotic agent?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Intracellular fluid accumulation from Na+/K+-ATPase failure; the osmotic agent seals endothelial tight junctions"
+    },
+    {
+      "id": "B",
+      "text": "Extracellular fluid from increased capillary permeability after barrier disruption; the osmotic agent has no effect on the blood-brain barrier"
+    },
+    {
+      "id": "C",
+      "text": "Intracellular osmotic shift into neurons; the osmotic agent disrupts the barrier and increases drug permeability"
+    },
+    {
+      "id": "D",
+      "text": "Extracellular fluid accumulation from blood-brain barrier disruption with increased permeability; hyperosmolar agents such as mannitol disrupt the barrier and increase medication permeability"
+    },
+    {
+      "id": "E",
+      "text": "Excess CSF production by the choroid plexus; the osmotic agent reduces CSF production"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Vasogenic edema is extracellular fluid accumulation caused by disruption of the blood-brain barrier, which increases capillary permeability; it occurs with late ischemia, trauma, hemorrhage, inflammation, and tumors. Early ischemia instead produces cytotoxic edema from intracellular osmotic shifts. Hyperosmolar agents such as mannitol transiently disrupt the blood-brain barrier and thereby increase the permeability of medications to the CNS.",
+  "explanation_incorrect": {
+    "A": "Intracellular accumulation from pump failure is cytotoxic edema, not vasogenic edema, and mannitol does not seal tight junctions.",
+    "B": "The first half is correct, but mannitol does affect the blood-brain barrier by disrupting it and raising drug permeability.",
+    "C": "The edema described is extracellular (vasogenic), not an intracellular osmotic shift, even though the mannitol effect stated is correct.",
+    "E": "The perilesional fluid is interstitial edema from barrier disruption, not CSF overproduction, and mannitol's relevant effect is on barrier permeability."
+  },
+  "educationalObjective": "Blood-brain barrier disruption causes vasogenic (extracellular) edema, and hyperosmolar agents such as mannitol increase CNS drug permeability.",
+  "source": "Generated from 12. Neurology.pdf - Anatomy and Physiology: Blood-brain barrier"
+}
+]

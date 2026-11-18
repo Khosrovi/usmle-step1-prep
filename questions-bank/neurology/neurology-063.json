@@ -1,0 +1,207 @@
+[
+{
+  "id": "neu-423",
+  "subject": "Neurology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Neuromuscular blocking drugs and malignant hyperthermia",
+  "difficulty": "easy",
+  "vignette": "A patient requires rapid muscle relaxation for endotracheal intubation. The anesthesiologist administers a drug that is a potent agonist at nicotinic Nm receptors at the neuromuscular junction and produces sustained depolarization.",
+  "question": "Which of the following best describes succinylcholine and its phase I blockade?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A competitive Nm antagonist whose blockade is reversed by sugammadex"
+    },
+    {
+      "id": "B",
+      "text": "A depolarizing Nm agonist whose phase I blockade has no antidote and is potentiated by cholinesterase inhibitors"
+    },
+    {
+      "id": "C",
+      "text": "A nondepolarizing agent that is reversed by neostigmine in phase I"
+    },
+    {
+      "id": "D",
+      "text": "An agent that blocks autonomic Nn receptors more potently than Nm receptors"
+    },
+    {
+      "id": "E",
+      "text": "A GABA-B agonist acting in the spinal cord"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Succinylcholine is a depolarizing neuromuscular blocker: a strong Nm nicotinic receptor agonist that produces sustained depolarization and prevents muscle contraction. In phase I (prolonged depolarization) blockade there is no antidote, and the blockade is potentiated by cholinesterase inhibitors. In phase II the receptors are repolarized but desensitized, and blockade may be reversed by cholinesterase inhibitors.",
+  "explanation_incorrect": {
+    "A": "Succinylcholine is an agonist, not a competitive antagonist; sugammadex reverses nondepolarizing agents such as rocuronium.",
+    "C": "Succinylcholine is depolarizing, not nondepolarizing; phase I is not reversed by neostigmine.",
+    "D": "Neuromuscular blockers are selective for Nm receptors at the neuromuscular junction, not autonomic Nn receptors.",
+    "E": "GABA-B agonism in the spinal cord is the mechanism of baclofen, not succinylcholine."
+  },
+  "educationalObjective": "Succinylcholine is a depolarizing Nm agonist; phase I block has no antidote and is potentiated by cholinesterase inhibitors.",
+  "source": "Generated from 12. Neurology.pdf - Pharmacology: Neuromuscular blocking drugs and malignant hyperthermia"
+},
+{
+  "id": "neu-424",
+  "subject": "Neurology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Neuromuscular blocking drugs and malignant hyperthermia",
+  "difficulty": "hard",
+  "vignette": "A patient receives succinylcholine for intubation. Several hours later, the patient remains profoundly paralyzed and requires continued mechanical ventilation. The anesthesiologist suspects an inherited enzyme deficiency.",
+  "question": "Which deficiency most likely explains this prolonged paralysis, and what is the underlying mechanism?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Ryanodine receptor mutation causing excessive Ca2+ release from the sarcoplasmic reticulum"
+    },
+    {
+      "id": "B",
+      "text": "Acetylcholinesterase deficiency at the neuromuscular junction increasing acetylcholine"
+    },
+    {
+      "id": "C",
+      "text": "Pseudocholinesterase deficiency causing reduced metabolism of succinylcholine"
+    },
+    {
+      "id": "D",
+      "text": "Dihydropyridine receptor mutation impairing excitation-contraction coupling"
+    },
+    {
+      "id": "E",
+      "text": "Carbonic anhydrase deficiency reducing acid-base buffering"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Succinylcholine is metabolized by plasma pseudocholinesterase. Patients with pseudocholinesterase deficiency cannot hydrolyze the drug normally, leading to prolonged muscle paralysis and extended ventilator dependence. Other complications of succinylcholine include hyperkalemia and malignant hyperthermia. This is distinct from malignant hyperthermia, which is due to RYR1/DHPR mutations.",
+  "explanation_incorrect": {
+    "A": "Ryanodine receptor (RYR1) mutations cause malignant hyperthermia, not isolated prolonged succinylcholine paralysis.",
+    "B": "It is plasma pseudocholinesterase (butyrylcholinesterase), not synaptic acetylcholinesterase, that metabolizes succinylcholine.",
+    "D": "DHPR mutations are associated with malignant hyperthermia susceptibility, not delayed succinylcholine metabolism.",
+    "E": "Carbonic anhydrase is relevant to acetazolamide and aqueous humor production, not succinylcholine metabolism."
+  },
+  "educationalObjective": "Pseudocholinesterase deficiency impairs succinylcholine metabolism, causing prolonged paralysis.",
+  "source": "Generated from 12. Neurology.pdf - Pharmacology: Neuromuscular blocking drugs and malignant hyperthermia"
+},
+{
+  "id": "neu-425",
+  "subject": "Neurology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Neuromuscular blocking drugs and malignant hyperthermia",
+  "difficulty": "easy",
+  "vignette": "An anesthesiologist needs a nondepolarizing neuromuscular blocker for a patient in whom succinylcholine is contraindicated. She chooses a competitive antagonist at the Nm receptor.",
+  "question": "Which of the following is a nondepolarizing neuromuscular blocker?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Rocuronium"
+    },
+    {
+      "id": "B",
+      "text": "Succinylcholine"
+    },
+    {
+      "id": "C",
+      "text": "Acetylcholine"
+    },
+    {
+      "id": "D",
+      "text": "Dantrolene"
+    },
+    {
+      "id": "E",
+      "text": "Baclofen"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Nondepolarizing blockers—atracurium, cisatracurium, pancuronium, rocuronium, and vecuronium—are competitive antagonists at Nm nicotinic receptors at the neuromuscular junction. Their blockade can be reversed with sugammadex or cholinesterase inhibitors such as neostigmine. Succinylcholine, in contrast, is a depolarizing agent.",
+  "explanation_incorrect": {
+    "B": "Succinylcholine is the prototype depolarizing Nm agonist, not a nondepolarizing blocker.",
+    "C": "Acetylcholine is the endogenous neurotransmitter at the neuromuscular junction, not a blocker.",
+    "D": "Dantrolene is a skeletal muscle relaxant that inhibits ryanodine receptors, used for malignant hyperthermia.",
+    "E": "Baclofen is a GABA-B agonist used for spinal spasticity."
+  },
+  "educationalObjective": "Rocuronium (with atracurium, cisatracurium, pancuronium, vecuronium) is a competitive nondepolarizing Nm antagonist.",
+  "source": "Generated from 12. Neurology.pdf - Pharmacology: Neuromuscular blocking drugs and malignant hyperthermia"
+},
+{
+  "id": "neu-426",
+  "subject": "Neurology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Neuromuscular blocking drugs and malignant hyperthermia",
+  "difficulty": "medium",
+  "vignette": "After a procedure using a nondepolarizing neuromuscular blocker, a patient is given neostigmine to reverse the blockade. The anesthesiologist also administers glycopyrrolate.",
+  "question": "Why is an anticholinergic such as glycopyrrolate or atropine given together with neostigmine?",
+  "options": [
+    {
+      "id": "A",
+      "text": "To potentiate the neuromuscular blockade and prolong muscle relaxation"
+    },
+    {
+      "id": "B",
+      "text": "To increase the metabolism of the nondepolarizing blocker"
+    },
+    {
+      "id": "C",
+      "text": "To directly antagonize the nicotinic Nm receptor"
+    },
+    {
+      "id": "D",
+      "text": "To reduce the risk of malignant hyperthermia"
+    },
+    {
+      "id": "E",
+      "text": "To prevent the muscarinic effects of cholinesterase inhibition, such as bradycardia"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Neostigmine is a cholinesterase inhibitor that reverses nondepolarizing blockade by increasing acetylcholine at the neuromuscular junction. However, the increased acetylcholine also stimulates muscarinic receptors, causing effects such as bradycardia and increased secretions. Anticholinergics like atropine or glycopyrrolate are given to prevent these muscarinic effects. Sugammadex is an alternative reversal agent that does not require an anticholinergic.",
+  "explanation_incorrect": {
+    "A": "Glycopyrrolate does not potentiate blockade; neostigmine is given to reverse it, and the anticholinergic only blocks muscarinic effects.",
+    "B": "Glycopyrrolate does not affect metabolism of the blocker.",
+    "C": "The anticholinergic blocks muscarinic receptors, not nicotinic Nm receptors at the neuromuscular junction.",
+    "D": "Malignant hyperthermia is triggered by volatile anesthetics and succinylcholine, not prevented by glycopyrrolate."
+  },
+  "educationalObjective": "Anticholinergics are co-administered with cholinesterase inhibitors to prevent muscarinic effects such as bradycardia.",
+  "source": "Generated from 12. Neurology.pdf - Pharmacology: Neuromuscular blocking drugs and malignant hyperthermia"
+},
+{
+  "id": "neu-427",
+  "subject": "Neurology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Neuromuscular blocking drugs and malignant hyperthermia",
+  "difficulty": "hard",
+  "vignette": "A 19-year-old man develops rapidly rising end-tidal CO2, tachycardia, masseter muscle rigidity, and hyperthermia shortly after induction with sevoflurane and succinylcholine. He has a family history of unexplained anesthesia deaths.",
+  "question": "Which of the following best describes this condition and its treatment?",
+  "options": [
+    {
+      "id": "A",
+      "text": "An autosomal recessive disorder of cholinesterase treated with neostigmine"
+    },
+    {
+      "id": "B",
+      "text": "An autosomal dominant disorder of ryanodine/dihydropyridine receptors with increased SR Ca2+ release, treated with dantrolene"
+    },
+    {
+      "id": "C",
+      "text": "An idiosyncratic reaction to opioids treated with naloxone"
+    },
+    {
+      "id": "D",
+      "text": "A complement-mediated reaction to propofol treated with steroids"
+    },
+    {
+      "id": "E",
+      "text": "A deficiency of pseudocholinesterase treated with fresh frozen plasma"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Malignant hyperthermia is a rare, life-threatening hypermetabolic reaction triggered by potent inhaled anesthetics (sevoflurane, desflurane, isoflurane) or succinylcholine in susceptible individuals. Susceptibility is due to autosomal dominant mutations in ryanodine (RYR1) or dihydropyridine receptors, causing increased Ca2+ release from the sarcoplasmic reticulum. This leads to sustained contraction, hypercapnia, tachycardia, rigidity, rhabdomyolysis, and hyperthermia. The treatment is dantrolene, a ryanodine receptor antagonist.",
+  "explanation_incorrect": {
+    "A": "Malignant hyperthermia is autosomal dominant, not recessive, and is due to calcium-handling proteins, not cholinesterase; neostigmine is not the treatment.",
+    "C": "Opioid reactions are not malignant hyperthermia; naloxone reverses opioids, not this hypermetabolic state.",
+    "D": "This is not a complement-mediated allergic reaction; steroids are not the treatment.",
+    "E": "Pseudocholinesterase deficiency causes prolonged paralysis, not malignant hyperthermia, and is not treated with dantrolene."
+  },
+  "educationalObjective": "Malignant hyperthermia is an AD RYR1/DHPR disorder with excessive SR Ca2+ release triggered by volatile anesthetics/succinylcholine; treat with dantrolene.",
+  "source": "Generated from 12. Neurology.pdf - Pharmacology: Neuromuscular blocking drugs and malignant hyperthermia"
+}
+]

@@ -1,0 +1,248 @@
+[
+{
+  "id": "neu-057",
+  "subject": "Neurology",
+  "major_topic": "Anatomy and Physiology",
+  "subtopic": "Sleep physiology",
+  "difficulty": "easy",
+  "vignette": "A researcher monitors a healthy young adult through a full night of polysomnography and records five complete sleep cycles, each alternating between non-rapid eye movement and rapid eye movement sleep. She notes that the proportion of each cycle spent in REM changes predictably as the night progresses.",
+  "question": "Which of the following best describes the normal pattern of sleep cycles and REM sleep across a night?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Sleep occurs in 2–3 cycles per night, with REM longest in the first cycle and shortening thereafter"
+    },
+    {
+      "id": "B",
+      "text": "Each cycle lasts about 90 minutes and the amount of REM sleep is constant in every cycle"
+    },
+    {
+      "id": "C",
+      "text": "REM sleep occurs only in the final cycle of the night"
+    },
+    {
+      "id": "D",
+      "text": "Sleep occurs in 4–6 cycles of about 90 minutes each, and REM sleep duration increases through the night"
+    },
+    {
+      "id": "E",
+      "text": "Sleep is a single continuous NREM period followed by one long REM period at awakening"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Normal sleep consists of 4–6 cycles per night, each lasting roughly 90 minutes and made up of NREM and REM sleep. A key feature is that REM sleep duration increases through the night, so REM periods are longer in the early morning hours. This cyclical architecture underlies the distinct EEG and physiologic findings of each stage.",
+  "explanation_incorrect": {
+    "A": "There are 4–6 cycles, not 2–3, and REM duration increases rather than decreases across the night.",
+    "B": "While cycles are about 90 minutes, REM duration is not constant; it lengthens as the night progresses.",
+    "C": "REM sleep occurs in every cycle, not only the final one, and becomes longer later in the night.",
+    "E": "Sleep is not a single NREM period; it cycles repeatedly between NREM and REM."
+  },
+  "educationalObjective": "Normal sleep has 4–6 cycles of about 90 minutes each, with REM sleep becoming longer through the night.",
+  "source": "Generated from 12. Neurology.pdf - Anatomy and Physiology: Sleep physiology"
+},
+{
+  "id": "neu-058",
+  "subject": "Neurology",
+  "major_topic": "Anatomy and Physiology",
+  "subtopic": "Sleep physiology",
+  "difficulty": "hard",
+  "vignette": "A 30-year-old shift worker is exposed to bright light at night and finds it difficult to fall asleep. Melatonin, a hormone that regulates circadian rhythm, is secreted by the pineal gland in response to sympathetic norepinephrine from the superior cervical ganglion. A hypothalamic nucleus receives direct retinal input and serves as the master circadian pacemaker.",
+  "question": "Which of the following best describes the pathway by which light at night suppresses melatonin secretion?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Light activates the suprachiasmatic nucleus, decreasing sympathetic norepinephrine from the superior cervical ganglion and decreasing pineal melatonin"
+    },
+    {
+      "id": "B",
+      "text": "Light activates the supraoptic nucleus, increasing ADH release, which directly suppresses pineal melatonin"
+    },
+    {
+      "id": "C",
+      "text": "Light acts directly on the pineal gland to increase melatonin synthesis and secretion"
+    },
+    {
+      "id": "D",
+      "text": "Darkness activates the suprachiasmatic nucleus and decreases melatonin, promoting wakefulness"
+    },
+    {
+      "id": "E",
+      "text": "Light inhibits the paraventricular nucleus, increasing oxytocin, which raises melatonin"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "The suprachiasmatic nucleus (SCN) is the circadian pacemaker and receives light input from the retina. Light increases SCN activity, which reduces sympathetic norepinephrine output from the superior cervical ganglion and thereby decreases pineal melatonin secretion. Conversely, reduced light lowers SCN activity, raising norepinephrine and melatonin to promote sleep.",
+  "explanation_incorrect": {
+    "B": "The supraoptic nucleus makes ADH and is not the circadian pacemaker; ADH does not regulate melatonin.",
+    "C": "The pineal gland is regulated indirectly through the SCN and sympathetic chain, not directly by light.",
+    "D": "The relationship is reversed: darkness lowers SCN activity and raises melatonin, while light suppresses melatonin.",
+    "E": "The paraventricular nucleus and oxytocin are involved in bonding and lactation, not light-driven melatonin regulation."
+  },
+  "educationalObjective": "Light activates the SCN, reducing sympathetic norepinephrine from the superior cervical ganglion and suppressing pineal melatonin.",
+  "source": "Generated from 12. Neurology.pdf - Anatomy and Physiology: Sleep physiology"
+},
+{
+  "id": "neu-059",
+  "subject": "Neurology",
+  "major_topic": "Anatomy and Physiology",
+  "subtopic": "Sleep physiology",
+  "difficulty": "medium",
+  "vignette": "A 25-year-old woman undergoes polysomnography. A particular stage makes up about 45% of her total sleep time and its EEG shows sleep spindles and K-complexes. Her roommate reports that she grinds her teeth during this stage of sleep.",
+  "question": "Which sleep stage is characterized by sleep spindles, K-complexes, bruxism, and roughly 45% of total sleep time?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Stage N1"
+    },
+    {
+      "id": "B",
+      "text": "Stage N3"
+    },
+    {
+      "id": "C",
+      "text": "REM sleep"
+    },
+    {
+      "id": "D",
+      "text": "Awake with eyes closed"
+    },
+    {
+      "id": "E",
+      "text": "Stage N2"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Stage N2 sleep accounts for about 45% of total sleep time and is identified on EEG by sleep spindles and K-complexes. Bruxism (teeth grinding) classically occurs during N2 sleep. This is deeper than the theta-wave N1 stage but lighter than the delta-wave N3 stage.",
+  "explanation_incorrect": {
+    "A": "N1 is light sleep (~5%) with theta waves, not spindles and K-complexes.",
+    "B": "N3 is deep slow-wave sleep (~25%) dominated by delta waves, where bedwetting, sleepwalking, and night terrors occur.",
+    "C": "REM sleep (~25%) features atonia, dreaming, and increased brain oxygen use, not sleep spindles.",
+    "D": "Awake with eyes closed produces alpha waves; spindles and K-complexes are specific to N2 sleep."
+  },
+  "educationalObjective": "Stage N2 sleep is defined by sleep spindles and K-complexes, occupies ~45% of sleep, and is when bruxism occurs.",
+  "source": "Generated from 12. Neurology.pdf - Anatomy and Physiology: Sleep physiology"
+},
+{
+  "id": "neu-060",
+  "subject": "Neurology",
+  "major_topic": "Anatomy and Physiology",
+  "subtopic": "Sleep physiology",
+  "difficulty": "easy",
+  "vignette": "A 7-year-old boy has frequent episodes of walking and talking in his sleep, and his parents also report occasional bedwetting and night terrors. An EEG recorded during one of these episodes shows high-amplitude, low-frequency delta waves. These events occur in the deepest stage of non-rapid eye movement sleep.",
+  "question": "Which sleep stage is associated with these parasomnias and the described EEG findings?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Stage N1"
+    },
+    {
+      "id": "B",
+      "text": "Stage N3 (slow-wave sleep)"
+    },
+    {
+      "id": "C",
+      "text": "Stage N2"
+    },
+    {
+      "id": "D",
+      "text": "REM sleep"
+    },
+    {
+      "id": "E",
+      "text": "Awake with eyes open"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Stage N3 is the deepest NREM (slow-wave) sleep, making up about 25% of total sleep, and shows delta waves—the lowest-frequency, highest-amplitude EEG waves. Bedwetting, sleepwalking, and night terrors occur during N3. Benzodiazepines, which suppress N3 and REM, can be useful in sleepwalking and night terrors.",
+  "explanation_incorrect": {
+    "A": "N1 is light sleep with theta waves and does not produce the delta waves or the classic parasomnias described.",
+    "C": "N2 shows spindles and K-complexes and is associated with bruxism, not bedwetting or night terrors.",
+    "D": "REM sleep has low muscle tone, dreaming, and nightmares, but not high-amplitude delta waves or sleepwalking.",
+    "E": "Awake with eyes open shows beta waves (highest frequency, lowest amplitude), not slow-wave delta activity."
+  },
+  "educationalObjective": "Stage N3 slow-wave sleep produces delta waves and is when bedwetting, sleepwalking, and night terrors occur.",
+  "source": "Generated from 12. Neurology.pdf - Anatomy and Physiology: Sleep physiology"
+},
+{
+  "id": "neu-061",
+  "subject": "Neurology",
+  "major_topic": "Anatomy and Physiology",
+  "subtopic": "Sleep physiology",
+  "difficulty": "hard",
+  "vignette": "A 70-year-old man with progressive parkinsonism and cognitive decline begins acting out his dreams, thrashing and shouting during sleep and occasionally injuring his bed partner. Polysomnography shows increased muscle tone during REM sleep rather than the normal loss of tone.",
+  "question": "Which of the following best explains this patient's nocturnal behavior?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Loss of sleep spindles during stage N2, causing dream enactment and increased tone"
+    },
+    {
+      "id": "B",
+      "text": "Excessive REM atonia producing daytime muscle weakness and dream enactment"
+    },
+    {
+      "id": "C",
+      "text": "REM sleep behavior disorder from loss of normal REM atonia, associated with Lewy body dementia and Parkinson disease"
+    },
+    {
+      "id": "D",
+      "text": "Stage N3 night terrors caused by intrusion of delta waves into REM sleep"
+    },
+    {
+      "id": "E",
+      "text": "Narcolepsy with cataplexy due to hypocretin neuron loss"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Normally REM sleep features atonia of all muscles except the diaphragm and extraocular muscles, preventing dream enactment. REM sleep behavior disorder is the loss of this atonia, leading to often violent dream enactment and vocalization. It is most commonly associated with synucleinopathies such as Lewy body dementia and Parkinson disease.",
+  "explanation_incorrect": {
+    "A": "Sleep spindles are a feature of N2 sleep and their loss does not produce dream enactment; the problem is loss of REM atonia.",
+    "B": "Excessive atonia would prevent movement; this patient has too little REM atonia, not too much.",
+    "D": "Night terrors arise from N3 slow-wave sleep, not REM, and do not reflect delta-wave intrusion into REM.",
+    "E": "Narcolepsy with cataplexy causes sudden loss of muscle tone with emotion and reduced REM latency, not dream enactment during REM."
+  },
+  "educationalObjective": "REM behavior disorder is loss of normal REM atonia with dream enactment and is strongly associated with Lewy body and Parkinson disease.",
+  "source": "Generated from 12. Neurology.pdf - Anatomy and Physiology: Sleep physiology"
+},
+{
+  "id": "neu-062",
+  "subject": "Neurology",
+  "major_topic": "Anatomy and Physiology",
+  "subtopic": "Sleep physiology",
+  "difficulty": "hard",
+  "vignette": "A 45-year-old woman with major depressive disorder reports difficulty falling asleep, repeated nighttime awakenings, and early morning awakening (terminal insomnia). Her physician orders polysomnography to characterize how her mood disorder has altered her sleep architecture.",
+  "question": "Which of the following sleep-architecture changes is most characteristic of major depressive disorder?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Increased N3 and REM sleep with prolonged REM latency"
+    },
+    {
+      "id": "B",
+      "text": "Decreased N3 and decreased REM sleep with increased sleep-onset latency"
+    },
+    {
+      "id": "C",
+      "text": "Increased N3 sleep with reduced REM latency and fewer awakenings"
+    },
+    {
+      "id": "D",
+      "text": "Decreased N3 sleep, increased REM sleep, and decreased REM latency"
+    },
+    {
+      "id": "E",
+      "text": "Normal sleep architecture with only a mild reduction in total sleep time"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Depression characteristically decreases N3 (slow-wave) sleep, increases REM sleep, and shortens REM latency, along with repeated nighttime awakenings and terminal insomnia. This differs from aging, which reduces both N3 and REM and increases sleep-onset latency, and from alcohol, benzodiazepines, and barbiturates, which suppress both N3 and REM.",
+  "explanation_incorrect": {
+    "A": "Depression reduces N3 sleep and shortens REM latency; it does not increase N3 or prolong REM latency.",
+    "B": "This pattern—reduced N3 and REM with longer sleep-onset latency—is typical of aging, not depression.",
+    "C": "N3 sleep is decreased in depression, and nighttime awakenings are increased rather than fewer.",
+    "E": "Depression produces distinct architecture changes, not merely a mild reduction in total sleep time."
+  },
+  "educationalObjective": "Depression decreases N3 sleep, increases REM sleep, and shortens REM latency, with terminal insomnia.",
+  "source": "Generated from 12. Neurology.pdf - Anatomy and Physiology: Sleep physiology"
+}
+]

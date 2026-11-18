@@ -1,0 +1,125 @@
+[
+{
+  "id": "neu-438",
+  "subject": "Neurology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Butorphanol, nalbuphine, capsaicin",
+  "difficulty": "medium",
+  "vignette": "A woman in labor receives an analgesic that is a μ-opioid receptor partial agonist and a κ-opioid receptor full agonist. It provides good analgesia with less respiratory depression than morphine.",
+  "question": "Which of the following best describes butorphanol and nalbuphine?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Pure μ agonists with high intrinsic activity and marked respiratory depression"
+    },
+    {
+      "id": "B",
+      "text": "Opioid antagonists used to reverse overdose"
+    },
+    {
+      "id": "C",
+      "text": "Mixed agonist/antagonists: μ partial agonists and κ full agonists"
+    },
+    {
+      "id": "D",
+      "text": "Peripherally acting antagonists used for constipation"
+    },
+    {
+      "id": "E",
+      "text": "Weak agonists that inhibit serotonin reuptake"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Butorphanol and nalbuphine are mixed agonist/antagonists: they are partial agonists at μ-opioid receptors and full agonists at κ-opioid receptors. They provide analgesia for severe pain such as labor pain and cause less respiratory depression than full opioid agonists.",
+  "explanation_incorrect": {
+    "A": "They are not pure μ agonists; they are partial at μ and full at κ, which limits respiratory depression.",
+    "B": "Opioid antagonists are naloxone, naltrexone, and methylnaltrexone, not butorphanol/nalbuphine.",
+    "D": "Peripherally acting antagonists for constipation describe methylnaltrexone.",
+    "E": "Serotonin reuptake inhibition with weak opioid agonism describes tramadol."
+  },
+  "educationalObjective": "Butorphanol and nalbuphine are μ partial/κ full agonists with less respiratory depression than full agonists.",
+  "source": "Generated from 12. Neurology.pdf - Pharmacology: Butorphanol, nalbuphine, capsaicin"
+},
+{
+  "id": "neu-439",
+  "subject": "Neurology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Butorphanol, nalbuphine, capsaicin",
+  "difficulty": "hard",
+  "vignette": "A patient who has been taking a full opioid agonist chronically for pain is given butorphanol for additional analgesia. Shortly afterward, he develops anxiety, tremor, sweating, and abdominal cramps.",
+  "question": "Which of the following best explains this reaction?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Butorphanol has higher intrinsic activity at μ receptors than the full agonist, causing toxicity"
+    },
+    {
+      "id": "B",
+      "text": "As a μ partial agonist, butorphanol competes with the full agonist and can precipitate opioid withdrawal"
+    },
+    {
+      "id": "C",
+      "text": "Butorphanol is an antagonist at κ receptors, reversing analgesia"
+    },
+    {
+      "id": "D",
+      "text": "The reaction is an allergic response mediated by histamine release"
+    },
+    {
+      "id": "E",
+      "text": "Butorphanol inhibits CYP2D6, causing accumulation of the full agonist"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "In a patient dependent on a full μ agonist, giving a partial agonist such as butorphanol can precipitate withdrawal because the partial agonist competes for the receptor but has lower intrinsic activity, reducing overall opioid signaling. Mixed agonist/antagonists are also not easily reversed by naloxone. Their respiratory depression is less than that of full agonists.",
+  "explanation_incorrect": {
+    "A": "Butorphanol has lower, not higher, intrinsic activity at μ receptors than a full agonist; that is why it can precipitate withdrawal.",
+    "C": "Butorphanol is a κ full agonist, not an antagonist; κ antagonism is not the mechanism here.",
+    "D": "This is not an allergic or histaminergic reaction; it is receptor-level precipitated withdrawal.",
+    "E": "CYP2D6 inhibition is not the mechanism; codeine is the prodrug dependent on CYP2D6."
+  },
+  "educationalObjective": "Giving a μ partial agonist to a patient on a full agonist can precipitate withdrawal; mixed agonist/antagonists are not easily reversed by naloxone.",
+  "source": "Generated from 12. Neurology.pdf - Pharmacology: Butorphanol, nalbuphine, capsaicin"
+},
+{
+  "id": "neu-440",
+  "subject": "Neurology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Butorphanol, nalbuphine, capsaicin",
+  "difficulty": "medium",
+  "vignette": "A patient with neuropathic pain uses a topical cream derived from hot peppers. It produces an initial burning sensation followed by prolonged pain relief. Laboratory studies show reduced release of substance P from nociceptive fibers.",
+  "question": "Which of the following best describes capsaicin's mechanism of action?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Competitive antagonism at μ-opioid receptors in the CNS"
+    },
+    {
+      "id": "B",
+      "text": "Inhibition of cyclooxygenase in peripheral tissues"
+    },
+    {
+      "id": "C",
+      "text": "Excessive stimulation and desensitization of nociceptive fibers, decreasing substance P release"
+    },
+    {
+      "id": "D",
+      "text": "Blockade of voltage-gated Na+ channels on sensory axons"
+    },
+    {
+      "id": "E",
+      "text": "Agonism at GABA-B receptors in the spinal cord"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Capsaicin, found in hot peppers, acts by excessively stimulating and then desensitizing nociceptive fibers, leading to decreased substance P release and reduced pain. It is used topically for musculoskeletal and neuropathic pain. The initial burning sensation reflects the excitatory phase before desensitization.",
+  "explanation_incorrect": {
+    "A": "Opioid antagonism is not capsaicin's mechanism; naloxone/naltrexone are opioid antagonists.",
+    "B": "COX inhibition is the mechanism of NSAIDs, not capsaicin.",
+    "D": "Na+ channel blockade is the mechanism of local anesthetics, not capsaicin.",
+    "E": "GABA-B agonism in the spinal cord is the mechanism of baclofen."
+  },
+  "educationalObjective": "Capsaicin desensitizes nociceptive fibers and decreases substance P release, used for neuropathic and musculoskeletal pain.",
+  "source": "Generated from 12. Neurology.pdf - Pharmacology: Butorphanol, nalbuphine, capsaicin"
+}
+]

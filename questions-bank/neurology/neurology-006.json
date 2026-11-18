@@ -1,0 +1,166 @@
+[
+{
+  "id": "neu-299",
+  "subject": "Neurology",
+  "major_topic": "Otology",
+  "subtopic": "Auditory anatomy and physiology",
+  "difficulty": "medium",
+  "vignette": "A researcher is studying the pathway of sound transmission. A patient is found to have a perforated tympanic membrane, but the ossicular chain and cochlea are intact. The researcher asks which structure normally conducts and amplifies sound from the tympanic membrane toward the inner ear.",
+  "question": "Which of the following structures performs this conduction and amplification?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The pinna and external auditory canal"
+    },
+    {
+      "id": "B",
+      "text": "The basilar membrane within the cochlea"
+    },
+    {
+      "id": "C",
+      "text": "The ossicles of the middle ear: malleus, incus, and stapes"
+    },
+    {
+      "id": "D",
+      "text": "The hair cells of the organ of Corti"
+    },
+    {
+      "id": "E",
+      "text": "The helicotrema at the apex of the cochlea"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "The middle ear is an air-filled space containing the three ossicles: malleus, incus, and stapes. These bones conduct and amplify sound from the vibrating tympanic membrane to the inner ear. This amplification is needed to transmit vibrations efficiently from air into the fluid-filled cochlea.",
+  "explanation_incorrect": {
+    "A": "The pinna and auditory canal are outer ear structures that collect sound and transfer it by vibrating the tympanic membrane; they are not the middle ear amplifiers.",
+    "B": "The basilar membrane vibrates in response to sound and provides frequency localization inside the inner ear; it does not conduct sound from the tympanic membrane.",
+    "D": "Hair cells of the organ of Corti transduce mechanical vibration into auditory nerve signals; they are sensory transducers, not conductors of sound.",
+    "E": "The helicotrema is the apical opening of the cochlea where low-frequency vibration occurs; it plays no role in conducting sound from the tympanic membrane."
+  },
+  "educationalObjective": "The middle ear ossicles malleus, incus, and stapes conduct and amplify sound from the tympanic membrane to the inner ear.",
+  "source": "Generated from 12. Neurology.pdf - Otology: Auditory anatomy and physiology"
+},
+{
+  "id": "neu-300",
+  "subject": "Neurology",
+  "major_topic": "Otology",
+  "subtopic": "Auditory anatomy and physiology",
+  "difficulty": "easy",
+  "vignette": "A 44-year-old patient has a small lesion affecting the apex of the cochlea near the helicotrema. The rest of the basilar membrane functions normally.",
+  "question": "Which range of sound frequencies would be most impaired in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Low-frequency sounds"
+    },
+    {
+      "id": "B",
+      "text": "High-frequency sounds detected at the base"
+    },
+    {
+      "id": "C",
+      "text": "All frequencies equally"
+    },
+    {
+      "id": "D",
+      "text": "Only sounds above 20,000 Hz"
+    },
+    {
+      "id": "E",
+      "text": "Only bone-conducted sounds"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "The basilar membrane is tonotopically organized so that each frequency vibrates at a specific location. Low-frequency sounds are heard at the apex near the helicotrema, where the membrane is wide and flexible. A lesion at the apex therefore impairs low-frequency hearing first.",
+  "explanation_incorrect": {
+    "B": "High-frequency sounds are detected at the base of the cochlea, where the basilar membrane is thin and rigid; an apical lesion would not impair these.",
+    "C": "Because of tonotopy, a localized lesion produces a frequency-specific deficit rather than a uniform loss across all frequencies.",
+    "D": "Frequencies above 20,000 Hz are ultrasound and outside normal human hearing; they are not specifically mapped to the apical helicotrema.",
+    "E": "Bone versus air conduction describes the pathway of sound to the ear, not the frequency map along the basilar membrane."
+  },
+  "educationalObjective": "Low frequencies are detected at the wide, flexible apex near the helicotrema of the basilar membrane.",
+  "source": "Generated from 12. Neurology.pdf - Otology: Auditory anatomy and physiology"
+},
+{
+  "id": "neu-301",
+  "subject": "Neurology",
+  "major_topic": "Otology",
+  "subtopic": "Auditory anatomy and physiology",
+  "difficulty": "hard",
+  "vignette": "A 72-year-old man has progressive bilateral symmetric sensorineural hearing loss that is worst for high-pitched sounds. Audiometry shows reduced hair cell function at the cochlear base with preserved low-frequency hearing at the apex. His physician reviews the structural basis of the base-to-apex frequency gradient.",
+  "question": "Which statement correctly describes the structure and frequency tuning of the basilar membrane?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The apex is thin and rigid and detects high frequencies, while the base is wide and flexible and detects low frequencies"
+    },
+    {
+      "id": "B",
+      "text": "The base is wide and flexible and detects low frequencies, while the apex is thin and rigid and detects high frequencies"
+    },
+    {
+      "id": "C",
+      "text": "The basilar membrane vibrates uniformly and frequency is encoded only by auditory nerve firing rate"
+    },
+    {
+      "id": "D",
+      "text": "Low frequencies are detected at the helicotrema because that region is narrow and stiff"
+    },
+    {
+      "id": "E",
+      "text": "The base is thin and rigid and detects high frequencies, while the apex near the helicotrema is wide and flexible and detects low frequencies"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Tonotopy arises from the physical properties of the basilar membrane. The base of the cochlea is thin and rigid and vibrates best at high frequencies, whereas the apex near the helicotrema is wide and flexible and vibrates best at low frequencies. This explains why age-related loss of basal hair cells in presbycusis affects high frequencies first while sparing apical low-frequency hearing.",
+  "explanation_incorrect": {
+    "A": "This reverses the tonotopic map: the apex is wide and flexible for low frequencies, and the base is thin and rigid for high frequencies.",
+    "B": "This also reverses the anatomy; the base is thin and rigid for high frequencies, not wide and flexible for low frequencies.",
+    "C": "The basilar membrane is tonotopically organized with different places responding to different frequencies; it does not vibrate uniformly.",
+    "D": "The helicotrema at the apex is wide and flexible and detects low frequencies, not narrow and stiff."
+  },
+  "educationalObjective": "Basilar membrane tonotopy places high-frequency detection at the thin, rigid base and low-frequency detection at the wide, flexible apex.",
+  "source": "Generated from 12. Neurology.pdf - Otology: Auditory anatomy and physiology"
+},
+{
+  "id": "neu-302",
+  "subject": "Neurology",
+  "major_topic": "Otology",
+  "subtopic": "Auditory anatomy and physiology",
+  "difficulty": "easy",
+  "vignette": "A medical student is reviewing how mechanical sound energy becomes a neural signal within the inner ear after the ossicles transmit vibration to the cochlea.",
+  "question": "Which of the following sequences correctly describes auditory transduction in the inner ear?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Hair cell transduction → basilar membrane vibration → auditory nerve signaling → brainstem"
+    },
+    {
+      "id": "B",
+      "text": "Auditory nerve signaling → hair cell depolarization → basilar membrane vibration"
+    },
+    {
+      "id": "C",
+      "text": "Tympanic membrane vibration → ossicle amplification → pinna sound collection"
+    },
+    {
+      "id": "D",
+      "text": "Basilar membrane vibration → hair cell transduction → auditory nerve signaling → brainstem"
+    },
+    {
+      "id": "E",
+      "text": "Ossicle vibration → basilar membrane vibration → semicircular canal stimulation"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Within the fluid-filled cochlea, sound waves cause the basilar membrane to vibrate. This vibration is transduced by specialized hair cells into auditory nerve signaling, which then travels to the brainstem. The sequence therefore runs from mechanical vibration to cellular transduction to neural signaling.",
+  "explanation_incorrect": {
+    "A": "This reverses the order; basilar membrane vibration comes first and drives the hair cells, not the other way around.",
+    "B": "Auditory nerve signaling is the final output of transduction, not the initial event; the process begins with mechanical vibration.",
+    "C": "This describes outer and middle ear sound collection and stops before neural signaling; it is not inner ear transduction.",
+    "E": "The semicircular canals are vestibular organs for balance and are not part of the auditory transduction pathway."
+  },
+  "educationalObjective": "Auditory transduction proceeds from basilar membrane vibration to hair cell transduction to auditory nerve signaling and then to the brainstem.",
+  "source": "Generated from 12. Neurology.pdf - Otology: Auditory anatomy and physiology"
+}
+]

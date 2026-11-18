@@ -1,0 +1,125 @@
+[
+{
+  "id": "neu-054",
+  "subject": "Neurology",
+  "major_topic": "Anatomy and Physiology",
+  "subtopic": "Vomiting center",
+  "difficulty": "easy",
+  "vignette": "A 22-year-old woman is given an antiemetic that acts on a brainstem chemosensing region located at the floor of the fourth ventricle, outside the blood-brain barrier, where it detects circulating emetic chemicals. Signals from this region are relayed to the nucleus tractus solitarius in the medulla, which coordinates the vomiting reflex along with input from the GI tract, vestibular system, and CNS.",
+  "question": "In which of the following structures does the chemoreceptor trigger zone reside?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The nucleus tractus solitarius of the medulla"
+    },
+    {
+      "id": "B",
+      "text": "The vestibular nuclei of the pons"
+    },
+    {
+      "id": "C",
+      "text": "The dorsal motor nucleus of the vagus"
+    },
+    {
+      "id": "D",
+      "text": "The paraventricular nucleus of the hypothalamus"
+    },
+    {
+      "id": "E",
+      "text": "The area postrema at the floor of the fourth ventricle"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "The chemoreceptor trigger zone lies within the area postrema at the base/floor of the fourth ventricle. Because this circumventricular organ lacks a blood-brain barrier, it samples circulating emetic chemicals and relays them to the nucleus tractus solitarius, the medullary coordinator of vomiting. The vomiting center integrates afferents from the area postrema, GI tract via the vagus, vestibular system, and higher CNS centers.",
+  "explanation_incorrect": {
+    "A": "The nucleus tractus solitarius coordinates the vomiting reflex but is not the chemoreceptor trigger zone itself.",
+    "B": "The vestibular nuclei contribute motion-sickness input to vomiting but are not the chemosensing trigger zone at the fourth ventricle.",
+    "C": "The dorsal motor nucleus supplies parasympathetic vagal efferents, not chemoreception of bloodborne emetics.",
+    "D": "The paraventricular nucleus is hypothalamic and is not the medullary circumventricular chemosensor."
+  },
+  "educationalObjective": "The chemoreceptor trigger zone is in the area postrema at the fourth ventricle floor, a circumventricular organ outside the blood-brain barrier.",
+  "source": "Generated from 12. Neurology.pdf - Anatomy and Physiology: Vomiting center"
+},
+{
+  "id": "neu-055",
+  "subject": "Neurology",
+  "major_topic": "Anatomy and Physiology",
+  "subtopic": "Vomiting center",
+  "difficulty": "medium",
+  "vignette": "A 56-year-old man receiving cisplatin chemotherapy develops severe nausea and vomiting. His oncologist prescribes a combination regimen that includes a serotonin 5-HT3 receptor antagonist, a dopamine D2 antagonist, and a neurokinin-1 (NK1) antagonist, targeting receptors on the chemoreceptor trigger zone and adjacent vomiting-center nuclei.",
+  "question": "Which of the following best explains the choice of these receptor antagonists for chemotherapy-induced vomiting?",
+  "options": [
+    {
+      "id": "A",
+      "text": "H1 and M1 blockers are used because histaminergic and cholinergic input dominates chemotherapy-induced emesis"
+    },
+    {
+      "id": "B",
+      "text": "5-HT3, D2, and NK1 antagonists are effective because these receptors mediate chemotherapy-induced emesis at the chemoreceptor trigger zone"
+    },
+    {
+      "id": "C",
+      "text": "M1 antagonists alone are sufficient because all vagal afferents from the gut are cholinergic"
+    },
+    {
+      "id": "D",
+      "text": "Beta-adrenergic antagonists are preferred because sympathetic outflow drives the vomiting reflex"
+    },
+    {
+      "id": "E",
+      "text": "GABA-A agonists are used because global sedation is the primary goal in chemotherapy-induced vomiting"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "The chemoreceptor trigger zone and adjacent vomiting nuclei receive input through five major receptors: H1, M1, NK1, D2, and 5-HT3. Antagonists of 5-HT3, D2, and NK1 are the mainstay for chemotherapy-induced vomiting. In contrast, H1 and M1 antagonists are used mainly for motion sickness, and H1 antagonists for hyperemesis gravidarum.",
+  "explanation_incorrect": {
+    "A": "H1 and M1 antagonism targets motion sickness, not the dominant chemotherapy-induced pathway.",
+    "C": "Chemotherapy emesis is not purely cholinergic vagal input; multiple CTZ receptors including 5-HT3, D2, and NK1 are involved.",
+    "D": "Adrenergic signaling is not among the five vomiting-center receptors and is not the primary chemotherapeutic emetic pathway.",
+    "E": "Sedation is not the mechanism; specific antagonism of 5-HT3, D2, and NK1 receptors is what controls chemotherapy-induced emesis."
+  },
+  "educationalObjective": "5-HT3, D2, and NK1 antagonists treat chemotherapy-induced vomiting, whereas H1/M1 agents target motion sickness.",
+  "source": "Generated from 12. Neurology.pdf - Anatomy and Physiology: Vomiting center"
+},
+{
+  "id": "neu-056",
+  "subject": "Neurology",
+  "major_topic": "Anatomy and Physiology",
+  "subtopic": "Vomiting center",
+  "difficulty": "medium",
+  "vignette": "A 19-year-old woman develops nausea and vomiting during a boat trip and is given a drug that blocks both histaminergic and muscarinic signaling. Her pregnant sister suffers from severe hyperemesis gravidarum and is prescribed an antihistamine that acts on the same vomiting-center receptor family but not on muscarinic receptors.",
+  "question": "Which of the following receptor targets best explains the effectiveness of these two treatments?",
+  "options": [
+    {
+      "id": "A",
+      "text": "5-HT3 and NK1 antagonism, the mainstay therapy for motion sickness and hyperemesis gravidarum"
+    },
+    {
+      "id": "B",
+      "text": "D2 antagonism, the primary treatment for both motion sickness and hyperemesis gravidarum"
+    },
+    {
+      "id": "C",
+      "text": "H1 and M1 antagonism for motion sickness; H1 antagonism for hyperemesis gravidarum"
+    },
+    {
+      "id": "D",
+      "text": "NK1 and D2 antagonism for both motion sickness and hyperemesis gravidarum"
+    },
+    {
+      "id": "E",
+      "text": "M1 antagonism alone for both conditions, with no role for histamine blockade"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Motion sickness is treated with H1 (histamine) and M1 (muscarinic) antagonists, which target vestibular input to the vomiting center. Hyperemesis gravidarum is treated with H1 antagonists alone. This contrasts with chemotherapy-induced vomiting, which is treated with 5-HT3, D2, and NK1 antagonists.",
+  "explanation_incorrect": {
+    "A": "5-HT3 and NK1 antagonists are used for chemotherapy-induced vomiting, not for motion sickness or hyperemesis gravidarum.",
+    "B": "D2 antagonism is central to chemotherapy-induced emesis, not the first-line treatment for these two conditions.",
+    "D": "NK1 and D2 blockers target chemotherapy vomiting; motion sickness relies on H1/M1 pathways.",
+    "E": "M1 blockade plays a role in motion sickness, and H1 antihistamines are the treatment for hyperemesis gravidarum."
+  },
+  "educationalObjective": "H1 and M1 antagonists treat motion sickness, while H1 antagonists specifically treat hyperemesis gravidarum.",
+  "source": "Generated from 12. Neurology.pdf - Anatomy and Physiology: Vomiting center"
+}
+]

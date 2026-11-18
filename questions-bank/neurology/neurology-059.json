@@ -1,0 +1,166 @@
+[
+{
+  "id": "neu-001",
+  "subject": "Neurology",
+  "major_topic": "Embryology",
+  "subtopic": "Neural development and regionalization",
+  "difficulty": "easy",
+  "vignette": "A research team studies a 3-week-old embryo and notes that a midline rod of mesodermal tissue lies directly beneath a region of surface ectoderm. When they experimentally ablate this rod, the overlying ectoderm fails to thicken into a flat neural plate and neurulation does not begin. Which of the following best describes the normal inductive event that this experiment disrupted?",
+  "question": "Which of the following best describes the normal sequence of induction in this embryo?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Neural crest cells induce the underlying mesoderm to form the notochord, which then forms the neural plate."
+    },
+    {
+      "id": "B",
+      "text": "The notochord induces the overlying ectoderm to become neuroectoderm, which forms the neural plate."
+    },
+    {
+      "id": "C",
+      "text": "The forming neural tube induces the surrounding ectoderm to differentiate into notochord."
+    },
+    {
+      "id": "D",
+      "text": "Bone morphogenetic proteins from the notochord directly convert ectoderm into mature neurons."
+    },
+    {
+      "id": "E",
+      "text": "Somites induce the surface ectoderm to form neural crest cells and the neural plate."
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "The notochord is a midline mesodermal structure that acts as an organizing center by secreting signals that induce the directly overlying ectoderm to become neuroectoderm. This thickened neuroectoderm forms the neural plate, which then bends and closes to form the neural tube. Ablating the notochord therefore prevents neural plate formation and neurulation. This is the classic notochord-to-neuroectoderm induction step at the start of neurulation.",
+  "explanation_incorrect": {
+    "A": "Neural crest cells arise from the dorsal neural tube after it forms; they do not induce the notochord. The notochord is a mesodermal structure present before neural crest appears.",
+    "C": "The sequence is reversed: the notochord acts first on ectoderm, and the neural tube forms secondarily from the neural plate. The neural tube does not induce notochord formation.",
+    "D": "BMPs are associated with dorsal (alar) sensory plate specification within the neural tube, not with converting ectoderm directly into neurons. Neural plate formation is an induction event, not direct neuronal differentiation.",
+    "E": "Somites are paraxial mesoderm and do not induce the neural plate; neural crest cells derive from the neural folds themselves. The notochord, not somites, is the inducing structure here."
+  },
+  "educationalObjective": "The notochord induces overlying ectoderm to form neuroectoderm and the neural plate, the first step of neurulation.",
+  "source": "Generated from 12. Neurology.pdf - Embryology: Neural development and regionalization"
+},
+{
+  "id": "neu-002",
+  "subject": "Neurology",
+  "major_topic": "Embryology",
+  "subtopic": "Neural development and regionalization",
+  "difficulty": "medium",
+  "vignette": "A developmental biologist examines a cross-section of a forming spinal cord. The dorsal half will receive sensory afferents, whereas the ventral half will give rise to motor neurons. She introduces a mutation that selectively abolishes the signaling molecule responsible for specifying the ventral motor plate. Which plate-and-signal pair correctly describes the patterned regions of the neural tube?",
+  "question": "Which of the following correctly pairs a neural tube plate with its function and inducing signal?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Alar plate — motor — induced by SHH."
+    },
+    {
+      "id": "B",
+      "text": "Basal plate — sensory — induced by bone morphogenetic proteins."
+    },
+    {
+      "id": "C",
+      "text": "Basal plate — motor — induced by sonic hedgehog (SHH)."
+    },
+    {
+      "id": "D",
+      "text": "Alar plate — sensory — induced by sonic hedgehog (SHH)."
+    },
+    {
+      "id": "E",
+      "text": "Basal plate — motor — induced by bone morphogenetic proteins."
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "The lateral walls of the neural tube divide into alar (dorsal) and basal (ventral) plates. The alar plate is sensory and is induced by bone morphogenetic proteins (BMPs), while the basal plate is motor and is induced by sonic hedgehog (SHH) secreted from the notochord and floor plate. The ventral motor plate therefore depends on SHH signaling. Disrupting SHH abolishes basal plate motor neuron specification while sparing the dorsal sensory alar plate.",
+  "explanation_incorrect": {
+    "A": "The alar plate is sensory, not motor, and it is induced by BMPs rather than SHH. Both features of this option are reversed.",
+    "B": "The basal plate is the motor plate; sensory specification belongs to the alar plate. It is also induced by SHH, not BMPs.",
+    "D": "The alar plate is correctly identified as sensory, but it is induced by BMPs, not SHH. SHH specifies the ventral motor plate.",
+    "E": "The basal plate is correctly identified as motor, but it is induced by SHH, not BMPs. BMPs induce the dorsal alar sensory plate."
+  },
+  "educationalObjective": "Alar (dorsal) plate is sensory and BMP-induced; basal (ventral) plate is motor and SHH-induced.",
+  "source": "Generated from 12. Neurology.pdf - Embryology: Neural development and regionalization"
+},
+{
+  "id": "neu-003",
+  "subject": "Neurology",
+  "major_topic": "Embryology",
+  "subtopic": "Neural development and regionalization",
+  "difficulty": "medium",
+  "vignette": "A 4-year-old boy is evaluated for congenital anomalies. He has syndactyly of the fingers and hypospadias. His mother reports similar limb and urogenital differences in a paternal uncle. Genetic testing is likely to reveal a mutation in a family of genes that regulates segmentation and cranial-caudal differentiation of the neural tube and surrounding structures. Which genes are most likely involved?",
+  "question": "A mutation in which of the following gene families best explains these findings?",
+  "options": [
+    {
+      "id": "A",
+      "text": "HOX genes."
+    },
+    {
+      "id": "B",
+      "text": "Genes encoding bone morphogenetic proteins."
+    },
+    {
+      "id": "C",
+      "text": "Genes encoding sonic hedgehog."
+    },
+    {
+      "id": "D",
+      "text": "Pax genes."
+    },
+    {
+      "id": "E",
+      "text": "Genes of the Wnt signaling family."
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Homeobox (HOX) genes regulate neural tube segmentation and cranial-caudal differentiation, establishing regional identity along the body axis. Mutations in HOX genes are associated with syndactyly of the limbs and hypospadias of the urogenital tract. This child's combination of limb and urogenital anomalies is a classic HOX gene mutation phenotype. HOX genes encode transcription factors that control body plan patterning during embryogenesis.",
+  "explanation_incorrect": {
+    "B": "BMPs induce the dorsal sensory alar plate and have other roles, but syndactyly with hypospadias is the classic HOX gene mutation phenotype, not a BMP-related disorder.",
+    "C": "SHH mutations cause holoprosencephaly and midline defects, not the limb and urogenital pattern described here.",
+    "D": "Pax genes are important in neural development, but the specific association with syndactyly and hypospadias points to HOX genes.",
+    "E": "Wnt genes are involved in many developmental processes, but the classic segmentation and cranial-caudal patterning defects with syndactyly and hypospadias are attributed to HOX genes."
+  },
+  "educationalObjective": "HOX genes pattern the cranial-caudal axis; mutations cause syndactyly and hypospadias.",
+  "source": "Generated from 12. Neurology.pdf - Embryology: Neural development and regionalization"
+},
+{
+  "id": "neu-004",
+  "subject": "Neurology",
+  "major_topic": "Embryology",
+  "subtopic": "Neural development and regionalization",
+  "difficulty": "hard",
+  "vignette": "An 8-week fetus is studied to map the derivatives of the secondary brain vesicles. The investigators isolate a vesicle that lies rostral to the myelencephalon and gives rise to two major adult structures: the pons and the cerebellum. They wish to identify the ventricular cavity associated with this vesicle. Which of the following is correct?",
+  "question": "Which secondary vesicle gives rise to the pons and cerebellum, and which ventricular cavity is associated with it?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Telencephalon — cerebral hemispheres — third ventricle."
+    },
+    {
+      "id": "B",
+      "text": "Diencephalon — thalamus and hypothalamus — lateral ventricle."
+    },
+    {
+      "id": "C",
+      "text": "Mesencephalon — midbrain — upper part of the fourth ventricle."
+    },
+    {
+      "id": "D",
+      "text": "Metencephalon — pons and cerebellum — upper part of the fourth ventricle."
+    },
+    {
+      "id": "E",
+      "text": "Myelencephalon — medulla — lateral ventricle."
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "The five secondary vesicles are telencephalon, diencephalon, mesencephalon, metencephalon, and myelencephalon. The metencephalon gives rise to the pons and cerebellum, and its cavity becomes the upper part of the fourth ventricle. The myelencephalon gives rise to the medulla and the lower part of the fourth ventricle. The telencephalon forms the cerebral hemispheres with the lateral ventricles, and the diencephalon forms the thalamus and hypothalamus with the third ventricle.",
+  "explanation_incorrect": {
+    "A": "The telencephalon forms the cerebral hemispheres, but its cavity is the lateral ventricle, not the third ventricle. The third ventricle belongs to the diencephalon.",
+    "B": "The diencephalon does form the thalamus and hypothalamus, but its cavity is the third ventricle, not the lateral ventricle. The lateral ventricle is a telencephalic derivative.",
+    "C": "The mesencephalon forms the midbrain, and its cavity is the cerebral aqueduct, not the upper part of the fourth ventricle.",
+    "E": "The myelencephalon forms the medulla, but its cavity is the lower part of the fourth ventricle, not the lateral ventricle. The pons and cerebellum come from the metencephalon."
+  },
+  "educationalObjective": "Metencephalon yields pons and cerebellum with the upper fourth ventricle; myelencephalon yields medulla with the lower fourth ventricle.",
+  "source": "Generated from 12. Neurology.pdf - Embryology: Neural development and regionalization"
+}
+]

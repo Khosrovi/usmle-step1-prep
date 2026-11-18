@@ -1,0 +1,166 @@
+[
+{
+  "id": "neu-134",
+  "subject": "Neurology",
+  "major_topic": "Anatomy and Physiology",
+  "subtopic": "Spinal cord levels and tracts",
+  "difficulty": "easy",
+  "vignette": "A medical student examines an axial section of the spinal cord and notes the somatotopic organization of its major white matter tracts.",
+  "question": "In the lateral corticospinal and spinothalamic tracts, where are the fibers supplying the lower limb (lumbosacral) located?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Laterally"
+    },
+    {
+      "id": "B",
+      "text": "Medially"
+    },
+    {
+      "id": "C",
+      "text": "Dorsally within the dorsal columns"
+    },
+    {
+      "id": "D",
+      "text": "Within the anterior white commissure"
+    },
+    {
+      "id": "E",
+      "text": "Scattered without somatotopy"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Within the lateral corticospinal and spinothalamic tracts, fibers are somatotopically arranged with the legs (lumbosacral) lateral and the arms (cervical) medial. As a result, a small central cord lesion can affect cervical fibers before lumbosacral ones. This 'legs lateral' rule is the opposite of the dorsal columns, where the legs are medial ('arms outside, legs inside').",
+  "explanation_incorrect": {
+    "B": "Medial placement is where cervical and upper limb fibers lie in these lateral tracts, not the legs.",
+    "C": "The dorsal columns are a separate ascending sensory system, not part of the lateral corticospinal or spinothalamic tracts.",
+    "D": "The anterior white commissure is where spinothalamic fibers cross, not where they are somatotopically arrayed.",
+    "E": "These tracts are highly somatotopically organized rather than randomly scattered."
+  },
+  "educationalObjective": "In lateral corticospinal and spinothalamic tracts, leg fibers are lateral and arm fibers medial, the reverse of the dorsal columns.",
+  "source": "Generated from 12. Neurology.pdf - Anatomy and Physiology: Spinal cord levels and tracts"
+},
+{
+  "id": "neu-135",
+  "subject": "Neurology",
+  "major_topic": "Anatomy and Physiology",
+  "subtopic": "Spinal cord levels and tracts",
+  "difficulty": "medium",
+  "vignette": "A student reviews the somatotopy of the dorsal columns using the mnemonic 'arms outside, legs inside.'",
+  "question": "Which of the following correctly describes the organization of the dorsal columns?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Leg fibers are lateral in the fasciculus gracilis; arm fibers are medial in the fasciculus cuneatus"
+    },
+    {
+      "id": "B",
+      "text": "The fasciculus gracilis carries upper limb fibers above T6 and lies laterally"
+    },
+    {
+      "id": "C",
+      "text": "Fasciculus gracilis is medial and carries lower limb fibers below T6; fasciculus cuneatus is lateral and carries upper limb fibers above T6"
+    },
+    {
+      "id": "D",
+      "text": "Dorsal column fibers synapse in the anterior horn before ascending"
+    },
+    {
+      "id": "E",
+      "text": "The dorsal columns are present only in the lumbosacral spinal cord"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "The dorsal columns are organized like a person standing with arms at the sides: 'arms outside, legs inside.' The medial fasciculus gracilis carries lower limb fibers from below T6, while the more lateral fasciculus cuneatus carries upper limb fibers from above T6. They synapse in the nucleus gracilis and nucleus cuneatus of the ipsilateral medulla, remembered as 'grass on the ground, clouds in the sky,' with the gracile nucleus medial for the lower body and the cuneate nucleus lateral for the upper body.",
+  "explanation_incorrect": {
+    "A": "This reverses the arrangement: the lower limb fasciculus gracilis is medial and the upper limb fasciculus cuneatus is lateral.",
+    "B": "The fasciculus gracilis carries lower limb fibers below T6 and lies medially; the cuneatus carries upper limb fibers above T6 and lies laterally.",
+    "D": "Dorsal column fibers synapse in the medulla at nuclei gracilis and cuneatus, not in the anterior horn of the spinal cord.",
+    "E": "Dorsal columns are present throughout the cord and are divided into two distinct columns in the cervical and upper thoracic regions."
+  },
+  "educationalObjective": "Dorsal columns: fasciculus gracilis is medial (legs, below T6) and fasciculus cuneatus lateral (arms, above T6), so arms are outside and legs inside.",
+  "source": "Generated from 12. Neurology.pdf - Anatomy and Physiology: Spinal cord levels and tracts"
+},
+{
+  "id": "neu-136",
+  "subject": "Neurology",
+  "major_topic": "Anatomy and Physiology",
+  "subtopic": "Spinal cord levels and tracts",
+  "difficulty": "medium",
+  "vignette": "A student compares ascending and descending spinal tracts and notes a fundamental difference: the two major ascending sensory tracts synapse before crossing, whereas the major descending motor tract crosses before synapsing.",
+  "question": "Which statement about tract organization is correct?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The corticospinal tract synapses in the anterior horn and then decussates in the medulla"
+    },
+    {
+      "id": "B",
+      "text": "The spinothalamic and dorsal column tracts synapse then cross; the corticospinal tract crosses then synapses"
+    },
+    {
+      "id": "C",
+      "text": "The spinothalamic tract crosses in the medulla as the medial lemniscus"
+    },
+    {
+      "id": "D",
+      "text": "The dorsal column tract crosses in the anterior white commissure at the spinal level"
+    },
+    {
+      "id": "E",
+      "text": "All three tracts decussate at the level of the spinal cord"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "The two major ascending pathways, spinothalamic and dorsal column, both synapse first and then cross. The spinothalamic tract synapses in the posterior horn and crosses in the anterior white commissure, while the dorsal column ascends ipsilaterally, synapses in the medulla, and crosses as the medial lemniscus. The descending corticospinal tract does the opposite: it decussates at the pyramidal decussation of the caudal medulla and then synapses on a lower motor neuron in the anterior horn. In short, ascending tracts synapse then cross, whereas the descending tract crosses then synapses.",
+  "explanation_incorrect": {
+    "A": "The corticospinal tract crosses in the medulla before synapsing in the anterior horn; it does not synapse in the cord and then cross.",
+    "C": "The medial lemniscus is the crossed dorsal column pathway; the spinothalamic tract crosses in the spinal anterior white commissure.",
+    "D": "The dorsal column crosses in the medulla as the medial lemniscus, not in the anterior white commissure, which belongs to the spinothalamic tract.",
+    "E": "The corticospinal and dorsal column tracts both decussate in the medulla; only the spinothalamic tract crosses within the cord."
+  },
+  "educationalObjective": "Ascending tracts (spinothalamic, dorsal column) synapse then cross; the descending corticospinal tract crosses then synapses.",
+  "source": "Generated from 12. Neurology.pdf - Anatomy and Physiology: Spinal cord levels and tracts"
+},
+{
+  "id": "neu-137",
+  "subject": "Neurology",
+  "major_topic": "Anatomy and Physiology",
+  "subtopic": "Spinal cord levels and tracts",
+  "difficulty": "hard",
+  "vignette": "A 60-year-old man has a small infarct affecting the medial portion of the right dorsal column at T8. He has lost vibration and proprioception in the right leg, but sensation in the right arm is preserved and pain and temperature are normal.",
+  "question": "Which of the following best explains the distribution of his sensory loss?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The lesion affects the right lateral spinothalamic tract, where leg fibers are medial"
+    },
+    {
+      "id": "B",
+      "text": "The lesion is in the right fasciculus cuneatus, which carries upper limb fibers above T6"
+    },
+    {
+      "id": "C",
+      "text": "The lesion damages the right anterior white commissure, interrupting crossed pain and temperature fibers"
+    },
+    {
+      "id": "D",
+      "text": "The lesion affects the right fasciculus gracilis, where lower limb fibers below T6 run medially; pain and temperature are intact because the spinothalamic tract is separate"
+    },
+    {
+      "id": "E",
+      "text": "The lesion is in the left medial lemniscus after the dorsal columns have already decussated"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "The fasciculus gracilis carries lower limb (below T6) vibration and proprioception and lies medially in the dorsal column, the 'legs inside' part of the somatotopy. A medial T8 dorsal column lesion therefore interrupts right leg vibration and proprioception while sparing the more lateral arm fibers of the fasciculus cuneatus. Pain and temperature travel in the separate spinothalamic tract and remain intact. Because dorsal column fibers ascend ipsilaterally and cross only in the medulla, a T8 cord lesion produces ipsilateral loss below the lesion.",
+  "explanation_incorrect": {
+    "A": "The spinothalamic tract lies anterolaterally and carries pain and temperature, not vibration and proprioception, so it is not involved here.",
+    "B": "The fasciculus cuneatus carries upper limb fibers above T6 and lies laterally; a medial T8 lesion would spare it, consistent with the preserved arm.",
+    "C": "The anterior white commissure carries crossing spinothalamic pain and temperature fibers; damaging it would affect pain and temperature, which are normal here.",
+    "E": "The medial lemniscus lies in the medulla after the crossing and would affect the contralateral left body, not a right T8 spinal cord dorsal column."
+  },
+  "educationalObjective": "A medial dorsal column lesion at T8 affects ipsilateral leg vibration and proprioception via the fasciculus gracilis, sparing the arm and pain/temperature.",
+  "source": "Generated from 12. Neurology.pdf - Anatomy and Physiology: Spinal cord levels and tracts"
+}
+]

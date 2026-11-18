@@ -1,0 +1,166 @@
+[
+{
+  "id": "neu-090",
+  "subject": "Neurology",
+  "major_topic": "Anatomy and Physiology",
+  "subtopic": "Cerebral perfusion and Cushing reflex",
+  "difficulty": "easy",
+  "vignette": "A patient with a brain injury has a mean arterial pressure (MAP) of 90 mm Hg and an intracranial pressure (ICP) of 25 mm Hg. The physician calculates the cerebral perfusion pressure to guide management. The team recalls that a rise in ICP or a fall in blood pressure reduces perfusion.",
+  "question": "What is this patient's cerebral perfusion pressure (CPP), and how is CPP calculated?",
+  "options": [
+    {
+      "id": "A",
+      "text": "CPP = MAP + ICP = 115 mm Hg"
+    },
+    {
+      "id": "B",
+      "text": "CPP = ICP - MAP = -65 mm Hg"
+    },
+    {
+      "id": "C",
+      "text": "CPP = MAP - ICP = 65 mm Hg; increasing ICP raises CPP"
+    },
+    {
+      "id": "D",
+      "text": "CPP = MAP times ICP; decreasing blood pressure raises CPP"
+    },
+    {
+      "id": "E",
+      "text": "CPP = MAP - ICP = 65 mm Hg; decreasing MAP or increasing ICP lowers CPP"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Cerebral perfusion pressure equals mean arterial pressure minus intracranial pressure (CPP = MAP - ICP). Here CPP = 90 - 25 = 65 mm Hg. A decrease in blood pressure (MAP) or an increase in ICP lowers CPP, which can compromise cerebral blood flow.",
+  "explanation_incorrect": {
+    "A": "CPP is not the sum of MAP and ICP; it is their difference (MAP - ICP = 65 mm Hg).",
+    "B": "The formula is MAP - ICP rather than ICP - MAP, so the result is a positive 65 mm Hg.",
+    "C": "The numeric answer is right, but increasing ICP actually lowers (not raises) CPP.",
+    "D": "CPP is not the product of MAP and ICP, and decreasing blood pressure lowers (not raises) CPP."
+  },
+  "educationalObjective": "Calculate CPP as MAP minus ICP and predict how pressure changes affect perfusion.",
+  "source": "Generated from 12. Neurology.pdf - Anatomy and Physiology: Cerebral perfusion and Cushing reflex"
+},
+{
+  "id": "neu-091",
+  "subject": "Neurology",
+  "major_topic": "Anatomy and Physiology",
+  "subtopic": "Cerebral perfusion and Cushing reflex",
+  "difficulty": "easy",
+  "vignette": "A 55-year-old man with a large intracranial hemorrhage develops worsening intracranial pressure. His blood pressure rises to 200/110 mm Hg, his heart rate falls to 48 beats/min, and his respiratory rate becomes irregular and depressed.",
+  "question": "Which of the following best explains this constellation of findings?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Septic shock with compensatory tachycardia"
+    },
+    {
+      "id": "B",
+      "text": "Cushing reflex from increased intracranial pressure causing hypertension, bradycardia, and respiratory depression"
+    },
+    {
+      "id": "C",
+      "text": "Hypovolemic shock with reflex bradycardia"
+    },
+    {
+      "id": "D",
+      "text": "Acute anxiety attack with hyperventilation"
+    },
+    {
+      "id": "E",
+      "text": "Thyrotoxicosis causing hypertension and tachycardia"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "The Cushing reflex is a triad of hypertension, bradycardia, and respiratory depression that occurs in response to increased intracranial pressure. The hypertension (with widened pulse pressure) is a compensatory response to maintain cerebral perfusion pressure; baroreceptor-mediated bradycardia and irregular respirations follow. It signals severe, life-threatening intracranial hypertension.",
+  "explanation_incorrect": {
+    "A": "Septic shock causes hypotension and tachycardia, not hypertension and bradycardia.",
+    "C": "Hypovolemic shock produces hypotension and reflex tachycardia, not the Cushing triad.",
+    "D": "An anxiety attack with hyperventilation would cause tachycardia and respiratory alkalosis, not bradycardia and hypertension from raised ICP.",
+    "E": "Thyrotoxicosis causes tachycardia and a hyperdynamic state, not the Cushing reflex pattern."
+  },
+  "educationalObjective": "Recognize the Cushing reflex triad and its association with elevated intracranial pressure.",
+  "source": "Generated from 12. Neurology.pdf - Anatomy and Physiology: Cerebral perfusion and Cushing reflex"
+},
+{
+  "id": "neu-092",
+  "subject": "Neurology",
+  "major_topic": "Anatomy and Physiology",
+  "subtopic": "Cerebral perfusion and Cushing reflex",
+  "difficulty": "medium",
+  "vignette": "A 30-year-old patient with acute cerebral edema from a stroke is not responding to other interventions. The physician orders brief therapeutic hyperventilation to rapidly lower intracranial pressure while preparing definitive treatment.",
+  "question": "By which mechanism does therapeutic hyperventilation reduce intracranial pressure?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Increasing Pco2 causes cerebral vasodilation and increased cerebral blood flow"
+    },
+    {
+      "id": "B",
+      "text": "Decreasing Pco2 causes cerebral vasodilation and increased cerebral blood flow, raising ICP"
+    },
+    {
+      "id": "C",
+      "text": "Increasing MAP raises CPP and cerebral blood flow"
+    },
+    {
+      "id": "D",
+      "text": "Decreasing Pco2 causes cerebral vasoconstriction, decreased cerebral blood flow, and decreased ICP"
+    },
+    {
+      "id": "E",
+      "text": "Decreasing Po2 below 50 mm Hg causes cerebral vasoconstriction and decreased ICP"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Cerebral perfusion is tightly autoregulated and primarily driven by Pco2. Therapeutic hyperventilation lowers Pco2, causing cerebral vasoconstriction, which reduces cerebral blood flow (and cerebral blood volume), thereby lowering ICP. It may be used to treat acute cerebral edema unresponsive to other interventions.",
+  "explanation_incorrect": {
+    "A": "Hyperventilation lowers rather than raises Pco2, and increased Pco2 would cause vasodilation and raise ICP rather than lower it.",
+    "B": "Decreased Pco2 causes vasoconstriction rather than vasodilation; this option has the wrong vascular response.",
+    "C": "Raising MAP would increase CPP and cerebral blood flow, potentially worsening edema, and is not the mechanism of hyperventilation.",
+    "E": "Severe hypoxia (Po2 below 50 mm Hg) causes vasodilation and increased blood flow rather than vasoconstriction, and is not the mechanism of hyperventilation."
+  },
+  "educationalObjective": "Explain how hyperventilation-induced hypocapnia reduces cerebral blood flow and intracranial pressure.",
+  "source": "Generated from 12. Neurology.pdf - Anatomy and Physiology: Cerebral perfusion and Cushing reflex"
+},
+{
+  "id": "neu-093",
+  "subject": "Neurology",
+  "major_topic": "Anatomy and Physiology",
+  "subtopic": "Cerebral perfusion and Cushing reflex",
+  "difficulty": "hard",
+  "vignette": "A 62-year-old patient has suffered a catastrophic brain injury. Measurements show that cerebral perfusion pressure has fallen to 0 mm Hg. The neurology team notes that cerebral blood flow is normally driven mainly by arterial Pco2, and that severe hypoxia can also cause vasodilation. The patient meets criteria for brain death with coma, absent brainstem reflexes, and apnea.",
+  "question": "Which of the following statements about cerebral perfusion is correct?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Cerebral blood flow is primarily driven by Po2; hypercapnia causes vasoconstriction"
+    },
+    {
+      "id": "B",
+      "text": "Hypoxia increases cerebral blood flow only when Po2 is greater than 50 mm Hg"
+    },
+    {
+      "id": "C",
+      "text": "Cerebral perfusion is primarily driven by Pco2; severe hypoxia (Po2 below 50 mm Hg) causes vasodilation; CPP = 0 produces brain death"
+    },
+    {
+      "id": "D",
+      "text": "CPP = 0 is compatible with normal consciousness if MAP is maintained"
+    },
+    {
+      "id": "E",
+      "text": "Hypercapnia reduces cerebral blood flow by causing vasoconstriction"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Cerebral perfusion relies on tight autoregulation and is primarily driven by Pco2; hypercapnia vasodilates and hypocapnia vasoconstricts cerebral vessels. In severe hypoxia (Po2 below 50 mm Hg), hypoxic vasodilation increases cerebral blood flow. CPP = MAP - ICP; when CPP = 0 there is no cerebral perfusion, producing brain death (coma, absent brainstem reflexes, apnea).",
+  "explanation_incorrect": {
+    "A": "Cerebral blood flow is primarily driven by Pco2 rather than Po2, and hypercapnia causes vasodilation rather than vasoconstriction.",
+    "B": "Hypoxia increases cerebral blood flow only when Po2 falls below 50 mm Hg, not above it.",
+    "D": "CPP = 0 means no cerebral perfusion and is incompatible with consciousness; it produces brain death.",
+    "E": "Hypercapnia increases rather than reduces cerebral blood flow by causing vasodilation."
+  },
+  "educationalObjective": "Integrate Pco2-driven autoregulation, hypoxic vasodilation below 50 mm Hg, and CPP = 0 as brain death.",
+  "source": "Generated from 12. Neurology.pdf - Anatomy and Physiology: Cerebral perfusion and Cushing reflex"
+}
+]

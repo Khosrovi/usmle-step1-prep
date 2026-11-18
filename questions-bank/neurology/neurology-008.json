@@ -1,0 +1,207 @@
+[
+{
+  "id": "neu-081",
+  "subject": "Neurology",
+  "major_topic": "Anatomy and Physiology",
+  "subtopic": "Basal ganglia",
+  "difficulty": "medium",
+  "vignette": "A medical student reviews basal ganglia anatomy. She recalls that the striatum and the lentiform nucleus are distinct functional groupings that share the putamen. She wants to correctly identify which nuclei make up each grouping.",
+  "question": "Which of the following correctly identifies the components of the striatum and the lentiform nucleus?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Striatum = caudate + globus pallidus; lentiform = putamen + thalamus"
+    },
+    {
+      "id": "B",
+      "text": "Striatum = putamen + globus pallidus; lentiform = caudate + putamen"
+    },
+    {
+      "id": "C",
+      "text": "Striatum = caudate + thalamus; lentiform = globus pallidus + subthalamic nucleus"
+    },
+    {
+      "id": "D",
+      "text": "Striatum = putamen (motor) + caudate (cognitive); lentiform = putamen + globus pallidus"
+    },
+    {
+      "id": "E",
+      "text": "Striatum = globus pallidus + subthalamic nucleus; lentiform = caudate + globus pallidus"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "The striatum consists of the putamen (motor functions) and the caudate nucleus (cognitive functions). The lentiform (lenticular) nucleus consists of the putamen plus the globus pallidus. The putamen is thus a component of both groupings, a classic anatomy point.",
+  "explanation_incorrect": {
+    "A": "The striatum does not include the globus pallidus, and the lentiform nucleus is not putamen plus thalamus.",
+    "B": "This reverses the definitions: putamen plus globus pallidus is the lentiform nucleus, while caudate plus putamen is the striatum.",
+    "C": "Neither the thalamus nor the subthalamic nucleus is part of the striatum or the lentiform nucleus.",
+    "E": "The globus pallidus and subthalamic nucleus are not the striatum, and the lentiform nucleus is not caudate plus globus pallidus."
+  },
+  "educationalObjective": "Differentiate the striatum (putamen plus caudate) from the lentiform nucleus (putamen plus globus pallidus).",
+  "source": "Generated from 12. Neurology.pdf - Anatomy and Physiology: Basal ganglia"
+},
+{
+  "id": "neu-082",
+  "subject": "Neurology",
+  "major_topic": "Anatomy and Physiology",
+  "subtopic": "Basal ganglia",
+  "difficulty": "hard",
+  "vignette": "A 45-year-old patient is being studied for a movement disorder. Researchers describe the direct basal ganglia pathway: cortical glutamatergic input excites striatal neurons, which in turn project GABAergic fibers that inhibit the internal globus pallidus (GPi). This disinhibits the thalamus and increases movement.",
+  "question": "In the direct pathway, which receptor and sequence best explain the increase in motion?",
+  "options": [
+    {
+      "id": "A",
+      "text": "D2 receptor; striatal GABA inhibits GPe, STN disinhibition, then GPi inhibits thalamus"
+    },
+    {
+      "id": "B",
+      "text": "D1 receptor; striatal GABA inhibits GPi, thalamic disinhibition, increased cortical drive, increased motion"
+    },
+    {
+      "id": "C",
+      "text": "D1 receptor; striatal glutamate excites GPi, increased GABA to thalamus, decreased motion"
+    },
+    {
+      "id": "D",
+      "text": "D2 receptor; STN glutamate stimulates GPi, thalamus inhibited, decreased motion"
+    },
+    {
+      "id": "E",
+      "text": "D1 receptor; striatal GABA inhibits GPe, disinhibited GPi, thalamus inhibited, decreased motion"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "The direct (excitatory) pathway uses D1 receptors. Cortical glutamate stimulates the striatum, which releases GABA that inhibits GPi. Because GPi is a GABAergic inhibitory structure, inhibiting it disinhibits (activates) the thalamus, which then excites motor cortex, increasing motion. Dopamine from SNc facilitates this via D1 receptors.",
+  "explanation_incorrect": {
+    "A": "This describes the indirect (D2) pathway acting through GPe and STN, which decreases motion rather than the direct pathway.",
+    "C": "The direct pathway does not increase GPi output with striatal glutamate; it inhibits GPi via GABA, disinhibiting the thalamus.",
+    "D": "STN glutamatergic stimulation of GPi with thalamic inhibition is the indirect pathway's effect and reduces motion.",
+    "E": "Striatal inhibition of GPe with disinhibited GPi is the indirect pathway and would decrease motion rather than increase it."
+  },
+  "educationalObjective": "Trace the D1-mediated direct pathway and its net disinhibitory, prokinetic effect.",
+  "source": "Generated from 12. Neurology.pdf - Anatomy and Physiology: Basal ganglia"
+},
+{
+  "id": "neu-083",
+  "subject": "Neurology",
+  "major_topic": "Anatomy and Physiology",
+  "subtopic": "Basal ganglia",
+  "difficulty": "hard",
+  "vignette": "A researcher selectively activates the indirect basal ganglia pathway in a primate model. Cortical glutamate excites striatal neurons that inhibit the external globus pallidus (GPe). This disinhibits the subthalamic nucleus (STN), which then uses glutamate to excite GPi, ultimately suppressing thalamic output.",
+  "question": "Which receptor mediates the indirect pathway, and what is its net effect on movement?",
+  "options": [
+    {
+      "id": "A",
+      "text": "D1 receptor; it inhibits GPi and increases motion"
+    },
+    {
+      "id": "B",
+      "text": "D2 receptor; it inhibits GPe and increases motion"
+    },
+    {
+      "id": "C",
+      "text": "D2 receptor; it disinhibits STN, GPi inhibits thalamus, decreased motion"
+    },
+    {
+      "id": "D",
+      "text": "D1 receptor; it excites STN, GPi disinhibited, increased motion"
+    },
+    {
+      "id": "E",
+      "text": "D2 receptor; striatal GABA directly inhibits thalamus, decreased motion"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "The indirect (inhibitory) pathway is mediated by D2 receptors. Cortical glutamate stimulates striatal GABA release that inhibits GPe, disinhibiting the STN. The STN then releases glutamate to stimulate GPi, which increases GABAergic inhibition of the thalamus, decreasing motion. Dopamine from SNc inhibits this pathway via D2 receptors.",
+  "explanation_incorrect": {
+    "A": "D1 receptor-mediated GPi inhibition that increases motion describes the direct pathway, not the indirect pathway.",
+    "B": "Although the indirect pathway uses D2 receptors and inhibits GPe, its net effect is decreased rather than increased motion.",
+    "D": "D1 receptors do not mediate the indirect pathway, and STN excitation ultimately increases GPi inhibition of the thalamus, decreasing motion.",
+    "E": "Striatal projections in the indirect pathway inhibit GPe rather than the thalamus directly; the effect on the thalamus is through GPi."
+  },
+  "educationalObjective": "Trace the D2-mediated indirect pathway and its net anti-kinetic effect.",
+  "source": "Generated from 12. Neurology.pdf - Anatomy and Physiology: Basal ganglia"
+},
+{
+  "id": "neu-084",
+  "subject": "Neurology",
+  "major_topic": "Anatomy and Physiology",
+  "subtopic": "Basal ganglia",
+  "difficulty": "medium",
+  "vignette": "A 22-year-old medical student reviews how dopamine from the substantia nigra pars compacta (SNc) facilitates movement. She recalls that dopamine acts on two receptor subtypes in the striatum with opposing effects on the direct and indirect pathways, and she wants to understand the net result.",
+  "question": "How does nigrostriatal dopamine increase movement?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It stimulates the D1-mediated direct pathway and inhibits the D2-mediated indirect pathway"
+    },
+    {
+      "id": "B",
+      "text": "It inhibits the D1-mediated direct pathway and stimulates the D2-mediated indirect pathway"
+    },
+    {
+      "id": "C",
+      "text": "It inhibits both the direct and indirect pathways equally"
+    },
+    {
+      "id": "D",
+      "text": "It stimulates the indirect pathway by blocking D2 receptors"
+    },
+    {
+      "id": "E",
+      "text": "It acts solely on D2 receptors in the GPi to increase thalamic inhibition"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Dopamine released from the SNc (nigrostriatal pathway) binds D1 receptors to stimulate the direct (prokinetic) pathway and binds D2 receptors to inhibit the indirect (anti-kinetic) pathway. Both actions increase motion. Loss of this dopaminergic input, as in Parkinson disease, shifts the balance toward the indirect pathway and reduces movement.",
+  "explanation_incorrect": {
+    "B": "This is the opposite of dopamine's action; dopamine stimulates D1 (direct) and inhibits D2 (indirect).",
+    "C": "Dopamine does not inhibit both pathways; its two receptor effects both favor increased motion.",
+    "D": "Dopamine stimulates the direct pathway via D1; blocking D2 would remove inhibition of the indirect pathway, which is not how dopamine facilitates movement.",
+    "E": "Dopamine's prokinetic effect is exerted in the striatum via D1 and D2 receptors, not solely at GPi D2 receptors to increase thalamic inhibition."
+  },
+  "educationalObjective": "Explain how SNc dopamine acts on D1 and D2 receptors to promote movement.",
+  "source": "Generated from 12. Neurology.pdf - Anatomy and Physiology: Basal ganglia"
+},
+{
+  "id": "neu-085",
+  "subject": "Neurology",
+  "major_topic": "Anatomy and Physiology",
+  "subtopic": "Basal ganglia",
+  "difficulty": "easy",
+  "vignette": "A physiology lecture covers the basal ganglia. The professor emphasizes that the basal ganglia are important for voluntary movement and adjusting posture, and that they do not directly innervate the spinal cord but instead modulate cortical output.",
+  "question": "Which of the following best describes the role of the basal ganglia in movement?",
+  "options": [
+    {
+      "id": "A",
+      "text": "They directly innervate skeletal muscle via the corticospinal tract"
+    },
+    {
+      "id": "B",
+      "text": "They generate the primary motor rhythm for locomotion in the spinal cord"
+    },
+    {
+      "id": "C",
+      "text": "They process conscious proprioception for the cerebral cortex"
+    },
+    {
+      "id": "D",
+      "text": "They are the primary relay for all sensory input to the cortex"
+    },
+    {
+      "id": "E",
+      "text": "They receive cortical input and provide negative feedback to the cortex to modulate voluntary movement and posture"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "The basal ganglia are important in voluntary movements and adjusting posture. They receive cortical input and provide negative feedback to the cortex via the thalamus to modulate movement. They do not send direct descending motor output to the spinal cord; instead they shape cortical motor commands through their direct and indirect pathways.",
+  "explanation_incorrect": {
+    "A": "The basal ganglia do not directly innervate muscle; descending motor output travels via corticospinal and other brainstem tracts.",
+    "B": "Locomotor rhythm generation is a spinal central pattern generator function, not a basal ganglia role.",
+    "C": "Conscious proprioception is relayed through the dorsal column-medial lemniscus and thalamus to somatosensory cortex, not the basal ganglia.",
+    "D": "The thalamus is the primary sensory relay to the cortex; the basal ganglia are not a sensory relay."
+  },
+  "educationalObjective": "State that the basal ganglia modulate cortical motor output via negative feedback for voluntary movement and posture.",
+  "source": "Generated from 12. Neurology.pdf - Anatomy and Physiology: Basal ganglia"
+}
+]

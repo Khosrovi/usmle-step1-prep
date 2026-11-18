@@ -1,0 +1,289 @@
+[
+{
+  "id": "neu-261",
+  "subject": "Neurology",
+  "major_topic": "Pathology",
+  "subtopic": "Adult primary brain tumors",
+  "difficulty": "hard",
+  "vignette": "A 58-year-old man presents with progressive headache and new-onset seizures. MRI shows a large enhancing mass in the right cerebral hemisphere that crosses the midline through the corpus callosum, producing a butterfly configuration. Molecular testing of the resected tumor shows EGFR amplification.",
+  "question": "Which of the following is the most likely diagnosis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Oligodendroglioma"
+    },
+    {
+      "id": "B",
+      "text": "Meningioma"
+    },
+    {
+      "id": "C",
+      "text": "Glioblastoma"
+    },
+    {
+      "id": "D",
+      "text": "Hemangioblastoma"
+    },
+    {
+      "id": "E",
+      "text": "Pilocytic astrocytoma"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Glioblastoma is a common, highly malignant primary brain tumor with a median survival of about 1 year. It arises in the cerebral hemispheres and can cross the corpus callosum, producing the classic butterfly glioma. It is associated with EGFR amplification, and histology shows astrocyte-origin GFAP-positive pleomorphic cells with pseudopalisading necrosis. This patient's butterfly configuration and EGFR amplification are therefore diagnostic.",
+  "explanation_incorrect": {
+    "A": "Oligodendroglioma is a slow-growing frontal lobe tumor with calcifications, fried egg cells, and chicken-wire vessels; it does not cross the corpus callosum as a butterfly lesion.",
+    "B": "Meningioma is a typically benign extra-axial tumor with a dural tail and psammoma bodies, not an infiltrative butterfly-shaped hemispheric mass.",
+    "D": "Hemangioblastoma is a cerebellar vascular tumor associated with VHL and erythropoietin production, not an infiltrative hemispheric glioma.",
+    "E": "Pilocytic astrocytoma is a benign childhood tumor of the posterior fossa with a cystic mural nodule and Rosenthal fibers, not an adult butterfly glioma."
+  },
+  "educationalObjective": "Glioblastoma is a highly malignant astrocytic tumor of the cerebral hemispheres that crosses the corpus callosum as a butterfly glioma and shows EGFR amplification.",
+  "source": "Generated from 12. Neurology.pdf - Pathology: Adult primary brain tumors"
+},
+{
+  "id": "neu-262",
+  "subject": "Neurology",
+  "major_topic": "Pathology",
+  "subtopic": "Adult primary brain tumors",
+  "difficulty": "medium",
+  "vignette": "A 62-year-old woman undergoes resection of a cerebral hemispheric mass. Microscopy shows pleomorphic tumor cells palisading around central areas of necrosis, hemorrhage, and microvascular proliferation. The tumor cells stain strongly positive for GFAP.",
+  "question": "From which cell of origin does this tumor most likely derive?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Astrocyte"
+    },
+    {
+      "id": "B",
+      "text": "Oligodendrocyte"
+    },
+    {
+      "id": "C",
+      "text": "Arachnoid cell"
+    },
+    {
+      "id": "D",
+      "text": "Schwann cell"
+    },
+    {
+      "id": "E",
+      "text": "Ependymal cell"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Pseudopalisading necrosis with GFAP positivity in a highly malignant hemispheric tumor is diagnostic of glioblastoma, which is of astrocytic origin. GFAP is an intermediate filament characteristic of astrocytes, and the palisading pleomorphic cells surround central necrosis, hemorrhage, and microvascular proliferation. The astrocyte origin is confirmed by the GFAP immunostain.",
+  "explanation_incorrect": {
+    "B": "Oligodendrocyte origin characterizes oligodendroglioma, which shows fried egg cells and a chicken-wire vascular pattern rather than pseudopalisading necrosis.",
+    "C": "Arachnoid cell origin characterizes meningioma, which shows whorled spindle cells and psammoma bodies rather than GFAP-positive palisading cells.",
+    "D": "Schwann cell origin characterizes schwannoma, which is S-100 positive with biphasic Antoni A and Antoni B areas.",
+    "E": "Ependymal cell origin characterizes ependymoma, which shows perivascular pseudorosettes and blepharoplasts."
+  },
+  "educationalObjective": "Glioblastoma is an astrocyte-derived tumor identified by GFAP positivity and pseudopalisading necrosis.",
+  "source": "Generated from 12. Neurology.pdf - Pathology: Adult primary brain tumors"
+},
+{
+  "id": "neu-263",
+  "subject": "Neurology",
+  "major_topic": "Pathology",
+  "subtopic": "Adult primary brain tumors",
+  "difficulty": "medium",
+  "vignette": "A 40-year-old man has a long history of headaches and a recent seizure. Imaging reveals a slow-growing, calcified mass in the frontal lobe. Histology shows cells with round nuclei and clear cytoplasm arranged around a chicken-wire network of capillaries.",
+  "question": "Which of the following best matches this tumor?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Meningioma with psammoma bodies"
+    },
+    {
+      "id": "B",
+      "text": "Glioblastoma with pseudopalisading necrosis"
+    },
+    {
+      "id": "C",
+      "text": "Hemangioblastoma with thin-walled capillaries"
+    },
+    {
+      "id": "D",
+      "text": "Oligodendroglioma with fried egg cells"
+    },
+    {
+      "id": "E",
+      "text": "Schwannoma with Antoni A and B areas"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Oligodendroglioma is a relatively rare, slow-growing tumor most often found in the frontal lobes and is frequently calcified. It is of oligodendrocyte origin and shows fried egg cells, which are round nuclei with clear cytoplasm, set within a chicken-wire capillary pattern. The frontal location, calcification, and histology in this patient match oligodendroglioma.",
+  "explanation_incorrect": {
+    "A": "Meningioma is extra-axial with a dural tail, whorled spindle cells, and psammoma bodies, not fried egg cells and chicken-wire vessels.",
+    "B": "Glioblastoma is highly malignant with pseudopalisading necrosis and EGFR amplification, not a slow-growing calcified frontal lesion.",
+    "C": "Hemangioblastoma is a cerebellar vascular tumor with closely arranged thin-walled capillaries and minimal intervening parenchyma.",
+    "E": "Schwannoma is a nerve sheath tumor with S-100 positivity and biphasic Antoni A and B areas, typically at the cerebellopontine angle."
+  },
+  "educationalObjective": "Oligodendroglioma is a slow-growing, calcified frontal lobe tumor with fried egg cells and a chicken-wire vascular pattern.",
+  "source": "Generated from 12. Neurology.pdf - Pathology: Adult primary brain tumors"
+},
+{
+  "id": "neu-264",
+  "subject": "Neurology",
+  "major_topic": "Pathology",
+  "subtopic": "Adult primary brain tumors",
+  "difficulty": "easy",
+  "vignette": "A 45-year-old woman presents with seizures. MRI shows a well-circumscribed spherical mass along the surface of the brain with a dural attachment and a dural tail. Histology shows spindle cells arranged in whorls with laminated calcifications.",
+  "question": "Which of the following is the most likely diagnosis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Glioblastoma"
+    },
+    {
+      "id": "B",
+      "text": "Meningioma"
+    },
+    {
+      "id": "C",
+      "text": "Oligodendroglioma"
+    },
+    {
+      "id": "D",
+      "text": "Hemangioblastoma"
+    },
+    {
+      "id": "E",
+      "text": "Schwannoma"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Meningioma is a common, typically benign tumor with a female predominance that occurs along the surface of the brain or spinal cord. It is extra-axial and may have a dural attachment producing a dural tail. Histology shows arachnoid-cell-derived spindle cells concentrically arranged in a whorled pattern with psammoma bodies, which are laminated calcifications. This patient's presentation is classic for meningioma.",
+  "explanation_incorrect": {
+    "A": "Glioblastoma is an infiltrative, highly malignant hemispheric tumor with pseudopalisading necrosis, not a circumscribed extra-axial dural-based mass.",
+    "C": "Oligodendroglioma is a frontal lobe tumor with fried egg cells and chicken-wire vessels, not whorled spindle cells and psammoma bodies.",
+    "D": "Hemangioblastoma is a cerebellar tumor with thin-walled capillaries and VHL association, not a dural-based tumor with whorled spindle cells.",
+    "E": "Schwannoma arises from nerve sheaths at the cerebellopontine angle with Antoni A and B areas, not from arachnoid cells with a dural tail."
+  },
+  "educationalObjective": "Meningioma is a benign extra-axial dural-based tumor in women with whorled spindle cells and psammoma bodies.",
+  "source": "Generated from 12. Neurology.pdf - Pathology: Adult primary brain tumors"
+},
+{
+  "id": "neu-265",
+  "subject": "Neurology",
+  "major_topic": "Pathology",
+  "subtopic": "Adult primary brain tumors",
+  "difficulty": "medium",
+  "vignette": "A 33-year-old man with retinal angiomas and a family history of similar lesions presents with gait ataxia. Imaging shows a cystic cerebellar mass with an enhancing mural nodule. Laboratory studies show an elevated hemoglobin and hematocrit.",
+  "question": "Which tumor is most likely, and what is the mechanism of the hematologic abnormality?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Medulloblastoma; secretion of antidiuretic hormone"
+    },
+    {
+      "id": "B",
+      "text": "Pilocytic astrocytoma; production of erythropoietin"
+    },
+    {
+      "id": "C",
+      "text": "Ependymoma; shunting of cerebral spinal fluid"
+    },
+    {
+      "id": "D",
+      "text": "Meningioma; increased platelet production"
+    },
+    {
+      "id": "E",
+      "text": "Hemangioblastoma; production of erythropoietin"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Hemangioblastoma is most often found in the cerebellum and is associated with von Hippel-Lindau syndrome when present with retinal angiomas. The tumor can produce erythropoietin, leading to secondary polycythemia with elevated hemoglobin and hematocrit. Histology shows closely arranged thin-walled capillaries with minimal intervening parenchyma. This patient's cerebellar mass, retinal angiomas, and polycythemia are classic for hemangioblastoma in VHL.",
+  "explanation_incorrect": {
+    "A": "Medulloblastoma is a malignant childhood cerebellar tumor causing hydrocephalus and drop metastases; it does not produce erythropoietin or cause polycythemia.",
+    "B": "Pilocytic astrocytoma is a benign cystic cerebellar tumor with a mural nodule and Rosenthal fibers but does not produce erythropoietin; the retinal angiomas point to VHL instead.",
+    "C": "Ependymoma arises in the fourth ventricle with pseudorosettes and blepharoplasts, not as a cerebellar mass producing erythropoietin.",
+    "D": "Meningioma is a dural-based extra-axial tumor and does not cause secondary polycythemia or associate with retinal angiomas."
+  },
+  "educationalObjective": "Hemangioblastoma is a cerebellar tumor associated with VHL that can produce erythropoietin and cause secondary polycythemia.",
+  "source": "Generated from 12. Neurology.pdf - Pathology: Adult primary brain tumors"
+},
+{
+  "id": "neu-266",
+  "subject": "Neurology",
+  "major_topic": "Pathology",
+  "subtopic": "Adult primary brain tumors",
+  "difficulty": "medium",
+  "vignette": "A 28-year-old woman presents with galactorrhea, amenorrhea, and decreased bone density. MRI shows a sellar mass. Serum prolactin is markedly elevated, and other pituitary hormones are normal.",
+  "question": "Which of the following best explains her findings and their treatment?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Nonfunctioning adenoma causing bitemporal hemianopia; treated with transsphenoidal resection only"
+    },
+    {
+      "id": "B",
+      "text": "Somatotroph adenoma causing acromegaly; treated with growth hormone"
+    },
+    {
+      "id": "C",
+      "text": "Prolactinoma causing hyperprolactinemia; treated with dopamine agonists"
+    },
+    {
+      "id": "D",
+      "text": "Corticotroph adenoma causing Cushing disease; treated with cortisol"
+    },
+    {
+      "id": "E",
+      "text": "Thyrotroph adenoma causing hyperthyroidism; treated with methimazole"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Prolactinoma is the most common hormone-producing pituitary adenoma, arising from lactotrophs. It classically presents in women with galactorrhea, amenorrhea, and decreased bone density from estrogen suppression; in men it causes decreased libido and infertility. Treatment is with dopamine agonists such as bromocriptine and cabergoline, or transsphenoidal resection. This patient's triad and elevated prolactin are diagnostic.",
+  "explanation_incorrect": {
+    "A": "A nonfunctioning adenoma presents with mass effect such as bitemporal hemianopia from optic chiasm compression, not galactorrhea and marked hyperprolactinemia.",
+    "B": "Somatotroph adenomas cause acromegaly or gigantism from excess growth hormone, not galactorrhea-amenorrhea, and are not treated with growth hormone.",
+    "D": "Corticotroph adenomas cause Cushing disease from excess ACTH, not hyperprolactinemia, and are not treated with cortisol.",
+    "E": "Thyrotroph adenomas are rare and cause TSH-mediated hyperthyroidism, not galactorrhea-amenorrhea, and methimazole is not the treatment for a prolactinoma."
+  },
+  "educationalObjective": "Prolactinoma is the most common functioning pituitary adenoma, causing galactorrhea, amenorrhea, and low bone density, and is treated with dopamine agonists.",
+  "source": "Generated from 12. Neurology.pdf - Pathology: Adult primary brain tumors"
+},
+{
+  "id": "neu-267",
+  "subject": "Neurology",
+  "major_topic": "Pathology",
+  "subtopic": "Adult primary brain tumors",
+  "difficulty": "medium",
+  "vignette": "A 40-year-old woman presents with progressive hearing loss, tinnitus, and unsteady gait. MRI shows a tumor at the cerebellopontine angle localized to CN VIII within the internal acoustic meatus. Histology shows S-100-positive spindle cells in biphasic dense and myxoid areas.",
+  "question": "Which of the following is the most likely diagnosis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Meningioma"
+    },
+    {
+      "id": "B",
+      "text": "Hemangioblastoma"
+    },
+    {
+      "id": "C",
+      "text": "Oligodendroglioma"
+    },
+    {
+      "id": "D",
+      "text": "Vestibular schwannoma"
+    },
+    {
+      "id": "E",
+      "text": "Ependymoma"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Schwannoma classically occurs at the cerebellopontine angle and can involve CNs V, VII, and VIII; when localized to CN VIII in the internal acoustic meatus it is a vestibular schwannoma, presenting with hearing loss, tinnitus, and unsteady gait. Bilateral vestibular schwannomas are seen in NF-2. Histology is S-100 positive with biphasic hypercellular spindle cell areas (Antoni A) alternating with hypocellular myxoid areas (Antoni B). This matches.",
+  "explanation_incorrect": {
+    "A": "Meningioma can occur at the cerebellopontine angle but is arachnoid-cell-derived, S-100 negative, with whorled spindle cells, psammoma bodies, and a dural tail rather than biphasic Antoni A and B areas.",
+    "B": "Hemangioblastoma is a cerebellar vascular tumor with thin-walled capillaries and VHL association, not a nerve sheath tumor of CN VIII.",
+    "C": "Oligodendroglioma is a frontal lobe tumor with fried egg cells and chicken-wire vessels, not a cerebellopontine angle mass.",
+    "E": "Ependymoma arises from the fourth ventricle with perivascular pseudorosettes and blepharoplasts, not at the cerebellopontine angle."
+  },
+  "educationalObjective": "Vestibular schwannoma is a benign CN VIII nerve sheath tumor at the cerebellopontine angle, S-100 positive with biphasic Antoni A/B areas and associated with NF-2 when bilateral.",
+  "source": "Generated from 12. Neurology.pdf - Pathology: Adult primary brain tumors"
+}
+]

@@ -1,0 +1,125 @@
+[
+{
+  "id": "neu-396",
+  "subject": "Neurology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Triptans",
+  "difficulty": "medium",
+  "vignette": "A 34-year-old woman with acute migraine attacks takes sumatriptan at the onset of an attack and experiences rapid relief of her headache. Her physician explains that the drug activates 5-HT1B/1D receptors, which inhibit trigeminal nerve activation, prevent release of vasoactive peptides, and induce vasoconstriction of cranial vessels.",
+  "question": "Which of the following best describes the mechanism of sumatriptan in acute migraine?",
+  "options": [
+    {
+      "id": "A",
+      "text": "5-HT2A antagonism producing vasodilation"
+    },
+    {
+      "id": "B",
+      "text": "Orexin receptor antagonism producing CNS depression"
+    },
+    {
+      "id": "C",
+      "text": "Beta-adrenergic blockade reducing headache frequency"
+    },
+    {
+      "id": "D",
+      "text": "NSAID-like inhibition of prostaglandin synthesis"
+    },
+    {
+      "id": "E",
+      "text": "5-HT1B/1D agonism inhibiting trigeminal activation and vasoactive peptide release, causing vasoconstriction"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Sumatriptan is a 5-HT1B/1D agonist used for acute migraine and cluster headache attacks. It inhibits trigeminal nerve activation, prevents vasoactive peptide release, and induces vasoconstriction, thereby aborting the attack. Adverse effects include coronary vasospasm, mild paresthesia, and serotonin syndrome when combined with other serotonergic agents.",
+  "explanation_incorrect": {
+    "A": "5-HT2A antagonism is not the triptan mechanism and would favor vasodilation rather than vasoconstriction.",
+    "B": "Orexin antagonism is the mechanism of the hypnotic suvorexant.",
+    "C": "Beta-blockers are used for migraine prophylaxis, not acute abortive treatment, and work by a different mechanism.",
+    "D": "NSAIDs inhibit prostaglandin synthesis but are not triptans and do not cause vasoconstriction."
+  },
+  "educationalObjective": "Sumatriptan is a 5-HT1B/1D agonist that aborts acute migraine by inhibiting trigeminal activation and causing vasoconstriction.",
+  "source": "Generated from 12. Neurology.pdf - Pharmacology: Triptans"
+},
+{
+  "id": "neu-397",
+  "subject": "Neurology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Triptans",
+  "difficulty": "easy",
+  "vignette": "A 58-year-old man with a history of coronary artery disease and stable angina presents with an acute migraine. His physician decides not to prescribe sumatriptan because of a serious cardiovascular adverse effect associated with this drug class.",
+  "question": "Which adverse effect makes sumatriptan contraindicated in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Gingival hypertrophy"
+    },
+    {
+      "id": "B",
+      "text": "Coronary vasospasm"
+    },
+    {
+      "id": "C",
+      "text": "Aplastic anemia"
+    },
+    {
+      "id": "D",
+      "text": "Angle-closure glaucoma"
+    },
+    {
+      "id": "E",
+      "text": "Peripheral neuropathy"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Triptans such as sumatriptan can cause coronary vasospasm and are contraindicated in patients with coronary artery disease or vasospastic (Prinzmetal) angina. Other adverse effects include mild paresthesia and serotonin syndrome when combined with other 5-HT agonists.",
+  "explanation_incorrect": {
+    "A": "Gingival hypertrophy is associated with phenytoin, not triptans.",
+    "C": "Aplastic anemia is associated with carbamazepine, not triptans.",
+    "D": "Angle-closure glaucoma is a risk with topiramate, not triptans.",
+    "E": "Peripheral neuropathy is associated with phenytoin, not triptans."
+  },
+  "educationalObjective": "Sumatriptan can cause coronary vasospasm and is contraindicated in coronary artery disease.",
+  "source": "Generated from 12. Neurology.pdf - Pharmacology: Triptans"
+},
+{
+  "id": "neu-398",
+  "subject": "Neurology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Triptans",
+  "difficulty": "hard",
+  "vignette": "A 29-year-old woman taking sertraline for depression uses sumatriptan for a severe migraine. She presents with agitation, hyperthermia, tremor, hyperreflexia, and diaphoresis. Her physician diagnoses a potentially life-threatening drug interaction.",
+  "question": "Which of the following best explains this patient's presentation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Sumatriptan antagonizes serotonin receptors, causing a serotonin deficiency state"
+    },
+    {
+      "id": "B",
+      "text": "Sumatriptan inhibits MAO-B, leading to dopamine excess"
+    },
+    {
+      "id": "C",
+      "text": "Sertraline and sumatriptan both cause coronary vasospasm, producing myocardial ischemia"
+    },
+    {
+      "id": "D",
+      "text": "Combined serotonergic agents (an SSRI plus a 5-HT1B/1D agonist) can cause serotonin syndrome"
+    },
+    {
+      "id": "E",
+      "text": "Sumatriptan precipitated benzodiazepine withdrawal"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Triptans can cause serotonin syndrome when used in combination with other serotonergic agents such as SSRIs, SNRIs, or MAO inhibitors. This patient's agitation, hyperthermia, tremor, hyperreflexia, and diaphoresis are classic features. Sumatriptan's 5-HT1B/1D agonism adds to the overall serotonergic load.",
+  "explanation_incorrect": {
+    "A": "Sumatriptan is a serotonin agonist, not an antagonist, and this is not a deficiency state.",
+    "B": "MAO-B inhibition is the mechanism of selegiline and rasagiline, not sumatriptan.",
+    "C": "Coronary vasospasm is a triptan risk but does not explain hyperthermia, hyperreflexia, and tremor.",
+    "E": "Benzodiazepine withdrawal relates to flumazenil or abrupt benzodiazepine cessation, not a triptan-SSRI interaction."
+  },
+  "educationalObjective": "Combining triptans with other serotonergic agents can precipitate serotonin syndrome.",
+  "source": "Generated from 12. Neurology.pdf - Pharmacology: Triptans"
+}
+]

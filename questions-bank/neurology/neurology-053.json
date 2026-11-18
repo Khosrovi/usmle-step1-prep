@@ -1,0 +1,207 @@
+[
+{
+  "id": "neu-413",
+  "subject": "Neurology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Local anesthetics",
+  "difficulty": "medium",
+  "vignette": "A 34-year-old woman undergoes a dental procedure under local anesthesia. The anesthetic blocks pain transmission most effectively in the small, rapidly firing nerve fibers in the area. The drug is a tertiary amine that crosses the axonal membrane in an uncharged form and then binds its target from inside the neuron.",
+  "question": "Which of the following best describes the mechanism by which this class of drug blocks neurotransmission?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Binding to voltage-gated K+ channels on the outer axonal membrane, hyperpolarizing the nerve"
+    },
+    {
+      "id": "B",
+      "text": "Antagonism of postsynaptic NMDA receptors in the dorsal horn of the spinal cord"
+    },
+    {
+      "id": "C",
+      "text": "Irreversible destruction of nociceptive nerve endings by alkylation of proteins"
+    },
+    {
+      "id": "D",
+      "text": "Binding to the inner portion of voltage-gated Na+ channels, most effectively in rapidly firing neurons"
+    },
+    {
+      "id": "E",
+      "text": "Activation of GABA-A receptors to increase chloride influx into the neuron"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Local anesthetics block neurotransmission by binding to voltage-gated Na+ channels on the inner portion of the channel along nerve fibers. Tertiary (3°) amine agents cross the membrane in the uncharged (lipophilic) form, then become protonated and bind the channel in the charged form from inside. Because binding is use-dependent, they are most effective in rapidly firing neurons, preventing the Na+ influx needed for action potential propagation. Clinically, sensation is lost in the order pain, temperature, touch, then pressure.",
+  "explanation_incorrect": {
+    "A": "Local anesthetics act on Na+, not K+, channels and bind the inner portion of the channel, not the outer membrane.",
+    "B": "NMDA antagonism is the mechanism of ketamine and other dissociative anesthetics, not local anesthetics.",
+    "C": "Local anesthetics bind reversibly to Na+ channels; irreversible alkylation is not their mechanism.",
+    "E": "GABA-A potentiation is the mechanism of benzodiazepines and propofol, not local anesthetics."
+  },
+  "educationalObjective": "Local anesthetics are use-dependent blockers of the inner portion of voltage-gated Na+ channels; tertiary amines cross uncharged and bind charged.",
+  "source": "Generated from 12. Neurology.pdf - Pharmacology: Local anesthetics"
+},
+{
+  "id": "neu-414",
+  "subject": "Neurology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Local anesthetics",
+  "difficulty": "easy",
+  "vignette": "A pharmacist is stocking local anesthetics and separating ester agents from amide agents because a patient with a documented ester allergy needs a safe alternative.",
+  "question": "Which of the following local anesthetics is an ester?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Lidocaine"
+    },
+    {
+      "id": "B",
+      "text": "Bupivacaine"
+    },
+    {
+      "id": "C",
+      "text": "Mepivacaine"
+    },
+    {
+      "id": "D",
+      "text": "Tetracaine"
+    },
+    {
+      "id": "E",
+      "text": "Ropivacaine"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Esters include benzocaine, chloroprocaine, cocaine, and tetracaine. Amides—bupivacaine, lidocaine, mepivacaine, prilocaine, and ropivacaine—contain two i's in their names. Because there is no cross-allergenicity between the classes, an amide such as lidocaine is used when a patient is allergic to an ester.",
+  "explanation_incorrect": {
+    "A": "Lidocaine is an amide (note the two i's); it is the usual alternative for patients with ester allergy.",
+    "B": "Bupivacaine is an amide local anesthetic, not an ester.",
+    "C": "Mepivacaine is an amide local anesthetic.",
+    "E": "Ropivacaine is an amide local anesthetic."
+  },
+  "educationalObjective": "Esters are benzocaine, chloroprocaine, cocaine, and tetracaine; amides have two i's and are used for ester allergy.",
+  "source": "Generated from 12. Neurology.pdf - Pharmacology: Local anesthetics"
+},
+{
+  "id": "neu-415",
+  "subject": "Neurology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Local anesthetics",
+  "difficulty": "easy",
+  "vignette": "A dentist infiltrates a local anesthetic around a tooth and adds a small amount of epinephrine to the solution. The anesthetic effect lasts substantially longer than when the same drug is given alone.",
+  "question": "What is the primary reason epinephrine prolongs the duration of a local anesthetic?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It increases the lipid solubility of the anesthetic, improving membrane penetration"
+    },
+    {
+      "id": "B",
+      "text": "It directly blocks voltage-gated Na+ channels, adding to the anesthesia"
+    },
+    {
+      "id": "C",
+      "text": "It raises tissue pH, keeping the anesthetic in its uncharged form"
+    },
+    {
+      "id": "D",
+      "text": "It causes vasoconstriction that reduces systemic absorption of the anesthetic"
+    },
+    {
+      "id": "E",
+      "text": "It prevents metabolism of the anesthetic by plasma cholinesterase"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Local anesthetics are often given with a vasoconstrictor such as epinephrine to enhance the block's duration by reducing systemic absorption from the injection site. Keeping the drug local prolongs its action and lowers the risk of systemic toxicity. The mechanism is vasoconstriction, not a change in lipid solubility or pH.",
+  "explanation_incorrect": {
+    "A": "Epinephrine does not change the anesthetic's lipid solubility; that is an intrinsic property of the drug.",
+    "B": "Epinephrine is not a Na+ channel blocker; it acts on vascular α receptors.",
+    "C": "Epinephrine does not raise tissue pH; acidification actually reduces anesthetic penetration.",
+    "E": "Ester anesthetics are hydrolyzed by plasma cholinesterase, but epinephrine does not inhibit that enzyme."
+  },
+  "educationalObjective": "Adding epinephrine to a local anesthetic causes vasoconstriction, decreasing systemic absorption and prolonging the block.",
+  "source": "Generated from 12. Neurology.pdf - Pharmacology: Local anesthetics"
+},
+{
+  "id": "neu-416",
+  "subject": "Neurology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Local anesthetics",
+  "difficulty": "hard",
+  "vignette": "A 52-year-old man has an abscess on his foot that requires drainage. The area is inflamed and acidic. Despite injecting the usual dose of a tertiary amine local anesthetic, the surgeon finds that pain blockade is inadequate and must use considerably more drug.",
+  "question": "Which of the following best explains the reduced effectiveness of the local anesthetic in this setting?",
+  "options": [
+    {
+      "id": "A",
+      "text": "In acidic tissue the alkaline anesthetic becomes charged and cannot penetrate the axonal membrane effectively"
+    },
+    {
+      "id": "B",
+      "text": "Acidic tissue destroys the anesthetic via increased cholinesterase activity"
+    },
+    {
+      "id": "C",
+      "text": "The low pH increases systemic absorption of the drug, washing it away from the nerve"
+    },
+    {
+      "id": "D",
+      "text": "Infected tissue has no voltage-gated Na+ channels on the afferent fibers"
+    },
+    {
+      "id": "E",
+      "text": "Inflammation raises the minimum alveolar concentration needed for local anesthesia"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Local anesthetics are weak bases. In normal tissue a fraction is uncharged and can cross the membrane; in infected (acidic) tissue, the alkaline anesthetic becomes protonated and charged, so it cannot penetrate the membrane effectively. The result is a poor block, and more anesthetic is required. This is why local anesthesia is often less effective in an abscess.",
+  "explanation_incorrect": {
+    "B": "Acidity does not increase cholinesterase-mediated destruction; ester hydrolysis is not the issue here.",
+    "C": "Acidosis traps the charged drug locally rather than increasing systemic absorption.",
+    "D": "Afferent fibers still have voltage-gated Na+ channels; the problem is drug penetration, not channel absence.",
+    "E": "Minimum alveolar concentration applies to inhaled general anesthetics, not local anesthetics."
+  },
+  "educationalObjective": "In acidic infected tissue, weak-base local anesthetics are protonated and charged, cannot cross membranes, and require higher doses.",
+  "source": "Generated from 12. Neurology.pdf - Pharmacology: Local anesthetics"
+},
+{
+  "id": "neu-417",
+  "subject": "Neurology",
+  "major_topic": "Pharmacology",
+  "subtopic": "Local anesthetics",
+  "difficulty": "medium",
+  "vignette": "During a procedure, a patient receives a local anesthetic and shortly develops circumoral numbness, tinnitus, and CNS excitation followed by severe cardiovascular toxicity with arrhythmias.",
+  "question": "Which local anesthetic is most classically associated with severe cardiovascular toxicity at therapeutic-equivalent doses?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Benzocaine"
+    },
+    {
+      "id": "B",
+      "text": "Chloroprocaine"
+    },
+    {
+      "id": "C",
+      "text": "Lidocaine"
+    },
+    {
+      "id": "D",
+      "text": "Prilocaine"
+    },
+    {
+      "id": "E",
+      "text": "Bupivacaine"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Bupivacaine is classically associated with severe cardiovascular toxicity, including arrhythmias and myocardial depression, and is more cardiotoxic than other local anesthetics. General local anesthetic toxicity begins with CNS excitation (circumoral numbness, tinnitus, restlessness) and can progress to seizures and CNS depression. By contrast, cocaine causes hypertension and arrhythmias, while benzocaine and prilocaine cause methemoglobinemia.",
+  "explanation_incorrect": {
+    "A": "Benzocaine is associated with methemoglobinemia, not predominant cardiotoxicity.",
+    "B": "Chloroprocaine is a short-acting ester and is not the classic cardiotoxic agent.",
+    "C": "Lidocaine is comparatively less cardiotoxic and is even used as an antiarrhythmic.",
+    "D": "Prilocaine is associated with methemoglobinemia rather than severe cardiotoxicity."
+  },
+  "educationalObjective": "Bupivacaine is notable for severe cardiotoxicity; benzocaine/prilocaine cause methemoglobinemia and cocaine causes arrhythmias.",
+  "source": "Generated from 12. Neurology.pdf - Pharmacology: Local anesthetics"
+}
+]

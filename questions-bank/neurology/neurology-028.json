@@ -1,0 +1,125 @@
+[
+{
+  "id": "neu-124",
+  "subject": "Neurology",
+  "major_topic": "Anatomy and Physiology",
+  "subtopic": "Cranial nerve reflexes",
+  "difficulty": "easy",
+  "vignette": "A 22-year-old woman undergoes a pupillary examination. When she shifts her gaze from a distant wall to a near card held 15 cm from her eyes, her pupils constrict and her lenses thicken to increase refractive power. She has no ocular abnormalities.",
+  "question": "Which cranial nerves carry the afferent and efferent limbs of this accommodation reflex?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Afferent: CN III; efferent: CN II"
+    },
+    {
+      "id": "B",
+      "text": "Afferent: CN II; efferent: CN III"
+    },
+    {
+      "id": "C",
+      "text": "Afferent: CN V1; efferent: CN VII"
+    },
+    {
+      "id": "D",
+      "text": "Afferent: CN VII; efferent: CN V1"
+    },
+    {
+      "id": "E",
+      "text": "Afferent: CN IX; efferent: CN X"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "The accommodation reflex is triggered when the retina detects a blurred near image, so the afferent signal travels through the optic nerve (CN II) to the midbrain. The efferent limb runs through the oculomotor nerve (CN III), which contracts the sphincter pupillae to produce miosis and contracts the ciliary muscle to round the lens. The pupillary light reflex uses this same II-to-III arc. Therefore the afferent limb is CN II and the efferent limb is CN III.",
+  "explanation_incorrect": {
+    "A": "This reverses the true arc: CN II is sensory (afferent) and CN III is motor (efferent) for accommodation.",
+    "C": "V1 afferent with VII efferent is the lacrimation reflex, not accommodation.",
+    "D": "This reverses the lacrimation arc; CN VII is not the sensory afferent for the accommodative response.",
+    "E": "IX to X is the gag reflex arc and is unrelated to pupillary accommodation."
+  },
+  "educationalObjective": "The accommodation and pupillary light reflexes use CN II as the afferent limb and CN III as the efferent limb.",
+  "source": "Generated from 12. Neurology.pdf - Anatomy and Physiology: Cranial nerve reflexes"
+},
+{
+  "id": "neu-125",
+  "subject": "Neurology",
+  "major_topic": "Anatomy and Physiology",
+  "subtopic": "Cranial nerve reflexes",
+  "difficulty": "medium",
+  "vignette": "A 35-year-old man with a corneal foreign body has a cotton wisp lightly brushed across the right cornea, and both eyes blink in response. He reports reduced sensation over the right side of his face and has difficulty fully closing his right eye.",
+  "question": "Which cranial nerves mediate the afferent and efferent limbs of the corneal blink reflex tested here?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Afferent: CN VII; efferent: CN V1"
+    },
+    {
+      "id": "B",
+      "text": "Afferent: CN V2; efferent: CN VII (ipsilateral only)"
+    },
+    {
+      "id": "C",
+      "text": "Afferent: CN V3; efferent: CN V3"
+    },
+    {
+      "id": "D",
+      "text": "Afferent: CN V1 (nasociliary branch); efferent: bilateral CN VII"
+    },
+    {
+      "id": "E",
+      "text": "Afferent: CN II; efferent: CN III"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "The corneal reflex is initiated by the ophthalmic division (V1), specifically its nasociliary branch, which senses light touch on the cornea. The efferent limb travels through the facial nerve (CN VII), via temporal and zygomatic branches to the orbicularis oculi, and it is bilateral so that stimulating one cornea makes both eyes blink. Loss of the V1 afferent abolishes the blink when that cornea is touched, whereas a lesion of CN VII prevents lid closure on the affected side. The bilateral efferent response is the key distinguishing feature of this reflex.",
+  "explanation_incorrect": {
+    "A": "This reverses the arc: CN VII is the motor efferent and CN V1 is the sensory afferent.",
+    "B": "The maxillary division (V2) does not carry corneal sensation, and the blink response is bilateral rather than ipsilateral only.",
+    "C": "V3 to V3 is the jaw jerk reflex mediated by the masseter, not the corneal reflex.",
+    "E": "II to III is the pupillary and accommodation reflex, not the corneal blink."
+  },
+  "educationalObjective": "The corneal reflex has a V1 (nasociliary) afferent limb and a bilateral CN VII efferent limb to orbicularis oculi.",
+  "source": "Generated from 12. Neurology.pdf - Anatomy and Physiology: Cranial nerve reflexes"
+},
+{
+  "id": "neu-126",
+  "subject": "Neurology",
+  "major_topic": "Anatomy and Physiology",
+  "subtopic": "Cranial nerve reflexes",
+  "difficulty": "hard",
+  "vignette": "A medical student is reviewing cranial nerve reflex arcs for an examination and wants to correctly match each reflex with its afferent and efferent cranial nerves.",
+  "question": "Which of the following cranial nerve reflex arcs is correctly paired with its afferent and efferent limbs?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Gag reflex - afferent: CN IX; efferent: CN X"
+    },
+    {
+      "id": "B",
+      "text": "Cough reflex - afferent: CN IX; efferent: CN X"
+    },
+    {
+      "id": "C",
+      "text": "Jaw jerk reflex - afferent: CN V3; efferent: CN V1"
+    },
+    {
+      "id": "D",
+      "text": "Lacrimation reflex - afferent: CN VII; efferent: CN V1"
+    },
+    {
+      "id": "E",
+      "text": "Accommodation reflex - afferent: CN III; efferent: CN II"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "The gag reflex is elicited by stimulating the posterior pharynx; its afferent limb is carried by the glossopharyngeal nerve (CN IX) and its efferent limb, pharyngeal and laryngeal elevation, by the vagus nerve (CN X). This IX-to-X pairing is a classic tested arc. The other options are deliberately reversed or misassigned. Note that the gag reflex can be absent in neurologically normal individuals, so its absence alone is not necessarily pathologic.",
+  "explanation_incorrect": {
+    "B": "The cough reflex uses CN X for both afferent and efferent limbs (with phrenic and spinal nerve participation), not an IX afferent.",
+    "C": "The jaw jerk is a V3-to-V3 monosynaptic reflex: masseter muscle spindles are both sensed and innervated by the mandibular division of CN V.",
+    "D": "Lacrimation is V1 afferent and VII efferent; this option reverses the two limbs.",
+    "E": "Accommodation is II afferent and III efferent; this option reverses the two limbs."
+  },
+  "educationalObjective": "Know the canonical arcs: gag IX to X, cough X to X, jaw jerk V3 to V3, lacrimation V1 to VII, accommodation and pupillary II to III.",
+  "source": "Generated from 12. Neurology.pdf - Anatomy and Physiology: Cranial nerve reflexes"
+}
+]
