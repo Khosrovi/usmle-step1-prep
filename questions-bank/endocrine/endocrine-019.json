@@ -1,0 +1,207 @@
+[
+{
+  "id": "endo-024",
+  "subject": "Endocrine",
+  "major_topic": "Physiology",
+  "subtopic": "Growth hormone",
+  "difficulty": "medium",
+  "vignette": "A 9-year-old boy is evaluated for short stature. His growth velocity is low and serum IGF-1 is decreased; treatment with GH is being considered.",
+  "question": "GH promotes linear growth and muscle mass principally through which mediator?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Oxytocin"
+    },
+    {
+      "id": "B",
+      "text": "Insulin"
+    },
+    {
+      "id": "C",
+      "text": "TSH"
+    },
+    {
+      "id": "D",
+      "text": "IGF-1 (somatomedin C) secreted by the liver"
+    },
+    {
+      "id": "E",
+      "text": "ACTH"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "GH (somatotropin) is secreted by the anterior pituitary and stimulates linear growth and muscle mass through IGF-1, also called somatomedin C, which is secreted by the liver in response to GH. IGF-1 mediates the anabolic effects on amino acid uptake, protein synthesis, DNA and RNA synthesis, chondroitin sulfate, collagen, and cell size and number. IGF-1 also closes a negative feedback loop that lowers GH secretion.",
+  "explanation_incorrect": {
+    "A": "Oxytocin mediates uterine contraction and milk letdown; it has no role in GH-driven linear growth.",
+    "B": "Insulin is not the mediator of GH's growth effects; indeed GH promotes insulin resistance.",
+    "C": "TSH regulates thyroid hormone release; thyroid hormone supports growth but is not the mediator of GH action.",
+    "E": "ACTH stimulates cortisol secretion; excess cortisol would impair rather than mediate linear growth."
+  },
+  "educationalObjective": "GH acts through hepatic IGF-1 (somatomedin C) to drive linear growth and muscle mass, with IGF-1 providing negative feedback.",
+  "source": "Generated from 8. Endocrine.pdf - Physiology: Growth hormone"
+},
+{
+  "id": "endo-025",
+  "subject": "Endocrine",
+  "major_topic": "Physiology",
+  "subtopic": "Growth hormone",
+  "difficulty": "easy",
+  "vignette": "A physiology student is reviewing the signals that regulate growth hormone secretion.",
+  "question": "GH is released in pulses in response to which hypothalamic hormone?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Somatostatin"
+    },
+    {
+      "id": "B",
+      "text": "GHRH"
+    },
+    {
+      "id": "C",
+      "text": "TRH"
+    },
+    {
+      "id": "D",
+      "text": "CRH"
+    },
+    {
+      "id": "E",
+      "text": "Dopamine"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "GH is secreted by the anterior pituitary in pulses driven by hypothalamic GHRH. The pulsatile pattern is important for GH's effects, while somatostatin and IGF-1 (somatomedin) feedback oppose GHRH and lower GH secretion. The text explicitly ties GH release in pulses to GHRH.",
+  "explanation_incorrect": {
+    "A": "Somatostatin inhibits GH and TSH; it suppresses rather than triggers GH pulses.",
+    "C": "TRH increases TSH and prolactin, not GH.",
+    "D": "CRH increases ACTH, MSH, and beta-endorphin; it does not drive GH release.",
+    "E": "Dopamine is the prolactin-inhibiting factor that lowers prolactin and TSH, not the GH-releasing hormone."
+  },
+  "educationalObjective": "Pulsatile GH secretion from the anterior pituitary is driven by hypothalamic GHRH and restrained by somatostatin and IGF-1.",
+  "source": "Generated from 8. Endocrine.pdf - Physiology: Growth hormone"
+},
+{
+  "id": "endo-026",
+  "subject": "Endocrine",
+  "major_topic": "Physiology",
+  "subtopic": "Growth hormone",
+  "difficulty": "medium",
+  "vignette": "A 48-year-old man with acromegaly has enlarged hands and coarsened facial features. His fasting glucose is elevated, and his physician explains that GH excess is diabetogenic.",
+  "question": "Which of the following best explains the hyperglycemia associated with excess GH?",
+  "options": [
+    {
+      "id": "A",
+      "text": "GH increases insulin resistance, reducing glucose uptake in tissues"
+    },
+    {
+      "id": "B",
+      "text": "GH destroys pancreatic beta cells"
+    },
+    {
+      "id": "C",
+      "text": "GH directly increases insulin secretion from beta cells"
+    },
+    {
+      "id": "D",
+      "text": "GH stimulates glycogen synthesis in the liver"
+    },
+    {
+      "id": "E",
+      "text": "GH inhibits gluconeogenesis"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "GH is diabetogenic: it increases insulin resistance, so tissue glucose uptake falls and blood glucose rises. The text links GH with reduced glucose uptake and lists increased insulin resistance as a key effect, alongside protein synthesis, amino acid uptake, and lipolysis. In acromegaly this can produce impaired glucose tolerance or overt diabetes mellitus.",
+  "explanation_incorrect": {
+    "B": "GH does not destroy pancreatic beta cells; that is the mechanism of type 1 diabetes.",
+    "C": "GH does not directly stimulate insulin secretion; any hyperinsulinemia is compensatory to the insulin resistance.",
+    "D": "GH does not promote glycogen synthesis; its diabetogenic effect opposes glucose storage.",
+    "E": "GH does not inhibit gluconeogenesis; inhibiting gluconeogenesis would lower glucose, the opposite of GH's effect."
+  },
+  "educationalObjective": "GH is diabetogenic because it increases insulin resistance and decreases tissue glucose uptake.",
+  "source": "Generated from 8. Endocrine.pdf - Physiology: Growth hormone"
+},
+{
+  "id": "endo-027",
+  "subject": "Endocrine",
+  "major_topic": "Physiology",
+  "subtopic": "Growth hormone",
+  "difficulty": "hard",
+  "vignette": "A researcher is studying the factors that regulate GH secretion and wants to identify an intervention that reliably lowers it.",
+  "question": "Which of the following would be expected to decrease GH secretion?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Deep sleep"
+    },
+    {
+      "id": "B",
+      "text": "Hypoglycemia"
+    },
+    {
+      "id": "C",
+      "text": "Exercise"
+    },
+    {
+      "id": "D",
+      "text": "Puberty"
+    },
+    {
+      "id": "E",
+      "text": "Somatomedin (IGF-1) negative feedback"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "GH secretion decreases with aging, obesity, hyperglycemia, somatostatin, and somatomedin feedback. Somatomedin (IGF-1) is the regulatory molecule secreted by the liver in response to GH acting on target tissues, and it feeds back to reduce further GH release. Deep sleep, hypoglycemia, stress, puberty, and exercise all increase GH secretion, so they are the wrong direction here.",
+  "explanation_incorrect": {
+    "A": "Deep sleep is a potent stimulus for GH secretion; much of daily GH release occurs during slow-wave sleep.",
+    "B": "Hypoglycemia increases GH secretion as part of the counter-regulatory hormone response.",
+    "C": "Exercise is among the stimuli that increase GH secretion.",
+    "D": "Puberty is associated with increased GH secretion and contributes to the adolescent growth spurt."
+  },
+  "educationalObjective": "IGF-1 (somatomedin) feedback lowers GH, whereas sleep, hypoglycemia, exercise, stress, and puberty raise it.",
+  "source": "Generated from 8. Endocrine.pdf - Physiology: Growth hormone"
+},
+{
+  "id": "endo-028",
+  "subject": "Endocrine",
+  "major_topic": "Physiology",
+  "subtopic": "Growth hormone",
+  "difficulty": "medium",
+  "vignette": "A 44-year-old woman presents with increasing shoe size, coarsening facial features, and enlarged hands over 2 years. Imaging shows an enlarged sella and a pituitary adenoma.",
+  "question": "Which of the following is the most likely diagnosis and treatment?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Gigantism; treated with GH replacement"
+    },
+    {
+      "id": "B",
+      "text": "Acromegaly; treated with TRH"
+    },
+    {
+      "id": "C",
+      "text": "Acromegaly; treated with the somatostatin analog octreotide or surgery"
+    },
+    {
+      "id": "D",
+      "text": "Cushing disease; treated with a dopamine agonist"
+    },
+    {
+      "id": "E",
+      "text": "Prolactinoma; treated with cabergoline"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Excess GH secretion in adults causes acromegaly, whereas the same excess in children with open epiphyses causes gigantism. The text lists treatment with somatostatin analogs such as octreotide or surgery. Octreotide suppresses GH release, addressing the underlying excess rather than only the symptoms. Her adult presentation with enlarged hands and feet and coarsened features fits acromegaly.",
+  "explanation_incorrect": {
+    "A": "Gigantism occurs in children with open epiphyses; giving GH would worsen, not treat, GH excess.",
+    "B": "TRH stimulates TSH and prolactin and is not a treatment for acromegaly.",
+    "D": "Cushing disease is ACTH-dependent hypercortisolism and is not treated with dopamine agonists.",
+    "E": "A prolactinoma causes galactorrhea and hypogonadism; cabergoline would not address GH excess."
+  },
+  "educationalObjective": "Adult GH excess causes acromegaly and is treated with octreotide (a somatostatin analog) or surgery; pediatric excess causes gigantism.",
+  "source": "Generated from 8. Endocrine.pdf - Physiology: Growth hormone"
+}
+]

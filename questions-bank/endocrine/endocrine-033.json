@@ -1,0 +1,330 @@
+[
+{
+  "id": "endo-061",
+  "subject": "Endocrine",
+  "major_topic": "Physiology",
+  "subtopic": "Insulin",
+  "difficulty": "easy",
+  "vignette": "A 45-year-old woman with type 2 diabetes is evaluated for recurrent hypoglycemia. Her clinician suspects surreptitious insulin injection and orders a C-peptide level alongside serum insulin. She asks why C-peptide is useful for this determination.",
+  "question": "Which of the following best explains why measuring C-peptide distinguishes exogenous insulin use from endogenous insulin secretion?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Exogenous insulin preparations contain C-peptide, whereas endogenous secretion does not."
+    },
+    {
+      "id": "B",
+      "text": "Cleavage of proinsulin releases insulin and C-peptide in equal amounts, but injected insulin lacks C-peptide."
+    },
+    {
+      "id": "C",
+      "text": "C-peptide is cleared exclusively by the liver, whereas insulin is cleared only by the kidneys."
+    },
+    {
+      "id": "D",
+      "text": "C-peptide is the active hormone that binds the insulin receptor tyrosine kinase."
+    },
+    {
+      "id": "E",
+      "text": "C-peptide is produced when insulin is degraded in peripheral tissues."
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Proinsulin stored in secretory granules is cleaved into insulin and C-peptide, which are released in equimolar amounts. Endogenous secretion, as in type 2 diabetes, insulin secretagogues, or insulinoma, raises both. Exogenous insulin lacks C-peptide, so factitious hypoglycemia from injection shows high insulin with low C-peptide.",
+  "explanation_incorrect": {
+    "A": "This is reversed: injected insulin lacks C-peptide, while endogenous secretion generates it in equimolar amounts with insulin.",
+    "C": "Insulin is cleared by both the liver and kidneys, and this statement does not explain the diagnostic distinction being tested.",
+    "D": "Insulin itself binds the receptor tyrosine kinase; C-peptide is not the ligand responsible for glucose uptake.",
+    "E": "C-peptide is not a degradation product; it is split from proinsulin before secretion."
+  },
+  "educationalObjective": "Endogenous insulin secretion releases equimolar C-peptide, whereas exogenous insulin does not, making C-peptide the key test for factitious hypoglycemia.",
+  "source": "Generated from 8. Endocrine.pdf - Physiology: Insulin"
+},
+{
+  "id": "endo-062",
+  "subject": "Endocrine",
+  "major_topic": "Physiology",
+  "subtopic": "Insulin",
+  "difficulty": "medium",
+  "vignette": "A 58-year-old man with type 2 diabetes is started on glipizide, a sulfonylurea, to improve glycemic control. He asks his physician how the drug causes his pancreatic beta cells to release more insulin.",
+  "question": "Which sequence of events in the pancreatic beta cell correctly describes glucose-stimulated insulin secretion and the site of sulfonylurea action?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Glucose enters via GLUT4, raises ATP, opens K+ channels, hyperpolarizes the membrane, and reduces Ca2+ influx."
+    },
+    {
+      "id": "B",
+      "text": "Glucose enters via GLUT2, lowers ATP, closes K+ channels, and depolarizes the membrane."
+    },
+    {
+      "id": "C",
+      "text": "Glucose enters via GLUT2, raises ATP, opens K+ channels, and depolarizes the membrane."
+    },
+    {
+      "id": "D",
+      "text": "Glucose enters via GLUT2, raises ATP, closes ATP-sensitive K+ channels, depolarizes the membrane, opens voltage-gated Ca2+ channels, and triggers exocytosis."
+    },
+    {
+      "id": "E",
+      "text": "Glucose enters via GLUT5, raises ATP, closes voltage-gated Ca2+ channels, and hyperpolarizes the cell."
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Glucose enters beta cells through GLUT2 and is metabolized, raising the ATP/ADP ratio. ATP closes ATP-sensitive K+ channels, the sulfonylurea target, depolarizing the membrane; voltage-gated Ca2+ channels then open, Ca2+ influx occurs, and insulin granules undergo exocytosis.",
+  "explanation_incorrect": {
+    "A": "GLUT4 is the insulin-dependent transporter of muscle and adipose, not the beta-cell glucose sensor, and closing K+ channels depolarizes rather than hyperpolarizes.",
+    "B": "Glucose metabolism raises, not lowers, intracellular ATP in the beta cell.",
+    "C": "ATP closes ATP-sensitive K+ channels; it does not open them.",
+    "E": "GLUT5 transports fructose in spermatocytes and GI tract, and closing Ca2+ channels would not trigger exocytosis."
+  },
+  "educationalObjective": "Glucose stimulates insulin release via GLUT2, ATP-dependent closure of K+ channels, depolarization, and Ca2+-triggered exocytosis; sulfonylureas act on the K+ channel.",
+  "source": "Generated from 8. Endocrine.pdf - Physiology: Insulin"
+},
+{
+  "id": "endo-063",
+  "subject": "Endocrine",
+  "major_topic": "Physiology",
+  "subtopic": "Insulin",
+  "difficulty": "medium",
+  "vignette": "A medical student is reviewing glucose transporter expression across tissues in preparation for an exam. She wants to identify the correct pairing of transporter and tissue distribution.",
+  "question": "Which of the following statements about glucose transporters is correct?",
+  "options": [
+    {
+      "id": "A",
+      "text": "GLUT2 is bidirectional and is expressed in pancreatic beta cells, liver, kidney, and GI tract."
+    },
+    {
+      "id": "B",
+      "text": "GLUT4 is the insulin-independent transporter abundant in red blood cells and brain."
+    },
+    {
+      "id": "C",
+      "text": "GLUT1 is insulin-dependent and is the main transporter of striated muscle."
+    },
+    {
+      "id": "D",
+      "text": "GLUT3 is the fructose transporter found in spermatocytes and the GI tract."
+    },
+    {
+      "id": "E",
+      "text": "SGLT1 and SGLT2 are facilitated diffusion transporters expressed in the brain."
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "GLUT2 is bidirectional and found in beta cells, liver, kidney, and GI tract. The insulin-independent transporters are GLUT1 (RBCs, brain, cornea, placenta), GLUT3 (brain, placenta), and GLUT5 (fructose; spermatocytes, GI), while GLUT4 (adipose, striated muscle) is insulin-dependent and SGLT1/2 are Na+-glucose cotransporters in kidney and small intestine.",
+  "explanation_incorrect": {
+    "B": "RBCs and brain use insulin-independent GLUT1; GLUT4 is insulin-dependent and resides in muscle and adipose.",
+    "C": "GLUT1 is insulin-independent and located in RBCs, brain, cornea, and placenta, not in striated muscle.",
+    "D": "GLUT3 is a glucose transporter of brain and placenta; GLUT5, not GLUT3, handles fructose.",
+    "E": "SGLT1/2 are sodium-glucose cotransporters of kidney and small intestine, not facilitated diffusion transporters in brain."
+  },
+  "educationalObjective": "GLUT4 is insulin-dependent (muscle/adipose), GLUT1/2/3/5 and SGLT are insulin-independent, and GLUT2 is bidirectional.",
+  "source": "Generated from 8. Endocrine.pdf - Physiology: Insulin"
+},
+{
+  "id": "endo-064",
+  "subject": "Endocrine",
+  "major_topic": "Physiology",
+  "subtopic": "Insulin",
+  "difficulty": "hard",
+  "vignette": "A 40-year-old man has a pancreatic insulinoma causing recurrent fasting hypoglycemia. His physician reviews the expected metabolic actions of the excess circulating hormone.",
+  "question": "Which of the following is NOT an expected action of insulin?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Increased glycogen synthesis and storage in liver and muscle."
+    },
+    {
+      "id": "B",
+      "text": "Increased cellular uptake of potassium and amino acids."
+    },
+    {
+      "id": "C",
+      "text": "Increased sodium retention by the kidneys."
+    },
+    {
+      "id": "D",
+      "text": "Decreased lipolysis in adipose tissue."
+    },
+    {
+      "id": "E",
+      "text": "Increased glucagon release from pancreatic alpha cells."
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Insulin is anabolic: it increases glucose transport in muscle and adipose, glycogen synthesis, triglyceride synthesis, renal sodium retention, protein synthesis, and cellular uptake of K+ and amino acids, while suppressing glucagon release and lipolysis. Increased glucagon release is therefore not an insulin effect.",
+  "explanation_incorrect": {
+    "A": "Insulin does promote glycogen synthesis and storage, so this is a real anabolic effect.",
+    "B": "Insulin drives potassium and amino acids into cells, a genuine action being tested here.",
+    "C": "Insulin increases renal sodium retention, so this is expected.",
+    "D": "Insulin inhibits lipolysis in adipose tissue; reduced lipolysis is a true effect."
+  },
+  "educationalObjective": "Insulin is anabolic and suppresses glucagon and lipolysis; increased glucagon release is not one of its actions.",
+  "source": "Generated from 8. Endocrine.pdf - Physiology: Insulin"
+},
+{
+  "id": "endo-065",
+  "subject": "Endocrine",
+  "major_topic": "Physiology",
+  "subtopic": "Insulin",
+  "difficulty": "medium",
+  "vignette": "A physiologist gives the same amount of glucose to two groups of healthy volunteers, once orally and once intravenously, and measures insulin secretion. The oral group consistently shows a larger insulin response.",
+  "question": "What best explains the greater insulin response to oral compared with intravenous glucose?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Intravenous glucose is cleared by the liver before it can reach pancreatic beta cells."
+    },
+    {
+      "id": "B",
+      "text": "Oral glucose is absorbed more slowly, producing a lower and broader glucose peak."
+    },
+    {
+      "id": "C",
+      "text": "Incretins such as GLP-1 and GIP released after a meal increase beta-cell sensitivity to glucose."
+    },
+    {
+      "id": "D",
+      "text": "Gut bacteria convert glucose to fructose, which is a far more potent insulin secretagogue."
+    },
+    {
+      "id": "E",
+      "text": "Intravenous glucose bypasses the portal circulation and never reaches the pancreas."
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Glucose is the major regulator of insulin release. The oral route produces a greater insulin response because the GI tract releases the incretins GLP-1 and GIP after meals, which increase beta-cell sensitivity to glucose; this incretin effect is absent with intravenous glucose.",
+  "explanation_incorrect": {
+    "A": "Hepatic clearance of insulin does not account for the oral-versus-intravenous difference in secretion.",
+    "B": "A slower absorption with a lower peak would not by itself explain a larger total insulin response; the incretin effect does.",
+    "D": "Glucose is not converted to fructose in the gut to drive insulin secretion.",
+    "E": "Intravenous glucose still circulates to the pancreas; the difference arises from absent incretin release, not failed delivery."
+  },
+  "educationalObjective": "The incretin effect (GLP-1, GIP) explains why oral glucose elicits more insulin secretion than intravenous glucose.",
+  "source": "Generated from 8. Endocrine.pdf - Physiology: Insulin"
+},
+{
+  "id": "endo-066",
+  "subject": "Endocrine",
+  "major_topic": "Physiology",
+  "subtopic": "Insulin",
+  "difficulty": "easy",
+  "vignette": "A pregnant woman with poorly controlled gestational diabetes delivers a large-for-gestational-age newborn who develops hypoglycemia shortly after birth. The obstetrician explains the mechanism to the parents.",
+  "question": "Which statement best explains the fetal hyperinsulinism seen in this setting?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Maternal insulin crosses the placenta and directly stimulates the fetal beta cells."
+    },
+    {
+      "id": "B",
+      "text": "Maternal glucose crosses the placenta and stimulates fetal insulin secretion; insulin itself does not cross."
+    },
+    {
+      "id": "C",
+      "text": "Fetal glucagon crosses the placenta and raises the fetal blood glucose."
+    },
+    {
+      "id": "D",
+      "text": "Maternal insulin suppresses fetal glucagon receptors after crossing the placenta."
+    },
+    {
+      "id": "E",
+      "text": "Placental lactogen is converted into insulin within the fetal circulation."
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Unlike glucose, insulin does not cross the placenta. Excess maternal glucose crosses freely and produces marked fetal hyperinsulinism, which drives macrosomia and can cause neonatal hypoglycemia after delivery.",
+  "explanation_incorrect": {
+    "A": "Insulin does not cross the placenta; it is maternal glucose that reaches the fetus.",
+    "C": "It is maternal glucose, not fetal glucagon, that drives the fetal beta cells.",
+    "D": "Maternal insulin cannot cross the placenta to act on fetal glucagon receptors.",
+    "E": "Placental lactogen is not converted to insulin; the effect is due to transferred glucose."
+  },
+  "educationalObjective": "Glucose crosses the placenta but insulin does not, so maternal hyperglycemia causes fetal hyperinsulinism and macrosomia.",
+  "source": "Generated from 8. Endocrine.pdf - Physiology: Insulin"
+},
+{
+  "id": "endo-067",
+  "subject": "Endocrine",
+  "major_topic": "Physiology",
+  "subtopic": "Insulin",
+  "difficulty": "hard",
+  "vignette": "A researcher treats cultured adipocytes with insulin and observes both increased glucose uptake and increased transcription of genes involved in glycogen and lipid synthesis. She investigates the receptor mechanism.",
+  "question": "Which molecular event is responsible for initiating these insulin effects?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Insulin binds a G protein-coupled receptor, raising cAMP and activating PKA."
+    },
+    {
+      "id": "B",
+      "text": "Insulin binds a nuclear receptor and directly regulates DNA transcription."
+    },
+    {
+      "id": "C",
+      "text": "Insulin binds a ligand-gated calcium channel, causing calcium influx."
+    },
+    {
+      "id": "D",
+      "text": "Insulin binds a receptor tyrosine kinase, leading to autophosphorylation, GLUT4 vesicle translocation, and altered gene transcription."
+    },
+    {
+      "id": "E",
+      "text": "Insulin binds a sodium-glucose cotransporter, driving sodium influx."
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "The insulin receptor has tyrosine kinase activity. Binding triggers autophosphorylation and signaling that moves GLUT4-containing vesicles to the plasma membrane in muscle and adipose and promotes gene transcription for glycogen, lipid, and protein synthesis and cell growth. Insulin is cleared by the liver and kidneys.",
+  "explanation_incorrect": {
+    "A": "GPCR-cAMP-PKA signaling is used by glucagon and epinephrine, not by insulin.",
+    "B": "Nuclear receptors mediate steroid and thyroid hormone action, not insulin signaling.",
+    "C": "Insulin does not signal through ligand-gated calcium channels.",
+    "E": "SGLT proteins are sodium-glucose cotransporters, not the insulin receptor."
+  },
+  "educationalObjective": "Insulin signals through a receptor tyrosine kinase, causing GLUT4 translocation and gene transcription; it is cleared by liver and kidney.",
+  "source": "Generated from 8. Endocrine.pdf - Physiology: Insulin"
+},
+{
+  "id": "endo-068",
+  "subject": "Endocrine",
+  "major_topic": "Physiology",
+  "subtopic": "Insulin",
+  "difficulty": "easy",
+  "vignette": "A first-year student is comparing how different tissues obtain glucose, including during a period of fasting. He is tested on the red blood cell in particular.",
+  "question": "Which statement about glucose utilization by tissues is correct?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Red blood cells use only glucose via insulin-independent GLUT1 because they lack mitochondria."
+    },
+    {
+      "id": "B",
+      "text": "Red blood cells switch to ketone bodies as their main fuel during starvation."
+    },
+    {
+      "id": "C",
+      "text": "Brain tissue is unable to use ketone bodies under any circumstances."
+    },
+    {
+      "id": "D",
+      "text": "Red blood cell glucose uptake depends on insulin-dependent GLUT4."
+    },
+    {
+      "id": "E",
+      "text": "Glucose uptake by the cornea requires insulin."
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "RBCs lack mitochondria and therefore rely solely on glucose, which enters through insulin-independent GLUT1. The brain prefers glucose but can use ketone bodies during starvation, and cornea is among the insulin-independent BRICK LIPS tissues.",
+  "explanation_incorrect": {
+    "B": "RBCs lack mitochondria and cannot oxidize ketone bodies.",
+    "C": "The brain can use ketone bodies during starvation.",
+    "D": "RBCs use GLUT1, not the insulin-dependent GLUT4.",
+    "E": "The cornea is insulin-independent as part of the BRICK LIPS group."
+  },
+  "educationalObjective": "RBCs depend exclusively on insulin-independent glucose uptake (GLUT1), whereas brain can use ketones in starvation.",
+  "source": "Generated from 8. Endocrine.pdf - Physiology: Insulin"
+}
+]

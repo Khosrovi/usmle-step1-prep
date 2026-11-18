@@ -1,0 +1,166 @@
+[
+{
+  "id": "endo-181",
+  "subject": "Endocrine",
+  "major_topic": "Pathology",
+  "subtopic": "Hyperaldosteronism",
+  "difficulty": "medium",
+  "vignette": "A 52-year-old woman has had hypertension for 8 years that remains uncontrolled despite maximal doses of three antihypertensive drugs. She reports muscle cramps and intermittent weakness. Labs: Na 145 mEq/L, K 3.1 mEq/L, HCO3 30 mEq/L, plasma aldosterone 32 ng/dL (elevated), plasma renin activity suppressed. CT shows a 1.5-cm unilateral adrenal nodule.",
+  "question": "Which of the following best explains the renin finding in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Renin is elevated because aldosterone-driven sodium retention raises renal perfusion pressure."
+    },
+    {
+      "id": "B",
+      "text": "Renin is inappropriately normal because the renin–angiotensin system is intact and sensing euvolemia."
+    },
+    {
+      "id": "C",
+      "text": "Renin is suppressed because autonomous aldosterone secretion expands volume and inhibits juxtaglomerular renin release."
+    },
+    {
+      "id": "D",
+      "text": "Renin is elevated because the adrenal nodule directly secretes renin into the circulation."
+    },
+    {
+      "id": "E",
+      "text": "Renin is suppressed because ACTH directly inhibits renin gene transcription in the kidney."
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "This patient has primary hyperaldosteronism from a unilateral adrenal adenoma (Conn syndrome). Autonomous aldosterone secretion increases distal sodium reabsorption and potassium/hydrogen ion secretion, producing hypertension, hypokalemia, and metabolic alkalosis. The resulting volume expansion and increased renal perfusion pressure suppress juxtaglomerular renin release through negative feedback. The combination of high aldosterone with low renin is the hallmark of primary disease and explains her treatment-resistant hypertension.",
+  "explanation_incorrect": {
+    "A": "This describes secondary hyperaldosteronism (eg, renovascular hypertension), in which renin is high and drives aldosterone; here aldosterone is autonomous and renin is low.",
+    "B": "Renin is not normal in primary hyperaldosteronism — chronic volume expansion actively suppresses it below the normal range.",
+    "D": "Renin is secreted by renal juxtaglomerular cells, not by adrenal tissue; a renin-producing juxtaglomerular cell tumor would cause secondary, not primary, hyperaldosteronism.",
+    "E": "Renin is regulated mainly by renal perfusion pressure, sympathetic tone, and macula densa NaCl, not by direct ACTH inhibition."
+  },
+  "educationalObjective": "Primary hyperaldosteronism shows high aldosterone with suppressed renin because autonomous mineralocorticoid secretion expands volume and breaks the feedback loop.",
+  "source": "Generated from 8. Endocrine.pdf - Pathology: Hyperaldosteronism"
+},
+{
+  "id": "endo-182",
+  "subject": "Endocrine",
+  "major_topic": "Pathology",
+  "subtopic": "Hyperaldosteronism",
+  "difficulty": "easy",
+  "vignette": "A 46-year-old man is evaluated for newly diagnosed primary hyperaldosteronism. He has hypertension (158/96 mm Hg) and a serum potassium of 3.2 mEq/L. His serum albumin is normal, and he has no history of heart failure, cirrhosis, or nephrotic syndrome. On examination there is no peripheral edema.",
+  "question": "Which of the following mechanisms best explains the absence of edema in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Aldosterone escape: volume expansion raises GFR and natriuretic factors so sodium excretion returns toward intake despite continued aldosterone."
+    },
+    {
+      "id": "B",
+      "text": "Aldosterone directly increases sodium excretion at the distal tubule, preventing net fluid accumulation."
+    },
+    {
+      "id": "C",
+      "text": "In primary disease, renal sodium losses exceed aldosterone-mediated sodium retention, so total-body sodium falls."
+    },
+    {
+      "id": "D",
+      "text": "The accompanying hypokalemia prevents sodium reabsorption in the cortical collecting duct."
+    },
+    {
+      "id": "E",
+      "text": "The adrenal adenoma secretes atrial natriuretic peptide, which directly blocks aldosterone action."
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Primary hyperaldosteronism does not directly cause edema because of the aldosterone escape phenomenon. Persistent sodium retention expands extracellular volume, which raises GFR, increases renal perfusion, and enhances natriuretic factors such as atrial natriuretic peptide. Sodium excretion therefore returns toward dietary intake despite ongoing aldosterone excess, so a new steady state with hypertension but no overt edema is reached. This protective escape is lost or impaired in secondary hyperaldosteronism due to edema states such as heart failure or cirrhosis.",
+  "explanation_incorrect": {
+    "B": "Aldosterone is antinatriuretic — it increases ENaC-mediated sodium reabsorption — so it cannot itself prevent fluid accumulation.",
+    "C": "Net sodium is initially retained, which is why hypertension develops; escape restores balance, it does not produce net sodium loss.",
+    "D": "Hypokalemia results from aldosterone-driven potassium secretion; it does not block sodium reabsorption in the collecting duct.",
+    "E": "Atrial natriuretic peptide comes from stretched atrial myocytes, not the adrenal tumor; escape is a renal and hemodynamic adaptation."
+  },
+  "educationalObjective": "Aldosterone escape explains why primary hyperaldosteronism causes hypertension without direct edema formation.",
+  "source": "Generated from 8. Endocrine.pdf - Pathology: Hyperaldosteronism"
+},
+{
+  "id": "endo-183",
+  "subject": "Endocrine",
+  "major_topic": "Pathology",
+  "subtopic": "Hyperaldosteronism",
+  "difficulty": "medium",
+  "vignette": "A 60-year-old woman has long-standing treatment-resistant hypertension and muscle cramps. Labs show K 3.0 mEq/L, HCO3 31 mEq/L, elevated plasma aldosterone, and suppressed renin. Adrenal imaging demonstrates bilateral adrenal enlargement without a discrete mass or any renal artery abnormality.",
+  "question": "Which of the following is the most likely cause of her hyperaldosteronism?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Renovascular hypertension from bilateral renal artery stenosis"
+    },
+    {
+      "id": "B",
+      "text": "A renin-secreting juxtaglomerular cell tumor of the kidney"
+    },
+    {
+      "id": "C",
+      "text": "Cirrhosis with ascites and decreased effective arterial volume"
+    },
+    {
+      "id": "D",
+      "text": "Bilateral adrenal hyperplasia"
+    },
+    {
+      "id": "E",
+      "text": "Nephrotic syndrome with third-spacing of intravascular volume"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Primary hyperaldosteronism is caused by bilateral adrenal hyperplasia or by a unilateral adrenal adenoma (Conn syndrome). This patient's high aldosterone, suppressed renin, hypokalemia, metabolic alkalosis, and resistant hypertension fit primary disease, and the imaging shows bilateral adrenal enlargement. Bilateral hyperplasia is therefore the most likely cause. The other listed conditions all produce secondary hyperaldosteronism with elevated renin, which is excluded by her suppressed renin.",
+  "explanation_incorrect": {
+    "A": "Renal artery stenosis lowers renal perfusion and raises renin, producing secondary hyperaldosteronism with high renin rather than suppressed renin.",
+    "B": "A juxtaglomerular cell tumor secretes renin and causes secondary hyperaldosteronism; it would also be a renal, not bilateral adrenal, finding.",
+    "C": "Cirrhosis is an edema state that activates RAAS and gives high aldosterone with high renin; it does not cause bilateral adrenal enlargement.",
+    "E": "Nephrotic syndrome similarly reduces effective arterial volume and causes secondary hyperaldosteronism with elevated renin."
+  },
+  "educationalObjective": "Bilateral adrenal hyperplasia and Conn adenoma are the two causes of primary hyperaldosteronism, distinguished from secondary causes by suppressed renin.",
+  "source": "Generated from 8. Endocrine.pdf - Pathology: Hyperaldosteronism"
+},
+{
+  "id": "endo-184",
+  "subject": "Endocrine",
+  "major_topic": "Pathology",
+  "subtopic": "Hyperaldosteronism",
+  "difficulty": "hard",
+  "vignette": "A 68-year-old man with heart failure with reduced ejection fraction (EF 25%) has worsening peripheral edema and a 6-kg weight gain over 2 weeks. Labs: K 3.4 mEq/L, HCO3 29 mEq/L, markedly elevated plasma renin activity, elevated aldosterone, and urine sodium of 12 mEq/L.",
+  "question": "Which statement best explains why the hyperaldosteronism in this patient worsens his edema, unlike primary hyperaldosteronism?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Aldosterone secretion is autonomous and renin-independent, so volume expansion cannot shut it off."
+    },
+    {
+      "id": "B",
+      "text": "Heart failure impairs aldosterone escape, so aldosterone-driven sodium retention is not offset and edema worsens."
+    },
+    {
+      "id": "C",
+      "text": "Reduced aldosterone in heart failure causes renal sodium wasting that secondarily triggers edema."
+    },
+    {
+      "id": "D",
+      "text": "Elevated renin directly increases capillary permeability, allowing fluid to leak into the interstitium."
+    },
+    {
+      "id": "E",
+      "text": "Heart failure lowers GFR so aldosterone can no longer reach its tubular site of action."
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Heart failure reduces effective arterial blood volume despite total-body volume overload, activating RAAS and producing secondary hyperaldosteronism with high renin and high aldosterone. In primary hyperaldosteronism, aldosterone escape limits sodium retention and prevents edema. In heart failure (and other edema states such as cirrhosis and nephrotic syndrome), the escape mechanism is impaired, so continued aldosterone-driven sodium and water retention aggravates peripheral edema. The low urine sodium reflects avid renal retention rather than aldosterone deficiency.",
+  "explanation_incorrect": {
+    "A": "Autonomous, renin-independent aldosterone with suppressed renin defines primary disease; this patient has markedly elevated renin.",
+    "C": "Aldosterone is elevated here, not reduced, and it promotes sodium retention rather than wasting.",
+    "D": "Renin acts through angiotensin II and aldosterone to retain sodium; it is not a direct mediator of capillary permeability.",
+    "E": "Aldosterone acts on the distal nephron independently of GFR; the problem is impaired escape and persistent retention, not failed hormone delivery."
+  },
+  "educationalObjective": "Secondary hyperaldosteronism in edema states such as heart failure impairs aldosterone escape, so aldosterone excess worsens edema.",
+  "source": "Generated from 8. Endocrine.pdf - Pathology: Hyperaldosteronism"
+}
+]

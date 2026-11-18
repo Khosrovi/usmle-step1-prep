@@ -1,0 +1,207 @@
+[
+{
+  "id": "endo-099",
+  "subject": "Endocrine",
+  "major_topic": "Pathology",
+  "subtopic": "Primary polydipsia and diabetes insipidus",
+  "difficulty": "easy",
+  "vignette": "A 28-year-old woman reports producing large volumes of urine and waking several times nightly to drink water. Urinalysis shows a specific gravity of 1.002 and urine osmolality of 120 mOsm/kg; serum osmolality is 295 mOsm/kg. There is no glucosuria.",
+  "question": "Which of the following best characterizes her urine and its typical findings?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Concentrated urine with urine osmolality greater than serum osmolality"
+    },
+    {
+      "id": "B",
+      "text": "Large amounts of dilute urine with urine osmolality usually <300 mOsm/kg"
+    },
+    {
+      "id": "C",
+      "text": "Euvolemic hyponatremia with continued urinary sodium excretion"
+    },
+    {
+      "id": "D",
+      "text": "Low urine volume with high specific gravity"
+    },
+    {
+      "id": "E",
+      "text": "Hypernatremia with concentrated urine"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Primary polydipsia and diabetes insipidus are both characterized by production of large amounts of dilute urine, with or without thirst. The urine specific gravity is <1.006 and urine osmolality is usually <300 mOsm/kg, matching this patient's values. In primary polydipsia, excessive water intake suppresses ADH, while in diabetes insipidus the problem is deficient ADH (central) or ADH resistance (nephrogenic). The absence of glucosuria helps exclude an osmotic diuresis from diabetes mellitus.",
+  "explanation_incorrect": {
+    "A": "Urine osmolality greater than serum with concentrated urine is the pattern of SIADH, not of dilute urine states.",
+    "C": "Euvolemic hyponatremia with continued urinary sodium excretion describes SIADH; here serum osmolality is normal and urine is dilute.",
+    "D": "Low urine volume with high specific gravity indicates water retention and ADH excess, the opposite of these findings.",
+    "E": "Diabetes insipidus produces dilute urine, not concentrated urine; hypernatremia with concentrated urine does not fit."
+  },
+  "educationalObjective": "Polydipsia and diabetes insipidus share large-volume dilute urine with specific gravity <1.006 and urine osmolality usually <300 mOsm/kg.",
+  "source": "Generated from 8. Endocrine.pdf - Pathology: Primary polydipsia and diabetes insipidus"
+},
+{
+  "id": "endo-100",
+  "subject": "Endocrine",
+  "major_topic": "Pathology",
+  "subtopic": "Primary polydipsia and diabetes insipidus",
+  "difficulty": "medium",
+  "vignette": "A 45-year-old man develops marked polyuria and polydipsia after pituitary surgery. Serum osmolality is 305 mOsm/kg, serum sodium 148 mEq/L, and baseline urine osmolality 100 mOsm/kg. After administration of desmopressin, his urine osmolality rises to 350 mOsm/kg, an increase greater than 50%, and his ADH level was low beforehand.",
+  "question": "Which of the following is the most likely diagnosis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Primary polydipsia"
+    },
+    {
+      "id": "B",
+      "text": "Nephrogenic diabetes insipidus"
+    },
+    {
+      "id": "C",
+      "text": "Syndrome of inappropriate ADH secretion"
+    },
+    {
+      "id": "D",
+      "text": "Central diabetes insipidus (arginine vasopressin deficiency)"
+    },
+    {
+      "id": "E",
+      "text": "Osmotic diuresis due to diabetes mellitus"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Central diabetes insipidus is due to deficient ADH (arginine vasopressin deficiency) and can follow pituitary surgery or other hypothalamic/pituitary injury. The labs show high serum osmolality with dilute urine and a low ADH level. Administering desmopressin leads to a significant rise in urine osmolality (>50%) because the kidneys remain responsive to ADH; this distinguishes central from nephrogenic DI. Water restriction produces little or no increase in urine osmolality in central DI. Treatment is desmopressin (DDAVP).",
+  "explanation_incorrect": {
+    "A": "In primary polydipsia, serum osmolality is low and ADH suppressed, and desmopressin has little additional effect; this patient has high serum osmolality and a clear desmopressin response.",
+    "B": "Nephrogenic diabetes insipidus shows minimal change in urine osmolality after desmopressin because the kidneys are ADH-resistant; here the response is marked.",
+    "C": "SIADH produces concentrated urine and euvolemic hyponatremia, not dilute urine with high serum osmolality.",
+    "E": "Diabetes mellitus causes an osmotic diuresis with glucosuria, not a desmopressin-responsive water diuresis with low ADH."
+  },
+  "educationalObjective": "Central DI shows low ADH and a >50% rise in urine osmolality after desmopressin, distinguishing it from nephrogenic DI and primary polydipsia.",
+  "source": "Generated from 8. Endocrine.pdf - Pathology: Primary polydipsia and diabetes insipidus"
+},
+{
+  "id": "endo-101",
+  "subject": "Endocrine",
+  "major_topic": "Pathology",
+  "subtopic": "Primary polydipsia and diabetes insipidus",
+  "difficulty": "hard",
+  "vignette": "A 52-year-old woman with bipolar disorder taking lithium for years presents with polyuria and polydipsia. Serum osmolality is 310 mOsm/kg, serum sodium 150 mEq/L, and urine osmolality 90 mOsm/kg. Her ADH level is normal, and desmopressin produces only a minimal increase in urine osmolality.",
+  "question": "Which of the following best explains her condition?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Lithium-induced ADH resistance (nephrogenic diabetes insipidus)"
+    },
+    {
+      "id": "B",
+      "text": "Central diabetes insipidus from hypothalamic damage"
+    },
+    {
+      "id": "C",
+      "text": "Primary polydipsia with secondary ADH suppression"
+    },
+    {
+      "id": "D",
+      "text": "Syndrome of inappropriate ADH secretion"
+    },
+    {
+      "id": "E",
+      "text": "Hereditary gain-of-function mutation of the V2 receptor"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Nephrogenic diabetes insipidus is arginine vasopressin resistance: ADH is present (normal or increased) but the kidneys do not respond. Lithium is a classic acquired cause, along with demeclocycline, hypercalcemia, and hypokalemia; hereditary cases reflect a V2-receptor mutation. The vignette shows high serum osmolality, very dilute urine, a normal ADH level, and only a minimal desmopressin response, the signature of nephrogenic DI. Management is to treat the underlying cause, use a low-solute diet, and give HCTZ, amiloride, or indomethacin.",
+  "explanation_incorrect": {
+    "B": "Central DI would show a low ADH level and a significant (>50%) rise in urine osmolality after desmopressin, neither of which is present here.",
+    "C": "Primary polydipsia features low serum osmolality, suppressed ADH, and a rise in urine osmolality >700 with water restriction; her serum osmolality is high and ADH normal.",
+    "D": "SIADH causes euvolemic hyponatremia and concentrated urine, the opposite of the dilute urine and high serum osmolality shown here.",
+    "E": "Hereditary nephrogenic DI is due to a V2-receptor loss-of-function (not gain-of-function) mutation; lithium is the relevant acquired cause in this patient."
+  },
+  "educationalObjective": "Nephrogenic DI from lithium shows normal/elevated ADH and a poor desmopressin response; a V2 loss-of-function mutation is the hereditary form.",
+  "source": "Generated from 8. Endocrine.pdf - Pathology: Primary polydipsia and diabetes insipidus"
+},
+{
+  "id": "endo-102",
+  "subject": "Endocrine",
+  "major_topic": "Pathology",
+  "subtopic": "Primary polydipsia and diabetes insipidus",
+  "difficulty": "medium",
+  "vignette": "A 33-year-old patient with a psychiatric illness drinks excessive amounts of water. Serum osmolality is 268 mOsm/kg, ADH is suppressed, and urine osmolality is 85 mOsm/kg. After 2 to 3 hours of water restriction with hourly measurements, urine osmolality rises to 760 mOsm/kg.",
+  "question": "Which of the following diagnoses is best supported by this water restriction study?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Central diabetes insipidus"
+    },
+    {
+      "id": "B",
+      "text": "Nephrogenic diabetes insipidus"
+    },
+    {
+      "id": "C",
+      "text": "Syndrome of inappropriate ADH secretion"
+    },
+    {
+      "id": "D",
+      "text": "Osmotic diuresis from uncontrolled diabetes mellitus"
+    },
+    {
+      "id": "E",
+      "text": "Primary polydipsia"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Water restriction is the key diagnostic test that separates primary polydipsia from diabetes insipidus. In primary polydipsia, withholding water for 2 to 3 hours leads to a significant rise in urine osmolality, typically >700 mOsm/kg, because ADH secretion resumes once the excess water is cleared. Both central and nephrogenic DI show no change or only a slight rise in urine osmolality with water restriction. This patient's low serum osmolality, suppressed ADH, and rise to 760 mOsm/kg confirm primary polydipsia, treated with water restriction.",
+  "explanation_incorrect": {
+    "A": "Central DI shows no or only a slight rise in urine osmolality with water restriction because ADH is deficient; a rise >700 mOsm/kg argues strongly against it.",
+    "B": "Nephrogenic DI also shows no/slight rise with water restriction and has normal or increased ADH, unlike this patient's suppressed ADH and marked concentration.",
+    "C": "SIADH presents with hyponatremia and inappropriately concentrated urine at baseline, not dilute urine that concentrates after water restriction.",
+    "D": "Diabetes mellitus causes glucosuric osmotic diuresis with elevated glucose; no hyperglycemia or glucosuria is described here."
+  },
+  "educationalObjective": "A >700 mOsm/kg rise in urine osmolality after water restriction distinguishes primary polydipsia from central and nephrogenic DI.",
+  "source": "Generated from 8. Endocrine.pdf - Pathology: Primary polydipsia and diabetes insipidus"
+},
+{
+  "id": "endo-103",
+  "subject": "Endocrine",
+  "major_topic": "Pathology",
+  "subtopic": "Primary polydipsia and diabetes insipidus",
+  "difficulty": "easy",
+  "vignette": "A 24-year-old woman with schizophrenia drinks several liters of water daily. Serum osmolality is 270 mOsm/kg, ADH is suppressed, and urine osmolality is 80 mOsm/kg. Water restriction raises urine osmolality to 750 mOsm/kg. She has no other medical problems and takes no lithium.",
+  "question": "Which of the following is the appropriate treatment for her condition?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Desmopressin"
+    },
+    {
+      "id": "B",
+      "text": "Hydrochlorothiazide plus amiloride"
+    },
+    {
+      "id": "C",
+      "text": "Water restriction"
+    },
+    {
+      "id": "D",
+      "text": "Intravenous hypertonic saline"
+    },
+    {
+      "id": "E",
+      "text": "Lithium"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "This patient has primary polydipsia: excessive water intake, typically from psychiatric illness or hypothalamic thirst-center lesions, with low serum osmolality and suppressed ADH. Water restriction is the treatment because it directly addresses the excessive intake, and the rise in urine osmolality to >700 mOsm/kg on testing confirms the diagnosis. Desmopressin is not useful because ADH is already suppressed and the kidneys can concentrate urine once water intake is limited. Treating the underlying psychiatric condition is also important.",
+  "explanation_incorrect": {
+    "A": "Desmopressin is the treatment for central DI, not primary polydipsia; giving it here could worsen hyponatremia from continued water intake.",
+    "B": "Hydrochlorothiazide plus amiloride is part of nephrogenic DI management, not primary polydipsia.",
+    "D": "Intravenous hypertonic saline is used for severe symptomatic hyponatremia, not for the chronic managed water excess of primary polydipsia.",
+    "E": "Lithium can cause nephrogenic DI and is not a treatment for primary polydipsia; the patient takes no lithium."
+  },
+  "educationalObjective": "Primary polydipsia is treated with water restriction, whereas central DI requires desmopressin and nephrogenic DI requires cause-directed therapy.",
+  "source": "Generated from 8. Endocrine.pdf - Pathology: Primary polydipsia and diabetes insipidus"
+}
+]

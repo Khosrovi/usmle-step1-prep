@@ -1,0 +1,248 @@
+[
+{
+  "id": "endo-048",
+  "subject": "Endocrine",
+  "major_topic": "Physiology",
+  "subtopic": "Parathyroid hormone",
+  "difficulty": "easy",
+  "vignette": "A physiology study aims to identify the hormone responsible for defending serum calcium concentration. The researchers want to know its cellular source and its primary action.",
+  "question": "Which of the following correctly identifies this hormone?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Parafollicular C cells of the thyroid; it lowers serum calcium by inhibiting bone resorption."
+    },
+    {
+      "id": "B",
+      "text": "Follicular cells of the thyroid; it raises the basal metabolic rate."
+    },
+    {
+      "id": "C",
+      "text": "Principal cells of the renal collecting duct; it increases calcium reabsorption in the distal tubule."
+    },
+    {
+      "id": "D",
+      "text": "Osteoclasts; it directly resorbs bone to raise serum calcium."
+    },
+    {
+      "id": "E",
+      "text": "Chief cells of the parathyroid glands; its primary function is to increase free Ca2+ in the blood."
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Parathyroid hormone (PTH) is secreted by chief cells of the parathyroid glands. Its primary function is to raise free calcium in the blood. It achieves this through effects on bone, kidney, and gut via calcitriol. The other options describe calcitonin from thyroid C cells, thyroid hormone from follicular cells, or incorrect sources. The key association is chief cells raising serum calcium.",
+  "explanation_incorrect": {
+    "A": "That describes calcitonin from thyroid C cells, which lowers calcium; the calcium-raising hormone comes from parathyroid chief cells.",
+    "B": "Follicular cells make T3/T4, which regulate metabolic rate, not serum calcium.",
+    "C": "Principal cells are in the collecting duct and respond to aldosterone and ADH; PTH comes from the parathyroids.",
+    "D": "Osteoclasts resorb bone but do not secrete PTH; PTH stimulates them indirectly through osteoblasts and RANK-L."
+  },
+  "educationalObjective": "PTH is secreted by parathyroid chief cells and its primary action is to raise serum free calcium.",
+  "source": "Generated from 8. Endocrine.pdf - Physiology: Parathyroid hormone"
+},
+{
+  "id": "endo-049",
+  "subject": "Endocrine",
+  "major_topic": "Physiology",
+  "subtopic": "Parathyroid hormone",
+  "difficulty": "medium",
+  "vignette": "A 58-year-old woman with primary hyperparathyroidism due to a parathyroid adenoma has labs drawn before surgery.",
+  "question": "Which set of laboratory findings is most consistent with the action of PTH?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Decreased serum Ca2+, increased serum PO4, decreased urine PO4, decreased urine cAMP."
+    },
+    {
+      "id": "B",
+      "text": "Increased serum Ca2+, increased serum PO4, decreased urine PO4, increased urine cAMP."
+    },
+    {
+      "id": "C",
+      "text": "Increased serum Ca2+, decreased serum PO4, decreased urine PO4, decreased urine cAMP."
+    },
+    {
+      "id": "D",
+      "text": "Increased serum Ca2+, decreased serum PO4, increased urine PO4, increased urine cAMP."
+    },
+    {
+      "id": "E",
+      "text": "Decreased serum Ca2+, decreased serum PO4, increased urine PO4, increased urine cAMP."
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "PTH raises serum calcium through bone resorption, renal calcium reabsorption, and GI absorption via calcitriol. It lowers serum phosphate by decreasing phosphate reabsorption in the proximal tubule, so urinary phosphate rises (hence 'phosphate-trashing hormone'). PTH also stimulates renal adenylate cyclase, increasing urine cAMP. The classic pattern is high serum Ca2+, low serum PO4, high urine PO4, and high urine cAMP.",
+  "explanation_incorrect": {
+    "A": "These are the opposite directions; PTH raises serum calcium and urinary phosphate and cAMP while lowering serum phosphate.",
+    "B": "PTH lowers, not raises, serum phosphate; urine phosphate should be high, not low.",
+    "C": "PTH increases urinary phosphate and cAMP; low urine PO4 and cAMP do not fit.",
+    "E": "PTH raises serum calcium; a low serum calcium is not consistent with PTH excess."
+  },
+  "educationalObjective": "PTH produces increased serum Ca2+, decreased serum PO4, increased urine PO4, and increased urine cAMP.",
+  "source": "Generated from 8. Endocrine.pdf - Physiology: Parathyroid hormone"
+},
+{
+  "id": "endo-050",
+  "subject": "Endocrine",
+  "major_topic": "Physiology",
+  "subtopic": "Parathyroid hormone",
+  "difficulty": "hard",
+  "vignette": "A 67-year-old man with chronic kidney disease has hypocalcemia and a low 1,25-(OH)2D3 level despite a normal serum 25-OH D3 concentration. His PTH is elevated. His physician explains the renal activation of vitamin D.",
+  "question": "Which action of PTH best explains the impaired generation of active vitamin D in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "PTH inhibits 1alpha-hydroxylase in the PCT, preventing conversion of 25-OH D3 to active vitamin D."
+    },
+    {
+      "id": "B",
+      "text": "PTH activates 1alpha-hydroxylase in the proximal convoluted tubule, which converts 25-OH D3 to 1,25-(OH)2D3."
+    },
+    {
+      "id": "C",
+      "text": "PTH converts 1,25-(OH)2D3 back to 25-OH D3 in the liver via 24-hydroxylase."
+    },
+    {
+      "id": "D",
+      "text": "PTH stimulates 1alpha-hydroxylase in the distal convoluted tubule rather than in the PCT."
+    },
+    {
+      "id": "E",
+      "text": "PTH directly releases stored 1,25-(OH)2D3 from bone."
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "PTH stimulates the enzyme 1alpha-hydroxylase in the proximal convoluted tubule (remember 'tri to make D3 in the PCT'), which converts 25-OH D3 to the active form 1,25-(OH)2D3 (calcitriol). Calcitriol then increases GI absorption of calcium and phosphate. In chronic kidney disease, loss of proximal tubular 1alpha-hydroxylase activity impairs calcitriol production, contributing to hypocalcemia and secondary hyperparathyroidism. The key site is the PCT and the key enzyme is 1alpha-hydroxylase.",
+  "explanation_incorrect": {
+    "A": "PTH activates, not inhibits, 1alpha-hydroxylase; the enzyme is needed to make active vitamin D.",
+    "C": "PTH does not reverse activation in the liver; 24-hydroxylase inactivation is not its action here.",
+    "D": "The relevant 1alpha-hydroxylase is in the proximal, not distal, convoluted tubule.",
+    "E": "PTH does not store or release calcitriol from bone; it stimulates its renal synthesis."
+  },
+  "educationalObjective": "PTH activates 1alpha-hydroxylase in the PCT to convert 25-OH D3 into active 1,25-(OH)2D3.",
+  "source": "Generated from 8. Endocrine.pdf - Physiology: Parathyroid hormone"
+},
+{
+  "id": "endo-051",
+  "subject": "Endocrine",
+  "major_topic": "Physiology",
+  "subtopic": "Parathyroid hormone",
+  "difficulty": "medium",
+  "vignette": "A researcher is investigating how PTH increases bone resorption. She observes that osteoclasts do not express the relevant PTH receptor at high levels and that osteoblast-derived signals are required.",
+  "question": "Which of the following best describes the mechanism by which PTH stimulates osteoclast-mediated bone resorption?",
+  "options": [
+    {
+      "id": "A",
+      "text": "PTH increases RANK-L secretion by osteoblasts and osteocytes; RANK-L binds RANK on osteoclasts and their precursors, stimulating osteoclast activity and bone resorption."
+    },
+    {
+      "id": "B",
+      "text": "PTH binds directly to RANK receptors on osteoclasts, bypassing the need for osteoblasts."
+    },
+    {
+      "id": "C",
+      "text": "PTH stimulates osteoblasts to secrete osteoprotegerin, which then activates osteoclasts."
+    },
+    {
+      "id": "D",
+      "text": "PTH inhibits RANK-L release, so continuous PTH reduces bone resorption."
+    },
+    {
+      "id": "E",
+      "text": "PTH causes osteocytes to release RANK, which binds RANK-L on osteoclasts to suppress resorption."
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "PTH acts on osteoblasts and osteocytes to increase expression of RANK ligand (RANK-L). RANK-L binds the RANK receptor on osteoclasts and their precursors, driving osteoclast differentiation and activity and thereby increasing bone resorption and calcium release. Notably, intermittent PTH can also stimulate bone formation, which is the basis for anabolic PTH therapy. The essential concept is the osteoblast/osteocyte RANK-L to osteoclast RANK signaling axis.",
+  "explanation_incorrect": {
+    "B": "PTH acts indirectly through osteoblast-derived RANK-L; osteoclasts are not the direct target.",
+    "C": "Osteoprotegerin is a decoy receptor that blocks RANK-L and inhibits osteoclasts; it is not an activator.",
+    "D": "PTH increases RANK-L and promotes resorption; it does not inhibit RANK-L release.",
+    "E": "The ligand (RANK-L) comes from osteoblasts/osteocytes and the receptor (RANK) is on osteoclasts; this option reverses them and incorrectly says resorption is suppressed."
+  },
+  "educationalObjective": "PTH raises bone resorption via osteoblast/osteocyte RANK-L acting on RANK receptors on osteoclasts.",
+  "source": "Generated from 8. Endocrine.pdf - Physiology: Parathyroid hormone"
+},
+{
+  "id": "endo-052",
+  "subject": "Endocrine",
+  "major_topic": "Physiology",
+  "subtopic": "Parathyroid hormone",
+  "difficulty": "easy",
+  "vignette": "A 62-year-old man with a long smoking history presents with hypercalcemia. Imaging reveals a mass in the lung. Further testing shows an elevated PTHrP with a suppressed intact PTH level.",
+  "question": "Which malignancy is classically associated with this PTHrP-mediated hypercalcemia?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Small cell carcinoma of the lung."
+    },
+    {
+      "id": "B",
+      "text": "Medullary thyroid carcinoma."
+    },
+    {
+      "id": "C",
+      "text": "Squamous cell carcinoma of the lung (as is renal cell carcinoma)."
+    },
+    {
+      "id": "D",
+      "text": "Adrenal cortical carcinoma."
+    },
+    {
+      "id": "E",
+      "text": "Pancreatic islet cell tumor."
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "PTH-related peptide (PTHrP) functions like PTH and is commonly increased in malignancies, classically squamous cell carcinoma of the lung and renal cell carcinoma. PTHrP mimics PTH's calcium-raising effects, leading to hypercalcemia with suppressed intact PTH. Recognizing the classic tumor associations is high yield. The correct answer is squamous cell carcinoma of the lung.",
+  "explanation_incorrect": {
+    "A": "Small cell lung carcinoma is associated with SIADH and ectopic ACTH, not PTHrP-mediated hypercalcemia.",
+    "B": "Medullary thyroid carcinoma secretes calcitonin, not PTHrP.",
+    "D": "Adrenal cortical carcinoma typically presents with cortisol or aldosterone excess, not PTHrP.",
+    "E": "Islet cell tumors secrete hormones like insulin or glucagon, not PTHrP."
+  },
+  "educationalObjective": "PTHrP mimics PTH in malignancies, classically squamous cell lung carcinoma and renal cell carcinoma, causing hypercalcemia with suppressed PTH.",
+  "source": "Generated from 8. Endocrine.pdf - Physiology: Parathyroid hormone"
+},
+{
+  "id": "endo-053",
+  "subject": "Endocrine",
+  "major_topic": "Physiology",
+  "subtopic": "Parathyroid hormone",
+  "difficulty": "medium",
+  "vignette": "A 48-year-old woman with severe magnesium deficiency from chronic diarrhea has hypocalcemia. Surprisingly, her PTH level is inappropriately low rather than elevated.",
+  "question": "Which statement best explains the regulation of PTH secretion in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "PTH secretion is regulated only by serum calcium; magnesium has no influence on it."
+    },
+    {
+      "id": "B",
+      "text": "Severe hypomagnesemia stimulates maximal PTH secretion, which explains her elevated PTH."
+    },
+    {
+      "id": "C",
+      "text": "Elevated serum phosphate suppresses PTH secretion."
+    },
+    {
+      "id": "D",
+      "text": "A mild fall in Mg2+ stimulates PTH, but severe Mg2+ depletion suppresses it; causes include diarrhea, aminoglycosides, diuretics, and alcohol."
+    },
+    {
+      "id": "E",
+      "text": "A rise in serum calcium stimulates PTH secretion."
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "PTH secretion is regulated by divalent ions and phosphate: decreased serum calcium, increased serum phosphate, and mildly decreased magnesium all stimulate PTH. However, severe magnesium depletion paradoxically suppresses PTH secretion, which can make hypocalcemia refractory to treatment until magnesium is repleted. Causes of low magnesium include diarrhea, aminoglycosides, diuretics, and alcohol use. Calcium is the major regulator overall, but the magnesium nuance explains this patient's low PTH.",
+  "explanation_incorrect": {
+    "A": "Magnesium does influence PTH; mild hypomagnesemia stimulates and severe hypomagnesemia suppresses it.",
+    "B": "Severe hypomagnesemia suppresses PTH, so her low PTH is expected, not elevated.",
+    "C": "Increased phosphate stimulates PTH secretion rather than suppressing it.",
+    "E": "A fall, not a rise, in serum calcium stimulates PTH secretion."
+  },
+  "educationalObjective": "PTH is stimulated by low Ca2+, high PO4, and mildly low Mg2+, but severe Mg2+ depletion suppresses PTH.",
+  "source": "Generated from 8. Endocrine.pdf - Physiology: Parathyroid hormone"
+}
+]

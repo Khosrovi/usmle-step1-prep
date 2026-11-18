@@ -1,0 +1,125 @@
+[
+{
+  "id": "endo-253",
+  "subject": "Endocrine",
+  "major_topic": "Pharmacology",
+  "subtopic": "Cinacalcet and sevelamer",
+  "difficulty": "medium",
+  "vignette": "A 59-year-old woman with chronic kidney disease on hemodialysis has a calcium of 11.4 mg/dL, phosphate of 6.2 mg/dL, and an intact PTH of 780 pg/mL, consistent with secondary hyperparathyroidism. Cinacalcet is added to her regimen.",
+  "question": "What is the mechanism by which cinacalcet lowers PTH in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It sensitizes parathyroid calcium-sensing receptors to circulating Ca2+, reducing PTH secretion"
+    },
+    {
+      "id": "B",
+      "text": "It binds phosphate in the gastrointestinal tract and prevents its absorption"
+    },
+    {
+      "id": "C",
+      "text": "It increases intestinal calcium absorption to suppress the parathyroid glands"
+    },
+    {
+      "id": "D",
+      "text": "It blocks vitamin D receptors on parathyroid cells"
+    },
+    {
+      "id": "E",
+      "text": "It increases renal excretion of calcium"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Cinacalcet is a calcimimetic: it sensitizes the calcium-sensing receptor (CaSR) on parathyroid cells to circulating ionized calcium, increasing receptor signaling and suppressing PTH secretion. It is approved for secondary hyperparathyroidism in patients with CKD on hemodialysis, for hypercalcemia in primary hyperparathyroidism when parathyroidectomy fails, and for parathyroid carcinoma. The resulting fall in PTH reduces bone resorption and can lower serum calcium. Hypocalcemia is its major adverse effect.",
+  "explanation_incorrect": {
+    "B": "Binding dietary phosphate in the gut is the mechanism of sevelamer, a phosphate binder used for hyperphosphatemia in CKD.",
+    "C": "Cinacalcet does not increase intestinal calcium absorption; it acts directly on the parathyroid calcium-sensing receptor.",
+    "D": "Vitamin D receptor blockade is not how cinacalcet works; vitamin D analogs suppress PTH through a different pathway.",
+    "E": "Cinacalcet does not primarily increase renal calcium excretion; its effect is mediated through the parathyroid CaSR."
+  },
+  "educationalObjective": "Cinacalcet sensitizes the parathyroid calcium-sensing receptor to Ca2+, lowering PTH in secondary hyperparathyroidism and parathyroid carcinoma.",
+  "source": "Generated from 8. Endocrine.pdf - Pharmacology: Cinacalcet and sevelamer"
+},
+{
+  "id": "endo-254",
+  "subject": "Endocrine",
+  "major_topic": "Pharmacology",
+  "subtopic": "Cinacalcet and sevelamer",
+  "difficulty": "easy",
+  "vignette": "A 64-year-old man with stage 4 chronic kidney disease has a serum phosphate of 7.0 mg/dL and a calcium of 8.9 mg/dL. His nephrologist prescribes a nonabsorbable binder that acts within the gut lumen to lower phosphate.",
+  "question": "Which drug prevents phosphate absorption from the gastrointestinal tract in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Cinacalcet"
+    },
+    {
+      "id": "B",
+      "text": "Patiromer"
+    },
+    {
+      "id": "C",
+      "text": "Sevelamer"
+    },
+    {
+      "id": "D",
+      "text": "Fludrocortisone"
+    },
+    {
+      "id": "E",
+      "text": "Levothyroxine"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Sevelamer is a nonabsorbable phosphate binder that binds phosphate within the GI lumen and prevents its absorption, thereby lowering serum phosphate in patients with CKD and hyperphosphatemia. Because it is not absorbed, its adverse effects are largely gastrointestinal; it can also cause hypophosphatemia if phosphate falls too far. Cinacalcet instead lowers PTH via the calcium-sensing receptor, and patiromer is a potassium-binding resin used for hyperkalemia.",
+  "explanation_incorrect": {
+    "A": "Cinacalcet is a calcimimetic that lowers PTH; it is not a phosphate binder and is not used primarily to treat hyperphosphatemia.",
+    "B": "Patiromer is a cation exchange resin that binds potassium in the colon for hyperkalemia, not dietary phosphate.",
+    "D": "Fludrocortisone is a mineralocorticoid used in adrenal insufficiency and has no role in phosphate binding.",
+    "E": "Levothyroxine is thyroid hormone replacement and does not affect gastrointestinal phosphate absorption."
+  },
+  "educationalObjective": "Sevelamer is a nonabsorbable phosphate binder used for hyperphosphatemia in CKD; its adverse effects include hypophosphatemia and GI upset.",
+  "source": "Generated from 8. Endocrine.pdf - Pharmacology: Cinacalcet and sevelamer"
+},
+{
+  "id": "endo-255",
+  "subject": "Endocrine",
+  "major_topic": "Pharmacology",
+  "subtopic": "Cinacalcet and sevelamer",
+  "difficulty": "hard",
+  "vignette": "A 61-year-old man has parathyroid carcinoma with severe hypercalcemia of 14 mg/dL. Surgical resection was attempted but was not curative, and PTH remains markedly elevated. His oncologist starts a drug that acts on the calcium-sensing receptor.",
+  "question": "Which drug is appropriate in this setting, and which adverse effect should be monitored?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Sevelamer, with monitoring for hypophosphatemia"
+    },
+    {
+      "id": "B",
+      "text": "Patiromer, with monitoring for hypokalemia"
+    },
+    {
+      "id": "C",
+      "text": "Cinacalcet, with monitoring for hypercalcemia"
+    },
+    {
+      "id": "D",
+      "text": "Cinacalcet, with monitoring for hypocalcemia"
+    },
+    {
+      "id": "E",
+      "text": "Demeclocycline, with monitoring for hypernatremia"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Cinacalcet is indicated for hypercalcemia in primary hyperparathyroidism when parathyroidectomy fails and for parathyroid carcinoma. By sensitizing the CaSR to calcium, it suppresses PTH secretion and lowers serum calcium. Its principal adverse effect is hypocalcemia, so calcium must be monitored closely. Sevelamer and patiromer bind phosphate and potassium respectively and do not address excess PTH.",
+  "explanation_incorrect": {
+    "A": "Sevelamer is a phosphate binder for hyperphosphatemia in CKD; it does not lower PTH in parathyroid carcinoma.",
+    "B": "Patiromer is a potassium-binding resin for hyperkalemia and has no role in managing parathyroid carcinoma.",
+    "C": "Cinacalcet lowers rather than raises calcium, so hypercalcemia is not its adverse effect; hypocalcemia is the concern.",
+    "E": "Demeclocycline is an ADH antagonist used in SIADH and would not lower PTH in parathyroid carcinoma."
+  },
+  "educationalObjective": "Cinacalcet treats hypercalcemia from failed parathyroidectomy or parathyroid carcinoma, with hypocalcemia as its key adverse effect.",
+  "source": "Generated from 8. Endocrine.pdf - Pharmacology: Cinacalcet and sevelamer"
+}
+]

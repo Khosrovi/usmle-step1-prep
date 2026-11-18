@@ -1,0 +1,166 @@
+[
+{
+  "id": "endo-054",
+  "subject": "Endocrine",
+  "major_topic": "Physiology",
+  "subtopic": "Calcium homeostasis and calcitonin",
+  "difficulty": "medium",
+  "vignette": "A 22-year-old woman has a panic attack and hyperventilates, developing respiratory alkalosis. She reports perioral paresthesias and carpopedal spasm of her hands.",
+  "question": "Which of the following best explains these findings?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Alkalemia decreases albumin binding of Ca2+, raising ionized Ca2+ and suppressing PTH."
+    },
+    {
+      "id": "B",
+      "text": "Alkalemia increases albumin binding of Ca2+, lowering ionized Ca2+, which causes cramps and paresthesias and stimulates PTH secretion."
+    },
+    {
+      "id": "C",
+      "text": "Respiratory alkalosis lowers total serum calcium through renal excretion, leaving ionized Ca2+ unchanged."
+    },
+    {
+      "id": "D",
+      "text": "These symptoms reflect hypercalcemia from increased PTH caused by acidemia."
+    },
+    {
+      "id": "E",
+      "text": "A fall in albumin concentration is the main cause of the reduced ionized calcium."
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Plasma calcium exists as ionized (~45%, active), albumin-bound (~40%), and anion-bound (~15%). Ca2+ competes with H+ for albumin binding. In alkalemia there are fewer H+, so more Ca2+ binds albumin and ionized Ca2+ falls, producing cramps, pain, paresthesias, and carpopedal spasm. The fall in ionized Ca2+ is sensed by the parathyroids and PTH rises. Changes in pH alter PTH secretion, whereas changes in albumin concentration do not.",
+  "explanation_incorrect": {
+    "A": "Alkalemia increases albumin binding of Ca2+, so ionized calcium falls and PTH rises, not the reverse.",
+    "C": "pH changes shift calcium between bound and ionized fractions; total calcium is not lowered by renal excretion here.",
+    "D": "The patient has alkalemia, not acidemia, and symptoms stem from low ionized calcium rather than hypercalcemia.",
+    "E": "Changes in albumin concentration do not change ionized Ca2+; it is the pH shift that matters."
+  },
+  "educationalObjective": "Alkalemia increases albumin binding of calcium, lowering ionized Ca2+ and causing tetany-like symptoms with increased PTH.",
+  "source": "Generated from 8. Endocrine.pdf - Physiology: Calcium homeostasis and calcitonin"
+},
+{
+  "id": "endo-055",
+  "subject": "Endocrine",
+  "major_topic": "Physiology",
+  "subtopic": "Calcium homeostasis and calcitonin",
+  "difficulty": "easy",
+  "vignette": "A 54-year-old man with nephrotic syndrome has a total serum calcium of 7.2 mg/dL due to low albumin. He has no tingling, cramps, or tetany, and his ionized calcium is normal.",
+  "question": "Which statement best explains why he is asymptomatic?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Total calcium is the active form, so a low total calcium inevitably causes tetany."
+    },
+    {
+      "id": "B",
+      "text": "Albumin-bound calcium is the active fraction and is the primary regulator of PTH."
+    },
+    {
+      "id": "C",
+      "text": "Anion-bound calcium is the active form and is unaffected by changes in pH."
+    },
+    {
+      "id": "D",
+      "text": "Hypoalbuminemia lowers ionized calcium, but the brain compensates and prevents symptoms."
+    },
+    {
+      "id": "E",
+      "text": "Ionized (free) Ca2+ is the active form and the primary regulator of PTH; a change in albumin concentration alone does not change ionized Ca2+."
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "The ionized (free) fraction (~45%) is the biologically active calcium and the primary regulator of PTH secretion; the albumin-bound (~40%) and anion-bound (~15%) fractions are inactive. Crucially, changes in albumin concentration change total calcium but not ionized calcium, so patients with hypoalbuminemia can have a low total calcium yet remain asymptomatic with a normal ionized level and normal PTH. pH changes, unlike albumin changes, do alter ionized calcium.",
+  "explanation_incorrect": {
+    "A": "Total calcium is not the active form; ionized calcium is, and a low total from low albumin does not cause tetany.",
+    "B": "Albumin-bound calcium is inactive and does not regulate PTH; ionized calcium does.",
+    "C": "Anion-bound calcium is not the active fraction, and the active ionized fraction is affected by pH.",
+    "D": "Hypoalbuminemia does not lower ionized calcium; the normal ionized level explains the absence of symptoms."
+  },
+  "educationalObjective": "Ionized calcium is the active, PTH-regulating fraction; hypoalbuminemia lowers total but not ionized calcium, so patients stay asymptomatic.",
+  "source": "Generated from 8. Endocrine.pdf - Physiology: Calcium homeostasis and calcitonin"
+},
+{
+  "id": "endo-056",
+  "subject": "Endocrine",
+  "major_topic": "Physiology",
+  "subtopic": "Calcium homeostasis and calcitonin",
+  "difficulty": "hard",
+  "vignette": "A researcher is comparing the two major calcium-regulating hormones. She identifies one hormone that opposes PTH but notes that it is not important in normal calcium homeostasis in healthy adults.",
+  "question": "Which of the following correctly describes this hormone?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It is calcitonin, secreted by parafollicular C cells of the thyroid; it decreases bone resorption, and its secretion rises with increased serum Ca2+."
+    },
+    {
+      "id": "B",
+      "text": "It is PTH, secreted by parathyroid chief cells; it increases bone resorption and is stimulated by low serum Ca2+."
+    },
+    {
+      "id": "C",
+      "text": "It is calcitonin, secreted by thyroid follicular cells; it raises serum calcium by increasing GI absorption."
+    },
+    {
+      "id": "D",
+      "text": "It is calcitonin, the primary regulator of calcium in healthy adults, whose absence causes hypercalcemia."
+    },
+    {
+      "id": "E",
+      "text": "It is a hormone released by osteoclasts that directly stimulates bone formation."
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Calcitonin is secreted by parafollicular (C) cells of the thyroid and opposes the actions of PTH. It lowers serum calcium by inhibiting osteoclastic bone resorption ('tones down serum Ca2+ and keeps it in bones'), and its secretion is stimulated by increased serum calcium. Importantly, calcitonin is not important in normal calcium homeostasis in healthy adults, so its deficiency does not cause hypercalcemia. The opposing hormone PTH comes from chief cells and raises calcium.",
+  "explanation_incorrect": {
+    "B": "That describes PTH, not the hormone that opposes it; PTH is from chief cells and raises calcium.",
+    "C": "Calcitonin comes from parafollicular C cells, not follicular cells, and it lowers rather than raises calcium.",
+    "D": "Calcitonin is not the primary regulator of calcium in healthy adults and is not important in normal homeostasis.",
+    "E": "Calcitonin comes from thyroid C cells and inhibits osteoclasts; osteoclasts do not secrete a hormone that builds bone."
+  },
+  "educationalObjective": "Calcitonin from thyroid parafollicular C cells opposes PTH by inhibiting bone resorption and lowering serum calcium, but it is not important in normal homeostasis.",
+  "source": "Generated from 8. Endocrine.pdf - Physiology: Calcium homeostasis and calcitonin"
+},
+{
+  "id": "endo-057",
+  "subject": "Endocrine",
+  "major_topic": "Physiology",
+  "subtopic": "Calcium homeostasis and calcitonin",
+  "difficulty": "easy",
+  "vignette": "After a calcium-rich meal, a healthy adult's serum calcium rises slightly above baseline. A hormone is released that acts to prevent an excessive rise in serum calcium.",
+  "question": "Which of the following best describes this hormone's action?",
+  "options": [
+    {
+      "id": "A",
+      "text": "PTH is released and raises serum calcium by increasing osteoclastic bone resorption."
+    },
+    {
+      "id": "B",
+      "text": "Calcitonin is released from parathyroid chief cells and increases renal calcium reabsorption."
+    },
+    {
+      "id": "C",
+      "text": "Calcitonin is released from thyroid C cells in response to increased serum Ca2+ and lowers serum calcium by inhibiting osteoclastic bone resorption."
+    },
+    {
+      "id": "D",
+      "text": "1,25-(OH)2D3 is released and lowers serum calcium by reducing GI calcium absorption."
+    },
+    {
+      "id": "E",
+      "text": "Calcitonin is released in response to low serum calcium and raises it by increasing bone formation."
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Increased serum calcium stimulates parafollicular C cells of the thyroid to secrete calcitonin. Calcitonin lowers serum calcium mainly by inhibiting osteoclastic bone resorption, keeping calcium in bone. This feedback opposes the calcium-raising action of PTH. Because calcitonin is not important in normal calcium homeostasis, its effect is modest in healthy adults, but the direction is clear: high calcium triggers a hormone that lowers it.",
+  "explanation_incorrect": {
+    "A": "PTH is released when calcium is low and raises calcium; it would not be the response to a calcium load.",
+    "B": "Calcitonin comes from thyroid C cells, not parathyroid chief cells, and it lowers rather than raises calcium.",
+    "D": "Active vitamin D raises calcium by increasing GI absorption; it does not lower calcium.",
+    "E": "Calcitonin is stimulated by high, not low, calcium and lowers it by inhibiting resorption rather than increasing bone formation."
+  },
+  "educationalObjective": "Rising serum calcium triggers calcitonin release from thyroid C cells, which lowers calcium by inhibiting osteoclastic bone resorption.",
+  "source": "Generated from 8. Endocrine.pdf - Physiology: Calcium homeostasis and calcitonin"
+}
+]

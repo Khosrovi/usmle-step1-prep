@@ -1,0 +1,125 @@
+[
+{
+  "id": "endo-236",
+  "subject": "Endocrine",
+  "major_topic": "Pharmacology",
+  "subtopic": "Alpha-glucosidase inhibitors and amylin analogs",
+  "difficulty": "easy",
+  "vignette": "A 51-year-old man with type 2 diabetes has good fasting glucose but marked postprandial spikes. His physician prescribes acarbose, to be taken with the first bite of each meal.",
+  "question": "How does acarbose lower postprandial blood glucose?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Blocking glucose reabsorption in the proximal tubule"
+    },
+    {
+      "id": "B",
+      "text": "Inhibiting intestinal brush-border alpha-glucosidases, delaying carbohydrate hydrolysis and glucose absorption"
+    },
+    {
+      "id": "C",
+      "text": "Closing pancreatic beta-cell K+ channels"
+    },
+    {
+      "id": "D",
+      "text": "Activating the PPAR-gamma nuclear receptor"
+    },
+    {
+      "id": "E",
+      "text": "Inhibiting the DPP-4 enzyme"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Acarbose and miglitol inhibit intestinal brush-border alpha-glucosidases such as sucrase, maltase, and glucoamylase. This delays the hydrolysis of complex carbohydrates and slows glucose absorption from the gut, flattening the postprandial glucose peak. Because they act in the intestinal lumen, they are not significantly absorbed systemically and rarely cause hypoglycemia as monotherapy. Their main adverse effects are gastrointestinal, including flatulence, bloating, and diarrhea from undigested carbohydrate reaching the colon. They are not recommended in renal insufficiency.",
+  "explanation_incorrect": {
+    "A": "Blocking proximal-tubule glucose reabsorption is the mechanism of SGLT2 inhibitors.",
+    "C": "Closing beta-cell K+ channels is how sulfonylureas and meglitinides stimulate insulin secretion.",
+    "D": "Activating PPAR-gamma is the mechanism of pioglitazone.",
+    "E": "Inhibiting DPP-4 is the mechanism of sitagliptin and other gliptins."
+  },
+  "educationalObjective": "alpha-Glucosidase inhibitors delay intestinal carbohydrate hydrolysis and glucose absorption to lower postprandial glucose.",
+  "source": "Generated from 8. Endocrine.pdf - Pharmacology: Alpha-glucosidase inhibitors and amylin analogs"
+},
+{
+  "id": "endo-237",
+  "subject": "Endocrine",
+  "major_topic": "Pharmacology",
+  "subtopic": "Alpha-glucosidase inhibitors and amylin analogs",
+  "difficulty": "medium",
+  "vignette": "A 46-year-old woman with type 2 diabetes started on miglitol reports excessive flatulence and abdominal bloating after meals. She has also noticed loose stools.",
+  "question": "Which of the following best explains these gastrointestinal symptoms?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Lactic acidosis"
+    },
+    {
+      "id": "B",
+      "text": "Hypoglycemia"
+    },
+    {
+      "id": "C",
+      "text": "Acute pancreatitis"
+    },
+    {
+      "id": "D",
+      "text": "GI upset and bloating from alpha-glucosidase inhibition"
+    },
+    {
+      "id": "E",
+      "text": "Fluid retention and weight gain"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "alpha-Glucosidase inhibitors such as acarbose and miglitol delay carbohydrate digestion, so undigested carbohydrate reaches the colon where bacterial fermentation produces gas. This causes the common adverse effects of flatulence, bloating, abdominal discomfort, and diarrhea. These drugs are not recommended in renal insufficiency. Because they do not stimulate insulin secretion, they rarely cause hypoglycemia when used alone. The patient's symptoms are a direct extension of the drug's mechanism in the intestinal brush border, not lactic acidosis, pancreatitis, hypoglycemia, or fluid retention.",
+  "explanation_incorrect": {
+    "A": "Lactic acidosis is a metformin adverse effect in renal insufficiency or hypoperfusion.",
+    "B": "Hypoglycemia is unlikely with alpha-glucosidase inhibitors used alone, since they do not drive insulin secretion.",
+    "C": "Pancreatitis is associated with GLP-1 analogs, not alpha-glucosidase inhibitors.",
+    "E": "Fluid retention and weight gain are effects of pioglitazone, not alpha-glucosidase inhibitors."
+  },
+  "educationalObjective": "alpha-Glucosidase inhibitors commonly cause GI upset, flatulence, and bloating due to undigested carbohydrate fermentation.",
+  "source": "Generated from 8. Endocrine.pdf - Pharmacology: Alpha-glucosidase inhibitors and amylin analogs"
+},
+{
+  "id": "endo-238",
+  "subject": "Endocrine",
+  "major_topic": "Pharmacology",
+  "subtopic": "Alpha-glucosidase inhibitors and amylin analogs",
+  "difficulty": "hard",
+  "vignette": "A 29-year-old man with type 1 diabetes uses insulin and is having difficulty controlling postprandial glucose excursions. His endocrinologist adds pramlintide, an amylin analog, as an adjunct to his insulin regimen.",
+  "question": "Which of the following best describes the mechanism of pramlintide?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Inhibiting the DPP-4 enzyme"
+    },
+    {
+      "id": "B",
+      "text": "Blocking SGLT2 in the proximal tubule"
+    },
+    {
+      "id": "C",
+      "text": "Decreasing glucagon release and gastric emptying"
+    },
+    {
+      "id": "D",
+      "text": "Activating the PPAR-gamma nuclear receptor"
+    },
+    {
+      "id": "E",
+      "text": "Inhibiting mitochondrial glycerol-3-phosphate dehydrogenase"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Pramlintide is a synthetic analog of amylin, a hormone normally co-secreted with insulin by pancreatic beta cells. Amylin decreases glucagon release, slows gastric emptying, and increases satiety, which helps blunt postprandial glucose excursions. As an adjunct in diabetes it can improve postprandial control but carries risks of hypoglycemia, especially with insulin, and nausea. Its actions on glucagon and gastric emptying overlap with GLP-1 analogs, though pramlintide is an amylin analog rather than an incretin. This distinguishes it from DPP-4 inhibitors, SGLT2 inhibitors, PPAR-gamma activators, and metformin.",
+  "explanation_incorrect": {
+    "A": "Inhibiting DPP-4 is the mechanism of sitagliptin and other gliptins.",
+    "B": "Blocking SGLT2 in the proximal tubule is the mechanism of the gliflozin drugs.",
+    "D": "Activating PPAR-gamma is the mechanism of pioglitazone.",
+    "E": "Inhibiting mGPD is how metformin reduces hepatic gluconeogenesis."
+  },
+  "educationalObjective": "Pramlintide is an amylin analog that decreases glucagon release and gastric emptying, increasing satiety but risking hypoglycemia and nausea.",
+  "source": "Generated from 8. Endocrine.pdf - Pharmacology: Alpha-glucosidase inhibitors and amylin analogs"
+}
+]

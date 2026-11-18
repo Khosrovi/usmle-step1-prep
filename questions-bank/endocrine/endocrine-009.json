@@ -1,0 +1,207 @@
+[
+{
+  "id": "endo-207",
+  "subject": "Endocrine",
+  "major_topic": "Pathology",
+  "subtopic": "Carcinoid tumors",
+  "difficulty": "medium",
+  "vignette": "A 54-year-old man has a small intestinal neuroendocrine tumor confined to the bowel wall and has no flushing or diarrhea. Imaging months later reveals hepatic metastases, after which he develops episodic facial flushing, watery diarrhea, and wheezing. Urinary 5-HIAA is now elevated.",
+  "question": "Which of the following best explains why these symptoms appeared only after the tumor metastasized to the liver?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Metastatic cells switch from secreting 5-HT to secreting gastrin"
+    },
+    {
+      "id": "B",
+      "text": "Hepatic first-pass metabolism and pulmonary MAO previously degraded tumor-derived 5-HT before it reached the systemic circulation"
+    },
+    {
+      "id": "C",
+      "text": "Liver metastases cause bile duct obstruction leading to pruritus and flushing"
+    },
+    {
+      "id": "D",
+      "text": "The tumor begins producing insulin once it reaches the liver"
+    },
+    {
+      "id": "E",
+      "text": "Metastases deplete platelet serotonin stores, causing vasodilation"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Carcinoid tumors arise from neuroendocrine cells and secrete 5-HT, which normally undergoes hepatic first-pass metabolism and enzymatic breakdown by MAO in the lung. When the tumor is confined to the gut, this 5-HT is cleared before entering the systemic circulation, so carcinoid syndrome is absent. Hepatic metastasis allows 5-HT to bypass first-pass metabolism and reach the systemic circulation, producing episodic flushing, diarrhea, and wheezing with elevated urinary 5-HIAA. This is why carcinoid syndrome usually signifies metastatic disease.",
+  "explanation_incorrect": {
+    "A": "The tumor continues to secrete 5-HT; a switch to gastrin would cause Zollinger-Ellison syndrome with recurrent ulcers, not flushing and wheezing.",
+    "C": "Bile duct obstruction would cause jaundice and pruritus, not the episodic flushing, diarrhea, and wheezing of carcinoid syndrome.",
+    "D": "Insulin production would cause fasting hypoglycemia with Whipple triad, not the vasoactive symptoms of carcinoid syndrome.",
+    "E": "Carcinoid syndrome results from excess circulating 5-HT reaching the systemic circulation, not from depletion of platelet serotonin."
+  },
+  "educationalObjective": "Carcinoid syndrome appears with liver metastases because tumor 5-HT normally undergoes hepatic first-pass metabolism and pulmonary MAO breakdown before reaching the systemic circulation.",
+  "source": "Generated from 8. Endocrine.pdf - Pathology: Carcinoid tumors"
+},
+{
+  "id": "endo-208",
+  "subject": "Endocrine",
+  "major_topic": "Pathology",
+  "subtopic": "Carcinoid tumors",
+  "difficulty": "easy",
+  "vignette": "A 60-year-old woman with a known intestinal neuroendocrine tumor and liver metastases has episodic flushing, diarrhea, and wheezing. Echocardiography shows thickening and regurgitation of a right-sided cardiac valve. Urinary 5-HIAA is elevated.",
+  "question": "Which of the following valvular abnormalities is most characteristic of carcinoid syndrome?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Mitral regurgitation"
+    },
+    {
+      "id": "B",
+      "text": "Aortic stenosis"
+    },
+    {
+      "id": "C",
+      "text": "Tricuspid regurgitation"
+    },
+    {
+      "id": "D",
+      "text": "Mitral stenosis"
+    },
+    {
+      "id": "E",
+      "text": "Aortic regurgitation"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Carcinoid syndrome causes right-sided valvular heart disease, classically tricuspid regurgitation and pulmonic stenosis. Circulating 5-HT and other vasoactive mediators from hepatic metastases reach the right heart first and promote fibrotic plaque formation on right-sided valves; left-sided valves are relatively protected because the mediators are metabolized during passage through the lung. Episodic flushing, diarrhea, wheezing, and elevated urinary 5-HIAA complete the picture.",
+  "explanation_incorrect": {
+    "A": "Mitral regurgitation is a left-sided lesion, and left-sided valves are relatively spared in carcinoid syndrome because vasoactive mediators are cleared in the pulmonary circulation.",
+    "B": "Aortic stenosis is a left-sided lesion and is not a feature of carcinoid syndrome.",
+    "D": "Mitral stenosis is a left-sided lesion, most often rheumatic in origin, and is unrelated to 5-HT exposure.",
+    "E": "Aortic regurgitation is a left-sided lesion, not part of the right-sided valve disease characteristic of carcinoid syndrome."
+  },
+  "educationalObjective": "Carcinoid syndrome causes right-sided valvular disease (tricuspid regurgitation, pulmonic stenosis) because circulating 5-HT affects the right heart before pulmonary clearance.",
+  "source": "Generated from 8. Endocrine.pdf - Pathology: Carcinoid tumors"
+},
+{
+  "id": "endo-209",
+  "subject": "Endocrine",
+  "major_topic": "Pathology",
+  "subtopic": "Carcinoid tumors",
+  "difficulty": "medium",
+  "vignette": "A 55-year-old man has episodic flushing, diarrhea, and wheezing. Imaging shows a hepatic metastasis from a presumed intestinal neuroendocrine tumor. His physician wants to confirm the diagnosis biochemically and also localize and stage the primary tumor.",
+  "question": "Which of the following is the diagnostic test used to confirm carcinoid syndrome?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Fasting plasma glucose and C-peptide"
+    },
+    {
+      "id": "B",
+      "text": "Secretin stimulation test with gastrin measurement"
+    },
+    {
+      "id": "C",
+      "text": "Octreotide scintigraphy"
+    },
+    {
+      "id": "D",
+      "text": "Measurement of 24-hour urinary 5-HIAA excretion"
+    },
+    {
+      "id": "E",
+      "text": "Serum glucagon concentration"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "The diagnosis of carcinoid syndrome is confirmed by measuring increased 24-hour urinary excretion of 5-HIAA, the principal metabolite of serotonin (5-HT). Octreotide scintigraphy is valuable for tumor localization and staging once the syndrome is suspected or confirmed, but biochemical confirmation rests on urinary 5-HIAA. Elevated 24-hour urinary 5-HIAA in a patient with flushing, diarrhea, wheezing, and hepatic metastases establishes the diagnosis.",
+  "explanation_incorrect": {
+    "A": "Fasting glucose and C-peptide evaluate hypoglycemia and insulinoma, not serotonin excess.",
+    "B": "The secretin stimulation test with gastrin measurement is used for Zollinger-Ellison syndrome, in which gastrin paradoxically rises after secretin.",
+    "C": "Octreotide scintigraphy localizes and stages the tumor but is not the biochemical test that confirms carcinoid syndrome.",
+    "E": "Serum glucagon would be elevated in glucagonoma, which causes hyperglycemia and the 6 D's, not this syndrome."
+  },
+  "educationalObjective": "Carcinoid syndrome is confirmed by elevated 24-hour urinary 5-HIAA; octreotide scintigraphy is used for tumor localization and staging.",
+  "source": "Generated from 8. Endocrine.pdf - Pathology: Carcinoid tumors"
+},
+{
+  "id": "endo-210",
+  "subject": "Endocrine",
+  "major_topic": "Pathology",
+  "subtopic": "Carcinoid tumors",
+  "difficulty": "hard",
+  "vignette": "A 63-year-old woman with carcinoid syndrome and liver metastases develops a rough, hyperkeratotic skin rash, worsening diarrhea, and confusion. she is found to have niacin deficiency. Her tumor produces large amounts of 5-HT.",
+  "question": "Which of the following best explains the development of niacin deficiency in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The tumor consumes niacin directly as a growth factor"
+    },
+    {
+      "id": "B",
+      "text": "Liver metastasis impairs niacin storage within hepatocytes"
+    },
+    {
+      "id": "C",
+      "text": "Excess 5-HT is degraded through a niacin salvage pathway that consumes niacin"
+    },
+    {
+      "id": "D",
+      "text": "Chronic diarrhea causes selective loss of niacin in the stool"
+    },
+    {
+      "id": "E",
+      "text": "Excess 5-HT production depletes tryptophan stores, the precursor needed to synthesize niacin"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Excess 5-HT production in carcinoid syndrome consumes tryptophan, the amino acid precursor used to synthesize niacin (vitamin B3). The large serotonin flux diverts tryptophan away from niacin synthesis, leading to pellagra - dermatitis, diarrhea, and dementia (and death if untreated). This is a classic consequence of the increased 5-HT production in carcinoid tumors and explains the niacin-deficiency manifestations in this patient.",
+  "explanation_incorrect": {
+    "A": "The tumor does not consume niacin as a growth factor; the deficiency arises from depletion of the precursor tryptophan.",
+    "B": "Hepatic metastasis does not specifically impair niacin storage; the mechanism is diversion of tryptophan into 5-HT synthesis.",
+    "C": "5-HT is degraded by MAO to 5-HIAA, not through a niacin salvage pathway; the problem is precursor (tryptophan) depletion, not direct niacin breakdown.",
+    "D": "Although diarrhea is a feature of pellagra, the niacin deficiency in carcinoid syndrome stems from tryptophan depletion rather than stool loss of niacin."
+  },
+  "educationalObjective": "Excess 5-HT in carcinoid syndrome depletes tryptophan, reducing niacin synthesis and causing pellagra (dermatitis, diarrhea, dementia).",
+  "source": "Generated from 8. Endocrine.pdf - Pathology: Carcinoid tumors"
+},
+{
+  "id": "endo-211",
+  "subject": "Endocrine",
+  "major_topic": "Pathology",
+  "subtopic": "Carcinoid tumors",
+  "difficulty": "easy",
+  "vignette": "A 58-year-old man is diagnosed with a carcinoid tumor. His oncologist discusses the tumor's well-known rule of thirds when counseling him about prognosis and the likelihood of additional tumors.",
+  "question": "Which of the following best states the rule of thirds for carcinoid tumors?",
+  "options": [
+    {
+      "id": "A",
+      "text": "About one-third metastasize, one-third present with a second malignancy, and one-third are multiple"
+    },
+    {
+      "id": "B",
+      "text": "One-third occur in the lung, one-third in the intestine, and one-third in the pancreas"
+    },
+    {
+      "id": "C",
+      "text": "One-third secrete serotonin, one-third secrete gastrin, and one-third secrete insulin"
+    },
+    {
+      "id": "D",
+      "text": "One-third are benign, one-third are locally invasive, and one-third are metastatic at diagnosis"
+    },
+    {
+      "id": "E",
+      "text": "One-third are associated with MEN1, one-third with MEN2, and one-third are sporadic"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "The rule of thirds for carcinoid tumors states that approximately one-third metastasize, one-third present with a second malignancy, and one-third are multiple. This reflects the multicentric nature of these neuroendocrine tumors and their association with other cancers. It is a classic, frequently tested fact about carcinoid tumor behavior.",
+  "explanation_incorrect": {
+    "B": "Although carcinoid tumors most often arise in the intestine or lung, the rule of thirds does not describe their anatomic distribution.",
+    "C": "Carcinoid tumors are defined by 5-HT secretion; the rule of thirds does not divide them by hormone product.",
+    "D": "This is a generic benign/borderline/malignant split, not the classic rule of thirds for carcinoid tumors.",
+    "E": "MEN1 and MEN2 associations are not the basis of the rule of thirds for carcinoid tumors."
+  },
+  "educationalObjective": "The rule of thirds for carcinoid tumors: one-third metastasize, one-third have a second malignancy, and one-third are multiple.",
+  "source": "Generated from 8. Endocrine.pdf - Pathology: Carcinoid tumors"
+}
+]

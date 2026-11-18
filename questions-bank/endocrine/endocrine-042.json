@@ -1,0 +1,166 @@
+[
+{
+  "id": "endo-232",
+  "subject": "Endocrine",
+  "major_topic": "Pharmacology",
+  "subtopic": "SGLT2 inhibitors",
+  "difficulty": "medium",
+  "vignette": "A 55-year-old man with type 2 diabetes and hypertension is started on empagliflozin. He notices increased urine output and learns the drug lowers glucose through a kidney-based mechanism that is independent of insulin.",
+  "question": "Which of the following best describes the mechanism of SGLT2 inhibitors such as canagliflozin, dapagliflozin, and empagliflozin?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Increasing glucose-dependent insulin release from beta cells"
+    },
+    {
+      "id": "B",
+      "text": "Activating the PPAR-gamma nuclear receptor"
+    },
+    {
+      "id": "C",
+      "text": "Inhibiting intestinal brush-border alpha-glucosidases"
+    },
+    {
+      "id": "D",
+      "text": "Blocking glucose reabsorption in the proximal convoluted tubule, causing glucosuria"
+    },
+    {
+      "id": "E",
+      "text": "Inhibiting the DPP-4 enzyme"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "SGLT2 inhibitors block the sodium-glucose cotransporter 2 in the proximal convoluted tubule, preventing glucose reabsorption and causing glucosuria. They also produce natriuresis and osmotic diuresis, which lower blood glucose, serum sodium, extracellular fluid volume, and blood pressure. Because their action is independent of insulin, they are effective regardless of beta-cell function and carry a low hypoglycemia risk when used alone. The glucosuria also predisposes to urinary tract infections and vulvovaginal candidiasis. Weight loss and dehydration with orthostatic hypotension are additional effects, and their efficacy declines as GFR falls.",
+  "explanation_incorrect": {
+    "A": "Increasing glucose-dependent insulin release is the mechanism of GLP-1 analogs and DPP-4 inhibitors.",
+    "B": "Activating PPAR-gamma is the mechanism of pioglitazone.",
+    "C": "Inhibiting brush-border alpha-glucosidases is how acarbose and miglitol work.",
+    "E": "Inhibiting DPP-4 is the mechanism of the gliptins, not SGLT2 inhibitors."
+  },
+  "educationalObjective": "SGLT2 inhibitors block proximal-tubule glucose reabsorption, causing glucosuria, natriuresis, and osmotic diuresis.",
+  "source": "Generated from 8. Endocrine.pdf - Pharmacology: SGLT2 inhibitors"
+},
+{
+  "id": "endo-233",
+  "subject": "Endocrine",
+  "major_topic": "Pharmacology",
+  "subtopic": "SGLT2 inhibitors",
+  "difficulty": "easy",
+  "vignette": "A 38-year-old woman with type 2 diabetes started on dapagliflozin two months ago presents with vaginal pruritus, irritation, and a thick white discharge. A wet mount shows budding yeast with pseudohyphae.",
+  "question": "Which adverse effect of her medication most directly explains this infection?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Vulvovaginal candidiasis from glucosuria"
+    },
+    {
+      "id": "B",
+      "text": "Lactic acidosis"
+    },
+    {
+      "id": "C",
+      "text": "Hypoglycemia"
+    },
+    {
+      "id": "D",
+      "text": "Acute pancreatitis"
+    },
+    {
+      "id": "E",
+      "text": "Disulfiram-like reaction"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "SGLT2 inhibitors cause glucosuria by blocking glucose reabsorption in the proximal tubule. The glucose-rich urine creates a favorable environment for fungal and bacterial growth, predisposing to urinary tract infections and vulvovaginal candidiasis, as in this patient. Other effects include natriuresis, osmotic diuresis, dehydration with orthostatic hypotension, and weight loss. These drugs are used with caution in renal insufficiency because their efficacy falls as GFR declines. Lactic acidosis, hypoglycemia, pancreatitis, and disulfiram-like reactions are not features of SGLT2 inhibitors.",
+  "explanation_incorrect": {
+    "B": "Lactic acidosis is a metformin toxicity in renal insufficiency, cirrhosis, sepsis, or hypoperfusion.",
+    "C": "SGLT2 inhibitors rarely cause hypoglycemia because their glucose-lowering effect is insulin-independent.",
+    "D": "Pancreatitis is associated with GLP-1 analogs, not SGLT2 inhibitors.",
+    "E": "A disulfiram-like reaction is a feature of first-generation sulfonylureas with alcohol."
+  },
+  "educationalObjective": "SGLT2 inhibitor-induced glucosuria predisposes to UTIs and vulvovaginal candidiasis.",
+  "source": "Generated from 8. Endocrine.pdf - Pharmacology: SGLT2 inhibitors"
+},
+{
+  "id": "endo-234",
+  "subject": "Endocrine",
+  "major_topic": "Pharmacology",
+  "subtopic": "SGLT2 inhibitors",
+  "difficulty": "hard",
+  "vignette": "A 62-year-old man with type 2 diabetes and well-controlled blood pressure starts canagliflozin. At follow-up he has lost 3 kg, reports increased urination, and has a blood pressure lower than before with mild dizziness on standing. His serum sodium is slightly reduced.",
+  "question": "Which mechanism best explains these cardiovascular and volume effects?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Direct arterial vasodilation"
+    },
+    {
+      "id": "B",
+      "text": "Aldosterone receptor antagonism"
+    },
+    {
+      "id": "C",
+      "text": "Natriuresis and osmotic diuresis from glucosuria, decreasing ECF volume and blood pressure"
+    },
+    {
+      "id": "D",
+      "text": "Beta-adrenergic blockade"
+    },
+    {
+      "id": "E",
+      "text": "Angiotensin-converting enzyme inhibition"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "In addition to blocking glucose reabsorption, SGLT2 inhibitors cause natriuresis and osmotic diuresis. The loss of glucose and sodium in urine reduces extracellular fluid volume and lowers serum sodium and blood pressure, explaining this patient's weight loss, polyuria, orthostatic dizziness, and modest blood-pressure reduction. Dehydration and orthostatic hypotension are recognized adverse effects. These hemodynamic effects are a direct consequence of the drug's action in the proximal tubule, not of vasodilation, aldosterone blockade, beta-blockade, or ACE inhibition.",
+  "explanation_incorrect": {
+    "A": "The blood-pressure lowering is from volume depletion via osmotic diuresis, not direct vasodilation.",
+    "B": "SGLT2 inhibitors do not antagonize aldosterone receptors; that is the mechanism of spironolactone.",
+    "D": "Beta-blockade lowers blood pressure by reducing heart rate and contractility, which is not how SGLT2 inhibitors act.",
+    "E": "ACE inhibition reduces angiotensin II and aldosterone; it is not the mechanism of the gliflozins."
+  },
+  "educationalObjective": "SGLT2 inhibitors lower blood pressure and ECF volume through natriuresis and osmotic diuresis, which can cause dehydration and orthostatic hypotension.",
+  "source": "Generated from 8. Endocrine.pdf - Pharmacology: SGLT2 inhibitors"
+},
+{
+  "id": "endo-235",
+  "subject": "Endocrine",
+  "major_topic": "Pharmacology",
+  "subtopic": "SGLT2 inhibitors",
+  "difficulty": "easy",
+  "vignette": "A 70-year-old woman with type 2 diabetes and stage 4 chronic kidney disease (eGFR 25 mL/min) is being considered for an SGLT2 inhibitor. Her physician explains that the drug may be less effective in her case.",
+  "question": "Why is the glucose-lowering efficacy of SGLT2 inhibitors reduced in renal insufficiency?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Because it markedly increases hypoglycemia risk"
+    },
+    {
+      "id": "B",
+      "text": "Because it causes lactic acidosis"
+    },
+    {
+      "id": "C",
+      "text": "Because it is contraindicated in heart failure"
+    },
+    {
+      "id": "D",
+      "text": "Because it causes severe hyperkalemia"
+    },
+    {
+      "id": "E",
+      "text": "Because less glucose is filtered and reabsorbed as GFR declines, so less glucose is excreted"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "SGLT2 inhibitors lower glucose by blocking reabsorption of filtered glucose in the proximal tubule. Their effect depends on the amount of glucose delivered to the tubule, which falls as GFR declines. Therefore, in renal insufficiency there is less glucose filtered and less glucosuria, so the glucose-lowering efficacy is reduced. They must be used with caution in patients with impaired renal function. They do not typically cause hypoglycemia, lactic acidosis, or hyperkalemia, and they are not contraindicated in heart failure.",
+  "explanation_incorrect": {
+    "A": "Hypoglycemia is uncommon with SGLT2 inhibitors because their action is insulin-independent.",
+    "B": "Lactic acidosis is associated with metformin, not SGLT2 inhibitors.",
+    "C": "SGLT2 inhibitors are not contraindicated in heart failure; they are generally considered safe and may be beneficial there.",
+    "D": "Severe hyperkalemia is not a characteristic effect of SGLT2 inhibitors."
+  },
+  "educationalObjective": "SGLT2 inhibitor efficacy declines with declining GFR because less glucose is filtered and available for excretion.",
+  "source": "Generated from 8. Endocrine.pdf - Pharmacology: SGLT2 inhibitors"
+}
+]

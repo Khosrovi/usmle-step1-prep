@@ -1,0 +1,166 @@
+[
+{
+  "id": "endo-224",
+  "subject": "Endocrine",
+  "major_topic": "Pharmacology",
+  "subtopic": "Insulin sensitizers",
+  "difficulty": "medium",
+  "vignette": "A 50-year-old woman with newly diagnosed type 2 diabetes is started on metformin, the recommended first-line oral agent. She asks her physician how it works, since it does not directly stimulate insulin release.",
+  "question": "Metformin lowers blood glucose primarily by which of the following mechanisms?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Closing ATP-sensitive K+ channels in pancreatic beta cells"
+    },
+    {
+      "id": "B",
+      "text": "Activating the PPAR-gamma nuclear receptor"
+    },
+    {
+      "id": "C",
+      "text": "Inhibiting mitochondrial glycerol-3-phosphate dehydrogenase, decreasing hepatic gluconeogenesis"
+    },
+    {
+      "id": "D",
+      "text": "Inhibiting intestinal brush-border alpha-glucosidases"
+    },
+    {
+      "id": "E",
+      "text": "Inhibiting the DPP-4 enzyme"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Metformin inhibits mitochondrial glycerol-3-phosphate dehydrogenase (mGPD), which suppresses hepatic gluconeogenesis and blunts the action of glucagon. It also increases glycolysis and peripheral glucose uptake, thereby improving insulin sensitivity. Because it does not stimulate insulin secretion, metformin rarely causes hypoglycemia and is weight-neutral or promotes modest weight loss. This distinguishes it from sulfonylureas (K+ channel closure), pioglitazone (PPAR-gamma), alpha-glucosidase inhibitors, and DPP-4 inhibitors. Its inhibition of hepatic glucose production is the central mechanism.",
+  "explanation_incorrect": {
+    "A": "Closing beta-cell K+ channels is the mechanism of sulfonylureas and is not how metformin acts.",
+    "B": "Activating PPAR-gamma is the mechanism of pioglitazone, a thiazolidinedione, not metformin.",
+    "D": "Inhibiting alpha-glucosidases is how acarbose and miglitol reduce postprandial glucose, not metformin.",
+    "E": "Inhibiting DPP-4 is the mechanism of the gliptins, not metformin."
+  },
+  "educationalObjective": "Metformin inhibits hepatic gluconeogenesis via mGPD inhibition and improves peripheral insulin sensitivity.",
+  "source": "Generated from 8. Endocrine.pdf - Pharmacology: Insulin sensitizers"
+},
+{
+  "id": "endo-225",
+  "subject": "Endocrine",
+  "major_topic": "Pharmacology",
+  "subtopic": "Insulin sensitizers",
+  "difficulty": "easy",
+  "vignette": "A 47-year-old overweight man with type 2 diabetes is begun on the guideline-recommended first-line oral medication. At follow-up he reports abdominal discomfort and diarrhea, and his physician warns about a long-term association with vitamin B12 deficiency.",
+  "question": "Which adverse-effect profile is most characteristic of the drug he is taking?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Hypoglycemia and weight gain"
+    },
+    {
+      "id": "B",
+      "text": "Edema, heart failure, and increased fracture risk"
+    },
+    {
+      "id": "C",
+      "text": "Disulfiram-like reaction with alcohol"
+    },
+    {
+      "id": "D",
+      "text": "Nausea, vomiting, and pancreatitis"
+    },
+    {
+      "id": "E",
+      "text": "GI upset and vitamin B12 deficiency"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Metformin is the first-line oral agent for type 2 diabetes and is particularly useful because it promotes modest weight loss rather than weight gain. Its most common adverse effects are gastrointestinal, including nausea, abdominal discomfort, and diarrhea. Long-term use is associated with vitamin B12 deficiency. In patients with renal insufficiency, cirrhosis, sepsis, or hypoperfusion it can cause potentially fatal lactic acidosis. The GI upset and B12 deficiency described match metformin, whereas the other profiles belong to sulfonylureas, thiazolidinediones, GLP-1 analogs, and first-generation sulfonylureas.",
+  "explanation_incorrect": {
+    "A": "Hypoglycemia and weight gain are characteristic of sulfonylureas, not metformin.",
+    "B": "Edema, heart failure, and fractures are adverse effects of the thiazolidinedione pioglitazone.",
+    "C": "A disulfiram-like reaction is seen with first-generation sulfonylureas such as chlorpropamide.",
+    "D": "Nausea, vomiting, and pancreatitis are associated with GLP-1 analogs such as exenatide."
+  },
+  "educationalObjective": "Metformin causes GI upset and vitamin B12 deficiency, promotes weight loss, and can cause lactic acidosis in renal insufficiency.",
+  "source": "Generated from 8. Endocrine.pdf - Pharmacology: Insulin sensitizers"
+},
+{
+  "id": "endo-226",
+  "subject": "Endocrine",
+  "major_topic": "Pharmacology",
+  "subtopic": "Insulin sensitizers",
+  "difficulty": "medium",
+  "vignette": "A 59-year-old woman with type 2 diabetes and significant insulin resistance is started on pioglitazone. She is told the drug acts on a nuclear receptor and takes several weeks to reach its full effect.",
+  "question": "Through which mechanism does pioglitazone improve insulin sensitivity?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Inhibiting hepatic glycerol-3-phosphate dehydrogenase"
+    },
+    {
+      "id": "B",
+      "text": "Activating the PPAR-gamma nuclear receptor, increasing insulin sensitivity and adiponectin"
+    },
+    {
+      "id": "C",
+      "text": "Closing pancreatic beta-cell K+ channels"
+    },
+    {
+      "id": "D",
+      "text": "Inhibiting the DPP-4 enzyme"
+    },
+    {
+      "id": "E",
+      "text": "Blocking glucose reabsorption in the proximal tubule"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Pioglitazone is a thiazolidinedione that activates PPAR-gamma, a nuclear receptor that regulates glucose metabolism and fatty-acid storage. Activation increases insulin sensitivity and levels of adiponectin, an adipokine that enhances insulin action. Because it works through gene transcription, its glucose-lowering effect has a delayed onset of several weeks. This is distinct from metformin (mGPD inhibition), sulfonylureas (K+ channel closure), DPP-4 inhibitors, and SGLT2 inhibitors. Pioglitazone improves sensitivity without stimulating insulin secretion, so hypoglycemia is uncommon as monotherapy.",
+  "explanation_incorrect": {
+    "A": "Inhibiting mGPD is metformin's mechanism, not pioglitazone's.",
+    "C": "Closing beta-cell K+ channels is how sulfonylureas and meglitinides increase insulin secretion.",
+    "D": "Inhibiting DPP-4 is the mechanism of sitagliptin and other gliptins.",
+    "E": "Blocking proximal-tubule glucose reabsorption is the mechanism of SGLT2 inhibitors."
+  },
+  "educationalObjective": "Pioglitazone activates the nuclear receptor PPAR-gamma to increase insulin sensitivity and adiponectin, with a delayed onset of weeks.",
+  "source": "Generated from 8. Endocrine.pdf - Pharmacology: Insulin sensitizers"
+},
+{
+  "id": "endo-227",
+  "subject": "Endocrine",
+  "major_topic": "Pharmacology",
+  "subtopic": "Insulin sensitizers",
+  "difficulty": "hard",
+  "vignette": "A 61-year-old man with type 2 diabetes and a prior myocardial infarction cannot tolerate metformin because of severe GI upset. He is switched to pioglitazone. His physician counsels him about adverse effects that are characteristic of his new drug rather than the old one.",
+  "question": "Which of the following adverse effects is specifically associated with pioglitazone but NOT with metformin?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Lactic acidosis"
+    },
+    {
+      "id": "B",
+      "text": "GI upset"
+    },
+    {
+      "id": "C",
+      "text": "Vitamin B12 deficiency"
+    },
+    {
+      "id": "D",
+      "text": "Fluid retention, edema, and weight gain"
+    },
+    {
+      "id": "E",
+      "text": "Weight loss"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Pioglitazone causes weight gain, edema, and can precipitate or worsen heart failure; it also increases the risk of fractures with long-term use. These effects contrast sharply with metformin, which tends to cause GI upset and B12 deficiency, can cause lactic acidosis in susceptible patients, and promotes weight loss. Because this patient has a history of myocardial infarction, the fluid-retaining effects of pioglitazone are especially concerning. The onset of pioglitazone's action is also delayed for several weeks. Therefore fluid retention and weight gain are the effects specific to pioglitazone here.",
+  "explanation_incorrect": {
+    "A": "Lactic acidosis is a metformin toxicity (renal insufficiency, cirrhosis, sepsis, hypoperfusion), not a pioglitazone effect.",
+    "B": "GI upset is the hallmark adverse effect of metformin, not pioglitazone.",
+    "C": "Vitamin B12 deficiency is associated with metformin, not pioglitazone.",
+    "E": "Weight loss is typical of metformin; pioglitazone causes weight gain."
+  },
+  "educationalObjective": "Unlike metformin, pioglitazone causes weight gain, edema, heart failure, and increased fracture risk with delayed onset.",
+  "source": "Generated from 8. Endocrine.pdf - Pharmacology: Insulin sensitizers"
+}
+]

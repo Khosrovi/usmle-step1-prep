@@ -1,0 +1,125 @@
+[
+{
+  "id": "endo-244",
+  "subject": "Endocrine",
+  "major_topic": "Pharmacology",
+  "subtopic": "Thyroid hormone replacement and exogenous hyperthyroidism",
+  "difficulty": "easy",
+  "vignette": "A 34-year-old woman with Hashimoto thyroiditis has a TSH of 12 mIU/L and a low free T4. She is started on a daily oral hormone replacement that will need periodic dose adjustment based on her TSH.",
+  "question": "Which hormone does levothyroxine primarily replace?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Triiodothyronine (T3)"
+    },
+    {
+      "id": "B",
+      "text": "Thyroid-stimulating hormone (TSH)"
+    },
+    {
+      "id": "C",
+      "text": "Thyroxine (T4)"
+    },
+    {
+      "id": "D",
+      "text": "Parathyroid hormone"
+    },
+    {
+      "id": "E",
+      "text": "Cortisol"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Levothyroxine is a synthetic form of T4; a useful mnemonic is that 'levo' has four letters, matching T4. It is the standard replacement for hypothyroidism and myxedema and is converted peripherally to T3 as needed. Liothyronine is the synthetic T3 preparation, with 'lio' having three letters. TSH is a pituitary hormone that is already elevated in primary hypothyroidism, so it is not replaced.",
+  "explanation_incorrect": {
+    "A": "T3 replacement is liothyronine, not levothyroxine; levothyroxine is the T4 formulation.",
+    "B": "TSH is a pituitary hormone that is already elevated in primary hypothyroidism and is not given as replacement therapy.",
+    "D": "Parathyroid hormone regulates calcium and is replaced, when needed, in hypoparathyroidism rather than in hypothyroidism.",
+    "E": "Cortisol replacement with hydrocortisone is used in adrenal insufficiency, not in thyroid hormone deficiency."
+  },
+  "educationalObjective": "Levothyroxine replaces T4 (levo = 4 letters) while liothyronine replaces T3 (lio = 3 letters).",
+  "source": "Generated from 8. Endocrine.pdf - Pharmacology: Thyroid hormone replacement and exogenous hyperthyroidism"
+},
+{
+  "id": "endo-245",
+  "subject": "Endocrine",
+  "major_topic": "Pharmacology",
+  "subtopic": "Thyroid hormone replacement and exogenous hyperthyroidism",
+  "difficulty": "medium",
+  "vignette": "A 52-year-old man with hypothyroidism has been taking levothyroxine on an empty stomach, but his TSH remains elevated at 9 mIU/L. He also takes several other medications and asks whether any of them could be interfering with absorption.",
+  "question": "Which of the following comedications is most likely to decrease levothyroxine absorption?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Ferrous sulfate"
+    },
+    {
+      "id": "B",
+      "text": "Vitamin C"
+    },
+    {
+      "id": "C",
+      "text": "Acetaminophen"
+    },
+    {
+      "id": "D",
+      "text": "Loratadine"
+    },
+    {
+      "id": "E",
+      "text": "Metformin"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Levothyroxine absorption is reduced by antacids, bile acid resins, and ferrous sulfate, so these agents should be separated from levothyroxine dosing. Iron binds thyroid hormone in the gut, lowering bioavailability and causing persistently elevated TSH despite apparent adherence. The other listed medications do not significantly impair levothyroxine absorption. Counseling about administration timing is a common cause of apparent resistance to therapy.",
+  "explanation_incorrect": {
+    "B": "Vitamin C does not meaningfully reduce levothyroxine absorption at typical doses.",
+    "C": "Acetaminophen has no clinically important effect on levothyroxine absorption.",
+    "D": "Loratadine does not interfere with gastrointestinal absorption of thyroid hormone.",
+    "E": "Metformin has no significant effect on levothyroxine absorption."
+  },
+  "educationalObjective": "Avoid coadministering levothyroxine with antacids, bile acid resins, or ferrous sulfate because they reduce its absorption.",
+  "source": "Generated from 8. Endocrine.pdf - Pharmacology: Thyroid hormone replacement and exogenous hyperthyroidism"
+},
+{
+  "id": "endo-246",
+  "subject": "Endocrine",
+  "major_topic": "Pharmacology",
+  "subtopic": "Thyroid hormone replacement and exogenous hyperthyroidism",
+  "difficulty": "hard",
+  "vignette": "A 38-year-old woman has a suppressed TSH and elevated free T4. She admits to taking levothyroxine purchased online for weight loss. Her physician wants objective studies to distinguish exogenous thyroid hormone use from endogenous hyperthyroidism such as Graves disease.",
+  "question": "Which combination of findings would most strongly support exogenous rather than endogenous hyperthyroidism?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Positive TSH receptor antibodies with increased radioactive iodine uptake"
+    },
+    {
+      "id": "B",
+      "text": "Negative TSH receptor antibodies with increased radioactive iodine uptake"
+    },
+    {
+      "id": "C",
+      "text": "Positive TSH receptor antibodies with decreased thyroid blood flow on ultrasound"
+    },
+    {
+      "id": "D",
+      "text": "Increased radioactive iodine uptake with increased thyroid blood flow on ultrasound"
+    },
+    {
+      "id": "E",
+      "text": "Negative TSH receptor antibodies with low radioactive iodine uptake and decreased thyroid blood flow on ultrasound"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Exogenous thyroid hormone suppresses TSH and supplies hormone from outside the thyroid, so the gland is quiescent: radioactive iodine uptake is low, thyroid blood flow is reduced, and TSH receptor antibodies are absent. Graves disease, the classic endogenous cause, shows the opposite pattern with thyroid-stimulating immunoglobulins, high uptake, and increased vascularity. A pattern of negative antibodies with high uptake would instead suggest another endogenous cause such as a toxic nodule. Therefore, the combination of absent antibodies, low uptake, and reduced flow best supports factitious or exogenous hyperthyroidism.",
+  "explanation_incorrect": {
+    "A": "Positive TSH receptor antibodies with high radioactive iodine uptake is the classic pattern of Graves disease, an endogenous cause.",
+    "B": "High radioactive iodine uptake implies the thyroid gland is actively producing hormone, which argues against exogenous hormone use.",
+    "C": "Positive TSH receptor antibodies indicate an autoimmune endogenous drive even if blood flow is reduced; this does not fit exogenous intake.",
+    "D": "Both high uptake and increased blood flow point to an overactive thyroid gland rather than to externally supplied hormone."
+  },
+  "educationalObjective": "Distinguish exogenous from endogenous hyperthyroidism using TSH receptor antibodies, radioactive iodine uptake, and thyroid blood flow on ultrasound.",
+  "source": "Generated from 8. Endocrine.pdf - Pharmacology: Thyroid hormone replacement and exogenous hyperthyroidism"
+}
+]

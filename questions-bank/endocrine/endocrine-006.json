@@ -1,0 +1,207 @@
+[
+{
+  "id": "endo-029",
+  "subject": "Endocrine",
+  "major_topic": "Physiology",
+  "subtopic": "Antidiuretic hormone",
+  "difficulty": "easy",
+  "vignette": "A medical student is tracing the pathway by which ADH is produced, transported, and released.",
+  "question": "Where is ADH synthesized?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Anterior pituitary"
+    },
+    {
+      "id": "B",
+      "text": "Posterior pituitary"
+    },
+    {
+      "id": "C",
+      "text": "Supraoptic and paraventricular nuclei of the hypothalamus"
+    },
+    {
+      "id": "D",
+      "text": "Adrenal medulla"
+    },
+    {
+      "id": "E",
+      "text": "Thyroid follicular cells"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "ADH (vasopressin) is synthesized in the hypothalamus, specifically in the supraoptic and paraventricular nuclei, then transported along axons and stored and released by the posterior pituitary. Because of this, hypothalamic or pituitary-stalk damage can cause central diabetes insipidus. The posterior pituitary itself does not synthesize ADH; it only stores and releases it.",
+  "explanation_incorrect": {
+    "A": "The anterior pituitary secretes FSH, LH, ACTH, TSH, prolactin, and GH but does not synthesize ADH.",
+    "B": "The posterior pituitary stores and releases ADH but does not make it; synthesis occurs in hypothalamic nuclei.",
+    "D": "The adrenal medulla secretes catecholamines, not ADH.",
+    "E": "Thyroid follicular cells produce T3 and T4, not ADH."
+  },
+  "educationalObjective": "ADH is made in hypothalamic supraoptic and paraventricular nuclei and stored/released by the posterior pituitary.",
+  "source": "Generated from 8. Endocrine.pdf - Physiology: Antidiuretic hormone"
+},
+{
+  "id": "endo-030",
+  "subject": "Endocrine",
+  "major_topic": "Physiology",
+  "subtopic": "Antidiuretic hormone",
+  "difficulty": "easy",
+  "vignette": "A healthy volunteer drinks a large volume of water. Plasma osmolality falls and ADH secretion is suppressed.",
+  "question": "Under normal conditions, ADH lowers serum osmolality primarily by which mechanism?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Increasing collecting duct water permeability via aquaporin insertion in principal cells"
+    },
+    {
+      "id": "B",
+      "text": "Increasing sodium reabsorption in the distal tubule"
+    },
+    {
+      "id": "C",
+      "text": "Increasing urea permeability in the proximal tubule"
+    },
+    {
+      "id": "D",
+      "text": "Reducing renal blood flow through V1 receptors"
+    },
+    {
+      "id": "E",
+      "text": "Stimulating aldosterone secretion"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "ADH acts on V2 receptors in the renal collecting duct to insert aquaporin channels into the membrane of principal cells, increasing water permeability and water reabsorption. This raises urine osmolality, lowers serum osmolality, and reduces urine volume. Plasma osmolality is the primary regulator of ADH release, with hypovolemia as a secondary stimulus; V1 receptors instead mediate blood pressure effects.",
+  "explanation_incorrect": {
+    "B": "ADH does not primarily increase sodium reabsorption; aldosterone is the main regulator of distal sodium reabsorption.",
+    "C": "Proximal tubular urea handling is not the mechanism of ADH; ADH acts on collecting duct water permeability.",
+    "D": "V1-mediated vasoconstriction affects blood pressure, not the osmolality-lowering effect of ADH.",
+    "E": "ADH does not stimulate aldosterone; the renin-angiotensin-aldosterone system is a separate pathway."
+  },
+  "educationalObjective": "Via V2 receptors, ADH inserts aquaporins in collecting duct principal cells to raise urine osmolality and lower serum osmolality.",
+  "source": "Generated from 8. Endocrine.pdf - Physiology: Antidiuretic hormone"
+},
+{
+  "id": "endo-031",
+  "subject": "Endocrine",
+  "major_topic": "Physiology",
+  "subtopic": "Antidiuretic hormone",
+  "difficulty": "medium",
+  "vignette": "A 24-year-old man has polyuria and polydipsia with urine osmolality 80 mOsm/kg and serum osmolality 300 mOsm/kg. After administration of desmopressin, his urine osmolality rises to 600 mOsm/kg.",
+  "question": "Which of the following is the most likely diagnosis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Nephrogenic diabetes insipidus"
+    },
+    {
+      "id": "B",
+      "text": "Primary polydipsia"
+    },
+    {
+      "id": "C",
+      "text": "Syndrome of inappropriate ADH secretion"
+    },
+    {
+      "id": "D",
+      "text": "Central diabetes insipidus"
+    },
+    {
+      "id": "E",
+      "text": "Diabetes mellitus"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Central diabetes insipidus results from deficient ADH, but the kidneys remain responsive, so desmopressin (an ADH analog) substantially raises urine osmolality. In nephrogenic DI, ADH is normal or increased yet the collecting duct cannot respond, so desmopressin produces little or no concentration of urine. The text states that ADH is decreased in central DI and normal or increased in nephrogenic DI, and that desmopressin treats central DI.",
+  "explanation_incorrect": {
+    "A": "In nephrogenic DI the collecting duct is unresponsive to ADH, so desmopressin would not concentrate the urine; ADH is normal or elevated.",
+    "B": "Primary polydipsia suppresses ADH and would be distinguished by urine concentration after water restriction rather than this desmopressin response.",
+    "C": "SIADH produces excessive ADH with concentrated urine and low serum osmolality, not dilute polyuria with high serum osmolality.",
+    "E": "Diabetes mellitus causes osmotic diuresis from hyperglycemia; desmopressin is not its treatment and glucose would be elevated."
+  },
+  "educationalObjective": "A rise in urine osmolality after desmopressin indicates central DI, where ADH is deficient but the kidneys can respond.",
+  "source": "Generated from 8. Endocrine.pdf - Physiology: Antidiuretic hormone"
+},
+{
+  "id": "endo-032",
+  "subject": "Endocrine",
+  "major_topic": "Physiology",
+  "subtopic": "Antidiuretic hormone",
+  "difficulty": "hard",
+  "vignette": "A 55-year-old man with septic shock remains hypotensive despite fluid resuscitation and norepinephrine. Vasopressin is added as a vasopressor to improve organ perfusion.",
+  "question": "ADH raises blood pressure in this setting primarily through which receptor?",
+  "options": [
+    {
+      "id": "A",
+      "text": "V2 receptors in the renal collecting duct"
+    },
+    {
+      "id": "B",
+      "text": "V1 receptors on vascular smooth muscle"
+    },
+    {
+      "id": "C",
+      "text": "Dopamine D2 receptors"
+    },
+    {
+      "id": "D",
+      "text": "Beta-2 adrenergic receptors"
+    },
+    {
+      "id": "E",
+      "text": "TRH receptors"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "ADH regulates blood pressure through V1 receptors and serum osmolality through V2 receptors. In septic shock, vasopressin acts as a potent vasopressor via V1-mediated vasoconstriction to increase organ perfusion. V2 receptors instead mediate aquaporin insertion and water reabsorption in the collecting duct. Plasma osmolality remains the primary regulator of ADH release, with hypovolemia secondarily stimulating it.",
+  "explanation_incorrect": {
+    "A": "V2 receptors in the collecting duct regulate water reabsorption and serum osmolality, not vasopressor effects on blood pressure.",
+    "C": "Dopamine D2 receptors are relevant to prolactin inhibition, not ADH-mediated vasoconstriction.",
+    "D": "Beta-2 adrenergic receptors mediate vasodilation and bronchodilation, not the pressor effect of vasopressin.",
+    "E": "TRH receptors mediate TSH and prolactin release and have no role in ADH's vascular effects."
+  },
+  "educationalObjective": "V1 receptors mediate ADH's vasopressor effect in septic shock, while V2 receptors mediate renal water reabsorption.",
+  "source": "Generated from 8. Endocrine.pdf - Physiology: Antidiuretic hormone"
+},
+{
+  "id": "endo-033",
+  "subject": "Endocrine",
+  "major_topic": "Physiology",
+  "subtopic": "Antidiuretic hormone",
+  "difficulty": "medium",
+  "vignette": "A 22-year-old man spends an evening drinking heavily at a party. The next morning he has polyuria, thirst, and dry mucous membranes.",
+  "question": "Which of the following best explains his polyuria and dehydration?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Alcohol stimulates ADH release, causing water retention"
+    },
+    {
+      "id": "B",
+      "text": "Alcohol directly damages the renal collecting duct"
+    },
+    {
+      "id": "C",
+      "text": "Alcohol increases aldosterone, causing sodium retention"
+    },
+    {
+      "id": "D",
+      "text": "Alcohol inhibits thirst, reducing fluid intake"
+    },
+    {
+      "id": "E",
+      "text": "Alcohol suppresses ADH secretion, leading to increased urine output"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Alcohol consumption decreases ADH secretion, producing polyuria and dehydration, the classic diuretic effect of a hangover. With less ADH, fewer aquaporin channels are inserted in the collecting duct, so water reabsorption falls and urine volume rises. This is direct suppression of ADH release rather than a primary renal defect. The text explicitly links alcohol consumption to decreased ADH and subsequent polyuria and dehydration.",
+  "explanation_incorrect": {
+    "A": "Alcohol decreases rather than increases ADH; increased ADH would cause water retention and concentrated urine.",
+    "B": "Alcohol's diuretic effect is due to suppressed ADH, not structural damage to the collecting duct.",
+    "C": "Alcohol does not cause polyuria by increasing aldosterone; aldosterone promotes sodium and water retention and would reduce urine output.",
+    "D": "Although alcohol can affect judgment, the polyuria and dehydration are explained by suppressed ADH, not by reduced thirst alone."
+  },
+  "educationalObjective": "Alcohol suppresses ADH secretion, reducing collecting duct water reabsorption and causing polyuria and dehydration.",
+  "source": "Generated from 8. Endocrine.pdf - Physiology: Antidiuretic hormone"
+}
+]

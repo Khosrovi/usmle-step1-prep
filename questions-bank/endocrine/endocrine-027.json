@@ -1,0 +1,289 @@
+[
+{
+  "id": "endo-017",
+  "subject": "Endocrine",
+  "major_topic": "Physiology",
+  "subtopic": "Hypothalamic-pituitary hormones",
+  "difficulty": "easy",
+  "vignette": "A 52-year-old woman with rheumatoid arthritis has been taking high-dose prednisone for 8 months. Her physician reviews the effects of chronic exogenous glucocorticoid therapy on the hypothalamic-pituitary axis.",
+  "question": "Secretion of which of the following hypothalamic hormones is most likely decreased in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "CRH"
+    },
+    {
+      "id": "B",
+      "text": "TRH"
+    },
+    {
+      "id": "C",
+      "text": "GnRH"
+    },
+    {
+      "id": "D",
+      "text": "GHRH"
+    },
+    {
+      "id": "E",
+      "text": "Somatostatin (GHIH)"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Chronic glucocorticoid administration exerts negative feedback on the hypothalamus, reducing CRH secretion. CRH normally stimulates the anterior pituitary to release ACTH, and the POMC-derived peptides MSH and beta-endorphin rise and fall along with ACTH. Suppression of CRH therefore lowers ACTH, MSH, and beta-endorphin and produces the expected shutdown of the stress axis. This feedback is why long-term steroid therapy can lead to adrenal atrophy.",
+  "explanation_incorrect": {
+    "B": "TRH is regulated by negative feedback from thyroid hormone, not glucocorticoids; it controls TSH and prolactin rather than the stress axis.",
+    "C": "GnRH governs FSH and LH release and is suppressed by hyperprolactinemia, not by chronic glucocorticoid therapy.",
+    "D": "GHRH drives pulsatile GH secretion and is not the primary target of glucocorticoid negative feedback.",
+    "E": "Somatostatin inhibits GH and TSH; its suppression is not the defining effect of chronic glucocorticoid use."
+  },
+  "educationalObjective": "Chronic glucocorticoid use suppresses CRH, thereby lowering ACTH and its POMC-derived co-products MSH and beta-endorphin.",
+  "source": "Generated from 8. Endocrine.pdf - Physiology: Hypothalamic-pituitary hormones"
+},
+{
+  "id": "endo-018",
+  "subject": "Endocrine",
+  "major_topic": "Physiology",
+  "subtopic": "Hypothalamic-pituitary hormones",
+  "difficulty": "hard",
+  "vignette": "A 64-year-old man with advanced prostate cancer is started on leuprolide, a GnRH analog administered continuously rather than in pulses. His clinician explains how this differs from physiologic GnRH signaling.",
+  "question": "Which of the following best describes the effect of continuous (tonic) GnRH analog therapy on the hypothalamic-pituitary-gonadal axis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It stimulates pulsatile LH and FSH release and induces puberty"
+    },
+    {
+      "id": "B",
+      "text": "It directly destroys gonadal steroid-producing cells"
+    },
+    {
+      "id": "C",
+      "text": "It raises prolactin, which secondarily suppresses gonadotropin release"
+    },
+    {
+      "id": "D",
+      "text": "It blocks androgen receptors at target tissues"
+    },
+    {
+      "id": "E",
+      "text": "It suppresses the axis by downregulating pituitary GnRH receptors, lowering LH and FSH"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Continuous exposure to a GnRH analog such as leuprolide downregulates pituitary GnRH receptors and suppresses LH and FSH secretion, producing a reversible medical castration useful in prostate cancer. The key contrast is that pulsatile GnRH stimulation leads to puberty and fertility, whereas a tonic GnRH analog suppresses the hypothalamic-pituitary-gonadal axis. The text states both points explicitly. Note that suppression by hyperprolactinemia is a separate mechanism and is not how GnRH analogs work.",
+  "explanation_incorrect": {
+    "A": "Pulsatile rather than continuous GnRH stimulates LH and FSH release and is the pattern that leads to puberty and fertility.",
+    "B": "Leuprolide acts at pituitary GnRH receptors; it is not directly cytotoxic to gonadal cells.",
+    "C": "Prolactin suppression of GnRH occurs with hyperprolactinemia (eg, prolactinoma); GnRH analogs do not raise prolactin.",
+    "D": "GnRH analogs act via pituitary GnRH receptors, not by blocking androgen receptors at target tissues."
+  },
+  "educationalObjective": "Continuous GnRH analog therapy suppresses LH and FSH by receptor downregulation, whereas pulsatile GnRH stimulates the gonadal axis.",
+  "source": "Generated from 8. Endocrine.pdf - Physiology: Hypothalamic-pituitary hormones"
+},
+{
+  "id": "endo-019",
+  "subject": "Endocrine",
+  "major_topic": "Physiology",
+  "subtopic": "Hypothalamic-pituitary hormones",
+  "difficulty": "easy",
+  "vignette": "A 38-year-old man with HIV-associated lipodystrophy is prescribed tesamorelin to reduce visceral adiposity.",
+  "question": "Tesamorelin is an analog of which hypothalamic hormone?",
+  "options": [
+    {
+      "id": "A",
+      "text": "CRH"
+    },
+    {
+      "id": "B",
+      "text": "TRH"
+    },
+    {
+      "id": "C",
+      "text": "GnRH"
+    },
+    {
+      "id": "D",
+      "text": "Somatostatin (GHIH)"
+    },
+    {
+      "id": "E",
+      "text": "GHRH"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Tesamorelin is a GHRH analog; GHRH normally stimulates GH release from the anterior pituitary. The text specifically notes that this analog is used to treat HIV-associated lipodystrophy. Enhancing GHRH-driven GH and IGF-1 activity helps reduce visceral fat accumulation in this population.",
+  "explanation_incorrect": {
+    "A": "CRH increases ACTH and the POMC-derived peptides MSH and beta-endorphin; no CRH analog is used for lipodystrophy.",
+    "B": "TRH increases TSH and prolactin and is not the hormone mimicked by tesamorelin.",
+    "C": "GnRH analogs such as leuprolide act on the gonadal axis and are not used to treat HIV lipodystrophy.",
+    "D": "Somatostatin inhibits GH and TSH, so a somatostatin analog would oppose rather than augment GH action."
+  },
+  "educationalObjective": "Tesamorelin is a GHRH analog used for HIV-associated lipodystrophy, reflecting GHRH's stimulation of GH.",
+  "source": "Generated from 8. Endocrine.pdf - Physiology: Hypothalamic-pituitary hormones"
+},
+{
+  "id": "endo-020",
+  "subject": "Endocrine",
+  "major_topic": "Physiology",
+  "subtopic": "Hypothalamic-pituitary hormones",
+  "difficulty": "medium",
+  "vignette": "A 29-year-old woman with acromegaly is being evaluated for the hypothalamic signals that normally regulate her GH secretion.",
+  "question": "Which hypothalamic hormone inhibits the secretion of both GH and TSH?",
+  "options": [
+    {
+      "id": "A",
+      "text": "GHRH"
+    },
+    {
+      "id": "B",
+      "text": "Somatostatin (GHIH)"
+    },
+    {
+      "id": "C",
+      "text": "CRH"
+    },
+    {
+      "id": "D",
+      "text": "TRH"
+    },
+    {
+      "id": "E",
+      "text": "GnRH"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Somatostatin, also called growth hormone-inhibiting hormone (GHIH), decreases secretion of both GH and TSH. It is one of the signals that lower GH, together with aging, obesity, hyperglycemia, and somatomedin (IGF-1) feedback. Somatostatin analogs such as octreotide are therefore useful in treating acromegaly.",
+  "explanation_incorrect": {
+    "A": "GHRH stimulates pulsatile GH release, the opposite of somatostatin's inhibitory action.",
+    "C": "CRH increases ACTH, MSH, and beta-endorphin; it does not inhibit GH or TSH.",
+    "D": "TRH stimulates TSH and prolactin rather than inhibiting them.",
+    "E": "GnRH increases FSH and LH and has no direct inhibitory effect on GH or TSH."
+  },
+  "educationalObjective": "Somatostatin (GHIH) inhibits both GH and TSH and is the basis for octreotide therapy in acromegaly.",
+  "source": "Generated from 8. Endocrine.pdf - Physiology: Hypothalamic-pituitary hormones"
+},
+{
+  "id": "endo-021",
+  "subject": "Endocrine",
+  "major_topic": "Physiology",
+  "subtopic": "Hypothalamic-pituitary hormones",
+  "difficulty": "hard",
+  "vignette": "A 41-year-old woman has fatigue, weight gain, and cold intolerance. Laboratory testing shows a low free T4 with an elevated TSH. She also notices milky nipple discharge.",
+  "question": "Which hypothalamic hormone is most likely increased and accounts for her galactorrhea?",
+  "options": [
+    {
+      "id": "A",
+      "text": "CRH"
+    },
+    {
+      "id": "B",
+      "text": "GHRH"
+    },
+    {
+      "id": "C",
+      "text": "Somatostatin (GHIH)"
+    },
+    {
+      "id": "D",
+      "text": "TRH"
+    },
+    {
+      "id": "E",
+      "text": "GnRH"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "In primary hypothyroidism, reduced thyroid hormone removes negative feedback so TRH rises. TRH stimulates not only TSH but also prolactin secretion; the text notes that increased TRH, as in 1-degree or 2-degree hypothyroidism, may increase prolactin secretion and lead to galactorrhea. Although dopamine's tonic inhibition of prolactin is normally dominant, the elevated TRH can still raise prolactin enough to cause discharge. This links hypothyroidism to a prolactin-mediated manifestation.",
+  "explanation_incorrect": {
+    "A": "CRH controls ACTH and is suppressed by glucocorticoids; it does not stimulate prolactin.",
+    "B": "GHRH stimulates GH release and is not linked to milk production or galactorrhea.",
+    "C": "Somatostatin inhibits GH and TSH and would not increase prolactin.",
+    "E": "GnRH stimulates FSH and LH; increased GnRH would not produce galactorrhea."
+  },
+  "educationalObjective": "Elevated TRH in hypothyroidism can raise prolactin and cause galactorrhea because TRH stimulates both TSH and prolactin.",
+  "source": "Generated from 8. Endocrine.pdf - Physiology: Hypothalamic-pituitary hormones"
+},
+{
+  "id": "endo-022",
+  "subject": "Endocrine",
+  "major_topic": "Physiology",
+  "subtopic": "Hypothalamic-pituitary hormones",
+  "difficulty": "hard",
+  "vignette": "A 35-year-old woman with Cushing disease has hyperpigmentation of the skin and oral mucosa in addition to cushingoid features.",
+  "question": "Hyperpigmentation in this patient is best explained by co-secretion of which hormone that shares a precursor molecule with ACTH?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Oxytocin"
+    },
+    {
+      "id": "B",
+      "text": "ADH"
+    },
+    {
+      "id": "C",
+      "text": "MSH"
+    },
+    {
+      "id": "D",
+      "text": "Prolactin"
+    },
+    {
+      "id": "E",
+      "text": "TSH"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "MSH (melanotropin) increases melanogenesis by melanocytes and produces hyperpigmentation. MSH and ACTH are both derived from the same precursor molecule, proopiomelanocortin (POMC), so ACTH-producing pituitary tumors in Cushing disease also secrete MSH, causing the characteristic hyperpigmentation. CRH normally increases ACTH, MSH, and beta-endorphin together. The other listed hormones are not POMC derivatives.",
+  "explanation_incorrect": {
+    "A": "Oxytocin causes uterine contractions, milk letdown, and social bonding; it does not affect melanogenesis.",
+    "B": "ADH regulates water reabsorption and blood pressure through V2 and V1 receptors, not pigmentation.",
+    "D": "Prolactin stimulates lactogenesis and suppresses GnRH; it is not derived from POMC.",
+    "E": "TSH is a glycoprotein hormone with alpha and beta subunits; it is not a POMC product and does not cause hyperpigmentation."
+  },
+  "educationalObjective": "MSH and ACTH share the POMC precursor, explaining hyperpigmentation in ACTH-dependent Cushing disease.",
+  "source": "Generated from 8. Endocrine.pdf - Physiology: Hypothalamic-pituitary hormones"
+},
+{
+  "id": "endo-023",
+  "subject": "Endocrine",
+  "major_topic": "Physiology",
+  "subtopic": "Hypothalamic-pituitary hormones",
+  "difficulty": "easy",
+  "vignette": "A 28-year-old woman is in the immediate postpartum period. While breastfeeding she notices uterine cramping during nursing and a sudden flow of milk.",
+  "question": "Which hormone is responsible for both the milk letdown reflex and the uterine contractions she experiences while nursing?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Oxytocin"
+    },
+    {
+      "id": "B",
+      "text": "Prolactin"
+    },
+    {
+      "id": "C",
+      "text": "ADH"
+    },
+    {
+      "id": "D",
+      "text": "MSH"
+    },
+    {
+      "id": "E",
+      "text": "GnRH"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Oxytocin causes uterine contractions during labor and mediates the milk letdown reflex in response to suckling; it also modulates fear, anxiety, social bonding, mood, and depression. Milk ejection during nursing is therefore oxytocin-mediated, which is distinct from prolactin's role in milk production. The uterine cramping she feels with suckling reflects the same oxytocin release.",
+  "explanation_incorrect": {
+    "B": "Prolactin stimulates lactogenesis (milk production) but does not cause milk ejection or uterine contraction; it also suppresses GnRH.",
+    "C": "ADH increases collecting duct water permeability and can raise blood pressure via V1 receptors, but it does not mediate letdown or uterine contraction.",
+    "D": "MSH stimulates melanogenesis and hyperpigmentation and has no role in lactation or uterine contraction.",
+    "E": "GnRH increases FSH and LH and is suppressed by prolactin during breastfeeding rather than causing letdown."
+  },
+  "educationalObjective": "Oxytocin mediates milk letdown and uterine contraction, whereas prolactin mediates milk production.",
+  "source": "Generated from 8. Endocrine.pdf - Physiology: Hypothalamic-pituitary hormones"
+}
+]

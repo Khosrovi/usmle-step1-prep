@@ -1,0 +1,248 @@
+[
+{
+  "id": "endo-069",
+  "subject": "Endocrine",
+  "major_topic": "Physiology",
+  "subtopic": "Adrenal steroids and congenital adrenal hyperplasias",
+  "difficulty": "medium",
+  "vignette": "A medical student reviews the steroidogenic pathway in the adrenal cortex to understand where various enzyme deficiencies act. She focuses on the rate-limiting step and on the three zones of the cortex.",
+  "question": "Which statement about adrenal steroidogenesis is correct?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Cholesterol desmolase acting on aldosterone is the final rate-limiting step of the pathway."
+    },
+    {
+      "id": "B",
+      "text": "The zona glomerulosa produces cortisol under the control of ACTH."
+    },
+    {
+      "id": "C",
+      "text": "Cholesterol transport into mitochondria via StAR is the rate-limiting step, and pregnenolone is the precursor of all adrenal steroids."
+    },
+    {
+      "id": "D",
+      "text": "The zona reticularis is the main source of aldosterone and is regulated by angiotensin II."
+    },
+    {
+      "id": "E",
+      "text": "Aromatase in the adrenal cortex converts cortisol directly to aldosterone."
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Cholesterol transport into the mitochondrion via StAR is the rate-limiting step; cholesterol is converted to pregnenolone, the common precursor. Zona glomerulosa makes mineralocorticoids (aldosterone synthase, angiotensin II), zona fasciculata makes cortisol (ACTH, 21- and 11beta-hydroxylase), and zona reticularis makes androgens such as DHEA. Aromatase and 5alpha-reductase act mainly in peripheral tissue.",
+  "explanation_incorrect": {
+    "A": "StAR mediates cholesterol transport into mitochondria as the rate-limiting step; it is not a final conversion of aldosterone.",
+    "B": "The zona glomerulosa makes mineralocorticoids; cortisol comes from the zona fasciculata under ACTH.",
+    "D": "Aldosterone is produced by the zona glomerulosa under angiotensin II, not by the reticularis.",
+    "E": "Aromatase is mainly peripheral and converts androgens to estrogens, not cortisol to aldosterone."
+  },
+  "educationalObjective": "StAR-mediated cholesterol transport is rate-limiting, pregnenolone is the common precursor, and the cortical zones make mineralocorticoids, glucocorticoids, and androgens.",
+  "source": "Generated from 8. Endocrine.pdf - Physiology: Adrenal steroids and congenital adrenal hyperplasias"
+},
+{
+  "id": "endo-070",
+  "subject": "Endocrine",
+  "major_topic": "Physiology",
+  "subtopic": "Adrenal steroids and congenital adrenal hyperplasias",
+  "difficulty": "hard",
+  "vignette": "A female newborn presents with severe hypertension and virilization of the external genitalia. Laboratory studies show low cortisol and low aldosterone with suppressed renin activity.",
+  "question": "Which enzyme deficiency best fits this presentation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "21-hydroxylase deficiency with increased renin activity and hyperkalemia."
+    },
+    {
+      "id": "B",
+      "text": "17alpha-hydroxylase deficiency with low renin activity and normal virilization."
+    },
+    {
+      "id": "C",
+      "text": "21-hydroxylase deficiency with decreased 17-hydroxyprogesterone and increased cortisol."
+    },
+    {
+      "id": "D",
+      "text": "11beta-hydroxylase deficiency with increased renin activity and decreased 11-deoxycorticosterone."
+    },
+    {
+      "id": "E",
+      "text": "11beta-hydroxylase deficiency with decreased aldosterone, increased 11-deoxycorticosterone, low renin, and hypertension."
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "11beta-hydroxylase deficiency reduces cortisol and aldosterone but shunts precursors to 11-deoxycorticosterone, which has mineralocorticoid activity, causing hypertension, hypokalemia, and suppressed renin. Androgen excess virilizes XX infants. The mnemonic: an enzyme starting with 1 causes hypertension, and one ending in 1 causes virilization in females.",
+  "explanation_incorrect": {
+    "A": "21-hydroxylase deficiency causes salt wasting, hypotension, hyperkalemia, and high renin, not the hypertension seen here.",
+    "B": "17alpha-hydroxylase deficiency lowers sex hormones and does not virilize; XX patients lack secondary sexual development.",
+    "C": "21-hydroxylase deficiency raises 17-hydroxyprogesterone and lowers cortisol, the opposite of this option.",
+    "D": "In 11beta deficiency, renin is suppressed and 11-deoxycorticosterone is elevated, not the reverse."
+  },
+  "educationalObjective": "11beta-hydroxylase deficiency causes hypertension with suppressed renin and virilization due to accumulated 11-deoxycorticosterone and androgens.",
+  "source": "Generated from 8. Endocrine.pdf - Physiology: Adrenal steroids and congenital adrenal hyperplasias"
+},
+{
+  "id": "endo-071",
+  "subject": "Endocrine",
+  "major_topic": "Physiology",
+  "subtopic": "Adrenal steroids and congenital adrenal hyperplasias",
+  "difficulty": "easy",
+  "vignette": "An infant presents in the first weeks of life with vomiting, dehydration, hyperkalemia, hypotension, and virilized genitalia in an XX child. Screening shows elevated 17-hydroxyprogesterone.",
+  "question": "Which enzyme deficiency is most likely?",
+  "options": [
+    {
+      "id": "A",
+      "text": "11beta-hydroxylase deficiency presenting with hypertension."
+    },
+    {
+      "id": "B",
+      "text": "21-hydroxylase deficiency with elevated 17-hydroxyprogesterone and increased renin activity."
+    },
+    {
+      "id": "C",
+      "text": "17alpha-hydroxylase deficiency with increased sex hormones."
+    },
+    {
+      "id": "D",
+      "text": "3beta-hydroxysteroid dehydrogenase deficiency with elevated aldosterone."
+    },
+    {
+      "id": "E",
+      "text": "Aromatase deficiency with increased estrogen production."
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "21-hydroxylase deficiency is the most common CAH. Reduced mineralocorticoids cause salt wasting, hyperkalemia, hypotension, and increased renin activity; reduced cortisol shunts precursors to androgens, virilizing XX infants, and 17-hydroxyprogesterone accumulates. It presents in infancy with salt wasting or in childhood with precocious puberty.",
+  "explanation_incorrect": {
+    "A": "11beta-hydroxylase deficiency raises 11-deoxycorticosterone and causes hypertension rather than salt wasting.",
+    "C": "17alpha-hydroxylase deficiency reduces sex hormones and causes hypertension, not virilization.",
+    "D": "3beta-hydroxysteroid dehydrogenase is in the pathway, but the classic salt-wasting picture with high 17-OHP is 21-hydroxylase deficiency.",
+    "E": "Aromatase deficiency affects estrogen synthesis and does not explain this mineralocorticoid and androgen picture."
+  },
+  "educationalObjective": "21-hydroxylase deficiency is the most common CAH, causing salt wasting, hypotension, high renin, increased 17-hydroxyprogesterone, and virilization.",
+  "source": "Generated from 8. Endocrine.pdf - Physiology: Adrenal steroids and congenital adrenal hyperplasias"
+},
+{
+  "id": "endo-072",
+  "subject": "Endocrine",
+  "major_topic": "Physiology",
+  "subtopic": "Adrenal steroids and congenital adrenal hyperplasias",
+  "difficulty": "medium",
+  "vignette": "A 15-year-old with a 46,XY karyotype has hypertension, hypokalemia, undescended testes, ambiguous genitalia, and no development of secondary sexual characteristics. Cortisol and sex hormones are low, while 11-deoxycorticosterone is elevated.",
+  "question": "Which enzyme deficiency best explains this presentation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "17alpha-hydroxylase deficiency, with low cortisol and aldosterone, elevated 11-deoxycorticosterone, and low sex hormones."
+    },
+    {
+      "id": "B",
+      "text": "21-hydroxylase deficiency, with salt wasting and virilization."
+    },
+    {
+      "id": "C",
+      "text": "11beta-hydroxylase deficiency, with virilization and hypertension."
+    },
+    {
+      "id": "D",
+      "text": "Aromatase deficiency, with increased testosterone in a genetic female."
+    },
+    {
+      "id": "E",
+      "text": "5alpha-reductase deficiency, with impaired dihydrotestosterone formation in an XY individual."
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "17alpha-hydroxylase deficiency impairs synthesis of cortisol, aldosterone, and sex hormones. Shunting to 11-deoxycorticosterone, a mineralocorticoid, causes hypertension with hypokalemia and low renin. XY patients have atypical genitalia and undescended testes; XX patients lack secondary sexual development. The enzyme starts with 1, so hypertension occurs, but it does not end in 1, so there is no virilization.",
+  "explanation_incorrect": {
+    "B": "21-hydroxylase deficiency causes hypotension and salt wasting with virilization, not hypertension with underdeveloped genitalia.",
+    "C": "11beta-hydroxylase deficiency causes virilization; this patient has no virilization and has undescended testes.",
+    "D": "Aromatase deficiency affects estrogen production and would not cause hypertension with deficient androgens in an XY patient.",
+    "E": "5alpha-reductase deficiency impairs DHT formation but spares cortisol and aldosterone, so it does not cause hypertension."
+  },
+  "educationalObjective": "17alpha-hydroxylase deficiency causes hypertension from 11-deoxycorticosterone plus sexual infantilism, with atypical genitalia in XY and absent secondary sexual development in XX.",
+  "source": "Generated from 8. Endocrine.pdf - Physiology: Adrenal steroids and congenital adrenal hyperplasias"
+},
+{
+  "id": "endo-073",
+  "subject": "Endocrine",
+  "major_topic": "Physiology",
+  "subtopic": "Adrenal steroids and congenital adrenal hyperplasias",
+  "difficulty": "hard",
+  "vignette": "A pediatric endocrinologist counsels the family of a child with congenital adrenal hyperplasia. She reviews the inheritance pattern and the reasons for the characteristic skin findings and adrenal enlargement.",
+  "question": "Which general statement about congenital adrenal hyperplasia is correct?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The enzyme deficiencies are typically X-linked dominant disorders."
+    },
+    {
+      "id": "B",
+      "text": "Hyperpigmentation results from decreased ACTH together with increased cortisol."
+    },
+    {
+      "id": "C",
+      "text": "Bilateral adrenal enlargement is caused by decreased ACTH stimulation of the cortex."
+    },
+    {
+      "id": "D",
+      "text": "Most forms are autosomal recessive, with increased ACTH driving both MSH-related hyperpigmentation and bilateral adrenal enlargement."
+    },
+    {
+      "id": "E",
+      "text": "The mnemonic states that enzymes ending in 1 cause hypertension, while those starting with 1 cause virilization in females."
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "All congenital adrenal enzyme deficiencies are autosomal recessive. Loss of cortisol increases ACTH; MSH is coproduced and secreted with ACTH, causing skin hyperpigmentation, and trophic ACTH stimulation enlarges both adrenal glands. The mnemonic: an enzyme starting with 1 causes hypertension (11beta, 17alpha); one ending in 1 causes virilization in females (11beta, 21).",
+  "explanation_incorrect": {
+    "A": "These deficiencies are autosomal recessive, not X-linked dominant.",
+    "B": "Hyperpigmentation follows increased ACTH and MSH with low cortisol, not decreased ACTH and high cortisol.",
+    "C": "The adrenals enlarge because of increased, not decreased, ACTH stimulation.",
+    "E": "The mnemonic is reversed: starting with 1 causes hypertension, and ending in 1 causes virilization."
+  },
+  "educationalObjective": "CAH is autosomal recessive; high ACTH/MSH causes hyperpigmentation and bilateral adrenal hyperplasia, and the 'starts with 1 / ends with 1' mnemonic predicts hypertension versus virilization.",
+  "source": "Generated from 8. Endocrine.pdf - Physiology: Adrenal steroids and congenital adrenal hyperplasias"
+},
+{
+  "id": "endo-074",
+  "subject": "Endocrine",
+  "major_topic": "Physiology",
+  "subtopic": "Adrenal steroids and congenital adrenal hyperplasias",
+  "difficulty": "medium",
+  "vignette": "A 62-year-old man with benign prostatic hyperplasia is prescribed finasteride. His cousin with estrogen receptor-positive breast cancer is taking anastrozole. A student asks how these drugs affect peripheral steroid conversion.",
+  "question": "Which statement about peripheral steroid conversion is correct?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Finasteride inhibits aromatase, blocking the conversion of testosterone to estradiol."
+    },
+    {
+      "id": "B",
+      "text": "Aromatase converts testosterone to dihydrotestosterone in peripheral tissue."
+    },
+    {
+      "id": "C",
+      "text": "Finasteride inhibits 5alpha-reductase (testosterone to DHT), while anastrozole, letrozole, and exemestane inhibit aromatase (androgens to estrogens)."
+    },
+    {
+      "id": "D",
+      "text": "5alpha-reductase converts androstenedione to estrone in peripheral fat."
+    },
+    {
+      "id": "E",
+      "text": "Aromatase inhibitors increase estradiol production in peripheral tissues."
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "In peripheral tissues, 5alpha-reductase converts testosterone to dihydrotestosterone and is inhibited by finasteride. Aromatase converts testosterone to estradiol and androstenedione to estrone, and is inhibited by anastrozole, letrozole, and exemestane. Glycyrrhetinic acid is another agent listed in this pathway.",
+  "explanation_incorrect": {
+    "A": "Finasteride targets 5alpha-reductase, not aromatase.",
+    "B": "Aromatase produces estrogens from androgens; DHT is made by 5alpha-reductase.",
+    "D": "Androstenedione to estrone is an aromatase reaction, not a 5alpha-reductase reaction.",
+    "E": "Aromatase inhibitors reduce, not increase, peripheral estrogen synthesis."
+  },
+  "educationalObjective": "5alpha-reductase makes DHT (blocked by finasteride) and aromatase makes estrogens (blocked by aromatase inhibitors), both acting largely in peripheral tissue.",
+  "source": "Generated from 8. Endocrine.pdf - Physiology: Adrenal steroids and congenital adrenal hyperplasias"
+}
+]

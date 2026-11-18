@@ -1,0 +1,207 @@
+[
+{
+  "id": "endo-239",
+  "subject": "Endocrine",
+  "major_topic": "Pharmacology",
+  "subtopic": "Thionamides",
+  "difficulty": "medium",
+  "vignette": "A 29-year-old woman with Graves disease has a suppressed TSH of <0.01 mIU/L and an elevated free T4. She is started on methimazole. When explaining how the drug works, her physician describes inhibition of the enzyme thyroid peroxidase.",
+  "question": "Which of the following best describes the direct consequence of thyroid peroxidase inhibition by thionamides?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Increased oxidation of iodide to iodine within the thyroid follicle"
+    },
+    {
+      "id": "B",
+      "text": "Decreased organification of tyrosine and coupling of iodotyrosines, reducing thyroid hormone synthesis"
+    },
+    {
+      "id": "C",
+      "text": "Blockade of TSH receptor signaling by circulating immunoglobulins"
+    },
+    {
+      "id": "D",
+      "text": "Inhibition of the sodium-iodide symporter on the basolateral membrane"
+    },
+    {
+      "id": "E",
+      "text": "Destruction of thyroid follicular cells with release of preformed hormone"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Methimazole and propylthiouracil inhibit thyroid peroxidase, the enzyme that oxidizes iodide to iodine and catalyzes both organification (iodination of tyrosyl residues on thyroglobulin) and the coupling of MIT and DIT to form T3 and T4. The result is decreased synthesis of new thyroid hormone, so clinical improvement occurs only as circulating hormone is cleared. This is the shared mechanism of the thionamide class. These agents do not block the TSH receptor or destroy follicular cells, and they do not treat Graves ophthalmopathy, which is managed with glucocorticoids.",
+  "explanation_incorrect": {
+    "A": "Thionamides decrease, not increase, iodide oxidation; enhanced oxidation and organification would increase hormone synthesis.",
+    "C": "Graves disease is caused by thyroid-stimulating immunoglobulins that activate the TSH receptor; thionamides reduce hormone production downstream of that receptor rather than acting as receptor blockers.",
+    "D": "The sodium-iodide symporter is not the thionamide target; blocking iodide uptake is not how these drugs lower hormone synthesis.",
+    "E": "Follicular cell destruction is the mechanism of radioactive iodine, not of thionamides, which impair synthesis without releasing stored hormone."
+  },
+  "educationalObjective": "Thionamides inhibit thyroid peroxidase, reducing iodide oxidation, organification, and coupling and thereby decreasing thyroid hormone synthesis.",
+  "source": "Generated from 8. Endocrine.pdf - Pharmacology: Thionamides"
+},
+{
+  "id": "endo-240",
+  "subject": "Endocrine",
+  "major_topic": "Pharmacology",
+  "subtopic": "Thionamides",
+  "difficulty": "medium",
+  "vignette": "A 41-year-old man with Graves disease presents with thyroid storm: fever, tachycardia, and a free T4 of 4.8 ng/dL. He is given propylthiouracil rather than methimazole, in part because PTU has an additional peripheral effect that methimazole lacks.",
+  "question": "Which additional action of propylthiouracil best explains this choice?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It increases peripheral conversion of T4 to T3"
+    },
+    {
+      "id": "B",
+      "text": "It blocks release of TSH from the anterior pituitary"
+    },
+    {
+      "id": "C",
+      "text": "It stimulates 5'-deiodinase activity in peripheral tissues"
+    },
+    {
+      "id": "D",
+      "text": "It inhibits 5'-deiodinase, decreasing peripheral conversion of T4 to T3"
+    },
+    {
+      "id": "E",
+      "text": "It increases iodide uptake by the sodium-iodide symporter"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Like methimazole, PTU blocks thyroid peroxidase and reduces thyroid hormone synthesis. Uniquely, PTU also inhibits peripheral 5'-deiodinase, the enzyme that converts T4 to the more active T3, so circulating T3 falls more quickly. This additional effect makes PTU useful in thyroid storm, where rapid reduction of T3 is desirable. Methimazole lacks this deiodinase effect, which is why PTU may be favored in that setting despite its hepatotoxicity risk.",
+  "explanation_incorrect": {
+    "A": "PTU decreases rather than increases T4-to-T3 conversion; increasing conversion would worsen thyrotoxicosis.",
+    "B": "TSH is already suppressed in Graves disease, and PTU does not act on pituitary TSH secretion.",
+    "C": "PTU inhibits, not stimulates, 5'-deiodinase; stimulation would raise active T3 levels.",
+    "E": "PTU does not increase iodide uptake; enhancing uptake would provide more substrate for hormone synthesis."
+  },
+  "educationalObjective": "PTU uniquely inhibits peripheral 5'-deiodinase, reducing T4-to-T3 conversion in addition to blocking thyroid peroxidase.",
+  "source": "Generated from 8. Endocrine.pdf - Pharmacology: Thionamides"
+},
+{
+  "id": "endo-241",
+  "subject": "Endocrine",
+  "major_topic": "Pharmacology",
+  "subtopic": "Thionamides",
+  "difficulty": "easy",
+  "vignette": "A 27-year-old woman at 8 weeks gestation is diagnosed with Graves disease. Her TSH is suppressed and her free T4 is elevated. An antithyroid drug is prescribed, with the choice guided by fetal safety.",
+  "question": "Which of the following is the preferred antithyroid drug during the first trimester of pregnancy?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Propylthiouracil"
+    },
+    {
+      "id": "B",
+      "text": "Methimazole"
+    },
+    {
+      "id": "C",
+      "text": "Radioactive iodine (131I)"
+    },
+    {
+      "id": "D",
+      "text": "Levothyroxine"
+    },
+    {
+      "id": "E",
+      "text": "Glucocorticoids"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "PTU is preferred in the first trimester because methimazole is a possible teratogen and has been associated with congenital anomalies such as aplasia cutis. Radioactive iodine is absolutely contraindicated in pregnancy because it crosses the placenta and can ablate the fetal thyroid. Later in pregnancy, patients are typically switched to methimazole because of PTU-associated hepatotoxicity. Thionamides do not treat Graves ophthalmopathy; glucocorticoids are used for that manifestation.",
+  "explanation_incorrect": {
+    "B": "Methimazole is a possible teratogen (eg, aplasia cutis) and is avoided in the first trimester, though it is preferred in the second and third trimesters.",
+    "C": "Radioactive iodine crosses the placenta and can destroy the fetal thyroid, so it is never used to treat Graves disease in a pregnant patient.",
+    "D": "Levothyroxine is thyroid hormone replacement for hypothyroidism and would worsen hyperthyroidism here.",
+    "E": "Glucocorticoids treat Graves ophthalmopathy rather than the hyperthyroidism itself and are not the antithyroid drug of choice."
+  },
+  "educationalObjective": "Use PTU in the first trimester of pregnancy because methimazole is a possible teratogen; radioactive iodine is contraindicated throughout pregnancy.",
+  "source": "Generated from 8. Endocrine.pdf - Pharmacology: Thionamides"
+},
+{
+  "id": "endo-242",
+  "subject": "Endocrine",
+  "major_topic": "Pharmacology",
+  "subtopic": "Thionamides",
+  "difficulty": "hard",
+  "vignette": "A 31-year-old woman at 26 weeks gestation with Graves disease has been taking propylthiouracil. Her obstetrician plans to change her antithyroid regimen for the remainder of the pregnancy, weighing teratogenicity against maternal drug toxicity.",
+  "question": "Which change is most appropriate, and what is the primary reason for it?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Continue propylthiouracil; methimazole is contraindicated in the second trimester"
+    },
+    {
+      "id": "B",
+      "text": "Switch to radioactive iodine to achieve definitive control"
+    },
+    {
+      "id": "C",
+      "text": "Switch to methimazole because of the risk of PTU-induced hepatotoxicity"
+    },
+    {
+      "id": "D",
+      "text": "Switch to levothyroxine to normalize the TSH"
+    },
+    {
+      "id": "E",
+      "text": "Stop all antithyroid drugs; the disease always remits in the third trimester"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "After the first trimester, methimazole is preferred because PTU carries a risk of severe hepatotoxicity. Continuing PTU exposes the mother to that risk without added benefit, since the major teratogenic concern with methimazole (eg, aplasia cutis) is a first-trimester issue. Radioactive iodine remains contraindicated throughout pregnancy. Levothyroxine would exacerbate hyperthyroidism rather than control it, and uncontrolled maternal hyperthyroidism poses risks to the fetus.",
+  "explanation_incorrect": {
+    "A": "Methimazole is actually preferred in the second and third trimesters; continuing PTU would maintain an unnecessary hepatotoxicity risk.",
+    "B": "Radioactive iodine crosses the placenta and can ablate the fetal thyroid, so it is never used during pregnancy.",
+    "D": "Levothyroxine replaces thyroid hormone in hypothyroidism; giving it to a hyperthyroid patient would worsen the condition.",
+    "E": "Antithyroid therapy should not simply be stopped; uncontrolled maternal hyperthyroidism risks preterm birth, low birth weight, and fetal thyrotoxicosis."
+  },
+  "educationalObjective": "After the first trimester, switch from PTU to methimazole to avoid PTU-induced hepatotoxicity.",
+  "source": "Generated from 8. Endocrine.pdf - Pharmacology: Thionamides"
+},
+{
+  "id": "endo-243",
+  "subject": "Endocrine",
+  "major_topic": "Pharmacology",
+  "subtopic": "Thionamides",
+  "difficulty": "hard",
+  "vignette": "A 46-year-old man taking propylthiouracil for Graves disease develops fever, arthralgias, and palpable purpura on his legs. His serum creatinine is rising, urinalysis shows hematuria and proteinuria, and testing is positive for perinuclear ANCA.",
+  "question": "Which adverse drug reaction is most consistent with this presentation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Methimazole-induced aplasia cutis"
+    },
+    {
+      "id": "B",
+      "text": "Methimazole-associated hepatotoxicity"
+    },
+    {
+      "id": "C",
+      "text": "Propylthiouracil-induced agranulocytosis"
+    },
+    {
+      "id": "D",
+      "text": "Methimazole-induced aplastic anemia"
+    },
+    {
+      "id": "E",
+      "text": "Propylthiouracil-associated ANCA-positive vasculitis"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "PTU use has been associated with ANCA-positive vasculitis, which can present with fever, purpura, arthralgias, and glomerulonephritis with hematuria and renal impairment. This is a rare but serious idiosyncratic reaction distinct from the other thionamide toxicities. The positive perinuclear ANCA and the temporal relationship to PTU are the key clues. Prompt recognition and discontinuation of the drug are essential.",
+  "explanation_incorrect": {
+    "A": "Aplasia cutis is a congenital scalp defect associated with methimazole exposure in utero, not an adult adverse reaction to PTU.",
+    "B": "Hepatotoxicity is a known thionamide adverse effect, but it is associated especially with PTU and presents with elevated liver enzymes or jaundice rather than purpura and nephritis.",
+    "C": "Agranulocytosis is a rare thionamide adverse effect causing severe neutropenia and infection, not an ANCA-positive vasculitic syndrome.",
+    "D": "Aplastic anemia is a rare adverse effect of thionamides causing pancytopenia, not the purpuric nephritic picture described here."
+  },
+  "educationalObjective": "Recognize PTU-associated ANCA-positive vasculitis as a rare adverse effect distinct from agranulocytosis and hepatotoxicity.",
+  "source": "Generated from 8. Endocrine.pdf - Pharmacology: Thionamides"
+}
+]

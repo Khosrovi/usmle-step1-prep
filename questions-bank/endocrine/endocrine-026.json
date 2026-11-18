@@ -1,0 +1,166 @@
+[
+{
+  "id": "endo-247",
+  "subject": "Endocrine",
+  "major_topic": "Pharmacology",
+  "subtopic": "Hypothalamic and pituitary drugs",
+  "difficulty": "medium",
+  "vignette": "A 66-year-old man with small cell lung cancer has a serum sodium of 124 mEq/L, serum osmolality of 260 mOsm/kg, and inappropriately concentrated urine, consistent with SIADH. He is started on tolvaptan.",
+  "question": "By which mechanism does tolvaptan correct the hyponatremia of SIADH?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It acts as an ADH analog, increasing water reabsorption"
+    },
+    {
+      "id": "B",
+      "text": "It stimulates endogenous ADH release from the posterior pituitary"
+    },
+    {
+      "id": "C",
+      "text": "It inhibits aldosterone synthesis in the adrenal cortex"
+    },
+    {
+      "id": "D",
+      "text": "It blocks ADH action at V2 receptors in the collecting duct"
+    },
+    {
+      "id": "E",
+      "text": "It is a somatostatin analog that suppresses ADH secretion"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Tolvaptan and conivaptan are ADH (vasopressin) receptor antagonists; blockade of V2 receptors in the renal collecting duct prevents ADH-mediated insertion of aquaporin-2 channels, promoting free water excretion and raising serum sodium. They are used in SIADH, where excess ADH causes water retention and dilutional hyponatremia. Demeclocycline is another ADH antagonist used in SIADH, but it is a tetracycline that interferes with ADH signaling rather than a direct V2 blocker. Desmopressin, by contrast, is an ADH analog used for central diabetes insipidus.",
+  "explanation_incorrect": {
+    "A": "An ADH analog would worsen water retention and hyponatremia; desmopressin is an ADH analog used for diabetes insipidus, not SIADH.",
+    "B": "Stimulating ADH release would aggravate SIADH; these drugs antagonize ADH rather than increase it.",
+    "C": "Aldosterone inhibition would alter sodium and potassium handling but is not the mechanism of tolvaptan in SIADH.",
+    "E": "Somatostatin analogs such as octreotide are not ADH antagonists used in the management of SIADH."
+  },
+  "educationalObjective": "Conivaptan and tolvaptan treat SIADH by blocking ADH at V2 receptors, promoting free water excretion.",
+  "source": "Generated from 8. Endocrine.pdf - Pharmacology: Hypothalamic and pituitary drugs"
+},
+{
+  "id": "endo-248",
+  "subject": "Endocrine",
+  "major_topic": "Pharmacology",
+  "subtopic": "Hypothalamic and pituitary drugs",
+  "difficulty": "medium",
+  "vignette": "A 58-year-old woman with chronic SIADH requires long-term therapy. Her physician chooses a tetracycline antibiotic that interferes with ADH signaling and can produce a reversible nephrogenic diabetes insipidus-like state.",
+  "question": "Which drug is being described?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Conivaptan"
+    },
+    {
+      "id": "B",
+      "text": "Demeclocycline"
+    },
+    {
+      "id": "C",
+      "text": "Desmopressin"
+    },
+    {
+      "id": "D",
+      "text": "Oxytocin"
+    },
+    {
+      "id": "E",
+      "text": "Octreotide"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Demeclocycline is a tetracycline with ADH-antagonist activity; it interferes with ADH signaling in the collecting duct and is used in SIADH to promote free water excretion. Its use can produce a reversible nephrogenic diabetes insipidus-like state. Conivaptan and tolvaptan are also used for SIADH but are direct V2 receptor antagonists, not tetracyclines. The tetracycline clue makes demeclocycline the unique answer.",
+  "explanation_incorrect": {
+    "A": "Conivaptan is a V2 receptor antagonist for SIADH, but it is not a tetracycline antibiotic.",
+    "C": "Desmopressin is an ADH analog used for central diabetes insipidus, von Willebrand disease, enuresis, and hemophilia A, not for SIADH.",
+    "D": "Oxytocin stimulates uterine contractions and is used for labor induction and control of uterine hemorrhage.",
+    "E": "Octreotide is a somatostatin analog used for acromegaly and neuroendocrine tumors, not as a tetracycline ADH antagonist."
+  },
+  "educationalObjective": "Demeclocycline is a tetracycline ADH antagonist used in SIADH; conivaptan and tolvaptan are direct V2 antagonists.",
+  "source": "Generated from 8. Endocrine.pdf - Pharmacology: Hypothalamic and pituitary drugs"
+},
+{
+  "id": "endo-249",
+  "subject": "Endocrine",
+  "major_topic": "Pharmacology",
+  "subtopic": "Hypothalamic and pituitary drugs",
+  "difficulty": "easy",
+  "vignette": "A 19-year-old man has polyuria and polydipsia with a serum osmolality of 305 mOsm/kg and very dilute urine. Administration of desmopressin markedly reduces his urine output, confirming central diabetes insipidus.",
+  "question": "Which of the following is another recognized clinical use of desmopressin?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Von Willebrand disease"
+    },
+    {
+      "id": "B",
+      "text": "Nephrogenic diabetes insipidus"
+    },
+    {
+      "id": "C",
+      "text": "SIADH"
+    },
+    {
+      "id": "D",
+      "text": "Primary polydipsia"
+    },
+    {
+      "id": "E",
+      "text": "Type 2 diabetes mellitus"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Desmopressin is an ADH analog used for central diabetes insipidus, von Willebrand disease, sleep enuresis, and hemophilia A. In von Willebrand disease and hemophilia A it raises levels of von Willebrand factor and factor VIII, improving hemostasis. It is ineffective in nephrogenic diabetes insipidus because the kidney cannot respond to ADH. It would also worsen SIADH, which is treated with ADH antagonists or demeclocycline.",
+  "explanation_incorrect": {
+    "B": "Nephrogenic diabetes insipidus reflects renal resistance to ADH, so an ADH analog such as desmopressin would not be effective.",
+    "C": "SIADH is characterized by excess ADH activity and is treated with ADH antagonists or demeclocycline, not desmopressin.",
+    "D": "Primary polydipsia requires limiting excessive water intake; desmopressin could cause water intoxication in this setting.",
+    "E": "Type 2 diabetes mellitus is managed with glucose-lowering agents and does not involve a deficiency of ADH."
+  },
+  "educationalObjective": "Desmopressin is an ADH analog used for central DI, von Willebrand disease, sleep enuresis, and hemophilia A.",
+  "source": "Generated from 8. Endocrine.pdf - Pharmacology: Hypothalamic and pituitary drugs"
+},
+{
+  "id": "endo-250",
+  "subject": "Endocrine",
+  "major_topic": "Pharmacology",
+  "subtopic": "Hypothalamic and pituitary drugs",
+  "difficulty": "hard",
+  "vignette": "A 56-year-old man has acral enlargement, coarsened facial features, and an elevated IGF-1 level consistent with acromegaly. He also has a gastrinoma causing severe diarrhea and gastric acid hypersecretion. A single drug is useful in managing both conditions.",
+  "question": "Which of the following drugs is a somatostatin analog effective in both acromegaly and gastrinoma?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Desmopressin"
+    },
+    {
+      "id": "B",
+      "text": "Growth hormone"
+    },
+    {
+      "id": "C",
+      "text": "Octreotide"
+    },
+    {
+      "id": "D",
+      "text": "Oxytocin"
+    },
+    {
+      "id": "E",
+      "text": "Demeclocycline"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Octreotide is a somatostatin analog that suppresses pituitary growth hormone secretion, making it useful in acromegaly, and also inhibits gastrointestinal hormone secretion, benefitting patients with carcinoid syndrome, gastrinoma, glucagonoma, and bleeding esophageal varices. Somatostatin broadly inhibits endocrine and exocrine secretion, which explains its utility across these tumors. Desmopressin is an ADH analog, and giving growth hormone would worsen acromegaly. Oxytocin is used for labor induction and uterine hemorrhage, while demeclocycline is an ADH antagonist for SIADH.",
+  "explanation_incorrect": {
+    "A": "Desmopressin is an ADH analog used for central diabetes insipidus and bleeding disorders, not acromegaly or gastrinoma.",
+    "B": "Growth hormone would exacerbate acromegaly; the disease results from excess GH, so therapy aims to suppress it.",
+    "D": "Oxytocin induces uterine contractions and controls postpartum hemorrhage; it has no role in acromegaly or gastrinoma.",
+    "E": "Demeclocycline is a tetracycline ADH antagonist used in SIADH, not a somatostatin analog."
+  },
+  "educationalObjective": "Octreotide is a somatostatin analog used for acromegaly, carcinoid syndrome, gastrinoma, glucagonoma, and esophageal varices.",
+  "source": "Generated from 8. Endocrine.pdf - Pharmacology: Hypothalamic and pituitary drugs"
+}
+]

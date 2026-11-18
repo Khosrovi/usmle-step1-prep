@@ -1,0 +1,248 @@
+[
+{
+  "id": "endo-149",
+  "subject": "Endocrine",
+  "major_topic": "Pathology",
+  "subtopic": "Diabetes mellitus: complications and diagnosis",
+  "difficulty": "medium",
+  "vignette": "A 45-year-old asymptomatic man undergoes screening for diabetes mellitus. Several test results are reviewed.",
+  "question": "Which of the following results meets the diagnostic cutoff for diabetes mellitus?",
+  "options": [
+    {
+      "id": "A",
+      "text": "HbA1c of 6.3%"
+    },
+    {
+      "id": "B",
+      "text": "Fasting plasma glucose of 118 mg/dL after a 6-hour fast"
+    },
+    {
+      "id": "C",
+      "text": "Two-hour OGTT value of 205 mg/dL after a 75-g glucose load"
+    },
+    {
+      "id": "D",
+      "text": "Random plasma glucose of 190 mg/dL in an asymptomatic patient"
+    },
+    {
+      "id": "E",
+      "text": "Fasting plasma glucose of 125 mg/dL after a 10-hour fast"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "A 2-hour OGTT value of at least 200 mg/dL after a 75-g glucose load is diagnostic. HbA1c requires at least 6.5% (6.3% is below). Fasting plasma glucose requires at least 126 mg/dL after more than 8 hours of fasting (118 and 125 are below the cutoff). A random plasma glucose of at least 200 mg/dL requires hyperglycemic symptoms; 190 mg/dL is below the cutoff and this patient is asymptomatic.",
+  "explanation_incorrect": {
+    "A": "HbA1c of 6.3% is below the diagnostic threshold of 6.5%.",
+    "B": "Fasting glucose of 118 mg/dL is below 126 mg/dL, and a 6-hour fast does not meet the greater-than-8-hour requirement.",
+    "D": "Random glucose of 190 mg/dL is below 200 mg/dL, and a diagnostic random glucose also requires hyperglycemic symptoms.",
+    "E": "Fasting glucose of 125 mg/dL is just below the 126 mg/dL cutoff, although the 10-hour fast itself is adequate."
+  },
+  "educationalObjective": "Diagnostic cutoffs: HbA1c at least 6.5%, fasting glucose at least 126 mg/dL after more than 8 hours, 2-hour OGTT at least 200 mg/dL after 75 g, random at least 200 mg/dL with symptoms.",
+  "source": "Generated from 8. Endocrine.pdf - Pathology: Diabetes mellitus: complications and diagnosis"
+},
+{
+  "id": "endo-150",
+  "subject": "Endocrine",
+  "major_topic": "Pathology",
+  "subtopic": "Diabetes mellitus: complications and diagnosis",
+  "difficulty": "easy",
+  "vignette": "A 63-year-old woman with rheumatoid arthritis has been taking high-dose glucocorticoids for months. She develops polyuria, polydipsia, polyphagia, and weight loss, with a fasting glucose of 168 mg/dL.",
+  "question": "Which of the following best explains her new-onset hyperglycemia?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Autoimmune T-cell destruction of pancreatic beta cells"
+    },
+    {
+      "id": "B",
+      "text": "Unopposed growth hormone secretion from a pituitary adenoma"
+    },
+    {
+      "id": "C",
+      "text": "Excessive epinephrine secretion from a pheochromocytoma"
+    },
+    {
+      "id": "D",
+      "text": "An insulin-secreting pancreatic beta-cell tumor"
+    },
+    {
+      "id": "E",
+      "text": "Glucocorticoid-induced insulin resistance (steroid diabetes)"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Glucocorticoids are diabetogenic: they increase gluconeogenesis, promote insulin resistance, and enhance lipolysis and proteolysis, so chronic glucocorticoid therapy can produce 'steroid diabetes.' Diabetes can rarely result from unopposed GH or epinephrine secretion, but here the clear precipitant is glucocorticoid therapy. The 3 P's plus weight loss are the acute manifestations of diabetes.",
+  "explanation_incorrect": {
+    "A": "Autoimmune beta-cell destruction is type 1 diabetes and is not caused by glucocorticoid therapy.",
+    "B": "Unopposed growth hormone is a rare cause of diabetes (as in acromegaly), but there is no evidence of a pituitary adenoma here.",
+    "C": "Pheochromocytoma with excess epinephrine is a rare cause, but no catecholamine excess is described in this patient.",
+    "D": "An insulinoma would cause hypoglycemia, not hyperglycemia."
+  },
+  "educationalObjective": "Glucocorticoid therapy can cause steroid diabetes through insulin resistance and increased gluconeogenesis.",
+  "source": "Generated from 8. Endocrine.pdf - Pathology: Diabetes mellitus: complications and diagnosis"
+},
+{
+  "id": "endo-151",
+  "subject": "Endocrine",
+  "major_topic": "Pathology",
+  "subtopic": "Diabetes mellitus: complications and diagnosis",
+  "difficulty": "medium",
+  "vignette": "A 64-year-old man with 20 years of poorly controlled diabetes has retinopathy, peripheral neuropathy, nephropathy, and peripheral vascular disease. He dies of a myocardial infarction.",
+  "question": "Which mechanism best accounts for this cluster of chronic complications?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Sorbitol accumulation from aldose reductase in vascular endothelium"
+    },
+    {
+      "id": "B",
+      "text": "Nonenzymatic glycation causing small-vessel hyaline arteriolosclerosis and large-vessel atherosclerosis"
+    },
+    {
+      "id": "C",
+      "text": "Autoimmune vasculitis of small and large vessels"
+    },
+    {
+      "id": "D",
+      "text": "Amyloid deposition within vessel walls"
+    },
+    {
+      "id": "E",
+      "text": "Excess insulin driving vascular smooth-muscle proliferation"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Chronic hyperglycemia causes nonenzymatic glycation of proteins, producing small-vessel disease (hyaline arteriolosclerosis) that manifests as retinopathy, neuropathy, and nephropathy, and large-vessel disease (atherosclerosis) causing coronary artery disease, cerebrovascular disease, and peripheral vascular disease. Myocardial infarction is the most common cause of death in diabetes. Sorbitol/osmotic damage is a distinct mechanism responsible mainly for neuropathy and cataracts.",
+  "explanation_incorrect": {
+    "A": "Sorbitol accumulation causes osmotic damage (neuropathy, cataracts), not the hyaline arteriolosclerosis and atherosclerosis described here.",
+    "C": "Diabetic vascular disease is metabolic, not an autoimmune vasculitis.",
+    "D": "Amyloid deposition is not the mechanism of diabetic retinopathy or nephropathy.",
+    "E": "Insulin does not drive the glycation-based microvascular and macrovascular damage of diabetes."
+  },
+  "educationalObjective": "Nonenzymatic glycation causes small-vessel hyaline arteriolosclerosis and large-vessel atherosclerosis; MI is the leading cause of death in diabetes.",
+  "source": "Generated from 8. Endocrine.pdf - Pathology: Diabetes mellitus: complications and diagnosis"
+},
+{
+  "id": "endo-152",
+  "subject": "Endocrine",
+  "major_topic": "Pathology",
+  "subtopic": "Diabetes mellitus: complications and diagnosis",
+  "difficulty": "hard",
+  "vignette": "A 55-year-old woman with long-standing diabetes has symmetric sensory loss in a glove-and-stocking distribution and bilateral cataracts. Histologic study of lens tissue shows accumulation of an osmotically active sugar alcohol.",
+  "question": "Which of the following best explains the pathogenesis of these findings?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Nonenzymatic glycation of vascular collagen causing hyaline arteriolosclerosis"
+    },
+    {
+      "id": "B",
+      "text": "Atherosclerotic narrowing of the vasa nervorum supplying peripheral nerves"
+    },
+    {
+      "id": "C",
+      "text": "Autoimmune destruction of peripheral sensory neurons"
+    },
+    {
+      "id": "D",
+      "text": "Osmotic damage from sorbitol accumulation in tissues with aldose reductase and low or absent sorbitol dehydrogenase"
+    },
+    {
+      "id": "E",
+      "text": "Vitamin B12 deficiency from long-term metformin therapy"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "In tissues possessing aldose reductase but little or no sorbitol dehydrogenase (such as nerve, lens, and retina), glucose is reduced to sorbitol, which cannot be further metabolized and accumulates, causing osmotic damage. This produces diabetic peripheral neuropathy (motor, sensory glove-and-stocking, and autonomic degeneration such as gastroparesis, GERD, and diabetic diarrhea) and cataracts. It is distinct from the glycation-based microvascular disease.",
+  "explanation_incorrect": {
+    "A": "Hyaline arteriolosclerosis from glycation underlies retinopathy and nephropathy, not the sorbitol-mediated neuropathy and cataracts described here.",
+    "B": "Vasa nervorum atherosclerosis can contribute to neuropathy but does not explain the cataracts or the classic sorbitol mechanism.",
+    "C": "Diabetic neuropathy is metabolic/osmotic, not autoimmune.",
+    "E": "Metformin-associated vitamin B12 deficiency can cause neuropathy but not cataracts and not through sorbitol accumulation."
+  },
+  "educationalObjective": "Sorbitol accumulation via aldose reductase with low sorbitol dehydrogenase causes osmotic neuropathy and cataracts.",
+  "source": "Generated from 8. Endocrine.pdf - Pathology: Diabetes mellitus: complications and diagnosis"
+},
+{
+  "id": "endo-153",
+  "subject": "Endocrine",
+  "major_topic": "Pathology",
+  "subtopic": "Diabetes mellitus: complications and diagnosis",
+  "difficulty": "easy",
+  "vignette": "A 24-year-old man with type 1 diabetes misses several doses of insulin during an illness. He has vomiting, abdominal pain, rapid deep breathing, and a fruity odor on his breath. Serum glucose is 320 mg/dL, pH 7.10, bicarbonate 12 mEq/L, with elevated serum and urine ketones.",
+  "question": "Which of the following is the most likely diagnosis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Diabetic ketoacidosis"
+    },
+    {
+      "id": "B",
+      "text": "Hyperosmolar hyperglycemic state"
+    },
+    {
+      "id": "C",
+      "text": "Hypoglycemia"
+    },
+    {
+      "id": "D",
+      "text": "Steroid diabetes"
+    },
+    {
+      "id": "E",
+      "text": "Lactic acidosis due to metformin"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Insulin deficiency with increased counter-regulatory hormones drives lipolysis and ketogenesis, producing a high anion-gap metabolic acidosis with ketonemia and ketonuria — diabetic ketoacidosis. Findings include Kussmaul respirations, abdominal pain, nausea/vomiting, dehydration, and fruity breath from exhaled acetone. It is classically a complication of type 1 diabetes, whereas HHS occurs in type 2 with minimal ketosis.",
+  "explanation_incorrect": {
+    "B": "HHS occurs in older type 2 patients with profound hyperglycemia, high osmolarity, and minimal ketones, not this ketoacidosis.",
+    "C": "Hypoglycemia would show low glucose, not severe hyperglycemia with acidosis.",
+    "D": "Steroid diabetes is due to glucocorticoids, not acute insulin deficiency with ketosis.",
+    "E": "Metformin-related lactic acidosis lacks marked ketosis and the classic fruity breath of diabetic ketoacidosis."
+  },
+  "educationalObjective": "DKA is insulin-deficient ketoacidosis with Kussmaul breathing, ketosis, and high anion-gap acidosis, typical of type 1 DM.",
+  "source": "Generated from 8. Endocrine.pdf - Pathology: Diabetes mellitus: complications and diagnosis"
+},
+{
+  "id": "endo-154",
+  "subject": "Endocrine",
+  "major_topic": "Pathology",
+  "subtopic": "Diabetes mellitus: complications and diagnosis",
+  "difficulty": "medium",
+  "vignette": "A 50-year-old patient with diabetes also has hemolytic anemia with markedly increased red blood cell turnover. The clinician wants the most reliable measure of glycemic control.",
+  "question": "Which of the following tests would be least reliable in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Fasting plasma glucose"
+    },
+    {
+      "id": "B",
+      "text": "Two-hour oral glucose tolerance test"
+    },
+    {
+      "id": "C",
+      "text": "HbA1c"
+    },
+    {
+      "id": "D",
+      "text": "Random plasma glucose with hyperglycemic symptoms"
+    },
+    {
+      "id": "E",
+      "text": "Urine glucose measurement"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "HbA1c reflects average blood glucose over the prior 3 months and depends on a normal red cell lifespan; conditions that increase red cell turnover, such as hemolytic anemia, shorten the exposure of hemoglobin to glucose and make HbA1c falsely low or unreliable. Direct glucose measurements (fasting, OGTT, random) reflect current glycemia and are unaffected by red cell turnover.",
+  "explanation_incorrect": {
+    "A": "Fasting plasma glucose directly measures current glucose and is unaffected by red cell turnover.",
+    "B": "The oral glucose tolerance test measures immediate glucose handling and does not depend on erythrocyte lifespan.",
+    "D": "Random plasma glucose with symptoms reflects current glycemia, independent of red cell turnover.",
+    "E": "Urine glucose reflects current renal glucose handling, not long-term red-cell glycation."
+  },
+  "educationalObjective": "HbA1c reflects 3-month average glucose and is unreliable when red blood cell turnover is abnormal.",
+  "source": "Generated from 8. Endocrine.pdf - Pathology: Diabetes mellitus: complications and diagnosis"
+}
+]

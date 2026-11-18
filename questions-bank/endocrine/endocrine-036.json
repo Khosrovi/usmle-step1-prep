@@ -1,0 +1,248 @@
+[
+{
+  "id": "endo-201",
+  "subject": "Endocrine",
+  "major_topic": "Pathology",
+  "subtopic": "Pancreatic islet cell tumors",
+  "difficulty": "easy",
+  "vignette": "A 42-year-old man has several episodes of confusion and sweating, often before breakfast. During one episode his plasma glucose is 45 mg/dL. Laboratory testing shows elevated immunoreactive insulin. His physician wants to distinguish an endogenous insulinoma from surreptitious exogenous insulin administration.",
+  "question": "Which of the following laboratory findings is most consistent with an endogenous insulinoma rather than exogenous insulin use?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Low blood glucose with elevated C-peptide"
+    },
+    {
+      "id": "B",
+      "text": "Low blood glucose with decreased C-peptide"
+    },
+    {
+      "id": "C",
+      "text": "High blood glucose with elevated C-peptide"
+    },
+    {
+      "id": "D",
+      "text": "High blood glucose with decreased C-peptide"
+    },
+    {
+      "id": "E",
+      "text": "Normal glucose with elevated C-peptide"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Insulinoma is a tumor of pancreatic beta cells that autonomously overproduces insulin, which lowers blood glucose. Because the insulin is synthesized endogenously, C-peptide (cleaved from proinsulin in equimolar amounts) is elevated alongside the low glucose. In exogenous insulin administration, glucose is low but C-peptide is suppressed because the injected insulin feeds back to inhibit endogenous insulin secretion. Demonstrating low glucose with inappropriately high C-peptide is therefore the classic way to confirm endogenous hyperinsulinism.",
+  "explanation_incorrect": {
+    "B": "Low glucose with low C-peptide is the pattern of exogenous insulin use, not insulinoma: administered insulin suppresses endogenous insulin (and thus C-peptide) secretion.",
+    "C": "High glucose with high C-peptide suggests insulin resistance with compensatory hyperinsulinemia (eg, type 2 diabetes), in which the elevated insulin fails to lower glucose.",
+    "D": "High glucose with low C-peptide fits beta-cell failure (eg, type 1 diabetes), where both insulin and C-peptide production are deficient.",
+    "E": "Normal glucose with elevated C-peptide occurs in insulin-resistant states and does not show the fasting hypoglycemia with inappropriately high insulin that defines insulinoma."
+  },
+  "educationalObjective": "Insulinoma produces fasting hypoglycemia with inappropriately elevated C-peptide, distinguishing endogenous hyperinsulinism from exogenous insulin use.",
+  "source": "Generated from 8. Endocrine.pdf - Pathology: Pancreatic islet cell tumors"
+},
+{
+  "id": "endo-202",
+  "subject": "Endocrine",
+  "major_topic": "Pathology",
+  "subtopic": "Pancreatic islet cell tumors",
+  "difficulty": "medium",
+  "vignette": "A 35-year-old woman has recurrent episodes of lethargy, confusion, and double vision that occur several hours after meals. During an episode her serum glucose is 40 mg/dL. After oral glucose is administered, her symptoms completely resolve. She has no history of diabetes or insulin use, and C-peptide is elevated during episodes.",
+  "question": "Which of the following pancreatic lesions is most likely responsible for these findings?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Glucagonoma"
+    },
+    {
+      "id": "B",
+      "text": "Insulinoma"
+    },
+    {
+      "id": "C",
+      "text": "Somatostatinoma"
+    },
+    {
+      "id": "D",
+      "text": "Gastrinoma"
+    },
+    {
+      "id": "E",
+      "text": "Carcinoid tumor"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "This patient has Whipple triad: low blood glucose, symptoms of hypoglycemia (lethargy, syncope, diplopia), and resolution of symptoms after normalization of plasma glucose. This is the classic presentation of insulinoma, a beta-cell tumor that autonomously overproduces insulin and drives glucose down. The elevated C-peptide confirms the insulin is endogenous. About 10% of insulinomas are associated with MEN1, and treatment is surgical resection.",
+  "explanation_incorrect": {
+    "A": "Glucagonoma causes hyperglycemia (diabetes) and the 6 D's, including necrolytic migratory erythema and declining weight, not fasting hypoglycemia.",
+    "C": "Somatostatinoma suppresses insulin and other gut hormones, producing glucose intolerance and steatorrhea rather than hypoglycemic episodes.",
+    "D": "Gastrinoma (Zollinger-Ellison syndrome) causes acid hypersecretion with recurrent ulcers and diarrhea; it does not produce fasting hypoglycemia.",
+    "E": "Carcinoid tumors secrete 5-HT and cause flushing, diarrhea, and right-sided valvular disease when metastatic to liver; they are not a cause of Whipple triad."
+  },
+  "educationalObjective": "Insulinoma (beta-cell tumor) causes fasting hypoglycemia with Whipple triad - low glucose, hypoglycemic symptoms, and relief after glucose.",
+  "source": "Generated from 8. Endocrine.pdf - Pathology: Pancreatic islet cell tumors"
+},
+{
+  "id": "endo-203",
+  "subject": "Endocrine",
+  "major_topic": "Pathology",
+  "subtopic": "Pancreatic islet cell tumors",
+  "difficulty": "medium",
+  "vignette": "A 58-year-old woman has a painful, migrating erythematous rash on her buttocks and extremities, hyperglycemia, unintentional weight loss, chronic diarrhea, and a deep vein thrombosis. Skin biopsy shows necrolytic migratory erythema. She is found to have a pancreatic neuroendocrine tumor.",
+  "question": "Which of the following pancreatic tumors best explains this constellation of findings?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Insulinoma"
+    },
+    {
+      "id": "B",
+      "text": "Somatostatinoma"
+    },
+    {
+      "id": "C",
+      "text": "Glucagonoma"
+    },
+    {
+      "id": "D",
+      "text": "Gastrinoma"
+    },
+    {
+      "id": "E",
+      "text": "Carcinoid tumor"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "This patient has the 6 D's of glucagonoma: dermatitis (necrolytic migratory erythema), diabetes (hyperglycemia), DVT, declining weight, depression, and diarrhea. Glucagonoma is an alpha-cell pancreatic tumor with overproduction of glucagon, which raises blood glucose and drives the catabolic state. Treatment is octreotide and surgical resection.",
+  "explanation_incorrect": {
+    "A": "Insulinoma causes hypoglycemia with Whipple triad, not hyperglycemia, a migratory rash, or weight loss.",
+    "B": "Somatostatinoma presents with diabetes, steatorrhea, gallstones, and achlorhydria from broad gut-hormone suppression, not necrolytic migratory erythema or DVT.",
+    "D": "Gastrinoma produces recurrent ulcers and diarrhea from acid hypersecretion; it is not associated with a migratory necrolytic rash.",
+    "E": "Carcinoid syndrome causes flushing, diarrhea, wheezing, and right-sided valve disease, not the hyperglycemia and weight loss of the 6 D's."
+  },
+  "educationalObjective": "Glucagonoma (alpha-cell tumor) causes the 6 D's, including necrolytic migratory erythema and diabetes, and is treated with octreotide and resection.",
+  "source": "Generated from 8. Endocrine.pdf - Pathology: Pancreatic islet cell tumors"
+},
+{
+  "id": "endo-204",
+  "subject": "Endocrine",
+  "major_topic": "Pathology",
+  "subtopic": "Pancreatic islet cell tumors",
+  "difficulty": "easy",
+  "vignette": "A 61-year-old man has glucose intolerance, fatty stools, and gallstones. Workup also reveals achlorhydria. He is found to have a pancreatic tumor that suppresses secretion of secretin, cholecystokinin, gastrin, and other gut hormones.",
+  "question": "Which of the following is the most likely diagnosis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Insulinoma"
+    },
+    {
+      "id": "B",
+      "text": "Glucagonoma"
+    },
+    {
+      "id": "C",
+      "text": "Gastrinoma"
+    },
+    {
+      "id": "D",
+      "text": "Somatostatinoma"
+    },
+    {
+      "id": "E",
+      "text": "Carcinoid tumor"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Somatostatinoma is a delta-cell tumor that overproduces somatostatin, which inhibits secretion of secretin, cholecystokinin, glucagon, insulin, gastrin, and GIP. The resulting hormone suppression produces diabetes/glucose intolerance, steatorrhea, gallstones, and achlorhydria (from reduced gastrin). Treatment is surgical resection, with somatostatin analogs such as octreotide for symptom control.",
+  "explanation_incorrect": {
+    "A": "Insulinoma causes hypoglycemia from excess insulin, not the glucose intolerance, steatorrhea, and achlorhydria seen here.",
+    "B": "Glucagonoma causes hyperglycemia with the 6 D's, including necrolytic migratory erythema and declining weight; it does not suppress gastrin to cause achlorhydria.",
+    "C": "Gastrinoma causes acid hypersecretion and ulcers, the opposite of achlorhydria, with diarrhea and steatorrhea from enzyme inactivation.",
+    "E": "Carcinoid tumors cause flushing, diarrhea, wheezing, and right-sided valve lesions via 5-HT; they are not defined by broad suppression of gut hormones."
+  },
+  "educationalObjective": "Somatostatinoma (delta-cell tumor) suppresses secretin, CCK, gastrin, insulin, and other gut hormones, causing diabetes, steatorrhea, gallstones, and achlorhydria.",
+  "source": "Generated from 8. Endocrine.pdf - Pathology: Pancreatic islet cell tumors"
+},
+{
+  "id": "endo-205",
+  "subject": "Endocrine",
+  "major_topic": "Pathology",
+  "subtopic": "Pancreatic islet cell tumors",
+  "difficulty": "hard",
+  "vignette": "A 29-year-old woman has recurrent fasting hypoglycemia due to a pancreatic neuroendocrine tumor, with low glucose and elevated C-peptide during episodes. Because of her young age, her physician evaluates her for a familial tumor syndrome. Approximately 10% of the tumor affecting this patient is associated with which of the following syndromes?",
+  "question": "With which familial syndrome is this patient's tumor associated in roughly 10% of cases?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Carcinoid syndrome"
+    },
+    {
+      "id": "B",
+      "text": "Zollinger-Ellison syndrome"
+    },
+    {
+      "id": "C",
+      "text": "Whipple triad"
+    },
+    {
+      "id": "D",
+      "text": "Multiple endocrine neoplasia type 2B"
+    },
+    {
+      "id": "E",
+      "text": "Multiple endocrine neoplasia type 1"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "This patient has an insulinoma, and approximately 10% of insulinomas occur in the setting of MEN1 syndrome, a hereditary predisposition to tumors of the parathyroid glands, pituitary, and pancreatic islets (the 3 P's). An insulinoma occurring as part of MEN1 may be multifocal and should prompt evaluation for the other MEN1 manifestations. Among the syndromes listed, MEN1 is the classic association for insulinoma.",
+  "explanation_incorrect": {
+    "A": "Carcinoid syndrome is a paraneoplastic syndrome caused by 5-HT from neuroendocrine tumors with liver metastasis; it is not a hereditary tumor predisposition.",
+    "B": "Zollinger-Ellison syndrome is gastrinoma-driven acid hypersecretion; although ZES itself can be associated with MEN1, it is a different tumor and is not the syndrome found in about 10% of insulinomas.",
+    "C": "Whipple triad is the clinical triad of hypoglycemia seen in this patient, not a genetic syndrome.",
+    "D": "MEN2B is associated with medullary thyroid carcinoma, pheochromocytoma, and mucosal neuromas; it is not the syndrome linked to insulinoma."
+  },
+  "educationalObjective": "About 10% of insulinomas are associated with MEN1, so a young patient with insulinoma should be evaluated for other MEN1 tumors.",
+  "source": "Generated from 8. Endocrine.pdf - Pathology: Pancreatic islet cell tumors"
+},
+{
+  "id": "endo-206",
+  "subject": "Endocrine",
+  "major_topic": "Pathology",
+  "subtopic": "Pancreatic islet cell tumors",
+  "difficulty": "medium",
+  "vignette": "A 40-year-old man has a 1.5-cm solitary pancreatic mass with fasting hypoglycemia and elevated C-peptide. Metastatic workup is negative. His physician discusses definitive management of the underlying tumor rather than simply suppressing symptoms.",
+  "question": "Which of the following is the definitive first-line treatment for this patient's tumor?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Surgical resection"
+    },
+    {
+      "id": "B",
+      "text": "Octreotide monotherapy"
+    },
+    {
+      "id": "C",
+      "text": "Telotristat"
+    },
+    {
+      "id": "D",
+      "text": "Dietary modification alone"
+    },
+    {
+      "id": "E",
+      "text": "Observation alone"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Insulinoma is usually a benign, solitary beta-cell tumor, and surgical resection is the definitive first-line treatment and is often curative when the lesion is localized. Octreotide and other somatostatin analogs are used mainly for symptom control in glucagonoma, somatostatinoma, and carcinoid syndrome, not as definitive therapy for insulinoma. Telotristat is a tryptophan hydroxylase inhibitor used for carcinoid syndrome diarrhea. Dietary measures alone do not remove the autonomously secreting tumor.",
+  "explanation_incorrect": {
+    "B": "Octreotide is a somatostatin analog used for symptom control in glucagonoma, somatostatinoma, and carcinoid syndrome, not as definitive therapy for insulinoma.",
+    "C": "Telotristat inhibits tryptophan hydroxylase and is used for carcinoid syndrome diarrhea; it has no role in treating insulinoma.",
+    "D": "Dietary modification (eg, frequent small meals) may temporarily blunt hypoglycemia but does not remove the insulin-secreting tumor.",
+    "E": "Observation is inappropriate because the tumor causes recurrent, potentially severe hypoglycemia; a localized tumor should be resected."
+  },
+  "educationalObjective": "Localized insulinoma is treated definitively with surgical resection; octreotide and telotristat are used for other neuroendocrine tumors.",
+  "source": "Generated from 8. Endocrine.pdf - Pathology: Pancreatic islet cell tumors"
+}
+]

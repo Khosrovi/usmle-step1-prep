@@ -1,0 +1,166 @@
+[
+{
+  "id": "endo-216",
+  "subject": "Endocrine",
+  "major_topic": "Pharmacology",
+  "subtopic": "Insulin preparations",
+  "difficulty": "easy",
+  "vignette": "A 42-year-old woman with type 1 diabetes mellitus uses a basal-bolus insulin regimen. She wants a mealtime (prandial) insulin that begins working almost immediately after subcutaneous injection so that it covers the glucose rise from a meal without a long lag. Her endocrinologist reviews the available insulin preparations with her.",
+  "question": "Which of the following insulins is rapid acting with essentially no lag time?",
+  "options": [
+    {
+      "id": "A",
+      "text": "NPH"
+    },
+    {
+      "id": "B",
+      "text": "Glargine"
+    },
+    {
+      "id": "C",
+      "text": "Lispro"
+    },
+    {
+      "id": "D",
+      "text": "Regular"
+    },
+    {
+      "id": "E",
+      "text": "Degludec"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Lispro, along with aspart and glulisine, is a rapid-acting insulin analog with essentially no lag time, making it ideal for mealtime (prandial) coverage. These analogs are modified so they do not form hexamers and are absorbed quickly from subcutaneous tissue. NPH is intermediate acting, regular insulin is short acting, and glargine/detemir are long acting while degludec is very long acting. Choosing a rapid-acting analog lets the insulin peak in sync with the postprandial glucose surge. This rapid onset is the key distinguishing feature tested here.",
+  "explanation_incorrect": {
+    "A": "NPH is an intermediate-acting insulin, not rapid acting; it has a slower onset and a pronounced peak used for basal coverage.",
+    "B": "Glargine is a long-acting (basal) insulin designed for a steady, peakless 24-hour effect, not for immediate mealtime coverage.",
+    "D": "Regular insulin is short acting rather than rapid acting; it has a measurable onset lag and is given IV in emergencies, not as a no-lag analog.",
+    "E": "Degludec is a very long-acting basal insulin whose effect extends beyond 24 hours, the opposite of a rapid prandial agent."
+  },
+  "educationalObjective": "Lispro, aspart, and glulisine are rapid-acting insulins with no lag time, whereas NPH, regular, glargine/detemir, and degludec are progressively longer acting.",
+  "source": "Generated from 8. Endocrine.pdf - Pharmacology: Insulin preparations"
+},
+{
+  "id": "endo-217",
+  "subject": "Endocrine",
+  "major_topic": "Pharmacology",
+  "subtopic": "Insulin preparations",
+  "difficulty": "medium",
+  "vignette": "A 24-year-old man with newly diagnosed type 1 diabetes is learning how his insulin works. His physician explains that insulin binds a specific receptor on the surface of cells and triggers both immediate metabolic effects and longer-term changes in gene transcription. He asks which tissues and processes are affected.",
+  "question": "Insulin binding to its receptor (which has tyrosine kinase activity) produces which of the following effects?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Increased cellular uptake of K+"
+    },
+    {
+      "id": "B",
+      "text": "Increased hepatic gluconeogenesis"
+    },
+    {
+      "id": "C",
+      "text": "Increased glucagon release from alpha cells"
+    },
+    {
+      "id": "D",
+      "text": "Decreased triglyceride storage in adipose tissue"
+    },
+    {
+      "id": "E",
+      "text": "Decreased glycogen synthesis in skeletal muscle"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Insulin binds the insulin receptor, a receptor tyrosine kinase, and exerts anabolic effects throughout the body. One of its actions is to drive K+ (and amino acids) into cells by stimulating membrane transporters and Na+/K+-ATPase, which is why insulin is used with glucose to treat hyperkalemia. It also increases glycogen synthesis in liver and muscle, increases protein synthesis in muscle, and increases triglyceride storage in fat. At the same time it suppresses glucagon release and hepatic gluconeogenesis. Thus, increased cellular K+ uptake is the correct anabolic effect, while the other options reverse insulin's true actions.",
+  "explanation_incorrect": {
+    "B": "Insulin inhibits hepatic gluconeogenesis; increasing gluconeogenesis is a glucagon/cortisol effect, not an insulin effect.",
+    "C": "Insulin suppresses glucagon release from pancreatic alpha cells rather than increasing it.",
+    "D": "Insulin promotes triglyceride storage in adipose tissue and inhibits lipolysis; it does not decrease fat storage.",
+    "E": "Insulin stimulates glycogen synthesis in skeletal muscle, not decreases it."
+  },
+  "educationalObjective": "Insulin is an anabolic hormone that increases cellular K+ and amino acid uptake, glycogen and triglyceride synthesis, while suppressing gluconeogenesis and glucagon.",
+  "source": "Generated from 8. Endocrine.pdf - Pharmacology: Insulin preparations"
+},
+{
+  "id": "endo-218",
+  "subject": "Endocrine",
+  "major_topic": "Pharmacology",
+  "subtopic": "Insulin preparations",
+  "difficulty": "medium",
+  "vignette": "A 60-year-old man with chronic kidney disease presents with a serum potassium of 6.9 mEq/L and peaked T waves on ECG. He is treated with intravenous calcium, then given intravenous insulin together with glucose to shift potassium into cells and prevent life-threatening arrhythmia while definitive therapy is arranged.",
+  "question": "Which insulin preparation is preferred for this indication (hyperkalemia, DKA, and stress hyperglycemia)?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Glargine"
+    },
+    {
+      "id": "B",
+      "text": "NPH"
+    },
+    {
+      "id": "C",
+      "text": "Degludec"
+    },
+    {
+      "id": "D",
+      "text": "Regular insulin"
+    },
+    {
+      "id": "E",
+      "text": "Aspart"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Regular (short-acting) insulin is the preferred preparation for emergency situations such as DKA, hyperkalemia, and stress hyperglycemia, and it is given intravenously for a predictable, rapid effect. In hyperkalemia it is administered with glucose to prevent the hypoglycemia that would otherwise result from driving glucose into cells along with potassium. Long-acting insulins such as glargine and degludec are far too slow and are never used in this acute setting. NPH is intermediate acting and also inappropriate. Rapid analogs like aspart are used for prandial coverage, but regular insulin is the classic choice for IV emergency use.",
+  "explanation_incorrect": {
+    "A": "Glargine is a long-acting basal insulin with a slow, peakless release; it cannot act rapidly enough for an emergency.",
+    "B": "NPH is intermediate acting with a slower onset and variable absorption, so it is not used for emergent hyperkalemia or DKA.",
+    "C": "Degludec is an ultra-long-acting basal insulin and is wholly unsuitable for acute correction of potassium or glucose.",
+    "E": "Aspart is a rapid-acting prandial analog; regular insulin, not aspart, is the preparation classically preferred for IV emergency use."
+  },
+  "educationalObjective": "Regular insulin given IV (with glucose for hyperkalemia) is the preferred preparation for DKA, hyperkalemia, and stress hyperglycemia.",
+  "source": "Generated from 8. Endocrine.pdf - Pharmacology: Insulin preparations"
+},
+{
+  "id": "endo-219",
+  "subject": "Endocrine",
+  "major_topic": "Pharmacology",
+  "subtopic": "Insulin preparations",
+  "difficulty": "hard",
+  "vignette": "A 35-year-old woman with type 1 diabetes has injected subcutaneous insulin at the same few abdominal sites for over a decade. She notices painless, depressed, firm areas of skin at these injection sites, and her glucose control has become erratic because insulin absorption from the affected areas is unpredictable.",
+  "question": "Which adverse effect of insulin therapy best explains these findings?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Hypoglycemia"
+    },
+    {
+      "id": "B",
+      "text": "Lipodystrophy"
+    },
+    {
+      "id": "C",
+      "text": "Hypersensitivity reaction"
+    },
+    {
+      "id": "D",
+      "text": "Weight gain"
+    },
+    {
+      "id": "E",
+      "text": "Lactic acidosis"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Repeated subcutaneous injection at the same sites can cause lipodystrophy, a localized loss or hypertrophy of subcutaneous fat that produces painless depressed or thickened areas. Because insulin absorption from these areas becomes unpredictable, patients can develop erratic glucose control and unexpected hypoglycemia or hyperglycemia. Rotating injection sites helps prevent this complication. Insulin is an anabolic hormone, so weight gain is also a common systemic effect, but weight gain would not cause localized depressed skin lesions. Rare hypersensitivity reactions and hypoglycemia are recognized effects too, but they do not produce these focal anatomic changes; lactic acidosis is a metformin concern, not an insulin effect.",
+  "explanation_incorrect": {
+    "A": "Hypoglycemia is a systemic risk of insulin but does not cause localized depressed subcutaneous lesions at injection sites.",
+    "C": "Hypersensitivity reactions to insulin are rare and typically cause urticaria or anaphylaxis, not focal fat loss.",
+    "D": "Weight gain is a common anabolic effect of insulin, but it is generalized and does not explain the local skin changes described.",
+    "E": "Lactic acidosis is associated with metformin (especially in renal insufficiency), not with insulin therapy."
+  },
+  "educationalObjective": "Insulin can cause hypoglycemia, weight gain, rare hypersensitivity, and lipodystrophy; lipodystrophy causes unpredictable absorption at repeated injection sites.",
+  "source": "Generated from 8. Endocrine.pdf - Pharmacology: Insulin preparations"
+}
+]

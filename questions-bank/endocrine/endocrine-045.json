@@ -1,0 +1,125 @@
+[
+{
+  "id": "endo-091",
+  "subject": "Endocrine",
+  "major_topic": "Physiology",
+  "subtopic": "Steroid hormone signaling and SHBG",
+  "difficulty": "easy",
+  "vignette": "A biochemistry student is reviewing why steroid hormones require carrier proteins in the blood. She notes that steroid hormones are lipophilic and circulate bound to specific binding globulins.",
+  "question": "What is the primary function of binding globulins for steroid hormones in the circulation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "They convert steroid hormones into water-soluble esters for renal excretion"
+    },
+    {
+      "id": "B",
+      "text": "They increase the solubility of lipophilic steroid hormones in plasma"
+    },
+    {
+      "id": "C",
+      "text": "They convert steroid hormones into peptide hormones"
+    },
+    {
+      "id": "D",
+      "text": "They permanently destroy excess hormone to prevent receptor binding"
+    },
+    {
+      "id": "E",
+      "text": "They allow steroid hormones to bind directly to cell-surface receptors"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Steroid hormones are lipophilic and therefore poorly soluble in aqueous plasma, so they must circulate bound to specific binding globulins such as corticosteroid-binding globulin and sex hormone-binding globulin, which increase their solubility. Binding is reversible, and only the free fraction diffuses into cells to bind intracellular receptors.",
+  "explanation_incorrect": {
+    "A": "Binding globulins do not chemically convert steroids into excretory esters; they bind the hormone reversibly.",
+    "C": "Steroids remain steroids; carrier proteins do not convert them into peptide hormones.",
+    "D": "Binding globulins transport and buffer hormone rather than destroy it; bound hormone serves as a circulating reservoir.",
+    "E": "Steroid hormones bind intracellular receptors, not cell-surface receptors, and the globulin does not change that."
+  },
+  "educationalObjective": "Steroid hormones are lipophilic and circulate bound to specific binding globulins that increase their plasma solubility.",
+  "source": "Generated from 8. Endocrine.pdf - Physiology: Steroid hormone signaling and SHBG"
+},
+{
+  "id": "endo-092",
+  "subject": "Endocrine",
+  "major_topic": "Physiology",
+  "subtopic": "Steroid hormone signaling and SHBG",
+  "difficulty": "medium",
+  "vignette": "A 55-year-old man is started on an estrogen-containing medication. Several months later he develops tender gynecomastia. Laboratory testing shows elevated sex hormone-binding globulin and a reduced free testosterone level.",
+  "question": "Which of the following best explains the development of gynecomastia in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Decreased SHBG raises free testosterone, which is aromatized to estradiol in breast tissue"
+    },
+    {
+      "id": "B",
+      "text": "Increased SHBG raises free testosterone, producing androgenic effects"
+    },
+    {
+      "id": "C",
+      "text": "Increased SHBG lowers free testosterone, reducing androgen action relative to estrogen"
+    },
+    {
+      "id": "D",
+      "text": "Estrogen directly suppresses SHBG synthesis, raising free estradiol"
+    },
+    {
+      "id": "E",
+      "text": "Decreased SHBG lowers free testosterone and thereby causes gynecomastia"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "In males, increased SHBG binds more testosterone and lowers free testosterone, so androgen action falls relative to estrogen action and gynecomastia develops. Increased estrogen, as with oral contraceptives or pregnancy, raises SHBG. The reverse change, decreased SHBG, raises free testosterone and in females can produce hirsutism.",
+  "explanation_incorrect": {
+    "A": "Decreased SHBG would raise free testosterone; this patient has increased SHBG and low free testosterone.",
+    "B": "Increased SHBG lowers rather than raises free testosterone, and higher free testosterone would produce androgenic rather than feminizing effects.",
+    "D": "Estrogen increases SHBG rather than suppressing it; the mechanism here is reduced free testosterone.",
+    "E": "Decreased SHBG would raise free testosterone; this patient's gynecomastia reflects increased SHBG and reduced free testosterone."
+  },
+  "educationalObjective": "In males, elevated SHBG lowers free testosterone and favors gynecomastia; estrogen increases SHBG.",
+  "source": "Generated from 8. Endocrine.pdf - Physiology: Steroid hormone signaling and SHBG"
+},
+{
+  "id": "endo-093",
+  "subject": "Endocrine",
+  "major_topic": "Physiology",
+  "subtopic": "Steroid hormone signaling and SHBG",
+  "difficulty": "hard",
+  "vignette": "A 28-year-old woman develops coarse facial hair and acne. Laboratory studies show reduced sex hormone-binding globulin and elevated free testosterone. Her physician explains that the increased free testosterone acts directly on androgen receptors in hair follicles.",
+  "question": "Which of the following best describes how the elevated free testosterone produces these effects in her target cells?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Free testosterone diffuses into cells, binds an intracellular receptor, and the hormone-receptor complex binds an enhancer-like DNA element to drive transcription of pre-mRNA and protein synthesis"
+    },
+    {
+      "id": "B",
+      "text": "Free testosterone binds a cell-surface receptor that activates adenylyl cyclase and cAMP production"
+    },
+    {
+      "id": "C",
+      "text": "Free testosterone binds a receptor tyrosine kinase that activates the MAP kinase cascade"
+    },
+    {
+      "id": "D",
+      "text": "Free testosterone acts through a G-protein-coupled receptor that generates IP3 and raises intracellular calcium"
+    },
+    {
+      "id": "E",
+      "text": "Free testosterone binds a membrane receptor that recruits JAK and activates STAT"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Reduced SHBG increases free testosterone, which, being lipophilic, diffuses into target cells and binds an intracellular androgen receptor. Binding transforms the receptor to expose its DNA-binding domain; the hormone-receptor complex then binds an enhancer-like element in DNA, leading to transcription of pre-mRNA, processing to mRNA, and translation into protein such as the androgen-driven changes in hair follicles that produce hirsutism. The cAMP, receptor tyrosine kinase, IP3/calcium, and JAK/STAT pathways are used by peptide hormones and growth factors, not steroids.",
+  "explanation_incorrect": {
+    "B": "cAMP and protein kinase A signaling are used by peptide hormones such as glucagon and ACTH, not by steroid hormones.",
+    "C": "Receptor tyrosine kinase and MAP kinase signaling are used by insulin and growth factors, not by steroids.",
+    "D": "IP3 and calcium signaling are used by hormones such as GnRH and angiotensin II, not by steroids.",
+    "E": "JAK/STAT is the nonreceptor tyrosine kinase pathway of GH, EPO, and cytokines, not the pathway used by steroids."
+  },
+  "educationalObjective": "Low SHBG raises free testosterone, which acts through intracellular receptors that bind enhancer-like DNA elements to regulate gene transcription.",
+  "source": "Generated from 8. Endocrine.pdf - Physiology: Steroid hormone signaling and SHBG"
+}
+]

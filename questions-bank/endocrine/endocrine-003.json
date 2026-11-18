@@ -1,0 +1,248 @@
+[
+{
+  "id": "endo-175",
+  "subject": "Endocrine",
+  "major_topic": "Pathology",
+  "subtopic": "Adrenal insufficiency",
+  "difficulty": "medium",
+  "vignette": "A 36-year-old woman has fatigue, weight loss, salt cravings, and orthostatic hypotension. Laboratory studies show hyponatremia, hyperkalemia with a potassium of 6.0 mEq/L, and a metabolic acidosis. She has darkening of the buccal mucosa and pressure areas.",
+  "question": "Which of the following best explains these findings?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Primary adrenal insufficiency with combined cortisol and aldosterone deficiency"
+    },
+    {
+      "id": "B",
+      "text": "Secondary adrenal insufficiency from pituitary ACTH deficiency"
+    },
+    {
+      "id": "C",
+      "text": "Tertiary adrenal insufficiency from hypothalamic CRH deficiency"
+    },
+    {
+      "id": "D",
+      "text": "Primary hyperaldosteronism (Conn syndrome)"
+    },
+    {
+      "id": "E",
+      "text": "Exogenous glucocorticoid therapy with intact adrenal function"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "In primary adrenal insufficiency, destruction of the adrenal cortex causes deficiency of both cortisol and aldosterone. Aldosterone loss produces hyponatremic volume contraction, hyperkalemia, and metabolic acidosis, while loss of cortisol feedback raises POMC derivatives and causes hyperpigmentation of the skin and buccal mucosa. These features distinguish primary disease from secondary and tertiary forms, in which aldosterone is preserved.",
+  "explanation_incorrect": {
+    "B": "Secondary adrenal insufficiency spares aldosterone because the adrenal gland and renin-angiotensin-aldosterone system are intact, so hyperkalemia and hyperpigmentation do not occur.",
+    "C": "Tertiary adrenal insufficiency also preserves aldosterone and lacks hyperpigmentation; it most often follows abrupt cessation of chronic glucocorticoids.",
+    "D": "Primary hyperaldosteronism causes hypertension and hypokalemia, the opposite of this patient's hypotension and hyperkalemia.",
+    "E": "Exogenous glucocorticoids suppress ACTH and cause secondary or tertiary adrenal insufficiency, which does not produce hyperkalemia or hyperpigmentation."
+  },
+  "educationalObjective": "Primary adrenal insufficiency combines cortisol and aldosterone deficiency, causing hyperkalemia, metabolic acidosis, hypotension, and hyperpigmentation.",
+  "source": "Generated from 8. Endocrine.pdf - Pathology: Adrenal insufficiency"
+},
+{
+  "id": "endo-176",
+  "subject": "Endocrine",
+  "major_topic": "Pathology",
+  "subtopic": "Adrenal insufficiency",
+  "difficulty": "medium",
+  "vignette": "A 44-year-old man with autoimmune adrenalitis has profound fatigue and diffuse darkening of his skin and buccal mucosa. Laboratory studies show a low cortisol and a markedly elevated serum ACTH.",
+  "question": "Which of the following best explains the hyperpigmentation in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Direct deposition of cortisol in the skin secondary to low serum cortisol"
+    },
+    {
+      "id": "B",
+      "text": "Aldosterone deficiency causing melanin deposition in pressure areas"
+    },
+    {
+      "id": "C",
+      "text": "Increased POMC production from loss of cortisol feedback, raising ACTH and MSH to stimulate melanin synthesis"
+    },
+    {
+      "id": "D",
+      "text": "Autoimmune destruction of melanocytes with compensatory post-inflammatory darkening"
+    },
+    {
+      "id": "E",
+      "text": "ACTH-independent cortisol production with secondary skin changes"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Low cortisol removes negative feedback on the pituitary, increasing production of proopiomelanocortin (POMC) and its derivatives, which include ACTH, MSH, and beta-endorphin. MSH stimulates melanocytes to increase melanin synthesis, producing the characteristic hyperpigmentation of primary adrenal insufficiency, especially on the buccal mucosa and pressure areas. This is why 'primary pigments' the skin and mucosa.",
+  "explanation_incorrect": {
+    "A": "Cortisol is not deposited in the skin; the pigmentation results from MSH-driven melanin synthesis after loss of feedback inhibition.",
+    "B": "Aldosterone deficiency accounts for hyperkalemia and volume contraction, not melanin deposition.",
+    "D": "The mechanism is not melanocyte destruction but increased melanin synthesis driven by POMC-derived MSH.",
+    "E": "ACTH-independent cortisol production would suppress ACTH and MSH and would not cause hyperpigmentation."
+  },
+  "educationalObjective": "Loss of cortisol feedback in primary adrenal insufficiency raises POMC-derived ACTH and MSH, and MSH drives melanin synthesis and hyperpigmentation.",
+  "source": "Generated from 8. Endocrine.pdf - Pathology: Adrenal insufficiency"
+},
+{
+  "id": "endo-177",
+  "subject": "Endocrine",
+  "major_topic": "Pathology",
+  "subtopic": "Adrenal insufficiency",
+  "difficulty": "medium",
+  "vignette": "A 60-year-old woman with polymyalgia rheumatica stops taking her high-dose prednisone abruptly after 18 months of therapy. Two weeks later she develops fatigue, weakness, nausea, and orthostatic hypotension. Cortisol is low, ACTH is low, and she has no hyperkalemia or hyperpigmentation.",
+  "question": "Which of the following best characterizes her condition?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Primary adrenal insufficiency due to autoimmune adrenalitis"
+    },
+    {
+      "id": "B",
+      "text": "Tertiary adrenal insufficiency from suppression of the hypothalamic-pituitary-adrenal axis"
+    },
+    {
+      "id": "C",
+      "text": "Secondary adrenal insufficiency due to a pituitary adenoma"
+    },
+    {
+      "id": "D",
+      "text": "Acute adrenal crisis from bilateral adrenal hemorrhage"
+    },
+    {
+      "id": "E",
+      "text": "Primary hyperaldosteronism with secondary cortisol suppression"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Abrupt cessation of chronic glucocorticoid therapy is the most common cause of tertiary adrenal insufficiency: prolonged exogenous steroids suppress hypothalamic CRH and pituitary ACTH, and the adrenal cortex atrophies from lack of stimulation. Because the adrenal glands themselves are intact, aldosterone is preserved via the renin-angiotensin-aldosterone system, so there is no hyperkalemia, and ACTH is low so there is no hyperpigmentation.",
+  "explanation_incorrect": {
+    "A": "Primary adrenal insufficiency would show an elevated ACTH, hyperkalemia, and hyperpigmentation, none of which are present here.",
+    "C": "Secondary adrenal insufficiency results from pituitary pathology; abrupt glucocorticoid withdrawal produces the tertiary form through hypothalamic-pituitary axis suppression.",
+    "D": "Bilateral adrenal hemorrhage is Waterhouse-Friderichsen syndrome, an acute event in sepsis with meningococcemia, not glucocorticoid withdrawal.",
+    "E": "Primary hyperaldosteronism causes hypertension and hypokalemia and does not produce the low-cortisol, low-ACTH state described."
+  },
+  "educationalObjective": "Abrupt withdrawal of chronic glucocorticoids causes tertiary adrenal insufficiency with low ACTH, preserved aldosterone, and no hyperpigmentation.",
+  "source": "Generated from 8. Endocrine.pdf - Pathology: Adrenal insufficiency"
+},
+{
+  "id": "endo-178",
+  "subject": "Endocrine",
+  "major_topic": "Pathology",
+  "subtopic": "Adrenal insufficiency",
+  "difficulty": "hard",
+  "vignette": "A 19-year-old man with meningococcemia develops septic shock, acute abdominal pain, vomiting, and altered mental status. Laboratory testing shows a low cortisol and a markedly elevated ACTH. Imaging demonstrates enlargement of both adrenal glands with hemorrhage.",
+  "question": "Which of the following is the most likely diagnosis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Autoimmune adrenalitis (Addison disease)"
+    },
+    {
+      "id": "B",
+      "text": "Secondary adrenal insufficiency from pituitary infarction"
+    },
+    {
+      "id": "C",
+      "text": "Tertiary adrenal insufficiency from glucocorticoid withdrawal"
+    },
+    {
+      "id": "D",
+      "text": "A unilateral adrenal adenoma with hemorrhage"
+    },
+    {
+      "id": "E",
+      "text": "Waterhouse-Friderichsen syndrome with bilateral adrenal hemorrhage"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Waterhouse-Friderichsen syndrome is bilateral adrenal hemorrhage occurring in the setting of sepsis, classically meningococcemia. The acute destruction of both adrenal glands causes acute primary adrenal insufficiency with shock, abdominal pain, vomiting, and altered mental status. The elevated ACTH reflects loss of cortisol negative feedback, consistent with a primary adrenal defect.",
+  "explanation_incorrect": {
+    "A": "Autoimmune adrenalitis is a chronic cause of primary adrenal insufficiency, not an acute hemorrhagic syndrome complicating sepsis.",
+    "B": "Pituitary infarction causes secondary adrenal insufficiency with low ACTH; this patient has high ACTH and bilateral adrenal hemorrhage.",
+    "C": "Glucocorticoid withdrawal causes tertiary adrenal insufficiency with low ACTH, not an acute septic hemorrhagic syndrome.",
+    "D": "A unilateral adrenal adenoma with hemorrhage would not produce bilateral adrenal hemorrhage or the acute fulminant course seen with meningococcemia."
+  },
+  "educationalObjective": "Waterhouse-Friderichsen syndrome is bilateral adrenal hemorrhage from sepsis, especially meningococcemia, causing acute primary adrenal insufficiency.",
+  "source": "Generated from 8. Endocrine.pdf - Pathology: Adrenal insufficiency"
+},
+{
+  "id": "endo-179",
+  "subject": "Endocrine",
+  "major_topic": "Pathology",
+  "subtopic": "Adrenal insufficiency",
+  "difficulty": "medium",
+  "vignette": "A 33-year-old woman has suspected adrenal insufficiency. Testing shows a low 8 AM serum cortisol and a suboptimal cortisol response after an ACTH stimulation test.",
+  "question": "Which of the following is the most appropriate next step to determine whether she has primary versus secondary or tertiary disease?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Repeat the ACTH stimulation test"
+    },
+    {
+      "id": "B",
+      "text": "Measure 24-hour urinary free cortisol"
+    },
+    {
+      "id": "C",
+      "text": "Perform adrenal CT"
+    },
+    {
+      "id": "D",
+      "text": "Measure a random serum ACTH level"
+    },
+    {
+      "id": "E",
+      "text": "Measure serum aldosterone and plasma renin activity"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "After a low morning cortisol or a blunted cortisol response to ACTH stimulation establishes adrenal insufficiency, a random serum ACTH distinguishes the level of the defect. An elevated ACTH indicates primary adrenal insufficiency, while a low or inappropriately normal ACTH indicates secondary or tertiary disease. This determines subsequent evaluation and whether mineralocorticoid replacement is needed.",
+  "explanation_incorrect": {
+    "A": "Adrenal insufficiency has already been demonstrated by the low morning cortisol and blunted stimulation response; repeating the test does not localize the defect.",
+    "B": "Twenty-four-hour urinary free cortisol screens for Cushing syndrome and excess cortisol, not for the type of adrenal insufficiency.",
+    "C": "Adrenal imaging may be used later to evaluate a primary cause, but it is not the next step to distinguish primary from secondary or tertiary disease.",
+    "E": "Aldosterone and renin evaluate mineralocorticoid disorders and do not distinguish primary from central adrenal insufficiency."
+  },
+  "educationalObjective": "After confirming adrenal insufficiency, a random serum ACTH distinguishes primary (high ACTH) from secondary or tertiary (low or normal ACTH).",
+  "source": "Generated from 8. Endocrine.pdf - Pathology: Adrenal insufficiency"
+},
+{
+  "id": "endo-180",
+  "subject": "Endocrine",
+  "major_topic": "Pathology",
+  "subtopic": "Adrenal insufficiency",
+  "difficulty": "easy",
+  "vignette": "A 29-year-old woman from the United States presents with 6 months of fatigue, weight loss, salt cravings, hyperpigmentation, and orthostatic hypotension. Evaluation confirms chronic primary adrenal insufficiency, and an autoimmune cause is suspected.",
+  "question": "Which of the following is the most common cause of chronic primary adrenal insufficiency in high-income countries?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Tuberculosis of the adrenal glands"
+    },
+    {
+      "id": "B",
+      "text": "Bilateral adrenal hemorrhage from meningococcemia"
+    },
+    {
+      "id": "C",
+      "text": "Autoimmune adrenalitis"
+    },
+    {
+      "id": "D",
+      "text": "Metastatic cancer replacing both adrenal glands"
+    },
+    {
+      "id": "E",
+      "text": "Chronic exogenous glucocorticoid therapy"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Addison disease is chronic primary adrenal insufficiency caused by adrenal atrophy or destruction. In high-income countries it is most commonly due to autoimmune adrenalitis, whereas tuberculosis is the leading cause in low-income countries. The resulting cortisol and aldosterone deficiency produces fatigue, weight loss, hyperpigmentation, salt cravings, and orthostatic hypotension.",
+  "explanation_incorrect": {
+    "A": "Adrenal tuberculosis is the most common cause of Addison disease in low-income countries, not high-income countries.",
+    "B": "Bilateral adrenal hemorrhage from meningococcemia causes acute, not chronic, primary adrenal insufficiency.",
+    "D": "Metastatic destruction can cause primary adrenal insufficiency but is not the most common cause of chronic disease.",
+    "E": "Chronic glucocorticoid therapy suppresses the hypothalamic-pituitary-adrenal axis and causes tertiary adrenal insufficiency, not chronic primary disease."
+  },
+  "educationalObjective": "Autoimmune adrenalitis is the most common cause of chronic primary adrenal insufficiency (Addison disease) in high-income countries; TB predominates in low-income countries.",
+  "source": "Generated from 8. Endocrine.pdf - Pathology: Adrenal insufficiency"
+}
+]

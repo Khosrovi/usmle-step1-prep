@@ -1,0 +1,330 @@
+[
+{
+  "id": "endo-040",
+  "subject": "Endocrine",
+  "major_topic": "Physiology",
+  "subtopic": "Thyroid hormones",
+  "difficulty": "medium",
+  "vignette": "A 45-year-old woman with primary hypothyroidism is maintained on levothyroxine (T4). On a follow-up visit her TSH is still elevated and free T3 remains low despite reported adherence. Her physician reviews the factors that govern conversion of T4 to the more active thyroid hormone.",
+  "question": "Which of the following best describes the normal production and peripheral conversion of thyroid hormone?",
+  "options": [
+    {
+      "id": "A",
+      "text": "T3 is the major secretory product of the thyroid follicle, and 5'-deiodinase converts T3 to T4 in peripheral tissue."
+    },
+    {
+      "id": "B",
+      "text": "5'-deiodinase converts T4 to reverse T3, the metabolically active form that binds the nuclear receptor most strongly."
+    },
+    {
+      "id": "C",
+      "text": "T4 is the major thyroid product and is converted to T3 in peripheral tissue by 5'-deiodinase; this conversion is inhibited by glucocorticoids, beta-blockers, and PTU."
+    },
+    {
+      "id": "D",
+      "text": "Conversion of T4 to T3 occurs within the follicular lumen via thyroid peroxidase before the hormone is secreted."
+    },
+    {
+      "id": "E",
+      "text": "Peripheral conversion of T4 to T3 is stimulated by glucocorticoids and beta-blockers, which raise free T3 levels."
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "The thyroid follicles secrete mainly T4, which serves largely as a prohormone. In peripheral tissues 5'-deiodinase removes an iodine to generate T3, the more active hormone. This conversion is inhibited by glucocorticoids, beta-blockers, and propylthiouracil, which can lower free T3 even when T4 levels seem adequate. Reverse T3 is the inactive byproduct, not the active form. The key point is that T4 is the major product and peripheral 5'-deiodinase makes T3.",
+  "explanation_incorrect": {
+    "A": "It reverses the direction: T4 is the major product and 5'-deiodinase converts T4 to T3, not the reverse.",
+    "B": "Reverse T3 is a metabolically inactive byproduct; it is T3, not reverse T3, that binds the nuclear receptor most strongly.",
+    "D": "Thyroid peroxidase catalyzes oxidation, organification, and coupling in the follicle, not the 5'-deiodination that occurs in peripheral tissue.",
+    "E": "Glucocorticoids and beta-blockers inhibit, rather than stimulate, the peripheral conversion of T4 to T3."
+  },
+  "educationalObjective": "T4 is the major thyroid product, and peripheral 5'-deiodinase converts it to the more active T3, a step inhibited by glucocorticoids, beta-blockers, and PTU.",
+  "source": "Generated from 8. Endocrine.pdf - Physiology: Thyroid hormones"
+},
+{
+  "id": "endo-041",
+  "subject": "Endocrine",
+  "major_topic": "Physiology",
+  "subtopic": "Thyroid hormones",
+  "difficulty": "easy",
+  "vignette": "A first-year medical student is reviewing the steps of thyroid hormone synthesis. She is particularly interested in the coupling reactions catalyzed by thyroid peroxidase within the follicular lumen.",
+  "question": "Which pairing of iodotyrosines correctly produces triiodothyronine (T3)?",
+  "options": [
+    {
+      "id": "A",
+      "text": "One diiodotyrosine (DIT) coupled with one monoiodotyrosine (MIT) yields T3."
+    },
+    {
+      "id": "B",
+      "text": "Two diiodotyrosines (DIT + DIT) yield T3."
+    },
+    {
+      "id": "C",
+      "text": "Two monoiodotyrosines (MIT + MIT) yield T3."
+    },
+    {
+      "id": "D",
+      "text": "Two molecules of reverse T3 couple to form T3."
+    },
+    {
+      "id": "E",
+      "text": "One monoiodotyrosine coupled with one diiodotyrosine yields T4."
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Thyroid peroxidase catalyzes oxidation of iodide, organification of tyrosyl residues of thyroglobulin to form MIT and DIT, and the coupling of these iodotyrosines. Coupling one DIT (two iodines) with one MIT (one iodine) produces T3, which has three iodines. Coupling two DITs produces T4. Remembering DIT + MIT = T3 and DIT + DIT = T4 makes this straightforward. PTU and methimazole inhibit this enzyme.",
+  "explanation_incorrect": {
+    "B": "DIT + DIT (four iodines) produces T4, not the three-iodine T3.",
+    "C": "MIT + MIT would give only two iodines and does not yield T3.",
+    "D": "Reverse T3 is an inactive degradation byproduct of peripheral T4 conversion, not a coupling substrate in the follicle.",
+    "E": "MIT + DIT yields T3; it is DIT + DIT that yields T4."
+  },
+  "educationalObjective": "Thyroid peroxidase couples DIT + MIT to form T3 and DIT + DIT to form T4.",
+  "source": "Generated from 8. Endocrine.pdf - Physiology: Thyroid hormones"
+},
+{
+  "id": "endo-042",
+  "subject": "Endocrine",
+  "major_topic": "Physiology",
+  "subtopic": "Thyroid hormones",
+  "difficulty": "hard",
+  "vignette": "A 28-year-old woman presents with 6 months of weight loss despite a good appetite, heat intolerance, palpitations, and a diffusely enlarged thyroid. She reports prominent eye bulging. Laboratory studies show a TSH of 0.01 mIU/L with markedly elevated free T4 and free T3.",
+  "question": "Which of the following best explains the mechanism of her thyroid overactivity and the accompanying pituitary and hypothalamic response?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Thyroid-stimulating immunoglobulin stimulates follicular cells, but the high free T3/T4 causes the anterior pituitary to increase its sensitivity to TRH."
+    },
+    {
+      "id": "B",
+      "text": "Excess thyroid hormone results from autonomous TRH secretion by the hypothalamus, which secondarily raises TSH."
+    },
+    {
+      "id": "C",
+      "text": "The goiter results from TSI blocking the TSH receptor, so the pituitary compensates by secreting more TSH."
+    },
+    {
+      "id": "D",
+      "text": "Reduced TBG lowers binding and raises free hormone; TRH and TSH would be appropriately elevated."
+    },
+    {
+      "id": "E",
+      "text": "Thyroid-stimulating immunoglobulin stimulates follicular cells, and the resulting high free T3/T4 reduces pituitary sensitivity to TRH and suppresses hypothalamic TRH secretion."
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "This is Graves disease, in which thyroid-stimulating immunoglobulin (TSI) binds and stimulates TSH receptors on follicular cells, driving excess T3/T4 production independent of TSH. The elevated free hormones exert negative feedback: the anterior pituitary decreases its sensitivity to TRH and the hypothalamus reduces TRH secretion, so TSH is suppressed (here 0.01). The eye findings reflect the autoimmune process. The key concept is that TSI stimulates the gland while high free hormone shuts down TRH and TSH.",
+  "explanation_incorrect": {
+    "A": "High free T3/T4 decreases, not increases, anterior pituitary sensitivity to TRH as part of negative feedback.",
+    "B": "TSH is suppressed in Graves disease; autonomous hypothalamic TRH would raise TSH, which is not seen here.",
+    "C": "TSI is an agonist at the TSH receptor, not a blocker; TSH is suppressed rather than elevated.",
+    "D": "TBG alterations change total more than free hormone and would not suppress TSH through this mechanism; Graves disease has high free hormone with suppressed TSH."
+  },
+  "educationalObjective": "In Graves disease, TSI stimulates follicular cells while high free T3/T4 suppress TRH and TSH through negative feedback.",
+  "source": "Generated from 8. Endocrine.pdf - Physiology: Thyroid hormones"
+},
+{
+  "id": "endo-043",
+  "subject": "Endocrine",
+  "major_topic": "Physiology",
+  "subtopic": "Thyroid hormones",
+  "difficulty": "medium",
+  "vignette": "A 30-year-old woman at 10 weeks' gestation has routine labs showing total T3 and total T4 above the nonpregnant reference range. Her TSH is normal and her free T4 is within the normal range. She has no symptoms of thyrotoxicosis.",
+  "question": "Which of the following best explains this pattern of thyroid function tests?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Pregnancy increases thyroid peroxidase activity, raising free T4 and appropriately lowering TSH."
+    },
+    {
+      "id": "B",
+      "text": "Estrogen increases hepatic production of thyroxine-binding globulin, raising total T3/T4 while free hormone and TSH remain normal."
+    },
+    {
+      "id": "C",
+      "text": "Pregnancy causes nephrotic-like urinary loss of TBG, lowering total T3/T4."
+    },
+    {
+      "id": "D",
+      "text": "Pregnancy reduces 5'-deiodinase activity, selectively raising reverse T3."
+    },
+    {
+      "id": "E",
+      "text": "The placenta secretes TSI that stimulates the maternal thyroid, suppressing TSH."
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "TBG binds most circulating T3/T4, and bound hormone is inactive. Estrogen, as in pregnancy or oral contraceptive use, increases hepatic TBG production, which raises total T3/T4. Because the increase in binding slightly lowers free hormone, TSH and free T4 remain normal and the patient is euthyroid. This is why total hormone levels can be misleading; free hormone and TSH are the reliable measures. Decreased TBG occurs with steroid use and nephrotic syndrome.",
+  "explanation_incorrect": {
+    "A": "Free T4 and TSH are normal here; pregnancy does not raise free hormone enough to suppress TSH in a euthyroid woman.",
+    "C": "Nephrotic syndrome lowers TBG and total hormone; here total hormone is elevated, the opposite pattern.",
+    "D": "Altered reverse T3 is not the explanation, and reverse T3 is inactive; free T4 and TSH would not stay normal for this reason.",
+    "E": "Placental TSI is not a normal physiologic mechanism; TSH is normal here, not suppressed."
+  },
+  "educationalObjective": "Estrogen raises TBG in pregnancy and with OCPs, increasing total T3/T4 while free hormone and TSH stay normal.",
+  "source": "Generated from 8. Endocrine.pdf - Physiology: Thyroid hormones"
+},
+{
+  "id": "endo-044",
+  "subject": "Endocrine",
+  "major_topic": "Physiology",
+  "subtopic": "Thyroid hormones",
+  "difficulty": "medium",
+  "vignette": "A 34-year-old man with thyrotoxicosis has a resting heart rate of 118 bpm, increased stroke volume and contractility, and heat intolerance with an elevated basal metabolic rate. His physician plans to start a beta-blocker for symptom control.",
+  "question": "Which of the following best accounts for the cardiovascular and metabolic findings in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "T3 lowers cardiac beta1-receptor density, so the tachycardia is mediated mainly by alpha1 receptors."
+    },
+    {
+      "id": "B",
+      "text": "The raised metabolic rate is due to uncoupling of oxidative phosphorylation, which lowers oxygen consumption."
+    },
+    {
+      "id": "C",
+      "text": "Thyroid hormone decreases Na+/K+-ATPase activity, so body temperature falls in thyrotoxicosis."
+    },
+    {
+      "id": "D",
+      "text": "T3 increases cardiac beta1-receptor expression (raising CO, HR, SV, and contractility) and raises basal metabolic rate via increased Na+/K+-ATPase activity, O2 consumption, and body temperature."
+    },
+    {
+      "id": "E",
+      "text": "Beta-blockers would worsen the adrenergic symptoms by further increasing heart rate."
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Among the 7 B's of thyroid hormone action, beta-adrenergic effects include increasing beta1 receptors in the heart, which raises cardiac output, heart rate, stroke volume, and contractility. Thyroid hormone also raises basal metabolic rate by increasing Na+/K+-ATPase activity, oxygen consumption, respiratory rate, and body temperature, explaining heat intolerance. Because the tachycardia is beta-mediated, beta-blockers alleviate the adrenergic symptoms of thyrotoxicosis. Oxygen consumption increases rather than falls.",
+  "explanation_incorrect": {
+    "A": "T3 increases, not decreases, beta1-receptor density; the tachycardia is beta1-mediated, not alpha1-mediated.",
+    "B": "Thyroid hormone increases oxygen consumption; the cited mechanism for the raised BMR is Na+/K+-ATPase, not mitochondrial uncoupling.",
+    "C": "Thyroid hormone raises Na+/K+-ATPase activity and body temperature, so temperature rises rather than falls.",
+    "E": "Beta-blockers alleviate the adrenergic symptoms of thyrotoxicosis; they do not increase heart rate."
+  },
+  "educationalObjective": "Thyroid hormone increases cardiac beta1 receptors and Na+/K+-ATPase-driven basal metabolic rate; beta-blockers relieve the adrenergic symptoms.",
+  "source": "Generated from 8. Endocrine.pdf - Physiology: Thyroid hormones"
+},
+{
+  "id": "endo-045",
+  "subject": "Endocrine",
+  "major_topic": "Physiology",
+  "subtopic": "Thyroid hormones",
+  "difficulty": "easy",
+  "vignette": "A physiology researcher is comparing the activity of the two main thyroid hormones and the role of circulating binding proteins.",
+  "question": "Which statement about thyroid hormone activity is correct?",
+  "options": [
+    {
+      "id": "A",
+      "text": "TBG-bound T3 is the active fraction, and T4 binds the nuclear receptor more strongly than T3."
+    },
+    {
+      "id": "B",
+      "text": "Only protein-bound hormone is active; free hormone is rapidly degraded and inactive."
+    },
+    {
+      "id": "C",
+      "text": "Only free hormone is active, and T3 binds the nuclear receptor with greater affinity than T4."
+    },
+    {
+      "id": "D",
+      "text": "T3 and T4 are hydrophilic and do not require transporters to enter cells."
+    },
+    {
+      "id": "E",
+      "text": "Reverse T3 is the most active form at the nuclear receptor."
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Only free (unbound) thyroid hormone is biologically active; the large TBG-bound fraction is inactive. T3 binds the nuclear receptor with greater affinity than T4, making T3 the more potent hormone. Although T3 and T4 are lipophilic, they are unusual in requiring specific transporters for facilitated diffusion into cells. Reverse T3 is inactive. Thus the active, receptor-binding form is free T3.",
+  "explanation_incorrect": {
+    "A": "Bound hormone is inactive, and T3 (not T4) binds the nuclear receptor more strongly.",
+    "B": "It is the free fraction that is active; protein-bound hormone is an inactive reservoir.",
+    "D": "T3 and T4 are lipophilic but still require specific facilitated-diffusion transporters to enter cells.",
+    "E": "Reverse T3 is metabolically inactive and does not act at the nuclear receptor."
+  },
+  "educationalObjective": "Only free thyroid hormone is active, and T3 binds the nuclear receptor more strongly than T4.",
+  "source": "Generated from 8. Endocrine.pdf - Physiology: Thyroid hormones"
+},
+{
+  "id": "endo-046",
+  "subject": "Endocrine",
+  "major_topic": "Physiology",
+  "subtopic": "Thyroid hormones",
+  "difficulty": "hard",
+  "vignette": "A 55-year-old patient receives a large intravenous dose of iodinated contrast for CT imaging. Over the following day, despite the sudden iodine load, measures of thyroid hormone synthesis transiently fall.",
+  "question": "Which mechanism best explains this transient decrease in thyroid hormone production?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Sudden excess iodine temporarily turns off thyroid peroxidase (the Wolff-Chaikoff effect), reducing organification and T3/T4 production."
+    },
+    {
+      "id": "B",
+      "text": "Excess iodine permanently destroys follicular cells by apoptosis, a protective autoregulatory phenomenon."
+    },
+    {
+      "id": "C",
+      "text": "Iodine excess directly inhibits 5'-deiodinase, lowering conversion of T4 to T3."
+    },
+    {
+      "id": "D",
+      "text": "Iodine competes with T3 for binding to the nuclear receptor, blocking its action."
+    },
+    {
+      "id": "E",
+      "text": "Iodine excess stimulates TBG synthesis, sequestering free hormone and lowering measured T3/T4."
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "The Wolff-Chaikoff effect is a protective autoregulatory response in which a sudden large iodine load temporarily inhibits thyroid peroxidase, the enzyme needed for oxidation, organification, and coupling. This transiently reduces synthesis of T3 and T4. It is temporary rather than destructive; the gland normally escapes from the effect after a few days. The key point is that excess iodine turns off thyroid peroxidase, not 5'-deiodinase or nuclear receptor binding.",
+  "explanation_incorrect": {
+    "B": "The Wolff-Chaikoff effect is temporary and autoregulatory, not permanent follicular cell destruction.",
+    "C": "The effect targets thyroid peroxidase within the follicle, not peripheral 5'-deiodinase.",
+    "D": "Iodine does not compete with T3 at the nuclear receptor; the effect is on hormone synthesis.",
+    "E": "TBG changes are not the mechanism; the effect is a direct, temporary inhibition of thyroid peroxidase."
+  },
+  "educationalObjective": "The Wolff-Chaikoff effect is a temporary, protective inhibition of thyroid peroxidase by a sudden excess iodine load.",
+  "source": "Generated from 8. Endocrine.pdf - Physiology: Thyroid hormones"
+},
+{
+  "id": "endo-047",
+  "subject": "Endocrine",
+  "major_topic": "Physiology",
+  "subtopic": "Thyroid hormones",
+  "difficulty": "medium",
+  "vignette": "A premature infant delivered at 34 weeks has respiratory distress from surfactant deficiency. The neonatologist notes that several hormones, including thyroid hormone, contribute to lung maturation. She reviews the broader physiologic actions of T3.",
+  "question": "Which of the following is a recognized physiologic action of thyroid hormone?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Inhibition of bone growth, opposing the actions of GH and IGF-1."
+    },
+    {
+      "id": "B",
+      "text": "Stimulation of surfactant synthesis in the lungs of babies, along with roles in brain maturation and bone growth with GH/IGF-1."
+    },
+    {
+      "id": "C",
+      "text": "Suppression of the basal metabolic rate to conserve energy in the neonate."
+    },
+    {
+      "id": "D",
+      "text": "Reduction of glycogenolysis and gluconeogenesis, lowering blood sugar."
+    },
+    {
+      "id": "E",
+      "text": "Decrease in lipolysis, promoting lipid storage in adipose tissue."
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "The 7 B's of thyroid hormone include brain maturation, bone growth (synergistic with GH and IGF-1), beta-adrenergic effects, increased basal metabolic rate, increased blood sugar (through glycogenolysis and gluconeogenesis), breakdown of lipids via lipolysis, and stimulation of surfactant synthesis in babies. Thyroid hormone therefore promotes, rather than inhibits, bone growth and raises metabolic rate and blood glucose. Surfactant synthesis is one of the developmental actions most relevant to the preterm infant.",
+  "explanation_incorrect": {
+    "A": "Thyroid hormone promotes bone growth synergistically with GH and IGF-1; it does not inhibit it.",
+    "C": "Thyroid hormone raises, not suppresses, basal metabolic rate.",
+    "D": "Thyroid hormone increases glycogenolysis and gluconeogenesis, raising blood sugar.",
+    "E": "Thyroid hormone increases lipolysis (breakdown of lipids), not lipid storage."
+  },
+  "educationalObjective": "Thyroid hormone's 7 B's include surfactant synthesis in babies, brain maturation, bone growth with GH/IGF-1, and increased BMR, blood sugar, and lipolysis.",
+  "source": "Generated from 8. Endocrine.pdf - Physiology: Thyroid hormones"
+}
+]

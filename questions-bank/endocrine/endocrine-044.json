@@ -1,0 +1,248 @@
+[
+{
+  "id": "endo-085",
+  "subject": "Endocrine",
+  "major_topic": "Physiology",
+  "subtopic": "Signaling pathways of endocrine hormones",
+  "difficulty": "easy",
+  "vignette": "A pharmacology student is memorizing which hormones signal through cyclic AMP. She is given a list of hormones and asked to identify one that uses this second messenger.",
+  "question": "Which of the following hormones signals predominantly through the cAMP second-messenger system?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Aldosterone"
+    },
+    {
+      "id": "B",
+      "text": "Glucagon"
+    },
+    {
+      "id": "C",
+      "text": "Insulin"
+    },
+    {
+      "id": "D",
+      "text": "Oxytocin"
+    },
+    {
+      "id": "E",
+      "text": "Atrial natriuretic peptide"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Glucagon is one of the hormones that signal through cAMP, remembered with the mnemonic FLAT ChAMPs CHuGG: FSH, LH, ACTH, TSH, CRH, hCG, ADH V2, MSH, PTH, calcitonin, histamine H2, glucagon, and GHRH. These hormones activate adenylyl cyclase, producing cAMP, which activates protein kinase A.",
+  "explanation_incorrect": {
+    "A": "Aldosterone is a steroid hormone that binds an intracellular receptor, not a cAMP-coupled cell-surface receptor.",
+    "C": "Insulin signals through a receptor tyrosine kinase and the MAP kinase pathway.",
+    "D": "Oxytocin signals through the IP3 pathway, part of the GOAT HAG group.",
+    "E": "Atrial natriuretic peptide signals through cGMP as part of the BAD GraMPa group."
+  },
+  "educationalObjective": "Glucagon is a cAMP-linked hormone, along with FSH, LH, ACTH, TSH, CRH, hCG, ADH V2, MSH, PTH, calcitonin, H2 histamine, and GHRH.",
+  "source": "Generated from 8. Endocrine.pdf - Physiology: Signaling pathways of endocrine hormones"
+},
+{
+  "id": "endo-086",
+  "subject": "Endocrine",
+  "major_topic": "Physiology",
+  "subtopic": "Signaling pathways of endocrine hormones",
+  "difficulty": "easy",
+  "vignette": "A researcher is studying how atrial natriuretic peptide promotes vasodilation and diuresis and wants to identify the intracellular second messenger involved.",
+  "question": "Which second messenger mediates the vasodilatory and diuretic effects of ANP, BNP, and endothelial-derived relaxing factor (nitric oxide)?",
+  "options": [
+    {
+      "id": "A",
+      "text": "cAMP"
+    },
+    {
+      "id": "B",
+      "text": "IP3 and diacylglycerol"
+    },
+    {
+      "id": "C",
+      "text": "Calcium/calmodulin"
+    },
+    {
+      "id": "D",
+      "text": "cGMP"
+    },
+    {
+      "id": "E",
+      "text": "JAK/STAT"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "ANP, BNP, and EDRF (nitric oxide) signal through cGMP, captured by the mnemonic BAD GraMPa (BNP, ANP, EDRF/NO), and are associated with vasodilation and diuresis. Nitric oxide diffuses into vascular smooth muscle and activates soluble guanylyl cyclase, increasing cGMP and causing relaxation.",
+  "explanation_incorrect": {
+    "A": "cAMP mediates hormones such as glucagon, ACTH, and TSH, not ANP or nitric oxide.",
+    "B": "IP3 and diacylglycerol mediate GnRH, oxytocin, angiotensin II, and gastrin in the GOAT HAG group, not ANP.",
+    "C": "Calcium/calmodulin is not the principal second messenger for ANP or nitric oxide; these act by raising cGMP.",
+    "E": "JAK/STAT is the nonreceptor tyrosine kinase pathway used by GH, EPO, and cytokines, not by natriuretic peptides."
+  },
+  "educationalObjective": "ANP, BNP, and nitric oxide signal through cGMP, producing vasodilation and diuresis.",
+  "source": "Generated from 8. Endocrine.pdf - Physiology: Signaling pathways of endocrine hormones"
+},
+{
+  "id": "endo-087",
+  "subject": "Endocrine",
+  "major_topic": "Physiology",
+  "subtopic": "Signaling pathways of endocrine hormones",
+  "difficulty": "hard",
+  "vignette": "A physician is comparing the actions of vasopressin at two distinct receptor subtypes. At one receptor, ADH causes vascular smooth muscle contraction; at the other, it increases water reabsorption in the renal collecting duct.",
+  "question": "Which of the following correctly pairs the ADH receptor subtype with its second-messenger pathway?",
+  "options": [
+    {
+      "id": "A",
+      "text": "V1 receptor - IP3; V2 receptor - cAMP"
+    },
+    {
+      "id": "B",
+      "text": "V1 receptor - cAMP; V2 receptor - IP3"
+    },
+    {
+      "id": "C",
+      "text": "V1 receptor - cGMP; V2 receptor - cAMP"
+    },
+    {
+      "id": "D",
+      "text": "V1 receptor - receptor tyrosine kinase; V2 receptor - IP3"
+    },
+    {
+      "id": "E",
+      "text": "V1 receptor - JAK/STAT; V2 receptor - cGMP"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "ADH acts at V1 receptors through the IP3 pathway to cause vasoconstriction, and at V2 receptors through cAMP to increase water reabsorption in the collecting duct. The V1 receptor belongs to the IP3-coupled GOAT HAG group (GnRH, oxytocin, ADH V1, TRH, histamine H1, angiotensin II, gastrin), whereas ADH V2 appears in the cAMP-coupled FLAT ChAMPs CHuGG group.",
+  "explanation_incorrect": {
+    "B": "The receptor subtypes are reversed: V1 couples to IP3 and V2 couples to cAMP.",
+    "C": "cGMP is the pathway of ANP, BNP, and nitric oxide, not the V1 receptor; although V2 correctly uses cAMP, the V1 pairing is wrong.",
+    "D": "Neither ADH receptor is a receptor tyrosine kinase, and V2 does not couple to IP3.",
+    "E": "JAK/STAT is used by GH, EPO, and cytokines, and cGMP by natriuretic peptides and nitric oxide; neither applies to ADH receptors."
+  },
+  "educationalObjective": "ADH V1 receptors signal through IP3 to cause vasoconstriction, while ADH V2 receptors signal through cAMP to promote water reabsorption.",
+  "source": "Generated from 8. Endocrine.pdf - Physiology: Signaling pathways of endocrine hormones"
+},
+{
+  "id": "endo-088",
+  "subject": "Endocrine",
+  "major_topic": "Physiology",
+  "subtopic": "Signaling pathways of endocrine hormones",
+  "difficulty": "medium",
+  "vignette": "A student is reviewing how lipophilic hormones regulate gene transcription. She is given a list of hormones and asked to identify one that binds an intracellular receptor.",
+  "question": "Which of the following hormones exerts its effects primarily through an intracellular cytoplasmic or nuclear receptor?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Follicle-stimulating hormone"
+    },
+    {
+      "id": "B",
+      "text": "Glucagon"
+    },
+    {
+      "id": "C",
+      "text": "Insulin-like growth factor-1"
+    },
+    {
+      "id": "D",
+      "text": "Growth hormone"
+    },
+    {
+      "id": "E",
+      "text": "Testosterone"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Testosterone is a steroid hormone that binds an intracellular receptor, as summarized in PET CAT in TV: progesterone, estrogen, testosterone, cortisol, aldosterone, T3/T4, and vitamin D. The hormone-receptor complex regulates transcription by binding DNA. FSH and glucagon use cAMP, IGF-1 uses a receptor tyrosine kinase, and GH uses JAK/STAT.",
+  "explanation_incorrect": {
+    "A": "FSH is a glycoprotein hormone that signals through cAMP rather than an intracellular receptor.",
+    "B": "Glucagon is a peptide hormone acting through cAMP.",
+    "C": "IGF-1 binds a receptor tyrosine kinase and activates the MAP kinase pathway.",
+    "D": "Growth hormone signals through the nonreceptor tyrosine kinase JAK/STAT pathway, not an intracellular receptor."
+  },
+  "educationalObjective": "Steroid hormones, thyroid hormone, and vitamin D bind intracellular receptors, whereas peptide hormones and growth factors generally use cell-surface receptors.",
+  "source": "Generated from 8. Endocrine.pdf - Physiology: Signaling pathways of endocrine hormones"
+},
+{
+  "id": "endo-089",
+  "subject": "Endocrine",
+  "major_topic": "Physiology",
+  "subtopic": "Signaling pathways of endocrine hormones",
+  "difficulty": "medium",
+  "vignette": "A researcher examining growth factor signaling notes that several hormones activate intrinsic tyrosine kinase activity of their receptors and trigger downstream MAP kinase cascades.",
+  "question": "Which of the following hormones signals through a receptor tyrosine kinase that activates the MAP kinase pathway?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Thyroid-stimulating hormone"
+    },
+    {
+      "id": "B",
+      "text": "Erythropoietin"
+    },
+    {
+      "id": "C",
+      "text": "Insulin"
+    },
+    {
+      "id": "D",
+      "text": "Cortisol"
+    },
+    {
+      "id": "E",
+      "text": "Angiotensin II"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Insulin, together with IGF-1, FGF, PDGF, and EGF, binds receptor tyrosine kinases and activates the MAP kinase pathway, remembered as Get Found In the MAP. These receptors have intrinsic enzymatic activity that phosphorylates tyrosine residues on target proteins. Erythropoietin, by contrast, uses a nonreceptor tyrosine kinase.",
+  "explanation_incorrect": {
+    "A": "TSH signals through cAMP, not through a receptor tyrosine kinase.",
+    "B": "Erythropoietin uses the nonreceptor tyrosine kinase JAK/STAT pathway; its receptor lacks intrinsic kinase activity.",
+    "D": "Cortisol is a steroid hormone that acts through an intracellular receptor.",
+    "E": "Angiotensin II acts through the IP3 pathway."
+  },
+  "educationalObjective": "Insulin, IGF-1, FGF, PDGF, and EGF act through receptor tyrosine kinases and the MAP kinase pathway.",
+  "source": "Generated from 8. Endocrine.pdf - Physiology: Signaling pathways of endocrine hormones"
+},
+{
+  "id": "endo-090",
+  "subject": "Endocrine",
+  "major_topic": "Physiology",
+  "subtopic": "Signaling pathways of endocrine hormones",
+  "difficulty": "hard",
+  "vignette": "A hematology researcher is studying signals that drive blood cell production and immune cell function. She notes that a family of hormones lacks intrinsic receptor kinase activity but instead recruits cytoplasmic tyrosine kinases of the JAK family.",
+  "question": "Which of the following hormones signals through the JAK/STAT nonreceptor tyrosine kinase pathway?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Epidermal growth factor"
+    },
+    {
+      "id": "B",
+      "text": "Calcitonin"
+    },
+    {
+      "id": "C",
+      "text": "Progesterone"
+    },
+    {
+      "id": "D",
+      "text": "Erythropoietin"
+    },
+    {
+      "id": "E",
+      "text": "Vasopressin acting at V2 receptors"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Erythropoietin, G-CSF, thrombopoietin, prolactin, GH, and immunomodulatory cytokines such as IL-2, IL-6, and interferon signal through nonreceptor tyrosine kinases of the JAK/STAT pathway, recalled with GET a JAKed PIG and think acidophils and cytokines. These receptors have no intrinsic kinase activity and instead recruit JAKs that phosphorylate STAT transcription factors.",
+  "explanation_incorrect": {
+    "A": "Epidermal growth factor binds a receptor tyrosine kinase and signals through MAP kinase, not JAK/STAT.",
+    "B": "Calcitonin signals through cAMP.",
+    "C": "Progesterone is a steroid hormone that acts through an intracellular receptor.",
+    "E": "Vasopressin at V2 receptors signals through cAMP."
+  },
+  "educationalObjective": "Erythropoietin, G-CSF, thrombopoietin, prolactin, GH, and cytokines use the JAK/STAT nonreceptor tyrosine kinase pathway.",
+  "source": "Generated from 8. Endocrine.pdf - Physiology: Signaling pathways of endocrine hormones"
+}
+]

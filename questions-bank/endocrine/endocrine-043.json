@@ -1,0 +1,207 @@
+[
+{
+  "id": "endo-094",
+  "subject": "Endocrine",
+  "major_topic": "Pathology",
+  "subtopic": "SIADH",
+  "difficulty": "easy",
+  "vignette": "A 62-year-old man with small cell lung cancer is evaluated for confusion. Serum sodium is 128 mEq/L, serum osmolality 260 mOsm/kg, urine osmolality 600 mOsm/kg, and urine sodium 80 mEq/L. He is euvolemic with no edema and normal blood pressure.",
+  "question": "Which of the following best explains this patient's hyponatremia?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Primary polydipsia"
+    },
+    {
+      "id": "B",
+      "text": "Nephrogenic diabetes insipidus"
+    },
+    {
+      "id": "C",
+      "text": "Syndrome of inappropriate antidiuretic hormone secretion"
+    },
+    {
+      "id": "D",
+      "text": "Central diabetes insipidus"
+    },
+    {
+      "id": "E",
+      "text": "Hypovolemia-induced antidiuretic hormone release"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "SIADH is characterized by excessive free water retention producing euvolemic hyponatremia with continued urinary sodium excretion and urine osmolality greater than serum osmolality. Nonosmotic, unregulated ADH activity (here from ectopic ADH in small cell lung cancer) drives water reabsorption. The retained water suppresses aldosterone and raises ANP/BNP, causing natriuresis that normalizes extracellular fluid volume and leaves the patient euvolemic rather than edematous. Slack et al. note the classic labs: low serum osmolality, inappropriately concentrated urine, and urine sodium that is not low.",
+  "explanation_incorrect": {
+    "A": "Primary polydipsia causes dilute urine (urine osmolality usually <300) with suppressed ADH from excessive water intake, not concentrated urine with hyponatremia.",
+    "B": "Nephrogenic diabetes insipidus reflects ADH resistance and produces large volumes of dilute urine with high serum osmolality, the opposite of this picture.",
+    "D": "Central diabetes insipidus is deficient ADH causing dilute urine and high serum osmolality; his urine would not be concentrated.",
+    "E": "Hypovolemia would show true volume depletion with appropriately low urine sodium (<20 mEq/L) and secondary ADH release, not euvolemia with high urine sodium."
+  },
+  "educationalObjective": "Euvolemic hyponatremia with urine osmolality greater than serum and continued urinary sodium loss is the hallmark of SIADH.",
+  "source": "Generated from 8. Endocrine.pdf - Pathology: SIADH"
+},
+{
+  "id": "endo-095",
+  "subject": "Endocrine",
+  "major_topic": "Pathology",
+  "subtopic": "SIADH",
+  "difficulty": "medium",
+  "vignette": "A 58-year-old woman with SIADH has a serum sodium of 124 mEq/L, serum osmolality 255 mOsm/kg, and urine osmolality 520 mOsm/kg. Despite retaining free water, she has no peripheral edema, no jugular venous distention, and a normal extracellular fluid volume.",
+  "question": "Which mechanism best explains why this patient is euvolemic rather than volume overloaded?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Water retention lowers aldosterone and raises ANP/BNP, increasing urinary sodium excretion and normalizing extracellular fluid volume"
+    },
+    {
+      "id": "B",
+      "text": "Water retention raises aldosterone, promoting renal sodium retention and extracellular fluid expansion"
+    },
+    {
+      "id": "C",
+      "text": "ADH directly increases sodium reabsorption in the collecting duct, expanding the extracellular fluid volume"
+    },
+    {
+      "id": "D",
+      "text": "ANP and BNP are suppressed, so sodium is retained and the patient becomes hypervolemic"
+    },
+    {
+      "id": "E",
+      "text": "Hyponatremia itself stimulates ongoing thirst and water intake, which maintains euvolemia"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "The body responds to the free water retention of SIADH by decreasing aldosterone and increasing ANP and BNP. These changes increase urinary sodium secretion (natriuresis), which normalizes extracellular fluid volume. The result is euvolemic hyponatremia: total body water is high relative to sodium, but total body sodium and volume are near normal, so no edema develops. This natriuretic escape is the key reason SIADH patients do not appear volume overloaded.",
+  "explanation_incorrect": {
+    "B": "Aldosterone is decreased, not increased, in SIADH; aldosterone-driven sodium retention would cause expansion and edema, which does not occur here.",
+    "C": "ADH mainly increases water (not sodium) reabsorption through aquaporin channels; the euvolemia is explained by a natriuretic response, not direct sodium retention.",
+    "D": "ANP and BNP are elevated, not suppressed, in response to water retention, and their rise promotes natriuresis rather than hypervolemia.",
+    "E": "Hyponatremia does not drive continued water intake in SIADH; euvolemia results from increased sodium excretion, not from polydipsia."
+  },
+  "educationalObjective": "In SIADH, water retention lowers aldosterone and raises ANP/BNP, producing natriuresis that keeps the patient euvolemic.",
+  "source": "Generated from 8. Endocrine.pdf - Pathology: SIADH"
+},
+{
+  "id": "endo-096",
+  "subject": "Endocrine",
+  "major_topic": "Pathology",
+  "subtopic": "SIADH",
+  "difficulty": "hard",
+  "vignette": "A 34-year-old woman with major depressive disorder starts sertraline. Two weeks later she develops headache and confusion. Serum sodium is 126 mEq/L, serum osmolality 258 mOsm/kg, urine osmolality 550 mOsm/kg, urine sodium 60 mEq/L, and she is euvolemic.",
+  "question": "Which of the following is the most likely explanation for these findings?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Lithium-induced nephrogenic diabetes insipidus"
+    },
+    {
+      "id": "B",
+      "text": "Demeclocycline-induced ADH antagonism"
+    },
+    {
+      "id": "C",
+      "text": "Amiloride blockade of the epithelial sodium channel"
+    },
+    {
+      "id": "D",
+      "text": "Hydrochlorothiazide-induced volume depletion"
+    },
+    {
+      "id": "E",
+      "text": "SSRI-induced syndrome of inappropriate ADH secretion"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "SSRIs such as sertraline are a listed drug cause of SIADH (the HEELD-up-water mnemonic: Head trauma/CNS, Ectopic ADH, Exogenous hormones, Lung disease, Drugs including SSRIs, carbamazepine, cyclophosphamide). The vignette shows euvolemic hyponatremia with inappropriately concentrated urine and continued urinary sodium excretion, the classic SIADH pattern. Drug-induced SIADH typically appears after starting the offending agent. Recognition matters because treatment begins with fluid restriction and removal of the trigger.",
+  "explanation_incorrect": {
+    "A": "Lithium causes nephrogenic diabetes insipidus (ADH resistance) with dilute urine and high serum osmolality, not concentrated urine and hyponatremia.",
+    "B": "Demeclocycline is an ADH antagonist used to treat SIADH; it produces a nephrogenic DI-like state rather than causing SIADH.",
+    "C": "Amiloride is used to treat lithium-induced nephrogenic DI by blocking ENaC; it does not cause SIADH.",
+    "D": "Hydrochlorothiazide is part of nephrogenic DI therapy and can cause volume depletion, which would not produce euvolemic hyponatremia with concentrated urine."
+  },
+  "educationalObjective": "SSRIs are a drug cause of SIADH, producing euvolemic hyponatremia with concentrated urine and continued urinary sodium loss.",
+  "source": "Generated from 8. Endocrine.pdf - Pathology: SIADH"
+},
+{
+  "id": "endo-097",
+  "subject": "Endocrine",
+  "major_topic": "Pathology",
+  "subtopic": "SIADH",
+  "difficulty": "medium",
+  "vignette": "A 70-year-old man with SIADH has an asymptomatic serum sodium of 125 mEq/L, serum osmolality 260 mOsm/kg, and urine osmolality 500 mOsm/kg. He is euvolemic and has no neurologic symptoms.",
+  "question": "Which of the following is the first-line treatment for this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Intravenous hypertonic saline"
+    },
+    {
+      "id": "B",
+      "text": "Fluid restriction"
+    },
+    {
+      "id": "C",
+      "text": "Oral salt tablets"
+    },
+    {
+      "id": "D",
+      "text": "Tolvaptan"
+    },
+    {
+      "id": "E",
+      "text": "Demeclocycline"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Fluid restriction is the first-line treatment for SIADH, especially in mild or asymptomatic hyponatremia. Limiting free water intake allows serum sodium to rise gradually by reducing the excess water retention. Other options, including salt tablets, IV hypertonic saline, diuretics, and ADH antagonists (conivaptan, tolvaptan, demeclocycline), are reserved for refractory cases, more severe symptoms, or special circumstances. Correcting sodium too rapidly risks osmotic demyelination, so the gentlest effective measure is preferred initially.",
+  "explanation_incorrect": {
+    "A": "Intravenous hypertonic saline is reserved for severe, symptomatic hyponatremia with seizures or altered mental status, not for an asymptomatic patient.",
+    "C": "Salt tablets are an additional or alternative measure, not the initial first-line therapy for uncomplicated SIADH.",
+    "D": "Tolvaptan is a vasopressin receptor antagonist used when fluid restriction is inadequate or inappropriate, not as first-line therapy.",
+    "E": "Demeclocycline is an ADH antagonist used in chronic or refractory SIADH and is not the first-line initial treatment."
+  },
+  "educationalObjective": "Fluid restriction is the first-line therapy for SIADH; pharmacologic agents and hypertonic saline are reserved for refractory or severe cases.",
+  "source": "Generated from 8. Endocrine.pdf - Pathology: SIADH"
+},
+{
+  "id": "endo-098",
+  "subject": "Endocrine",
+  "major_topic": "Pathology",
+  "subtopic": "SIADH",
+  "difficulty": "hard",
+  "vignette": "A 68-year-old heavy smoker presents with confusion and is found to have a central lung mass. Serum sodium is 124 mEq/L, serum osmolality 256 mOsm/kg, urine osmolality 610 mOsm/kg, and urine sodium 70 mEq/L. He is euvolemic, takes no medications, and has no history of head trauma or lung infection.",
+  "question": "Which of the following is the most likely cause of his SIADH?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Head trauma or another CNS disorder"
+    },
+    {
+      "id": "B",
+      "text": "Exogenous oxytocin administration"
+    },
+    {
+      "id": "C",
+      "text": "Lung disease such as pneumonia"
+    },
+    {
+      "id": "D",
+      "text": "Ectopic ADH secretion by small cell lung cancer"
+    },
+    {
+      "id": "E",
+      "text": "Carbamazepine therapy"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "The HEELD-up-water mnemonic lists Ectopic ADH, classically from small cell lung cancer, as a cause of SIADH. A central lung mass in a heavy smoker with new euvolemic hyponatremia, concentrated urine, and high urine sodium strongly suggests ectopic ADH production by small cell carcinoma. Tumor-derived ADH acts like endogenous ADH at the medullary collecting duct, increasing water reabsorption via aquaporin channels. Identifying the ectopic source is essential because treating the underlying malignancy is the definitive management.",
+  "explanation_incorrect": {
+    "A": "Head trauma and CNS disorders are a valid SIADH cause (the 'H' in HEELD), but there is no CNS injury here; the lung mass points to ectopic hormone production.",
+    "B": "Exogenous oxytocin is a listed hormonal cause (the 'E'), but he is not receiving it; a lung mass in a smoker fits ectopic ADH instead.",
+    "C": "Lung disease such as pneumonia can cause SIADH (the 'L'), but there is no infection described, and a central mass in a smoker favors small cell lung cancer with ectopic ADH.",
+    "E": "Carbamazepine is a drug cause (the 'D'), but he takes no medications, so a drug-induced mechanism is excluded by the history."
+  },
+  "educationalObjective": "Small cell lung cancer is the classic ectopic ADH cause of SIADH within the HEELD-up-water mnemonic.",
+  "source": "Generated from 8. Endocrine.pdf - Pathology: SIADH"
+}
+]

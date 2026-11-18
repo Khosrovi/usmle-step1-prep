@@ -1,0 +1,248 @@
+[
+{
+  "id": "endo-075",
+  "subject": "Endocrine",
+  "major_topic": "Physiology",
+  "subtopic": "Cortisol",
+  "difficulty": "easy",
+  "vignette": "A medical student is reviewing glucocorticoid biosynthesis while preparing for an examination. She wants to identify the precise anatomic source of cortisol and the plasma protein that carries it in the circulation.",
+  "question": "Cortisol is produced by which layer of the adrenal cortex and circulates primarily bound to which plasma protein?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Zona fasciculata; corticosteroid-binding globulin"
+    },
+    {
+      "id": "B",
+      "text": "Zona glomerulosa; corticosteroid-binding globulin"
+    },
+    {
+      "id": "C",
+      "text": "Zona fasciculata; sex hormone-binding globulin"
+    },
+    {
+      "id": "D",
+      "text": "Zona reticularis; corticosteroid-binding globulin"
+    },
+    {
+      "id": "E",
+      "text": "Zona glomerulosa; sex hormone-binding globulin"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Cortisol is a glucocorticoid synthesized in the zona fasciculata of the adrenal cortex, the sugar layer of the salt-sugar-sex mnemonic. Because it is lipophilic, it circulates largely bound to corticosteroid-binding globulin (CBG, also called transcortin), which increases its solubility in plasma. Only the free fraction is biologically active at target tissues.",
+  "explanation_incorrect": {
+    "B": "The zona glomerulosa produces mineralocorticoids such as aldosterone, not cortisol; corticosteroid-binding globulin is the correct carrier.",
+    "C": "Sex hormone-binding globulin binds sex steroids such as testosterone and estradiol, not cortisol; the zona fasciculata is the correct source.",
+    "D": "The zona reticularis produces adrenal androgens such as DHEA, not cortisol; corticosteroid-binding globulin is the correct carrier.",
+    "E": "The zona glomerulosa produces aldosterone and sex hormone-binding globulin carries sex steroids, so both parts of this pair are wrong for cortisol."
+  },
+  "educationalObjective": "Cortisol is a glucocorticoid made in the zona fasciculata and transported in blood bound to corticosteroid-binding globulin.",
+  "source": "Generated from 8. Endocrine.pdf - Physiology: Cortisol"
+},
+{
+  "id": "endo-076",
+  "subject": "Endocrine",
+  "major_topic": "Physiology",
+  "subtopic": "Cortisol",
+  "difficulty": "medium",
+  "vignette": "A 52-year-old woman with rheumatoid arthritis has taken high-dose prednisone for several months. Her blood pressure has risen from 120/75 to 150/92 mm Hg, and her physician notes that her pressor response to infused norepinephrine is exaggerated.",
+  "question": "Which of the following best explains the permissive effect of glucocorticoids on vascular responses to catecholamines?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Direct agonism at alpha-1 adrenergic receptors by cortisol"
+    },
+    {
+      "id": "B",
+      "text": "Inhibition of nitric oxide synthase in vascular endothelium"
+    },
+    {
+      "id": "C",
+      "text": "Upregulation of alpha-1 receptors on arterioles, increasing sensitivity to norepinephrine and epinephrine"
+    },
+    {
+      "id": "D",
+      "text": "Mineralocorticoid receptor activation causing sodium retention at normal cortisol levels"
+    },
+    {
+      "id": "E",
+      "text": "Increased angiotensin-converting enzyme expression in the lung"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Cortisol raises blood pressure in part by upregulating alpha-1 adrenergic receptors on arterioles, which increases vascular sensitivity to norepinephrine and epinephrine. This is a classic permissive action: cortisol does not itself constrict vessels but amplifies the response to another vasoconstrictor. At very high concentrations, cortisol can also bind mineralocorticoid (aldosterone) receptors, but that is a separate mechanism from the permissive catecholamine effect.",
+  "explanation_incorrect": {
+    "A": "Cortisol is not an alpha-1 agonist; it increases receptor number and sensitivity rather than directly activating the receptor.",
+    "B": "Glucocorticoids do not raise pressure by inhibiting endothelial nitric oxide synthase; that is not the permissive mechanism described here.",
+    "D": "Mineralocorticoid receptor binding occurs only at high cortisol concentrations and causes volume expansion, not the permissive catecholamine effect.",
+    "E": "Cortisol does not increase pulmonary ACE expression; angiotensin II generation is not the permissive mechanism for catecholamine responsiveness."
+  },
+  "educationalObjective": "Cortisol is permissive for catecholamine-induced vasoconstriction by upregulating alpha-1 receptors on arterioles.",
+  "source": "Generated from 8. Endocrine.pdf - Physiology: Cortisol"
+},
+{
+  "id": "endo-077",
+  "subject": "Endocrine",
+  "major_topic": "Physiology",
+  "subtopic": "Cortisol",
+  "difficulty": "easy",
+  "vignette": "A 34-year-old woman with Cushing syndrome has a wide midline surgical scar that has healed poorly, with thin fragile skin and prominent purple striae on her abdomen. Her serum cortisol is markedly elevated.",
+  "question": "Which of the following cortisol actions best accounts for these skin and wound-healing findings?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Increased gluconeogenesis in the liver"
+    },
+    {
+      "id": "B",
+      "text": "Stimulation of fibroblast collagen synthesis"
+    },
+    {
+      "id": "C",
+      "text": "Increased fibroblast proliferation and collagen deposition"
+    },
+    {
+      "id": "D",
+      "text": "Decreased fibroblast activity with reduced collagen synthesis"
+    },
+    {
+      "id": "E",
+      "text": "Blockade of IL-2 production by lymphocytes"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Cortisol suppresses fibroblast activity and decreases collagen synthesis, producing poor wound healing, thin skin, and striae. This is the fibro part of the A BIG FIB mnemonic: increased Appetite, increased Blood pressure, increased Insulin resistance, increased Gluconeogenesis, decreased Fibroblast activity, decreased Inflammation and immunity, and decreased Bone formation. Options B and C describe the opposite of cortisol's effect on connective tissue.",
+  "explanation_incorrect": {
+    "A": "Increased gluconeogenesis explains hyperglycemia, not impaired wound healing or striae.",
+    "B": "Cortisol inhibits rather than stimulates fibroblast collagen synthesis; enhanced collagen deposition would strengthen scars.",
+    "C": "Increased fibroblast proliferation and collagen deposition would improve healing and is the opposite of glucocorticoid action.",
+    "E": "Blockade of IL-2 production causes immunosuppression and reactivation of latent infection, not the connective-tissue changes described."
+  },
+  "educationalObjective": "Cortisol decreases fibroblast activity and collagen synthesis, causing poor wound healing, thin skin, and striae.",
+  "source": "Generated from 8. Endocrine.pdf - Physiology: Cortisol"
+},
+{
+  "id": "endo-078",
+  "subject": "Endocrine",
+  "major_topic": "Physiology",
+  "subtopic": "Cortisol",
+  "difficulty": "medium",
+  "vignette": "A 68-year-old man with a history of treated latent pulmonary tuberculosis begins high-dose glucocorticoid therapy for giant cell arteritis. Six weeks later he develops fever and cough, and a chest radiograph shows reactivation tuberculosis. His CBC shows neutrophilia and eosinopenia.",
+  "question": "Reactivation of latent tuberculosis in this patient is most directly related to glucocorticoid inhibition of which of the following?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Prostaglandin and leukotriene synthesis in macrophages"
+    },
+    {
+      "id": "B",
+      "text": "IL-2 production, impairing cell-mediated immunity"
+    },
+    {
+      "id": "C",
+      "text": "Histamine release from mast cells"
+    },
+    {
+      "id": "D",
+      "text": "WBC adhesion to vascular endothelium, producing neutrophilia"
+    },
+    {
+      "id": "E",
+      "text": "Collagen synthesis by fibroblasts"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Exogenous glucocorticoids can reactivate latent tuberculosis and candidiasis because they block IL-2 production, suppressing the T-cell-mediated immunity needed to contain intracellular pathogens. Cortisol also inhibits leukotriene and prostaglandin production, blocks mast-cell histamine release, and inhibits WBC adhesion (causing neutrophilia), but the specific defect underlying reactivation of latent tuberculosis is impaired IL-2-driven cell-mediated immunity.",
+  "explanation_incorrect": {
+    "A": "Inhibiting leukotrienes and prostaglandins explains the anti-inflammatory effect, not the loss of cell-mediated containment of tuberculosis.",
+    "C": "Blocking mast-cell histamine release explains reduced allergic reactivity, not susceptibility to intracellular pathogens.",
+    "D": "Inhibited WBC adhesion causes neutrophilia by demargination, but this does not explain reactivation tuberculosis.",
+    "E": "Reduced collagen synthesis causes poor wound healing and striae, not reactivation of latent infection."
+  },
+  "educationalObjective": "Glucocorticoids block IL-2 production, impairing cell-mediated immunity and allowing reactivation of latent tuberculosis or candidiasis.",
+  "source": "Generated from 8. Endocrine.pdf - Physiology: Cortisol"
+},
+{
+  "id": "endo-079",
+  "subject": "Endocrine",
+  "major_topic": "Physiology",
+  "subtopic": "Cortisol",
+  "difficulty": "hard",
+  "vignette": "A 45-year-old caregiver has experienced severe psychological stress for several years. Laboratory testing shows persistently elevated cortisol, but studies of her immune cells show reduced sensitivity to cortisol's anti-inflammatory effects, and her ACTH is not appropriately suppressed.",
+  "question": "Which of the following best describes the net effect of chronic stress on the hypothalamic-pituitary-adrenal axis in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Enhanced negative feedback with low CRH, low ACTH, and low cortisol"
+    },
+    {
+      "id": "B",
+      "text": "Prolonged cortisol secretion with increased tissue sensitivity to cortisol and enhanced immunocompetency"
+    },
+    {
+      "id": "C",
+      "text": "Primary adrenal failure with high ACTH and low cortisol"
+    },
+    {
+      "id": "D",
+      "text": "Isolated loss of circadian rhythm with normal cortisol feedback and normal immune function"
+    },
+    {
+      "id": "E",
+      "text": "Prolonged cortisol secretion with cortisol resistance, impaired immunocompetency, and HPA axis dysregulation"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Chronic stress can induce prolonged cortisol secretion together with cortisol resistance, in which target tissues become less responsive to the hormone. The result is impaired immunocompetency and dysregulation of the HPA axis, including inadequate negative feedback so ACTH is not appropriately suppressed. Acutely, cortisol suppresses CRH and ACTH through negative feedback, but sustained stress disrupts this regulation.",
+  "explanation_incorrect": {
+    "A": "Enhanced negative feedback with low CRH, ACTH, and cortisol describes suppressed axis activity, not chronic stress with elevated cortisol and resistance.",
+    "B": "Chronic stress causes reduced rather than increased tissue sensitivity to cortisol and impaired rather than enhanced immunocompetency.",
+    "C": "Primary adrenal failure would show high ACTH with low cortisol, whereas this patient has elevated cortisol.",
+    "D": "Chronic stress alters feedback and immunity, so immune function is not normal; the disturbance is more than an isolated circadian-rhythm change."
+  },
+  "educationalObjective": "Chronic stress produces prolonged cortisol secretion, cortisol resistance, impaired immunocompetency, and HPA axis dysregulation.",
+  "source": "Generated from 8. Endocrine.pdf - Physiology: Cortisol"
+},
+{
+  "id": "endo-080",
+  "subject": "Endocrine",
+  "major_topic": "Physiology",
+  "subtopic": "Cortisol",
+  "difficulty": "medium",
+  "vignette": "A 50-year-old man started on high-dose dexamethasone for an autoimmune condition develops hyperglycemia that requires insulin therapy. His physician explains that glucocorticoids are diabetogenic.",
+  "question": "Which of the following metabolic actions of cortisol most directly explains the development of hyperglycemia?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Increased glucose uptake in skeletal muscle and adipose tissue"
+    },
+    {
+      "id": "B",
+      "text": "Increased gluconeogenesis, lipolysis, and proteolysis with decreased glucose utilization"
+    },
+    {
+      "id": "C",
+      "text": "Increased insulin secretion from pancreatic beta cells"
+    },
+    {
+      "id": "D",
+      "text": "Increased glycogen synthesis in liver and muscle"
+    },
+    {
+      "id": "E",
+      "text": "Decreased hepatic glucose output"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Cortisol is diabetogenic: it increases gluconeogenesis, lipolysis, and proteolysis while decreasing peripheral glucose utilization, producing insulin resistance and hyperglycemia. These catabolic actions mobilize glucose and alternative fuels during stress, but chronic excess raises fasting glucose and can precipitate steroid-induced diabetes.",
+  "explanation_incorrect": {
+    "A": "Cortisol decreases rather than increases glucose utilization in muscle and adipose tissue; increased uptake would lower blood glucose.",
+    "C": "Cortisol does not directly increase insulin secretion; any compensatory hyperinsulinemia is a response to insulin resistance, not the primary mechanism.",
+    "D": "Increased glycogen synthesis would store glucose and lower blood glucose, the opposite of cortisol's catabolic effect.",
+    "E": "Cortisol increases hepatic glucose output through gluconeogenesis; decreasing it would cause hypoglycemia."
+  },
+  "educationalObjective": "Cortisol causes insulin resistance and hyperglycemia by increasing gluconeogenesis, lipolysis, and proteolysis while reducing glucose utilization.",
+  "source": "Generated from 8. Endocrine.pdf - Physiology: Cortisol"
+}
+]

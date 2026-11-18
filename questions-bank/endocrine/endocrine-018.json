@@ -1,0 +1,125 @@
+[
+{
+  "id": "endo-058",
+  "subject": "Endocrine",
+  "major_topic": "Physiology",
+  "subtopic": "Glucagon",
+  "difficulty": "easy",
+  "vignette": "A healthy volunteer skips breakfast and, after several hours, her blood glucose begins to fall. A hormone is secreted to defend glucose homeostasis during this fasting state.",
+  "question": "Which cells secrete this hormone and what are its principal metabolic actions?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Beta cells; it promotes glucose uptake and glycogen synthesis to lower blood sugar."
+    },
+    {
+      "id": "B",
+      "text": "Alpha cells; it promotes glycogenesis and lipogenesis, lowering blood glucose."
+    },
+    {
+      "id": "C",
+      "text": "Alpha cells of the pancreatic islets; it promotes glycogenolysis, gluconeogenesis, lipolysis, and ketogenesis to raise blood glucose."
+    },
+    {
+      "id": "D",
+      "text": "Delta cells; it inhibits the secretion of both insulin and glucagon."
+    },
+    {
+      "id": "E",
+      "text": "Alpha cells; it raises blood glucose by increasing intestinal glucose absorption."
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Glucagon is made by the alpha cells of the pancreatic islets. It promotes glycogenolysis, gluconeogenesis, lipolysis, and ketogenesis, all of which help elevate blood sugar during fasting. It is secreted when blood glucose falls and is inhibited by insulin, amylin, somatostatin, and hyperglycemia. Insulin from beta cells and somatostatin from delta cells are the classic distractors. The core association is alpha cells raising glucose in the fasting state.",
+  "explanation_incorrect": {
+    "A": "That describes insulin from beta cells, which lowers blood glucose; glucagon comes from alpha cells and raises it.",
+    "B": "Alpha cells make glucagon, but its actions are glycogenolysis, gluconeogenesis, lipolysis, and ketogenesis, not glycogenesis and lipogenesis.",
+    "D": "Delta cells make somatostatin, which inhibits insulin and glucagon; the glucose-raising hormone is from alpha cells.",
+    "E": "Glucagon raises glucose through hepatic glycogenolysis and gluconeogenesis, not by increasing intestinal absorption."
+  },
+  "educationalObjective": "Glucagon is secreted by pancreatic alpha cells and raises blood glucose via glycogenolysis, gluconeogenesis, lipolysis, and ketogenesis.",
+  "source": "Generated from 8. Endocrine.pdf - Physiology: Glucagon"
+},
+{
+  "id": "endo-059",
+  "subject": "Endocrine",
+  "major_topic": "Physiology",
+  "subtopic": "Glucagon",
+  "difficulty": "medium",
+  "vignette": "A researcher is investigating the signals that regulate glucagon release from pancreatic islet cells in vitro.",
+  "question": "Which of the following correctly describes the regulation of glucagon secretion?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Glucagon is secreted in response to hypoglycemia and is inhibited by insulin, amylin, somatostatin, and hyperglycemia."
+    },
+    {
+      "id": "B",
+      "text": "Glucagon is secreted in response to hyperglycemia and is inhibited by hypoglycemia and insulin."
+    },
+    {
+      "id": "C",
+      "text": "Glucagon secretion is stimulated by insulin and somatostatin from neighboring islet cells."
+    },
+    {
+      "id": "D",
+      "text": "Glucagon is secreted continuously at a constant rate, independent of blood glucose."
+    },
+    {
+      "id": "E",
+      "text": "Glucagon release is triggered by hyperglycemia and suppressed during fasting."
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Glucagon is secreted in response to hypoglycemia, which is why it rises during fasting to maintain blood glucose. Its secretion is inhibited by insulin, amylin, somatostatin, and hyperglycemia. This reciprocal regulation with insulin is a classic concept: a falling glucose triggers glucagon while insulin and somatostatin from neighboring islet cells restrain it. Continuous, glucose-independent secretion is not correct.",
+  "explanation_incorrect": {
+    "B": "The relationship is reversed: hypoglycemia stimulates glucagon and hyperglycemia inhibits it.",
+    "C": "Insulin and somatostatin are inhibitors of glucagon secretion, not stimulators.",
+    "D": "Glucagon secretion is dynamic and tightly regulated by glucose and paracrine signals, not constant.",
+    "E": "Glucagon is stimulated by hypoglycemia and during fasting; hyperglycemia suppresses it."
+  },
+  "educationalObjective": "Glucagon is released with hypoglycemia and inhibited by insulin, amylin, somatostatin, and hyperglycemia.",
+  "source": "Generated from 8. Endocrine.pdf - Physiology: Glucagon"
+},
+{
+  "id": "endo-060",
+  "subject": "Endocrine",
+  "major_topic": "Physiology",
+  "subtopic": "Glucagon",
+  "difficulty": "hard",
+  "vignette": "A healthy volunteer fasts for 24 hours. As blood glucose falls, glucagon rises and insulin falls, and the liver shifts its metabolism to maintain fuel supply.",
+  "question": "Which of the following best describes the hepatic metabolic response to the elevated glucagon?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Increased glycolysis and glycogenesis lower hepatic glucose output and promote glycogen storage."
+    },
+    {
+      "id": "B",
+      "text": "Increased lipogenesis and glycogen synthesis store excess energy despite the fasting state."
+    },
+    {
+      "id": "C",
+      "text": "Gluconeogenesis is suppressed and ketogenesis is unchanged, so blood glucose continues to fall unchecked."
+    },
+    {
+      "id": "D",
+      "text": "Glycogenolysis is increased but gluconeogenesis and ketogenesis are inhibited, limiting glucose production."
+    },
+    {
+      "id": "E",
+      "text": "Increased glycogenolysis and gluconeogenesis raise blood glucose, while increased lipolysis and ketogenesis provide alternative fuels."
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "During fasting, the rise in glucagon and fall in insulin shift hepatic metabolism toward glucose production and alternative fuel generation. Glucagon promotes glycogenolysis (breaking down glycogen) and gluconeogenesis (making new glucose) to raise blood glucose, and it promotes lipolysis and ketogenesis to supply fatty acids and ketones. This coordinated response maintains glucose homeostasis when dietary glucose is unavailable. Glycolysis, glycogenesis, and lipogenesis are insulin-driven, fed-state processes and would be suppressed here.",
+  "explanation_incorrect": {
+    "A": "Glycolysis and glycogenesis are fed-state, insulin-driven processes; fasting suppresses them to avoid lowering glucose further.",
+    "B": "Lipogenesis and glycogen synthesis store energy in the fed state; fasting is a catabolic, glucose-mobilizing state.",
+    "C": "Fasting increases, not suppresses, gluconeogenesis and ketogenesis, which help defend blood glucose.",
+    "D": "Glucagon promotes gluconeogenesis and ketogenesis alongside glycogenolysis; they are not inhibited."
+  },
+  "educationalObjective": "In fasting, glucagon drives hepatic glycogenolysis, gluconeogenesis, lipolysis, and ketogenesis to maintain blood glucose and supply alternative fuels.",
+  "source": "Generated from 8. Endocrine.pdf - Physiology: Glucagon"
+}
+]

@@ -1,0 +1,166 @@
+[
+{
+  "id": "endo-228",
+  "subject": "Endocrine",
+  "major_topic": "Pharmacology",
+  "subtopic": "GLP-1 analogs and DPP-4 inhibitors",
+  "difficulty": "easy",
+  "vignette": "A 53-year-old woman with type 2 diabetes and obesity is started on semaglutide, a GLP-1 analog. She is pleased to learn it may also help with weight loss. She asks how it lowers her blood glucose.",
+  "question": "Which of the following best describes the mechanism of GLP-1 analogs such as exenatide, liraglutide, and semaglutide?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Decreased glucagon release, decreased gastric emptying, and increased glucose-dependent insulin release"
+    },
+    {
+      "id": "B",
+      "text": "Direct closure of beta-cell ATP-sensitive K+ channels"
+    },
+    {
+      "id": "C",
+      "text": "Inhibition of mitochondrial glycerol-3-phosphate dehydrogenase"
+    },
+    {
+      "id": "D",
+      "text": "Activation of the PPAR-gamma nuclear receptor"
+    },
+    {
+      "id": "E",
+      "text": "Blockade of proximal-tubule SGLT2 transporters"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "GLP-1 analogs mimic the incretin hormone GLP-1, which is normally released after meals. They decrease glucagon release, slow gastric emptying, and increase glucose-dependent insulin release from pancreatic beta cells. Because insulin release is glucose-dependent, these drugs carry a low risk of hypoglycemia when used alone. They also increase satiety and promote weight loss, which is often desirable in type 2 diabetes. Common adverse effects include nausea and vomiting, and pancreatitis is a rare but serious concern. Their mechanism is therefore distinct from sulfonylureas, metformin, thiazolidinediones, and SGLT2 inhibitors.",
+  "explanation_incorrect": {
+    "B": "Closing beta-cell K+ channels is the mechanism of sulfonylureas and meglitinides, not GLP-1 analogs.",
+    "C": "Inhibiting mGPD is how metformin reduces hepatic gluconeogenesis.",
+    "D": "Activating PPAR-gamma is the mechanism of pioglitazone.",
+    "E": "Blocking SGLT2 in the proximal tubule is the mechanism of the gliflozin drugs."
+  },
+  "educationalObjective": "GLP-1 analogs decrease glucagon and gastric emptying, increase glucose-dependent insulin release, and promote satiety and weight loss.",
+  "source": "Generated from 8. Endocrine.pdf - Pharmacology: GLP-1 analogs and DPP-4 inhibitors"
+},
+{
+  "id": "endo-229",
+  "subject": "Endocrine",
+  "major_topic": "Pharmacology",
+  "subtopic": "GLP-1 analogs and DPP-4 inhibitors",
+  "difficulty": "medium",
+  "vignette": "A 47-year-old man with type 2 diabetes started on liraglutide two weeks ago reports persistent nausea and vomiting, particularly after meals. He has also lost several pounds, which his physician had mentioned as a possible benefit.",
+  "question": "Which of the following is a recognized adverse effect of GLP-1 analogs?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Lactic acidosis"
+    },
+    {
+      "id": "B",
+      "text": "Disulfiram-like reaction"
+    },
+    {
+      "id": "C",
+      "text": "Nausea and vomiting"
+    },
+    {
+      "id": "D",
+      "text": "Peripheral edema and heart failure"
+    },
+    {
+      "id": "E",
+      "text": "Vulvovaginal candidiasis"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "GLP-1 analogs such as exenatide, liraglutide, and semaglutide commonly cause nausea and vomiting, related to their effects on gastric emptying and satiety. They can also cause pancreatitis, a rare but important adverse effect. Weight loss and increased satiety are generally desirable effects in type 2 diabetes. In this patient the gastrointestinal symptoms are a classic GLP-1 analog adverse effect. Lactic acidosis, disulfiram-like reactions, edema/heart failure, and candidiasis belong to other diabetes drug classes.",
+  "explanation_incorrect": {
+    "A": "Lactic acidosis is a metformin toxicity in the setting of renal or hepatic hypoperfusion.",
+    "B": "A disulfiram-like reaction is caused by first-generation sulfonylureas with alcohol.",
+    "D": "Edema and heart failure are adverse effects of pioglitazone, not GLP-1 analogs.",
+    "E": "Vulvovaginal candidiasis results from SGLT2 inhibitor-induced glucosuria."
+  },
+  "educationalObjective": "GLP-1 analogs commonly cause nausea and vomiting and can cause pancreatitis, while promoting weight loss and satiety.",
+  "source": "Generated from 8. Endocrine.pdf - Pharmacology: GLP-1 analogs and DPP-4 inhibitors"
+},
+{
+  "id": "endo-230",
+  "subject": "Endocrine",
+  "major_topic": "Pharmacology",
+  "subtopic": "GLP-1 analogs and DPP-4 inhibitors",
+  "difficulty": "hard",
+  "vignette": "A 58-year-old woman with type 2 diabetes is prescribed sitagliptin. She asks why this drug is weight-neutral and rarely causes hypoglycemia, unlike her friend's sulfonylurea.",
+  "question": "Sitagliptin lowers blood glucose by which of the following mechanisms?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Directly closing beta-cell K+ channels to force insulin release"
+    },
+    {
+      "id": "B",
+      "text": "Inhibiting hepatic gluconeogenesis"
+    },
+    {
+      "id": "C",
+      "text": "Blocking glucose reabsorption in the proximal convoluted tubule"
+    },
+    {
+      "id": "D",
+      "text": "Activating the PPAR-gamma nuclear receptor"
+    },
+    {
+      "id": "E",
+      "text": "Inhibiting DPP-4, the enzyme that deactivates GLP-1, increasing glucose-dependent insulin release"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "DPP-4 inhibitors, linagliptin, saxagliptin, and sitagliptin, inhibit the DPP-4 enzyme that normally deactivates the incretin GLP-1. By prolonging endogenous GLP-1 activity, they decrease glucagon release, slow gastric emptying, and increase glucose-dependent insulin release. Because the effect is glucose-dependent, hypoglycemia is uncommon and the drugs are weight-neutral. This mechanism differs from sulfonylureas (direct K+ channel closure), metformin (gluconeogenesis inhibition), SGLT2 inhibitors, and PPAR-gamma activators. Their characteristic adverse effects are respiratory and urinary infections.",
+  "explanation_incorrect": {
+    "A": "Directly closing beta-cell K+ channels is how sulfonylureas and meglitinides work, not DPP-4 inhibitors.",
+    "B": "Inhibiting hepatic gluconeogenesis is metformin's mechanism.",
+    "C": "Blocking proximal-tubule glucose reabsorption is the mechanism of SGLT2 inhibitors.",
+    "D": "Activating PPAR-gamma is the mechanism of thiazolidinediones such as pioglitazone."
+  },
+  "educationalObjective": "DPP-4 inhibitors prolong endogenous GLP-1 by blocking its degradation, increasing glucose-dependent insulin release while being weight-neutral.",
+  "source": "Generated from 8. Endocrine.pdf - Pharmacology: GLP-1 analogs and DPP-4 inhibitors"
+},
+{
+  "id": "endo-231",
+  "subject": "Endocrine",
+  "major_topic": "Pharmacology",
+  "subtopic": "GLP-1 analogs and DPP-4 inhibitors",
+  "difficulty": "medium",
+  "vignette": "A 66-year-old man with type 2 diabetes has been taking linagliptin for several months. His physician reviews its adverse-effect profile with him, noting it does not cause the weight gain seen with some other agents.",
+  "question": "Which of the following adverse effects is associated with DPP-4 inhibitors?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Weight gain"
+    },
+    {
+      "id": "B",
+      "text": "Respiratory and urinary infections"
+    },
+    {
+      "id": "C",
+      "text": "Acute pancreatitis"
+    },
+    {
+      "id": "D",
+      "text": "Lactic acidosis"
+    },
+    {
+      "id": "E",
+      "text": "Edema and heart failure"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "DPP-4 inhibitors such as linagliptin, saxagliptin, and sitagliptin are associated with an increased risk of respiratory and urinary tract infections and are essentially weight-neutral. Pancreatitis is a concern with GLP-1 analogs rather than DPP-4 inhibitors. Lactic acidosis is a metformin toxicity, and edema/heart failure with weight gain are effects of pioglitazone. By prolonging GLP-1 action they increase glucose-dependent insulin release and also increase satiety. Therefore respiratory and urinary infections are the characteristic adverse effect here.",
+  "explanation_incorrect": {
+    "A": "DPP-4 inhibitors are weight-neutral; weight gain is typical of sulfonylureas and pioglitazone.",
+    "C": "Pancreatitis is associated with GLP-1 analogs, not DPP-4 inhibitors.",
+    "D": "Lactic acidosis is a metformin adverse effect in renal insufficiency or hypoperfusion.",
+    "E": "Edema and heart failure are caused by pioglitazone, not by DPP-4 inhibitors."
+  },
+  "educationalObjective": "DPP-4 inhibitors are weight-neutral but associated with respiratory and urinary infections.",
+  "source": "Generated from 8. Endocrine.pdf - Pharmacology: GLP-1 analogs and DPP-4 inhibitors"
+}
+]

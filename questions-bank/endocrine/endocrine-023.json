@@ -1,0 +1,125 @@
+[
+{
+  "id": "endo-166",
+  "subject": "Endocrine",
+  "major_topic": "Pathology",
+  "subtopic": "Hypoglycemia in diabetes mellitus",
+  "difficulty": "easy",
+  "vignette": "A 45-year-old man with type 1 diabetes mellitus takes his usual insulin but skips lunch and then exercises vigorously. He suddenly develops sweating, tremor, palpitations, anxiety, and intense hunger. His glucose is 52 mg/dL.",
+  "question": "These symptoms are best explained by activation of which of the following mechanisms?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The autonomic nervous system, providing a warning that glucose is falling"
+    },
+    {
+      "id": "B",
+      "text": "Direct neuronal glucose deprivation producing altered mental status"
+    },
+    {
+      "id": "C",
+      "text": "Osmotic diuresis from hyperglycemia causing volume depletion"
+    },
+    {
+      "id": "D",
+      "text": "Ketoacidosis with Kussmaul respirations and fruity breath"
+    },
+    {
+      "id": "E",
+      "text": "Hypokalemia from insulin-driven intracellular potassium shift"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Diaphoresis, tachycardia, tremor, anxiety, and hunger are neurogenic (autonomic) symptoms of hypoglycemia. They arise from adrenergic activation and allow the patient to perceive falling glucose, providing a warning to eat. They are distinct from neuroglycopenic symptoms such as altered mental status and seizures, which result from insufficient glucose delivery to the central nervous system.",
+  "explanation_incorrect": {
+    "B": "Neuroglycopenic symptoms reflect CNS glucose deprivation and include confusion, seizures, and death; diaphoresis, tremor, palpitations, and hunger are autonomic warnings instead.",
+    "C": "Osmotic diuresis is a manifestation of hyperglycemia in DKA or HHS, not of hypoglycemia, and does not produce this adrenergic symptom complex.",
+    "D": "Ketoacidosis occurs with insulin deficiency and hyperglycemia, not with the low glucose and exogenous insulin excess described here.",
+    "E": "Insulin does drive potassium into cells, but hypokalemia does not cause diaphoresis, tremor, palpitations, or hunger; those are autonomic manifestations of low glucose."
+  },
+  "educationalObjective": "Neurogenic autonomic symptoms of hypoglycemia (diaphoresis, tachycardia, tremor, anxiety, hunger) warn of falling glucose, unlike neuroglycopenic symptoms.",
+  "source": "Generated from 8. Endocrine.pdf - Pathology: Hypoglycemia in diabetes mellitus"
+},
+{
+  "id": "endo-167",
+  "subject": "Endocrine",
+  "major_topic": "Pathology",
+  "subtopic": "Hypoglycemia in diabetes mellitus",
+  "difficulty": "medium",
+  "vignette": "A 62-year-old man with type 2 diabetes mellitus on insulin and a beta blocker for hypertension presents with new confusion and a seizure. His glucose is 38 mg/dL. His wife reports that he had no sweating, tremor, or palpitations beforehand.",
+  "question": "Which of the following best explains the absence of warning symptoms in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Sulfonylurea-induced exhaustion of pancreatic beta cells"
+    },
+    {
+      "id": "B",
+      "text": "Beta-blocker-induced hyperglycemia masking the true low glucose"
+    },
+    {
+      "id": "C",
+      "text": "Counter-regulatory hormone excess causing rebound hyperglycemia"
+    },
+    {
+      "id": "D",
+      "text": "An attenuated autonomic response from beta blockade causing hypoglycemia unawareness"
+    },
+    {
+      "id": "E",
+      "text": "Peripheral neuropathy preventing perception of the adrenergic symptoms"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Patients with an attenuated autonomic response, such as those taking beta blockers, can develop hypoglycemia unawareness: neuroglycopenic symptoms like confusion and seizures occur without preceding neurogenic warning signs. Beta blockade blunts the adrenergic manifestations (tachycardia, tremor, diaphoresis) that would normally alert the patient. This is why the first sign can be altered mental status or a seizure.",
+  "explanation_incorrect": {
+    "A": "Beta-cell exhaustion would reduce insulin secretion and raise glucose; it does not explain absent autonomic warning signs during hypoglycemia.",
+    "B": "Beta blockers do not cause hyperglycemia that masks hypoglycemia; they blunt the adrenergic warning symptoms of a genuinely low glucose.",
+    "C": "Rebound hyperglycemia after a hypoglycemic episode does not account for the lack of neurogenic symptoms during the current low glucose.",
+    "E": "The mechanism is pharmacologic blunting of the autonomic adrenergic response by beta blockade, not loss of peripheral sensory perception."
+  },
+  "educationalObjective": "Beta blockers can blunt autonomic warning symptoms, causing hypoglycemia unawareness in which neuroglycopenia appears without preceding neurogenic signs.",
+  "source": "Generated from 8. Endocrine.pdf - Pathology: Hypoglycemia in diabetes mellitus"
+},
+{
+  "id": "endo-168",
+  "subject": "Endocrine",
+  "major_topic": "Pathology",
+  "subtopic": "Hypoglycemia in diabetes mellitus",
+  "difficulty": "easy",
+  "vignette": "A 34-year-old man with type 1 diabetes mellitus develops sweating, tremor, and hunger 2 hours after injecting his usual insulin but before eating lunch. He is fully alert, oriented, and able to swallow. His glucose is 55 mg/dL.",
+  "question": "Which of the following is the most appropriate initial treatment?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Subcutaneous rapid-acting insulin"
+    },
+    {
+      "id": "B",
+      "text": "Intravenous normal saline"
+    },
+    {
+      "id": "C",
+      "text": "Oral glucose tablets or fruit juice"
+    },
+    {
+      "id": "D",
+      "text": "Intramuscular glucagon"
+    },
+    {
+      "id": "E",
+      "text": "Intravenous dextrose"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Hypoglycemia in a conscious patient who can swallow is treated first with simple carbohydrates such as glucose tablets or fruit juice, which raise glucose rapidly. The episode here was triggered by insulin given without adequate food intake, a classic setting along with insulin secretagogues such as sulfonylureas and meglitinides. Parenteral glucagon or intravenous dextrose is reserved for severe hypoglycemia when the patient cannot swallow safely or has altered mental status.",
+  "explanation_incorrect": {
+    "A": "Giving more insulin would worsen hypoglycemia; the problem is insulin excess relative to food intake, not insulin deficiency.",
+    "B": "Normal saline does not raise blood glucose and is not a treatment for hypoglycemia.",
+    "D": "Intramuscular glucagon is used for severe hypoglycemia when oral intake is unsafe or the patient is unconscious; this alert patient can swallow simple carbohydrates.",
+    "E": "Intravenous dextrose is effective but is reserved for patients unable to swallow or with severe neuroglycopenia; oral simple carbohydrate is the simplest appropriate first step here."
+  },
+  "educationalObjective": "Conscious hypoglycemic patients who can swallow are treated first with simple oral carbohydrates; glucagon or IV dextrose is for severe cases.",
+  "source": "Generated from 8. Endocrine.pdf - Pathology: Hypoglycemia in diabetes mellitus"
+}
+]

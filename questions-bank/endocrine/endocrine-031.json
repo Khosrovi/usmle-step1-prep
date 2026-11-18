@@ -1,0 +1,166 @@
+[
+{
+  "id": "endo-220",
+  "subject": "Endocrine",
+  "major_topic": "Pharmacology",
+  "subtopic": "Insulin secretagogues",
+  "difficulty": "easy",
+  "vignette": "A 56-year-old man with type 2 diabetes has not reached his glycemic targets on lifestyle modification alone. His physician starts him on glyburide, a second-generation sulfonylurea. He asks how the drug actually lowers his blood sugar.",
+  "question": "Which of the following best describes the mechanism of glyburide?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Inhibition of mitochondrial glycerol-3-phosphate dehydrogenase"
+    },
+    {
+      "id": "B",
+      "text": "Activation of the PPAR-gamma nuclear receptor"
+    },
+    {
+      "id": "C",
+      "text": "Competitive inhibition of intestinal alpha-glucosidases"
+    },
+    {
+      "id": "D",
+      "text": "Blockade of renal SGLT2 transporters"
+    },
+    {
+      "id": "E",
+      "text": "Closure of ATP-sensitive K+ channels in pancreatic beta cells, causing depolarization and Ca2+ influx"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Sulfonylureas such as glyburide and glipizide (and first-generation chlorpropamide and tolbutamide) close ATP-sensitive K+ channels in the pancreatic beta-cell membrane. This depolarizes the cell, opens voltage-gated Ca2+ channels, and the resulting Ca2+ influx triggers insulin granule exocytosis. Their effect is to increase insulin secretion, so they require functioning beta cells. This contrasts with metformin (inhibits hepatic gluconeogenesis), pioglitazone (PPAR-gamma), alpha-glucosidase inhibitors, and SGLT2 inhibitors. Because they stimulate insulin regardless of glucose levels, sulfonylureas can cause hypoglycemia, especially in renal insufficiency.",
+  "explanation_incorrect": {
+    "A": "Inhibiting mitochondrial glycerol-3-phosphate dehydrogenase is the mechanism of metformin, not sulfonylureas.",
+    "B": "Activating PPAR-gamma is the mechanism of the thiazolidinedione pioglitazone, not glyburide.",
+    "C": "Inhibiting intestinal alpha-glucosidases is how acarbose and miglitol work, not glyburide.",
+    "D": "Blocking renal SGLT2 is the mechanism of the gliflozin drugs, not sulfonylureas."
+  },
+  "educationalObjective": "Sulfonylureas close beta-cell K+ channels, causing depolarization and Ca2+-dependent insulin release.",
+  "source": "Generated from 8. Endocrine.pdf - Pharmacology: Insulin secretagogues"
+},
+{
+  "id": "endo-221",
+  "subject": "Endocrine",
+  "major_topic": "Pharmacology",
+  "subtopic": "Insulin secretagogues",
+  "difficulty": "medium",
+  "vignette": "A 49-year-old woman with type 2 diabetes needs a drug that augments the insulin released in response to a meal, with a rapid, short-lived action. Her physician chooses a meglitinide to be taken with meals.",
+  "question": "Which of the following is a meglitinide that increases glucose-induced insulin secretion?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Glyburide"
+    },
+    {
+      "id": "B",
+      "text": "Repaglinide"
+    },
+    {
+      "id": "C",
+      "text": "Metformin"
+    },
+    {
+      "id": "D",
+      "text": "Pioglitazone"
+    },
+    {
+      "id": "E",
+      "text": "Sitagliptin"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "The meglitinides, nateglinide and repaglinide, increase glucose-induced insulin secretion and are rapid, short-acting agents taken with meals. Like sulfonylureas they act on the beta cell, but they have a quicker onset and shorter duration. Glyburide is a sulfonylurea, metformin is a biguanide that reduces hepatic glucose production, pioglitazone is a thiazolidinedione, and sitagliptin is a DPP-4 inhibitor. Meglitinides can also cause hypoglycemia, though generally less than sulfonylureas. Recognizing repaglinide as a meglitinide is the point of this question.",
+  "explanation_incorrect": {
+    "A": "Glyburide is a second-generation sulfonylurea, not a meglitinide.",
+    "C": "Metformin is a biguanide that inhibits hepatic gluconeogenesis and does not stimulate insulin secretion.",
+    "D": "Pioglitazone is a thiazolidinedione (PPAR-gamma activator) that improves insulin sensitivity.",
+    "E": "Sitagliptin is a DPP-4 inhibitor that prolongs endogenous GLP-1 action."
+  },
+  "educationalObjective": "Nateglinide and repaglinide are meglitinides that enhance glucose-induced insulin secretion.",
+  "source": "Generated from 8. Endocrine.pdf - Pharmacology: Insulin secretagogues"
+},
+{
+  "id": "endo-222",
+  "subject": "Endocrine",
+  "major_topic": "Pharmacology",
+  "subtopic": "Insulin secretagogues",
+  "difficulty": "hard",
+  "vignette": "A 63-year-old man with type 2 diabetes is taking an older, first-generation sulfonylurea. At a wedding he consumes alcohol and develops intense facial flushing, headache, nausea, and a drop in blood pressure, a disulfiram-like reaction. He wants to know which of his medications is responsible.",
+  "question": "Which of the following agents is most likely responsible for this reaction?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Glipizide"
+    },
+    {
+      "id": "B",
+      "text": "Glyburide"
+    },
+    {
+      "id": "C",
+      "text": "Repaglinide"
+    },
+    {
+      "id": "D",
+      "text": "Chlorpropamide"
+    },
+    {
+      "id": "E",
+      "text": "Metformin"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "First-generation sulfonylureas, chlorpropamide and tolbutamide, can produce a disulfiram-like reaction when alcohol is consumed, causing flushing, headache, nausea, and hypotension. These older agents are rarely used today, having been replaced by second-generation drugs such as glipizide and glyburide, which do not characteristically cause this reaction. Repaglinide is a meglitinide and metformin is a biguanide, neither of which causes a disulfiram-like effect. The reaction is a classic association specifically linked to the first-generation sulfonylureas. Therefore chlorpropamide is the culprit here.",
+  "explanation_incorrect": {
+    "A": "Glipizide is a second-generation sulfonylurea and is not associated with the disulfiram-like reaction.",
+    "B": "Glyburide is also a second-generation sulfonylurea without this disulfiram-like effect.",
+    "C": "Repaglinide is a meglitinide that boosts glucose-induced insulin secretion; it is not linked to alcohol intolerance.",
+    "E": "Metformin can cause GI upset and lactic acidosis but does not produce a disulfiram-like reaction with alcohol."
+  },
+  "educationalObjective": "First-generation sulfonylureas (chlorpropamide, tolbutamide) can cause a disulfiram-like reaction with alcohol.",
+  "source": "Generated from 8. Endocrine.pdf - Pharmacology: Insulin secretagogues"
+},
+{
+  "id": "endo-223",
+  "subject": "Endocrine",
+  "major_topic": "Pharmacology",
+  "subtopic": "Insulin secretagogues",
+  "difficulty": "medium",
+  "vignette": "A 78-year-old woman with type 2 diabetes and chronic kidney disease takes glyburide. She is brought to the emergency department confused, diaphoretic, and tremulous, with a capillary glucose of 42 mg/dL. Her family says she took her usual dose but ate very little lunch.",
+  "question": "Which adverse effect of sulfonylureas is most consistent with this presentation and is especially dangerous in renal insufficiency?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Hypoglycemia"
+    },
+    {
+      "id": "B",
+      "text": "Lactic acidosis"
+    },
+    {
+      "id": "C",
+      "text": "Weight loss"
+    },
+    {
+      "id": "D",
+      "text": "Acute pancreatitis"
+    },
+    {
+      "id": "E",
+      "text": "Vulvovaginal candidiasis"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Sulfonylureas stimulate insulin secretion independent of blood glucose, so hypoglycemia is their major adverse effect, a risk that is amplified in renal insufficiency because reduced drug clearance prolongs their action. Inadequate food intake and advanced age further increase the risk, matching this patient's diaphoresis, tremor, and confusion. Metformin, not sulfonylureas, is the drug linked to lactic acidosis, and it tends to promote weight loss rather than gain. Pancreatitis is associated with GLP-1 analogs, and vulvovaginal candidiasis with SGLT2 inhibitors. Sulfonylureas also cause weight gain, not the weight loss listed here.",
+  "explanation_incorrect": {
+    "B": "Lactic acidosis is a metformin toxicity seen with renal insufficiency, cirrhosis, sepsis, or hypoperfusion, not a sulfonylurea effect.",
+    "C": "Sulfonylureas tend to cause weight gain from increased insulin; weight loss is more typical of metformin.",
+    "D": "Pancreatitis is an adverse effect of GLP-1 analogs such as exenatide, not of sulfonylureas.",
+    "E": "Vulvovaginal candidiasis results from the glucosuria caused by SGLT2 inhibitors, not from sulfonylureas."
+  },
+  "educationalObjective": "Sulfonylureas can cause hypoglycemia (especially with renal insufficiency) and weight gain.",
+  "source": "Generated from 8. Endocrine.pdf - Pharmacology: Insulin secretagogues"
+}
+]
