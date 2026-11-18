@@ -1,0 +1,330 @@
+[
+{
+  "id": "res-164",
+  "subject": "Respiratory",
+  "major_topic": "Pathology",
+  "subtopic": "Asthma and bronchiectasis",
+  "difficulty": "easy",
+  "vignette": "A 19-year-old with a history of allergies has intermittent episodes of dyspnea, coughing, and wheezing, especially in spring and after viral colds. Between episodes she is asymptomatic with normal spirometry.",
+  "question": "Which diagnostic approach is most appropriate to confirm the suspected diagnosis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Chest radiograph demonstrating hyperinflation"
+    },
+    {
+      "id": "B",
+      "text": "Spirometry during an episode showing an obstructive pattern with bronchodilator response, and methacholine challenge if needed"
+    },
+    {
+      "id": "C",
+      "text": "High-resolution CT showing permanently dilated airways"
+    },
+    {
+      "id": "D",
+      "text": "Measurement of the serum alpha1-antitrypsin level"
+    },
+    {
+      "id": "E",
+      "text": "Sputum culture growing Mycobacterium avium"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Asthma is a clinical diagnosis supported by intermittent symptoms of dyspnea, coughing, wheezing, and tachypnea. Spirometry during an episode shows an obstructive pattern with a bronchodilator response, although it may be normal between exacerbations. A methacholine challenge can be added when the diagnosis is uncertain.",
+  "explanation_incorrect": {
+    "A": "The chest radiograph is often normal in asthma, and hyperinflation is a nonspecific finding.",
+    "C": "Permanently dilated airways with bronchial thickening are the imaging hallmark of bronchiectasis, not asthma.",
+    "D": "Alpha1-antitrypsin levels evaluate emphysema, not intermittent reversible airway disease.",
+    "E": "Mycobacterium avium is associated with some cases of bronchiectasis, not uncomplicated asthma."
+  },
+  "educationalObjective": "Asthma is diagnosed clinically with obstructive spirometry and bronchodilator response, plus methacholine challenge when needed.",
+  "source": "Generated from 16. Respiratory.pdf - Pathology: Asthma and bronchiectasis"
+},
+{
+  "id": "res-165",
+  "subject": "Respiratory",
+  "major_topic": "Pathology",
+  "subtopic": "Asthma and bronchiectasis",
+  "difficulty": "medium",
+  "vignette": "A 35-year-old with asthma and nasal polyps develops severe bronchospasm shortly after taking ibuprofen for a headache. This reaction has occurred with other nonsteroidal anti-inflammatory drugs.",
+  "question": "Which mechanism underlies this reaction?",
+  "options": [
+    {
+      "id": "A",
+      "text": "IgE-mediated mast cell degranulation directed against the drug"
+    },
+    {
+      "id": "B",
+      "text": "Alpha1-antitrypsin deficiency unmasked by cyclooxygenase inhibition"
+    },
+    {
+      "id": "C",
+      "text": "Direct activation of neutrophil elastase by the drug"
+    },
+    {
+      "id": "D",
+      "text": "Drug-induced ciliary dysfunction leading to mucus retention"
+    },
+    {
+      "id": "E",
+      "text": "Cyclooxygenase inhibition shunting arachidonic acid to leukotriene overproduction, causing airway constriction (Samter triad)"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "This is NSAID- or aspirin-exacerbated respiratory disease: asthma, nasal polyps, and sensitivity to cyclooxygenase inhibitors, known as Samter triad. Inhibiting cyclooxygenase shunts arachidonic acid toward leukotriene production, and the resulting leukotriene overproduction causes airway constriction.",
+  "explanation_incorrect": {
+    "A": "This is not an IgE-mediated type I hypersensitivity to the drug; it results from leukotriene overproduction after cyclooxygenase inhibition.",
+    "B": "Alpha1-antitrypsin deficiency produces panacinar emphysema and is not related to NSAID sensitivity.",
+    "C": "Elastase activity is central to emphysema, not to NSAID-exacerbated respiratory disease.",
+    "D": "Ciliary dysfunction is linked to smoking and Kartagener syndrome with bronchiectasis, not to this drug reaction."
+  },
+  "educationalObjective": "Samter triad is asthma plus nasal polyps plus COX-inhibitor sensitivity, driven by leukotriene overproduction after COX inhibition.",
+  "source": "Generated from 16. Respiratory.pdf - Pathology: Asthma and bronchiectasis"
+},
+{
+  "id": "res-166",
+  "subject": "Respiratory",
+  "major_topic": "Pathology",
+  "subtopic": "Asthma and bronchiectasis",
+  "difficulty": "hard",
+  "vignette": "Sputum from a patient having an acute asthma attack is examined microscopically. It contains whorled mucus plugs with shed epithelial cells as well as eosinophilic, hexagonal, double-pointed crystals.",
+  "question": "Which structures correspond to these two microscopic findings?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Curschmann spirals are the hexagonal crystals; Charcot-Leyden crystals are the whorled mucus plugs"
+    },
+    {
+      "id": "B",
+      "text": "Both findings are Curschmann spirals"
+    },
+    {
+      "id": "C",
+      "text": "Curschmann spirals are whorled mucus plugs with shed epithelium; Charcot-Leyden crystals are hexagonal double-pointed crystals from eosinophil breakdown"
+    },
+    {
+      "id": "D",
+      "text": "Curschmann spirals are eosinophilic crystals; Charcot-Leyden crystals are mucus plugs from goblet cells"
+    },
+    {
+      "id": "E",
+      "text": "Both findings are Charcot-Leyden crystals derived from neutrophils"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Curschmann spirals are whorled mucus plugs formed around shed epithelium. Charcot-Leyden crystals are eosinophilic, hexagonal, double-pointed crystals produced by the breakdown of eosinophils in the sputum. Both are classic sputum findings in asthma and illustrate the mucus plugging and eosinophilic inflammation of the disease.",
+  "explanation_incorrect": {
+    "A": "The two findings are reversed: spirals are mucus plugs with epithelium, and the crystals are eosinophil-derived.",
+    "B": "They are two distinct structures with different compositions, not a single finding.",
+    "D": "Curschmann spirals are not crystals, and Charcot-Leyden crystals are not goblet-cell mucus plugs.",
+    "E": "Charcot-Leyden crystals arise from eosinophils, not neutrophils, and the two findings are different."
+  },
+  "educationalObjective": "Curschmann spirals are whorled mucus plugs with shed epithelium; Charcot-Leyden crystals are eosinophil-derived hexagonal double-pointed crystals.",
+  "source": "Generated from 16. Respiratory.pdf - Pathology: Asthma and bronchiectasis"
+},
+{
+  "id": "res-167",
+  "subject": "Respiratory",
+  "major_topic": "Pathology",
+  "subtopic": "Asthma and bronchiectasis",
+  "difficulty": "easy",
+  "vignette": "A patient with long-standing atopic asthma has persistent airway hyperresponsiveness and intermittent symptoms. His physician explains the structural changes caused by the underlying hypersensitivity reaction.",
+  "question": "Which pathologic change results from the type I hypersensitivity reaction in asthma?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Smooth muscle hypertrophy and hyperplasia with reversible bronchoconstriction and mucus plugging"
+    },
+    {
+      "id": "B",
+      "text": "Alveolar wall destruction with reduced DLCO"
+    },
+    {
+      "id": "C",
+      "text": "Squamous metaplasia of bronchial epithelium with a Reid index above 50%"
+    },
+    {
+      "id": "D",
+      "text": "Permanently dilated airways with bronchial wall thickening"
+    },
+    {
+      "id": "E",
+      "text": "Neutrophil elastase-mediated loss of elastic fibers"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "The type I hypersensitivity reaction in asthma produces smooth muscle hypertrophy and hyperplasia. Hyperresponsive bronchi then undergo reversible bronchoconstriction, accompanied by mucus plugging. These changes explain the intermittent obstructive pattern and the bronchodilator response seen on spirometry.",
+  "explanation_incorrect": {
+    "B": "Alveolar wall destruction with reduced DLCO is the lesion of emphysema.",
+    "C": "Squamous metaplasia with a Reid index above 50% is the pathology of chronic bronchitis.",
+    "D": "Permanently dilated airways with bronchial thickening are characteristic of bronchiectasis.",
+    "E": "Elastase-mediated loss of elastic fibers is the mechanism of emphysema, especially with alpha1-antitrypsin deficiency."
+  },
+  "educationalObjective": "Type I hypersensitivity in asthma causes smooth muscle hypertrophy, reversible bronchoconstriction, and mucus plugging.",
+  "source": "Generated from 16. Respiratory.pdf - Pathology: Asthma and bronchiectasis"
+},
+{
+  "id": "res-168",
+  "subject": "Respiratory",
+  "major_topic": "Pathology",
+  "subtopic": "Asthma and bronchiectasis",
+  "difficulty": "hard",
+  "vignette": "A child with recurrent pulmonary infections has a chronic daily cough with purulent sputum. Imaging demonstrates airway dilation and bronchial thickening, and PFTs show an obstructive pattern.",
+  "question": "Which sequence best describes the pathogenesis of this condition?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Alveolar wall destruction, increased compliance, air trapping, and dilated airways"
+    },
+    {
+      "id": "B",
+      "text": "Type I hypersensitivity, smooth muscle hypertrophy, reversible bronchoconstriction, and mucus plugging"
+    },
+    {
+      "id": "C",
+      "text": "Squamous metaplasia, mucus gland hypertrophy, Reid index above 50%, and airway dilation"
+    },
+    {
+      "id": "D",
+      "text": "Initial pulmonary infection plus obstruction or impaired clearance, dysregulated host response, bronchial inflammation, and permanently dilated airways"
+    },
+    {
+      "id": "E",
+      "text": "Alpha1-antitrypsin deficiency, unopposed elastase, loss of elastic fibers, and dilated airways"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Bronchiectasis begins with an initial pulmonary infection combined with obstruction or impaired clearance. This provokes a dysregulated host response and bronchial inflammation that ultimately produce permanently dilated airways. The chronic cough, daily purulent sputum, recurrent infections, airway dilation with bronchial thickening on imaging, and obstructive PFTs match this disease.",
+  "explanation_incorrect": {
+    "A": "Alveolar wall destruction with increased compliance and air trapping describes emphysema, not bronchiectasis.",
+    "B": "Type I hypersensitivity with reversible bronchoconstriction is the mechanism of asthma.",
+    "C": "Squamous metaplasia with mucus gland hypertrophy and an elevated Reid index describes chronic bronchitis.",
+    "E": "Alpha1-antitrypsin deficiency with unopposed elastase causes panacinar emphysema, not bronchiectasis."
+  },
+  "educationalObjective": "Bronchiectasis follows infection plus impaired clearance, leading to inflammation and permanently dilated airways with purulent sputum.",
+  "source": "Generated from 16. Respiratory.pdf - Pathology: Asthma and bronchiectasis"
+},
+{
+  "id": "res-169",
+  "subject": "Respiratory",
+  "major_topic": "Pathology",
+  "subtopic": "Asthma and bronchiectasis",
+  "difficulty": "medium",
+  "vignette": "A 24-year-old with bronchiectasis has a chronic productive cough and recurrent pulmonary infections. As part of his evaluation, his physician reviews the conditions most often associated with bronchiectasis.",
+  "question": "Which condition is most commonly associated with bronchiectasis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Chronic bronchitis"
+    },
+    {
+      "id": "B",
+      "text": "Cystic fibrosis"
+    },
+    {
+      "id": "C",
+      "text": "Asthma"
+    },
+    {
+      "id": "D",
+      "text": "Emphysema"
+    },
+    {
+      "id": "E",
+      "text": "Allergic rhinitis without nasal polyps"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Bronchiectasis is most commonly associated with cystic fibrosis. Other etiologies include airway obstruction from a foreign body or mass, poor ciliary motility from smoking or Kartagener syndrome, allergic bronchopulmonary aspergillosis, and pulmonary infections such as Mycobacterium avium. Cystic fibrosis stands out as the most common association.",
+  "explanation_incorrect": {
+    "A": "Chronic bronchitis is a component of COPD and is not the most common bronchiectasis association.",
+    "C": "Asthma is a separate intermittent obstructive disease, not the most common bronchiectasis association.",
+    "D": "Emphysema is the other COPD component and is not the most common bronchiectasis association.",
+    "E": "Allergic rhinitis alone is not among the listed etiologies of bronchiectasis."
+  },
+  "educationalObjective": "Cystic fibrosis is the most common association with bronchiectasis, which also follows obstruction, ciliary dysfunction, ABPA, and infections.",
+  "source": "Generated from 16. Respiratory.pdf - Pathology: Asthma and bronchiectasis"
+},
+{
+  "id": "res-170",
+  "subject": "Respiratory",
+  "major_topic": "Pathology",
+  "subtopic": "Asthma and bronchiectasis",
+  "difficulty": "hard",
+  "vignette": "A 30-year-old woman with Kartagener syndrome has a daily purulent cough and chronic sinusitis. PFTs show FEV1/FVC below 70%, and imaging shows dilated airways with bronchial thickening.",
+  "question": "Which statement about her disease is correct?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The obstructive pattern reflects type I hypersensitivity with reversible bronchoconstriction"
+    },
+    {
+      "id": "B",
+      "text": "The primary abnormality is alveolar wall destruction with reduced DLCO"
+    },
+    {
+      "id": "C",
+      "text": "Poor ciliary motility contributes to impaired clearance; this is an obstructive disease with chronic cough, daily purulent sputum, and airway dilation on imaging"
+    },
+    {
+      "id": "D",
+      "text": "Nasal polyps with cyclooxygenase-inhibitor sensitivity would be an expected association"
+    },
+    {
+      "id": "E",
+      "text": "Alpha1-antitrypsin deficiency is the most common underlying cause of this pattern"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Bronchiectasis is an obstructive disease supported by an obstructive PFT pattern. Poor ciliary motility, as in Kartagener syndrome or smoking, is a recognized etiology because it impairs clearance. The typical picture is chronic cough with daily purulent sputum, recurrent infections, and airway dilation with bronchial thickening on imaging.",
+  "explanation_incorrect": {
+    "A": "Type I hypersensitivity with reversible bronchoconstriction is asthma, not bronchiectasis.",
+    "B": "Alveolar wall destruction with reduced DLCO is emphysema; bronchiectasis is an airway-centered process.",
+    "D": "Nasal polyps with COX-inhibitor sensitivity describe Samter triad in aspirin-exacerbated asthma.",
+    "E": "Alpha1-antitrypsin deficiency causes panacinar emphysema, not bronchiectasis."
+  },
+  "educationalObjective": "In bronchiectasis, impaired clearance from ciliary dysfunction produces an obstructive pattern with purulent sputum and dilated airways.",
+  "source": "Generated from 16. Respiratory.pdf - Pathology: Asthma and bronchiectasis"
+},
+{
+  "id": "res-171",
+  "subject": "Respiratory",
+  "major_topic": "Pathology",
+  "subtopic": "Asthma and bronchiectasis",
+  "difficulty": "medium",
+  "vignette": "A 50-year-old with bronchiectasis and recurrent pulmonary infections asks his physician which conditions can cause this airway disease. The physician reviews the listed etiologies.",
+  "question": "Which of the following is NOT a recognized etiology of bronchiectasis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Foreign body aspiration"
+    },
+    {
+      "id": "B",
+      "text": "Kartagener syndrome with poor ciliary motility"
+    },
+    {
+      "id": "C",
+      "text": "Allergic bronchopulmonary aspergillosis"
+    },
+    {
+      "id": "D",
+      "text": "Mycobacterium avium pulmonary infection"
+    },
+    {
+      "id": "E",
+      "text": "Alpha1-antitrypsin deficiency"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "The listed etiologies of bronchiectasis include airway obstruction such as foreign body aspiration or a mass, poor ciliary motility from smoking or Kartagener syndrome, cystic fibrosis, allergic bronchopulmonary aspergillosis, and pulmonary infections such as Mycobacterium avium. Alpha1-antitrypsin deficiency is not among them; it causes panacinar emphysema.",
+  "explanation_incorrect": {
+    "A": "Foreign body aspiration is an airway obstruction and is a listed bronchiectasis etiology.",
+    "B": "Kartagener syndrome causes poor ciliary motility and is a listed etiology.",
+    "C": "Allergic bronchopulmonary aspergillosis is a listed bronchiectasis etiology.",
+    "D": "Mycobacterium avium pulmonary infection is a listed infectious etiology."
+  },
+  "educationalObjective": "Bronchiectasis etiologies include obstruction, ciliary dysfunction, CF, ABPA, and infections; alpha1-antitrypsin deficiency instead causes emphysema.",
+  "source": "Generated from 16. Respiratory.pdf - Pathology: Asthma and bronchiectasis"
+}
+]

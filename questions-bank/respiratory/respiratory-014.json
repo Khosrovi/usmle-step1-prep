@@ -1,0 +1,371 @@
+[
+{
+  "id": "res-099",
+  "subject": "Respiratory",
+  "major_topic": "Physiology",
+  "subtopic": "Hemoglobin, oxygen content, and oxyhemoglobin dissociation curve",
+  "difficulty": "easy",
+  "vignette": "A first-year medical student is reviewing the molecular basis of oxygen transport. She notes that normal adult hemoglobin binds four O2 molecules and that binding of the first O2 increases the affinity for subsequent ones. She wants to confirm the structural basis of this behavior.",
+  "question": "Which statement correctly describes normal adult hemoglobin structure and O2 binding?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It is a monomer with a single heme group and a hyperbolic O2 dissociation curve"
+    },
+    {
+      "id": "B",
+      "text": "It is a tetramer whose four subunits bind O2 independently, producing a hyperbolic curve"
+    },
+    {
+      "id": "C",
+      "text": "It is a tetramer of 2 alpha and 2 beta subunits, each binding one O2, with positive cooperativity"
+    },
+    {
+      "id": "D",
+      "text": "Deoxygenated hemoglobin has 300 times greater O2 affinity than oxygenated hemoglobin"
+    },
+    {
+      "id": "E",
+      "text": "Its globin protein component does not buffer H+ or CO2"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Normal adult hemoglobin consists of four polypeptide subunits, 2 alpha and 2 beta, each associated with a heme that binds one O2 molecule, for four O2 total. It is an allosteric protein with positive cooperativity: binding of O2 increases the affinity of the remaining subunits, producing the sigmoidal dissociation curve. Oxygenated hemoglobin has about 300-fold higher O2 affinity than deoxygenated hemoglobin, and the globin portion buffers H+ and CO2. This cooperative behavior is what allows efficient loading in the lungs and unloading in tissues.",
+  "explanation_incorrect": {
+    "A": "A single polypeptide chain with one heme and a hyperbolic curve describes myoglobin, not hemoglobin.",
+    "B": "Hemoglobin subunits do not bind O2 independently; positive cooperativity makes binding successive and produces a sigmoidal rather than hyperbolic curve.",
+    "D": "The affinity relationship is reversed: oxygenated hemoglobin has roughly 300 times the O2 affinity of deoxygenated hemoglobin, which promotes unloading when O2 is released.",
+    "E": "The protein component of hemoglobin does act as a buffer for H+ ions and CO2, which is central to CO2 transport and the Bohr and Haldane effects."
+  },
+  "educationalObjective": "Adult hemoglobin is an alpha2-beta2 tetramer with four hemes and positive cooperativity, giving a sigmoidal O2 dissociation curve.",
+  "source": "Generated from 16. Respiratory.pdf - Physiology: Hemoglobin, oxygen content, and oxyhemoglobin dissociation curve"
+},
+{
+  "id": "res-100",
+  "subject": "Respiratory",
+  "major_topic": "Physiology",
+  "subtopic": "Hemoglobin, oxygen content, and oxyhemoglobin dissociation curve",
+  "difficulty": "medium",
+  "vignette": "A 28-year-old healthy man has a hemoglobin of 15 g/dL, an SaO2 of 100%, and a PaO2 of 100 mm Hg on room air. He is enrolled in a physiology study and asks how much O2 his arterial blood actually carries. Use 1.34 mL O2 per gram of hemoglobin and a plasma O2 solubility of 0.003 mL O2/mm Hg/dL.",
+  "question": "What is his arterial O2 content in mL O2/dL of blood?",
+  "options": [
+    {
+      "id": "A",
+      "text": "20.1 mL O2/dL"
+    },
+    {
+      "id": "B",
+      "text": "23.1 mL O2/dL"
+    },
+    {
+      "id": "C",
+      "text": "18.3 mL O2/dL"
+    },
+    {
+      "id": "D",
+      "text": "20.4 mL O2/dL"
+    },
+    {
+      "id": "E",
+      "text": "17.4 mL O2/dL"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "O2 content equals O2 bound to hemoglobin plus O2 dissolved in plasma: (1.34 x Hb x SaO2) + (0.003 x PaO2). Substituting gives (1.34 x 15 x 1.00) + (0.003 x 100) = 20.1 + 0.3 = 20.4 mL O2/dL. The hemoglobin-bound term dominates because each gram of Hb binds 1.34 mL O2, while the dissolved contribution is very small. The usual carrying capacity of about 20 mL O2/dL refers essentially to the hemoglobin-bound fraction at full saturation.",
+  "explanation_incorrect": {
+    "A": "This omits the dissolved plasma O2 term (0.003 x 100 = 0.3 mL/dL); content includes both hemoglobin-bound and dissolved O2.",
+    "B": "This uses a solubility constant of 0.03 instead of 0.003 mL O2/mm Hg/dL, inflating the dissolved term tenfold to 3 mL/dL.",
+    "C": "This uses an incorrect O2-binding capacity of 1.2 mL/g instead of 1.34 mL/g: 1.2 x 15 = 18.0, plus 0.3 = 18.3 mL/dL.",
+    "E": "This incorrectly uses a venous-type saturation of 0.85 rather than the stated SaO2 of 1.00: 1.34 x 15 x 0.85 + 0.3 = about 17.4 mL/dL."
+  },
+  "educationalObjective": "Arterial O2 content is (1.34 x Hb x SaO2) + (0.003 x PaO2), which is about 20 mL O2/dL in a healthy adult.",
+  "source": "Generated from 16. Respiratory.pdf - Physiology: Hemoglobin, oxygen content, and oxyhemoglobin dissociation curve"
+},
+{
+  "id": "res-101",
+  "subject": "Respiratory",
+  "major_topic": "Physiology",
+  "subtopic": "Hemoglobin, oxygen content, and oxyhemoglobin dissociation curve",
+  "difficulty": "easy",
+  "vignette": "A 40-year-old woman with heavy menstrual bleeding has a hemoglobin of 8 g/dL, PaO2 96 mm Hg, and SaO2 98%. Her physician explains how the anemia affects her oxygen transport. Which change is expected relative to a healthy person?",
+  "question": "Which pattern of oxygen transport values is expected in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Decreased O2 content with normal SaO2 and normal PaO2"
+    },
+    {
+      "id": "B",
+      "text": "Decreased PaO2 with normal O2 content and normal SaO2"
+    },
+    {
+      "id": "C",
+      "text": "Decreased SaO2 with normal PaO2 and normal O2 content"
+    },
+    {
+      "id": "D",
+      "text": "Normal O2 content but reduced O2 delivery to tissues"
+    },
+    {
+      "id": "E",
+      "text": "Increased O2 content from compensatory polycythemia"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Because O2 content depends on hemoglobin concentration through 1.34 x Hb x SaO2, a reduced hemoglobin lowers total O2 content. The lungs still oxygenate the blood normally, so PaO2 and SaO2 remain normal; anemia does not shift the oxyhemoglobin dissociation curve. Delivery to tissues equals cardiac output times O2 content, so it falls as content falls even though each remaining hemoglobin molecule is normally saturated.",
+  "explanation_incorrect": {
+    "B": "PaO2 reflects dissolved O2 and is determined by alveolar gas exchange, not hemoglobin concentration; it remains normal in anemia while content falls.",
+    "C": "SaO2 is the percentage saturation of the available hemoglobin and stays normal in anemia; only the total amount of hemoglobin, and thus content, is reduced.",
+    "D": "O2 content is reduced in anemia because there is less hemoglobin; it is not normal.",
+    "E": "The patient is anemic, not polycythemic; polycythemia would raise hemoglobin and O2 content above normal."
+  },
+  "educationalObjective": "Reducing hemoglobin lowers O2 content and delivery but leaves PaO2 and SaO2 unchanged.",
+  "source": "Generated from 16. Respiratory.pdf - Physiology: Hemoglobin, oxygen content, and oxyhemoglobin dissociation curve"
+},
+{
+  "id": "res-102",
+  "subject": "Respiratory",
+  "major_topic": "Physiology",
+  "subtopic": "Hemoglobin, oxygen content, and oxyhemoglobin dissociation curve",
+  "difficulty": "medium",
+  "vignette": "A 35-year-old man is found unconscious in a garage with a car running. His carboxyhemoglobin level is 40%, and his arterial PaO2 is 95 mm Hg. His hemoglobin concentration is 15 g/dL. The team reviews how carbon monoxide poisoning alters his oxygen transport values.",
+  "question": "Which set of findings is expected in carbon monoxide poisoning?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Hemoglobin decreased; SaO2 normal; PaO2 normal; O2 content decreased"
+    },
+    {
+      "id": "B",
+      "text": "Hemoglobin normal; SaO2 normal; PaO2 normal; O2 content normal"
+    },
+    {
+      "id": "C",
+      "text": "Hemoglobin increased; SaO2 normal; PaO2 normal; O2 content increased"
+    },
+    {
+      "id": "D",
+      "text": "Hemoglobin normal; SaO2 decreased; PaO2 decreased; O2 content decreased"
+    },
+    {
+      "id": "E",
+      "text": "Hemoglobin normal; SaO2 decreased; PaO2 normal; O2 content decreased"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "In CO poisoning the hemoglobin concentration is normal, but CO competes with O2 for heme binding, so functional SaO2 falls and total O2 content falls. The dissolved O2 is unaffected, so PaO2 remains normal; this is why pulse oximetry can be misleadingly normal and why the PaO2 does not reflect the severity of the poisoning. CO also causes a left shift of the remaining O2 binding, further impairing O2 unloading to tissues.",
+  "explanation_incorrect": {
+    "A": "A decreased hemoglobin with normal SaO2 and PaO2 describes anemia, not CO poisoning; in CO poisoning the hemoglobin concentration is normal but SaO2 falls.",
+    "B": "Normal hemoglobin, SaO2, PaO2, and content describes cyanide toxicity, where O2 delivery is normal but cells cannot use O2; CO lowers SaO2 and content.",
+    "C": "Increased hemoglobin and O2 content describe polycythemia; CO poisoning does not increase hemoglobin and actually reduces functional O2 content.",
+    "D": "CO does not reduce PaO2 because dissolved O2 in plasma is unaffected; the fall is in SaO2 and O2 content, not in PaO2."
+  },
+  "educationalObjective": "CO poisoning shows normal Hb and PaO2, decreased SaO2 and O2 content, and a left-shifted dissociation curve.",
+  "source": "Generated from 16. Respiratory.pdf - Physiology: Hemoglobin, oxygen content, and oxyhemoglobin dissociation curve"
+},
+{
+  "id": "res-103",
+  "subject": "Respiratory",
+  "major_topic": "Physiology",
+  "subtopic": "Hemoglobin, oxygen content, and oxyhemoglobin dissociation curve",
+  "difficulty": "hard",
+  "vignette": "A firefighter is rescued from a burning building and is found to have cyanide toxicity. Measurements show a normal hemoglobin concentration, normal SaO2, normal PaO2, and normal arterial O2 content, yet his tissues are severely oxygen-starved. Supplemental 100% oxygen does not correct the problem.",
+  "question": "Which explanation best reconciles the normal oxygen measurements with tissue hypoxia?",
+  "options": [
+    {
+      "id": "A",
+      "text": "CO competes with O2 for heme binding, lowering functional SaO2"
+    },
+    {
+      "id": "B",
+      "text": "O2 delivery is normal, but the tissues cannot utilize the delivered O2 (histotoxic hypoxia)"
+    },
+    {
+      "id": "C",
+      "text": "Ferric iron (Fe3+) in hemoglobin binds O2 poorly, lowering O2 content"
+    },
+    {
+      "id": "D",
+      "text": "Hemoglobin is destroyed, so O2 content and delivery are reduced"
+    },
+    {
+      "id": "E",
+      "text": "Ventilation/perfusion mismatch lowers PaO2 despite supplemental oxygen"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "In cyanide toxicity the hemoglobin concentration, SaO2, PaO2, and O2 content are all normal, so O2 delivery to tissues is preserved. The defect is that cells cannot use the delivered O2, producing histotoxic hypoxia; therefore increasing delivered O2 does not fix the problem. This pattern distinguishes cyanide from CO poisoning (decreased SaO2 and content with normal PaO2), methemoglobinemia (decreased SaO2 and content), and anemia (decreased Hb and content).",
+  "explanation_incorrect": {
+    "A": "Competition with O2 for heme binding and a reduced SaO2 are features of carbon monoxide poisoning, not cyanide toxicity, in which SaO2 is normal.",
+    "C": "Poor O2 binding by Fe3+ hemoglobin with reduced content describes methemoglobinemia; in cyanide toxicity SaO2 and content are normal.",
+    "D": "Hemoglobin concentration is normal in cyanide toxicity; destruction or loss of hemoglobin would reduce content, which is not observed here.",
+    "E": "PaO2 is normal in cyanide toxicity, so ventilation/perfusion mismatch is not responsible; the defect lies in O2 utilization, not delivery."
+  },
+  "educationalObjective": "Cyanide toxicity produces normal Hb, SaO2, PaO2, and O2 content with histotoxic hypoxia because tissues cannot use O2.",
+  "source": "Generated from 16. Respiratory.pdf - Physiology: Hemoglobin, oxygen content, and oxyhemoglobin dissociation curve"
+},
+{
+  "id": "res-104",
+  "subject": "Respiratory",
+  "major_topic": "Physiology",
+  "subtopic": "Hemoglobin, oxygen content, and oxyhemoglobin dissociation curve",
+  "difficulty": "easy",
+  "vignette": "During a sprint, a runner's exercising muscle generates CO2 and H+, and her body temperature rises. Her oxyhemoglobin dissociation curve must adapt to meet the increased O2 demand of the active tissue. Which change is expected?",
+  "question": "Which alteration of the oxyhemoglobin dissociation curve best meets the metabolic needs of her exercising muscle?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A left shift with decreased P50 and increased O2 affinity"
+    },
+    {
+      "id": "B",
+      "text": "A right shift with decreased P50"
+    },
+    {
+      "id": "C",
+      "text": "A right shift with increased P50 and increased O2 unloading"
+    },
+    {
+      "id": "D",
+      "text": "No change, because exercise does not affect the dissociation curve"
+    },
+    {
+      "id": "E",
+      "text": "A left shift caused by the increase in 2,3-BPG during hypoxia"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "A right shift means reduced hemoglobin affinity for O2, increased P50, and enhanced O2 unloading to tissues; the mnemonic is 'left is lower,' so a right shift is a higher P50. Physiologic right-shift triggers include exercise, decreased pH, increased temperature or fever, and hypoxia with increased 2,3-BPG. At the cellular level, increased H+ and CO2 from tissue metabolism cause the right shift known as the Bohr effect, which is exactly what an exercising muscle needs.",
+  "explanation_incorrect": {
+    "A": "A left shift raises O2 affinity and reduces unloading, which would oppose the increased O2 demands of exercising muscle.",
+    "B": "A right shift corresponds to an increased P50, not a decreased one; 'left is lower' means the left shift has the lower P50.",
+    "D": "Exercise is a classic physiologic cause of a right shift, driven by rising H+, CO2, temperature, and 2,3-BPG.",
+    "E": "Increased 2,3-BPG, as occurs with hypoxia, produces a right shift and greater O2 unloading, not a left shift."
+  },
+  "educationalObjective": "Exercise, acidosis, fever, and increased 2,3-BPG cause a right shift with increased P50 and greater O2 unloading.",
+  "source": "Generated from 16. Respiratory.pdf - Physiology: Hemoglobin, oxygen content, and oxyhemoglobin dissociation curve"
+},
+{
+  "id": "res-105",
+  "subject": "Respiratory",
+  "major_topic": "Physiology",
+  "subtopic": "Hemoglobin, oxygen content, and oxyhemoglobin dissociation curve",
+  "difficulty": "medium",
+  "vignette": "A pregnant woman at 36 weeks' gestation is being counseled about fetal oxygenation. Fetal hemoglobin has a higher affinity for O2 than adult hemoglobin and binds 2,3-BPG less avidly than adult hemoglobin does. The team relates this to the fetal oxyhemoglobin dissociation curve.",
+  "question": "Compared with adult hemoglobin, which change in the fetal oxyhemoglobin dissociation curve is expected?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Left shift with decreased P50, favoring O2 loading and transfer across the placenta"
+    },
+    {
+      "id": "B",
+      "text": "Right shift with increased P50, favoring O2 unloading to the fetus"
+    },
+    {
+      "id": "C",
+      "text": "No shift, because fetal and adult hemoglobin have identical O2 affinity"
+    },
+    {
+      "id": "D",
+      "text": "Right shift because pregnancy raises 2,3-BPG binding by fetal hemoglobin"
+    },
+    {
+      "id": "E",
+      "text": "Left shift with increased P50"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Fetal hemoglobin has higher O2 affinity than adult hemoglobin because it binds 2,3-BPG less strongly, removing an allosteric inhibitor of O2 binding. That produces a left shift, meaning a lower P50 and tighter O2 binding, which drives O2 across the placenta from maternal blood to fetal blood. Pregnancy is listed as a cause of a left shift, and the mnemonic 'left is lower' confirms the reduced P50.",
+  "explanation_incorrect": {
+    "B": "Fetal hemoglobin is left, not right, shifted; a right shift with higher P50 would reduce affinity and impair fetal O2 loading.",
+    "C": "Fetal hemoglobin has a higher O2 affinity than adult hemoglobin, so an identical curve is incorrect.",
+    "D": "Reduced, not increased, affinity for 2,3-BPG is what gives fetal hemoglobin its higher O2 affinity and left-shifted curve.",
+    "E": "A left shift is defined by a decreased, not increased, P50; increased P50 indicates a right shift."
+  },
+  "educationalObjective": "Fetal hemoglobin's low 2,3-BPG affinity causes a left shift with lower P50, promoting placental O2 transfer.",
+  "source": "Generated from 16. Respiratory.pdf - Physiology: Hemoglobin, oxygen content, and oxyhemoglobin dissociation curve"
+},
+{
+  "id": "res-106",
+  "subject": "Respiratory",
+  "major_topic": "Physiology",
+  "subtopic": "Hemoglobin, oxygen content, and oxyhemoglobin dissociation curve",
+  "difficulty": "hard",
+  "vignette": "A muscle biopsy specimen is analyzed in a research lab. The oxygen-binding protein isolated from the specimen is a single polypeptide chain with one heme moiety and displays a hyperbolic O2 dissociation curve rather than a sigmoidal one. The investigator compares it with adult hemoglobin.",
+  "question": "Which comparison between this protein and adult hemoglobin is correct?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It is a 2 alpha/2 beta tetramer with four hemes and strong positive cooperativity"
+    },
+    {
+      "id": "B",
+      "text": "It has lower O2 affinity than hemoglobin, permitting O2 release at rest"
+    },
+    {
+      "id": "C",
+      "text": "It has a sigmoidal curve because of cooperativity among its four heme groups"
+    },
+    {
+      "id": "D",
+      "text": "It has higher O2 affinity than hemoglobin and shows no positive cooperativity"
+    },
+    {
+      "id": "E",
+      "text": "Its principal function is O2 transport in the bloodstream"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "The described protein is myoglobin, a monomeric single polypeptide chain with one heme. Because it has only one binding site, it cannot show positive cooperativity and its dissociation curve is hyperbolic rather than sigmoidal. Myoglobin has a higher affinity for O2 than hemoglobin, which lets it accept and store O2 in aerobically active muscle; hemoglobin, by contrast, is a cooperative alpha2-beta2 tetramer whose curve is sigmoidal.",
+  "explanation_incorrect": {
+    "A": "A 2 alpha/2 beta tetramer with four hemes and positive cooperativity describes hemoglobin, not the monomeric myoglobin described in the stem.",
+    "B": "Myoglobin has a higher, not lower, O2 affinity than hemoglobin, which is why it holds O2 in muscle and releases it only at very low PO2.",
+    "C": "Cooperativity and a sigmoidal curve require multiple interacting subunits; myoglobin has a single heme and a hyperbolic curve.",
+    "E": "O2 transport in blood is the role of hemoglobin; myoglobin's role is O2 storage and facilitation of O2 delivery within muscle."
+  },
+  "educationalObjective": "Myoglobin is a monomeric, noncooperative O2-binding protein with higher O2 affinity than hemoglobin and a hyperbolic curve.",
+  "source": "Generated from 16. Respiratory.pdf - Physiology: Hemoglobin, oxygen content, and oxyhemoglobin dissociation curve"
+},
+{
+  "id": "res-107",
+  "subject": "Respiratory",
+  "major_topic": "Physiology",
+  "subtopic": "Hemoglobin, oxygen content, and oxyhemoglobin dissociation curve",
+  "difficulty": "medium",
+  "vignette": "A physiology class is discussing how hemoglobin responds to the environment of actively metabolizing tissue, where CO2 and H+ concentrations are high and metabolism is brisk. The students are asked how these local chemical changes affect hemoglobin's O2 binding.",
+  "question": "What effect do increased H+ and CO2 have on hemoglobin's O2 binding at the tissue level?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A left shift, because H+ and CO2 increase hemoglobin's affinity for O2"
+    },
+    {
+      "id": "B",
+      "text": "A right shift, because H+ and CO2 stabilize the deoxygenated state and promote O2 unloading (Bohr effect)"
+    },
+    {
+      "id": "C",
+      "text": "No effect, because the dissociation curve is independent of pH and CO2"
+    },
+    {
+      "id": "D",
+      "text": "A right shift caused by the lower temperature of actively metabolizing tissue"
+    },
+    {
+      "id": "E",
+      "text": "A left shift accompanied by an increased P50"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "At the cellular level, increased H+ and CO2 generated by tissue metabolism stabilize deoxygenated hemoglobin and lower its O2 affinity, shifting the curve to the right and promoting O2 unloading where it is needed; this is the Bohr effect. A right shift is accompanied by an increased P50, consistent with 'left is lower.' Decreased pH, increased temperature, exercise, and increased 2,3-BPG all shift the curve in the same direction.",
+  "explanation_incorrect": {
+    "A": "The Bohr effect is a right shift with reduced O2 affinity and greater unloading; H+ and CO2 do not increase hemoglobin's O2 affinity.",
+    "C": "The dissociation curve is highly sensitive to pH, CO2, temperature, and 2,3-BPG; pH and CO2 are classic physiologic regulators via the Bohr effect.",
+    "D": "A right shift is associated with increased, not decreased, temperature (fever or exercise), and here the relevant mediators are H+ and CO2.",
+    "E": "A left shift has a decreased P50; increased P50 corresponds to a right shift, so these two claims contradict each other."
+  },
+  "educationalObjective": "The Bohr effect: increased H+ and CO2 in tissues cause a right shift with increased P50, enhancing O2 unloading.",
+  "source": "Generated from 16. Respiratory.pdf - Physiology: Hemoglobin, oxygen content, and oxyhemoglobin dissociation curve"
+}
+]

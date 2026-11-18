@@ -1,0 +1,330 @@
+[
+{
+  "id": "res-263",
+  "subject": "Respiratory",
+  "major_topic": "Pharmacology",
+  "subtopic": "Asthma biologics and other respiratory drugs",
+  "difficulty": "hard",
+  "vignette": "A 28-year-old has allergic asthma with a markedly elevated serum IgE level. Despite adherence to an inhaled glucocorticoid plus a long-acting β2 agonist, she continues to have frequent attacks triggered by allergen exposure. Her physician recommends a targeted monoclonal antibody that binds mostly unbound serum IgE and prevents it from attaching to FcεRI on mast cells.",
+  "question": "Which of the following biologic agents is most appropriate for this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Mepolizumab"
+    },
+    {
+      "id": "B",
+      "text": "Benralizumab"
+    },
+    {
+      "id": "C",
+      "text": "Dupilumab"
+    },
+    {
+      "id": "D",
+      "text": "Reslizumab"
+    },
+    {
+      "id": "E",
+      "text": "Omalizumab"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Omalizumab is an anti-IgE monoclonal antibody that binds mostly unbound serum IgE and blocks its binding to FcεRI on mast cells and basophils, preventing allergen-triggered degranulation. It is indicated for allergic asthma with elevated IgE that remains resistant to inhaled glucocorticoids plus long-acting β2 agonists. This distinguishes it from the anti-IL-5 and anti-IL-4/IL-13 biologics, which target eosinophilic or Th2 inflammation rather than IgE itself.",
+  "explanation_incorrect": {
+    "A": "Mepolizumab is an anti-IL-5 antibody used for severe eosinophilic asthma, not for IgE-mediated allergic asthma.",
+    "B": "Benralizumab targets the IL-5 receptor α on eosinophils; it does not bind IgE.",
+    "C": "Dupilumab targets IL-4 and IL-13, not IgE.",
+    "D": "Reslizumab, like mepolizumab, is an anti-IL-5 antibody for eosinophilic asthma."
+  },
+  "educationalObjective": "Omalizumab binds unbound serum IgE and blocks FcεRI binding, making it the biologic for allergic asthma with high IgE resistant to inhaled steroids plus LABA.",
+  "source": "Generated from 16. Respiratory.pdf - Pharmacology: Asthma biologics and other respiratory drugs"
+},
+{
+  "id": "res-264",
+  "subject": "Respiratory",
+  "major_topic": "Pharmacology",
+  "subtopic": "Asthma biologics and other respiratory drugs",
+  "difficulty": "medium",
+  "vignette": "A 45-year-old has severe eosinophilic asthma with a high blood eosinophil count and repeated exacerbations. Her physician starts a maintenance monoclonal antibody that binds IL-5 itself, thereby reducing eosinophil differentiation, maturation, activation, and survival.",
+  "question": "Which of the following is the targeted therapy described?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Mepolizumab"
+    },
+    {
+      "id": "B",
+      "text": "Omalizumab"
+    },
+    {
+      "id": "C",
+      "text": "Benralizumab"
+    },
+    {
+      "id": "D",
+      "text": "Dupilumab"
+    },
+    {
+      "id": "E",
+      "text": "Roflumilast"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Mepolizumab (along with reslizumab) is a monoclonal antibody directed against IL-5. IL-5 drives eosinophil differentiation, maturation, activation, and survival, so blocking it reduces eosinophilic airway inflammation. These agents are used as maintenance therapy in severe eosinophilic asthma. Benralizumab differs by targeting the IL-5 receptor α rather than the cytokine itself.",
+  "explanation_incorrect": {
+    "B": "Omalizumab binds unbound IgE and is used in allergic asthma with elevated IgE, not eosinophilic asthma.",
+    "C": "Benralizumab binds the IL-5 receptor α on eosinophils rather than binding IL-5 itself.",
+    "D": "Dupilumab is directed against IL-4 and IL-13.",
+    "E": "Roflumilast is a PDE-4 inhibitor used to reduce COPD exacerbations, not an anti-IL-5 antibody."
+  },
+  "educationalObjective": "Mepolizumab and reslizumab bind IL-5, blocking eosinophil differentiation, maturation, activation, and survival in severe eosinophilic asthma.",
+  "source": "Generated from 16. Respiratory.pdf - Pharmacology: Asthma biologics and other respiratory drugs"
+},
+{
+  "id": "res-265",
+  "subject": "Respiratory",
+  "major_topic": "Pharmacology",
+  "subtopic": "Asthma biologics and other respiratory drugs",
+  "difficulty": "hard",
+  "vignette": "A 52-year-old with severe eosinophilic asthma is started on a maintenance biologic. Unlike mepolizumab and reslizumab, this agent binds the α subunit of the receptor for IL-5 on eosinophils, blocking the actions of IL-5 rather than binding the cytokine itself.",
+  "question": "Which of the following drugs has this mechanism of action?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Mepolizumab"
+    },
+    {
+      "id": "B",
+      "text": "Reslizumab"
+    },
+    {
+      "id": "C",
+      "text": "Benralizumab"
+    },
+    {
+      "id": "D",
+      "text": "Omalizumab"
+    },
+    {
+      "id": "E",
+      "text": "Dupilumab"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Benralizumab is a monoclonal antibody against the IL-5 receptor α (IL-5Rα). It prevents IL-5–mediated eosinophil differentiation, maturation, activation, and survival and is used for maintenance therapy in severe eosinophilic asthma. The key distinction is that benralizumab targets the receptor, whereas mepolizumab and reslizumab bind the IL-5 cytokine itself.",
+  "explanation_incorrect": {
+    "A": "Mepolizumab binds IL-5 directly rather than its receptor.",
+    "B": "Reslizumab also binds IL-5 directly, not the IL-5 receptor α.",
+    "D": "Omalizumab binds unbound serum IgE and is used in allergic asthma.",
+    "E": "Dupilumab is directed against IL-4 and IL-13."
+  },
+  "educationalObjective": "Benralizumab targets IL-5 receptor α on eosinophils, distinguishing it from the anti-IL-5 antibodies mepolizumab and reslizumab.",
+  "source": "Generated from 16. Respiratory.pdf - Pharmacology: Asthma biologics and other respiratory drugs"
+},
+{
+  "id": "res-266",
+  "subject": "Respiratory",
+  "major_topic": "Pharmacology",
+  "subtopic": "Asthma biologics and other respiratory drugs",
+  "difficulty": "medium",
+  "vignette": "A 38-year-old with moderate-to-severe asthma has features of type 2 airway inflammation. Her physician prescribes a monoclonal antibody that simultaneously blocks two interleukins implicated in allergic inflammation, mucus production, and IgE synthesis.",
+  "question": "Which of the following biologics acts against both IL-4 and IL-13?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Mepolizumab"
+    },
+    {
+      "id": "B",
+      "text": "Dupilumab"
+    },
+    {
+      "id": "C",
+      "text": "Benralizumab"
+    },
+    {
+      "id": "D",
+      "text": "Omalizumab"
+    },
+    {
+      "id": "E",
+      "text": "Reslizumab"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Dupilumab is a monoclonal antibody directed against IL-4 and IL-13 (blocking IL-4 receptor α–mediated signaling). IL-4 and IL-13 are type 2/Th2 cytokines that drive allergic airway inflammation, mucus hypersecretion, and IgE production. It is distinct from the anti-IgE (omalizumab) and anti-IL-5/IL-5-receptor biologics used in other asthma phenotypes.",
+  "explanation_incorrect": {
+    "A": "Mepolizumab targets IL-5 and is used in eosinophilic asthma.",
+    "C": "Benralizumab targets the IL-5 receptor α, not IL-4 or IL-13.",
+    "D": "Omalizumab targets IgE, not interleukins.",
+    "E": "Reslizumab targets IL-5."
+  },
+  "educationalObjective": "Dupilumab blocks IL-4 and IL-13, targeting type 2 airway inflammation in asthma.",
+  "source": "Generated from 16. Respiratory.pdf - Pharmacology: Asthma biologics and other respiratory drugs"
+},
+{
+  "id": "res-267",
+  "subject": "Respiratory",
+  "major_topic": "Pharmacology",
+  "subtopic": "Asthma biologics and other respiratory drugs",
+  "difficulty": "medium",
+  "vignette": "A 24-year-old takes an over-the-counter antihistamine for Seasonal allergies but feels drowsy afterward and notices dry mouth. The drug is a reversible H1 receptor inverse agonist that readily enters the central nervous system and also has antimuscarinic and anti-α-adrenergic effects.",
+  "question": "Which of the following best characterizes this medication?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A second-generation H1 blocker with reduced CNS penetration"
+    },
+    {
+      "id": "B",
+      "text": "An H1 inverse agonist that does not cross the blood-brain barrier"
+    },
+    {
+      "id": "C",
+      "text": "A muscarinic receptor agonist"
+    },
+    {
+      "id": "D",
+      "text": "A first-generation H1 inverse agonist with CNS penetration and antimuscarinic effects"
+    },
+    {
+      "id": "E",
+      "text": "A phosphodiesterase-4 inhibitor"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Diphenhydramine is a first-generation H1 antihistamine (reversible inverse agonist) that readily enters the CNS, producing sedation, and has antimuscarinic effects (dry mouth) and anti-α-adrenergic effects. First-generation agents—diphenhydramine, dimenhydrinate, chlorpheniramine, and doxylamine—are used for allergy, motion sickness, vomiting in pregnancy, and as sleep aids. Their sedating and anticholinergic properties distinguish them from second-generation agents.",
+  "explanation_incorrect": {
+    "A": "Second-generation agents such as loratadine and fexofenadine have reduced CNS entry and are far less sedating; they do not fit this side-effect profile.",
+    "B": "An H1 inverse agonist that does not cross the blood-brain barrier describes a second-generation agent, not diphenhydramine.",
+    "C": "A muscarinic agonist would increase secretions and cause bradycardia, the opposite of dry mouth and sedation.",
+    "E": "PDE-4 inhibition is the mechanism of roflumilast and is unrelated to histamine H1 blockade."
+  },
+  "educationalObjective": "First-generation H1 antihistamines (eg, diphenhydramine) cross the BBB and cause sedation plus antimuscarinic and anti-α effects.",
+  "source": "Generated from 16. Respiratory.pdf - Pharmacology: Asthma biologics and other respiratory drugs"
+},
+{
+  "id": "res-268",
+  "subject": "Respiratory",
+  "major_topic": "Pharmacology",
+  "subtopic": "Asthma biologics and other respiratory drugs",
+  "difficulty": "easy",
+  "vignette": "A 30-year-old needs daily medication for Seasonal allergic rhinitis but wants to avoid drowsiness while driving. Her physician chooses an antihistamine whose names typically end in '-adine' and that enters the CNS poorly, making it far less sedating.",
+  "question": "Which of the following is the most appropriate class of drug for this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Second-generation H1 blockers such as loratadine or fexofenadine"
+    },
+    {
+      "id": "B",
+      "text": "Diphenhydramine"
+    },
+    {
+      "id": "C",
+      "text": "Doxylamine"
+    },
+    {
+      "id": "D",
+      "text": "Dimenhydrinate"
+    },
+    {
+      "id": "E",
+      "text": "Chlorpheniramine"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Second-generation H1 antihistamines—loratadine, fexofenadine, desloratadine, and cetirizine—typically have names ending in '-adine.' They are far less sedating than first-generation agents because of decreased entry into the CNS, and they are used for allergy. This makes them appropriate when sedation must be avoided.",
+  "explanation_incorrect": {
+    "B": "Diphenhydramine is a first-generation antihistamine that causes marked sedation.",
+    "C": "Doxylamine is a first-generation antihistamine used for vomiting in pregnancy and as a sleep aid; it is sedating.",
+    "D": "Dimenhydrinate is a first-generation antihistamine used for motion sickness and is sedating.",
+    "E": "Chlorpheniramine is a first-generation antihistamine with significant sedative effects."
+  },
+  "educationalObjective": "Second-generation '-adine' H1 blockers (loratadine, fexofenadine, cetirizine) are minimally sedating because they poorly enter the CNS.",
+  "source": "Generated from 16. Respiratory.pdf - Pharmacology: Asthma biologics and other respiratory drugs"
+},
+{
+  "id": "res-269",
+  "subject": "Respiratory",
+  "major_topic": "Pharmacology",
+  "subtopic": "Asthma biologics and other respiratory drugs",
+  "difficulty": "easy",
+  "vignette": "A 17-year-old with mild asthma takes a medication before exercise that prevents the release of inflammatory mediators from mast cells. It is used prophylactically to prevent acute asthma symptoms rather than to treat an ongoing attack, and it is now rarely prescribed.",
+  "question": "Which of the following drugs acts by preventing mast cell degranulation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Montelukast"
+    },
+    {
+      "id": "B",
+      "text": "Theophylline"
+    },
+    {
+      "id": "C",
+      "text": "Cromolyn"
+    },
+    {
+      "id": "D",
+      "text": "Albuterol"
+    },
+    {
+      "id": "E",
+      "text": "Omalizumab"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Cromolyn is a chromone that prevents mast cell degranulation, thereby preventing the release of proinflammatory mediators such as histamine and leukotrienes. It is used prophylactically to prevent acute asthma symptoms and is now rarely used. Because it does not relax airway smooth muscle, it is not a rescue medication for an acute attack.",
+  "explanation_incorrect": {
+    "A": "Montelukast blocks CysLT1 leukotriene receptors and does not prevent mast cell degranulation.",
+    "B": "Theophylline inhibits phosphodiesterase, raising cAMP, and blocks adenosine.",
+    "D": "Albuterol is a β2 agonist used for acute relief of bronchoconstriction.",
+    "E": "Omalizumab binds unbound serum IgE and blocks its binding to FcεRI."
+  },
+  "educationalObjective": "Cromolyn prevents mast cell degranulation and is a rarely used prophylactic agent for asthma, not a rescue drug.",
+  "source": "Generated from 16. Respiratory.pdf - Pharmacology: Asthma biologics and other respiratory drugs"
+},
+{
+  "id": "res-270",
+  "subject": "Respiratory",
+  "major_topic": "Pharmacology",
+  "subtopic": "Asthma biologics and other respiratory drugs",
+  "difficulty": "easy",
+  "vignette": "A 27-year-old woman in the first trimester of pregnancy has debilitating nausea and vomiting. Her obstetrician recommends an antihistamine that is a first-generation H1 blocker, commonly combined with pyridoxine for this indication, and known to cause sedation.",
+  "question": "Which of the following antihistamines is classically used for vomiting in pregnancy?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Loratadine"
+    },
+    {
+      "id": "B",
+      "text": "Doxylamine"
+    },
+    {
+      "id": "C",
+      "text": "Fexofenadine"
+    },
+    {
+      "id": "D",
+      "text": "Cetirizine"
+    },
+    {
+      "id": "E",
+      "text": "Desloratadine"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Doxylamine is a first-generation H1 antihistamine whose classic use is vomiting in pregnancy (frequently combined with pyridoxine). First-generation antihistamines—such as diphenhydramine, dimenhydrinate, chlorpheniramine, and doxylamine—have names containing '-en/-ine' or '-en/-ate' and cause sedation, antimuscarinic effects, and anti-α-adrenergic effects. The second-generation '-adine' agents listed are used for allergy and are far less sedating.",
+  "explanation_incorrect": {
+    "A": "Loratadine is a second-generation antihistamine used for allergy, not for vomiting in pregnancy.",
+    "C": "Fexofenadine is a second-generation antihistamine used for allergy and is minimally sedating.",
+    "D": "Cetirizine is a second-generation antihistamine used for allergy.",
+    "E": "Desloratadine is a second-generation antihistamine used for allergy."
+  },
+  "educationalObjective": "Doxylamine, a first-generation H1 antihistamine, is the classic agent for vomiting in pregnancy; second-generation '-adine' agents are for allergy.",
+  "source": "Generated from 16. Respiratory.pdf - Pharmacology: Asthma biologics and other respiratory drugs"
+}
+]

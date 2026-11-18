@@ -1,0 +1,207 @@
+[
+{
+  "id": "res-059",
+  "subject": "Respiratory",
+  "major_topic": "Physiology",
+  "subtopic": "Work of breathing and physiologic dead space",
+  "difficulty": "easy",
+  "vignette": "A physiology student asks her preceptor what work of breathing actually measures. The preceptor explains that it reflects the energy expended by the respiratory muscles to generate the ventilation required to meet the body's metabolic needs, and that this work has two components.",
+  "question": "Which of the following best lists the two components that make up the work of breathing?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Elastic work and surface-tension work"
+    },
+    {
+      "id": "B",
+      "text": "Flow-resistive work and elastic work"
+    },
+    {
+      "id": "C",
+      "text": "Inspiratory work and expiratory work"
+    },
+    {
+      "id": "D",
+      "text": "Anatomic dead space work and alveolar dead space work"
+    },
+    {
+      "id": "E",
+      "text": "Minute ventilation work and alveolar ventilation work"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Work of breathing is the energy expended, or O2 consumed, by the respiratory muscles to produce the ventilation needed to meet metabolic demand. It is a combination of flow-resistive work, needed to overcome airway resistance, and elastic work, needed to overcome elastic recoil. Because work = force x distance = pressure x volume, both components can be expressed as pressure-volume work. Total work is minimized by optimizing respiratory rate and tidal volume.",
+  "explanation_incorrect": {
+    "A": "Surface tension contributes to elastic recoil but is not listed as a separate component of the work of breathing.",
+    "C": "Inspiratory and expiratory phases are not the two named components; the components are defined by the resisting forces.",
+    "D": "Anatomic and alveolar dead space are components of physiologic dead space, not of work of breathing.",
+    "E": "Minute and alveolar ventilation are measures of ventilation, not components of mechanical work."
+  },
+  "educationalObjective": "Work of breathing = flow-resistive work (airway resistance) + elastic work (elastic recoil), expressible as pressure x volume.",
+  "source": "Generated from 16. Respiratory.pdf - Physiology: Work of breathing and physiologic dead space"
+},
+{
+  "id": "res-060",
+  "subject": "Respiratory",
+  "major_topic": "Physiology",
+  "subtopic": "Work of breathing and physiologic dead space",
+  "difficulty": "medium",
+  "vignette": "A patient with long-standing asthma has increased airway resistance. His respiratory therapist notes that his work of breathing is elevated because he must generate higher pressures to move air through narrowed airways.",
+  "question": "Which change in breathing pattern would most effectively reduce the flow-resistive component of this patient's work of breathing?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Increasing respiratory rate and decreasing tidal volume"
+    },
+    {
+      "id": "B",
+      "text": "Increasing both respiratory rate and tidal volume"
+    },
+    {
+      "id": "C",
+      "text": "Decreasing both respiratory rate and tidal volume"
+    },
+    {
+      "id": "D",
+      "text": "Decreasing respiratory rate and increasing tidal volume"
+    },
+    {
+      "id": "E",
+      "text": "Maintaining a constantly high respiratory rate regardless of tidal volume"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "In obstructive disease the dominant load is airway resistance, so flow-resistive work predominates. Slowing the respiratory rate and increasing tidal volume, that is, slow deep breathing, lowers airflow velocities and reduces the pressure required to overcome resistance, thereby minimizing total work. This is why patients with obstruction adopt a slow, deep breathing pattern. Overall, work of breathing is minimized by optimizing RR and VT according to the prevailing load.",
+  "explanation_incorrect": {
+    "A": "Rapid shallow breathing (increased RR, decreased VT) is the pattern of restrictive disease and would not reduce resistive work here.",
+    "B": "Increasing both rate and depth raises airflow and minute ventilation, increasing resistive work rather than reducing it.",
+    "C": "Decreasing both rate and depth reduces total ventilation below what is needed to meet metabolic demand.",
+    "E": "A fixed high rate ignores the need to slow breathing to lower airflow resistance and thereby increases resistive work."
+  },
+  "educationalObjective": "Obstructive (high-resistance) states minimize work of breathing with slow, deep breathing (decreased RR, increased VT).",
+  "source": "Generated from 16. Respiratory.pdf - Physiology: Work of breathing and physiologic dead space"
+},
+{
+  "id": "res-061",
+  "subject": "Respiratory",
+  "major_topic": "Physiology",
+  "subtopic": "Work of breathing and physiologic dead space",
+  "difficulty": "hard",
+  "vignette": "A 62-year-old man with idiopathic pulmonary fibrosis has stiff, noncompliant lungs. His pulmonary function tests show reduced lung volumes, and his clinician notes that he has adopted rapid, shallow breathing.",
+  "question": "Which of the following best explains why rapid, shallow breathing reduces his work of breathing?",
+  "options": [
+    {
+      "id": "A",
+      "text": "In restrictive disease, work is dominated by elastic recoil; a high RR and low VT limit the elastic work per breath"
+    },
+    {
+      "id": "B",
+      "text": "In restrictive disease, work is dominated by airway resistance; a high RR and low VT lower resistive work"
+    },
+    {
+      "id": "C",
+      "text": "A low VT increases alveolar dead space, which decreases the work performed per breath"
+    },
+    {
+      "id": "D",
+      "text": "A high RR automatically increases tidal volume, which improves lung compliance"
+    },
+    {
+      "id": "E",
+      "text": "Shallow breathing abolishes the need to overcome surface tension during lung inflation"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "In restrictive disease, compliance is reduced and elastic recoil is increased, so elastic work predominates. Elastic work is the pressure required to distend the stiff lungs for a given volume. By breathing rapidly and shallowly, the patient limits the volume change per breath, reducing elastic work per breath and thus total work. This is the characteristic rapid, shallow pattern of restrictive disease.",
+  "explanation_incorrect": {
+    "B": "Airway resistance dominates in obstructive, not restrictive, disease; a high RR would increase resistive work.",
+    "C": "Dead space does not lower elastic work, and a low VT would increase the dead-space fraction, not improve efficiency.",
+    "D": "RR does not automatically change VT, and a high RR does not improve compliance.",
+    "E": "Surface-tension forces are not abolished by shallow breathing; the inflation-deflation difference still applies."
+  },
+  "educationalObjective": "Restrictive disease raises elastic work; rapid shallow breathing (increased RR, decreased VT) minimizes work by limiting volume change per breath.",
+  "source": "Generated from 16. Respiratory.pdf - Physiology: Work of breathing and physiologic dead space"
+},
+{
+  "id": "res-062",
+  "subject": "Respiratory",
+  "major_topic": "Physiology",
+  "subtopic": "Work of breathing and physiologic dead space",
+  "difficulty": "medium",
+  "vignette": "A patient on a ventilator has the following measurements: arterial PCO2 (PaCO2) = 40 mm Hg, mixed expired PCO2 (PECO2) = 30 mm Hg, and tidal volume (VT) = 500 mL.",
+  "question": "Using the Bohr equation, what is this patient's physiologic dead space (VD)?",
+  "options": [
+    {
+      "id": "A",
+      "text": "375 mL, computed as VT x PECO2/PaCO2"
+    },
+    {
+      "id": "B",
+      "text": "500 mL, computed with PaCO2/PaCO2 = 1, ignoring PECO2"
+    },
+    {
+      "id": "C",
+      "text": "167 mL, computed as VT x (PaCO2 - PECO2)/PECO2"
+    },
+    {
+      "id": "D",
+      "text": "250 mL, computed by halving PaCO2 in the denominator"
+    },
+    {
+      "id": "E",
+      "text": "125 mL, computed as VT x (PaCO2 - PECO2)/PaCO2"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "The Bohr equation is VD = VT x (PaCO2 - PECO2)/PaCO2. Here (40 - 30)/40 = 10/40 = 0.25, so VD = 500 x 0.25 = 125 mL. Physiologic dead space is the volume of inspired air that does not participate in gas exchange; it is the sum of the anatomic dead space of the conducting airways and alveolar dead space. In normal lungs it approximates the anatomic dead space of about 150 mL.",
+  "explanation_incorrect": {
+    "A": "375 mL uses PECO2/PaCO2 (30/40) in place of the required (PaCO2 - PECO2)/PaCO2.",
+    "B": "500 mL ignores PECO2 entirely, leaving the ratio PaCO2/PaCO2 equal to 1.",
+    "C": "167 mL uses PECO2 as the denominator, (40 - 30)/30, instead of PaCO2.",
+    "D": "250 mL halves PaCO2 in the denominator (40 becomes 20), doubling the result."
+  },
+  "educationalObjective": "VD = VT x (PaCO2 - PECO2)/PaCO2; physiologic dead space = anatomic dead space + alveolar dead space.",
+  "source": "Generated from 16. Respiratory.pdf - Physiology: Work of breathing and physiologic dead space"
+},
+{
+  "id": "res-063",
+  "subject": "Respiratory",
+  "major_topic": "Physiology",
+  "subtopic": "Work of breathing and physiologic dead space",
+  "difficulty": "hard",
+  "vignette": "A 55-year-old woman has a ventilation/perfusion mismatch. Her arterial PCO2 is 50 mm Hg, her mixed expired PCO2 is 25 mm Hg, and her tidal volume is 600 mL.",
+  "question": "What is her physiologic dead space, and how does it compare with the anatomic dead space of about 150 mL in a normal adult?",
+  "options": [
+    {
+      "id": "A",
+      "text": "150 mL, equal to normal anatomic dead space; V/Q mismatch does not change dead space"
+    },
+    {
+      "id": "B",
+      "text": "200 mL, computed with (PaCO2 - PECO2)/(PaCO2 + PECO2) as the fraction"
+    },
+    {
+      "id": "C",
+      "text": "300 mL, and greater than anatomic dead space because of alveolar dead space"
+    },
+    {
+      "id": "D",
+      "text": "450 mL, obtained by subtracting anatomic dead space from tidal volume"
+    },
+    {
+      "id": "E",
+      "text": "600 mL, treating the entire tidal volume as dead space"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "VD = VT x (PaCO2 - PECO2)/PaCO2 = 600 x (50 - 25)/50 = 600 x 25/50 = 600 x 0.5 = 300 mL. Physiologic dead space exceeds the normal anatomic dead space of about 150 mL because it also includes alveolar dead space. In lung disease with V/Q mismatch, regions of high V/Q contribute alveolar dead space, making VD greater than anatomic dead space. In the healthy lung, the apex is the largest contributor to alveolar dead space.",
+  "explanation_incorrect": {
+    "A": "150 mL is the normal anatomic dead space; V/Q mismatch adds alveolar dead space, so physiologic dead space is larger.",
+    "B": "200 mL comes from dividing by PaCO2 + PECO2 = 75 instead of by PaCO2 = 50.",
+    "D": "450 mL is tidal volume minus anatomic dead space (600 - 150), not the Bohr-equation result.",
+    "E": "600 mL treats the whole tidal volume as dead space by ignoring PECO2 (ratio 50/50 = 1)."
+  },
+  "educationalObjective": "In V/Q mismatch, physiologic dead space = anatomic + alveolar dead space and exceeds anatomic dead space; calculate it with the Bohr equation.",
+  "source": "Generated from 16. Respiratory.pdf - Physiology: Work of breathing and physiologic dead space"
+}
+]

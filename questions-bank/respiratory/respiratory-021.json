@@ -1,0 +1,207 @@
+[
+{
+  "id": "res-115",
+  "subject": "Respiratory",
+  "major_topic": "Physiology",
+  "subtopic": "Methemoglobinemia",
+  "difficulty": "easy",
+  "vignette": "A 34-year-old man presents with cyanosis of the lips and fingertips and fatigue. He is tachypneic, but his cyanosis does not improve when he is given 100% oxygen. His blood drawn for arterial blood gas appears chocolate-brown rather than bright red.",
+  "question": "Which of the following best describes the underlying molecular abnormality in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Hemoglobin binds CO2 with increased affinity, reducing the capacity to carry oxygen."
+    },
+    {
+      "id": "B",
+      "text": "The iron in hemoglobin remains ferrous (Fe2+) but cannot bind the heme group."
+    },
+    {
+      "id": "C",
+      "text": "The oxygen dissociation curve is left-shifted, so oxygen is not released to tissues."
+    },
+    {
+      "id": "D",
+      "text": "Hemoglobin iron is oxidized from ferrous Fe2+ to ferric Fe3+, which has reduced oxygen affinity."
+    },
+    {
+      "id": "E",
+      "text": "There is a quantitative decrease in hemoglobin synthesis with structurally normal iron."
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "In methemoglobinemia, the iron in hemoglobin is oxidized from the normal reduced ferrous state (Fe2+, remembered as just the 2 of us) to the ferric state (Fe3+). Ferric iron has markedly reduced affinity for oxygen, so functional oxygen saturation and oxygen content fall, producing tissue hypoxia. The oxidized hemoglobin also imparts a chocolate-brown color to blood, and the cyanosis does not improve with supplemental oxygen because the problem is the hemoglobin's inability to bind oxygen, not a lack of inspired oxygen. Above normal concentrations (normally only 1-2%), clinically apparent methemoglobinemia develops.",
+  "explanation_incorrect": {
+    "A": "Enhanced CO2 binding is not the defect; the problem is oxidation of heme iron to a form that cannot bind oxygen.",
+    "B": "The iron is already incorporated into heme; the abnormality is its oxidation state (Fe3+ vs Fe2+), not a failure to bind heme.",
+    "C": "A left shift increases oxygen affinity and still permits oxygen loading; methemoglobin has reduced affinity and cannot bind oxygen at all.",
+    "E": "The hemoglobin quantity is normal; it is the functional quality of the iron that is abnormal."
+  },
+  "educationalObjective": "Methemoglobinemia results from oxidation of hemoglobin iron from ferrous Fe2+ to ferric Fe3+, reducing oxygen affinity, saturation, and content.",
+  "source": "Generated from 16. Respiratory.pdf - Physiology: Methemoglobinemia"
+},
+{
+  "id": "res-116",
+  "subject": "Respiratory",
+  "major_topic": "Physiology",
+  "subtopic": "Methemoglobinemia",
+  "difficulty": "medium",
+  "vignette": "A 45-year-old woman develops anxiety, headache, and cyanosis shortly after a dentist applies a topical anesthetic gel to her gums before a procedure. Her pulse oximetry reads 85% and does not improve with supplemental oxygen. Her arterial PaO2 measured by blood gas is normal.",
+  "question": "Which of the following agents most likely caused this patient's methemoglobinemia by oxidizing Fe2+ to Fe3+?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Benzocaine, a local anesthetic."
+    },
+    {
+      "id": "B",
+      "text": "Nitroglycerin, a vasodilator."
+    },
+    {
+      "id": "C",
+      "text": "Epinephrine, a vasoconstrictor."
+    },
+    {
+      "id": "D",
+      "text": "Lidocaine injected as a nerve block."
+    },
+    {
+      "id": "E",
+      "text": "Nitroprusside given for hypertensive crisis."
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Methemoglobinemia is caused by oxidant drugs and chemicals that convert hemoglobin iron from ferrous Fe2+ to ferric Fe3+. Classic causes include dapsone, local anesthetics such as benzocaine, and nitrites from dietary intake or polluted water. Topical benzocaine applied to mucosa is a well-recognized trigger, and the resulting cyanosis does not correct with supplemental oxygen. Nitroprusside is associated with cyanide toxicity rather than being a classic methemoglobinemia cause in this setting.",
+  "explanation_incorrect": {
+    "B": "Nitroglycerin is not a classic oxidant cause of methemoglobinemia; organic nitrates are not listed among the common triggers.",
+    "C": "Epinephrine is a vasoconstrictor and does not oxidize hemoglobin iron.",
+    "D": "Lidocaine is an amide local anesthetic, but benzocaine is the topical anesthetic classically implicated in methemoglobinemia.",
+    "E": "Nitroprusside toxicity is associated with cyanide release, not with oxidizing hemoglobin as a primary methemoglobinemia cause."
+  },
+  "educationalObjective": "Oxidant exposures such as benzocaine, dapsone, and nitrites cause methemoglobinemia by converting hemoglobin Fe2+ to Fe3+.",
+  "source": "Generated from 16. Respiratory.pdf - Physiology: Methemoglobinemia"
+},
+{
+  "id": "res-117",
+  "subject": "Respiratory",
+  "major_topic": "Physiology",
+  "subtopic": "Methemoglobinemia",
+  "difficulty": "medium",
+  "vignette": "A 6-month-old infant is brought in with perioral cyanosis after well water was used to prepare formula. The infant appears dusky, but arterial blood gas on 100% oxygen shows a PaO2 of 98 mm Hg. Pulse oximetry reads 82%, and the blood sample is dark brown.",
+  "question": "Which of the following best explains why this infant's cyanosis fails to improve despite a normal PaO2 on supplemental oxygen?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Nitrite exposure causes diffuse alveolar hypoventilation that lowers alveolar PO2."
+    },
+    {
+      "id": "B",
+      "text": "A right-to-left shunt diverts oxygenated blood away from the systemic circulation."
+    },
+    {
+      "id": "C",
+      "text": "Ferric Fe3+ in methemoglobin cannot bind oxygen, so oxygen saturation and content are reduced despite normal dissolved PaO2."
+    },
+    {
+      "id": "D",
+      "text": "Carbon monoxide competes with oxygen for hemoglobin, leaving little hemoglobin available."
+    },
+    {
+      "id": "E",
+      "text": "The high PaO2 causes hemoglobin to denature and lose its oxygen-carrying capacity."
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "In methemoglobinemia, a portion of hemoglobin iron is in the ferric Fe3+ state, which has very low affinity for oxygen and cannot effectively bind it. The PaO2 reflects only dissolved oxygen and can be normal, while the oxygen saturation and total oxygen content are reduced because functional hemoglobin is unavailable. Supplemental oxygen raises dissolved O2 only slightly and cannot correct the defect in the hemoglobin molecule, so cyanosis persists. Nitrites in well water or diet are a classic cause, and the blood appears chocolate-colored.",
+  "explanation_incorrect": {
+    "A": "The PaO2 is normal, so alveolar hypoventilation is not present; the defect is in hemoglobin, not ventilation.",
+    "B": "A right-to-left shunt would lower PaO2 because blood bypasses the alveoli; here PaO2 is normal.",
+    "D": "Carbon monoxide poisoning produces carboxyhemoglobin and a normal PaO2, but it follows a different exposure and mechanism; the chocolate blood and nitrite exposure point to methemoglobinemia.",
+    "E": "A high PaO2 does not denature hemoglobin; the problem is pre-existing oxidation of iron to Fe3+."
+  },
+  "educationalObjective": "In methemoglobinemia, ferric iron cannot bind oxygen, so saturation and content fall while PaO2 stays normal and cyanosis is refractory to oxygen.",
+  "source": "Generated from 16. Respiratory.pdf - Physiology: Methemoglobinemia"
+},
+{
+  "id": "res-118",
+  "subject": "Respiratory",
+  "major_topic": "Physiology",
+  "subtopic": "Methemoglobinemia",
+  "difficulty": "easy",
+  "vignette": "A 28-year-old man presents with headache, cyanosis, and chocolate-colored blood after ingesting nitrite-contaminated well water. He is diagnosed with methemoglobinemia and requires pharmacologic reversal of the oxidized hemoglobin.",
+  "question": "Which of the following treatments is used to reverse methemoglobinemia?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Intravenous sodium thiosulfate alone."
+    },
+    {
+      "id": "B",
+      "text": "Methylene blue and vitamin C."
+    },
+    {
+      "id": "C",
+      "text": "100% inhaled oxygen alone."
+    },
+    {
+      "id": "D",
+      "text": "Intravenous hydroxocobalamin."
+    },
+    {
+      "id": "E",
+      "text": "Hyperbaric oxygen therapy."
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Methemoglobinemia is treated with methylene blue, which is reduced to leukomethylene blue and donates electrons to reduce ferric Fe3+ back to functional ferrous Fe2+ hemoglobin. Vitamin C (ascorbic acid) also acts as a reducing agent and is used as an adjunct. Supplemental oxygen alone is of limited benefit because the hemoglobin cannot bind oxygen regardless of the inspired concentration. Hydroxocobalamin and thiosulfate are used for cyanide poisoning, and hyperbaric oxygen is used for severe carbon monoxide poisoning.",
+  "explanation_incorrect": {
+    "A": "Sodium thiosulfate is used in cyanide poisoning to promote conversion to thiocyanate, not to reduce methemoglobin.",
+    "C": "Because ferric hemoglobin cannot bind oxygen, supplemental oxygen alone does not reverse methemoglobinemia.",
+    "D": "Hydroxocobalamin binds cyanide to form cyanocobalamin; it does not reduce methemoglobin.",
+    "E": "Hyperbaric oxygen is a treatment for severe carbon monoxide poisoning, not methemoglobinemia."
+  },
+  "educationalObjective": "Methemoglobinemia is treated with methylene blue and vitamin C, which reduce ferric Fe3+ back to functional ferrous Fe2+ hemoglobin.",
+  "source": "Generated from 16. Respiratory.pdf - Physiology: Methemoglobinemia"
+},
+{
+  "id": "res-119",
+  "subject": "Respiratory",
+  "major_topic": "Physiology",
+  "subtopic": "Methemoglobinemia",
+  "difficulty": "hard",
+  "vignette": "A toxicology fellow is reviewing the relationship between methemoglobinemia and cyanide poisoning. She notes that certain therapies for cyanide toxicity deliberately generate methemoglobin, and that ferric iron has a particular binding property relevant to cyanide.",
+  "question": "Which of the following statements about the ferric (Fe3+) form of hemoglobin is correct?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It has a higher affinity for oxygen than ferrous hemoglobin, shifting the ODC left."
+    },
+    {
+      "id": "B",
+      "text": "It is the normal reduced state of iron in circulating hemoglobin, comprising about 98% of total hemoglobin."
+    },
+    {
+      "id": "C",
+      "text": "It binds oxygen normally but simply cannot release it to peripheral tissues."
+    },
+    {
+      "id": "D",
+      "text": "It is produced only by carbon monoxide exposure and is reversed with hyperbaric oxygen."
+    },
+    {
+      "id": "E",
+      "text": "It has an increased affinity for cyanide, so generating methemoglobin can sequester cyanide as cyanomethemoglobin."
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Ferric iron (Fe3+) in methemoglobin has an increased affinity for cyanide compared with ferrous iron. This property is exploited in cyanide poisoning: nitrites oxidize hemoglobin to methemoglobin, which then binds cyanide to form cyanomethemoglobin, drawing cyanide away from cytochrome c oxidase and reducing toxicity. At the same time, ferric iron has reduced oxygen affinity, causing tissue hypoxia. Normal hemoglobin contains predominantly ferrous Fe2+ (about 98-99%), with only 1-2% methemoglobin under normal conditions.",
+  "explanation_incorrect": {
+    "A": "Ferric iron has reduced, not increased, oxygen affinity and does not produce a left shift; it cannot effectively bind oxygen.",
+    "B": "The normal major species is ferrous Fe2+; ferric Fe3+ normally makes up only about 1-2% of hemoglobin.",
+    "C": "Ferric hemoglobin cannot bind oxygen normally in the first place; the defect is reduced affinity, not failure to release.",
+    "D": "Carbon monoxide forms carboxyhemoglobin with ferrous iron, not methemoglobin; hyperbaric oxygen treats CO poisoning."
+  },
+  "educationalObjective": "Ferric Fe3+ hemoglobin has reduced oxygen affinity but increased cyanide affinity, the basis for nitrite-induced methemoglobin formation in cyanide poisoning.",
+  "source": "Generated from 16. Respiratory.pdf - Physiology: Methemoglobinemia"
+}
+]

@@ -1,0 +1,330 @@
+[
+{
+  "id": "res-075",
+  "subject": "Respiratory",
+  "major_topic": "Physiology",
+  "subtopic": "Pulmonary circulation, diffusion, and vascular resistance",
+  "difficulty": "medium",
+  "vignette": "A 58-year-old man with chronic obstructive pulmonary disease undergoes a ventilation-perfusion scan for evaluation of progressive dyspnea. The scan shows a region of the left lower lobe with markedly reduced ventilation and correspondingly reduced perfusion compared with the rest of the lung. Arterial blood gas shows a PaO2 of 58 mm Hg. The pulmonary circulation is normally a low-resistance, high-compliance system.",
+  "question": "Which of the following best explains the decreased blood flow to the poorly ventilated region?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Reduced compliance in the affected region mechanically compresses the pulmonary capillaries"
+    },
+    {
+      "id": "B",
+      "text": "Alveolar hypoxia causes local pulmonary arteriolar vasoconstriction, diverting blood to better-ventilated regions"
+    },
+    {
+      "id": "C",
+      "text": "Systemic hypoxemia triggers generalized pulmonary vasodilation that equalizes perfusion"
+    },
+    {
+      "id": "D",
+      "text": "Elevated CO2 in the poorly ventilated region directly relaxes pulmonary vascular smooth muscle"
+    },
+    {
+      "id": "E",
+      "text": "Hypoxia in that region causes in situ thrombus formation that obstructs the local vessels"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "In the lung, a fall in regional alveolar PO2 causes vasoconstriction of the adjacent pulmonary arterioles (hypoxic vasoconstriction). This diverts blood away from poorly ventilated regions toward well-ventilated regions, thereby improving the matching of perfusion to ventilation and limiting hypoxemia. This response is unique to the pulmonary circulation, where it is opposite to the vasodilation that hypoxia produces in systemic vessels. Clinically, chronic alveolar hypoxia (eg, in COPD) can sustain this vasoconstriction and lead to pulmonary hypertension, with or without cor pulmonale.",
+  "explanation_incorrect": {
+    "A": "Compliance is not the mechanism of regional redistribution; the pulmonary circulation is normally highly compliant, and reduced compliance would not selectively shunt blood away from hypoxic alveoli.",
+    "C": "Hypoxia causes local vasoconstriction, not generalized vasodilation, in the pulmonary circulation; the redistribution is regional rather than uniform.",
+    "D": "Hypercapnia and acidosis in a pulmonary region augment vasoconstriction rather than relaxing pulmonary vascular smooth muscle; alveolar hypoxia is the dominant local signal.",
+    "E": "Alveolar hypoxia does not cause thrombus formation; the reduction in flow is a reversible vasomotor response, not an occlusive process."
+  },
+  "educationalObjective": "Local alveolar hypoxia causes pulmonary vasoconstriction that diverts blood from poorly ventilated to well-ventilated lung regions; when chronic, it can produce pulmonary hypertension and cor pulmonale.",
+  "source": "Generated from 16. Respiratory.pdf - Physiology: Pulmonary circulation, diffusion, and vascular resistance"
+},
+{
+  "id": "res-076",
+  "subject": "Respiratory",
+  "major_topic": "Physiology",
+  "subtopic": "Pulmonary circulation, diffusion, and vascular resistance",
+  "difficulty": "medium",
+  "vignette": "A healthy 24-year-old volunteer inhales a mixture containing nitrous oxide (N2O), a gas with very high blood solubility and a high diffusion coefficient. Experimental measurements show that N2O reaches equilibrium between alveolar gas and pulmonary capillary blood very early in the capillary transit, long before blood reaches the end of the capillary. The volunteer's cardiac output is then increased during exercise.",
+  "question": "Which of the following best characterizes N2O exchange under these conditions?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It is perfusion limited: equilibration occurs early, and uptake can be increased only by increasing pulmonary blood flow"
+    },
+    {
+      "id": "B",
+      "text": "It is diffusion limited: equilibration occurs only at the end of the capillary and depends on alveolar membrane surface area"
+    },
+    {
+      "id": "C",
+      "text": "It is ventilation limited: uptake is determined solely by alveolar minute ventilation once the gas dissolves"
+    },
+    {
+      "id": "D",
+      "text": "Its transfer is best quantified by measuring the diffusing capacity for carbon monoxide (DLCO)"
+    },
+    {
+      "id": "E",
+      "text": "It would be expected to equilibrate late in the capillary because of its low diffusion coefficient"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Nitrous oxide, like carbon dioxide and oxygen in normal health, is a perfusion-limited gas. It equilibrates between alveolus and capillary blood early along the capillary length, so the partial pressure gradient dissipates well before the blood exits. Once equilibration is reached, additional gas uptake can occur only if fresh, unsaturated blood is delivered, ie, if pulmonary blood flow (cardiac output) increases. This is why exercise raises N2O uptake but does so by increasing perfusion, not by improving diffusion.",
+  "explanation_incorrect": {
+    "B": "Diffusion-limited gases (eg, carbon monoxide, or oxygen in fibrotic lung disease) fail to equilibrate by the end of the capillary; N2O equilibrates early and is therefore perfusion limited.",
+    "C": "Although ventilation delivers the gas to the alveolus, once early equilibration occurs the limiting factor is the rate at which unsaturated blood arrives, ie, perfusion rather than ventilation.",
+    "D": "DLCO specifically measures diffusion-limited transfer of carbon monoxide, whose binding to hemoglobin keeps capillary PCO near zero; it does not quantify perfusion-limited N2O uptake.",
+    "E": "N2O has a high diffusion coefficient and high blood solubility and therefore equilibrates early, not late, in the capillary."
+  },
+  "educationalObjective": "Perfusion-limited gases (O2 in health, CO2, N2O) equilibrate early in the pulmonary capillary, so their exchange increases only when pulmonary blood flow rises.",
+  "source": "Generated from 16. Respiratory.pdf - Physiology: Pulmonary circulation, diffusion, and vascular resistance"
+},
+{
+  "id": "res-077",
+  "subject": "Respiratory",
+  "major_topic": "Physiology",
+  "subtopic": "Pulmonary circulation, diffusion, and vascular resistance",
+  "difficulty": "hard",
+  "vignette": "A 65-year-old woman with idiopathic pulmonary fibrosis undergoes pulmonary function testing. Her diffusing capacity for carbon monoxide (DLCO) is markedly reduced. During the test she inhales a low concentration of carbon monoxide, and the rate of transfer of CO from alveolar gas into pulmonary capillary blood is measured. Her arterial PO2 is 62 mm Hg and PaCO2 is 34 mm Hg.",
+  "question": "Which of the following best explains why carbon monoxide uptake is described as diffusion limited and is used to assess diffusing capacity?",
+  "options": [
+    {
+      "id": "A",
+      "text": "CO has very low solubility in blood, so it equilibrates almost instantaneously with alveolar gas"
+    },
+    {
+      "id": "B",
+      "text": "CO is rapidly metabolized by red blood cells, keeping capillary PCO close to zero"
+    },
+    {
+      "id": "C",
+      "text": "CO exchange depends primarily on cardiac output because it equilibrates very early in the capillary"
+    },
+    {
+      "id": "D",
+      "text": "CO binds hemoglobin with very high affinity, keeping capillary PCO near zero so equilibrium is not reached by the end of the capillary"
+    },
+    {
+      "id": "E",
+      "text": "CO crosses the alveolar membrane more slowly than O2 because of its much larger molecular weight"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Carbon monoxide binds hemoglobin with an affinity roughly 200-250 times that of oxygen. Because it is so tightly bound, the partial pressure of free CO in capillary blood remains near zero throughout the capillary transit, so a large partial-pressure gradient is maintained and equilibration is never reached. CO transfer is therefore diffusion limited: it depends on the surface area and thickness of the alveolar-capillary membrane rather than on blood flow. This is the basis of the DLCO measurement, which is reduced when area falls (emphysema) or diffusion distance increases (fibrosis).",
+  "explanation_incorrect": {
+    "A": "CO does not have low solubility; rather it has an extremely high affinity for hemoglobin, which is what keeps free capillary PCO low.",
+    "B": "CO is not metabolized by red cells; it binds reversibly to hemoglobin to form carboxyhemoglobin, and that binding (not metabolism) maintains the low PCO.",
+    "C": "Diffusion-limited gases do not equilibrate early, so their uptake is not limited by cardiac output but by the properties of the alveolar-capillary membrane.",
+    "E": "Although CO has a diffusion coefficient different from O2, the decisive reason it remains diffusion limited is its tight hemoglobin binding that sustains the partial-pressure gradient, not its molecular weight."
+  },
+  "educationalObjective": "CO is diffusion limited because its avidity for hemoglobin keeps capillary PCO near zero, so DLCO reflects alveolar-capillary membrane area and thickness rather than perfusion.",
+  "source": "Generated from 16. Respiratory.pdf - Physiology: Pulmonary circulation, diffusion, and vascular resistance"
+},
+{
+  "id": "res-078",
+  "subject": "Respiratory",
+  "major_topic": "Physiology",
+  "subtopic": "Pulmonary circulation, diffusion, and vascular resistance",
+  "difficulty": "easy",
+  "vignette": "A 70-year-old man with severe Emphysema has destruction of alveolar walls and coalescence of many small alveoli into large bullae. His DLCO is reduced. Gas exchange is described by the diffusion equation J = A x Dk x (P1 - P2)/Δx, where A is surface area, Dk is the diffusion coefficient, Δx is barrier thickness, and P1 - P2 is the partial-pressure difference.",
+  "question": "Which parameter of the diffusion equation is primarily reduced in this disease, leading to impaired gas exchange?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The diffusion coefficient (Dk) of oxygen"
+    },
+    {
+      "id": "B",
+      "text": "The alveolar wall thickness (Δx)"
+    },
+    {
+      "id": "C",
+      "text": "The surface area available for diffusion (A)"
+    },
+    {
+      "id": "D",
+      "text": "The partial-pressure difference (P1 - P2) of oxygen"
+    },
+    {
+      "id": "E",
+      "text": "The pulmonary capillary blood flow (Q dot)"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Emphysema destroys alveolar septa, so many small alveoli coalesce into fewer, larger air spaces. This markedly reduces the total surface area (A) available for gas exchange across the alveolar-capillary membrane. Because diffusive flux J is directly proportional to A in the equation J = A x Dk x (P1 - P2)/Δx, a smaller surface area lowers oxygen transfer and produces a reduced DLCO. The loss of surface area, not a change in barrier thickness or driving pressure, is the dominant defect.",
+  "explanation_incorrect": {
+    "A": "The diffusion coefficient is an intrinsic property of the gas and the membrane material and is not reduced by destruction of alveolar walls.",
+    "B": "Alveolar wall thickness is increased in pulmonary fibrosis, not emphysema; emphysema removes tissue rather than thickening the barrier.",
+    "D": "The partial-pressure gradient is set mainly by ventilation and tissue metabolism; the primary abnormality in emphysema is loss of exchange surface, not the driving pressure.",
+    "E": "Capillary blood flow is not a term in the diffusion equation; the parameter reduced in emphysema is surface area."
+  },
+  "educationalObjective": "In emphysema, loss of alveolar surface area (A) lowers diffusive gas transfer and reduces DLCO.",
+  "source": "Generated from 16. Respiratory.pdf - Physiology: Pulmonary circulation, diffusion, and vascular resistance"
+},
+{
+  "id": "res-079",
+  "subject": "Respiratory",
+  "major_topic": "Physiology",
+  "subtopic": "Pulmonary circulation, diffusion, and vascular resistance",
+  "difficulty": "easy",
+  "vignette": "A 55-year-old woman with pulmonary fibrosis has thickened, scarred alveolar-capillary membranes on lung biopsy and a reduced DLCO. Using the diffusion equation J = A x Dk x (P1 - P2)/Δx, where Δx is the thickness of the diffusion barrier, her physician explains which change most directly impairs her gas exchange.",
+  "question": "Which change in the diffusion barrier best explains her impaired gas exchange?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A decreased surface area A"
+    },
+    {
+      "id": "B",
+      "text": "An increased alveolar wall thickness Δx"
+    },
+    {
+      "id": "C",
+      "text": "An increased diffusion coefficient Dk"
+    },
+    {
+      "id": "D",
+      "text": "An increased partial-pressure gradient (P1 - P2)"
+    },
+    {
+      "id": "E",
+      "text": "A decreased alveolar wall thickness Δx"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Pulmonary fibrosis replaces delicate alveolar-capillary membrane with thick, scarred collagenous tissue. This increases the diffusion distance Δx. In the diffusion equation J = A x Dk x (P1 - P2)/Δx, barrier thickness appears in the denominator, so a larger Δx reduces diffusive flux and lowers DLCO. The increased diffusion distance is the hallmark physiologic abnormality of fibrotic restrictive lung disease.",
+  "explanation_incorrect": {
+    "A": "Loss of surface area is the primary abnormality in emphysema; in fibrosis the characteristic change is a thickened diffusion barrier.",
+    "C": "Dk is a property of the diffusing gas and the membrane; it is not increased in fibrosis, and an increase would improve rather than impair diffusion.",
+    "D": "The partial-pressure gradient is not increased by fibrosis; the parameter that changes is the thickness of the barrier.",
+    "E": "Thickness is increased, not decreased, in fibrosis; a decreased Δx would shorten the diffusion distance and improve gas exchange."
+  },
+  "educationalObjective": "In pulmonary fibrosis, increased alveolar wall thickness (Δx) lengthens the diffusion path and reduces gas transfer.",
+  "source": "Generated from 16. Respiratory.pdf - Physiology: Pulmonary circulation, diffusion, and vascular resistance"
+},
+{
+  "id": "res-080",
+  "subject": "Respiratory",
+  "major_topic": "Physiology",
+  "subtopic": "Pulmonary circulation, diffusion, and vascular resistance",
+  "difficulty": "medium",
+  "vignette": "A 62-year-old man with idiopathic pulmonary fibrosis presents with progressive dyspnea on exertion. Arterial blood gas on room air shows a PaO2 of 55 mm Hg and a PaCO2 of 34 mm Hg. His respiratory rate is elevated at 24/min. His physician notes that hypoxemia dominates while carbon dioxide retention is absent early in the disease.",
+  "question": "Which of the following best explains why hypoxemia appears earlier and is more prominent than hypercapnia in diffusion-limited disease?",
+  "options": [
+    {
+      "id": "A",
+      "text": "CO2 has a much lower diffusion coefficient than O2, so it is retained first"
+    },
+    {
+      "id": "B",
+      "text": "CO2 production is reduced in fibrotic lung disease, which lowers PaCO2"
+    },
+    {
+      "id": "C",
+      "text": "O2 and CO2 diffuse at equal rates, but hypoventilation raises PaCO2 only late in the disease"
+    },
+    {
+      "id": "D",
+      "text": "Hypercapnia stimulates ventilation, which then lowers PaCO2 and masks the underlying defect"
+    },
+    {
+      "id": "E",
+      "text": "O2 diffuses slowly while CO2 diffuses very rapidly, so oxygen transfer fails first while CO2 elimination remains intact"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Carbon dioxide is roughly 20 times more diffusible across the alveolar membrane than oxygen. In diseases that increase the diffusion distance or reduce surface area, oxygen transfer therefore becomes impaired first, producing early hypoxemia. CO2 elimination remains preserved until disease is far advanced, and the compensatory tachypnea driven by hypoxemia further lowers PaCO2. This is why patients with pulmonary fibrosis or emphysema characteristically present with a low PaO2 and a normal or low PaCO2.",
+  "explanation_incorrect": {
+    "A": "The opposite is true: CO2 diffuses far more rapidly than O2 across the alveolar membrane, so it is retained only late.",
+    "B": "CO2 production is not reduced; the normal or low PaCO2 reflects preserved CO2 elimination plus compensatory hyperventilation, not decreased production.",
+    "C": "O2 and CO2 do not diffuse at equal rates; CO2 is much more diffusible, which is the reason hypoxemia precedes hypercapnia.",
+    "D": "Although an increased respiratory rate can lower PaCO2, the fundamental reason hypercapnia is absent early is the much higher diffusivity of CO2 relative to O2."
+  },
+  "educationalObjective": "Because CO2 diffuses about 20 times faster than O2, diffusion limitation causes early hypoxemia with preserved or low PaCO2; hypercapnia is a late finding.",
+  "source": "Generated from 16. Respiratory.pdf - Physiology: Pulmonary circulation, diffusion, and vascular resistance"
+},
+{
+  "id": "res-081",
+  "subject": "Respiratory",
+  "major_topic": "Physiology",
+  "subtopic": "Pulmonary circulation, diffusion, and vascular resistance",
+  "difficulty": "hard",
+  "vignette": "A 45-year-old woman with suspected pulmonary hypertension undergoes right heart catheterization. Measured values are: mean pulmonary artery pressure 24 mm Hg, pulmonary capillary wedge pressure 12 mm Hg, and cardiac output 6 L/min. The wedge pressure is taken to approximate left atrial pressure. Recall that ΔP = Q dot x R.",
+  "question": "What is her pulmonary vascular resistance in mm Hg·min/L?",
+  "options": [
+    {
+      "id": "A",
+      "text": "6 - obtained by adding the wedge pressure to the pulmonary artery pressure and dividing by cardiac output"
+    },
+    {
+      "id": "B",
+      "text": "4 - obtained from the pulmonary artery pressure alone without subtracting left atrial pressure"
+    },
+    {
+      "id": "C",
+      "text": "2 - obtained by dividing (mean PAP minus wedge pressure) by cardiac output"
+    },
+    {
+      "id": "D",
+      "text": "12 - obtained from the pressure difference without dividing by cardiac output"
+    },
+    {
+      "id": "E",
+      "text": "72 - obtained by multiplying the pressure difference by cardiac output"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Pulmonary vascular resistance is the pressure drop across the pulmonary circulation divided by the flow through it: PVR = (Ppulm artery - PL atrium)/Q dot. Left atrial pressure is approximated by the pulmonary capillary wedge pressure. Here (24 - 12)/6 = 12/6 = 2 mm Hg·min/L, which is elevated (normal is roughly 1-2 mm Hg·min/L or less). This calculation follows directly from ΔP = Q dot x R, rearranged to R = ΔP/Q dot.",
+  "explanation_incorrect": {
+    "A": "Resistance uses the pressure gradient across the circuit (Ppa minus PLA), not the sum; adding wedge pressure is a sign error that gives 36/6 = 6.",
+    "B": "Using pulmonary artery pressure alone (24/6 = 4) ignores the downstream left atrial pressure and therefore overestimates the transpulmonary gradient.",
+    "D": "This is the pressure gradient (24 - 12 = 12) alone; resistance also requires dividing by flow, as ΔP = Q dot x R.",
+    "E": "Resistance is ΔP divided by flow, not multiplied; (24 - 12) x 6 = 72 has units of pressure times flow, not resistance."
+  },
+  "educationalObjective": "PVR = (mean pulmonary artery pressure - left atrial/wedge pressure)/cardiac output, a direct application of ΔP = Q dot x R.",
+  "source": "Generated from 16. Respiratory.pdf - Physiology: Pulmonary circulation, diffusion, and vascular resistance"
+},
+{
+  "id": "res-082",
+  "subject": "Respiratory",
+  "major_topic": "Physiology",
+  "subtopic": "Pulmonary circulation, diffusion, and vascular resistance",
+  "difficulty": "medium",
+  "vignette": "A physiology student is reviewing the determinants of pulmonary vascular resistance. The pulmonary circulation is normally a low-resistance, high-compliance system, and resistance is described by Poiseuille's law: R = 8ηl/(πr^4), where η is blood viscosity, l is vessel length, and r is vessel radius. The student wants to know which single change would raise resistance the most.",
+  "question": "Which of the following changes would produce the greatest increase in pulmonary vascular resistance?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Halving the vessel radius (r changes to r/2)"
+    },
+    {
+      "id": "B",
+      "text": "Doubling the vessel radius"
+    },
+    {
+      "id": "C",
+      "text": "Doubling blood viscosity η"
+    },
+    {
+      "id": "D",
+      "text": "Halving the vessel length l"
+    },
+    {
+      "id": "E",
+      "text": "Doubling cardiac output (Q dot)"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Because resistance varies inversely with the fourth power of the radius, halving the radius increases resistance by a factor of 2^4 = 16, far more than any linear change. This fourth-power relationship explains why small degrees of pulmonary vasoconstriction (eg, from alveolar hypoxia) or vascular remodeling can markedly raise pulmonary vascular resistance. When chronic, such vasoconstriction leads to pulmonary hypertension and may progress to cor pulmonale. Note that the low resistance of the normal pulmonary circulation depends on its short, wide, highly recruitable vessels.",
+  "explanation_incorrect": {
+    "B": "Doubling the radius decreases resistance 16-fold because of the r^4 term, the opposite of an increase.",
+    "C": "Doubling viscosity only doubles resistance, since η enters linearly; this is a much smaller effect than the fourth-power radius effect.",
+    "D": "Halving vessel length halves resistance (l enters linearly), so it would lower rather than raise resistance.",
+    "E": "Cardiac output is flow (Q dot), not a determinant of resistance; by ΔP = Q dot x R it raises pressure for a given resistance but does not change R itself."
+  },
+  "educationalObjective": "Resistance is inversely proportional to the fourth power of vessel radius, so small decreases in pulmonary vessel caliber cause large rises in pulmonary vascular resistance.",
+  "source": "Generated from 16. Respiratory.pdf - Physiology: Pulmonary circulation, diffusion, and vascular resistance"
+}
+]

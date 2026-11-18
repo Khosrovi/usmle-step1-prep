@@ -1,0 +1,248 @@
+[
+{
+  "id": "res-150",
+  "subject": "Respiratory",
+  "major_topic": "Pathology",
+  "subtopic": "Flow-volume loops and obstructive vs restrictive patterns",
+  "difficulty": "easy",
+  "vignette": "A 58-year-old man with a long smoking history undergoes pulmonary function testing for exertional dyspnea. Spirometry shows FEV1 55% of predicted, FVC 88% of predicted, and FEV1/FVC 58%. TLC is 112% of predicted and RV is 150% of predicted.",
+  "question": "Which flow-volume loop pattern best matches these findings?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Loop shifted to the right with a tall, narrow shape and reduced TLC"
+    },
+    {
+      "id": "B",
+      "text": "Loop shifted to the left with a concave (scooped) expiratory limb and increased RV"
+    },
+    {
+      "id": "C",
+      "text": "Loop shifted to the right with a proportionate reduction in FEV1 and FVC"
+    },
+    {
+      "id": "D",
+      "text": "Normal loop with an isolated reduction in DLCO"
+    },
+    {
+      "id": "E",
+      "text": "Loop shifted to the left with increased elastic recoil and reduced FRC"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "This is an obstructive pattern: FEV1 is reduced far more than FVC so FEV1/FVC falls below 70%. Air trapping from premature airway closure at high lung volumes raises RV, FRC, and TLC. On the flow-volume loop, obstruction produces a scooped or concave expiratory limb and shifts the loop to the left. The increased RV and TLC here confirm obstruction rather than restriction.",
+  "explanation_incorrect": {
+    "A": "A right-shifted, tall narrow loop with reduced TLC is the restrictive pattern; this patient has an elevated TLC and RV.",
+    "C": "A right shift with proportionate reduction of FEV1 and FVC and a normal or high ratio is restrictive, not obstructive.",
+    "D": "An isolated low DLCO does not explain an FEV1/FVC below 70%, which indicates airflow obstruction.",
+    "E": "Obstructive lungs have reduced recoil from elastic fiber loss, and FRC rises rather than falls."
+  },
+  "educationalObjective": "Obstruction lowers FEV1/FVC below 70%, raises RV/FRC/TLC, and shifts the flow-volume loop left with a scooped expiratory limb.",
+  "source": "Generated from 16. Respiratory.pdf - Pathology: Flow-volume loops and obstructive vs restrictive patterns"
+},
+{
+  "id": "res-151",
+  "subject": "Respiratory",
+  "major_topic": "Pathology",
+  "subtopic": "Flow-volume loops and obstructive vs restrictive patterns",
+  "difficulty": "medium",
+  "vignette": "A 42-year-old woman with progressive dyspnea and a dry cough has the following pulmonary function results: TLC 68% of predicted, RV 60% of predicted, FRC 65% of predicted, FEV1 70% of predicted, FVC 69% of predicted, and FEV1/FVC 82%.",
+  "question": "Which pattern and mechanism best explain these findings?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Obstructive; air trapping from premature airway closure increases RV and TLC"
+    },
+    {
+      "id": "B",
+      "text": "Obstructive; FEV1 is reduced more than FVC, lowering the ratio below 70%"
+    },
+    {
+      "id": "C",
+      "text": "Normal; all measured values fall within the predicted range"
+    },
+    {
+      "id": "D",
+      "text": "Restrictive; proportionate reduction in FEV1 and FVC with a normal or increased FEV1/FVC and reduced TLC"
+    },
+    {
+      "id": "E",
+      "text": "Restrictive; FEV1/FVC is reduced below 70% because FVC falls more than FEV1"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "All lung volumes including TLC, RV, and FRC are reduced, and FEV1 and FVC fall proportionately so FEV1/FVC is normal or elevated. This is the restrictive pattern, in which the flow-volume loop shifts to the right and becomes tall and narrow. There is no air trapping, distinguishing it from obstruction.",
+  "explanation_incorrect": {
+    "A": "Obstruction would raise RV, FRC, and TLC and lower FEV1/FVC, the opposite of these values.",
+    "B": "The ratio here is 82%, not below 70%, and FEV1 has not fallen more than FVC.",
+    "C": "A TLC of 68% of predicted is well below the normal threshold and cannot be considered normal.",
+    "E": "In restriction the FEV1/FVC ratio is normal or increased; a ratio below 70% would indicate obstruction."
+  },
+  "educationalObjective": "Restriction reduces all lung volumes with a proportionate fall in FEV1 and FVC, keeping FEV1/FVC normal or high and shifting the loop right.",
+  "source": "Generated from 16. Respiratory.pdf - Pathology: Flow-volume loops and obstructive vs restrictive patterns"
+},
+{
+  "id": "res-152",
+  "subject": "Respiratory",
+  "major_topic": "Pathology",
+  "subtopic": "Flow-volume loops and obstructive vs restrictive patterns",
+  "difficulty": "easy",
+  "vignette": "A 65-year-old man with emphysema has pulmonary function tests demonstrating an obstructive defect. His physician reviews the expected changes in static lung volumes.",
+  "question": "Which set of lung volume changes is most consistent with an obstructive pattern?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Increased RV, increased FRC, and increased TLC"
+    },
+    {
+      "id": "B",
+      "text": "Decreased RV, decreased FRC, and decreased TLC"
+    },
+    {
+      "id": "C",
+      "text": "Increased RV, decreased FRC, and normal TLC"
+    },
+    {
+      "id": "D",
+      "text": "Normal RV, normal FRC, and decreased TLC"
+    },
+    {
+      "id": "E",
+      "text": "Decreased RV, increased FRC, and increased TLC"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "In obstructive lung disease, air trapping occurs because airways close prematurely at high lung volumes. This raises residual volume, functional residual capacity, and total lung capacity. The trapped gas is the reason these three volumes all increase rather than decrease.",
+  "explanation_incorrect": {
+    "B": "A uniform reduction of RV, FRC, and TLC is the restrictive pattern, not obstruction.",
+    "C": "In obstruction FRC rises along with RV, and TLC is also increased rather than normal.",
+    "D": "Obstruction raises RV and TLC; a reduced TLC with normal RV and FRC does not fit.",
+    "E": "Residual volume is increased, not decreased, in obstructive disease with air trapping."
+  },
+  "educationalObjective": "Obstructive disease traps air, so RV, FRC, and TLC all increase.",
+  "source": "Generated from 16. Respiratory.pdf - Pathology: Flow-volume loops and obstructive vs restrictive patterns"
+},
+{
+  "id": "res-153",
+  "subject": "Respiratory",
+  "major_topic": "Pathology",
+  "subtopic": "Flow-volume loops and obstructive vs restrictive patterns",
+  "difficulty": "medium",
+  "vignette": "A patient with suspected restrictive lung disease has spirometry showing FEV1 68% of predicted and FVC 70% of predicted. The clinician is interpreting the FEV1/FVC ratio.",
+  "question": "What is the expected FEV1/FVC ratio and its physiologic basis in this pattern?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Below 70% because FEV1 falls more than FVC"
+    },
+    {
+      "id": "B",
+      "text": "Below 70% because of air trapping and premature airway closure"
+    },
+    {
+      "id": "C",
+      "text": "Exactly 70% with a scooped expiratory limb on the flow-volume loop"
+    },
+    {
+      "id": "D",
+      "text": "Reduced because FVC falls more than FEV1"
+    },
+    {
+      "id": "E",
+      "text": "Normal or increased because FEV1 and FVC decrease proportionately"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "In restrictive disease FEV1 and FVC decrease proportionately because the lung is simply smaller. The FEV1/FVC ratio is therefore normal or increased, commonly above 70%. The loop is narrow and tall and shifted to the right, without the scooped expiratory limb of obstruction.",
+  "explanation_incorrect": {
+    "A": "A ratio below 70% from a greater fall in FEV1 than FVC defines obstruction, not restriction.",
+    "B": "Air trapping and premature airway closure are the mechanism of obstruction, which would raise lung volumes.",
+    "C": "A scooped expiratory limb is the obstructive contour; restrictive loops are narrow and tall.",
+    "D": "In restriction the two values fall together; FVC does not fall more than FEV1 to lower the ratio."
+  },
+  "educationalObjective": "A normal or high FEV1/FVC with proportionately reduced FEV1 and FVC indicates restriction.",
+  "source": "Generated from 16. Respiratory.pdf - Pathology: Flow-volume loops and obstructive vs restrictive patterns"
+},
+{
+  "id": "res-154",
+  "subject": "Respiratory",
+  "major_topic": "Pathology",
+  "subtopic": "Flow-volume loops and obstructive vs restrictive patterns",
+  "difficulty": "hard",
+  "vignette": "A 60-year-old smoker with COPD and a 25-year-old with a chest wall deformity causing restriction both undergo flow-volume loop measurement. A third volunteer is healthy. The pulmonologist compares loop position and contour.",
+  "question": "Compared with the healthy individual, which combination of loop shift and mechanism is correct?",
+  "options": [
+    {
+      "id": "A",
+      "text": "COPD: loop shifts right because lung recoil is increased"
+    },
+    {
+      "id": "B",
+      "text": "Restriction: loop shifts left because of air trapping"
+    },
+    {
+      "id": "C",
+      "text": "COPD: loop shifts left due to air trapping and reduced recoil; restriction: loop shifts right because all lung volumes are reduced"
+    },
+    {
+      "id": "D",
+      "text": "COPD: loop shifts right with a tall narrow loop; restriction: loop shifts left with a scooped limb"
+    },
+    {
+      "id": "E",
+      "text": "Both shift left because both conditions reduce FEV1"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "COPD is obstructive: air trapping and loss of elastic recoil raise RV, FRC, and TLC, producing a scooped expiratory limb and a leftward shift of the loop. Restriction reduces all lung volumes and produces a narrow, tall loop shifted to the right. The direction of shift reflects the volume changes, so the two patterns move in opposite directions.",
+  "explanation_incorrect": {
+    "A": "COPD shifts the loop left, not right, and elastic recoil is reduced rather than increased.",
+    "B": "Restriction shifts the loop right and involves no air trapping; air trapping is the obstructive mechanism.",
+    "D": "This reverses the patterns: obstructive loops are left-shifted and scooped, restrictive loops are right-shifted and tall.",
+    "E": "Although FEV1 falls in both, the loops shift in opposite directions because lung volumes change differently."
+  },
+  "educationalObjective": "Obstruction shifts the loop left with air trapping and low recoil; restriction shifts it right with uniformly reduced volumes.",
+  "source": "Generated from 16. Respiratory.pdf - Pathology: Flow-volume loops and obstructive vs restrictive patterns"
+},
+{
+  "id": "res-155",
+  "subject": "Respiratory",
+  "major_topic": "Pathology",
+  "subtopic": "Flow-volume loops and obstructive vs restrictive patterns",
+  "difficulty": "medium",
+  "vignette": "A medical student reviews a table listing the obstructive lung diseases that produce air trapping and a reduced FEV1/FVC ratio. She wants to identify which condition does not belong in that group.",
+  "question": "Which of the following is NOT categorized as an obstructive lung disease?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Asthma"
+    },
+    {
+      "id": "B",
+      "text": "Idiopathic pulmonary fibrosis"
+    },
+    {
+      "id": "C",
+      "text": "Chronic bronchitis"
+    },
+    {
+      "id": "D",
+      "text": "Emphysema"
+    },
+    {
+      "id": "E",
+      "text": "Bronchiectasis"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "The obstructive lung diseases are COPD, which includes chronic bronchitis and emphysema, plus asthma and bronchiectasis. They share airflow obstruction with a reduced FEV1/FVC and air trapping. Idiopathic pulmonary fibrosis is a restrictive disease with reduced TLC and a normal or elevated FEV1/FVC, so it does not belong in this group.",
+  "explanation_incorrect": {
+    "A": "Asthma is an intermittent obstructive disease with reversible bronchoconstriction.",
+    "C": "Chronic bronchitis is one of the two components of COPD and is obstructive.",
+    "D": "Emphysema is the other component of COPD and is obstructive.",
+    "E": "Bronchiectasis is an obstructive disease supported by an obstructive PFT pattern."
+  },
+  "educationalObjective": "COPD (chronic bronchitis and emphysema), asthma, and bronchiectasis are obstructive; pulmonary fibrosis is restrictive.",
+  "source": "Generated from 16. Respiratory.pdf - Pathology: Flow-volume loops and obstructive vs restrictive patterns"
+}
+]

@@ -1,0 +1,330 @@
+[
+{
+  "id": "res-120",
+  "subject": "Respiratory",
+  "major_topic": "Physiology",
+  "subtopic": "Cyanide vs carbon monoxide poisoning",
+  "difficulty": "easy",
+  "vignette": "Two patients present with altered mental status: one is a fire victim with soot in the oropharynx, the other was found unconscious near a faulty space heater. Although their exposures differ, both are hypoxic and neither corrects fully with supplemental oxygen.",
+  "question": "Which of the following mechanisms is shared by cyanide and carbon monoxide poisoning?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Both convert hemoglobin iron to the ferric Fe3+ state, forming methemoglobin."
+    },
+    {
+      "id": "B",
+      "text": "Both competitively displace oxygen from hemoglobin with greater than 200-fold affinity."
+    },
+    {
+      "id": "C",
+      "text": "Both inhibit aerobic metabolism by blocking complex IV (cytochrome c oxidase) of the electron transport chain."
+    },
+    {
+      "id": "D",
+      "text": "Both produce a leftward shift of the oxyhemoglobin dissociation curve."
+    },
+    {
+      "id": "E",
+      "text": "Both are odorless, colorless gases produced by incomplete combustion."
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Cyanide and carbon monoxide both inhibit aerobic metabolism, in part through inhibition of complex IV of the electron transport chain (cytochrome c oxidase). The result is histotoxic hypoxia that does not fully correct with supplemental oxygen and a shift toward anaerobic metabolism with lactate production. They differ in their other effects: carbon monoxide also binds hemoglobin with very high affinity and left-shifts the ODC, while cyanide binds cytochrome a3 and leaves the ODC normal. The common endpoint is impaired oxygen utilization despite adequate oxygen delivery.",
+  "explanation_incorrect": {
+    "A": "Methemoglobin formation is caused by oxidants like nitrites and dapsone; it is not the shared mechanism of cyanide and CO, although nitrites are used to treat cyanide poisoning.",
+    "B": "High-affinity competitive binding to hemoglobin is specific to carbon monoxide, not cyanide.",
+    "D": "A leftward ODC shift is characteristic of carbon monoxide; cyanide leaves the curve normal.",
+    "E": "Only carbon monoxide is odorless and colorless; cyanide may have a bitter almond odor and has diverse exposure sources."
+  },
+  "educationalObjective": "Cyanide and CO both inhibit complex IV of the electron transport chain, causing hypoxia that does not fully correct with oxygen.",
+  "source": "Generated from 16. Respiratory.pdf - Physiology: Cyanide vs carbon monoxide poisoning"
+},
+{
+  "id": "res-121",
+  "subject": "Respiratory",
+  "major_topic": "Physiology",
+  "subtopic": "Cyanide vs carbon monoxide poisoning",
+  "difficulty": "medium",
+  "vignette": "A 41-year-old man is brought in after being rescued from a burning building. He is tachypneic and drowsy, and his breath has a faint bitter almond odor. His skin appears flushed and the venules in his retina are bright red.",
+  "question": "Which of the following exposure histories would most strongly support cyanide toxicity in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Chronic use of a poorly vented kerosene space heater in a closed room."
+    },
+    {
+      "id": "B",
+      "text": "Combustion of synthetic products in a fire, ingestion of amygdalin-rich apricot seeds, or recent nitroprusside use."
+    },
+    {
+      "id": "C",
+      "text": "Working in a garage with chronic automobile exhaust exposure."
+    },
+    {
+      "id": "D",
+      "text": "Living in a home with a faulty furnace affecting several family members."
+    },
+    {
+      "id": "E",
+      "text": "Cigarette smoking and secondhand tobacco smoke exposure."
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Cyanide exposure occurs through combustion of synthetic products (including plastics) in fires, ingestion of amygdalin found in apricot seeds, intentional cyanide ingestion, and as a risk of nitroprusside use in hypertensive emergencies. Fire victims may therefore have cyanide toxicity, and the bitter almond breath and bright red venous blood are classic clues. The other listed exposures (space heaters, motor exhaust, faulty furnaces, tobacco) are classic sources of carbon monoxide, not cyanide.",
+  "explanation_incorrect": {
+    "A": "A poorly vented space heater is a classic source of carbon monoxide from incomplete combustion, not cyanide.",
+    "C": "Motor exhaust is a well-known carbon monoxide source; it is not a typical cyanide exposure.",
+    "D": "A faulty furnace producing symptoms in multiple family members is the classic carbon monoxide scenario.",
+    "E": "Tobacco smoke is a source of carbon monoxide; it is not a recognized cause of cyanide toxicity."
+  },
+  "educationalObjective": "Cyanide exposure follows combustion of synthetic materials, amygdalin ingestion, or nitroprusside use, whereas heaters, furnaces, exhaust, and tobacco cause CO poisoning.",
+  "source": "Generated from 16. Respiratory.pdf - Physiology: Cyanide vs carbon monoxide poisoning"
+},
+{
+  "id": "res-122",
+  "subject": "Respiratory",
+  "major_topic": "Physiology",
+  "subtopic": "Cyanide vs carbon monoxide poisoning",
+  "difficulty": "medium",
+  "vignette": "A 33-year-old fire victim has headache, dyspnea, and drowsiness. Arterial blood gas shows PaO2 96 mm Hg on room air, but she has a widespread anion gap metabolic acidosis with lactate of 9 mmol/L. Pulse oximetry reads 98%, and an oxyhemoglobin dissociation curve measured in vitro is normal in position.",
+  "question": "Which of the following best interprets these findings and guides treatment?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The normal PaO2 and normal ODC exclude significant poisoning; her acidosis is due to lactic acidosis from sepsis."
+    },
+    {
+      "id": "B",
+      "text": "The findings indicate carbon monoxide poisoning, so high-flow oxygen and possible hyperbaric therapy are indicated."
+    },
+    {
+      "id": "C",
+      "text": "A left-shifted ODC with elevated carboxyhemoglobin explains the lactate, so 100% oxygen is the definitive treatment."
+    },
+    {
+      "id": "D",
+      "text": "The normal saturation proves adequate oxygen use, so no specific antidote is required."
+    },
+    {
+      "id": "E",
+      "text": "The normal PaO2, elevated lactate with anion gap acidosis, and normal ODC indicate cyanide toxicity; give hydroxocobalamin, nitrites, or thiosulfate rather than relying on oxygen alone."
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Cyanide binds cytochrome a3 in complex IV, so ample oxygen is present but cannot be used for oxidative phosphorylation; the ODC is normal and O2 saturation may appear normal initially, while PaO2 is normal. Anaerobic metabolism produces a high lactate and anion gap metabolic acidosis. Because 100% oxygen is ineffective, treatment is decontamination plus agents that remove or sequester cyanide: hydroxocobalamin (forms cyanocobalamin excreted renally), nitrites (induce methemoglobin that binds cyanide as cyanomethemoglobin), and sodium thiosulfate (increases conversion to thiocyanate).",
+  "explanation_incorrect": {
+    "A": "A normal PaO2 does not exclude cyanide toxicity, since the defect is oxygen utilization; the high lactate in a fire victim is a key clue.",
+    "B": "This picture with normal ODC and high lactate fits cyanide rather than CO; CO would show elevated carboxyhemoglobin and a left shift.",
+    "C": "The ODC is normal, not left-shifted, and carboxyhemoglobin is not the finding here; oxygen alone is ineffective in cyanide toxicity.",
+    "D": "Normal saturation does not mean oxygen is being used; histotoxic hypoxia means cells cannot use the delivered oxygen."
+  },
+  "educationalObjective": "Cyanide poisoning shows normal PaO2 and ODC with high lactate and anion gap acidosis; treat with hydroxocobalamin, nitrites, and thiosulfate, not oxygen alone.",
+  "source": "Generated from 16. Respiratory.pdf - Physiology: Cyanide vs carbon monoxide poisoning"
+},
+{
+  "id": "res-123",
+  "subject": "Respiratory",
+  "major_topic": "Physiology",
+  "subtopic": "Cyanide vs carbon monoxide poisoning",
+  "difficulty": "medium",
+  "vignette": "Three members of a family are found with headache, vomiting, confusion, and visual disturbances in their home during winter. The source is traced to an improperly vented furnace. The gas involved is colorless, odorless, tasteless, and non-irritating.",
+  "question": "Which of the following statements about this gas and its toxicity is correct?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It is the leading worldwide cause of death by poisoning, and multiple victims with a common source are typical."
+    },
+    {
+      "id": "B",
+      "text": "It produces a bitter almond odor that warns victims before symptoms begin."
+    },
+    {
+      "id": "C",
+      "text": "It is produced only by combustion of synthetic plastics, not by furnaces."
+    },
+    {
+      "id": "D",
+      "text": "It causes a markedly elevated lactate and right-shifted ODC as its primary laboratory signature."
+    },
+    {
+      "id": "E",
+      "text": "It is reliably detected by standard pulse oximetry, which distinguishes it from oxyhemoglobin."
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Carbon monoxide is a colorless, odorless, tasteless, non-irritating gas produced by incomplete combustion of carbon-containing compounds, including tobacco smoke, furnaces, space heaters, fires, and motor exhaust. It is the leading worldwide cause of death by poisoning, and multiple victims from a single faulty source (such as a family with a faulty furnace) are classic. Presentation includes headache, vomiting, confusion, visual disturbances, and coma, with possible cherry-red skin and bullous lesions. Its lack of warning properties makes it especially dangerous.",
+  "explanation_incorrect": {
+    "B": "A bitter almond odor is associated with cyanide, not carbon monoxide; CO is odorless and gives no warning.",
+    "C": "CO comes from incomplete combustion of any carbon-containing fuel, including furnaces and engines, not only synthetic plastics.",
+    "D": "A high lactate and normal ODC fit cyanide; CO produces elevated carboxyhemoglobin and a left-shifted ODC.",
+    "E": "Standard pulse oximetry cannot distinguish carboxyhemoglobin from oxyhemoglobin; co-oximetry is required."
+  },
+  "educationalObjective": "Carbon monoxide is an odorless, colorless product of incomplete combustion and the leading worldwide cause of poisoning death, often with multiple victims.",
+  "source": "Generated from 16. Respiratory.pdf - Physiology: Cyanide vs carbon monoxide poisoning"
+},
+{
+  "id": "res-124",
+  "subject": "Respiratory",
+  "major_topic": "Physiology",
+  "subtopic": "Cyanide vs carbon monoxide poisoning",
+  "difficulty": "medium",
+  "vignette": "A 52-year-old woman is found confused in her garage with a car engine running. Her PaO2 is normal, but pulse oximetry reads 97%. Co-oximetry shows an elevated carboxyhemoglobin level, and MRI reveals bilateral lesions in the globus pallidus.",
+  "question": "Which of the following best explains the effect of carbon monoxide on her oxygen transport?",
+  "options": [
+    {
+      "id": "A",
+      "text": "CO oxidizes hemoglobin iron to Fe3+, causing chocolate-colored blood and reduced oxygen binding."
+    },
+    {
+      "id": "B",
+      "text": "CO binds cytochrome a3 in complex IV, leaving the ODC normal and saturation initially normal."
+    },
+    {
+      "id": "C",
+      "text": "CO causes a rightward ODC shift, improving oxygen unloading despite reduced saturation."
+    },
+    {
+      "id": "D",
+      "text": "CO binds competitively to hemoglobin with greater than 200-fold the affinity of oxygen, forming carboxyhemoglobin, reducing the percent oxygen saturation, and left-shifting the ODC."
+    },
+    {
+      "id": "E",
+      "text": "CO lowers PaO2 by preventing oxygen from diffusing across the alveolar membrane."
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Carbon monoxide binds competitively to hemoglobin with more than 200 times the affinity of oxygen, forming carboxyhemoglobin and reducing the percentage of hemoglobin available to carry oxygen. It also induces a leftward shift of the oxygen dissociation curve in the remaining sites, so the oxygen that is bound is released less readily to tissues. PaO2 remains normal because dissolved oxygen is unaffected, but pulse oximetry cannot distinguish carboxyhemoglobin from oxyhemoglobin, so co-oximetry is needed. Bilateral globus pallidus lesions are classically associated with CO poisoning, and treatment is 100% oxygen with hyperbaric oxygen if severe.",
+  "explanation_incorrect": {
+    "A": "Oxidation of iron to Fe3+ describes methemoglobinemia with chocolate blood, not carboxyhemoglobin formation.",
+    "B": "Binding cytochrome a3 in complex IV describes cyanide, which leaves the ODC normal; CO left-shifts the curve.",
+    "C": "CO produces a leftward, not rightward, shift, impairing oxygen unloading to tissues.",
+    "E": "PaO2 stays normal in CO poisoning; the problem is hemoglobin binding and release, not alveolar diffusion."
+  },
+  "educationalObjective": "CO binds hemoglobin with over 200-fold oxygen affinity, forming carboxyhemoglobin, lowering percent saturation, and left-shifting the ODC while PaO2 stays normal.",
+  "source": "Generated from 16. Respiratory.pdf - Physiology: Cyanide vs carbon monoxide poisoning"
+},
+{
+  "id": "res-125",
+  "subject": "Respiratory",
+  "major_topic": "Physiology",
+  "subtopic": "Cyanide vs carbon monoxide poisoning",
+  "difficulty": "easy",
+  "vignette": "A 27-year-old woman is diagnosed with moderate carbon monoxide poisoning after exposure to a space heater. She is started on 100% oxygen. Her physician discusses the expected clearance and when hyperbaric oxygen would be indicated.",
+  "question": "Which of the following statements about the treatment of carbon monoxide poisoning is correct?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Room air clears carboxyhemoglobin fastest, so supplemental oxygen should be avoided."
+    },
+    {
+      "id": "B",
+      "text": "Give 100% oxygen to overcome CO's increased affinity, reserving hyperbaric oxygen for severe cases; the carboxyhemoglobin half-life falls from about 300 minutes on room air to about 80 minutes on 100% oxygen and about 20 minutes with hyperbaric oxygen."
+    },
+    {
+      "id": "C",
+      "text": "Methylene blue is the first-line antidote because it reduces carboxyhemoglobin back to hemoglobin."
+    },
+    {
+      "id": "D",
+      "text": "Hydroxocobalamin is given to displace CO from hemoglobin and is the definitive therapy."
+    },
+    {
+      "id": "E",
+      "text": "Nitrites should be given to induce methemoglobin, which is the primary treatment for CO poisoning."
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Carbon monoxide poisoning is treated with 100% oxygen to shift CO off hemoglobin by mass action and to shorten the carboxyhemoglobin half-life from roughly 300 minutes on room air to about 80 minutes on 100% oxygen. Hyperbaric oxygen further reduces the half-life to about 20 minutes and is reserved for severe cases (eg, loss of consciousness, neurologic deficits, high carboxyhemoglobin, pregnancy). Oxygen works because of CO's competitive, reversible binding, unlike the histotoxic hypoxia of cyanide where oxygen is ineffective.",
+  "explanation_incorrect": {
+    "A": "Room air gives the slowest clearance; supplemental oxygen markedly shortens carboxyhemoglobin half-life.",
+    "C": "Methylene blue treats methemoglobinemia, not carbon monoxide poisoning.",
+    "D": "Hydroxocobalamin is used for cyanide poisoning, not to displace CO from hemoglobin.",
+    "E": "Inducing methemoglobin with nitrites is a cyanide strategy; it would be harmful and is not a CO treatment."
+  },
+  "educationalObjective": "CO poisoning is treated with 100% oxygen (half-life about 300 to 80 minutes), and hyperbaric oxygen for severe cases reduces it further to about 20 minutes.",
+  "source": "Generated from 16. Respiratory.pdf - Physiology: Cyanide vs carbon monoxide poisoning"
+},
+{
+  "id": "res-126",
+  "subject": "Respiratory",
+  "major_topic": "Physiology",
+  "subtopic": "Cyanide vs carbon monoxide poisoning",
+  "difficulty": "hard",
+  "vignette": "A 60-year-old man is pulled from a house fire with burns and smoke inhalation. He has an elevated lactate and is thought to have both carbon monoxide and cyanide toxicity. The team must choose an antidote strategy that will not worsen his oxygen carrying capacity.",
+  "question": "Which of the following is the most appropriate antidote choice when concurrent CO and cyanide poisoning are suspected?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Nitrites alone, because methemoglobin improves oxygen delivery in CO poisoning."
+    },
+    {
+      "id": "B",
+      "text": "Sodium thiosulfate alone, because it directly displaces CO from hemoglobin."
+    },
+    {
+      "id": "C",
+      "text": "Hydroxocobalamin rather than nitrites or thiosulfate, to avoid increasing methemoglobin."
+    },
+    {
+      "id": "D",
+      "text": "Methylene blue, because it simultaneously reverses carboxyhemoglobin and cyanide binding."
+    },
+    {
+      "id": "E",
+      "text": "Hyperbaric oxygen alone, because it reverses both CO and cyanide toxicity."
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "When both CO and cyanide poisoning are suspected, as in fire victims, hydroxocobalamin is preferred. It binds cyanide to form cyanocobalamin that is renally excreted. Nitrites work by oxidizing hemoglobin to methemoglobin, which binds cyanide, but in a patient who already has impaired oxygen carrying capacity from carboxyhemoglobin, raising methemoglobin further would dangerously reduce functional hemoglobin. Hydroxocobalamin avoids this. Hyperbaric oxygen and 100% oxygen treat the CO component but are ineffective for cyanide, and methylene blue is used for methemoglobinemia, not this scenario.",
+  "explanation_incorrect": {
+    "A": "Nitrites raise methemoglobin, which would further reduce oxygen carrying capacity when carboxyhemoglobin is already elevated.",
+    "B": "Thiosulfate promotes conversion of cyanide to thiocyanate; it does not displace CO from hemoglobin.",
+    "D": "Methylene blue reduces methemoglobin and is used for methemoglobinemia; it does not reverse CO or cyanide poisoning.",
+    "E": "Oxygen, including hyperbaric oxygen, addresses CO but is ineffective for cyanide's histotoxic hypoxia."
+  },
+  "educationalObjective": "In combined CO and cyanide poisoning, use hydroxocobalamin rather than nitrites/thiosulfate to avoid further raising methemoglobin and worsening oxygen carrying capacity.",
+  "source": "Generated from 16. Respiratory.pdf - Physiology: Cyanide vs carbon monoxide poisoning"
+},
+{
+  "id": "res-127",
+  "subject": "Respiratory",
+  "major_topic": "Physiology",
+  "subtopic": "Cyanide vs carbon monoxide poisoning",
+  "difficulty": "hard",
+  "vignette": "A toxicology team compares two patients: one with cyanide ingestion and one with carbon monoxide exposure. Both have normal PaO2 and hypoxia that does not fully correct with oxygen, but the position of the oxyhemoglobin dissociation curve and the appropriate antidotes differ.",
+  "question": "Which of the following correctly contrasts cyanide with carbon monoxide poisoning?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Cyanide leaves the ODC normal and often shows high lactate with anion gap acidosis, treated with hydroxocobalamin, nitrites, and thiosulfate; CO left-shifts the ODC with elevated carboxyhemoglobin and is treated with oxygen."
+    },
+    {
+      "id": "B",
+      "text": "Cyanosis improves with 100% oxygen in cyanide poisoning but not in CO poisoning, so oxygen is the main cyanide antidote."
+    },
+    {
+      "id": "C",
+      "text": "Both produce a left-shifted ODC, but only CO is associated with bilateral globus pallidus lesions."
+    },
+    {
+      "id": "D",
+      "text": "Cyanide competitively binds hemoglobin with 200-fold oxygen affinity, whereas CO binds cytochrome a3 in complex IV."
+    },
+    {
+      "id": "E",
+      "text": "Both are reliably detected by pulse oximetry and both are treated with hyperbaric oxygen."
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Cyanide binds cytochrome a3 in complex IV, so oxidative phosphorylation is ineffective even with ample oxygen; the ODC is normal, saturation may appear normal initially, PaO2 is normal, and anaerobic metabolism produces high lactate with anion gap acidosis. Treatment is decontamination plus hydroxocobalamin, nitrites (which generate methemoglobin that binds cyanide), and sodium thiosulfate (which increases conversion to thiocyanate). Carbon monoxide instead binds hemoglobin with over 200-fold oxygen affinity, forms carboxyhemoglobin, left-shifts the ODC, is measured by co-oximetry, and is treated with 100% oxygen or hyperbaric oxygen. This makes A the correct contrast.",
+  "explanation_incorrect": {
+    "B": "Cyanide's hypoxia does not correct with oxygen; oxygen is ineffective and antidotes are required, while CO does respond to oxygen.",
+    "C": "Cyanide leaves the ODC normal; only CO produces a left shift, so both being left-shifted is incorrect.",
+    "D": "The roles are reversed: high-affinity hemoglobin binding is CO, and cytochrome a3 binding in complex IV is cyanide.",
+    "E": "Pulse oximetry cannot detect carboxyhemoglobin, and hyperbaric oxygen is specific to CO, not cyanide."
+  },
+  "educationalObjective": "Cyanide causes a normal ODC with high lactate and is treated with hydroxocobalamin/nitrites/thiosulfate, while CO causes a left shift with carboxyhemoglobin and is treated with oxygen.",
+  "source": "Generated from 16. Respiratory.pdf - Physiology: Cyanide vs carbon monoxide poisoning"
+}
+]

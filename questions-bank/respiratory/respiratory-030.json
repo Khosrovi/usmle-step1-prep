@@ -1,0 +1,289 @@
+[
+{
+  "id": "res-281",
+  "subject": "Respiratory",
+  "major_topic": "Pharmacology",
+  "subtopic": "Pulmonary hypertension drugs",
+  "difficulty": "easy",
+  "vignette": "A 50-year-old woman with pulmonary arterial hypertension is started on bosentan as part of her therapy.",
+  "question": "Which of the following best describes the mechanism of bosentan in pulmonary hypertension?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Competitive antagonism of endothelin-1 receptors, decreasing pulmonary vascular resistance"
+    },
+    {
+      "id": "B",
+      "text": "Inhibition of phosphodiesterase-5, increasing cGMP"
+    },
+    {
+      "id": "C",
+      "text": "Direct prostacyclin (PGI2) vasodilation of pulmonary and systemic arteries"
+    },
+    {
+      "id": "D",
+      "text": "Agonism at endothelin receptors causing vasoconstriction"
+    },
+    {
+      "id": "E",
+      "text": "Inhibition of nitric oxide synthase, reducing cGMP"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Bosentan is an endothelin receptor antagonist that competitively blocks endothelin-1 receptors, leading to decreased pulmonary vascular resistance. Endothelin-1 normally causes vasoconstriction and smooth muscle proliferation through IP3 and calcium signaling, so antagonism is useful in pulmonary hypertension. Bosentan is hepatotoxic, and liver function tests must be monitored. It is distinct from PDE-5 inhibitors and prostacyclin analogs, which act through cGMP and cAMP pathways respectively.",
+  "explanation_incorrect": {
+    "B": "PDE-5 inhibition is the mechanism of sildenafil, not bosentan; it increases cGMP and prolongs nitric-oxide-mediated vasodilation.",
+    "C": "Direct prostacyclin vasodilation is the mechanism of epoprostenol and iloprost, not bosentan.",
+    "D": "Bosentan antagonizes rather than stimulates endothelin receptors; agonism would worsen vasoconstriction.",
+    "E": "Inhibiting nitric oxide synthase would reduce vasodilation and worsen pulmonary hypertension; bosentan does not act on nitric oxide synthase."
+  },
+  "educationalObjective": "Bosentan competitively antagonizes endothelin-1 receptors to lower pulmonary vascular resistance and requires liver function monitoring.",
+  "source": "Generated from 16. Respiratory.pdf - Pharmacology: Pulmonary hypertension drugs"
+},
+{
+  "id": "res-282",
+  "subject": "Respiratory",
+  "major_topic": "Pharmacology",
+  "subtopic": "Pulmonary hypertension drugs",
+  "difficulty": "medium",
+  "vignette": "A 55-year-old man with pulmonary hypertension is started on bosentan. His physician reviews the drug's characteristic toxicity before ordering baseline tests.",
+  "question": "Which laboratory parameter must be monitored because of a characteristic adverse effect of this drug?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Serum creatinine for nephrotoxicity"
+    },
+    {
+      "id": "B",
+      "text": "Thyroid function for hypothyroidism"
+    },
+    {
+      "id": "C",
+      "text": "Serum potassium for hyperkalemia"
+    },
+    {
+      "id": "D",
+      "text": "Liver function tests for hepatotoxicity"
+    },
+    {
+      "id": "E",
+      "text": "Complete blood count for myelosuppression"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Endothelin receptor antagonists such as bosentan are hepatotoxic, so liver function tests must be monitored during therapy. This is the characteristic adverse effect emphasized for this drug class, and dose adjustment or discontinuation may be needed if transaminases rise. Bosentan lowers pulmonary vascular resistance by competitively antagonizing endothelin-1 receptors. Unlike prostacyclin analogs, which cause flushing and jaw pain, or PDE-5 inhibitors, which are contraindicated with nitrates, the defining toxicity of bosentan is hepatic injury.",
+  "explanation_incorrect": {
+    "A": "Nephrotoxicity is not the characteristic adverse effect of bosentan; creatinine monitoring is more relevant to other drug classes.",
+    "B": "Hypothyroidism is associated with drugs such as amiodarone and lithium, not with endothelin receptor antagonists.",
+    "C": "Hyperkalemia is a concern with ACE inhibitors, ARBs, and potassium-sparing diuretics, not with bosentan.",
+    "E": "Myelosuppression is not a known characteristic effect of bosentan."
+  },
+  "educationalObjective": "Bosentan is hepatotoxic and requires monitoring of liver function tests.",
+  "source": "Generated from 16. Respiratory.pdf - Pharmacology: Pulmonary hypertension drugs"
+},
+{
+  "id": "res-283",
+  "subject": "Respiratory",
+  "major_topic": "Pharmacology",
+  "subtopic": "Pulmonary hypertension drugs",
+  "difficulty": "medium",
+  "vignette": "A 60-year-old man with pulmonary hypertension and erectile dysfunction is prescribed sildenafil. He also takes nitroglycerin for angina, and his physician warns him never to combine the two.",
+  "question": "Which of the following best describes sildenafil's mechanism and the reason it cannot be combined with nitroglycerin?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It inhibits endothelin-1 synthesis, and nitrates reverse this effect"
+    },
+    {
+      "id": "B",
+      "text": "It inhibits PDE-5, increasing cGMP and prolonging NO vasodilation; combining with nitrates risks severe hypotension"
+    },
+    {
+      "id": "C",
+      "text": "It is a prostacyclin analog that inhibits platelet aggregation; nitrates increase bleeding risk"
+    },
+    {
+      "id": "D",
+      "text": "It blocks alpha-adrenergic receptors, and nitrates cause reflex tachycardia"
+    },
+    {
+      "id": "E",
+      "text": "It increases cAMP through prostacyclin, whereas nitrates decrease cGMP"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Sildenafil is a PDE-5 inhibitor that prevents degradation of cGMP, thereby prolonging the vasodilatory effect of nitric oxide in the pulmonary vasculature; it is also used to treat erectile dysfunction. Nitrates such as nitroglycerin increase cGMP production through nitric oxide donation, so combining the two causes excessive cGMP accumulation and severe, potentially life-threatening hypotension. This combination is contraindicated. Prostacyclin analogs act through cAMP rather than PDE-5.",
+  "explanation_incorrect": {
+    "A": "Sildenafil does not inhibit endothelin-1 synthesis; that is not the mechanism of PDE-5 inhibitors.",
+    "C": "Sildenafil is not a prostacyclin analog and does not inhibit platelet aggregation; the concern with nitrates is hypotension, not bleeding.",
+    "D": "Sildenafil does not block alpha-adrenergic receptors; the dangerous interaction with nitrates is pharmacodynamic cGMP accumulation.",
+    "E": "Sildenafil acts on the cGMP pathway, not cAMP; prostacyclin increases cAMP, but sildenafil is not a prostacyclin."
+  },
+  "educationalObjective": "PDE-5 inhibitors increase cGMP and are contraindicated with nitrates because of severe hypotension risk.",
+  "source": "Generated from 16. Respiratory.pdf - Pharmacology: Pulmonary hypertension drugs"
+},
+{
+  "id": "res-284",
+  "subject": "Respiratory",
+  "major_topic": "Pharmacology",
+  "subtopic": "Pulmonary hypertension drugs",
+  "difficulty": "hard",
+  "vignette": "A 48-year-old woman with severe pulmonary arterial hypertension is started on epoprostenol. Shortly after the infusion begins, she reports flushing and jaw pain.",
+  "question": "Which of the following best describes epoprostenol's mechanism and these adverse effects?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It is a PDE-5 inhibitor; flushing and jaw pain result from cGMP accumulation"
+    },
+    {
+      "id": "B",
+      "text": "It competitively antagonizes endothelin receptors; jaw pain reflects hepatic injury"
+    },
+    {
+      "id": "C",
+      "text": "It inhibits nitric oxide synthase; flushing is due to rebound vasoconstriction"
+    },
+    {
+      "id": "D",
+      "text": "It blocks alpha-adrenergic receptors; jaw pain results from orthostatic hypotension"
+    },
+    {
+      "id": "E",
+      "text": "It is a prostacyclin (PGI2) analog that directly vasodilates pulmonary and systemic arteries and inhibits platelet aggregation; flushing and jaw pain are characteristic"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Epoprostenol and iloprost are prostacyclin (PGI2) analogs that directly vasodilate pulmonary and systemic arterial beds and inhibit platelet aggregation. Their use in pulmonary hypertension is based on the prostacyclin pathway, in which arachidonic acid is converted to prostacyclin, which raises cAMP to cause vasodilation. Flushing and jaw pain are characteristic adverse effects. This mechanism is distinct from endothelin antagonism with bosentan and PDE-5 inhibition with sildenafil.",
+  "explanation_incorrect": {
+    "A": "Epoprostenol is not a PDE-5 inhibitor; PDE-5 inhibitors increase cGMP, whereas prostacyclin acts through cAMP.",
+    "B": "Endothelin receptor antagonism is bosentan's mechanism; jaw pain from epoprostenol is not due to liver injury.",
+    "C": "Epoprostenol does not inhibit nitric oxide synthase; it supplies prostacyclin and increases cAMP.",
+    "D": "Epoprostenol does not block alpha-adrenergic receptors; its vasodilation is direct through PGI2."
+  },
+  "educationalObjective": "Prostacyclin analogs such as epoprostenol and iloprost directly vasodilate via PGI2 and inhibit platelet aggregation, causing flushing and jaw pain.",
+  "source": "Generated from 16. Respiratory.pdf - Pharmacology: Pulmonary hypertension drugs"
+},
+{
+  "id": "res-285",
+  "subject": "Respiratory",
+  "major_topic": "Pharmacology",
+  "subtopic": "Pulmonary hypertension drugs",
+  "difficulty": "medium",
+  "vignette": "A pharmacology student is reviewing the three vasoactive pathways targeted in pulmonary hypertension: endothelin, nitric oxide, and prostacyclin.",
+  "question": "Which of the following correctly matches a pathway with its signaling mechanism?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Endothelin-1: vasodilation via cGMP"
+    },
+    {
+      "id": "B",
+      "text": "Nitric oxide: vasoconstriction via IP3 and calcium"
+    },
+    {
+      "id": "C",
+      "text": "Prostacyclin: vasodilation via cAMP from arachidonic acid"
+    },
+    {
+      "id": "D",
+      "text": "Endothelin-1: vasodilation via cAMP"
+    },
+    {
+      "id": "E",
+      "text": "Nitric oxide: vasodilation via cAMP from arachidonic acid"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Prostacyclin (PGI2) is derived from arachidonic acid and causes vasodilation by increasing cAMP. In contrast, endothelin-1 causes vasoconstriction and smooth muscle proliferation through IP3 and calcium signaling, while nitric oxide, synthesized from L-arginine, causes vasodilation through cGMP. Therefore only the prostacyclin and cAMP pairing is correct. These pathways correspond to the drug classes: prostacyclin analogs, PDE-5 inhibitors that potentiate nitric oxide and cGMP, and endothelin receptor antagonists.",
+  "explanation_incorrect": {
+    "A": "Endothelin-1 causes vasoconstriction through IP3 and calcium, not vasodilation through cGMP.",
+    "B": "Nitric oxide causes vasodilation through cGMP, not vasoconstriction through IP3 and calcium.",
+    "D": "Endothelin-1 is a vasoconstrictor acting through IP3 and calcium, not a vasodilator acting through cAMP.",
+    "E": "Nitric oxide signals through cGMP derived from L-arginine, not through cAMP from arachidonic acid."
+  },
+  "educationalObjective": "Prostacyclin causes vasodilation via cAMP; endothelin causes vasoconstriction via IP3 and calcium; nitric oxide causes vasodilation via cGMP.",
+  "source": "Generated from 16. Respiratory.pdf - Pharmacology: Pulmonary hypertension drugs"
+},
+{
+  "id": "res-286",
+  "subject": "Respiratory",
+  "major_topic": "Pharmacology",
+  "subtopic": "Pulmonary hypertension drugs",
+  "difficulty": "easy",
+  "vignette": "A 58-year-old man with pulmonary hypertension asks which of his medications works by prolonging the vasodilatory effect of nitric oxide.",
+  "question": "Which drug inhibits PDE-5, thereby increasing cGMP and prolonging nitric-oxide-mediated vasodilation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Sildenafil"
+    },
+    {
+      "id": "B",
+      "text": "Bosentan"
+    },
+    {
+      "id": "C",
+      "text": "Epoprostenol"
+    },
+    {
+      "id": "D",
+      "text": "Iloprost"
+    },
+    {
+      "id": "E",
+      "text": "Nitroglycerin"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Sildenafil is a PDE-5 inhibitor that blocks breakdown of cGMP, prolonging the vasodilatory effect of nitric oxide in the pulmonary vasculature. It is also used to treat erectile dysfunction. Bosentan is an endothelin receptor antagonist, while epoprostenol and iloprost are prostacyclin analogs. Nitroglycerin is a nitrate that donates nitric oxide but is not a PDE-5 inhibitor, and it must not be combined with sildenafil.",
+  "explanation_incorrect": {
+    "B": "Bosentan is an endothelin receptor antagonist that lowers pulmonary vascular resistance, not a PDE-5 inhibitor.",
+    "C": "Epoprostenol is a prostacyclin (PGI2) analog that directly vasodilates through cAMP, not a PDE-5 inhibitor.",
+    "D": "Iloprost is a prostacyclin analog like epoprostenol; it does not inhibit PDE-5.",
+    "E": "Nitroglycerin is a nitrate that donates nitric oxide; it is not a PDE-5 inhibitor and must not be combined with sildenafil."
+  },
+  "educationalObjective": "Sildenafil inhibits PDE-5 to increase cGMP and prolong nitric-oxide-mediated vasodilation.",
+  "source": "Generated from 16. Respiratory.pdf - Pharmacology: Pulmonary hypertension drugs"
+},
+{
+  "id": "res-287",
+  "subject": "Respiratory",
+  "major_topic": "Pharmacology",
+  "subtopic": "Pulmonary hypertension drugs",
+  "difficulty": "hard",
+  "vignette": "A 62-year-old man with pulmonary hypertension also takes isosorbide dinitrate for angina. His physician wants a drug that will not interact with his nitrate and is mindful of the need to monitor for liver injury.",
+  "question": "Which of the following best fits these requirements?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Sildenafil, because it is safe with nitrates and requires liver function monitoring"
+    },
+    {
+      "id": "B",
+      "text": "Epoprostenol, because it is contraindicated with nitrates and causes flushing"
+    },
+    {
+      "id": "C",
+      "text": "Bosentan, because it avoids the nitrate-cGMP interaction but requires monitoring of liver function tests"
+    },
+    {
+      "id": "D",
+      "text": "Sildenafil, because it lowers pulmonary vascular resistance via cGMP and does not affect the liver"
+    },
+    {
+      "id": "E",
+      "text": "Iloprost, because it increases cGMP and is potentiated by nitrates"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Bosentan is an endothelin receptor antagonist that lowers pulmonary vascular resistance by competitively blocking endothelin-1 receptors. Because its mechanism does not involve the cGMP pathway, it does not carry the severe-hypotension interaction with nitrates that PDE-5 inhibitors such as sildenafil do. Bosentan is hepatotoxic, so liver function tests must be monitored, matching the need for hepatic monitoring. Prostacyclin analogs act through cAMP rather than cGMP. Thus bosentan fits both requirements in this patient.",
+  "explanation_incorrect": {
+    "A": "Sildenafil is a PDE-5 inhibitor that is contraindicated with nitrates because of severe hypotension, and hepatotoxicity is not its defining adverse effect.",
+    "B": "Epoprostenol is a prostacyclin analog that is not contraindicated with nitrates; its characteristic effects are flushing and jaw pain, and liver function monitoring is not required.",
+    "D": "Sildenafil lowers pulmonary vascular resistance through cGMP but is contraindicated with nitrates, and it is not primarily associated with liver injury.",
+    "E": "Iloprost is a prostacyclin analog acting through cAMP, not cGMP, and is not potentiated by nitrates in a dangerous cGMP interaction."
+  },
+  "educationalObjective": "Bosentan is safe with nitrates but requires liver function monitoring, whereas PDE-5 inhibitors are contraindicated with nitrates.",
+  "source": "Generated from 16. Respiratory.pdf - Pharmacology: Pulmonary hypertension drugs"
+}
+]

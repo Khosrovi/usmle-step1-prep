@@ -1,0 +1,289 @@
+[
+{
+  "id": "res-197",
+  "subject": "Respiratory",
+  "major_topic": "Pathology",
+  "subtopic": "Acute respiratory distress syndrome",
+  "difficulty": "medium",
+  "vignette": "A 54-year-old woman is admitted to the ICU with septic shock from a perforated appendix. Over the next 48 hours she develops progressive dyspnea and hypoxemia. Chest radiograph shows diffuse bilateral opacities, and a lung biopsy demonstrates intra-alveolar hyaline membranes. Her pulmonary capillary wedge pressure is normal.",
+  "question": "Which of the following sequences best describes the pathogenesis of her pulmonary findings?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Increased pulmonary capillary hydrostatic pressure → transudation of protein-poor fluid into alveoli → hyaline membrane formation"
+    },
+    {
+      "id": "B",
+      "text": "Primary surfactant deficiency → increased alveolar surface tension → diffuse collapse without an inflammatory exudate"
+    },
+    {
+      "id": "C",
+      "text": "Alveolar insult → pro-inflammatory cytokine release → neutrophil recruitment and toxic mediator release → capillary endothelial injury with increased permeability → protein-rich alveolar edema and hyaline membranes"
+    },
+    {
+      "id": "D",
+      "text": "Bronchial artery vasoconstriction → ischemic necrosis of alveolar walls → cavitation and pneumatocele formation"
+    },
+    {
+      "id": "E",
+      "text": "IgE-mediated mast cell degranulation → bronchoconstriction and mucus plugging → widespread atelectasis"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "ARDS begins with an alveolar insult, here sepsis, that triggers release of pro-inflammatory cytokines. These recruit and activate neutrophils, which discharge toxic mediators such as reactive oxygen species and proteases. The mediators damage the capillary endothelium and increase vessel permeability, so protein-rich fluid leaks into the alveoli and organizes into hyaline membranes. The result is noncardiogenic pulmonary edema with a normal pulmonary capillary wedge pressure, reduced compliance, and hypoxemia from shunting.",
+  "explanation_incorrect": {
+    "A": "This describes cardiogenic pulmonary edema from elevated hydrostatic pressure (eg, heart failure), which is transudative and has an elevated wedge pressure; ARDS is a permeability injury with normal pressures.",
+    "B": "This is neonatal respiratory distress syndrome, a primary surfactant deficiency; in ARDS, loss of surfactant is only a contributing factor and an inflammatory exudate with hyaline membranes is present.",
+    "D": "Bronchial artery ischemia with necrosis and cavitation is not a mechanism of ARDS; the injury is diffuse alveolar-capillary, not cavitary.",
+    "E": "This is the mechanism of an asthmatic exacerbation, which causes reversible bronchoconstriction and mucus plugging rather than permeability pulmonary edema."
+  },
+  "educationalObjective": "ARDS is a permeability pulmonary edema caused by cytokine-driven neutrophil injury to the alveolar-capillary membrane, producing protein-rich edema and hyaline membranes with normal wedge pressure.",
+  "source": "Generated from 16. Respiratory.pdf - Pathology: Acute respiratory distress syndrome"
+},
+{
+  "id": "res-198",
+  "subject": "Respiratory",
+  "major_topic": "Pathology",
+  "subtopic": "Acute respiratory distress syndrome",
+  "difficulty": "easy",
+  "vignette": "A 68-year-old man develops acute hypoxemic respiratory failure with diffuse bilateral opacities 2 days after admission for gram-negative bacteremia. No evidence of heart failure is found. The resident is asked which underlying condition most commonly precipitates this pattern of lung injury.",
+  "question": "Which of the following is the most common cause of the syndrome depicted here?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Sepsis"
+    },
+    {
+      "id": "B",
+      "text": "Acute pancreatitis"
+    },
+    {
+      "id": "C",
+      "text": "Near-drowning"
+    },
+    {
+      "id": "D",
+      "text": "Severe burns"
+    },
+    {
+      "id": "E",
+      "text": "Aspiration pneumonia"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "ARDS most commonly arises in the setting of sepsis, which accounts for the largest proportion of cases. Sepsis provokes a systemic inflammatory response with cytokine release and neutrophil activation that injures the pulmonary capillary endothelium. The other listed conditions are all recognized triggers of ARDS, but each is less common than sepsis. Identifying the underlying trigger is essential because treatment is directed at the precipitating cause.",
+  "explanation_incorrect": {
+    "B": "Acute pancreatitis is a well-recognized trigger of ARDS through systemic inflammation, but it is considerably less common than sepsis.",
+    "C": "Near-drowning can produce ARDS, in part through surfactant washout, yet it represents a small fraction of cases compared with sepsis.",
+    "D": "Severe burns can precipitate ARDS via a systemic inflammatory response, but they are a less frequent cause overall than sepsis.",
+    "E": "Aspiration pneumonia is a classic cause of ARDS, but it is not the most common trigger; sepsis predominates."
+  },
+  "educationalObjective": "Sepsis is the single most common precipitant of ARDS, although pancreatitis, aspiration, burns, trauma, and drowning can also cause it.",
+  "source": "Generated from 16. Respiratory.pdf - Pathology: Acute respiratory distress syndrome"
+},
+{
+  "id": "res-199",
+  "subject": "Respiratory",
+  "major_topic": "Pathology",
+  "subtopic": "Acute respiratory distress syndrome",
+  "difficulty": "hard",
+  "vignette": "A 60-year-old woman presents with severe dyspnea 3 days after a documented aspirating event. Chest radiograph shows bilateral opacities. Arterial blood gas on 60% oxygen shows PaO2 84 mm Hg. Her pulmonary capillary wedge pressure is 12 mm Hg, and echocardiography shows normal left ventricular systolic function and no volume overload.",
+  "question": "Which of the following findings, together with those above, is required to satisfy diagnostic criteria for this patient's condition?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A pulmonary capillary wedge pressure greater than 18 mm Hg confirming elevated filling pressures"
+    },
+    {
+      "id": "B",
+      "text": "Evidence of left ventricular systolic dysfunction on echocardiography"
+    },
+    {
+      "id": "C",
+      "text": "A PaO2/FIO2 ratio greater than 300 with unilateral opacities"
+    },
+    {
+      "id": "D",
+      "text": "A PaO2/FIO2 ratio below 300 with bilateral opacities not fully explained by heart failure or fluid overload"
+    },
+    {
+      "id": "E",
+      "text": "Onset of respiratory symptoms more than 2 weeks after the inciting insult"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "ARDS is a diagnosis of exclusion defined by bilateral opacities on chest imaging, respiratory failure within 1 week of a known clinical insult, and a PaO2/FIO2 ratio below 300. Here the ratio is 84 divided by 0.60, or about 140, which is well below the threshold. The hypoxemia reflects increased intrapulmonary shunting and a diffusion abnormality. Critically, the opacities must not be attributable to heart failure or fluid overload, and the wedge pressure is normal because the edema is noncardiogenic. The normal ventricular function and recent aspiration support the diagnosis.",
+  "explanation_incorrect": {
+    "A": "ARDS has a normal (or low) wedge pressure because the edema is due to increased permeability, not elevated hydrostatic filling pressure; a high wedge pressure suggests cardiogenic edema.",
+    "B": "Left ventricular dysfunction would point to cardiogenic pulmonary edema; ARDS is a diagnosis of exclusion in which cardiac causes must be ruled out.",
+    "C": "The criteria require a PaO2/FIO2 ratio below 300 and bilateral, not unilateral, opacities; this option states the opposite.",
+    "E": "The diagnostic criteria specify respiratory failure within 1 week of the insult, not more than 2 weeks afterward."
+  },
+  "educationalObjective": "The diagnosis of ARDS requires bilateral opacities, onset within 1 week of an insult, PaO2/FIO2 below 300, and exclusion of heart failure or fluid overload with a normal wedge pressure.",
+  "source": "Generated from 16. Respiratory.pdf - Pathology: Acute respiratory distress syndrome"
+},
+{
+  "id": "res-200",
+  "subject": "Respiratory",
+  "major_topic": "Pathology",
+  "subtopic": "Acute respiratory distress syndrome",
+  "difficulty": "medium",
+  "vignette": "A 45-year-old man with ARDS after severe trauma is intubated and mechanically ventilated. His chest radiograph shows diffuse alveolar filling, and his compliance is markedly reduced. Which of the following changes in respiratory mechanics and gas exchange is expected in this patient?",
+  "question": "Which of the following best characterizes the physiologic consequences of his disease?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Increased lung compliance from destruction of alveolar walls and loss of elastic recoil"
+    },
+    {
+      "id": "B",
+      "text": "Decreased lung compliance with intrapulmonary shunting, V/Q mismatch, and increased pulmonary vascular resistance"
+    },
+    {
+      "id": "C",
+      "text": "Decreased pulmonary vascular resistance from widespread pulmonary vasodilation"
+    },
+    {
+      "id": "D",
+      "text": "Increased functional residual capacity from air trapping and dynamic hyperinflation"
+    },
+    {
+      "id": "E",
+      "text": "Normal gas exchange with an isolated increase in physiologic dead space"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "In ARDS, protein-rich edema fluid and hyaline membranes flood and stiffen alveoli, sharply reducing lung compliance and leaving only a small aerated 'baby lung.' The loss of ventilated but perfused units creates a right-to-left intrapulmonary shunt and V/Q mismatch, producing hypoxemia that responds poorly to oxygen. Hypoxic vasoconstriction follows, raising pulmonary vascular resistance and potentially causing pulmonary hypertension. Impaired gas exchange and reduced compliance are the cardinal physiologic consequences.",
+  "explanation_incorrect": {
+    "A": "Increased compliance with loss of elastic recoil is the hallmark of emphysema, not ARDS, in which flooded stiff alveoli lower compliance.",
+    "C": "Hypoxic vasoconstriction raises rather than lowers pulmonary vascular resistance in ARDS; widespread vasodilation would worsen shunt.",
+    "D": "Air trapping with increased residual capacity is an obstructive phenomenon; ARDS reduces aerated lung volume and functional residual capacity.",
+    "E": "Gas exchange is markedly impaired in ARDS due to shunt and diffusion abnormalities, and dead space alone does not explain the hypoxemia."
+  },
+  "educationalObjective": "ARDS causes decreased compliance, intrapulmonary shunting with V/Q mismatch, hypoxemia, and increased pulmonary vascular resistance from hypoxic vasoconstriction.",
+  "source": "Generated from 16. Respiratory.pdf - Pathology: Acute respiratory distress syndrome"
+},
+{
+  "id": "res-201",
+  "subject": "Respiratory",
+  "major_topic": "Pathology",
+  "subtopic": "Acute respiratory distress syndrome",
+  "difficulty": "easy",
+  "vignette": "A 3-year-old child who nearly drowned is at high risk for ARDS. In addition to inflammatory capillary injury, loss of surfactant is thought to contribute to alveolar collapse in this setting. The ICU team wants to choose a ventilator setting that keeps alveoli open during expiration and counteracts this collapse.",
+  "question": "Which of the following interventions directly accomplishes this goal?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Increasing the tidal volume to 15 mL/kg to overdistend collapsed alveoli"
+    },
+    {
+      "id": "B",
+      "text": "Administering 100% oxygen indefinitely to raise alveolar oxygen tension"
+    },
+    {
+      "id": "C",
+      "text": "Setting PEEP to 0 cm H2O to avoid positive pressure"
+    },
+    {
+      "id": "D",
+      "text": "Aggressive diuresis to lower pulmonary capillary volume"
+    },
+    {
+      "id": "E",
+      "text": "Adding positive end-expiratory pressure (PEEP)"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Loss of surfactant raises alveolar surface tension and predisposes to alveolar collapse, particularly at end-expiration. PEEP applies positive pressure at the end of expiration, splinting alveoli open, recruiting collapsed units, and improving oxygenation. ARDS ventilation also uses low tidal volumes to avoid ventilator-induced injury from overdistension. Diuresis is useful for hydrostatic cardiogenic edema, not the permeability edema of ARDS, in which wedge pressure is normal.",
+  "explanation_incorrect": {
+    "A": "Large tidal volumes cause volutrauma and worsen lung injury; lung-protective ventilation uses low, not high, tidal volumes.",
+    "B": "A high FIO2 does not splint alveoli open and prolonged exposure risks oxygen toxicity; it is not the intervention that counteracts surfactant loss.",
+    "C": "Eliminating PEEP would allow alveoli to collapse at end-expiration and worsen atelectasis and shunting.",
+    "D": "Diuresis reduces hydrostatic pressure and treats cardiogenic edema; ARDS edema is noncardiogenic with a normal wedge pressure."
+  },
+  "educationalObjective": "Loss of surfactant promotes alveolar collapse in ARDS, and PEEP counteracts this by keeping alveoli open at end-expiration; tidal volumes should be kept low.",
+  "source": "Generated from 16. Respiratory.pdf - Pathology: Acute respiratory distress syndrome"
+},
+{
+  "id": "res-202",
+  "subject": "Respiratory",
+  "major_topic": "Pathology",
+  "subtopic": "Acute respiratory distress syndrome",
+  "difficulty": "medium",
+  "vignette": "A medical student is reviewing the triggers of acute respiratory distress syndrome and asks the attending which conditions can produce this form of noncardiogenic pulmonary edema.",
+  "question": "All of the following can cause ARDS EXCEPT:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Sepsis"
+    },
+    {
+      "id": "B",
+      "text": "Acute myocardial infarction with cardiogenic pulmonary edema"
+    },
+    {
+      "id": "C",
+      "text": "Aspiration pneumonia"
+    },
+    {
+      "id": "D",
+      "text": "Acute pancreatitis"
+    },
+    {
+      "id": "E",
+      "text": "Near-drowning"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Cardiogenic pulmonary edema from acute myocardial infarction results from elevated pulmonary capillary hydrostatic pressure rather than the permeability injury that defines ARDS. Because the wedge pressure is elevated, it is excluded from the diagnosis of ARDS. In contrast, sepsis, aspiration pneumonia, pancreatitis, and drowning all produce the inflammatory alveolar insult or surfactant disruption that triggers ARDS. Distinguishing cardiogenic from noncardiogenic edema is essential because their management differs fundamentally.",
+  "explanation_incorrect": {
+    "A": "Sepsis is the most common cause of ARDS, acting through systemic cytokine release and neutrophil-mediated endothelial injury.",
+    "C": "Aspiration pneumonia is a classic cause of ARDS because aspirated material injures the alveolar-capillary membrane.",
+    "D": "Acute pancreatitis is a recognized trigger of ARDS through release of inflammatory mediators into the circulation.",
+    "E": "Near-drowning can cause ARDS, partly by washing out surfactant and producing diffuse alveolar injury."
+  },
+  "educationalObjective": "Cardiogenic edema from myocardial infarction is hydrostatic with elevated wedge pressure and is not ARDS, whereas sepsis, aspiration, pancreatitis, trauma, burns, and drowning can precipitate ARDS.",
+  "source": "Generated from 16. Respiratory.pdf - Pathology: Acute respiratory distress syndrome"
+},
+{
+  "id": "res-203",
+  "subject": "Respiratory",
+  "major_topic": "Pathology",
+  "subtopic": "Acute respiratory distress syndrome",
+  "difficulty": "medium",
+  "vignette": "A 55-year-old man with severe ARDS secondary to aspiration is intubated in the ICU. His team is planning the ventilator strategy and has identified the underlying cause for specific treatment. Which approach to mechanical ventilation is most appropriate?",
+  "question": "Which of the following ventilator strategies is recommended for this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "High tidal volume ventilation to maximally recruit collapsed alveoli"
+    },
+    {
+      "id": "B",
+      "text": "Low PEEP with large tidal volumes to improve chest wall compliance"
+    },
+    {
+      "id": "C",
+      "text": "Low tidal volume ventilation with sufficient PEEP, treating the underlying cause"
+    },
+    {
+      "id": "D",
+      "text": "Avoiding all permissive hypercapnia at the cost of high airway pressures"
+    },
+    {
+      "id": "E",
+      "text": "Immediate extracorporeal membrane oxygenation for every patient with ARDS"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Management of ARDS centers on treating the underlying cause and using lung-protective mechanical ventilation. Low tidal volumes, roughly 6 mL/kg of predicted body weight, limit ventilator-induced lung injury from overdistension. Adequate PEEP keeps alveoli open during expiration, recruiting collapsed lung and improving oxygenation. Permissive hypercapnia is accepted as a consequence of low tidal volume ventilation. Extracorporeal membrane oxygenation is reserved for severe, refractory hypoxemia rather than routine use.",
+  "explanation_incorrect": {
+    "A": "High tidal volumes overdistend the small aerated lung and cause volutrauma, increasing mortality rather than improving outcomes.",
+    "B": "Large tidal volumes are injurious, and low PEEP permits derecruitment and collapse of alveoli at end-expiration.",
+    "D": "Permissive hypercapnia is acceptable and often necessary to maintain low tidal volumes and avoid injurious airway pressures.",
+    "E": "ECMO is a rescue therapy for refractory hypoxemia, not a first-line intervention for all patients with ARDS."
+  },
+  "educationalObjective": "The mainstay of ARDS treatment is correcting the cause plus lung-protective ventilation with low tidal volumes and adequate PEEP, accepting permissive hypercapnia; ECMO is reserved for refractory cases.",
+  "source": "Generated from 16. Respiratory.pdf - Pathology: Acute respiratory distress syndrome"
+}
+]

@@ -1,0 +1,371 @@
+[
+{
+  "id": "res-254",
+  "subject": "Respiratory",
+  "major_topic": "Pharmacology",
+  "subtopic": "Asthma drugs: bronchodilators and anti-inflammatory agents",
+  "difficulty": "easy",
+  "vignette": "A 22-year-old with intermittent asthma uses an inhaler for sudden wheezing and dyspnea during exercise. Within minutes, the wheezing improves. The drug relaxes bronchial smooth muscle within minutes of inhalation.",
+  "question": "Which of the following best describes the mechanism by which this inhaled drug produces bronchodilation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Inhibition of phosphodiesterase, preventing cAMP breakdown"
+    },
+    {
+      "id": "B",
+      "text": "Competitive blockade of bronchial muscarinic receptors"
+    },
+    {
+      "id": "C",
+      "text": "Stimulation of β2-adrenergic receptors, increasing intracellular cAMP"
+    },
+    {
+      "id": "D",
+      "text": "Blockade of the CysLT1 leukotriene receptor"
+    },
+    {
+      "id": "E",
+      "text": "Inhibition of 5-lipoxygenase"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "The drug is albuterol, a short-acting β2-adrenergic agonist (SABA). Binding β2 receptors on bronchial smooth muscle activates Gs and adenylyl cyclase, raising intracellular cAMP, which relaxes smooth muscle and relieves acute bronchoconstriction. Albuterol is specifically indicated for acute symptoms. Clinical adverse effects include tremor and arrhythmia from systemic β2 stimulation.",
+  "explanation_incorrect": {
+    "A": "Phosphodiesterase inhibition raises cAMP by decreasing its hydrolysis; this is the mechanism of theophylline and roflumilast, not of β2 agonists.",
+    "B": "Competitive muscarinic blockade prevents parasympathetic-mediated bronchoconstriction; this is how tiotropium and ipratropium work.",
+    "D": "CysLT1 receptor blockade is the mechanism of the antileukotrienes montelukast and zafirlukast, used for aspirin- and exercise-induced asthma.",
+    "E": "5-lipoxygenase inhibition reduces conversion of arachidonic acid to leukotrienes; this is zileuton, not a β2 agonist."
+  },
+  "educationalObjective": "Inhaled β2 agonists such as albuterol relax bronchial smooth muscle by increasing cAMP and are the mainstay of acute asthma symptom relief.",
+  "source": "Generated from 16. Respiratory.pdf - Pharmacology: Asthma drugs: bronchodilators and anti-inflammatory agents"
+},
+{
+  "id": "res-255",
+  "subject": "Respiratory",
+  "major_topic": "Pharmacology",
+  "subtopic": "Asthma drugs: bronchodilators and anti-inflammatory agents",
+  "difficulty": "easy",
+  "vignette": "A 19-year-old with intermittent asthma carries a rescue inhaler for sudden attacks of wheezing. Her physician emphasizes that this medication is for rapid relief of acute symptoms rather than daily controller therapy. She is also prescribed a separate once-daily controller medication.",
+  "question": "Which of the following is the most appropriate agent for immediate relief of an acute asthmatic symptom?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Albuterol"
+    },
+    {
+      "id": "B",
+      "text": "Salmeterol"
+    },
+    {
+      "id": "C",
+      "text": "Fluticasone"
+    },
+    {
+      "id": "D",
+      "text": "Tiotropium"
+    },
+    {
+      "id": "E",
+      "text": "Montelukast"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Albuterol is a short-acting inhaled β2 agonist (SABA) that relaxes bronchial smooth muscle within minutes, making it the drug of choice for acute symptom relief. It increases cAMP in airway smooth muscle. Salmeterol and formoterol are long-acting β2 agonists (LABAs) used for maintenance, not rescue. Tremor and arrhythmia are recognized adverse effects of β2 agonists.",
+  "explanation_incorrect": {
+    "B": "Salmeterol is a long-acting β2 agonist intended for maintenance therapy, not for rapid relief of an acute attack.",
+    "C": "Fluticasone is an inhaled glucocorticoid used as first-line chronic controller therapy; it does not provide immediate bronchodilation.",
+    "D": "Tiotropium is a long-acting muscarinic antagonist used mainly in COPD maintenance, not as a rescue inhaler.",
+    "E": "Montelukast is an oral antileukotriene for chronic control, especially aspirin- and exercise-induced asthma, and is not used for acute relief."
+  },
+  "educationalObjective": "Albuterol (a SABA) is the rescue drug for acute asthma symptoms, whereas LABAs, inhaled steroids, and antileukotrienes are controllers.",
+  "source": "Generated from 16. Respiratory.pdf - Pharmacology: Asthma drugs: bronchodilators and anti-inflammatory agents"
+},
+{
+  "id": "res-256",
+  "subject": "Respiratory",
+  "major_topic": "Pharmacology",
+  "subtopic": "Asthma drugs: bronchodilators and anti-inflammatory agents",
+  "difficulty": "medium",
+  "vignette": "A 34-year-old is diagnosed with persistent asthma and needs daily controller therapy. His physician starts an inhaled medication that reduces airway inflammation and is considered first-line for chronic asthma. Laboratory studies show reduced levels of TNF-α and other inflammatory cytokines in airway secretions.",
+  "question": "Which of the following best describes the mechanism of this first-line chronic asthma medication?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Preventing mast cell degranulation"
+    },
+    {
+      "id": "B",
+      "text": "Inhibiting synthesis of virtually all cytokines by inactivating NF-κB"
+    },
+    {
+      "id": "C",
+      "text": "Increasing cAMP through β2 receptor stimulation"
+    },
+    {
+      "id": "D",
+      "text": "Blocking CysLT1 leukotriene receptors"
+    },
+    {
+      "id": "E",
+      "text": "Binding unbound serum IgE"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Inhaled or oral glucocorticoids such as fluticasone and budesonide are first-line therapy for chronic asthma. They inhibit synthesis of virtually all cytokines and inactivate NF-κB, the transcription factor that induces production of TNF-α and other inflammatory agents. This suppresses the chronic airway inflammation underlying asthma. They are controller medications, not rapid bronchodilators.",
+  "explanation_incorrect": {
+    "A": "Preventing mast cell degranulation is the mechanism of cromolyn, a rarely used chromone, not of glucocorticoids.",
+    "C": "Increasing cAMP via β2 receptor stimulation is the mechanism of albuterol, salmeterol, and formoterol.",
+    "D": "Blocking CysLT1 receptors is the mechanism of the antileukotrienes montelukast and zafirlukast.",
+    "E": "Binding unbound serum IgE is the mechanism of the anti-IgE monoclonal antibody omalizumab."
+  },
+  "educationalObjective": "Inhaled glucocorticoids are first-line for chronic asthma and work by broadly suppressing cytokine synthesis through inactivation of NF-κB.",
+  "source": "Generated from 16. Respiratory.pdf - Pharmacology: Asthma drugs: bronchodilators and anti-inflammatory agents"
+},
+{
+  "id": "res-257",
+  "subject": "Respiratory",
+  "major_topic": "Pharmacology",
+  "subtopic": "Asthma drugs: bronchodilators and anti-inflammatory agents",
+  "difficulty": "medium",
+  "vignette": "A 26-year-old uses an inhaled glucocorticoid twice daily for persistent asthma. At a follow-up visit she has white, curd-like plaques on the tongue and buccal mucosa that scrape off to reveal erythema. Her physician wants to prevent this local complication without stopping her controller therapy.",
+  "question": "Which of the following interventions is most appropriate to prevent this complication of inhaled glucocorticoid therapy?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Switching to oral theophylline"
+    },
+    {
+      "id": "B",
+      "text": "Adding oral montelukast"
+    },
+    {
+      "id": "C",
+      "text": "Substituting an inhaled β2 agonist for the steroid"
+    },
+    {
+      "id": "D",
+      "text": "Using a spacer and rinsing the mouth after each inhalation"
+    },
+    {
+      "id": "E",
+      "text": "Discontinuing all anti-inflammatory therapy"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "The patient has oral candidiasis (thrush), a local adverse effect of inhaled glucocorticoid deposition in the oropharynx. Using a spacer reduces oropharyngeal deposition, and rinsing the mouth after each use removes residual drug, preventing local immunosuppression and fungal overgrowth. Inhaled glucocorticoids should remain the first-line chronic controller. The thrush is managed locally rather than by abandoning anti-inflammatory therapy.",
+  "explanation_incorrect": {
+    "A": "Theophylline has a narrow therapeutic index and is not used to prevent oropharyngeal candidiasis.",
+    "B": "Montelukast does not reduce oropharyngeal steroid deposition and would not prevent thrush.",
+    "C": "Substituting a β2 agonist would remove the anti-inflammatory controller and does not address local steroid deposition.",
+    "E": "Stopping all anti-inflammatory therapy would worsen chronic asthma; thrush is prevented with a spacer and rinsing."
+  },
+  "educationalObjective": "A spacer and mouth rinsing prevent oral thrush, a local side effect of inhaled glucocorticoids that should not prompt stopping first-line controller therapy.",
+  "source": "Generated from 16. Respiratory.pdf - Pharmacology: Asthma drugs: bronchodilators and anti-inflammatory agents"
+},
+{
+  "id": "res-258",
+  "subject": "Respiratory",
+  "major_topic": "Pharmacology",
+  "subtopic": "Asthma drugs: bronchodilators and anti-inflammatory agents",
+  "difficulty": "medium",
+  "vignette": "A 62-year-old with COPD uses a once-daily inhaled medication that produces sustained bronchodilation. The drug competitively blocks receptors on airway smooth muscle, preventing the bronchoconstriction normally driven by vagal (parasympathetic) tone. It is also used in asthma.",
+  "question": "Which of the following drugs acts by this mechanism?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Albuterol"
+    },
+    {
+      "id": "B",
+      "text": "Fluticasone"
+    },
+    {
+      "id": "C",
+      "text": "Montelukast"
+    },
+    {
+      "id": "D",
+      "text": "Theophylline"
+    },
+    {
+      "id": "E",
+      "text": "Tiotropium"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Tiotropium is a long-acting muscarinic antagonist that competitively blocks muscarinic receptors, preventing parasympathetic (vagal)-mediated bronchoconstriction. Because bronchoconstriction is driven in part by parasympathetic tone, blocking these receptors produces bronchodilation. Tiotropium is long acting and used in COPD; ipratropium is the short-acting related agent, also used in COPD.",
+  "explanation_incorrect": {
+    "A": "Albuterol is a β2 agonist that relaxes smooth muscle by increasing cAMP, not by blocking muscarinic receptors.",
+    "B": "Fluticasone is an inhaled glucocorticoid that suppresses cytokine synthesis via NF-κB inactivation.",
+    "C": "Montelukast blocks CysLT1 leukotriene receptors rather than muscarinic receptors.",
+    "D": "Theophylline inhibits phosphodiesterase and blocks adenosine, not muscarinic receptors."
+  },
+  "educationalObjective": "Tiotropium (and ipratropium) prevent parasympathetic bronchoconstriction by competitively blocking airway muscarinic receptors; tiotropium is long acting.",
+  "source": "Generated from 16. Respiratory.pdf - Pharmacology: Asthma drugs: bronchodilators and anti-inflammatory agents"
+},
+{
+  "id": "res-259",
+  "subject": "Respiratory",
+  "major_topic": "Pharmacology",
+  "subtopic": "Asthma drugs: bronchodilators and anti-inflammatory agents",
+  "difficulty": "medium",
+  "vignette": "A 41-year-old with asthma notices wheezing consistently after taking aspirin and after running. Her physician prescribes an oral agent that blocks the receptor for cysteinyl leukotrienes, mediators that promote mucus secretion, plasma exudation, and eosinophil recruitment.",
+  "question": "Which of the following drugs is most appropriate for this patient's aspirin-induced and exercise-induced asthma?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Salmeterol"
+    },
+    {
+      "id": "B",
+      "text": "Montelukast"
+    },
+    {
+      "id": "C",
+      "text": "Ipratropium"
+    },
+    {
+      "id": "D",
+      "text": "Cromolyn"
+    },
+    {
+      "id": "E",
+      "text": "Roflumilast"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Montelukast (and zafirlukast) are antileukotrienes that block the CysLT1 receptor, preventing leukotriene-mediated bronchoconstriction, mucus secretion, plasma exudation, and eosinophil recruitment. They are especially effective for aspirin-induced and exercise-induced asthma. They are oral controller agents taken chronically rather than rescue drugs.",
+  "explanation_incorrect": {
+    "A": "Salmeterol is a long-acting β2 agonist for maintenance bronchodilation, not specifically indicated for aspirin-induced asthma.",
+    "C": "Ipratropium is a muscarinic antagonist that blocks parasympathetic tone, not leukotriene receptors.",
+    "D": "Cromolyn prevents mast cell degranulation and is now rarely used; it does not block CysLT1.",
+    "E": "Roflumilast is a PDE-4 inhibitor used in COPD to reduce exacerbations, not for aspirin-induced asthma."
+  },
+  "educationalObjective": "Montelukast and zafirlukast block CysLT1 receptors and are particularly useful for aspirin-induced and exercise-induced asthma.",
+  "source": "Generated from 16. Respiratory.pdf - Pharmacology: Asthma drugs: bronchodilators and anti-inflammatory agents"
+},
+{
+  "id": "res-260",
+  "subject": "Respiratory",
+  "major_topic": "Pharmacology",
+  "subtopic": "Asthma drugs: bronchodilators and anti-inflammatory agents",
+  "difficulty": "hard",
+  "vignette": "A 35-year-old with aspirin-exacerbated respiratory disease is started on an oral antileukotriene. Follow-up liver function tests show elevated transaminases, and the drug is known to carry a risk of hepatotoxicity. It reduces leukotriene production by blocking the enzyme that converts arachidonic acid into leukotrienes.",
+  "question": "Which of the following best describes the mechanism of this drug?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Decreasing conversion of arachidonic acid to leukotrienes"
+    },
+    {
+      "id": "B",
+      "text": "Increasing cAMP by inhibiting phosphodiesterase"
+    },
+    {
+      "id": "C",
+      "text": "Preventing unbound IgE from binding FcεRI"
+    },
+    {
+      "id": "D",
+      "text": "Preventing mast cell degranulation"
+    },
+    {
+      "id": "E",
+      "text": "Antagonizing IL-5 receptors on eosinophils"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "The drug is zileuton, a 5-lipoxygenase inhibitor. By inhibiting 5-lipoxygenase, it decreases conversion of arachidonic acid to leukotrienes, reducing leukotriene-mediated bronchoconstriction and inflammation. Zileuton is associated with hepatotoxicity, so liver function must be monitored. Like other antileukotrienes, it is useful in aspirin-induced and exercise-induced asthma.",
+  "explanation_incorrect": {
+    "B": "Inhibiting phosphodiesterase to increase cAMP is the mechanism of theophylline and roflumilast, not zileuton.",
+    "C": "Preventing unbound IgE from binding FcεRI is the mechanism of the anti-IgE antibody omalizumab.",
+    "D": "Preventing mast cell degranulation is the mechanism of cromolyn, a chromone.",
+    "E": "Antagonizing IL-5 receptors on eosinophils is the mechanism of benralizumab (anti-IL-5Rα)."
+  },
+  "educationalObjective": "Zileuton inhibits 5-lipoxygenase, decreasing arachidonic acid conversion to leukotrienes, and can cause hepatotoxicity.",
+  "source": "Generated from 16. Respiratory.pdf - Pharmacology: Asthma drugs: bronchodilators and anti-inflammatory agents"
+},
+{
+  "id": "res-261",
+  "subject": "Respiratory",
+  "major_topic": "Pharmacology",
+  "subtopic": "Asthma drugs: bronchodilators and anti-inflammatory agents",
+  "difficulty": "hard",
+  "vignette": "A 58-year-old with chronic asthma is prescribed a methylxanthine. He develops nausea, palpitations, and tremor at therapeutic doses, and his physician notes the drug has a narrow therapeutic index with risks of cardiotoxicity and neurotoxicity. It is metabolized by cytochrome P-450 and also blocks the actions of adenosine.",
+  "question": "Which of the following best describes the bronchodilating mechanism of this drug?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Stimulating β2 receptors to increase intracellular cAMP"
+    },
+    {
+      "id": "B",
+      "text": "Blocking bronchial muscarinic receptors"
+    },
+    {
+      "id": "C",
+      "text": "Inhibiting phosphodiesterase, decreasing cAMP hydrolysis and blocking adenosine"
+    },
+    {
+      "id": "D",
+      "text": "Inhibiting 5-lipoxygenase"
+    },
+    {
+      "id": "E",
+      "text": "Inactivating NF-κB"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "The drug is theophylline. It likely produces bronchodilation by inhibiting phosphodiesterase, which raises cAMP levels by decreasing cAMP hydrolysis; it also blocks the actions of adenosine. Its use is limited by a narrow therapeutic index with cardiotoxicity and neurotoxicity, and it is metabolized by cytochrome P-450. These features distinguish it from β2 agonists and other controller agents.",
+  "explanation_incorrect": {
+    "A": "β2 receptor stimulation increasing cAMP is the mechanism of albuterol, salmeterol, and formoterol.",
+    "B": "Muscarinic receptor blockade is the mechanism of the antimuscarinics tiotropium and ipratropium.",
+    "D": "5-lipoxygenase inhibition is the mechanism of zileuton, which reduces leukotriene synthesis.",
+    "E": "Inactivation of NF-κB with broad cytokine suppression is the mechanism of glucocorticoids."
+  },
+  "educationalObjective": "Theophylline is a methylxanthine that inhibits phosphodiesterase (raising cAMP), blocks adenosine, and has a narrow therapeutic index.",
+  "source": "Generated from 16. Respiratory.pdf - Pharmacology: Asthma drugs: bronchodilators and anti-inflammatory agents"
+},
+{
+  "id": "res-262",
+  "subject": "Respiratory",
+  "major_topic": "Pharmacology",
+  "subtopic": "Asthma drugs: bronchodilators and anti-inflammatory agents",
+  "difficulty": "medium",
+  "vignette": "A 65-year-old with severe COPD has two exacerbations per year despite inhaled bronchodilators. His physician adds an oral medication that selectively inhibits phosphodiesterase-4, increasing cAMP in airway cells. The goal is to decrease airway inflammation and reduce the frequency of exacerbations.",
+  "question": "Which of the following drugs acts by this mechanism in COPD?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Tiotropium"
+    },
+    {
+      "id": "B",
+      "text": "Salmeterol"
+    },
+    {
+      "id": "C",
+      "text": "Zileuton"
+    },
+    {
+      "id": "D",
+      "text": "Roflumilast"
+    },
+    {
+      "id": "E",
+      "text": "Omalizumab"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Roflumilast is a phosphodiesterase-4 (PDE-4) inhibitor. By inhibiting PDE-4 it increases cAMP, producing bronchodilation and decreasing airway inflammation. It is used in COPD to reduce exacerbations. This distinguishes it from muscarinic antagonists, β2 agonists, and antileukotrienes.",
+  "explanation_incorrect": {
+    "A": "Tiotropium is a long-acting muscarinic antagonist, not a PDE-4 inhibitor.",
+    "B": "Salmeterol is a long-acting β2 agonist that raises cAMP by receptor stimulation, not by PDE-4 inhibition.",
+    "C": "Zileuton inhibits 5-lipoxygenase and reduces leukotriene production.",
+    "E": "Omalizumab is an anti-IgE monoclonal antibody used in allergic asthma, not COPD."
+  },
+  "educationalObjective": "Roflumilast inhibits PDE-4 to increase cAMP, thereby reducing airway inflammation and COPD exacerbations.",
+  "source": "Generated from 16. Respiratory.pdf - Pharmacology: Asthma drugs: bronchodilators and anti-inflammatory agents"
+}
+]

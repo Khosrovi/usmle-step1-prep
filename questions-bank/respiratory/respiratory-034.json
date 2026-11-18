@@ -1,0 +1,371 @@
+[
+{
+  "id": "res-172",
+  "subject": "Respiratory",
+  "major_topic": "Pathology",
+  "subtopic": "Restrictive lung diseases, IPF, and hypersensitivity pneumonitis",
+  "difficulty": "medium",
+  "vignette": "A 58-year-old woman with progressive dyspnea on exertion and a dry cough undergoes pulmonary function testing. She reports taking short, shallow breaths. Spirometry shows an FVC of 55% of predicted, a TLC of 58% of predicted, and an FEV1/FVC ratio of 88%. Velcro-type crackles are heard at the lung bases.",
+  "question": "Which of the following best characterizes the underlying physiologic defect in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Reduced FVC with an increased TLC and a reduced FEV1/FVC ratio (air trapping)."
+    },
+    {
+      "id": "B",
+      "text": "Reduced FVC and reduced TLC with a normal or increased FEV1/FVC ratio."
+    },
+    {
+      "id": "C",
+      "text": "Preserved FVC and TLC with an isolated reduction in diffusing capacity."
+    },
+    {
+      "id": "D",
+      "text": "Reduced FEV1 with normal FVC and a reduced FEV1/FVC ratio."
+    },
+    {
+      "id": "E",
+      "text": "Proportionally reduced FEV1 and FVC with a normal FEV1/FVC ratio but an increased TLC."
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Restrictive lung disease is defined by reduced lung volumes, specifically a decreased FVC and decreased TLC. Because both FEV1 and FVC fall together, the FEV1/FVC ratio is normal or even increased, which distinguishes restriction from obstruction. This patient's short, shallow breathing and velcro-like crackles are classic for a restrictive process. The reduced TLC is the hallmark that confirms true restriction rather than air trapping. The underlying cause may be extrapulmonary (chest wall/neuromuscular) or a diffuse parenchymal interstitial disease.",
+  "explanation_incorrect": {
+    "A": "An increased TLC with air trapping and a reduced FEV1/FVC ratio is an obstructive pattern, not restriction.",
+    "C": "Isolated reduction in DLCO with preserved volumes does not define restriction; restriction requires reduced FVC and TLC.",
+    "D": "A reduced FEV1/FVC ratio with reduced FEV1 is obstructive and would show an increased TLC, not a reduced one.",
+    "E": "An increased TLC indicates hyperinflation/air trapping; true restriction lowers TLC and preserves or raises the ratio."
+  },
+  "educationalObjective": "Restrictive physiology is identified by decreased FVC and TLC with a normal or increased FEV1/FVC ratio.",
+  "source": "Generated from 16. Respiratory.pdf - Pathology: Restrictive lung diseases, IPF, and hypersensitivity pneumonitis"
+},
+{
+  "id": "res-173",
+  "subject": "Respiratory",
+  "major_topic": "Pathology",
+  "subtopic": "Restrictive lung diseases, IPF, and hypersensitivity pneumonitis",
+  "difficulty": "medium",
+  "vignette": "A 27-year-old woman with myasthenia gravis presents with progressive dyspnea and shallow breathing during a myasthenic crisis. Pulmonary function testing shows a decreased FVC and decreased TLC with a normal FEV1/FVC ratio. Her DLCO is normal and her A-a gradient is normal. Chest imaging shows no interstitial abnormality.",
+  "question": "Which of the following best explains these pulmonary function findings?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Diffuse parenchymal fibrosis from a medication side effect causing impaired diffusion."
+    },
+    {
+      "id": "B",
+      "text": "Alveolar flooding from an acute respiratory distress syndrome–like process."
+    },
+    {
+      "id": "C",
+      "text": "Upper-lobe centrilobular emphysema with destruction of alveolar walls."
+    },
+    {
+      "id": "D",
+      "text": "Extrapulmonary restriction from respiratory muscle weakness, with an intact alveolar-capillary membrane."
+    },
+    {
+      "id": "E",
+      "text": "Interstitial granulomatous disease such as sarcoidosis."
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Neuromuscular diseases such as myasthenia gravis, Guillain-Barré syndrome, polio, and ALS weaken the respiratory muscles and limit chest expansion, producing a restrictive ventilatory defect. Because the lung parenchyma and alveolar-capillary membrane are intact, the DLCO is normal and the A-a gradient is normal. This is the key physiologic distinction between extrapulmonary and parenchymal causes of restriction. The reduced FVC and TLC with a normal FEV1/FVC ratio fit restriction. Treatment is directed at the underlying neuromuscular disease and ventilatory support if needed.",
+  "explanation_incorrect": {
+    "A": "Parenchymal fibrosis would reduce DLCO and widen the A-a gradient, which is not seen here.",
+    "B": "Alveolar flooding (ARDS) is a parenchymal process that lowers DLCO and raises the A-a gradient.",
+    "C": "Emphysema is obstructive, would raise TLC, and lower the FEV1/FVC ratio, not cause restriction.",
+    "E": "Sarcoidosis is a parenchymal interstitial disease with reduced DLCO and often an abnormal A-a gradient."
+  },
+  "educationalObjective": "Extrapulmonary restriction from respiratory muscle weakness has normal DLCO and a normal A-a gradient.",
+  "source": "Generated from 16. Respiratory.pdf - Pathology: Restrictive lung diseases, IPF, and hypersensitivity pneumonitis"
+},
+{
+  "id": "res-174",
+  "subject": "Respiratory",
+  "major_topic": "Pathology",
+  "subtopic": "Restrictive lung diseases, IPF, and hypersensitivity pneumonitis",
+  "difficulty": "easy",
+  "vignette": "A 45-year-old man with severe obesity (BMI 52 kg/m2) and marked kyphoscoliosis presents with exertional dyspnea and daytime somnolence. Pulmonary function testing shows a reduced FVC and reduced TLC, a normal FEV1/FVC ratio, a normal DLCO, and a normal A-a gradient. Chest CT shows no interstitial lung disease.",
+  "question": "Which mechanism best accounts for the restrictive physiology in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Chest wall deformity and increased chest wall mass mechanically limiting lung expansion (extrapulmonary restriction)."
+    },
+    {
+      "id": "B",
+      "text": "Fibrosis of the alveolar interstitium thickening the diffusion barrier."
+    },
+    {
+      "id": "C",
+      "text": "Loss of alveolar surface area from destructive emphysema."
+    },
+    {
+      "id": "D",
+      "text": "Autoimmune destruction of the neuromuscular junction causing respiratory muscle weakness."
+    },
+    {
+      "id": "E",
+      "text": "Compression of lung parenchyma by a large pleural effusion."
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Chest wall abnormalities such as scoliosis and severe obesity restrict lung expansion without damaging the lung itself, producing an extrapulmonary restrictive defect. The DLCO and A-a gradient remain normal because the alveolar-capillary membrane is intact. The reduced FVC and TLC with a normal FEV1/FVC ratio are characteristic. This contrasts with interstitial parenchymal disease, in which DLCO falls and the A-a gradient widens. Identification of the extrapulmonary cause is essential because management differs.",
+  "explanation_incorrect": {
+    "B": "Interstitial fibrosis is a parenchymal cause and would lower DLCO and raise the A-a gradient.",
+    "C": "Emphysema causes obstruction with increased TLC, not a restrictive defect.",
+    "D": "Neuromuscular junction disease is a different extrapulmonary cause; this patient's mechanism is a mechanical chest wall problem.",
+    "E": "Although a large effusion can compress lung, this patient's imaging shows no effusion; the mechanism here is chest wall restriction."
+  },
+  "educationalObjective": "Chest wall abnormalities (scoliosis, severe obesity) cause extrapulmonary restriction with normal DLCO and A-a gradient.",
+  "source": "Generated from 16. Respiratory.pdf - Pathology: Restrictive lung diseases, IPF, and hypersensitivity pneumonitis"
+},
+{
+  "id": "res-175",
+  "subject": "Respiratory",
+  "major_topic": "Pathology",
+  "subtopic": "Restrictive lung diseases, IPF, and hypersensitivity pneumonitis",
+  "difficulty": "medium",
+  "vignette": "A 62-year-old man with progressive dyspnea and velcro-type crackles on auscultation undergoes pulmonary function testing. Results show an FVC of 50% of predicted, a TLC of 52% of predicted, an FEV1/FVC ratio of 92%, a DLCO of 40% of predicted, and an increased A-a gradient.",
+  "question": "Which of the following best explains the combination of a reduced DLCO and an increased A-a gradient in this patient?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Neuromuscular weakness limiting chest expansion with an intact membrane."
+    },
+    {
+      "id": "B",
+      "text": "Isolated chest wall stiffness from scoliosis without parenchymal disease."
+    },
+    {
+      "id": "C",
+      "text": "Diffuse parenchymal/interstitial disease impairing gas exchange across a thickened, fibrotic alveolar-capillary membrane."
+    },
+    {
+      "id": "D",
+      "text": "Pure large-airway obstruction with air trapping and hyperinflation."
+    },
+    {
+      "id": "E",
+      "text": "Decreased pulmonary blood flow from an acute pulmonary embolism with normal lung parenchyma."
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Diffuse parenchymal (interstitial) lung disease thickens and destroys the alveolar-capillary membrane, reducing the surface area available for gas exchange. This produces a decreased DLCO and an increased A-a gradient, along with restrictive spirometry (low FVC/TLC, normal-to-high FEV1/FVC). Causes include the pneumoconioses, sarcoidosis, IPF, hypersensitivity pneumonitis, drug toxicity, ARDS, and radiation injury. Velcro crackles support an interstitial process. Recognizing a low DLCO with a wide A-a gradient localizes the defect to the parenchyma rather than the chest wall or neuromuscular system.",
+  "explanation_incorrect": {
+    "A": "Neuromuscular weakness is extrapulmonary and would preserve DLCO and the A-a gradient.",
+    "B": "Scoliosis is an extrapulmonary chest wall cause with normal DLCO and A-a gradient.",
+    "D": "Obstruction lowers the FEV1/FVC ratio and raises TLC, unlike this patient's restrictive pattern.",
+    "E": "Pulmonary embolism can widen the A-a gradient but does not produce a chronic restrictive defect with reduced TLC and velcro crackles."
+  },
+  "educationalObjective": "Parenchymal interstitial disease lowers DLCO and widens the A-a gradient, unlike extrapulmonary restriction.",
+  "source": "Generated from 16. Respiratory.pdf - Pathology: Restrictive lung diseases, IPF, and hypersensitivity pneumonitis"
+},
+{
+  "id": "res-176",
+  "subject": "Respiratory",
+  "major_topic": "Pathology",
+  "subtopic": "Restrictive lung diseases, IPF, and hypersensitivity pneumonitis",
+  "difficulty": "hard",
+  "vignette": "A 60-year-old woman receives external beam radiation therapy to the chest for breast cancer. Approximately 2 months later she develops a dry cough, dyspnea, and a low-grade fever. CT shows opacities confined to the radiation field, and infectious causes are excluded. She had been Asymptomatic immediately after treatment.",
+  "question": "Which of the following best characterizes this patient's condition?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Radiation fibrosis developing 6–12 months after exposure, mediated by transforming growth factor-β."
+    },
+    {
+      "id": "B",
+      "text": "Acute bacterial pneumonia localized to the radiation field."
+    },
+    {
+      "id": "C",
+      "text": "Bleomycin-induced pulmonary toxicity with a similar temporal course."
+    },
+    {
+      "id": "D",
+      "text": "Chronic hypersensitivity pneumonitis due to an environmental antigen."
+    },
+    {
+      "id": "E",
+      "text": "Acute radiation pneumonitis (exudative phase) developing 3–12 weeks after exposure, associated with proinflammatory cytokine release (TNF-α, IL-1, IL-6)."
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Radiation-induced lung injury has two phases. Acute radiation pneumonitis is the exudative phase and develops within 3–12 weeks of exposure, driven by proinflammatory cytokines such as TNF-α, IL-1, and IL-6; common symptoms are dry cough, dyspnea, and low-grade fever. Radiation fibrosis is a later complication appearing after 6–12 months. This patient's 2-month (roughly 8-week) presentation fits acute pneumonitis. The timing and the exclusion of infection distinguish it from the other causes of restrictive physiology. Management is supportive with glucocorticoids in symptomatic cases.",
+  "explanation_incorrect": {
+    "A": "Radiation fibrosis occurs after 6–12 months, not weeks, and is a fibrotic rather than exudative phase.",
+    "B": "The absence of infection and the confinement to the radiation field argue against bacterial pneumonia.",
+    "C": "Bleomycin toxicity is a drug effect and is not related to radiation field distribution.",
+    "D": "Hypersensitivity pneumonitis is antigen-driven, is not confined to a radiation field, and has a different exposure history."
+  },
+  "educationalObjective": "Acute radiation pneumonitis occurs 3–12 weeks after exposure with cytokine release; radiation fibrosis appears after 6–12 months.",
+  "source": "Generated from 16. Respiratory.pdf - Pathology: Restrictive lung diseases, IPF, and hypersensitivity pneumonitis"
+},
+{
+  "id": "res-177",
+  "subject": "Respiratory",
+  "major_topic": "Pathology",
+  "subtopic": "Restrictive lung diseases, IPF, and hypersensitivity pneumonitis",
+  "difficulty": "easy",
+  "vignette": "A 68-year-old former smoker presents with 2 years of progressive dyspnea, fatigue, and a nonproductive cough. Auscultation reveals fine velcro crackles at the bases and digital clubbing. High-resolution CT shows peripheral reticular opacities, traction bronchiectasis, and areas of honeycombing.",
+  "question": "Which of the following is the most likely diagnosis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Sarcoidosis"
+    },
+    {
+      "id": "B",
+      "text": "Idiopathic pulmonary fibrosis"
+    },
+    {
+      "id": "C",
+      "text": "Hypersensitivity pneumonitis"
+    },
+    {
+      "id": "D",
+      "text": "Coal workers' pneumoconiosis"
+    },
+    {
+      "id": "E",
+      "text": "Asbestosis"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Idiopathic pulmonary fibrosis (IPF) is a progressive fibrotic lung disease of unknown etiology associated with smoking, environmental pollutants, and genetic defects. Typical findings are progressive dyspnea, fatigue, nonproductive cough, velcro crackles, and clubbing. High-resolution CT classically shows peripheral reticular opacities, traction bronchiectasis, and honeycombing in advanced disease; the histologic correlate is usual interstitial pneumonia. The peripheral/subpleural distribution and honeycombing are key diagnostic features. Occupational exposures and granulomas are absent, distinguishing it from the pneumoconioses and sarcoidosis.",
+  "explanation_incorrect": {
+    "A": "Sarcoidosis shows bilateral hilar lymphadenopathy and noncaseating granulomas rather than honeycombing and traction bronchiectasis.",
+    "C": "Hypersensitivity pneumonitis is linked to antigen exposure (farmers, bird fanciers) and shows noncaseating granulomas, not typical honeycombing.",
+    "D": "Coal workers' pneumoconiosis requires coal dust exposure and shows upper-lobe small rounded nodules, not this CT pattern.",
+    "E": "Asbestosis is lower-lobe fibrosis with asbestos exposure, pleural plaques, and ferruginous bodies."
+  },
+  "educationalObjective": "Progressive dyspnea, velcro crackles, clubbing, and peripheral reticulations with honeycombing point to IPF.",
+  "source": "Generated from 16. Respiratory.pdf - Pathology: Restrictive lung diseases, IPF, and hypersensitivity pneumonitis"
+},
+{
+  "id": "res-178",
+  "subject": "Respiratory",
+  "major_topic": "Pathology",
+  "subtopic": "Restrictive lung diseases, IPF, and hypersensitivity pneumonitis",
+  "difficulty": "hard",
+  "vignette": "A 70-year-old man with progressive dyspnea and honeycombing on CT undergoes lung biopsy. Histology shows a usual interstitial pneumonia pattern with a reduced number of type 1 pneumocytes, hyperplasia of type 2 pneumocytes, and an increase in fibroblasts. No granulomas or occupational exposure are identified.",
+  "question": "Which of the following best describes the expected features and complications of this disease?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Noncaseating epithelioid granulomas with Schaumann and Asteroid bodies and elevated serum ACE."
+    },
+    {
+      "id": "B",
+      "text": "Centrilobular emphysema with destructive changes and an increased FEV1/FVC ratio."
+    },
+    {
+      "id": "C",
+      "text": "Usual interstitial pneumonia of unknown etiology (associated with smoking, pollutants, genetics) with complications including pulmonary hypertension, right heart failure, arrhythmias, respiratory failure, and lung cancer."
+    },
+    {
+      "id": "D",
+      "text": "Caseating granulomas with Langhans giant cells and a positive PPD test."
+    },
+    {
+      "id": "E",
+      "text": "Dense alveolar flooding with fibrin and neutrophils in the exudative phase."
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "This patient has idiopathic pulmonary fibrosis, whose histologic pattern is usual interstitial pneumonia: loss of type 1 pneumocytes, proliferation of type 2 pneumocytes, and increased fibroblasts with fibrosis. Its etiology is unknown but associations include tobacco smoking, environmental pollutants, and genetic defects. Complications are pulmonary hypertension, right heart failure, arrhythmias, coronary artery disease, respiratory failure, and an increased risk of lung cancer. The absence of granulomas or exposure history supports IPF over granulomatous or pneumoconiotic disease. These complications explain the high morbidity of the disease.",
+  "explanation_incorrect": {
+    "A": "Noncaseating granulomas with Schaumann/Asteroid bodies and elevated ACE characterize sarcoidosis, not IPF.",
+    "B": "Centrilobular emphysema is obstructive and would show destruction rather than a usual interstitial pneumonia pattern.",
+    "D": "Caseating granulomas suggest tuberculosis or fungal infection, not IPF.",
+    "E": "Diffuse alveolar flooding with fibrin and neutrophils is the exudative phase of ARDS or pneumonia."
+  },
+  "educationalObjective": "IPF shows usual interstitial pneumonia (loss of type 1, increase in type 2 pneumocytes and fibroblasts) and leads to pulmonary hypertension, cor pulmonale, respiratory failure, and lung cancer.",
+  "source": "Generated from 16. Respiratory.pdf - Pathology: Restrictive lung diseases, IPF, and hypersensitivity pneumonitis"
+},
+{
+  "id": "res-179",
+  "subject": "Respiratory",
+  "major_topic": "Pathology",
+  "subtopic": "Restrictive lung diseases, IPF, and hypersensitivity pneumonitis",
+  "difficulty": "medium",
+  "vignette": "A 45-year-old farmer develops recurrent episodes of dyspnea, cough, chest tightness, fever, and headache several hours after handling moldy hay. The episodes consistently resolve when he is away from the barn and recur on re-exposure. He has no wheezing and no personal history of atopy.",
+  "question": "Which of the following best characterizes the underlying mechanism and expected clinical course?",
+  "options": [
+    {
+      "id": "A",
+      "text": "IgE-mediated type I hypersensitivity to mold spores, with a risk of anaphylaxis."
+    },
+    {
+      "id": "B",
+      "text": "Type II cytotoxic reaction against the alveolar basement membrane."
+    },
+    {
+      "id": "C",
+      "text": "Type IV delayed hypersensitivity to asbestos fibers causing lower-lobe fibrosis."
+    },
+    {
+      "id": "D",
+      "text": "Mixed type III/IV hypersensitivity to thermophilic Actinomyces or Aspergillus; often self-limiting if the stimulus is removed."
+    },
+    {
+      "id": "E",
+      "text": "Direct toxic injury from silica crystals with phagolysosome disruption and tuberculosis susceptibility."
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Hypersensitivity pneumonitis is a mixed type III (immune complex) and type IV (delayed, cell-mediated) hypersensitivity reaction to environmental antigens such as thermophilic Actinomyces and Aspergillus. It classically affects farmers (moldy hay, farmer's lung) and bird fanciers. Acute episodes cause dyspnea, cough, chest tightness, fever, and headache hours after exposure and are often self-limiting once the antigen is removed. It is not an IgE-mediated atopic disease and does not cause anaphylaxis. Recognition of the exposure-timing relationship is the key to diagnosis.",
+  "explanation_incorrect": {
+    "A": "Hypersensitivity pneumonitis is not IgE-mediated and does not carry a risk of anaphylaxis; that is type I atopy.",
+    "B": "Type II cytotoxic reactions (e.g., Goodpasture syndrome) are not the mechanism of hypersensitivity pneumonitis.",
+    "C": "Asbestos causes asbestosis, not a type IV hypersensitivity pneumonitis, and affects the lower lobes with fibrosis.",
+    "E": "Silica causes direct toxic injury and phagolysosome disruption (silicosis), a distinct pneumoconiosis."
+  },
+  "educationalObjective": "Hypersensitivity pneumonitis is a mixed type III/IV reaction to thermophilic Actinomyces/Aspergillus that is often self-limiting when exposure stops.",
+  "source": "Generated from 16. Respiratory.pdf - Pathology: Restrictive lung diseases, IPF, and hypersensitivity pneumonitis"
+},
+{
+  "id": "res-180",
+  "subject": "Respiratory",
+  "major_topic": "Pathology",
+  "subtopic": "Restrictive lung diseases, IPF, and hypersensitivity pneumonitis",
+  "difficulty": "easy",
+  "vignette": "A 58-year-old bird fancier has had 5 years of progressive dyspnea and cough despite removing his birds from the home 2 years ago. CT shows alveolar septal thickening and traction bronchiectasis, and lung biopsy demonstrates noncaseating granulomas with irreversible fibrosis. His DLCO is reduced and his A-a gradient is elevated.",
+  "question": "Which of the following best describes this patient's condition?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Chronic hypersensitivity pneumonitis with irreversible fibrosis and noncaseating granulomas."
+    },
+    {
+      "id": "B",
+      "text": "Acute hypersensitivity pneumonitis that remains fully reversible after antigen removal."
+    },
+    {
+      "id": "C",
+      "text": "Sarcoidosis with bilateral hilar lymphadenopathy and elevated ACE."
+    },
+    {
+      "id": "D",
+      "text": "Idiopathic pulmonary fibrosis with honeycombing but no granulomas."
+    },
+    {
+      "id": "E",
+      "text": "Drug-induced toxicity from methotrexate without granuloma formation."
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Chronic hypersensitivity pneumonitis results from prolonged or repeated antigen exposure (e.g., bird fancier's lung) and leads to irreversible pulmonary fibrosis. Histology shows noncaseating granulomas, alveolar septal thickening, and traction bronchiectasis. Unlike the acute form, the chronic form does not fully resolve even after the stimulus is removed. The reduced DLCO and elevated A-a gradient reflect parenchymal involvement. The presence of granulomas with a clear avian exposure history distinguishes this from IPF and drug toxicity.",
+  "explanation_incorrect": {
+    "B": "Acute hypersensitivity pneumonitis is self-limiting and reversible; this patient has established irreversible fibrosis.",
+    "C": "Sarcoidosis has noncaseating granulomas but is not tied to avian antigen exposure and typically shows hilar lymphadenopathy.",
+    "D": "IPF shows usual interstitial pneumonia without granulomas and lacks the bird-antigen exposure history.",
+    "E": "Methotrexate toxicity is drug-induced and would not feature noncaseating granulomas or bird exposure."
+  },
+  "educationalObjective": "Chronic hypersensitivity pneumonitis causes irreversible fibrosis, septal thickening, and noncaseating granulomas despite antigen removal.",
+  "source": "Generated from 16. Respiratory.pdf - Pathology: Restrictive lung diseases, IPF, and hypersensitivity pneumonitis"
+}
+]

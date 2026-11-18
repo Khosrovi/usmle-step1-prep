@@ -1,0 +1,371 @@
+[
+{
+  "id": "res-083",
+  "subject": "Respiratory",
+  "major_topic": "Physiology",
+  "subtopic": "Ventilation/perfusion mismatch, lung zones, and A-a gradient",
+  "difficulty": "easy",
+  "vignette": "A medical student is reviewing ventilation-perfusion (V/Q) relationships in an upright healthy adult at rest. At the apex of the lung, both ventilation and perfusion are lower than at the base, but perfusion falls much more than ventilation because of gravity. The V/Q ratio of the whole lung averages about 1.",
+  "question": "What is the approximate V/Q ratio at the apex of the lung, and what is its physiologic consequence?",
+  "options": [
+    {
+      "id": "A",
+      "text": "V/Q is about 0.6, causing wasted perfusion"
+    },
+    {
+      "id": "B",
+      "text": "V/Q is about 3, causing wasted ventilation"
+    },
+    {
+      "id": "C",
+      "text": "V/Q is about 1, indicating ideal gas exchange at the apex"
+    },
+    {
+      "id": "D",
+      "text": "V/Q is about 0, producing a right-to-left shunt"
+    },
+    {
+      "id": "E",
+      "text": "V/Q approaches infinity, producing physiologic dead space"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "At the apex of the upright lung, perfusion is reduced far more than ventilation, so the V/Q ratio rises to about 3. Because ventilation exceeds perfusion, much of the inspired air at the apex cannot participate in gas exchange, a state described as wasted ventilation (high V/Q). The base has the opposite pattern, with low V/Q and wasted perfusion. The overall lung averages near 1.",
+  "explanation_incorrect": {
+    "A": "V/Q of about 0.6 with wasted perfusion describes the lung base, not the apex.",
+    "C": "V/Q of about 1 is the ideal average for the whole lung at rest, not the value at the apex.",
+    "D": "V/Q of 0 indicates airway obstruction or a shunt, a pathologic state, not the normal upright apex.",
+    "E": "V/Q approaching infinity indicates blood flow obstruction (dead space), also a pathologic state rather than the normal apex."
+  },
+  "educationalObjective": "At the upright lung apex, V/Q is high (~3) and ventilation is relatively wasted; at the base, V/Q is low (~0.6) and perfusion is relatively wasted.",
+  "source": "Generated from 16. Respiratory.pdf - Physiology: Ventilation/perfusion mismatch, lung zones, and A-a gradient"
+},
+{
+  "id": "res-084",
+  "subject": "Respiratory",
+  "major_topic": "Physiology",
+  "subtopic": "Ventilation/perfusion mismatch, lung zones, and A-a gradient",
+  "difficulty": "easy",
+  "vignette": "An upright healthy adult undergoes measurement of ventilation and perfusion in the apex and base of the lungs while breathing quietly. Gravity influences both variables, but it affects blood flow more than airflow. The physiologist asks the trainee to characterize the base of the lung.",
+  "question": "Which of the following statements about the lung base is correct?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Both ventilation and perfusion are lower at the base than at the apex"
+    },
+    {
+      "id": "B",
+      "text": "V/Q at the base is about 3, producing wasted ventilation"
+    },
+    {
+      "id": "C",
+      "text": "Perfusion is negligible at the base because gravity pulls blood away from it"
+    },
+    {
+      "id": "D",
+      "text": "Both ventilation and perfusion are greater at the base, but perfusion increases more, so V/Q is about 0.6 with wasted perfusion"
+    },
+    {
+      "id": "E",
+      "text": "V/Q at the base equals 1 because ventilation and perfusion are perfectly matched there"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "In the upright lung, gravity increases both ventilation and perfusion toward the base, but the increase in perfusion is proportionally greater. As a result, V/Q falls to about 0.6 at the base. Because perfusion exceeds ventilation there, some blood passes the alveoli without being fully oxygenated, which is described as wasted perfusion (a low-V/Q region). Both V and Q are nevertheless higher in absolute terms at the base than at the apex.",
+  "explanation_incorrect": {
+    "A": "Both ventilation and perfusion are greater, not lower, at the base than at the apex in the upright lung.",
+    "B": "V/Q of about 3 with wasted ventilation is the apex; the base has a low V/Q of about 0.6.",
+    "C": "Perfusion is greatest at the base because of gravity, not negligible; it is the apex that is relatively underperfused.",
+    "E": "The base has V/Q of about 0.6, not 1; a ratio of 1 is the ideal whole-lung average."
+  },
+  "educationalObjective": "Gravity makes both ventilation and perfusion larger at the lung base, but perfusion rises more, giving V/Q about 0.6 and relatively wasted perfusion.",
+  "source": "Generated from 16. Respiratory.pdf - Physiology: Ventilation/perfusion mismatch, lung zones, and A-a gradient"
+},
+{
+  "id": "res-085",
+  "subject": "Respiratory",
+  "major_topic": "Physiology",
+  "subtopic": "Ventilation/perfusion mismatch, lung zones, and A-a gradient",
+  "difficulty": "medium",
+  "vignette": "A 28-year-old healthy man exercises on a treadmill, raising his cardiac output several fold. Perfusion imaging shows increased blood flow to apical lung regions that were relatively underperfused at rest. His arterial PO2 is well maintained during exercise.",
+  "question": "What is the expected effect of exercise on the V/Q ratio at the lung apex?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Increased apical perfusion lowers V/Q toward 1, making ventilation and perfusion more efficient"
+    },
+    {
+      "id": "B",
+      "text": "Apical V/Q rises above 3 because ventilation increases more than perfusion during exercise"
+    },
+    {
+      "id": "C",
+      "text": "Apical V/Q falls to 0, creating a functional right-to-left shunt"
+    },
+    {
+      "id": "D",
+      "text": "Apical capillaries constrict, reducing perfusion and further wasting ventilation"
+    },
+    {
+      "id": "E",
+      "text": "Apical V/Q is unchanged because pulmonary perfusion is fixed by gravity"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "At rest the apex is underperfused, with V/Q around 3. During exercise, the increase in cardiac output raises pulmonary artery pressure and vasodilates and recruits apical capillaries, so perfusion to the apex increases substantially. Because perfusion rises more than ventilation in that region, apical V/Q falls toward 1 and overall ventilation-perfusion matching improves. This recruitment is one reason gas exchange efficiency increases during exercise.",
+  "explanation_incorrect": {
+    "B": "During exercise perfusion to the apex rises (vasodilation and recruitment), so apical V/Q falls toward 1 rather than rising further above 3.",
+    "C": "Apical V/Q does not fall to 0; that would require complete airway obstruction or a shunt, which is not a normal exercise response.",
+    "D": "Exercise vasodilates and recruits apical capillaries rather than constricting them, so perfusion increases rather than decreases.",
+    "E": "Perfusion is not fixed; the elevated cardiac output of exercise recruits apical vessels and lowers apical V/Q."
+  },
+  "educationalObjective": "Exercise-induced vasodilation and recruitment of apical capillaries increase apical perfusion, lowering V/Q toward 1 and improving gas exchange efficiency.",
+  "source": "Generated from 16. Respiratory.pdf - Physiology: Ventilation/perfusion mismatch, lung zones, and A-a gradient"
+},
+{
+  "id": "res-086",
+  "subject": "Respiratory",
+  "major_topic": "Physiology",
+  "subtopic": "Ventilation/perfusion mismatch, lung zones, and A-a gradient",
+  "difficulty": "easy",
+  "vignette": "A 24-year-old immigrant from an endemic region presents with a 3-month cough, weight loss, and drenching night sweats. Chest radiograph shows a cavitary lesion in the right upper lobe. Sputum acid-fast bacilli are positive. Reactivation tuberculosis classically favors the lung apices.",
+  "question": "Which of the following best explains this predilection of tuberculosis for the lung apices?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The apex has the highest alveolar CO2 tension, which promotes mycobacterial growth"
+    },
+    {
+      "id": "B",
+      "text": "The apex is the most richly perfused region, delivering the largest number of organisms"
+    },
+    {
+      "id": "C",
+      "text": "The apex has the highest alveolar PO2 because ventilation exceeds perfusion, favoring this aerobic organism"
+    },
+    {
+      "id": "D",
+      "text": "The apex is relatively hypoxic, which selects for anaerobic organisms such as M. tuberculosis"
+    },
+    {
+      "id": "E",
+      "text": "The apex receives the least ventilation, allowing organisms to avoid mechanical clearance"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Because V/Q is high (about 3) at the lung apex, alveolar oxygen tension is highest there: ventilation is relatively preserved while perfusion is scant. Mycobacterium tuberculosis is an aerobic organism that thrives in high-O2 environments, which is why reactivation tuberculosis classically involves the apices and upper lobes. This association is a direct clinical corollary of the regional V/Q gradient in the upright lung.",
+  "explanation_incorrect": {
+    "A": "The apex has relatively low CO2 because high V/Q promotes CO2 washout, not a high CO2 tension.",
+    "B": "The apex is the least perfused region of the upright lung; perfusion is greatest at the base.",
+    "D": "M. tuberculosis is aerobic and favors high oxygen tension, not a hypoxic or anaerobic environment.",
+    "E": "The apex is well ventilated; it is perfusion that is relatively low, so impaired mechanical clearance from low ventilation is not the explanation."
+  },
+  "educationalObjective": "The high V/Q and therefore high alveolar PO2 at the lung apex explain the apical predilection of aerobic organisms such as Mycobacterium tuberculosis.",
+  "source": "Generated from 16. Respiratory.pdf - Physiology: Ventilation/perfusion mismatch, lung zones, and A-a gradient"
+},
+{
+  "id": "res-087",
+  "subject": "Respiratory",
+  "major_topic": "Physiology",
+  "subtopic": "Ventilation/perfusion mismatch, lung zones, and A-a gradient",
+  "difficulty": "medium",
+  "vignette": "A 3-year-old child suddenly develops coughing, stridor, and severe respiratory distress after playing with small toys. Bronchoscopy reveals a foreign body impacted in the right mainstem bronchus, and the right lung is poorly ventilated. Arterial blood gas shows marked hypoxemia. One hundred percent oxygen is administered by mask.",
+  "question": "Which of the following best predicts this child's response to supplemental oxygen?",
+  "options": [
+    {
+      "id": "A",
+      "text": "PaO2 will rise toward normal because oxygen dissolves directly in plasma"
+    },
+    {
+      "id": "B",
+      "text": "PaO2 will rise modestly because the higher alveolar PO2 increases the diffusion gradient across the affected lung"
+    },
+    {
+      "id": "C",
+      "text": "PaO2 will rise only if cardiac output is simultaneously increased"
+    },
+    {
+      "id": "D",
+      "text": "PaO2 will fall because oxygen induces pulmonary vasoconstriction in the affected region"
+    },
+    {
+      "id": "E",
+      "text": "PaO2 will remain low because blood bypasses ventilated alveoli (V/Q = 0 shunt), so the added oxygen cannot reach the shunted blood"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Complete airway obstruction produces a region with ventilation but no ventilation relative to perfusion, ie, V/Q = 0, a right-to-left shunt. Blood passing through the affected lung never contacts ventilated alveoli, so it cannot be oxygenated regardless of how high the inspired O2 concentration is. Mixing this desaturated shunted blood with blood from normal regions limits the rise in arterial PO2, so 100% oxygen produces little or no improvement. This is the classic reason a shunt is relatively refractory to supplemental oxygen.",
+  "explanation_incorrect": {
+    "A": "In a true shunt the blood never reaches ventilated alveoli, so increased dissolved oxygen in ventilated regions cannot correct the desaturated shunted fraction; PaO2 does not normalize.",
+    "B": "A larger diffusion gradient helps only blood that actually reaches ventilated alveoli; shunted blood bypasses them entirely.",
+    "C": "Increasing cardiac output does not reduce the shunt fraction and may actually worsen hypoxemia by delivering more blood through the shunted region.",
+    "D": "Oxygen is a pulmonary vasodilator, not a vasoconstrictor; the poor response is due to shunting, not vasoconstriction."
+  },
+  "educationalObjective": "Airway obstruction creates V/Q = 0 (shunt); because blood bypasses ventilated alveoli, 100% oxygen does not significantly improve PaO2.",
+  "source": "Generated from 16. Respiratory.pdf - Physiology: Ventilation/perfusion mismatch, lung zones, and A-a gradient"
+},
+{
+  "id": "res-088",
+  "subject": "Respiratory",
+  "major_topic": "Physiology",
+  "subtopic": "Ventilation/perfusion mismatch, lung zones, and A-a gradient",
+  "difficulty": "medium",
+  "vignette": "A 52-year-old woman develops sudden pleuritic chest pain and dyspnea 2 weeks after hip replacement surgery. CT pulmonary angiography shows a large filling defect in a right pulmonary artery branch; the affected segment is ventilated but not perfused. Her PaO2 is 62 mm Hg on room air, and she is given supplemental oxygen.",
+  "question": "Which of the following best describes her V/Q abnormality and the expected response to 100% oxygen?",
+  "options": [
+    {
+      "id": "A",
+      "text": "V/Q = 0 shunt; 100% oxygen will not improve PaO2"
+    },
+    {
+      "id": "B",
+      "text": "V/Q approaching infinity (physiologic dead space); assuming less than 100% dead space, 100% oxygen will improve PaO2"
+    },
+    {
+      "id": "C",
+      "text": "V/Q = 1; gas exchange is normal and the hypoxemia is unrelated to V/Q mismatch"
+    },
+    {
+      "id": "D",
+      "text": "V/Q = 0.6; this low-V/Q region responds poorly to supplemental oxygen"
+    },
+    {
+      "id": "E",
+      "text": "V/Q = 3; this is wasted ventilation that is unaffected by oxygen therapy"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Obstruction of pulmonary blood flow with preserved ventilation creates a region of physiologic dead space with V/Q approaching infinity, the opposite of a shunt. Because the affected segments still receive no blood, they contribute no gas exchange, but other lung regions remain perfused and ventilated. Assuming the dead space is not total (less than 100%), raising the inspired O2 concentration increases the O2 content of blood from the perfused regions, so arterial PaO2 rises. This contrasts with a shunt, where 100% O2 fails to improve PaO2.",
+  "explanation_incorrect": {
+    "A": "V/Q = 0 is airway obstruction with a shunt; here blood flow, not airflow, is obstructed, producing high V/Q dead space instead.",
+    "C": "V/Q is not normal in the affected segment; obstruction of perfusion produces a marked high-V/Q abnormality, which contributes to hypoxemia.",
+    "D": "A V/Q of 0.6 describes the normal lung base with low V/Q; pulmonary embolus creates high V/Q in the occluded segment, not low V/Q.",
+    "E": "Although there is wasted ventilation (high V/Q), the crucial point is that perfused regions remain; supplemental oxygen does improve PaO2, unlike in a shunt."
+  },
+  "educationalObjective": "Blood flow obstruction (eg, pulmonary embolus) creates V/Q approaching infinity (dead space); if any perfusion remains, 100% oxygen raises PaO2, unlike in a shunt.",
+  "source": "Generated from 16. Respiratory.pdf - Physiology: Ventilation/perfusion mismatch, lung zones, and A-a gradient"
+},
+{
+  "id": "res-089",
+  "subject": "Respiratory",
+  "major_topic": "Physiology",
+  "subtopic": "Ventilation/perfusion mismatch, lung zones, and A-a gradient",
+  "difficulty": "hard",
+  "vignette": "A physiologist measures pulmonary vascular pressures in three regions of an upright subject's lungs. In zone 1 (apex), alveolar pressure exceeds pulmonary arterial pressure and vessels are partially collapsed. In zone 3 (base), both pulmonary arterial and venous pressures exceed alveolar pressure and all vessels are open. Pressures are alveolar PA, pulmonary arterial Pa, and pulmonary venous Pv.",
+  "question": "Which option correctly matches a lung zone with its pressure relationships and V/Q characteristics?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Zone 1: Pa > PA > Pv, with V/Q near 0 and shunt"
+    },
+    {
+      "id": "B",
+      "text": "Zone 2: PA is greater than or equal to Pa, which is greater than Pv, with markedly increased V/Q"
+    },
+    {
+      "id": "C",
+      "text": "Zone 3: PA > Pa > Pv, with no blood flow through the region"
+    },
+    {
+      "id": "D",
+      "text": "Zone 1: PA is greater than or equal to Pa, which is greater than Pv, with high V/Q, low V and very low Q; Zone 3: Pa > Pv > PA, with low V/Q, high V and high Q"
+    },
+    {
+      "id": "E",
+      "text": "Zone 3: Pa > PA > Pv, with V/Q approaching infinity (dead space)"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "In zone 1 (apex), alveolar pressure exceeds arterial pressure, so PA is greater than or equal to Pa, which exceeds Pv; vessels are compressed, perfusion (Q) is very low, and V/Q is high. In zone 2, Pa > PA > Pv, so flow is determined by the arterial-alveolar pressure difference. In zone 3 (base), Pa > Pv > PA, so all vessels are distended and perfusion is greatest, giving low V/Q with high ventilation and high perfusion. These pressure relationships explain the regional V/Q gradient.",
+  "explanation_incorrect": {
+    "A": "Zone 1 is defined by alveolar pressure being highest (PA greater than or equal to Pa > Pv), producing high V/Q, not low V/Q or a shunt.",
+    "B": "In zone 2 the order is Pa > PA > Pv; alveolar pressure exceeding arterial pressure is the defining feature of zone 1, not zone 2.",
+    "C": "Zone 3 has Pa > Pv > PA with continuous blood flow; the order PA > Pa > Pv would imply no perfusion, not a distended zone.",
+    "E": "Zone 3 has Pa > Pv > PA and low V/Q with the greatest perfusion; it is not dead space (V/Q approaching infinity)."
+  },
+  "educationalObjective": "Zone 1 (PA greater than or equal to Pa > Pv) has high V/Q and minimal perfusion; zone 2 (Pa > PA > Pv) is intermediate; zone 3 (Pa > Pv > PA) has low V/Q and the greatest perfusion.",
+  "source": "Generated from 16. Respiratory.pdf - Physiology: Ventilation/perfusion mismatch, lung zones, and A-a gradient"
+},
+{
+  "id": "res-090",
+  "subject": "Respiratory",
+  "major_topic": "Physiology",
+  "subtopic": "Ventilation/perfusion mismatch, lung zones, and A-a gradient",
+  "difficulty": "hard",
+  "vignette": "A 30-year-old woman at sea level breathes room air. Her arterial PCO2 (PaCO2) is 40 mm Hg. Using PIO2 = 150 mm Hg, respiratory quotient (RQ) = 0.8, and the alveolar gas equation PAO2 = PIO2 - PaCO2/RQ, her physician calculates her alveolar PO2 (PAO2). The RQ is defined as CO2 produced divided by O2 consumed.",
+  "question": "What is her alveolar PO2 (PAO2)?",
+  "options": [
+    {
+      "id": "A",
+      "text": "200 mm Hg - obtained by adding PaCO2/RQ to PIO2 instead of subtracting it"
+    },
+    {
+      "id": "B",
+      "text": "149 mm Hg - obtained by substituting 0.8, the RQ, for the PaCO2 value in the equation"
+    },
+    {
+      "id": "C",
+      "text": "100 mm Hg - obtained from 150 minus 40/0.8"
+    },
+    {
+      "id": "D",
+      "text": "110 mm Hg - obtained by subtracting PaCO2 directly without dividing by RQ"
+    },
+    {
+      "id": "E",
+      "text": "118 mm Hg - obtained by multiplying PaCO2 by RQ instead of dividing"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "The alveolar gas equation is PAO2 = PIO2 - PaCO2/RQ. With PIO2 = 150 mm Hg, PaCO2 = 40 mm Hg, and RQ = 0.8, the term PaCO2/RQ equals 40/0.8 = 50 mm Hg. Therefore PAO2 = 150 - 50 = 100 mm Hg. This is the expected alveolar PO2 at sea level on room air when PaCO2 is 40 mm Hg and underscores why even a normal PaCO2 requires dividing by the respiratory quotient.",
+  "explanation_incorrect": {
+    "A": "The equation subtracts PaCO2/RQ from PIO2; adding it (150 + 50 = 200) is a sign error.",
+    "B": "The value 0.8 is the respiratory quotient, not the arterial PCO2; substituting it gives 150 - 0.8/0.8 = 149, which is meaningless.",
+    "D": "Failing to divide by RQ uses 40 instead of 50 (150 - 40 = 110) and therefore overestimates PAO2.",
+    "E": "The equation divides PaCO2 by RQ (40/0.8 = 50), not multiplies (40 x 0.8 = 32), which would give 118 mm Hg."
+  },
+  "educationalObjective": "At sea level on room air, PAO2 is approximately 150 minus PaCO2/0.8, giving about 100 mm Hg when PaCO2 is 40 mm Hg.",
+  "source": "Generated from 16. Respiratory.pdf - Physiology: Ventilation/perfusion mismatch, lung zones, and A-a gradient"
+},
+{
+  "id": "res-091",
+  "subject": "Respiratory",
+  "major_topic": "Physiology",
+  "subtopic": "Ventilation/perfusion mismatch, lung zones, and A-a gradient",
+  "difficulty": "medium",
+  "vignette": "A 60-year-old man with suspected interstitial lung disease undergoes arterial blood gas analysis while breathing room air. His alveolar PO2 (PAO2) is calculated from the alveolar gas equation as 100 mm Hg, and his measured arterial PO2 (PaO2) is 75 mm Hg. His physician wants to determine whether the alveolar-to-arterial (A-a) gradient is elevated for his age.",
+  "question": "What is this patient's A-a gradient, and how does it compare with the age-predicted normal?",
+  "options": [
+    {
+      "id": "A",
+      "text": "25 mm Hg - obtained from PAO2 minus PaO2, which is above the age-predicted normal of 19"
+    },
+    {
+      "id": "B",
+      "text": "19 mm Hg - equal to the age-predicted upper limit of normal (age/4 + 4) for a 60-year-old"
+    },
+    {
+      "id": "C",
+      "text": "15 mm Hg - obtained from age/4 alone, omitting the +4 constant"
+    },
+    {
+      "id": "D",
+      "text": "-25 mm Hg - obtained by reversing the subtraction to PaO2 minus PAO2"
+    },
+    {
+      "id": "E",
+      "text": "175 mm Hg - obtained by adding PAO2 and PaO2"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "The A-a gradient is the difference between alveolar and arterial PO2: PAO2 - PaO2 = 100 - 75 = 25 mm Hg. The age-predicted upper limit of normal is (age/4) + 4, which for a 60-year-old is 60/4 + 4 = 15 + 4 = 19 mm Hg. Because 25 exceeds 19, his A-a gradient is elevated, indicating impaired gas exchange such as diffusion limitation or V/Q mismatch. In a person under 40 the normal gradient should be under 14 mm Hg.",
+  "explanation_incorrect": {
+    "B": "The value 19 mm Hg is the upper limit of normal predicted by (age/4) + 4 for a 60-year-old, not the patient's measured gradient; it is the comparison value, not the answer.",
+    "C": "The value 15 mm Hg is age/4 without the +4 constant; it is neither the measured gradient nor the correct age-predicted normal.",
+    "D": "The A-a gradient is alveolar PO2 minus arterial PO2; reversing the subtraction yields a negative number, which is not physiologic.",
+    "E": "Adding PAO2 and PaO2 (100 + 75 = 175) is not a gradient; the A-a gradient is the difference between the two values."
+  },
+  "educationalObjective": "The A-a gradient equals PAO2 minus PaO2 and is normally about (age/4) + 4 (upper limit below 14 before age 40); 25 mm Hg in a 60-year-old is elevated.",
+  "source": "Generated from 16. Respiratory.pdf - Physiology: Ventilation/perfusion mismatch, lung zones, and A-a gradient"
+}
+]

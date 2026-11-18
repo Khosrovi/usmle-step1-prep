@@ -1,0 +1,289 @@
+[
+{
+  "id": "res-052",
+  "subject": "Respiratory",
+  "major_topic": "Physiology",
+  "subtopic": "Lung volumes and capacities",
+  "difficulty": "easy",
+  "vignette": "A 24-year-old healthy volunteer undergoes pulmonary function testing in a physiology lab. The technician asks her to breathe normally, then to inhale as deeply as possible, and finally to exhale as forcibly and completely as she can into a spirometer. The spirometer records the volume of air moved during each maneuver.",
+  "question": "Which of the following lung volumes or capacities cannot be measured directly by this spirometry tracing?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Tidal volume (VT)"
+    },
+    {
+      "id": "B",
+      "text": "Inspiratory reserve volume (IRV)"
+    },
+    {
+      "id": "C",
+      "text": "Expiratory reserve volume (ERV)"
+    },
+    {
+      "id": "D",
+      "text": "Residual volume (RV)"
+    },
+    {
+      "id": "E",
+      "text": "Inspiratory capacity (IC)"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Residual volume is the air remaining in the lungs after maximal expiration. Because no air is exhaled during this maneuver, a spirometer, which measures air moved in and out, cannot detect it. Any capacity that includes RV (FRC and TLC) likewise cannot be measured by spirometry. VT, IRV, ERV, and IC are all derived from volumes that are actually moved, so they can be obtained from the tracing.",
+  "explanation_incorrect": {
+    "A": "VT is the volume of air moving into the lung with each quiet inspiration and is directly traced by the spirometer.",
+    "B": "IRV is the additional air breathed in after a normal inspiration, so it is recorded during the maximal inhalation.",
+    "C": "ERV is the additional air breathed out after a normal expiration, so it is recorded during the maximal exhalation.",
+    "E": "IC equals IRV + VT, both of which are spirometrically measurable, so IC can be calculated from the tracing."
+  },
+  "educationalObjective": "Residual volume and any capacity containing it cannot be measured by spirometry because no air is exchanged during maximal expiration.",
+  "source": "Generated from 16. Respiratory.pdf - Physiology: Lung volumes and capacities"
+},
+{
+  "id": "res-053",
+  "subject": "Respiratory",
+  "major_topic": "Physiology",
+  "subtopic": "Lung volumes and capacities",
+  "difficulty": "medium",
+  "vignette": "A 30-year-old man undergoes spirometry. During quiet breathing he moves 500 mL of air with each breath. When instructed to inhale as deeply as possible after a normal tidal inspiration, he takes in an additional 2500 mL.",
+  "question": "What is his inspiratory capacity (IC)?",
+  "options": [
+    {
+      "id": "A",
+      "text": "2000 mL, obtained by subtracting tidal volume from the inspiratory reserve volume"
+    },
+    {
+      "id": "B",
+      "text": "3000 mL, the sum of inspiratory reserve volume and tidal volume"
+    },
+    {
+      "id": "C",
+      "text": "2500 mL, the inspiratory reserve volume alone"
+    },
+    {
+      "id": "D",
+      "text": "500 mL, the tidal volume alone"
+    },
+    {
+      "id": "E",
+      "text": "5000 mL, twice the inspiratory reserve volume"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Inspiratory capacity is defined as IRV + VT, the volume that can be breathed in after a normal exhalation. Here IRV is 2500 mL and VT is 500 mL, so IC = 2500 + 500 = 3000 mL (3.0 L). IC does not include ERV or RV, because it concerns only the inspiratory limbs of the spirogram.",
+  "explanation_incorrect": {
+    "A": "2000 mL incorrectly subtracts VT from IRV (2500 minus 500) instead of adding the two volumes.",
+    "C": "2500 mL reports the IRV alone and omits the tidal volume, which is part of IC.",
+    "D": "500 mL reports only the tidal volume and ignores the large inspiratory reserve.",
+    "E": "5000 mL doubles the IRV, an arithmetic error with no basis in the definition of IC."
+  },
+  "educationalObjective": "Inspiratory capacity is IRV + VT, the volume that can be inhaled after a normal exhalation.",
+  "source": "Generated from 16. Respiratory.pdf - Physiology: Lung volumes and capacities"
+},
+{
+  "id": "res-054",
+  "subject": "Respiratory",
+  "major_topic": "Physiology",
+  "subtopic": "Lung volumes and capacities",
+  "difficulty": "hard",
+  "vignette": "A 45-year-old woman has the following spirometric values: tidal volume 500 mL, inspiratory reserve volume 2000 mL, and expiratory reserve volume 1200 mL. Her residual volume, measured by a separate technique, is 1100 mL.",
+  "question": "What is her vital capacity (VC)?",
+  "options": [
+    {
+      "id": "A",
+      "text": "2500 mL, IRV + VT (inspiratory capacity), omitting ERV"
+    },
+    {
+      "id": "B",
+      "text": "1700 mL, VT + ERV, omitting IRV"
+    },
+    {
+      "id": "C",
+      "text": "3700 mL, IRV + VT + ERV"
+    },
+    {
+      "id": "D",
+      "text": "3200 mL, IRV + ERV, omitting VT"
+    },
+    {
+      "id": "E",
+      "text": "4800 mL, VC + RV (total lung capacity), incorrectly including residual volume"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Vital capacity is the maximum volume of gas that can be expired after a maximal inspiration and equals IRV + VT + ERV. With IRV 2000 mL, VT 500 mL, and ERV 1200 mL, VC = 2000 + 500 + 1200 = 3700 mL (3.7 L). VC deliberately excludes RV because residual air cannot be exhaled; adding RV (1100 mL) would give TLC, 4800 mL, not VC.",
+  "explanation_incorrect": {
+    "A": "2500 mL is IRV + VT, the inspiratory capacity; it leaves out the expiratory reserve volume.",
+    "B": "1700 mL is VT + ERV and wrongly omits the inspiratory reserve volume.",
+    "D": "3200 mL is IRV + ERV and wrongly omits the tidal volume.",
+    "E": "4800 mL is VC + RV, ie, total lung capacity; RV must be excluded from vital capacity."
+  },
+  "educationalObjective": "Vital capacity = IRV + VT + ERV; it excludes residual volume, which distinguishes it from total lung capacity.",
+  "source": "Generated from 16. Respiratory.pdf - Physiology: Lung volumes and capacities"
+},
+{
+  "id": "res-055",
+  "subject": "Respiratory",
+  "major_topic": "Physiology",
+  "subtopic": "Lung volumes and capacities",
+  "difficulty": "easy",
+  "vignette": "During a physiology review, a student is asked to match each lung volume to its definition. One volume is described as the air that can still be breathed out after a normal expiration.",
+  "question": "Which lung volume does this description define?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Expiratory reserve volume (ERV)"
+    },
+    {
+      "id": "B",
+      "text": "Inspiratory reserve volume (IRV)"
+    },
+    {
+      "id": "C",
+      "text": "Tidal volume (VT)"
+    },
+    {
+      "id": "D",
+      "text": "Residual volume (RV)"
+    },
+    {
+      "id": "E",
+      "text": "Inspiratory capacity (IC)"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "By definition, ERV is the additional air that can still be breathed out after a normal (tidal) expiration, that is, the volume exhaled when a person forcibly empties the lungs beyond a normal breath. It is one of the four basic lung volumes and is measurable by spirometry. It forms part of FRC (RV + ERV) and of VC (IRV + VT + ERV).",
+  "explanation_incorrect": {
+    "B": "IRV is air that can still be breathed in after a normal inspiration, not air breathed out after a normal expiration.",
+    "C": "VT is the volume of air that moves with each quiet breath, not the extra volume exhaled beyond it.",
+    "D": "RV is the air left after maximal expiration, not the extra air exhaled after a normal expiration.",
+    "E": "IC is a capacity (IRV + VT), not a volume, and describes air breathed in after a normal exhalation."
+  },
+  "educationalObjective": "Expiratory reserve volume is the extra air exhaled after a normal tidal expiration.",
+  "source": "Generated from 16. Respiratory.pdf - Physiology: Lung volumes and capacities"
+},
+{
+  "id": "res-056",
+  "subject": "Respiratory",
+  "major_topic": "Physiology",
+  "subtopic": "Lung volumes and capacities",
+  "difficulty": "hard",
+  "vignette": "A researcher is analyzing a spirogram. She notes that the volume of gas present in a subject's lungs after a maximal inspiration is 5800 mL, and the volume present after a maximal expiration is 1100 mL.",
+  "question": "Which of the following best represents the subject's total lung capacity (TLC) and vital capacity (VC), respectively?",
+  "options": [
+    {
+      "id": "A",
+      "text": "TLC 4700 mL; VC 5800 mL, swapping the two values"
+    },
+    {
+      "id": "B",
+      "text": "TLC 1100 mL; VC 5800 mL, using the residual volume as TLC"
+    },
+    {
+      "id": "C",
+      "text": "TLC 5800 mL; VC 1100 mL, using the residual volume as VC"
+    },
+    {
+      "id": "D",
+      "text": "TLC 4700 mL; VC 3600 mL, subtracting RV twice"
+    },
+    {
+      "id": "E",
+      "text": "TLC 5800 mL; VC 4700 mL, with VC equal to TLC minus RV"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "TLC is the volume of gas in the lungs after a maximal inspiration, given here as 5800 mL. The gas left after a maximal expiration is RV, 1100 mL. Because TLC = VC + RV, VC = TLC minus RV = 5800 - 1100 = 4700 mL. Vital capacity is the maximum volume that can be expired after a maximal inspiration, so it equals the difference between these two end points.",
+  "explanation_incorrect": {
+    "A": "This reverses the values: TLC is the larger post-maximal-inspiration volume, not the smaller expired volume.",
+    "B": "1100 mL is the residual volume, not TLC; TLC is the gas present after maximal inspiration.",
+    "C": "1100 mL is RV; VC must exclude RV, so VC cannot equal 1100 mL.",
+    "D": "3600 mL results from subtracting RV twice (5800 minus 2 times 1100); VC subtracts RV only once."
+  },
+  "educationalObjective": "TLC is gas after maximal inspiration, RV is gas after maximal expiration, and VC = TLC - RV.",
+  "source": "Generated from 16. Respiratory.pdf - Physiology: Lung volumes and capacities"
+},
+{
+  "id": "res-057",
+  "subject": "Respiratory",
+  "major_topic": "Physiology",
+  "subtopic": "Lung volumes and capacities",
+  "difficulty": "medium",
+  "vignette": "A healthy subject's spirometry report lists the following: tidal volume 500 mL, inspiratory reserve volume 2500 mL, expiratory reserve volume 1000 mL, and residual volume 1200 mL.",
+  "question": "What is the subject's functional residual capacity (FRC)?",
+  "options": [
+    {
+      "id": "A",
+      "text": "1000 mL, ERV alone"
+    },
+    {
+      "id": "B",
+      "text": "2200 mL, RV + ERV"
+    },
+    {
+      "id": "C",
+      "text": "1200 mL, RV alone"
+    },
+    {
+      "id": "D",
+      "text": "3500 mL, IRV + ERV (using IRV instead of RV)"
+    },
+    {
+      "id": "E",
+      "text": "4000 mL, IRV + VT + ERV (vital capacity)"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "FRC equals RV + ERV and is the volume of gas in the lungs after a normal expiration. With RV 1200 mL and ERV 1000 mL, FRC = 1200 + 1000 = 2200 mL (2.2 L). At FRC the outward pull of the chest wall is balanced by the inward collapsing force of the lungs. Because FRC includes RV, it cannot be measured by spirometry.",
+  "explanation_incorrect": {
+    "A": "1000 mL is ERV alone; FRC also includes the residual volume.",
+    "C": "1200 mL is RV alone; FRC also includes the expiratory reserve volume.",
+    "D": "3500 mL comes from IRV + ERV, substituting IRV for RV; IRV is not part of FRC.",
+    "E": "4000 mL is IRV + VT + ERV, ie, vital capacity, not FRC."
+  },
+  "educationalObjective": "FRC = RV + ERV, the gas remaining after a normal expiration, and it cannot be measured by spirometry.",
+  "source": "Generated from 16. Respiratory.pdf - Physiology: Lung volumes and capacities"
+},
+{
+  "id": "res-058",
+  "subject": "Respiratory",
+  "major_topic": "Physiology",
+  "subtopic": "Lung volumes and capacities",
+  "difficulty": "medium",
+  "vignette": "A medical student is reviewing the four lung capacities. She correctly recalls that IC = IRV + VT, FRC = RV + ERV, and VC = IRV + VT + ERV, but she wants to confirm the composition of TLC.",
+  "question": "Which of the following correctly expresses total lung capacity in terms of the four lung volumes?",
+  "options": [
+    {
+      "id": "A",
+      "text": "IRV + VT + ERV"
+    },
+    {
+      "id": "B",
+      "text": "IRV + VT"
+    },
+    {
+      "id": "C",
+      "text": "RV + ERV"
+    },
+    {
+      "id": "D",
+      "text": "IRV + VT + ERV + RV"
+    },
+    {
+      "id": "E",
+      "text": "IRV + VT + RV"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "TLC is the volume of gas present in the lungs after a maximal inspiration. It is the sum of all four lung volumes: IRV + VT + ERV + RV. Equivalently, TLC = VC + RV, because VC already equals IRV + VT + ERV. Since it includes RV, TLC cannot be measured by spirometry.",
+  "explanation_incorrect": {
+    "A": "IRV + VT + ERV is vital capacity; it omits RV.",
+    "B": "IRV + VT is inspiratory capacity only.",
+    "C": "RV + ERV is functional residual capacity only.",
+    "E": "IRV + VT + RV omits ERV, so it is not the full TLC."
+  },
+  "educationalObjective": "TLC = IRV + VT + ERV + RV = VC + RV, the gas in the lungs after maximal inspiration.",
+  "source": "Generated from 16. Respiratory.pdf - Physiology: Lung volumes and capacities"
+}
+]

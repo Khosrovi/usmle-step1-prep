@@ -1,0 +1,248 @@
+[
+{
+  "id": "res-069",
+  "subject": "Respiratory",
+  "major_topic": "Physiology",
+  "subtopic": "Lung and chest wall mechanics: compliance and elastic recoil",
+  "difficulty": "easy",
+  "vignette": "A physiology class reviews the pressure-volume behavior of the lung. The instructor draws two curves: one recorded while the lung is being inflated and one while it is being deflated, and notes that they do not overlap.",
+  "question": "What is the term for the difference in pressure between the inflation and deflation limbs of the lung pressure-volume curve?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Hysteresis"
+    },
+    {
+      "id": "B",
+      "text": "Compliance"
+    },
+    {
+      "id": "C",
+      "text": "Elastic recoil"
+    },
+    {
+      "id": "D",
+      "text": "Surface tension"
+    },
+    {
+      "id": "E",
+      "text": "Functional residual capacity"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Hysteresis is the difference between the pressure of inhalation, when volume is increasing, and the pressure of exhalation, when volume is decreasing, on the lung pressure-volume curve. It arises because lung inflation follows a different pressure-volume curve than deflation, owing to the need to overcome surface tension forces during inflation. Because the pressures are small, pulmonary pressures are always presented in cm H2O.",
+  "explanation_incorrect": {
+    "B": "Compliance is the change in volume per change in pressure, a measure of distensibility, not the gap between the two limbs.",
+    "C": "Elastic recoil is the tendency of the lungs to collapse inward and the chest wall to spring outward.",
+    "D": "Surface tension is one cause of the hysteresis, not the name of the pressure difference itself.",
+    "E": "FRC is a lung volume, not a feature of the pressure-volume curve."
+  },
+  "educationalObjective": "Hysteresis is the pressure difference between inflation and deflation limbs of the lung pressure-volume curve, caused by surface tension.",
+  "source": "Generated from 16. Respiratory.pdf - Physiology: Lung and chest wall mechanics: compliance and elastic recoil"
+},
+{
+  "id": "res-070",
+  "subject": "Respiratory",
+  "major_topic": "Physiology",
+  "subtopic": "Lung and chest wall mechanics: compliance and elastic recoil",
+  "difficulty": "medium",
+  "vignette": "A 68-year-old man with emphysema undergoes pulmonary function testing. His lungs are unusually easy to inflate and hold a large volume at low pressures.",
+  "question": "Which of the following best describes his lung compliance and elastic recoil?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Increased compliance and increased elastic recoil"
+    },
+    {
+      "id": "B",
+      "text": "Decreased compliance and decreased elastic recoil"
+    },
+    {
+      "id": "C",
+      "text": "Increased compliance and decreased elastic recoil"
+    },
+    {
+      "id": "D",
+      "text": "Decreased compliance and increased elastic recoil"
+    },
+    {
+      "id": "E",
+      "text": "Normal compliance and normal elastic recoil"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Compliance is the change in lung volume per change in pressure (ΔV/ΔP), is inversely proportional to wall stiffness, and is increased by surfactant. In emphysema, as in older adults, compliance is increased: the lung is easier to fill and accepts a large volume for a small pressure change. With loss of elastic tissue the inward elastic recoil of the lung is reduced, so the lungs recoil poorly. Emphysema therefore shows increased compliance with decreased elastic recoil.",
+  "explanation_incorrect": {
+    "A": "Increased elastic recoil is wrong; emphysematous lungs have lost elastic tissue and recoil poorly.",
+    "B": "Compliance is increased, not decreased, in emphysema.",
+    "D": "Both directions are reversed: compliance is increased and recoil is decreased.",
+    "E": "Emphysema clearly alters both compliance and elastic recoil."
+  },
+  "educationalObjective": "Emphysema (and aging) increase lung compliance and reduce elastic recoil, making the lung easy to fill but poor at emptying.",
+  "source": "Generated from 16. Respiratory.pdf - Physiology: Lung and chest wall mechanics: compliance and elastic recoil"
+},
+{
+  "id": "res-071",
+  "subject": "Respiratory",
+  "major_topic": "Physiology",
+  "subtopic": "Lung and chest wall mechanics: compliance and elastic recoil",
+  "difficulty": "hard",
+  "vignette": "A 40-year-old woman with pulmonary fibrosis has stiff lungs that are difficult to inflate. Her physician explains that her lung compliance is reduced.",
+  "question": "If a patient's lung compliance is reduced, which of the following consequences is most directly expected?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The lung will be easier to fill and will hold more gas at a given pressure"
+    },
+    {
+      "id": "B",
+      "text": "Elastic recoil will be decreased, and the lungs will collapse less"
+    },
+    {
+      "id": "C",
+      "text": "A given pressure change will produce a larger volume change"
+    },
+    {
+      "id": "D",
+      "text": "Compliance will be increased by removing surfactant"
+    },
+    {
+      "id": "E",
+      "text": "A given volume change will require a larger pressure change, making the lung harder to fill"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Compliance equals ΔV/ΔP and is inversely proportional to wall stiffness. If compliance is reduced, as in pulmonary fibrosis, pneumonia, ARDS, or pulmonary edema, then for a given ΔV the required ΔP is larger; the lung is stiffer and more difficult to fill. Equivalently, a given pressure produces a smaller volume change. Surfactant normally increases compliance, so removing it would decrease, not increase, compliance.",
+  "explanation_incorrect": {
+    "A": "Reduced compliance makes the lung harder, not easier, to fill, so it holds less gas at a given pressure.",
+    "B": "Fibrotic, stiff lungs have increased, not decreased, recoil tendency.",
+    "C": "ΔV/ΔP is smaller when compliance is reduced, so a given pressure yields a smaller volume change.",
+    "D": "Surfactant increases compliance, so removing surfactant would lower compliance further."
+  },
+  "educationalObjective": "Reduced compliance (fibrosis, pneumonia, ARDS, edema) means a larger pressure change is needed for a given volume change: the lung is harder to fill.",
+  "source": "Generated from 16. Respiratory.pdf - Physiology: Lung and chest wall mechanics: compliance and elastic recoil"
+},
+{
+  "id": "res-072",
+  "subject": "Respiratory",
+  "major_topic": "Physiology",
+  "subtopic": "Lung and chest wall mechanics: compliance and elastic recoil",
+  "difficulty": "medium",
+  "vignette": "At functional residual capacity, a healthy subject's respiratory muscles are relaxed. The clinician measures pressures and notes that airway and alveolar pressures are equal to atmospheric pressure, while intrapleural pressure is negative.",
+  "question": "Which of the following statements about FRC is correct?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Airway pressure is below atmospheric pressure, driving air inward"
+    },
+    {
+      "id": "B",
+      "text": "The inward pull of the lung exceeds the outward pull of the chest wall"
+    },
+    {
+      "id": "C",
+      "text": "The inward pull of the lung is balanced by the outward pull of the chest wall, and pulmonary vascular resistance is at a minimum"
+    },
+    {
+      "id": "D",
+      "text": "Intrapleural pressure is positive, preventing alveolar collapse"
+    },
+    {
+      "id": "E",
+      "text": "Alveolar pressure is well above atmospheric pressure"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "At FRC, airway and alveolar pressures equal atmospheric pressure, which is called zero, while intrapleural pressure is negative, preventing atelectasis. The inward collapsing pull of the lung is exactly balanced by the outward pull of the chest wall, so with the muscles relaxed there is no net pressure driving air movement. System pressure is atmospheric and pulmonary vascular resistance is at a minimum at FRC.",
+  "explanation_incorrect": {
+    "A": "At FRC airway and alveolar pressures equal atmospheric pressure (zero), not a subatmospheric value.",
+    "B": "The forces are balanced; the inward lung pull does not exceed the outward chest-wall pull.",
+    "D": "Intrapleural pressure is negative at FRC, not positive; the negativity helps prevent atelectasis.",
+    "E": "Alveolar pressure equals atmospheric pressure at FRC, not a value above it."
+  },
+  "educationalObjective": "At FRC, alveolar and airway pressure equal atmospheric, intrapleural pressure is negative, lung and chest-wall forces balance, and PVR is minimal.",
+  "source": "Generated from 16. Respiratory.pdf - Physiology: Lung and chest wall mechanics: compliance and elastic recoil"
+},
+{
+  "id": "res-073",
+  "subject": "Respiratory",
+  "major_topic": "Physiology",
+  "subtopic": "Lung and chest wall mechanics: compliance and elastic recoil",
+  "difficulty": "easy",
+  "vignette": "A student is reviewing the definition of elastic recoil. She reads that it is the tendency for one structure to collapse inward and another to spring outward.",
+  "question": "Elastic recoil refers to the tendency of the lungs to collapse inward and which structure to spring outward?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The diaphragm"
+    },
+    {
+      "id": "B",
+      "text": "The trachea"
+    },
+    {
+      "id": "C",
+      "text": "The pleural space"
+    },
+    {
+      "id": "D",
+      "text": "The chest wall"
+    },
+    {
+      "id": "E",
+      "text": "The alveolar ducts"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Elastic recoil is the tendency for the lungs to collapse inward and the chest wall to spring outward. At FRC these opposing forces are balanced, with the inward pull of the lung matched by the outward pull of the chest wall. This balance of recoils is why the relaxed respiratory system settles at FRC.",
+  "explanation_incorrect": {
+    "A": "The diaphragm is a muscle of inspiration, not the elastic structure whose outward spring balances lung recoil.",
+    "B": "The trachea is a conducting airway, not the elastic structure opposing lung recoil.",
+    "C": "The pleural space is a potential space, not a structure that generates elastic recoil.",
+    "E": "Alveolar ducts are part of the lung parenchyma and share the inward recoil, not the outward force."
+  },
+  "educationalObjective": "Elastic recoil = inward lung collapse balanced by outward chest-wall spring.",
+  "source": "Generated from 16. Respiratory.pdf - Physiology: Lung and chest wall mechanics: compliance and elastic recoil"
+},
+{
+  "id": "res-074",
+  "subject": "Respiratory",
+  "major_topic": "Physiology",
+  "subtopic": "Lung and chest wall mechanics: compliance and elastic recoil",
+  "difficulty": "medium",
+  "vignette": "A researcher compares lungs from a healthy adult and from a patient with pulmonary fibrosis. She measures the pressure-volume relationship and notes that the fibrotic lung requires much higher inflation pressures for the same volume change.",
+  "question": "Which of the following best explains the reduced compliance of the fibrotic lung?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Fibrosis increases surfactant production, which stiffens the lung"
+    },
+    {
+      "id": "B",
+      "text": "Fibrosis decreases alveolar wall stiffness, making the lung easier to fill"
+    },
+    {
+      "id": "C",
+      "text": "Fibrosis raises airway resistance, the main determinant of compliance"
+    },
+    {
+      "id": "D",
+      "text": "Fibrosis increases compliance by destroying elastic tissue"
+    },
+    {
+      "id": "E",
+      "text": "Fibrosis increases wall stiffness; compliance (ΔV/ΔP) is inversely proportional to stiffness"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Compliance is defined as ΔV/ΔP and is inversely proportional to wall stiffness. Fibrotic lungs are stiff, so for a given volume change a larger pressure change is required and compliance is reduced; the lung is difficult to fill. This is the opposite of emphysema, in which elastic tissue is destroyed and compliance is increased. Surfactant normally increases compliance, and airway resistance is a separate mechanical property from compliance.",
+  "explanation_incorrect": {
+    "A": "Surfactant increases compliance; fibrosis does not stiffen the lung by increasing surfactant.",
+    "B": "Fibrosis increases, not decreases, wall stiffness, making the lung harder to fill.",
+    "C": "Airway resistance is distinct from compliance, which reflects elastic stiffness of the lung tissue.",
+    "D": "Destruction of elastic tissue with increased compliance describes emphysema, not fibrosis."
+  },
+  "educationalObjective": "Compliance = ΔV/ΔP is inversely proportional to wall stiffness; fibrosis stiffens lung tissue and lowers compliance (opposite of emphysema).",
+  "source": "Generated from 16. Respiratory.pdf - Physiology: Lung and chest wall mechanics: compliance and elastic recoil"
+}
+]

@@ -1,0 +1,289 @@
+[
+{
+  "id": "res-108",
+  "subject": "Respiratory",
+  "major_topic": "Physiology",
+  "subtopic": "Response to high altitude and exercise",
+  "difficulty": "easy",
+  "vignette": "A 28-year-old man with no medical problems flies to a city at 4500 m and within hours develops headache, nausea, fatigue, lightheadedness, and disturbed sleep. He is tachypneic. Arterial blood gas shows pH 7.50, PaCO2 30 mm Hg, and PaO2 55 mm Hg.",
+  "question": "Which of the following best describes the sequence of physiologic changes that produced this acute altitude sickness?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Decreased FIO2 reduces PIO2 and PaO2, driving hyperventilation, hypocapnia, and respiratory alkalosis."
+    },
+    {
+      "id": "B",
+      "text": "Decreased barometric pressure reduces PIO2 and PaO2, driving hyperventilation, hypocapnia, and respiratory alkalosis."
+    },
+    {
+      "id": "C",
+      "text": "Increased barometric pressure raises PIO2 and PaO2, causing hypoventilation, hypercapnia, and respiratory acidosis."
+    },
+    {
+      "id": "D",
+      "text": "Decreased PaO2 suppresses ventilation, raising PaCO2 and producing respiratory acidosis."
+    },
+    {
+      "id": "E",
+      "text": "Hypoxemia directly causes renal HCO3 retention, producing metabolic alkalosis and compensatory hypoventilation."
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "At altitude the fractional concentration of inspired oxygen (FIO2) is unchanged at about 21%, but the lower barometric pressure (PB) lowers the inspired PO2 (PIO2 = FIO2 x (PB - 47)). The fall in PIO2 lowers alveolar and arterial PO2, and hypoxemia stimulates peripheral chemoreceptors to increase ventilation. Hyperventilation washes out CO2, lowering PaCO2 and producing a respiratory alkalosis, which underlies the headache, nausea, fatigue, lightheadedness, and sleep disturbance of acute altitude sickness. The alkalosis is later compensated by renal HCO3 excretion.",
+  "explanation_incorrect": {
+    "A": "FIO2 stays constant at altitude; it is the barometric pressure, not the inspired oxygen fraction, that falls.",
+    "C": "Barometric pressure decreases rather than increases at altitude, and the primary disturbance is respiratory alkalosis, not acidosis.",
+    "D": "Hypoxemia stimulates rather than suppresses ventilation, so PaCO2 falls and pH rises rather than the reverse.",
+    "E": "The primary event is respiratory alkalosis from hyperventilation; the kidneys compensate by excreting (not retaining) HCO3, and ventilation is increased, not suppressed."
+  },
+  "educationalObjective": "At altitude, constant FIO2 with reduced barometric pressure lowers PIO2 and PaO2, causing hyperventilation, hypocapnia, and respiratory alkalosis.",
+  "source": "Generated from 16. Respiratory.pdf - Physiology: Response to high altitude and exercise"
+},
+{
+  "id": "res-109",
+  "subject": "Respiratory",
+  "major_topic": "Physiology",
+  "subtopic": "Response to high altitude and exercise",
+  "difficulty": "medium",
+  "vignette": "A 35-year-old woman has lived at high altitude for several weeks. Her hematocrit has risen, and her oxyhemoglobin dissociation curve is shifted to the right beyond what her near-normal pH and PaCO2 would predict. Tissue oxygen unloading is improved.",
+  "question": "Which mechanism best explains this rightward shift of the oxyhemoglobin dissociation curve during chronic high-altitude adaptation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Increased glycosylation of hemoglobin (HbA1c) lowers its oxygen affinity."
+    },
+    {
+      "id": "B",
+      "text": "CO2 retention from hypoventilation raises H+ concentration and shifts the curve right."
+    },
+    {
+      "id": "C",
+      "text": "Increased glycolysis and BPG mutase activity raise 2,3-BPG, which binds hemoglobin and promotes oxygen release."
+    },
+    {
+      "id": "D",
+      "text": "Decreased 2,3-BPG production lowers oxygen affinity and enhances tissue unloading."
+    },
+    {
+      "id": "E",
+      "text": "Oxidation of hemoglobin iron to the ferric state increases oxygen unloading to tissues."
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Chronic hypoxemia at altitude increases glycolytic flux and the isomerization of glucose-1,3-bisphosphate by BPG mutase, raising red cell 2,3-BPG. 2,3-BPG binds to the central cavity of deoxyhemoglobin, stabilizing the low-affinity T state and shifting the oxyhemoglobin dissociation curve to the right. A right shift means a lower affinity for oxygen, so at a given PO2 more oxygen is released to tissues. This complements the rise in hemoglobin mass driven by erythropoietin. It is distinct from the Bohr effect, since ventilation is increased and the respiratory alkalosis is largely renal-compensated.",
+  "explanation_incorrect": {
+    "A": "Glycosylated hemoglobin is a marker of glycemic control; it is not the acute adaptive mechanism that shifts the curve at altitude.",
+    "B": "At altitude ventilation is increased, so PaCO2 falls rather than being retained; the persistent right shift is due to 2,3-BPG.",
+    "D": "The change is an increase, not a decrease, in 2,3-BPG; less 2,3-BPG would raise oxygen affinity and impair unloading.",
+    "E": "Oxidation of iron to ferric Fe3+ produces methemoglobin, which cannot carry oxygen and is not the mechanism of adaptive right shift."
+  },
+  "educationalObjective": "High altitude raises 2,3-BPG via increased glycolysis and BPG mutase, right-shifting the ODC and increasing oxygen release to tissues.",
+  "source": "Generated from 16. Respiratory.pdf - Physiology: Response to high altitude and exercise"
+},
+{
+  "id": "res-110",
+  "subject": "Respiratory",
+  "major_topic": "Physiology",
+  "subtopic": "Response to high altitude and exercise",
+  "difficulty": "medium",
+  "vignette": "A 40-year-old man relocates from sea level to a high-altitude town. Over the next several weeks his hematocrit rises from 42% to 55% and his hemoglobin concentration increases correspondingly. His arterial PO2 remains low but his oxygen-carrying capacity improves.",
+  "question": "Which mediator, released from which organ, is primarily responsible for this adaptation to chronic hypoxemia?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Erythropoietin released primarily from the kidneys in response to chronic hypoxemia."
+    },
+    {
+      "id": "B",
+      "text": "Aldosterone released from the adrenal cortex in response to hypoxemia."
+    },
+    {
+      "id": "C",
+      "text": "2,3-BPG released from the lungs, directly stimulating bone marrow erythropoiesis."
+    },
+    {
+      "id": "D",
+      "text": "Reduced erythropoietin secretion from the liver, concentrating red blood cells."
+    },
+    {
+      "id": "E",
+      "text": "Increased intestinal vitamin B12 absorption driven by hypoxia."
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Chronic hypoxemia at altitude is sensed by renal interstitial cells, which increase secretion of erythropoietin (EPO), primarily from the kidneys. EPO acts on bone marrow to increase red blood cell production, raising hematocrit and hemoglobin concentration and thereby increasing oxygen-carrying capacity. This is a slower adaptation than the immediate hyperventilatory response and the 2,3-BPG shift. The rise in hematocrit improves delivery despite a persistently low PaO2. (Excessive adaptation can be maladaptive through hyperviscosity.)",
+  "explanation_incorrect": {
+    "B": "Aldosterone regulates sodium and volume, not red cell mass, and is not the hypoxic stimulus for erythropoiesis.",
+    "C": "2,3-BPG is produced within red cells and modifies hemoglobin's oxygen affinity; it does not stimulate marrow or come from the lungs.",
+    "D": "Erythropoietin rises, not falls, with hypoxemia, and the kidneys are the principal source in adults.",
+    "E": "Vitamin B12 absorption is not the regulated hypoxic response; the dominant mechanism is EPO-driven erythropoiesis."
+  },
+  "educationalObjective": "Chronic hypoxemia at altitude increases renal erythropoietin, raising hematocrit and hemoglobin to improve oxygen-carrying capacity.",
+  "source": "Generated from 16. Respiratory.pdf - Physiology: Response to high altitude and exercise"
+},
+{
+  "id": "res-111",
+  "subject": "Respiratory",
+  "major_topic": "Physiology",
+  "subtopic": "Response to high altitude and exercise",
+  "difficulty": "medium",
+  "vignette": "A 24-year-old climber ascends rapidly and develops acute mountain sickness with headache and nausea. Arterial blood gas shows pH 7.51 and PaCO2 28 mm Hg. Her physician administers acetazolamide to speed acclimatization.",
+  "question": "Acetazolamide is useful at altitude because it augments which of the following compensatory processes?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Renal HCO3 reabsorption, which amplifies the respiratory alkalosis."
+    },
+    {
+      "id": "B",
+      "text": "Hypoventilation with CO2 retention, which directly lowers blood pH."
+    },
+    {
+      "id": "C",
+      "text": "Increasing the FIO2 of inspired gas at high altitude."
+    },
+    {
+      "id": "D",
+      "text": "Renal HCO3 excretion, which compensates for the respiratory alkalosis."
+    },
+    {
+      "id": "E",
+      "text": "Direct stimulation of ventilation by carbonic anhydrase in the brainstem, independent of bicarbonate."
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "At altitude, hyperventilation lowers PaCO2 and produces respiratory alkalosis. The normal renal compensation is to increase bicarbonate excretion, lowering plasma HCO3 and bringing pH back toward normal. Acetazolamide, a carbonic anhydrase inhibitor, enhances renal HCO3 excretion and thereby accelerates this compensation, hastening acclimatization and improving symptoms of acute mountain sickness. It can also mildly stimulate ventilation by producing a metabolic acidosis. The key benefit is augmenting bicarbonate loss, not retaining it.",
+  "explanation_incorrect": {
+    "A": "Acetazolamide causes bicarbonate loss, not reabsorption; retaining HCO3 would worsen the alkalosis.",
+    "B": "Ventilation is increased at altitude; acetazolamide does not work by inducing hypoventilation or CO2 retention.",
+    "C": "No drug can raise the inspired oxygen fraction at altitude; acetazolamide acts on renal bicarbonate handling.",
+    "E": "The principal acclimatization effect is renal HCO3 excretion; a direct brainstem ventilatory effect independent of bicarbonate is not the primary mechanism."
+  },
+  "educationalObjective": "Acetazolamide speeds altitude acclimatization by increasing renal bicarbonate excretion, compensating the respiratory alkalosis of hyperventilation.",
+  "source": "Generated from 16. Respiratory.pdf - Physiology: Response to high altitude and exercise"
+},
+{
+  "id": "res-112",
+  "subject": "Respiratory",
+  "major_topic": "Physiology",
+  "subtopic": "Response to high altitude and exercise",
+  "difficulty": "hard",
+  "vignette": "A 55-year-old man has lived at 4000 m for most of his life. He now presents with progressive dyspnea, edema, and signs of right heart failure. Echocardiography shows pulmonary hypertension and right ventricular hypertrophy. He has no left-sided valvular or ischemic heart disease.",
+  "question": "Which mechanism best explains the development of pulmonary hypertension and right ventricular hypertrophy in this long-term high-altitude resident?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Hypoxia-driven pulmonary angiogenesis increases the capillary bed and lowers pulmonary vascular resistance."
+    },
+    {
+      "id": "B",
+      "text": "Chronic left ventricular failure raises pulmonary venous pressure and secondarily dilates the right ventricle."
+    },
+    {
+      "id": "C",
+      "text": "Chronic hypoxic pulmonary vasoconstriction increases pulmonary vascular resistance, leading to pulmonary hypertension and right ventricular hypertrophy."
+    },
+    {
+      "id": "D",
+      "text": "Increased endothelial nitric oxide production causes pulmonary vasodilation and reactive right ventricular hypertrophy."
+    },
+    {
+      "id": "E",
+      "text": "Systemic vasoconstriction raises left ventricular afterload, which secondarily hypertrophies the right ventricle."
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Alveolar hypoxia causes pulmonary arterioles to constrict (hypoxic pulmonary vasoconstriction), a local mechanism that normally diverts blood away from poorly ventilated regions. When hypoxia is global and chronic, as at high altitude, this vasoconstriction is diffuse and sustained, remodeling the pulmonary vasculature and raising pulmonary vascular resistance. The resulting pulmonary hypertension imposes a pressure load on the right ventricle, producing right ventricular hypertrophy and eventually cor pulmonale. The other choices either lower pulmonary resistance or invoke left-heart disease, which is excluded.",
+  "explanation_incorrect": {
+    "A": "More capillaries would lower resistance; chronic hypoxia instead causes vasoconstriction and vascular remodeling that raise resistance.",
+    "B": "He has no left-sided heart disease, and left heart failure would cause passive pulmonary venous congestion rather than this primary picture.",
+    "D": "Nitric oxide is a vasodilator that would lower pulmonary pressure; chronic hypoxia reduces vasodilator influence rather than increasing it.",
+    "E": "Systemic afterload affects the left ventricle, not the right; the right ventricle is loaded by pulmonary vascular resistance."
+  },
+  "educationalObjective": "Global chronic alveolar hypoxia at altitude sustains hypoxic pulmonary vasoconstriction, raising PVR and causing pulmonary hypertension with RVH.",
+  "source": "Generated from 16. Respiratory.pdf - Physiology: Response to high altitude and exercise"
+},
+{
+  "id": "res-113",
+  "subject": "Respiratory",
+  "major_topic": "Physiology",
+  "subtopic": "Response to high altitude and exercise",
+  "difficulty": "easy",
+  "vignette": "A healthy 22-year-old begins running on a treadmill. Within minutes, heart rate and stroke volume rise, and pulmonary blood flow increases substantially. At rest, ventilation and perfusion are both greater at the lung bases than at the apices.",
+  "question": "Which of the following best describes the effect of exercise on ventilation-perfusion (V/Q) matching in the lungs?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Cardiac output falls during exercise, reducing pulmonary blood flow to both apices and bases."
+    },
+    {
+      "id": "B",
+      "text": "Increased heart rate and stroke volume raise cardiac output and pulmonary blood flow, making the V/Q ratio more uniform from base to apex."
+    },
+    {
+      "id": "C",
+      "text": "Exercise widens the normal apex-to-base V/Q difference, making perfusion more uneven."
+    },
+    {
+      "id": "D",
+      "text": "Reflective bronchoconstriction shunts airflow away from the bases, equalizing perfusion."
+    },
+    {
+      "id": "E",
+      "text": "Pulmonary blood flow is abolished at the apices during exercise, leaving only the bases perfused."
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Exercise increases heart rate and stroke volume, raising cardiac output and pulmonary blood flow. The additional flow recruits and distends apical pulmonary capillaries that are relatively underperfused at rest. Because perfusion increases most in the previously underperfused apices, the V/Q ratio becomes more uniform from base to apex during exercise. Ventilation also rises, but the improvement in perfusion distribution is the key mechanism. This improves gas exchange efficiency during increased metabolic demand.",
+  "explanation_incorrect": {
+    "A": "Cardiac output rises, not falls, during exercise, and pulmonary blood flow increases.",
+    "C": "Exercise narrows rather than widens the regional V/Q differences, because apical perfusion increases.",
+    "D": "Bronchoconstriction is not the mechanism; the change is driven by increased perfusion and capillary recruitment.",
+    "E": "The apices remain perfused and actually receive more flow during exercise; they are not abolished."
+  },
+  "educationalObjective": "Exercise raises cardiac output and pulmonary blood flow, recruiting apical capillaries and making V/Q more uniform from base to apex.",
+  "source": "Generated from 16. Respiratory.pdf - Physiology: Response to high altitude and exercise"
+},
+{
+  "id": "res-114",
+  "subject": "Respiratory",
+  "major_topic": "Physiology",
+  "subtopic": "Response to high altitude and exercise",
+  "difficulty": "hard",
+  "vignette": "A 30-year-old man is performing strenuous leg exercise. His working muscle generates large amounts of CO2 and consumes O2 at a high rate. Despite the metabolic stress, his arterial blood gases remain nearly normal and he is not hypoxemic.",
+  "question": "Which of the following sets of changes would be expected in the exercising muscle and in his mixed venous blood?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Rising tissue pH shifts the ODC left, decreasing oxygen unloading; PvO2 rises as muscles extract less oxygen."
+    },
+    {
+      "id": "B",
+      "text": "Reduced CO2 production lowers tissue H+ concentration; PvCO2 falls even as oxygen consumption climbs."
+    },
+    {
+      "id": "C",
+      "text": "Mixed venous PO2 increases while PaO2 and PaCO2 shift markedly from their resting values."
+    },
+    {
+      "id": "D",
+      "text": "Increased O2 extraction raises PvO2, and the arterial PaO2 and PaCO2 fall substantially during exercise."
+    },
+    {
+      "id": "E",
+      "text": "Increased cellular respiration produces CO2 and lowers tissue pH, right-shifting the ODC to unload more O2; PvO2 falls and PvCO2 rises while PaO2 and PaCO2 stay roughly maintained."
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "During exercise, increased cellular respiration raises CO2 production and tissue H+ concentration (lower pH), producing a local right shift of the oxygen dissociation curve (Bohr effect) that enhances O2 unloading to muscle. Because muscles extract more oxygen, mixed venous PO2 (PvO2) falls, and because they produce more CO2, mixed venous PCO2 (PvCO2) rises. Ventilation and perfusion increase in parallel, so arterial PaO2 and PaCO2 remain near normal. The wider arterial-venous O2 difference reflects the increased O2 consumption.",
+  "explanation_incorrect": {
+    "A": "Tissue pH falls, not rises, and the resulting right shift increases unloading; PvO2 falls because muscles extract more oxygen.",
+    "B": "CO2 production rises and tissue pH falls; PvCO2 rises accordingly rather than falling.",
+    "C": "PvO2 falls due to increased extraction, and PaO2/PaCO2 are maintained rather than shifting markedly.",
+    "D": "Increased O2 extraction lowers PvO2, and arterial gases are homeostatically maintained near resting values."
+  },
+  "educationalObjective": "Exercise causes a local right shift and increased O2 offloading with falling PvO2 and rising PvCO2, while arterial PaO2 and PaCO2 remain maintained.",
+  "source": "Generated from 16. Respiratory.pdf - Physiology: Response to high altitude and exercise"
+}
+]

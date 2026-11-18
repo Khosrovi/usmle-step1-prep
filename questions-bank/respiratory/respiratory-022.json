@@ -1,0 +1,207 @@
+[
+{
+  "id": "res-064",
+  "subject": "Respiratory",
+  "major_topic": "Physiology",
+  "subtopic": "Minute and alveolar ventilation",
+  "difficulty": "easy",
+  "vignette": "A healthy adult at rest has a respiratory rate of 15 breaths/min and a tidal volume of 500 mL per breath.",
+  "question": "What is this person's minute ventilation (VE)?",
+  "options": [
+    {
+      "id": "A",
+      "text": "500 mL/min, the tidal volume alone"
+    },
+    {
+      "id": "B",
+      "text": "150 mL/min, using the dead space volume as the per-breath volume"
+    },
+    {
+      "id": "C",
+      "text": "7500 mL/min, VT x RR"
+    },
+    {
+      "id": "D",
+      "text": "33 mL/min, tidal volume divided by respiratory rate"
+    },
+    {
+      "id": "E",
+      "text": "5250 mL/min, alveolar ventilation (VT - VD) x RR"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Minute ventilation VE = VT x RR. With VT 500 mL/breath and RR 15 breaths/min, VE = 500 x 15 = 7500 mL/min (7.5 L/min). VE is the total volume of gas entering and exiting the lungs per minute, including the portion that occupies dead space. Normal values are RR 12-20 breaths/min, VT about 500 mL/breath, and VD about 150 mL/breath.",
+  "explanation_incorrect": {
+    "A": "500 mL/min is the tidal volume per breath; minute ventilation multiplies by the respiratory rate.",
+    "B": "150 mL is the normal dead space per breath, not a per-minute ventilation.",
+    "D": "33 mL/min comes from dividing VT by RR (500/15) instead of multiplying them.",
+    "E": "5250 mL/min is alveolar ventilation, (VT - VD) x RR = 350 x 15, not total minute ventilation."
+  },
+  "educationalObjective": "Minute ventilation = VT x RR, the total gas moved per minute including dead space.",
+  "source": "Generated from 16. Respiratory.pdf - Physiology: Minute and alveolar ventilation"
+},
+{
+  "id": "res-065",
+  "subject": "Respiratory",
+  "major_topic": "Physiology",
+  "subtopic": "Minute and alveolar ventilation",
+  "difficulty": "medium",
+  "vignette": "A healthy adult has a respiratory rate of 12 breaths/min, a tidal volume of 500 mL, and an anatomic dead space of 150 mL.",
+  "question": "What is this person's alveolar ventilation (VA)?",
+  "options": [
+    {
+      "id": "A",
+      "text": "4200 mL/min, (VT - VD) x RR"
+    },
+    {
+      "id": "B",
+      "text": "6000 mL/min, VT x RR without subtracting dead space"
+    },
+    {
+      "id": "C",
+      "text": "1800 mL/min, VD x RR (dead space ventilation only)"
+    },
+    {
+      "id": "D",
+      "text": "350 mL/min, VT - VD without multiplying by RR"
+    },
+    {
+      "id": "E",
+      "text": "8400 mL/min, twice the correct alveolar ventilation"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Alveolar ventilation VA = (VT - VD) x RR and represents the volume of gas that actually reaches the alveoli each minute. Here (500 - 150) = 350 mL of fresh air per breath reaches the alveoli, and at 12 breaths/min VA = 350 x 12 = 4200 mL/min (4.2 L/min). Only alveolar ventilation participates in gas exchange; the dead-space portion is wasted ventilation.",
+  "explanation_incorrect": {
+    "B": "6000 mL/min is minute ventilation (VT x RR); it fails to subtract dead space.",
+    "C": "1800 mL/min is dead-space ventilation (VD x RR) alone, not alveolar ventilation.",
+    "D": "350 mL/min is the per-breath alveolar volume (VT - VD) without multiplying by RR.",
+    "E": "8400 mL/min is twice the correct value, an arithmetic doubling error."
+  },
+  "educationalObjective": "Alveolar ventilation = (VT - VD) x RR, the fresh gas reaching alveoli each minute.",
+  "source": "Generated from 16. Respiratory.pdf - Physiology: Minute and alveolar ventilation"
+},
+{
+  "id": "res-066",
+  "subject": "Respiratory",
+  "major_topic": "Physiology",
+  "subtopic": "Minute and alveolar ventilation",
+  "difficulty": "hard",
+  "vignette": "A patient's minute ventilation is measured at 9000 mL/min. His respiratory rate is 18 breaths/min and his tidal volume is 500 mL, values that are consistent with that minute ventilation. His dead space is 150 mL per breath.",
+  "question": "What fraction of his minute ventilation actually reaches the alveoli?",
+  "options": [
+    {
+      "id": "A",
+      "text": "30%, VD/VT = 150/500, the dead-space fraction"
+    },
+    {
+      "id": "B",
+      "text": "100%, assuming all minute ventilation reaches the alveoli"
+    },
+    {
+      "id": "C",
+      "text": "50%, half of the alveolar fraction"
+    },
+    {
+      "id": "D",
+      "text": "63%, computed by dividing VA (6300 mL/min) by 10,000 instead of by VE"
+    },
+    {
+      "id": "E",
+      "text": "70%, (VT - VD)/VT = 350/500"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Minute ventilation VE = VT x RR = 500 x 18 = 9000 mL/min, consistent with the measured value. Alveolar ventilation VA = (VT - VD) x RR = (500 - 150) x 18 = 350 x 18 = 6300 mL/min. The fraction reaching alveoli is VA/VE = 6300/9000 = 0.70, which equals (VT - VD)/VT = 350/500 = 70%. Thus 70% of each breath takes part in gas exchange and 30% is dead space.",
+  "explanation_incorrect": {
+    "A": "30% is VD/VT (150/500), the dead-space fraction; it is the complement of the fraction asked for.",
+    "B": "100% ignores dead space entirely, incorrectly assuming all ventilated gas reaches the alveoli.",
+    "C": "50% is half the correct alveolar fraction, a simple arithmetic error.",
+    "D": "63% comes from dividing VA (6300) by 10,000 rather than by VE (9000)."
+  },
+  "educationalObjective": "The alveolar fraction of ventilation equals (VT - VD)/VT = VA/VE; normal VT 500 with VD 150 gives 70%.",
+  "source": "Generated from 16. Respiratory.pdf - Physiology: Minute and alveolar ventilation"
+},
+{
+  "id": "res-067",
+  "subject": "Respiratory",
+  "major_topic": "Physiology",
+  "subtopic": "Minute and alveolar ventilation",
+  "difficulty": "easy",
+  "vignette": "A first-year medical student is learning the normal values for ventilation. She recalls that tidal volume is about 500 mL and dead space about 150 mL, but she is unsure of the normal resting respiratory rate range in adults.",
+  "question": "Which of the following is the normal resting respiratory rate in adults?",
+  "options": [
+    {
+      "id": "A",
+      "text": "5-10 breaths/min"
+    },
+    {
+      "id": "B",
+      "text": "12-20 breaths/min"
+    },
+    {
+      "id": "C",
+      "text": "22-30 breaths/min"
+    },
+    {
+      "id": "D",
+      "text": "35-45 breaths/min"
+    },
+    {
+      "id": "E",
+      "text": "1-5 breaths/min"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Normal respiratory rate in a resting adult is 12-20 breaths/min. Together with a normal tidal volume of about 500 mL/breath and dead space of about 150 mL/breath, this yields a minute ventilation of roughly 6-10 L/min. A rate outside this range at rest suggests hypoventilation or hyperventilation.",
+  "explanation_incorrect": {
+    "A": "5-10 breaths/min is below the normal resting range and would generally imply hypoventilation.",
+    "C": "22-30 breaths/min is tachypnea, above the normal resting range.",
+    "D": "35-45 breaths/min is marked tachypnea and is not a normal resting value.",
+    "E": "1-5 breaths/min is severe bradypnea, incompatible with a normal resting state."
+  },
+  "educationalObjective": "Normal adult resting respiratory rate is 12-20 breaths/min.",
+  "source": "Generated from 16. Respiratory.pdf - Physiology: Minute and alveolar ventilation"
+},
+{
+  "id": "res-068",
+  "subject": "Respiratory",
+  "major_topic": "Physiology",
+  "subtopic": "Minute and alveolar ventilation",
+  "difficulty": "medium",
+  "vignette": "A healthy man has a respiratory rate of 14 breaths/min, a tidal volume of 500 mL, and a physiologic dead space of 150 mL.",
+  "question": "What are his minute ventilation and alveolar ventilation, respectively?",
+  "options": [
+    {
+      "id": "A",
+      "text": "VE 4900 mL/min; VA 7000 mL/min, the two values swapped"
+    },
+    {
+      "id": "B",
+      "text": "VE 500 mL/min; VA 350 mL/min, per-breath volumes rather than per-minute volumes"
+    },
+    {
+      "id": "C",
+      "text": "VE 7000 mL/min; VA 2100 mL/min, using VD x RR for alveolar ventilation"
+    },
+    {
+      "id": "D",
+      "text": "VE 7000 mL/min; VA 4900 mL/min"
+    },
+    {
+      "id": "E",
+      "text": "VE 7000 mL/min; VA 350 mL/min, forgetting to multiply by RR"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Minute ventilation VE = VT x RR = 500 x 14 = 7000 mL/min. Alveolar ventilation VA = (VT - VD) x RR = (500 - 150) x 14 = 350 x 14 = 4900 mL/min. Minute ventilation is the total gas moved per minute, whereas alveolar ventilation subtracts the 150 mL per breath of dead space gas that never reaches the alveoli.",
+  "explanation_incorrect": {
+    "A": "The values are reversed: minute ventilation (7000) is larger than alveolar ventilation (4900).",
+    "B": "500 and 350 are per-breath volumes; neither is a per-minute ventilation.",
+    "C": "2100 mL/min is VD x RR, the dead-space ventilation, not alveolar ventilation.",
+    "E": "350 mL/min is the per-breath alveolar volume and omits multiplication by RR."
+  },
+  "educationalObjective": "VE = VT x RR and VA = (VT - VD) x RR; alveolar ventilation is always less than minute ventilation.",
+  "source": "Generated from 16. Respiratory.pdf - Physiology: Minute and alveolar ventilation"
+}
+]
