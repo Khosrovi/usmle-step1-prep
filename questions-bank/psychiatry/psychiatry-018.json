@@ -1,0 +1,84 @@
+[
+{
+  "id": "psy-009",
+  "subject": "Psychiatry",
+  "major_topic": "Psychology",
+  "subtopic": "Extinction",
+  "difficulty": "easy",
+  "vignette": "For months, a researcher has given a rat a food pellet each time it presses a lever, and the rat presses the lever frequently. The researcher now stops delivering food pellets regardless of what the rat does. Over several sessions, the rat's lever pressing gradually declines and eventually stops.",
+  "question": "What is the name of this behavioral process?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Positive punishment"
+    },
+    {
+      "id": "B",
+      "text": "Negative reinforcement"
+    },
+    {
+      "id": "C",
+      "text": "Stimulus generalization"
+    },
+    {
+      "id": "D",
+      "text": "Extinction"
+    },
+    {
+      "id": "E",
+      "text": "Positive reinforcement"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Extinction in operant conditioning is the discontinuation of reinforcement, after which the learned behavior eventually decreases and disappears. When food pellets are no longer delivered following lever presses, there is no longer any reinforcement maintaining the behavior, so lever pressing declines. Extinction can occur in operant or classical conditioning. It is not the same as punishment, which actively applies or removes a consequence to reduce behavior; extinction simply withholds the reinforcing consequence.",
+  "explanation_incorrect": {
+    "A": "Positive punishment decreases behavior by adding an aversive stimulus; no aversive stimulus is added here, only the removal of food.",
+    "B": "Negative reinforcement increases behavior by removing an aversive stimulus; here the behavior is decreasing and no aversive stimulus is involved.",
+    "C": "Stimulus generalization is the expression of a learned response to stimuli similar to the original conditioned stimulus; it does not describe a behavior fading after reinforcement stops.",
+    "E": "Positive reinforcement would require continuing to deliver a desired reward, which would maintain rather than eliminate the behavior."
+  },
+  "educationalObjective": "Operant extinction occurs when reinforcement is withheld, causing a previously learned behavior to gradually decline and disappear.",
+  "source": "Generated from 13. Psychiatry.pdf - Psychology: Extinction"
+},
+{
+  "id": "psy-010",
+  "subject": "Psychiatry",
+  "major_topic": "Psychology",
+  "subtopic": "Extinction",
+  "difficulty": "medium",
+  "vignette": "A dog has been conditioned to salivate when a bell is rung because for weeks the bell was always followed by food. The owner now rings the bell many times each day but never presents food afterward. Over the following weeks, the dog salivates less and less to the bell and eventually does not respond at all.",
+  "question": "Which process best explains the loss of the dog's salivation response?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Stimulus discrimination"
+    },
+    {
+      "id": "B",
+      "text": "Extinction"
+    },
+    {
+      "id": "C",
+      "text": "Negative punishment"
+    },
+    {
+      "id": "D",
+      "text": "Response generalization"
+    },
+    {
+      "id": "E",
+      "text": "Spontaneous recovery"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "In classical conditioning, extinction occurs when the conditioned stimulus (bell) is repeatedly presented without the unconditioned stimulus (food), so the conditioned response (salivation) gradually weakens and disappears. The owner's ringing the bell without food breaks the previously established pairing. Because extinction can occur in both operant and classical conditioning, the mechanism here is the same as withholding reinforcement - the association is no longer being strengthened. The response is lost gradually rather than immediately.",
+  "explanation_incorrect": {
+    "A": "Stimulus discrimination is the ability to distinguish between a conditioned stimulus and other similar stimuli that are not reinforced; it does not describe the fading of a response after the pairing stops.",
+    "C": "Negative punishment is an operant process in which a behavior decreases because a desired stimulus is removed; no reward is being taken from the dog here.",
+    "D": "Response generalization is the performance of responses similar to the original conditioned response; it would not produce a loss of salivation.",
+    "E": "Spontaneous recovery is the reappearance of an extinguished response after a rest period; it describes a return of the response, not its gradual disappearance."
+  },
+  "educationalObjective": "Classical extinction occurs when a conditioned stimulus is repeatedly presented without the unconditioned stimulus, causing the conditioned response to fade.",
+  "source": "Generated from 13. Psychiatry.pdf - Psychology: Extinction"
+}
+]

@@ -1,0 +1,289 @@
+[
+{
+  "id": "psy-181",
+  "subject": "Psychiatry",
+  "major_topic": "Pathology",
+  "subtopic": "Psychiatric emergencies",
+  "difficulty": "medium",
+  "vignette": "A 34-year-old woman with major depressive disorder taking sertraline is prescribed tramadol for postoperative pain. Over the next day she develops agitation, tremor, and sweating. Examination shows inducible clonus, hyperreflexia, hypertonia, hyperthermia, and profuse diaphoresis. Her mental status is fluctuating.",
+  "question": "Which of the following best explains this presentation and its management?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Neuroleptic malignant syndrome from dopamine blockade; treat with dantrolene"
+    },
+    {
+      "id": "B",
+      "text": "Serotonin syndrome from excess serotonergic activity; stop the agents, give benzodiazepines, and add cyproheptadine if no improvement"
+    },
+    {
+      "id": "C",
+      "text": "Hypertensive crisis from tyramine; treat with phentolamine"
+    },
+    {
+      "id": "D",
+      "text": "Acute dystonia from an unknown drug; treat with benztropine"
+    },
+    {
+      "id": "E",
+      "text": "Delirium tremens from alcohol withdrawal; treat with a longer-acting benzodiazepine"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Serotonin syndrome results from any drug that increases 5-HT, including SSRIs, SNRIs, TCAs, MAOIs, tramadol, and many others. It is defined by the 3 A's: increased neuromuscular activity (clonus, hyperreflexia, hypertonia, seizures), autonomic instability (hyperthermia, diaphoresis, diarrhea), and altered mental status. Management is discontinuation of the offending agents, benzodiazepines, and supportive care, with cyproheptadine (a 5-HT2 antagonist) if there is no improvement. Prevention requires avoiding simultaneous serotonergic drugs and allowing a washout period.",
+  "explanation_incorrect": {
+    "A": "Neuroleptic malignant syndrome is caused by antipsychotic dopamine blockade and features lead-pipe rigidity, fever, and elevated CK without clonus; this patient never received an antipsychotic.",
+    "C": "Hypertensive crisis is an MAOI-tyramine interaction causing severe hypertension and headache; it does not produce clonus and hyperreflexia from excess 5-HT.",
+    "D": "Acute dystonia presents hours to days after a drug with sudden muscle spasms or oculogyric crisis, not the autonomic instability and clonus seen here.",
+    "E": "Delirium tremens occurs 2-4 days after alcohol withdrawal and features hallucinations and autonomic hyperactivity, not drug-induced clonus and hyperreflexia."
+  },
+  "educationalObjective": "Serotonin syndrome from excess 5-HT causes the 3 A's (increased activity, autonomic instability, altered mental status) and is treated by stopping the drugs, benzodiazepines, and cyproheptadine if needed.",
+  "source": "Generated from 13. Psychiatry.pdf - Pathology: Psychiatric emergencies"
+},
+{
+  "id": "psy-182",
+  "subject": "Psychiatry",
+  "major_topic": "Pathology",
+  "subtopic": "Psychiatric emergencies",
+  "difficulty": "hard",
+  "vignette": "A 45-year-old man taking phenelzine for depression attends a dinner where he eats aged cheese and drinks red wine. Within an hour he develops a severe throbbing headache, palpitations, diaphoresis, and neck stiffness. Blood pressure is 210/120 mm Hg. He has no rigidity, clonus, or fever.",
+  "question": "Which of the following best describes the mechanism and treatment of this reaction?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Excess 5-HT stimulation of 5-HT2 receptors; treatment is cyproheptadine"
+    },
+    {
+      "id": "B",
+      "text": "Dopamine excess from MAOI use; treatment is haloperidol"
+    },
+    {
+      "id": "C",
+      "text": "Anticholinergic toxicity from a tricyclic; treatment is physostigmine"
+    },
+    {
+      "id": "D",
+      "text": "Tyramine displacing norepinephrine in the synaptic cleft with increased sympathetic stimulation; treatment is phentolamine"
+    },
+    {
+      "id": "E",
+      "text": "Dopamine receptor blockade causing malignant rigidity; treatment is dantrolene"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Hypertensive crisis occurs when a patient taking an MAOI ingests tyramine-rich foods (aged cheeses, cured meats, wine, chocolate) or when there is an insufficient washout period when switching to or from an MAOI. Tyramine displaces neurotransmitters such as norepinephrine from the synaptic cleft, leading to markedly increased sympathetic stimulation and severe hypertension. The classic treatment is phentolamine, an alpha blocker. The absence of clonus, rigidity, and fever helps distinguish this from serotonin syndrome and neuroleptic malignant syndrome.",
+  "explanation_incorrect": {
+    "A": "Excess 5-HT with clonus and autonomic instability is serotonin syndrome, not the pure hypertensive emergency with headache and no neuromuscular findings described here.",
+    "B": "MAOIs do not cause a dopamine-excess hypertensive crisis; haloperidol is not a treatment and could worsen blood pressure control.",
+    "C": "Anticholinergic toxicity causes dry mouth, dilated pupils, ileus, and urinary retention with toxidrome, not hypertension after a tyramine-rich meal.",
+    "E": "Dopamine receptor blockade causes neuroleptic malignant syndrome with lead-pipe rigidity and fever, which this patient does not have."
+  },
+  "educationalObjective": "MAOI plus tyramine-rich foods causes a hypertensive crisis by displacing norepinephrine and increasing sympathetic activity; phentolamine is the treatment.",
+  "source": "Generated from 13. Psychiatry.pdf - Pathology: Psychiatric emergencies"
+},
+{
+  "id": "psy-183",
+  "subject": "Psychiatry",
+  "major_topic": "Pathology",
+  "subtopic": "Psychiatric emergencies",
+  "difficulty": "medium",
+  "vignette": "A 52-year-old man with schizophrenia is admitted after 2 weeks of haloperidol therapy. He develops a high fever, profuse sweating, and generalized 'lead-pipe' muscle rigidity. Laboratory studies show elevated creatine kinase and myoglobinuria, and his vital signs are unstable. He is withdrawn and difficult to arouse.",
+  "question": "Which of the following is the most likely diagnosis and the most appropriate management?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Serotonin syndrome; give cyproheptadine"
+    },
+    {
+      "id": "B",
+      "text": "Acute dystonia; give benztropine"
+    },
+    {
+      "id": "C",
+      "text": "Neuroleptic malignant syndrome; stop the antipsychotic and give dantrolene and bromocriptine"
+    },
+    {
+      "id": "D",
+      "text": "Delirium tremens; give a longer-acting benzodiazepine"
+    },
+    {
+      "id": "E",
+      "text": "Lithium toxicity; begin hemodialysis"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Neuroleptic malignant syndrome is a life-threatening reaction to antipsychotics (typical more than atypical) with a genetic predisposition. It is remembered by FEVER: myoglobinuria, Fever, Encephalopathy, Vitals unstable, increased Enzymes such as CK, and muscle Rigidity described as lead pipe. Management is immediate discontinuation of the causative agent, dantrolene, dopaminergics such as bromocriptine or amantadine, and benzodiazepines. The lead-pipe rigidity and elevated CK distinguish it from serotonin syndrome, which features clonus and hyperreflexia.",
+  "explanation_incorrect": {
+    "A": "Serotonin syndrome has clonus, hyperreflexia, and diarrhea from serotonergic drugs, not lead-pipe rigidity and marked CK elevation from an antipsychotic.",
+    "B": "Acute dystonia causes sudden muscle spasms and oculogyric crisis hours to days after a drug but lacks fever, encephalopathy, and elevated CK.",
+    "D": "Delirium tremens follows alcohol withdrawal 2-4 days after the last drink; this patient has been on haloperidol and has no history of alcohol cessation.",
+    "E": "Lithium toxicity causes nausea, slurred speech, ataxia, and hyperreflexia in a patient taking lithium, not the fever and lead-pipe rigidity seen here."
+  },
+  "educationalObjective": "Neuroleptic malignant syndrome from antipsychotics presents with FEVER (fever, encephalopathy, vitals unstable, elevated CK, rigidity, myoglobinuria) and is treated by stopping the drug plus dantrolene and dopaminergics.",
+  "source": "Generated from 13. Psychiatry.pdf - Pathology: Psychiatric emergencies"
+},
+{
+  "id": "psy-184",
+  "subject": "Psychiatry",
+  "major_topic": "Pathology",
+  "subtopic": "Psychiatric emergencies",
+  "difficulty": "easy",
+  "vignette": "A 58-year-old man with a long history of alcohol use is hospitalized for pneumonia and has not had a drink for 3 days. He develops tremors, visual hallucinations, agitation, insomnia, nausea, tachycardia, and profuse diaphoresis. He is disoriented and psychomotorically agitated.",
+  "question": "Which of the following best fits this presentation, including its timing and treatment?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Delirium tremens occurring 2-4 days after the last drink; treat with longer-acting benzodiazepines"
+    },
+    {
+      "id": "B",
+      "text": "Alcoholic hallucinosis occurring 6-12 hours after the last drink; treat with antipsychotics"
+    },
+    {
+      "id": "C",
+      "text": "Wernicke encephalopathy occurring within hours of the last drink; give thiamine"
+    },
+    {
+      "id": "D",
+      "text": "Serotonin syndrome occurring 2-4 days after the last drink; give cyproheptadine"
+    },
+    {
+      "id": "E",
+      "text": "Acute dystonia occurring 2-4 days after the last drink; give diphenhydramine"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Delirium tremens is a severe form of alcohol withdrawal that occurs 2-4 days after the last drink, classically in a hospitalized patient who cannot drink. It causes altered mental status, hallucinations, autonomic hyperactivity, anxiety, seizures, tremors, psychomotor agitation, insomnia, and nausea. Treatment is with longer-acting benzodiazepines. The timeline (3 days), visual hallucinations, and autonomic hyperactivity make this the classic presentation.",
+  "explanation_incorrect": {
+    "B": "Alcoholic hallucinosis, usually visual, occurs around 24-36 hours after the last drink, not 6-12 hours, and does not explain the full autonomic and altered mental status picture here.",
+    "C": "Wernicke encephalopathy is a thiamine-deficiency syndrome with confusion, ataxia, and ophthalmoplegia, not the autonomic hyperactivity and hallucinosis of withdrawal.",
+    "D": "Serotonin syndrome is caused by serotonergic drugs and features clonus and hyperreflexia, not by alcohol cessation with visual hallucinations.",
+    "E": "Acute dystonia is a reaction to antipsychotics or metoclopramide with muscle spasms and oculogyric crisis, not a consequence of alcohol withdrawal."
+  },
+  "educationalObjective": "Delirium tremens is alcohol withdrawal 2-4 days after the last drink with hallucinations, autonomic hyperactivity, and seizures, treated with longer-acting benzodiazepines.",
+  "source": "Generated from 13. Psychiatry.pdf - Pathology: Psychiatric emergencies"
+},
+{
+  "id": "psy-185",
+  "subject": "Psychiatry",
+  "major_topic": "Pathology",
+  "subtopic": "Psychiatric emergencies",
+  "difficulty": "easy",
+  "vignette": "A 22-year-old man receives metoclopramide for nausea. Several hours later he develops sudden painful muscle spasms in his neck, stiffness of the tongue, and a fixed upward deviation of his eyes. He is afebrile and has normal vital signs and a normal creatine kinase.",
+  "question": "Which of the following is the most likely diagnosis and the appropriate treatment?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Neuroleptic malignant syndrome; give dantrolene"
+    },
+    {
+      "id": "B",
+      "text": "Delirium tremens; give a longer-acting benzodiazepine"
+    },
+    {
+      "id": "C",
+      "text": "Tardive dyskinesia; discontinue the drug and observe"
+    },
+    {
+      "id": "D",
+      "text": "Serotonin syndrome; give cyproheptadine"
+    },
+    {
+      "id": "E",
+      "text": "Acute dystonia; give benztropine or diphenhydramine"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Acute dystonia is an extrapyramidal reaction caused by antipsychotics (typical more than atypical), anticonvulsants such as carbamazepine, and metoclopramide. It appears hours to days after drug use with sudden muscle spasms, stiffness, and oculogyric crisis, and can progress to laryngospasm requiring intubation. It is treated with the anticholinergic benztropine or the antihistamine diphenhydramine. The normal CK and vital signs exclude neuroleptic malignant syndrome.",
+  "explanation_incorrect": {
+    "A": "Neuroleptic malignant syndrome has fever, lead-pipe rigidity, altered mental status, and elevated CK, none of which are present in this afebrile patient with normal CK.",
+    "B": "Delirium tremens requires alcohol withdrawal 2-4 days after the last drink and causes hallucinations and autonomic instability, not isolated muscle spasms.",
+    "C": "Tardive dyskinesia is a late, often irreversible choreoathetoid movement disorder after chronic antipsychotic use, not an acute reaction hours after one dose.",
+    "D": "Serotonin syndrome produces clonus, hyperreflexia, autonomic instability, and altered mental status from serotonergic drugs, not an isolated oculogyric crisis."
+  },
+  "educationalObjective": "Acute dystonia from antipsychotics, carbamazepine, or metoclopramide causes muscle spasms and oculogyric crisis hours to days after use and is treated with benztropine or diphenhydramine.",
+  "source": "Generated from 13. Psychiatry.pdf - Pathology: Psychiatric emergencies"
+},
+{
+  "id": "psy-186",
+  "subject": "Psychiatry",
+  "major_topic": "Pathology",
+  "subtopic": "Psychiatric emergencies",
+  "difficulty": "hard",
+  "vignette": "A 60-year-old man with bipolar disorder takes lithium. He is started on lisinopril and hydrochlorothiazide for hypertension and ibuprofen for joint pain. He develops nausea, vomiting, slurred speech, ataxia, and hyperreflexia, and laboratory testing shows nephrogenic diabetes insipidus. His lithium level is elevated.",
+  "question": "Which of the following best explains this event and the appropriate management?",
+  "options": [
+    {
+      "id": "A",
+      "text": "An acute increase in lithium dose; simply lower the dose and observe"
+    },
+    {
+      "id": "B",
+      "text": "Acute dystonia from lithium; give diphenhydramine"
+    },
+    {
+      "id": "C",
+      "text": "Reduced renal lithium clearance from ACE inhibitors, thiazides, and NSAIDs; stop lithium, hydrate with isotonic saline, and consider hemodialysis"
+    },
+    {
+      "id": "D",
+      "text": "Neuroleptic malignant syndrome; give dantrolene and bromocriptine"
+    },
+    {
+      "id": "E",
+      "text": "Serotonin syndrome; give cyproheptadine"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Lithium has a narrow therapeutic window, and toxicity results from increased dosage or decreased renal elimination, as occurs with acute kidney injury or drugs such as ACE inhibitors, thiazide diuretics, and NSAIDs. Manifestations include nausea, vomiting, slurred speech, hyperreflexia, seizures, ataxia, and nephrogenic diabetes insipidus. Management is to discontinue lithium, hydrate aggressively with isotonic sodium chloride, and consider hemodialysis in severe cases.",
+  "explanation_incorrect": {
+    "A": "This patient did not increase his lithium dose; his toxicity arose from drugs that reduce renal clearance, and simple observation is inadequate for significant toxicity.",
+    "B": "Acute dystonia produces muscle spasms and oculogyric crisis, not slurred speech, ataxia, hyperreflexia, and nephrogenic diabetes insipidus from lithium.",
+    "D": "Neuroleptic malignant syndrome features fever, lead-pipe rigidity, and elevated CK from antipsychotics, which is not the picture here.",
+    "E": "Serotonin syndrome features clonus and autonomic instability from serotonergic agents; the offending drugs here reduce lithium clearance rather than raising 5-HT."
+  },
+  "educationalObjective": "Lithium toxicity due to reduced renal clearance from ACE inhibitors, thiazides, or NSAIDs causes neurologic signs and nephrogenic diabetes insipidus and is managed by stopping lithium, saline hydration, and possible hemodialysis.",
+  "source": "Generated from 13. Psychiatry.pdf - Pathology: Psychiatric emergencies"
+},
+{
+  "id": "psy-187",
+  "subject": "Psychiatry",
+  "major_topic": "Pathology",
+  "subtopic": "Psychiatric emergencies",
+  "difficulty": "hard",
+  "vignette": "A 30-year-old woman is brought to the emergency department after an intentional overdose of amitriptyline. She is sedated with dilated pupils, dry mouth, and urinary retention. Electrocardiography shows prolongation of the QT and QRS intervals, and she has a generalized seizure. Blood pressure is 80/50 mm Hg.",
+  "question": "Which of the following best explains the cardiotoxicity and the appropriate management?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Excess 5-HT activity; give cyproheptadine"
+    },
+    {
+      "id": "B",
+      "text": "Sodium channel inhibition causing conduction delays and arrhythmia; give supportive care, monitor the ECG, and give sodium bicarbonate and activated charcoal"
+    },
+    {
+      "id": "C",
+      "text": "GABA-A overactivation; give flumazenil"
+    },
+    {
+      "id": "D",
+      "text": "NMDA receptor antagonism; give phentolamine"
+    },
+    {
+      "id": "E",
+      "text": "Dopamine receptor blockade; give dantrolene"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Tricyclic antidepressant overdose causes sedation and anticholinergic effects plus prolonged QT and QRS intervals. The 'tricyclic's' are convulsions, coma, and cardiotoxicity, with arrhythmia due to sodium channel inhibition. Management is supportive care, continuous ECG monitoring, sodium bicarbonate to prevent arrhythmia, and activated charcoal. The widening QRS and hypotension in this patient reflect sodium channel blockade.",
+  "explanation_incorrect": {
+    "A": "Excess 5-HT causes serotonin syndrome with clonus and hyperreflexia; cyproheptadine would not address TCA-induced QRS prolongation and cardiotoxicity.",
+    "C": "GABA-A overactivation is seen with benzodiazepines or barbiturates, and flumazenil would not reverse sodium channel-mediated conduction delays.",
+    "D": "NMDA antagonism is the mechanism of PCP or ketamine and does not explain QT/QRS prolongation; phentolamine is for hypertensive crisis.",
+    "E": "Dopamine blockade causes neuroleptic malignant syndrome with rigidity and fever, not the anticholinergic and cardiac conduction findings of TCA overdose."
+  },
+  "educationalObjective": "TCA overdose causes sedation, anticholinergic effects, and sodium channel-mediated QT/QRS prolongation with arrhythmia; treatment is supportive care, ECG monitoring, sodium bicarbonate, and activated charcoal.",
+  "source": "Generated from 13. Psychiatry.pdf - Pathology: Psychiatric emergencies"
+}
+]

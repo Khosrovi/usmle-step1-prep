@@ -1,0 +1,125 @@
+[
+{
+  "id": "psy-235",
+  "subject": "Psychiatry",
+  "major_topic": "Pharmacology",
+  "subtopic": "Buspirone",
+  "difficulty": "easy",
+  "vignette": "A 35-year-old woman with generalized anxiety disorder is prescribed a medication that does not act at benzodiazepine receptors and has no sedative, addictive, or tolerance-producing properties.",
+  "question": "What is the mechanism of action of this drug?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Positive allosteric modulation of GABA-A receptors"
+    },
+    {
+      "id": "B",
+      "text": "Selective serotonin reuptake inhibition"
+    },
+    {
+      "id": "C",
+      "text": "Nonselective monoamine oxidase inhibition"
+    },
+    {
+      "id": "D",
+      "text": "Partial agonism at 5-HT1A receptors"
+    },
+    {
+      "id": "E",
+      "text": "Antagonism at alpha-1 adrenergic receptors"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Buspirone is a partial agonist at 5-HT1A receptors. This serotonergic mechanism produces its anxiolytic effect in generalized anxiety disorder and is entirely distinct from the GABAergic mechanism of benzodiazepines. Because it does not act on GABA receptors, it lacks the sedation, addiction, and tolerance associated with benzodiazepines.",
+  "explanation_incorrect": {
+    "A": "Positive allosteric modulation of GABA-A receptors is the benzodiazepine mechanism, not buspirone's.",
+    "B": "Selective 5-HT reuptake inhibition is the SSRI mechanism; buspirone is not a reuptake inhibitor.",
+    "C": "Nonselective monoamine oxidase inhibition is the MAOI mechanism, not buspirone's.",
+    "E": "Alpha-1 antagonism is seen with prazosin and as a TCA adverse effect, not with buspirone."
+  },
+  "educationalObjective": "Buspirone is a partial 5-HT1A receptor agonist used for generalized anxiety disorder.",
+  "source": "Generated from 13. Psychiatry.pdf - Pharmacology: Buspirone"
+},
+{
+  "id": "psy-236",
+  "subject": "Psychiatry",
+  "major_topic": "Pharmacology",
+  "subtopic": "Buspirone",
+  "difficulty": "easy",
+  "vignette": "A 41-year-old man with generalized anxiety disorder has a history of alcohol use disorder. His physician wants an anxiolytic that will not potentiate alcohol and that does not cause sedation, addiction, or tolerance.",
+  "question": "Which medication best fits these requirements?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Buspirone"
+    },
+    {
+      "id": "B",
+      "text": "Diazepam"
+    },
+    {
+      "id": "C",
+      "text": "Phenobarbital"
+    },
+    {
+      "id": "D",
+      "text": "Alprazolam"
+    },
+    {
+      "id": "E",
+      "text": "Chlordiazepoxide"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Buspirone treats generalized anxiety disorder and does not cause sedation, addiction, or tolerance, nor does it interact with alcohol. This makes it preferable to benzodiazepines and barbiturates in a patient with alcohol use disorder, since those agents produce additive CNS depression with alcohol and carry dependence risk.",
+  "explanation_incorrect": {
+    "B": "Diazepam is a benzodiazepine that causes sedation and dependence and has additive effects with alcohol.",
+    "C": "Phenobarbital is a barbiturate with pronounced alcohol interaction and high abuse potential.",
+    "D": "Alprazolam is a benzodiazepine with additive alcohol effects and a significant dependence risk.",
+    "E": "Chlordiazepoxide is a benzodiazepine used for alcohol withdrawal, not a noninteracting anxiolytic."
+  },
+  "educationalObjective": "Buspirone is a nonsedating, nonaddictive anxiolytic for GAD that does not interact with alcohol, unlike benzodiazepines and barbiturates.",
+  "source": "Generated from 13. Psychiatry.pdf - Pharmacology: Buspirone"
+},
+{
+  "id": "psy-237",
+  "subject": "Psychiatry",
+  "major_topic": "Pharmacology",
+  "subtopic": "Buspirone",
+  "difficulty": "medium",
+  "vignette": "A 26-year-old woman has had chronic, excessive worry about work and family for 8 months and is diagnosed with generalized anxiety disorder. She is started on buspirone and asks when she can expect to feel its full anxiety-relieving benefit.",
+  "question": "Which of the following best describes the onset of buspirone's anxiolytic effect?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Within minutes of the first dose, similar to sublingual lorazepam"
+    },
+    {
+      "id": "B",
+      "text": "Immediately, because it acts directly on GABA receptors"
+    },
+    {
+      "id": "C",
+      "text": "After 1–2 weeks of continued use"
+    },
+    {
+      "id": "D",
+      "text": "After 4–8 weeks, like tricyclic antidepressants"
+    },
+    {
+      "id": "E",
+      "text": "Only after approximately 3 months of continuous therapy"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Buspirone begins to take effect after 1–2 weeks, so it is not useful for acute anxiety relief. Its delayed onset reflects its 5-HT1A partial agonist mechanism rather than direct GABAergic action. Patients should be counseled that it is a scheduled, not as-needed, medication.",
+  "explanation_incorrect": {
+    "A": "Rapid onset within minutes is characteristic of benzodiazepines such as lorazepam, not buspirone.",
+    "B": "Buspirone does not act on GABA receptors and its effect is not immediate.",
+    "D": "A 4–8 week onset is typical of antidepressants, not buspirone.",
+    "E": "Three months is far longer than buspirone's 1–2 week onset of effect."
+  },
+  "educationalObjective": "Buspirone requires 1–2 weeks of continued dosing to take effect and is not appropriate for acute anxiety.",
+  "source": "Generated from 13. Psychiatry.pdf - Pharmacology: Buspirone"
+}
+]

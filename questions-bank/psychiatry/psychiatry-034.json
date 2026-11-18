@@ -1,0 +1,166 @@
+[
+{
+  "id": "psy-256",
+  "subject": "Psychiatry",
+  "major_topic": "Pharmacology",
+  "subtopic": "Monoamine oxidase inhibitors",
+  "difficulty": "medium",
+  "vignette": "A 42-year-old woman has atypical depression with mood reactivity, hypersomnia, hyperphagia, and long-standing interpersonal rejection sensitivity. She has not responded to SSRIs, and her psychiatrist considers phenelzine. She asks how the drug works.",
+  "question": "Which of the following best describes the mechanism of phenelzine?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Inhibition of 5-HT and norepinephrine reuptake transporters"
+    },
+    {
+      "id": "B",
+      "text": "Selective inhibition of monoamine oxidase type B"
+    },
+    {
+      "id": "C",
+      "text": "Nonselective inhibition of monoamine oxidase, raising norepinephrine, 5-HT, and dopamine levels"
+    },
+    {
+      "id": "D",
+      "text": "Antagonism of presynaptic alpha2-adrenergic autoreceptors"
+    },
+    {
+      "id": "E",
+      "text": "Inhibition of norepinephrine and dopamine reuptake only"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Phenelzine, like tranylcypromine and isocarboxazid, is a nonselective MAO inhibitor. MAO normally degrades amine neurotransmitters, so its inhibition raises levels of norepinephrine, 5-HT, and dopamine. MAOIs are effective in atypical depression and anxiety but are not first line because of their risk profile. Selegiline is the selective MAO-B inhibitor used in Parkinson disease.",
+  "explanation_incorrect": {
+    "A": "Blocking 5-HT and norepinephrine reuptake transporters is the mechanism of SNRIs and TCAs, not MAOIs; MAOIs act by preventing enzymatic degradation.",
+    "B": "Selective MAO-B inhibition is the property of selegiline, used in Parkinson disease; phenelzine is nonselective.",
+    "D": "Alpha2-autoreceptor antagonism is the mechanism of mirtazapine, which increases norepinephrine and 5-HT release; it is not how MAOIs work.",
+    "E": "Inhibition of norepinephrine and dopamine reuptake is bupropion; MAOIs raise amine levels by blocking degradation, not reuptake, and they also affect 5-HT."
+  },
+  "educationalObjective": "Nonselective MAOIs increase norepinephrine, 5-HT, and dopamine by inhibiting their enzymatic breakdown, whereas selegiline selectively inhibits MAO-B.",
+  "source": "Generated from 13. Psychiatry.pdf - Pharmacology: Monoamine oxidase inhibitors"
+},
+{
+  "id": "psy-257",
+  "subject": "Psychiatry",
+  "major_topic": "Pharmacology",
+  "subtopic": "Monoamine oxidase inhibitors",
+  "difficulty": "easy",
+  "vignette": "A 38-year-old man taking phenelzine for anxiety attends a dinner where he eats aged cheese and cured meats and drinks red wine. Within an hour he develops a severe headache, palpitations, diaphoresis, and a markedly elevated blood pressure.",
+  "question": "Which mechanism best explains this reaction?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Direct vasoconstriction caused by excess serotonin"
+    },
+    {
+      "id": "B",
+      "text": "Dietary tyramine displacing norepinephrine from synaptic vesicles, producing excessive sympathetic stimulation"
+    },
+    {
+      "id": "C",
+      "text": "An allergic reaction to tyramine with histamine release"
+    },
+    {
+      "id": "D",
+      "text": "Inhibition of catecholamine reuptake causing dopamine excess"
+    },
+    {
+      "id": "E",
+      "text": "An autoimmune reaction to proteins in aged cheese"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "This is a tyramine-induced hypertensive crisis, a classic MAOI adverse effect. Tyramine is present in aged cheeses, cured meats, wine, and chocolate and is normally broken down by intestinal and hepatic MAO. When MAO is inhibited, tyramine enters the circulation and displaces norepinephrine from presynaptic vesicles, producing exaggerated sympathetic stimulation and severe hypertension. It can be treated with phentolamine.",
+  "explanation_incorrect": {
+    "A": "The crisis is driven by norepinephrine, not excess serotonin; serotonin excess produces serotonin syndrome, a different emergency with clonus and hyperthermia.",
+    "C": "This is not an allergy or histamine-mediated reaction; it is a direct pharmacologic effect of tyramine on monoamine stores.",
+    "D": "MAOIs do not primarily block catecholamine reuptake, and the reaction results from tyramine displacing stored norepinephrine, not from dopamine excess.",
+    "E": "This is not an autoimmune process; the temporal link to tyramine-rich foods in a patient taking an MAOI makes tyramine the clear cause."
+  },
+  "educationalObjective": "In patients taking MAOIs, tyramine-rich foods can precipitate a hypertensive crisis by displacing norepinephrine and increasing sympathetic stimulation.",
+  "source": "Generated from 13. Psychiatry.pdf - Pharmacology: Monoamine oxidase inhibitors"
+},
+{
+  "id": "psy-258",
+  "subject": "Psychiatry",
+  "major_topic": "Pharmacology",
+  "subtopic": "Monoamine oxidase inhibitors",
+  "difficulty": "hard",
+  "vignette": "A 29-year-old woman with depression is started on tranylcypromine. Two days later she receives meperidine for severe pain and rapidly develops clonus, hyperreflexia, hyperthermia, diaphoresis, and agitation.",
+  "question": "Which of the following best explains this reaction and its management?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A hypertensive crisis from MAOI therapy; administer phentolamine"
+    },
+    {
+      "id": "B",
+      "text": "Dopamine excess from MAO-B inhibition; administer haloperidol"
+    },
+    {
+      "id": "C",
+      "text": "Anticholinergic toxicity from the combination; administer physostigmine"
+    },
+    {
+      "id": "D",
+      "text": "Serotonin syndrome from combining an MAOI with meperidine; discontinue the offending agents and give benzodiazepines and supportive care, adding cyproheptadine if there is no improvement"
+    },
+    {
+      "id": "E",
+      "text": "Neuroleptic malignant syndrome; administer dantrolene"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Meperidine is contraindicated with MAOIs, as are SSRIs, TCAs, St. John's wort, dextromethorphan, pseudoephedrine, and linezolid, because the combination can precipitate serotonin syndrome. The picture combines neuromuscular hyperexcitability (clonus, hyperreflexia), autonomic instability (hyperthermia, diaphoresis), and altered mental status. Management is to stop the offending drugs, give benzodiazepines and supportive care, and add cyproheptadine, a 5-HT2 antagonist, if there is no improvement. Prevention requires an adequate washout.",
+  "explanation_incorrect": {
+    "A": "A hypertensive crisis causes severe headache and high blood pressure from tyramine, not clonus and hyperreflexia; phentolamine treats that crisis, not this presentation.",
+    "B": "Tranylcypromine is nonselective, and this is not dopamine excess; haloperidol would be inappropriate and could worsen the clinical picture.",
+    "C": "Anticholinergic toxicity causes dry mouth, urinary retention, and hyperthermia without clonus and hyperreflexia; physostigmine is not the treatment here.",
+    "E": "Neuroleptic malignant syndrome is linked to antipsychotics, with lead-pipe rigidity, fever, and elevated CK; it is not caused by an MAOI-meperidine combination."
+  },
+  "educationalObjective": "Combining an MAOI with meperidine or another serotonergic agent can cause serotonin syndrome, managed by stopping the drugs, benzodiazepines, supportive care, and cyproheptadine if needed.",
+  "source": "Generated from 13. Psychiatry.pdf - Pharmacology: Monoamine oxidase inhibitors"
+},
+{
+  "id": "psy-259",
+  "subject": "Psychiatry",
+  "major_topic": "Pharmacology",
+  "subtopic": "Monoamine oxidase inhibitors",
+  "difficulty": "medium",
+  "vignette": "A 45-year-old man has been taking phenelzine for atypical depression. His psychiatrist plans to switch him to sertraline for a different symptom profile and also intends to eventually have him resume a normal, unrestricted diet.",
+  "question": "What is the minimum interval required after stopping the MAOI before starting sertraline or before lifting dietary tyramine restrictions?",
+  "options": [
+    {
+      "id": "A",
+      "text": "2 weeks"
+    },
+    {
+      "id": "B",
+      "text": "2 days"
+    },
+    {
+      "id": "C",
+      "text": "24 hours"
+    },
+    {
+      "id": "D",
+      "text": "6 weeks"
+    },
+    {
+      "id": "E",
+      "text": "No washout is needed if the MAOI is simply discontinued"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Because MAO inhibition is irreversible and enzyme activity must be regenerated, one must wait 2 weeks after stopping an MAOI before starting a serotonergic drug such as sertraline, to avoid serotonin syndrome, and before discontinuing dietary tyramine restrictions, to avoid a tyramine-induced hypertensive crisis. This 2-week washout is a high-yield safety rule.",
+  "explanation_incorrect": {
+    "B": "Two days is far too short; MAO enzyme activity has not regenerated, and an early switch risks both serotonin syndrome and hypertensive crisis.",
+    "C": "Twenty-four hours is inadequate because it does not allow replenishment of MAO activity, leaving the patient vulnerable to serious interactions.",
+    "D": "Six weeks is unnecessarily long; the standard recommended washout after stopping an MAOI is 2 weeks.",
+    "E": "Simply stopping the drug does not immediately restore MAO activity, so continuing a serotonergic drug or tyramine during that window remains dangerous."
+  },
+  "educationalObjective": "A 2-week washout after stopping an MAOI is required before starting serotonergic drugs or resuming a normal diet to prevent serotonin syndrome and hypertensive crisis.",
+  "source": "Generated from 13. Psychiatry.pdf - Pharmacology: Monoamine oxidase inhibitors"
+}
+]

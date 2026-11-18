@@ -1,0 +1,84 @@
+[
+{
+  "id": "psy-118",
+  "subject": "Psychiatry",
+  "major_topic": "Pathology",
+  "subtopic": "Anxiety disorders overview",
+  "difficulty": "easy",
+  "vignette": "A medical student reviews the diagnostic category of anxiety disorders and wants to know which conditions are included and what unifies them.",
+  "question": "Which of the following best describes anxiety disorders and the conditions they include?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Disorders caused solely by a general medical condition such as hyperthyroidism"
+    },
+    {
+      "id": "B",
+      "text": "Inappropriate fear/worry incongruent with stressors, including panic disorder, phobias, GAD, selective mutism, illness anxiety disorder, OCD, and PTSD"
+    },
+    {
+      "id": "C",
+      "text": "Exclusively disorders of mood with no anxiety symptoms"
+    },
+    {
+      "id": "D",
+      "text": "Substance-induced states only"
+    },
+    {
+      "id": "E",
+      "text": "Only adjustment disorders triggered by psychosocial stress"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "Anxiety disorders involve inappropriate experiences of fear and worry and their physical manifestations that are incongruent with the magnitude of the stressors. They include panic disorder, phobias, generalized anxiety disorder, selective mutism, illness anxiety disorder, OCD, and PTSD. Symptoms must not be attributable to another medical condition or substance use.",
+  "explanation_incorrect": {
+    "A": "Symptoms must NOT be attributable to a general medical condition such as hyperthyroidism; that would be a separate diagnosis.",
+    "C": "Anxiety disorders are not mood disorders; they are defined by inappropriate fear and worry.",
+    "D": "They are not substance-induced; symptoms attributable to substances are excluded from this category.",
+    "E": "Anxiety disorders are not limited to adjustment disorders, which are a distinct diagnostic category."
+  },
+  "educationalObjective": "Anxiety disorders feature fear/worry incongruent with stressors and include panic disorder, phobias, GAD, selective mutism, illness anxiety disorder, OCD, and PTSD.",
+  "source": "Generated from 13. Psychiatry.pdf - Pathology: Anxiety disorders overview"
+},
+{
+  "id": "psy-119",
+  "subject": "Psychiatry",
+  "major_topic": "Pathology",
+  "subtopic": "Anxiety disorders overview",
+  "difficulty": "medium",
+  "vignette": "A 35-year-old woman has 2 months of anxiety, palpitations, and tremulousness. She uses no substances. Laboratory testing shows a suppressed TSH and an elevated free T4, consistent with hyperthyroidism.",
+  "question": "Which of the following best explains why her symptoms would NOT be classified as a primary anxiety disorder?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Because anxiety disorders only occur in men"
+    },
+    {
+      "id": "B",
+      "text": "Because her symptom duration is shorter than 6 months"
+    },
+    {
+      "id": "C",
+      "text": "Because her symptoms are attributable to a general medical condition (hyperthyroidism)"
+    },
+    {
+      "id": "D",
+      "text": "Because she lacks a panic attack history"
+    },
+    {
+      "id": "E",
+      "text": "Because anxiety disorders require psychotic features"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Anxiety disorders require that symptoms are not attributable to another medical condition or substance use. This patient's anxiety and physical symptoms are explained by hyperthyroidism (suppressed TSH, elevated free T4), so a primary anxiety disorder is not diagnosed; treating the thyroid disorder addresses the symptoms. Duration alone or absence of panic attacks does not exclude an anxiety disorder.",
+  "explanation_incorrect": {
+    "A": "Anxiety disorders occur in both sexes and are not limited to men.",
+    "B": "Some anxiety disorders such as panic disorder do not require 6 months; the exclusion here is the underlying medical cause.",
+    "D": "A panic attack history is not required for all anxiety disorders, for example GAD.",
+    "E": "Anxiety disorders do not require psychotic features; those would suggest a psychotic disorder."
+  },
+  "educationalObjective": "Anxiety symptoms due to a general medical condition such as hyperthyroidism are excluded from primary anxiety disorder diagnoses.",
+  "source": "Generated from 13. Psychiatry.pdf - Pathology: Anxiety disorders overview"
+}
+]

@@ -1,0 +1,207 @@
+[
+{
+  "id": "psy-251",
+  "subject": "Psychiatry",
+  "major_topic": "Pharmacology",
+  "subtopic": "Tricyclic antidepressants",
+  "difficulty": "easy",
+  "vignette": "A 48-year-old woman with major depressive disorder is started on amitriptyline. Her physician explains that it acts on both serotonin and norepinephrine systems.",
+  "question": "What is the mechanism of action of tricyclic antidepressants?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Selective inhibition of 5-HT reuptake"
+    },
+    {
+      "id": "B",
+      "text": "Antagonism of alpha-2 adrenergic autoreceptors"
+    },
+    {
+      "id": "C",
+      "text": "Inhibition of monoamine oxidase"
+    },
+    {
+      "id": "D",
+      "text": "Inhibition of both 5-HT and norepinephrine reuptake"
+    },
+    {
+      "id": "E",
+      "text": "Positive allosteric modulation of GABA-A receptors"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "TCAs inhibit reuptake of both 5-HT and norepinephrine into presynaptic neurons, raising their synaptic levels. This dual reuptake inhibition, similar to that of SNRIs, underlies their antidepressant efficacy but also contributes to their broad adverse-effect burden when combined with their receptor-blocking properties.",
+  "explanation_incorrect": {
+    "A": "Selective 5-HT reuptake inhibition is the SSRI mechanism.",
+    "B": "Alpha-2 autoreceptor antagonism is the mechanism of mirtazapine.",
+    "C": "Monoamine oxidase inhibition is the mechanism of MAOIs.",
+    "E": "GABA-A positive allosteric modulation is the benzodiazepine and barbiturate mechanism."
+  },
+  "educationalObjective": "TCAs inhibit reuptake of both serotonin and norepinephrine.",
+  "source": "Generated from 13. Psychiatry.pdf - Pharmacology: Tricyclic antidepressants"
+},
+{
+  "id": "psy-252",
+  "subject": "Psychiatry",
+  "major_topic": "Pharmacology",
+  "subtopic": "Tricyclic antidepressants",
+  "difficulty": "hard",
+  "vignette": "A physician is considering tricyclic antidepressants for several patients: one with chronic neuropathic pain, one with migraine, one with obsessive-compulsive disorder, and one with nocturnal enuresis.",
+  "question": "Which of the following TCA-indication pairings is correct?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Amitriptyline — nocturnal enuresis; imipramine — obsessive-compulsive disorder"
+    },
+    {
+      "id": "B",
+      "text": "Clomipramine — obsessive-compulsive disorder; imipramine — nocturnal enuresis; amitriptyline — migraine prophylaxis and neuropathic pain"
+    },
+    {
+      "id": "C",
+      "text": "Imipramine — obsessive-compulsive disorder; clomipramine — migraine prophylaxis"
+    },
+    {
+      "id": "D",
+      "text": "Nortriptyline — fibromyalgia; amitriptyline — Parkinson disease"
+    },
+    {
+      "id": "E",
+      "text": "Doxepin — diabetic neuropathy; clomipramine — nocturnal enuresis"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "TCAs treat major depressive disorder, peripheral neuropathy, chronic neuropathic pain, and migraine prophylaxis. Clomipramine is specifically used for OCD, and imipramine for nocturnal enuresis. Amitriptyline is commonly used for neuropathic pain and migraine prophylaxis, making this the fully correct set of pairings.",
+  "explanation_incorrect": {
+    "A": "Imipramine, not amitriptyline, is used for nocturnal enuresis, and clomipramine, not amitriptyline, is used for OCD.",
+    "C": "Clomipramine rather than imipramine is the TCA used for OCD; the two agents are effectively swapped here.",
+    "D": "Fibromyalgia is an SNRI indication, and TCAs are not used to treat Parkinson disease.",
+    "E": "Clomipramine is used for OCD rather than enuresis, and doxepin is not the classic agent for diabetic neuropathy."
+  },
+  "educationalObjective": "TCAs are used for depression, neuropathic pain, and migraine prophylaxis, with clomipramine for OCD and imipramine for nocturnal enuresis.",
+  "source": "Generated from 13. Psychiatry.pdf - Pharmacology: Tricyclic antidepressants"
+},
+{
+  "id": "psy-253",
+  "subject": "Psychiatry",
+  "major_topic": "Pharmacology",
+  "subtopic": "Tricyclic antidepressants",
+  "difficulty": "medium",
+  "vignette": "An 82-year-old woman with depression and mild cognitive impairment is being considered for a TCA. Her physician wants to choose an agent less likely to cause confusion and other anticholinergic effects.",
+  "question": "Which statement about tertiary versus secondary TCAs is correct?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Tertiary amines such as amitriptyline have more anticholinergic effects than secondary amines such as nortriptyline, which are better tolerated in older adults"
+    },
+    {
+      "id": "B",
+      "text": "Secondary amines such as amitriptyline have more anticholinergic effects than tertiary amines such as nortriptyline"
+    },
+    {
+      "id": "C",
+      "text": "All TCAs have equivalent anticholinergic effects regardless of chemical structure"
+    },
+    {
+      "id": "D",
+      "text": "Nortriptyline is a tertiary amine and is more sedating than amitriptyline"
+    },
+    {
+      "id": "E",
+      "text": "Anticholinergic effects are not a meaningful concern with TCAs in older adults"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Tertiary amine TCAs such as amitriptyline have more anticholinergic effects than secondary amine TCAs such as nortriptyline. Because anticholinergic effects can cause confusion and hallucinations in older adults, secondary amines like nortriptyline are better tolerated in this population. This is a key consideration when a TCA must be used in an elderly patient.",
+  "explanation_incorrect": {
+    "B": "This reverses the relationship: amitriptyline is a tertiary amine and is more anticholinergic than nortriptyline.",
+    "C": "Anticholinergic burden differs markedly between tertiary and secondary TCAs.",
+    "D": "Nortriptyline is a secondary amine and is less sedating and less anticholinergic than amitriptyline.",
+    "E": "Anticholinergic effects are a major concern in older adults taking TCAs and can cause confusion."
+  },
+  "educationalObjective": "Tertiary TCAs (amitriptyline) are more anticholinergic than secondary TCAs (nortriptyline), which are better tolerated in older adults.",
+  "source": "Generated from 13. Psychiatry.pdf - Pharmacology: Tricyclic antidepressants"
+},
+{
+  "id": "psy-254",
+  "subject": "Psychiatry",
+  "major_topic": "Pharmacology",
+  "subtopic": "Tricyclic antidepressants",
+  "difficulty": "hard",
+  "vignette": "A 45-year-old woman is brought to the emergency department after an intentional overdose of amitriptyline. She has a widened QRS interval, seizures, and impaired consciousness.",
+  "question": "Which statement regarding TCA toxicity and its management is correct?",
+  "options": [
+    {
+      "id": "A",
+      "text": "TCA cardiotoxicity results from potassium channel blockade and is treated with intravenous potassium chloride"
+    },
+    {
+      "id": "B",
+      "text": "The seizures and coma are due to TCA-induced GABA agonism and are managed with benzodiazepines alone"
+    },
+    {
+      "id": "C",
+      "text": "Cardiotoxicity is mediated by calcium channel blockade and managed with calcium gluconate"
+    },
+    {
+      "id": "D",
+      "text": "TCA toxicity is managed with activated charcoal only, with no specific cardiac therapy available"
+    },
+    {
+      "id": "E",
+      "text": "TCA toxicity causes cardiotoxicity through Na+ channel inhibition with arrhythmia, along with convulsions and coma; intravenous NaHCO3 is given to prevent arrhythmia"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "In TCA overdose, Na+ channel blockade causes cardiotoxicity with arrhythmias and a widened QRS, summarized by the '3 Cs': convulsions, coma, and cardiotoxicity; respiratory depression and hyperpyrexia can also occur. Intravenous sodium bicarbonate (NaHCO3) is given to prevent arrhythmia by countering sodium channel blockade and altering drug protein binding. This is a classic toxicology-management association.",
+  "explanation_incorrect": {
+    "A": "TCA cardiotoxicity is due to Na+ channel blockade, not potassium channel blockade, and is not treated with potassium chloride.",
+    "B": "Seizures and coma are not caused by GABA agonism, and benzodiazepines alone do not address the life-threatening cardiac toxicity.",
+    "C": "The mechanism is Na+ channel blockade, not calcium channel blockade, so calcium gluconate is not the treatment.",
+    "D": "Although activated charcoal may be used, a specific cardiac therapy, namely NaHCO3, is required."
+  },
+  "educationalObjective": "TCA toxicity causes Na+ channel–mediated cardiotoxicity with convulsions and coma; NaHCO3 is used to prevent arrhythmia.",
+  "source": "Generated from 13. Psychiatry.pdf - Pharmacology: Tricyclic antidepressants"
+},
+{
+  "id": "psy-255",
+  "subject": "Psychiatry",
+  "major_topic": "Pharmacology",
+  "subtopic": "Tricyclic antidepressants",
+  "difficulty": "medium",
+  "vignette": "A 39-year-old man started on imipramine complains of drowsiness, a dry mouth, and dizziness on standing. He is also found to have a rapid heart rate and urinary hesitancy.",
+  "question": "Which receptor-blocking actions best explain this patient's symptoms?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Dopamine D2 blockade and 5-HT2A blockade"
+    },
+    {
+      "id": "B",
+      "text": "Beta-1 blockade and muscarinic M2 agonism"
+    },
+    {
+      "id": "C",
+      "text": "Alpha-1 adrenergic blockade, muscarinic (anticholinergic) blockade, and H1 histamine blockade causing sedation"
+    },
+    {
+      "id": "D",
+      "text": "GABA-A agonism and opioid receptor activation"
+    },
+    {
+      "id": "E",
+      "text": "NMDA receptor antagonism and alpha-2 agonism"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "TCAs cause sedation through H1 antihistamine effects, postural hypotension through alpha-1 blockade, and atropine-like anticholinergic effects including tachycardia, urinary retention, and dry mouth. His dizziness on standing reflects alpha-1 blockade, while the dry mouth, tachycardia, and urinary hesitancy reflect muscarinic blockade, and drowsiness reflects H1 blockade.",
+  "explanation_incorrect": {
+    "A": "D2 and 5-HT2A blockade are antipsychotic mechanisms, not the cause of this TCA side-effect picture.",
+    "B": "TCAs are not beta-1 blockers, and these effects do not arise from M2 receptor agonism.",
+    "D": "GABA-A agonism and opioid receptor activation are not TCA mechanisms.",
+    "E": "NMDA antagonism and alpha-2 agonism do not explain this anticholinergic and alpha-1 blocking profile."
+  },
+  "educationalObjective": "TCA adverse effects arise from alpha-1 blockade (postural hypotension), anticholinergic blockade (tachycardia, urinary retention, dry mouth), and H1 blockade (sedation).",
+  "source": "Generated from 13. Psychiatry.pdf - Pharmacology: Tricyclic antidepressants"
+}
+]

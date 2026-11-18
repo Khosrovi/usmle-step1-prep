@@ -1,0 +1,166 @@
+[
+{
+  "id": "psy-238",
+  "subject": "Psychiatry",
+  "major_topic": "Pharmacology",
+  "subtopic": "Antidepressants overview and MAO mechanisms",
+  "difficulty": "medium",
+  "vignette": "A 45-year-old man starts an antidepressant for major depressive disorder. After 2 weeks he reports no improvement and wants to stop the medication, convinced that it does not work.",
+  "question": "Which statement best informs his expectation about antidepressant efficacy?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Antidepressants typically produce full benefit within the first 24–48 hours"
+    },
+    {
+      "id": "B",
+      "text": "It normally takes 4–8 weeks for antidepressants to show appreciable effect"
+    },
+    {
+      "id": "C",
+      "text": "Benefit is immediate but reliably wanes after 2 weeks in most patients"
+    },
+    {
+      "id": "D",
+      "text": "Appreciable effects require at least 6 months of continuous therapy"
+    },
+    {
+      "id": "E",
+      "text": "Antidepressants work only when combined with a monoamine oxidase inhibitor"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "It normally takes 4–8 weeks for antidepressants to show appreciable effect. Early nonresponse at 2 weeks is therefore expected and is not a reason to discontinue therapy. Counseling patients about this delayed onset improves adherence and prevents premature discontinuation.",
+  "explanation_incorrect": {
+    "A": "Antidepressants do not produce their full benefit within 24–48 hours.",
+    "C": "Benefit is not immediate, nor does it reliably wane at 2 weeks.",
+    "D": "Six months is considerably longer than the typical 4–8 week onset of appreciable effect.",
+    "E": "Antidepressants are effective as monotherapy and do not require combination with an MAO inhibitor."
+  },
+  "educationalObjective": "Antidepressants generally require 4–8 weeks to produce appreciable clinical improvement.",
+  "source": "Generated from 13. Psychiatry.pdf - Pharmacology: Antidepressants overview and MAO mechanisms"
+},
+{
+  "id": "psy-239",
+  "subject": "Psychiatry",
+  "major_topic": "Pharmacology",
+  "subtopic": "Antidepressants overview and MAO mechanisms",
+  "difficulty": "medium",
+  "vignette": "A researcher is studying how monoamine oxidase inhibitors raise synaptic monoamine levels. She notes that under normal conditions an enzyme on the outer mitochondrial membrane of the presynaptic terminal breaks down norepinephrine and serotonin that have been taken back up into the neuron.",
+  "question": "Which statement best describes the normal role of monoamine oxidase (MAO)?",
+  "options": [
+    {
+      "id": "A",
+      "text": "MAO synthesizes norepinephrine from dopamine inside the synaptic vesicle"
+    },
+    {
+      "id": "B",
+      "text": "MAO blocks the reuptake transporters for 5-HT and norepinephrine"
+    },
+    {
+      "id": "C",
+      "text": "MAO is a postsynaptic receptor for norepinephrine and serotonin"
+    },
+    {
+      "id": "D",
+      "text": "MAO degrades monoamines only within the synaptic cleft after release"
+    },
+    {
+      "id": "E",
+      "text": "MAO metabolizes norepinephrine and 5-HT in the presynaptic neuron after reuptake"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "Monoamine oxidase is a mitochondrial enzyme in presynaptic terminals that metabolizes monoamines, including norepinephrine and 5-HT, after they are taken back up into the neuron. Inhibiting MAO therefore raises the levels of these amine neurotransmitters as well as dopamine, which is the basis of MAOI antidepressant action. This presynaptic degradative role is distinct from reuptake blockade or receptor binding.",
+  "explanation_incorrect": {
+    "A": "MAO does not synthesize norepinephrine; dopamine beta-hydroxylase performs that conversion.",
+    "B": "Blocking reuptake is the mechanism of TCAs, SNRIs, and SSRIs, not of MAO.",
+    "C": "MAO is a metabolic enzyme, not a postsynaptic receptor.",
+    "D": "MAO acts intracellularly in the presynaptic terminal, not within the synaptic cleft."
+  },
+  "educationalObjective": "MAO metabolizes norepinephrine and 5-HT within the presynaptic neuron after reuptake; its inhibition raises synaptic monoamine levels.",
+  "source": "Generated from 13. Psychiatry.pdf - Pharmacology: Antidepressants overview and MAO mechanisms"
+},
+{
+  "id": "psy-240",
+  "subject": "Psychiatry",
+  "major_topic": "Pharmacology",
+  "subtopic": "Antidepressants overview and MAO mechanisms",
+  "difficulty": "hard",
+  "vignette": "A 38-year-old woman taking phenelzine for atypical depression eats a meal containing aged cheese and red wine and develops a severe headache, palpitations, and markedly elevated blood pressure. She is later switched to an SSRI without an adequate washout period.",
+  "question": "Which of the following best explains both her reaction to the meal and the danger of the medication switch?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Tyramine is a direct 5-HT receptor agonist, and SSRIs reverse the inhibition of MAO"
+    },
+    {
+      "id": "B",
+      "text": "Aged cheese contains tyramine, which is normally degraded by SSRIs; stopping the MAOI alone causes serotonin syndrome"
+    },
+    {
+      "id": "C",
+      "text": "Phenelzine is a selective MAO-B inhibitor that raises dopamine, and SSRIs block dopamine metabolism"
+    },
+    {
+      "id": "D",
+      "text": "Tyramine is normally metabolized by intestinal MAO; with MAO inhibition it enters the circulation and triggers norepinephrine release, causing hypertensive crisis, and starting an SSRI within 2 weeks risks serotonin syndrome"
+    },
+    {
+      "id": "E",
+      "text": "The reaction reflects MAOI-induced histamine release, and no washout period is needed when switching to an SSRI"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "Nonselective MAO inhibition, as with phenelzine, prevents breakdown of tyramine in the gut and liver. Dietary tyramine from aged cheese and red wine then enters the circulation and displaces norepinephrine from presynaptic vesicles, producing a hypertensive crisis. Because MAOIs also raise synaptic serotonin, starting a serotonergic drug such as an SSRI within 2 weeks can precipitate serotonin syndrome, which is why a 2-week washout is required.",
+  "explanation_incorrect": {
+    "A": "Tyramine is not a direct 5-HT agonist, and SSRIs do not reverse MAO inhibition.",
+    "B": "Tyramine is metabolized by MAO, not SSRIs, and stopping the MAOI alone does not cause serotonin syndrome; the danger is starting a serotonergic drug too soon.",
+    "C": "Phenelzine is nonselective rather than a selective MAO-B inhibitor, and the interaction is not through dopamine metabolism.",
+    "E": "The reaction is not histamine-mediated, and a 2-week washout is essential before starting a serotonergic agent."
+  },
+  "educationalObjective": "MAOIs can cause tyramine-induced hypertensive crisis and require a 2-week washout before serotonergic drugs to avoid serotonin syndrome.",
+  "source": "Generated from 13. Psychiatry.pdf - Pharmacology: Antidepressants overview and MAO mechanisms"
+},
+{
+  "id": "psy-241",
+  "subject": "Psychiatry",
+  "major_topic": "Pharmacology",
+  "subtopic": "Antidepressants overview and MAO mechanisms",
+  "difficulty": "easy",
+  "vignette": "A 57-year-old woman with major depressive disorder is prescribed an antidepressant that raises both norepinephrine and serotonin transmission not by blocking reuptake, but by blocking an inhibitory autoreceptor on the presynaptic neuron.",
+  "question": "What is the mechanism of this drug?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Inhibition of 5-HT reuptake only"
+    },
+    {
+      "id": "B",
+      "text": "Inhibition of both 5-HT and norepinephrine reuptake"
+    },
+    {
+      "id": "C",
+      "text": "Antagonism of presynaptic alpha-2 adrenergic autoreceptors, increasing norepinephrine and 5-HT release"
+    },
+    {
+      "id": "D",
+      "text": "Reversible inhibition of monoamine oxidase A"
+    },
+    {
+      "id": "E",
+      "text": "Agonism at 5-HT1A receptors"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Mirtazapine is an alpha-2 adrenergic receptor antagonist. By blocking the inhibitory alpha-2 autoreceptor on presynaptic noradrenergic neurons it increases norepinephrine release and, via heteroreceptor effects, increases 5-HT release as well. This mechanism distinguishes it from the reuptake inhibitors and MAOIs and explains its broad monoaminergic enhancement.",
+  "explanation_incorrect": {
+    "A": "Selective 5-HT reuptake inhibition is the SSRI mechanism.",
+    "B": "Combined 5-HT and norepinephrine reuptake inhibition is the TCA and SNRI mechanism.",
+    "D": "Monoamine oxidase A inhibition is the MAOI mechanism.",
+    "E": "5-HT1A receptor agonism is the buspirone mechanism."
+  },
+  "educationalObjective": "Mirtazapine increases norepinephrine and serotonin by blocking presynaptic alpha-2 adrenergic autoreceptors.",
+  "source": "Generated from 13. Psychiatry.pdf - Pharmacology: Antidepressants overview and MAO mechanisms"
+}
+]

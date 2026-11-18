@@ -1,0 +1,166 @@
+[
+{
+  "id": "psy-001",
+  "subject": "Psychiatry",
+  "major_topic": "Psychology",
+  "subtopic": "Classical and operant conditioning",
+  "difficulty": "easy",
+  "vignette": "In a classic experiment, a researcher repeatedly rings a bell just before presenting food to a hungry dog. Initially the dog salivates only when the food is presented. After many pairings, the dog salivates when the bell is rung alone, even with no food in sight.",
+  "question": "Which type of learning does this scenario illustrate?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Operant conditioning"
+    },
+    {
+      "id": "B",
+      "text": "Negative reinforcement"
+    },
+    {
+      "id": "C",
+      "text": "Classical conditioning"
+    },
+    {
+      "id": "D",
+      "text": "Extinction"
+    },
+    {
+      "id": "E",
+      "text": "Punishment"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "Classical conditioning is learning in which a natural, involuntary response (salivation) comes to be elicited by a conditioned stimulus (the bell) that was previously presented together with an unconditioned stimulus (food). Before conditioning, food is the unconditioned stimulus that naturally triggers salivation and the bell is a neutral stimulus. After repeated pairing, the bell alone becomes the conditioned stimulus and triggers salivation, the conditioned response. This is the classic Pavlov dog experiment and illustrates that classical conditioning generally involves involuntary responses.",
+  "explanation_incorrect": {
+    "A": "Operant conditioning involves a voluntary action that is strengthened or weakened by the reward or punishment it produces; here the dog's salivation is involuntary and is not controlled by a consequence.",
+    "B": "Negative reinforcement is an operant process in which a behavior increases because an aversive stimulus is removed; no behavior is being increased by removal of an aversive stimulus here.",
+    "D": "Extinction is the disappearance of a learned response after reinforcement or the stimulus pairing is discontinued; here the bell-food pairing is still being applied and a response is being acquired, not eliminated.",
+    "E": "Punishment is an operant process that decreases the frequency of a behavior by adding an aversive stimulus or removing a reward; salivation to the bell is increasing, not decreasing."
+  },
+  "educationalObjective": "Classical conditioning pairs a neutral stimulus with an unconditioned stimulus so that the neutral stimulus becomes a conditioned stimulus eliciting an involuntary response.",
+  "source": "Generated from 13. Psychiatry.pdf - Psychology: Classical and operant conditioning"
+},
+{
+  "id": "psy-002",
+  "subject": "Psychiatry",
+  "major_topic": "Psychology",
+  "subtopic": "Classical and operant conditioning",
+  "difficulty": "medium",
+  "vignette": "A laboratory rat is placed in a chamber with a lever. Each time the rat presses the lever, a food pellet is delivered. Over time, the rat presses the lever with increasing frequency and continues to do so because the action produces a reward.",
+  "question": "Which learning process best explains the rat's increasing lever pressing?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Operant conditioning"
+    },
+    {
+      "id": "B",
+      "text": "Classical conditioning"
+    },
+    {
+      "id": "C",
+      "text": "Habituation"
+    },
+    {
+      "id": "D",
+      "text": "Extinction"
+    },
+    {
+      "id": "E",
+      "text": "Transference"
+    }
+  ],
+  "correct_answer": "A",
+  "explanation_correct": "Operant conditioning is learning in which a particular action is emitted because it produces a punishment or reward; it usually involves voluntary responses. The rat's lever press is a voluntary behavior that is strengthened by the food reward that follows it. This is the prototype of Skinner's operant conditioning, in which behavior is shaped and maintained by its consequences. The key distinction from classical conditioning is that the response is voluntary and controlled by what follows it, not by a preceding stimulus pairing.",
+  "explanation_incorrect": {
+    "B": "Classical conditioning links two stimuli so that a previously neutral stimulus comes to elicit an involuntary response; the rat's lever press is a voluntary action controlled by its consequence.",
+    "C": "Habituation is a decreased response to a repeated, benign stimulus and is not a form of learning driven by reward.",
+    "D": "Extinction is the loss of a learned behavior when reinforcement stops; here reinforcement (food) is being delivered and the behavior is increasing.",
+    "E": "Transference is the unconscious redirection of feelings about important people onto another person and is a psychoanalytic concept, not a learning paradigm."
+  },
+  "educationalObjective": "Operant conditioning shapes voluntary behavior through its consequences, with rewards increasing the frequency of the action.",
+  "source": "Generated from 13. Psychiatry.pdf - Psychology: Classical and operant conditioning"
+},
+{
+  "id": "psy-003",
+  "subject": "Psychiatry",
+  "major_topic": "Psychology",
+  "subtopic": "Classical and operant conditioning",
+  "difficulty": "medium",
+  "vignette": "A 24-year-old man begins to feel nauseated and break into a cold sweat whenever he sees the waiting room of a dental clinic, even before any procedure begins. He reports that several earlier visits involved painful procedures and the strong odor of dental materials, which he now associates with the clinic.",
+  "question": "Which statement best describes the process that produced this patient's reaction?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A voluntary behavior is strengthened because it is followed by a reward"
+    },
+    {
+      "id": "B",
+      "text": "A behavior decreases because it is followed by an aversive stimulus"
+    },
+    {
+      "id": "C",
+      "text": "An aversive stimulus is removed following a behavior, increasing that behavior"
+    },
+    {
+      "id": "D",
+      "text": "A neutral stimulus elicits a response after being paired with an unconditioned stimulus"
+    },
+    {
+      "id": "E",
+      "text": "A desired reward is removed following a behavior, decreasing that behavior"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "This is classical conditioning: the dental clinic (originally a neutral stimulus) was repeatedly paired with painful procedures and odors (unconditioned stimuli) that naturally caused nausea and sweating (unconditioned responses). Through repeated pairing the clinic became a conditioned stimulus that now elicits the same involuntary, anxiety-like response on its own. Classical conditioning elicits involuntary responses and is the mechanism behind many phobias and conditioned aversions. Note that the reaction is triggered by a preceding stimulus, not maintained by a consequence.",
+  "explanation_incorrect": {
+    "A": "This describes positive reinforcement, an operant process in which a voluntary behavior increases because it is followed by a desired reward; the patient's reaction is involuntary.",
+    "B": "This describes positive punishment, in which a behavior decreases after an aversive stimulus is added; it does not explain a stimulus-elicited nausea response.",
+    "C": "This describes negative reinforcement, in which a behavior increases because an aversive stimulus is removed; no removal of an aversive stimulus is described here.",
+    "E": "This describes negative punishment, in which a behavior decreases because a desired reward is removed; the scenario involves acquisition of a response, not its reduction."
+  },
+  "educationalObjective": "Classical conditioning occurs when a neutral stimulus is repeatedly paired with an unconditioned stimulus until it alone elicits an involuntary conditioned response.",
+  "source": "Generated from 13. Psychiatry.pdf - Psychology: Classical and operant conditioning"
+},
+{
+  "id": "psy-004",
+  "subject": "Psychiatry",
+  "major_topic": "Psychology",
+  "subtopic": "Classical and operant conditioning",
+  "difficulty": "hard",
+  "vignette": "A psychology researcher makes two observations. First, a dog salivates when a bell is rung because the bell had previously been presented with food. Second, a child consistently completes her homework each evening because her parents then allow her to play video games. The researcher wants to classify each observation according to the type of learning involved.",
+  "question": "Which of the following correctly matches each observation with its learning process?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Dog - operant conditioning; child - classical conditioning"
+    },
+    {
+      "id": "B",
+      "text": "Dog - classical conditioning; child - operant conditioning"
+    },
+    {
+      "id": "C",
+      "text": "Dog - negative reinforcement; child - classical conditioning"
+    },
+    {
+      "id": "D",
+      "text": "Dog - operant conditioning; child - punishment"
+    },
+    {
+      "id": "E",
+      "text": "Dog - classical conditioning; child - punishment"
+    }
+  ],
+  "correct_answer": "B",
+  "explanation_correct": "The dog's salivation to a bell paired with food is classical conditioning: a neutral stimulus (bell) is associated with an unconditioned stimulus (food) until it elicits an involuntary response (salivation). The child's homework completion is operant conditioning: a voluntary action is performed because it produces a reward (video game time), so the behavior is strengthened by its consequence. The crucial discriminator is whether the response is involuntary and elicited by a preceding stimulus pairing (classical) or voluntary and controlled by a consequence that follows it (operant). Pavlov's dogs and Skinner's lever-pressing rats are the classic illustrations of these two categories.",
+  "explanation_incorrect": {
+    "A": "This reverses the two categories: the dog's salivation is an involuntary, stimulus-elicited response (classical), while the child's homework is a voluntary, consequence-controlled action (operant).",
+    "C": "Negative reinforcement is an operant quadrant, not a fit for the dog's stimulus-elicited salivation; the child's behavior is reinforced with a reward, not by removal of an aversive stimulus.",
+    "D": "The dog's salivation is not operant behavior, and the child's behavior is increasing due to a reward, not decreasing due to punishment.",
+    "E": "The child's homework is being positively reinforced by a reward, not punished; punishment would decrease the behavior."
+  },
+  "educationalObjective": "Classical conditioning produces involuntary responses to a learned stimulus, whereas operant conditioning shapes voluntary actions through rewards or punishments that follow them.",
+  "source": "Generated from 13. Psychiatry.pdf - Psychology: Classical and operant conditioning"
+}
+]

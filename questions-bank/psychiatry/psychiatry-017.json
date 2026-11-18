@@ -1,0 +1,125 @@
+[
+{
+  "id": "psy-111",
+  "subject": "Psychiatry",
+  "major_topic": "Pathology",
+  "subtopic": "Electroconvulsive therapy",
+  "difficulty": "medium",
+  "vignette": "A 45-year-old man with severe major depression has failed multiple antidepressants and psychotherapy. He is catatonic, mute, and refuses food. His psychiatric team is considering a rapid-acting somatic treatment.",
+  "question": "Which of the following is a recognized indication for this treatment?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Mild intermittent depressive symptoms"
+    },
+    {
+      "id": "B",
+      "text": "Chronic, stable generalized anxiety disorder"
+    },
+    {
+      "id": "C",
+      "text": "Uncomplicated attention deficit hyperactivity disorder"
+    },
+    {
+      "id": "D",
+      "text": "Refractory depression with catatonia"
+    },
+    {
+      "id": "E",
+      "text": "Remote history of a single panic attack"
+    }
+  ],
+  "correct_answer": "D",
+  "explanation_correct": "ECT is a rapid-acting treatment for refractory depression, depression with psychotic symptoms, catatonia, and acute suicidality. This patient has both refractory depression and catatonia, making ECT appropriate. It is not used for mild, uncomplicated, or stable conditions that respond to first-line therapies.",
+  "explanation_incorrect": {
+    "A": "Mild intermittent depression is treated with psychotherapy or antidepressants, not a treatment requiring anesthesia and seizure induction.",
+    "B": "Stable GAD is managed with CBT and SSRIs or SNRIs; ECT is not an indication.",
+    "C": "ADHD is treated with stimulants and behavioral therapy, not ECT.",
+    "E": "A single remote panic attack does not warrant ECT; panic disorder is treated with CBT and SSRIs."
+  },
+  "educationalObjective": "ECT is a rapid-acting option for refractory depression, psychotic depression, catatonia, and acute suicidality.",
+  "source": "Generated from 13. Psychiatry.pdf - Pathology: Electroconvulsive therapy"
+},
+{
+  "id": "psy-112",
+  "subject": "Psychiatry",
+  "major_topic": "Pathology",
+  "subtopic": "Electroconvulsive therapy",
+  "difficulty": "hard",
+  "vignette": "A 60-year-old woman undergoes a course of ECT for psychotic depression. The procedure is performed under anesthesia with neuromuscular blockade. In the recovery period she has a headache and disorientation, and she later notices difficulty forming new memories and recalling recent events.",
+  "question": "Which of the following best explains the mechanism and expected adverse effects of this treatment?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It induces a tonic-clonic seizure; memory deficits are usually permanent"
+    },
+    {
+      "id": "B",
+      "text": "It delivers focused magnetic stimulation; amnesia is not a typical effect"
+    },
+    {
+      "id": "C",
+      "text": "It causes a grand mal seizure without anesthesia; headache is the only adverse effect"
+    },
+    {
+      "id": "D",
+      "text": "It works by neurotransmitter reuptake inhibition; disorientation is rare"
+    },
+    {
+      "id": "E",
+      "text": "It induces a tonic-clonic seizure under anesthesia with neuromuscular blockade; partial anterograde/retrograde amnesia typically resolves within 6 months"
+    }
+  ],
+  "correct_answer": "E",
+  "explanation_correct": "ECT induces a tonic-clonic seizure under anesthesia with neuromuscular blockade, which reduces the risk of physical injury. Adverse effects include disorientation, headache, and partial anterograde and retrograde amnesia that usually resolves within 6 months. This differs from repetitive transcranial magnetic stimulation, which does not induce seizures and lacks prominent amnestic effects.",
+  "explanation_incorrect": {
+    "A": "The seizure is induced correctly, but the amnesia of ECT is typically partial and resolves within 6 months, not usually permanent.",
+    "B": "Focused magnetic stimulation describes TMS, not ECT; ECT induces a seizure and can cause amnesia.",
+    "C": "ECT is performed under anesthesia with neuromuscular blockade, and amnesia and disorientation, not just headache, are recognized effects.",
+    "D": "Reuptake inhibition is the mechanism of antidepressants such as SSRIs, not the seizure-based mechanism of ECT."
+  },
+  "educationalObjective": "ECT induces a tonic-clonic seizure under anesthesia with neuromuscular blockade; disorientation, headache, and partial antero/retrograde amnesia usually resolve within 6 months.",
+  "source": "Generated from 13. Psychiatry.pdf - Pathology: Electroconvulsive therapy"
+},
+{
+  "id": "psy-113",
+  "subject": "Psychiatry",
+  "major_topic": "Pathology",
+  "subtopic": "Electroconvulsive therapy",
+  "difficulty": "easy",
+  "vignette": "A 70-year-old man and a 29-year-old pregnant woman are each being evaluated for ECT. The team notes that neither has an absolute contraindication and that the procedure can be adapted safely.",
+  "question": "Which of the following statements about ECT is most accurate?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It has several absolute contraindications including advanced age"
+    },
+    {
+      "id": "B",
+      "text": "It is unsafe during pregnancy and contraindicated in older adults"
+    },
+    {
+      "id": "C",
+      "text": "It has no absolute contraindications and can be safe in pregnancy and older adults"
+    },
+    {
+      "id": "D",
+      "text": "It requires discontinuation of all cardiac medications"
+    },
+    {
+      "id": "E",
+      "text": "It is only approved for patients younger than 18 years"
+    }
+  ],
+  "correct_answer": "C",
+  "explanation_correct": "ECT has no absolute contraindications and is considered safe in pregnant individuals and older adults. Relative risks are managed with appropriate anesthesia and medical optimization. Age and pregnancy alone are not reasons to withhold this potentially life-saving treatment when it is indicated.",
+  "explanation_incorrect": {
+    "A": "ECT has no absolute contraindications; advanced age is not a contraindication.",
+    "B": "ECT can be used safely in pregnancy and in older adults when properly administered.",
+    "D": "Cardiac medications are not uniformly discontinued; management is individualized rather than requiring cessation of all such drugs.",
+    "E": "ECT is not restricted to minors; it is used in adults, including older adults."
+  },
+  "educationalObjective": "ECT has no absolute contraindications and can be used safely in pregnant patients and older adults.",
+  "source": "Generated from 13. Psychiatry.pdf - Pathology: Electroconvulsive therapy"
+}
+]
